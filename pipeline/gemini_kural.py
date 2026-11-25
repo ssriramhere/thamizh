@@ -129,16 +129,30 @@ async def one(client, model: str, k: dict, sem: asyncio.Semaphore, stats: dict) 
     async with sem:
         last = []
         for attempt in range(3):
-            resp = await client.aio.models.generate_content(
-                model=model,
-                contents=prompt_for(k) + (f"\nYour previous answer had these problems, fix them: {last}" if last else ""),
-                config=types.GenerateContentConfig(
-                    system_instruction=INSTRUCTIONS,
-                    response_mime_type="application/json",
-                    response_schema=SCHEMA,
-                    temperature=0.2,
-                ),
-            )
+            resp = None
+            for tries in range(6):
+                try:
+                    resp = await client.aio.models.generate_content(
+                        model=model,
+                        contents=prompt_for(k) + (f"\nYour previous answer had these problems, fix them: {last}" if last else ""),
+                        config=types.GenerateContentConfig(
+                            system_instruction=INSTRUCTIONS,
+                            response_mime_type="application/json",
+                            response_schema=SCHEMA,
+                            temperature=0.2,
+                        ),
+                    )
+                    break
+                except Exception as e:  # rate limits and transient errors: back off and retry
+                    msg = str(e)
+                    if "429" in msg or "RESOURCE_EXHAUSTED" in msg or "503" in msg or "500" in msg:
+                        await asyncio.sleep(min(60, 5 * 2 ** tries))
+                        continue
+                    last = [f"request failed: {msg[:200]}"]
+                    break
+            if resp is None:
+                last = last or ["rate limited; gave up"]
+                continue
             u = resp.usage_metadata
             if u:
                 stats["in"] += u.prompt_token_count or 0
@@ -188,12 +202,15 @@ def parse_range(spec: str) -> list[int]:
 
 
 async def main() -> None:
+    global OUT
     ap = argparse.ArgumentParser()
     ap.add_argument("range")
     ap.add_argument("--workers", type=int, default=6)
     ap.add_argument("--skip-existing", action="store_true")
     ap.add_argument("--model", default=os.environ.get("GEMINI_MODEL", "gemini-3.5-flash"))
+    ap.add_argument("--out", default=str(OUT), help="output folder (default data/ai/kural)")
     args = ap.parse_args()
+    OUT = Path(args.out)
 
     from google import genai
     client = genai.Client(vertexai=True,
