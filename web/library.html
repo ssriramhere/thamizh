@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Library · Thamizh.ai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Serif+Tamil:wght@400;600;700&family=Catamaran:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div data-site-header data-crumbs="<strong>Library</strong>"></div>
+<main class="wrap" style="padding-top:48px">
+  <h1 style="font-size:clamp(32px,4.5vw,46px)">Library</h1>
+  <p class="lead" style="margin-top:12px">Tirukkuṟaḷ is open. The Caṅkam anthologies come next.</p>
+  <section class="card" style="margin-top:32px;display:flex;flex-wrap:wrap;gap:16px 32px;align-items:center">
+    <div style="flex:1 1 360px">
+      <span lang="ta" style="font-size:30px;font-weight:700">திருக்குறள்</span>
+      <h2 style="margin-top:4px">Tirukkuṟaḷ</h2>
+      <p class="muted" style="margin-top:6px">1,330 couplets in 133 chapters of ten, in three books. Every couplet scanned as a kuṟaḷ veṇpā.</p>
+    </div>
+    <div style="display:flex;gap:12px;flex-wrap:wrap">
+      <a class="btn" href="/kural?n=1">Start at the first Kuṟaḷ</a>
+      <a class="btn ghost" href="/kural?today">Today's Kuṟaḷ</a>
+    </div>
+  </section>
+  <div id="books"><p class="pending" style="margin-top:28px">Loading chapters…</p></div>
+</main>
+<div data-site-footer></div>
+<script src="/assets/site.js"></script>
+<script>
+(async function () {
+  const el = document.getElementById('books');
+  try {
+    const idx = await Th.json('/data/kural/index.json');
+    const names = { 1: 'Book of virtue', 2: 'Book of wealth', 3: 'Book of love' };
+    el.innerHTML = idx.books.map((b) =>
+      '<section class="book"><div class="book-head"><span class="ta" lang="ta">' + Th.esc(b.ta) + '</span>' +
+      '<span style="font-weight:700">' + Th.esc(b.tr) + '</span><span class="muted">' + names[b.n] + ' · chapters ' + b.chapters[0].n + '–' + b.chapters[b.chapters.length - 1].n + '</span></div>' +
+      '<div class="chapters">' + b.chapters.map((c) =>
+        '<a href="/chapter?c=' + c.n + '"><span class="num">' + c.n + '</span><span><span class="ta" lang="ta">' + Th.esc(c.ta) + '</span><br><span class="tr">' + Th.esc(c.tr) + '</span></span></a>'
+      ).join('') + '</div></section>'
+    ).join('');
+  } catch (e) {
+    el.innerHTML = '<p class="pending" style="margin-top:28px">Could not load the chapters.</p>';
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter · Tirukkuṟaḷ · Thamizh.ai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Serif+Tamil:wght@400;600;700&family=Catamaran:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div data-site-header data-crumbs="<a href='/library'>Library</a> › Tirukkuṟaḷ › <strong id='crumb'>Chapter</strong>"></div>
+<main class="wrap" style="padding-top:40px">
+  <div class="pager">
+    <div>
+      <p class="eyebrow" id="kicker">Chapter</p>
+      <h1 id="title" lang="ta" style="font-family:var(--ta);font-size:clamp(30px,4vw,42px);margin-top:6px"></h1>
+      <p id="sub" class="muted" style="margin-top:6px;font-size:17px"></p>
+    </div>
+    <div style="display:flex;gap:8px">
+      <a class="iconbtn" id="prev" aria-label="Previous chapter" href="#"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></a>
+      <a class="iconbtn" id="next" aria-label="Next chapter" href="#"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg></a>
+    </div>
+  </div>
+  <div class="couplets" id="list"><p class="pending">Loading…</p></div>
+</main>
+<div data-site-footer></div>
+<script src="/assets/site.js"></script>
+<script>
+(async function () {
+  const c = Math.min(133, Math.max(1, parseInt(new URLSearchParams(location.search).get('c'), 10) || 1));
+  const [idx, data] = await Promise.all([Th.json('/data/kural/index.json'), Th.json('/data/kural/' + c + '.json')]);
+  let ch, book;
+  idx.books.forEach((b) => b.chapters.forEach((x) => { if (x.n === c) { ch = x; book = b; } }));
+  document.title = ch.tr + ' · Tirukkuṟaḷ · Thamizh.ai';
+  document.getElementById('crumb').textContent = 'Chapter ' + c;
+  document.getElementById('kicker').textContent = 'Chapter ' + c + ' · ' + book.tr;
+  document.getElementById('title').textContent = ch.ta;
+  document.getElementById('sub').textContent = ch.tr + ' · couplets ' + ch.first + '–' + ch.last;
+  const prev = document.getElementById('prev'), next = document.getElementById('next');
+  if (c > 1) prev.href = '/chapter?c=' + (c - 1); else prev.setAttribute('aria-disabled', 'true');
+  if (c < 133) next.href = '/chapter?c=' + (c + 1); else next.setAttribute('aria-disabled', 'true');
+  document.getElementById('list').innerHTML = data.kurals.map((k) =>
+    '<a href="/kural?n=' + k.n + '"><span class="num">' + k.n + '</span><span><span class="ta" lang="ta">' +
+    k.lines.map(Th.esc).join('<br>') + '</span><div class="tr">' + k.tr.map(Th.esc).join(' / ') + '</div>' +
+    (k.ai && k.ai.translation ? '<div style="margin-top:6px">' + Th.esc(k.ai.translation) + '</div>' : '') +
+    '</span></a>'
+  ).join('');
+})();
+</script>
+</body>
+</html>

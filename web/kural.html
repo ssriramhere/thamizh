@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tirukkuṟaḷ · Thamizh.ai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Serif+Tamil:wght@400;600;700&family=Catamaran:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div data-site-header data-crumbs="<a href='/library'>Library</a> › Tirukkuṟaḷ › <a id='crumb-ch' href='/library'>Chapter</a> › <strong id='crumb-n'>Kuṟaḷ</strong>"></div>
+<main class="reader" id="reader">
+  <div class="pager">
+    <div>
+      <p class="eyebrow" id="kicker">Tirukkuṟaḷ</p>
+      <p id="chname" style="margin-top:4px;font-size:16px"></p>
+    </div>
+    <div style="display:flex;gap:8px">
+      <a class="iconbtn" id="prev" aria-label="Previous couplet" href="#"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></a>
+      <a class="iconbtn" id="next" aria-label="Next couplet" href="#"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg></a>
+    </div>
+  </div>
+
+  <section aria-label="How much Tamil do you know?" style="display:flex;flex-direction:column;gap:10px">
+    <p style="font-size:14px;font-weight:600;color:var(--ink-2)">Start where you are</p>
+    <div class="presets" id="presets"></div>
+  </section>
+  <nav class="layers" id="layers" aria-label="Layers"></nav>
+
+  <section class="layer dark" data-layer="1">
+    <p class="eyebrow">1 · Meaning</p>
+    <div id="meaning"></div>
+  </section>
+
+  <section class="layer" data-layer="2">
+    <p class="eyebrow">2 · In English letters</p>
+    <p class="roman" id="roman"></p>
+    <p class="small muted">ISO 15919 transliteration. ḻ, ṟ and ṉ are sounds of Tamil; tap them in the Tamil line below.</p>
+  </section>
+
+  <section class="layer" data-layer="3">
+    <div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;align-items:baseline">
+      <p class="eyebrow">3 · Tamil letters · tap any letter</p>
+      <div class="legend">
+        <span><i style="border:2px solid var(--ink)"></i>Short · 1 beat</span>
+        <span><i style="background:var(--ink)"></i>Long · 2 beats</span>
+        <span><i style="border:2px dashed #8E8E8E"></i>Consonant alone · ½ beat</span>
+      </div>
+    </div>
+    <div class="letters-wrap">
+      <div class="letters-lines" id="letters"></div>
+      <aside class="letter-info" id="info" aria-live="polite"></aside>
+    </div>
+  </section>
+
+  <section class="layer" data-layer="4">
+    <p class="eyebrow">4 · Word by word</p>
+    <div class="words" id="words"></div>
+    <div id="modern"></div>
+  </section>
+
+  <section class="layer" data-layer="5">
+    <p class="eyebrow">5 · Meter</p>
+    <p style="font-size:15px;line-height:1.6;color:var(--ink-2)">Short and long letters group into two units, <b>nēr</b> and <b>nirai</b>. Units group into feet, and feet must link in set ways for the couplet to be a <b>kuṟaḷ veṇpā</b>. In verse the words run together, so the feet don't always match the words.</p>
+    <div>
+      <p class="small muted" style="margin-bottom:4px">The couplet as the meter reads it</p>
+      <p class="metrical" lang="ta" id="metrical"></p>
+    </div>
+    <div class="feet" id="feet"></div>
+    <div class="card" style="padding:20px;display:flex;flex-direction:column;gap:12px">
+      <p class="verdict" id="verdict"></p>
+      <ul class="checks" id="checks"></ul>
+      <div class="notes" id="toTai"></div>
+      <div class="notes" id="joins"></div>
+    </div>
+  </section>
+
+  <section class="layer" data-layer="6">
+    <p class="eyebrow">6 · Explanation</p>
+    <div id="explain"></div>
+  </section>
+</main>
+<div data-site-footer></div>
+<script src="/assets/site.js"></script>
+<script src="/assets/kural.js"></script>
+</body>
+</html>

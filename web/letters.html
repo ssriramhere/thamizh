@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Learn the letters · Thamizh.ai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Serif+Tamil:wght@400;600;700&family=Catamaran:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div data-site-header data-crumbs="<a href='/learn'>Learn</a> › Letters › <strong>Vowels</strong>"></div>
+<main class="wrap" style="padding-top:44px;display:flex;flex-direction:column;gap:28px">
+  <div style="display:flex;flex-direction:column;gap:10px;max-width:720px">
+    <h1 style="font-size:clamp(32px,4.5vw,44px)">Learn the letters with Avvaiyār</h1>
+    <p class="lead">Āttichūṭi is a children's classic whose lines run in alphabet order. Each vowel comes with a one-line lesson that starts with it.</p>
+  </div>
+  <div class="vowels" id="vowels" role="group" aria-label="Vowels"></div>
+  <section class="primer" aria-live="polite">
+    <div class="card glyph"><span class="g" lang="ta" id="g"></span><span class="t" id="t"></span><span class="pill" id="kind"></span></div>
+    <div class="card line">
+      <p class="eyebrow" id="lineno"></p>
+      <p class="ta" lang="ta" id="line"></p>
+      <p style="font-size:20px;color:var(--muted);font-style:italic" id="linetr"></p>
+      <p style="font-size:22px;font-weight:600;line-height:1.4" id="meaning"></p>
+      <p class="small muted">AI translation</p>
+      <div style="margin-top:auto;padding-top:8px"><button type="button" class="btn" id="next">Next letter →</button></div>
+    </div>
+  </section>
+  <section class="cards">
+    <div style="border-top:3px solid var(--ink);padding-top:14px"><h3>Short or long</h3><p class="muted" style="margin-top:6px">Short letters take one beat, long letters two. That one distinction is also where Tamil meter begins.</p></div>
+    <div style="border-top:3px solid var(--ink);padding-top:14px"><h3>Next: consonants</h3><p class="muted" style="margin-top:6px">Āttichūṭi carries on through the consonants. They come next on this page.</p></div>
+    <a class="card" href="/kural?n=1&amp;level=3" style="background:var(--ink);color:#fff;border:none"><h3>Try a Kuṟaḷ now →</h3><span style="color:#C8C8C8">Tap the letters you just learned.</span></a>
+  </section>
+</main>
+<div data-site-footer></div>
+<script src="/assets/site.js"></script>
+<script>
+(function () {
+  const S = 'Short (kuṟil) · 1 beat', L = 'Long (neṭil) · 2 beats', A = 'Āytam · ½ beat';
+  const data = [
+    ['அ', 'a', S, 'அ', 'றம் செய விரும்பு', 'aṟam ceya virumpu', 'Want to do good.'],
+    ['ஆ', 'ā', L, 'ஆ', 'றுவது சினம்', 'āṟuvatu ciṉam', 'Anger is something to cool.'],
+    ['இ', 'i', S, 'இ', 'யல்வது கரவேல்', 'iyalvatu karavēl', 'Don’t hold back what you can give.'],
+    ['ஈ', 'ī', L, 'ஈ', 'வது விலக்கேல்', 'īvatu vilakkēl', 'Don’t stop anyone from giving.'],
+    ['உ', 'u', S, 'உ', 'டையது விளம்பேல்', 'uṭaiyatu viḷampēl', 'Don’t boast of what you own.'],
+    ['ஊ', 'ū', L, 'ஊ', 'க்கமது கைவிடேல்', 'ūkkamatu kaiviṭēl', 'Never give up effort.'],
+    ['எ', 'e', S, 'எ', 'ண் எழுத்து இகழேல்', 'eṇ eḻuttu ikaḻēl', 'Don’t look down on numbers and letters.'],
+    ['ஏ', 'ē', L, 'ஏ', 'ற்பது இகழ்ச்சி', 'ēṟpatu ikaḻcci', 'Living on handouts is shameful.'],
+    ['ஐ', 'ai', L, 'ஐ', 'யம் இட்டு உண்', 'aiyam iṭṭu uṇ', 'Give to those in need, then eat.'],
+    ['ஒ', 'o', S, 'ஒ', 'ப்புரவு ஒழுகு', 'oppuravu oḻuku', 'Live helping others.'],
+    ['ஓ', 'ō', L, 'ஓ', 'துவது ஒழியேல்', 'ōtuvatu oḻiyēl', 'Never stop learning.'],
+    ['ஔ', 'au', L, 'ஔ', 'வியம் பேசேல்', 'auviyam pēcēl', 'Don’t speak out of envy.'],
+    ['ஃ', 'ḵ', A, 'அஃ', 'கம் சுருக்கேல்', 'aḵkam curukkēl', 'Don’t short-measure grain.'],
+  ];
+  let i = 0;
+  const esc = Th.esc;
+  const vowels = document.getElementById('vowels');
+  function render() {
+    vowels.innerHTML = data.map((d, k) =>
+      '<button type="button" data-k="' + k + '" aria-pressed="' + (k === i) + '" aria-label="' + esc(d[1] + ', ' + d[2]) + '"><span class="g" lang="ta">' + esc(d[0]) + '</span><span class="t">' + esc(d[1]) + '</span></button>'
+    ).join('');
+    const d = data[i];
+    document.getElementById('g').textContent = d[0];
+    document.getElementById('t').textContent = d[1];
+    document.getElementById('kind').textContent = d[2];
+    document.getElementById('lineno').textContent = 'Āttichūṭi · line ' + (i + 1) + ' of 13';
+    document.getElementById('line').innerHTML = '<b>' + esc(d[3]) + '</b>' + esc(d[4]);
+    document.getElementById('linetr').textContent = d[5];
+    document.getElementById('meaning').textContent = d[6];
+  }
+  vowels.addEventListener('click', (e) => {
+    const b = e.target.closest('button[data-k]');
+    if (b) { i = parseInt(b.getAttribute('data-k'), 10); render(); }
+  });
+  document.getElementById('next').addEventListener('click', () => { i = (i + 1) % data.length; render(); });
+  render();
+})();
+</script>
+</body>
+</html>
