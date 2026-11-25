@@ -1,0 +1,139 @@
+{
+ "words": [
+  {
+   "surface": "அறிவினான்",
+   "parts": [
+    {
+     "text": "அறிவு",
+     "lemma": "அறிவு",
+     "gloss": "knowledge"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic tie"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "instrumental suffix"
+    }
+   ],
+   "gloss": "by knowledge"
+  },
+  {
+   "surface": "ஆகுவது",
+   "parts": [
+    {
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "to become"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future suffix"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "neuter singular suffix"
+    }
+   ],
+   "gloss": "that which results"
+  },
+  {
+   "surface": "உண்டோ",
+   "parts": [
+    {
+     "text": "உண்டு",
+     "lemma": "உண்டு",
+     "gloss": "is there"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "is there?"
+  },
+  {
+   "surface": "பிறிதின்",
+   "parts": [
+    {
+     "text": "பிறிது",
+     "lemma": "பிறிது",
+     "gloss": "other"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "genitive suffix"
+    }
+   ],
+   "gloss": "of another"
+  },
+  {
+   "surface": "நோய்",
+   "parts": [
+    {
+     "text": "நோய்",
+     "lemma": "நோய்",
+     "gloss": "pain"
+    }
+   ],
+   "gloss": "pain"
+  },
+  {
+   "surface": "தந்நோய்போல்",
+   "parts": [
+    {
+     "text": "தந்நோய்போல்",
+     "lemma": "தந்நோய்போல்",
+     "gloss": "like one's own pain"
+    }
+   ],
+   "gloss": "like one's own pain",
+   "split_unverified": true
+  },
+  {
+   "surface": "போற்றாக்",
+   "parts": [
+    {
+     "text": "போற்று",
+     "lemma": "போற்று",
+     "gloss": "to regard"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    }
+   ],
+   "gloss": "not regarding"
+  },
+  {
+   "surface": "கடை",
+   "parts": [
+    {
+     "text": "கடை",
+     "lemma": "கடை",
+     "gloss": "state"
+    }
+   ],
+   "gloss": "in the state (if)"
+  }
+ ],
+ "literal": "Is there a result from knowledge, in the state of not regarding another's pain like one's own pain?",
+ "translation": "What is the benefit of knowledge if one does not regard the pain of others as one's own?",
+ "modern": "பிறருடைய துன்பத்தைத் தன் துன்பம் போலக் கருதிப் போற்றாவிட்டால், ஒருவன் பெற்ற அறிவினால் ஆகும் பயன் உண்டோ?",
+ "explanation": "This couplet questions the ultimate purpose of acquiring knowledge. It asserts that true wisdom must naturally lead to empathy and compassion. If a person cannot recognize and treat the suffering of others just as they would their own, their intelligence yields no meaningful benefit. The word 'கடை' here acts as a conditional, meaning 'in the state where' or 'if'.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

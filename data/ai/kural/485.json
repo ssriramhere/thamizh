@@ -1,0 +1,111 @@
+{
+ "words": [
+  {
+   "surface": "காலம்",
+   "parts": [
+    {
+     "text": "காலம்",
+     "lemma": "காலம்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "time"
+  },
+  {
+   "surface": "கருதி",
+   "parts": [
+    {
+     "text": "கருது",
+     "lemma": "கருது",
+     "gloss": "consider"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having considered"
+  },
+  {
+   "surface": "இருப்பர்",
+   "parts": [
+    {
+     "text": "இரு",
+     "lemma": "இரு",
+     "gloss": "be"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "[sandhi]"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "[future]"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "[3pl]"
+    }
+   ],
+   "gloss": "they will wait"
+  },
+  {
+   "surface": "கலங்காது",
+   "parts": [
+    {
+     "text": "கலங்கு",
+     "lemma": "கலங்கு",
+     "gloss": "be perturbed"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
+    }
+   ],
+   "gloss": "without being perturbed"
+  },
+  {
+   "surface": "ஞாலம்",
+   "parts": [
+    {
+     "text": "ஞாலம்",
+     "lemma": "ஞாலம்",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "world"
+  },
+  {
+   "surface": "கருதுபவர்",
+   "parts": [
+    {
+     "text": "கருது",
+     "lemma": "கருது",
+     "gloss": "consider"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "[future]"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "those who"
+    }
+   ],
+   "gloss": "those who desire"
+  }
+ ],
+ "literal": "Time having considered they will wait unperturbed, the world those who desire.",
+ "translation": "Those who desire to conquer the world will wait unperturbed, biding their time.",
+ "modern": "உலகத்தை ஆள நினைப்பவர்கள், அதற்கான சரியான காலத்தை எதிர்பார்த்துக் கலங்காமல் காத்திருப்பார்கள்.",
+ "explanation": "This couplet explains the patience required for great ambitions. The word 'ஞாலம்' means the world, and 'கருதுபவர்' refers to those who aim to conquer or rule it. To achieve such a massive goal, they will not act hastily or get perturbed ('கலங்காது'). Instead, they will calmly wait ('இருப்பர்') for the right time ('காலம் கருதி') to act.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

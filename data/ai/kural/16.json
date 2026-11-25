@@ -1,0 +1,140 @@
+{
+ "words": [
+  {
+   "surface": "விசும்பின்",
+   "parts": [
+    {
+     "text": "விசும்பு",
+     "lemma": "விசும்பு",
+     "gloss": "sky"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "from"
+    }
+   ],
+   "gloss": "from the sky"
+  },
+  {
+   "surface": "துளி",
+   "parts": [
+    {
+     "text": "துளி",
+     "lemma": "துளி",
+     "gloss": "drop"
+    }
+   ],
+   "gloss": "drop"
+  },
+  {
+   "surface": "வீழின்",
+   "parts": [
+    {
+     "text": "வீழ்",
+     "lemma": "வீழ்",
+     "gloss": "fall"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if falls"
+  },
+  {
+   "surface": "அல்லால்",
+   "parts": [
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "unless"
+  },
+  {
+   "surface": "மற்று",
+   "parts": [
+    {
+     "text": "மற்று",
+     "lemma": "மற்று",
+     "gloss": "otherwise"
+    }
+   ],
+   "gloss": "otherwise"
+  },
+  {
+   "surface": "ஆங்கே",
+   "parts": [
+    {
+     "text": "ஆங்கு",
+     "lemma": "ஆங்கு",
+     "gloss": "there"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "there"
+  },
+  {
+   "surface": "பசும்புல்",
+   "parts": [
+    {
+     "text": "பசும்புல்",
+     "lemma": "பசும்புல்",
+     "gloss": "green grass"
+    }
+   ],
+   "gloss": "green grass"
+  },
+  {
+   "surface": "தலை",
+   "parts": [
+    {
+     "text": "தலை",
+     "lemma": "தலை",
+     "gloss": "head"
+    }
+   ],
+   "gloss": "head"
+  },
+  {
+   "surface": "காண்பு",
+   "parts": [
+    {
+     "text": "காண்பு",
+     "lemma": "காண்",
+     "gloss": "seeing"
+    }
+   ],
+   "gloss": "seeing"
+  },
+  {
+   "surface": "அரிது",
+   "parts": [
+    {
+     "text": "அரிது",
+     "lemma": "அரிது",
+     "gloss": "is rare"
+    }
+   ],
+   "gloss": "is rare"
+  }
+ ],
+ "literal": "From the sky drop if falls unless, otherwise there green grass head seeing is rare.",
+ "translation": "Unless drops of rain fall from the sky, it is rare to see even a blade of green grass.",
+ "modern": "வானத்திலிருந்து மழைத்துளி விழவில்லை என்றால், உலகத்தில் ஒரு பச்சைப் புல்லின் நுனியைக் கூடப் பார்ப்பது அரிது.",
+ "explanation": "This couplet emphasizes the absolute necessity of rain for all life on earth. It states that without a single drop of rain falling from the sky, even the simplest form of life, a blade of green grass, cannot sprout or survive. The phrase 'பசும்புல் தலை' (head of green grass) vividly illustrates the smallest and most common vegetation. Thus, rain is shown as the fundamental source of life.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

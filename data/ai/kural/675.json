@@ -1,0 +1,130 @@
+{
+ "words": [
+  {
+   "surface": "பொருள்",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "resource"
+    }
+   ],
+   "gloss": "resource"
+  },
+  {
+   "surface": "கருவி",
+   "parts": [
+    {
+     "text": "கருவி",
+     "lemma": "கருவி",
+     "gloss": "instrument"
+    }
+   ],
+   "gloss": "instrument"
+  },
+  {
+   "surface": "காலம்",
+   "parts": [
+    {
+     "text": "காலம்",
+     "lemma": "காலம்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "time"
+  },
+  {
+   "surface": "வினை",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
+    }
+   ],
+   "gloss": "action"
+  },
+  {
+   "surface": "இடனொடு",
+   "parts": [
+    {
+     "text": "இடன்",
+     "lemma": "இடம்",
+     "gloss": "place"
+    },
+    {
+     "text": "ஒடு",
+     "lemma": "ஒடு",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "along with place"
+  },
+  {
+   "surface": "ஐந்தும்",
+   "parts": [
+    {
+     "text": "ஐந்து",
+     "lemma": "ஐந்து",
+     "gloss": "five"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "all"
+    }
+   ],
+   "gloss": "all five"
+  },
+  {
+   "surface": "இருள்",
+   "parts": [
+    {
+     "text": "இருள்",
+     "lemma": "இருள்",
+     "gloss": "darkness"
+    }
+   ],
+   "gloss": "darkness (doubt)"
+  },
+  {
+   "surface": "தீர",
+   "parts": [
+    {
+     "text": "தீர",
+     "lemma": "தீர்",
+     "gloss": "to clear"
+    }
+   ],
+   "gloss": "to clear"
+  },
+  {
+   "surface": "எண்ணி",
+   "parts": [
+    {
+     "text": "எண்ணி",
+     "lemma": "எண்",
+     "gloss": "having considered"
+    }
+   ],
+   "gloss": "having considered"
+  },
+  {
+   "surface": "செயல்",
+   "parts": [
+    {
+     "text": "செயல்",
+     "lemma": "செய்",
+     "gloss": "act"
+    }
+   ],
+   "gloss": "act"
+  }
+ ],
+ "literal": "Resource, instrument, time, action, along with place, all five, for darkness to clear, having considered, act.",
+ "translation": "Consider thoroughly these five factors—resources, instruments, time, the action itself, and the place—until all doubts are cleared, and then act.",
+ "modern": "பொருள், கருவி, காலம், செய்யும் செயல், இடம் ஆகிய ஐந்தையும் எவ்வித மயக்கமும் தீரும்படி நன்கு ஆராய்ந்து ஒரு செயலைச் செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the five essential factors to evaluate before undertaking any task. The five factors are the resources required ('பொருள்'), the tools or means ('கருவி'), the appropriate time ('காலம்'), the nature of the action itself ('வினை'), and the suitable location ('இடன்'). The phrase 'இருள் தீர' literally means 'for darkness to clear', which in this context metaphorically refers to dispelling all doubts, ignorance, or confusion. By thoroughly considering all five elements until absolute clarity is reached ('எண்ணி'), one ensures the successful execution of the deed ('செயல்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,114 @@
+{
+ "words": [
+  {
+   "surface": "தானம்",
+   "parts": [
+    {
+     "text": "தானம்",
+     "lemma": "தானம்",
+     "gloss": "charity"
+    }
+   ],
+   "gloss": "charity"
+  },
+  {
+   "surface": "தவம்",
+   "parts": [
+    {
+     "text": "தவம்",
+     "lemma": "தவம்",
+     "gloss": "penance"
+    }
+   ],
+   "gloss": "penance"
+  },
+  {
+   "surface": "இரண்டும்",
+   "parts": [
+    {
+     "text": "இரண்டு",
+     "lemma": "இரண்டு",
+     "gloss": "two"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "both"
+    }
+   ],
+   "gloss": "both"
+  },
+  {
+   "surface": "தங்கா",
+   "parts": [
+    {
+     "text": "தங்கா",
+     "lemma": "தங்கு",
+     "gloss": "will not stay"
+    }
+   ],
+   "gloss": "will not stay"
+  },
+  {
+   "surface": "வியன்",
+   "parts": [
+    {
+     "text": "வியன்",
+     "lemma": "வியன்",
+     "gloss": "vast"
+    }
+   ],
+   "gloss": "vast"
+  },
+  {
+   "surface": "உலகம்",
+   "parts": [
+    {
+     "text": "உலகம்",
+     "lemma": "உலகம்",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "world"
+  },
+  {
+   "surface": "வானம்",
+   "parts": [
+    {
+     "text": "வானம்",
+     "lemma": "வானம்",
+     "gloss": "sky"
+    }
+   ],
+   "gloss": "sky"
+  },
+  {
+   "surface": "வழங்காது",
+   "parts": [
+    {
+     "text": "வழங்காது",
+     "lemma": "வழங்கு",
+     "gloss": "does not provide"
+    }
+   ],
+   "gloss": "does not provide"
+  },
+  {
+   "surface": "எனின்",
+   "parts": [
+    {
+     "text": "எனின்",
+     "lemma": "என்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if"
+  }
+ ],
+ "literal": "Charity, penance, both will not stay [in the] vast world, sky does not provide if.",
+ "translation": "If the heavens do not provide rain, neither charity nor penance will endure in this vast world.",
+ "modern": "வானம் மழையைத் தரவில்லை என்றால், இந்த அகன்ற உலகத்தில் தானம், தவம் ஆகிய இரண்டும் நிலைத்து நிற்கமாட்டா.",
+ "explanation": "This couplet emphasizes that all higher human virtues depend on the basic sustenance provided by nature. The word 'வானம்' literally means sky, but here it takes the accepted sense of the rain that the sky provides, which best fits the chapter's theme. The words 'தானம்' (charity) and 'தவம்' (penance) represent the two great moral duties: helping others and disciplining oneself. The phrase 'வியன் உலகம்' (vast world) highlights the scale of this dependence. If the sky fails to provide rain ('வழங்காது எனின்'), human beings will be too consumed by survival to practice these noble virtues, causing them to disappear from the world ('தங்கா').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

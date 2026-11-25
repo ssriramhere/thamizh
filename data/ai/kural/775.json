@@ -1,0 +1,185 @@
+{
+ "words": [
+  {
+   "surface": "விழித்த",
+   "parts": [
+    {
+     "text": "விழி",
+     "lemma": "விழி",
+     "gloss": "to glare"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle marker"
+    }
+   ],
+   "gloss": "glared"
+  },
+  {
+   "surface": "கண்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    }
+   ],
+   "gloss": "eyes"
+  },
+  {
+   "surface": "வேல்",
+   "parts": [
+    {
+     "text": "வேல்",
+     "lemma": "வேல்",
+     "gloss": "spear"
+    }
+   ],
+   "gloss": "spear"
+  },
+  {
+   "surface": "கொணடு",
+   "parts": [
+    {
+     "text": "கொணடு",
+     "lemma": "கொள்",
+     "gloss": "having taken"
+    }
+   ],
+   "gloss": "having taken"
+  },
+  {
+   "surface": "எறிய",
+   "parts": [
+    {
+     "text": "எறி",
+     "lemma": "எறி",
+     "gloss": "to throw"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive marker"
+    }
+   ],
+   "gloss": "to throw"
+  },
+  {
+   "surface": "அழித்து",
+   "parts": [
+    {
+     "text": "அழி",
+     "lemma": "அழி",
+     "gloss": "to destroy"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "adverbial participle marker"
+    }
+   ],
+   "gloss": "destroying"
+  },
+  {
+   "surface": "இமைப்பின்",
+   "parts": [
+    {
+     "text": "இமை",
+     "lemma": "இமை",
+     "gloss": "to blink"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional marker"
+    }
+   ],
+   "gloss": "if blinked"
+  },
+  {
+   "surface": "ஒட்டு",
+   "parts": [
+    {
+     "text": "ஒட்டு",
+     "lemma": "ஒட்டு",
+     "gloss": "defeat"
+    }
+   ],
+   "gloss": "defeat"
+  },
+  {
+   "surface": "அன்றோ",
+   "parts": [
+    {
+     "text": "அன்று",
+     "lemma": "அன்று",
+     "gloss": "is it not"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question marker"
+    }
+   ],
+   "gloss": "is it not"
+  },
+  {
+   "surface": "வன்கணவர்க்கு",
+   "parts": [
+    {
+     "text": "வன்கணவர்",
+     "lemma": "வன்கணவர்",
+     "gloss": "brave ones"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative marker"
+    }
+   ],
+   "gloss": "to the brave ones"
+  }
+ ],
+ "literal": "Glared eyes, spear having taken to throw, destroying if blinked, defeat is it not to the brave ones?",
+ "translation": "If the eyes that glared fearlessly blink when a spear is hurled at them, is it not a defeat for the brave?",
+ "modern": "பகைவர் வேலைக் கொண்டு வீசும்போது, அவரைச் சினந்து பார்த்த கண்கள் நிலைமாறி இமைத்தால், அது வீரர்களுக்கு ஒரு தோல்வி அல்லவா?",
+ "explanation": "This couplet defines the absolute steadfastness expected of a true warrior. The phrase 'விழித்த கண்' refers to eyes opened wide in a fearless glare at the enemy. If those eyes blink when a spear is hurled at them, the word 'அழித்து' implies that the blink destroys their courageous stance. For the truly brave, even such an involuntary flinch is considered a retreat or defeat ('ஒட்டு').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

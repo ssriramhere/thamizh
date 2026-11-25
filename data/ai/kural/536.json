@@ -1,0 +1,133 @@
+{
+ "words": [
+  {
+   "surface": "இழுக்காமை",
+   "parts": [
+    {
+     "text": "இழுக்கு",
+     "lemma": "இழுக்கு",
+     "gloss": "to be negligent"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
+    }
+   ],
+   "gloss": "non-negligence"
+  },
+  {
+   "surface": "யார்மாட்டும்",
+   "parts": [
+    {
+     "text": "யார்",
+     "lemma": "யார்",
+     "gloss": "who"
+    },
+    {
+     "text": "மாட்டு",
+     "lemma": "மாட்டு",
+     "gloss": "locative suffix (with/towards)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "inclusive suffix (all)"
+    }
+   ],
+   "gloss": "towards everyone"
+  },
+  {
+   "surface": "என்றும்",
+   "parts": [
+    {
+     "text": "என்று",
+     "lemma": "என்று",
+     "gloss": "day/time"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "inclusive suffix (all)"
+    }
+   ],
+   "gloss": "always"
+  },
+  {
+   "surface": "வழுக்காமை",
+   "parts": [
+    {
+     "text": "வழுக்கு",
+     "lemma": "வழுக்கு",
+     "gloss": "to slip"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
+    }
+   ],
+   "gloss": "without slipping"
+  },
+  {
+   "surface": "வாயின்",
+   "parts": [
+    {
+     "text": "வாய்",
+     "lemma": "வாய்",
+     "gloss": "to happen/be attained"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix (if)"
+    }
+   ],
+   "gloss": "if attained"
+  },
+  {
+   "surface": "அது",
+   "parts": [
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
+    }
+   ],
+   "gloss": "that"
+  },
+  {
+   "surface": "ஒப்பது",
+   "parts": [
+    {
+     "text": "ஒப்பு",
+     "lemma": "ஒப்பு",
+     "gloss": "to equal"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "neuter singular suffix"
+    }
+   ],
+   "gloss": "that which equals"
+  },
+  {
+   "surface": "இல்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "is not"
+    }
+   ],
+   "gloss": "there is not"
+  }
+ ],
+ "literal": "non-negligence towards-everyone always without-slipping if-attained that which-equals is-not",
+ "translation": "If one can unfailingly maintain non-negligence towards everyone at all times, there is nothing equal to that.",
+ "modern": "எவரிடத்திலும் எக்காலத்திலும் மறதி இல்லாமல் விழிப்புடன் இருக்கும் நிலை ஒருவருக்குக் கைகூடினால், அந்த நிலைக்கு இணையானது வேறு எதுவும் இல்லை.",
+ "explanation": "The couplet emphasizes the supreme value of constant vigilance or non-negligence (இழுக்காமை). It states that this quality must be maintained without slipping (வழுக்காமை) at all times and towards all people. The word 'வாய்' here takes the sense of 'to happen' or 'to be attained', fitting the conditional 'வாயின்' (if it is attained). If a person can successfully achieve this unwavering state of mindfulness, there is no other virtue or achievement that can equal it.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,139 @@
+{
+ "words": [
+  {
+   "surface": "சொல்லுக",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "உக",
+     "lemma": "க",
+     "gloss": "optative suffix"
+    }
+   ],
+   "gloss": "speak"
+  },
+  {
+   "surface": "சொல்லில்",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "conditional suffix"
+    }
+   ],
+   "gloss": "if speaking"
+  },
+  {
+   "surface": "பயன்",
+   "parts": [
+    {
+     "text": "பயன்",
+     "lemma": "பயன்",
+     "gloss": "benefit"
+    }
+   ],
+   "gloss": "benefit"
+  },
+  {
+   "surface": "உடைய",
+   "parts": [
+    {
+     "text": "உடைய",
+     "lemma": "உடைய",
+     "gloss": "possessing"
+    }
+   ],
+   "gloss": "possessing"
+  },
+  {
+   "surface": "சொல்லற்க",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix"
+    }
+   ],
+   "gloss": "do not speak"
+  },
+  {
+   "surface": "சொல்லில்",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "conditional suffix"
+    }
+   ],
+   "gloss": "if speaking"
+  },
+  {
+   "surface": "பயன்",
+   "parts": [
+    {
+     "text": "பயன்",
+     "lemma": "பயன்",
+     "gloss": "benefit"
+    }
+   ],
+   "gloss": "benefit"
+  },
+  {
+   "surface": "இலா",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "not"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
+    }
+   ],
+   "gloss": "without"
+  },
+  {
+   "surface": "சொல்",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
+    }
+   ],
+   "gloss": "word"
+  }
+ ],
+ "literal": "Speak, if speaking, (things) possessing benefit; do not speak, if speaking, word(s) without benefit.",
+ "translation": "If you speak, speak words that yield some benefit. If you speak, never speak words that are useless.",
+ "modern": "பேசினால் பயன்தரும் சொற்களையே பேசவேண்டும்; பேசும்போது பயனில்லாத சொற்களைப் பேசவே கூடாது.",
+ "explanation": "This couplet provides a clear rule for communication: every spoken word should serve a purpose. The word 'சொல்லில்' (if speaking) is repeated to emphasize that the act of speaking is a deliberate choice. By contrasting 'பயனுடைய' (possessing benefit) with 'பயனிலா' (without benefit), the text urges the learner to consciously filter their speech, ensuring that only meaningful words are uttered while useless ones are withheld.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

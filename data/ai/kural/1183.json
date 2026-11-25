@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "சாயலும்",
+   "parts": [
+    {
+     "text": "சாயல்",
+     "lemma": "சாயல்",
+     "gloss": "grace"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "grace and"
+  },
+  {
+   "surface": "நாணும்",
+   "parts": [
+    {
+     "text": "நாண்",
+     "lemma": "நாண்",
+     "gloss": "modesty"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "modesty and"
+  },
+  {
+   "surface": "அவர்",
+   "parts": [
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he"
+  },
+  {
+   "surface": "கொண்டார்",
+   "parts": [
+    {
+     "text": "கொண்டார்",
+     "lemma": "கொள்",
+     "gloss": "took-he"
+    }
+   ],
+   "gloss": "took"
+  },
+  {
+   "surface": "கைம்மாறா",
+   "parts": [
+    {
+     "text": "கைம்மாறு",
+     "lemma": "கைம்மாறு",
+     "gloss": "exchange"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆகு",
+     "gloss": "as"
+    }
+   ],
+   "gloss": "as exchange"
+  },
+  {
+   "surface": "நோயும்",
+   "parts": [
+    {
+     "text": "நோய்",
+     "lemma": "நோய்",
+     "gloss": "pain"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "pain and"
+  },
+  {
+   "surface": "பசலையும்",
+   "parts": [
+    {
+     "text": "பசலை",
+     "lemma": "பசலை",
+     "gloss": "pallor"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "pallor and"
+  },
+  {
+   "surface": "தந்து",
+   "parts": [
+    {
+     "text": "தந்து",
+     "lemma": "தா",
+     "gloss": "having given"
+    }
+   ],
+   "gloss": "having given"
+  }
+ ],
+ "literal": "Grace and modesty he took, as exchange pain and pallor having given.",
+ "translation": "He took away my grace and modesty, giving me the pain of longing and a sickly pallor in exchange.",
+ "modern": "அவர் என் மென்மையையும் நாணத்தையும் எடுத்துக்கொண்டு, அதற்குப் பதிலாக காதல் நோயையும் பசலை நிறத்தையும் தந்துவிட்டார்.",
+ "explanation": "The speaker laments the physical and emotional toll of her lover's departure. She says he has taken away her natural grace ('சாயல்') and her modesty ('நாண்'). In return ('கைம்மாறா'), he has left her with the pain of separation ('நோய்') and a sickly pallor ('பசலை'). The couplet uses the image of an unfair exchange to highlight how love has stripped her of her best qualities and replaced them with suffering.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

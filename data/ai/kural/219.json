@@ -1,0 +1,103 @@
+{
+ "words": [
+  {
+   "surface": "நயனுடையான்",
+   "parts": [
+    {
+     "text": "நயன்",
+     "lemma": "நயன்",
+     "gloss": "goodness"
+    },
+    {
+     "text": "உடையான்",
+     "lemma": "உடையான்",
+     "gloss": "he who possesses"
+    }
+   ],
+   "gloss": "he who possesses goodness"
+  },
+  {
+   "surface": "நல்கூர்ந்தான்",
+   "parts": [
+    {
+     "text": "நல்கூர்ந்தான்",
+     "lemma": "நல்கூர்",
+     "gloss": "he who became poor"
+    }
+   ],
+   "gloss": "he who became poor"
+  },
+  {
+   "surface": "ஆதல்",
+   "parts": [
+    {
+     "text": "ஆதல்",
+     "lemma": "ஆ",
+     "gloss": "becoming"
+    }
+   ],
+   "gloss": "becoming"
+  },
+  {
+   "surface": "செயும்",
+   "parts": [
+    {
+     "text": "செயும்",
+     "lemma": "செய்",
+     "gloss": "which ought to be done"
+    }
+   ],
+   "gloss": "which ought to be done"
+  },
+  {
+   "surface": "நீர",
+   "parts": [
+    {
+     "text": "நீர",
+     "lemma": "நீர்மை",
+     "gloss": "things of the nature"
+    }
+   ],
+   "gloss": "things of the nature"
+  },
+  {
+   "surface": "செய்யாது",
+   "parts": [
+    {
+     "text": "செய்யாது",
+     "lemma": "செய்",
+     "gloss": "without doing"
+    }
+   ],
+   "gloss": "without doing"
+  },
+  {
+   "surface": "அமைகலா",
+   "parts": [
+    {
+     "text": "அமைகலா",
+     "lemma": "அமை",
+     "gloss": "unable to abide"
+    }
+   ],
+   "gloss": "unable to abide"
+  },
+  {
+   "surface": "ஆறு",
+   "parts": [
+    {
+     "text": "ஆறு",
+     "lemma": "ஆறு",
+     "gloss": "state"
+    }
+   ],
+   "gloss": "state"
+  }
+ ],
+ "literal": "Goodness-possessor poor-man becoming, to-be-done fitting-things without-doing unable-to-abide state.",
+ "translation": "For a benevolent man, becoming poor is simply the state of being unable to bear not doing the fitting things he ought to do.",
+ "modern": "நற்பண்பு உடையவன் வறியவன் ஆதல் என்பது, தான் செய்யத் தகுந்த உதவிகளைச் செய்யாமல் இருக்க முடியாமல் வருந்தும் நிலையாகும்.",
+ "explanation": "This couplet defines what poverty truly means for a benevolent person. The word 'நயனுடையான்' refers to someone who possesses the goodness of helping others. For such a person, becoming poor ('நல்கூர்ந்தான் ஆதல்') is not about the personal lack of wealth. Rather, it is the painful state ('ஆறு') of being unable to rest ('அமைகலா') without doing ('செய்யாது') the fitting duties ('செயும் நீர') they are accustomed to performing for society.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

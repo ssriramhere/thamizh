@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "கொலையின்",
+   "parts": [
+    {
+     "text": "கொலை",
+     "lemma": "கொலை",
+     "gloss": "murder"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by murder"
+  },
+  {
+   "surface": "கொடியாரை",
+   "parts": [
+    {
+     "text": "கொடியார்",
+     "lemma": "கொடியார்",
+     "gloss": "cruel people"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "cruel people (acc.)"
+  },
+  {
+   "surface": "வேந்து",
+   "parts": [
+    {
+     "text": "வேந்து",
+     "lemma": "வேந்து",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  },
+  {
+   "surface": "ஒறுத்தல்",
+   "parts": [
+    {
+     "text": "ஒறுத்தல்",
+     "lemma": "ஒறுத்தல்",
+     "gloss": "punishing"
+    }
+   ],
+   "gloss": "punishing"
+  },
+  {
+   "surface": "பைங்கூழ்",
+   "parts": [
+    {
+     "text": "பைம்",
+     "lemma": "பசுமை",
+     "gloss": "green"
+    },
+    {
+     "text": "கூழ்",
+     "lemma": "கூழ்",
+     "gloss": "crop"
+    }
+   ],
+   "gloss": "green crop"
+  },
+  {
+   "surface": "களை",
+   "parts": [
+    {
+     "text": "களை",
+     "lemma": "களை",
+     "gloss": "weed"
+    }
+   ],
+   "gloss": "weed"
+  },
+  {
+   "surface": "கட்டதனொடு",
+   "parts": [
+    {
+     "text": "கட்டது",
+     "lemma": "கட்டுதல்",
+     "gloss": "the act of removing"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "euphonic increment"
+    },
+    {
+     "text": "ஒடு",
+     "lemma": "ஒடு",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "with the act of removing"
+  },
+  {
+   "surface": "நேர்",
+   "parts": [
+    {
+     "text": "நேர்",
+     "lemma": "நேர்",
+     "gloss": "equal"
+    }
+   ],
+   "gloss": "equal"
+  }
+ ],
+ "literal": "By murder cruel people king punishing green crop weed with the act of removing equal.",
+ "translation": "A king punishing cruel murderers is equal to weeding a green crop.",
+ "modern": "அரசன் கொலைக்குற்றம் புரியும் கொடியவர்களைத் தண்டிப்பது, பசுமையான பயிரைக் காக்க அதிலுள்ள களைகளைப் பிடுங்கி எறிவதற்குச் சமமாகும்.",
+ "explanation": "The couplet compares a king's duty of punishing violent criminals to a farmer's duty of weeding a field. The phrase 'கொலையின் கொடியாரை' refers to individuals who are cruel through acts of murder, threatening the safety of others. The 'பைங்கூழ்' (green crop) represents the innocent citizens, while the 'களை' (weeds) represents these dangerous criminals. Just as removing weeds is necessary for the crop to thrive, a ruler's strict punishment of the wicked is a necessary act of justice to protect society.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

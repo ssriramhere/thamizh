@@ -1,0 +1,138 @@
+{
+ "words": [
+  {
+   "surface": "தொடங்கற்க",
+   "parts": [
+    {
+     "text": "தொடங்கு",
+     "lemma": "தொடங்கு",
+     "gloss": "begin"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not (negative optative)"
+    }
+   ],
+   "gloss": "do not begin"
+  },
+  {
+   "surface": "எவ்வினையும்",
+   "parts": [
+    {
+     "text": "எ",
+     "lemma": "எ",
+     "gloss": "which/any"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "(sandhi)"
+    },
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "(sandhi)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even/entirety"
+    }
+   ],
+   "gloss": "any action"
+  },
+  {
+   "surface": "எள்ளற்க",
+   "parts": [
+    {
+     "text": "எள்ளு",
+     "lemma": "எள்ளு",
+     "gloss": "despise/underestimate"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not (negative optative)"
+    }
+   ],
+   "gloss": "do not despise"
+  },
+  {
+   "surface": "முற்றும்",
+   "parts": [
+    {
+     "text": "முற்று",
+     "lemma": "முற்று",
+     "gloss": "besiege/complete"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "which will (relative participle)"
+    }
+   ],
+   "gloss": "besieging"
+  },
+  {
+   "surface": "இடம்",
+   "parts": [
+    {
+     "text": "இடம்",
+     "lemma": "இடம்",
+     "gloss": "place"
+    }
+   ],
+   "gloss": "place"
+  },
+  {
+   "surface": "கண்ட",
+   "parts": [
+    {
+     "text": "கண்ட",
+     "lemma": "காண்",
+     "gloss": "having seen"
+    }
+   ],
+   "gloss": "having seen"
+  },
+  {
+   "surface": "பின்",
+   "parts": [
+    {
+     "text": "பின்",
+     "lemma": "பின்",
+     "gloss": "after"
+    }
+   ],
+   "gloss": "after"
+  },
+  {
+   "surface": "அல்லது",
+   "parts": [
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
+    }
+   ],
+   "gloss": "except"
+  }
+ ],
+ "literal": "Do not begin any action, do not despise, besieging place having seen after except.",
+ "translation": "Do not begin any action, nor underestimate the enemy, until you have found the right place to besiege them.",
+ "modern": "முற்றுகையிடுவதற்கு ஏற்ற இடத்தைக் கண்டறிந்த பிறகு அல்லாமல், எந்த ஒரு செயலையும் தொடங்கக் கூடாது; பகையை எளிதாக எண்ணவும் கூடாது.",
+ "explanation": "This couplet advises against taking premature action or underestimating an opponent before securing a strategic position. The word 'முற்றும்' refers to besieging or completely overcoming the enemy. Until the right place ('இடம்') is found ('கண்ட பின் அல்லது'), one must neither start the campaign ('தொடங்கற்க') nor despise the enemy's strength ('எள்ளற்க').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

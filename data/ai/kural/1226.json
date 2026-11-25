@@ -1,0 +1,92 @@
+{
+ "words": [
+  {
+   "surface": "மாலைநோய்",
+   "parts": [
+    {
+     "text": "மாலை",
+     "lemma": "மாலை",
+     "gloss": "evening"
+    },
+    {
+     "text": "நோய்",
+     "lemma": "நோய்",
+     "gloss": "pain"
+    }
+   ],
+   "gloss": "evening pain"
+  },
+  {
+   "surface": "செய்தல்",
+   "parts": [
+    {
+     "text": "செய்தல்",
+     "lemma": "செய்",
+     "gloss": "causing"
+    }
+   ],
+   "gloss": "causing"
+  },
+  {
+   "surface": "மணந்தார்",
+   "parts": [
+    {
+     "text": "மணந்தார்",
+     "lemma": "மண",
+     "gloss": "lover"
+    }
+   ],
+   "gloss": "lover"
+  },
+  {
+   "surface": "அகலாத",
+   "parts": [
+    {
+     "text": "அகலாத",
+     "lemma": "அகல்",
+     "gloss": "not departing"
+    }
+   ],
+   "gloss": "unseparated"
+  },
+  {
+   "surface": "காலை",
+   "parts": [
+    {
+     "text": "காலை",
+     "lemma": "காலை",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "time"
+  },
+  {
+   "surface": "அறிந்தது",
+   "parts": [
+    {
+     "text": "அறிந்தது",
+     "lemma": "அறி",
+     "gloss": "known thing"
+    }
+   ],
+   "gloss": "known"
+  },
+  {
+   "surface": "இலேன்",
+   "parts": [
+    {
+     "text": "இலேன்",
+     "lemma": "இல்",
+     "gloss": "I am without"
+    }
+   ],
+   "gloss": "I am not"
+  }
+ ],
+ "literal": "Evening pain causing, lover unseparated time, known I am not.",
+ "translation": "I did not know that evening causes such pain, back when my lover had not parted from me.",
+ "modern": "என் காதலர் என்னை விட்டுப் பிரியாமல் இருந்த காலத்தில், மாலைப் பொழுது இவ்வளவு துன்பம் செய்யும் என்பதை நான் அறிந்திருக்கவில்லை.",
+ "explanation": "The speaker laments the intense sorrow brought by the evening now that she is separated from her lover. She states that when they were together, she was completely unaware of the evening's capacity to cause such pain. The word 'காலை' here means 'time' or 'period' rather than 'morning', referring to the time before his departure.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

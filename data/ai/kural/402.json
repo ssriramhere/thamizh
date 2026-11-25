@@ -1,0 +1,149 @@
+{
+ "words": [
+  {
+   "surface": "கல்லாதான்",
+   "parts": [
+    {
+     "text": "கல்",
+     "lemma": "கல்",
+     "gloss": "to learn"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "3sg.m. suffix"
+    }
+   ],
+   "gloss": "unlearned man"
+  },
+  {
+   "surface": "சொல்",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word/speech"
+    }
+   ],
+   "gloss": "speech"
+  },
+  {
+   "surface": "காமுறுதல்",
+   "parts": [
+    {
+     "text": "காமுறு",
+     "lemma": "காமுறு",
+     "gloss": "to desire"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "desiring"
+  },
+  {
+   "surface": "முலை",
+   "parts": [
+    {
+     "text": "முலை",
+     "lemma": "முலை",
+     "gloss": "breast"
+    }
+   ],
+   "gloss": "breast"
+  },
+  {
+   "surface": "இரண்டும்",
+   "parts": [
+    {
+     "text": "இரண்டு",
+     "lemma": "இரண்டு",
+     "gloss": "two"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and/both"
+    }
+   ],
+   "gloss": "both"
+  },
+  {
+   "surface": "இல்லாதாள்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "to not have"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "3sg.f. suffix"
+    }
+   ],
+   "gloss": "woman who lacks"
+  },
+  {
+   "surface": "பெண்",
+   "parts": [
+    {
+     "text": "பெண்",
+     "lemma": "பெண்",
+     "gloss": "woman/womanhood"
+    }
+   ],
+   "gloss": "womanhood"
+  },
+  {
+   "surface": "காமுற்று",
+   "parts": [
+    {
+     "text": "காமுற்று",
+     "lemma": "காமுறு",
+     "gloss": "having desired"
+    }
+   ],
+   "gloss": "having desired"
+  },
+  {
+   "surface": "அற்று",
+   "parts": [
+    {
+     "text": "அற்று",
+     "lemma": "அற்று",
+     "gloss": "like that"
+    }
+   ],
+   "gloss": "like that"
+  }
+ ],
+ "literal": "Unlearned man speech desiring, breasts both lacking woman womanhood having desired like that.",
+ "translation": "An unlearned man desiring to speak is like a woman lacking both breasts desiring womanhood.",
+ "modern": "கல்வி கற்காதவன் அவையில் பேச விரும்புவது, இரண்டு மார்பகங்களும் இல்லாத ஒருத்தி பெண்மையை விரும்பியதைப் போன்றது.",
+ "explanation": "This couplet uses a striking physical analogy to illustrate the futility of an unlearned person trying to participate in scholarly discourse. The phrase 'கல்லாதான் சொல் காமுறுதல்' describes an uneducated man's desire to speak or give an address. The poet compares this to a woman lacking both breasts ('முலை இரண்டும் இல்லாதாள்') who still desires to experience or display womanhood ('பெண் காமுற்று'). Just as the physical attribute is considered essential for the latter in this imagery, learning is the indispensable foundation for speaking with authority.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

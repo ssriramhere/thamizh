@@ -1,0 +1,119 @@
+{
+ "words": [
+  {
+   "surface": "நனவினால்",
+   "parts": [
+    {
+     "text": "நனவு",
+     "lemma": "நனவு",
+     "gloss": "waking state"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "link"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in waking state"
+  },
+  {
+   "surface": "நம்",
+   "parts": [
+    {
+     "text": "நம்",
+     "lemma": "நாம்",
+     "gloss": "us"
+    }
+   ],
+   "gloss": "us"
+  },
+  {
+   "surface": "நீத்தார்",
+   "parts": [
+    {
+     "text": "நீத்தார்",
+     "lemma": "நீ",
+     "gloss": "he abandoned"
+    }
+   ],
+   "gloss": "he abandoned"
+  },
+  {
+   "surface": "என்பர்",
+   "parts": [
+    {
+     "text": "என்பர்",
+     "lemma": "என்",
+     "gloss": "they say"
+    }
+   ],
+   "gloss": "they say"
+  },
+  {
+   "surface": "கனவினால்",
+   "parts": [
+    {
+     "text": "கனவு",
+     "lemma": "கனவு",
+     "gloss": "dream"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "link"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in dream"
+  },
+  {
+   "surface": "காணார்",
+   "parts": [
+    {
+     "text": "காணார்",
+     "lemma": "காண்",
+     "gloss": "they see not"
+    }
+   ],
+   "gloss": "they see not"
+  },
+  {
+   "surface": "கொல்",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "I wonder"
+  },
+  {
+   "surface": "இவ்வூரவர்",
+   "parts": [
+    {
+     "text": "இவ்வூரவர்",
+     "lemma": "இவ்வூரவர்",
+     "gloss": "people of this town"
+    }
+   ],
+   "gloss": "people of this town",
+   "split_unverified": true
+  }
+ ],
+ "literal": "In waking state us he abandoned they say; in dream they see not I wonder this town's people.",
+ "translation": "The people of this town say he has abandoned me in my waking hours. Do they not see him visiting me in my dreams?",
+ "modern": "அவர் என்னை நனவில் பிரிந்துவிட்டார் என்று இந்த ஊர் மக்கள் பழித்துச் சொல்கிறார்கள். ஆனால் அவர் என் கனவில் என்னுடன் இருப்பதை இவர்கள் காண்பதில்லையோ?",
+ "explanation": "The heroine responds to the local gossip that her lover has left her. The townspeople only see her waking reality, where she is alone and suffering. She wonders if they are blind to her dreams, where he is constantly present with her. The contrast between waking and dreaming highlights her rich inner life, which remains hidden from the judgmental eyes of the town.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,126 @@
+{
+ "words": [
+  {
+   "surface": "கடல்",
+   "parts": [
+    {
+     "text": "கடல்",
+     "lemma": "கடல்",
+     "gloss": "sea"
+    }
+   ],
+   "gloss": "sea"
+  },
+  {
+   "surface": "ஓடா",
+   "parts": [
+    {
+     "text": "ஓடா",
+     "lemma": "ஓடு",
+     "gloss": "run-not"
+    }
+   ],
+   "gloss": "will not run"
+  },
+  {
+   "surface": "கால்",
+   "parts": [
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "wheel"
+    }
+   ],
+   "gloss": "wheel"
+  },
+  {
+   "surface": "வல்",
+   "parts": [
+    {
+     "text": "வல்",
+     "lemma": "வல்",
+     "gloss": "strong"
+    }
+   ],
+   "gloss": "strong"
+  },
+  {
+   "surface": "நெடுந்தேர்",
+   "parts": [
+    {
+     "text": "நெடுந்தேர்",
+     "lemma": "நெடுந்தேர்",
+     "gloss": "tall chariot"
+    }
+   ],
+   "gloss": "tall chariot",
+   "split_unverified": true
+  },
+  {
+   "surface": "கடல்",
+   "parts": [
+    {
+     "text": "கடல்",
+     "lemma": "கடல்",
+     "gloss": "sea"
+    }
+   ],
+   "gloss": "sea"
+  },
+  {
+   "surface": "ஓடும்",
+   "parts": [
+    {
+     "text": "ஓடும்",
+     "lemma": "ஓடு",
+     "gloss": "running"
+    }
+   ],
+   "gloss": "running"
+  },
+  {
+   "surface": "நாவாயும்",
+   "parts": [
+    {
+     "text": "நாவாய்",
+     "lemma": "நாவாய்",
+     "gloss": "ship"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "too"
+    }
+   ],
+   "gloss": "ships too"
+  },
+  {
+   "surface": "ஓடா",
+   "parts": [
+    {
+     "text": "ஓடா",
+     "lemma": "ஓடு",
+     "gloss": "run-not"
+    }
+   ],
+   "gloss": "will not run"
+  },
+  {
+   "surface": "நிலத்து",
+   "parts": [
+    {
+     "text": "நிலத்து",
+     "lemma": "நிலம்",
+     "gloss": "on land"
+    }
+   ],
+   "gloss": "on land"
+  }
+ ],
+ "literal": "Sea will not run wheel strong tall chariot sea running ship too will not run on land.",
+ "translation": "Strong-wheeled tall chariots will not run on the sea, and ships that run on the sea will not run on land.",
+ "modern": "வலிய சக்கரங்களை உடைய பெரிய தேர்கள் கடலில் ஓடமாட்டா. கடலில் ஓடும் கப்பல்களும் நிலத்தில் ஓடமாட்டா.",
+ "explanation": "This couplet illustrates the importance of choosing the right place for an action. A chariot, despite its strong wheels, is useless on the sea, just as a ship is useless on land. The words emphasize that even great strength and excellent equipment are ineffective if the environment is wrong.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

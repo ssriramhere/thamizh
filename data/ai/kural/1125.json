@@ -1,0 +1,160 @@
+{
+ "words": [
+  {
+   "surface": "உள்ளுவன்",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "to think"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "1st person singular suffix"
+    }
+   ],
+   "gloss": "I will think"
+  },
+  {
+   "surface": "மன்",
+   "parts": [
+    {
+     "text": "மன்",
+     "lemma": "மன்",
+     "gloss": "indeed (particle)"
+    }
+   ],
+   "gloss": "indeed"
+  },
+  {
+   "surface": "யான்",
+   "parts": [
+    {
+     "text": "யான்",
+     "lemma": "யான்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I"
+  },
+  {
+   "surface": "மறப்பின்",
+   "parts": [
+    {
+     "text": "மற",
+     "lemma": "மற",
+     "gloss": "to forget"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if (conditional suffix)"
+    }
+   ],
+   "gloss": "if I forget"
+  },
+  {
+   "surface": "மறப்பு",
+   "parts": [
+    {
+     "text": "மறப்பு",
+     "lemma": "மறப்பு",
+     "gloss": "forgetting"
+    }
+   ],
+   "gloss": "forgetting"
+  },
+  {
+   "surface": "அறியேன்",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "to know"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "1st person singular negative suffix"
+    }
+   ],
+   "gloss": "I know not"
+  },
+  {
+   "surface": "ஒள்",
+   "parts": [
+    {
+     "text": "ஒள்",
+     "lemma": "ஒள்",
+     "gloss": "bright"
+    }
+   ],
+   "gloss": "bright"
+  },
+  {
+   "surface": "அமர்",
+   "parts": [
+    {
+     "text": "அமர்",
+     "lemma": "அமர்",
+     "gloss": "battle"
+    }
+   ],
+   "gloss": "battling"
+  },
+  {
+   "surface": "கண்ணாள்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she who has"
+    }
+   ],
+   "gloss": "she who has eyes"
+  },
+  {
+   "surface": "குணம்",
+   "parts": [
+    {
+     "text": "குணம்",
+     "lemma": "குணம்",
+     "gloss": "quality"
+    }
+   ],
+   "gloss": "qualities"
+  }
+ ],
+ "literal": "I will think indeed I if forget; forgetting I know not, bright battling eyed woman's qualities.",
+ "translation": "I would only need to think of her if I ever forgot her. But I never forget the qualities of the woman with bright, battling eyes.",
+ "modern": "நான் அவளை மறந்தால்தானே நினைப்பதற்கு? ஒளியுடைய போர் செய்யும் கண்களை உடையவளின் குணங்களை நான் ஒருபோதும் மறப்பதே இல்லை.",
+ "explanation": "The speaker expresses the constancy of his love by playing with the concepts of remembering and forgetting. He states that one only needs to actively remember someone if they have been forgotten. Since the sweet qualities of his lover never leave his mind, he never experiences forgetting her, and thus never has to make an effort to remember her. The phrase 'battling eyes' is a classical poetic image capturing the captivating, piercing nature of her gaze that has conquered his heart.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,119 @@
+{
+ "words": [
+  {
+   "surface": "இடுக்கண்",
+   "parts": [
+    {
+     "text": "இடுக்கண்",
+     "lemma": "இடுக்கண்",
+     "gloss": "adversity"
+    }
+   ],
+   "gloss": "adversity"
+  },
+  {
+   "surface": "கால்",
+   "parts": [
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "axe"
+    }
+   ],
+   "gloss": "axe"
+  },
+  {
+   "surface": "கொன்றிட",
+   "parts": [
+    {
+     "text": "கொன்று",
+     "lemma": "கொல்",
+     "gloss": "having struck"
+    },
+    {
+     "text": "இட",
+     "lemma": "இடு",
+     "gloss": "when doing"
+    }
+   ],
+   "gloss": "when striking down"
+  },
+  {
+   "surface": "வீழும்",
+   "parts": [
+    {
+     "text": "வீழும்",
+     "lemma": "வீழ்",
+     "gloss": "will fall"
+    }
+   ],
+   "gloss": "will fall"
+  },
+  {
+   "surface": "அடுத்து",
+   "parts": [
+    {
+     "text": "அடுத்து",
+     "lemma": "அடு",
+     "gloss": "having approached"
+    }
+   ],
+   "gloss": "having approached"
+  },
+  {
+   "surface": "ஊன்றும்",
+   "parts": [
+    {
+     "text": "ஊன்றும்",
+     "lemma": "ஊன்று",
+     "gloss": "propping up"
+    }
+   ],
+   "gloss": "who props up"
+  },
+  {
+   "surface": "நல்லாள்",
+   "parts": [
+    {
+     "text": "நல்",
+     "lemma": "நல்",
+     "gloss": "good/capable"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "person"
+    }
+   ],
+   "gloss": "capable person"
+  },
+  {
+   "surface": "இலாத",
+   "parts": [
+    {
+     "text": "இலாத",
+     "lemma": "இல்",
+     "gloss": "without"
+    }
+   ],
+   "gloss": "without"
+  },
+  {
+   "surface": "குடி",
+   "parts": [
+    {
+     "text": "குடி",
+     "lemma": "குடி",
+     "gloss": "family"
+    }
+   ],
+   "gloss": "family"
+  }
+ ],
+ "literal": "Adversity axe when striking down will fall, having approached who props up capable person without family.",
+ "translation": "A family without a capable person to step in and prop it up will fall when the axe of adversity strikes.",
+ "modern": "துன்பம் என்னும் கோடரி வெட்டும்போது, அருகில் சென்று தாங்கிப் பிடிக்கும் திறமையுடைய ஆள் இல்லாத குடும்பம் வீழ்ந்து அழியும்.",
+ "explanation": "This couplet uses the metaphor of a tree to describe a family facing hard times. 'இடுக்கண்' means adversity, which acts like an axe ('கால்') striking at the family. 'அடுத்து ஊன்றும் நல்லாள்' refers to a capable person who steps close and acts as a prop to support the family. Without such a strong individual to bear the weight, the family ('குடி') will inevitably collapse ('வீழும்') under the blows of misfortune.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

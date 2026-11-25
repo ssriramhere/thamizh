@@ -1,0 +1,160 @@
+{
+ "words": [
+  {
+   "surface": "தொக",
+   "parts": [
+    {
+     "text": "தொகு",
+     "lemma": "தொகு",
+     "gloss": "to summarize"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
+    }
+   ],
+   "gloss": "to summarize"
+  },
+  {
+   "surface": "சொல்லி",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "to speak"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "verbal participle suffix"
+    }
+   ],
+   "gloss": "having spoken"
+  },
+  {
+   "surface": "தூவாத",
+   "parts": [
+    {
+     "text": "தூவாத",
+     "lemma": "தூவாத",
+     "gloss": "displeasing things"
+    }
+   ],
+   "gloss": "displeasing things"
+  },
+  {
+   "surface": "நீக்கி",
+   "parts": [
+    {
+     "text": "நீக்கு",
+     "lemma": "நீக்கு",
+     "gloss": "to remove"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "verbal participle suffix"
+    }
+   ],
+   "gloss": "having removed"
+  },
+  {
+   "surface": "நக",
+   "parts": [
+    {
+     "text": "நகு",
+     "lemma": "நகு",
+     "gloss": "to smile"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
+    }
+   ],
+   "gloss": "to smile"
+  },
+  {
+   "surface": "சொல்லி",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "to speak"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "verbal participle suffix"
+    }
+   ],
+   "gloss": "having spoken"
+  },
+  {
+   "surface": "நன்றி",
+   "parts": [
+    {
+     "text": "நன்றி",
+     "lemma": "நன்றி",
+     "gloss": "benefit"
+    }
+   ],
+   "gloss": "benefit"
+  },
+  {
+   "surface": "பயப்பது",
+   "parts": [
+    {
+     "text": "பய",
+     "lemma": "பய",
+     "gloss": "to yield"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "neuter singular suffix"
+    }
+   ],
+   "gloss": "that which yields"
+  },
+  {
+   "surface": "ஆம்",
+   "parts": [
+    {
+     "text": "ஆம்",
+     "lemma": "ஆகு",
+     "gloss": "is"
+    }
+   ],
+   "gloss": "is"
+  },
+  {
+   "surface": "தூது",
+   "parts": [
+    {
+     "text": "தூது",
+     "lemma": "தூது",
+     "gloss": "envoy"
+    }
+   ],
+   "gloss": "envoy"
+  }
+ ],
+ "literal": "To summarize having spoken, displeasing things having removed, to smile having spoken, benefit that which yields is an envoy.",
+ "translation": "A true envoy speaks concisely, avoids displeasing words, speaks to bring a smile, and thereby yields a beneficial outcome.",
+ "modern": "சுருக்கமாகச் சொல்ல வேண்டியதைச் சொல்லி, வெறுப்பூட்டும் சொற்களை நீக்கி, கேட்பவர் மகிழும்படி பேசி, நன்மையை உருவாக்குபவரே சிறந்த தூதுவர் ஆவார்.",
+ "explanation": "This couplet outlines the communication strategy of a successful envoy. First, they must speak concisely ('தொகச் சொல்லி') so the core message is clear and impactful. Second, they must filter out any harsh or useless words ('தூவாத நீக்கி') that might offend the listener. Finally, they must deliver the message in a pleasant way that brings a smile ('நகச்சொல்லி'), ensuring that the diplomatic mission yields a beneficial result ('நன்றி பயப்பது').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

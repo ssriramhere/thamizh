@@ -1,0 +1,138 @@
+{
+ "words": [
+  {
+   "surface": "எப்பொருளும்",
+   "parts": [
+    {
+     "text": "எ",
+     "lemma": "எ",
+     "gloss": "any"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "matter"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even/all"
+    }
+   ],
+   "gloss": "any matter"
+  },
+  {
+   "surface": "ஓரார்",
+   "parts": [
+    {
+     "text": "ஓர்",
+     "lemma": "ஓர்",
+     "gloss": "to listen"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "do not eavesdrop"
+  },
+  {
+   "surface": "தொடரார்",
+   "parts": [
+    {
+     "text": "தொடர்",
+     "lemma": "தொடர்",
+     "gloss": "to pursue"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "do not pursue"
+  },
+  {
+   "surface": "மற்று",
+   "parts": [
+    {
+     "text": "மற்று",
+     "lemma": "மற்று",
+     "gloss": "but"
+    }
+   ],
+   "gloss": "but"
+  },
+  {
+   "surface": "அப்பொருளை",
+   "parts": [
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "that"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "matter"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "that matter"
+  },
+  {
+   "surface": "விட்டக்கால்",
+   "parts": [
+    {
+     "text": "விட்ட",
+     "lemma": "விடு",
+     "gloss": "let out"
+    },
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "when"
+    }
+   ],
+   "gloss": "when revealed"
+  },
+  {
+   "surface": "கேட்க",
+   "parts": [
+    {
+     "text": "கேள்",
+     "lemma": "கேள்",
+     "gloss": "to listen"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix"
+    }
+   ],
+   "gloss": "let one listen"
+  },
+  {
+   "surface": "மறை",
+   "parts": [
+    {
+     "text": "மறை",
+     "lemma": "மறை",
+     "gloss": "secret"
+    }
+   ],
+   "gloss": "secret"
+  }
+ ],
+ "literal": "Any matter, do not eavesdrop, do not pursue; but that matter when revealed, let one listen to the secret.",
+ "translation": "Do not eavesdrop or pry into any matter. But when the ruler willingly reveals that matter, then listen to the secret.",
+ "modern": "அரசர் பேசும் எந்தவொரு செய்தியையும் ஒட்டுக்கேட்கக் கூடாது; அதைப்பற்றித் துருவிக் கேட்கவும் கூடாது. அவராகவே அந்தச் செய்தியைச் சொல்லும் போது மட்டும் அந்த இரகசியத்தைக் கேட்க வேண்டும்.",
+ "explanation": "This couplet advises on how to handle a ruler's confidential matters. The words 'ஓரார்' (do not eavesdrop) and 'தொடரார்' (do not pursue) instruct the courtier never to spy on or pry into private discussions. The couplet concludes that one should only listen to a secret ('மறை') when the ruler willingly shares it ('விட்டக்கால்'), thereby maintaining trust and proper boundaries.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

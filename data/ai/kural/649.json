@@ -1,0 +1,134 @@
+{
+ "words": [
+  {
+   "surface": "பல",
+   "parts": [
+    {
+     "text": "பல",
+     "lemma": "பல",
+     "gloss": "many things"
+    }
+   ],
+   "gloss": "many things"
+  },
+  {
+   "surface": "சொல்ல",
+   "parts": [
+    {
+     "text": "சொல்ல",
+     "lemma": "சொல்",
+     "gloss": "to say"
+    }
+   ],
+   "gloss": "to say"
+  },
+  {
+   "surface": "காமுறுவர்",
+   "parts": [
+    {
+     "text": "காமுறு",
+     "lemma": "காமுறு",
+     "gloss": "to desire"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (epicene plural suffix)"
+    }
+   ],
+   "gloss": "they will desire"
+  },
+  {
+   "surface": "மன்ற",
+   "parts": [
+    {
+     "text": "மன்ற",
+     "lemma": "மன்ற",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "indeed"
+  },
+  {
+   "surface": "மாசு",
+   "parts": [
+    {
+     "text": "மாசு",
+     "lemma": "மாசு",
+     "gloss": "flaw"
+    }
+   ],
+   "gloss": "flaw"
+  },
+  {
+   "surface": "அற்ற",
+   "parts": [
+    {
+     "text": "அற்ற",
+     "lemma": "அறு",
+     "gloss": "without"
+    }
+   ],
+   "gloss": "without"
+  },
+  {
+   "surface": "சில",
+   "parts": [
+    {
+     "text": "சில",
+     "lemma": "சில",
+     "gloss": "few things"
+    }
+   ],
+   "gloss": "few things"
+  },
+  {
+   "surface": "சொல்லல்",
+   "parts": [
+    {
+     "text": "சொல்லல்",
+     "lemma": "சொல்",
+     "gloss": "saying"
+    }
+   ],
+   "gloss": "saying"
+  },
+  {
+   "surface": "தேற்றாதவர்",
+   "parts": [
+    {
+     "text": "தேற்று",
+     "lemma": "தேற்று",
+     "gloss": "to know"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "those who do not know"
+  }
+ ],
+ "literal": "many things / to say / they will desire / indeed / flaw / without / few things / saying / those who do not know",
+ "translation": "Those who do not know how to speak a few flawless words will indeed desire to speak at length.",
+ "modern": "குற்றமில்லாத சில வார்த்தைகளைச் சுருக்கமாகச் சொல்லத் தெரியாதவர்கள், பல வார்த்தைகளை நீட்டிப் பேசவே விரும்புவார்கள்.",
+ "explanation": "This couplet contrasts the ability to speak concisely with the tendency to talk too much. People who lack the skill to express themselves in a few, flawless words ('மாசு அற்ற சில சொல்லல் தேற்றாதவர்') often try to compensate by saying many things ('பல சொல்லக் காமுறுவர்'). The word 'மன்ற' emphasizes that this is a certain truth. True eloquence lies in clarity and brevity, not in the sheer volume of words.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

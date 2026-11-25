@@ -1,0 +1,134 @@
+{
+ "words": [
+  {
+   "surface": "வாளொடு",
+   "parts": [
+    {
+     "text": "வாள்",
+     "lemma": "வாள்",
+     "gloss": "sword"
+    },
+    {
+     "text": "ஒடு",
+     "lemma": "ஒடு",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "with a sword"
+  },
+  {
+   "surface": "என்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "what"
+    }
+   ],
+   "gloss": "what (use)"
+  },
+  {
+   "surface": "வன்கண்ணர்",
+   "parts": [
+    {
+     "text": "வன்கண்",
+     "lemma": "வன்கண்",
+     "gloss": "bravery"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
+    }
+   ],
+   "gloss": "brave people"
+  },
+  {
+   "surface": "அல்லார்க்கு",
+   "parts": [
+    {
+     "text": "அல்லார்",
+     "lemma": "அல்",
+     "gloss": "those who are not"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to those who are not"
+  },
+  {
+   "surface": "நூலொடு",
+   "parts": [
+    {
+     "text": "நூல்",
+     "lemma": "நூல்",
+     "gloss": "book / learning"
+    },
+    {
+     "text": "ஒடு",
+     "lemma": "ஒடு",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "with learning"
+  },
+  {
+   "surface": "என்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "what"
+    }
+   ],
+   "gloss": "what (use)"
+  },
+  {
+   "surface": "நுண்",
+   "parts": [
+    {
+     "text": "நுண்",
+     "lemma": "நுண்மை",
+     "gloss": "subtle / sharp"
+    }
+   ],
+   "gloss": "subtle"
+  },
+  {
+   "surface": "அவை",
+   "parts": [
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "assembly"
+    }
+   ],
+   "gloss": "assembly"
+  },
+  {
+   "surface": "அஞ்சுபவர்க்கு",
+   "parts": [
+    {
+     "text": "அஞ்சுபவர்",
+     "lemma": "அஞ்சு",
+     "gloss": "those who fear"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to those who fear"
+  }
+ ],
+ "literal": "With a sword, what, to those who are not brave? With a book, what, to those who fear a subtle assembly?",
+ "translation": "What use is a sword to those who lack courage? What use is learning to those who fear an assembly of subtle minds?",
+ "modern": "வீரம் இல்லாதவர்களுக்கு வாளால் என்ன பயன்? அதுபோலவே, கூர்மையான அறிவுடையோர் நிறைந்த அவையைக் கண்டு அஞ்சுபவர்களுக்கு அவர்கள் கற்ற நூல்களால் என்ன பயன்?",
+ "explanation": "This couplet uses a striking analogy to emphasize the importance of confidence in public speaking. It compares a coward holding a sword to a timid scholar facing an assembly. Just as a weapon is useless to someone without bravery (வன்கண்), extensive learning (நூல்) is of no value to someone who is afraid to speak before an assembly of sharp, subtle thinkers (நுண் அவை). The repeated question 'என்' (what use) highlights that tools and knowledge require inner strength to be effective.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

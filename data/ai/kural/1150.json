@@ -1,0 +1,160 @@
+{
+ "words": [
+  {
+   "surface": "தாம்",
+   "parts": [
+    {
+     "text": "தாம்",
+     "lemma": "தாம்",
+     "gloss": "they (honorific)"
+    }
+   ],
+   "gloss": "they (honorific)"
+  },
+  {
+   "surface": "வேண்டின்",
+   "parts": [
+    {
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "to desire"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if desired"
+  },
+  {
+   "surface": "நல்குவர்",
+   "parts": [
+    {
+     "text": "நல்கு",
+     "lemma": "நல்கு",
+     "gloss": "to bestow"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "epicene plural suffix (honorific)"
+    }
+   ],
+   "gloss": "will bestow"
+  },
+  {
+   "surface": "காதலர்",
+   "parts": [
+    {
+     "text": "காதலர்",
+     "lemma": "காதலர்",
+     "gloss": "lover"
+    }
+   ],
+   "gloss": "lover"
+  },
+  {
+   "surface": "யாம்",
+   "parts": [
+    {
+     "text": "யாம்",
+     "lemma": "யாம்",
+     "gloss": "we"
+    }
+   ],
+   "gloss": "we"
+  },
+  {
+   "surface": "வேண்டும்",
+   "parts": [
+    {
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "to desire"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
+    }
+   ],
+   "gloss": "desiring"
+  },
+  {
+   "surface": "கௌவை",
+   "parts": [
+    {
+     "text": "கௌவை",
+     "lemma": "கௌவை",
+     "gloss": "rumour"
+    }
+   ],
+   "gloss": "rumour"
+  },
+  {
+   "surface": "எடுக்கும்",
+   "parts": [
+    {
+     "text": "எடு",
+     "lemma": "எடு",
+     "gloss": "to raise"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual/present suffix"
+    }
+   ],
+   "gloss": "raises"
+  },
+  {
+   "surface": "இவ்",
+   "parts": [
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "this"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "sandhi"
+    }
+   ],
+   "gloss": "this"
+  },
+  {
+   "surface": "ஊர்",
+   "parts": [
+    {
+     "text": "ஊர்",
+     "lemma": "ஊர்",
+     "gloss": "town"
+    }
+   ],
+   "gloss": "town"
+  }
+ ],
+ "literal": "They if-desire will-bestow lover; we desiring rumour raises this town.",
+ "translation": "My lover will grant his grace only if he wishes. But this town raises the very rumour that I desire.",
+ "modern": "காதலர் தாம் விரும்பினால் மட்டுமே எனக்கு அன்பை அளிப்பார். ஆனால் இந்த ஊர் நான் விரும்புகின்ற அலரை (பழியை) தானே எழுப்புகிறது.",
+ "explanation": "The heroine reflects on the public gossip surrounding her secret relationship. She notes that her lover will only show her affection when he himself chooses to do so, leaving her at his mercy. In contrast, the town is actively spreading rumours about them, which is exactly what she wants. The word \"கௌவை\" (uproar or rumour) highlights the public chatter, which serves her purpose by making their love known and compelling her lover to formalize their union.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

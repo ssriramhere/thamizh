@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "உற்றான்",
+   "parts": [
+    {
+     "text": "உற்றான்",
+     "lemma": "உறு",
+     "gloss": "he who suffers"
+    }
+   ],
+   "gloss": "the patient"
+  },
+  {
+   "surface": "அளவும்",
+   "parts": [
+    {
+     "text": "அளவு",
+     "lemma": "அளவு",
+     "gloss": "measure"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "measure and"
+  },
+  {
+   "surface": "பிணி",
+   "parts": [
+    {
+     "text": "பிணி",
+     "lemma": "பிணி",
+     "gloss": "disease"
+    }
+   ],
+   "gloss": "disease"
+  },
+  {
+   "surface": "அளவும்",
+   "parts": [
+    {
+     "text": "அளவு",
+     "lemma": "அளவு",
+     "gloss": "measure"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "measure and"
+  },
+  {
+   "surface": "காலமும்",
+   "parts": [
+    {
+     "text": "காலம்",
+     "lemma": "காலம்",
+     "gloss": "time"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "time and"
+  },
+  {
+   "surface": "கற்றான்",
+   "parts": [
+    {
+     "text": "கற்றான்",
+     "lemma": "கல்",
+     "gloss": "he who has learned"
+    }
+   ],
+   "gloss": "the learned one"
+  },
+  {
+   "surface": "கருதி",
+   "parts": [
+    {
+     "text": "கருதி",
+     "lemma": "கருது",
+     "gloss": "having considered"
+    }
+   ],
+   "gloss": "having considered"
+  },
+  {
+   "surface": "செயல்",
+   "parts": [
+    {
+     "text": "செயல்",
+     "lemma": "செய்",
+     "gloss": "act"
+    }
+   ],
+   "gloss": "should act"
+  }
+ ],
+ "literal": "The patient's measure and the disease's measure and the time, the learned one having considered, should act.",
+ "translation": "The learned physician should act only after considering the condition of the patient, the severity of the disease, and the season.",
+ "modern": "மருத்துவம் கற்ற மருத்துவர், நோயாளியின் உடல்நிலை, நோயின் தன்மை, மற்றும் காலம் ஆகியவற்றை நன்கு ஆராய்ந்த பிறகே மருத்துவச் செயல்களைச் செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the three essential factors a physician must evaluate before treating a patient. 'உற்றான் அளவு' refers to the physical strength, age, and tolerance of the person suffering from the illness. 'பிணி அளவு' denotes the severity and stage of the disease itself. 'காலம்' indicates the time of year or the season, which affects both the body's condition and the efficacy of treatments. By carefully considering all three, the learned doctor ('கற்றான்') ensures the treatment is appropriate and effective.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

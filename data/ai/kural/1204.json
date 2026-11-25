@@ -1,0 +1,108 @@
+{
+ "words": [
+  {
+   "surface": "யாமும்",
+   "parts": [
+    {
+     "text": "யாம்",
+     "lemma": "யாம்",
+     "gloss": "we/I"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "too"
+    }
+   ],
+   "gloss": "I too"
+  },
+  {
+   "surface": "உளேங்கொல்",
+   "parts": [
+    {
+     "text": "உளேம்",
+     "lemma": "உள்",
+     "gloss": "are we (inside)"
+    },
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "I wonder"
+    }
+   ],
+   "gloss": "am I (there) I wonder"
+  },
+  {
+   "surface": "அவர்நெஞ்சத்து",
+   "parts": [
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "his"
+    },
+    {
+     "text": "நெஞ்சத்து",
+     "lemma": "நெஞ்சம்",
+     "gloss": "in the heart"
+    }
+   ],
+   "gloss": "in his heart"
+  },
+  {
+   "surface": "எந்நெஞ்சத்து",
+   "parts": [
+    {
+     "text": "எந்நெஞ்சத்து",
+     "lemma": "எந்நெஞ்சத்து",
+     "gloss": "in my heart"
+    }
+   ],
+   "gloss": "in my heart",
+   "split_unverified": true
+  },
+  {
+   "surface": "ஓஒ",
+   "parts": [
+    {
+     "text": "ஓஒ",
+     "lemma": "ஓ",
+     "gloss": "oh!"
+    }
+   ],
+   "gloss": "oh!"
+  },
+  {
+   "surface": "உளரே",
+   "parts": [
+    {
+     "text": "உளர்",
+     "lemma": "உள்",
+     "gloss": "he is (inside)"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "he is indeed"
+  },
+  {
+   "surface": "அவர்",
+   "parts": [
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he"
+  }
+ ],
+ "literal": "I too - am I (there) I wonder - in his heart? In my heart - oh! - is indeed - he.",
+ "translation": "I wonder if I am still there in his heart? Oh, he is always here in mine!",
+ "modern": "அவர் நெஞ்சத்தில் நாமும் இருக்கிறோமா? என் நெஞ்சத்திலோ அவர் எப்போதும் இருக்கிறாரே!",
+ "explanation": "The speaker, pining for her absent lover, wonders if he thinks of her as much as she thinks of him. She asks if she still exists in his heart ('அவர்நெஞ்சத்து யாமும் உளேங்கொல்'). The exclamation 'ஓஒ' (oh!) expresses her deep sigh of longing and realization. She contrasts his possible forgetfulness with her own constant devotion, noting that he is always present in her heart ('எந்நெஞ்சத்து உளரே அவர்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

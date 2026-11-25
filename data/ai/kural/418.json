@@ -1,0 +1,132 @@
+{
+ "words": [
+  {
+   "surface": "கேட்பினும்",
+   "parts": [
+    {
+     "text": "கேள்",
+     "lemma": "கேள்",
+     "gloss": "to hear"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if they hear"
+  },
+  {
+   "surface": "கேளா",
+   "parts": [
+    {
+     "text": "கேள்",
+     "lemma": "கேள்",
+     "gloss": "to hear"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not hearing"
+  },
+  {
+   "surface": "தகையவே",
+   "parts": [
+    {
+     "text": "தகை",
+     "lemma": "தகை",
+     "gloss": "nature"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "plural suffix"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "emphasis"
+    }
+   ],
+   "gloss": "they are of the nature indeed"
+  },
+  {
+   "surface": "கேள்வியால்",
+   "parts": [
+    {
+     "text": "கேள்வி",
+     "lemma": "கேள்வி",
+     "gloss": "instruction"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by instruction"
+  },
+  {
+   "surface": "தோட்க",
+   "parts": [
+    {
+     "text": "தோள்",
+     "lemma": "தோள்",
+     "gloss": "to pierce"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "infinitive suffix"
+    }
+   ],
+   "gloss": "to be pierced"
+  },
+  {
+   "surface": "படாத",
+   "parts": [
+    {
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "to experience (passive)"
+    },
+    {
+     "text": "ஆத",
+     "lemma": "ஆத",
+     "gloss": "negative relative participle suffix"
+    }
+   ],
+   "gloss": "which are not"
+  },
+  {
+   "surface": "செவி",
+   "parts": [
+    {
+     "text": "செவி",
+     "lemma": "செவி",
+     "gloss": "ear"
+    }
+   ],
+   "gloss": "ears"
+  }
+ ],
+ "literal": "Even if they hear, not hearing of the nature indeed, by instruction to be pierced which are not ears.",
+ "translation": "Ears that have not been pierced by listening to instruction are effectively deaf, even if they can physically hear.",
+ "modern": "அறிவுரைகளைக் கேட்டுத் துளைக்கப்படாத காதுகள், ஒலியைக் கேட்கும் திறன் பெற்றிருந்தாலும், அவை செவிடான காதுகளின் தன்மையையே உடையனவாகும்.",
+ "explanation": "This couplet contrasts physical hearing with intellectual listening. The poet states that ears not opened or pierced by profound instruction might as well be deaf. Even if such ears physically perceive sound, they possess the nature of unhearing ears because they fail to absorb wisdom. The striking metaphor of piercing the ear with knowledge emphasizes that true hearing requires active, receptive learning.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

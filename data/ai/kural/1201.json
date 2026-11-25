@@ -1,0 +1,127 @@
+{
+ "words": [
+  {
+   "surface": "உள்ளினும்",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "to think"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if thought of"
+  },
+  {
+   "surface": "தீரா",
+   "parts": [
+    {
+     "text": "தீர்",
+     "lemma": "தீர்",
+     "gloss": "to cease"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
+    }
+   ],
+   "gloss": "unceasing"
+  },
+  {
+   "surface": "பெருமகிழ்",
+   "parts": [
+    {
+     "text": "பெரு",
+     "lemma": "பெருமை",
+     "gloss": "great"
+    },
+    {
+     "text": "மகிழ்",
+     "lemma": "மகிழ்",
+     "gloss": "joy"
+    }
+   ],
+   "gloss": "great joy"
+  },
+  {
+   "surface": "செய்தலால்",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "because of"
+    }
+   ],
+   "gloss": "because of causing"
+  },
+  {
+   "surface": "கள்ளினும்",
+   "parts": [
+    {
+     "text": "கள்",
+     "lemma": "கள்",
+     "gloss": "toddy"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even more than toddy"
+  },
+  {
+   "surface": "காமம்",
+   "parts": [
+    {
+     "text": "காமம்",
+     "lemma": "காமம்",
+     "gloss": "love"
+    }
+   ],
+   "gloss": "love"
+  },
+  {
+   "surface": "இனிது",
+   "parts": [
+    {
+     "text": "இனிது",
+     "lemma": "இனிமை",
+     "gloss": "is sweet"
+    }
+   ],
+   "gloss": "is sweet"
+  }
+ ],
+ "literal": "Even if thought of, unceasing great joy because of causing, even more than toddy, love is sweet.",
+ "translation": "Love is sweeter than wine, for it brings great and unceasing joy even when merely thought of.",
+ "modern": "நினைத்தாலே நீங்காத பெருமகிழ்ச்சியைத் தருவதால், காதலின் இன்பம் கள்ளை விட இனிமையானது.",
+ "explanation": "This couplet compares the sweetness of love to that of intoxicating liquor. While liquor gives pleasure only when consumed, love brings great and unceasing joy ('தீராப் பெருமகிழ்') even when one merely thinks of the beloved ('உள்ளினும்'). Therefore, the speaker concludes that love is far sweeter than wine ('கள்ளினும் காமம் இனிது'). The contrast highlights the enduring and mental nature of romantic love compared to physical intoxication.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,156 @@
+{
+ "words": [
+  {
+   "surface": "பண்டு",
+   "parts": [
+    {
+     "text": "பண்டு",
+     "lemma": "பண்டு",
+     "gloss": "formerly"
+    }
+   ],
+   "gloss": "formerly"
+  },
+  {
+   "surface": "அறியேன்",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "know"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I-not"
+    }
+   ],
+   "gloss": "I knew not"
+  },
+  {
+   "surface": "கூற்று",
+   "parts": [
+    {
+     "text": "கூற்று",
+     "lemma": "கூற்று",
+     "gloss": "Death"
+    }
+   ],
+   "gloss": "Death"
+  },
+  {
+   "surface": "என்பதனை",
+   "parts": [
+    {
+     "text": "என்பது",
+     "lemma": "என்ப",
+     "gloss": "that which is called"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "empty morpheme"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "that which is called (acc.)"
+  },
+  {
+   "surface": "இனி",
+   "parts": [
+    {
+     "text": "இனி",
+     "lemma": "இனி",
+     "gloss": "now"
+    }
+   ],
+   "gloss": "now"
+  },
+  {
+   "surface": "அறிந்தேன்",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "know"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I have known"
+  },
+  {
+   "surface": "பெண்டகையால்",
+   "parts": [
+    {
+     "text": "பெண்டகையால்",
+     "lemma": "பெண்டகையால்",
+     "gloss": "with womanly beauty"
+    }
+   ],
+   "gloss": "with womanly beauty",
+   "split_unverified": true
+  },
+  {
+   "surface": "பேரமர்க்",
+   "parts": [
+    {
+     "text": "பேர்",
+     "lemma": "பெருமை",
+     "gloss": "great"
+    },
+    {
+     "text": "அமர்",
+     "lemma": "அமர்",
+     "gloss": "battle"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    }
+   ],
+   "gloss": "great battle"
+  },
+  {
+   "surface": "கட்டு",
+   "parts": [
+    {
+     "text": "கட்டு",
+     "lemma": "கட்டு",
+     "gloss": "it has eyes"
+    }
+   ],
+   "gloss": "it has eyes",
+   "split_unverified": true
+  }
+ ],
+ "literal": "Formerly I knew not Death, that which is called; now I have known (it), with womanly beauty it has eyes of great battle.",
+ "translation": "I never knew what Death was before, but now I know: it takes the form of a beautiful woman with large, battling eyes.",
+ "modern": "முன்பு எமன் என்று சொல்லப்படுவதை நான் அறிந்ததில்லை; ஆனால் இப்போது அறிந்தேன், அது பெண் தன்மையுடன் பெரிய போர் செய்யும் கண்களை உடையது என்று.",
+ "explanation": "The speaker, struck by the heroine's beauty, compares her captivating eyes to Death itself. He says that he had only heard of Death before but had never seen it. Now he realizes that Death does not come as a terrifying figure, but rather wrapped in feminine beauty, armed with large, piercing eyes that wage a battle on his heart.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

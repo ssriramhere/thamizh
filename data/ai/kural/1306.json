@@ -1,0 +1,112 @@
+{
+ "words": [
+  {
+   "surface": "துனியும்",
+   "parts": [
+    {
+     "text": "துனி",
+     "lemma": "துனி",
+     "gloss": "deep sulking"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "deep sulking and"
+  },
+  {
+   "surface": "புலவியும்",
+   "parts": [
+    {
+     "text": "புலவி",
+     "lemma": "புலவி",
+     "gloss": "feigned anger"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "feigned anger and"
+  },
+  {
+   "surface": "இல்லாயின்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "not"
+    },
+    {
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
+     "gloss": "if it is"
+    }
+   ],
+   "gloss": "if absent"
+  },
+  {
+   "surface": "காமம்",
+   "parts": [
+    {
+     "text": "காமம்",
+     "lemma": "காமம்",
+     "gloss": "love"
+    }
+   ],
+   "gloss": "love"
+  },
+  {
+   "surface": "கனியும்",
+   "parts": [
+    {
+     "text": "கனி",
+     "lemma": "கனி",
+     "gloss": "ripe fruit"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "ripe fruit and"
+  },
+  {
+   "surface": "கருக்காயும்",
+   "parts": [
+    {
+     "text": "கருக்காய்",
+     "lemma": "கருக்காய்",
+     "gloss": "unripe fruit"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "unripe fruit and"
+  },
+  {
+   "surface": "அற்று",
+   "parts": [
+    {
+     "text": "அற்று",
+     "lemma": "அற்று",
+     "gloss": "like that"
+    }
+   ],
+   "gloss": "like that"
+  }
+ ],
+ "literal": "Deep sulking and feigned anger if absent, love is like ripe fruit and unripe fruit.",
+ "translation": "In love, deep sulking is like a bitter unripe fruit, and the complete absence of playful sulking is like a cloying overripe fruit.",
+ "modern": "காதலில் நீண்ட ஊடல் இருந்தால் அது முதிராத கருக்காயைப் போன்றது; செல்லமான சிறு ஊடலும் இல்லாவிட்டால் அது மிகவும் கனிந்த பழத்தைப் போன்றது.",
+ "explanation": "This couplet uses a poetic cross-mapping to contrast two extremes in lovers' quarrels. 'துனி' (deep, prolonged anger) makes love harsh and bitter, like an unripe fruit ('கருக்காய்'). Conversely, if 'புலவி' (light, playful sulking) is completely absent ('இல்லாயின்'), love becomes too sweet and soft, like an overripe fruit ('கனி'). The poet suggests that ideal love requires just the right amount of playful friction to be perfectly enjoyable, neither too hard nor too soft.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

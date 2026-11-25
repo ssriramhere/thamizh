@@ -1,0 +1,190 @@
+{
+ "words": [
+  {
+   "surface": "காணாதான்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who does not see"
+  },
+  {
+   "surface": "காட்டுவான்",
+   "parts": [
+    {
+     "text": "காட்டு",
+     "lemma": "காட்டு",
+     "gloss": "to show"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who shows"
+  },
+  {
+   "surface": "தான்",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "himself"
+    }
+   ],
+   "gloss": "himself"
+  },
+  {
+   "surface": "காணான்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he will not"
+    }
+   ],
+   "gloss": "he will not see"
+  },
+  {
+   "surface": "காணாதான்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who does not see"
+  },
+  {
+   "surface": "கண்டான்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "ட்",
+     "lemma": "ட்",
+     "gloss": "past"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who has seen"
+  },
+  {
+   "surface": "ஆம்",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "to become"
+    },
+    {
+     "text": "ம்",
+     "lemma": "ம்",
+     "gloss": "future"
+    }
+   ],
+   "gloss": "becomes"
+  },
+  {
+   "surface": "தான்",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "himself"
+    }
+   ],
+   "gloss": "himself"
+  },
+  {
+   "surface": "கண்ட",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "ட்",
+     "lemma": "ட்",
+     "gloss": "past"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle"
+    }
+   ],
+   "gloss": "seen"
+  },
+  {
+   "surface": "ஆறு",
+   "parts": [
+    {
+     "text": "ஆறு",
+     "lemma": "ஆறு",
+     "gloss": "way"
+    }
+   ],
+   "gloss": "way"
+  }
+ ],
+ "literal": "He who does not see, he who shows, himself will not see; he who does not see, he who has seen becomes, the way he himself has seen.",
+ "translation": "He who tries to teach a man who cannot see will himself fail to see. The man who cannot see will think he has seen, but only in his own limited way.",
+ "modern": "அறிவில்லாதவனுக்கு அறிவுரை கூற முயல்பவன், தானும் அறிவில்லாதவன் ஆவான். அந்த அறிவில்லாதவனோ, தனக்குத் தெரிந்த அளவிலேயே தான் எல்லாம் அறிந்தவனாக நினைத்துக்கொள்வான்.",
+ "explanation": "This couplet explains the futility of trying to teach someone who is stubbornly ignorant. The word 'காணாதான்' refers to a person who lacks understanding or refuses to see the truth. If a wise person tries to show ('காட்டுவான்') the truth to such a person, the wise person's efforts will fail, making him look foolish ('தான் காணான்'). Furthermore, the ignorant person will simply twist the teaching to fit his own flawed perspective ('தான் கண்ட ஆறு'), falsely believing he has understood everything ('கண்டானாம்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

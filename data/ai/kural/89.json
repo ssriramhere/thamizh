@@ -1,0 +1,102 @@
+{
+ "words": [
+  {
+   "surface": "உடைமையுள்",
+   "parts": [
+    {
+     "text": "உடைமை",
+     "lemma": "உடைமை",
+     "gloss": "wealth"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "within"
+    }
+   ],
+   "gloss": "within wealth"
+  },
+  {
+   "surface": "இன்மை",
+   "parts": [
+    {
+     "text": "இன்மை",
+     "lemma": "இன்மை",
+     "gloss": "poverty"
+    }
+   ],
+   "gloss": "poverty"
+  },
+  {
+   "surface": "விருந்தோம்பல்",
+   "parts": [
+    {
+     "text": "விருந்து",
+     "lemma": "விருந்து",
+     "gloss": "guest"
+    },
+    {
+     "text": "ஓம்பல்",
+     "lemma": "ஓம்பல்",
+     "gloss": "cherishing"
+    }
+   ],
+   "gloss": "guest-cherishing"
+  },
+  {
+   "surface": "ஓம்பா",
+   "parts": [
+    {
+     "text": "ஓம்பா",
+     "lemma": "ஓம்பு",
+     "gloss": "not cherishing"
+    }
+   ],
+   "gloss": "not cherishing"
+  },
+  {
+   "surface": "மடமை",
+   "parts": [
+    {
+     "text": "மடமை",
+     "lemma": "மடமை",
+     "gloss": "stupidity"
+    }
+   ],
+   "gloss": "stupidity"
+  },
+  {
+   "surface": "மடவார்கண்",
+   "parts": [
+    {
+     "text": "மடவார்",
+     "lemma": "மடவார்",
+     "gloss": "ignorant people"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "with ignorant people"
+  },
+  {
+   "surface": "உண்டு",
+   "parts": [
+    {
+     "text": "உண்டு",
+     "lemma": "உண்டு",
+     "gloss": "exists"
+    }
+   ],
+   "gloss": "exists"
+  }
+ ],
+ "literal": "Within wealth poverty guest-cherishing not-practicing stupidity; ignorant people-with exists.",
+ "translation": "The poverty within wealth is the stupidity of failing to cherish guests. Such stupidity is found only among the ignorant.",
+ "modern": "செல்வம் இருந்தும் வறுமையாக இருப்பது விருந்தினரை உபசரிக்காத அறியாமையாகும். அந்த அறியாமை அறிவற்றவர்களிடம் மட்டுமே இருக்கும்.",
+ "explanation": "The couplet contrasts material wealth with the moral poverty of not hosting guests. The word inmai can mean non-existence or poverty; here it means poverty, directly contrasting with udaimai (wealth) to show that riches are useless if unshared. The word ompa means failing to protect or cherish, which defines the madamai or stupidity of the wealthy miser. Ultimately, the poet states that this specific kind of stupidity exists only among madavar, the truly ignorant.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

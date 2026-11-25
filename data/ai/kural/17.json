@@ -1,0 +1,125 @@
+{
+ "words": [
+  {
+   "surface": "நெடுங்கடலும்",
+   "parts": [
+    {
+     "text": "நெடுங்கடல்",
+     "lemma": "நெடுங்கடல்",
+     "gloss": "vast sea"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even the vast sea"
+  },
+  {
+   "surface": "தன்",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "its"
+    }
+   ],
+   "gloss": "its"
+  },
+  {
+   "surface": "நீர்மை",
+   "parts": [
+    {
+     "text": "நீர்மை",
+     "lemma": "நீர்மை",
+     "gloss": "nature"
+    }
+   ],
+   "gloss": "nature"
+  },
+  {
+   "surface": "குன்றும்",
+   "parts": [
+    {
+     "text": "குன்றும்",
+     "lemma": "குன்று",
+     "gloss": "will diminish"
+    }
+   ],
+   "gloss": "will diminish"
+  },
+  {
+   "surface": "தடிந்து",
+   "parts": [
+    {
+     "text": "தடிந்து",
+     "lemma": "தடி",
+     "gloss": "having flashed"
+    }
+   ],
+   "gloss": "having flashed"
+  },
+  {
+   "surface": "எழிலி",
+   "parts": [
+    {
+     "text": "எழிலி",
+     "lemma": "எழிலி",
+     "gloss": "cloud"
+    }
+   ],
+   "gloss": "cloud"
+  },
+  {
+   "surface": "தான்",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "itself"
+    }
+   ],
+   "gloss": "itself"
+  },
+  {
+   "surface": "நல்காது",
+   "parts": [
+    {
+     "text": "நல்காது",
+     "lemma": "நல்கு",
+     "gloss": "without giving"
+    }
+   ],
+   "gloss": "without giving"
+  },
+  {
+   "surface": "ஆகி",
+   "parts": [
+    {
+     "text": "ஆகி",
+     "lemma": "ஆகு",
+     "gloss": "having become"
+    }
+   ],
+   "gloss": "having become"
+  },
+  {
+   "surface": "விடின்",
+   "parts": [
+    {
+     "text": "விடின்",
+     "lemma": "விடு",
+     "gloss": "if it leaves"
+    }
+   ],
+   "gloss": "if it fails"
+  }
+ ],
+ "literal": "Even the vast sea its nature will diminish, having flashed the cloud itself without giving having become if it leaves.",
+ "translation": "Even the vast sea will diminish in its nature, if the cloud, having flashed with lightning, fails to give back rain.",
+ "modern": "மேகங்கள் மின்னலிட்டு மழையாகப் பெய்யாமல் போனால், பெரிய கடலும் தன் இயல்பிலிருந்து குறைந்துவிடும்.",
+ "explanation": "This couplet emphasizes the absolute necessity of rain for all of nature, including the ocean. The word 'தடிந்து' (having flashed or grown thick) describes the cloud preparing to rain. If the cloud ('எழிலி') fails to pour down ('நல்காது ஆகி விடின்'), even the vast sea ('நெடுங்கடலும்') will lose its nature ('தன் நீர்மை குன்றும்'). This shows that the ocean's fullness depends entirely on the continuous cycle of rain.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

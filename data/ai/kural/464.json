@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "தெளிவு",
+   "parts": [
+    {
+     "text": "தெளிவு",
+     "lemma": "தெளிவு",
+     "gloss": "clarity"
+    }
+   ],
+   "gloss": "clarity"
+  },
+  {
+   "surface": "இல்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "without"
+    }
+   ],
+   "gloss": "without"
+  },
+  {
+   "surface": "அதனை",
+   "parts": [
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "empty morpheme"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "that (action)"
+  },
+  {
+   "surface": "தொடங்கார்",
+   "parts": [
+    {
+     "text": "தொடங்கு",
+     "lemma": "தொடங்கு",
+     "gloss": "begin"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (negative)"
+    }
+   ],
+   "gloss": "they will not begin"
+  },
+  {
+   "surface": "இளிவு",
+   "parts": [
+    {
+     "text": "இளிவு",
+     "lemma": "இளிவு",
+     "gloss": "disgrace"
+    }
+   ],
+   "gloss": "disgrace"
+  },
+  {
+   "surface": "என்னும்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
+    }
+   ],
+   "gloss": "which is called"
+  },
+  {
+   "surface": "ஏதப்பாடு",
+   "parts": [
+    {
+     "text": "ஏதப்பாடு",
+     "lemma": "ஏதப்பாடு",
+     "gloss": "affliction"
+    }
+   ],
+   "gloss": "affliction"
+  },
+  {
+   "surface": "அஞ்சுபவர்",
+   "parts": [
+    {
+     "text": "அஞ்சு",
+     "lemma": "அஞ்சு",
+     "gloss": "fear"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "those who"
+    }
+   ],
+   "gloss": "those who fear"
+  }
+ ],
+ "literal": "Clarity without that-which-is they-will-not-begin disgrace called affliction those-who-fear.",
+ "translation": "Those who fear the affliction called disgrace will not begin an action that lacks clarity.",
+ "modern": "இழிவு என்னும் துன்பத்திற்குப் பயப்படுகின்றவர்கள், தெளிவு இல்லாத எந்த ஒரு செயலையும் தொடங்க மாட்டார்கள்.",
+ "explanation": "This couplet warns against undertaking actions without a clear understanding of the methods and consequences. The word 'தெளிவு' refers to a clear, well-thought-out plan. Those who dread the sorrow and shame that come from failure will never start a poorly understood task. Thus, careful deliberation is the only shield against disgrace.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

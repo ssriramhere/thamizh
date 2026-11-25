@@ -1,0 +1,177 @@
+{
+ "words": [
+  {
+   "surface": "எண்",
+   "parts": [
+    {
+     "text": "எண்",
+     "lemma": "எண்",
+     "gloss": "easy"
+    }
+   ],
+   "gloss": "easy"
+  },
+  {
+   "surface": "பொருள",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "meaning"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "neuter plural suffix"
+    }
+   ],
+   "gloss": "things with meaning"
+  },
+  {
+   "surface": "ஆக",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "to become"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "infinitive suffix"
+    }
+   ],
+   "gloss": "so that it becomes"
+  },
+  {
+   "surface": "செல",
+   "parts": [
+    {
+     "text": "செல்",
+     "lemma": "செல்",
+     "gloss": "to go"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
+    }
+   ],
+   "gloss": "to reach"
+  },
+  {
+   "surface": "சொல்லி",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "verbal participle suffix"
+    }
+   ],
+   "gloss": "having spoken"
+  },
+  {
+   "surface": "தான்",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "oneself"
+    }
+   ],
+   "gloss": "oneself"
+  },
+  {
+   "surface": "பிறர்",
+   "parts": [
+    {
+     "text": "பிறர்",
+     "lemma": "பிறர்",
+     "gloss": "others"
+    }
+   ],
+   "gloss": "others"
+  },
+  {
+   "surface": "வாய்",
+   "parts": [
+    {
+     "text": "வாய்",
+     "lemma": "வாய்",
+     "gloss": "mouth"
+    }
+   ],
+   "gloss": "mouth"
+  },
+  {
+   "surface": "நுண்",
+   "parts": [
+    {
+     "text": "நுண்",
+     "lemma": "நுண்மை",
+     "gloss": "subtle"
+    }
+   ],
+   "gloss": "subtle"
+  },
+  {
+   "surface": "பொருள்",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "meaning"
+    }
+   ],
+   "gloss": "meaning"
+  },
+  {
+   "surface": "காண்பது",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "see"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "neuter singular suffix"
+    }
+   ],
+   "gloss": "perceiving"
+  },
+  {
+   "surface": "அறிவு",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "know"
+    },
+    {
+     "text": "வு",
+     "lemma": "வு",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "knowledge"
+  }
+ ],
+ "literal": "Easy meaning to become, to reach having spoken, oneself (from) others' mouths subtle meaning perceiving (is) knowledge.",
+ "translation": "True knowledge is speaking so clearly that one's meaning easily reaches others, and perceiving the subtle meaning in what others say.",
+ "modern": "தான் சொல்லும் கருத்துக்களை மற்றவர்களுக்கு எளிதில் விளங்குமாறு சொல்லி, மற்றவர்கள் சொல்லும் சொற்களில் உள்ள நுட்பமான கருத்துக்களை ஆராய்ந்து அறிவதே உண்மையான அறிவாகும்.",
+ "explanation": "This couplet defines what constitutes true intellectual communication and comprehension. The first half focuses on expression: 'எண்பொருள ஆகச் செலச் சொல்லி' means speaking in a way that makes complex ideas easy to grasp and readily reach the listener's mind. The second half focuses on reception: 'பிறர்வாய் நுண்பொருள் காண்பது' means extracting the subtle, deep meaning from the words of others, regardless of how they express it. Together, these two skills—simplifying one's own thoughts for others and penetrating the surface of others' words to find the core truth—embody true knowledge.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

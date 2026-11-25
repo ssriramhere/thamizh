@@ -1,0 +1,134 @@
+{
+ "words": [
+  {
+   "surface": "கூழும்",
+   "parts": [
+    {
+     "text": "கூழ்",
+     "lemma": "கூழ்",
+     "gloss": "wealth"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "wealth and"
+  },
+  {
+   "surface": "குடியும்",
+   "parts": [
+    {
+     "text": "குடி",
+     "lemma": "குடி",
+     "gloss": "subjects"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "subjects and"
+  },
+  {
+   "surface": "ஒருங்கு",
+   "parts": [
+    {
+     "text": "ஒருங்கு",
+     "lemma": "ஒருங்கு",
+     "gloss": "together"
+    }
+   ],
+   "gloss": "together"
+  },
+  {
+   "surface": "இழக்கும்",
+   "parts": [
+    {
+     "text": "இழக்கும்",
+     "lemma": "இழ",
+     "gloss": "will lose"
+    }
+   ],
+   "gloss": "will lose"
+  },
+  {
+   "surface": "கோல்",
+   "parts": [
+    {
+     "text": "கோல்",
+     "lemma": "கோல்",
+     "gloss": "scepter"
+    }
+   ],
+   "gloss": "scepter"
+  },
+  {
+   "surface": "கோடி",
+   "parts": [
+    {
+     "text": "கோடு",
+     "lemma": "கோடு",
+     "gloss": "bend"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having bent"
+  },
+  {
+   "surface": "சூழாது",
+   "parts": [
+    {
+     "text": "சூழ்",
+     "lemma": "சூழ்",
+     "gloss": "consider"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
+    }
+   ],
+   "gloss": "without considering"
+  },
+  {
+   "surface": "செய்யும்",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "act"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "which does"
+    }
+   ],
+   "gloss": "acting"
+  },
+  {
+   "surface": "அரசு",
+   "parts": [
+    {
+     "text": "அரசு",
+     "lemma": "அரசு",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  }
+ ],
+ "literal": "Wealth and subjects and together will lose, scepter having bent without considering acting king.",
+ "translation": "A king who acts without deliberation and bends his scepter will lose both his wealth and his subjects at once.",
+ "modern": "ஆராயாமல் செயல்பட்டு நீதியிலிருந்து தவறி ஆட்சி செய்யும் அரசு, தன் செல்வத்தையும் மக்களையும் ஒருசேர இழக்கும்.",
+ "explanation": "This couplet warns of the dual consequences of unjust and thoughtless rule. The word 'கோல்' (scepter) represents justice, and its bending ('கோடி') signifies a deviation into tyranny. When a ruler acts without careful deliberation ('சூழாது'), they destroy the foundation of their own power, simultaneously losing both their material wealth ('கூழ்') and the loyalty of their citizens ('குடி').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

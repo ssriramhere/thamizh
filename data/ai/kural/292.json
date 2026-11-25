@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "பொய்மையும்",
+   "parts": [
+    {
+     "text": "பொய்மை",
+     "lemma": "பொய்மை",
+     "gloss": "falsehood"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even falsehood"
+  },
+  {
+   "surface": "வாய்மை",
+   "parts": [
+    {
+     "text": "வாய்மை",
+     "lemma": "வாய்மை",
+     "gloss": "truth"
+    }
+   ],
+   "gloss": "truth"
+  },
+  {
+   "surface": "இடத்த",
+   "parts": [
+    {
+     "text": "இடத்து",
+     "lemma": "இடம்",
+     "gloss": "place"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "suffix"
+    }
+   ],
+   "gloss": "has the place of"
+  },
+  {
+   "surface": "புரை",
+   "parts": [
+    {
+     "text": "புரை",
+     "lemma": "புரை",
+     "gloss": "flaw"
+    }
+   ],
+   "gloss": "flaw"
+  },
+  {
+   "surface": "தீர்ந்த",
+   "parts": [
+    {
+     "text": "தீர்ந்த",
+     "lemma": "தீர்",
+     "gloss": "free from"
+    }
+   ],
+   "gloss": "free from"
+  },
+  {
+   "surface": "நன்மை",
+   "parts": [
+    {
+     "text": "நன்மை",
+     "lemma": "நன்மை",
+     "gloss": "goodness"
+    }
+   ],
+   "gloss": "goodness"
+  },
+  {
+   "surface": "பயக்கும்",
+   "parts": [
+    {
+     "text": "பயக்கும்",
+     "lemma": "பய",
+     "gloss": "yields"
+    }
+   ],
+   "gloss": "yields"
+  },
+  {
+   "surface": "எனின்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "to say"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if"
+  }
+ ],
+ "literal": "Even falsehood has the place of truth, if it yields goodness free from flaw.",
+ "translation": "Even falsehood takes the place of truth, if it produces a flawless good.",
+ "modern": "குற்றமற்ற நன்மையை உருவாக்குமானால், பொய்யான சொல்லும் உண்மையாகவே கருதப்படும்.",
+ "explanation": "This couplet defines truthfulness not just by factual accuracy, but by its ultimate moral effect. It states that even a false statement can be elevated to the status of truth. This happens only if the falsehood results in a pure, flawless benefit for others. The key word 'புரைதீர்ந்த' (flawless) ensures that the outcome must be entirely good, without any hidden harm.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

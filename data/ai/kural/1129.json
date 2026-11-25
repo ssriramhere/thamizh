@@ -1,0 +1,148 @@
+{
+ "words": [
+  {
+   "surface": "இமைப்பின்",
+   "parts": [
+    {
+     "text": "இமை",
+     "lemma": "இமை",
+     "gloss": "blink"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "[sandhi]"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if [I] blink"
+  },
+  {
+   "surface": "கரப்பாக்கு",
+   "parts": [
+    {
+     "text": "கர",
+     "lemma": "கர",
+     "gloss": "hide"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "[sandhi]"
+    },
+    {
+     "text": "பாக்கு",
+     "lemma": "பாக்கு",
+     "gloss": "that [he] will"
+    }
+   ],
+   "gloss": "that he will hide"
+  },
+  {
+   "surface": "அறிவல்",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "know"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "[future]"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I know"
+  },
+  {
+   "surface": "அனைத்திற்கே",
+   "parts": [
+    {
+     "text": "அனைத்து",
+     "lemma": "அனைத்து",
+     "gloss": "that"
+    },
+    {
+     "text": "இற்கு",
+     "lemma": "கு",
+     "gloss": "for"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "[emphasis]"
+    }
+   ],
+   "gloss": "for just that"
+  },
+  {
+   "surface": "ஏதிலர்",
+   "parts": [
+    {
+     "text": "ஏதிலர்",
+     "lemma": "ஏதிலர்",
+     "gloss": "stranger"
+    }
+   ],
+   "gloss": "stranger"
+  },
+  {
+   "surface": "என்னும்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "[habitual]"
+    }
+   ],
+   "gloss": "says"
+  },
+  {
+   "surface": "இவ்",
+   "parts": [
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "this"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "[sandhi]"
+    }
+   ],
+   "gloss": "this"
+  },
+  {
+   "surface": "ஊர்",
+   "parts": [
+    {
+     "text": "ஊர்",
+     "lemma": "ஊர்",
+     "gloss": "town"
+    }
+   ],
+   "gloss": "town"
+  }
+ ],
+ "literal": "If blink, that he will hide I know; for just that, stranger says this town.",
+ "translation": "I know that if I blink, he will be hidden from my sight. For just that reason, this town calls him a stranger who lacks love.",
+ "modern": "நான் கண்களை இமைத்தால் அவர் மறைந்துவிடுவார் என்று எனக்குத் தெரியும். அதனால் நான் இமைக்காமல் இருக்கிறேன்; அதற்காகவே இந்த ஊர் மக்கள் அவரை அன்பில்லாதவர் என்று பழித்துச் சொல்கிறார்கள்.",
+ "explanation": "The heroine explains why she never closes her eyes. She knows that if she blinks, her lover, who resides in her eyes, will be hidden from her sight. Because she keeps her eyes open constantly, they show signs of distress, leading the townspeople to mistakenly think he has abandoned her. The word 'ஏதிலர்' literally means strangers, but here it takes the specific sense of unloving or cruel people. Thus, the town wrongly calls him unloving, simply because she refuses to blink.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

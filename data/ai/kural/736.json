@@ -1,0 +1,135 @@
+{
+ "words": [
+  {
+   "surface": "கேடு",
+   "parts": [
+    {
+     "text": "கேடு",
+     "lemma": "கேடு",
+     "gloss": "ruin"
+    }
+   ],
+   "gloss": "ruin"
+  },
+  {
+   "surface": "அறியா",
+   "parts": [
+    {
+     "text": "அறியா",
+     "lemma": "அறி",
+     "gloss": "knowing-not"
+    }
+   ],
+   "gloss": "knowing not"
+  },
+  {
+   "surface": "கெட்ட",
+   "parts": [
+    {
+     "text": "கெட்ட",
+     "lemma": "கெடு",
+     "gloss": "ruined"
+    }
+   ],
+   "gloss": "ruined"
+  },
+  {
+   "surface": "இடத்தும்",
+   "parts": [
+    {
+     "text": "இடத்து",
+     "lemma": "இடம்",
+     "gloss": "in the event"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even in the event"
+  },
+  {
+   "surface": "வளம்",
+   "parts": [
+    {
+     "text": "வளம்",
+     "lemma": "வளம்",
+     "gloss": "wealth"
+    }
+   ],
+   "gloss": "wealth"
+  },
+  {
+   "surface": "குன்றா",
+   "parts": [
+    {
+     "text": "குன்றா",
+     "lemma": "குன்று",
+     "gloss": "diminishing-not"
+    }
+   ],
+   "gloss": "diminishing not"
+  },
+  {
+   "surface": "நாடு",
+   "parts": [
+    {
+     "text": "நாடு",
+     "lemma": "நாடு",
+     "gloss": "country"
+    }
+   ],
+   "gloss": "country"
+  },
+  {
+   "surface": "என்ப",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "ப",
+     "lemma": "ப",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "they say"
+  },
+  {
+   "surface": "நாட்டின்",
+   "parts": [
+    {
+     "text": "நாட்டு",
+     "lemma": "நாடு",
+     "gloss": "country"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "among"
+    }
+   ],
+   "gloss": "among countries"
+  },
+  {
+   "surface": "தலை",
+   "parts": [
+    {
+     "text": "தலை",
+     "lemma": "தலை",
+     "gloss": "head"
+    }
+   ],
+   "gloss": "head"
+  }
+ ],
+ "literal": "Ruin knowing-not, ruined place-at-even, wealth diminishing-not country, say-they, of countries head.",
+ "translation": "They say the best of countries is one that knows no ruin, and whose wealth does not diminish even when disaster strikes.",
+ "modern": "அழிவைச் சந்திக்காததும், ஒருவேளை அழிவு நேர்ந்தாலும் தன் வளம் குறையாததுமான நாடே நாடுகளுள் தலைசிறந்தது என்று கூறுவர்.",
+ "explanation": "This couplet defines the resilience of an ideal nation. The phrase \"கேடு அறியா\" means the country naturally avoids destruction. However, the text adds \"கெட்ட இடத்தும்\" (even when ruined), acknowledging that unforeseen disasters might still strike. In such events, a truly great country is one whose resources (\"வளம்\") do not diminish (\"குன்றா\"). The word \"தலை\" (head) is used metaphorically to mean the chief or the best among all countries.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

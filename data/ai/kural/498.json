@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "சிறுபடையான்",
+   "parts": [
+    {
+     "text": "சிறு",
+     "lemma": "சிறுமை",
+     "gloss": "small"
+    },
+    {
+     "text": "படை",
+     "lemma": "படை",
+     "gloss": "army"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he with a small army"
+  },
+  {
+   "surface": "செல்",
+   "parts": [
+    {
+     "text": "செல்",
+     "lemma": "செல்",
+     "gloss": "suitable"
+    }
+   ],
+   "gloss": "suitable"
+  },
+  {
+   "surface": "இடம்",
+   "parts": [
+    {
+     "text": "இடம்",
+     "lemma": "இடம்",
+     "gloss": "place"
+    }
+   ],
+   "gloss": "place"
+  },
+  {
+   "surface": "சேரின்",
+   "parts": [
+    {
+     "text": "சேர்",
+     "lemma": "சேர்",
+     "gloss": "to reach"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if he reaches"
+  },
+  {
+   "surface": "உறுபடையான்",
+   "parts": [
+    {
+     "text": "உறு",
+     "lemma": "உறு",
+     "gloss": "mighty"
+    },
+    {
+     "text": "படை",
+     "lemma": "படை",
+     "gloss": "army"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he with a mighty army"
+  },
+  {
+   "surface": "ஊக்கம்",
+   "parts": [
+    {
+     "text": "ஊக்கம்",
+     "lemma": "ஊக்கம்",
+     "gloss": "spirit"
+    }
+   ],
+   "gloss": "spirit"
+  },
+  {
+   "surface": "அழிந்து",
+   "parts": [
+    {
+     "text": "அழிந்து",
+     "lemma": "அழி",
+     "gloss": "having been destroyed"
+    }
+   ],
+   "gloss": "having been destroyed"
+  },
+  {
+   "surface": "விடும்",
+   "parts": [
+    {
+     "text": "விடும்",
+     "lemma": "விடு",
+     "gloss": "will leave"
+    }
+   ],
+   "gloss": "will be (completed)"
+  }
+ ],
+ "literal": "He with a small army, suitable place if he reaches, he with a mighty army's spirit having been destroyed will be.",
+ "translation": "If a leader with a small army reaches a suitable place for defense, the spirit of the leader with a mighty army will be shattered.",
+ "modern": "சிறிய படையை உடையவன் தனக்குப் பொருத்தமான இடத்தை அடைந்து போரிட்டால், பெரிய படையை உடையவனின் ஊக்கம் அழிந்து போய்விடும்.",
+ "explanation": "This couplet highlights the strategic importance of choosing the right battleground. Even if a leader has only a small army, securing an advantageous position gives them a critical edge. Consequently, the morale and momentum of an opponent with a massive army will be completely broken, because their numerical superiority is neutralized by the terrain. The contrast between a small army and a mighty army emphasizes that location can overcome sheer numbers.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

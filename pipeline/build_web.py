@@ -19,6 +19,16 @@ from engine.yappu import scan_kural  # noqa: E402
 
 OUT = ROOT / "web/data/kural"
 AI = ROOT / "data/ai/kural"
+_WF = ROOT / "data/build/kural_words.json"
+WORDS = json.loads(_WF.read_text()) if _WF.exists() else {}
+
+
+def reading(k: dict) -> dict:
+    """The couplet with its words separated (AI, verified by re-joining)."""
+    sep = WORDS.get(str(k["n"]))
+    lines = sep["lines"] if sep else [l.split(" ") for l in k["text"].split("\n")]
+    return {"verified": bool(sep and sep["verified"]), "separated": bool(sep),
+            "lines": [[{"ta": w, "tr": translit(w)} for w in line] for line in lines]}
 
 
 def couplet(k: dict) -> dict:
@@ -32,6 +42,7 @@ def couplet(k: dict) -> dict:
         "words": [[{"ta": w, "tr": translit(w), "letters": [L.as_dict() for L in letters(w)]}
                    for w in line.split(" ")] for line in lines],
         "scan": scan.as_dict(),
+        "reading": reading(k),
         "source": {"chosen_by": k["chosen_by"], "agree": k["agree"], "of": k["of"]},
     }
     ai = AI / f"{k['n']}.json"

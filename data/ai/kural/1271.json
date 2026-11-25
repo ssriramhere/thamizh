@@ -1,0 +1,180 @@
+{
+ "words": [
+  {
+   "surface": "கரப்பினும்",
+   "parts": [
+    {
+     "text": "கர",
+     "lemma": "கர",
+     "gloss": "to hide"
+    },
+    {
+     "text": "ப்பின்",
+     "lemma": "இன்",
+     "gloss": "if"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if hidden"
+  },
+  {
+   "surface": "கை",
+   "parts": [
+    {
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "control"
+    }
+   ],
+   "gloss": "control"
+  },
+  {
+   "surface": "இகந்து",
+   "parts": [
+    {
+     "text": "இக",
+     "lemma": "இக",
+     "gloss": "to exceed"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "(sandhi)"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having exceeded"
+  },
+  {
+   "surface": "ஒல்லா",
+   "parts": [
+    {
+     "text": "ஒல்",
+     "lemma": "ஒல்",
+     "gloss": "to agree"
+    },
+    {
+     "text": "ல்",
+     "lemma": "ல்",
+     "gloss": "(sandhi)"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not agreeing"
+  },
+  {
+   "surface": "நின்",
+   "parts": [
+    {
+     "text": "நின்",
+     "lemma": "நீ",
+     "gloss": "your"
+    }
+   ],
+   "gloss": "your"
+  },
+  {
+   "surface": "உண்கண்",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "to absorb (collyrium)"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    }
+   ],
+   "gloss": "painted eyes"
+  },
+  {
+   "surface": "உரைக்கல்",
+   "parts": [
+    {
+     "text": "உரை",
+     "lemma": "உரை",
+     "gloss": "to tell"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "(sandhi)"
+    },
+    {
+     "text": "கல்",
+     "lemma": "கல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "telling"
+  },
+  {
+   "surface": "உறுவது",
+   "parts": [
+    {
+     "text": "உறு",
+     "lemma": "உறு",
+     "gloss": "to be about to"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "neuter singular suffix"
+    }
+   ],
+   "gloss": "that which is about to"
+  },
+  {
+   "surface": "ஒன்று",
+   "parts": [
+    {
+     "text": "ஒன்று",
+     "lemma": "ஒன்று",
+     "gloss": "one thing"
+    }
+   ],
+   "gloss": "one thing"
+  },
+  {
+   "surface": "உண்டு",
+   "parts": [
+    {
+     "text": "உண்டு",
+     "lemma": "உள்",
+     "gloss": "there is"
+    }
+   ],
+   "gloss": "there is"
+  }
+ ],
+ "literal": "Even if hidden, crossing control and not agreeing (to be contained), your painted eyes have one thing that is about to be told.",
+ "translation": "Even if you try to hide it, your painted eyes exceed your control, refuse to be contained, and have something they are about to tell.",
+ "modern": "நீ உன் காதலை மறைத்தாலும், உன் மை தீட்டிய கண்கள் உன் கட்டுப்பாட்டை மீறி அடங்காமல் ஏதோ ஒன்றைச் சொல்ல முற்படுகின்றன.",
+ "explanation": "The lover observes that the lady is trying to conceal her feelings, but her eyes betray her. The word 'கை' here means control or bounds, and 'இகந்து' means exceeding; together they show her eyes are beyond her control. 'ஒல்லா' indicates that her eyes refuse to agree with her attempt to hide, clearly showing they have a message they are about to reveal ('உரைக்கல் உறுவது ஒன்று உண்டு').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

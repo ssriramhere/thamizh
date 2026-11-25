@@ -1,0 +1,102 @@
+{
+ "words": [
+  {
+   "surface": "கண்ணின்று",
+   "parts": [
+    {
+     "text": "கண்ணின்று",
+     "lemma": "கண்ணின்று",
+     "gloss": "standing before the eyes"
+    }
+   ],
+   "gloss": "face to face"
+  },
+  {
+   "surface": "கண்ணறச்",
+   "parts": [
+    {
+     "text": "கண்ணற",
+     "lemma": "கண்ணற",
+     "gloss": "without kindness"
+    },
+    {
+     "text": "ச்",
+     "lemma": "ச்",
+     "gloss": "sandhi"
+    }
+   ],
+   "gloss": "without kindness"
+  },
+  {
+   "surface": "சொல்லினும்",
+   "parts": [
+    {
+     "text": "சொல்லினும்",
+     "lemma": "சொல்",
+     "gloss": "even if spoken"
+    }
+   ],
+   "gloss": "even if [one] speaks"
+  },
+  {
+   "surface": "சொல்லற்க",
+   "parts": [
+    {
+     "text": "சொல்லற்க",
+     "lemma": "சொல்",
+     "gloss": "let not speak"
+    }
+   ],
+   "gloss": "do not speak"
+  },
+  {
+   "surface": "முன்னின்று",
+   "parts": [
+    {
+     "text": "முன்னின்று",
+     "lemma": "முன்னின்று",
+     "gloss": "without being in front"
+    }
+   ],
+   "gloss": "in absence"
+  },
+  {
+   "surface": "பின்நோக்காச்",
+   "parts": [
+    {
+     "text": "பின்",
+     "lemma": "பின்",
+     "gloss": "behind"
+    },
+    {
+     "text": "நோக்கா",
+     "lemma": "நோக்கு",
+     "gloss": "not looking"
+    },
+    {
+     "text": "ச்",
+     "lemma": "ச்",
+     "gloss": "sandhi"
+    }
+   ],
+   "gloss": "not considering consequences"
+  },
+  {
+   "surface": "சொல்",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
+    }
+   ],
+   "gloss": "word"
+  }
+ ],
+ "literal": "Standing before the eyes without kindness even if [one] speaks, let [one] not speak without being in front words that do not look behind.",
+ "translation": "Even if you speak mercilessly to someone's face, do not speak thoughtless words behind their back.",
+ "modern": "ஒருவருக்கு நேரே நின்று இரக்கமில்லாமல் கடுமையாகப் பேசினாலும் பேசலாம், ஆனால் அவர் இல்லாதபோது பின்விளைவுகளை எண்ணாமல் அவரைப் பற்றிப் புறங்கூறக் கூடாது.",
+ "explanation": "This couplet contrasts harsh direct speech with the cowardice of backbiting. The word 'கண்ணின்று' (standing before the eyes) refers to speaking directly to someone's face, even if done 'கண்ணற' (without kindness or consideration). While such harshness is not ideal, the poet states it is far worse to speak 'முன்னின்று' (without being in front, meaning in their absence). One must never speak words behind someone's back that fail to consider the future consequences ('பின்நோக்காச் சொல்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

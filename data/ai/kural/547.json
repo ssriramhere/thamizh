@@ -1,0 +1,124 @@
+{
+ "words": [
+  {
+   "surface": "இறை",
+   "parts": [
+    {
+     "text": "இறை",
+     "lemma": "இறை",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  },
+  {
+   "surface": "காக்கும்",
+   "parts": [
+    {
+     "text": "காக்கும்",
+     "lemma": "கா",
+     "gloss": "protects"
+    }
+   ],
+   "gloss": "protects"
+  },
+  {
+   "surface": "வையகம்",
+   "parts": [
+    {
+     "text": "வையகம்",
+     "lemma": "வையகம்",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "world"
+  },
+  {
+   "surface": "எல்லாம்",
+   "parts": [
+    {
+     "text": "எல்லாம்",
+     "lemma": "எல்லாம்",
+     "gloss": "all"
+    }
+   ],
+   "gloss": "all"
+  },
+  {
+   "surface": "அவனை",
+   "parts": [
+    {
+     "text": "அவன்",
+     "lemma": "அவன்",
+     "gloss": "he"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "him"
+  },
+  {
+   "surface": "முறை",
+   "parts": [
+    {
+     "text": "முறை",
+     "lemma": "முறை",
+     "gloss": "justice"
+    }
+   ],
+   "gloss": "justice"
+  },
+  {
+   "surface": "காக்கும்",
+   "parts": [
+    {
+     "text": "காக்கும்",
+     "lemma": "கா",
+     "gloss": "will protect"
+    }
+   ],
+   "gloss": "will protect"
+  },
+  {
+   "surface": "முட்டா",
+   "parts": [
+    {
+     "text": "முட்டு",
+     "lemma": "முட்டு",
+     "gloss": "fail"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "without failing"
+  },
+  {
+   "surface": "செயின்",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    }
+   ],
+   "gloss": "if does"
+  }
+ ],
+ "literal": "King protects world all; him justice will protect, without-failing if-[he]-does.",
+ "translation": "The king protects the entire world, and his own justice will protect him if he administers it without failing.",
+ "modern": "உலகம் முழுவதையும் அரசன் காப்பாற்றுவான்; அவன் நீதி தவறாமல் ஆட்சி செய்தால், அந்த நீதியே அவனைக் காப்பாற்றும்.",
+ "explanation": "This couplet illustrates the reciprocal relationship between a ruler and justice. While it is the king's duty to protect the entire world, he is in turn protected by the very justice ('முறை') he upholds. The phrase 'முட்டாச் செயின்' emphasizes that this ultimate protection is guaranteed only if he administers his duties flawlessly and without any hindrance.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

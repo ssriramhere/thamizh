@@ -1,0 +1,164 @@
+{
+ "words": [
+  {
+   "surface": "மறப்பின்",
+   "parts": [
+    {
+     "text": "மற",
+     "lemma": "மற",
+     "gloss": "to forget"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if forgotten"
+  },
+  {
+   "surface": "எவன்",
+   "parts": [
+    {
+     "text": "எவன்",
+     "lemma": "எவன்",
+     "gloss": "what"
+    }
+   ],
+   "gloss": "what"
+  },
+  {
+   "surface": "ஆவன்",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "to become"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "1st person singular suffix"
+    }
+   ],
+   "gloss": "will I become"
+  },
+  {
+   "surface": "மற்கொல்",
+   "parts": [
+    {
+     "text": "மன்",
+     "lemma": "மன்",
+     "gloss": "expletive of pity"
+    },
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "expletive of doubt"
+    }
+   ],
+   "gloss": "alas"
+  },
+  {
+   "surface": "மறப்பு",
+   "parts": [
+    {
+     "text": "மறப்பு",
+     "lemma": "மறப்பு",
+     "gloss": "forgetting"
+    }
+   ],
+   "gloss": "forgetting"
+  },
+  {
+   "surface": "அறியேன்",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "to know"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "1st person singular negative suffix"
+    }
+   ],
+   "gloss": "I know not"
+  },
+  {
+   "surface": "உள்ளினும்",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "to think/remember"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if remembered"
+  },
+  {
+   "surface": "உள்ளம்",
+   "parts": [
+    {
+     "text": "உள்ளம்",
+     "lemma": "உள்ளம்",
+     "gloss": "heart"
+    }
+   ],
+   "gloss": "heart"
+  },
+  {
+   "surface": "சுடும்",
+   "parts": [
+    {
+     "text": "சுடு",
+     "lemma": "சுடு",
+     "gloss": "to burn"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future/habitual suffix"
+    }
+   ],
+   "gloss": "will burn"
+  }
+ ],
+ "literal": "If forgotten, what will I become, alas? Forgetting I know not; even if remembered, the heart burns.",
+ "translation": "I do not know how to forget him, and even when I remember him, my heart burns. Alas, what would become of me if I were to ever forget?",
+ "modern": "நான் அவரை மறப்பதை அறியமாட்டேன்; நினைத்தாலும் என் உள்ளம் சுடுகின்றது. அப்படியிருக்க, ஒருவேளை நான் அவரை மறந்தால் என் நிலைமை என்ன ஆகுமோ?",
+ "explanation": "The heroine expresses the inescapable pain of separation from her lover. She declares that she does not know how to forget him ('மறப்பு அறியேன்'), yet even the constant act of remembering him burns her heart with sorrow ('உள்ளினும் உள்ளம் சுடும்'). She wonders in despair what would happen to her if she were to actually forget him ('மறப்பின் எவன் ஆவன்'), implying that if mere memory brings such fiery agony, forgetting would mean her utter destruction. The combined expletives 'மற்கொல்' add a tone of deep pity and helpless doubt to her lament.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,124 @@
+{
+ "words": [
+  {
+   "surface": "காமம்",
+   "parts": [
+    {
+     "text": "காமம்",
+     "lemma": "காமம்",
+     "gloss": "desire"
+    }
+   ],
+   "gloss": "desire"
+  },
+  {
+   "surface": "விடுஒன்றோ",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "give up"
+    },
+    {
+     "text": "ஒன்று",
+     "lemma": "ஒன்று",
+     "gloss": "one"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "either"
+    }
+   ],
+   "gloss": "give up either one"
+  },
+  {
+   "surface": "நாண்விடு",
+   "parts": [
+    {
+     "text": "நாண்",
+     "lemma": "நாண்",
+     "gloss": "shame"
+    },
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "give up"
+    }
+   ],
+   "gloss": "give up shame"
+  },
+  {
+   "surface": "நன்னெஞ்சே",
+   "parts": [
+    {
+     "text": "நன்னெஞ்சே",
+     "lemma": "நன்னெஞ்சே",
+     "gloss": "O good heart!"
+    }
+   ],
+   "gloss": "O good heart!",
+   "split_unverified": true
+  },
+  {
+   "surface": "யானோ",
+   "parts": [
+    {
+     "text": "யான்",
+     "lemma": "யான்",
+     "gloss": "I"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "as for me"
+  },
+  {
+   "surface": "பொறேன்",
+   "parts": [
+    {
+     "text": "பொறு",
+     "lemma": "பொறு",
+     "gloss": "bear"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I will not"
+    }
+   ],
+   "gloss": "I cannot bear"
+  },
+  {
+   "surface": "இவ்",
+   "parts": [
+    {
+     "text": "இவ்",
+     "lemma": "இவ்",
+     "gloss": "these"
+    }
+   ],
+   "gloss": "these"
+  },
+  {
+   "surface": "இரண்டு",
+   "parts": [
+    {
+     "text": "இரண்டு",
+     "lemma": "இரண்டு",
+     "gloss": "two"
+    }
+   ],
+   "gloss": "two"
+  }
+ ],
+ "literal": "Desire give up either one, shame give up, O good heart! As for me, I cannot bear these two.",
+ "translation": "O my good heart, give up your desire or give up your shame. As for me, I cannot bear the burden of these two together.",
+ "modern": "நல்ல நெஞ்சமே! நீ காமத்தையாவது விட்டுவிடு, அல்லது நாணத்தையாவது விட்டுவிடு. என்னால் இவை இரண்டையும் சேர்த்துத் தாங்கிக்கொள்ள முடியாது.",
+ "explanation": "The heroine addresses her heart, which is struggling between two conflicting emotions. On one hand, she feels intense desire for her lover, which urges her to seek him out. On the other hand, she feels modesty or shame, which holds her back. She tells her heart to choose one and abandon the other, because she herself lacks the strength to endure the heavy burden of both at the same time.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

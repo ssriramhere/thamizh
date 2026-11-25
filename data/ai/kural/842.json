@@ -1,0 +1,97 @@
+{
+ "words": [
+  {
+   "surface": "அறிவிலான்",
+   "parts": [
+    {
+     "text": "அறிவு",
+     "lemma": "அறிவு",
+     "gloss": "knowledge"
+    },
+    {
+     "text": "இலான்",
+     "lemma": "இல்",
+     "gloss": "without-he"
+    }
+   ],
+   "gloss": "one without knowledge"
+  },
+  {
+   "surface": "நெஞ்சுவந்து",
+   "parts": [
+    {
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "heart"
+    },
+    {
+     "text": "உவந்து",
+     "lemma": "உவ",
+     "gloss": "having rejoiced"
+    }
+   ],
+   "gloss": "rejoicing in heart"
+  },
+  {
+   "surface": "ஈதல்",
+   "parts": [
+    {
+     "text": "ஈதல்",
+     "lemma": "ஈ",
+     "gloss": "giving"
+    }
+   ],
+   "gloss": "giving"
+  },
+  {
+   "surface": "பிறிதியாதும்",
+   "parts": [
+    {
+     "text": "பிறிதியாதும்",
+     "lemma": "பிறிதியாதும்",
+     "gloss": "nothing else"
+    }
+   ],
+   "gloss": "nothing else"
+  },
+  {
+   "surface": "இல்லை",
+   "parts": [
+    {
+     "text": "இல்லை",
+     "lemma": "இல்",
+     "gloss": "is not"
+    }
+   ],
+   "gloss": "is not"
+  },
+  {
+   "surface": "பெறுவான்",
+   "parts": [
+    {
+     "text": "பெறுவான்",
+     "lemma": "பெறு",
+     "gloss": "he who receives"
+    }
+   ],
+   "gloss": "receiver"
+  },
+  {
+   "surface": "தவம்",
+   "parts": [
+    {
+     "text": "தவம்",
+     "lemma": "தவம்",
+     "gloss": "penance"
+    }
+   ],
+   "gloss": "penance"
+  }
+ ],
+ "literal": "One without knowledge heart having rejoiced giving, other anything is not, receiver's penance.",
+ "translation": "When a fool gives with a joyful heart, it is due to nothing else but the penance of the receiver.",
+ "modern": "அறிவில்லாதவன் மனம் மகிழ்ந்து ஒரு பொருளைக் கொடுத்தால், அதற்குக் காரணம் வேறொன்றும் இல்லை; பொருளைப் பெறுகின்றவன் செய்த தவமே ஆகும்.",
+ "explanation": "This couplet explains the rare event of a foolish person giving generously. Since a fool lacks the wisdom to understand the value of charity, their joyful giving is not a result of their own virtue. Instead, it is entirely the result of the good deeds or penance (தவம்) previously performed by the person who receives the gift. The phrase 'பிறிதியாதும் இல்லை' emphasizes that there is absolutely no other reason for this unexpected generosity.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

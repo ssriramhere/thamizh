@@ -1,0 +1,129 @@
+{
+ "words": [
+  {
+   "surface": "பிணிக்கு",
+   "parts": [
+    {
+     "text": "பிணி",
+     "lemma": "பிணி",
+     "gloss": "disease"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative suffix"
+    }
+   ],
+   "gloss": "for disease"
+  },
+  {
+   "surface": "மருந்து",
+   "parts": [
+    {
+     "text": "மருந்து",
+     "lemma": "மருந்து",
+     "gloss": "medicine"
+    }
+   ],
+   "gloss": "medicine"
+  },
+  {
+   "surface": "பிற",
+   "parts": [
+    {
+     "text": "பிற",
+     "lemma": "பிற",
+     "gloss": "other things"
+    }
+   ],
+   "gloss": "other things"
+  },
+  {
+   "surface": "மன்",
+   "parts": [
+    {
+     "text": "மன்",
+     "lemma": "மன்",
+     "gloss": "indeed (particle)"
+    }
+   ],
+   "gloss": "indeed"
+  },
+  {
+   "surface": "அணியிழை",
+   "parts": [
+    {
+     "text": "அணி",
+     "lemma": "அணி",
+     "gloss": "beautiful"
+    },
+    {
+     "text": "இழை",
+     "lemma": "இழை",
+     "gloss": "jewel"
+    }
+   ],
+   "gloss": "beautifully jeweled woman"
+  },
+  {
+   "surface": "தன்",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "her"
+    }
+   ],
+   "gloss": "her"
+  },
+  {
+   "surface": "நோய்க்கு",
+   "parts": [
+    {
+     "text": "நோய்",
+     "lemma": "நோய்",
+     "gloss": "affliction"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative suffix"
+    }
+   ],
+   "gloss": "for affliction"
+  },
+  {
+   "surface": "தானே",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "she herself"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "emphasis suffix"
+    }
+   ],
+   "gloss": "she herself"
+  },
+  {
+   "surface": "மருந்து",
+   "parts": [
+    {
+     "text": "மருந்து",
+     "lemma": "மருந்து",
+     "gloss": "medicine"
+    }
+   ],
+   "gloss": "medicine"
+  }
+ ],
+ "literal": "For disease, medicine (is) other things indeed; beautifully jeweled woman, for her affliction, she herself (is) medicine.",
+ "translation": "For ordinary diseases, the cures are found in other things. But for the affliction caused by this beautifully jeweled woman, she herself is the only cure.",
+ "modern": "சாதாரண நோய்களுக்கு மருந்துகள் வேறு பொருள்களாக இருக்கும். ஆனால் அழகிய அணிகலன்களை அணிந்த இந்தப் பெண்ணால் ஏற்படும் காம நோய்க்கு, அவளே மருந்தாக இருக்கிறாள்.",
+ "explanation": "The couplet contrasts ordinary physical illnesses with the affliction of love. For a normal disease (பிணி), the remedy comes from external sources like herbs or roots. However, for the lovesickness (நோய்) caused by the beautifully adorned woman, she alone is the cure. The repetition of the word 'medicine' (மருந்து) highlights the paradox that the one who causes the suffering is also the only one who can heal it.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,102 @@
+{
+ "words": [
+  {
+   "surface": "பகைநட்பாம்",
+   "parts": [
+    {
+     "text": "பகை",
+     "lemma": "பகை",
+     "gloss": "enmity"
+    },
+    {
+     "text": "நட்பு",
+     "lemma": "நட்பு",
+     "gloss": "friendship"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆகு",
+     "gloss": "becomes"
+    }
+   ],
+   "gloss": "enmity becomes friendship"
+  },
+  {
+   "surface": "காலம்",
+   "parts": [
+    {
+     "text": "காலம்",
+     "lemma": "காலம்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "time"
+  },
+  {
+   "surface": "வருங்கால்",
+   "parts": [
+    {
+     "text": "வரும்",
+     "lemma": "வா",
+     "gloss": "coming"
+    },
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "when comes"
+  },
+  {
+   "surface": "முகநட்டு",
+   "parts": [
+    {
+     "text": "முகநட்டு",
+     "lemma": "முகநட்டு",
+     "gloss": "having befriended with the face"
+    }
+   ],
+   "gloss": "having befriended with the face"
+  },
+  {
+   "surface": "அகநட்பு",
+   "parts": [
+    {
+     "text": "அகநட்பு",
+     "lemma": "அகநட்பு",
+     "gloss": "inner friendship"
+    }
+   ],
+   "gloss": "inner friendship"
+  },
+  {
+   "surface": "ஒரீஇ",
+   "parts": [
+    {
+     "text": "ஒரீஇ",
+     "lemma": "ஒருவு",
+     "gloss": "having abandoned"
+    }
+   ],
+   "gloss": "having abandoned"
+  },
+  {
+   "surface": "விடல்",
+   "parts": [
+    {
+     "text": "விடல்",
+     "lemma": "விடு",
+     "gloss": "let go"
+    }
+   ],
+   "gloss": "let go"
+  }
+ ],
+ "literal": "enmity becomes friendship time when comes having befriended with the face inner friendship having abandoned let go",
+ "translation": "When the time comes for enemies to act like friends, show them friendship on your face but abandon it in your heart.",
+ "modern": "பகைவர்கள் நண்பர்களாக மாறும் காலம் வரும்போது, முகத்தளவில் மட்டும் நட்பு பாராட்டி, மனதளவில் நட்பை நீக்கிவிட வேண்டும்.",
+ "explanation": "This couplet advises caution when enemies suddenly pretend to be friends. The phrase 'பகைநட்பாம் காலம்' refers to a time when foes act friendly for their own benefit. In such situations, one should respond with 'முகநட்டு' (outward or facial friendship) to be polite and safe. However, one must completely abandon 'அகநட்பு' (inner or true friendship) to protect oneself from their hidden deceit.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

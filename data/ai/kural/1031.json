@@ -1,0 +1,128 @@
+{
+ "words": [
+  {
+   "surface": "சுழன்றும்",
+   "parts": [
+    {
+     "text": "சுழன்று",
+     "lemma": "சுழல்",
+     "gloss": "having wandered"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even having wandered"
+  },
+  {
+   "surface": "ஏர்",
+   "parts": [
+    {
+     "text": "ஏர்",
+     "lemma": "ஏர்",
+     "gloss": "plough"
+    }
+   ],
+   "gloss": "plough"
+  },
+  {
+   "surface": "பின்னது",
+   "parts": [
+    {
+     "text": "பின்",
+     "lemma": "பின்",
+     "gloss": "behind"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it is"
+    }
+   ],
+   "gloss": "it is behind"
+  },
+  {
+   "surface": "உலகம்",
+   "parts": [
+    {
+     "text": "உலகம்",
+     "lemma": "உலகம்",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "world"
+  },
+  {
+   "surface": "அதனால்",
+   "parts": [
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "therefore"
+  },
+  {
+   "surface": "உழந்தும்",
+   "parts": [
+    {
+     "text": "உழந்து",
+     "lemma": "உழல்",
+     "gloss": "having toiled"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even having toiled"
+  },
+  {
+   "surface": "உழவே",
+   "parts": [
+    {
+     "text": "உழவு",
+     "lemma": "உழவு",
+     "gloss": "farming"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "farming indeed"
+  },
+  {
+   "surface": "தலை",
+   "parts": [
+    {
+     "text": "தலை",
+     "lemma": "தலை",
+     "gloss": "head"
+    }
+   ],
+   "gloss": "foremost"
+  }
+ ],
+ "literal": "Even having wandered, plough behind it is, world; therefore, even having toiled, farming indeed foremost.",
+ "translation": "Though the world wanders through many pursuits, it ultimately follows the plough. Therefore, despite the hardship it entails, farming is the foremost profession.",
+ "modern": "உலகம் பல தொழில்களைச் செய்து சுழன்றாலும், அது ஏர்த்தொழிலின் பின்னாலேயே நிற்கிறது. அதனால் எவ்வளவு துன்பப்பட்டாலும் உழவுத் தொழிலே முதன்மையானது.",
+ "explanation": "The couplet establishes agriculture as the foundational pillar of human society. The word சுழன்றும் indicates that people may wander into countless other professions, but the world ultimately remains behind the plough (ஏர்) for its survival. Because all other work depends on the food produced by farmers, the text concludes that farming, despite the heavy toil (உழந்தும்) it requires, is the foremost (தலை) of all occupations.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

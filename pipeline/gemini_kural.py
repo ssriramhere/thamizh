@@ -42,6 +42,16 @@ sys.path.insert(0, str(ROOT))
 from engine.yappu import rejoin, scan_kural  # noqa: E402
 
 OUT = ROOT / "data/ai/kural"
+_WORDS_FILE = ROOT / "data/build/kural_words.json"
+_WORDS = json.loads(_WORDS_FILE.read_text()) if _WORDS_FILE.exists() else {}
+
+
+def words_of(k: dict) -> list[str]:
+    """The couplet's words: the separated reading where we have one, else the printed words."""
+    sep = _WORDS.get(str(k["n"]))
+    if sep:
+        return [w for line in sep["lines"] for w in line]
+    return [w for line in k["text"].split("\n") for w in line.split(" ")]
 
 SCHEMA = {
     "type": "OBJECT",
@@ -82,7 +92,7 @@ INSTRUCTIONS = """You are a careful scholar of classical Tamil preparing study m
 Work only from the Tamil text given. Do not quote, cite or follow any commentator or modern interpretation, and do not attribute the couplet to any religious, philosophical or political school. Where a word has more than one accepted sense, choose the one that best fits this couplet and its chapter, and say so briefly in the explanation.
 
 Return JSON with:
-- words: one entry per printed word, in order, with "surface" exactly as printed. Split each surface into its parts (stem, suffixes, joined words), writing each part in its own full form (எழுத்தெல்லாம் -> எழுத்து + எல்லாம்). The parts must give back the surface when joined by the regular joining rules (puṇarcci); if you are unsure, give the word as a single part. For each part give its dictionary form ("lemma") and a short English gloss. Give the whole word a short English gloss too.
+- words: one entry per given word, in order, with "surface" exactly as given. Split each surface into its parts (stem, suffixes, joined words), writing each part in its own full form (எழுத்தெல்லாம் -> எழுத்து + எல்லாம்). The parts must give back the surface when joined by the regular joining rules (puṇarcci); if you are unsure, give the word as a single part. For each part give its dictionary form ("lemma") and a short English gloss. Give the whole word a short English gloss too.
 - literal: an English rendering that follows the Tamil word order.
 - translation: a clear, natural English translation of the couplet, in one or two sentences. Keep the couplet's own images.
 - modern: the couplet rewritten as plain modern written Tamil prose.
@@ -92,12 +102,12 @@ Return JSON with:
 
 def prompt_for(k: dict) -> str:
     scan = scan_kural(k["text"])
-    words = [w for line in k["text"].split("\n") for w in line.split(" ")]
+    words = words_of(k)
     meter = " | ".join(" ".join(f.word for f in line) for line in scan.lines)
     return (
         f"Tirukkuṟaḷ {k['n']}, chapter {k['chapter']} ({k['chapter_ta']}).\n\n"
         f"Couplet:\n{k['text']}\n\n"
-        f"Printed words, in order ({len(words)}): {json.dumps(words, ensure_ascii=False)}\n\n"
+        f"Its words, separated, in order ({len(words)}): {json.dumps(words, ensure_ascii=False)}\n\n"
         f"For reference, the metrical division into feet: {meter}\n"
     )
 
@@ -108,7 +118,7 @@ def nfc(s: str) -> str:
 
 def check(k: dict, data: dict) -> list[str]:
     problems = []
-    words = [w for line in k["text"].split("\n") for w in line.split(" ")]
+    words = words_of(k)
     got = data.get("words") or []
     if [nfc(w.get("surface", "")) for w in got] != [nfc(w) for w in words]:
         problems.append("words do not match the printed words")
@@ -213,9 +223,11 @@ async def main() -> None:
     OUT = Path(args.out)
 
     from google import genai
+    from google.genai import types as _t
     client = genai.Client(vertexai=True,
                           project=os.environ["GOOGLE_CLOUD_PROJECT"],
-                          location=os.environ.get("GOOGLE_CLOUD_LOCATION", "global"))
+                          location=os.environ.get("GOOGLE_CLOUD_LOCATION", "global"),
+                          http_options=_t.HttpOptions(timeout=180_000))
     kurals = {k["n"]: k for k in json.loads((ROOT / "data/build/kural_text.json").read_text())}
     todo = [n for n in parse_range(args.range) if not (args.skip_existing and (OUT / f"{n}.json").exists())]
     stats = {"ok": 0, "failed": [], "in": 0, "out": 0, "collapsed": 0}

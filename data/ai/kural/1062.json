@@ -1,0 +1,107 @@
+{
+ "words": [
+  {
+   "surface": "இரந்தும்",
+   "parts": [
+    {
+     "text": "இரந்து",
+     "lemma": "இர",
+     "gloss": "begging"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even by begging"
+  },
+  {
+   "surface": "உயிர்வாழ்தல்",
+   "parts": [
+    {
+     "text": "உயிர்",
+     "lemma": "உயிர்",
+     "gloss": "life"
+    },
+    {
+     "text": "வாழ்தல்",
+     "lemma": "வாழ்",
+     "gloss": "living"
+    }
+   ],
+   "gloss": "living a life"
+  },
+  {
+   "surface": "வேண்டின்",
+   "parts": [
+    {
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "to require"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if it is required"
+  },
+  {
+   "surface": "பரந்து",
+   "parts": [
+    {
+     "text": "பரந்து",
+     "lemma": "பர",
+     "gloss": "wandering"
+    }
+   ],
+   "gloss": "wandering"
+  },
+  {
+   "surface": "கெடுக",
+   "parts": [
+    {
+     "text": "கெடு",
+     "lemma": "கெடு",
+     "gloss": "to perish"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "let"
+    }
+   ],
+   "gloss": "let perish"
+  },
+  {
+   "surface": "உலகு",
+   "parts": [
+    {
+     "text": "உலகு",
+     "lemma": "உலகு",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "world"
+  },
+  {
+   "surface": "இயற்றியான்",
+   "parts": [
+    {
+     "text": "இயற்றியான்",
+     "lemma": "இயற்று",
+     "gloss": "he who created"
+    }
+   ],
+   "gloss": "creator"
+  }
+ ],
+ "literal": "Even by begging living a life if it is required, wandering let him perish, he who created the world.",
+ "translation": "If it is ordained that people must live even by begging, let the creator of the world wander and perish.",
+ "modern": "இரந்துதான் உயிர்வாழ வேண்டும் என்ற நிலை இருந்தால், இந்த உலகத்தைப் படைத்தவன் எங்கும் அலைந்து கெட்டொழியட்டும்.",
+ "explanation": "This couplet expresses a fierce condemnation of a world where begging is necessary for survival. The phrase 'irantum uyirvaazhtal veendin' sets the condition: if living requires one to beg. The poet then curses the creator of such a world ('ulaku iyatriyaan') with the words 'parantu keduka', meaning let him wander and perish just like a beggar. The strong language underscores the deep indignity of begging, suggesting that a world demanding such humiliation is fundamentally flawed and its maker deserves the same suffering.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

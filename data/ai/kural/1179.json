@@ -1,0 +1,119 @@
+{
+ "words": [
+  {
+   "surface": "வாராக்கால்",
+   "parts": [
+    {
+     "text": "வாரா",
+     "lemma": "வா",
+     "gloss": "not coming"
+    },
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "if he comes not"
+  },
+  {
+   "surface": "துஞ்சா",
+   "parts": [
+    {
+     "text": "துஞ்சா",
+     "lemma": "துஞ்சு",
+     "gloss": "sleep not"
+    }
+   ],
+   "gloss": "they sleep not"
+  },
+  {
+   "surface": "வரின்",
+   "parts": [
+    {
+     "text": "வரின்",
+     "lemma": "வா",
+     "gloss": "if comes"
+    }
+   ],
+   "gloss": "if he comes"
+  },
+  {
+   "surface": "துஞ்சா",
+   "parts": [
+    {
+     "text": "துஞ்சா",
+     "lemma": "துஞ்சு",
+     "gloss": "sleep not"
+    }
+   ],
+   "gloss": "they sleep not"
+  },
+  {
+   "surface": "ஆயிடை",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "அ",
+     "gloss": "that"
+    },
+    {
+     "text": "இடை",
+     "lemma": "இடை",
+     "gloss": "state"
+    }
+   ],
+   "gloss": "in either state"
+  },
+  {
+   "surface": "ஆர்",
+   "parts": [
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "intense"
+    }
+   ],
+   "gloss": "intense"
+  },
+  {
+   "surface": "அஞர்",
+   "parts": [
+    {
+     "text": "அஞர்",
+     "lemma": "அஞர்",
+     "gloss": "sorrow"
+    }
+   ],
+   "gloss": "sorrow"
+  },
+  {
+   "surface": "உற்றன",
+   "parts": [
+    {
+     "text": "உற்றன",
+     "lemma": "உறு",
+     "gloss": "experienced"
+    }
+   ],
+   "gloss": "have experienced"
+  },
+  {
+   "surface": "கண்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    }
+   ],
+   "gloss": "eyes"
+  }
+ ],
+ "literal": "If comes not, sleep not; if comes, sleep not; in that state, intense sorrow have experienced eyes.",
+ "translation": "If he does not come, my eyes do not sleep; if he comes, they still do not sleep. In either case, my eyes endure intense sorrow.",
+ "modern": "அவர் வராதபோதும் என் கண்கள் தூங்குவதில்லை; அவர் வந்தாலும் தூங்குவதில்லை. ஆக இந்த இரண்டு நிலைகளிலும் என் கண்கள் தாங்க முடியாத துன்பத்தையே அடைகின்றன.",
+ "explanation": "The speaker laments the restless state of her eyes, which are caught in a paradox of longing and love. If her lover is away, her eyes cannot sleep because they are anxiously waiting and weeping for his return. If he is present, they still cannot sleep because they are too captivated by him and fear losing sight of him even for a moment. Thus, in both situations, her eyes are condemned to experience intense, inescapable sorrow.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

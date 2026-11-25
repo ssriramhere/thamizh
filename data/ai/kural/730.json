@@ -1,0 +1,119 @@
+{
+ "words": [
+  {
+   "surface": "உளர்",
+   "parts": [
+    {
+     "text": "உளர்",
+     "lemma": "உள்",
+     "gloss": "they exist"
+    }
+   ],
+   "gloss": "they exist"
+  },
+  {
+   "surface": "எனினும்",
+   "parts": [
+    {
+     "text": "எனின்",
+     "lemma": "என்",
+     "gloss": "if said"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if"
+  },
+  {
+   "surface": "இல்லாரொடு",
+   "parts": [
+    {
+     "text": "இல்லார்",
+     "lemma": "இல்",
+     "gloss": "those who are not"
+    },
+    {
+     "text": "ஒடு",
+     "lemma": "ஒடு",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "with those who do not exist"
+  },
+  {
+   "surface": "ஒப்பர்",
+   "parts": [
+    {
+     "text": "ஒப்பர்",
+     "lemma": "ஒப்பு",
+     "gloss": "they are equal"
+    }
+   ],
+   "gloss": "they are equal"
+  },
+  {
+   "surface": "களன்",
+   "parts": [
+    {
+     "text": "களன்",
+     "lemma": "களம்",
+     "gloss": "assembly"
+    }
+   ],
+   "gloss": "assembly"
+  },
+  {
+   "surface": "அஞ்சி",
+   "parts": [
+    {
+     "text": "அஞ்சி",
+     "lemma": "அஞ்சு",
+     "gloss": "having feared"
+    }
+   ],
+   "gloss": "having feared"
+  },
+  {
+   "surface": "கற்ற",
+   "parts": [
+    {
+     "text": "கற்ற",
+     "lemma": "கல்",
+     "gloss": "things learned"
+    }
+   ],
+   "gloss": "things learned"
+  },
+  {
+   "surface": "செல",
+   "parts": [
+    {
+     "text": "செல",
+     "lemma": "செல்",
+     "gloss": "to go"
+    }
+   ],
+   "gloss": "so as to be understood"
+  },
+  {
+   "surface": "சொல்லாதார்",
+   "parts": [
+    {
+     "text": "சொல்லாதார்",
+     "lemma": "சொல்",
+     "gloss": "those who do not speak"
+    }
+   ],
+   "gloss": "those who do not speak"
+  }
+ ],
+ "literal": "They exist, even if, with those who do not exist they are equal, assembly having feared, things learned to go those who do not speak.",
+ "translation": "Those who fear the assembly and fail to speak their learning convincingly are equal to the dead, even though they are alive.",
+ "modern": "அவைக்குப் பயந்து தாங்கள் கற்றவற்றைப் பிறர் ஏற்குமாறு சொல்லத் தெரியாதவர்கள், உயிரோடு இருந்தாலும் இறந்தவர்களுக்கு ஒப்பானவர்களே.",
+ "explanation": "This couplet strongly condemns the inability to share one's knowledge in public due to stage fright. The phrase 'களன் அஞ்சி' means fearing the assembly of scholars, while 'செலச் சொல்லாதார்' refers to those who cannot communicate their learning so that it reaches and convinces the listeners. Because their knowledge remains unshared and useless to the world, the poet declares that even if they are physically alive ('உளர் எனினும்'), they are no different from the dead ('இல்லாரொடு ஒப்பர்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,148 @@
+{
+ "words": [
+  {
+   "surface": "நோனா",
+   "parts": [
+    {
+     "text": "நோன்",
+     "lemma": "நோன்",
+     "gloss": "to endure"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not enduring"
+  },
+  {
+   "surface": "உடம்பும்",
+   "parts": [
+    {
+     "text": "உடம்பு",
+     "lemma": "உடம்பு",
+     "gloss": "body"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "body-and"
+  },
+  {
+   "surface": "உயிரும்",
+   "parts": [
+    {
+     "text": "உயிர்",
+     "lemma": "உயிர்",
+     "gloss": "soul"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "soul-and"
+  },
+  {
+   "surface": "மடல்",
+   "parts": [
+    {
+     "text": "மடல்",
+     "lemma": "மடல்",
+     "gloss": "palmyra stem"
+    }
+   ],
+   "gloss": "palmyra stem"
+  },
+  {
+   "surface": "ஏறும்",
+   "parts": [
+    {
+     "text": "ஏறு",
+     "lemma": "ஏறு",
+     "gloss": "to mount"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "will mount"
+  },
+  {
+   "surface": "நாணினை",
+   "parts": [
+    {
+     "text": "நாண்",
+     "lemma": "நாண்",
+     "gloss": "shame"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic tie"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "shame (acc.)"
+  },
+  {
+   "surface": "நீக்கி",
+   "parts": [
+    {
+     "text": "நீக்கு",
+     "lemma": "நீக்கு",
+     "gloss": "to remove"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having removed"
+  },
+  {
+   "surface": "நிறுத்து",
+   "parts": [
+    {
+     "text": "நிறு",
+     "lemma": "நிறு",
+     "gloss": "to weigh"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having weighed"
+  }
+ ],
+ "literal": "Not-enduring body-and soul-and palmyra-stem will-mount, shame having-removed having-weighed.",
+ "translation": "Having weighed the pain, my body and soul can endure no more; they will cast aside reserve and ride the palm-stem horse.",
+ "modern": "துன்பத்தை அளவிட்டுப் பார்த்து, அதனைத் தாங்க முடியாத என் உடம்பும் உயிரும் நாணத்தை நீக்கிவிட்டு மடல் ஏறத் துணிகின்றன.",
+ "explanation": "The speaker expresses the extreme agony of unfulfilled love, stating that their body and soul can no longer bear the suffering. The word 'நிறுத்து' indicates having weighed this unbearable pain against their natural sense of shame, leading to the decision to abandon reserve. They resolve to ride the 'maṭal' (a horse made of rough palmyra stems), a traditional extreme public declaration of love meant to force the union.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

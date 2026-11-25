@@ -1,0 +1,128 @@
+{
+ "words": [
+  {
+   "surface": "செறுநரை",
+   "parts": [
+    {
+     "text": "செறுநர்",
+     "lemma": "செறுநர்",
+     "gloss": "foes"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "foes (acc.)"
+  },
+  {
+   "surface": "காணின்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "see"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if seen"
+  },
+  {
+   "surface": "சுமக்க",
+   "parts": [
+    {
+     "text": "சும",
+     "lemma": "சும",
+     "gloss": "bear"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative"
+    }
+   ],
+   "gloss": "let one bear"
+  },
+  {
+   "surface": "இறுவரை",
+   "parts": [
+    {
+     "text": "இறு",
+     "lemma": "இறு",
+     "gloss": "end"
+    },
+    {
+     "text": "வரை",
+     "lemma": "வரை",
+     "gloss": "limit"
+    }
+   ],
+   "gloss": "end time"
+  },
+  {
+   "surface": "காணின்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "see"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if seen"
+  },
+  {
+   "surface": "கிழக்கு",
+   "parts": [
+    {
+     "text": "கிழக்கு",
+     "lemma": "கிழக்கு",
+     "gloss": "downward"
+    }
+   ],
+   "gloss": "downward"
+  },
+  {
+   "surface": "ஆம்",
+   "parts": [
+    {
+     "text": "ஆம்",
+     "lemma": "ஆகு",
+     "gloss": "will become"
+    }
+   ],
+   "gloss": "will become"
+  },
+  {
+   "surface": "தலை",
+   "parts": [
+    {
+     "text": "தலை",
+     "lemma": "தலை",
+     "gloss": "head"
+    }
+   ],
+   "gloss": "head"
+  }
+ ],
+ "literal": "Foes if seen, let one bear; end time if seen, downward will become head.",
+ "translation": "When you meet your enemies, bear with them patiently. When the time for their end comes, their heads will fall to the ground.",
+ "modern": "பகைவரைக் காணும்போது அவர் அழியும் காலம் வரும்வரை பொறுமையாகப் பணிந்து நடக்க வேண்டும்; அவர் அழியும் காலம் வந்ததும் அவர் தலை கீழே விழும்.",
+ "explanation": "This couplet advises strategic patience when dealing with enemies. The word 'சுமக்க' means to bear or carry, implying one should endure the enemy's presence submissively until the right moment. 'இறுவரை' refers to the time of their end or vulnerability. When that time is seen, 'கிழக்கு' (which here means downward rather than east) describes how their head will fall. The imagery contrasts the temporary burden of bearing the enemy with their sudden, inevitable defeat.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

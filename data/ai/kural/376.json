@@ -1,0 +1,158 @@
+{
+ "words": [
+  {
+   "surface": "பரியினும்",
+   "parts": [
+    {
+     "text": "பரி",
+     "lemma": "பரி",
+     "gloss": "to guard"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even if"
+    }
+   ],
+   "gloss": "even if guarded"
+  },
+  {
+   "surface": "ஆகாவாம்",
+   "parts": [
+    {
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "to become"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆம்",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "they will not become (one's own)"
+  },
+  {
+   "surface": "பால்",
+   "parts": [
+    {
+     "text": "பால்",
+     "lemma": "பால்",
+     "gloss": "portion/destiny"
+    }
+   ],
+   "gloss": "portion"
+  },
+  {
+   "surface": "அல்ல",
+   "parts": [
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "plural neuter suffix"
+    }
+   ],
+   "gloss": "things that are not"
+  },
+  {
+   "surface": "உய்த்து",
+   "parts": [
+    {
+     "text": "உய்",
+     "lemma": "உய்",
+     "gloss": "to send/cast"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "participle suffix"
+    }
+   ],
+   "gloss": "having cast out"
+  },
+  {
+   "surface": "சொரியினும்",
+   "parts": [
+    {
+     "text": "சொரி",
+     "lemma": "சொரி",
+     "gloss": "to pour"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even if"
+    }
+   ],
+   "gloss": "even if poured away"
+  },
+  {
+   "surface": "போகா",
+   "parts": [
+    {
+     "text": "போகு",
+     "lemma": "போகு",
+     "gloss": "to go"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "they will not go"
+  },
+  {
+   "surface": "தம",
+   "parts": [
+    {
+     "text": "தம்",
+     "lemma": "தாம்",
+     "gloss": "one's own"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "plural neuter suffix"
+    }
+   ],
+   "gloss": "one's own things"
+  }
+ ],
+ "literal": "Even if guarded, they will not become (one's own), things that are not (one's) portion; having driven out and even if poured away, they will not go, one's own things.",
+ "translation": "Things not destined for you will not stay, no matter how carefully you guard them. Your own destined things will not leave, even if you cast them away.",
+ "modern": "நமக்கு விதியாக விதிக்கப்படாத பொருள்கள், நாம் எவ்வளவுதான் பாதுகாத்தாலும் நம்மிடம் தங்காது. நமக்கு உரிய பொருள்கள், நாமே வெளியே கொண்டுபோய் வீசினாலும் நம்மை விட்டுப் போகாது.",
+ "explanation": "This couplet illustrates the inescapable nature of destiny regarding wealth and possessions. The word 'பால்' refers to the portion or lot assigned to a person by fate. If something is not meant to be yours, no amount of guarding ('பரியினும்') will make it stay. Conversely, what is truly yours ('தம') cannot be lost, even if you deliberately throw it away ('உய்த்துச் சொரியினும்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

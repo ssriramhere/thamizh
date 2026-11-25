@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "மருந்து",
+   "parts": [
+    {
+     "text": "மருந்து",
+     "lemma": "மருந்து",
+     "gloss": "medicine"
+    }
+   ],
+   "gloss": "medicine"
+  },
+  {
+   "surface": "என",
+   "parts": [
+    {
+     "text": "என",
+     "lemma": "என்",
+     "gloss": "as"
+    }
+   ],
+   "gloss": "as"
+  },
+  {
+   "surface": "வேண்டாவாம்",
+   "parts": [
+    {
+     "text": "வேண்டா",
+     "lemma": "வேண்டு",
+     "gloss": "is not needed"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆகு",
+     "gloss": "will be"
+    }
+   ],
+   "gloss": "will not be needed"
+  },
+  {
+   "surface": "யாக்கைக்கு",
+   "parts": [
+    {
+     "text": "யாக்கை",
+     "lemma": "யாக்கை",
+     "gloss": "body"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to/for"
+    }
+   ],
+   "gloss": "for the body"
+  },
+  {
+   "surface": "அருந்தியது",
+   "parts": [
+    {
+     "text": "அருந்தியது",
+     "lemma": "அருந்து",
+     "gloss": "that which was eaten"
+    }
+   ],
+   "gloss": "that which was eaten"
+  },
+  {
+   "surface": "அற்றது",
+   "parts": [
+    {
+     "text": "அற்றது",
+     "lemma": "அறு",
+     "gloss": "that which was digested"
+    }
+   ],
+   "gloss": "that which was digested"
+  },
+  {
+   "surface": "போற்றி",
+   "parts": [
+    {
+     "text": "போற்றி",
+     "lemma": "போற்று",
+     "gloss": "having ensured"
+    }
+   ],
+   "gloss": "having ensured"
+  },
+  {
+   "surface": "உணின்",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "eat"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if one eats"
+  }
+ ],
+ "literal": "Medicine as will not be needed for the body, what was eaten, what was digested having ensured if one eats.",
+ "translation": "No medicine is needed for the body if one eats only after ensuring that the food previously eaten has been fully digested.",
+ "modern": "முன்பு உண்ட உணவு முழுமையாகச் செரித்துவிட்டதா என்பதை உறுதிசெய்து பின்பு உண்டால், இந்த உடம்பிற்கு மருந்து என்று ஒன்று தேவையில்லை.",
+ "explanation": "This couplet states a fundamental principle of health and digestion. The word 'யாக்கை' refers to the physical body, and 'அருந்தியது' means the food that was previously consumed. The term 'அற்றது' literally means 'that which is severed or ended', but here it specifically denotes the complete digestion of food. By 'போற்றி உணின்', the poet advises eating carefully, ensuring that the previous meal is fully digested before taking the next. If one follows this simple practice, the body will never require any medicine.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,102 @@
+{
+ "words": [
+  {
+   "surface": "கல்லா",
+   "parts": [
+    {
+     "text": "கல்",
+     "lemma": "கல்",
+     "gloss": "to learn"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "unlearned"
+  },
+  {
+   "surface": "ஒருவன்",
+   "parts": [
+    {
+     "text": "ஒருவன்",
+     "lemma": "ஒருவன்",
+     "gloss": "one man"
+    }
+   ],
+   "gloss": "a person"
+  },
+  {
+   "surface": "தகைமை",
+   "parts": [
+    {
+     "text": "தகைமை",
+     "lemma": "தகைமை",
+     "gloss": "worth"
+    }
+   ],
+   "gloss": "dignity"
+  },
+  {
+   "surface": "தலைப்பெய்து",
+   "parts": [
+    {
+     "text": "தலை",
+     "lemma": "தலை",
+     "gloss": "place/head"
+    },
+    {
+     "text": "பெய்து",
+     "lemma": "பெய்",
+     "gloss": "having joined"
+    }
+   ],
+   "gloss": "having joined"
+  },
+  {
+   "surface": "சொல்லாட",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
+    },
+    {
+     "text": "ஆட",
+     "lemma": "ஆடு",
+     "gloss": "to speak"
+    }
+   ],
+   "gloss": "to converse"
+  },
+  {
+   "surface": "சோர்வு",
+   "parts": [
+    {
+     "text": "சோர்வு",
+     "lemma": "சோர்வு",
+     "gloss": "failing"
+    }
+   ],
+   "gloss": "failure"
+  },
+  {
+   "surface": "படும்",
+   "parts": [
+    {
+     "text": "படும்",
+     "lemma": "படு",
+     "gloss": "will suffer"
+    }
+   ],
+   "gloss": "will suffer"
+  }
+ ],
+ "literal": "Unlearned a person's dignity, having joined to speak, failure will suffer.",
+ "translation": "The apparent dignity of an unlearned person will shatter the moment he joins a gathering and begins to speak.",
+ "modern": "படிக்காத ஒருவனுடைய பெருமையானது, மற்றவர்களோடு சேர்ந்து பேசத் தொடங்கும் போது அழிந்துவிடும்.",
+ "explanation": "This couplet illustrates how ignorance cannot be hidden by mere appearance. The word 'தகைமை' refers to the dignity or apparent worth a person might project. 'தலைப்பெய்து சொல்லாட' means joining a gathering of people to converse. As long as the unlearned person remains silent, their lack of knowledge is concealed. However, the moment they speak, their 'சோர்வு' (failure or slipping) occurs, exposing their true ignorance.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

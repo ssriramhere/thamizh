@@ -1,0 +1,107 @@
+{
+ "words": [
+  {
+   "surface": "தண்ணம்",
+   "parts": [
+    {
+     "text": "தண்",
+     "lemma": "தண்மை",
+     "gloss": "cool"
+    },
+    {
+     "text": "அம்",
+     "lemma": "அம்",
+     "gloss": "beautiful"
+    }
+   ],
+   "gloss": "cool and beautiful"
+  },
+  {
+   "surface": "துறைவன்",
+   "parts": [
+    {
+     "text": "துறை",
+     "lemma": "துறை",
+     "gloss": "shore"
+    },
+    {
+     "text": "வன்",
+     "lemma": "அன்",
+     "gloss": "he who has"
+    }
+   ],
+   "gloss": "lord of the shore"
+  },
+  {
+   "surface": "தணந்தமை",
+   "parts": [
+    {
+     "text": "தணந்தமை",
+     "lemma": "தண",
+     "gloss": "fact of having separated"
+    }
+   ],
+   "gloss": "the separation"
+  },
+  {
+   "surface": "நம்மினும்",
+   "parts": [
+    {
+     "text": "நம்",
+     "lemma": "நாம்",
+     "gloss": "us"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even more than us"
+  },
+  {
+   "surface": "முன்னம்",
+   "parts": [
+    {
+     "text": "முன்னம்",
+     "lemma": "முன்",
+     "gloss": "before"
+    }
+   ],
+   "gloss": "beforehand"
+  },
+  {
+   "surface": "உணர்ந்த",
+   "parts": [
+    {
+     "text": "உணர்ந்த",
+     "lemma": "உணர்",
+     "gloss": "that realized"
+    }
+   ],
+   "gloss": "that realized"
+  },
+  {
+   "surface": "வளை",
+   "parts": [
+    {
+     "text": "வளை",
+     "lemma": "வளை",
+     "gloss": "bangle"
+    }
+   ],
+   "gloss": "bangles"
+  }
+ ],
+ "literal": "Cool beautiful shore-lord's separation, even than us, before, realized bangles.",
+ "translation": "My bangles realized the departure of the lord of the cool shores even before I did.",
+ "modern": "குளிர்ந்த நீர்த்துறையை உடைய தலைவன் நம்மை விட்டுப் பிரிந்ததை, நம்மை விட முன்னதாகவே நம் கையில் உள்ள வளையல்கள் உணர்ந்துவிட்டன.",
+ "explanation": "The heroine remarks on how quickly her body reacts to the hero's departure. The word 'துறைவன்' refers to the lord of the coastal region, whose shores are cool ('தண்ணம்'). When he leaves ('தணந்தமை'), she immediately loses weight out of sorrow, causing her bangles ('வளை') to slip off. Thus, she poetically claims that her bangles perceived his separation even before her own mind did ('நம்மினும் முன்னம் உணர்ந்த').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

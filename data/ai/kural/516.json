@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "செய்வானை",
+   "parts": [
+    {
+     "text": "செய்வான்",
+     "lemma": "செய்",
+     "gloss": "he who will do"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "[accusative]"
+    }
+   ],
+   "gloss": "the doer (acc.)"
+  },
+  {
+   "surface": "நாடி",
+   "parts": [
+    {
+     "text": "நாடு",
+     "lemma": "நாடு",
+     "gloss": "examine"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "[adverbial suffix]"
+    }
+   ],
+   "gloss": "having examined"
+  },
+  {
+   "surface": "வினை",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "task"
+    }
+   ],
+   "gloss": "task"
+  },
+  {
+   "surface": "நாடி",
+   "parts": [
+    {
+     "text": "நாடு",
+     "lemma": "நாடு",
+     "gloss": "examine"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "[adverbial suffix]"
+    }
+   ],
+   "gloss": "having examined"
+  },
+  {
+   "surface": "காலத்தோடு",
+   "parts": [
+    {
+     "text": "காலத்து",
+     "lemma": "காலம்",
+     "gloss": "time (oblique)"
+    },
+    {
+     "text": "ஓடு",
+     "lemma": "ஓடு",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "with time"
+  },
+  {
+   "surface": "எய்த",
+   "parts": [
+    {
+     "text": "எய்து",
+     "lemma": "எய்து",
+     "gloss": "suit"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "[infinitive suffix]"
+    }
+   ],
+   "gloss": "to suit"
+  },
+  {
+   "surface": "உணர்ந்து",
+   "parts": [
+    {
+     "text": "உணர்ந்து",
+     "lemma": "உணர்",
+     "gloss": "having understood"
+    }
+   ],
+   "gloss": "having understood"
+  },
+  {
+   "surface": "செயல்",
+   "parts": [
+    {
+     "text": "செயல்",
+     "lemma": "செய்",
+     "gloss": "act"
+    }
+   ],
+   "gloss": "act"
+  }
+ ],
+ "literal": "The doer having examined, the task having examined, with the time to suit having understood, act.",
+ "translation": "Examine the person who will do the work, examine the work itself, and having understood how it suits the time, execute it.",
+ "modern": "ஒரு செயலைச் செய்பவனின் திறமையை ஆராய்ந்து, செய்ய வேண்டிய செயலையும் ஆராய்ந்து, அது காலத்தோடு பொருந்துமாறு உணர்ந்து அச்செயலைச் செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the three essential factors to consider before executing a task. First, one must evaluate the doer ('செய்வானை நாடி') to ensure they have the right skills. Second, the nature of the task itself ('வினை நாடி') must be thoroughly analyzed. Finally, one must understand how the task aligns with the current time ('காலத்தோடு எய்த உணர்ந்து') before proceeding with the action ('செயல்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

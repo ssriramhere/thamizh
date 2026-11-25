@@ -1,0 +1,127 @@
+{
+ "words": [
+  {
+   "surface": "தேரான்",
+   "parts": [
+    {
+     "text": "தேர்",
+     "lemma": "தேர்",
+     "gloss": "to examine"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he (negative)"
+    }
+   ],
+   "gloss": "he who does not examine"
+  },
+  {
+   "surface": "பிறனை",
+   "parts": [
+    {
+     "text": "பிறன்",
+     "lemma": "பிறன்",
+     "gloss": "stranger"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "stranger (acc.)"
+  },
+  {
+   "surface": "தெளிந்தான்",
+   "parts": [
+    {
+     "text": "தெளி",
+     "lemma": "தெளி",
+     "gloss": "to trust"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who trusted"
+  },
+  {
+   "surface": "வழிமுறை",
+   "parts": [
+    {
+     "text": "வழி",
+     "lemma": "வழி",
+     "gloss": "path"
+    },
+    {
+     "text": "முறை",
+     "lemma": "முறை",
+     "gloss": "order"
+    }
+   ],
+   "gloss": "lineage"
+  },
+  {
+   "surface": "தீரா",
+   "parts": [
+    {
+     "text": "தீர்",
+     "lemma": "தீர்",
+     "gloss": "to end"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "unending"
+  },
+  {
+   "surface": "இடும்பை",
+   "parts": [
+    {
+     "text": "இடும்பை",
+     "lemma": "இடும்பை",
+     "gloss": "sorrow"
+    }
+   ],
+   "gloss": "sorrow"
+  },
+  {
+   "surface": "தரும்",
+   "parts": [
+    {
+     "text": "தரு",
+     "lemma": "தா",
+     "gloss": "to give"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future tense suffix"
+    }
+   ],
+   "gloss": "will give"
+  }
+ ],
+ "literal": "He who does not examine, a stranger, he who trusted - lineage, unending sorrow will give.",
+ "translation": "Trusting a stranger without testing him will bring unending sorrow to one's descendants.",
+ "modern": "ஒருவனைப் பற்றி ஆராயாமல் முன்பின் தெரியாதவனை நம்பி ஒரு செயலை ஒப்படைத்தவனுக்கு, அது அவனது தலைமுறைக்கும் நீங்காத துன்பத்தைத் தரும்.",
+ "explanation": "This couplet warns against placing trust in unknown people without proper investigation. The word 'தேரான்' means failing to examine, and 'பிறனை' refers to someone who is an outsider or stranger. 'தெளிந்தான்' denotes the one who places his trust or confidence. The phrase 'வழிமுறை' indicates that the consequences of such a careless decision will not stop with the individual, but will pass down to their lineage. Thus, the text emphasizes that blind trust yields 'தீரா இடும்பை' or sorrow that never ends.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

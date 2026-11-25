@@ -1,0 +1,154 @@
+{
+ "words": [
+  {
+   "surface": "கான",
+   "parts": [
+    {
+     "text": "கான்",
+     "lemma": "கான்",
+     "gloss": "forest"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival suffix"
+    }
+   ],
+   "gloss": "forest"
+  },
+  {
+   "surface": "முயல்",
+   "parts": [
+    {
+     "text": "முயல்",
+     "lemma": "முயல்",
+     "gloss": "hare"
+    }
+   ],
+   "gloss": "hare"
+  },
+  {
+   "surface": "எய்த",
+   "parts": [
+    {
+     "text": "எய்",
+     "lemma": "எய்",
+     "gloss": "shoot"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "shot"
+  },
+  {
+   "surface": "அம்பினில்",
+   "parts": [
+    {
+     "text": "அம்பு",
+     "lemma": "அம்பு",
+     "gloss": "arrow"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "than (ablative)"
+    }
+   ],
+   "gloss": "than the arrow"
+  },
+  {
+   "surface": "யானை",
+   "parts": [
+    {
+     "text": "யானை",
+     "lemma": "யானை",
+     "gloss": "elephant"
+    }
+   ],
+   "gloss": "elephant"
+  },
+  {
+   "surface": "பிழைத்த",
+   "parts": [
+    {
+     "text": "பிழை",
+     "lemma": "பிழை",
+     "gloss": "miss"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "missed"
+  },
+  {
+   "surface": "வேல்",
+   "parts": [
+    {
+     "text": "வேல்",
+     "lemma": "வேல்",
+     "gloss": "spear"
+    }
+   ],
+   "gloss": "spear"
+  },
+  {
+   "surface": "ஏந்தல்",
+   "parts": [
+    {
+     "text": "ஏந்து",
+     "lemma": "ஏந்து",
+     "gloss": "hold"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "holding"
+  },
+  {
+   "surface": "இனிது",
+   "parts": [
+    {
+     "text": "இனிது",
+     "lemma": "இனிமை",
+     "gloss": "is sweet"
+    }
+   ],
+   "gloss": "is sweeter"
+  }
+ ],
+ "literal": "Forest hare shot than-arrow elephant missed spear holding is-sweeter.",
+ "translation": "Holding a spear that missed an elephant is sweeter than holding an arrow that successfully hit a forest hare.",
+ "modern": "காட்டில் உள்ள முயலை எய்து வீழ்த்திய அம்பினை ஏந்துவதை விட, பெரிய யானை மீது எறிந்து குறி தவறிய வேலை ஏந்துவது பெருமையாகும்.",
+ "explanation": "This couplet contrasts a successful but small achievement with a failed but grand ambition. Hitting a timid forest hare with an arrow requires little courage, so the success brings no real glory. In contrast, daring to attack a massive elephant with a spear shows immense bravery, making even a missed strike a mark of honor. The word 'iṉitu' (sweet or pleasant) emphasizes that true satisfaction and pride come from the magnitude of the attempt, not just the outcome.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

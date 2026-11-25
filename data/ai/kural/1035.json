@@ -1,0 +1,170 @@
+{
+ "words": [
+  {
+   "surface": "இரவார்",
+   "parts": [
+    {
+     "text": "இர",
+     "lemma": "இர",
+     "gloss": "to beg"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "epenthesis"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "negative 3pl. suffix"
+    }
+   ],
+   "gloss": "they will not beg"
+  },
+  {
+   "surface": "இரப்பார்க்கு",
+   "parts": [
+    {
+     "text": "இரப்பார்",
+     "lemma": "இரப்பார்",
+     "gloss": "those who beg"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to those who beg"
+  },
+  {
+   "surface": "ஒன்று",
+   "parts": [
+    {
+     "text": "ஒன்று",
+     "lemma": "ஒன்று",
+     "gloss": "one thing"
+    }
+   ],
+   "gloss": "something"
+  },
+  {
+   "surface": "ஈவர்",
+   "parts": [
+    {
+     "text": "ஈ",
+     "lemma": "ஈ",
+     "gloss": "to give"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future suffix"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "3pl. suffix"
+    }
+   ],
+   "gloss": "they will give"
+  },
+  {
+   "surface": "கரவாது",
+   "parts": [
+    {
+     "text": "கர",
+     "lemma": "கர",
+     "gloss": "to withhold"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "epenthesis"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "negative adverbial suffix"
+    }
+   ],
+   "gloss": "without withholding"
+  },
+  {
+   "surface": "கை",
+   "parts": [
+    {
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "hand"
+    }
+   ],
+   "gloss": "hand"
+  },
+  {
+   "surface": "செய்து",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having worked"
+  },
+  {
+   "surface": "ஊண்",
+   "parts": [
+    {
+     "text": "ஊண்",
+     "lemma": "ஊண்",
+     "gloss": "eating"
+    }
+   ],
+   "gloss": "eating"
+  },
+  {
+   "surface": "மாலை",
+   "parts": [
+    {
+     "text": "மாலை",
+     "lemma": "மாலை",
+     "gloss": "nature"
+    }
+   ],
+   "gloss": "nature"
+  },
+  {
+   "surface": "அவர்",
+   "parts": [
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "those people"
+  }
+ ],
+ "literal": "Will not beg; to those who beg, something they will give without withholding, hand having worked eating nature those people.",
+ "translation": "Those whose nature is to eat by the labor of their own hands will never beg. Instead, they will give without holding back to those who do beg.",
+ "modern": "தம் கைகளால் உழைத்து உண்ணும் இயல்புடையவர்கள் பிறரிடம் சென்று யாசிக்க மாட்டார்கள்; தம்மிடம் யாசிப்பவர்களுக்கு எதையும் மறைக்காமல் கொடுப்பார்கள்.",
+ "explanation": "This couplet highlights the self-reliance and generosity of those who live by farming. The phrase 'கை செய்து ஊண் மாலை அவர்' describes people whose very nature (மாலை, which in classical Tamil can mean 'nature' or 'habit' rather than 'evening' or 'garland') is to eat (ஊண்) by working (செய்து) with their own hands (கை). Because they produce their own sustenance, they never need to beg (இரவார்) from others. Furthermore, their hard work enables them to be generous, giving (ஈவர்) to those who ask (இரப்பார்க்கு) without hiding or withholding (கரவாது) what they have.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

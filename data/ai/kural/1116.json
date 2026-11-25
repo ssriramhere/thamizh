@@ -1,0 +1,112 @@
+{
+ "words": [
+  {
+   "surface": "மதியும்",
+   "parts": [
+    {
+     "text": "மதி",
+     "lemma": "மதி",
+     "gloss": "moon"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "moon-and"
+  },
+  {
+   "surface": "மடந்தை",
+   "parts": [
+    {
+     "text": "மடந்தை",
+     "lemma": "மடந்தை",
+     "gloss": "young woman"
+    }
+   ],
+   "gloss": "young woman's"
+  },
+  {
+   "surface": "முகனும்",
+   "parts": [
+    {
+     "text": "முகன்",
+     "lemma": "முகம்",
+     "gloss": "face"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "face-and"
+  },
+  {
+   "surface": "அறியா",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "to know"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not knowing"
+  },
+  {
+   "surface": "பதியின்",
+   "parts": [
+    {
+     "text": "பதி",
+     "lemma": "பதி",
+     "gloss": "place"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in places"
+  },
+  {
+   "surface": "கலங்கிய",
+   "parts": [
+    {
+     "text": "கலங்கு",
+     "lemma": "கலங்கு",
+     "gloss": "to be confused"
+    },
+    {
+     "text": "இய",
+     "lemma": "இய",
+     "gloss": "adjectival suffix"
+    }
+   ],
+   "gloss": "confused"
+  },
+  {
+   "surface": "மீன்",
+   "parts": [
+    {
+     "text": "மீன்",
+     "lemma": "மீன்",
+     "gloss": "star"
+    }
+   ],
+   "gloss": "stars"
+  }
+ ],
+ "literal": "Moon and young woman's face and not knowing, in places confused stars.",
+ "translation": "Unable to tell apart the moon and this young woman's face, the stars are bewildered in their places.",
+ "modern": "நிலவு எது, இந்தப் பெண்ணின் முகம் எது என்று வேறுபாடு அறிய முடியாமல், விண்மீன்கள் தம் இடங்களிலேயே கலங்கி நிற்கின்றன.",
+ "explanation": "The speaker looks at the night sky and imagines that the stars are bewildered. They cannot distinguish between the actual moon and the radiant face of the young woman. The word 'mīṉ' frequently means fish, but in this celestial context it means stars, which share the sky with the moon ('mati'). By saying the stars are confused in their places ('patiyiṉ kalaṅkiya'), the poem playfully suggests her face is as luminous and perfectly round as the full moon itself.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

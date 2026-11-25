@@ -124,7 +124,8 @@
     const ai = k.ai || {};
     const glosses = {};
     (ai.words || []).forEach((w) => { glosses[w.surface] = w; });
-    document.getElementById('words').innerHTML = k.words.flat().map((w) => {
+    const words = (k.reading && k.reading.lines ? k.reading.lines : k.words).flat();
+    document.getElementById('words').innerHTML = words.map((w) => {
       const g = glosses[w.ta];
       let parts = '';
       if (g && g.parts && g.parts.length > 1) {

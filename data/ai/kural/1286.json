@@ -1,0 +1,108 @@
+{
+ "words": [
+  {
+   "surface": "காணுங்கால்",
+   "parts": [
+    {
+     "text": "காணும்",
+     "lemma": "காண்",
+     "gloss": "seeing"
+    },
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "when seeing"
+  },
+  {
+   "surface": "காணேன்",
+   "parts": [
+    {
+     "text": "காணேன்",
+     "lemma": "காண்",
+     "gloss": "I do not see"
+    }
+   ],
+   "gloss": "I do not see"
+  },
+  {
+   "surface": "தவறு",
+   "parts": [
+    {
+     "text": "தவறு",
+     "lemma": "தவறு",
+     "gloss": "fault"
+    }
+   ],
+   "gloss": "fault"
+  },
+  {
+   "surface": "ஆய",
+   "parts": [
+    {
+     "text": "ஆய",
+     "lemma": "ஆகு",
+     "gloss": "that became"
+    }
+   ],
+   "gloss": "that are"
+  },
+  {
+   "surface": "காணாக்கால்",
+   "parts": [
+    {
+     "text": "காணா",
+     "lemma": "காண்",
+     "gloss": "not seeing"
+    },
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "when not seeing"
+  },
+  {
+   "surface": "காணேன்",
+   "parts": [
+    {
+     "text": "காணேன்",
+     "lemma": "காண்",
+     "gloss": "I do not see"
+    }
+   ],
+   "gloss": "I do not see"
+  },
+  {
+   "surface": "தவறு",
+   "parts": [
+    {
+     "text": "தவறு",
+     "lemma": "தவறு",
+     "gloss": "fault"
+    }
+   ],
+   "gloss": "fault"
+  },
+  {
+   "surface": "அல்லவை",
+   "parts": [
+    {
+     "text": "அல்லவை",
+     "lemma": "அல்",
+     "gloss": "things that are not"
+    }
+   ],
+   "gloss": "things other than"
+  }
+ ],
+ "literal": "When seeing, I see not faults that are; when not seeing, I see not things other than fault.",
+ "translation": "When I see him, I cannot see any of his faults. When I do not see him, I cannot see anything but his faults.",
+ "modern": "அவரை நேரில் காணும்போது அவருடைய தவறுகள் எதையும் நான் காண்பதில்லை. அவரைக் காணாதபோதோ அவருடைய தவறுகளைத் தவிர வேறு எதையும் நான் காண்பதில்லை.",
+ "explanation": "The speaker describes the overwhelming nature of her affection and longing. When her lover is present, her joy blinds her to any of his flaws, making him appear perfect. However, when he is away, the pain of separation makes her dwell entirely on his faults, such as his failure to return. The sharp contrast between 'when seeing' (காணுங்கால்) and 'when not seeing' (காணாக்கால்) highlights how her perception is completely dictated by his presence or absence.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

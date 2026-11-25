@@ -1,0 +1,150 @@
+{
+ "words": [
+  {
+   "surface": "கள்",
+   "parts": [
+    {
+     "text": "கள்",
+     "lemma": "கள்",
+     "gloss": "liquor"
+    }
+   ],
+   "gloss": "liquor"
+  },
+  {
+   "surface": "உண்ணா",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "drink"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not drinking"
+  },
+  {
+   "surface": "போழ்தில்",
+   "parts": [
+    {
+     "text": "போழ்து",
+     "lemma": "போழ்து",
+     "gloss": "time"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "at"
+    }
+   ],
+   "gloss": "at the time"
+  },
+  {
+   "surface": "களித்தானை",
+   "parts": [
+    {
+     "text": "களித்தான்",
+     "lemma": "களி",
+     "gloss": "intoxicated man"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "intoxicated man (acc.)"
+  },
+  {
+   "surface": "காணும்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "see"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "seeing"
+  },
+  {
+   "surface": "கால்",
+   "parts": [
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "when"
+  },
+  {
+   "surface": "உள்ளான்",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "think"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he does not"
+    }
+   ],
+   "gloss": "he does not think"
+  },
+  {
+   "surface": "கொல்",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "I wonder"
+    }
+   ],
+   "gloss": "I wonder"
+  },
+  {
+   "surface": "உண்டதன்",
+   "parts": [
+    {
+     "text": "உண்டது",
+     "lemma": "உண்",
+     "gloss": "the act of drinking"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "of"
+    }
+   ],
+   "gloss": "of having drunk"
+  },
+  {
+   "surface": "சோர்வு",
+   "parts": [
+    {
+     "text": "சோர்வு",
+     "lemma": "சோர்வு",
+     "gloss": "stupor"
+    }
+   ],
+   "gloss": "stupor"
+  }
+ ],
+ "literal": "liquor not-drinking at-the-time intoxicated-man-(acc.) seeing when he-does-not-think I-wonder of-having-drunk stupor",
+ "translation": "When a man who is currently sober sees someone who is intoxicated, does he not realize the shameful stupor his own drinking causes?",
+ "modern": "தான் மது அருந்தாத நேரத்தில், மது அருந்தி மயங்கியிருப்பவனைப் பார்க்கும் ஒருவன், தான் மது அருந்தியதால் ஏற்படும் மயக்கத்தையும் சோர்வையும் பற்றி நினைக்க மாட்டானோ?",
+ "explanation": "The couplet asks a rhetorical question about self-awareness and the loss of dignity caused by intoxication. It observes a person who drinks but is currently sober, watching another person who is completely drunk. The word 'சோர்வு' (cōrvu) captures the physical weakness, loss of senses, and resulting disgrace of drunkenness. By seeing the foolish state of another drunkard, the sober observer should naturally reflect on his own shameful behavior when he drinks.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,107 @@
+{
+ "words": [
+  {
+   "surface": "நல்லார்கண்",
+   "parts": [
+    {
+     "text": "நல்லார்",
+     "lemma": "நல்லார்",
+     "gloss": "good people"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "locative suffix (with/among)"
+    }
+   ],
+   "gloss": "with the good"
+  },
+  {
+   "surface": "பட்ட",
+   "parts": [
+    {
+     "text": "பட்ட",
+     "lemma": "படு",
+     "gloss": "happened"
+    }
+   ],
+   "gloss": "happened"
+  },
+  {
+   "surface": "வறுமையின்",
+   "parts": [
+    {
+     "text": "வறுமை",
+     "lemma": "வறுமை",
+     "gloss": "poverty"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than (comparative suffix)"
+    }
+   ],
+   "gloss": "than poverty"
+  },
+  {
+   "surface": "இன்னாதே",
+   "parts": [
+    {
+     "text": "இன்னாது",
+     "lemma": "இன்னாது",
+     "gloss": "is painful"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed (emphatic)"
+    }
+   ],
+   "gloss": "is indeed more painful"
+  },
+  {
+   "surface": "கல்லார்கண்",
+   "parts": [
+    {
+     "text": "கல்லார்",
+     "lemma": "கல்லார்",
+     "gloss": "unlearned people"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "locative suffix (with/among)"
+    }
+   ],
+   "gloss": "with the unlearned"
+  },
+  {
+   "surface": "பட்ட",
+   "parts": [
+    {
+     "text": "பட்ட",
+     "lemma": "படு",
+     "gloss": "happened"
+    }
+   ],
+   "gloss": "happened"
+  },
+  {
+   "surface": "திரு",
+   "parts": [
+    {
+     "text": "திரு",
+     "lemma": "திரு",
+     "gloss": "wealth"
+    }
+   ],
+   "gloss": "wealth"
+  }
+ ],
+ "literal": "With the good happened than poverty is indeed more painful, with the unlearned happened wealth.",
+ "translation": "Wealth possessed by the unlearned is far more grievous than poverty suffered by the good.",
+ "modern": "நல்லவர்களிடம் உள்ள வறுமையை விட, படிக்காதவர்களிடம் உள்ள செல்வம் மிகவும் துன்பம் தருவதாகும்.",
+ "explanation": "This couplet contrasts two situations: poverty among the good and wealth among the unlearned. The comparative suffix 'இன்' (in) attached to 'வறுமை' (poverty) sets up the comparison, meaning 'than poverty'. The word 'இன்னாதே' (is indeed painful/grievous) emphasizes that it is worse for an uneducated person to have wealth than for a good, educated person to suffer poverty, as the unlearned are likely to misuse their wealth and cause harm.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

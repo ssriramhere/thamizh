@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "இன்சொல்",
+   "parts": [
+    {
+     "text": "இன்",
+     "lemma": "இனிமை",
+     "gloss": "sweet"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
+    }
+   ],
+   "gloss": "sweet word"
+  },
+  {
+   "surface": "இனிது",
+   "parts": [
+    {
+     "text": "இனிது",
+     "lemma": "இனிது",
+     "gloss": "sweet thing"
+    }
+   ],
+   "gloss": "sweet thing"
+  },
+  {
+   "surface": "ஈன்றல்",
+   "parts": [
+    {
+     "text": "ஈன்றல்",
+     "lemma": "ஈன்",
+     "gloss": "yielding"
+    }
+   ],
+   "gloss": "yielding"
+  },
+  {
+   "surface": "காண்பான்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "பான்",
+     "lemma": "ஆன்",
+     "gloss": "he who"
+    }
+   ],
+   "gloss": "he who sees"
+  },
+  {
+   "surface": "எவன்",
+   "parts": [
+    {
+     "text": "எவன்",
+     "lemma": "எவன்",
+     "gloss": "why"
+    }
+   ],
+   "gloss": "why"
+  },
+  {
+   "surface": "கொலோ",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "wonder"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "I wonder"
+  },
+  {
+   "surface": "வன்சொல்",
+   "parts": [
+    {
+     "text": "வன்",
+     "lemma": "வன்மை",
+     "gloss": "harsh"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
+    }
+   ],
+   "gloss": "harsh word"
+  },
+  {
+   "surface": "வழங்குவது",
+   "parts": [
+    {
+     "text": "வழங்கு",
+     "lemma": "வழங்கு",
+     "gloss": "to use"
+    },
+    {
+     "text": "வது",
+     "lemma": "அது",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "using"
+  }
+ ],
+ "literal": "Sweet word sweet thing yielding he-who-sees, why I-wonder harsh word using?",
+ "translation": "When a person sees that sweet words yield sweet results, why would he use harsh words?",
+ "modern": "இனிய சொற்கள் இன்பத்தைத் தருவதைக் காணும் ஒருவன், கடுமையான சொற்களைப் பேசுவது ஏனோ?",
+ "explanation": "The couplet contrasts the effects of sweet and harsh words. The word 'காண்பான்' (he who sees) emphasizes personal experience: the speaker already knows firsthand that sweet words produce joy ('இனிது ஈன்றல்'). Given this clear evidence, the poet wonders ('எவன்கொலோ') why anyone would choose to speak harsh words ('வன்சொல்'). It highlights the irrationality of choosing harshness when the benefits of kindness are obvious.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

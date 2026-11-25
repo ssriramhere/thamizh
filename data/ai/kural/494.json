@@ -1,0 +1,153 @@
+{
+ "words": [
+  {
+   "surface": "எண்ணியார்",
+   "parts": [
+    {
+     "text": "எண்ணி",
+     "lemma": "எண்ணு",
+     "gloss": "having planned"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (suffix)"
+    }
+   ],
+   "gloss": "those who planned"
+  },
+  {
+   "surface": "எண்ணம்",
+   "parts": [
+    {
+     "text": "எண்ணம்",
+     "lemma": "எண்ணம்",
+     "gloss": "plan"
+    }
+   ],
+   "gloss": "plan"
+  },
+  {
+   "surface": "இழப்பர்",
+   "parts": [
+    {
+     "text": "இழ",
+     "lemma": "இழ",
+     "gloss": "to lose"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
+    }
+   ],
+   "gloss": "will lose"
+  },
+  {
+   "surface": "இடன்",
+   "parts": [
+    {
+     "text": "இடன்",
+     "lemma": "இடம்",
+     "gloss": "place"
+    }
+   ],
+   "gloss": "place"
+  },
+  {
+   "surface": "அறிந்து",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "to know"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having known"
+  },
+  {
+   "surface": "துன்னியார்",
+   "parts": [
+    {
+     "text": "துன்னி",
+     "lemma": "துன்னு",
+     "gloss": "having approached"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (suffix)"
+    }
+   ],
+   "gloss": "those who reached (it)"
+  },
+  {
+   "surface": "துன்னி",
+   "parts": [
+    {
+     "text": "துன்னி",
+     "lemma": "துன்னு",
+     "gloss": "having stayed close"
+    }
+   ],
+   "gloss": "having stayed close"
+  },
+  {
+   "surface": "செயின்",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if (conditional suffix)"
+    }
+   ],
+   "gloss": "if act"
+  }
+ ],
+ "literal": "Those who planned, their plan will lose, place having known, those who reached it, having stayed close if they act.",
+ "translation": "If defenders know the right place and act while holding it firmly, those who planned against them will lose all hopes of victory.",
+ "modern": "தகுந்த இடத்தை அறிந்து, அதைப் பொருந்தி நின்று செயல்பட்டால், பகைவர்கள் தங்களை வெல்ல நினைத்த எண்ணத்தை இழந்து தோற்பார்கள்.",
+ "explanation": "This couplet highlights the strategic importance of choosing and holding the right ground. The word 'இடன்' refers to a suitable place, while the root 'துன்னு' means to approach, fit, or stay close. If defenders secure a strong position and act firmly from within it, the attackers ('எண்ணியார்' - those who planned the assault) will see their plans completely fail. The repetition of 'துன்னியார் துன்னி' emphasizes the need to not just reach the right place, but to stay firmly rooted there during the action.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

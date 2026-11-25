@@ -1,0 +1,114 @@
+{
+ "words": [
+  {
+   "surface": "செரு",
+   "parts": [
+    {
+     "text": "செரு",
+     "lemma": "செரு",
+     "gloss": "battle"
+    }
+   ],
+   "gloss": "battle"
+  },
+  {
+   "surface": "வந்த",
+   "parts": [
+    {
+     "text": "வந்த",
+     "lemma": "வா",
+     "gloss": "that came"
+    }
+   ],
+   "gloss": "that came"
+  },
+  {
+   "surface": "போழ்தில்",
+   "parts": [
+    {
+     "text": "போழ்து",
+     "lemma": "போழ்து",
+     "gloss": "time"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "at"
+    }
+   ],
+   "gloss": "at the time"
+  },
+  {
+   "surface": "சிறை",
+   "parts": [
+    {
+     "text": "சிறை",
+     "lemma": "சிறை",
+     "gloss": "defense"
+    }
+   ],
+   "gloss": "defense"
+  },
+  {
+   "surface": "செய்யா",
+   "parts": [
+    {
+     "text": "செய்யா",
+     "lemma": "செய்",
+     "gloss": "who does not make"
+    }
+   ],
+   "gloss": "who does not make"
+  },
+  {
+   "surface": "வேந்தன்",
+   "parts": [
+    {
+     "text": "வேந்தன்",
+     "lemma": "வேந்தன்",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  },
+  {
+   "surface": "வெருவந்து",
+   "parts": [
+    {
+     "text": "வெருவந்து",
+     "lemma": "வெருவு",
+     "gloss": "having feared"
+    }
+   ],
+   "gloss": "having become terrified"
+  },
+  {
+   "surface": "வெய்து",
+   "parts": [
+    {
+     "text": "வெய்து",
+     "lemma": "வெய்து",
+     "gloss": "quickly"
+    }
+   ],
+   "gloss": "quickly"
+  },
+  {
+   "surface": "கெடும்",
+   "parts": [
+    {
+     "text": "கெடும்",
+     "lemma": "கெடு",
+     "gloss": "will perish"
+    }
+   ],
+   "gloss": "will perish"
+  }
+ ],
+ "literal": "Battle - that came - at the time - defense - who does not make - king - having become terrified - quickly - will perish.",
+ "translation": "A king who has not built his defenses by the time war comes will be struck with terror and perish swiftly.",
+ "modern": "போர் வரும் காலத்திற்கு முன்பே தனக்கான அரண்களை அமைத்துக்கொள்ளாத அரசன், போர் வந்தவுடன் அச்சமடைந்து விரைவில் அழிந்துபோவான்.",
+ "explanation": "This couplet warns of the fatal consequences of unpreparedness. The word 'சிறை' usually means a wing, feather, or prison, but here it takes the accepted sense of a defense, fortification, or protective barrier. A king who fails to establish these defenses beforehand ('சிறை செய்யா வேந்தன்') will find himself completely exposed when war actually arrives ('செரு வந்த போழ்தில்'). Without protection, he will be overcome by panic ('வெருவந்து') and face swift destruction ('வெய்து கெடும்'). The verse emphasizes that security and alliances must be firmly in place long before danger appears.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

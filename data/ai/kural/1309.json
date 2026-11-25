@@ -1,0 +1,112 @@
+{
+ "words": [
+  {
+   "surface": "நீரும்",
+   "parts": [
+    {
+     "text": "நீர்",
+     "lemma": "நீர்",
+     "gloss": "water"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even water"
+  },
+  {
+   "surface": "நிழலது",
+   "parts": [
+    {
+     "text": "நிழல்",
+     "lemma": "நிழல்",
+     "gloss": "shade"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
+    }
+   ],
+   "gloss": "of the shade"
+  },
+  {
+   "surface": "இனிதே",
+   "parts": [
+    {
+     "text": "இனிது",
+     "lemma": "இனிது",
+     "gloss": "sweet"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "is sweet indeed"
+  },
+  {
+   "surface": "புலவியும்",
+   "parts": [
+    {
+     "text": "புலவி",
+     "lemma": "புலவி",
+     "gloss": "sulking"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "also"
+    }
+   ],
+   "gloss": "sulking also"
+  },
+  {
+   "surface": "வீழுநர்",
+   "parts": [
+    {
+     "text": "வீழுநர்",
+     "lemma": "வீழுநர்",
+     "gloss": "lovers"
+    }
+   ],
+   "gloss": "lovers"
+  },
+  {
+   "surface": "கண்ணே",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "with"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "with indeed"
+  },
+  {
+   "surface": "இனிது",
+   "parts": [
+    {
+     "text": "இனிது",
+     "lemma": "இனிது",
+     "gloss": "sweet"
+    }
+   ],
+   "gloss": "is sweet"
+  }
+ ],
+ "literal": "Water-even of the shade sweet-indeed; sulking-also lovers with-indeed sweet.",
+ "translation": "Even water is pleasant only when it is in the shade. Sulking is pleasant only with those who love.",
+ "modern": "நீரும் நிழலில் இருக்கும்போதே இனிமையாக இருக்கும். அதுபோல, ஊடலும் அன்புடையவர்களிடம் கொள்ளும்போதே இனிமையாக இருக்கும்.",
+ "explanation": "Water gives true refreshment only when it is kept cool in the shade. In the same way, feigned anger or sulking is enjoyable only when it happens between true lovers. If there is no underlying love, sulking will only cause bitterness rather than sweet reconciliation. The couplet uses the natural image of shaded water to show how the context of deep affection makes temporary disagreements pleasant.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

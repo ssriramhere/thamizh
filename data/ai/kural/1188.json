@@ -1,0 +1,114 @@
+{
+ "words": [
+  {
+   "surface": "பசந்தாள்",
+   "parts": [
+    {
+     "text": "பசந்தாள்",
+     "lemma": "பச",
+     "gloss": "she grew pale"
+    }
+   ],
+   "gloss": "she grew pale"
+  },
+  {
+   "surface": "இவள்",
+   "parts": [
+    {
+     "text": "இவள்",
+     "lemma": "இவள்",
+     "gloss": "she"
+    }
+   ],
+   "gloss": "she"
+  },
+  {
+   "surface": "என்பது",
+   "parts": [
+    {
+     "text": "என்பது",
+     "lemma": "என்",
+     "gloss": "saying"
+    }
+   ],
+   "gloss": "saying"
+  },
+  {
+   "surface": "அல்லால்",
+   "parts": [
+    {
+     "text": "அல்லால்",
+     "lemma": "அல்",
+     "gloss": "except"
+    }
+   ],
+   "gloss": "except"
+  },
+  {
+   "surface": "இவளை",
+   "parts": [
+    {
+     "text": "இவள்",
+     "lemma": "இவள்",
+     "gloss": "she"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "her"
+  },
+  {
+   "surface": "துறந்தார்",
+   "parts": [
+    {
+     "text": "துறந்தார்",
+     "lemma": "துற",
+     "gloss": "he abandoned"
+    }
+   ],
+   "gloss": "abandoned (he)"
+  },
+  {
+   "surface": "அவர்",
+   "parts": [
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he"
+  },
+  {
+   "surface": "என்பார்",
+   "parts": [
+    {
+     "text": "என்பார்",
+     "lemma": "என்",
+     "gloss": "those who say"
+    }
+   ],
+   "gloss": "those who say"
+  },
+  {
+   "surface": "இல்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "are not"
+    }
+   ],
+   "gloss": "are not"
+  }
+ ],
+ "literal": "\"She grew pale\", saying except, her abandoned he, those who say are not.",
+ "translation": "People only say, \"She has grown pale,\" but no one says, \"He abandoned her.\"",
+ "modern": "\"இவள் பசலை நோய் கொண்டு நிறம் மாறினாள்\" என்று ஊரார் சொல்வார்களே தவிர, \"அவர் இவளை விட்டுப் பிரிந்து சென்றார்\" என்று அவர் மேல் தவறு சொல்வார் யாரும் இல்லை.",
+ "explanation": "The heroine laments the unfairness of the townspeople's gossip. They are quick to notice her pallor and blame her for not bearing the separation gracefully. However, no one points out the root cause of her suffering or blames the hero for abandoning her. The contrast between \"என்பது அல்லால்\" (other than saying) and \"என்பார் இல்\" (there is no one who says) highlights her isolation and the one-sided nature of society's judgment.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

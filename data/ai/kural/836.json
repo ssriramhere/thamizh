@@ -1,0 +1,145 @@
+{
+ "words": [
+  {
+   "surface": "பொய்",
+   "parts": [
+    {
+     "text": "பொய்",
+     "lemma": "பொய்",
+     "gloss": "failure"
+    }
+   ],
+   "gloss": "failure"
+  },
+  {
+   "surface": "படும்",
+   "parts": [
+    {
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "to happen"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "will happen"
+  },
+  {
+   "surface": "ஒன்றோ",
+   "parts": [
+    {
+     "text": "ஒன்று",
+     "lemma": "ஒன்று",
+     "gloss": "one"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "or"
+    }
+   ],
+   "gloss": "either one"
+  },
+  {
+   "surface": "புனை",
+   "parts": [
+    {
+     "text": "புனை",
+     "lemma": "புனை",
+     "gloss": "fetter"
+    }
+   ],
+   "gloss": "fetter"
+  },
+  {
+   "surface": "பூணும்",
+   "parts": [
+    {
+     "text": "பூண்",
+     "lemma": "பூண்",
+     "gloss": "to wear"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "will wear"
+  },
+  {
+   "surface": "கை",
+   "parts": [
+    {
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "method"
+    }
+   ],
+   "gloss": "method"
+  },
+  {
+   "surface": "அறியா",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "to know"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not knowing"
+  },
+  {
+   "surface": "பேதை",
+   "parts": [
+    {
+     "text": "பேதை",
+     "lemma": "பேதை",
+     "gloss": "fool"
+    }
+   ],
+   "gloss": "fool"
+  },
+  {
+   "surface": "வினை",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "task"
+    }
+   ],
+   "gloss": "task"
+  },
+  {
+   "surface": "மேற்கொளின்",
+   "parts": [
+    {
+     "text": "மேற்கொள்",
+     "lemma": "மேற்கொள்",
+     "gloss": "to undertake"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if undertakes"
+  }
+ ],
+ "literal": "Failure will happen or, fetters will wear, method not-knowing fool task if undertakes.",
+ "translation": "If a fool who does not know the proper method undertakes a task, either the task will fail or he will end up in fetters.",
+ "modern": "செயல்முறையை அறியாத பேதை ஒரு செயலைச் செய்யத் தொடங்கினால், அச்செயல் பழுதாகும் அல்லது அவன் விலங்கு பூட்டப்படுவான்.",
+ "explanation": "This couplet warns of the dangers when an ignorant person takes charge of a task. The word 'kai' here refers to the proper method or conduct required for an action. If a fool attempts a task without knowing how to execute it, two outcomes are possible. Either the task itself will end in failure ('poy'), or his blunders will be so severe that he will be punished and put in fetters. While 'punai' can mean an ornament, in this context of a fool's failure, it is best understood as fetters or chains.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

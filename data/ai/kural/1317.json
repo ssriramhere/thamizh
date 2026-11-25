@@ -1,0 +1,169 @@
+{
+ "words": [
+  {
+   "surface": "வழுத்தினாள்",
+   "parts": [
+    {
+     "text": "வழுத்து",
+     "lemma": "வழுத்து",
+     "gloss": "bless"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "past-tense"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she"
+    }
+   ],
+   "gloss": "she blessed"
+  },
+  {
+   "surface": "தும்மினேன்",
+   "parts": [
+    {
+     "text": "தும்மு",
+     "lemma": "தும்மு",
+     "gloss": "sneeze"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "past-tense"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I sneezed"
+  },
+  {
+   "surface": "ஆக",
+   "parts": [
+    {
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "become"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive-suffix"
+    }
+   ],
+   "gloss": "as"
+  },
+  {
+   "surface": "அழித்து",
+   "parts": [
+    {
+     "text": "அழி",
+     "lemma": "அழி",
+     "gloss": "retract"
+    },
+    {
+     "text": "த்து",
+     "lemma": "த்து",
+     "gloss": "past-participle-suffix"
+    }
+   ],
+   "gloss": "having retracted"
+  },
+  {
+   "surface": "அழுதாள்",
+   "parts": [
+    {
+     "text": "அழு",
+     "lemma": "அழு",
+     "gloss": "weep"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past-tense"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she"
+    }
+   ],
+   "gloss": "she wept"
+  },
+  {
+   "surface": "யார்",
+   "parts": [
+    {
+     "text": "யார்",
+     "lemma": "யார்",
+     "gloss": "who"
+    }
+   ],
+   "gloss": "who"
+  },
+  {
+   "surface": "உள்ளி",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "think-of"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "verbal-participle-suffix"
+    }
+   ],
+   "gloss": "having thought of"
+  },
+  {
+   "surface": "தும்மினீர்",
+   "parts": [
+    {
+     "text": "தும்மு",
+     "lemma": "தும்மு",
+     "gloss": "sneeze"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "past-tense"
+    },
+    {
+     "text": "ஈர்",
+     "lemma": "ஈர்",
+     "gloss": "you(honorific)"
+    }
+   ],
+   "gloss": "you sneezed"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "று",
+     "lemma": "று",
+     "gloss": "verbal-participle-suffix"
+    }
+   ],
+   "gloss": "saying"
+  }
+ ],
+ "literal": "She blessed (me) as I sneezed; (then) having retracted (it), she wept saying, \"Thinking of who did you sneeze?\"",
+ "translation": "When I sneezed, she blessed me. But then she took it back and wept, asking, \"Who were you thinking of when you sneezed?\"",
+ "modern": "நான் தும்மியபோது அவள் என்னை வாழ்த்தினாள். ஆனால் உடனே அந்த வாழ்த்தைத் திரும்பப் பெற்றுக்கொண்டு, \"யாரை நினைத்துக்கொண்டு நீங்கள் தும்மினீர்கள்?\" என்று கேட்டு அழுதாள்.",
+ "explanation": "This couplet captures a playful lovers' quarrel based on a traditional folk belief. In Tamil culture, a sneeze is often thought to be caused by thinking of a loved one, or by a loved one thinking of you. When the speaker sneezes, his lover instinctively blesses him with good health. However, she quickly becomes jealous, retracts her blessing (indicated by the word 'aḻittu', meaning to destroy or undo), and weeps, asking which other woman he was thinking of to cause the sneeze.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

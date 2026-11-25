@@ -1,0 +1,148 @@
+{
+ "words": [
+  {
+   "surface": "செல்லான்",
+   "parts": [
+    {
+     "text": "செல்",
+     "lemma": "செல்",
+     "gloss": "to go"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he will not"
+    }
+   ],
+   "gloss": "he goes not"
+  },
+  {
+   "surface": "கிழவன்",
+   "parts": [
+    {
+     "text": "கிழவன்",
+     "lemma": "கிழவன்",
+     "gloss": "owner"
+    }
+   ],
+   "gloss": "owner"
+  },
+  {
+   "surface": "இருப்பின்",
+   "parts": [
+    {
+     "text": "இரு",
+     "lemma": "இரு",
+     "gloss": "to stay"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if stays"
+  },
+  {
+   "surface": "நிலம்",
+   "parts": [
+    {
+     "text": "நிலம்",
+     "lemma": "நிலம்",
+     "gloss": "land"
+    }
+   ],
+   "gloss": "land"
+  },
+  {
+   "surface": "புலந்து",
+   "parts": [
+    {
+     "text": "புல",
+     "lemma": "புல",
+     "gloss": "to sulk"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having sulked"
+  },
+  {
+   "surface": "இல்லாளின்",
+   "parts": [
+    {
+     "text": "இல்லாள்",
+     "lemma": "இல்லாள்",
+     "gloss": "wife"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "like"
+    }
+   ],
+   "gloss": "like a wife"
+  },
+  {
+   "surface": "ஊடி",
+   "parts": [
+    {
+     "text": "ஊடு",
+     "lemma": "ஊடு",
+     "gloss": "to feign anger"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having feigned anger"
+  },
+  {
+   "surface": "விடும்",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "to leave (auxiliary)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future tense marker"
+    }
+   ],
+   "gloss": "will do"
+  }
+ ],
+ "literal": "Not going, owner if stays, land having sulked, like wife will feign anger.",
+ "translation": "If the owner stays away without visiting his field, the land will sulk and feign anger like a neglected wife.",
+ "modern": "நிலத்திற்கு உரியவன் அங்குச் செல்லாமல் வீட்டிலேயே தங்கியிருந்தால், அவனுடைய மனைவியைப் போல அந்த நிலமும் அவனிடம் வெறுப்புற்றுப் பிணங்கிவிடும்.",
+ "explanation": "This couplet personifies agricultural land as a wife. If the farmer, who is the owner ('கிழவன்'), does not visit his field and stays away, the land will feel neglected. Just as a wife would sulk and feign anger ('ஊடி') when ignored by her husband, the land will sulk ('புலந்து') and refuse to yield crops. The poet beautifully applies the dynamics of a romantic relationship to the bond between a farmer and his land, emphasizing that constant attention is required for a good harvest.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

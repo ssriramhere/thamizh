@@ -1,0 +1,155 @@
+{
+ "words": [
+  {
+   "surface": "கெடுவல்",
+   "parts": [
+    {
+     "text": "கெடு",
+     "lemma": "கெடு",
+     "gloss": "perish"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "[future]"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "[1st person singular]"
+    }
+   ],
+   "gloss": "I will perish"
+  },
+  {
+   "surface": "யான்",
+   "parts": [
+    {
+     "text": "யான்",
+     "lemma": "யான்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I"
+  },
+  {
+   "surface": "என்பது",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "[future]"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "[neuter singular]"
+    }
+   ],
+   "gloss": "the fact that"
+  },
+  {
+   "surface": "அறிக",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "know"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "[optative]"
+    }
+   ],
+   "gloss": "let (him) know"
+  },
+  {
+   "surface": "தன்",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "one's own"
+    }
+   ],
+   "gloss": "one's own"
+  },
+  {
+   "surface": "நெஞ்சம்",
+   "parts": [
+    {
+     "text": "நெஞ்சம்",
+     "lemma": "நெஞ்சம்",
+     "gloss": "heart"
+    }
+   ],
+   "gloss": "heart"
+  },
+  {
+   "surface": "நடுவு",
+   "parts": [
+    {
+     "text": "நடுவு",
+     "lemma": "நடுவு",
+     "gloss": "impartiality"
+    }
+   ],
+   "gloss": "impartiality"
+  },
+  {
+   "surface": "ஒரீஇ",
+   "parts": [
+    {
+     "text": "ஒரீஇ",
+     "lemma": "ஒருவு",
+     "gloss": "abandon (verbal participle)"
+    }
+   ],
+   "gloss": "having abandoned"
+  },
+  {
+   "surface": "அல்ல",
+   "parts": [
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not-so"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "[neuter plural]"
+    }
+   ],
+   "gloss": "wrong things"
+  },
+  {
+   "surface": "செயின்",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if does"
+  }
+ ],
+ "literal": "\"I will perish\" that-fact let-him-know, one's-own heart impartiality having-abandoned wrong-things if-does.",
+ "translation": "If one's own heart abandons impartiality and does wrong, let him know that he will perish.",
+ "modern": "தன் நெஞ்சம் நடுவுநிலைமையை விட்டு விலகித் தவறான செயல்களைச் செய்தால், தான் கெட்டுப்போவோம் என்பதை ஒருவன் அறிந்துகொள்ள வேண்டும்.",
+ "explanation": "This couplet warns of the inevitable ruin that follows the loss of impartiality. The phrase 'தன் நெஞ்சம்' (one's own heart) emphasizes that the individual is fully aware of their own deviation from fairness. 'நடுவு ஒரீஇ அல்ல செயின்' describes the act of abandoning the middle path to commit unjust deeds. When this happens, the person should realize 'கெடுவல் யான்' (I will perish), as moral destruction is certain.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

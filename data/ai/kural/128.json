@@ -1,0 +1,133 @@
+{
+ "words": [
+  {
+   "surface": "ஒன்றானும்",
+   "parts": [
+    {
+     "text": "ஒன்று",
+     "lemma": "ஒன்று",
+     "gloss": "one"
+    },
+    {
+     "text": "ஆனும்",
+     "lemma": "ஆனும்",
+     "gloss": "even if"
+    }
+   ],
+   "gloss": "even one"
+  },
+  {
+   "surface": "தீச்சொல்",
+   "parts": [
+    {
+     "text": "தீ",
+     "lemma": "தீ",
+     "gloss": "evil"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
+    }
+   ],
+   "gloss": "evil word"
+  },
+  {
+   "surface": "பொருட்பயன்",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "meaning"
+    },
+    {
+     "text": "பயன்",
+     "lemma": "பயன்",
+     "gloss": "effect"
+    }
+   ],
+   "gloss": "resulting effect"
+  },
+  {
+   "surface": "உண்டாயின்",
+   "parts": [
+    {
+     "text": "உண்டு",
+     "lemma": "உண்டு",
+     "gloss": "exists"
+    },
+    {
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if there is"
+  },
+  {
+   "surface": "நன்று",
+   "parts": [
+    {
+     "text": "நன்று",
+     "lemma": "நன்று",
+     "gloss": "goodness"
+    }
+   ],
+   "gloss": "goodness"
+  },
+  {
+   "surface": "ஆகாது",
+   "parts": [
+    {
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "to become"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "will not become"
+  },
+  {
+   "surface": "ஆகி",
+   "parts": [
+    {
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "to become"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past participle suffix"
+    }
+   ],
+   "gloss": "having become"
+  },
+  {
+   "surface": "விடும்",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "to leave"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future/habitual suffix"
+    }
+   ],
+   "gloss": "it will end up"
+  }
+ ],
+ "literal": "Even one / evil word / meaning's effect / if there is / goodness / will not become / having become / it will end up.",
+ "translation": "If a person's speech carries the harmful effect of even a single evil word, all their goodness will be ruined.",
+ "modern": "ஒருவருடைய பேச்சில் ஒரு தீய சொல்லின் பொருளால் விளையும் தீமை இருந்தாலும், அவருடைய நற்பண்புகள் எல்லாம் நல்லதாக இல்லாமல் அழிந்து போய்விடும்.",
+ "explanation": "This couplet emphasizes the fragility of a good reputation in the face of careless speech. The phrase 'தீச்சொல் பொருட்பயன்' highlights that it is the harmful meaning and consequence of an evil word that causes the damage. The word 'ஒன்றானும்' stresses that even a single instance of such speech is sufficient to cause ruin. The concluding phrase 'நன்றாகா தாகி விடும்' illustrates a complete reversal, warning that any existing goodness will be nullified and turn into a lasting negative state.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

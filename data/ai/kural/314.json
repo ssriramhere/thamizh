@@ -1,0 +1,144 @@
+{
+ "words": [
+  {
+   "surface": "இன்னா",
+   "parts": [
+    {
+     "text": "இன்னா",
+     "lemma": "இன்னா",
+     "gloss": "harm"
+    }
+   ],
+   "gloss": "harm"
+  },
+  {
+   "surface": "செய்தாரை",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "do"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative"
+    }
+   ],
+   "gloss": "those who did"
+  },
+  {
+   "surface": "ஒறுத்தல்",
+   "parts": [
+    {
+     "text": "ஒறு",
+     "lemma": "ஒறு",
+     "gloss": "punish"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun"
+    }
+   ],
+   "gloss": "punishing"
+  },
+  {
+   "surface": "அவர்",
+   "parts": [
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "they"
+  },
+  {
+   "surface": "நாண",
+   "parts": [
+    {
+     "text": "நாண்",
+     "lemma": "நாண்",
+     "gloss": "feel ashamed"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive"
+    }
+   ],
+   "gloss": "to feel ashamed"
+  },
+  {
+   "surface": "நன்னயம்",
+   "parts": [
+    {
+     "text": "நன்னயம்",
+     "lemma": "நன்னயம்",
+     "gloss": "good kindness"
+    }
+   ],
+   "gloss": "good kindness",
+   "split_unverified": true
+  },
+  {
+   "surface": "செய்து",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "do"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial participle"
+    }
+   ],
+   "gloss": "having done"
+  },
+  {
+   "surface": "விடல்",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "leave"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun"
+    }
+   ],
+   "gloss": "leaving"
+  }
+ ],
+ "literal": "Harm those-who-did punishing they to-feel-ashamed good-kindness having-done leaving.",
+ "translation": "The true way to punish those who have harmed you is to do them a good deed that makes them feel ashamed, and then let it go.",
+ "modern": "தமக்குத் துன்பம் செய்தவரைத் தண்டிக்கும் சிறந்த வழி, அவர் வெட்கப்படும்படி அவருக்கு ஒரு நன்மையைச் செய்து அந்தப் பகையை மறந்துவிடுவதே ஆகும்.",
+ "explanation": "This couplet redefines the concept of punishment for a wrongdoer. Instead of seeking revenge, the victim is advised to respond with unexpected kindness. This good deed will make the offender feel deep shame for their actions, which serves as the true punishment. Finally, the victim must let go of the incident entirely, freeing themselves from the cycle of harm.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

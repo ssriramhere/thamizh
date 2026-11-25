@@ -1,0 +1,134 @@
+{
+ "words": [
+  {
+   "surface": "உறின்",
+   "parts": [
+    {
+     "text": "உறு",
+     "lemma": "உறு",
+     "gloss": "to occur"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if it occurs"
+  },
+  {
+   "surface": "உயிர்",
+   "parts": [
+    {
+     "text": "உயிர்",
+     "lemma": "உயிர்",
+     "gloss": "life"
+    }
+   ],
+   "gloss": "life"
+  },
+  {
+   "surface": "அஞ்சா",
+   "parts": [
+    {
+     "text": "அஞ்சு",
+     "lemma": "அஞ்சு",
+     "gloss": "to fear"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not fearing"
+  },
+  {
+   "surface": "மறவர்",
+   "parts": [
+    {
+     "text": "மறவர்",
+     "lemma": "மறவர்",
+     "gloss": "warriors"
+    }
+   ],
+   "gloss": "warriors"
+  },
+  {
+   "surface": "இறைவன்",
+   "parts": [
+    {
+     "text": "இறைவன்",
+     "lemma": "இறைவன்",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  },
+  {
+   "surface": "செறினும்",
+   "parts": [
+    {
+     "text": "செறு",
+     "lemma": "செறு",
+     "gloss": "to be angry"
+    },
+    {
+     "text": "இனும்",
+     "lemma": "இனும்",
+     "gloss": "even if"
+    }
+   ],
+   "gloss": "even if angry"
+  },
+  {
+   "surface": "சீர்",
+   "parts": [
+    {
+     "text": "சீர்",
+     "lemma": "சீர்",
+     "gloss": "glory"
+    }
+   ],
+   "gloss": "glory"
+  },
+  {
+   "surface": "குன்றல்",
+   "parts": [
+    {
+     "text": "குன்று",
+     "lemma": "குன்று",
+     "gloss": "to decrease"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "decreasing"
+  },
+  {
+   "surface": "இலர்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "not"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "plural suffix"
+    }
+   ],
+   "gloss": "they are without"
+  }
+ ],
+ "literal": "If it occurs, life not-fearing warriors, king even if angry, glory decreasing they are without.",
+ "translation": "Warriors who do not fear for their lives when battle comes will not lose their glory even if the king is angry with them.",
+ "modern": "போர் மூண்டால் தம் உயிருக்கு அஞ்சாத வீரர்களின் பெருமை, அரசனே அவர்கள் மீது சினம் கொண்டாலும் குறையாது.",
+ "explanation": "This couplet defines the unshakeable honor of true warriors. The phrase 'உறின் உயிர் அஞ்சா' describes their core trait: when battle comes, they do not fear losing their lives. Because their valor is intrinsic and self-driven, their greatness ('சீர்') does not depend on the king's favor. Even if the king ('இறைவன்') becomes angry with them ('செறினும்'), their martial glory remains undiminished.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

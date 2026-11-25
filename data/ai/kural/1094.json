@@ -1,0 +1,125 @@
+{
+ "words": [
+  {
+   "surface": "யான்",
+   "parts": [
+    {
+     "text": "யான்",
+     "lemma": "யான்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I"
+  },
+  {
+   "surface": "நோக்கும்",
+   "parts": [
+    {
+     "text": "நோக்கும்",
+     "lemma": "நோக்கு",
+     "gloss": "looking"
+    }
+   ],
+   "gloss": "look"
+  },
+  {
+   "surface": "காலை",
+   "parts": [
+    {
+     "text": "காலை",
+     "lemma": "காலை",
+     "gloss": "time"
+    }
+   ],
+   "gloss": "time"
+  },
+  {
+   "surface": "நிலன்",
+   "parts": [
+    {
+     "text": "நிலன்",
+     "lemma": "நிலம்",
+     "gloss": "ground"
+    }
+   ],
+   "gloss": "ground"
+  },
+  {
+   "surface": "நோக்கும்",
+   "parts": [
+    {
+     "text": "நோக்கும்",
+     "lemma": "நோக்கு",
+     "gloss": "looks"
+    }
+   ],
+   "gloss": "looks"
+  },
+  {
+   "surface": "நோக்காக்கால்",
+   "parts": [
+    {
+     "text": "நோக்கா",
+     "lemma": "நோக்கு",
+     "gloss": "not looking"
+    },
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "when"
+    }
+   ],
+   "gloss": "when not looking"
+  },
+  {
+   "surface": "தான்",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "she"
+    }
+   ],
+   "gloss": "she"
+  },
+  {
+   "surface": "நோக்கி",
+   "parts": [
+    {
+     "text": "நோக்கி",
+     "lemma": "நோக்கு",
+     "gloss": "having looked"
+    }
+   ],
+   "gloss": "having looked"
+  },
+  {
+   "surface": "மெல்ல",
+   "parts": [
+    {
+     "text": "மெல்ல",
+     "lemma": "மெல்ல",
+     "gloss": "softly"
+    }
+   ],
+   "gloss": "softly"
+  },
+  {
+   "surface": "நகும்",
+   "parts": [
+    {
+     "text": "நகும்",
+     "lemma": "நகு",
+     "gloss": "smiles"
+    }
+   ],
+   "gloss": "smiles"
+  }
+ ],
+ "literal": "I look time, ground looks; not-look time, she having looked softly smiles.",
+ "translation": "When I look at her, she looks at the ground; when I look away, she looks at me and smiles softly.",
+ "modern": "நான் அவளைப் பார்க்கும்போது அவள் தரையைப் பார்ப்பாள்; நான் பார்க்காதபோது அவள் என்னைப் பார்த்து மெல்லச் சிரிப்பாள்.",
+ "explanation": "This couplet captures the shy, unspoken communication between lovers through their eyes. When the speaker looks directly at her, she lowers her gaze to the ground out of modesty. However, the moment he looks away, she seizes the opportunity to look at him and smiles gently to herself. The contrast between her looking at the ground ('நிலன் நோக்கும்') and her looking at him ('தான் நோக்கி') beautifully illustrates the playful exchange of glances.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,150 @@
+{
+ "words": [
+  {
+   "surface": "உள்ளுவன்",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "to think"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "1st person singular suffix"
+    }
+   ],
+   "gloss": "I will think"
+  },
+  {
+   "surface": "மன்",
+   "parts": [
+    {
+     "text": "மன்",
+     "lemma": "மன்",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "indeed"
+  },
+  {
+   "surface": "யான்",
+   "parts": [
+    {
+     "text": "யான்",
+     "lemma": "யான்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I"
+  },
+  {
+   "surface": "உரைப்பது",
+   "parts": [
+    {
+     "text": "உரை",
+     "lemma": "உரை",
+     "gloss": "to speak"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "neuter singular suffix (verbal noun)"
+    }
+   ],
+   "gloss": "that which is spoken"
+  },
+  {
+   "surface": "அவர்",
+   "parts": [
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "his"
+    }
+   ],
+   "gloss": "his"
+  },
+  {
+   "surface": "திறம்",
+   "parts": [
+    {
+     "text": "திறம்",
+     "lemma": "திறம்",
+     "gloss": "nature"
+    }
+   ],
+   "gloss": "nature"
+  },
+  {
+   "surface": "ஆல்",
+   "parts": [
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "indeed"
+  },
+  {
+   "surface": "கள்ளம்",
+   "parts": [
+    {
+     "text": "கள்ளம்",
+     "lemma": "கள்ளம்",
+     "gloss": "deceit"
+    }
+   ],
+   "gloss": "deceit"
+  },
+  {
+   "surface": "பிறவோ",
+   "parts": [
+    {
+     "text": "பிற",
+     "lemma": "பிற",
+     "gloss": "other"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "or other things?"
+  },
+  {
+   "surface": "பசப்பு",
+   "parts": [
+    {
+     "text": "பசப்பு",
+     "lemma": "பசப்பு",
+     "gloss": "pallor"
+    }
+   ],
+   "gloss": "pallor"
+  }
+ ],
+ "literal": "Think-will-I indeed, I; speak-that-which his nature indeed; deceit other-? pallor.",
+ "translation": "I think of him constantly, and what I speak of is his nature. Is this pallor that still afflicts me deceitful, or something else?",
+ "modern": "நான் அவரை எப்போதும் நினைக்கிறேன்; நான் பேசுவதும் அவருடைய குணங்களைப் பற்றித்தான். அப்படியிருக்க, என் மேல் படரும் இந்தப் பசப்பு நிறம் பொய்யானதா அல்லது வேறு ஏதாவதா?",
+ "explanation": "The speaker wonders why she suffers from the pallor of separation when her lover is constantly in her thoughts and words. Since he is always present in her mind and speech, she feels they are not truly separated. Therefore, she questions whether the pallor that appears on her body is merely a deceitful illusion or something else entirely, as it contradicts her inner experience of his presence.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,151 @@
+{
+ "words": [
+  {
+   "surface": "அணி",
+   "parts": [
+    {
+     "text": "அணி",
+     "lemma": "அணி",
+     "gloss": "ornament"
+    }
+   ],
+   "gloss": "ornament"
+  },
+  {
+   "surface": "அன்றோ",
+   "parts": [
+    {
+     "text": "அன்று",
+     "lemma": "அன்று",
+     "gloss": "is not"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "is it not"
+  },
+  {
+   "surface": "நாண்",
+   "parts": [
+    {
+     "text": "நாண்",
+     "lemma": "நாண்",
+     "gloss": "modesty"
+    }
+   ],
+   "gloss": "modesty"
+  },
+  {
+   "surface": "உடைமை",
+   "parts": [
+    {
+     "text": "உடைமை",
+     "lemma": "உடைமை",
+     "gloss": "possession"
+    }
+   ],
+   "gloss": "possessing"
+  },
+  {
+   "surface": "சான்றோர்க்கு",
+   "parts": [
+    {
+     "text": "சான்றோர்",
+     "lemma": "சான்றோர்",
+     "gloss": "noble ones"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative suffix"
+    }
+   ],
+   "gloss": "to the noble ones"
+  },
+  {
+   "surface": "அஃது",
+   "parts": [
+    {
+     "text": "அஃது",
+     "lemma": "அது",
+     "gloss": "that"
+    }
+   ],
+   "gloss": "that"
+  },
+  {
+   "surface": "இன்றேல்",
+   "parts": [
+    {
+     "text": "இன்று",
+     "lemma": "இன்று",
+     "gloss": "is without"
+    },
+    {
+     "text": "ஏல்",
+     "lemma": "ஏல்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if without"
+  },
+  {
+   "surface": "பிணி",
+   "parts": [
+    {
+     "text": "பிணி",
+     "lemma": "பிணி",
+     "gloss": "disease"
+    }
+   ],
+   "gloss": "disease"
+  },
+  {
+   "surface": "அன்றோ",
+   "parts": [
+    {
+     "text": "அன்று",
+     "lemma": "அன்று",
+     "gloss": "is not"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "is it not"
+  },
+  {
+   "surface": "பீடு",
+   "parts": [
+    {
+     "text": "பீடு",
+     "lemma": "பீடு",
+     "gloss": "pride"
+    }
+   ],
+   "gloss": "proud"
+  },
+  {
+   "surface": "நடை",
+   "parts": [
+    {
+     "text": "நடை",
+     "lemma": "நடை",
+     "gloss": "walk"
+    }
+   ],
+   "gloss": "bearing"
+  }
+ ],
+ "literal": "Ornament - is it not - modesty - possessing - to the noble ones - that - if without - disease - is it not - proud - walk.",
+ "translation": "Is not modesty the true ornament of the noble? Without it, is not a proud bearing merely a disease?",
+ "modern": "நாணத்தை உடையவராக இருப்பதே சான்றோர்களுக்கு உண்மையான அழகாகும். அந்த நாணம் இல்லாவிட்டால், அவர்கள் பெருமிதத்துடன் நடக்கும் நடை ஒரு நோயே அல்லவா?",
+ "explanation": "This couplet contrasts the true beauty of noble people with a false sense of greatness. The word 'நாண்' (modesty or a shrinking from wrongdoing) is described as the defining 'அணி' (ornament) for the noble ('சான்றோர்'). If they lack this quality ('அஃது இன்றேல்'), their 'பீடு நடை' (proud or stately bearing) is no longer a mark of greatness. Instead, it becomes a 'பிணி' (disease or affliction), something unnatural and harmful. The rhetorical questions ('அன்றோ') emphasize that true dignity comes from inner modesty, not outward arrogance.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

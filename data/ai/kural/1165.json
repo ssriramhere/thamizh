@@ -1,0 +1,144 @@
+{
+ "words": [
+  {
+   "surface": "துப்பின்",
+   "parts": [
+    {
+     "text": "துப்பு",
+     "lemma": "துப்பு",
+     "gloss": "enmity"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if in enmity"
+  },
+  {
+   "surface": "எவன்",
+   "parts": [
+    {
+     "text": "எவன்",
+     "lemma": "எவன்",
+     "gloss": "what"
+    }
+   ],
+   "gloss": "what"
+  },
+  {
+   "surface": "ஆவர்",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "become"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "will they become"
+  },
+  {
+   "surface": "மன்",
+   "parts": [
+    {
+     "text": "மன்",
+     "lemma": "மன்",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "indeed"
+  },
+  {
+   "surface": "கொல்",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "I wonder"
+    }
+   ],
+   "gloss": "I wonder"
+  },
+  {
+   "surface": "துயர்",
+   "parts": [
+    {
+     "text": "துயர்",
+     "lemma": "துயர்",
+     "gloss": "sorrow"
+    }
+   ],
+   "gloss": "sorrow"
+  },
+  {
+   "surface": "வரவு",
+   "parts": [
+    {
+     "text": "வரவு",
+     "lemma": "வரவு",
+     "gloss": "coming"
+    }
+   ],
+   "gloss": "coming"
+  },
+  {
+   "surface": "நட்பினுள்",
+   "parts": [
+    {
+     "text": "நட்பு",
+     "lemma": "நட்பு",
+     "gloss": "friendship"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "empty morpheme"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "within"
+    }
+   ],
+   "gloss": "within friendship"
+  },
+  {
+   "surface": "ஆற்றுபவர்",
+   "parts": [
+    {
+     "text": "ஆற்று",
+     "lemma": "ஆற்று",
+     "gloss": "cause"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "those who cause"
+  }
+ ],
+ "literal": "If in enmity what will they become, I wonder, sorrow's coming within friendship those who cause.",
+ "translation": "If he brings me such sorrow even while we are in love, what would he do if he became my enemy?",
+ "modern": "அன்பாக இருக்கும்போதே எனக்குத் துன்பம் தருபவர், ஒருவேளை பகையானால் என்ன செய்வாரோ?",
+ "explanation": "The speaker laments the pain caused by her lover's departure. She wonders how much more she would suffer if he were actually her enemy, since he causes her so much grief even while they are in love. The contrast between friendship and enmity highlights the unbearable nature of her current sorrow.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

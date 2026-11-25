@@ -1,0 +1,146 @@
+{
+ "words": [
+  {
+   "surface": "மலர்",
+   "parts": [
+    {
+     "text": "மலர்",
+     "lemma": "மலர்",
+     "gloss": "flower"
+    }
+   ],
+   "gloss": "flower"
+  },
+  {
+   "surface": "காணின்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if (you) see"
+  },
+  {
+   "surface": "மையாத்தி",
+   "parts": [
+    {
+     "text": "மையாத்தி",
+     "lemma": "மையாத்தல்",
+     "gloss": "you are confused"
+    }
+   ],
+   "gloss": "you are confused"
+  },
+  {
+   "surface": "நெஞ்சே",
+   "parts": [
+    {
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "heart"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "vocative suffix"
+    }
+   ],
+   "gloss": "O heart!"
+  },
+  {
+   "surface": "இவள்",
+   "parts": [
+    {
+     "text": "இவள்",
+     "lemma": "இவள்",
+     "gloss": "her"
+    }
+   ],
+   "gloss": "her"
+  },
+  {
+   "surface": "கண்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    }
+   ],
+   "gloss": "eyes"
+  },
+  {
+   "surface": "பலர்",
+   "parts": [
+    {
+     "text": "பலர்",
+     "lemma": "பலர்",
+     "gloss": "many people"
+    }
+   ],
+   "gloss": "many people"
+  },
+  {
+   "surface": "காணும்",
+   "parts": [
+    {
+     "text": "காண்",
+     "lemma": "காண்",
+     "gloss": "to see"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "seeing"
+  },
+  {
+   "surface": "பூ",
+   "parts": [
+    {
+     "text": "பூ",
+     "lemma": "பூ",
+     "gloss": "flower"
+    }
+   ],
+   "gloss": "flower"
+  },
+  {
+   "surface": "ஒக்கும்",
+   "parts": [
+    {
+     "text": "ஒக்கும்",
+     "lemma": "ஒத்தல்",
+     "gloss": "will equal"
+    }
+   ],
+   "gloss": "will equal"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்று",
+     "lemma": "என்",
+     "gloss": "saying/thinking"
+    }
+   ],
+   "gloss": "thinking that"
+  }
+ ],
+ "literal": "Flower if-see you-are-confused O-heart! her eyes many-people seeing flower will-equal thinking.",
+ "translation": "O heart, whenever you see a flower, you become confused, thinking that her eyes resemble a flower seen by everyone.",
+ "modern": "நெஞ்சே! நீ ஒரு மலரைப் பார்த்தால், இவளுடைய கண்கள் பலரும் பார்க்கின்ற அந்தப் பூவிற்கு ஒப்பாகும் என்று நினைத்து மயங்குகிறாய்.",
+ "explanation": "The speaker addresses his own heart, gently mocking it for its foolishness. Whenever the heart sees a beautiful flower, it becomes bewildered and compares the beloved's eyes to it. The speaker points out the flaw in this comparison: a flower is a common thing seen by many people, whereas his beloved's eyes are uniquely beautiful and private. The word 'மையாத்தி' (you are confused) highlights the heart's delusion in equating something common with something incomparably precious.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

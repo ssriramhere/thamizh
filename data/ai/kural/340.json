@@ -1,0 +1,112 @@
+{
+ "words": [
+  {
+   "surface": "புக்கில்",
+   "parts": [
+    {
+     "text": "புக்கில்",
+     "lemma": "புக்கில்",
+     "gloss": "permanent home"
+    }
+   ],
+   "gloss": "permanent home"
+  },
+  {
+   "surface": "அமைந்தின்று",
+   "parts": [
+    {
+     "text": "அமைந்து",
+     "lemma": "அமை",
+     "gloss": "having formed"
+    },
+    {
+     "text": "இன்று",
+     "lemma": "இன்று",
+     "gloss": "is not"
+    }
+   ],
+   "gloss": "has not been formed"
+  },
+  {
+   "surface": "கொல்லோ",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "indeed"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "[pity/doubt]"
+    }
+   ],
+   "gloss": "alas!"
+  },
+  {
+   "surface": "உடம்பினுள்",
+   "parts": [
+    {
+     "text": "உடம்பு",
+     "lemma": "உடம்பு",
+     "gloss": "body"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "[oblique]"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "inside"
+    }
+   ],
+   "gloss": "inside the body"
+  },
+  {
+   "surface": "துச்சில்",
+   "parts": [
+    {
+     "text": "துச்சில்",
+     "lemma": "துச்சில்",
+     "gloss": "temporary shelter"
+    }
+   ],
+   "gloss": "temporary shelter"
+  },
+  {
+   "surface": "இருந்த",
+   "parts": [
+    {
+     "text": "இருந்த",
+     "lemma": "இரு",
+     "gloss": "which stayed"
+    }
+   ],
+   "gloss": "which stayed"
+  },
+  {
+   "surface": "உயிர்க்கு",
+   "parts": [
+    {
+     "text": "உயிர்",
+     "lemma": "உயிர்",
+     "gloss": "life"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to the life"
+  }
+ ],
+ "literal": "Permanent home has not been formed, alas, inside the body in a temporary shelter which stayed to the life.",
+ "translation": "Alas, has the life that resides in the temporary shelter of the body not yet found a permanent home?",
+ "modern": "உடம்பாகிய தற்காலிகமான குடிசையில் தங்கியிருக்கும் உயிருக்கு, நிலையான ஒரு வீடு இன்னும் அமையவில்லையோ!",
+ "explanation": "This couplet contrasts a temporary shelter ('tuccil') with a permanent home ('pukkil'). The body is described merely as a temporary, rented corner where life resides for a short time. The poet wonders with pity ('kollō') whether life has not yet found a permanent dwelling, since it keeps moving from one temporary body to another. This highlights the transience of physical existence and the inevitability of death.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

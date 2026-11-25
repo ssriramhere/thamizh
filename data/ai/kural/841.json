@@ -1,0 +1,112 @@
+{
+ "words": [
+  {
+   "surface": "அறிவின்மை",
+   "parts": [
+    {
+     "text": "அறிவு",
+     "lemma": "அறிவு",
+     "gloss": "knowledge"
+    },
+    {
+     "text": "இன்மை",
+     "lemma": "இன்மை",
+     "gloss": "lack"
+    }
+   ],
+   "gloss": "lack of knowledge"
+  },
+  {
+   "surface": "இன்மையுள்",
+   "parts": [
+    {
+     "text": "இன்மை",
+     "lemma": "இன்மை",
+     "gloss": "poverty"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "among"
+    }
+   ],
+   "gloss": "among poverties"
+  },
+  {
+   "surface": "இன்மை",
+   "parts": [
+    {
+     "text": "இன்மை",
+     "lemma": "இன்மை",
+     "gloss": "poverty"
+    }
+   ],
+   "gloss": "poverty"
+  },
+  {
+   "surface": "பிறிதின்மை",
+   "parts": [
+    {
+     "text": "பிறிது",
+     "lemma": "பிறிது",
+     "gloss": "other"
+    },
+    {
+     "text": "இன்மை",
+     "lemma": "இன்மை",
+     "gloss": "lack"
+    }
+   ],
+   "gloss": "lack of other things"
+  },
+  {
+   "surface": "இன்மையா",
+   "parts": [
+    {
+     "text": "இன்மை",
+     "lemma": "இன்மை",
+     "gloss": "poverty"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆகு",
+     "gloss": "as"
+    }
+   ],
+   "gloss": "as poverty"
+  },
+  {
+   "surface": "வையாது",
+   "parts": [
+    {
+     "text": "வை",
+     "lemma": "வை",
+     "gloss": "consider"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "does not"
+    }
+   ],
+   "gloss": "does not consider"
+  },
+  {
+   "surface": "உலகு",
+   "parts": [
+    {
+     "text": "உலகு",
+     "lemma": "உலகு",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "world"
+  }
+ ],
+ "literal": "Lack of knowledge among poverties [is] poverty; lack of other things, as poverty does not consider the world.",
+ "translation": "The ultimate poverty is the lack of knowledge. The world does not consider the lack of other things to be poverty at all.",
+ "modern": "அறிவில்லாமல் இருப்பதே வறுமைகளுள் எல்லாம் கொடிய வறுமையாகும். மற்ற செல்வங்கள் இல்லாதிருப்பதை உலகம் ஒரு வறுமையாகக் கருதாது.",
+ "explanation": "This couplet contrasts intellectual poverty with material poverty. The word 'இன்மை' (iṉmai) is used repeatedly to mean both 'lack' and 'poverty'. The text states that being without knowledge is the worst kind of destitution among all poverties. In contrast, lacking 'other things' (பிறிது), which implies material wealth, is not even considered true poverty by the world.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

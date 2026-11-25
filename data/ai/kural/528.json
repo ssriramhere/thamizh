@@ -1,0 +1,139 @@
+{
+ "words": [
+  {
+   "surface": "பொது",
+   "parts": [
+    {
+     "text": "பொது",
+     "lemma": "பொது",
+     "gloss": "common"
+    }
+   ],
+   "gloss": "commonly"
+  },
+  {
+   "surface": "நோக்கான்",
+   "parts": [
+    {
+     "text": "நோக்கு",
+     "lemma": "நோக்கு",
+     "gloss": "look"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he-not"
+    }
+   ],
+   "gloss": "looks-not-he"
+  },
+  {
+   "surface": "வேந்தன்",
+   "parts": [
+    {
+     "text": "வேந்தன்",
+     "lemma": "வேந்தன்",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  },
+  {
+   "surface": "வரிசையா",
+   "parts": [
+    {
+     "text": "வரிசை",
+     "lemma": "வரிசை",
+     "gloss": "merit"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by merit"
+  },
+  {
+   "surface": "நோக்கின்",
+   "parts": [
+    {
+     "text": "நோக்கு",
+     "lemma": "நோக்கு",
+     "gloss": "look"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if looks"
+  },
+  {
+   "surface": "அது",
+   "parts": [
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
+    }
+   ],
+   "gloss": "that"
+  },
+  {
+   "surface": "நோக்கி",
+   "parts": [
+    {
+     "text": "நோக்கு",
+     "lemma": "நோக்கு",
+     "gloss": "look"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having looked"
+    }
+   ],
+   "gloss": "looking at"
+  },
+  {
+   "surface": "வாழ்வார்",
+   "parts": [
+    {
+     "text": "வாழ்",
+     "lemma": "வாழ்",
+     "gloss": "live"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "[future]"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "will live"
+  },
+  {
+   "surface": "பலர்",
+   "parts": [
+    {
+     "text": "பலர்",
+     "lemma": "பலர்",
+     "gloss": "many"
+    }
+   ],
+   "gloss": "many"
+  }
+ ],
+ "literal": "Commonly looking-not, king by merit if looks, that looking at, those who live are many.",
+ "translation": "If a king does not treat everyone alike but regards each according to their merit, many will live looking up to that discernment.",
+ "modern": "அரசன் எல்லோரையும் பொதுவாக ஒரே மாதிரியாகப் பார்க்காமல், அவரவர் தகுதிக்கு ஏற்ப மதித்துப் பார்த்தால், அந்தப் பண்பை நம்பி வாழ்பவர்கள் பலராவர்.",
+ "explanation": "This couplet explains how a leader should recognize individual merit. If a king treats everyone exactly the same ('பொது நோக்கான்'), he fails to acknowledge special talents or contributions. Instead, if he looks at people according to their specific rank or merit ('வரிசையா நோக்கின்'), many capable people will be drawn to him and live under his patronage ('அது நோக்கி வாழ்வார் பலர்'). The repetition of the root 'நோக்கு' (look) emphasizes both the leader's discerning vision and the followers' hopeful gaze.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

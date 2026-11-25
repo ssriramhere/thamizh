@@ -1,0 +1,181 @@
+{
+ "words": [
+  {
+   "surface": "பெயல்",
+   "parts": [
+    {
+     "text": "பெய்",
+     "lemma": "பெய்",
+     "gloss": "to rain/weep"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "weeping"
+  },
+  {
+   "surface": "ஆற்றா",
+   "parts": [
+    {
+     "text": "ஆற்று",
+     "lemma": "ஆற்று",
+     "gloss": "to be able"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "unable"
+  },
+  {
+   "surface": "நீர்",
+   "parts": [
+    {
+     "text": "நீர்",
+     "lemma": "நீர்",
+     "gloss": "water/tears"
+    }
+   ],
+   "gloss": "tears"
+  },
+  {
+   "surface": "உலந்த",
+   "parts": [
+    {
+     "text": "உல",
+     "lemma": "உல",
+     "gloss": "to dry up"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "dried up"
+  },
+  {
+   "surface": "உண்கண்",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "to consume (paint)"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    }
+   ],
+   "gloss": "painted eyes"
+  },
+  {
+   "surface": "உயல்",
+   "parts": [
+    {
+     "text": "உய்",
+     "lemma": "உய்",
+     "gloss": "to escape/survive"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "surviving"
+  },
+  {
+   "surface": "ஆற்றா",
+   "parts": [
+    {
+     "text": "ஆற்று",
+     "lemma": "ஆற்று",
+     "gloss": "to be able"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not allowing"
+  },
+  {
+   "surface": "உய்வில்",
+   "parts": [
+    {
+     "text": "உய்வு",
+     "lemma": "உய்வு",
+     "gloss": "escape"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "without"
+    }
+   ],
+   "gloss": "without escape"
+  },
+  {
+   "surface": "நோய்",
+   "parts": [
+    {
+     "text": "நோய்",
+     "lemma": "நோய்",
+     "gloss": "disease/pain"
+    }
+   ],
+   "gloss": "disease"
+  },
+  {
+   "surface": "என்கண்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "நான்",
+     "gloss": "I (oblique)"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "locative suffix"
+    }
+   ],
+   "gloss": "in me"
+  },
+  {
+   "surface": "நிறுத்து",
+   "parts": [
+    {
+     "text": "நிறுத்து",
+     "lemma": "நிறுத்து",
+     "gloss": "to place/establish"
+    }
+   ],
+   "gloss": "having placed"
+  }
+ ],
+ "literal": "weeping unable tears dried-up painted-eyes surviving not-allowing escape-without disease in-me having-placed",
+ "translation": "My painted eyes, their tears dried up and unable to weep, have inflicted upon me an inescapable disease that does not let me survive.",
+ "modern": "அழ முடியாமல் கண்ணீர் வற்றிப்போன என் மை தீட்டிய கண்கள், நான் பிழைக்க முடியாதபடி தப்பிக்க வழியில்லாத ஒரு நோயை எனக்குள் நிலைநிறுத்திவிட்டன.",
+ "explanation": "The speaker laments the state of her eyes, which have wept so much for her absent lover that they have run out of tears. Now, unable to weep and completely dried up, they have inflicted a cureless, fatal pain upon her. The word 'நிறுத்து' (having placed) acts as the finite verb, showing how the eyes, which are supposed to be a part of her, have acted independently to establish this inescapable disease ('உய்வில் நோய்') within her.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

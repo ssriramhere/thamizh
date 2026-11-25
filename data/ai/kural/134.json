@@ -1,0 +1,134 @@
+{
+ "words": [
+  {
+   "surface": "மறப்பினும்",
+   "parts": [
+    {
+     "text": "மறப்பின்",
+     "lemma": "மற",
+     "gloss": "if forgotten"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if forgotten"
+  },
+  {
+   "surface": "ஓத்து",
+   "parts": [
+    {
+     "text": "ஓத்து",
+     "lemma": "ஓத்து",
+     "gloss": "scripture"
+    }
+   ],
+   "gloss": "scripture"
+  },
+  {
+   "surface": "கொளல்",
+   "parts": [
+    {
+     "text": "கொள்",
+     "lemma": "கொள்",
+     "gloss": "acquire"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "acquiring"
+  },
+  {
+   "surface": "ஆகும்",
+   "parts": [
+    {
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "become"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
+    }
+   ],
+   "gloss": "is possible"
+  },
+  {
+   "surface": "பார்ப்பான்",
+   "parts": [
+    {
+     "text": "பார்ப்பான்",
+     "lemma": "பார்ப்பான்",
+     "gloss": "seer/scholar"
+    }
+   ],
+   "gloss": "seer"
+  },
+  {
+   "surface": "பிறப்பு",
+   "parts": [
+    {
+     "text": "பிறப்பு",
+     "lemma": "பிறப்பு",
+     "gloss": "birth"
+    }
+   ],
+   "gloss": "birth"
+  },
+  {
+   "surface": "ஒழுக்கம்",
+   "parts": [
+    {
+     "text": "ஒழுக்கம்",
+     "lemma": "ஒழுக்கம்",
+     "gloss": "proper conduct"
+    }
+   ],
+   "gloss": "proper conduct"
+  },
+  {
+   "surface": "குன்ற",
+   "parts": [
+    {
+     "text": "குன்று",
+     "lemma": "குன்று",
+     "gloss": "diminish"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
+    }
+   ],
+   "gloss": "to diminish"
+  },
+  {
+   "surface": "கெடும்",
+   "parts": [
+    {
+     "text": "கெடு",
+     "lemma": "கெடு",
+     "gloss": "destroy"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
+    }
+   ],
+   "gloss": "will be destroyed"
+  }
+ ],
+ "literal": "Even if forgotten, scripture acquiring is possible; a seer's birth, proper conduct diminishing, will be destroyed.",
+ "translation": "Even if a scholar forgets his scriptures, he can learn them again. But if his proper conduct diminishes, the nobility of his birth is destroyed.",
+ "modern": "கற்ற நூல்களை மறந்தாலும் மீண்டும் படித்துக் கொள்ள முடியும். ஆனால் ஒருவனுடைய நல்லொழுக்கம் குறைந்தால் அவனது குடிப்பிறப்பின் சிறப்பும் கெட்டழியும்.",
+ "explanation": "This couplet contrasts the loss of learned knowledge with the loss of good conduct. The word 'ஓத்து' refers to chanted scriptures or learned texts, which can be relearned ('கொளலாகும்') even if forgotten ('மறப்பினும்'). However, 'ஒழுக்கம்' (proper conduct) is so fundamental that if it diminishes ('குன்ற'), the very status and nobility of a person's birth ('பிறப்பு') is permanently destroyed ('கெடும்'). The poem uses the figure of the 'பார்ப்பான்' (seer or scholar) to emphasize that even for those whose primary duty is learning, moral conduct is far more critical than intellectual retention.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

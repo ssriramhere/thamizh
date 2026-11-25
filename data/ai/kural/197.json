@@ -1,0 +1,134 @@
+{
+ "words": [
+  {
+   "surface": "நயன்",
+   "parts": [
+    {
+     "text": "நயன்",
+     "lemma": "நயன்",
+     "gloss": "pleasantness"
+    }
+   ],
+   "gloss": "pleasantness"
+  },
+  {
+   "surface": "இல",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "without"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "neuter plural suffix"
+    }
+   ],
+   "gloss": "things without"
+  },
+  {
+   "surface": "சொல்லினும்",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "இனும்",
+     "lemma": "இனும்",
+     "gloss": "even if"
+    }
+   ],
+   "gloss": "even if they speak"
+  },
+  {
+   "surface": "சொல்லுக",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "உக",
+     "lemma": "உக",
+     "gloss": "optative suffix"
+    }
+   ],
+   "gloss": "let them speak"
+  },
+  {
+   "surface": "சான்றோர்",
+   "parts": [
+    {
+     "text": "சான்றோர்",
+     "lemma": "சான்றோர்",
+     "gloss": "noble ones"
+    }
+   ],
+   "gloss": "the noble ones"
+  },
+  {
+   "surface": "பயன்",
+   "parts": [
+    {
+     "text": "பயன்",
+     "lemma": "பயன்",
+     "gloss": "usefulness"
+    }
+   ],
+   "gloss": "usefulness"
+  },
+  {
+   "surface": "இல",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "without"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "neuter plural suffix"
+    }
+   ],
+   "gloss": "things without"
+  },
+  {
+   "surface": "சொல்லாமை",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
+    }
+   ],
+   "gloss": "not speaking"
+  },
+  {
+   "surface": "நன்று",
+   "parts": [
+    {
+     "text": "நன்று",
+     "lemma": "நன்று",
+     "gloss": "is good"
+    }
+   ],
+   "gloss": "is good"
+  }
+ ],
+ "literal": "Pleasantness things without even if they speak let them speak the noble ones; usefulness things without not speaking is good.",
+ "translation": "Even if the noble speak words lacking pleasantness, let them speak; but it is good that they do not speak words lacking usefulness.",
+ "modern": "சான்றோர்கள் இனிமை இல்லாத சொற்களைச் சொன்னாலும் சொல்லலாம், ஆனால் பயன் இல்லாத சொற்களைச் சொல்லாமல் இருப்பதே அவர்களுக்குச் சிறந்தது.",
+ "explanation": "This couplet contrasts words lacking pleasantness with words lacking usefulness. It states that even if noble people happen to speak harsh or unpleasant words, it can be tolerated. However, it is essential and truly good that they refrain entirely from speaking useless words. The emphasis is on the absolute avoidance of vain talk by the wise.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

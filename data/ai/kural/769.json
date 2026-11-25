@@ -1,0 +1,117 @@
+{
+ "words": [
+  {
+   "surface": "சிறுமையும்",
+   "parts": [
+    {
+     "text": "சிறுமை",
+     "lemma": "சிறுமை",
+     "gloss": "weakness"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "weakness and"
+  },
+  {
+   "surface": "செல்லா",
+   "parts": [
+    {
+     "text": "செல்",
+     "lemma": "செல்",
+     "gloss": "to depart"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "un-departing"
+  },
+  {
+   "surface": "துனியும்",
+   "parts": [
+    {
+     "text": "துனி",
+     "lemma": "துனி",
+     "gloss": "resentment"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "resentment and"
+  },
+  {
+   "surface": "வறுமையும்",
+   "parts": [
+    {
+     "text": "வறுமை",
+     "lemma": "வறுமை",
+     "gloss": "poverty"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "poverty and"
+  },
+  {
+   "surface": "இல்லாயின்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "without"
+    },
+    {
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
+     "gloss": "if it is"
+    }
+   ],
+   "gloss": "if without"
+  },
+  {
+   "surface": "வெல்லும்",
+   "parts": [
+    {
+     "text": "வெல்",
+     "lemma": "வெல்",
+     "gloss": "to conquer"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "will conquer"
+  },
+  {
+   "surface": "படை",
+   "parts": [
+    {
+     "text": "படை",
+     "lemma": "படை",
+     "gloss": "army"
+    }
+   ],
+   "gloss": "army"
+  }
+ ],
+ "literal": "Weakness and, un-departing resentment and, poverty and, if without, will conquer, the army.",
+ "translation": "An army will conquer if it is free from weakness, lingering resentment, and poverty.",
+ "modern": "படைவீரர்களிடம் மனத்தளர்ச்சி, நீங்காத வெறுப்பு, வறுமை ஆகிய மூன்றும் இல்லாவிட்டால் அந்தப் படை வெற்றி பெறும்.",
+ "explanation": "This couplet identifies three internal flaws that can destroy an army's effectiveness. 'சிறுமை' refers to weakness or a shrinking in numbers and spirit. 'செல்லாத் துனி' means a deep, lingering resentment or grievance among the soldiers. 'வறுமை' points to poverty or a lack of proper resources and pay. If an army is free from these three defects, it will naturally be victorious.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

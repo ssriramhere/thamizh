@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "எரியால்",
+   "parts": [
+    {
+     "text": "எரி",
+     "lemma": "எரி",
+     "gloss": "fire"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by fire"
+  },
+  {
+   "surface": "சுடப்படினும்",
+   "parts": [
+    {
+     "text": "சுடப்படின்",
+     "lemma": "சுடப்படு",
+     "gloss": "if burnt"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if burnt"
+  },
+  {
+   "surface": "உய்வு",
+   "parts": [
+    {
+     "text": "உய்வு",
+     "lemma": "உய்வு",
+     "gloss": "survival"
+    }
+   ],
+   "gloss": "survival"
+  },
+  {
+   "surface": "உண்டாம்",
+   "parts": [
+    {
+     "text": "உண்டு",
+     "lemma": "உண்டு",
+     "gloss": "exists"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆகு",
+     "gloss": "will be"
+    }
+   ],
+   "gloss": "there is"
+  },
+  {
+   "surface": "உய்யார்",
+   "parts": [
+    {
+     "text": "உய்யார்",
+     "lemma": "உய்",
+     "gloss": "they will not survive"
+    }
+   ],
+   "gloss": "they will not survive"
+  },
+  {
+   "surface": "பெரியார்",
+   "parts": [
+    {
+     "text": "பெரியார்",
+     "lemma": "பெரியார்",
+     "gloss": "great ones"
+    }
+   ],
+   "gloss": "great ones"
+  },
+  {
+   "surface": "பிழைத்து",
+   "parts": [
+    {
+     "text": "பிழைத்து",
+     "lemma": "பிழை",
+     "gloss": "having wronged"
+    }
+   ],
+   "gloss": "having wronged"
+  },
+  {
+   "surface": "ஒழுகுவார்",
+   "parts": [
+    {
+     "text": "ஒழுகுவார்",
+     "lemma": "ஒழுகு",
+     "gloss": "those who behave"
+    }
+   ],
+   "gloss": "those who behave"
+  }
+ ],
+ "literal": "By fire even if burnt survival there is; they will not survive great ones having wronged those who behave.",
+ "translation": "Even those burnt by a fire might find a way to survive, but those who live by wronging the great will not escape.",
+ "modern": "நெருப்பால் சுடப்பட்டாலும் ஒருவர் தப்பிப் பிழைத்துக்கொள்ள முடியும்; ஆனால் ஆற்றல் மிக்க பெரியவர்களுக்குத் தீங்கு செய்து வாழ்பவர்கள் தப்பவே மாட்டார்கள்.",
+ "explanation": "This couplet contrasts the physical danger of fire with the existential danger of offending great people. Even if someone is caught in a fire and severely burnt, there is still a chance they might escape and survive ('உய்வு உண்டாம்'). However, those who conduct their lives by wronging powerful and great individuals have absolutely no chance of survival ('உய்யார்'). The repetition of the root 'உய்' (to survive or escape) emphasizes that the wrath of the great is far more inescapable and destructive than fire itself.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

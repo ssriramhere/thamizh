@@ -1,0 +1,139 @@
+{
+ "words": [
+  {
+   "surface": "உண்ணாமை",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "eat"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
+    }
+   ],
+   "gloss": "not eating"
+  },
+  {
+   "surface": "வேண்டும்",
+   "parts": [
+    {
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "need"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "is necessary"
+  },
+  {
+   "surface": "புலாஅல்",
+   "parts": [
+    {
+     "text": "புலாஅல்",
+     "lemma": "புலால்",
+     "gloss": "meat"
+    }
+   ],
+   "gloss": "meat"
+  },
+  {
+   "surface": "பிறிது",
+   "parts": [
+    {
+     "text": "பிறிது",
+     "lemma": "பிறிது",
+     "gloss": "another"
+    }
+   ],
+   "gloss": "another"
+  },
+  {
+   "surface": "ஒன்றன்",
+   "parts": [
+    {
+     "text": "ஒன்று",
+     "lemma": "ஒன்று",
+     "gloss": "one"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "oblique suffix"
+    }
+   ],
+   "gloss": "of one"
+  },
+  {
+   "surface": "புண்",
+   "parts": [
+    {
+     "text": "புண்",
+     "lemma": "புண்",
+     "gloss": "wound"
+    }
+   ],
+   "gloss": "wound"
+  },
+  {
+   "surface": "அது",
+   "parts": [
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
+    }
+   ],
+   "gloss": "that"
+  },
+  {
+   "surface": "உணர்வார்",
+   "parts": [
+    {
+     "text": "உணர்",
+     "lemma": "உணர்",
+     "gloss": "realize"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future suffix"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "epicene plural suffix"
+    }
+   ],
+   "gloss": "those who realize"
+  },
+  {
+   "surface": "பெறின்",
+   "parts": [
+    {
+     "text": "பெறு",
+     "lemma": "பெறு",
+     "gloss": "get"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    }
+   ],
+   "gloss": "if one gets"
+  }
+ ],
+ "literal": "not-eating is-necessary meat another of-one wound that those-who-realize if-obtained",
+ "translation": "One must not eat meat, if one finds those who realize that it is but the wound of another creature.",
+ "modern": "புலால் என்பது வேறொரு உயிரின் புண் என்பதை உணர்ந்தவர்களைக் கேட்டால், அதனை உண்ணக்கூடாது என்றே சொல்வார்கள்.",
+ "explanation": "The couplet declares that meat is nothing but the wound or torn flesh of another living creature. The word 'புண்' (wound) starkly strips away the appeal of meat, revealing its violent origin. 'உணர்வார்ப் பெறின்' suggests that if one seeks the counsel of those who truly understand this reality, they will insist that one must abstain from eating it. Thus, true awareness naturally leads to the rejection of meat.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

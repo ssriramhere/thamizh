@@ -1,0 +1,138 @@
+{
+ "words": [
+  {
+   "surface": "இரப்பான்",
+   "parts": [
+    {
+     "text": "இர",
+     "lemma": "இர",
+     "gloss": "to beg"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he (masculine singular suffix)"
+    }
+   ],
+   "gloss": "he who begs"
+  },
+  {
+   "surface": "வெகுளாமை",
+   "parts": [
+    {
+     "text": "வெகுள்",
+     "lemma": "வெகுள்",
+     "gloss": "to be angry"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
+    }
+   ],
+   "gloss": "not being angry"
+  },
+  {
+   "surface": "வேண்டும்",
+   "parts": [
+    {
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "to be necessary"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future/habitual suffix"
+    }
+   ],
+   "gloss": "is necessary"
+  },
+  {
+   "surface": "நிரப்பு",
+   "parts": [
+    {
+     "text": "நிரப்பு",
+     "lemma": "நிரப்பு",
+     "gloss": "poverty"
+    }
+   ],
+   "gloss": "poverty"
+  },
+  {
+   "surface": "இடும்பை",
+   "parts": [
+    {
+     "text": "இடும்பை",
+     "lemma": "இடும்பை",
+     "gloss": "sorrow"
+    }
+   ],
+   "gloss": "sorrow"
+  },
+  {
+   "surface": "தானேயும்",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "itself"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "emphasis"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even itself"
+  },
+  {
+   "surface": "சாலும்",
+   "parts": [
+    {
+     "text": "சால்",
+     "lemma": "சால்",
+     "gloss": "to be sufficient"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future/habitual suffix"
+    }
+   ],
+   "gloss": "is sufficient"
+  },
+  {
+   "surface": "கரி",
+   "parts": [
+    {
+     "text": "கரி",
+     "lemma": "கரி",
+     "gloss": "witness"
+    }
+   ],
+   "gloss": "witness"
+  }
+ ],
+ "literal": "He who begs not being angry is necessary; poverty's sorrow even itself is sufficient witness.",
+ "translation": "One who begs must not grow angry when refused. The sorrow of poverty itself is sufficient witness to the harshness of the world.",
+ "modern": "யாசிப்பவர் பிறர் பொருள் தர மறுக்கும்போது கோபப்படாமல் இருக்க வேண்டும். வறுமையால் வரும் துன்பமே அதற்குப் போதுமான சாட்சியாகும்.",
+ "explanation": "This couplet instructs those who ask for help to refrain from anger when they are refused. The phrase 'vekuḷāmai vēṇṭum' clearly states that not getting angry is a necessity for a beggar. The second line explains that the sorrow of poverty ('nirappu iṭumpai') is itself a sufficient witness ('cālum kari'). This implies that the harsh suffering caused by poverty is proof enough of why others might cling to their wealth, making the beggar's anger both unjustified and futile.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

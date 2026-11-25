@@ -1,0 +1,148 @@
+{
+ "words": [
+  {
+   "surface": "அடுக்கிய",
+   "parts": [
+    {
+     "text": "அடுக்கு",
+     "lemma": "அடுக்கு",
+     "gloss": "to stack"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival suffix"
+    }
+   ],
+   "gloss": "stacked"
+  },
+  {
+   "surface": "கோடி",
+   "parts": [
+    {
+     "text": "கோடி",
+     "lemma": "கோடி",
+     "gloss": "ten million"
+    }
+   ],
+   "gloss": "ten million"
+  },
+  {
+   "surface": "பெறினும்",
+   "parts": [
+    {
+     "text": "பெறு",
+     "lemma": "பெறு",
+     "gloss": "to obtain"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if obtained"
+  },
+  {
+   "surface": "குடி",
+   "parts": [
+    {
+     "text": "குடி",
+     "lemma": "குடி",
+     "gloss": "lineage"
+    }
+   ],
+   "gloss": "lineage"
+  },
+  {
+   "surface": "பிறந்தார்",
+   "parts": [
+    {
+     "text": "பிற",
+     "lemma": "பிற",
+     "gloss": "to be born"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "epicene plural suffix"
+    }
+   ],
+   "gloss": "those born"
+  },
+  {
+   "surface": "குன்றுவ",
+   "parts": [
+    {
+     "text": "குன்று",
+     "lemma": "குன்று",
+     "gloss": "to diminish"
+    },
+    {
+     "text": "வ",
+     "lemma": "வ",
+     "gloss": "neuter plural suffix"
+    }
+   ],
+   "gloss": "things that diminish"
+  },
+  {
+   "surface": "செய்தல்",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "doing"
+  },
+  {
+   "surface": "இலர்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "not/without"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "epicene plural suffix"
+    }
+   ],
+   "gloss": "they are without"
+  }
+ ],
+ "literal": "Stacked ten-millions even if obtained, those born in a lineage are without the doing of things that diminish.",
+ "translation": "Even if they were to gain wealth stacked in tens of millions, those born of a good lineage will not do things that diminish their honor.",
+ "modern": "கோடிக்கணக்கான செல்வத்தை அடுக்கிக் கொடுத்தாலும், நல்ல குடியில் பிறந்தவர்கள் தம் பெருமை குறையும்படியான இழிவான செயல்களைச் செய்ய மாட்டார்கள்.",
+ "explanation": "This couplet emphasizes the unshakeable integrity of those who come from a noble lineage. The phrase 'அடுக்கிய கோடி' (stacked ten millions) vividly represents unimaginable wealth offered as a temptation. Even if such immense riches are to be gained, people of good birth ('குடிப்பிறந்தார்') will never commit acts that diminish their honor ('குன்றுவ'). Their character is defined by the absolute refusal to do degrading deeds, showing that true nobility values honor far above material gain.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

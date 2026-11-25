@@ -1,0 +1,140 @@
+{
+ "words": [
+  {
+   "surface": "பண்",
+   "parts": [
+    {
+     "text": "பண்",
+     "lemma": "பண்",
+     "gloss": "melody"
+    }
+   ],
+   "gloss": "melody"
+  },
+  {
+   "surface": "என்னாம்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "what"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆ",
+     "gloss": "becomes"
+    }
+   ],
+   "gloss": "what use is"
+  },
+  {
+   "surface": "பாடற்கு",
+   "parts": [
+    {
+     "text": "பாடல்",
+     "lemma": "பாடல்",
+     "gloss": "song"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to the song"
+  },
+  {
+   "surface": "இயைபு",
+   "parts": [
+    {
+     "text": "இயைபு",
+     "lemma": "இயைபு",
+     "gloss": "harmony"
+    }
+   ],
+   "gloss": "harmony"
+  },
+  {
+   "surface": "இன்றேல்",
+   "parts": [
+    {
+     "text": "இன்று",
+     "lemma": "இன்று",
+     "gloss": "is not"
+    },
+    {
+     "text": "ஏல்",
+     "lemma": "ஏல்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if there is not"
+  },
+  {
+   "surface": "கண்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    }
+   ],
+   "gloss": "eye"
+  },
+  {
+   "surface": "என்னாம்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "what"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆ",
+     "gloss": "becomes"
+    }
+   ],
+   "gloss": "what use is"
+  },
+  {
+   "surface": "கண்ணோட்டம்",
+   "parts": [
+    {
+     "text": "கண்ணோட்டம்",
+     "lemma": "கண்ணோட்டம்",
+     "gloss": "graciousness"
+    }
+   ],
+   "gloss": "graciousness"
+  },
+  {
+   "surface": "இல்லாத",
+   "parts": [
+    {
+     "text": "இல்லாத",
+     "lemma": "இல்",
+     "gloss": "without"
+    }
+   ],
+   "gloss": "without"
+  },
+  {
+   "surface": "கண்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    }
+   ],
+   "gloss": "eye"
+  }
+ ],
+ "literal": "Melody what becomes, to song harmony if not? Eye what becomes, graciousness without eye?",
+ "translation": "What is the use of a melody if it does not harmonize with the song? What is the use of eyes if they lack graciousness?",
+ "modern": "பாடலோடு பொருத்தம் இல்லை என்றால் பண்ணால் என்ன பயன்? அதுபோலவே, இரக்க குணம் இல்லை என்றால் கண்ணால் என்ன பயன்?",
+ "explanation": "This couplet uses a musical analogy to explain the true purpose of eyes. A melody (\"பண்\") is useless if it does not harmonize (\"இயைபு\") with the song it accompanies. In the exact same way, the physical eyes (\"கண்\") serve no real purpose if they lack a gracious, compassionate look (\"கண்ணோட்டம்\"). The repetition of \"என்னாம்\" (what is the use) emphasizes that just as music needs harmony, human sight requires empathy to be meaningful.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

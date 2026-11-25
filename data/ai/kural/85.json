@@ -1,0 +1,139 @@
+{
+ "words": [
+  {
+   "surface": "வித்தும்",
+   "parts": [
+    {
+     "text": "வித்து",
+     "lemma": "வித்து",
+     "gloss": "seed"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even seed"
+  },
+  {
+   "surface": "இடல்",
+   "parts": [
+    {
+     "text": "இடு",
+     "lemma": "இடு",
+     "gloss": "to sow"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "sowing"
+  },
+  {
+   "surface": "வேண்டும்",
+   "parts": [
+    {
+     "text": "வேண்டும்",
+     "lemma": "வேண்டு",
+     "gloss": "is needed"
+    }
+   ],
+   "gloss": "is needed"
+  },
+  {
+   "surface": "கொல்லோ",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "particle of doubt"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question suffix"
+    }
+   ],
+   "gloss": "indeed?"
+  },
+  {
+   "surface": "விருந்து",
+   "parts": [
+    {
+     "text": "விருந்து",
+     "lemma": "விருந்து",
+     "gloss": "guest"
+    }
+   ],
+   "gloss": "guest"
+  },
+  {
+   "surface": "ஓம்பி",
+   "parts": [
+    {
+     "text": "ஓம்பு",
+     "lemma": "ஓம்பு",
+     "gloss": "to cherish"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having cherished"
+  },
+  {
+   "surface": "மிச்சில்",
+   "parts": [
+    {
+     "text": "மிச்சில்",
+     "lemma": "மிச்சில்",
+     "gloss": "remainder"
+    }
+   ],
+   "gloss": "remainder"
+  },
+  {
+   "surface": "மிசைவான்",
+   "parts": [
+    {
+     "text": "மிசை",
+     "lemma": "மிசை",
+     "gloss": "to eat"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who eats"
+  },
+  {
+   "surface": "புலம்",
+   "parts": [
+    {
+     "text": "புலம்",
+     "lemma": "புலம்",
+     "gloss": "field"
+    }
+   ],
+   "gloss": "field"
+  }
+ ],
+ "literal": "Even seed sowing is needed indeed? - guest having cherished, remainder he who eats - [his] field.",
+ "translation": "Is it even necessary to sow seeds in the field of a man who eats only what remains after feeding his guests?",
+ "modern": "விருந்தினரை உபசரித்து உணவளித்த பின் எஞ்சியதை உண்பவனுடைய நிலத்தில் விதைகளை விதைக்கவும் வேண்டுமா?",
+ "explanation": "This couplet asks a rhetorical question about the prosperity of a generous host. The phrase 'விருந்து ஓம்பி மிச்சில் மிசைவான்' describes a person who first feeds their guests and only eats the leftovers. The poet wonders if such a person even needs to sow seeds ('வித்தும் இடல் வேண்டும் கொல்லோ') in their field ('புலம்'). The implication is that nature itself will reward their hospitality, making their land yield abundantly without effort. The word 'கொல்லோ' emphasizes the rhetorical nature of the question, highlighting the supreme value of cherishing guests.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

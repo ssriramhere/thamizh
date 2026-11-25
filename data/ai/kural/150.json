@@ -1,0 +1,159 @@
+{
+ "words": [
+  {
+   "surface": "அறன்",
+   "parts": [
+    {
+     "text": "அறன்",
+     "lemma": "அறம்",
+     "gloss": "virtue"
+    }
+   ],
+   "gloss": "virtue"
+  },
+  {
+   "surface": "வரையான்",
+   "parts": [
+    {
+     "text": "வரை",
+     "lemma": "வரை",
+     "gloss": "to limit"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "ன்",
+     "lemma": "அன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he does not limit himself"
+  },
+  {
+   "surface": "அல்ல",
+   "parts": [
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not (virtuous)"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "neuter plural suffix"
+    }
+   ],
+   "gloss": "evil things"
+  },
+  {
+   "surface": "செயினும்",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if he does"
+  },
+  {
+   "surface": "பிறன்",
+   "parts": [
+    {
+     "text": "பிறன்",
+     "lemma": "பிறன்",
+     "gloss": "another man"
+    }
+   ],
+   "gloss": "another man's"
+  },
+  {
+   "surface": "வரையாள்",
+   "parts": [
+    {
+     "text": "வரை",
+     "lemma": "வரை",
+     "gloss": "boundary"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "woman"
+    }
+   ],
+   "gloss": "bound woman"
+  },
+  {
+   "surface": "பெண்மை",
+   "parts": [
+    {
+     "text": "பெண்",
+     "lemma": "பெண்",
+     "gloss": "woman"
+    },
+    {
+     "text": "மை",
+     "lemma": "மை",
+     "gloss": "abstract suffix"
+    }
+   ],
+   "gloss": "womanhood"
+  },
+  {
+   "surface": "நயவாமை",
+   "parts": [
+    {
+     "text": "நய",
+     "lemma": "நய",
+     "gloss": "to desire"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
+    }
+   ],
+   "gloss": "not desiring"
+  },
+  {
+   "surface": "நன்று",
+   "parts": [
+    {
+     "text": "நன்று",
+     "lemma": "நல்",
+     "gloss": "is good"
+    }
+   ],
+   "gloss": "is good"
+  }
+ ],
+ "literal": "Virtue he does not limit himself to, evil things even if he does, another man's bound woman's womanhood not desiring is good.",
+ "translation": "Even if a man does not confine himself to virtue and commits evil deeds, it is still good if he does not desire the womanhood of another man's wife.",
+ "modern": "ஒருவன் அறத்தின் வரம்பிற்குள் நிற்காமல் பாவச் செயல்களைச் செய்தாலும், அவன் மற்றொருவனுடைய மனைவியின் பெண்மையை விரும்பாமல் இருப்பது அவனுக்கு நல்லதாகும்.",
+ "explanation": "The couplet contrasts general immorality with the specific sin of desiring another man's wife. The word 'varaiyāṉ' (he who does not limit himself) describes a man who steps outside the boundaries of virtue to commit evil deeds ('alla'). However, the text states that even for such a person, there is goodness ('naṉṟu') if he refrains from desiring ('nayavāmai') the womanhood ('peṇmai') of a woman bound to another man ('piṟaṉ varaiyāḷ'). This emphasizes that respecting the marital boundaries of others is a fundamental good, even when other virtues are absent.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

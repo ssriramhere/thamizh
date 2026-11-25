@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "வினைக்கண்",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in action"
+  },
+  {
+   "surface": "வினை",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "effort"
+    }
+   ],
+   "gloss": "effort"
+  },
+  {
+   "surface": "கெடல்",
+   "parts": [
+    {
+     "text": "கெடு",
+     "lemma": "கெடு",
+     "gloss": "fail"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "failing"
+  },
+  {
+   "surface": "ஓம்பல்",
+   "parts": [
+    {
+     "text": "ஓம்பு",
+     "lemma": "ஓம்பு",
+     "gloss": "guard against"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "imperative suffix"
+    }
+   ],
+   "gloss": "guard against"
+  },
+  {
+   "surface": "வினைக்குறை",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
+    },
+    {
+     "text": "குறை",
+     "lemma": "குறை",
+     "gloss": "remainder"
+    }
+   ],
+   "gloss": "unfinished action"
+  },
+  {
+   "surface": "தீர்ந்தாரின்",
+   "parts": [
+    {
+     "text": "தீர்ந்தார்",
+     "lemma": "தீர்",
+     "gloss": "those who abandoned"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "from"
+    }
+   ],
+   "gloss": "from those who abandoned"
+  },
+  {
+   "surface": "தீர்ந்தன்று",
+   "parts": [
+    {
+     "text": "தீர்ந்தன்று",
+     "lemma": "தீர்",
+     "gloss": "it has departed"
+    }
+   ],
+   "gloss": "it has departed"
+  },
+  {
+   "surface": "உலகு",
+   "parts": [
+    {
+     "text": "உலகு",
+     "lemma": "உலகு",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "world"
+  }
+ ],
+ "literal": "In action, effort failing guard against; unfinished action from those who abandoned, it has departed, the world.",
+ "translation": "Guard against your effort failing in the midst of a task. The world abandons those who abandon a task unfinished.",
+ "modern": "ஒரு செயலைச் செய்யும்போது இடையில் முயற்சி குறைந்துவிடாமல் காக்க வேண்டும். செய்து முடிப்பதற்கு முன்பே செயலை விட்டு விலகியவர்களை விட்டு உலகமும் விலகிவிடும்.",
+ "explanation": "This couplet warns against losing momentum or giving up while a task is underway. The phrase 'வினைக்கண் வினை கெடல் ஓம்பல்' urges one to guard against the failure of effort in the middle of an action. The word 'தீர்ந்தாரின்' means 'from those who have abandoned', referring to people who leave a task incomplete ('வினைக்குறை'). Just as they abandon their work, the world ('உலகு') will abandon them, denying them success and recognition.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

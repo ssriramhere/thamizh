@@ -1,0 +1,126 @@
+{
+ "words": [
+  {
+   "surface": "முகத்தின்",
+   "parts": [
+    {
+     "text": "முகத்தின்",
+     "lemma": "முகத்தின்",
+     "gloss": "on the face"
+    }
+   ],
+   "gloss": "on the face",
+   "split_unverified": true
+  },
+  {
+   "surface": "இனிய",
+   "parts": [
+    {
+     "text": "இனிய",
+     "lemma": "இனிய",
+     "gloss": "sweetly"
+    }
+   ],
+   "gloss": "sweetly",
+   "split_unverified": true
+  },
+  {
+   "surface": "நகாஅ",
+   "parts": [
+    {
+     "text": "நகு",
+     "lemma": "நகு",
+     "gloss": "smile"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "[participle]"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "[lengthening]"
+    }
+   ],
+   "gloss": "smiling"
+  },
+  {
+   "surface": "அகத்து",
+   "parts": [
+    {
+     "text": "அகத்து",
+     "lemma": "அகத்து",
+     "gloss": "in the mind"
+    }
+   ],
+   "gloss": "in the mind",
+   "split_unverified": true
+  },
+  {
+   "surface": "இன்னா",
+   "parts": [
+    {
+     "text": "இன்னா",
+     "lemma": "இன்னா",
+     "gloss": "evil"
+    }
+   ],
+   "gloss": "evil"
+  },
+  {
+   "surface": "வஞ்சரை",
+   "parts": [
+    {
+     "text": "வஞ்சர்",
+     "lemma": "வஞ்சர்",
+     "gloss": "deceitful people"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "[accusative]"
+    }
+   ],
+   "gloss": "deceitful people (acc.)"
+  },
+  {
+   "surface": "அஞ்ச",
+   "parts": [
+    {
+     "text": "அஞ்சு",
+     "lemma": "அஞ்சு",
+     "gloss": "fear"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to fear"
+  },
+  {
+   "surface": "படும்",
+   "parts": [
+    {
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "must"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "[future]"
+    }
+   ],
+   "gloss": "must be"
+  }
+ ],
+ "literal": "On the face sweetly smiling, in the mind evil, deceitful people to fear must be.",
+ "translation": "One must fear deceitful people who smile sweetly on their faces but harbor evil in their hearts.",
+ "modern": "முகத்தில் இனிமையாகச் சிரித்து, மனத்திற்குள் தீமையை வைத்திருக்கும் வஞ்சகர்களைக் கண்டு அஞ்ச வேண்டும்.",
+ "explanation": "This couplet warns against false friends who hide their true intentions. The phrase 'முகத்தின் இனிய நகாஅ' describes their outward behavior, smiling sweetly to appear friendly. However, 'அகத்து இன்னா' reveals their true nature, holding evil or harm in their minds. Because of this dangerous contradiction, such deceitful people must be feared and avoided.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

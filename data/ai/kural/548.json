@@ -1,0 +1,138 @@
+{
+ "words": [
+  {
+   "surface": "எண்பதத்தான்",
+   "parts": [
+    {
+     "text": "எண்",
+     "lemma": "எண்",
+     "gloss": "easy"
+    },
+    {
+     "text": "பதத்து",
+     "lemma": "பதம்",
+     "gloss": "state/access"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "with/by"
+    }
+   ],
+   "gloss": "with easy access"
+  },
+  {
+   "surface": "ஓரா",
+   "parts": [
+    {
+     "text": "ஓர்",
+     "lemma": "ஓர்",
+     "gloss": "to examine"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not examining"
+  },
+  {
+   "surface": "முறை",
+   "parts": [
+    {
+     "text": "முறை",
+     "lemma": "முறை",
+     "gloss": "justice"
+    }
+   ],
+   "gloss": "justice"
+  },
+  {
+   "surface": "செய்யா",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not doing"
+  },
+  {
+   "surface": "மன்னவன்",
+   "parts": [
+    {
+     "text": "மன்னவன்",
+     "lemma": "மன்னவன்",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  },
+  {
+   "surface": "தண்பதத்தான்",
+   "parts": [
+    {
+     "text": "தண்",
+     "lemma": "தண்",
+     "gloss": "cool/diminished"
+    },
+    {
+     "text": "பதத்து",
+     "lemma": "பதம்",
+     "gloss": "state"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by diminished state"
+  },
+  {
+   "surface": "தானே",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "himself"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "emphasis"
+    }
+   ],
+   "gloss": "by himself"
+  },
+  {
+   "surface": "கெடும்",
+   "parts": [
+    {
+     "text": "கெடு",
+     "lemma": "கெடு",
+     "gloss": "to perish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "will perish"
+  }
+ ],
+ "literal": "With easy access not examining, justice not doing king, by diminished state by himself will perish.",
+ "translation": "A king who does not examine cases with easy accessibility and fails to administer justice will fall into a diminished state and perish on his own.",
+ "modern": "எளிதில் அணுகக்கூடிய நிலையில் இருந்து வழக்குகளை ஆராயாமலும், நீதி வழங்காமலும் இருக்கும் அரசன், தன் வலிமை குன்றிய நிலையில் தானாகவே அழிந்து போவான்.",
+ "explanation": "This couplet warns of the inevitable downfall of an inaccessible and unjust ruler. The phrase 'எண்பதத்தான்' (with easy access) acts as an instrumental adverb modifying the negative actions of not examining ('ஓரா') and not doing justice ('செய்யா'), indicating a king who fails to be approachable to his people. Consequently, he is reduced to 'தண்பதத்தான்' (a diminished or 'cooled' state of lost power), leading him to perish entirely on his own ('தானே கெடும்') without needing external enemies to defeat him.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

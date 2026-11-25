@@ -1,0 +1,159 @@
+{
+ "words": [
+  {
+   "surface": "ஆ",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "cow"
+    }
+   ],
+   "gloss": "cow"
+  },
+  {
+   "surface": "பயன்",
+   "parts": [
+    {
+     "text": "பயன்",
+     "lemma": "பயன்",
+     "gloss": "yield"
+    }
+   ],
+   "gloss": "yield"
+  },
+  {
+   "surface": "குன்றும்",
+   "parts": [
+    {
+     "text": "குன்று",
+     "lemma": "குன்று",
+     "gloss": "diminish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
+    }
+   ],
+   "gloss": "will diminish"
+  },
+  {
+   "surface": "அறுதொழிலோர்",
+   "parts": [
+    {
+     "text": "அறு",
+     "lemma": "ஆறு",
+     "gloss": "six"
+    },
+    {
+     "text": "தொழில்",
+     "lemma": "தொழில்",
+     "gloss": "duty"
+    },
+    {
+     "text": "ஓர்",
+     "lemma": "ஓர்",
+     "gloss": "those who"
+    }
+   ],
+   "gloss": "those of six duties"
+  },
+  {
+   "surface": "நூல்",
+   "parts": [
+    {
+     "text": "நூல்",
+     "lemma": "நூல்",
+     "gloss": "text"
+    }
+   ],
+   "gloss": "texts"
+  },
+  {
+   "surface": "மறப்பர்",
+   "parts": [
+    {
+     "text": "மற",
+     "lemma": "மற",
+     "gloss": "forget"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "will forget"
+  },
+  {
+   "surface": "காவலன்",
+   "parts": [
+    {
+     "text": "காவல்",
+     "lemma": "காவல்",
+     "gloss": "protection"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "protector"
+  },
+  {
+   "surface": "காவான்",
+   "parts": [
+    {
+     "text": "கா",
+     "lemma": "கா",
+     "gloss": "protect"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he (negative)"
+    }
+   ],
+   "gloss": "will not protect"
+  },
+  {
+   "surface": "எனின்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if"
+  }
+ ],
+ "literal": "Cow yield will diminish, those of six duties texts will forget, protector protects-not if.",
+ "translation": "If the protector fails to protect, the yield of cows will diminish and those of six duties will forget their texts.",
+ "modern": "நாட்டை ஆளும் அரசன் மக்களைக் காப்பாற்றாவிட்டால், பசுக்கள் பால் தருவது குறையும்; ஆறு தொழில்களை உடைய அறிஞர்கள் தங்கள் நூல்களை மறந்துவிடுவார்கள்.",
+ "explanation": "This couplet describes the breakdown of society when a ruler fails in his duty. The 'protector' (காவலன்) is the king, whose primary duty is to maintain order and justice. If he does not protect his people, the natural and social order collapses. The 'yield of cows' (ஆபயன்) diminishing represents the failure of nature and agriculture, while 'those of six duties' (அறுதொழிலோர்) forgetting their texts signifies the loss of learning, culture, and spiritual practices. Together, these images show that unjust rule destroys both material prosperity and intellectual life.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

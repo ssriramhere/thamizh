@@ -1,0 +1,148 @@
+{
+ "words": [
+  {
+   "surface": "அறன்",
+   "parts": [
+    {
+     "text": "அறன்",
+     "lemma": "அறம்",
+     "gloss": "virtue"
+    }
+   ],
+   "gloss": "virtue"
+  },
+  {
+   "surface": "ஆக்கம்",
+   "parts": [
+    {
+     "text": "ஆக்கம்",
+     "lemma": "ஆக்கம்",
+     "gloss": "prosperity"
+    }
+   ],
+   "gloss": "prosperity"
+  },
+  {
+   "surface": "வேண்டாதான்",
+   "parts": [
+    {
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "desire"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative marker"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who desires not"
+  },
+  {
+   "surface": "என்பான்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say/call"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who is called"
+  },
+  {
+   "surface": "பிறன்",
+   "parts": [
+    {
+     "text": "பிறன்",
+     "lemma": "பிறன்",
+     "gloss": "another man"
+    }
+   ],
+   "gloss": "another man's"
+  },
+  {
+   "surface": "ஆக்கம்",
+   "parts": [
+    {
+     "text": "ஆக்கம்",
+     "lemma": "ஆக்கம்",
+     "gloss": "prosperity"
+    }
+   ],
+   "gloss": "prosperity"
+  },
+  {
+   "surface": "பேணாது",
+   "parts": [
+    {
+     "text": "பேணு",
+     "lemma": "பேணு",
+     "gloss": "cherish"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative marker"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "not cherishing"
+  },
+  {
+   "surface": "அழுக்கறுப்பான்",
+   "parts": [
+    {
+     "text": "அழுக்கறு",
+     "lemma": "அழுக்கறு",
+     "gloss": "envy"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    }
+   ],
+   "gloss": "he who envies"
+  }
+ ],
+ "literal": "Virtue [and] prosperity he-desires-not he-who-is-called, another's prosperity not-cherishing he-who-envies.",
+ "translation": "He who envies another's prosperity instead of rejoicing in it is known as one who desires neither virtue nor his own prosperity.",
+ "modern": "மற்றவருடைய வளர்ச்சியைக் கண்டு மகிழாமல் பொறாமைப்படுபவன், தனக்கு அறமும் செல்வமும் வேண்டாம் என்று நினைப்பவன் ஆவான்.",
+ "explanation": "The word 'ஆக்கம்' (ākkam) can mean wealth, creation, or general prosperity; here it refers to prosperity or growth, applying both to oneself and to others. This couplet defines the true nature of an envious person. By refusing to cherish the prosperity of others ('பிறன் ஆக்கம் பேணாது') and choosing to envy them instead ('அழுக்கறுப்பான்'), a person actively rejects their own well-being. The text states that such a person is known as one who does not desire virtue and their own prosperity ('அறன் ஆக்கம் வேண்டாதான்'). Envy is thus framed not just as a harm to others, but as a self-destructive rejection of one's own moral and material growth.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

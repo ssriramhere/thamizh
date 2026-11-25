@@ -1,0 +1,167 @@
+{
+ "words": [
+  {
+   "surface": "இரப்பன்",
+   "parts": [
+    {
+     "text": "இர",
+     "lemma": "இர",
+     "gloss": "beg"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "1st person singular suffix"
+    }
+   ],
+   "gloss": "I will beg"
+  },
+  {
+   "surface": "இரப்பாரை",
+   "parts": [
+    {
+     "text": "இர",
+     "lemma": "இர",
+     "gloss": "beg"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "3rd person plural suffix"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
+    }
+   ],
+   "gloss": "those who beg (acc.)"
+  },
+  {
+   "surface": "எல்லாம்",
+   "parts": [
+    {
+     "text": "எல்லாம்",
+     "lemma": "எல்லாம்",
+     "gloss": "all"
+    }
+   ],
+   "gloss": "all"
+  },
+  {
+   "surface": "இரப்பின்",
+   "parts": [
+    {
+     "text": "இர",
+     "lemma": "இர",
+     "gloss": "beg"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional marker"
+    }
+   ],
+   "gloss": "if begging"
+  },
+  {
+   "surface": "கரப்பார்",
+   "parts": [
+    {
+     "text": "கர",
+     "lemma": "கர",
+     "gloss": "hide"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "3rd person plural suffix"
+    }
+   ],
+   "gloss": "those who hide"
+  },
+  {
+   "surface": "இரவன்மின்",
+   "parts": [
+    {
+     "text": "இர",
+     "lemma": "இர",
+     "gloss": "beg"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "அன்மின்",
+     "lemma": "அன்மின்",
+     "gloss": "negative imperative plural suffix"
+    }
+   ],
+   "gloss": "do not beg"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "று",
+     "lemma": "று",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "saying"
+  }
+ ],
+ "literal": "I will beg / those who beg / all / if begging / those who hide / do not beg / saying",
+ "translation": "I beg of all those who beg: if you must beg, do not beg from those who hide what they have.",
+ "modern": "பிச்சை எடுப்பவர்கள் எல்லாரிடமும் நான் ஒன்றை வேண்டிக் கேட்கிறேன்: நீங்கள் பிச்சை எடுத்தால், உள்ளதை மறைப்பவர்களிடம் சென்று பிச்சை எடுக்காதீர்கள்.",
+ "explanation": "The poet addresses beggars directly, making an earnest plea to them. The word 'இரப்பன்' (I beg) is used ironically to show the poet's sincerity in asking a favor of those who usually ask favors of others. He asks them that if they are forced by circumstances to beg ('இரப்பின்'), they should never beg from misers who hide their wealth ('கரப்பார்'). This highlights the extreme indignity of facing a miser's refusal, which is portrayed as worse than the act of begging itself.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,164 @@
+{
+ "words": [
+  {
+   "surface": "இதனை",
+   "parts": [
+    {
+     "text": "இது",
+     "lemma": "இது",
+     "gloss": "this"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "empty morph"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "this (task)"
+  },
+  {
+   "surface": "இதனால்",
+   "parts": [
+    {
+     "text": "இது",
+     "lemma": "இது",
+     "gloss": "this"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "empty morph"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "instrumental suffix"
+    }
+   ],
+   "gloss": "by this (means)"
+  },
+  {
+   "surface": "இவன்",
+   "parts": [
+    {
+     "text": "இவன்",
+     "lemma": "இவன்",
+     "gloss": "this man"
+    }
+   ],
+   "gloss": "this man"
+  },
+  {
+   "surface": "முடிக்கும்",
+   "parts": [
+    {
+     "text": "முடி",
+     "lemma": "முடி",
+     "gloss": "to complete"
+    },
+    {
+     "text": "க்கும்",
+     "lemma": "உம்",
+     "gloss": "future tense suffix"
+    }
+   ],
+   "gloss": "will complete"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "to say/consider"
+    },
+    {
+     "text": "று",
+     "lemma": "று",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "having considered (that)"
+  },
+  {
+   "surface": "ஆய்ந்து",
+   "parts": [
+    {
+     "text": "ஆய்",
+     "lemma": "ஆய்",
+     "gloss": "to examine"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "ந்து",
+     "gloss": "past participle suffix"
+    }
+   ],
+   "gloss": "having examined"
+  },
+  {
+   "surface": "அதனை",
+   "parts": [
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "empty morph"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "that (task)"
+  },
+  {
+   "surface": "அவன்கண்",
+   "parts": [
+    {
+     "text": "அவன்",
+     "lemma": "அவன்",
+     "gloss": "that man"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "locative suffix"
+    }
+   ],
+   "gloss": "with him"
+  },
+  {
+   "surface": "விடல்",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "to leave"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "entrust"
+  }
+ ],
+ "literal": "'This task, by this means, this man will complete' - having considered and examined, that task with him leave.",
+ "translation": "Having carefully analyzed and concluded that 'this man will complete this task by this means,' entrust that task to him.",
+ "modern": "இந்தச் செயலை இந்தக் கருவியால் இவன் முடிப்பான் என்று ஆராய்ந்து அறிந்த பிறகு, அந்தச் செயலை அவனிடமே ஒப்படைக்க வேண்டும்.",
+ "explanation": "This couplet explains the proper way to delegate a task. A leader must first carefully analyze three things: the nature of the task, the resources or methods required, and the capability of the person. Once it is determined that a specific person can successfully complete the task using the given means, the responsibility should be fully entrusted to them. The repetition of demonstrative pronouns emphasizes the precision required in matching the right person to the right job.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

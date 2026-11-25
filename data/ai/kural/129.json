@@ -1,0 +1,139 @@
+{
+ "words": [
+  {
+   "surface": "தீயினால்",
+   "parts": [
+    {
+     "text": "தீ",
+     "lemma": "தீ",
+     "gloss": "fire"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by fire"
+  },
+  {
+   "surface": "சுட்ட",
+   "parts": [
+    {
+     "text": "சுட்ட",
+     "lemma": "சுடு",
+     "gloss": "burnt"
+    }
+   ],
+   "gloss": "burnt"
+  },
+  {
+   "surface": "புண்",
+   "parts": [
+    {
+     "text": "புண்",
+     "lemma": "புண்",
+     "gloss": "wound"
+    }
+   ],
+   "gloss": "wound"
+  },
+  {
+   "surface": "உள்",
+   "parts": [
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "inside"
+    }
+   ],
+   "gloss": "inside"
+  },
+  {
+   "surface": "ஆறும்",
+   "parts": [
+    {
+     "text": "ஆறு",
+     "lemma": "ஆறு",
+     "gloss": "heal"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
+    }
+   ],
+   "gloss": "will heal"
+  },
+  {
+   "surface": "ஆறாதே",
+   "parts": [
+    {
+     "text": "ஆறாது",
+     "lemma": "ஆறு",
+     "gloss": "will not heal"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "will never heal"
+  },
+  {
+   "surface": "நாவினால்",
+   "parts": [
+    {
+     "text": "நா",
+     "lemma": "நா",
+     "gloss": "tongue"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by tongue"
+  },
+  {
+   "surface": "சுட்ட",
+   "parts": [
+    {
+     "text": "சுட்ட",
+     "lemma": "சுடு",
+     "gloss": "burnt"
+    }
+   ],
+   "gloss": "burnt"
+  },
+  {
+   "surface": "வடு",
+   "parts": [
+    {
+     "text": "வடு",
+     "lemma": "வடு",
+     "gloss": "scar"
+    }
+   ],
+   "gloss": "scar"
+  }
+ ],
+ "literal": "By fire burnt wound inside will heal; will never heal by tongue burnt scar.",
+ "translation": "A wound burnt by fire will heal inside, but the scar burnt by a tongue will never heal.",
+ "modern": "தீயினால் சுட்ட புண் உடம்பின் உள்ளே காலப்போக்கில் ஆறிவிடும். ஆனால் ஒருவருடைய நாவினால் சுட்ட வடு ஒருபோதும் ஆறாது.",
+ "explanation": "This couplet contrasts physical injury with emotional harm to stress the importance of controlling one's speech. A physical burn from fire is described as a wound that will eventually heal inside. However, the damage caused by harsh words from the tongue is described as a scar, a permanent mark that will never heal. The precise choice of words highlights that while physical pain is temporary, the pain inflicted by words lasts forever.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

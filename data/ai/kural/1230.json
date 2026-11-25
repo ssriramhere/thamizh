@@ -1,0 +1,128 @@
+{
+ "words": [
+  {
+   "surface": "பொருள்மாலை",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "wealth"
+    },
+    {
+     "text": "மாலை",
+     "lemma": "மாலை",
+     "gloss": "nature"
+    }
+   ],
+   "gloss": "wealth-nature"
+  },
+  {
+   "surface": "ஆளரை",
+   "parts": [
+    {
+     "text": "ஆளர்",
+     "lemma": "ஆளர்",
+     "gloss": "possessor"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "ACC"
+    }
+   ],
+   "gloss": "possessor (ACC)"
+  },
+  {
+   "surface": "உள்ளி",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "think"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "ADV"
+    }
+   ],
+   "gloss": "having thought"
+  },
+  {
+   "surface": "மருள்மாலை",
+   "parts": [
+    {
+     "text": "மருள்",
+     "lemma": "மருள்",
+     "gloss": "confusion"
+    },
+    {
+     "text": "மாலை",
+     "lemma": "மாலை",
+     "gloss": "evening"
+    }
+   ],
+   "gloss": "confusing evening"
+  },
+  {
+   "surface": "மாயும்",
+   "parts": [
+    {
+     "text": "மாய்",
+     "lemma": "மாய்",
+     "gloss": "perish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "FUT"
+    }
+   ],
+   "gloss": "will perish"
+  },
+  {
+   "surface": "என்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "my"
+    }
+   ],
+   "gloss": "my"
+  },
+  {
+   "surface": "மாயா",
+   "parts": [
+    {
+     "text": "மாய்",
+     "lemma": "மாய்",
+     "gloss": "perish"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "NEG.RP"
+    }
+   ],
+   "gloss": "unperishing"
+  },
+  {
+   "surface": "உயிர்",
+   "parts": [
+    {
+     "text": "உயிர்",
+     "lemma": "உயிர்",
+     "gloss": "life"
+    }
+   ],
+   "gloss": "life"
+  }
+ ],
+ "literal": "Wealth-nature possessor (ACC) having thought, confusing evening will perish my unperishing life.",
+ "translation": "Thinking of him whose nature is to seek wealth, my stubborn life will finally perish in this bewildering evening.",
+ "modern": "பொருள் தேடும் இயல்பை உடைய என் தலைவரை நினைத்து, இதுவரை இறக்காத என் உயிர் இந்த மயக்கத்தைத் தரும் மாலைப் பொழுதில் இறந்துவிடும்.",
+ "explanation": "The speaker laments the unbearable pain of evening during her lover's absence. She describes him as someone whose nature is tied to wealth, as he left her to seek it. Her life, which has stubbornly refused to end despite her prolonged suffering, will finally be extinguished by the bewildering sorrow brought by the evening.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

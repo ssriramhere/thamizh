@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "வினைக்கு",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "task"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "dative suffix"
+    }
+   ],
+   "gloss": "for the task"
+  },
+  {
+   "surface": "உரிமை",
+   "parts": [
+    {
+     "text": "உரிமை",
+     "lemma": "உரிமை",
+     "gloss": "fitness"
+    }
+   ],
+   "gloss": "fitness"
+  },
+  {
+   "surface": "நாடிய",
+   "parts": [
+    {
+     "text": "நாடிய",
+     "lemma": "நாடு",
+     "gloss": "having examined"
+    }
+   ],
+   "gloss": "having examined"
+  },
+  {
+   "surface": "பின்றை",
+   "parts": [
+    {
+     "text": "பின்றை",
+     "lemma": "பின்றை",
+     "gloss": "after"
+    }
+   ],
+   "gloss": "after"
+  },
+  {
+   "surface": "அவனை",
+   "parts": [
+    {
+     "text": "அவன்",
+     "lemma": "அவன்",
+     "gloss": "he"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "him"
+  },
+  {
+   "surface": "அதற்கு",
+   "parts": [
+    {
+     "text": "அதற்கு",
+     "lemma": "அது",
+     "gloss": "for that"
+    }
+   ],
+   "gloss": "for that"
+  },
+  {
+   "surface": "உரியனாக",
+   "parts": [
+    {
+     "text": "உரியன்",
+     "lemma": "உரியன்",
+     "gloss": "fit person"
+    },
+    {
+     "text": "ஆக",
+     "lemma": "ஆகு",
+     "gloss": "to become"
+    }
+   ],
+   "gloss": "as the fit person"
+  },
+  {
+   "surface": "செயல்",
+   "parts": [
+    {
+     "text": "செயல்",
+     "lemma": "செய்",
+     "gloss": "should make"
+    }
+   ],
+   "gloss": "should make"
+  }
+ ],
+ "literal": "For a task, fitness having examined after, him for that as a fit person make.",
+ "translation": "After examining a person's fitness for a task, make him fully responsible for it.",
+ "modern": "ஒரு செயலைச் செய்வதற்கு ஒருவனுக்கு உள்ள தகுதியை ஆராய்ந்த பிறகு, அவனை அந்தச் செயலுக்கு முழுப் பொறுப்புடையவனாக ஆக்க வேண்டும்.",
+ "explanation": "This couplet explains the proper way to delegate responsibility. First, a leader must carefully examine a person's skills and fitness ('உரிமை') for a specific task ('வினை'). Only after this thorough assessment ('நாடிய பின்றை') should the person be appointed. Once chosen, the leader must give him full authority and make him completely responsible ('உரியனாகச் செயல்') for that task, allowing him to execute it effectively.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

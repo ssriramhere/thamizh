@@ -1,0 +1,134 @@
+{
+ "words": [
+  {
+   "surface": "கற்றிலன்",
+   "parts": [
+    {
+     "text": "கற்று",
+     "lemma": "கல்",
+     "gloss": "having learned"
+    },
+    {
+     "text": "இலன்",
+     "lemma": "இல்",
+     "gloss": "he is without"
+    }
+   ],
+   "gloss": "he has not learned"
+  },
+  {
+   "surface": "ஆயினும்",
+   "parts": [
+    {
+     "text": "ஆயின்",
+     "lemma": "ஆ",
+     "gloss": "if it is"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if"
+  },
+  {
+   "surface": "கேட்க",
+   "parts": [
+    {
+     "text": "கேள்",
+     "lemma": "கேள்",
+     "gloss": "listen"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "let (optative)"
+    }
+   ],
+   "gloss": "let him listen"
+  },
+  {
+   "surface": "அஃது",
+   "parts": [
+    {
+     "text": "அஃது",
+     "lemma": "அஃது",
+     "gloss": "that"
+    }
+   ],
+   "gloss": "that"
+  },
+  {
+   "surface": "ஒருவற்கு",
+   "parts": [
+    {
+     "text": "ஒருவன்",
+     "lemma": "ஒருவன்",
+     "gloss": "one person"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to one"
+  },
+  {
+   "surface": "ஒற்கத்தின்",
+   "parts": [
+    {
+     "text": "ஒற்கத்து",
+     "lemma": "ஒற்கம்",
+     "gloss": "weakness (oblique)"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in weakness"
+  },
+  {
+   "surface": "ஊற்று",
+   "parts": [
+    {
+     "text": "ஊற்று",
+     "lemma": "ஊற்று",
+     "gloss": "prop"
+    }
+   ],
+   "gloss": "prop"
+  },
+  {
+   "surface": "ஆம்",
+   "parts": [
+    {
+     "text": "ஆம்",
+     "lemma": "ஆ",
+     "gloss": "becoming"
+    }
+   ],
+   "gloss": "becoming"
+  },
+  {
+   "surface": "துணை",
+   "parts": [
+    {
+     "text": "துணை",
+     "lemma": "துணை",
+     "gloss": "help"
+    }
+   ],
+   "gloss": "help"
+  }
+ ],
+ "literal": "He has not learned, even if, let him listen; that, to one, in weakness, a prop becoming help.",
+ "translation": "Even if one lacks learning, let him listen to the wise. In times of weakness, that will be a supporting prop.",
+ "modern": "ஒருவன் நூல்களைக் கற்கவில்லை என்றாலும், கற்றவரிடம் கேட்டு அறிய வேண்டும். அது அவனுக்குத் தளர்ச்சி வரும் காலத்தில் ஊன்றுகோல் போலத் துணையாக இருக்கும்.",
+ "explanation": "This couplet emphasizes the value of listening to the wise, even if one lacks formal education. The word 'ஒற்கம்' refers to a state of weakness, adversity, or faltering. In such difficult times, the knowledge gained through listening acts as an 'ஊற்று' (a prop or walking stick), providing steady support. Thus, auditory learning serves as a reliable guide when one's own understanding might stumble.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

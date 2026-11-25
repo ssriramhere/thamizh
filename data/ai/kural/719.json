@@ -1,0 +1,132 @@
+{
+ "words": [
+  {
+   "surface": "புல்லவையுள்",
+   "parts": [
+    {
+     "text": "புல்",
+     "lemma": "புல்",
+     "gloss": "mean"
+    },
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "assembly"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in a mean assembly"
+  },
+  {
+   "surface": "பொச்சாந்தும்",
+   "parts": [
+    {
+     "text": "பொச்சாந்து",
+     "lemma": "பொச்சா",
+     "gloss": "having forgotten"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even forgetfully"
+  },
+  {
+   "surface": "சொல்லற்க",
+   "parts": [
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "negative"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative"
+    }
+   ],
+   "gloss": "let them not speak"
+  },
+  {
+   "surface": "நல்லவையுள்",
+   "parts": [
+    {
+     "text": "நல்",
+     "lemma": "நல்",
+     "gloss": "good"
+    },
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "assembly"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in a good assembly"
+  },
+  {
+   "surface": "நன்கு",
+   "parts": [
+    {
+     "text": "நன்கு",
+     "lemma": "நன்கு",
+     "gloss": "well"
+    }
+   ],
+   "gloss": "well"
+  },
+  {
+   "surface": "சல",
+   "parts": [
+    {
+     "text": "சல",
+     "lemma": "செல்",
+     "gloss": "to reach"
+    }
+   ],
+   "gloss": "to reach (be accepted)"
+  },
+  {
+   "surface": "சொல்லுவார்",
+   "parts": [
+    {
+     "text": "சொல்லு",
+     "lemma": "சொல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "those who speak"
+  }
+ ],
+ "literal": "In a mean assembly, even forgetfully, let them not speak, in a good assembly well to reach those who speak.",
+ "translation": "Those who can speak well and convincingly in an assembly of the good should never, even forgetfully, speak in an assembly of the ignorant.",
+ "modern": "நல்லோர் அவையில் கருத்துக்கள் நன்றாகப் பதியும்படி பேசும் திறமையுடையவர்கள், அறிவில்லாதவர்களின் அவையில் மறந்தும் பேசக்கூடாது.",
+ "explanation": "This couplet advises wise speakers to avoid sharing their knowledge with an unworthy audience. The phrase 'நல்லவையுள் நன்கு சலச் சொல்லுவார்' refers to those who have the skill to speak effectively and be well-received among the learned (note: 'சல' here functions as a variant of 'செல', meaning to go, reach, or be accepted). Such capable people are warned not to speak 'புல்லவையுள்' (in a mean or ignorant assembly) even by mistake ('பொச்சாந்தும்'). Speaking to those who cannot appreciate the message is a waste of wisdom and diminishes the speaker's dignity.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

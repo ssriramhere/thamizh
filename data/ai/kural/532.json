@@ -1,0 +1,118 @@
+{
+ "words": [
+  {
+   "surface": "பொச்சாப்பு",
+   "parts": [
+    {
+     "text": "பொச்சாப்பு",
+     "lemma": "பொச்சாப்பு",
+     "gloss": "negligence"
+    }
+   ],
+   "gloss": "negligence"
+  },
+  {
+   "surface": "கொல்லும்",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "to kill"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "non-past suffix"
+    }
+   ],
+   "gloss": "will kill"
+  },
+  {
+   "surface": "புகழை",
+   "parts": [
+    {
+     "text": "புகழ்",
+     "lemma": "புகழ்",
+     "gloss": "fame"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "fame (accusative)"
+  },
+  {
+   "surface": "அறிவினை",
+   "parts": [
+    {
+     "text": "அறிவு",
+     "lemma": "அறிவு",
+     "gloss": "knowledge"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic increment"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "knowledge (accusative)"
+  },
+  {
+   "surface": "நிச்ச",
+   "parts": [
+    {
+     "text": "நிச்ச",
+     "lemma": "நிச்சம்",
+     "gloss": "constant"
+    }
+   ],
+   "gloss": "constant"
+  },
+  {
+   "surface": "நிரப்பு",
+   "parts": [
+    {
+     "text": "நிரப்பு",
+     "lemma": "நிரப்பு",
+     "gloss": "poverty"
+    }
+   ],
+   "gloss": "poverty"
+  },
+  {
+   "surface": "கொன்று",
+   "parts": [
+    {
+     "text": "கொன்று",
+     "lemma": "கொல்",
+     "gloss": "having killed"
+    }
+   ],
+   "gloss": "having killed"
+  },
+  {
+   "surface": "ஆங்கு",
+   "parts": [
+    {
+     "text": "ஆங்கு",
+     "lemma": "ஆங்கு",
+     "gloss": "like"
+    }
+   ],
+   "gloss": "like"
+  }
+ ],
+ "literal": "Negligence kills fame, knowledge constant poverty having killed like.",
+ "translation": "Negligence destroys a person's fame, just as constant poverty destroys their knowledge.",
+ "modern": "தொடர்ச்சியான வறுமை ஒருவனின் அறிவை அழிப்பது போல, மறதி அவனது புகழை அழித்துவிடும்.",
+ "explanation": "This couplet draws a powerful parallel between the destructive effects of poverty and negligence. Just as relentless poverty ('நிச்ச நிரப்பு') wears down and destroys a person's intellect and knowledge ('அறிவினை'), negligence or forgetfulness ('பொச்சாப்பு') completely ruins their hard-earned fame ('புகழை'). The verb 'கொல்லும்' (kills) is used to emphasize the total and fatal ruin brought about by a lack of vigilance.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,107 @@
+{
+ "words": [
+  {
+   "surface": "நட்டார்க்கு",
+   "parts": [
+    {
+     "text": "நட்டார்",
+     "lemma": "நட்டார்",
+     "gloss": "friends"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to friends"
+  },
+  {
+   "surface": "நல்ல",
+   "parts": [
+    {
+     "text": "நல்ல",
+     "lemma": "நல்ல",
+     "gloss": "good things"
+    }
+   ],
+   "gloss": "good things"
+  },
+  {
+   "surface": "செயலின்",
+   "parts": [
+    {
+     "text": "செயல்",
+     "lemma": "செயல்",
+     "gloss": "doing"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    }
+   ],
+   "gloss": "than doing"
+  },
+  {
+   "surface": "விரைந்ததே",
+   "parts": [
+    {
+     "text": "விரைந்தது",
+     "lemma": "விரைந்தது",
+     "gloss": "urgent thing"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "is indeed more urgent"
+  },
+  {
+   "surface": "ஒட்டாரை",
+   "parts": [
+    {
+     "text": "ஒட்டார்",
+     "lemma": "ஒட்டார்",
+     "gloss": "foes"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "foes"
+  },
+  {
+   "surface": "ஒட்டி",
+   "parts": [
+    {
+     "text": "ஒட்டி",
+     "lemma": "ஒட்டு",
+     "gloss": "having made to adhere"
+    }
+   ],
+   "gloss": "having reconciled"
+  },
+  {
+   "surface": "கொளல்",
+   "parts": [
+    {
+     "text": "கொளல்",
+     "lemma": "கொள்",
+     "gloss": "securing"
+    }
+   ],
+   "gloss": "securing"
+  }
+ ],
+ "literal": "To friends good things than doing, is indeed more urgent foes having reconciled securing.",
+ "translation": "Reconciling with foes and securing their alliance is even more urgent than doing good to friends.",
+ "modern": "நண்பர்களுக்கு நல்ல உதவிகளைச் செய்வதை விட, பகைவர்களைத் தம்முடன் சேரும்படி செய்து கொள்வது மிகவும் அவசரமான செயலாகும்.",
+ "explanation": "This couplet highlights a crucial priority in the strategy of action: neutralizing threats before rewarding allies. The word 'நட்டார்' refers to friends, while 'ஒட்டார்' refers to foes, literally those who do not adhere or align with you. The comparative suffix in 'செயலின்' (than doing) establishes that while helping friends is good, making enemies adhere to you ('ஒட்டிக் கொளல்') is 'விரைந்தது'—a matter requiring immediate haste. In the context of executing a plan, an unresolved enemy poses a direct risk to success, making their reconciliation the most urgent task.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

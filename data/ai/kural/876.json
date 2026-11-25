@@ -1,0 +1,142 @@
+{
+ "words": [
+  {
+   "surface": "தேறினும்",
+   "parts": [
+    {
+     "text": "தேறு",
+     "lemma": "தேறு",
+     "gloss": "to trust"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if trusted"
+  },
+  {
+   "surface": "தேறா",
+   "parts": [
+    {
+     "text": "தேறு",
+     "lemma": "தேறு",
+     "gloss": "to trust"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "not trusting"
+  },
+  {
+   "surface": "விடினும்",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "to leave"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if left"
+  },
+  {
+   "surface": "அழிவின்கண்",
+   "parts": [
+    {
+     "text": "அழிவு",
+     "lemma": "அழிவு",
+     "gloss": "ruin"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic tie"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "locative suffix"
+    }
+   ],
+   "gloss": "at the time of ruin"
+  },
+  {
+   "surface": "தேறான்",
+   "parts": [
+    {
+     "text": "தேறு",
+     "lemma": "தேறு",
+     "gloss": "to trust"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "without trusting"
+  },
+  {
+   "surface": "பகாஅன்",
+   "parts": [
+    {
+     "text": "பகு",
+     "lemma": "பகு",
+     "gloss": "to separate"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "participial suffix"
+    }
+   ],
+   "gloss": "without alienating"
+  },
+  {
+   "surface": "விடல்",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "to leave"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "optative suffix"
+    }
+   ],
+   "gloss": "let one leave"
+  }
+ ],
+ "literal": "Even if trusted, even if left untrusted, at the time of ruin, without trusting, without alienating, let one leave (them).",
+ "translation": "Whether you have trusted someone before or not, in times of crisis, simply leave them be—neither placing trust in them nor openly alienating them.",
+ "modern": "ஒருவரை முன்பு நம்பியிருந்தாலும் அல்லது நம்பாமல் விட்டிருந்தாலும், நமக்கு ஒரு கேடு வரும் காலத்தில் அவரை மேலும் நம்பாமலும், அதே சமயம் பகைவராகப் பிரிக்காமலும் அப்படியே விட்டுவிட வேண்டும்.",
+ "explanation": "This couplet advises on how to handle people of uncertain loyalty during a crisis. The phrase 'தேறினும் தேறா விடினும்' covers all past relationships, meaning whether one had trusted them or not. In times of ruin ('அழிவின்கண்'), the safest course is 'விடல்', which means to simply leave them alone. One must do this 'தேறான்' (without placing new trust in them) and 'பகாஅன்' (without pushing them away to join the enemy).",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

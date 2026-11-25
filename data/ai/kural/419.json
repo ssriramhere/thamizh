@@ -1,0 +1,132 @@
+{
+ "words": [
+  {
+   "surface": "நுணங்கிய",
+   "parts": [
+    {
+     "text": "நுணங்கு",
+     "lemma": "நுணங்கு",
+     "gloss": "to be subtle"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "subtle"
+  },
+  {
+   "surface": "கேள்வியர்",
+   "parts": [
+    {
+     "text": "கேள்வி",
+     "lemma": "கேள்வி",
+     "gloss": "hearing/learning"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "epicene plural suffix"
+    }
+   ],
+   "gloss": "people of hearing"
+  },
+  {
+   "surface": "அல்லார்",
+   "parts": [
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "epicene plural suffix"
+    }
+   ],
+   "gloss": "those who are not"
+  },
+  {
+   "surface": "வணங்கிய",
+   "parts": [
+    {
+     "text": "வணங்கு",
+     "lemma": "வணங்கு",
+     "gloss": "to bow/be humble"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "humble"
+  },
+  {
+   "surface": "வாயினர்",
+   "parts": [
+    {
+     "text": "வாய்",
+     "lemma": "வாய்",
+     "gloss": "mouth/speech"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic tie"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "epicene plural suffix"
+    }
+   ],
+   "gloss": "people of mouth"
+  },
+  {
+   "surface": "ஆதல்",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "to become"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "becoming"
+  },
+  {
+   "surface": "அரிது",
+   "parts": [
+    {
+     "text": "அரிது",
+     "lemma": "அரிது",
+     "gloss": "it is rare"
+    }
+   ],
+   "gloss": "is rare"
+  }
+ ],
+ "literal": "Those who are not people of subtle hearing, becoming people of humble mouth is rare.",
+ "translation": "It is rare for those without subtle learning to speak with humble words.",
+ "modern": "நுட்பமான கேள்வியறிவு இல்லாதவர்கள் பணிவான சொற்களைப் பேசுபவர்களாக ஆவது கடினம்.",
+ "explanation": "This couplet connects the depth of one's listening to the humility of one's speech. The word 'நுணங்கிய' (subtle or refined) describes the quality of learning acquired through careful hearing. Those who lack this refined understanding rarely possess a 'வணங்கிய வாய்' (a bowed or humble mouth). True learning naturally brings modesty to a person's words, while the absence of deep listening results in arrogant or unrefined speech.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,150 @@
+{
+ "words": [
+  {
+   "surface": "சமன்",
+   "parts": [
+    {
+     "text": "சமன்",
+     "lemma": "சமன்",
+     "gloss": "equal"
+    }
+   ],
+   "gloss": "equal"
+  },
+  {
+   "surface": "செய்து",
+   "parts": [
+    {
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to make"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having made"
+  },
+  {
+   "surface": "சீர்தூக்கும்",
+   "parts": [
+    {
+     "text": "சீர்தூக்கு",
+     "lemma": "சீர்தூக்கு",
+     "gloss": "to weigh"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "which"
+    }
+   ],
+   "gloss": "which weighs"
+  },
+  {
+   "surface": "கோல்",
+   "parts": [
+    {
+     "text": "கோல்",
+     "lemma": "கோல்",
+     "gloss": "balance scale"
+    }
+   ],
+   "gloss": "balance scale"
+  },
+  {
+   "surface": "போல்",
+   "parts": [
+    {
+     "text": "போல்",
+     "lemma": "போல்",
+     "gloss": "like"
+    }
+   ],
+   "gloss": "like"
+  },
+  {
+   "surface": "அமைந்து",
+   "parts": [
+    {
+     "text": "அமை",
+     "lemma": "அமை",
+     "gloss": "to be set"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "ந்து",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having been set"
+  },
+  {
+   "surface": "ஒருபால்",
+   "parts": [
+    {
+     "text": "ஒரு",
+     "lemma": "ஒரு",
+     "gloss": "one"
+    },
+    {
+     "text": "பால்",
+     "lemma": "பால்",
+     "gloss": "side"
+    }
+   ],
+   "gloss": "to one side"
+  },
+  {
+   "surface": "கோடாமை",
+   "parts": [
+    {
+     "text": "கோடு",
+     "lemma": "கோடு",
+     "gloss": "to bend/lean"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
+    }
+   ],
+   "gloss": "not leaning"
+  },
+  {
+   "surface": "சான்றோர்க்கு",
+   "parts": [
+    {
+     "text": "சான்றோர்",
+     "lemma": "சான்றோர்",
+     "gloss": "noble ones"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to the noble ones"
+  },
+  {
+   "surface": "அணி",
+   "parts": [
+    {
+     "text": "அணி",
+     "lemma": "அணி",
+     "gloss": "ornament"
+    }
+   ],
+   "gloss": "ornament"
+  }
+ ],
+ "literal": "Equal having made, which weighs scale like, having been set, to one side not leaning, to the noble ones ornament.",
+ "translation": "To rest level and not lean to one side, like a well-calibrated balance scale, is the true ornament of the noble.",
+ "modern": "முதலில் தன்னைச் சமமாக நிறுத்திக்கொண்டு, பின்பு பொருளின் எடையைச் சரியாகக் காட்டும் தராசுகோல் போல, நடுவுநிலைமையோடு அமைந்து ஒரு பக்கமாகச் சாயாமல் இருப்பதே சான்றோர்க்கு அழகாகும்.",
+ "explanation": "The couplet compares an impartial person to a balance scale. A good scale first rests perfectly level ('சமன் செய்து') and then accurately weighs what is placed on it ('சீர்தூக்கும் கோல்') without leaning unfairly to one side ('ஒருபால் கோடாமை'). In the same way, a noble person must first be grounded in equity and then judge situations without bias. This unwavering impartiality is described as the true ornament ('அணி') that adorns the wise and noble ('சான்றோர்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

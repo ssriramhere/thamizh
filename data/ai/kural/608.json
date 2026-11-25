@@ -1,0 +1,118 @@
+{
+ "words": [
+  {
+   "surface": "மடிமை",
+   "parts": [
+    {
+     "text": "மடிமை",
+     "lemma": "மடிமை",
+     "gloss": "laziness"
+    }
+   ],
+   "gloss": "laziness"
+  },
+  {
+   "surface": "குடிமைக்கண்",
+   "parts": [
+    {
+     "text": "குடிமை",
+     "lemma": "குடிமை",
+     "gloss": "noble birth"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in noble birth"
+  },
+  {
+   "surface": "தங்கின்",
+   "parts": [
+    {
+     "text": "தங்கு",
+     "lemma": "தங்கு",
+     "gloss": "to stay"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if it stays"
+  },
+  {
+   "surface": "தன்",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "one's own"
+    }
+   ],
+   "gloss": "one's own"
+  },
+  {
+   "surface": "ஒன்னார்க்கு",
+   "parts": [
+    {
+     "text": "ஒன்னார்",
+     "lemma": "ஒன்னார்",
+     "gloss": "foes"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to foes"
+  },
+  {
+   "surface": "அடிமை",
+   "parts": [
+    {
+     "text": "அடிமை",
+     "lemma": "அடிமை",
+     "gloss": "slavery"
+    }
+   ],
+   "gloss": "slavery"
+  },
+  {
+   "surface": "புகுத்தி",
+   "parts": [
+    {
+     "text": "புகுத்து",
+     "lemma": "புகுத்து",
+     "gloss": "to cause to enter"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having forced into"
+  },
+  {
+   "surface": "விடும்",
+   "parts": [
+    {
+     "text": "விடும்",
+     "lemma": "விடு",
+     "gloss": "will leave (auxiliary)"
+    }
+   ],
+   "gloss": "it will certainly"
+  }
+ ],
+ "literal": "Laziness in noble birth if it stays, to one's own foes slavery having caused to enter it will leave.",
+ "translation": "If laziness takes root in a person of noble birth, it will force them into slavery under their own enemies.",
+ "modern": "ஒரு நல்ல குடியில் பிறந்தவனிடம் சோம்பல் தங்கிவிட்டால், அது அவனை அவனுடைய பகைவர்களுக்கு அடிமையாக்கி விடும்.",
+ "explanation": "This couplet warns of the severe consequences of laziness for someone born into a good family. The word 'குடிமை' refers to noble birth or family honor, which requires active effort to maintain. If sluggishness ('மடிமை') is allowed to stay ('தங்கின்'), it strips away this independence and strength. Ultimately, it reduces the person to a state of servitude ('அடிமை') to their very enemies, contrasting the dignity of a noble lineage with the humiliation of slavery.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

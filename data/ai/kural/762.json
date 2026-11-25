@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "உலைவிடத்து",
+   "parts": [
+    {
+     "text": "உலைவு",
+     "lemma": "உலைவு",
+     "gloss": "ruin"
+    },
+    {
+     "text": "இடத்து",
+     "lemma": "இடம்",
+     "gloss": "in the place/time"
+    }
+   ],
+   "gloss": "in the time of ruin"
+  },
+  {
+   "surface": "ஊறு",
+   "parts": [
+    {
+     "text": "ஊறு",
+     "lemma": "ஊறு",
+     "gloss": "injury"
+    }
+   ],
+   "gloss": "injury"
+  },
+  {
+   "surface": "அஞ்சா",
+   "parts": [
+    {
+     "text": "அஞ்சா",
+     "lemma": "அஞ்சுதல்",
+     "gloss": "fearing-not"
+    }
+   ],
+   "gloss": "not fearing"
+  },
+  {
+   "surface": "வன்கண்",
+   "parts": [
+    {
+     "text": "வன்கண்",
+     "lemma": "வன்கண்",
+     "gloss": "courage"
+    }
+   ],
+   "gloss": "courage"
+  },
+  {
+   "surface": "தொலைவிடத்து",
+   "parts": [
+    {
+     "text": "தொலைவு",
+     "lemma": "தொலைவு",
+     "gloss": "defeat"
+    },
+    {
+     "text": "இடத்து",
+     "lemma": "இடம்",
+     "gloss": "in the place/time"
+    }
+   ],
+   "gloss": "in the time of defeat"
+  },
+  {
+   "surface": "தொல்படைக்கு",
+   "parts": [
+    {
+     "text": "தொல்",
+     "lemma": "தொன்மை",
+     "gloss": "ancient"
+    },
+    {
+     "text": "படைக்கு",
+     "lemma": "படை",
+     "gloss": "to the army"
+    }
+   ],
+   "gloss": "to the ancient army"
+  },
+  {
+   "surface": "அல்லால்",
+   "parts": [
+    {
+     "text": "அல்லால்",
+     "lemma": "அல்",
+     "gloss": "except"
+    }
+   ],
+   "gloss": "except"
+  },
+  {
+   "surface": "அரிது",
+   "parts": [
+    {
+     "text": "அரிது",
+     "lemma": "அருமை",
+     "gloss": "rare"
+    }
+   ],
+   "gloss": "rare"
+  }
+ ],
+ "literal": "In the time of ruin, injury not-fearing courage, in the time of defeat, to the ancient army except, is rare.",
+ "translation": "The courage that does not fear injury even in the face of ruin is rare to find except in a veteran army.",
+ "modern": "அழிவு வந்த காலத்திலும் காயங்களுக்கு அஞ்சாத வீரம், போரில் தோற்கும் நிலை வந்தாலும், தொன்றுதொட்டு வரும் பழைய படைக்கு அல்லாமல் மற்றவர்களுக்கு இருப்பது அரிது.",
+ "explanation": "This couplet praises the resilience of a veteran army. The word 'உலைவிடத்து' refers to a situation of ruin or collapse, while 'தொலைவிடத்து' means a state of defeat. Even in such dire circumstances, the 'வன்கண்' (courage) that does not fear 'ஊறு' (injury or wounds) is a unique trait. The poet asserts that such steadfast bravery is rare ('அரிது') in any force other than an ancient, well-established army ('தொல்படை').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

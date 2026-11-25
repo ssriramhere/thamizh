@@ -1,0 +1,128 @@
+{
+ "words": [
+  {
+   "surface": "நன்மையும்",
+   "parts": [
+    {
+     "text": "நன்மை",
+     "lemma": "நன்மை",
+     "gloss": "goodness"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "goodness and"
+  },
+  {
+   "surface": "தீமையும்",
+   "parts": [
+    {
+     "text": "தீமை",
+     "lemma": "தீமை",
+     "gloss": "badness"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "badness and"
+  },
+  {
+   "surface": "நாடி",
+   "parts": [
+    {
+     "text": "நாடு",
+     "lemma": "நாடு",
+     "gloss": "examine"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having examined"
+  },
+  {
+   "surface": "நலம்",
+   "parts": [
+    {
+     "text": "நலம்",
+     "lemma": "நலம்",
+     "gloss": "benefit"
+    }
+   ],
+   "gloss": "benefit"
+  },
+  {
+   "surface": "புரிந்த",
+   "parts": [
+    {
+     "text": "புரிந்த",
+     "lemma": "புரி",
+     "gloss": "who pursues"
+    }
+   ],
+   "gloss": "who pursues"
+  },
+  {
+   "surface": "தன்மையான்",
+   "parts": [
+    {
+     "text": "தன்மை",
+     "lemma": "தன்மை",
+     "gloss": "nature"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he of"
+    }
+   ],
+   "gloss": "he of the nature"
+  },
+  {
+   "surface": "ஆள",
+   "parts": [
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "employ"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to employ"
+  },
+  {
+   "surface": "படும்",
+   "parts": [
+    {
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "be fit"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
+    }
+   ],
+   "gloss": "is fit"
+  }
+ ],
+ "literal": "goodness and badness having examined, benefit who pursues - he of the nature to employ is fit.",
+ "translation": "He who weighs the good and the bad, and has the nature of pursuing what is beneficial, is fit to be employed.",
+ "modern": "ஒரு செயலின் நன்மையையும் தீமையையும் ஆராய்ந்து பார்த்து, நன்மையானவற்றையே செய்யும் இயல்புடையவனைப் பணியில் அமர்த்த வேண்டும்.",
+ "explanation": "This couplet defines the core qualification for choosing someone for a task. The phrase 'நாடி' (having examined) shows that the person must carefully weigh both the positive and negative outcomes of an action. The word 'புரிந்த' here takes the sense of 'doing' or 'pursuing', indicating that after analysis, the person actively chooses the beneficial path ('நலம்'). Only a person with such a discerning and constructive nature ('தன்மையான்') is fit to be employed ('ஆளப்படும்') and entrusted with responsibilities.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

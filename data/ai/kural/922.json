@@ -1,0 +1,122 @@
+{
+ "words": [
+  {
+   "surface": "உண்ணற்க",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "to drink"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not (negative optative)"
+    }
+   ],
+   "gloss": "do not drink"
+  },
+  {
+   "surface": "கள்ளை",
+   "parts": [
+    {
+     "text": "கள்",
+     "lemma": "கள்",
+     "gloss": "liquor"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "liquor (acc.)"
+  },
+  {
+   "surface": "உணில்",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "to drink"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if drinking"
+  },
+  {
+   "surface": "உண்க",
+   "parts": [
+    {
+     "text": "உண்",
+     "lemma": "உண்",
+     "gloss": "to drink"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "let (optative)"
+    }
+   ],
+   "gloss": "let drink"
+  },
+  {
+   "surface": "சான்றோரான்",
+   "parts": [
+    {
+     "text": "சான்றோர்",
+     "lemma": "சான்றோர்",
+     "gloss": "noble ones"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "by (instrumental)"
+    }
+   ],
+   "gloss": "by the noble"
+  },
+  {
+   "surface": "எண்ணப்பட",
+   "parts": [
+    {
+     "text": "எண்ண",
+     "lemma": "எண்ணு",
+     "gloss": "to esteem"
+    },
+    {
+     "text": "பட",
+     "lemma": "படு",
+     "gloss": "to be (passive)"
+    }
+   ],
+   "gloss": "to be esteemed"
+  },
+  {
+   "surface": "வேண்டாதார்",
+   "parts": [
+    {
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "to desire"
+    },
+    {
+     "text": "ஆதார்",
+     "lemma": "ஆதார்",
+     "gloss": "those who do not"
+    }
+   ],
+   "gloss": "those who do not desire"
+  }
+ ],
+ "literal": "Do not drink liquor; if drinking, let drink by the noble to be esteemed those who do not desire.",
+ "translation": "Do not drink liquor. If it must be drunk, let it be drunk only by those who do not care to be esteemed by the noble.",
+ "modern": "கள்ளை குடிக்கக் கூடாது; குடிப்பதாக இருந்தால், சான்றோர்களால் மதிக்கப்படுவதை விரும்பாதவர்கள் மட்டும் குடிக்கட்டும்.",
+ "explanation": "The couplet issues a strict command against consuming intoxicating liquor. It then uses a rhetorical concession, stating that if someone insists on drinking, it should only be those who do not care about their reputation. The phrase 'சான்றோரான் எண்ணப்பட வேண்டாதார்' refers to people who have no desire to be respected among the wise and noble. By framing it this way, the poet emphasizes that drinking liquor completely destroys one's standing among virtuous people.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

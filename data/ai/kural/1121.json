@@ -1,0 +1,124 @@
+{
+ "words": [
+  {
+   "surface": "பாலொடு",
+   "parts": [
+    {
+     "text": "பால்",
+     "lemma": "பால்",
+     "gloss": "milk"
+    },
+    {
+     "text": "ஒடு",
+     "lemma": "ஒடு",
+     "gloss": "with"
+    }
+   ],
+   "gloss": "with milk"
+  },
+  {
+   "surface": "தேன்",
+   "parts": [
+    {
+     "text": "தேன்",
+     "lemma": "தேன்",
+     "gloss": "honey"
+    }
+   ],
+   "gloss": "honey"
+  },
+  {
+   "surface": "கலந்து",
+   "parts": [
+    {
+     "text": "கலந்து",
+     "lemma": "கல",
+     "gloss": "having mixed"
+    }
+   ],
+   "gloss": "having mixed"
+  },
+  {
+   "surface": "அற்றே",
+   "parts": [
+    {
+     "text": "அற்று",
+     "lemma": "அற்று",
+     "gloss": "like that"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "it is like that indeed"
+  },
+  {
+   "surface": "பணிமொழி",
+   "parts": [
+    {
+     "text": "பணி",
+     "lemma": "பணி",
+     "gloss": "gentle"
+    },
+    {
+     "text": "மொழி",
+     "lemma": "மொழி",
+     "gloss": "word"
+    }
+   ],
+   "gloss": "she of gentle words"
+  },
+  {
+   "surface": "வால்",
+   "parts": [
+    {
+     "text": "வால்",
+     "lemma": "வால்",
+     "gloss": "white"
+    }
+   ],
+   "gloss": "white"
+  },
+  {
+   "surface": "எயிறு",
+   "parts": [
+    {
+     "text": "எயிறு",
+     "lemma": "எயிறு",
+     "gloss": "tooth"
+    }
+   ],
+   "gloss": "teeth"
+  },
+  {
+   "surface": "ஊறிய",
+   "parts": [
+    {
+     "text": "ஊறிய",
+     "lemma": "ஊறு",
+     "gloss": "that seeped"
+    }
+   ],
+   "gloss": "that seeped"
+  },
+  {
+   "surface": "நீர்",
+   "parts": [
+    {
+     "text": "நீர்",
+     "lemma": "நீர்",
+     "gloss": "liquid"
+    }
+   ],
+   "gloss": "liquid"
+  }
+ ],
+ "literal": "With milk, honey having mixed, it is like that indeed: of the gentle-worded one, from the white teeth seeped liquid.",
+ "translation": "The liquid seeping from the white teeth of this gentle-worded woman is as sweet as honey mixed with milk.",
+ "modern": "மென்மையான சொற்களைப் பேசும் இவளுடைய வெண்மையான பற்களில் ஊறிய நீர், பாலோடு தேன் கலந்தாற் போன்ற இனிமை உடையது.",
+ "explanation": "The couplet describes the sweetness of the lover's kiss through the voice of the hero. He compares the liquid (நீர்) that springs (ஊறிய) from the pure white teeth (வால் எயிறு) of his lover to a delicious mixture of milk and honey (பாலொடு தேன் கலந்து அற்றே). The compound 'பணிமொழி' (gentle words) functions as a metonymy for the woman herself, highlighting her soft and endearing speech. The comparison to milk and honey emphasizes both the purity and the intense, natural sweetness of her affection.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

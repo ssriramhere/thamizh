@@ -1,0 +1,156 @@
+{
+ "words": [
+  {
+   "surface": "நிறை",
+   "parts": [
+    {
+     "text": "நிறை",
+     "lemma": "நிறை",
+     "gloss": "self-control"
+    }
+   ],
+   "gloss": "self-control"
+  },
+  {
+   "surface": "உடையேன்",
+   "parts": [
+    {
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "[glide]"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "possess-I"
+  },
+  {
+   "surface": "என்பேன்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "[future]"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "say-will-I"
+  },
+  {
+   "surface": "மன்",
+   "parts": [
+    {
+     "text": "மன்",
+     "lemma": "மன்",
+     "gloss": "alas"
+    }
+   ],
+   "gloss": "alas"
+  },
+  {
+   "surface": "யானோ",
+   "parts": [
+    {
+     "text": "யான்",
+     "lemma": "யான்",
+     "gloss": "I"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "[emphasis]"
+    }
+   ],
+   "gloss": "I-[emphasis]"
+  },
+  {
+   "surface": "என்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "my"
+    }
+   ],
+   "gloss": "my"
+  },
+  {
+   "surface": "காமம்",
+   "parts": [
+    {
+     "text": "காமம்",
+     "lemma": "காமம்",
+     "gloss": "passion"
+    }
+   ],
+   "gloss": "passion"
+  },
+  {
+   "surface": "மறை",
+   "parts": [
+    {
+     "text": "மறை",
+     "lemma": "மறை",
+     "gloss": "secrecy"
+    }
+   ],
+   "gloss": "secrecy"
+  },
+  {
+   "surface": "இறந்து",
+   "parts": [
+    {
+     "text": "இறந்து",
+     "lemma": "இற",
+     "gloss": "having crossed"
+    }
+   ],
+   "gloss": "having crossed"
+  },
+  {
+   "surface": "மன்று",
+   "parts": [
+    {
+     "text": "மன்று",
+     "lemma": "மன்று",
+     "gloss": "public assembly"
+    }
+   ],
+   "gloss": "public assembly"
+  },
+  {
+   "surface": "படும்",
+   "parts": [
+    {
+     "text": "படும்",
+     "lemma": "படு",
+     "gloss": "will appear"
+    }
+   ],
+   "gloss": "will appear"
+  }
+ ],
+ "literal": "Self-control possess-I say-will-I alas I-[emphasis] my passion secrecy having-crossed public-assembly will-appear",
+ "translation": "I used to say, 'I possess self-control.' But alas, my passion breaks out of its secrecy and appears in public.",
+ "modern": "நான் நிறையுடையவள் என்று சொல்வேன். ஆனால் என் காமமோ, தனக்குரிய மறைவிடத்தை விட்டு வெளியேறி, ஊரார் அறியும்படி மன்றத்தில் வெளிப்பட்டு நிற்கிறது.",
+ "explanation": "The speaker laments her inability to hide her love. She used to confidently claim that she had the inner strength and reserve (niṟai) to keep her feelings hidden. However, her passion (kāmam) has grown so strong that it breaks past all secrecy (maṟai) and exposes itself in the public square (maṉṟu). The contrast between her past confidence and her present exposure highlights the overwhelming power of love.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

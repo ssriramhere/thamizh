@@ -1,0 +1,102 @@
+{
+ "words": [
+  {
+   "surface": "முறைப்பட",
+   "parts": [
+    {
+     "text": "முறை",
+     "lemma": "முறை",
+     "gloss": "order"
+    },
+    {
+     "text": "பட",
+     "lemma": "படு",
+     "gloss": "to happen"
+    }
+   ],
+   "gloss": "methodically"
+  },
+  {
+   "surface": "சூழ்ந்தும்",
+   "parts": [
+    {
+     "text": "சூழ்ந்து",
+     "lemma": "சூழ்",
+     "gloss": "having deliberated"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even having deliberated"
+  },
+  {
+   "surface": "முடிவு",
+   "parts": [
+    {
+     "text": "முடிவு",
+     "lemma": "முடிவு",
+     "gloss": "completion"
+    }
+   ],
+   "gloss": "completion"
+  },
+  {
+   "surface": "இலவே",
+   "parts": [
+    {
+     "text": "இல",
+     "lemma": "இல்",
+     "gloss": "things without"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
+    }
+   ],
+   "gloss": "things without indeed"
+  },
+  {
+   "surface": "செய்வர்",
+   "parts": [
+    {
+     "text": "செய்வர்",
+     "lemma": "செய்",
+     "gloss": "they will do"
+    }
+   ],
+   "gloss": "they will do"
+  },
+  {
+   "surface": "திறப்பாடு",
+   "parts": [
+    {
+     "text": "திறப்பாடு",
+     "lemma": "திறப்பாடு",
+     "gloss": "competence"
+    }
+   ],
+   "gloss": "competence"
+  },
+  {
+   "surface": "இலாஅதவர்",
+   "parts": [
+    {
+     "text": "இலாஅதவர்",
+     "lemma": "இல்லாதவர்",
+     "gloss": "those who lack"
+    }
+   ],
+   "gloss": "those who lack"
+  }
+ ],
+ "literal": "Methodically even having deliberated, completion things-without-indeed they will do, competence those who lack.",
+ "translation": "Even after deliberating methodically, those who lack the competence to execute will only perform actions that remain incomplete.",
+ "modern": "செயல்படுத்தும் திறமை இல்லாதவர்கள், ஒரு செயலை முறையாகச் சிந்தித்துத் தொடங்கினாலும், அதனை முடிக்க முடியாமல் அரைகுறையாகவே செய்வார்கள்.",
+ "explanation": "This couplet highlights the crucial difference between planning and execution. The root 'சூழ்' generally means to surround, but in the context of ministry and counsel, it takes the sense of deliberating or considering an issue from all sides. The word 'முறைப்பட' emphasizes that this deliberation was done methodically. However, 'திறப்பாடு' refers to the practical ability or competence to carry out a task. The couplet states that without this practical competence, even the best-laid plans will result in actions that have no 'முடிவு' (completion), meaning they will be left unfinished.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

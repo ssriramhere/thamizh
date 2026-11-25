@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "அறுவாய்",
+   "parts": [
+    {
+     "text": "அறு",
+     "lemma": "அறு",
+     "gloss": "cut"
+    },
+    {
+     "text": "வாய்",
+     "lemma": "வாய்",
+     "gloss": "place"
+    }
+   ],
+   "gloss": "diminished portion"
+  },
+  {
+   "surface": "நிறைந்த",
+   "parts": [
+    {
+     "text": "நிறைந்த",
+     "lemma": "நிறை",
+     "gloss": "filled"
+    }
+   ],
+   "gloss": "filled"
+  },
+  {
+   "surface": "அவிர்மதிக்கு",
+   "parts": [
+    {
+     "text": "அவிர்",
+     "lemma": "அவிர்",
+     "gloss": "shining"
+    },
+    {
+     "text": "மதி",
+     "lemma": "மதி",
+     "gloss": "moon"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to the shining moon"
+  },
+  {
+   "surface": "போல",
+   "parts": [
+    {
+     "text": "போல",
+     "lemma": "போல்",
+     "gloss": "like"
+    }
+   ],
+   "gloss": "like"
+  },
+  {
+   "surface": "மறு",
+   "parts": [
+    {
+     "text": "மறு",
+     "lemma": "மறு",
+     "gloss": "spot"
+    }
+   ],
+   "gloss": "spot"
+  },
+  {
+   "surface": "உண்டோ",
+   "parts": [
+    {
+     "text": "உண்டோ",
+     "lemma": "உண்டு",
+     "gloss": "is there"
+    }
+   ],
+   "gloss": "is there?"
+  },
+  {
+   "surface": "மாதர்",
+   "parts": [
+    {
+     "text": "மாதர்",
+     "lemma": "மாதர்",
+     "gloss": "woman"
+    }
+   ],
+   "gloss": "woman's"
+  },
+  {
+   "surface": "முகத்து",
+   "parts": [
+    {
+     "text": "முகத்து",
+     "lemma": "முகம்",
+     "gloss": "on the face"
+    }
+   ],
+   "gloss": "on the face"
+  }
+ ],
+ "literal": "Diminished portion filled to the shining moon like, spot is there woman's on the face?",
+ "translation": "The shining moon may wax full to heal its missing slice, but it still has a dark spot. Is there any such blemish on this woman's face?",
+ "modern": "தேய்ந்த பகுதி முழுமையாக வளர்ந்து ஒளிரும் நிலவில் களங்கம் இருப்பது போல, இந்தப் பெண்ணின் முகத்திலும் களங்கம் இருக்கிறதா?",
+ "explanation": "The speaker marvels at the flawless beauty of the woman's face by comparing it to the full moon. He notes that even when the moon waxes to become completely full and bright, it still bears a dark spot. He then asks rhetorically if such a blemish exists on the woman's face, implying that her face is far superior to the moon because it is perfectly spotless.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

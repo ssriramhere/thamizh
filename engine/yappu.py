@@ -467,6 +467,10 @@ def rejoin(parts: list[str]) -> set[str]:
                 continue
             first = B[0]
             if not first.consonant and first.kind in ("k", "n"):
+                if A[-1].kind == "k" and A[-1].vowel == "உ" and A[-1].consonant and len(A) > 1:
+                    # a final u drops before a vowel (உய்வு + உண்டாம் -> உய்வுண்டாம்)
+                    cons = A[-1].consonant
+                    nxt.add("".join(x.text for x in A[:-1]) + _merge(cons, first).text + "".join(x.text for x in B[1:]))
                 if _is_kurriyalukaram(A):
                     cons = A[-1].consonant
                     nxt.add("".join(x.text for x in A[:-1]) + _merge(cons, first).text + "".join(x.text for x in B[1:]))
@@ -485,8 +489,9 @@ def rejoin(parts: list[str]) -> set[str]:
                 nasal = {"க": "ங", "ச": "ஞ", "த": "ந", "ப": "ம", "ட": "ண", "ற": "ன"}.get(first.consonant)
                 if nasal:
                     nxt.add(acc[:-2] + nasal + PULLI + part)
-            if A[-1].kind == "o" and A[-1].consonant in ("ல", "ள") and first.consonant in HARD:
-                swap = {("ல", True): "ற", ("ள", True): "ட"}[(A[-1].consonant, True)]
+            if A[-1].kind == "o" and A[-1].consonant in ("ல", "ள", "ன", "ண") and first.consonant in HARD:
+                # ல் ன் -> ற், ள் ண் -> ட் before a hard consonant (தன் + காத்து -> தற்காத்து)
+                swap = {"ல": "ற", "ன": "ற", "ள": "ட", "ண": "ட"}[A[-1].consonant]
                 nxt.add(acc[:-2] + swap + PULLI + part)
         results = nxt
     return results

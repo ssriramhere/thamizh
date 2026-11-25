@@ -1,0 +1,167 @@
+{
+ "words": [
+  {
+   "surface": "ஒத்தது",
+   "parts": [
+    {
+     "text": "ஒ",
+     "lemma": "ஒ",
+     "gloss": "to be fitting"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival suffix"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "neuter singular suffix"
+    }
+   ],
+   "gloss": "that which is fitting"
+  },
+  {
+   "surface": "அறவோன்",
+   "parts": [
+    {
+     "text": "அற",
+     "lemma": "அறம்",
+     "gloss": "virtue"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஓன்",
+     "lemma": "ஓன்",
+     "gloss": "he who has"
+    }
+   ],
+   "gloss": "virtuous man"
+  },
+  {
+   "surface": "உயிர்வாழ்வான்",
+   "parts": [
+    {
+     "text": "உயிர்",
+     "lemma": "உயிர்",
+     "gloss": "life"
+    },
+    {
+     "text": "வாழ்",
+     "lemma": "வாழ்",
+     "gloss": "to live"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "masculine singular suffix"
+    }
+   ],
+   "gloss": "he truly lives"
+  },
+  {
+   "surface": "மற்றையான்",
+   "parts": [
+    {
+     "text": "மற்றை",
+     "lemma": "மற்றை",
+     "gloss": "other"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "masculine singular suffix"
+    }
+   ],
+   "gloss": "the other man"
+  },
+  {
+   "surface": "செத்தாருள்",
+   "parts": [
+    {
+     "text": "செத்தார்",
+     "lemma": "சா",
+     "gloss": "those who died"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "among"
+    }
+   ],
+   "gloss": "among the dead"
+  },
+  {
+   "surface": "வைக்க",
+   "parts": [
+    {
+     "text": "வை",
+     "lemma": "வை",
+     "gloss": "to place"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
+    }
+   ],
+   "gloss": "to place"
+  },
+  {
+   "surface": "படும்",
+   "parts": [
+    {
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "to experience (passive)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future/habitual suffix"
+    }
+   ],
+   "gloss": "will be"
+  }
+ ],
+ "literal": "That which is fitting, the virtuous man, he lives a life; the other man, among the dead, to be placed he will be.",
+ "translation": "The virtuous man who does what is fitting truly lives. The one who does not will be counted among the dead.",
+ "modern": "உலக நடப்பிற்குப் பொருத்தமான அறத்தைச் செய்பவனே உண்மையில் உயிருடன் வாழ்பவன் ஆவான். அதைச் செய்யாத மற்றவன் இறந்தவர்களுக்குச் சமமாகவே கருதப்படுவான்.",
+ "explanation": "This couplet defines what it means to be truly alive in a society. The word 'ஒத்தது' refers to what is fitting or proper, pointing to one's duty to others. The virtuous man ('அறவோன்') who fulfills this social duty is the only one considered to be truly living ('உயிர்வாழ்வான்'). In contrast, the person who ignores this duty ('மற்றையான்') is completely useless to the world, and thus the poet says he will be counted among the dead ('செத்தாருள் வைக்கப்படும்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,102 @@
+{
+ "words": [
+  {
+   "surface": "இன்றும்",
+   "parts": [
+    {
+     "text": "இன்று",
+     "lemma": "இன்று",
+     "gloss": "today"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even today"
+  },
+  {
+   "surface": "வருவது",
+   "parts": [
+    {
+     "text": "வருவது",
+     "lemma": "வா",
+     "gloss": "coming-it"
+    }
+   ],
+   "gloss": "coming-it"
+  },
+  {
+   "surface": "கொல்லோ",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "particle of doubt"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "indeed?"
+  },
+  {
+   "surface": "நெருநலும்",
+   "parts": [
+    {
+     "text": "நெருநல்",
+     "lemma": "நெருநல்",
+     "gloss": "yesterday"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even yesterday"
+  },
+  {
+   "surface": "கொன்றது",
+   "parts": [
+    {
+     "text": "கொன்றது",
+     "lemma": "கொல்",
+     "gloss": "killed-it"
+    }
+   ],
+   "gloss": "killed-it"
+  },
+  {
+   "surface": "போலும்",
+   "parts": [
+    {
+     "text": "போலும்",
+     "lemma": "போல்",
+     "gloss": "like"
+    }
+   ],
+   "gloss": "like"
+  },
+  {
+   "surface": "நிரப்பு",
+   "parts": [
+    {
+     "text": "நிரப்பு",
+     "lemma": "நிரப்பு",
+     "gloss": "poverty"
+    }
+   ],
+   "gloss": "poverty"
+  }
+ ],
+ "literal": "Even today coming-it indeed? even yesterday killed-it like poverty.",
+ "translation": "Will the poverty that almost killed me yesterday come again today?",
+ "modern": "நேற்றும் என்னைக் கொன்றது போலத் துன்புறுத்திய வறுமை, இன்றும் என்னிடம் வருமோ?",
+ "explanation": "The speaker personifies poverty as a deadly enemy. Having barely survived the agonizing hunger and suffering of yesterday, they dread the thought of facing it again today. The word 'கொன்றது' (killed) vividly captures the extreme pain of destitution, while 'கொல்லோ' expresses the speaker's deep anxiety and despair about the future.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

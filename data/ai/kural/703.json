@@ -1,0 +1,127 @@
+{
+ "words": [
+  {
+   "surface": "குறிப்பின்",
+   "parts": [
+    {
+     "text": "குறிப்பு",
+     "lemma": "குறிப்பு",
+     "gloss": "indication"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by indication"
+  },
+  {
+   "surface": "குறிப்பு",
+   "parts": [
+    {
+     "text": "குறிப்பு",
+     "lemma": "குறிப்பு",
+     "gloss": "intention"
+    }
+   ],
+   "gloss": "intention"
+  },
+  {
+   "surface": "உணர்வாரை",
+   "parts": [
+    {
+     "text": "உணர்",
+     "lemma": "உணர்",
+     "gloss": "to understand"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "epicene plural suffix"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "those who understand (acc.)"
+  },
+  {
+   "surface": "உறுப்பினுள்",
+   "parts": [
+    {
+     "text": "உறுப்பு",
+     "lemma": "உறுப்பு",
+     "gloss": "limb/possession"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "among"
+    }
+   ],
+   "gloss": "among limbs/possessions"
+  },
+  {
+   "surface": "யாது",
+   "parts": [
+    {
+     "text": "யாது",
+     "lemma": "யாது",
+     "gloss": "whatever"
+    }
+   ],
+   "gloss": "whatever"
+  },
+  {
+   "surface": "கொடுத்தும்",
+   "parts": [
+    {
+     "text": "கொடுத்து",
+     "lemma": "கொடு",
+     "gloss": "having given"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even having given"
+  },
+  {
+   "surface": "கொளல்",
+   "parts": [
+    {
+     "text": "கொள்",
+     "lemma": "கொள்",
+     "gloss": "to secure"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "optative suffix"
+    }
+   ],
+   "gloss": "one should secure"
+  }
+ ],
+ "literal": "By indication, intention those who understand, among limbs whatever even having given, one should secure.",
+ "translation": "Secure the service of those who can read another's intention through mere indication, even if it means giving up any of your own limbs or possessions.",
+ "modern": "ஒருவருடைய முகக் குறிப்பைக் கொண்டே அவருடைய உள்ளக் குறிப்பை அறியும் ஆற்றல் உடையவரை, தம்முடைய உறுப்புகளுள் எதைக் கொடுத்தாவது தமக்குத் துணையாகச் சேர்த்துக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet emphasizes the immense value of people who can read minds through subtle non-verbal cues. The phrase 'குறிப்பின் குறிப்பு உணர்வாரை' refers to those who can deduce another's hidden intention simply by observing their outward indications. To secure such a person's service, the text advises giving up 'உறுப்பினுள் யாது' (whatever among one's limbs or possessions). Here, 'உறுப்பு' can mean a physical limb or a vital part of one's wealth, serving as a hyperbole to show that no price is too high for such an advisor.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

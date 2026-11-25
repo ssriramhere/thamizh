@@ -1,0 +1,108 @@
+{
+ "words": [
+  {
+   "surface": "சூழ்ச்சி",
+   "parts": [
+    {
+     "text": "சூழ்ச்சி",
+     "lemma": "சூழ்ச்சி",
+     "gloss": "deliberation"
+    }
+   ],
+   "gloss": "deliberation"
+  },
+  {
+   "surface": "முடிவு",
+   "parts": [
+    {
+     "text": "முடிவு",
+     "lemma": "முடிவு",
+     "gloss": "end"
+    }
+   ],
+   "gloss": "end"
+  },
+  {
+   "surface": "துணிவு",
+   "parts": [
+    {
+     "text": "துணிவு",
+     "lemma": "துணிவு",
+     "gloss": "decision"
+    }
+   ],
+   "gloss": "decision"
+  },
+  {
+   "surface": "எய்தல்",
+   "parts": [
+    {
+     "text": "எய்தல்",
+     "lemma": "எய்து",
+     "gloss": "attaining"
+    }
+   ],
+   "gloss": "attaining"
+  },
+  {
+   "surface": "அத்துணிவு",
+   "parts": [
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "that"
+    },
+    {
+     "text": "துணிவு",
+     "lemma": "துணிவு",
+     "gloss": "decision"
+    }
+   ],
+   "gloss": "that decision"
+  },
+  {
+   "surface": "தாழ்ச்சியுள்",
+   "parts": [
+    {
+     "text": "தாழ்ச்சி",
+     "lemma": "தாழ்ச்சி",
+     "gloss": "delay"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in delay"
+  },
+  {
+   "surface": "தங்குதல்",
+   "parts": [
+    {
+     "text": "தங்குதல்",
+     "lemma": "தங்கு",
+     "gloss": "staying"
+    }
+   ],
+   "gloss": "staying"
+  },
+  {
+   "surface": "தீது",
+   "parts": [
+    {
+     "text": "தீது",
+     "lemma": "தீது",
+     "gloss": "evil"
+    }
+   ],
+   "gloss": "evil"
+  }
+ ],
+ "literal": "Deliberation's end is decision attaining; that decision in delay staying is evil.",
+ "translation": "The proper end of deliberation is reaching a firm decision. It is harmful to let that decision linger in delay.",
+ "modern": "ஒரு செயலைப்பற்றி ஆராய்வதன் முடிவு ஒரு தெளிவான முடிவை அடைவதாகும். அப்படி எடுத்த முடிவைச் செயல்படுத்தாமல் தாமதத்தில் தங்கிவிடும்படி செய்வது தீமையானதாகும்.",
+ "explanation": "This couplet defines the proper lifecycle of planning and execution. The word 'சூழ்ச்சி' refers to careful deliberation or planning, and its natural conclusion ('முடிவு') is 'துணிவு', which means a firm decision or resolve. Once this resolve is attained ('எய்தல்'), the action must follow immediately. If 'அத்துணிவு' (that decision) is allowed to rest ('தங்குதல்') in 'தாழ்ச்சி' (delay or procrastination), it becomes harmful ('தீது'). The verse emphasizes that while thorough planning is necessary, delaying the execution of a finalized plan is detrimental.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

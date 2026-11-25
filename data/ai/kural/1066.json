@@ -1,0 +1,118 @@
+{
+ "words": [
+  {
+   "surface": "ஆவிற்கு",
+   "parts": [
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "cow"
+    },
+    {
+     "text": "இற்கு",
+     "lemma": "இற்கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to the cow"
+  },
+  {
+   "surface": "நீர்",
+   "parts": [
+    {
+     "text": "நீர்",
+     "lemma": "நீர்",
+     "gloss": "water"
+    }
+   ],
+   "gloss": "water"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்று",
+     "lemma": "என்",
+     "gloss": "saying"
+    }
+   ],
+   "gloss": "saying"
+  },
+  {
+   "surface": "இரப்பினும்",
+   "parts": [
+    {
+     "text": "இரப்பின்",
+     "lemma": "இர",
+     "gloss": "if begging"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if begging"
+  },
+  {
+   "surface": "நாவிற்கு",
+   "parts": [
+    {
+     "text": "நா",
+     "lemma": "நா",
+     "gloss": "tongue"
+    },
+    {
+     "text": "இற்கு",
+     "lemma": "இற்கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to the tongue"
+  },
+  {
+   "surface": "இரவின்",
+   "parts": [
+    {
+     "text": "இரவு",
+     "lemma": "இரவு",
+     "gloss": "begging"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    }
+   ],
+   "gloss": "than begging"
+  },
+  {
+   "surface": "இளிவந்தது",
+   "parts": [
+    {
+     "text": "இளிவந்தது",
+     "lemma": "இளிவருதல்",
+     "gloss": "disgraceful thing"
+    }
+   ],
+   "gloss": "disgraceful thing"
+  },
+  {
+   "surface": "இல்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "is not"
+    }
+   ],
+   "gloss": "is not"
+  }
+ ],
+ "literal": "To the cow water saying even if begging, to the tongue than begging a disgraceful thing is not.",
+ "translation": "Even if one begs to provide water for a thirsty cow, there is nothing more disgraceful to the tongue than the act of begging.",
+ "modern": "ஒரு பசுவிற்கு நீர் வேண்டும் என்று பிறரிடம் இரந்து கேட்டாலும், ஒருவருடைய நாவிற்கு இரப்பதை விட இழிவான செயல் வேறு இல்லை.",
+ "explanation": "This couplet emphasizes the absolute disgrace of begging, regardless of how noble the cause might be. The phrase 'ஆவிற்கு நீர்' (water for the cow) represents an extremely virtuous and urgent request, as providing water to a suffering animal is universally seen as a good deed. However, the word 'இரப்பினும்' (even if begging) shows that the act of asking itself taints the speaker. The tongue ('நாவிற்கு') is meant for dignified speech, and uttering words of supplication brings it unparalleled shame ('இளிவந்தது இல்'). Thus, begging is condemned unconditionally.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

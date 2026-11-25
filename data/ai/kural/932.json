@@ -1,0 +1,163 @@
+{
+ "words": [
+  {
+   "surface": "ஒன்று",
+   "parts": [
+    {
+     "text": "ஒன்று",
+     "lemma": "ஒன்று",
+     "gloss": "one"
+    }
+   ],
+   "gloss": "one"
+  },
+  {
+   "surface": "எய்தி",
+   "parts": [
+    {
+     "text": "எய்தி",
+     "lemma": "எய்து",
+     "gloss": "having gained"
+    }
+   ],
+   "gloss": "having gained"
+  },
+  {
+   "surface": "நூறு",
+   "parts": [
+    {
+     "text": "நூறு",
+     "lemma": "நூறு",
+     "gloss": "hundred"
+    }
+   ],
+   "gloss": "hundred"
+  },
+  {
+   "surface": "இழக்கும்",
+   "parts": [
+    {
+     "text": "இழக்கும்",
+     "lemma": "இழ",
+     "gloss": "who lose"
+    }
+   ],
+   "gloss": "who lose"
+  },
+  {
+   "surface": "சூதர்க்கும்",
+   "parts": [
+    {
+     "text": "சூதர்",
+     "lemma": "சூதர்",
+     "gloss": "gamblers"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "for"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even for gamblers"
+  },
+  {
+   "surface": "உண்டு",
+   "parts": [
+    {
+     "text": "உண்டு",
+     "lemma": "உள்",
+     "gloss": "exists"
+    }
+   ],
+   "gloss": "is there"
+  },
+  {
+   "surface": "ஆம்",
+   "parts": [
+    {
+     "text": "ஆம்",
+     "lemma": "ஆ",
+     "gloss": "becomes/is"
+    }
+   ],
+   "gloss": "is"
+  },
+  {
+   "surface": "கொல்",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "indeed (question particle)"
+    }
+   ],
+   "gloss": "indeed?"
+  },
+  {
+   "surface": "நன்று",
+   "parts": [
+    {
+     "text": "நன்று",
+     "lemma": "நன்மை",
+     "gloss": "good"
+    }
+   ],
+   "gloss": "good"
+  },
+  {
+   "surface": "எய்தி",
+   "parts": [
+    {
+     "text": "எய்தி",
+     "lemma": "எய்து",
+     "gloss": "having attained"
+    }
+   ],
+   "gloss": "having attained"
+  },
+  {
+   "surface": "வாழ்வது",
+   "parts": [
+    {
+     "text": "வாழ்வது",
+     "lemma": "வாழ்",
+     "gloss": "living"
+    }
+   ],
+   "gloss": "living"
+  },
+  {
+   "surface": "ஓர்",
+   "parts": [
+    {
+     "text": "ஓர்",
+     "lemma": "ஓர்",
+     "gloss": "a"
+    }
+   ],
+   "gloss": "a"
+  },
+  {
+   "surface": "ஆறு",
+   "parts": [
+    {
+     "text": "ஆறு",
+     "lemma": "ஆறு",
+     "gloss": "way"
+    }
+   ],
+   "gloss": "way"
+  }
+ ],
+ "literal": "Having gained one, who lose a hundred, even for gamblers is there indeed, good having attained, living a way?",
+ "translation": "Is there any way to attain goodness and live well for gamblers who win one and lose a hundred?",
+ "modern": "ஒன்றை வென்று நூறை இழக்கின்ற சூதாடிகளுக்கு, நன்மையை அடைந்து வாழக்கூடிய ஒரு வழி இருக்கிறதா? (இல்லை).",
+ "explanation": "The couplet asks a rhetorical question about the ultimate fate of gamblers. It describes the core nature of gambling as 'gaining one and losing a hundred' (ஒன்று எய்தி நூறு இழக்கும்), emphasizing the inevitable and disproportionate losses that overshadow any minor, occasional wins. The phrase 'உண்டாங்கொல்' (is there indeed?) strongly implies a negative answer. Consequently, the text asserts that attaining goodness and living a stable, prosperous life (நன்று எய்தி வாழ்வது ஓர் ஆறு) is entirely impossible for those addicted to gambling.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

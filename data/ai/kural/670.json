@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "எனைத்திட்பம்",
+   "parts": [
+    {
+     "text": "எனை",
+     "lemma": "எனை",
+     "gloss": "whatever measure"
+    },
+    {
+     "text": "திட்பம்",
+     "lemma": "திட்பம்",
+     "gloss": "firmness"
+    }
+   ],
+   "gloss": "whatever firmness"
+  },
+  {
+   "surface": "எய்",
+   "parts": [
+    {
+     "text": "எய்",
+     "lemma": "எய்து",
+     "gloss": "to attain (fragment)"
+    }
+   ],
+   "gloss": "attain (fragment)"
+  },
+  {
+   "surface": "தியக்",
+   "parts": [
+    {
+     "text": "திய",
+     "lemma": "திய",
+     "gloss": "past relative participle fragment"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    }
+   ],
+   "gloss": "attained (fragment)"
+  },
+  {
+   "surface": "கண்ணும்",
+   "parts": [
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "place/time"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if"
+  },
+  {
+   "surface": "வினைத்திட்பம்",
+   "parts": [
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
+    },
+    {
+     "text": "திட்பம்",
+     "lemma": "திட்பம்",
+     "gloss": "firmness"
+    }
+   ],
+   "gloss": "firmness in action"
+  },
+  {
+   "surface": "வேண்டாரை",
+   "parts": [
+    {
+     "text": "வேண்டார்",
+     "lemma": "வேண்டு",
+     "gloss": "those who do not desire/possess"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "those who lack (accusative)"
+  },
+  {
+   "surface": "வேண்டாது",
+   "parts": [
+    {
+     "text": "வேண்டாது",
+     "lemma": "வேண்டு",
+     "gloss": "will not desire"
+    }
+   ],
+   "gloss": "will not desire"
+  },
+  {
+   "surface": "உலகு",
+   "parts": [
+    {
+     "text": "உலகு",
+     "lemma": "உலகு",
+     "gloss": "world"
+    }
+   ],
+   "gloss": "the world"
+  }
+ ],
+ "literal": "Whatever-firmness attained even-if, action-firmness those-who-lack desires-not the-world.",
+ "translation": "Even if they possess every other kind of firmness, the world will not value those who lack firmness in action.",
+ "modern": "வேறு எவ்வளவு வலிமைகளை அடைந்திருந்தாலும், செயலில் உறுதி இல்லாதவர்களை இந்த உலகம் மதிக்காது.",
+ "explanation": "This couplet emphasizes the supreme importance of firmness in action. The phrase 'எனைத்திட்பம்' refers to any other kind of strength or firmness, such as wealth, military power, or intellect. Even if a person possesses all these, the world ('உலகு') will not value or respect them ('வேண்டாது') if they lack 'வினைத்திட்பம்'—the resolute determination to carry out an action to its end. The repetition of 'திட்பம்' (firmness) and 'வேண்டு' (desire/value) creates a strong contrast between what one might have and what the world truly demands.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

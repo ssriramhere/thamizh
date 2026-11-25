@@ -1,0 +1,149 @@
+{
+ "words": [
+  {
+   "surface": "ஒற்றினான்",
+   "parts": [
+    {
+     "text": "ஒற்று",
+     "lemma": "ஒற்று",
+     "gloss": "spy"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic tie"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "by"
+    }
+   ],
+   "gloss": "by a spy"
+  },
+  {
+   "surface": "ஒற்றி",
+   "parts": [
+    {
+     "text": "ஒற்று",
+     "lemma": "ஒற்று",
+     "gloss": "to spy"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
+    }
+   ],
+   "gloss": "having spied"
+  },
+  {
+   "surface": "பொருள்",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "truth"
+    }
+   ],
+   "gloss": "truth"
+  },
+  {
+   "surface": "தெரியா",
+   "parts": [
+    {
+     "text": "தெரி",
+     "lemma": "தெரி",
+     "gloss": "to know"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not"
+    }
+   ],
+   "gloss": "who does not know"
+  },
+  {
+   "surface": "மன்னவன்",
+   "parts": [
+    {
+     "text": "மன்னவன்",
+     "lemma": "மன்னவன்",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king"
+  },
+  {
+   "surface": "கொற்றம்",
+   "parts": [
+    {
+     "text": "கொற்றம்",
+     "lemma": "கொற்றம்",
+     "gloss": "victory"
+    }
+   ],
+   "gloss": "victory"
+  },
+  {
+   "surface": "கொள",
+   "parts": [
+    {
+     "text": "கொள்",
+     "lemma": "கொள்",
+     "gloss": "to take"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to achieve"
+  },
+  {
+   "surface": "கிடந்தது",
+   "parts": [
+    {
+     "text": "கிட",
+     "lemma": "கிட",
+     "gloss": "to lie"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that which"
+    }
+   ],
+   "gloss": "that which remains"
+  },
+  {
+   "surface": "இல்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "is not"
+    }
+   ],
+   "gloss": "is not"
+  }
+ ],
+ "literal": "By a spy having spied, the truth who does not know, the king, victory to achieve that which remains is not.",
+ "translation": "There is no way to achieve victory for a king who does not ascertain the truth by investigating through a spy.",
+ "modern": "ஒற்றனைக் கொண்டு ஆராய்ந்து உண்மையை அறிந்துகொள்ளாத அரசன், வெற்றியை அடைவதற்கான வழி வேறு இல்லை.",
+ "explanation": "This couplet emphasizes the absolute necessity of espionage for a ruler's success. The word 'ஒற்றினான்' refers to using a spy, and 'ஒற்றி' means the act of actively investigating. If a king fails to uncover the true state of affairs ('பொருள்') through this method, the text states there is nothing left ('கிடந்தது இல்') for him to secure his sovereignty or victory ('கொற்றம்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

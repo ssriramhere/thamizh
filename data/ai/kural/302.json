@@ -1,0 +1,135 @@
+{
+ "words": [
+  {
+   "surface": "செல்லா",
+   "parts": [
+    {
+     "text": "செல்",
+     "lemma": "செல்",
+     "gloss": "to be effective"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "ineffective"
+  },
+  {
+   "surface": "இடத்து",
+   "parts": [
+    {
+     "text": "இடத்து",
+     "lemma": "இடம்",
+     "gloss": "in the place"
+    }
+   ],
+   "gloss": "in the place"
+  },
+  {
+   "surface": "சினம்",
+   "parts": [
+    {
+     "text": "சினம்",
+     "lemma": "சினம்",
+     "gloss": "anger"
+    }
+   ],
+   "gloss": "anger"
+  },
+  {
+   "surface": "தீது",
+   "parts": [
+    {
+     "text": "தீது",
+     "lemma": "தீமை",
+     "gloss": "evil"
+    }
+   ],
+   "gloss": "is evil"
+  },
+  {
+   "surface": "செல்",
+   "parts": [
+    {
+     "text": "செல்",
+     "lemma": "செல்",
+     "gloss": "to be effective"
+    }
+   ],
+   "gloss": "effective"
+  },
+  {
+   "surface": "இடத்தும்",
+   "parts": [
+    {
+     "text": "இடத்து",
+     "lemma": "இடம்",
+     "gloss": "in the place"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even in the place"
+  },
+  {
+   "surface": "இல்",
+   "parts": [
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "there is not"
+    }
+   ],
+   "gloss": "there is not"
+  },
+  {
+   "surface": "அதனின்",
+   "parts": [
+    {
+     "text": "அதன்",
+     "lemma": "அது",
+     "gloss": "that"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    }
+   ],
+   "gloss": "than that"
+  },
+  {
+   "surface": "தீய",
+   "parts": [
+    {
+     "text": "தீய",
+     "lemma": "தீமை",
+     "gloss": "evil things"
+    }
+   ],
+   "gloss": "evil things"
+  },
+  {
+   "surface": "பிற",
+   "parts": [
+    {
+     "text": "பிற",
+     "lemma": "பிற",
+     "gloss": "other things"
+    }
+   ],
+   "gloss": "others"
+  }
+ ],
+ "literal": "Ineffective in place anger is evil; effective in place even, there is not than that evil other.",
+ "translation": "Anger is bad when directed at those against whom it is powerless. Even when it has the power to act, there is no greater evil than anger.",
+ "modern": "தன் அதிகாரம் செல்லாத இடத்தில் கோபம் கொள்வது தீமையானது. அதிகாரம் செல்லும் இடத்திலும் கூட, அக்கோபத்தை விடத் தீமையானவை வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet evaluates anger based on the power dynamic between the angry person and their target. When directed at someone stronger, where it cannot take effect, anger is harmful because it invites retaliation and ruin. Yet, even when directed at someone weaker, where it can take effect, there is no evil worse than anger itself, as it destroys one's own peace and character. The verb 'செல்' (to go) is used here in the specific sense of being effective or having power over a situation.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

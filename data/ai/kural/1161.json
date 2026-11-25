@@ -1,0 +1,169 @@
+{
+ "words": [
+  {
+   "surface": "மறைப்பேன்",
+   "parts": [
+    {
+     "text": "மறை",
+     "lemma": "மறை",
+     "gloss": "hide"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I will hide"
+  },
+  {
+   "surface": "மன்",
+   "parts": [
+    {
+     "text": "மன்",
+     "lemma": "மன்",
+     "gloss": "alas"
+    }
+   ],
+   "gloss": "alas"
+  },
+  {
+   "surface": "யான்",
+   "parts": [
+    {
+     "text": "யான்",
+     "lemma": "யான்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I"
+  },
+  {
+   "surface": "இஃதோ",
+   "parts": [
+    {
+     "text": "இஃது",
+     "lemma": "இஃது",
+     "gloss": "this"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "oh!"
+    }
+   ],
+   "gloss": "this (oh!)"
+  },
+  {
+   "surface": "நோயை",
+   "parts": [
+    {
+     "text": "நோய்",
+     "lemma": "நோய்",
+     "gloss": "pain"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative marker"
+    }
+   ],
+   "gloss": "pain (acc.)"
+  },
+  {
+   "surface": "இறைப்பவர்க்கு",
+   "parts": [
+    {
+     "text": "இறை",
+     "lemma": "இறை",
+     "gloss": "draw out"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "those who"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
+    }
+   ],
+   "gloss": "to those who draw out"
+  },
+  {
+   "surface": "ஊற்றுநீர்",
+   "parts": [
+    {
+     "text": "ஊற்று",
+     "lemma": "ஊற்று",
+     "gloss": "spring"
+    },
+    {
+     "text": "நீர்",
+     "lemma": "நீர்",
+     "gloss": "water"
+    }
+   ],
+   "gloss": "spring water"
+  },
+  {
+   "surface": "போல",
+   "parts": [
+    {
+     "text": "போல்",
+     "lemma": "போல்",
+     "gloss": "like"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive marker"
+    }
+   ],
+   "gloss": "like"
+  },
+  {
+   "surface": "மிகும்",
+   "parts": [
+    {
+     "text": "மிகு",
+     "lemma": "மிகு",
+     "gloss": "increase"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future/habitual marker"
+    }
+   ],
+   "gloss": "it increases"
+  }
+ ],
+ "literal": "I will hide, alas, I, this pain! To those who draw out, spring water like, it increases.",
+ "translation": "I try to hide this pain, but alas! Like a spring that swells the more water is drawn from it, my sorrow only increases.",
+ "modern": "நான் இந்தத் துன்பத்தை மறைக்கவே முயல்கிறேன்; ஆனால், நீரை இறைக்க இறைக்கப் பெருகும் ஊற்றுநீரைப் போல, இந்த நோய் நான் மறைக்க முயல முயல அதிகமாகிறது.",
+ "explanation": "The speaker is suffering from the pain of separation and tries to conceal it from others. However, the effort to suppress the sorrow only makes it grow stronger. The couplet uses a vivid simile: 'ஊற்றுநீர்' (spring water) which flows more abundantly the more it is drawn out ('இறைப்பவர்க்கு'). The particle 'மன்' expresses the speaker's frustration at the impossibility of hiding the pain. The word 'நோய்' here specifically refers to the lovesickness or grief of separation.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

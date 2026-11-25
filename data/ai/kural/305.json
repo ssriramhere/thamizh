@@ -1,0 +1,119 @@
+{
+ "words": [
+  {
+   "surface": "தன்னை",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "oneself (oblique)"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "oneself"
+  },
+  {
+   "surface": "தான்",
+   "parts": [
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "oneself"
+    }
+   ],
+   "gloss": "oneself"
+  },
+  {
+   "surface": "காக்கின்",
+   "parts": [
+    {
+     "text": "காக்கின்",
+     "lemma": "கா",
+     "gloss": "if [one] protects"
+    }
+   ],
+   "gloss": "if [one] protects"
+  },
+  {
+   "surface": "சினம்",
+   "parts": [
+    {
+     "text": "சினம்",
+     "lemma": "சினம்",
+     "gloss": "anger"
+    }
+   ],
+   "gloss": "anger"
+  },
+  {
+   "surface": "காக்க",
+   "parts": [
+    {
+     "text": "காக்க",
+     "lemma": "கா",
+     "gloss": "let [one] guard"
+    }
+   ],
+   "gloss": "let [one] guard against"
+  },
+  {
+   "surface": "காவாக்கால்",
+   "parts": [
+    {
+     "text": "காவாக்கால்",
+     "lemma": "கா",
+     "gloss": "if [one] does not guard"
+    }
+   ],
+   "gloss": "if not guarded"
+  },
+  {
+   "surface": "தன்னையே",
+   "parts": [
+    {
+     "text": "தன்னை",
+     "lemma": "தான்",
+     "gloss": "oneself"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "emphatic suffix"
+    }
+   ],
+   "gloss": "oneself indeed"
+  },
+  {
+   "surface": "கொல்லும்",
+   "parts": [
+    {
+     "text": "கொல்லும்",
+     "lemma": "கொல்",
+     "gloss": "will kill"
+    }
+   ],
+   "gloss": "will kill"
+  },
+  {
+   "surface": "சினம்",
+   "parts": [
+    {
+     "text": "சினம்",
+     "lemma": "சினம்",
+     "gloss": "anger"
+    }
+   ],
+   "gloss": "anger"
+  }
+ ],
+ "literal": "Oneself oneself if protects, anger let guard; if not guarded, oneself indeed will kill anger.",
+ "translation": "If you wish to protect yourself, guard against anger. If you do not guard against it, that anger will kill you.",
+ "modern": "ஒருவன் தன்னைத் தான் காத்துக்கொள்ள விரும்பினால், அவன் தன் சினத்தைக் கட்டுப்படுத்த வேண்டும். அப்படிச் சினத்தைக் காக்கவில்லை என்றால், அந்தச் சினமே அவனை அழித்துவிடும்.",
+ "explanation": "This couplet establishes a direct link between self-preservation and the control of anger. The word 'காக்கின்' (if one protects) sets up a condition: true self-protection requires restraining one's own wrath. If a person fails to guard against it ('காவாக்கால்'), the very anger they harbor becomes a destructive force. Ultimately, the anger turns inward and destroys the person who holds it, emphasized by 'தன்னையே கொல்லும்' (will kill oneself indeed).",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

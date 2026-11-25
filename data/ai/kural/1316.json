@@ -1,0 +1,169 @@
+{
+ "words": [
+  {
+   "surface": "உள்ளினேன்",
+   "parts": [
+    {
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "to remember"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I remembered"
+  },
+  {
+   "surface": "என்றேன்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "to say"
+    },
+    {
+     "text": "ற்",
+     "lemma": "ற்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
+    }
+   ],
+   "gloss": "I said"
+  },
+  {
+   "surface": "மற்று",
+   "parts": [
+    {
+     "text": "மற்று",
+     "lemma": "மற்று",
+     "gloss": "but"
+    }
+   ],
+   "gloss": "but"
+  },
+  {
+   "surface": "என்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "why"
+    }
+   ],
+   "gloss": "why"
+  },
+  {
+   "surface": "மறந்தீர்",
+   "parts": [
+    {
+     "text": "மற",
+     "lemma": "மற",
+     "gloss": "to forget"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense"
+    },
+    {
+     "text": "ஈர்",
+     "lemma": "ஈர்",
+     "gloss": "you (honorific)"
+    }
+   ],
+   "gloss": "you forgot"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "to say"
+    },
+    {
+     "text": "று",
+     "lemma": "று",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "saying"
+  },
+  {
+   "surface": "என்னை",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "யான்",
+     "gloss": "me"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "me"
+  },
+  {
+   "surface": "புல்லாள்",
+   "parts": [
+    {
+     "text": "புல்லு",
+     "lemma": "புல்லு",
+     "gloss": "to embrace"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she (negative)"
+    }
+   ],
+   "gloss": "she embraced not"
+  },
+  {
+   "surface": "புலத்தக்கனள்",
+   "parts": [
+    {
+     "text": "புல",
+     "lemma": "புல",
+     "gloss": "to sulk"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "தக்கனள்",
+     "lemma": "தகு",
+     "gloss": "she was apt to"
+    }
+   ],
+   "gloss": "she became sulky"
+  }
+ ],
+ "literal": "\"I remembered,\" I said; but \"Why did you forget?\" saying, me she embraced not, she became sulky.",
+ "translation": "I said, \"I remembered you.\" But she refused to embrace me and began to sulk, asking, \"Why did you ever forget me?\"",
+ "modern": "\"உன்னை நினைத்தேன்\" என்று நான் கூறினேன். ஆனால் அவள், \"என்னை ஏன் மறந்தீர்கள்?\" என்று கேட்டு, என்னைத் தழுவாமல் ஊடல் கொண்டாள்.",
+ "explanation": "The speaker attempts to show his affection by telling his lover that he was thinking of her. However, she cleverly catches the logical implication of his words: one can only remember what one has previously forgotten. Using the word 'marantīr' (you forgot), she refuses his embrace and begins to sulk. This illustrates the subtle and playful nature of lovers' quarrels, where even a declaration of love can be twisted into a reason for feigned anger.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

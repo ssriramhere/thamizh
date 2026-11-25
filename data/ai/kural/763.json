@@ -1,0 +1,102 @@
+{
+ "words": [
+  {
+   "surface": "ஒலித்தக்கால்",
+   "parts": [
+    {
+     "text": "ஒலித்த",
+     "lemma": "ஒலி",
+     "gloss": "sounded"
+    },
+    {
+     "text": "கால்",
+     "lemma": "கால்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if roared"
+  },
+  {
+   "surface": "என்னாம்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "what"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆகு",
+     "gloss": "will become"
+    }
+   ],
+   "gloss": "what will happen"
+  },
+  {
+   "surface": "உவரி",
+   "parts": [
+    {
+     "text": "உவரி",
+     "lemma": "உவரி",
+     "gloss": "ocean"
+    }
+   ],
+   "gloss": "ocean"
+  },
+  {
+   "surface": "எலிப்பகை",
+   "parts": [
+    {
+     "text": "எலி",
+     "lemma": "எலி",
+     "gloss": "rat"
+    },
+    {
+     "text": "பகை",
+     "lemma": "பகை",
+     "gloss": "host/army"
+    }
+   ],
+   "gloss": "rat army"
+  },
+  {
+   "surface": "நாகம்",
+   "parts": [
+    {
+     "text": "நாகம்",
+     "lemma": "நாகம்",
+     "gloss": "cobra"
+    }
+   ],
+   "gloss": "cobra"
+  },
+  {
+   "surface": "உயிர்ப்ப",
+   "parts": [
+    {
+     "text": "உயிர்ப்ப",
+     "lemma": "உயிர்",
+     "gloss": "when breathing"
+    }
+   ],
+   "gloss": "when hissing"
+  },
+  {
+   "surface": "கெடும்",
+   "parts": [
+    {
+     "text": "கெடும்",
+     "lemma": "கெடு",
+     "gloss": "will perish"
+    }
+   ],
+   "gloss": "will perish"
+  }
+ ],
+ "literal": "If roared what will become ocean rat-army cobra when breathing will perish.",
+ "translation": "What does it matter if an army of rats roars like the ocean? It will perish the moment a cobra hisses.",
+ "modern": "எலிகளின் படை கடல் போல முழங்கினாலும் என்ன பயன்? ஒரு நாகப்பாம்பு மூச்சு விட்டாலே அந்தப் படை அழிந்துவிடும்.",
+ "explanation": "This couplet contrasts a massive but weak army with a single, powerful warrior. The word உவரி (ocean) illustrates the sheer volume and loud noise of the rat army (எலிப்பகை). However, என்னாம் (what is the use) questions their strength, because just as rats scatter and die when a cobra (நாகம்) merely breathes or hisses (உயிர்ப்ப), a weak army will be instantly destroyed by a truly fierce force.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

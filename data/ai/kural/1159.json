@@ -1,0 +1,144 @@
+{
+ "words": [
+  {
+   "surface": "தொடின்",
+   "parts": [
+    {
+     "text": "தொடு",
+     "lemma": "தொடு",
+     "gloss": "to touch"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if touched"
+  },
+  {
+   "surface": "சுடின்",
+   "parts": [
+    {
+     "text": "சுடு",
+     "lemma": "சுடு",
+     "gloss": "to burn"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if it burns"
+  },
+  {
+   "surface": "அல்லது",
+   "parts": [
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
+    }
+   ],
+   "gloss": "except"
+  },
+  {
+   "surface": "காமநோய்",
+   "parts": [
+    {
+     "text": "காமநோய்",
+     "lemma": "காமநோய்",
+     "gloss": "disease of love"
+    }
+   ],
+   "gloss": "disease of love"
+  },
+  {
+   "surface": "போல",
+   "parts": [
+    {
+     "text": "போல்",
+     "lemma": "போல்",
+     "gloss": "to resemble"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "like"
+    }
+   ],
+   "gloss": "like"
+  },
+  {
+   "surface": "விடின்",
+   "parts": [
+    {
+     "text": "விடு",
+     "lemma": "விடு",
+     "gloss": "to leave"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    }
+   ],
+   "gloss": "if left"
+  },
+  {
+   "surface": "சுடல்",
+   "parts": [
+    {
+     "text": "சுடு",
+     "lemma": "சுடு",
+     "gloss": "to burn"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "burning"
+  },
+  {
+   "surface": "ஆற்றுமோ",
+   "parts": [
+    {
+     "text": "ஆற்றும்",
+     "lemma": "ஆற்று",
+     "gloss": "will be able"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question particle"
+    }
+   ],
+   "gloss": "can it do?"
+  },
+  {
+   "surface": "தீ",
+   "parts": [
+    {
+     "text": "தீ",
+     "lemma": "தீ",
+     "gloss": "fire"
+    }
+   ],
+   "gloss": "fire"
+  }
+ ],
+ "literal": "If touched, it burns, except that, like the disease of love, if left, burning can it do, fire?",
+ "translation": "Fire burns only when touched. Can it burn when one moves away from it, like this disease of love?",
+ "modern": "நெருப்பு தன்னைத் தொட்டால் மட்டுமே சுடும். ஆனால் இந்தக் காதல் நோயைப் போல, தன்னை விட்டு விலகினால் நெருப்பால் சுட முடியுமா? முடியாது.",
+ "explanation": "The speaker contrasts the pain of love with the heat of ordinary fire. Fire only burns a person when they come into direct physical contact with it. However, the affliction of love burns the lover precisely when they are separated from their beloved. Thus, the fire of love is shown to be far more powerful and paradoxical than actual fire.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

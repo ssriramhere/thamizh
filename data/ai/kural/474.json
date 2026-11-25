@@ -1,0 +1,184 @@
+{
+ "words": [
+  {
+   "surface": "அமைந்து",
+   "parts": [
+    {
+     "text": "அமை",
+     "lemma": "அமை",
+     "gloss": "to adapt"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial participle suffix"
+    }
+   ],
+   "gloss": "having adapted"
+  },
+  {
+   "surface": "ஆங்கு",
+   "parts": [
+    {
+     "text": "ஆங்கு",
+     "lemma": "ஆங்கு",
+     "gloss": "in that way"
+    }
+   ],
+   "gloss": "in that way"
+  },
+  {
+   "surface": "ஒழுகான்",
+   "parts": [
+    {
+     "text": "ஒழுகு",
+     "lemma": "ஒழுகு",
+     "gloss": "to behave"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "negative third person singular suffix"
+    }
+   ],
+   "gloss": "he behaves not"
+  },
+  {
+   "surface": "அளவு",
+   "parts": [
+    {
+     "text": "அளவு",
+     "lemma": "அளவு",
+     "gloss": "measure"
+    }
+   ],
+   "gloss": "measure"
+  },
+  {
+   "surface": "அறியான்",
+   "parts": [
+    {
+     "text": "அறி",
+     "lemma": "அறி",
+     "gloss": "to know"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "negative third person singular suffix"
+    }
+   ],
+   "gloss": "he knows not"
+  },
+  {
+   "surface": "தன்னை",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "self (oblique)"
+    },
+    {
+     "text": "ன்",
+     "lemma": "ன்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "himself"
+  },
+  {
+   "surface": "வியந்தான்",
+   "parts": [
+    {
+     "text": "விய",
+     "lemma": "விய",
+     "gloss": "to admire"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "third person singular suffix"
+    }
+   ],
+   "gloss": "he who admired"
+  },
+  {
+   "surface": "விரைந்து",
+   "parts": [
+    {
+     "text": "விரை",
+     "lemma": "விரை",
+     "gloss": "to hasten"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "உ",
+     "lemma": "உ",
+     "gloss": "adverbial participle suffix"
+    }
+   ],
+   "gloss": "swiftly"
+  },
+  {
+   "surface": "கெடும்",
+   "parts": [
+    {
+     "text": "கெடு",
+     "lemma": "கெடு",
+     "gloss": "to perish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "will perish"
+  }
+ ],
+ "literal": "Having adapted in that way he behaves not; the measure he knows not; himself he admired; swiftly he will perish.",
+ "translation": "He who does not act in harmony with others, who is ignorant of the true measure of his own strength, and who boasts about himself, will swiftly perish.",
+ "modern": "மற்றவர்களுடன் ஒத்துப்போகாமல், தன் வலிமையின் அளவை அறியாமல், தன்னைத் தானே பெருமையாக நினைத்துக்கொள்பவன் விரைவில் அழிந்து போவான்.",
+ "explanation": "This couplet describes the rapid downfall of an arrogant and uncooperative person. The word 'அமைந்து' means adapting or acting in harmony with one's surroundings. The person described here fails to adapt ('ஒழுகான்'), does not understand the true measure of his own strength ('அளவு அறியான்'), and instead excessively admires himself ('தன்னை வியந்தான்'). Because of this toxic combination of ignorance, inflexibility, and vanity, his destruction will come swiftly.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

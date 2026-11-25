@@ -1,0 +1,129 @@
+{
+ "words": [
+  {
+   "surface": "மிகினும்",
+   "parts": [
+    {
+     "text": "மிகின்",
+     "lemma": "மிகு",
+     "gloss": "if it exceeds"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "whether they increase"
+  },
+  {
+   "surface": "குறையினும்",
+   "parts": [
+    {
+     "text": "குறையின்",
+     "lemma": "குறை",
+     "gloss": "if it decreases"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "or whether they decrease"
+  },
+  {
+   "surface": "நோய்",
+   "parts": [
+    {
+     "text": "நோய்",
+     "lemma": "நோய்",
+     "gloss": "disease"
+    }
+   ],
+   "gloss": "disease"
+  },
+  {
+   "surface": "செய்யும்",
+   "parts": [
+    {
+     "text": "செய்யும்",
+     "lemma": "செய்",
+     "gloss": "will cause"
+    }
+   ],
+   "gloss": "will cause"
+  },
+  {
+   "surface": "நூலோர்",
+   "parts": [
+    {
+     "text": "நூல்",
+     "lemma": "நூல்",
+     "gloss": "treatise"
+    },
+    {
+     "text": "ஓர்",
+     "lemma": "ஓர்",
+     "gloss": "those who have"
+    }
+   ],
+   "gloss": "the learned"
+  },
+  {
+   "surface": "வளி",
+   "parts": [
+    {
+     "text": "வளி",
+     "lemma": "வளி",
+     "gloss": "wind"
+    }
+   ],
+   "gloss": "wind"
+  },
+  {
+   "surface": "முதலா",
+   "parts": [
+    {
+     "text": "முதல்",
+     "lemma": "முதல்",
+     "gloss": "beginning"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆகு",
+     "gloss": "becoming"
+    }
+   ],
+   "gloss": "starting with"
+  },
+  {
+   "surface": "எண்ணிய",
+   "parts": [
+    {
+     "text": "எண்ணிய",
+     "lemma": "எண்ணு",
+     "gloss": "enumerated"
+    }
+   ],
+   "gloss": "enumerated"
+  },
+  {
+   "surface": "மூன்று",
+   "parts": [
+    {
+     "text": "மூன்று",
+     "lemma": "மூன்று",
+     "gloss": "three"
+    }
+   ],
+   "gloss": "three"
+  }
+ ],
+ "literal": "Whether they increase or whether they decrease, disease will cause, the treatise-authors' wind starting-with enumerated three.",
+ "translation": "The three elements starting with wind, enumerated by the learned, will cause disease if they increase or decrease.",
+ "modern": "மருத்துவ நூல்களை எழுதியவர்கள் வளி முதலாக எண்ணிய மூன்று கூறுகளும் தத்தம் அளவிலிருந்து மிகுந்தாலும் குறைந்தாலும் உடலில் நோயை உண்டாக்கும்.",
+ "explanation": "This couplet introduces the fundamental principle of health and disease. The learned authors of medical treatises have enumerated three bodily elements, beginning with wind. If these three elements either exceed or fall short of their natural balance, they will cause disease in the body. The word vali means wind, representing the first of the three vital forces.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

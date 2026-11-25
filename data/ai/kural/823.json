@@ -1,0 +1,149 @@
+{
+ "words": [
+  {
+   "surface": "பல",
+   "parts": [
+    {
+     "text": "பல",
+     "lemma": "பல",
+     "gloss": "many"
+    }
+   ],
+   "gloss": "many"
+  },
+  {
+   "surface": "நல்ல",
+   "parts": [
+    {
+     "text": "நல்",
+     "lemma": "நன்மை",
+     "gloss": "good"
+    },
+    {
+     "text": "ல",
+     "lemma": "அ",
+     "gloss": "adjectival suffix"
+    }
+   ],
+   "gloss": "good things"
+  },
+  {
+   "surface": "கற்ற",
+   "parts": [
+    {
+     "text": "கற்",
+     "lemma": "கல்",
+     "gloss": "to learn"
+    },
+    {
+     "text": "ற",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
+    }
+   ],
+   "gloss": "learned"
+  },
+  {
+   "surface": "கடைத்து",
+   "parts": [
+    {
+     "text": "கடை",
+     "lemma": "கடை",
+     "gloss": "end/time"
+    },
+    {
+     "text": "த்து",
+     "lemma": "த்து",
+     "gloss": "locative suffix"
+    }
+   ],
+   "gloss": "even after"
+  },
+  {
+   "surface": "மன",
+   "parts": [
+    {
+     "text": "மன",
+     "lemma": "மனம்",
+     "gloss": "mind"
+    }
+   ],
+   "gloss": "mind"
+  },
+  {
+   "surface": "நல்லர்",
+   "parts": [
+    {
+     "text": "நல்",
+     "lemma": "நன்மை",
+     "gloss": "good"
+    },
+    {
+     "text": "லர்",
+     "lemma": "அர்",
+     "gloss": "epicene plural suffix"
+    }
+   ],
+   "gloss": "good people"
+  },
+  {
+   "surface": "ஆகுதல்",
+   "parts": [
+    {
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "to become"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "becoming"
+  },
+  {
+   "surface": "மாணார்க்கு",
+   "parts": [
+    {
+     "text": "மாண்",
+     "lemma": "மாண்பு",
+     "gloss": "excellence"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "dative suffix"
+    }
+   ],
+   "gloss": "to those lacking excellence"
+  },
+  {
+   "surface": "அரிது",
+   "parts": [
+    {
+     "text": "அரி",
+     "lemma": "அருமை",
+     "gloss": "difficult"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "neuter singular suffix"
+    }
+   ],
+   "gloss": "is difficult"
+  }
+ ],
+ "literal": "Many good things learned even after, mind-good people becoming, to those lacking excellence is difficult.",
+ "translation": "Even after learning many good things, it is difficult for those lacking true excellence to become good at heart.",
+ "modern": "பல நல்ல நூல்களைக் கற்றாலும், மாண்பு இல்லாதவர்கள் மனத்தால் நல்லவர்களாக மாறுவது கடினம்.",
+ "explanation": "This couplet explains that mere education cannot change the fundamental nature of ignoble people. The word 'மாணார்' refers to those who lack true inner excellence or noble character. Even if such people learn many good things, they cannot achieve a good heart. Thus, their friendship remains false and dangerous despite their outward learning.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

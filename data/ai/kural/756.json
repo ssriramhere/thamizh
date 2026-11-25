@@ -1,0 +1,123 @@
+{
+ "words": [
+  {
+   "surface": "உறுபொருளும்",
+   "parts": [
+    {
+     "text": "உறு",
+     "lemma": "உறு",
+     "gloss": "accruing"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "wealth"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "accrued wealth and"
+  },
+  {
+   "surface": "உல்கு",
+   "parts": [
+    {
+     "text": "உல்கு",
+     "lemma": "உல்கு",
+     "gloss": "toll"
+    }
+   ],
+   "gloss": "toll"
+  },
+  {
+   "surface": "பொருளும்",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "wealth"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "wealth and"
+  },
+  {
+   "surface": "தன்",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "his"
+    }
+   ],
+   "gloss": "his"
+  },
+  {
+   "surface": "ஒன்னார்",
+   "parts": [
+    {
+     "text": "ஒன்னார்",
+     "lemma": "ஒன்னார்",
+     "gloss": "foes"
+    }
+   ],
+   "gloss": "foes"
+  },
+  {
+   "surface": "தெறுபொருளும்",
+   "parts": [
+    {
+     "text": "தெறு",
+     "lemma": "தெறு",
+     "gloss": "conquering"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "wealth"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "conquered wealth and"
+  },
+  {
+   "surface": "வேந்தன்",
+   "parts": [
+    {
+     "text": "வேந்தன்",
+     "lemma": "வேந்தன்",
+     "gloss": "king"
+    }
+   ],
+   "gloss": "king's"
+  },
+  {
+   "surface": "பொருள்",
+   "parts": [
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "wealth"
+    }
+   ],
+   "gloss": "wealth"
+  }
+ ],
+ "literal": "Accrued wealth and toll wealth and his foes' conquered wealth are the king's wealth.",
+ "translation": "Wealth that accrues on its own, wealth collected as tolls, and wealth captured by defeating foes constitute the king's treasury.",
+ "modern": "தானாக வந்து சேரும் பொருளும், சுங்க வரியாக வரும் பொருளும், தன் பகைவரை வென்று பெறும் பொருளும் அரசனுக்கு உரிய பொருள்களாகும்.",
+ "explanation": "This couplet lists the three legitimate sources of revenue for a state. The first is wealth that accrues naturally, such as ownerless property or natural resources. The second is wealth collected through tolls and customs duties. The third is wealth acquired by defeating enemies in battle. Together, these form the treasury of a king.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

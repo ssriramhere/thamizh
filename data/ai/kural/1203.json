@@ -1,0 +1,98 @@
+{
+ "words": [
+  {
+   "surface": "நினைப்பவர்",
+   "parts": [
+    {
+     "text": "நினைப்பவர்",
+     "lemma": "நினை",
+     "gloss": "those who think"
+    }
+   ],
+   "gloss": "those who think"
+  },
+  {
+   "surface": "போன்று",
+   "parts": [
+    {
+     "text": "போன்று",
+     "lemma": "போல்",
+     "gloss": "seeming"
+    }
+   ],
+   "gloss": "seeming"
+  },
+  {
+   "surface": "நினையார்",
+   "parts": [
+    {
+     "text": "நினையார்",
+     "lemma": "நினை",
+     "gloss": "they do not think"
+    }
+   ],
+   "gloss": "they do not think"
+  },
+  {
+   "surface": "கொல்",
+   "parts": [
+    {
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "I wonder"
+    }
+   ],
+   "gloss": "I wonder"
+  },
+  {
+   "surface": "தும்மல்",
+   "parts": [
+    {
+     "text": "தும்மல்",
+     "lemma": "தும்மல்",
+     "gloss": "sneeze"
+    }
+   ],
+   "gloss": "sneeze"
+  },
+  {
+   "surface": "சினைப்பது",
+   "parts": [
+    {
+     "text": "சினைப்பது",
+     "lemma": "சினை",
+     "gloss": "that which swells"
+    }
+   ],
+   "gloss": "that which swells"
+  },
+  {
+   "surface": "போன்று",
+   "parts": [
+    {
+     "text": "போன்று",
+     "lemma": "போல்",
+     "gloss": "seeming"
+    }
+   ],
+   "gloss": "seeming"
+  },
+  {
+   "surface": "கெடும்",
+   "parts": [
+    {
+     "text": "கெடும்",
+     "lemma": "கெடு",
+     "gloss": "it fails"
+    }
+   ],
+   "gloss": "it fails"
+  }
+ ],
+ "literal": "Those who think - seeming - they do not think - I wonder - sneeze - that which swells - seeming - perishes.",
+ "translation": "My sneeze seems to build up, but then it fades away. I wonder, does he seem to think of me, but then not think of me at all?",
+ "modern": "தும்மல் வருவது போலத் தோன்றி வராமல் அடங்கிவிடுகிறது. அதுபோலவே அவரும் என்னை நினைப்பவர் போலத் தோன்றி, உண்மையில் நினைக்காமல் விட்டுவிட்டாரோ?",
+ "explanation": "This couplet plays on the traditional Tamil belief that a sneeze indicates a loved one is thinking of you. The heroine feels a sneeze building up, but it suddenly subsides ('கெடும்') without happening. She draws a direct parallel between this physical sensation and her lover's thoughts. She wonders if he started to think of her ('நினைப்பவர் போன்று') but then stopped or decided not to ('நினையார்கொல்'). The word 'சினைப்பது' (swelling or forming) perfectly captures the sensation of a sneeze that builds up but fails to release.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

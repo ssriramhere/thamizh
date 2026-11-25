@@ -1,0 +1,153 @@
+{
+ "words": [
+  {
+   "surface": "அற்றேம்",
+   "parts": [
+    {
+     "text": "அற்று",
+     "lemma": "அறு",
+     "gloss": "having been destitute"
+    },
+    {
+     "text": "ஏம்",
+     "lemma": "ஏம்",
+     "gloss": "we"
+    }
+   ],
+   "gloss": "we are destitute"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "to say"
+    },
+    {
+     "text": "று",
+     "lemma": "று",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "saying"
+  },
+  {
+   "surface": "அல்லல்",
+   "parts": [
+    {
+     "text": "அல்லல்",
+     "lemma": "அல்லல்",
+     "gloss": "sorrow"
+    }
+   ],
+   "gloss": "sorrow"
+  },
+  {
+   "surface": "படுபவோ",
+   "parts": [
+    {
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "to suffer"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "epicene plural suffix"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "question marker"
+    }
+   ],
+   "gloss": "will they suffer?"
+  },
+  {
+   "surface": "பெற்றேம்",
+   "parts": [
+    {
+     "text": "பெற்று",
+     "lemma": "பெறு",
+     "gloss": "having obtained"
+    },
+    {
+     "text": "ஏம்",
+     "lemma": "ஏம்",
+     "gloss": "we"
+    }
+   ],
+   "gloss": "we have obtained"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "to say"
+    },
+    {
+     "text": "று",
+     "lemma": "று",
+     "gloss": "adverbial suffix"
+    }
+   ],
+   "gloss": "saying"
+  },
+  {
+   "surface": "ஓம்புதல்",
+   "parts": [
+    {
+     "text": "ஓம்பு",
+     "lemma": "ஓம்பு",
+     "gloss": "to cherish"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "cherishing"
+  },
+  {
+   "surface": "தேற்றாதவர்",
+   "parts": [
+    {
+     "text": "தேற்று",
+     "lemma": "தேற்று",
+     "gloss": "to know"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative marker"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "they"
+    }
+   ],
+   "gloss": "those who do not know"
+  }
+ ],
+ "literal": "\"We are destitute\" saying, sorrow will they suffer? \"We have obtained\" saying, cherishing those who do not know.",
+ "translation": "Will those who do not cherish wealth saying \"we have gained it\", suffer sorrow in poverty saying \"we are destitute\"?",
+ "modern": "'செல்வத்தைப் பெற்றோம்' என்று மகிழ்ந்து அதைக் கொண்டாடத் தெரியாதவர்கள், வறுமை வந்தபோது 'எல்லாம் இழந்தோம்' என்று கூறித் துன்பப்படுவார்களா? மாட்டார்கள்.",
+ "explanation": "This couplet explains the mindset of the wise who remain balanced in both prosperity and adversity. The word 'பெற்றேம்' (we have gained) refers to acquiring wealth, while 'அற்றேம்' (we are destitute) refers to losing it. The author asks a rhetorical question: if a person does not overly cherish or celebrate their gains, will they suffer sorrow when they lose them? By treating both gain and loss with the same equanimity, one avoids despair during difficult times.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

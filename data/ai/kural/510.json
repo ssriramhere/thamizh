@@ -1,0 +1,117 @@
+{
+ "words": [
+  {
+   "surface": "தேரான்",
+   "parts": [
+    {
+     "text": "தேர்",
+     "lemma": "தேர்",
+     "gloss": "to examine"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "without examining"
+  },
+  {
+   "surface": "தெளிவும்",
+   "parts": [
+    {
+     "text": "தெளிவு",
+     "lemma": "தெளிவு",
+     "gloss": "trust"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "and trust"
+  },
+  {
+   "surface": "தெளிந்தான்கண்",
+   "parts": [
+    {
+     "text": "தெளிந்தான்",
+     "lemma": "தெளிந்தான்",
+     "gloss": "he who was trusted"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "in/with"
+    }
+   ],
+   "gloss": "with the trusted one"
+  },
+  {
+   "surface": "ஐயுறவும்",
+   "parts": [
+    {
+     "text": "ஐயுறவு",
+     "lemma": "ஐயுறவு",
+     "gloss": "suspicion"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
+    }
+   ],
+   "gloss": "and suspicion"
+  },
+  {
+   "surface": "தீரா",
+   "parts": [
+    {
+     "text": "தீர்",
+     "lemma": "தீர்",
+     "gloss": "to end"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    }
+   ],
+   "gloss": "unending"
+  },
+  {
+   "surface": "இடும்பை",
+   "parts": [
+    {
+     "text": "இடும்பை",
+     "lemma": "இடும்பை",
+     "gloss": "sorrow"
+    }
+   ],
+   "gloss": "sorrow"
+  },
+  {
+   "surface": "தரும்",
+   "parts": [
+    {
+     "text": "தரு",
+     "lemma": "தா",
+     "gloss": "to give"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future suffix"
+    }
+   ],
+   "gloss": "will give"
+  }
+ ],
+ "literal": "Without examining, trust, and in one who was trusted, suspicion, unending sorrow will give.",
+ "translation": "Trusting someone without prior examination, and doubting someone after having trusted them, will both cause unending sorrow.",
+ "modern": "ஒருவரை ஆராயாமல் நம்புவதும், நன்கு ஆராய்ந்து நம்பிய பின் அவரிடம் சந்தேகம் கொள்வதும் தீராத துன்பத்தைத் தரும்.",
+ "explanation": "The couplet warns about two critical mistakes in choosing and trusting people. The first is placing trust in someone without thoroughly examining their character and capacity. The second is harboring suspicions about someone after they have been tested and chosen. Both of these actions are flawed and will yield unending sorrow, because the former leads to betrayal and the latter destroys a good working relationship.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

@@ -1,0 +1,103 @@
+{
+ "words": [
+  {
+   "surface": "கல்லாதவரும்",
+   "parts": [
+    {
+     "text": "கல்லாதவர்",
+     "lemma": "கல்லாதவர்",
+     "gloss": "unlearned people"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even the unlearned"
+  },
+  {
+   "surface": "நனி",
+   "parts": [
+    {
+     "text": "நனி",
+     "lemma": "நனி",
+     "gloss": "very"
+    }
+   ],
+   "gloss": "very"
+  },
+  {
+   "surface": "நல்லர்",
+   "parts": [
+    {
+     "text": "நல்லர்",
+     "lemma": "நல்லர்",
+     "gloss": "good people"
+    }
+   ],
+   "gloss": "good people (they are)"
+  },
+  {
+   "surface": "கற்றார்",
+   "parts": [
+    {
+     "text": "கற்றார்",
+     "lemma": "கற்றார்",
+     "gloss": "learned people"
+    }
+   ],
+   "gloss": "learned people"
+  },
+  {
+   "surface": "முன்",
+   "parts": [
+    {
+     "text": "முன்",
+     "lemma": "முன்",
+     "gloss": "in front of"
+    }
+   ],
+   "gloss": "in front of"
+  },
+  {
+   "surface": "சொல்லாது",
+   "parts": [
+    {
+     "text": "சொல்லாது",
+     "lemma": "சொல்",
+     "gloss": "without speaking"
+    }
+   ],
+   "gloss": "without speaking"
+  },
+  {
+   "surface": "இருக்க",
+   "parts": [
+    {
+     "text": "இருக்க",
+     "lemma": "இரு",
+     "gloss": "to remain"
+    }
+   ],
+   "gloss": "to remain"
+  },
+  {
+   "surface": "பெறின்",
+   "parts": [
+    {
+     "text": "பெறின்",
+     "lemma": "பெறு",
+     "gloss": "if they manage"
+    }
+   ],
+   "gloss": "if they manage"
+  }
+ ],
+ "literal": "Even the unlearned are very good, learned people in front of, without speaking to remain if they manage.",
+ "translation": "Even the unlearned are considered very good, if they can manage to remain silent in the presence of the learned.",
+ "modern": "கற்றவர்களுக்கு முன்னால் எதுவும் பேசாமல் அமைதியாக இருக்க முடிந்தால், கல்லாதவர்களும் மிகவும் நல்லவர்களே ஆவார்கள்.",
+ "explanation": "This couplet highlights the value of silence for those who lack education. The phrase kallatavarum nani nallar states that even the unlearned are considered exceedingly good. The condition for this goodness is karrar mun collatu irukka perin, meaning if they manage to stay without speaking in the presence of the learned. By remaining silent, they hide their ignorance and show respect, which earns them the reputation of being good people.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

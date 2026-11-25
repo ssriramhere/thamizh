@@ -1,0 +1,113 @@
+{
+ "words": [
+  {
+   "surface": "தன்னை",
+   "parts": [
+    {
+     "text": "தன்",
+     "lemma": "தான்",
+     "gloss": "oneself"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "ACC"
+    }
+   ],
+   "gloss": "herself"
+  },
+  {
+   "surface": "உணர்த்தினும்",
+   "parts": [
+    {
+     "text": "உணர்த்தின்",
+     "lemma": "உணர்த்து",
+     "gloss": "if pacified"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even if pacified"
+  },
+  {
+   "surface": "காயும்",
+   "parts": [
+    {
+     "text": "காயும்",
+     "lemma": "காய்",
+     "gloss": "will be angry"
+    }
+   ],
+   "gloss": "she gets angry"
+  },
+  {
+   "surface": "பிறர்க்கும்",
+   "parts": [
+    {
+     "text": "பிறர்க்கு",
+     "lemma": "பிறர்",
+     "gloss": "to others"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "also"
+    }
+   ],
+   "gloss": "to others also"
+  },
+  {
+   "surface": "நீர்",
+   "parts": [
+    {
+     "text": "நீர்",
+     "lemma": "நீர்",
+     "gloss": "you"
+    }
+   ],
+   "gloss": "you"
+  },
+  {
+   "surface": "இந்நீரர்",
+   "parts": [
+    {
+     "text": "இந்நீரர்",
+     "lemma": "இந்நீரர்",
+     "gloss": "of this nature"
+    }
+   ],
+   "gloss": "of this nature"
+  },
+  {
+   "surface": "ஆகுதிர்",
+   "parts": [
+    {
+     "text": "ஆகுதிர்",
+     "lemma": "ஆகு",
+     "gloss": "you become"
+    }
+   ],
+   "gloss": "you become"
+  },
+  {
+   "surface": "என்று",
+   "parts": [
+    {
+     "text": "என்று",
+     "lemma": "என்",
+     "gloss": "saying"
+    }
+   ],
+   "gloss": "saying"
+  }
+ ],
+ "literal": "Herself even if pacified she gets angry, to others also you of this nature become saying.",
+ "translation": "Even when I try to pacify her, she gets angry, saying, \"You must be acting this sweet to other women too!\"",
+ "modern": "நான் அவளை சமாதானப்படுத்த முயன்றாலும், நீங்கள் மற்ற பெண்களிடமும் இப்படித்தான் அன்பாக நடந்துகொள்வீர்கள் என்று கூறி அவள் என்மீது கோபப்படுவாள்.",
+ "explanation": "The husband laments the subtle and inescapable nature of his wife's feigned anger. When he tries to comfort and pacify her, instead of calming down, she finds a new reason to be upset. She accuses him of being just as sweet and comforting to other women, turning his very act of affection into a cause for jealousy. Thus, every attempt to end the sulking only fuels it further.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

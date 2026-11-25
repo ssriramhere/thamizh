@@ -1,0 +1,132 @@
+{
+ "words": [
+  {
+   "surface": "நனவினால்",
+   "parts": [
+    {
+     "text": "நனவு",
+     "lemma": "நனவு",
+     "gloss": "wakefulness"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "euphonic tie"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in wakefulness"
+  },
+  {
+   "surface": "நல்கா",
+   "parts": [
+    {
+     "text": "நல்கு",
+     "lemma": "நல்கு",
+     "gloss": "grant"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not"
+    }
+   ],
+   "gloss": "not granting"
+  },
+  {
+   "surface": "கொடியார்",
+   "parts": [
+    {
+     "text": "கொடியார்",
+     "lemma": "கொடியார்",
+     "gloss": "cruel person"
+    }
+   ],
+   "gloss": "cruel person"
+  },
+  {
+   "surface": "கனவனால்",
+   "parts": [
+    {
+     "text": "கனவு",
+     "lemma": "கனவு",
+     "gloss": "dream"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "euphonic tie"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "in"
+    }
+   ],
+   "gloss": "in dream"
+  },
+  {
+   "surface": "என்",
+   "parts": [
+    {
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "why"
+    }
+   ],
+   "gloss": "why"
+  },
+  {
+   "surface": "எம்மை",
+   "parts": [
+    {
+     "text": "எம்",
+     "lemma": "யாம்",
+     "gloss": "us (oblique)"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative suffix"
+    }
+   ],
+   "gloss": "us"
+  },
+  {
+   "surface": "பீழிப்பது",
+   "parts": [
+    {
+     "text": "பீழி",
+     "lemma": "பீழி",
+     "gloss": "torment"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "verbal noun suffix"
+    }
+   ],
+   "gloss": "tormenting"
+  }
+ ],
+ "literal": "In wakefulness not-granting cruel-person, in dream why us tormenting?",
+ "translation": "Why does the cruel man who grants no favors in my waking hours torment me in my dreams?",
+ "modern": "நனவில் வந்து அன்பு செய்யாத கொடியவர், கனவில் வந்து எங்களை ஏன் துன்புறுத்துகிறார்?",
+ "explanation": "The speaker questions the behavior of her lover, who is absent during her waking hours. She calls him a cruel person because he does not show her any grace or affection when she is awake. Yet, he appears in her dreams only to cause her distress by his fleeting presence. The contrast between wakefulness and dreams highlights her continuous suffering, as she finds no peace in either state.",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}

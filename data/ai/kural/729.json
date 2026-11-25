@@ -1,0 +1,108 @@
+{
+ "words": [
+  {
+   "surface": "கல்லாதவரின்",
+   "parts": [
+    {
+     "text": "கல்லாதவர்",
+     "lemma": "கல்",
+     "gloss": "unlearned people"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    }
+   ],
+   "gloss": "than the unlearned"
+  },
+  {
+   "surface": "கடை",
+   "parts": [
+    {
+     "text": "கடை",
+     "lemma": "கடை",
+     "gloss": "lowest"
+    }
+   ],
+   "gloss": "lowest"
+  },
+  {
+   "surface": "என்ப",
+   "parts": [
+    {
+     "text": "என்ப",
+     "lemma": "என்",
+     "gloss": "they say"
+    }
+   ],
+   "gloss": "they say"
+  },
+  {
+   "surface": "கற்று",
+   "parts": [
+    {
+     "text": "கற்று",
+     "lemma": "கல்",
+     "gloss": "having learned"
+    }
+   ],
+   "gloss": "having learned"
+  },
+  {
+   "surface": "அறிந்தும்",
+   "parts": [
+    {
+     "text": "அறிந்து",
+     "lemma": "அறி",
+     "gloss": "having known"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "even having known"
+  },
+  {
+   "surface": "நல்லார்",
+   "parts": [
+    {
+     "text": "நல்லார்",
+     "lemma": "நல்",
+     "gloss": "good people"
+    }
+   ],
+   "gloss": "good people"
+  },
+  {
+   "surface": "அவை",
+   "parts": [
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "assembly"
+    }
+   ],
+   "gloss": "assembly"
+  },
+  {
+   "surface": "அஞ்சுவார்",
+   "parts": [
+    {
+     "text": "அஞ்சுவார்",
+     "lemma": "அஞ்சு",
+     "gloss": "those who fear"
+    }
+   ],
+   "gloss": "those who fear"
+  }
+ ],
+ "literal": "Than the unlearned, the lowest, they say, having learned and even having known, the good people's assembly those who fear.",
+ "translation": "They say that those who have learned and understood much, yet fear the assembly of the good, are lower than the unlearned.",
+ "modern": "நூல்களைக் கற்றும் அவற்றின் பொருளை அறிந்தும், நல்லவர்களின் அவைக்குப் பேச அஞ்சுபவர்கள், படிக்காதவர்களை விடக் கீழானவர்கள் என்று அறிஞர்கள் கூறுவார்கள்.",
+ "explanation": "This couplet highlights the futility of knowledge without the courage to share it. The phrase 'கற்று அறிந்தும்' shows that the person has both acquired and deeply understood their learning. Yet, if they fear ('அஞ்சுவார்') speaking in the assembly of good and wise people ('நல்லார் அவை'), their education serves no purpose. Consequently, they are judged to be even lower ('கடை') than those who have never learned at all ('கல்லாதவரின்').",
+ "model": "gemini-3.1-pro-preview",
+ "generated": "2026-11-25"
+}
