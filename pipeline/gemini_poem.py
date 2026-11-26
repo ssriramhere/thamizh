@@ -172,6 +172,8 @@ def salvage(p: dict, data: dict) -> dict | None:
 async def one(client, model, text, p, out, sem, stats):
     from google.genai import types
     async with sem:
+        if (out / f"{p['n']}.json").exists():
+            return      # done meanwhile by another run
         last, data = [], None
         for attempt in range(3):
             resp = None
