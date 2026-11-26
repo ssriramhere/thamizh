@@ -493,5 +493,11 @@ def rejoin(parts: list[str]) -> set[str]:
                 # ல் ன் -> ற், ள் ண் -> ட் before a hard consonant (தன் + காத்து -> தற்காத்து)
                 swap = {"ல": "ற", "ன": "ற", "ள": "ட", "ண": "ட"}[A[-1].consonant]
                 nxt.add(acc[:-2] + swap + PULLI + part)
+            if A[-1].kind == "o" and A[-1].consonant in ("ல", "ள", "ன", "ண") and first.consonant == "த":
+                # the த changes too: ல் + த -> ற்ற (முதல் + து -> முதற்று), ன் + த -> ன்ற,
+                # ள் + த -> ட்ட, ண் + த -> ண்ட
+                pre, t = {"ல": ("ற", "ற"), "ன": ("ன", "ற"), "ள": ("ட", "ட"), "ண": ("ண", "ட")}[A[-1].consonant]
+                rest = first.text.replace("த", t, 1) + "".join(x.text for x in B[1:])
+                nxt.add(acc[:-2] + pre + PULLI + rest)
         results = nxt
     return results
