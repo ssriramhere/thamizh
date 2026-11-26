@@ -120,23 +120,126 @@
     markSelected();
   });
 
+  let reviewed = { t: {}, w: {} };
+  let current = null;
+
+  function wordInfo(k, wi, w) {
+    const rv = reviewed.w[k.n + '-' + wi];
+    if (rv && rv.surface === w.ta) return { parts: rv.parts, gloss: rv.gloss, by: rv.by };
+    const ai = k.ai || {};
+    return (ai.words || []).find((x) => x.surface === w.ta) || null;
+  }
+  const flatWords = (k) => (k.reading && k.reading.lines ? k.reading.lines : k.words).flat();
+
   function renderWords(k) {
     const ai = k.ai || {};
-    const glosses = {};
-    (ai.words || []).forEach((w) => { glosses[w.surface] = w; });
-    const words = (k.reading && k.reading.lines ? k.reading.lines : k.words).flat();
-    document.getElementById('words').innerHTML = words.map((w) => {
-      const g = glosses[w.ta];
+    document.getElementById('words').innerHTML = flatWords(k).map((w, wi) => {
+      const g = wordInfo(k, wi, w);
       let parts = '';
       if (g && g.parts && g.parts.length > 1) {
         parts = '<span class="small muted" lang="ta" style="font-family:var(--ta-ui)">' + g.parts.map((p) => esc(p.text)).join(' + ') + '</span>';
       }
-      return '<div class="word"><span class="ta" lang="ta">' + esc(w.ta) + '</span><span class="tr">' + esc(w.tr) + '</span>' + parts +
-        '<span>' + (g ? esc(g.gloss) : '<span class="pending">Gloss being prepared</span>') + '</span></div>';
-    }).join('');
+      return '<div class="word" data-wi="' + wi + '"><span class="ta" lang="ta">' + esc(w.ta) + '</span><span class="tr">' + esc(w.tr) + '</span>' + parts +
+        '<span>' + (g ? esc(g.gloss) : '<span class="pending">Gloss being prepared</span>') + '</span>' +
+        (g && g.by ? '<span class="reviewed">Reviewed · suggested by ' + esc(g.by) + '</span>' : '') +
+        '<button type="button" class="fix" data-wi="' + wi + '">Suggest a fix</button></div>';
+    }).join('') + '<div id="wordform" style="flex:1 1 100%"></div>';
     document.getElementById('modern').innerHTML = ai.modern
       ? '<div style="border-top:1px solid var(--rule);padding-top:14px;display:flex;flex-direction:column;gap:6px"><p class="small muted" style="font-weight:600">In today\'s Tamil (AI rendering)</p><p class="ta-ui" lang="ta" style="font-size:18px;line-height:1.6">' + esc(ai.modern) + '</p></div>'
       : '';
+  }
+
+  // ---- suggestions (open a pull request on GitHub; see api/suggest.js)
+  const ABOUT = '<div class="row2"><input name="name" maxlength="80" placeholder="Name to credit if accepted" autocomplete="name">' +
+    '<input name="email" type="email" maxlength="254" placeholder="Email, never shown" autocomplete="email"></div>' +
+    '<input class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">';
+  const ACTIONS = '<div class="actions"><button type="submit" class="btn">Send for review</button><button type="button" class="linkbtn" data-cancel>Cancel</button></div>' +
+    '<p class="hint">Reviewed in public on GitHub before anything changes. Your email is never published.</p><p class="msg" role="status"></p>';
+
+  async function send(form, body) {
+    const msg = form.querySelector('.msg'), btn = form.querySelector('button[type=submit]');
+    btn.disabled = true; msg.className = 'msg'; msg.textContent = 'Sending…';
+    try {
+      const r = await fetch('/api/suggest', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(Object.assign({ text: 'kural', n: current.n, name: form.name.value, email: form.email.value, website: form.website.value }, body)) });
+      const j = await r.json().catch(() => null);
+      if (!j || !j.ok) throw new Error((j && j.error) || 'We couldn\'t send that. Please try again.');
+      msg.className = 'msg ok'; msg.textContent = 'Thank you. Your suggestion will be reviewed before it appears.';
+      form.querySelectorAll('input, textarea, button[type=submit]').forEach((x) => (x.disabled = true));
+      form.querySelector('[data-cancel]').textContent = 'Close';
+    } catch (err) { msg.className = 'msg err'; msg.textContent = err.message; btn.disabled = false; }
+  }
+
+  function translationForm() {
+    const box = document.getElementById('tform');
+    const cur = currentTranslation();
+    box.innerHTML = '<form class="sug" novalidate><label for="st">Your translation</label>' +
+      '<textarea id="st" name="t" rows="3" maxlength="1500">' + esc(cur) + '</textarea>' +
+      '<label for="sn">Why? (optional)</label><input id="sn" name="note" maxlength="600" placeholder="What does the current one miss?">' + ABOUT + ACTIONS + '</form>';
+    const f = box.querySelector('form');
+    f.querySelector('textarea').focus();
+    f.querySelector('[data-cancel]').onclick = () => { box.innerHTML = ''; };
+    f.onsubmit = (e) => {
+      e.preventDefault();
+      const msg = f.querySelector('.msg'), t = f.t.value.trim();
+      if (t.length < 15) { msg.className = 'msg err'; msg.textContent = 'Write the full translation you suggest.'; return; }
+      if (t === cur) { msg.className = 'msg err'; msg.textContent = 'That\'s the same as the current translation. Edit it first.'; return; }
+      send(f, { kind: 'translation', t: t, note: f.note.value, current: cur });
+    };
+  }
+
+  function wordForm(wi) {
+    const k = current, w = flatWords(k)[wi], g = wordInfo(k, wi, w) || { parts: [{ text: w.ta, lemma: '', gloss: '' }], gloss: '' };
+    const box = document.getElementById('wordform');
+    const partRow = (p) => '<div class="part"><input lang="ta" aria-label="Part" value="' + esc(p.text) + '"><input lang="ta" aria-label="Root word" value="' + esc(p.lemma || '') + '">' +
+      '<input class="g" aria-label="Meaning of this part" value="' + esc(p.gloss || '') + '"><button type="button" class="x" aria-label="Remove this part">×</button></div>';
+    box.innerHTML = '<form class="sug" novalidate><p style="font-size:15px">Correcting <b lang="ta" style="font-family:var(--ta-ui);font-size:18px">' + esc(w.ta) + '</b>. Change what is wrong and leave the rest.</p>' +
+      '<div class="part hd" aria-hidden="true"><span>Part</span><span>Root word</span><span>Meaning</span><span></span></div>' +
+      '<div class="parts">' + (g.parts || []).map(partRow).join('') + '</div>' +
+      '<div><button type="button" class="linkbtn" data-add>+ Add a part</button></div>' +
+      '<div class="joincheck" role="status" aria-live="polite"></div>' +
+      '<p class="hint">The check uses the same joining rules as the meter scan. You can still send a split that doesn\'t join; the reviewer sees the warning.</p>' +
+      '<label for="wg">Meaning of the whole word</label><input id="wg" name="gloss" maxlength="120" value="' + esc(g.gloss || '') + '">' +
+      '<label for="ww">Why?</label><input id="ww" name="why" maxlength="600" placeholder="What is wrong, and why. A grammar reference helps.">' + ABOUT + ACTIONS + '</form>';
+    const f = box.querySelector('form'), list = f.querySelector('.parts'), out = f.querySelector('.joincheck');
+    const rows = () => [...list.querySelectorAll('.part')].map((r) => { const i = r.querySelectorAll('input'); return { text: i[0].value.trim(), lemma: i[1].value.trim(), gloss: i[2].value.trim() }; }).filter((p) => p.text);
+    const check = () => {
+      const ps = rows().map((p) => p.text);
+      if (!ps.length) { out.className = 'joincheck'; out.textContent = ''; return false; }
+      const all = window.ThJoin.rejoin(ps.map((x) => x.normalize('NFC')));
+      const ok = all.has(w.ta.normalize('NFC'));
+      const shown = [...all].slice(0, 3).map(esc).join(', ');
+      out.className = 'joincheck ' + (ok ? 'ok' : 'no');
+      out.innerHTML = ok ? '<b>Joins back to <span lang="ta">' + esc(w.ta) + '</span>.</b>'
+        : '<b>Doesn\'t join back.</b> <span lang="ta">' + ps.map(esc).join(' + ') + '</span> joins as <span lang="ta">' + shown + '</span>, not <span lang="ta">' + esc(w.ta) + '</span>.';
+      return ok;
+    };
+    list.addEventListener('input', check);
+    list.addEventListener('click', (e) => { if (e.target.closest('.x')) { e.target.closest('.part').remove(); check(); } });
+    f.querySelector('[data-add]').onclick = () => { list.insertAdjacentHTML('beforeend', partRow({ text: '' })); list.lastElementChild.querySelector('input').focus(); };
+    f.querySelector('[data-cancel]').onclick = () => { box.innerHTML = ''; };
+    check();
+    box.scrollIntoView({ block: 'nearest' });
+    list.querySelector('input').focus();
+    f.onsubmit = (e) => {
+      e.preventDefault();
+      const msg = f.querySelector('.msg'), ps = rows();
+      if (!ps.length) { msg.className = 'msg err'; msg.textContent = 'Add at least one part.'; return; }
+      if (f.why.value.trim().length < 10) { msg.className = 'msg err'; msg.textContent = 'Say briefly what is wrong.'; return; }
+      send(f, { kind: 'word', wi: wi, surface: w.ta, parts: ps, gloss: f.gloss.value, why: f.why.value, joins: check(),
+        current: { parts: (g.parts || []), gloss: g.gloss || '' } });
+    };
+  }
+
+  document.addEventListener('click', (e) => {
+    const fix = e.target.closest('.word .fix');
+    if (fix && current) wordForm(parseInt(fix.dataset.wi, 10));
+    if (e.target.id === 'tbtn' && current) translationForm();
+  });
+
+  function currentTranslation() {
+    const rv = reviewed.t[String(current.n)];
+    return rv ? rv.t : ((current.ai || {}).translation || '');
   }
 
   function renderMeter(k) {
@@ -188,11 +291,18 @@
     if (k.n < COUNT) next.href = '/kural?n=' + (k.n + 1); else next.setAttribute('aria-disabled', 'true');
 
     const ai = k.ai || {};
+    current = k;
+    const rvt = reviewed.t[String(k.n)];
     document.getElementById('meaning').innerHTML =
-      '<p lang="ta" style="font-family:var(--ta);font-size:26px;line-height:1.6;font-weight:600;margin-bottom:12px">' + k.lines.map(esc).join('<br>') + '</p>' +
-      (ai.translation
-        ? '<p class="meaning">' + esc(ai.translation) + '</p><p class="small" style="color:var(--gold);margin-top:8px">AI translation</p>'
-        : pending('The AI translation is being prepared.'));
+      '<p lang="ta" style="font-family:var(--ta);font-size:26px;line-height:1.6;font-weight:600;margin-bottom:4px">' + k.lines.map(esc).join('<br>') + '</p>' +
+      '<div id="listen" style="margin-bottom:18px"></div>' +
+      (rvt
+        ? '<p class="meaning">' + esc(rvt.t) + '</p><p class="small" style="color:var(--gold);margin-top:8px">Reviewed translation, suggested by ' + esc(rvt.by) + '</p>'
+        : ai.translation
+          ? '<p class="meaning">' + esc(ai.translation) + '</p><p class="small" style="color:var(--gold);margin-top:8px">AI translation</p>'
+          : pending('The AI translation is being prepared.')) +
+      ((rvt || ai.translation) ? '<button type="button" class="linkbtn" id="tbtn">Suggest a better translation</button><div id="tform"></div>' : '');
+    window.ThListen.bar(document.getElementById('listen'), k.n);
     document.getElementById('roman').innerHTML = k.tr.map(esc).join('<br>');
     renderLetters(k);
     renderWords(k);
@@ -209,6 +319,7 @@
       const c = idx.chapter_of[String(n)];
       const data = await Th.json('/data/kural/' + c + '.json');
       const k = data.kurals.find((x) => x.n === n);
+      try { reviewed = (await Th.json('/data/reviewed.json')).kural || reviewed; } catch (e) { /* none yet */ }
       let ch;
       idx.books.forEach((b) => b.chapters.forEach((x) => { if (x.n === c) ch = x; }));
       render(k, ch);
