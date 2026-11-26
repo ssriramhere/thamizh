@@ -6,10 +6,10 @@
     {
      "text": "முரண்",
      "lemma": "முரண்",
-     "gloss": "battle"
+     "gloss": "hostility"
     }
    ],
-   "gloss": "battle"
+   "gloss": "hostility or opposition"
   },
   {
    "surface": "சேர்ந்த",
@@ -20,7 +20,7 @@
      "gloss": "possessing"
     }
    ],
-   "gloss": "possessing"
+   "gloss": "possessing or associated with"
   },
   {
    "surface": "மொய்ம்பினவர்க்கும்",
@@ -33,25 +33,15 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "of"
+     "gloss": "increment"
     },
     {
-     "text": "அவர்",
+     "text": "அவர்க்கும்",
      "lemma": "அவர்",
-     "gloss": "those"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even to those"
     }
    ],
-   "gloss": "even to those of strength"
+   "gloss": "even to those who possess strength"
   },
   {
    "surface": "அரண்",
@@ -62,7 +52,7 @@
      "gloss": "fortress"
     }
    ],
-   "gloss": "fortress"
+   "gloss": "fortress or defense"
   },
   {
    "surface": "சேர்ந்து",
@@ -70,10 +60,10 @@
     {
      "text": "சேர்ந்து",
      "lemma": "சேர்",
-     "gloss": "having reached"
+     "gloss": "relying on"
     }
    ],
-   "gloss": "having reached"
+   "gloss": "relying on or taking refuge in"
   },
   {
    "surface": "ஆம்",
@@ -81,10 +71,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "becoming"
+     "gloss": "resulting"
     }
    ],
-   "gloss": "becoming"
+   "gloss": "resulting"
   },
   {
    "surface": "ஆக்கம்",
@@ -92,10 +82,10 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "advantage"
+     "gloss": "success"
     }
    ],
-   "gloss": "advantage"
+   "gloss": "success or advantage"
   },
   {
    "surface": "பலவும்",
@@ -111,7 +101,7 @@
      "gloss": "all"
     }
    ],
-   "gloss": "many"
+   "gloss": "many benefits"
   },
   {
    "surface": "தரும்",
@@ -119,16 +109,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will give"
+     "gloss": "will yield"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will yield"
   }
  ],
- "literal": "Battle possessing even to those of strength, fortress having reached becoming advantage many will give.",
- "translation": "Even to those possessing formidable strength in battle, reaching a fortress will yield many advantages.",
- "modern": "போரில் வெற்றிபெறும் வலிமை உடையவர்களுக்கும், ஒரு அரணை அடைந்து செயல்படுவது பல நன்மைகளைத் தரும்.",
- "explanation": "This couplet emphasizes the strategic importance of a secure location, specifically a fortress, regardless of one's inherent power. The phrase 'முரண் சேர்ந்த மொய்ம்பினவர்க்கும்' refers to warriors who already possess immense, battle-hardened strength. One might assume such powerful fighters do not need defensive structures. However, the couplet explains that the advantage gained by operating from a stronghold ('அரண் சேர்ந்தாம் ஆக்கம்') is substantial, as it multiplies their natural strength and yields many successes.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even to those of hostile strength, relying on a fortress, the resulting success will yield many benefits.",
+ "translation": "Even for those who possess aggressive strength, securing a proper stronghold and acting from it will yield many advantages.",
+ "modern": "பகைமை கொண்ட வலிமை உடையவர்களுக்கும், ஒரு பாதுகாப்பான அரணைப் பற்றிக்கொண்டு செயல்படுவதால் உண்டாகும் நன்மைகள் பலவற்றைத் தரும்.",
+ "explanation": "This couplet highlights the strategic importance of choosing a proper place or stronghold, which is the theme of this chapter. Even warriors who possess immense physical strength and hostile power cannot rely on raw force alone. By securing a proper fortress or defensive position, they gain a strategic advantage that multiplies their power. Thus, acting from a secure base yields numerous benefits and ensures victory.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

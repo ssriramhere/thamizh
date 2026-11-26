@@ -20,7 +20,7 @@
      "gloss": "yield"
     }
    ],
-   "gloss": "yield"
+   "gloss": "yield (milk)"
   },
   {
    "surface": "குன்றும்",
@@ -33,7 +33,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will (habitual suffix)"
     }
    ],
    "gloss": "will diminish"
@@ -43,7 +43,7 @@
    "parts": [
     {
      "text": "அறு",
-     "lemma": "ஆறு",
+     "lemma": "அறு",
      "gloss": "six"
     },
     {
@@ -53,11 +53,11 @@
     },
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "those who"
+     "lemma": "அர்",
+     "gloss": "people (suffix)"
     }
    ],
-   "gloss": "those of six duties"
+   "gloss": "those of the six duties (sages/priests)"
   },
   {
    "surface": "நூல்",
@@ -65,10 +65,10 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "text"
+     "gloss": "sacred book"
     }
    ],
-   "gloss": "texts"
+   "gloss": "sacred books / learning"
   },
   {
    "surface": "மறப்பர்",
@@ -79,19 +79,9 @@
      "gloss": "forget"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "ப்பர்",
+     "lemma": "ப்பர்",
+     "gloss": "will (plural suffix)"
     }
    ],
    "gloss": "will forget"
@@ -107,10 +97,10 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "he (masculine suffix)"
     }
    ],
-   "gloss": "protector"
+   "gloss": "the protector (king)"
   },
   {
    "surface": "காவான்",
@@ -121,17 +111,12 @@
      "gloss": "protect"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "does not (negative masculine suffix)"
     }
    ],
-   "gloss": "will not protect"
+   "gloss": "does not protect"
   },
   {
    "surface": "எனின்",
@@ -139,7 +124,7 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "say"
+     "gloss": "say / happen"
     },
     {
      "text": "இன்",
@@ -150,10 +135,10 @@
    "gloss": "if"
   }
  ],
- "literal": "Cow yield will diminish, those of six duties texts will forget, protector protects-not if.",
- "translation": "If the protector fails to protect, the yield of cows will diminish and those of six duties will forget their texts.",
- "modern": "நாட்டை ஆளும் அரசன் மக்களைக் காப்பாற்றாவிட்டால், பசுக்கள் பால் தருவது குறையும்; ஆறு தொழில்களை உடைய அறிஞர்கள் தங்கள் நூல்களை மறந்துவிடுவார்கள்.",
- "explanation": "This couplet describes the breakdown of society when a ruler fails in his duty. The 'protector' (காவலன்) is the king, whose primary duty is to maintain order and justice. If he does not protect his people, the natural and social order collapses. The 'yield of cows' (ஆபயன்) diminishing represents the failure of nature and agriculture, while 'those of six duties' (அறுதொழிலோர்) forgetting their texts signifies the loss of learning, culture, and spiritual practices. Together, these images show that unjust rule destroys both material prosperity and intellectual life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Cow's yield will diminish; those of six duties their sacred books will forget, if the protector does not protect.",
+ "translation": "If the guardian king fails to protect his subjects, the yield of cows will diminish, and those of the six duties will forget their sacred learning.",
+ "modern": "நாட்டைக் காக்கும் அரசன் தன் குடிமக்களைக் காப்பாற்றவில்லை என்றால், பசுக்கள் தரும் பால் வளம் குறையும்; அறநெறி சார்ந்த ஆறு தொழில்களைச் செய்யும் அந்தணர்கள் தங்கள் வேத நூல்களை மறந்துவிடுவார்கள்.",
+ "explanation": "This couplet warns of the total collapse of societal order and prosperity under a ruler who fails to protect his people. The 'yield of cows' (ஆபயன்) represents the material wealth and agricultural abundance of the land, which declines when there is no security. 'Those of the six duties' (அறுதொழிலோர்) refers to the learned class responsible for maintaining wisdom and rituals; without royal protection, they lose the peace required to preserve their sacred texts (நூல்). Thus, a king's failure to protect (காவான் எனின்) destroys both the physical sustenance and the intellectual-spiritual foundation of his kingdom.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

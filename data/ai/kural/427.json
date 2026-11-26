@@ -10,22 +10,22 @@
     },
     {
      "text": "உடையார்",
-     "lemma": "உடை",
-     "gloss": "possessors (they)"
+     "lemma": "உடையார்",
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "those who possess wisdom"
+   "gloss": "Those who possess wisdom"
   },
   {
    "surface": "ஆவது",
    "parts": [
     {
      "text": "ஆவது",
-     "lemma": "ஆ",
+     "lemma": "ஆவது",
      "gloss": "that which will happen"
     }
    ],
-   "gloss": "what will happen"
+   "gloss": "that which will happen"
   },
   {
    "surface": "அறிவார்",
@@ -33,10 +33,10 @@
     {
      "text": "அறிவார்",
      "lemma": "அறி",
-     "gloss": "will know (they)"
+     "gloss": "will know"
     }
    ],
-   "gloss": "they will know"
+   "gloss": "they know"
   },
   {
    "surface": "அறிவிலார்",
@@ -48,11 +48,11 @@
     },
     {
      "text": "இலார்",
-     "lemma": "இல்",
-     "gloss": "those without (they)"
+     "lemma": "இலார்",
+     "gloss": "those who lack"
     }
    ],
-   "gloss": "those without wisdom"
+   "gloss": "those who lack wisdom"
   },
   {
    "surface": "அஃது",
@@ -69,18 +69,23 @@
    "surface": "அறிகல்லாதவர்",
    "parts": [
     {
-     "text": "அறிகல்லாதவர்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "those who cannot know"
+     "gloss": "to know"
+    },
+    {
+     "text": "கல்லாதவர்",
+     "lemma": "கல்லாதவர்",
+     "gloss": "those who do not learn"
     }
    ],
-   "gloss": "those who cannot know"
+   "gloss": "those who are incapable of knowing"
   }
  ],
- "literal": "Those who possess wisdom will know what will happen; those without wisdom are those who cannot know that.",
- "translation": "The wise foresee what is to come. The unwise are those who cannot foresee it.",
- "modern": "அறிவுடையவர்கள் எதிர்காலத்தில் நடக்கப்போவதை முன்கூட்டியே அறிவார்கள். அறிவில்லாதவர்கள் அதனை அறிய முடியாதவர்கள் ஆவர்.",
- "explanation": "This couplet defines wisdom as the capacity for foresight. The word 'ஆவது' refers to what will happen in the future or the natural consequences of one's actions. The wise ('அறிவுடையார்') are able to anticipate these outcomes and act accordingly. In contrast, those lacking wisdom ('அறிவிலார்') are characterized precisely by their inability ('அறிகல்லாதவர்') to foresee what is to come.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who possess wisdom know what will happen; those who lack wisdom are those who cannot know that.",
+ "translation": "Those who possess wisdom foresee what is to come; those who lack wisdom are incapable of knowing it.",
+ "modern": "அறிவு உடையவர்கள் எதிர்காலத்தில் நடக்கப் போவதை அறிவார்கள்; அறிவு இல்லாதவர்கள் அதனை அறிய இயலாதவர்கள் ஆவர்.",
+ "explanation": "This couplet defines true wisdom as the capacity for foresight. The word 'āva-tu' refers to that which is yet to happen, meaning future events or the consequences of current actions. Wise people can anticipate these outcomes and act proactively. Conversely, those who lack wisdom are described as being completely unable to perceive or prepare for what lies ahead.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

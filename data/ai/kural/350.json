@@ -6,15 +6,15 @@
     {
      "text": "பற்று",
      "lemma": "பற்று",
-     "gloss": "to hold"
+     "gloss": "clasp/hold"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "optative suffix (let one)"
     }
    ],
-   "gloss": "hold on to (optative)"
+   "gloss": "let one hold on to"
   },
   {
    "surface": "பற்று",
@@ -31,12 +31,17 @@
    "surface": "அற்றான்",
    "parts": [
     {
-     "text": "அற்றான்",
+     "text": "அற்று",
      "lemma": "அறு",
-     "gloss": "he who is free from"
+     "gloss": "having ceased/without"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who (pronominal suffix)"
     }
    ],
-   "gloss": "he who is free from"
+   "gloss": "he who is without attachments"
   },
   {
    "surface": "பற்றினை",
@@ -44,20 +49,20 @@
     {
      "text": "பற்று",
      "lemma": "பற்று",
-     "gloss": "hold"
+     "gloss": "attachment"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "the hold (accusative)"
+   "gloss": "the attachment"
   },
   {
    "surface": "அப்பற்றை",
@@ -70,15 +75,15 @@
     {
      "text": "பற்று",
      "lemma": "பற்று",
-     "gloss": "hold"
+     "gloss": "attachment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "that hold (accusative)"
+   "gloss": "that attachment"
   },
   {
    "surface": "பற்றுக",
@@ -86,15 +91,15 @@
     {
      "text": "பற்று",
      "lemma": "பற்று",
-     "gloss": "to hold"
+     "gloss": "clasp/hold"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "optative suffix (let one)"
     }
    ],
-   "gloss": "hold on to (optative)"
+   "gloss": "let one hold on to"
   },
   {
    "surface": "பற்று",
@@ -111,23 +116,28 @@
    "surface": "விடற்கு",
    "parts": [
     {
-     "text": "விடல்",
+     "text": "விடு",
      "lemma": "விடு",
-     "gloss": "letting go"
+     "gloss": "leave/let go"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "dative case marker (for)"
     }
    ],
    "gloss": "in order to let go"
   }
  ],
- "literal": "Hold on to the hold of him who is free from attachment; that hold, hold on to, in order to let go of attachment.",
- "translation": "Cling to the hold of the one who has no attachments. Cling to that hold in order to let go of your own attachments.",
- "modern": "எந்தப் பற்றும் இல்லாதவனுடைய பற்றினைப் பற்றிக் கொள்ளுங்கள். உங்களுடைய மற்ற பற்றுகளை விடுவதற்காகவே அந்தப் பற்றினைப் பற்றிக் கொள்ளுங்கள்.",
- "explanation": "This couplet plays brilliantly on the word 'paṟṟu', which means both the physical act of holding on and the psychological state of attachment. It advises the seeker of renunciation to attach themselves to the one who is completely free of attachments. By holding firmly to this single, pure connection, all other worldly ties and desires can be successfully severed. The paradox of using an attachment to destroy attachments highlights the practical method of achieving true detachment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Clasp the attachment of Him who is without attachment; that attachment clasp, for attachments to be let go.",
+ "translation": "Clasp the attachment of Him who is free from all attachments; hold fast to that attachment so that you may let go of your own attachments.",
+ "modern": "பற்றுகள் இல்லாதவனுடைய பற்றினைப் பற்றிக் கொள்ளுங்கள்; நம்முடைய பற்றுகளை விடுவதற்காக அந்தப் பற்றினைப் பற்றிக் கொள்ளுங்கள்.",
+ "explanation": "This couplet explains the path to complete renunciation through a beautiful play on the word 'patru', which means both 'attachment' and 'to hold fast'. The mind cannot remain entirely empty; to rid oneself of worldly desires, one must anchor the mind onto something that is completely free of attachments. By holding onto this pure, desireless attachment, one's own worldly bonds naturally fall away. Thus, the higher attachment becomes the tool to dissolve all lower attachments.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

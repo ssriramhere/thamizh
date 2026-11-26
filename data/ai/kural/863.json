@@ -6,10 +6,10 @@
     {
      "text": "அஞ்சும்",
      "lemma": "அஞ்சு",
-     "gloss": "he fears"
+     "gloss": "fears"
     }
    ],
-   "gloss": "he fears"
+   "gloss": "one who fears"
   },
   {
    "surface": "அறியான்",
@@ -17,15 +17,15 @@
     {
      "text": "அறி",
      "lemma": "அறி",
-     "gloss": "to know"
+     "gloss": "know"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (does not)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he knows not"
+   "gloss": "one who does not know"
   },
   {
    "surface": "அமைவு",
@@ -33,37 +33,32 @@
     {
      "text": "அமைவு",
      "lemma": "அமைவு",
-     "gloss": "fitness"
+     "gloss": "harmony"
     }
    ],
-   "gloss": "fitness"
+   "gloss": "harmony"
   },
   {
    "surface": "இலன்",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இலன்",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "he who does not have"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "one who does not have"
   },
   {
    "surface": "ஈகலான்",
    "parts": [
     {
      "text": "ஈகலான்",
-     "lemma": "ஈ",
-     "gloss": "he gives not"
+     "lemma": "ஈகலான்",
+     "gloss": "one who does not give"
     }
    ],
-   "gloss": "he gives not"
+   "gloss": "one who does not give"
   },
   {
    "surface": "தஞ்சம்",
@@ -71,10 +66,10 @@
     {
      "text": "தஞ்சம்",
      "lemma": "தஞ்சம்",
-     "gloss": "entirely"
+     "gloss": "easily"
     }
    ],
-   "gloss": "entirely"
+   "gloss": "easily"
   },
   {
    "surface": "எளியன்",
@@ -82,10 +77,10 @@
     {
      "text": "எளியன்",
      "lemma": "எளியன்",
-     "gloss": "he is easy"
+     "gloss": "one who is easy"
     }
    ],
-   "gloss": "he is easy"
+   "gloss": "one who is easy to defeat"
   },
   {
    "surface": "பகைக்கு",
@@ -101,13 +96,13 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to the enemy"
+   "gloss": "to enemies"
   }
  ],
- "literal": "He fears, he knows not, fitness he is without, he gives not; entirely he is easy to the enemy.",
- "translation": "He who is fearful, ignorant, lacking in adaptability, and ungenerous, is an easy prey to his enemies.",
- "modern": "எதற்கும் பயப்படுகிறவனாகவும், அறிய வேண்டியவற்றை அறியாதவனாகவும், பிறரோடு பொருந்தி வாழும் பண்பு இல்லாதவனாகவும், யாருக்கும் எதுவும் கொடுக்காதவனாகவும் இருப்பவன், தன் பகைவருக்கு மிக எளிதில் இரையாவான்.",
- "explanation": "This couplet lists four flaws that make a person highly vulnerable to their enemies. The flaws are cowardice ('அஞ்சும்'), ignorance ('அறியான்'), lack of adaptability or good traits ('அமைவு'), and stinginess ('ஈகலான்'). A person with these negative qualities will not have the courage, knowledge, social harmony, or allies needed to defend themselves. Consequently, they become an entirely effortless target ('தஞ்சம் எளியன்') for their foes.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "One who fears, knows not, harmony has not, gives not, is easily vulnerable to enemies.",
+ "translation": "One who is fearful, ignorant, lacking in social harmony, and miserly, becomes an extremely easy prey for his enemies.",
+ "modern": "அச்சப்படுபவனும், அறிவில்லாதவனும், பிறருடன் இணங்கிப் போகாதவனும், கொடைத்தன்மை இல்லாதவனும் ஆகிய ஒருவன், தன் பகைவர்க்கு மிக எளிதில் தோற்றுப் போகக்கூடியவன் ஆவான்.",
+ "explanation": "This couplet outlines four fatal flaws that make a person highly vulnerable to their enemies. First, fearfulness prevents them from taking bold action. Second, ignorance deprives them of strategic wisdom. Third, a lack of harmony or adaptability isolates them from potential allies. Fourth, miserliness ensures they have no loyal supporters. Together, these traits make such a person an incredibly easy target for any adversary.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

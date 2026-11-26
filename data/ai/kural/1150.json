@@ -6,10 +6,10 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "they (honorific)"
+     "gloss": "they themselves"
     }
    ],
-   "gloss": "they (honorific)"
+   "gloss": "they themselves"
   },
   {
    "surface": "வேண்டின்",
@@ -17,7 +17,7 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
      "text": "இன்",
@@ -25,7 +25,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if desired"
+   "gloss": "if they desire"
   },
   {
    "surface": "நல்குவர்",
@@ -33,31 +33,31 @@
     {
      "text": "நல்கு",
      "lemma": "நல்கு",
-     "gloss": "to bestow"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
+     "gloss": "grant"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "epicene plural suffix (honorific)"
+     "gloss": "they (honorific)"
     }
    ],
-   "gloss": "will bestow"
+   "gloss": "they will grant grace"
   },
   {
    "surface": "காதலர்",
    "parts": [
     {
-     "text": "காதலர்",
-     "lemma": "காதலர்",
-     "gloss": "lover"
+     "text": "காதல்",
+     "lemma": "காதல்",
+     "gloss": "love"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "he (honorific)"
     }
    ],
-   "gloss": "lover"
+   "gloss": "the lover"
   },
   {
    "surface": "யாம்",
@@ -65,10 +65,10 @@
     {
      "text": "யாம்",
      "lemma": "யாம்",
-     "gloss": "we"
+     "gloss": "we (I)"
     }
    ],
-   "gloss": "we"
+   "gloss": "I"
   },
   {
    "surface": "வேண்டும்",
@@ -76,7 +76,7 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
      "text": "உம்",
@@ -92,10 +92,10 @@
     {
      "text": "கௌவை",
      "lemma": "கௌவை",
-     "gloss": "rumour"
+     "gloss": "public rumor"
     }
    ],
-   "gloss": "rumour"
+   "gloss": "public rumor"
   },
   {
    "surface": "எடுக்கும்",
@@ -103,38 +103,28 @@
     {
      "text": "எடு",
      "lemma": "எடு",
-     "gloss": "to raise"
+     "gloss": "raise"
     },
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "future tense marker"
+     "gloss": "increment"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "habitual/present suffix"
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "raises"
+   "gloss": "raising"
   },
   {
    "surface": "இவ்",
    "parts": [
     {
-     "text": "இ",
+     "text": "இவ்",
      "lemma": "இ",
      "gloss": "this"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
     }
    ],
    "gloss": "this"
@@ -151,10 +141,10 @@
    "gloss": "town"
   }
  ],
- "literal": "They if-desire will-bestow lover; we desiring rumour raises this town.",
- "translation": "My lover will grant his grace only if he wishes. But this town raises the very rumour that I desire.",
- "modern": "காதலர் தாம் விரும்பினால் மட்டுமே எனக்கு அன்பை அளிப்பார். ஆனால் இந்த ஊர் நான் விரும்புகின்ற அலரை (பழியை) தானே எழுப்புகிறது.",
- "explanation": "The heroine reflects on the public gossip surrounding her secret relationship. She notes that her lover will only show her affection when he himself chooses to do so, leaving her at his mercy. In contrast, the town is actively spreading rumours about them, which is exactly what she wants. The word \"கௌவை\" (uproar or rumour) highlights the public chatter, which serves her purpose by making their love known and compelling her lover to formalize their union.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "They themselves if they desire, will grant grace, the lover; I desiring, public rumor raises, this town.",
+ "translation": "My lover will grant his grace only when he himself desires it; yet, this town is raising the very public rumor that I desire.",
+ "modern": "காதலர் தாம் விரும்பினால் மட்டுமே வந்து அருள் செய்வார்; ஆனால், நான் விரும்புகின்ற அலரை (வதந்தியை) இந்த ஊர் எழுப்புகிறது.",
+ "explanation": "The heroine, separated from her lover, notes that her lover's return depends entirely on his own will. However, she finds comfort in the gossip spreading through her town. The word 'kauvai' refers to the public rumor or scandal about their secret love. She welcomes this gossip because it is exactly what she desires; the public pressure from the rumor will eventually compel her lover to return and marry her.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

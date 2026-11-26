@@ -4,17 +4,12 @@
    "surface": "வலியார்",
    "parts": [
     {
-     "text": "வலி",
-     "lemma": "வலி",
-     "gloss": "strength"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (pronominal suffix)"
+     "text": "வலியார்",
+     "lemma": "வலியார்",
+     "gloss": "those who are stronger"
     }
    ],
-   "gloss": "strong people"
+   "gloss": "stronger people"
   },
   {
    "surface": "முன்",
@@ -38,7 +33,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "(accusative suffix)"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "oneself"
@@ -52,9 +47,9 @@
      "gloss": "think"
     },
     {
-     "text": "க்க",
+     "text": "க",
      "lemma": "க",
-     "gloss": "let (optative suffix)"
+     "gloss": "optative/imperative suffix"
     }
    ],
    "gloss": "let one think"
@@ -80,7 +75,7 @@
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "than (comparative suffix)"
     }
    ],
@@ -90,17 +85,12 @@
    "surface": "மெலியார்",
    "parts": [
     {
-     "text": "மெலி",
-     "lemma": "மெலி",
-     "gloss": "weakness"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (pronominal suffix)"
+     "text": "மெலியார்",
+     "lemma": "மெலியார்",
+     "gloss": "those who are weaker"
     }
    ],
-   "gloss": "weak people"
+   "gloss": "weaker people"
   },
   {
    "surface": "மேல்",
@@ -108,10 +98,10 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "upon"
+     "gloss": "upon / against"
     }
    ],
-   "gloss": "upon / against"
+   "gloss": "against"
   },
   {
    "surface": "செல்லும்",
@@ -124,7 +114,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "(adjectival suffix)"
+     "gloss": "participle suffix"
     }
    ],
    "gloss": "going"
@@ -135,16 +125,16 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "at the time"
+     "gloss": "at the time / when"
     }
    ],
-   "gloss": "at the time"
+   "gloss": "when"
   }
  ],
- "literal": "Before stronger ones oneself let think, oneself than weaker ones upon going at the time.",
- "translation": "When advancing against those weaker than oneself, one should imagine oneself standing before those who are stronger.",
- "modern": "தன்னை விட மெலிந்தவர்கள் மேல் தான் அதிகாரம் செலுத்தச் செல்லும் போது, தன்னை விட வலியவர்கள் முன் தான் அஞ்சி நிற்கும் நிலையை ஒருவன் நினைத்துப் பார்க்க வேண்டும்.",
- "explanation": "This couplet teaches compassion by asking us to put ourselves in the shoes of the vulnerable. When a person is about to use their power against someone weaker, they are told to pause. In that moment, they should imagine themselves standing before someone much stronger. By remembering their own fear and helplessness in the face of greater power, they will naturally feel mercy toward those they are about to harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Before stronger people oneself let one think, when oneself against those weaker than oneself goes.",
+ "translation": "When a person goes to oppress those who are weaker than themselves, let them think of how they would stand helpless before those who are stronger than themselves.",
+ "modern": "ஒருவர் தன்னை விட மெலிந்தவர் மேல் துன்பம் செய்யச் செல்லும்போது, தன்னை விட வலியவர் முன்னால் தான் அஞ்சி நிற்கும் நிலையை நினைக்க வேண்டும்.",
+ "explanation": "This couplet teaches empathy and compassion by appealing to our own sense of vulnerability. When we are in a position of power, we often forget the pain of the weak and act ruthlessly. The poet advises that before we oppress someone weaker ('மெலியார்'), we should imagine ourselves standing helpless before someone stronger ('வலியார்') than us. This mental shift evokes the feeling of fear and vulnerability, which immediately curbs our desire to harm the weak, fostering compassion ('அருள்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

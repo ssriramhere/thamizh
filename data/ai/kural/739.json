@@ -15,14 +15,9 @@
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they say"
     }
    ],
    "gloss": "they say"
@@ -38,7 +33,7 @@
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "without"
+     "gloss": "without (negative suffix)"
     }
    ],
    "gloss": "without seeking"
@@ -47,17 +42,13 @@
    "surface": "வளத்தன",
    "parts": [
     {
-     "text": "வளத்து",
-     "lemma": "வளம்",
-     "gloss": "wealth"
-    },
-    {
-     "text": "அன",
-     "lemma": "அன",
-     "gloss": "they have"
+     "text": "வளத்தன",
+     "lemma": "வளத்தன",
+     "gloss": "those which have wealth"
     }
    ],
-   "gloss": "they have wealth"
+   "gloss": "those which have wealth",
+   "split_unverified": true
   },
   {
    "surface": "நாடு",
@@ -68,20 +59,15 @@
      "gloss": "country"
     }
    ],
-   "gloss": "countries"
+   "gloss": "country"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "they are"
+     "gloss": "are not"
     }
    ],
    "gloss": "are not"
@@ -97,10 +83,10 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "to"
+     "gloss": "to (infinitive suffix)"
     }
    ],
-   "gloss": "by seeking"
+   "gloss": "to seek"
   },
   {
    "surface": "வளம்",
@@ -119,7 +105,7 @@
     {
      "text": "தரு",
      "lemma": "தா",
-     "gloss": "give"
+     "gloss": "giving"
     }
    ],
    "gloss": "giving"
@@ -136,10 +122,10 @@
    "gloss": "country"
   }
  ],
- "literal": "Country, they say, unseeking wealth-having; countries are not, to seek wealth giving country.",
- "translation": "A true country is one that possesses wealth without it having to be sought. A land that yields wealth only through hard seeking is no country at all.",
- "modern": "முயன்று தேடாமலேயே செல்வத்தை உடைய நாடே சிறந்த நாடு என்று அறிஞர் கூறுவார்கள். மிகவும் முயன்று தேடிய பிறகே செல்வத்தைத் தரும் நாடு சிறந்த நாடாகாது.",
- "explanation": "This couplet defines the ideal economic state of a country. A true country is one where wealth and resources are naturally abundant and easily accessible without strenuous searching. If a land requires its people to struggle and search extensively just to find basic wealth, it does not deserve to be called a great country. The contrast between 'நாடா' (without seeking) and 'நாட' (by seeking) emphasizes that prosperity should be effortless for the inhabitants.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A country they say is that which has wealth without seeking; not a country is that which gives wealth when sought.",
+ "translation": "They say a true country is one that yields wealth without requiring laborious search; a land that yields wealth only when sought is no country at all.",
+ "modern": "முயற்சி செய்து தேடாமலேயே வளம் தரும் நாடே சிறந்த நாடு என்று கூறுவர்; தேடி முயற்சி செய்தால் மட்டுமே வளம் தரும் நாடு ஒரு நாடாகாது.",
+ "explanation": "This couplet defines the ideal country based on its natural abundance. A truly great nation is one where resources and wealth are naturally plentiful, requiring no painful struggle or desperate seeking by its citizens. Conversely, a land where people must toil excessively and search hard just to obtain basic wealth does not deserve to be called a true country. The word 'நாடா' (without seeking) highlights effortless prosperity, while 'நாட' (upon seeking) emphasizes the burden of forced labor to extract wealth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

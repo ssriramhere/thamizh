@@ -6,37 +6,37 @@
     {
      "text": "சிதைவு",
      "lemma": "சிதைவு",
-     "gloss": "ruin"
+     "gloss": "ruin or adversity"
     },
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "at the place/time"
+     "gloss": "at the time of"
     }
    ],
-   "gloss": "at the time of ruin"
+   "gloss": "at the time of ruin or adversity"
   },
   {
    "surface": "ஒல்கார்",
    "parts": [
     {
      "text": "ஒல்கார்",
-     "lemma": "ஒல்கு",
-     "gloss": "they shrink not"
+     "lemma": "ஒல்குதல்",
+     "gloss": "they will not flinch or lose heart"
     }
    ],
-   "gloss": "they shrink not"
+   "gloss": "will not lose heart"
   },
   {
    "surface": "உரவோர்",
    "parts": [
     {
      "text": "உரவோர்",
-     "lemma": "உரம்",
-     "gloss": "strong-willed ones"
+     "lemma": "உரவோர்",
+     "gloss": "those possessing mental strength"
     }
    ],
-   "gloss": "strong-willed ones"
+   "gloss": "those of strong will"
   },
   {
    "surface": "புதையம்பிற்",
@@ -44,10 +44,10 @@
     {
      "text": "புதையம்பிற்",
      "lemma": "புதையம்பு",
-     "gloss": "by a mass of arrows"
+     "gloss": "by a shower of arrows"
     }
    ],
-   "gloss": "by a mass of arrows"
+   "gloss": "by a shower of arrows"
   },
   {
    "surface": "பட்டு",
@@ -55,10 +55,10 @@
     {
      "text": "பட்டு",
      "lemma": "படு",
-     "gloss": "having been struck"
+     "gloss": "having been pierced or struck"
     }
    ],
-   "gloss": "having been struck"
+   "gloss": "having been pierced"
   },
   {
    "surface": "பாடு",
@@ -66,21 +66,21 @@
     {
      "text": "பாடு",
      "lemma": "பாடு",
-     "gloss": "greatness"
+     "gloss": "dignity or greatness"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "dignity"
   },
   {
    "surface": "ஊன்றும்",
    "parts": [
     {
      "text": "ஊன்றும்",
-     "lemma": "ஊன்று",
-     "gloss": "will stand firm"
+     "lemma": "ஊன்றுதல்",
+     "gloss": "will plant firmly"
     }
    ],
-   "gloss": "will stand firm"
+   "gloss": "will plant firmly"
   },
   {
    "surface": "களிறு",
@@ -88,16 +88,16 @@
     {
      "text": "களிறு",
      "lemma": "களிறு",
-     "gloss": "bull elephant"
+     "gloss": "male war-elephant"
     }
    ],
-   "gloss": "bull elephant"
+   "gloss": "war-elephant"
   }
  ],
- "literal": "At the time of ruin they shrink not, the strong-willed; by a mass of arrows having been struck, standing firm in greatness, the bull elephant.",
- "translation": "The strong-willed will not lose heart when facing defeat. They are like a bull elephant that stands firm in its greatness even when struck by a shower of arrows.",
- "modern": "தோல்வி வந்தாலும் மன உறுதி உடையவர்கள் மனம் தளர மாட்டார்கள். அவர்கள், உடம்பில் அம்புகள் பாய்ந்தாலும் தன் பெருமை குன்றாமல் உறுதியாக நிற்கும் ஆண் யானையைப் போன்றவர்கள்.",
- "explanation": "This couplet compares strong-willed people to a majestic bull elephant in battle. Even when pierced by a thick shower of arrows, the elephant does not fall but stands firm in its pride. Similarly, those with true inner strength will not lose their motivation or shrink back when they face ruin or severe setbacks. The word 'பாடு' here carries the sense of greatness or dignity, showing how the elephant, and the strong-willed person, maintain their stature in adversity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "At the time of ruin, they will not flinch, those of strong will, like a war-elephant that, having been pierced by a shower of arrows, plants its feet firmly with dignity.",
+ "translation": "Those of strong will do not lose heart even in times of ruin; they are like a war-elephant that stands firm with dignity even when pierced by a shower of arrows.",
+ "modern": "அழிவு வந்த காலத்திலும் மனவலிமை உடையவர்கள் தளர மாட்டார்கள்; அது, அம்புக் கூட்டங்கள் தன் மேல் பட்டுத் துளைத்த போதிலும், தன் பெருமையைக் காக்க கால்களை உறுதியாக ஊன்றி நிற்கும் ஆண் யானையைப் போன்றது.",
+ "explanation": "This couplet compares people of strong determination (உரவோர்) to a majestic war-elephant (களிறு). When faced with adversity or ruin (சிதைவிடத்து), these strong-willed individuals do not lose heart or flinch (ஒல்கார்). Just as a battle elephant, even when pierced by a thick shower of arrows (புதையம்பிற் பட்டு), refuses to fall and instead plants its feet firmly to maintain its dignity and strength (பாடு ஊன்றும்), the wise and strong-willed stand resolute against the arrows of misfortune. The key word 'உரவோர்' highlights that true strength is mental, and 'பாடு' emphasizes the dignity maintained during struggle.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

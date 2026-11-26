@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "தெருளாதான்",
-     "lemma": "தெருள்",
-     "gloss": "he who is not clear"
+     "lemma": "தெருளாதான்",
+     "gloss": "one who lacks mental clarity"
     }
    ],
-   "gloss": "he who is confused"
+   "gloss": "one who lacks mental clarity"
   },
   {
    "surface": "மெய்ப்பொருள்",
@@ -25,7 +25,7 @@
      "gloss": "reality"
     }
    ],
-   "gloss": "true reality"
+   "gloss": "the ultimate truth"
   },
   {
    "surface": "கண்டு",
@@ -44,10 +44,10 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   },
   {
    "surface": "ஆல்",
@@ -55,7 +55,7 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "indeed"
+     "gloss": "an emphatic particle"
     }
    ],
    "gloss": "indeed"
@@ -64,44 +64,34 @@
    "surface": "தேரின்",
    "parts": [
     {
-     "text": "தேர்",
+     "text": "தேரின்",
      "lemma": "தேர்",
-     "gloss": "examine"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one examines"
     }
    ],
-   "gloss": "if examined"
+   "gloss": "if one examines"
   },
   {
    "surface": "அருளாதான்",
    "parts": [
     {
      "text": "அருளாதான்",
-     "lemma": "அருள்",
-     "gloss": "he who lacks compassion"
+     "lemma": "அருளாதான்",
+     "gloss": "one who lacks compassion"
     }
    ],
-   "gloss": "he who lacks compassion"
+   "gloss": "one who lacks compassion"
   },
   {
    "surface": "செய்யும்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யும்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which does"
+     "gloss": "does"
     }
    ],
-   "gloss": "doing"
+   "gloss": "that which is performed by"
   },
   {
    "surface": "அறம்",
@@ -115,10 +105,10 @@
    "gloss": "virtue"
   }
  ],
- "literal": "He who is confused true reality having seen like that indeed if examined he who lacks compassion doing virtue.",
- "translation": "If examined, the virtue practiced by one who lacks compassion is like a confused mind perceiving true reality.",
- "modern": "ஆராய்ந்து பார்த்தால், இரக்கம் இல்லாதவன் செய்யும் அறச்செயல்கள், மனத்தெளிவு இல்லாதவன் உண்மையான பொருளைக் கண்டதைப் போன்றது.",
- "explanation": "This couplet compares a person without compassion trying to practice virtue to a confused person trying to grasp the ultimate truth. Just as a clouded mind cannot truly perceive reality, a heart without compassion cannot genuinely perform virtuous deeds. The word 'தெருளாதான்' (one lacking mental clarity) perfectly mirrors 'அருளாதான்' (one lacking emotional grace), showing that compassion is the fundamental clarity of the heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like one who lacks clarity seeing the ultimate truth, if examined, is the virtue performed by one who lacks compassion.",
+ "translation": "If one considers it, the virtuous deeds performed by a person devoid of compassion are like a man of confused mind attempting to perceive the ultimate truth.",
+ "modern": "ஆராய்ந்து பார்த்தால், அருள் இல்லாதவன் செய்யும் அறச்செயலானது, மனத்தெளிவு இல்லாதவன் மெய்ப்பொருளைக் கண்டதைப் போன்றதாகும்.",
+ "explanation": "This couplet compares the virtue practiced by someone without compassion to a confused person trying to perceive the ultimate truth. Just as a person lacking mental clarity cannot truly comprehend or sustain the realization of ultimate reality, a person who lacks basic compassion cannot perform genuine, lasting acts of virtue. Compassion is the very foundation of virtue; without it, any outward act of charity or righteousness is hollow and unsustainable. Thus, the author emphasizes that compassion is the prerequisite for all true moral actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

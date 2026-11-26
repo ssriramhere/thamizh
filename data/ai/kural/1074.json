@@ -6,10 +6,10 @@
     {
      "text": "அகப்பட்டி",
      "lemma": "அகப்பட்டி",
-     "gloss": "wicked person"
+     "gloss": "submissive person"
     }
    ],
-   "gloss": "wicked person"
+   "gloss": "a submissive person"
   },
   {
    "surface": "ஆவாரை",
@@ -17,15 +17,15 @@
     {
      "text": "ஆவார்",
      "lemma": "ஆகு",
-     "gloss": "those who are"
+     "gloss": "those who become"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who are (acc.)"
+   "gloss": "those who become"
   },
   {
    "surface": "காணின்",
@@ -41,7 +41,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if seen"
+   "gloss": "if they see"
   },
   {
    "surface": "அவரின்",
@@ -70,21 +70,21 @@
     {
      "text": "பட்டு",
      "lemma": "படு",
-     "gloss": "having become"
+     "gloss": "having behaved"
     }
    ],
-   "gloss": "having exceeded"
+   "gloss": "behaving excessively"
   },
   {
    "surface": "செம்மாக்கும்",
    "parts": [
     {
      "text": "செம்மாக்கும்",
-     "lemma": "செம்மாக்கு",
-     "gloss": "will be proud"
+     "lemma": "செம்மா",
+     "gloss": "will swell with pride"
     }
    ],
-   "gloss": "will be proud"
+   "gloss": "will swell with pride"
   },
   {
    "surface": "கீழ்",
@@ -95,13 +95,13 @@
      "gloss": "base person"
     }
    ],
-   "gloss": "base person"
+   "gloss": "the base person"
   }
  ],
- "literal": "wicked person / those who are / if seen / than them / having exceeded / will be proud / base person",
- "translation": "If a base person sees someone who is wicked and unrestrained, he will outdo them in wickedness and feel proud of himself.",
- "modern": "கீழான குணமுடையவர்கள் தங்களை விட மோசமானவர்களைக் கண்டால், அவர்களை விடத் தாங்கள் இன்னும் மோசமாக நடந்து கொண்டு பெருமைப்படுவார்கள்.",
- "explanation": "This couplet describes the competitive nature of base people in doing wrong. When a vile person encounters someone who is wicked and unrestrained ('அகப்பட்டி'), they do not feel disgust or try to avoid them. Instead, they strive to exceed that person's wickedness ('மிகப்பட்டு') and actually take pride ('செம்மாக்கும்') in being worse. It highlights how baseness celebrates and escalates bad behavior rather than correcting it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A submissive person those who become if they see, than them exceedingly behaving, will swell with pride the base person.",
+ "translation": "If base people see those who submit to them, they will behave with even greater excess and swell with pride over them.",
+ "modern": "தமக்கு அடங்கி நடப்பவர்களைக் கண்டால், கீழ் மக்கள் அவர்களை விடவும் அதிகமாகத் தலைக்கனம் கொண்டு செருக்குடன் நடப்பார்கள்.",
+ "explanation": "This couplet describes the arrogant nature of base or low-minded individuals when they encounter submissive people. When a base person (கீழ்) sees someone who is compliant or yields to them (அகப்பட்டி ஆவாரை), they do not show mercy or kindness. Instead, they behave with even greater dominance and arrogance (மிகப்பட்டு), swelling with pride (செம்மாக்கும்) to lord over them. Their power trip is triggered by the helplessness or submission of others, revealing their lack of true nobility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

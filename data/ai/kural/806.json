@@ -4,17 +4,12 @@
    "surface": "எல்லைக்கண்",
    "parts": [
     {
-     "text": "எல்லை",
-     "lemma": "எல்லை",
-     "gloss": "limit"
-    },
-    {
-     "text": "கண்",
-     "lemma": "கண்",
-     "gloss": "at"
+     "text": "எல்லைக்கண்",
+     "lemma": "எல்லைக்கண்",
+     "gloss": "within the boundary of propriety"
     }
    ],
-   "gloss": "at the limit"
+   "gloss": "within the boundary of proper conduct"
   },
   {
    "surface": "நின்றார்",
@@ -25,7 +20,7 @@
      "gloss": "those who stood"
     }
    ],
-   "gloss": "those who stood"
+   "gloss": "those who stand firm"
   },
   {
    "surface": "துறவார்",
@@ -33,10 +28,10 @@
     {
      "text": "துறவார்",
      "lemma": "துற",
-     "gloss": "they will not abandon"
+     "gloss": "will not abandon"
     }
    ],
-   "gloss": "they will not abandon"
+   "gloss": "will not abandon"
   },
   {
    "surface": "தொலைவு",
@@ -44,10 +39,10 @@
     {
      "text": "தொலைவு",
      "lemma": "தொலைவு",
-     "gloss": "ruin"
+     "gloss": "ruin/adversity"
     }
    ],
-   "gloss": "ruin"
+   "gloss": "ruin or adversity"
   },
   {
    "surface": "இடத்தும்",
@@ -55,7 +50,7 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "at the place"
+     "gloss": "situation"
     },
     {
      "text": "உம்",
@@ -63,23 +58,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even at the place"
+   "gloss": "even in the situation of"
   },
   {
    "surface": "தொல்லைக்கண்",
    "parts": [
     {
-     "text": "தொல்லை",
-     "lemma": "தொல்லை",
-     "gloss": "antiquity"
-    },
-    {
-     "text": "கண்",
-     "lemma": "கண்",
-     "gloss": "at"
+     "text": "தொல்லைக்கண்",
+     "lemma": "தொல்லைக்கண்",
+     "gloss": "in the long-standing relationship"
     }
    ],
-   "gloss": "in antiquity"
+   "gloss": "in the ancient, long-standing friendship"
   },
   {
    "surface": "நின்றார்",
@@ -98,16 +88,16 @@
     {
      "text": "தொடர்பு",
      "lemma": "தொடர்பு",
-     "gloss": "connection"
+     "gloss": "friendship"
     }
    ],
-   "gloss": "connection"
+   "gloss": "friendship"
   }
  ],
- "literal": "At the limit those who stood will not abandon, even at the place of ruin, the connection of those who stood in antiquity.",
- "translation": "Those who stand firmly within the bounds of noble character will not abandon their bond with old friends, even in times of ruin.",
- "modern": "நற்பண்பின் எல்லையில் நிலைத்து நிற்பவர்கள், தம் பழைய நண்பர்கள் அழிவைச் சந்தித்த காலத்திலும், அவர்களுடனான நட்பைக் கைவிட மாட்டார்கள்.",
- "explanation": "This couplet highlights the unwavering loyalty of true friends. The phrase 'எல்லைக்கண் நின்றார்' refers to those who stand firmly within the boundaries of noble character. It states that such people will never abandon the connection ('தொடர்பு') with their long-standing friends ('தொல்லைக்கண் நின்றார்'), even when faced with ruin or severe loss ('தொலைவிடத்தும்'). The word 'தொலைவு' here is taken to mean ruin or hardship, emphasizing that true intimacy withstands the greatest trials.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who stood within the boundary of propriety will not abandon, even in times of ruin, the friendship of those who stood in long-standing affection.",
+ "translation": "Those who stand firm within the bounds of propriety will not abandon their relationship with long-standing friends, even in times of ruin.",
+ "modern": "நட்பின் எல்லையைக் கடக்காமல் வாழ்பவர்கள், தமக்கு அழிவு வந்த காலத்திலும், பழமையான நட்பில் நிலைத்து நின்றவர்களுடைய உறவைக் கைவிட மாட்டார்கள்.",
+ "explanation": "This couplet emphasizes the enduring nature of true friendship. The phrase 'எல்லைக்கண் நின்றார்' refers to principled individuals who never cross the boundaries of loyalty and proper conduct. 'தொல்லைக்கண் நின்றார்' refers to old, long-standing friends who have maintained their affection over a long period. The poet explains that even when facing complete ruin or adversity ('தொலைவிடத்தும்'), those of noble character will never abandon their ancient bonds, showing that historical loyalty is far more valuable than temporary material circumstances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

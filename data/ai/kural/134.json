@@ -4,9 +4,14 @@
    "surface": "மறப்பினும்",
    "parts": [
     {
-     "text": "மறப்பின்",
-     "lemma": "மற",
-     "gloss": "if forgotten"
+     "text": "மறப்பு",
+     "lemma": "மறப்பு",
+     "gloss": "forgetting"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     },
     {
      "text": "உம்",
@@ -22,23 +27,18 @@
     {
      "text": "ஓத்து",
      "lemma": "ஓத்து",
-     "gloss": "scripture"
+     "gloss": "the Vedas"
     }
    ],
-   "gloss": "scripture"
+   "gloss": "the Vedas"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
-     "lemma": "கொள்",
-     "gloss": "acquire"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "கொளல்",
+     "lemma": "கொள்ளுதல்",
+     "gloss": "acquiring"
     }
    ],
    "gloss": "acquiring"
@@ -47,14 +47,9 @@
    "surface": "ஆகும்",
    "parts": [
     {
-     "text": "ஆகு",
-     "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "text": "ஆகும்",
+     "lemma": "ஆகுதல்",
+     "gloss": "is possible"
     }
    ],
    "gloss": "is possible"
@@ -65,10 +60,10 @@
     {
      "text": "பார்ப்பான்",
      "lemma": "பார்ப்பான்",
-     "gloss": "seer/scholar"
+     "gloss": "Brahmin"
     }
    ],
-   "gloss": "seer"
+   "gloss": "Brahmin"
   },
   {
    "surface": "பிறப்பு",
@@ -76,10 +71,10 @@
     {
      "text": "பிறப்பு",
      "lemma": "பிறப்பு",
-     "gloss": "birth"
+     "gloss": "birth status"
     }
    ],
-   "gloss": "birth"
+   "gloss": "birth status"
   },
   {
    "surface": "ஒழுக்கம்",
@@ -87,48 +82,38 @@
     {
      "text": "ஒழுக்கம்",
      "lemma": "ஒழுக்கம்",
-     "gloss": "proper conduct"
+     "gloss": "conduct"
     }
    ],
-   "gloss": "proper conduct"
+   "gloss": "conduct"
   },
   {
    "surface": "குன்ற",
    "parts": [
     {
-     "text": "குன்று",
-     "lemma": "குன்று",
-     "gloss": "diminish"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "குன்ற",
+     "lemma": "குன்றுதல்",
+     "gloss": "to slip"
     }
    ],
-   "gloss": "to diminish"
+   "gloss": "when slipped"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடு",
-     "lemma": "கெடு",
-     "gloss": "destroy"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "text": "கெடும்",
+     "lemma": "கெடுதல்",
+     "gloss": "will be ruined"
     }
    ],
-   "gloss": "will be destroyed"
+   "gloss": "will be ruined"
   }
  ],
- "literal": "Even if forgotten, scripture acquiring is possible; a seer's birth, proper conduct diminishing, will be destroyed.",
- "translation": "Even if a scholar forgets his scriptures, he can learn them again. But if his proper conduct diminishes, the nobility of his birth is destroyed.",
- "modern": "கற்ற நூல்களை மறந்தாலும் மீண்டும் படித்துக் கொள்ள முடியும். ஆனால் ஒருவனுடைய நல்லொழுக்கம் குறைந்தால் அவனது குடிப்பிறப்பின் சிறப்பும் கெட்டழியும்.",
- "explanation": "This couplet contrasts the loss of learned knowledge with the loss of good conduct. The word 'ஓத்து' refers to chanted scriptures or learned texts, which can be relearned ('கொளலாகும்') even if forgotten ('மறப்பினும்'). However, 'ஒழுக்கம்' (proper conduct) is so fundamental that if it diminishes ('குன்ற'), the very status and nobility of a person's birth ('பிறப்பு') is permanently destroyed ('கெடும்'). The poem uses the figure of the 'பார்ப்பான்' (seer or scholar) to emphasize that even for those whose primary duty is learning, moral conduct is far more critical than intellectual retention.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if forgotten, the Vedas acquiring is possible; (but) a Brahmin's birth status, when conduct slips, will be ruined.",
+ "translation": "Even if he forgets the Vedas, a Brahmin can learn them again; but if his right conduct slips, his very birthright of high status is ruined.",
+ "modern": "மறந்துபோனாலும் வேதத்தைக் கற்றுக்கொள்ள முடியும்; ஆனால், ஒரு பார்ப்பான் தன் ஒழுக்கத்திலிருந்து தவறினால் அவனுடைய குடிப்பிறப்பின் உயர்வு அழிந்துவிடும்.",
+ "explanation": "This couplet highlights the supreme importance of personal conduct over mere scriptural learning or birth status. The author uses the example of a Brahmin, whose traditional duty is to preserve and chant the Vedas. If such a person forgets the sacred texts, they can always be re-learned through effort. However, if he fails in his moral conduct, he loses his character, and his high birth status is instantly destroyed. Thus, character and conduct are far more fundamental and irreplaceable than rote knowledge or social lineage.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

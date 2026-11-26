@@ -32,11 +32,11 @@
    "parts": [
     {
      "text": "இன்னாத",
-     "lemma": "இன்னாத",
-     "gloss": "harmful"
+     "lemma": "இன்னாது",
+     "gloss": "harmful things"
     }
    ],
-   "gloss": "that are harmful"
+   "gloss": "are harmful"
   },
   {
    "surface": "இன்னா",
@@ -44,10 +44,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harmful things"
+     "gloss": "harm/disease"
     }
    ],
-   "gloss": "are harmful"
+   "gloss": "if they cause harm"
   },
   {
    "surface": "தமர்",
@@ -55,10 +55,10 @@
     {
      "text": "தமர்",
      "lemma": "தமர்",
-     "gloss": "relatives"
+     "gloss": "relations"
     }
    ],
-   "gloss": "relatives"
+   "gloss": "relations"
   },
   {
    "surface": "நீரும்",
@@ -66,15 +66,15 @@
     {
      "text": "நீர்",
      "lemma": "நீர்",
-     "gloss": "nature"
+     "gloss": "nature/character"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "also"
     }
    ],
-   "gloss": "and the nature"
+   "gloss": "also the nature"
   },
   {
    "surface": "இன்னா",
@@ -82,7 +82,7 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harmful things"
+     "gloss": "harmful"
     }
    ],
    "gloss": "harmful"
@@ -92,7 +92,7 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "will become"
     }
    ],
@@ -113,23 +113,18 @@
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if they do"
     }
    ],
-   "gloss": "if (they) do"
+   "gloss": "if they do"
   }
  ],
- "literal": "Shade and water that are harmful are harmful; the nature of relatives too will become harmful, if they do harm.",
- "translation": "Shade and water are bad if they cause disease. Likewise, the very nature of one's own relatives becomes harmful if they act with hidden enmity and cause harm.",
- "modern": "நோய் தரும் நிழலும் நீரும் தீமையானவை. அதுபோலவே, தமக்குத் துன்பம் செய்தால் தம் உறவினரின் தன்மையும் தீமையானதாகவே மாறும்.",
- "explanation": "The couplet draws a parallel between natural elements and human relationships. Shade and water are generally refreshing, but if they cause illness, they are considered harmful and must be avoided. Similarly, the word 'tamar' refers to one's own relatives or close associates, whose nature ('nīr') is expected to be supportive. However, if they act with internal enmity and cause harm, their very disposition becomes dangerous and they must be treated as enemies.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Shade and water are harmful if they cause harm; also the nature of relations will become harmful if they do harm.",
+ "translation": "Even shade and water, though normally pleasant, are harmful if they cause illness; likewise, even the relationship of one's own kin becomes harmful if they act to cause harm.",
+ "modern": "நிழலும் நீரும் உடலுக்கு நோய் போன்ற துன்பத்தைத் தருமானால் அவை தீமையானவையே; அதுபோல, நம் உறவினர்களின் தன்மையும் நமக்குத் துன்பம் தருவதாக இருந்தால் அது தீமையானதாகவே முடியும்.",
+ "explanation": "The poet uses a beautiful analogy from nature to explain internal enmity. Shade and water are universally sought after for comfort, yet if they cause sickness, they are avoided as harmful. Similarly, one's own relatives and close associates are expected to offer support and comfort. However, if their character and actions bring harm or betrayal, that relationship becomes toxic and must be treated as dangerous. The word 'நீர்' is brilliantly used twice with different meanings: first as 'water' (paired with shade) and second as 'nature or character' (of relatives).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

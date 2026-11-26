@@ -4,12 +4,22 @@
    "surface": "முதலிலார்க",
    "parts": [
     {
-     "text": "முதலிலார்க",
-     "lemma": "முதலிலார்",
-     "gloss": "to those without capital"
+     "text": "முதல்",
+     "lemma": "முதல்",
+     "gloss": "capital"
+    },
+    {
+     "text": "இலார்",
+     "lemma": "இலார்",
+     "gloss": "those who do not have"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "poetic particle"
     }
    ],
-   "gloss": "to those without capital"
+   "gloss": "to those who have no capital"
   },
   {
    "surface": "ஊதிய",
@@ -26,23 +36,33 @@
    "surface": "மில்லை",
    "parts": [
     {
-     "text": "மில்லை",
+     "text": "ம்",
+     "lemma": "ம்",
+     "gloss": "consonant ending"
+    },
+    {
+     "text": "இல்லை",
      "lemma": "இல்லை",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is no"
   },
   {
    "surface": "மதலையாஞ்",
    "parts": [
     {
-     "text": "மதலையாஞ்",
-     "lemma": "மதலையாம்",
-     "gloss": "which is a support"
+     "text": "மதலை",
+     "lemma": "மதலை",
+     "gloss": "prop"
+    },
+    {
+     "text": "ஆஞ்",
+     "lemma": "ஆகு",
+     "gloss": "which is"
     }
    ],
-   "gloss": "which is a support"
+   "gloss": "which is a supporting prop"
   },
   {
    "surface": "சார்பு",
@@ -59,9 +79,14 @@
    "surface": "இலார்க்கு",
    "parts": [
     {
-     "text": "இலார்க்கு",
+     "text": "இலார்",
      "lemma": "இலார்",
-     "gloss": "to those who do not have"
+     "gloss": "those who do not have"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "dative case suffix"
     }
    ],
    "gloss": "to those who do not have"
@@ -71,11 +96,11 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is no"
   },
   {
    "surface": "நிலை",
@@ -89,10 +114,10 @@
    "gloss": "stability"
   }
  ],
- "literal": "To those without capital, profit is not; to those who do not have support which is a prop, there is no stability.",
- "translation": "Just as there is no profit for those without capital, there is no stability for those who lack the supporting pillar of great allies.",
- "modern": "முதலீடு இல்லாதவர்களுக்கு லாபம் கிடைக்காதது போல, தமக்கு ஆதரவாக இருக்கும் பெரியவர்களின் துணை இல்லாதவர்களுக்கு வாழ்க்கையில் நிலைத்தன்மை இல்லை.",
- "explanation": "This couplet uses a simple analogy from commerce to explain the importance of strong allies. Just as a business cannot yield profit without an initial capital investment, a person cannot maintain stability without the solid support of wise and great people. The word 'மதலை' means a prop or a supporting pillar, emphasizing that such allies bear the weight of one's responsibilities.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who have no capital, there is no profit; to those who have no support that acts as a prop, there is no stability.",
+ "translation": "Just as there is no profit for those who have no capital, there is no stability for those who lack the support of a strong prop.",
+ "modern": "முதலீடு இல்லாதவர்களுக்கு லாபம் இல்லை; அதுபோல, தாங்கிப் பிடிக்கும் தூண் போன்ற பெரியோரின் ஆதரவு இல்லாதவர்களுக்கு வாழ்வில் நிலைத்தன்மை இல்லை.",
+ "explanation": "This couplet uses a simple financial analogy to explain the necessity of having wise and strong companions. Just as a merchant cannot earn any profit without an initial capital investment, a person cannot achieve stability or security in life without a strong supporting prop. Here, the supporting prop refers to the guidance and protection of wise elders. Without such a safeguard, one's position and endeavors will easily collapse.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,26 +6,21 @@
     {
      "text": "எண்ணி",
      "lemma": "எண்ணு",
-     "gloss": "having considered"
+     "gloss": "having deliberated"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having deliberated"
   },
   {
    "surface": "துணிக",
    "parts": [
     {
-     "text": "துணி",
+     "text": "துணிக",
      "lemma": "துணி",
-     "gloss": "decide"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "let one"
+     "gloss": "should resolve"
     }
    ],
-   "gloss": "let one decide"
+   "gloss": "should resolve"
   },
   {
    "surface": "கருமம்",
@@ -44,10 +39,10 @@
     {
      "text": "துணிந்த",
      "lemma": "துணி",
-     "gloss": "decided"
+     "gloss": "having resolved"
     }
    ],
-   "gloss": "decided"
+   "gloss": "having resolved"
   },
   {
    "surface": "பின்",
@@ -66,10 +61,10 @@
     {
      "text": "எண்ணுவம்",
      "lemma": "எண்ணு",
-     "gloss": "we will consider"
+     "gloss": "we will think"
     }
    ],
-   "gloss": "we will consider"
+   "gloss": "we will think"
   },
   {
    "surface": "என்பது",
@@ -77,10 +72,10 @@
     {
      "text": "என்பது",
      "lemma": "என்",
-     "gloss": "saying that"
+     "gloss": "saying"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "saying"
   },
   {
    "surface": "இழுக்கு",
@@ -88,16 +83,16 @@
     {
      "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "flaw"
+     "gloss": "fault"
     }
    ],
-   "gloss": "flaw"
+   "gloss": "fault"
   }
  ],
- "literal": "Having considered, let one decide on an action; after having decided, saying 'we will consider' is a flaw.",
- "translation": "Consider carefully before deciding on an action. To say 'we will think about it' after a decision has been made is a flaw.",
- "modern": "ஒரு செயலைச் செய்வதற்கு முன் நன்றாகச் சிந்தித்து முடிவெடுக்க வேண்டும். முடிவெடுத்த பிறகு சிந்திப்போம் என்று நினைப்பது குற்றமாகும்.",
- "explanation": "This couplet emphasizes the importance of thorough deliberation before committing to a course of action. The word 'eṇṇi' means having thought or considered, and 'tuṇika' urges a firm decision. Once a deed is resolved upon, second-guessing or delaying by saying 'we will think about it' is described as a flaw ('iḻukku'). The verse teaches that planning must precede action, and hesitation after a decision is detrimental.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having deliberated, resolve on an action; after resolving, saying 'we will think' is a fault.",
+ "translation": "Deliberate deeply before undertaking an action; to say 'we will think about it' after having resolved to start is a grave error.",
+ "modern": "ஒரு செயலை நன்றாக ஆராய்ந்து பின்னரே அதில் ஈடுபட வேண்டும்; ஈடுபட்ட பிறகு 'ஆராய்ந்து கொள்ளலாம்' என்று நினைப்பது குற்றமாகும்.",
+ "explanation": "This couplet emphasizes the importance of thorough planning before embarking on any task. The poet advises that one should think deeply and weigh all consequences before committing to an action. Once the decision is made and the action is initiated, hesitating or saying 'we will think about it later' is a serious flaw that leads to failure. The contrast between thinking before acting and thinking after acting highlights that timing is crucial in decision-making.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

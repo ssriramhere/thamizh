@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "ruin and"
+   "gloss": "and ruin"
   },
   {
    "surface": "பெருக்கமும்",
@@ -22,7 +22,7 @@
     {
      "text": "பெருக்கம்",
      "lemma": "பெருக்கம்",
-     "gloss": "increase"
+     "gloss": "prosperity"
     },
     {
      "text": "உம்",
@@ -30,7 +30,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "increase and"
+   "gloss": "and prosperity"
   },
   {
    "surface": "இல்",
@@ -38,7 +38,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "non-existent"
+     "gloss": "non-existence"
     }
    ],
    "gloss": "non-existent"
@@ -70,22 +70,27 @@
    "parts": [
     {
      "text": "கோடாமை",
-     "lemma": "கோடாமை",
-     "gloss": "unbending"
+     "lemma": "கோடு",
+     "gloss": "not bending"
     }
    ],
-   "gloss": "unbending"
+   "gloss": "unswervingness"
   },
   {
    "surface": "சான்றோர்க்கு",
    "parts": [
     {
-     "text": "சான்றோர்க்கு",
+     "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "to the noble ones"
+     "gloss": "the noble"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the noble ones"
+   "gloss": "to the noble"
   },
   {
    "surface": "அணி",
@@ -99,10 +104,10 @@
    "gloss": "ornament"
   }
  ],
- "literal": "Ruin and increase non-existent are not; of the mind unbending to the noble ones is ornament.",
- "translation": "Loss and gain are not uncommon in life. To remain unbending in mind through them is the true ornament of the noble.",
- "modern": "வாழ்வில் அழிவும் பெருக்கமும் இல்லாதவை அல்ல, அவை இயற்கையே. ஆனால் அந்த நிலைகளிலும் மனம் கோணாமல் நடுநிலையோடு இருப்பதே சான்றோர்களுக்கு அழகாகும்.",
- "explanation": "This couplet observes that loss and gain are inevitable parts of human life. The phrase 'il alla' emphasizes that these fluctuations are not non-existent, meaning they happen to everyone. The true mark of nobility, therefore, is 'kōṭāmai'—the unbending impartiality of the mind. Maintaining this steady, unbiased state regardless of changing fortunes is described as the greatest ornament for the wise.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Ruin and prosperity are not non-existent; unswervingness of the mind is the ornament to the noble.",
+ "translation": "Loss and gain are inevitable in life; maintaining an unswerving, impartial mind through both is the true ornament of the noble.",
+ "modern": "கேடும் பெருக்கமும் வாழ்வில் இல்லாதவை அல்ல; நெஞ்சத்தில் கோணாமல் நடுவுநிலையோடு இருப்பதே சான்றோர்க்கு அழகாகும்.",
+ "explanation": "This couplet explains that adversity and prosperity are natural, inevitable phases of human life. Since these fluctuations are bound to happen, the truly noble person does not let their mind bend or deviate from fairness because of them. Keeping the mind upright and impartial in both good times and bad is the finest ornament a virtuous person can wear. The word 'kōṭāmai' (not bending) beautifully captures the essence of neutrality and justice under all circumstances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

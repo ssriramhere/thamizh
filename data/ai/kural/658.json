@@ -6,10 +6,10 @@
     {
      "text": "கடிந்த",
      "lemma": "கடி",
-     "gloss": "condemned things"
+     "gloss": "forbidden"
     }
    ],
-   "gloss": "condemned things"
+   "gloss": "forbidden deeds"
   },
   {
    "surface": "கடிந்து",
@@ -20,18 +20,18 @@
      "gloss": "having rejected"
     }
    ],
-   "gloss": "having rejected"
+   "gloss": "rejecting"
   },
   {
    "surface": "ஒரார்",
    "parts": [
     {
      "text": "ஒரார்",
-     "lemma": "ஒரு",
-     "gloss": "they shun not"
+     "lemma": "ஒருவு",
+     "gloss": "those who do not avoid"
     }
    ],
-   "gloss": "they shun not"
+   "gloss": "those who do not avoid"
   },
   {
    "surface": "செய்தார்க்கு",
@@ -47,7 +47,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to those who did"
+   "gloss": "to those who perform"
   },
   {
    "surface": "அவை",
@@ -58,7 +58,7 @@
      "gloss": "those things"
     }
    ],
-   "gloss": "those things"
+   "gloss": "those deeds"
   },
   {
    "surface": "தாம்",
@@ -77,7 +77,7 @@
     {
      "text": "முடிந்தால்",
      "lemma": "முடி",
-     "gloss": "if accomplished"
+     "gloss": "if completed"
     },
     {
      "text": "உம்",
@@ -85,7 +85,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if accomplished"
+   "gloss": "even if they succeed"
   },
   {
    "surface": "பீழை",
@@ -93,27 +93,27 @@
     {
      "text": "பீழை",
      "lemma": "பீழை",
-     "gloss": "sorrow"
+     "gloss": "ruin"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
      "text": "தரும்",
-     "lemma": "தா",
+     "lemma": "தரு",
      "gloss": "will give"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "condemned things / having rejected / they shun not / to those who did / those things / themselves / even if accomplished / sorrow / will give",
- "translation": "Even if successfully accomplished, forbidden actions done by those who fail to shun them will only bring sorrow.",
- "modern": "விலக்கப்பட்ட தீய செயல்களை முழுமையாக விலக்காமல் செய்பவர்களுக்கு, அச்செயல்கள் வெற்றிகரமாக முடிந்தாலும் முடிவில் துன்பத்தையே தரும்.",
- "explanation": "This couplet warns against engaging in actions that are fundamentally wrong or forbidden. The phrase 'கடிந்த கடிந்து ஒரார்' refers to those who fail to reject and stay away from condemned deeds. Even if such impure actions seem to succeed and reach completion ('முடிந்தாலும்'), the actions themselves ('அவை தாம்') will ultimately yield only sorrow ('பீழை'). The emphasis is on the purity of action, showing that bad means cannot lead to truly good ends.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who perform deeds, not shunning and rejecting forbidden deeds, those deeds themselves, even if they succeed, will bring distress.",
+ "translation": "To those who perform actions without shunning what has been forbidden, those very deeds, even if successfully completed, will only bring ruin.",
+ "modern": "விலக்கப்பட்ட செயல்களை விலக்கித் தவிர்க்காமல் செய்தவர்களுக்கு, அச்செயல்கள் வெற்றிகரமாக முடிந்தாலும் துன்பத்தையே தரும்.",
+ "explanation": "This couplet emphasizes the importance of maintaining purity of action by avoiding forbidden deeds. The repetition of the root 'kaṭi' in 'kaṭinta' and 'kaṭintu' underscores the absolute necessity of shunning unethical actions. The poet warns that even if such forbidden acts are successfully completed and seem to yield results, they will ultimately bring only misery ('pīḻai') to the doer. True success cannot be built on a foundation of forbidden deeds, as the consequences of the action itself will eventually lead to ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

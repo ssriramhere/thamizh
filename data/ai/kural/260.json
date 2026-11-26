@@ -11,7 +11,7 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he does not"
+     "gloss": "he who does not (negative suffix)"
     }
    ],
    "gloss": "he who does not kill"
@@ -27,37 +27,42 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "flesh (acc.)"
+   "gloss": "flesh (accusative)"
   },
   {
    "surface": "மறுத்தானை",
    "parts": [
     {
      "text": "மறுத்தான்",
-     "lemma": "மறு",
-     "gloss": "he who refused"
+     "lemma": "மறுத்தான்",
+     "gloss": "he who abstained"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who has refused"
+   "gloss": "him who abstained"
   },
   {
    "surface": "கைகூப்பி",
    "parts": [
     {
-     "text": "கைகூப்பி",
-     "lemma": "கைகூப்பு",
-     "gloss": "having folded hands"
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "hand"
+    },
+    {
+     "text": "கூப்பி",
+     "lemma": "கூப்பு",
+     "gloss": "having folded"
     }
    ],
-   "gloss": "having folded hands"
+   "gloss": "with folded hands"
   },
   {
    "surface": "எல்லா",
@@ -76,37 +81,32 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "life / living being"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "all/even"
+     "gloss": "even / all"
     }
    ],
-   "gloss": "all living beings"
+   "gloss": "every living being"
   },
   {
    "surface": "தொழும்",
    "parts": [
     {
-     "text": "தொழு",
+     "text": "தொழும்",
      "lemma": "தொழு",
-     "gloss": "worship"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will worship"
     }
    ],
    "gloss": "will worship"
   }
  ],
- "literal": "He who does not kill, flesh (acc.) him who has refused, having folded hands, all living beings will worship.",
- "translation": "All living creatures will fold their hands and worship the one who never kills and refuses to eat meat.",
- "modern": "ஓர் உயிரையும் கொல்லாதவனாகவும், புலால் உண்பதை மறுத்தவனாகவும் வாழ்பவனைக் கைகூப்பி எல்லா உயிர்களும் வணங்கும்.",
- "explanation": "This couplet highlights the supreme virtue of non-violence and abstaining from meat. It states that a person who neither kills nor consumes flesh earns the ultimate reverence of the natural world. All living creatures will instinctively recognize such a person's compassion and bow to them with folded hands. The act of folding hands signifies deep respect and gratitude from the animal kingdom towards their protector.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Him who does not kill and who abstained from flesh, with folded hands, all living beings will worship.",
+ "translation": "All living beings will fold their hands and worship the one who does not kill and who abstains from eating flesh.",
+ "modern": "ஓர் உயிரையும் கொல்லாதவனாகவும், புலால் உண்பதைத் தவிர்த்தவனாகவும் இருப்பவனை, உலகிலுள்ள எல்லா உயிர்களும் கைகூப்பி வணங்கும்.",
+ "explanation": "This couplet highlights the supreme spiritual status of a person who practices absolute non-violence. By refusing to kill any creature (கொல்லான்) and refusing to consume meat (புலாலை மறுத்தான்), a person rises above the cycle of harm. Such an individual radiates peace and harmlessness so profoundly that all living creatures (எல்லா உயிரும்), losing their natural fear, will revere them with folded hands (கைகூப்பி தொழும்). It shows that true greatness lies in universal compassion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

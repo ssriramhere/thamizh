@@ -6,29 +6,39 @@
     {
      "text": "அளித்து",
      "lemma": "அளி",
-     "gloss": "having comforted"
+     "gloss": "having shown love"
     }
    ],
-   "gloss": "having comforted"
+   "gloss": "having shown love"
   },
   {
    "surface": "அஞ்சல்",
    "parts": [
     {
-     "text": "அஞ்சல்",
+     "text": "அஞ்சு",
      "lemma": "அஞ்சு",
-     "gloss": "fear not"
+     "gloss": "fear"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "do not"
     }
    ],
-   "gloss": "fear not"
+   "gloss": "do not fear"
   },
   {
    "surface": "என்றவர்",
    "parts": [
     {
-     "text": "என்றவர்",
+     "text": "என்று",
      "lemma": "என்",
-     "gloss": "he who said"
+     "gloss": "having said"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "he"
     }
    ],
    "gloss": "he who said"
@@ -37,9 +47,14 @@
    "surface": "நீப்பின்",
    "parts": [
     {
-     "text": "நீப்பின்",
+     "text": "நீ",
      "lemma": "நீ",
-     "gloss": "if he departs"
+     "gloss": "leave"
+    },
+    {
+     "text": "ப்பின்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
    "gloss": "if he departs"
@@ -50,10 +65,10 @@
     {
      "text": "தெளித்த",
      "lemma": "தெளி",
-     "gloss": "assuring"
+     "gloss": "assured"
     }
    ],
-   "gloss": "assuring"
+   "gloss": "assured"
   },
   {
    "surface": "சொல்",
@@ -72,28 +87,28 @@
     {
      "text": "தேறியார்",
      "lemma": "தேறு",
-     "gloss": "those who trusted"
+     "gloss": "those who believed"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
+     "text": "க்கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to those who trusted"
+   "gloss": "to those who believed"
   },
   {
    "surface": "உண்டோ",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "is there"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "(question particle)"
+     "gloss": "interrogative particle"
     }
    ],
    "gloss": "is there?"
@@ -110,10 +125,10 @@
    "gloss": "fault"
   }
  ],
- "literal": "Having comforted, 'fear not', he who said, if he departs, assuring word to those who trusted, is there fault?",
- "translation": "If he who comforted me and said 'fear not' departs, is it the fault of those who trusted his assuring words?",
- "modern": "அன்பு செய்து 'அஞ்சாதே' என்று சொன்னவர் இப்போது பிரிந்து செல்வாரானால், அவர் சொன்ன உறுதியான சொற்களை நம்பியவர்களுக்கு ஏதாவது குற்றமுண்டோ?",
- "explanation": "The heroine speaks these words in grief when the hero, who previously promised never to leave her, departs. She recalls how he comforted her with the words 'fear not' (அஞ்சல்). She asks rhetorically if the fault lies with her for trusting his clear, assuring words (தெளித்த சொல்). The couplet highlights the pain of broken promises in love and shifts the blame from the trusting lover to the one who breaks the vow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having shown love, he who said 'do not fear', if he departs, the assured word, to those who believed, is there a fault?",
+ "translation": "If he who lovingly comforted me saying 'do not fear' now departs, is it the fault of those who believed his reassuring words?",
+ "modern": "அன்பு காட்டி, 'அஞ்சாதே' என்று சொன்னவர் நம்மை விட்டுப் பிரிந்தால், அவருடைய தெளிவான வார்த்தைகளை நம்பியவர்களிடம் ஏதேனும் தவறு இருக்க முடியுமா?",
+ "explanation": "This couplet expresses the grief and sense of betrayal felt by the heroine when her lover departs. He had previously comforted her with loving words, telling her not to fear separation. If he now breaks that promise and leaves, she argues that the fault does not lie with her for believing his reassuring words. The poem highlights that trusting a loved one's solemn promise is natural, and the blame for the broken trust rests entirely on the one who departs.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -26,17 +26,12 @@
    "surface": "கேளா",
    "parts": [
     {
-     "text": "கேள்",
-     "lemma": "கேள்",
-     "gloss": "to ask"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "கேளா",
+     "lemma": "கேளாத",
+     "gloss": "not hearing"
     }
    ],
-   "gloss": "not questioning"
+   "gloss": "not hearing"
   },
   {
    "surface": "கெழுதகைமை",
@@ -49,10 +44,10 @@
     {
      "text": "தகைமை",
      "lemma": "தகைமை",
-     "gloss": "nature"
+     "gloss": "quality"
     }
    ],
-   "gloss": "intimacy"
+   "gloss": "intimate friendship"
   },
   {
    "surface": "வல்லார்க்கு",
@@ -60,7 +55,7 @@
     {
      "text": "வல்லார்",
      "lemma": "வல்லார்",
-     "gloss": "capable ones"
+     "gloss": "those who are capable"
     },
     {
      "text": "க்கு",
@@ -68,7 +63,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to the capable"
+   "gloss": "to those who are capable"
   },
   {
    "surface": "நாள்",
@@ -97,7 +92,7 @@
    "parts": [
     {
      "text": "நட்டார்",
-     "lemma": "நடு",
+     "lemma": "நண்பர்",
      "gloss": "friends"
     }
    ],
@@ -107,23 +102,18 @@
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if they do"
     }
    ],
-   "gloss": "if do"
+   "gloss": "if they commit"
   }
  ],
- "literal": "friend fault not questioning intimacy to the capable day fault friends if do",
- "translation": "If friends commit a fault, it is a good day for those capable of the deep intimacy that does not question a friend's mistakes.",
- "modern": "நண்பர்கள் ஏதேனும் தவறு செய்தால், நண்பரின் அந்தத் தவறைப் பற்றிக் கேள்வி கேட்காத நெருக்கமான உரிமை கொண்டவர்களுக்கு, அந்த நாள் ஒரு நல்ல நாளாகவே அமையும்.",
- "explanation": "This couplet highlights the supreme tolerance found in true, long-standing friendships. The word 'நாள்' (day) is used here to mean a truly worthwhile or good day. When friends make a mistake, those who possess the deep intimacy ('கெழுதகைமை') to ignore it without questioning do not feel anger. Instead, they consider it a good day, as it gives them an opportunity to exercise and prove the strength of their unconditional friendship.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those capable of the intimate friendship of not hearing a friend's fault, if friends commit faults daily, [it is acceptable].",
+ "translation": "For those who possess the capability of intimate friendship that ignores a friend's faults, it is acceptable even if their friends commit lapses every single day.",
+ "modern": "நண்பர்களின் குற்றங்களைக் கேளாதவாறு கடந்துபோகும் நெருக்கமான நட்புரிமை கொண்டவர்களுக்கு, நண்பர்கள் நாள்தோறும் தவறுகளைச் செய்தாலும் அது குற்றமாகாது.",
+ "explanation": "This couplet highlights the depth of true, long-standing friendship. The poet explains that those who have the rare capacity to overlook or ignore the faults of their close friends will not find it a problem even if those friends commit lapses every day. The word 'keḻutakaimai' refers to the right of intimacy where one does not take offense at a friend's actions. By 'kēḷā' (not hearing), the poet suggests deliberately ignoring or not paying attention to the shortcomings of loved ones to preserve the bond.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

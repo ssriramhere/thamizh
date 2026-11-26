@@ -17,10 +17,10 @@
     {
      "text": "உடையர்",
      "lemma": "உடையர்",
-     "gloss": "those who possess"
+     "gloss": "they who possess"
     }
    ],
-   "gloss": "possessors"
+   "gloss": "they who possess"
   },
   {
    "surface": "என்பவர்",
@@ -28,10 +28,10 @@
     {
      "text": "என்பவர்",
      "lemma": "என்பவர்",
-     "gloss": "those who are called"
+     "gloss": "those who are said to be"
     }
    ],
-   "gloss": "those called"
+   "gloss": "those who are said to be"
   },
   {
    "surface": "கற்றோர்",
@@ -39,10 +39,10 @@
     {
      "text": "கற்றோர்",
      "lemma": "கற்றோர்",
-     "gloss": "learned ones"
+     "gloss": "those who have learned"
     }
    ],
-   "gloss": "learned ones"
+   "gloss": "those who have learned"
   },
   {
    "surface": "முகத்து",
@@ -72,10 +72,10 @@
     {
      "text": "புண்",
      "lemma": "புண்",
-     "gloss": "sore"
+     "gloss": "sore or wound"
     }
    ],
-   "gloss": "sore"
+   "gloss": "sore or wound"
   },
   {
    "surface": "உடையர்",
@@ -83,10 +83,10 @@
     {
      "text": "உடையர்",
      "lemma": "உடையர்",
-     "gloss": "those who possess"
+     "gloss": "they who possess"
     }
    ],
-   "gloss": "possessors"
+   "gloss": "they who possess"
   },
   {
    "surface": "கல்லாதவர்",
@@ -94,16 +94,16 @@
     {
      "text": "கல்லாதவர்",
      "lemma": "கல்லாதவர்",
-     "gloss": "unlearned ones"
+     "gloss": "those who have not learned"
     }
    ],
-   "gloss": "unlearned ones"
+   "gloss": "those who have not learned"
   }
  ],
- "literal": "Eye possessors those-who-are-called learned-ones; on-face two sore possessors unlearned-ones.",
- "translation": "The learned are the only ones who can truly be said to possess eyes. The unlearned merely have two sores on their face.",
- "modern": "கண் உடையவர்கள் என்று சொல்லப்படுபவர்கள் கற்றவர்கள் மட்டுமே. கல்வி கற்காதவர்கள் முகத்தில் உள்ளவை கண்கள் அல்ல, அவை இரண்டு புண்கள் ஆகும்.",
- "explanation": "This couplet contrasts the educated and the uneducated by redefining what it means to have sight. It declares that only learned people truly possess eyes, as education grants them the inner vision to perceive and understand reality. For those who remain unlearned, their physical eyes are completely useless. The poet uses the striking word 'புண்' (sore or wound) to describe the eyes of the uneducated, suggesting that without the light of knowledge, these organs are merely blind blemishes on the face.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who possess eyes, they say, are the learned; on the face, two sores possess those who have not learned.",
+ "translation": "Only those who have acquired learning can be said to possess eyes; those who remain unlearned have merely two sores on their face.",
+ "modern": "கல்வி கற்றவர்களே கண் உடையவர்கள் என்று சொல்லப்படுவார்கள்; கல்லாதவர்கள் முகத்தில் இரண்டு புண்களை உடையவர்கள் ஆவர்.",
+ "explanation": "This couplet emphasizes the transformative power of education by redefining physical sight. The author asserts that true sight belongs only to the educated, who can perceive wisdom, truth, and the deeper realities of life. Conversely, the eyes of the uneducated are dismissed as mere physical cavities or sores on the face, as they lack the inner vision that learning provides. The stark contrast between 'eyes' and 'sores' serves to urge the learner to pursue knowledge.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

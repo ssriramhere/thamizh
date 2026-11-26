@@ -4,12 +4,17 @@
    "surface": "கெடாஅ",
    "parts": [
     {
-     "text": "கெடாஅ",
+     "text": "கெடா",
      "lemma": "கெடு",
-     "gloss": "unruined"
+     "gloss": "undecaying"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "measure-lengthening particle"
     }
    ],
-   "gloss": "unruined"
+   "gloss": "undecaying / unbroken"
   },
   {
    "surface": "வழி",
@@ -17,10 +22,10 @@
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "lineage"
+     "gloss": "lineage / path"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "lineage / path"
   },
   {
    "surface": "வந்த",
@@ -44,10 +49,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "those who have"
+     "gloss": "those who"
     }
    ],
-   "gloss": "friends"
+   "gloss": "those who have friendship"
   },
   {
    "surface": "கேண்மை",
@@ -64,12 +69,17 @@
    "surface": "விடாஅர்",
    "parts": [
     {
-     "text": "விடாஅர்",
+     "text": "விடா",
      "lemma": "விடு",
-     "gloss": "they will not forsake"
+     "gloss": "not leaving"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who do not forsake"
+   "gloss": "those who do not abandon"
   },
   {
    "surface": "விழையும்",
@@ -77,15 +87,15 @@
     {
      "text": "விழை",
      "lemma": "விழை",
-     "gloss": "desire"
+     "gloss": "to desire / cherish"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "habitual marker"
     }
    ],
-   "gloss": "will desire"
+   "gloss": "will cherish / desire"
   },
   {
    "surface": "உலகு",
@@ -93,16 +103,16 @@
     {
      "text": "உலகு",
      "lemma": "உலகு",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Unbroken lineage-came friends' friendship those who do not forsake desires the world.",
- "translation": "The world will cherish those who never forsake their bond with friends of an unbroken, long-standing lineage.",
- "modern": "தலைமுறை தலைமுறையாகத் தொடர்ந்து வரும் பழைய நண்பர்களின் நட்பைக் கைவிடாமல் காப்பவர்களை இந்த உலகம் விரும்பிப் போற்றும்.",
- "explanation": "This couplet highlights the value of maintaining long-standing, ancestral friendships. The phrase 'keṭāa vaḻivanta' refers to a relationship that has come down through generations without breaking. 'Kēṇmaiyār' denotes friends who share such an enduring bond. The world greatly admires and desires the company of those who refuse to let go of such deep-rooted ties. By preserving old friendships, a person earns the respect and affection of society.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The friendship of those who have friendship that came in an unbroken lineage, those who do not abandon, the world will cherish.",
+ "translation": "The world will cherish those who do not abandon the friendship of long-standing companions whose bond has come down through an unbroken lineage.",
+ "modern": "தலைமுறை தலைமுறையாகத் தொடர்ந்து வந்த நட்பினை உடையவர்களின் நட்பைக் கைவிடாதவர்களை இவ்வுலகம் விரும்பிப் போற்றும்.",
+ "explanation": "This couplet highlights the immense value of hereditary and long-standing friendship. The phrase 'keṭā-a vaḻivanta' describes a bond that has survived without decaying through generations. The poet states that the world highly esteems and loves those ('viṭā-ar') who remain loyal and refuse to abandon such deep-rooted relationships.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

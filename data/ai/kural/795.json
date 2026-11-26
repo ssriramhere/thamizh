@@ -9,7 +9,7 @@
      "gloss": "to weep"
     }
    ],
-   "gloss": "to weep"
+   "gloss": "so as to weep"
   },
   {
    "surface": "சொல்லி",
@@ -20,18 +20,18 @@
      "gloss": "having spoken"
     }
    ],
-   "gloss": "having spoken"
+   "gloss": "speaking"
   },
   {
    "surface": "அல்லது",
    "parts": [
     {
      "text": "அல்லது",
-     "lemma": "அல்லது",
-     "gloss": "wrong deed"
+     "lemma": "அல்",
+     "gloss": "that which is wrong"
     }
    ],
-   "gloss": "wrong deed"
+   "gloss": "wrongdoing"
   },
   {
    "surface": "இடித்து",
@@ -39,10 +39,10 @@
     {
      "text": "இடித்து",
      "lemma": "இடி",
-     "gloss": "having rebuked"
+     "gloss": "having reproved"
     }
    ],
-   "gloss": "having rebuked"
+   "gloss": "reproving"
   },
   {
    "surface": "வழக்கு",
@@ -50,10 +50,10 @@
     {
      "text": "வழக்கு",
      "lemma": "வழக்கு",
-     "gloss": "proper way"
+     "gloss": "right conduct"
     }
    ],
-   "gloss": "proper way"
+   "gloss": "the right path"
   },
   {
    "surface": "அறிய",
@@ -64,7 +64,7 @@
      "gloss": "to know"
     }
    ],
-   "gloss": "to know"
+   "gloss": "to make known"
   },
   {
    "surface": "வல்லார்",
@@ -72,10 +72,10 @@
     {
      "text": "வல்லார்",
      "lemma": "வல்லார்",
-     "gloss": "capable persons"
+     "gloss": "those who are capable"
     }
    ],
-   "gloss": "capable persons"
+   "gloss": "those who are capable"
   },
   {
    "surface": "நடபு",
@@ -103,23 +103,18 @@
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "to take"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "to acquire"
     }
    ],
-   "gloss": "one should take"
+   "gloss": "acquiring"
   }
  ],
- "literal": "To weep having spoken, wrong having rebuked, proper way to know capable persons' friendship having examined take.",
- "translation": "Examine and accept the friendship of those capable of moving you to tears with their words, rebuking your wrongdoings, and guiding you to the proper path.",
- "modern": "தவறு செய்யும் போது மனம் வருந்தி அழும்படி அறிவுரை கூறியும், தீய வழியில் செல்லும்போது கண்டித்தும், நல்வழியை அறியச் செய்ய வல்லவர்களின் நட்பை ஆராய்ந்து ஏற்றுக்கொள்ள வேண்டும்.",
- "explanation": "This couplet defines the qualities of a true friend whose companionship is worth seeking. A good friend does not merely flatter but has the courage to speak harsh truths that might make one weep for their mistakes. They actively rebuke wrong actions and have the capacity to teach the proper path of conduct. The verse advises that one should carefully examine and secure the friendship of such capable individuals, as their guidance is invaluable.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Speaking so as to make one weep, reproving wrongdoing, and making the right path known—the friendship of those who are capable of this, having examined, acquire.",
+ "translation": "One should carefully examine and secure the friendship of those who are capable of speaking frankly to make one weep for one's faults, reproving wrongdoing, and guiding one to the right path.",
+ "modern": "தவறு செய்யும்போது அழும்படி எடுத்துச் சொல்லி, தீமையைக் கண்டித்து, நல்வழியை அறியச் செய்ய வல்லவர்களின் நட்பை ஆராய்ந்து கொள்ள வேண்டும்.",
+ "explanation": "This couplet outlines the essential qualities of a true friend who is worth seeking out. A genuine friend does not merely flatter; they have the courage to speak painful truths to correct our mistakes, even if it makes us weep. They actively reprove us when we stray into wrongdoing and guide us back to the path of virtue. The poet advises us to carefully examine and secure the friendship of such capable individuals who can act as our moral guides.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

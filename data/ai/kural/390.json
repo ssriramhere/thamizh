@@ -6,10 +6,10 @@
     {
      "text": "கொடை",
      "lemma": "கொடை",
-     "gloss": "giving"
+     "gloss": "generosity"
     }
    ],
-   "gloss": "giving"
+   "gloss": "generosity"
   },
   {
    "surface": "அளி",
@@ -26,9 +26,14 @@
    "surface": "செங்கோல்",
    "parts": [
     {
-     "text": "செங்கோல்",
-     "lemma": "செங்கோல்",
-     "gloss": "just rule"
+     "text": "செம்",
+     "lemma": "செம்மை",
+     "gloss": "upright"
+    },
+    {
+     "text": "கோல்",
+     "lemma": "கோல்",
+     "gloss": "sceptre"
     }
    ],
    "gloss": "just rule"
@@ -69,7 +74,7 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all four"
+   "gloss": "all these four"
   },
   {
    "surface": "உடையான்",
@@ -77,18 +82,18 @@
     {
      "text": "உடையான்",
      "lemma": "உடையான்",
-     "gloss": "he who possesses"
+     "gloss": "one who possesses"
     }
    ],
-   "gloss": "he who possesses"
+   "gloss": "one who possesses"
   },
   {
    "surface": "ஆம்",
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆகுதல்",
-     "gloss": "is"
+     "lemma": "ஆகு",
+     "gloss": "becomes"
     }
    ],
    "gloss": "is"
@@ -97,9 +102,14 @@
    "surface": "வேந்தர்க்கு",
    "parts": [
     {
-     "text": "வேந்தர்க்கு",
+     "text": "வேந்தர்",
      "lemma": "வேந்தன்",
-     "gloss": "to kings"
+     "gloss": "kings"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to kings"
@@ -113,13 +123,13 @@
      "gloss": "light"
     }
    ],
-   "gloss": "light"
+   "gloss": "a shining light"
   }
  ],
- "literal": "Giving, compassion, just rule, subjects protecting, all four he who possesses is to kings a light.",
- "translation": "He who possesses all four traits—charity, compassion, a just rule, and the protection of his subjects—is a guiding light among kings.",
- "modern": "கொடை, கருணை, நீதி தவறாத ஆட்சி, மக்களைப் பாதுகாத்தல் ஆகிய நான்கையும் உடையவன் அரசர்களுக்குள் ஒளி போன்றவன் ஆவான்.",
- "explanation": "This couplet defines the four essential qualities of a great ruler. The word 'கொடை' means generosity in giving, while 'அளி' refers to a compassionate disposition towards others. 'செங்கோல்' literally means a straight scepter, symbolizing an unbiased and just administration, and 'குடி ஓம்பல்' is the active protection and care of the citizens. A ruler who embodies all these four traits stands out brilliantly, serving as a guiding light for all other kings to follow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Generosity, compassion, an upright sceptre, and protecting subjects—he who possesses these four is a light to kings.",
+ "translation": "He who possesses these four qualities—generosity, compassion, a just rule, and care for his subjects—is a shining light among rulers.",
+ "modern": "கொடைத்தன்மை, கருணை, நேர்மையான ஆட்சி, குடிமக்களைக் காத்தல் ஆகிய நான்கையும் உடையவன் அரசர்களுக்குள் ஒளி போன்றவன் ஆவான்.",
+ "explanation": "This couplet outlines the four essential pillars of ideal governance. 'கொடை' represents the ruler's generosity, while 'அளி' denotes grace and compassion toward all living beings. 'செங்கோல்' (literally 'upright sceptre') signifies unbiased, righteous justice, and 'குடியோம்பல்' refers to the active protection and nurturing of the citizens. A ruler who embodies all four of these virtues stands out as a guiding light ('ஒளி') and an exemplar among other kings.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

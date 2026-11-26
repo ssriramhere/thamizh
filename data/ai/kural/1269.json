@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "எழு",
-     "lemma": "ஏழு",
+     "lemma": "எழு",
      "gloss": "seven"
     }
    ],
@@ -61,10 +61,10 @@
     {
      "text": "செல்லும்",
      "lemma": "செல்",
-     "gloss": "will pass"
+     "gloss": "passes"
     }
    ],
-   "gloss": "will pass"
+   "gloss": "passes"
   },
   {
    "surface": "சேண்",
@@ -75,7 +75,7 @@
      "gloss": "distance"
     }
    ],
-   "gloss": "far away"
+   "gloss": "distance"
   },
   {
    "surface": "சென்றார்",
@@ -116,27 +116,32 @@
     {
      "text": "வைத்து",
      "lemma": "வை",
-     "gloss": "keeping"
+     "gloss": "reckoning"
     }
    ],
-   "gloss": "keeping in mind"
+   "gloss": "reckoning"
   },
   {
    "surface": "ஏங்குபவர்க்கு",
    "parts": [
     {
-     "text": "ஏங்குபவர்க்கு",
+     "text": "ஏங்குபவர்",
      "lemma": "ஏங்குபவர்",
-     "gloss": "to those who yearn"
+     "gloss": "those who pine"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who yearn"
+   "gloss": "to those who pine"
   }
  ],
- "literal": "One day like seven days will pass, to those who yearn keeping in mind the coming day of him who went far away.",
- "translation": "For those who yearn, counting the days until the return of their lover who has gone far away, a single day drags on like seven.",
- "modern": "நெடுந்தொலைவு சென்ற காதலர் திரும்பி வரும் நாளைக் கணக்கிட்டு ஏங்கித் தவிப்பவர்களுக்கு, ஒரு நாள் ஏழு நாட்களைப் போல மிக நீளமாகச் செல்லும்.",
- "explanation": "This couplet captures the psychological experience of time for a waiting lover. The phrase 'ஒரு நாள் எழு நாள் போல் செல்லும்' (one day passes like seven days) vividly illustrates how time seems to stretch and slow down during periods of intense longing. The lover is described as 'சேண் சென்றார்' (he who went far away), emphasizing the physical distance that fuels the emotional pain. By 'வரு நாள் வைத்து' (keeping the day of return in mind), the poem shows how constantly calculating the time of reunion only deepens the yearning.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "One day like seven days passes, to those who pine, reckoning the coming day of him who went to a far distance.",
+ "translation": "To those who pine, counting the days until the return of their beloved who has gone to a far country, a single day feels as long as seven.",
+ "modern": "தொலைதூரத்திற்குச் சென்ற காதலர் திரும்பி வரும் நாளைக் கணக்கிட்டு ஏங்குபவர்களுக்கு, ஒரு நாள் என்பது ஏழு நாட்களைப் போல மெதுவாகக் கழியும்.",
+ "explanation": "This couplet beautifully captures the agonizingly slow passage of time experienced by a pining lover. The speaker waits for her partner who has traveled to a distant land, constantly counting down the days until his promised return. In this state of intense longing, each single day feels as long as a whole week of seven days. The poet uses the simple contrast between 'one day' and 'seven days' to measure the psychological weight of separation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

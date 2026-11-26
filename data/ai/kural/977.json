@@ -6,15 +6,15 @@
     {
      "text": "இறப்பு",
      "lemma": "இறப்பு",
-     "gloss": "transgression"
+     "gloss": "excess / arrogance"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "transgression indeed"
+   "gloss": "indeed excess / arrogance"
   },
   {
    "surface": "புரிந்த",
@@ -22,21 +22,26 @@
     {
      "text": "புரிந்த",
      "lemma": "புரி",
-     "gloss": "doing"
+     "gloss": "practiced / performed"
     }
    ],
-   "gloss": "doing"
+   "gloss": "practiced / performed"
   },
   {
    "surface": "தொழிற்று",
    "parts": [
     {
-     "text": "தொழிற்று",
+     "text": "தொழில்",
      "lemma": "தொழில்",
-     "gloss": "deed-natured"
+     "gloss": "action / behavior"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "pronominal suffix (it is of)"
     }
    ],
-   "gloss": "deed-natured"
+   "gloss": "of the nature of action"
   },
   {
    "surface": "ஆம்",
@@ -44,10 +49,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "will become"
+     "gloss": "becomes"
     }
    ],
-   "gloss": "will become"
+   "gloss": "becomes"
   },
   {
    "surface": "சிறப்பும்",
@@ -55,7 +60,7 @@
     {
      "text": "சிறப்பு",
      "lemma": "சிறப்பு",
-     "gloss": "greatness"
+     "gloss": "distinction / high status"
     },
     {
      "text": "உம்",
@@ -63,7 +68,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even greatness"
+   "gloss": "even distinction / high status"
   },
   {
    "surface": "தான்",
@@ -82,23 +87,23 @@
     {
      "text": "சீர்",
      "lemma": "சீர்",
-     "gloss": "excellence"
+     "gloss": "excellence / merit"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "excellence / merit"
   },
   {
    "surface": "அல்லவர்கண்",
    "parts": [
     {
      "text": "அல்லவர்",
-     "lemma": "அல்லவர்",
+     "lemma": "அல்",
      "gloss": "those who lack"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with"
+     "gloss": "locative suffix (with / in)"
     }
    ],
    "gloss": "with those who lack"
@@ -109,16 +114,16 @@
     {
      "text": "படின்",
      "lemma": "படு",
-     "gloss": "if it falls"
+     "gloss": "if obtained / if accrued"
     }
    ],
-   "gloss": "if it falls"
+   "gloss": "if obtained"
   }
  ],
- "literal": "Transgression indeed doing deed-natured will become even greatness itself excellence with those who lack if it falls.",
- "translation": "Even high status, if it falls to those who lack true excellence, will result only in deeds of arrogant transgression.",
- "modern": "சீர்மை இல்லாதவர்களிடம் சிறப்பு சேர்ந்தால், அது வரம்பு மீறிய செயல்களைச் செய்யும் தன்மையுடையதாகவே மாறும்.",
- "explanation": "This couplet explains what happens when unworthy people attain power or wealth. The word 'சிறப்பு' refers to high status or prosperity, while 'சீர்' means true inner excellence. If greatness falls to those without such excellence, they will not use it well; instead, their actions will be characterized by 'இறப்பு', meaning transgression or crossing moral limits.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Indeed excess practiced nature-of-action becomes even distinction itself, excellence with-those-who-lack if-obtained.",
+ "translation": "If high status and distinction are acquired by those who lack excellent qualities, it will only result in actions of sheer arrogance and excess.",
+ "modern": "சிறந்த பண்புகள் இல்லாதவர்களிடம் உயர்வோ சிறப்போ வந்து சேர்ந்தால், அது வரம்பு மீறிய செயல்களைச் செய்யும் தன்மையுடையதாகவே மாறும்.",
+ "explanation": "This couplet explains how power or high status affects people of different characters. The word 'சீர்' refers to excellent qualities or merit, and 'அல்லவர்' refers to those who lack them. When 'சிறப்பு' (distinction, wealth, or high status) reaches such unworthy people, it does not make them noble. Instead, it manifests as 'இறப்பு' (excessiveness or arrogance) in their actions ('தொழிற்று'). The poet warns that giving power to those without character only leads to the transgression of limits and harmful behavior.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -14,7 +14,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if appearing"
+   "gloss": "if one appears"
   },
   {
    "surface": "புகழொடு",
@@ -70,17 +70,17 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they who"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who do not have"
   },
   {
    "surface": "தோன்றலின்",
    "parts": [
     {
      "text": "தோன்றல்",
-     "lemma": "தோன்று",
+     "lemma": "தோன்றல்",
      "gloss": "appearing"
     },
     {
@@ -102,7 +102,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "not"
+     "gloss": "not doing"
     }
    ],
    "gloss": "not appearing"
@@ -112,17 +112,17 @@
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நல்",
-     "gloss": "good thing"
+     "lemma": "நன்று",
+     "gloss": "is better"
     }
    ],
-   "gloss": "is good"
+   "gloss": "is better"
   }
  ],
- "literal": "If appearing, with fame let one appear; those without that, than appearing, not appearing is good.",
- "translation": "If you appear in this world, appear with fame. For those who lack it, it is better not to appear at all than to appear.",
- "modern": "ஒருவர் உலகில் பிறந்து வாழ்ந்தால் புகழோடு வாழ வேண்டும். அந்தப் புகழ் இல்லாதவர்கள் உலகில் தோன்றுவதை விடத் தோன்றாமல் இருப்பதே நல்லது.",
- "explanation": "This couplet emphasizes the absolute value of fame in human life. The word 'தோன்று' (appear) is used here to mean coming into existence or stepping onto the public stage of life. The poet declares that if one is to be born or make an appearance in the world, it must be accompanied by fame. For those who lack such fame, the text starkly states that non-existence is far better than existing without renown.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If appearing, with fame let one appear; than appearing, for those who do not have that, not appearing is better.",
+ "translation": "If you are to appear in the world, appear with fame; for those who lack it, it is better not to appear at all than to live without renown.",
+ "modern": "ஒருவர் உலகில் தோன்றுவதானால் புகழுடன் தோன்ற வேண்டும்; அத்தகைய புகழ் இல்லாதவர்கள் உலகில் தோன்றுவதை விடத் தோன்றாமல் இருப்பதே நல்லது.",
+ "explanation": "This couplet emphasizes the supreme value of a life of fame and honor. The word 'தோன்றின்' (if one appears) refers to entering public life or being born into the world. The author states that if a person is to make an appearance in society, they should do so with the distinction of fame ('புகழொடு தோன்றுக'). For those who do not possess such fame ('அஃதிலார்'), the act of appearing or living in the public eye ('தோன்றலின்') is far less desirable than not appearing or not being born at all ('தோன்றாமை நன்று'). This stark contrast highlights that a life without honor or contribution is equivalent to non-existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

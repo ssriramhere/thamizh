@@ -17,17 +17,17 @@
     {
      "text": "எதிர்",
      "lemma": "எதிர்",
-     "gloss": "before"
+     "gloss": "against"
     }
    ],
-   "gloss": "before"
+   "gloss": "against"
   },
   {
    "surface": "சாய்ந்து",
    "parts": [
     {
      "text": "சாய்ந்து",
-     "lemma": "சாய்",
+     "lemma": "சாய்தல்",
      "gloss": "having yielded"
     }
    ],
@@ -37,33 +37,28 @@
    "surface": "ஒழுக",
    "parts": [
     {
-     "text": "ஒழுகு",
-     "lemma": "ஒழுகு",
-     "gloss": "to behave"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "ஒழுக",
+     "lemma": "ஒழுகுதல்",
+     "gloss": "to conduct oneself"
     }
    ],
-   "gloss": "to behave"
+   "gloss": "to conduct oneself"
   },
   {
    "surface": "வல்லாரை",
    "parts": [
     {
      "text": "வல்லார்",
-     "lemma": "வல்",
-     "gloss": "those who are able"
+     "lemma": "வல்லார்",
+     "gloss": "those who are capable"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who are able (acc.)"
+   "gloss": "those who are capable (accusative)"
   },
   {
    "surface": "யாரே",
@@ -76,7 +71,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
    "gloss": "who indeed"
@@ -86,11 +81,11 @@
    "parts": [
     {
      "text": "மிக்லூக்கும்",
-     "lemma": "மிகலூக்கு",
-     "gloss": "will attempt to conquer"
+     "lemma": "மிகலூக்குதல்",
+     "gloss": "desiring to conquer"
     }
    ],
-   "gloss": "will attempt to conquer"
+   "gloss": "desiring to conquer"
   },
   {
    "surface": "தன்மை",
@@ -115,10 +110,10 @@
    "gloss": "they"
   }
  ],
- "literal": "Hostility before having-yielded to-behave those-who-are-able-(acc.) who-indeed to-conquer-will-attempt nature they?",
- "translation": "Who would even attempt to conquer those who have the strength to yield in the face of hostility?",
- "modern": "பகைமை எதிர்ப்படும்போது வளைந்து கொடுத்து நடக்கும் ஆற்றல் உடையவர்களை வெல்ல நினைக்கும் தன்மையுடையவர் எவரும் இலர்.",
- "explanation": "This couplet highlights the strategic value of yielding. When faced with hostility (இகல்), choosing to step back or yield (சாய்ந்து) rather than retaliating is not a weakness, but a profound strength. The poet asks rhetorically who could possibly possess the nature to conquer those who are capable of such disciplined restraint. By yielding, one diffuses the enmity, making it impossible for opponents to achieve a victory over them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Hostility against, having yielded to conduct themselves those who are capable, who indeed, to conquer desiring nature they?",
+ "translation": "Who indeed possesses the power to conquer those who are capable of yielding and conducting themselves peacefully when confronted with hostility?",
+ "modern": "பகைமைக்கு எதிராகப் பணிந்து நடக்க வல்லவர்களை வெல்ல நினைக்கும் தன்மையுடையவர் யார் இருக்கிறார்கள்? (யாரும் இல்லை).",
+ "explanation": "The couplet highlights the power of humility and adaptability in the face of enmity. When confronted with hostility, those who have the wisdom and strength to yield or bend rather than react with anger become invincible. The author rhetorically asks who could possibly have the capacity or nature to conquer such people. By refusing to engage in conflict and instead choosing a path of peaceful accommodation, they disarm their opponents completely, making themselves unconquerable.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

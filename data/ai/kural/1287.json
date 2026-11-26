@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "உய்த்தல்",
-     "lemma": "உய்",
+     "lemma": "உய்த்தல்",
      "gloss": "carrying away"
     }
    ],
-   "gloss": "carrying away"
+   "gloss": "being carried away"
   },
   {
    "surface": "அறிந்து",
@@ -17,7 +17,7 @@
     {
      "text": "அறிந்து",
      "lemma": "அறி",
-     "gloss": "having known"
+     "gloss": "knowing"
     }
    ],
    "gloss": "knowing"
@@ -65,11 +65,11 @@
    "parts": [
     {
      "text": "பொய்த்தல்",
-     "lemma": "பொய்",
-     "gloss": "failing"
+     "lemma": "பொய்த்தல்",
+     "gloss": "proving false"
     }
    ],
-   "gloss": "failing"
+   "gloss": "proving false"
   },
   {
    "surface": "அறிந்து",
@@ -77,7 +77,7 @@
     {
      "text": "அறிந்து",
      "lemma": "அறி",
-     "gloss": "having known"
+     "gloss": "knowing"
     }
    ],
    "gloss": "knowing"
@@ -91,7 +91,7 @@
      "gloss": "what"
     }
    ],
-   "gloss": "what (use)"
+   "gloss": "what is the use"
   },
   {
    "surface": "புலந்து",
@@ -99,16 +99,16 @@
     {
      "text": "புலந்து",
      "lemma": "புல",
-     "gloss": "having sulked"
+     "gloss": "sulking"
     }
    ],
-   "gloss": "sulking"
+   "gloss": "having sulked"
   }
  ],
- "literal": "Carrying away knowing, water those who leap indeed like; failing knowing, what having sulked?",
- "translation": "Like those who leap into a stream knowing it will sweep them away, what is the use of my sulking when I know my resolve will fail?",
- "modern": "நீர் தங்களை அடித்துச் செல்லும் என்று அறிந்தும் அதில் குதிப்பவர்களைப் போல, என் ஊடல் தோற்றுப்போகும் என்று தெரிந்தும் நான் ஊடல் கொள்வதால் என்ன பயன்?",
- "explanation": "The speaker reflects on the futility of her feigned anger towards her lover. She compares herself to someone who jumps into a fast-flowing stream, fully aware that the current will inevitably sweep them away. Similarly, she knows that her resolve to stay angry will instantly fail ('பொய்த்தல்') the moment she sees him. The couplet beautifully captures the overpowering nature of love, showing that intellectual awareness of one's weakness cannot stop the emotional surrender.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like those who leap into the water knowing it will carry them away, what is the use of sulking, knowing it will prove false?",
+ "translation": "Like those who plunge into a rushing flood knowing it will sweep them away, what is the use of my sulking when I know it will dissolve the moment we meet?",
+ "modern": "வெள்ளம் அடித்துச் செல்லும் என்று தெரிந்தே அதில் குதிப்பவர்களைப் போல, என் ஊடல் அவரிடம் தோற்றுப்போகும் என்று தெரிந்தும் நான் ஊடுவதால் என்ன பயன்?",
+ "explanation": "In this couplet, the heroine compares her feigned anger or sulking to jumping into a swift river. Just as a person leaping into a flood knows they cannot resist the current and will be swept away, she knows her resolve to remain angry will instantly dissolve when her lover approaches. The word 'uyttal' refers to being carried away by the water, and 'poyttal' refers to her sulking proving false or failing to hold up. Thus, she questions the utility ('eṉ') of sulking when she knows she will inevitably yield to love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

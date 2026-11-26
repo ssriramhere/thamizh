@@ -5,27 +5,22 @@
    "parts": [
     {
      "text": "நயன்",
-     "lemma": "நயன்",
-     "gloss": "pleasantness"
+     "lemma": "நயம்",
+     "gloss": "pleasantness or virtue"
     }
    ],
-   "gloss": "pleasantness"
+   "gloss": "pleasantness or virtue"
   },
   {
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "things devoid of"
     }
    ],
-   "gloss": "things without"
+   "gloss": "things devoid of"
   },
   {
    "surface": "சொல்லினும்",
@@ -37,7 +32,7 @@
     },
     {
      "text": "இனும்",
-     "lemma": "இனும்",
+     "lemma": "இன்",
      "gloss": "even if"
     }
    ],
@@ -53,8 +48,8 @@
     },
     {
      "text": "உக",
-     "lemma": "உக",
-     "gloss": "optative suffix"
+     "lemma": "க",
+     "gloss": "let"
     }
    ],
    "gloss": "let them speak"
@@ -65,10 +60,10 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "noble people"
     }
    ],
-   "gloss": "the noble ones"
+   "gloss": "noble people"
   },
   {
    "surface": "பயன்",
@@ -76,26 +71,21 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "usefulness"
+     "gloss": "usefulness or benefit"
     }
    ],
-   "gloss": "usefulness"
+   "gloss": "usefulness or benefit"
   },
   {
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "things devoid of"
     }
    ],
-   "gloss": "things without"
+   "gloss": "things devoid of"
   },
   {
    "surface": "சொல்லாமை",
@@ -108,7 +98,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not doing"
     }
    ],
    "gloss": "not speaking"
@@ -119,16 +109,16 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "is good"
+     "gloss": "good"
     }
    ],
    "gloss": "is good"
   }
  ],
- "literal": "Pleasantness things without even if they speak let them speak the noble ones; usefulness things without not speaking is good.",
- "translation": "Even if the noble speak words lacking pleasantness, let them speak; but it is good that they do not speak words lacking usefulness.",
- "modern": "சான்றோர்கள் இனிமை இல்லாத சொற்களைச் சொன்னாலும் சொல்லலாம், ஆனால் பயன் இல்லாத சொற்களைச் சொல்லாமல் இருப்பதே அவர்களுக்குச் சிறந்தது.",
- "explanation": "This couplet contrasts words lacking pleasantness with words lacking usefulness. It states that even if noble people happen to speak harsh or unpleasant words, it can be tolerated. However, it is essential and truly good that they refrain entirely from speaking useless words. The emphasis is on the absolute avoidance of vain talk by the wise.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they speak things devoid of pleasantness, let the noble people speak them; but not speaking things devoid of usefulness is good.",
+ "translation": "Even if noble people speak words devoid of pleasantness, it is still better for them to completely refrain from speaking words devoid of usefulness.",
+ "modern": "சான்றோர்கள் அறநெறி அல்லது இனிமை இல்லாத சொற்களைச் சொன்னாலும் சொல்லலாம்; ஆனால், பயனில்லாத சொற்களைச் சொல்லாமல் இருப்பது அவர்களுக்கு மிகவும் நல்லது.",
+ "explanation": "This couplet highlights the absolute necessity of avoiding useless chatter by comparing it with unpleasant speech. The author suggests that even if wise and noble people (சான்றோர்) happen to utter words lacking in pleasantness or virtue (நயனில), it may be tolerated. However, it is of paramount importance and goodness (நன்று) that they never speak words that are completely devoid of utility or purpose (பயனில). This comparison emphasizes that while harsh or unvirtuous words might occasionally occur under specific circumstances, useless words serve no purpose at all and must be strictly avoided.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

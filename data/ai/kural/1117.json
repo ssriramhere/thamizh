@@ -4,17 +4,12 @@
    "surface": "அறுவாய்",
    "parts": [
     {
-     "text": "அறு",
-     "lemma": "அறு",
-     "gloss": "cut"
-    },
-    {
-     "text": "வாய்",
-     "lemma": "வாய்",
-     "gloss": "place"
+     "text": "அறுவாய்",
+     "lemma": "அறுவாய்",
+     "gloss": "diminished edge"
     }
    ],
-   "gloss": "diminished portion"
+   "gloss": "the diminished edge (of the crescent)"
   },
   {
    "surface": "நிறைந்த",
@@ -25,7 +20,7 @@
      "gloss": "filled"
     }
    ],
-   "gloss": "filled"
+   "gloss": "that has become full"
   },
   {
    "surface": "அவிர்மதிக்கு",
@@ -42,7 +37,7 @@
     },
     {
      "text": "க்கு",
-     "lemma": "கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
@@ -53,7 +48,7 @@
    "parts": [
     {
      "text": "போல",
-     "lemma": "போல்",
+     "lemma": "போல",
      "gloss": "like"
     }
    ],
@@ -68,18 +63,23 @@
      "gloss": "spot"
     }
    ],
-   "gloss": "spot"
+   "gloss": "spot or blemish"
   },
   {
    "surface": "உண்டோ",
    "parts": [
     {
-     "text": "உண்டோ",
+     "text": "உண்டு",
      "lemma": "உண்டு",
      "gloss": "is there"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "is there?"
+   "gloss": "is there indeed?"
   },
   {
    "surface": "மாதர்",
@@ -90,7 +90,7 @@
      "gloss": "woman"
     }
    ],
-   "gloss": "woman's"
+   "gloss": "of the beloved woman"
   },
   {
    "surface": "முகத்து",
@@ -104,10 +104,10 @@
    "gloss": "on the face"
   }
  ],
- "literal": "Diminished portion filled to the shining moon like, spot is there woman's on the face?",
- "translation": "The shining moon may wax full to heal its missing slice, but it still has a dark spot. Is there any such blemish on this woman's face?",
- "modern": "தேய்ந்த பகுதி முழுமையாக வளர்ந்து ஒளிரும் நிலவில் களங்கம் இருப்பது போல, இந்தப் பெண்ணின் முகத்திலும் களங்கம் இருக்கிறதா?",
- "explanation": "The speaker marvels at the flawless beauty of the woman's face by comparing it to the full moon. He notes that even when the moon waxes to become completely full and bright, it still bears a dark spot. He then asks rhetorically if such a blemish exists on the woman's face, implying that her face is far superior to the moon because it is perfectly spotless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like to the shining moon that has filled its diminished edge, is there a blemish on the face of the beloved woman?",
+ "translation": "Is there a blemish on the face of my beloved, like the dark spot found on the bright full moon that has filled out its crescent shape?",
+ "modern": "தேய்ந்த பகுதி நிறைந்து விளங்கும் முழு நிலவுக்கு இருப்பது போல, என் காதலியின் முகத்தில் ஏதேனும் களங்கம் இருக்கிறதா?",
+ "explanation": "In this verse, the lover praises the flawless beauty of his beloved's face by comparing it to the moon. He notes that even the bright, fully formed moon has a visible dark spot or blemish on its surface. However, when he looks at his beloved's face, he asks rhetorically if there is any such blemish to be found. By highlighting this contrast, he exalts her beauty as something even more perfect and spotless than the full moon itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

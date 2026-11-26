@@ -6,21 +6,26 @@
     {
      "text": "ண்பு",
      "lemma": "பண்பு",
-     "gloss": "good character"
+     "gloss": "character"
     }
    ],
-   "gloss": "good character"
+   "gloss": "character"
   },
   {
    "surface": "இலான்",
    "parts": [
     {
-     "text": "இலான்",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "he who is without"
+     "gloss": "without"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
     }
    ],
-   "gloss": "he who is without"
+   "gloss": "he who lacks"
   },
   {
    "surface": "பெற்ற",
@@ -42,7 +47,8 @@
      "gloss": "great wealth"
     }
    ],
-   "gloss": "great wealth"
+   "gloss": "great wealth",
+   "split_unverified": true
   },
   {
    "surface": "நன்பால்",
@@ -53,7 +59,8 @@
      "gloss": "good milk"
     }
    ],
-   "gloss": "good milk"
+   "gloss": "good milk",
+   "split_unverified": true
   },
   {
    "surface": "கலம்",
@@ -70,9 +77,14 @@
    "surface": "தீமையால்",
    "parts": [
     {
-     "text": "தீமையால்",
+     "text": "தீமை",
      "lemma": "தீமை",
-     "gloss": "by the impurity"
+     "gloss": "impurity"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
     }
    ],
    "gloss": "by the impurity"
@@ -83,10 +95,10 @@
     {
      "text": "திரிந்து",
      "lemma": "திரி",
-     "gloss": "having spoiled"
+     "gloss": "having turned sour"
     }
    ],
-   "gloss": "having spoiled"
+   "gloss": "having turned sour"
   },
   {
    "surface": "அற்று",
@@ -94,16 +106,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "character / he who is without / obtained / great wealth / good milk / vessel / by the impurity / having spoiled / like that",
- "translation": "The great wealth obtained by a man without good character is like pure milk that has spoiled due to the impurity of its vessel.",
- "modern": "நல்ல பண்பு இல்லாதவன் அடைந்த பெரிய செல்வமானது, பாத்திரத்தின் அழுக்கினால் அதில் ஊற்றி வைக்கப்பட்ட நல்ல பால் கெட்டுப்போவதைப் போன்றது.",
- "explanation": "This couplet compares a person lacking good character to an unclean vessel. Just as pure, good milk turns sour and becomes useless when poured into a dirty pot, great wealth becomes spoiled and useless when it is held by a person without noble qualities. The word 'கலம்' (vessel) represents the person's character, while 'நன்பால்' (good milk) represents the wealth they acquire.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who lacks character obtained great wealth, good milk vessel's impurity by turned sour, is like that.",
+ "translation": "The great wealth acquired by a person devoid of good character is like good milk turning sour due to the impurity of the vessel it is kept in.",
+ "modern": "நற்பண்பு இல்லாதவன் பெற்ற பெரும் செல்வமானது, பாத்திரத்தின் குற்றத்தால் நல்ல பால் கெட்டுப் போவதைப் போன்றதாகும்.",
+ "explanation": "This couplet compares the wealth of an uncultured person to good milk poured into an unclean vessel. Just as the impurity of the container spoils the pure, nourishing milk, the lack of character in a person ruins the utility of their vast wealth. Wealth in the hands of the characterless becomes useless and harmful to society, rather than being beneficial. Thus, personal character is the essential vessel that preserves and gives value to one's fortune.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

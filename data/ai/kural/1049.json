@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "[link]"
+     "gloss": "oblique case marker"
     },
     {
      "text": "உள்",
@@ -19,14 +19,14 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "inside fire"
+   "gloss": "inside the fire"
   },
   {
    "surface": "துஞ்சலும்",
    "parts": [
     {
      "text": "துஞ்சல்",
-     "lemma": "துஞ்சு",
+     "lemma": "துஞ்சல்",
      "gloss": "sleeping"
     },
     {
@@ -59,7 +59,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "[link]"
+     "gloss": "oblique case marker"
     },
     {
      "text": "உள்",
@@ -67,7 +67,7 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "inside poverty"
+   "gloss": "in the midst of poverty"
   },
   {
    "surface": "யாது",
@@ -75,10 +75,10 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "whatever"
+     "gloss": "any"
     }
    ],
-   "gloss": "whatever"
+   "gloss": "any"
   },
   {
    "surface": "ஒன்றும்",
@@ -94,7 +94,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "at all"
+   "gloss": "even one"
   },
   {
    "surface": "கண்பாடு",
@@ -106,28 +106,28 @@
     },
     {
      "text": "பாடு",
-     "lemma": "படு",
-     "gloss": "falling"
+     "lemma": "பாடு",
+     "gloss": "closing or sleeping"
     }
    ],
-   "gloss": "sleep"
+   "gloss": "closing of the eyes in sleep"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "is difficult"
+     "lemma": "அரிது",
+     "gloss": "is rare or impossible"
     }
    ],
-   "gloss": "is difficult"
+   "gloss": "is impossible"
   }
  ],
- "literal": "Inside fire, even sleeping is possible; inside poverty, whatever even one (at all) sleep is difficult.",
- "translation": "One might even be able to sleep in the midst of fire, but in the midst of poverty, sleep is utterly impossible.",
- "modern": "நெருப்பின் நடுவே கூட ஒருவரால் தூங்கிவிட முடியும்; ஆனால் வறுமையின் பிடியில் சிக்கியிருக்கும்போது எந்த வகையிலும் தூங்குவது கடினம்.",
- "explanation": "This couplet uses extreme hyperbole to contrast the physical pain of fire with the mental agony of poverty. The phrase 'நெருப்பினுள் துஞ்சலும் ஆகும்' suggests that a person might somehow find a way to sleep even while surrounded by flames. However, 'நிரப்பினுள் யாதொன்றும் கண்பாடு அரிது' emphasizes that in the grip of destitution, constant worry and suffering make it entirely impossible to close one's eyes in sleep. By comparing the two, the poet highlights that the torment of poverty is far worse than burning in a fire.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Inside fire sleeping even is possible; in poverty any one closing of eyes is difficult.",
+ "translation": "It is possible even to sleep while enveloped in fire; but in the midst of poverty, it is impossible to get even a wink of sleep.",
+ "modern": "நெருப்புக்குள் படுத்துத் தூங்குவதும் கூடச் சாத்தியமாகும்; ஆனால் வறுமையின் துன்பத்தில் வாழும்போது சிறிதும் கண்மூடித் தூங்குவது என்பது முடியாததாகும்.",
+ "explanation": "This couplet contrasts physical torment with the mental agony of destitution. The poet states that one might somehow manage to fall asleep even when surrounded by burning fire, but it is absolutely impossible to find any sleep when trapped in extreme poverty. The word 'நிரப்பு' specifically denotes poverty or emptiness, and 'கண்பாடு' refers to the closing of eyes to sleep. Through this extreme comparison, the verse highlights how the constant worry and anxiety of poverty are far more sleepless and agonizing than physical heat.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

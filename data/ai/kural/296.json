@@ -6,15 +6,15 @@
     {
      "text": "பொய்",
      "lemma": "பொய்",
-     "gloss": "to lie"
+     "gloss": "falsehood"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "not doing"
+     "gloss": "negative verbal noun suffix"
     }
    ],
-   "gloss": "non-lying"
+   "gloss": "not lying / truthfulness"
   },
   {
    "surface": "அன்ன",
@@ -22,10 +22,10 @@
     {
      "text": "அன்ன",
      "lemma": "அன்ன",
-     "gloss": "like"
+     "gloss": "like / equivalent to"
     }
    ],
-   "gloss": "like"
+   "gloss": "like / equivalent to"
   },
   {
    "surface": "புகழ்",
@@ -33,18 +33,18 @@
     {
      "text": "புகழ்",
      "lemma": "புகழ்",
-     "gloss": "fame"
+     "gloss": "fame / glory"
     }
    ],
-   "gloss": "fame"
+   "gloss": "fame / glory"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
    "gloss": "there is not"
@@ -55,22 +55,22 @@
     {
      "text": "எய்",
      "lemma": "எய்",
-     "gloss": "to be weary"
+     "gloss": "to tire / languish"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "not doing"
+     "gloss": "negative suffix (without)"
     }
    ],
-   "gloss": "without weariness"
+   "gloss": "without tiring / effortlessly"
   },
   {
    "surface": "எல்லா",
    "parts": [
     {
      "text": "எல்லா",
-     "lemma": "எல்லாம்",
+     "lemma": "எல்லா",
      "gloss": "all"
     }
    ],
@@ -87,27 +87,27 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/all"
+     "gloss": "even / also"
     }
    ],
-   "gloss": "all virtues"
+   "gloss": "every virtue"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
      "text": "தரும்",
-     "lemma": "தா",
+     "lemma": "தரு",
      "gloss": "will give"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will yield / will give"
   }
  ],
- "literal": "Non-lying like fame there is not; without weariness all virtues it will give.",
- "translation": "There is no fame like that of never lying. Without any further effort, it will yield every other virtue.",
- "modern": "பொய் சொல்லாமல் இருப்பதைப் போன்ற சிறந்த புகழ் வேறு இல்லை. அது ஒருவருக்கு எந்தச் சிரமமும் இல்லாமல் மற்ற எல்லா அறங்களையும் கொடுக்கும்.",
- "explanation": "This couplet highlights the supreme value of truthfulness among all virtues. The word 'பொய்யாமை' means the practice of never telling a lie, which is described as the greatest source of fame. The term 'எய்யாமை' means without weariness or effort. The poet explains that simply maintaining truthfulness will automatically and effortlessly bring the benefits of all other moral virtues to a person.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not-lying like fame there-is-not; effortlessly all virtue it-will-give.",
+ "translation": "There is no fame equal to that of never lying; without any effort, it will yield every other virtue.",
+ "modern": "பொய் சொல்லாமல் இருத்தலைப் போன்ற புகழ் வேறு இல்லை; அது ஒருவருக்கு எந்தவிதமான சோர்வும் முயற்சியும் இல்லாமல் எல்லா அறங்களையும் தரும்.",
+ "explanation": "The couplet highlights the supreme value of truthfulness by stating that there is no greater glory than maintaining it. The word 'poyyāmai' refers to the practice of never uttering falsehoods. The poet asserts that this single practice is so powerful that it effortlessly ('eyyāmai', meaning without fatigue or struggle) brings about all other virtues ('ellā aṟamum') to a person. Thus, by simply adhering to truth, one naturally attains the fruits of all other righteous deeds without having to strive for them individually.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

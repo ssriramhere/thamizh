@@ -20,7 +20,7 @@
      "gloss": "like"
     }
    ],
-   "gloss": "as if"
+   "gloss": "like"
   },
   {
    "surface": "பொதுநோக்கு",
@@ -43,7 +43,7 @@
    "parts": [
     {
      "text": "நோக்குதல்",
-     "lemma": "நோக்கு",
+     "lemma": "நோக்குதல்",
      "gloss": "looking"
     }
    ],
@@ -66,15 +66,15 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "among"
+     "gloss": "eye"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "only among"
+   "gloss": "only in the eyes"
   },
   {
    "surface": "உள",
@@ -85,13 +85,13 @@
      "gloss": "exist"
     }
    ],
-   "gloss": "they exist"
+   "gloss": "exist"
   }
  ],
- "literal": "Like strangers, looking a common look, among lovers indeed they exist.",
- "translation": "Exchanging indifferent glances as if they were strangers is a trait found only among lovers.",
- "modern": "அயலாரைப் போல ஒருவரையொருவர் பொதுவாகப் பார்ப்பது காதலர்களிடம் மட்டுமே உள்ள ஒரு செயலாகும்.",
- "explanation": "This couplet captures the secret communication between lovers when they are in public. The phrase 'ஏதிலார் போல' means acting like complete strangers. 'பொதுநோக்கு நோக்குதல்' refers to exchanging casual, indifferent glances that do not arouse the suspicion of onlookers. The poet notes that such deliberate, feigned indifference is a clear sign that exists only among those who are deeply in love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like strangers, looking an indifferent look, exists only in the eyes of lovers.",
+ "translation": "Looking with an indifferent glance as if they were strangers is a behavior that exists only in the eyes of lovers.",
+ "modern": "அந்நியர்களைப் போலப் பொதுவான பார்வையாகப் பார்ப்பது, காதலர்களுடைய கண்களிலேயே இருக்கிறது.",
+ "explanation": "This couplet describes the secret language of lovers when they are in public. To hide their mutual affection from onlookers, they look at each other with a cold, casual, or indifferent glance, mimicking how strangers behave. The poet points out that this feigned indifference is actually a sign of deep intimacy. Such a deceptive yet meaningful gaze is a unique art found only in the eyes of those who love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

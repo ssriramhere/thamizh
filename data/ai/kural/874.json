@@ -6,10 +6,10 @@
     {
      "text": "பகை",
      "lemma": "பகை",
-     "gloss": "enemy"
+     "gloss": "enmity"
     }
    ],
-   "gloss": "enemy"
+   "gloss": "enmity"
   },
   {
    "surface": "நட்பா",
@@ -21,8 +21,8 @@
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகு",
-     "gloss": "becoming"
+     "lemma": "ஆ",
+     "gloss": "as"
     }
    ],
    "gloss": "as friendship"
@@ -42,12 +42,17 @@
    "surface": "ஒழுகும்",
    "parts": [
     {
-     "text": "ஒழுகும்",
+     "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "who conducts"
+     "gloss": "behave"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "who conducts"
+   "gloss": "conducting oneself"
   },
   {
    "surface": "பண்பு",
@@ -55,21 +60,26 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "quality"
+     "gloss": "noble character"
     }
    ],
-   "gloss": "quality"
+   "gloss": "noble character"
   },
   {
    "surface": "உடையாளன்",
    "parts": [
     {
-     "text": "உடையாளன்",
-     "lemma": "உடையாளன்",
-     "gloss": "possessor"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possessing"
+    },
+    {
+     "text": "ஆளன்",
+     "lemma": "ஆளன்",
+     "gloss": "person"
     }
    ],
-   "gloss": "possessor"
+   "gloss": "one who possesses"
   },
   {
    "surface": "தகைமைக்கண்",
@@ -82,21 +92,26 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "under"
     }
    ],
-   "gloss": "in the greatness"
+   "gloss": "under the greatness"
   },
   {
    "surface": "தங்கிற்று",
    "parts": [
     {
-     "text": "தங்கிற்று",
+     "text": "தங்கு",
      "lemma": "தங்கு",
-     "gloss": "rests"
+     "gloss": "abide"
+    },
+    {
+     "text": "இற்று",
+     "lemma": "இற்று",
+     "gloss": "past tense suffix"
     }
    ],
-   "gloss": "rests"
+   "gloss": "abides"
   },
   {
    "surface": "உலகு",
@@ -107,13 +122,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Enemy as friendship having taken who conducts, quality possessor's in greatness rests the world.",
- "translation": "The world rests on the greatness of the noble man who has the character to turn even an enemy into a friend.",
- "modern": "பகைவரையும் நண்பராக மாற்றி நடக்கும் நல்ல பண்பு உடையவனின் பெருமையில்தான் இந்த உலகம் நிலைத்திருக்கிறது.",
- "explanation": "This couplet explains the supreme value of turning enmity into friendship. The word pagai refers to an enemy, while natpaa kondu means making them into a friend. The world itself endures because of the greatness of such noble people who possess this rare character. By transforming hostility into harmony, they provide stability to the world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Enmity as friendship having-taken conducting-oneself noble-character possessor's greatness-under abides the-world.",
+ "translation": "The world abides under the greatness of the noble-natured person who conducts himself by turning enmity into friendship.",
+ "modern": "பகையை நட்பாக மாற்றிக் கொண்டு வாழ்கின்ற நற்பண்பு உடையவனுடைய பெருமையின்கீழ் இவ்வுலகம் நிலைபெற்று நிற்கும்.",
+ "explanation": "This couplet highlights the power of diplomacy and noble character. A person of high character does not perpetuate hostility; instead, they possess the rare quality of converting enemies into friends and living harmoniously. The poet states that the entire world abides under the greatness of such an individual. The key phrase 'பகை நட்பாக் கொண்டு' (taking enmity as friendship) shows that true strength lies in reconciliation rather than conflict.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -22,47 +22,32 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "locative suffix"
     }
    ],
-   "gloss": "from inside"
+   "gloss": "from within"
   },
   {
    "surface": "போகார்",
    "parts": [
     {
-     "text": "போகு",
-     "lemma": "போகு",
-     "gloss": "to go"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "he will not (honorific)"
+     "text": "போகார்",
+     "lemma": "போ",
+     "gloss": "will not depart"
     }
    ],
-   "gloss": "he will not go"
+   "gloss": "he does not depart"
   },
   {
    "surface": "இமைப்பின்",
    "parts": [
     {
-     "text": "இமை",
+     "text": "இமைப்பின்",
      "lemma": "இமை",
-     "gloss": "to blink"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if blinked"
     }
    ],
-   "gloss": "if blinked"
+   "gloss": "if I blink"
   },
   {
    "surface": "பருகுவரா",
@@ -70,33 +55,33 @@
     {
      "text": "பருகுவர்",
      "lemma": "பருகு",
-     "gloss": "he will consume (pain) / suffer"
+     "gloss": "will suffer pain"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "will he suffer?"
+   "gloss": "will he suffer pain?"
   },
   {
    "surface": "நுண்ணியர்",
    "parts": [
     {
      "text": "நுண்ணியர்",
-     "lemma": "நுண்ணியர்",
-     "gloss": "subtle one"
+     "lemma": "நுண்மை",
+     "gloss": "one who is subtle"
     }
    ],
-   "gloss": "subtle one"
+   "gloss": "he is of subtle form"
   },
   {
    "surface": "எம்",
    "parts": [
     {
      "text": "எம்",
-     "lemma": "எம்",
+     "lemma": "யாம்",
      "gloss": "my"
     }
    ],
@@ -106,23 +91,18 @@
    "surface": "காதலவர்",
    "parts": [
     {
-     "text": "காதல்",
-     "lemma": "காதல்",
-     "gloss": "love"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "he (honorific)"
+     "text": "காதலவர்",
+     "lemma": "காதலர்",
+     "gloss": "lover"
     }
    ],
    "gloss": "lover"
   }
  ],
- "literal": "Eye from-inside he-will-not-go; if-blinked will-he-suffer? Subtle-one my lover.",
- "translation": "My lover will not depart from within my eyes; if I blink, will he suffer? So subtle is he.",
- "modern": "என் காதலர் என் கண்ணுக்குள்ளிருந்து வெளியேற மாட்டார். நான் கண்ணிமைத்தால் அவர் துன்பப்படுவாரா? அந்த அளவுக்கு அவர் நுட்பமானவர்.",
- "explanation": "The speaker marvels at how her lover constantly occupies her vision. She imagines him living inside her eyes, refusing to leave. Because he is so subtle and tiny to fit there, she fears that even the simple act of blinking might cause him to suffer. The word 'பருகுவரா' (will he consume pain or suffer) highlights her delicate care for his subtle form.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "From within (my) eye, (he) does not depart; if (I) blink, will (he) suffer pain? Subtle is my lover.",
+ "translation": "My lover does not depart from within my eyes; if I blink, will he suffer pain? So subtle is his form.",
+ "modern": "என் காதலர் என் கண்ணின் உள்ளிருந்து வெளியே போக மாட்டார்; நான் கண்ணிமைத்தால் அவர் துன்புறுவாரோ? என் காதலர் அவ்வளவு நுட்பமானவர்.",
+ "explanation": "The heroine expresses her deep love by imagining her lover residing permanently inside her eyes. She says he never leaves this inner sanctuary. Because he is so delicate and subtle in form, she worries that the simple act of blinking her eyes might squeeze or hurt him. This poetic imagery beautifully illustrates how constantly and intimately her lover occupies her vision and thoughts.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

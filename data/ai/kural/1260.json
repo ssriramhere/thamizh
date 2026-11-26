@@ -25,7 +25,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in fire"
+   "gloss": "in the fire"
   },
   {
    "surface": "இட்டன்ன",
@@ -33,7 +33,7 @@
     {
      "text": "இட்டு",
      "lemma": "இடு",
-     "gloss": "having put"
+     "gloss": "thrown"
     },
     {
      "text": "அன்ன",
@@ -41,41 +41,46 @@
      "gloss": "like"
     }
    ],
-   "gloss": "like having put"
+   "gloss": "like that which is thrown"
   },
   {
    "surface": "நெஞ்சினார்க்கு",
    "parts": [
     {
-     "text": "நெஞ்சினார்",
-     "lemma": "நெஞ்சினார்",
-     "gloss": "those with a heart"
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "heart"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "[sandhi]"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "those who possess"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to those with a heart"
+   "gloss": "to those who have a heart"
   },
   {
    "surface": "உண்டோ",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
-     "gloss": "is there"
+     "lemma": "உண்டு",
+     "gloss": "exists"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[question particle]"
+     "gloss": "question particle"
     }
    ],
    "gloss": "is there?"
@@ -97,10 +102,10 @@
     {
      "text": "ஊடி",
      "lemma": "ஊடு",
-     "gloss": "having feigned anger"
+     "gloss": "having sulked"
     }
    ],
-   "gloss": "having feigned anger"
+   "gloss": "having sulked"
   },
   {
    "surface": "நிற்பேம்",
@@ -108,27 +113,27 @@
     {
      "text": "நிற்பேம்",
      "lemma": "நில்",
-     "gloss": "we will stand"
+     "gloss": "we will remain"
     }
    ],
-   "gloss": "we will stand"
+   "gloss": "we will remain"
   },
   {
    "surface": "எனல்",
    "parts": [
     {
      "text": "எனல்",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "எனல்",
+     "gloss": "saying or thinking"
     }
    ],
-   "gloss": "saying"
+   "gloss": "saying or thinking"
   }
  ],
- "literal": "fat in-fire like-having-put to-those-with-heart is-there having-united having-feigned-anger we-will-stand saying",
- "translation": "Can those whose hearts melt like fat thrown into fire say, \"We will stand firm in our feigned anger when we are together\"?",
- "modern": "தீயில் இட்ட கொழுப்பைப் போல உருகும் நெஞ்சத்தை உடையவர்களுக்கு, காதலருடன் சேர்ந்திருக்கும்போது ஊடல் கொண்டு நிற்போம் என்று சொல்வது முடியுமோ?",
- "explanation": "The heroine reflects on her inability to maintain her feigned anger (ஊடல்) when she is with her lover. She compares her heart to fat (நிணம்) thrown into a fire, which melts instantly and completely. For someone whose heart melts so easily out of love, it is impossible to resolve to stand firm in feigned anger. The vivid imagery of fat melting in fire perfectly captures how her resolve dissolves in his presence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like fat thrown in fire, to those who have such a heart, is there the ability of saying 'having united, we will remain sulking'?",
+ "translation": "Is it possible for those whose hearts melt like fat thrown into fire to resolve, 'We will remain sulking even after we unite'?",
+ "modern": "நெருப்பில் போட்ட கொழுப்பு உருகுவது போல உருகும் நெஞ்சத்தை உடையவர்க்கு, 'கூடிப் பின் பிணங்கி நிற்போம்' என்று நினைப்பது முடியுமா?",
+ "explanation": "This couplet describes the vulnerability of a lover's heart when facing their beloved. The speaker compares their heart to fat thrown into a fire, which melts instantly without resistance. Because of this rapid melting of resolve, it is impossible to maintain a state of feigned anger or sulking after meeting. The imagery of melting fat highlights how love completely dissolves any self-control or determination to stay apart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "வீழ்",
      "lemma": "வீழ்",
-     "gloss": "fall/miss"
+     "gloss": "to be wasted"
     },
     {
      "text": "நாள்",
@@ -14,7 +14,7 @@
      "gloss": "day"
     }
    ],
-   "gloss": "missed day"
+   "gloss": "wasted day"
   },
   {
    "surface": "படாஅமை",
@@ -22,37 +22,32 @@
     {
      "text": "படாஅமை",
      "lemma": "படாமை",
-     "gloss": "without occurring"
+     "gloss": "without letting occur"
     }
    ],
-   "gloss": "without occurring"
+   "gloss": "without letting occur"
   },
   {
    "surface": "நன்று",
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நன்று",
-     "gloss": "good/virtue"
+     "lemma": "நன்மை",
+     "gloss": "virtue"
     }
    ],
-   "gloss": "good"
+   "gloss": "virtue"
   },
   {
    "surface": "ஆற்றின்",
    "parts": [
     {
-     "text": "ஆற்று",
+     "text": "ஆற்றின்",
      "lemma": "ஆற்று",
-     "gloss": "do/perform"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one performs"
     }
    ],
-   "gloss": "if [one] does"
+   "gloss": "if one performs"
   },
   {
    "surface": "அஃது",
@@ -74,7 +69,7 @@
      "gloss": "a person"
     }
    ],
-   "gloss": "a person's"
+   "gloss": "a person"
   },
   {
    "surface": "வாழ்நாள்",
@@ -82,7 +77,7 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "live"
+     "gloss": "to live"
     },
     {
      "text": "நாள்",
@@ -90,7 +85,7 @@
      "gloss": "day"
     }
    ],
-   "gloss": "living days"
+   "gloss": "days of living"
   },
   {
    "surface": "வழி",
@@ -109,10 +104,10 @@
     {
      "text": "அடைக்கும்",
      "lemma": "அடை",
-     "gloss": "blocking"
+     "gloss": "that which blocks"
     }
    ],
-   "gloss": "blocking"
+   "gloss": "that which blocks"
   },
   {
    "surface": "கல்",
@@ -126,10 +121,10 @@
    "gloss": "stone"
   }
  ],
- "literal": "Missed day without occurring good if [one] does, that [is for] a person living days' path blocking stone.",
- "translation": "If one does good without letting a single day go to waste, that virtue will be the stone that blocks their path of future births.",
- "modern": "ஒருவன் அறம் செய்யத் தவறிய நாள் ஒன்று கூட ஏற்படாதவாறு தொடர்ந்து நற்செயல்களைச் செய்தால், அந்த அறமே அவனது பிறவி வழியை அடைக்கும் கல்லாக மாறும்.",
- "explanation": "This couplet emphasizes the importance of practicing virtue continuously. The phrase 'வீழ்நாள்' refers to a day that falls away or is wasted without doing good. If a person ensures that not a single day passes without performing a virtuous act, that accumulated virtue acts as a powerful barrier. The poet compares this virtue to a stone ('கல்') that firmly blocks the path of living days ('வாழ்நாள் வழி'). While 'வாழ்நாள்' literally means 'days of life', in this context it signifies the endless cycle of rebirths. Thus, relentless virtue is the key to ending worldly suffering.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If a person performs virtue without letting wasted days occur, that is a stone that blocks the path of their days of living.",
+ "translation": "If one performs virtuous deeds daily without letting a single day go to waste, that practice will be a stone that blocks the path of future rebirths.",
+ "modern": "ஒருவன் வீணான நாள் எதுவும் ஏற்படாதவாறு தினமும் அறச்செயல்களைச் செய்வானானால், அது அவனுடைய பிறவி வழியை அடைக்கும் கல்லாகும்.",
+ "explanation": "This couplet emphasizes the importance of daily, uninterrupted practice of virtue. The term 'வீழ்நாள்' refers to a wasted day, which in this context means a day spent without doing any good deeds. The poet suggests that if a person performs virtue ('நன்று') consistently every single day without fail ('படாஅமை'), that continuous practice acts like a heavy stone ('கல்') that blocks ('அடைக்கும்') the path ('வழி') of future births ('வாழ்நாள்'). Here, 'வாழ்நாள்' (literally, days of living) is used to represent the cycle of rebirths, and the blocking stone represents the cessation of this cycle through the power of accumulated virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

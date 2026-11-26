@@ -11,10 +11,10 @@
     {
      "text": "ஒடு",
      "lemma": "ஒடு",
-     "gloss": "with"
+     "gloss": "with / compared to"
     }
    ],
-   "gloss": "with beasts"
+   "gloss": "compared to beasts"
   },
   {
    "surface": "மக்கள்",
@@ -22,10 +22,10 @@
     {
      "text": "மக்கள்",
      "lemma": "மக்கள்",
-     "gloss": "people"
+     "gloss": "human beings"
     }
    ],
-   "gloss": "people"
+   "gloss": "human beings"
   },
   {
    "surface": "அனையர்",
@@ -33,10 +33,10 @@
     {
      "text": "அனையர்",
      "lemma": "அனையர்",
-     "gloss": "they are like"
+     "gloss": "are like"
     }
    ],
-   "gloss": "they are like"
+   "gloss": "are like"
   },
   {
    "surface": "இலங்கு",
@@ -58,23 +58,23 @@
      "gloss": "book"
     }
    ],
-   "gloss": "book"
+   "gloss": "books of learning"
   },
   {
    "surface": "கற்றாரோடு",
    "parts": [
     {
      "text": "கற்றார்",
-     "lemma": "கல்",
-     "gloss": "learned-they"
+     "lemma": "கற்றார்",
+     "gloss": "those who learned"
     },
     {
      "text": "ஓடு",
      "lemma": "ஓடு",
-     "gloss": "with"
+     "gloss": "with / compared to"
     }
    ],
-   "gloss": "with the learned"
+   "gloss": "compared to those who have learned"
   },
   {
    "surface": "ஏனை",
@@ -85,7 +85,7 @@
      "gloss": "other"
     }
    ],
-   "gloss": "other"
+   "gloss": "the other"
   },
   {
    "surface": "அவர்",
@@ -93,16 +93,16 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "they / people"
     }
    ],
-   "gloss": "they"
+   "gloss": "people"
   }
  ],
- "literal": "With beasts, humans, they are like; shining books with the learned, the other people.",
- "translation": "The unlearned are to those who have mastered illustrious books as beasts are to human beings.",
- "modern": "விளங்குகின்ற சிறந்த நூல்களைக் கற்றவர்களோடு கல்லாதவர்களை ஒப்பிடுவது, மக்களோடு விலங்குகளை ஒப்பிடுவதற்குச் சமமாகும்.",
- "explanation": "This couplet establishes a stark analogy: the unlearned are to the learned what beasts are to humans. The phrase 'இலங்கு நூல்' (shining books) emphasizes that true learning enlightens the mind. The poet uses the sociative case suffixes 'ஒடு' and 'ஓடு' (with / compared to) to set up the direct comparison between the two pairs. Just as humans possess higher faculties that distinguish them from animals, those who have studied possess a refined understanding that fundamentally elevates them above the ignorant.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Compared to beasts, human beings are like; compared to those who have learned shining books, the other people.",
+ "translation": "As beasts are to human beings, so are the unlearned when compared to those who have studied illustrious books.",
+ "modern": "விளக்கமான நூல்களைக் கற்றவர்களோடு ஒப்பிடும்போது, கல்லாதவர்கள் மனிதர்களோடு ஒப்பிடும்போது விலங்குகளைப் போன்றவர்கள் ஆவர்.",
+ "explanation": "This couplet uses a stark analogy to emphasize the value of education. It states that the difference between an unlearned person and an educated person is as vast as the difference between a beast and a human being. The word 'இலங்கு' (shining or illustrious) describes 'நூல்' (books of wisdom), suggesting that true learning brings light and clarity to the mind. Without this learning, a person remains at a level of existence comparable to animals, lacking the refined understanding that defines humanity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

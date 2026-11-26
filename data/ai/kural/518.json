@@ -6,12 +6,12 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "task"
+     "gloss": "work or task"
     },
     {
-     "text": "க்கு",
+     "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "dative case suffix (for)"
     }
    ],
    "gloss": "for the task"
@@ -22,7 +22,7 @@
     {
      "text": "உரிமை",
      "lemma": "உரிமை",
-     "gloss": "fitness"
+     "gloss": "fitness or suitability"
     }
    ],
    "gloss": "fitness"
@@ -31,9 +31,19 @@
    "surface": "நாடிய",
    "parts": [
     {
-     "text": "நாடிய",
+     "text": "நாடு",
      "lemma": "நாடு",
-     "gloss": "having examined"
+     "gloss": "to examine or investigate"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "having examined"
@@ -44,7 +54,7 @@
     {
      "text": "பின்றை",
      "lemma": "பின்றை",
-     "gloss": "after"
+     "gloss": "afterwards or after"
     }
    ],
    "gloss": "after"
@@ -55,12 +65,12 @@
     {
      "text": "அவன்",
      "lemma": "அவன்",
-     "gloss": "he"
+     "gloss": "he or him"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case suffix"
     }
    ],
    "gloss": "him"
@@ -69,9 +79,19 @@
    "surface": "அதற்கு",
    "parts": [
     {
-     "text": "அதற்கு",
+     "text": "அது",
      "lemma": "அது",
-     "gloss": "for that"
+     "gloss": "that"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "oblique case-increment"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative case suffix"
     }
    ],
    "gloss": "for that"
@@ -82,12 +102,12 @@
     {
      "text": "உரியன்",
      "lemma": "உரியன்",
-     "gloss": "fit person"
+     "gloss": "one who is fit or entitled"
     },
     {
      "text": "ஆக",
-     "lemma": "ஆகு",
-     "gloss": "to become"
+     "lemma": "ஆ",
+     "gloss": "to become or as"
     }
    ],
    "gloss": "as the fit person"
@@ -96,18 +116,23 @@
    "surface": "செயல்",
    "parts": [
     {
-     "text": "செயல்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "should make"
+     "gloss": "to do or make"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "should make"
   }
  ],
- "literal": "For a task, fitness having examined after, him for that as a fit person make.",
- "translation": "After examining a person's fitness for a task, make him fully responsible for it.",
- "modern": "ஒரு செயலைச் செய்வதற்கு ஒருவனுக்கு உள்ள தகுதியை ஆராய்ந்த பிறகு, அவனை அந்தச் செயலுக்கு முழுப் பொறுப்புடையவனாக ஆக்க வேண்டும்.",
- "explanation": "This couplet explains the proper way to delegate responsibility. First, a leader must carefully examine a person's skills and fitness ('உரிமை') for a specific task ('வினை'). Only after this thorough assessment ('நாடிய பின்றை') should the person be appointed. Once chosen, the leader must give him full authority and make him completely responsible ('உரியனாகச் செயல்') for that task, allowing him to execute it effectively.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For the task fitness having examined after, him for that as the fit person should make.",
+ "translation": "After examining a person's fitness for a task, one should appoint him as the person responsible for that task.",
+ "modern": "ஒரு செயலைச் செய்வதற்கு ஒருவனுடைய தகுதியை ஆராய்ந்த பிறகு, அவனை அச்செயலுக்கு உரியவனாக ஆக்க வேண்டும்.",
+ "explanation": "This couplet outlines the essential rule of delegation. First, a leader must carefully examine a person's capability and suitability ('உரிமை நாடிய') for a specific task. Only after this thorough assessment ('பின்றை') should the leader entrust the work to them. Finally, the leader must fully empower that person, making them the sole authority ('உரியனாகச் செயல்') for that task to ensure its successful completion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

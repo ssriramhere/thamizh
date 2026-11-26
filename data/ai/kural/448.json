@@ -5,29 +5,24 @@
    "parts": [
     {
      "text": "இடிப்பார்",
-     "lemma": "இடி",
+     "lemma": "இடிப்பார்",
      "gloss": "those who reprove"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who reprove (acc.)"
+   "gloss": "those who reprove (him)"
   },
   {
    "surface": "இல்லாத",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "to not be"
-    },
-    {
-     "text": "ஆத",
-     "lemma": "ஆத",
-     "gloss": "negative relative participle suffix"
+     "text": "இல்லாத",
+     "lemma": "இல்லாத",
+     "gloss": "not having"
     }
    ],
    "gloss": "who does not have"
@@ -36,17 +31,12 @@
    "surface": "ஏமரா",
    "parts": [
     {
-     "text": "ஏமரு",
-     "lemma": "ஏமரு",
-     "gloss": "to be secure"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative relative participle suffix"
+     "text": "ஏமரா",
+     "lemma": "ஏமரா",
+     "gloss": "unprotected"
     }
    ],
-   "gloss": "unsecure"
+   "gloss": "unprotected"
   },
   {
    "surface": "மன்னன்",
@@ -64,19 +54,19 @@
    "parts": [
     {
      "text": "கெடுப்பார்",
-     "lemma": "கெடு",
-     "gloss": "those who ruin"
+     "lemma": "கெடுப்பார்",
+     "gloss": "those who destroy"
     }
    ],
-   "gloss": "destroyers"
+   "gloss": "those who destroy"
   },
   {
    "surface": "இலானும்",
    "parts": [
     {
      "text": "இலான்",
-     "lemma": "இல்",
-     "gloss": "he who is without"
+     "lemma": "இலான்",
+     "gloss": "he who does not have"
     },
     {
      "text": "உம்",
@@ -84,7 +74,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if he is without"
+   "gloss": "even if he does not have"
   },
   {
    "surface": "கெடும்",
@@ -98,10 +88,10 @@
    "gloss": "will perish"
   }
  ],
- "literal": "Those who reprove who does not have, the unsecure king, destroyers even if he is without, will perish.",
- "translation": "A king who lacks the security of counselors who boldly reprove him will perish, even if he has no enemies to destroy him.",
- "modern": "தன் தவறுகளைக் கண்டித்துத் திருத்தும் பெரியோர்களைத் துணையாகக் கொள்ளாத பாதுகாப்பற்ற மன்னன், தன்னை அழிக்க நினைக்கும் பகைவர்கள் இல்லாவிட்டாலும் தானாகவே அழிந்து போவான்.",
- "explanation": "This couplet emphasizes the absolute necessity of having wise counselors who are not afraid to criticize the ruler. The word 'இடிப்பார்' (those who strike or reprove) vividly describes advisors who forcefully point out faults to keep the leader on the right path. The term 'ஏமரா' (unprotected or unsecure) shows that true security for a leader comes from these critical voices, not just from armies or fortresses. Without such guidance, a ruler will inevitably make fatal mistakes and ruin himself, even if there are no external enemies actively trying to bring him down.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A king who does not have those who reprove him, being unprotected, will perish even if he has no one to destroy him.",
+ "translation": "A king who lacks the guidance of those who can openly reprove his faults is unprotected and will ruin himself, even if he has no enemies to destroy him.",
+ "modern": "தவறு செய்யும்போது கடிந்து அறிவுரை கூறும் பெரியோர்களைத் துணையாகக் கொள்ளாத, பாதுகாப்பற்ற மன்னன், தன்னை அழிக்கும் பகைவர் யாரும் இல்லாவிட்டாலும் தானே அழிந்துவிடுவான்.",
+ "explanation": "This couplet highlights the vital role of wise counselors who have the courage to criticize and correct a ruler's mistakes. The word 'இடிப்பாரை' refers to those who reprove or admonish with harsh but necessary truths. A king without such guides is described as 'ஏமரா' (unprotected), meaning he lacks a defensive shield against his own errors. Even in the absence of external enemies ('கெடுப்பார் இலானும்'), his own unchecked missteps will inevitably lead to his downfall ('கெடும்'). Thus, honest criticism is presented not as a threat, but as an essential safeguard for leadership.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

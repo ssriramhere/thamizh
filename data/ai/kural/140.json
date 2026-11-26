@@ -4,45 +4,39 @@
    "surface": "உலகத்தோடு",
    "parts": [
     {
-     "text": "உலகத்தோடு",
-     "lemma": "உலகத்தோடு",
-     "gloss": "with the world"
+     "text": "உலகத்து",
+     "lemma": "உலகம்",
+     "gloss": "world"
+    },
+    {
+     "text": "ஓடு",
+     "lemma": "ஓடு",
+     "gloss": "with"
     }
    ],
-   "gloss": "with the world",
-   "split_unverified": true
+   "gloss": "with the world"
   },
   {
    "surface": "ஒட்ட",
    "parts": [
     {
-     "text": "ஒட்டு",
+     "text": "ஒட்ட",
      "lemma": "ஒட்டு",
-     "gloss": "to agree"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to conform"
     }
    ],
-   "gloss": "to be in harmony"
+   "gloss": "to conform"
   },
   {
    "surface": "ஒழுகல்",
    "parts": [
     {
-     "text": "ஒழுகு",
-     "lemma": "ஒழுகு",
-     "gloss": "to conduct oneself"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஒழுகல்",
+     "lemma": "ஒழுகுதல்",
+     "gloss": "living"
     }
    ],
-   "gloss": "conducting oneself"
+   "gloss": "living"
   },
   {
    "surface": "பல",
@@ -50,7 +44,7 @@
     {
      "text": "பல",
      "lemma": "பல",
-     "gloss": "many"
+     "gloss": "many things"
     }
    ],
    "gloss": "many things"
@@ -69,23 +63,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having learned"
+   "gloss": "even after learning"
   },
   {
    "surface": "கல்லார்",
    "parts": [
     {
-     "text": "கல்",
-     "lemma": "கல்",
-     "gloss": "to learn"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "negative plural suffix"
+     "text": "கல்லார்",
+     "lemma": "கல்லார்",
+     "gloss": "unlearned people"
     }
    ],
-   "gloss": "they are unlearned"
+   "gloss": "are unlearned"
   },
   {
    "surface": "அறிவு",
@@ -103,17 +92,17 @@
    "parts": [
     {
      "text": "இலாதார்",
-     "lemma": "இல்",
-     "gloss": "those without"
+     "lemma": "இலாதார்",
+     "gloss": "those who do not have"
     }
    ],
-   "gloss": "those who are without"
+   "gloss": "those who do not have"
   }
  ],
- "literal": "With the world to agree conducting oneself, many things even having learned, unlearned are they without wisdom.",
- "translation": "Those who do not know how to conduct themselves in harmony with the world are truly unlearned, even if they have learned many things.",
- "modern": "உலகத்தோடு ஒத்து வாழும் முறையை அறியாதவர்கள், பல நூல்களைக் கற்றிருந்தாலும் அறிவில்லாதவர்களே ஆவர்.",
- "explanation": "The word arivu can mean general knowledge or intellect, but here it specifically means the practical wisdom of proper conduct, fitting the chapter on decorum. This couplet defines true wisdom as the ability to live in harmony with the world. The phrase ulakattotu otta ozhukal emphasizes conducting oneself in agreement with the accepted norms of society. Even if a person has acquired vast textual knowledge, denoted by pala karrum, it is useless without this practical social wisdom. Therefore, the author concludes that such people are effectively unlearned.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With the world to conform living, many things even after learning, those who have not learned are those who do not possess wisdom.",
+ "translation": "Those who do not know how to live in harmony with the world are ignorant, even if they have learned many vast subjects.",
+ "modern": "உலகத்தோடு பொருந்தி வாழக் கற்றுக் கொள்ளாதவர்கள், பல நூல்களைக் கற்றிருந்தாலும் அறிவு இல்லாத கல்லாதவர்களே ஆவர்.",
+ "explanation": "This couplet emphasizes that practical social wisdom is far superior to mere academic learning. The phrase 'உலகத்தோடு ஒட்ட ஒழுகல்' means conducting oneself in harmony with the wise and noble people of the world. The poet asserts that even if a person has studied 'பல' (many) diverse subjects, they are still considered 'கல்லார்' (unlearned) and 'அறிவிலாதார்' (devoid of wisdom) if they lack the basic social grace to fit in with society. True education must reflect in one's behavior and ability to live peacefully among others.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

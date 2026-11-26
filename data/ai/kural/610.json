@@ -15,14 +15,9 @@
    "surface": "இலா",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இலா",
      "lemma": "இல்",
-     "gloss": "to not have"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "without"
     }
    ],
    "gloss": "without"
@@ -32,24 +27,19 @@
    "parts": [
     {
      "text": "மன்னவன்",
-     "lemma": "மன்னவன்",
+     "lemma": "மன்னன்",
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "எய்தும்",
    "parts": [
     {
-     "text": "எய்து",
+     "text": "எய்தும்",
      "lemma": "எய்து",
-     "gloss": "to attain"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will attain"
     }
    ],
    "gloss": "will attain"
@@ -69,24 +59,9 @@
    "surface": "அளந்தான்",
    "parts": [
     {
-     "text": "அள",
+     "text": "அளந்தான்",
      "lemma": "அள",
-     "gloss": "to measure"
-    },
-    {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense suffix"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "3sg.m. suffix"
+     "gloss": "he who measured"
     }
    ],
    "gloss": "he who measured"
@@ -125,10 +100,10 @@
    "gloss": "together"
   }
  ],
- "literal": "Laziness-without king will-attain foot-he-who-measured spanned-that all together.",
- "translation": "A king who is free from laziness will attain all at once the entire world spanned by the one who measured it with his foot.",
- "modern": "சோம்பல் இல்லாத அரசன், தன் அடியால் உலகத்தை அளந்தவன் கடந்த நிலப்பரப்பு முழுவதையும் ஒருசேர அடைவான்.",
- "explanation": "This couplet emphasizes the boundless rewards of being free from laziness. It uses the image of the one who measured the universe with his steps to represent the entirety of the world. A ruler who is completely devoid of idleness will effortlessly and entirely attain such a vast dominion. The word 'ஒருங்கு' (together or at once) highlights that this immense success comes completely and comprehensively to the tireless leader.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A king without laziness will attain all that was spanned by the one who measured with his feet, entirely.",
+ "translation": "A ruler free from laziness will attain all the realms spanned by the one who measured the universe with his feet, all at once.",
+ "modern": "சோம்பல் இல்லாத அரசன், தன் அடியால் உலகத்தை அளந்தவன் கடந்த நிலப்பரப்பு முழுவதையும் ஒன்றாக அடைவான்.",
+ "explanation": "This couplet emphasizes the power of overcoming laziness by comparing the rewards of an active ruler to the entire universe. The poet uses the imagery of the cosmic giant who measured the universe with his feet to represent the vastness of the earth. A king who is completely free from sloth will easily conquer and rule over all these vast territories together. The contrast highlights how diligence can overcome any boundary and bring supreme success.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

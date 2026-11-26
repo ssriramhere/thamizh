@@ -4,17 +4,12 @@
    "surface": "கொளற்கு",
    "parts": [
     {
-     "text": "கொளல்",
+     "text": "கொளற்கு",
      "lemma": "கொள்",
-     "gloss": "capturing"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "for"
+     "gloss": "for capturing"
     }
    ],
-   "gloss": "for capturing"
+   "gloss": "to be captured"
   },
   {
    "surface": "அரிதாய்",
@@ -22,12 +17,12 @@
     {
      "text": "அரிது",
      "lemma": "அரிது",
-     "gloss": "difficult"
+     "gloss": "difficult thing"
     },
     {
      "text": "ஆய்",
-     "lemma": "ஆகு",
-     "gloss": "having become"
+     "lemma": "ஆய்",
+     "gloss": "being"
     }
    ],
    "gloss": "being difficult"
@@ -38,10 +33,10 @@
     {
      "text": "கொண்ட",
      "lemma": "கொள்",
-     "gloss": "containing"
+     "gloss": "having"
     }
    ],
-   "gloss": "containing"
+   "gloss": "having"
   },
   {
    "surface": "கூழ்த்து",
@@ -49,10 +44,10 @@
     {
      "text": "கூழ்த்து",
      "lemma": "கூழ்",
-     "gloss": "having provisions"
+     "gloss": "food provisions"
     }
    ],
-   "gloss": "having provisions"
+   "gloss": "abundant food provisions"
   },
   {
    "surface": "ஆகி",
@@ -63,20 +58,15 @@
      "gloss": "having become"
     }
    ],
-   "gloss": "having become"
+   "gloss": "possessing"
   },
   {
    "surface": "அகத்தார்",
    "parts": [
     {
-     "text": "அகத்து",
+     "text": "அகத்தார்",
      "lemma": "அகம்",
-     "gloss": "inside"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (suffix)"
+     "gloss": "those who are inside"
     }
    ],
    "gloss": "those inside"
@@ -87,15 +77,15 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "position"
+     "gloss": "defense position"
     },
     {
      "text": "க்கு",
-     "lemma": "க்கு",
+     "lemma": "கு",
      "gloss": "for"
     }
    ],
-   "gloss": "for the defense"
+   "gloss": "for defending"
   },
   {
    "surface": "எளிதாம்",
@@ -103,7 +93,7 @@
     {
      "text": "எளிது",
      "lemma": "எளிது",
-     "gloss": "easy"
+     "gloss": "easy thing"
     },
     {
      "text": "ஆம்",
@@ -127,7 +117,7 @@
      "gloss": "it"
     }
    ],
-   "gloss": "of that nature"
+   "gloss": "is of the nature of"
   },
   {
    "surface": "அரண்",
@@ -138,13 +128,13 @@
      "gloss": "fortress"
     }
    ],
-   "gloss": "fortress"
+   "gloss": "a fortress"
   }
  ],
- "literal": "Difficult for capturing, having contained provisions, for the position of those inside being easy, of such nature is a fortress.",
- "translation": "A true fortress is difficult for enemies to capture, holds ample provisions, and is easy for those inside to defend.",
- "modern": "பகைவரால் கைப்பற்ற முடியாததாகவும், உள்ளே இருப்பவர்களுக்குத் தேவையான உணவை உடையதாகவும், உள்ளிருப்போர் தங்கிப் போரிடுவதற்கு எளிமையானதாகவும் இருப்பதே சிறந்த அரணாகும்.",
- "explanation": "This couplet defines the three essential qualities of a good fortress. First, it must be impregnable to enemies trying to capture it from the outside. Second, it must be well-stocked with provisions to withstand long sieges. Third, it must be structurally advantageous, making it easy for the defenders inside to hold their ground. The word 'நீர்' here refers to the 'nature' or 'quality' of the fortress, rather than its common meaning of water.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To be captured being difficult, having food provisions, for those inside to defend being easy, of such nature is a fortress.",
+ "translation": "A true fortress is that which is difficult for enemies to capture, well-stocked with food and resources, and easy for those inside to defend.",
+ "modern": "பகைவர்களால் கைப்பற்றுவதற்கு அரியதாய், தேவையான உணவுப் பொருட்களைக் கொண்டதாய், உள்ளே இருப்பவர்கள் நின்று போரிடுவதற்கு எளியதாய் இருப்பதே சிறந்த அரண் ஆகும்.",
+ "explanation": "This couplet outlines the three essential qualities of an effective fortress. First, it must be structurally secure and strategically situated so that it is extremely difficult for enemies to capture (கொளற்கரிதாய்). Second, it must be self-sufficient and stocked with ample food and provisions (கொண்டகூழ்த்து) to withstand long sieges. Finally, its design must make it easy and advantageous for the defenders inside to hold their ground and fight back (அகத்தார் நிலைக்கு எளிதாம்).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

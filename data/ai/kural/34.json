@@ -6,12 +6,12 @@
     {
      "text": "மனத்து",
      "lemma": "மனம்",
-     "gloss": "mind"
+     "gloss": "mind (oblique form)"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "locative suffix (in)"
     }
    ],
    "gloss": "in the mind"
@@ -22,39 +22,29 @@
     {
      "text": "மாசு",
      "lemma": "மாசு",
-     "gloss": "blemish"
+     "gloss": "impurity / blemish"
     }
    ],
-   "gloss": "blemish"
+   "gloss": "impurity / blemish"
   },
   {
    "surface": "இலன்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "he"
+     "text": "இலன்",
+     "lemma": "இலன்",
+     "gloss": "one who is without"
     }
    ],
-   "gloss": "he who is without"
+   "gloss": "one who is without"
   },
   {
    "surface": "ஆதல்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஆதல்",
+     "lemma": "ஆதல்",
+     "gloss": "being / becoming"
     }
    ],
    "gloss": "being"
@@ -65,10 +55,10 @@
     {
      "text": "அனைத்து",
      "lemma": "அனைத்து",
-     "gloss": "all that"
+     "gloss": "that much / all"
     }
    ],
-   "gloss": "all that"
+   "gloss": "that alone / that much"
   },
   {
    "surface": "அறன்",
@@ -87,10 +77,10 @@
     {
      "text": "ஆகுல",
      "lemma": "ஆகுலம்",
-     "gloss": "empty show"
+     "gloss": "empty noise / ostentatious"
     }
    ],
-   "gloss": "empty show"
+   "gloss": "empty show / ostentatious"
   },
   {
    "surface": "நீர",
@@ -98,10 +88,10 @@
     {
      "text": "நீர",
      "lemma": "நீர்மை",
-     "gloss": "of the nature"
+     "gloss": "of the nature of"
     }
    ],
-   "gloss": "of the nature"
+   "gloss": "are of the nature of"
   },
   {
    "surface": "பிற",
@@ -109,16 +99,16 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "others"
+     "gloss": "other things"
     }
    ],
-   "gloss": "others"
+   "gloss": "other things"
   }
  ],
- "literal": "In the mind blemish without-he being, all that virtue; empty-show nature-of others.",
- "translation": "Being spotless in one's mind is the entirety of virtue. All else is merely the nature of empty show.",
- "modern": "ஒருவன் தன் மனத்தில் குற்றம் இல்லாதவனாக இருப்பதே முழுமையான அறமாகும். மற்றவை எல்லாம் வெறும் ஆரவாரத் தன்மை கொண்டவை.",
- "explanation": "This couplet defines the core of virtue as inner purity. The phrase 'மனத்துக்கண் மாசிலன் ஆதல்' emphasizes that true righteousness is simply the state of being free from mental blemishes. The word 'அனைத்து' asserts that this inner purity constitutes the entirety of virtue. Everything else ('பிற'), such as outward displays of goodness, is dismissed as 'ஆகுல நீர', meaning they are of the nature of noisy, empty show.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the mind, being one who is without impurity, that much is virtue; of the nature of empty show are other things.",
+ "translation": "To be spotless in mind is the entirety of virtue; all else is merely empty, ostentatious show.",
+ "modern": "மனதில் குற்றம் இல்லாதவனாக இருப்பதே அறம் ஆகும்; மற்றவை எல்லாம் வெறும் ஆரவாரத் தன்மை உடையவை.",
+ "explanation": "This couplet defines the true essence of virtue as internal purity. The poet states that being free from mental impurities (மாசு இலன் ஆதல்) is the complete measure of virtue (அனைத்து அறன்). Any external action or ritual performed without this inner purity is dismissed as mere ostentation or empty noise (ஆகுல நீர பிற). The word 'மனத்துக்கண்' emphasizes that the locus of virtue is the mind, and 'ஆகுல' highlights the loud, showy nature of superficial deeds.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

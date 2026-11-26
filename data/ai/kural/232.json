@@ -4,24 +4,9 @@
    "surface": "உரைப்பார்",
    "parts": [
     {
-     "text": "உரை",
-     "lemma": "உரை",
-     "gloss": "to speak"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future marker]"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "[epicene plural suffix]"
+     "text": "உரைப்பார்",
+     "lemma": "உரைப்பார்",
+     "gloss": "those who speak"
     }
    ],
    "gloss": "those who speak"
@@ -30,27 +15,12 @@
    "surface": "உரைப்பவை",
    "parts": [
     {
-     "text": "உரை",
-     "lemma": "உரை",
-     "gloss": "to speak"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future marker]"
-    },
-    {
-     "text": "அவை",
-     "lemma": "அவை",
-     "gloss": "those things"
+     "text": "உரைப்பவை",
+     "lemma": "உரைப்பவை",
+     "gloss": "things that are spoken"
     }
    ],
-   "gloss": "things spoken"
+   "gloss": "things that are spoken"
   },
   {
    "surface": "எல்லாம்",
@@ -68,13 +38,8 @@
    "parts": [
     {
      "text": "இரப்பார்",
-     "lemma": "இர",
-     "gloss": "those who ask"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "[sandhi]"
+     "lemma": "இரப்பார்",
+     "gloss": "those who beg"
     },
     {
      "text": "கு",
@@ -82,7 +47,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to those who ask"
+   "gloss": "to those who beg"
   },
   {
    "surface": "ஒன்று",
@@ -99,19 +64,9 @@
    "surface": "ஈவார்",
    "parts": [
     {
-     "text": "ஈ",
-     "lemma": "ஈ",
-     "gloss": "to give"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "[future marker]"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "[epicene plural suffix]"
+     "text": "ஈவார்",
+     "lemma": "ஈவார்",
+     "gloss": "those who give"
     }
    ],
    "gloss": "those who give"
@@ -131,17 +86,12 @@
    "surface": "நிற்கும்",
    "parts": [
     {
-     "text": "நில்",
+     "text": "நிற்கும்",
      "lemma": "நில்",
-     "gloss": "to stand"
-    },
-    {
-     "text": "கும்",
-     "lemma": "கும்",
-     "gloss": "[future suffix]"
+     "gloss": "will stand"
     }
    ],
-   "gloss": "stands"
+   "gloss": "will stand"
   },
   {
    "surface": "புகழ்",
@@ -155,10 +105,10 @@
    "gloss": "fame"
   }
  ],
- "literal": "Speakers / things spoken / all / to those who ask / something / those who give / upon / stands / fame.",
- "translation": "All the words of praise spoken in this world are simply the fame that rests upon those who give to the needy.",
- "modern": "உலகத்தில் புகழ்ந்து பேசுபவர்கள் சொல்லும் சொற்கள் எல்லாம், வறுமையால் கேட்பவர்களுக்கு ஒரு பொருளைக் கொடுப்பவர்களின் மேல் நிலைத்து நிற்கும் புகழே ஆகும்.",
- "explanation": "This couplet defines the true nature and subject of praise in the world. The phrase 'உரைப்பார் உரைப்பவை எல்லாம்' (all that speakers speak) refers to all words of praise uttered by people. The poet asserts that all such praise ultimately belongs to 'ஈவார்' (those who give) who provide 'ஒன்று' (something) to 'இரப்பார்' (those who ask or beg). Thus, true fame rests solely on the act of generous giving to those in need, making charity the ultimate source of glory.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who speak, all that they speak, is the fame that stands upon those who give something to those who beg.",
+ "translation": "Of all the words spoken by those who speak, the only praise that endures is the fame of those who give to the needy.",
+ "modern": "புகழ்ந்து பேசுபவர்கள் பேசும் புகழுரைகள் எல்லாம், இரப்பவர்க்கு ஏதேனும் ஒன்றை வாரி வழங்குபவர்களின் மேல் நிலைத்து நிற்கும் புகழே ஆகும்.",
+ "explanation": "This couplet defines the ultimate source of lasting fame. The poet states that among all the topics and praises spoken by people, the only true praise that endures is the fame of those who give generously. The word 'ஈவார்' refers to those who give, and 'இரப்பார்' refers to those who ask or beg. The fame ('புகழ்') of such givers stands ('நிற்கும்') above all other subjects of human speech, making charity the highest virtue worthy of praise.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

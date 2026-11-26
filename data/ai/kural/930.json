@@ -15,14 +15,9 @@
    "surface": "உண்ணா",
    "parts": [
     {
-     "text": "உண்",
-     "lemma": "உண்",
-     "gloss": "drink"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "உண்ணா",
+     "lemma": "உண்ணாத",
+     "gloss": "not drinking"
     }
    ],
    "gloss": "not drinking"
@@ -48,29 +43,24 @@
    "parts": [
     {
      "text": "களித்தான்",
-     "lemma": "களி",
-     "gloss": "intoxicated man"
+     "lemma": "களித்தான்",
+     "gloss": "intoxicated person"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "intoxicated man (acc.)"
+   "gloss": "the intoxicated person"
   },
   {
    "surface": "காணும்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காணும்",
      "lemma": "காண்",
-     "gloss": "see"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "seeing"
     }
    ],
    "gloss": "seeing"
@@ -81,7 +71,7 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "when"
     }
    ],
    "gloss": "when"
@@ -90,17 +80,12 @@
    "surface": "உள்ளான்",
    "parts": [
     {
-     "text": "உள்ளு",
-     "lemma": "உள்ளு",
-     "gloss": "think"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he does not"
+     "text": "உள்ளான்",
+     "lemma": "உள்ளுதல்",
+     "gloss": "will he not think of"
     }
    ],
-   "gloss": "he does not think"
+   "gloss": "will he not think of"
   },
   {
    "surface": "கொல்",
@@ -108,18 +93,18 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "I wonder"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "indeed"
   },
   {
    "surface": "உண்டதன்",
    "parts": [
     {
      "text": "உண்டது",
-     "lemma": "உண்",
-     "gloss": "the act of drinking"
+     "lemma": "உண்டது",
+     "gloss": "that which was drunk"
     },
     {
      "text": "அன்",
@@ -127,7 +112,7 @@
      "gloss": "of"
     }
    ],
-   "gloss": "of having drunk"
+   "gloss": "of his own drinking"
   },
   {
    "surface": "சோர்வு",
@@ -135,16 +120,16 @@
     {
      "text": "சோர்வு",
      "lemma": "சோர்வு",
-     "gloss": "stupor"
+     "gloss": "degradation"
     }
    ],
-   "gloss": "stupor"
+   "gloss": "the degradation"
   }
  ],
- "literal": "liquor not-drinking at-the-time intoxicated-man-(acc.) seeing when he-does-not-think I-wonder of-having-drunk stupor",
- "translation": "When a man who is currently sober sees someone who is intoxicated, does he not realize the shameful stupor his own drinking causes?",
- "modern": "தான் மது அருந்தாத நேரத்தில், மது அருந்தி மயங்கியிருப்பவனைப் பார்க்கும் ஒருவன், தான் மது அருந்தியதால் ஏற்படும் மயக்கத்தையும் சோர்வையும் பற்றி நினைக்க மாட்டானோ?",
- "explanation": "The couplet asks a rhetorical question about self-awareness and the loss of dignity caused by intoxication. It observes a person who drinks but is currently sober, watching another person who is completely drunk. The word 'சோர்வு' (cōrvu) captures the physical weakness, loss of senses, and resulting disgrace of drunkenness. By seeing the foolish state of another drunkard, the sober observer should naturally reflect on his own shameful behavior when he drinks.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "At the time of not drinking liquor, when seeing an intoxicated person, will he not think of the degradation of his own drinking?",
+ "translation": "When a man is sober and looks at someone who is drunk, will he not realize the utter degradation of his own drinking?",
+ "modern": "மது அருந்தாத நேரத்தில், குடித்துவிட்டு மயங்கிக் கிடப்பவனைப் பார்க்கும்போது, ஒருவன் தான் குடிப்பதால் ஏற்படும் அவமானத்தை நினைக்க மாட்டானா?",
+ "explanation": "This couplet offers a practical way for a drinker to reform. It suggests that when a person is sober, they should observe the shameful state of another person who is heavily intoxicated. Seeing the loss of dignity, speech, and self-control in someone else serves as a mirror. The observer will then inevitably realize the same degradation and embarrassment they themselves cause when they drink, prompting them to give up the habit.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

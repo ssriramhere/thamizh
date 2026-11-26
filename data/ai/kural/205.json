@@ -6,10 +6,10 @@
     {
      "text": "இலன்",
      "lemma": "இலன்",
-     "gloss": "destitute person"
+     "gloss": "poor man"
     }
    ],
-   "gloss": "destitute person"
+   "gloss": "poor man"
   },
   {
    "surface": "என்று",
@@ -17,10 +17,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "saying or thinking"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking so"
   },
   {
    "surface": "தீயவை",
@@ -28,18 +28,23 @@
     {
      "text": "தீயவை",
      "lemma": "தீயவை",
-     "gloss": "evil things"
+     "gloss": "evil deeds"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "evil deeds"
   },
   {
    "surface": "செய்யற்க",
    "parts": [
     {
-     "text": "செய்யற்க",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "let one not do"
+     "gloss": "do"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not"
     }
    ],
    "gloss": "do not do"
@@ -48,12 +53,17 @@
    "surface": "செய்யின்",
    "parts": [
     {
-     "text": "செய்யின்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "if done"
+     "gloss": "do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if done"
+   "gloss": "if one does"
   },
   {
    "surface": "இலன்",
@@ -61,18 +71,23 @@
     {
      "text": "இலன்",
      "lemma": "இலன்",
-     "gloss": "destitute person"
+     "gloss": "poor man"
     }
    ],
-   "gloss": "destitute person"
+   "gloss": "poor man"
   },
   {
    "surface": "ஆகும்",
    "parts": [
     {
-     "text": "ஆகும்",
+     "text": "ஆகு",
      "lemma": "ஆகு",
-     "gloss": "will become"
+     "gloss": "become"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
    "gloss": "will become"
@@ -82,7 +97,7 @@
    "parts": [
     {
      "text": "மற்றும்",
-     "lemma": "மற்று",
+     "lemma": "மற்றும்",
      "gloss": "again"
     }
    ],
@@ -93,17 +108,17 @@
    "parts": [
     {
      "text": "பெயர்த்து",
-     "lemma": "பெயர்",
-     "gloss": "having returned"
+     "lemma": "பெயர்த்து",
+     "gloss": "once more"
     }
    ],
-   "gloss": "in return"
+   "gloss": "once more"
   }
  ],
- "literal": "Destitute saying evil things let one not do; if done, destitute he will become again in return.",
- "translation": "Do not commit evil deeds thinking you are poor. If you do, you will only become poor again.",
- "modern": "நான் வறுமையில் இருக்கிறேன் என்று நினைத்து தீய செயல்களைச் செய்யக்கூடாது. அப்படிச் செய்தால், மீண்டும் வறுமையே வந்து சேரும்.",
- "explanation": "The couplet warns against using poverty as an excuse to commit evil deeds. The word 'இலன்' refers to a destitute person. If someone does evil to escape poverty, the inevitable result is that they will be thrown back into an even worse state of destitution. True prosperity cannot be built on evil actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking 'I am a poor man', do not do evil deeds; if done, a poor man he will become again once more.",
+ "translation": "Do not commit evil deeds thinking, 'I am poor.' If you do, you will only become poorer once again.",
+ "modern": "நான் ஏழை என்று நினைத்துத் தீய செயல்களைச் செய்யக் கூடாது; அவ்வாறு செய்தால், மீண்டும் மேலும் வறுமை உடையவன் ஆகிவிடுவான்.",
+ "explanation": "This couplet warns against using poverty as an excuse to commit wrongful or evil deeds. A person might think that because they have nothing, they are justified in resorting to bad deeds to survive. However, the poet warns that doing evil to escape poverty will only result in falling into even deeper poverty and ruin in the future. The words 'மற்றும்' and 'பெயர்த்து' emphasize the repetitive and compounding nature of this downfall, showing that evil actions inevitably multiply one's misery rather than relieving it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

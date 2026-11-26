@@ -6,10 +6,10 @@
     {
      "text": "பேதைமை",
      "lemma": "பேதைமை",
-     "gloss": "ignorance"
+     "gloss": "folly"
     }
    ],
-   "gloss": "ignorance"
+   "gloss": "folly"
   },
   {
    "surface": "ஒன்றோ",
@@ -17,15 +17,15 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one thing"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "or"
+     "gloss": "is it merely"
     }
    ],
-   "gloss": "either"
+   "gloss": "is it merely that"
   },
   {
    "surface": "பெருங்கிழமை",
@@ -36,7 +36,8 @@
      "gloss": "great intimacy"
     }
    ],
-   "gloss": "great intimacy"
+   "gloss": "great intimacy",
+   "split_unverified": true
   },
   {
    "surface": "என்று",
@@ -53,30 +54,40 @@
    "surface": "உணர்க",
    "parts": [
     {
-     "text": "உணர்க",
+     "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "let understand"
+     "gloss": "understand"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix"
     }
    ],
-   "gloss": "let understand"
+   "gloss": "let one understand"
   },
   {
    "surface": "நோதக்க",
    "parts": [
     {
-     "text": "நோதக்க",
-     "lemma": "நோதக்க",
-     "gloss": "painful"
+     "text": "நோ",
+     "lemma": "நோ",
+     "gloss": "pain"
+    },
+    {
+     "text": "தக்க",
+     "lemma": "தகு",
+     "gloss": "worthy of"
     }
    ],
-   "gloss": "painful"
+   "gloss": "causing pain"
   },
   {
    "surface": "நட்டார்",
    "parts": [
     {
      "text": "நட்டார்",
-     "lemma": "நள்",
+     "lemma": "நண்பர்",
      "gloss": "friends"
     }
    ],
@@ -86,18 +97,23 @@
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செயின்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "if do"
+     "gloss": "do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if do"
+   "gloss": "if they do"
   }
  ],
- "literal": "Ignorance or great intimacy, thus let one understand, painful things friends if do.",
- "translation": "If friends do things that cause you pain, understand it as either their innocent ignorance or the privilege of great intimacy.",
- "modern": "நண்பர்கள் மனம் வருந்தத்தக்க செயல்களைச் செய்தால், அதனை அவர்களின் அறியாமை என்றோ அல்லது மிகுந்த உரிமையின் பாற்பட்டது என்றோ உணர்ந்துகொள்ள வேண்டும்.",
- "explanation": "This couplet advises on how to handle hurtful actions from close friends. When friends do something that causes pain, one should not immediately become angry or break the friendship. Instead, one should attribute the action either to their innocent ignorance or to the deep intimacy that makes them feel entitled to act freely. By understanding it this way, the bond of friendship is preserved.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Is it merely folly? Great intimacy thus let one understand, if friends do things causing pain.",
+ "translation": "If friends do things that cause us pain, let us understand it not as mere folly, but as the privilege of great intimacy.",
+ "modern": "நண்பர்கள் நமக்குத் துன்பம் தரும் செயல்களைச் செய்தால், அதை அறியாமை என்று மட்டும் நினைக்காமல், அவர்கள் நம்மீது கொண்டுள்ள மிகுந்த உரிமை என்று உணர்ந்து கொள்ள வேண்டும்.",
+ "explanation": "This couplet guides us on how to react when close friends act in ways that hurt us. The word 'கிழமை' means ownership, right, or deep intimacy. Instead of dismissing a friend's hurtful action as mere foolishness or ignorance (பேதைமை), we should view it as an exercise of their special right and freedom (பெருங்கிழமை) within the friendship. This perspective helps preserve long-standing relationships by replacing resentment with understanding.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

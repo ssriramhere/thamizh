@@ -6,7 +6,7 @@
     {
      "text": "அறை",
      "lemma": "அறை",
-     "gloss": "beaten"
+     "gloss": "beat"
     }
    ],
    "gloss": "beaten"
@@ -28,10 +28,10 @@
     {
      "text": "அன்னர்",
      "lemma": "அன்னர்",
-     "gloss": "like-they"
+     "gloss": "those who are like"
     }
    ],
-   "gloss": "they are like"
+   "gloss": "are like"
   },
   {
    "surface": "கயவர்",
@@ -42,7 +42,7 @@
      "gloss": "base people"
     }
    ],
-   "gloss": "base people"
+   "gloss": "the base people"
   },
   {
    "surface": "தாம்",
@@ -64,7 +64,7 @@
      "gloss": "heard"
     }
    ],
-   "gloss": "heard"
+   "gloss": "that they heard"
   },
   {
    "surface": "மறை",
@@ -81,9 +81,14 @@
    "surface": "பிறர்க்கு",
    "parts": [
     {
-     "text": "பிறர்க்கு",
+     "text": "பிறர்",
      "lemma": "பிறர்",
-     "gloss": "to others"
+     "gloss": "others"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to others"
@@ -94,17 +99,17 @@
     {
      "text": "உய்த்து",
      "lemma": "உய்",
-     "gloss": "having carried"
+     "gloss": "carrying"
     }
    ],
-   "gloss": "having carried"
+   "gloss": "carrying"
   },
   {
    "surface": "உரைக்கலான்",
    "parts": [
     {
      "text": "உரைக்கல்",
-     "lemma": "உரைக்கல்",
+     "lemma": "உரை",
      "gloss": "telling"
     },
     {
@@ -116,10 +121,10 @@
    "gloss": "because of telling"
   }
  ],
- "literal": "Beaten drum like-they base-people, themselves heard secret to-others having-carried because-of-telling.",
- "translation": "Base people are like a beaten drum, because they carry the secrets they have heard and broadcast them to others.",
- "modern": "கயவர்கள் தாம் கேட்ட ரகசியங்களை மற்றவர்களிடம் கொண்டு சென்று சொல்வதால், அவர்கள் அடிக்கப்படும் பறையைப் போன்றவர்கள் ஆவர்.",
- "explanation": "This couplet compares base people to a drum that sounds when beaten. Just as a drum loudly broadcasts whatever strikes it, base people cannot keep a secret. When they hear something confidential, they immediately carry it to others and proclaim it. The word 'aṟaipaṟai' perfectly captures their loud, indiscriminate gossiping nature.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Beaten drum like are the base people themselves, because of carrying and telling to others the secrets they heard.",
+ "translation": "The base are like a beaten drum, for they carry and blab to others every secret they happen to hear.",
+ "modern": "கீழ்மக்கள் தாங்கள் கேட்ட இரகசியங்களைப் பிறரிடம் கொண்டுபோய்ச் சொல்வதால், அவர்கள் அடிக்கப்படும் பறை போன்றவர்கள் ஆவர்.",
+ "explanation": "This couplet compares untrustworthy, base individuals to a beaten drum. A drum, when struck, loudly broadcasts its sound to everyone in the vicinity, keeping nothing to itself. Similarly, base people cannot contain any confidential information or secrets they happen to hear. They immediately carry and reveal these secrets to others, proving themselves completely incapable of maintaining trust.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

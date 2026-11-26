@@ -4,17 +4,13 @@
    "surface": "நெடுங்கடலும்",
    "parts": [
     {
-     "text": "நெடுங்கடல்",
-     "lemma": "நெடுங்கடல்",
-     "gloss": "vast sea"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "நெடுங்கடலும்",
+     "lemma": "நெடுங்கடலும்",
+     "gloss": "even the vast ocean"
     }
    ],
-   "gloss": "even the vast sea"
+   "gloss": "even the vast ocean",
+   "split_unverified": true
   },
   {
    "surface": "தன்",
@@ -33,10 +29,10 @@
     {
      "text": "நீர்மை",
      "lemma": "நீர்மை",
-     "gloss": "nature"
+     "gloss": "nature/abundance"
     }
    ],
-   "gloss": "nature"
+   "gloss": "inherent nature/abundance"
   },
   {
    "surface": "குன்றும்",
@@ -55,10 +51,10 @@
     {
      "text": "தடிந்து",
      "lemma": "தடி",
-     "gloss": "having flashed"
+     "gloss": "having condensed"
     }
    ],
-   "gloss": "having flashed"
+   "gloss": "having condensed (into clouds)"
   },
   {
    "surface": "எழிலி",
@@ -69,7 +65,7 @@
      "gloss": "cloud"
     }
    ],
-   "gloss": "cloud"
+   "gloss": "the cloud"
   },
   {
    "surface": "தான்",
@@ -99,10 +95,10 @@
     {
      "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "having become"
+     "gloss": "becoming"
     }
    ],
-   "gloss": "having become"
+   "gloss": "becoming"
   },
   {
    "surface": "விடின்",
@@ -110,16 +106,16 @@
     {
      "text": "விடின்",
      "lemma": "விடு",
-     "gloss": "if it leaves"
+     "gloss": "if fails"
     }
    ],
    "gloss": "if it fails"
   }
  ],
- "literal": "Even the vast sea its nature will diminish, having flashed the cloud itself without giving having become if it leaves.",
- "translation": "Even the vast sea will diminish in its nature, if the cloud, having flashed with lightning, fails to give back rain.",
- "modern": "மேகங்கள் மின்னலிட்டு மழையாகப் பெய்யாமல் போனால், பெரிய கடலும் தன் இயல்பிலிருந்து குறைந்துவிடும்.",
- "explanation": "This couplet emphasizes the absolute necessity of rain for all of nature, including the ocean. The word 'தடிந்து' (having flashed or grown thick) describes the cloud preparing to rain. If the cloud ('எழிலி') fails to pour down ('நல்காது ஆகி விடின்'), even the vast sea ('நெடுங்கடலும்') will lose its nature ('தன் நீர்மை குன்றும்'). This shows that the ocean's fullness depends entirely on the continuous cycle of rain.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even the vast ocean its own abundance will diminish, if the cloud, having condensed, itself without giving becomes.",
+ "translation": "Even the vast ocean's own abundance will diminish, if the cloud, having drawn its water, fails to give it back as rain.",
+ "modern": "மேகமானது கடலிலிருந்து நீரை முகந்து கொண்டு சென்று, மீண்டும் மழையாகப் பொழியாமல் போனால், பரந்த கடலும் தன் வளம் குன்றிப் போகும்.",
+ "explanation": "This couplet beautifully illustrates the water cycle and the concept of mutual dependence in nature. The word 'நீர்மை' refers to the ocean's inherent quality of abundance, wealth, and life-supporting nature. The poet explains that even the immense ocean, which seems to have an inexhaustible supply of water, will lose its richness and shrink if the clouds ('எழிலி') do not return the water they took. It teaches us that no matter how vast one's resources are, they will eventually deplete without the cycle of giving and receiving.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

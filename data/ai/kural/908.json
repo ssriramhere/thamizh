@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "நட்டார்",
-     "lemma": "நள்",
+     "lemma": "நட்டார்",
      "gloss": "friends"
     }
    ],
@@ -17,7 +17,7 @@
     {
      "text": "குறை",
      "lemma": "குறை",
-     "gloss": "need"
+     "gloss": "need or request"
     }
    ],
    "gloss": "need"
@@ -28,20 +28,15 @@
     {
      "text": "முடி",
      "lemma": "முடி",
-     "gloss": "to complete"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "glide"
+     "gloss": "to complete or fulfill"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (negative)"
+     "gloss": "they will not (negative suffix)"
     }
    ],
-   "gloss": "will not complete"
+   "gloss": "they will not fulfill"
   },
   {
    "surface": "நன்று",
@@ -49,21 +44,26 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "good deeds or virtue"
     }
    ],
-   "gloss": "good"
+   "gloss": "good deeds"
   },
   {
    "surface": "ஆற்றார்",
    "parts": [
     {
-     "text": "ஆற்றார்",
+     "text": "ஆற்று",
      "lemma": "ஆற்று",
-     "gloss": "will not do"
+     "gloss": "to perform"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they will not (negative suffix)"
     }
    ],
-   "gloss": "will not do"
+   "gloss": "they will not perform"
   },
   {
    "surface": "நன்னுதலாள்",
@@ -71,21 +71,27 @@
     {
      "text": "நன்னுதலாள்",
      "lemma": "நன்னுதலாள்",
-     "gloss": "woman with a good forehead"
+     "gloss": "she of the beautiful forehead (the wife)"
     }
    ],
-   "gloss": "woman with a good forehead"
+   "gloss": "she of the beautiful forehead (the wife)",
+   "split_unverified": true
   },
   {
    "surface": "பெட்டாங்கு",
    "parts": [
     {
-     "text": "பெட்டாங்கு",
-     "lemma": "பெட்டாங்கு",
-     "gloss": "as desired"
+     "text": "பெட்டு",
+     "lemma": "பெட்டு",
+     "gloss": "desire or liking"
+    },
+    {
+     "text": "ஆங்கு",
+     "lemma": "ஆங்கு",
+     "gloss": "accordingly"
     }
    ],
-   "gloss": "as desired"
+   "gloss": "according to her desire"
   },
   {
    "surface": "ஒழுகுபவர்",
@@ -93,7 +99,7 @@
     {
      "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "to follow"
+     "gloss": "to conduct oneself"
     },
     {
      "text": "பவர்",
@@ -101,13 +107,13 @@
      "gloss": "those who"
     }
    ],
-   "gloss": "those who follow"
+   "gloss": "those who conduct themselves"
   }
  ],
- "literal": "Friends' needs they will not fulfill; good they will not do; the good-foreheaded woman's desires as they follow.",
- "translation": "Those who conduct themselves exactly as their beautiful wives desire will neither fulfill the needs of their friends nor do any good deeds.",
- "modern": "தம் மனைவியின் விருப்பப்படி மட்டுமே நடப்பவர்கள், தம் நண்பர்களின் குறைகளைத் தீர்க்க மாட்டார்கள்; எந்த ஒரு நற்செயலையும் செய்ய மாட்டார்கள்.",
- "explanation": "This couplet warns against blindly following a wife's dictates. The phrase 'நன்னுதலாள் பெட்டாங்கு ஒழுகுபவர்' refers to men who act only according to the desires of their beautiful wives. Because their focus is entirely consumed by her wishes, they neglect their broader social duties. Consequently, they fail to help their friends in times of need and are unable to perform virtuous deeds for the wider community.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Friends' need they will not fulfill; good deeds they will not perform; she of the beautiful forehead's desire accordingly those who conduct themselves.",
+ "translation": "Those who live only to please the desires of their beautiful-browed wives will neither relieve the needs of their friends nor perform any virtuous deeds.",
+ "modern": "அழகிய நெற்றியை உடைய மனைவியின் விருப்பப்படி நடப்பவர்கள், தம் நண்பர்களின் தேவைகளை நிறைவேற்ற மாட்டார்கள்; அறச் செயல்களையும் செய்ய மாட்டார்கள்.",
+ "explanation": "This couplet warns against losing one's independence by becoming entirely subservient to a spouse's whims. The phrase 'நன்னுதலாள்' refers to a wife with a beautiful forehead, and 'பெட்டாங்கு ஒழுகுபவர்' describes a husband who acts solely to satisfy her desires. Such submissiveness isolates a person from their wider social duties. Consequently, they fail to help their friends in times of need ('நட்டார் குறைமுடியார்') and neglect their moral obligation to perform virtuous deeds ('நன்றாற்றார்') for society.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

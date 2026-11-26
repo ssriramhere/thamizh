@@ -14,7 +14,7 @@
      "gloss": "sharpness"
     }
    ],
-   "gloss": "sharpness of intellect"
+   "gloss": "natural sharpness of intellect"
   },
   {
    "surface": "நூலோடு",
@@ -22,15 +22,15 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "book/learning"
+     "gloss": "book of learning"
     },
     {
      "text": "ஓடு",
      "lemma": "ஓடு",
-     "gloss": "with"
+     "gloss": "along with"
     }
    ],
-   "gloss": "with learning"
+   "gloss": "along with book-learning"
   },
   {
    "surface": "உடையார்க்கு",
@@ -41,7 +41,7 @@
      "gloss": "those who possess"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -54,7 +54,7 @@
     {
      "text": "அதி",
      "lemma": "அதி",
-     "gloss": "extreme"
+     "gloss": "exceeding"
     },
     {
      "text": "நுட்பம்",
@@ -62,7 +62,7 @@
      "gloss": "subtlety"
     }
    ],
-   "gloss": "extreme subtlety"
+   "gloss": "exceedingly subtle obstacles"
   },
   {
    "surface": "யா",
@@ -73,20 +73,15 @@
      "gloss": "what"
     }
    ],
-   "gloss": "what"
+   "gloss": "what things"
   },
   {
    "surface": "உள",
    "parts": [
     {
-     "text": "உள்",
+     "text": "உள",
      "lemma": "உள்",
-     "gloss": "to exist"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "they (neuter plural)"
+     "gloss": "exist"
     }
    ],
    "gloss": "are there"
@@ -100,7 +95,7 @@
      "gloss": "before"
     }
    ],
-   "gloss": "before"
+   "gloss": "before them"
   },
   {
    "surface": "நிற்பவை",
@@ -108,26 +103,26 @@
     {
      "text": "நில்",
      "lemma": "நில்",
-     "gloss": "to stand"
+     "gloss": "stand"
     },
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "future/present marker"
+     "gloss": "future marker"
     },
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "those which"
+     "gloss": "those things"
     }
    ],
-   "gloss": "things that stand"
+   "gloss": "those things that stand"
   }
  ],
- "literal": "Sharpness of intellect with learning to those who possess, extreme subtlety what are there before things that stand?",
- "translation": "What highly subtle obstacles can stand before those who possess a naturally sharp intellect combined with the knowledge of books?",
- "modern": "இயற்கையான அறிவுக் கூர்மையோடு நூலறிவையும் உடையவர்களுக்கு, அவர்கள் முன் எதிர்த்து நிற்கக்கூடிய மிக நுட்பமான தடைகள் எவை உள்ளன?",
- "explanation": "This couplet highlights the unbeatable combination of innate intelligence and acquired knowledge. 'Mati-nuṭpam' refers to a naturally sharp mind, while 'nūl' represents formal learning. When a person possesses both, no problem or plot, no matter how extremely subtle ('ati-nuṭpam'), can stand in their way. The rhetorical question emphasizes that such a well-equipped mind can unravel any complexity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Natural sharpness of intellect along with book-learning to those who possess, exceedingly subtle obstacles what are there before them to stand?",
+ "translation": "For those who possess natural sharpness of intellect along with deep learning, what obstacles are so exceedingly subtle that they can stand before them?",
+ "modern": "இயற்கையான அறிவு நுட்பத்தையும் அதனோடு நூல் அறிவையும் உடையவர்களுக்கு, அவர்களுக்கு முன்னால் வந்து எதிர்க்கக்கூடிய மிக நுட்பமான சூழ்ச்சிகள் அல்லது தடைகள் எவை உள்ளன?",
+ "explanation": "This couplet highlights the supreme capability of an ideal minister who combines natural intelligence with acquired learning. The term 'mati-nuṭpam' refers to innate, sharp intellect, while 'nūlōṭu' emphasizes that this must be paired with the study of authoritative treatises. For a person endowed with both, the poet asks rhetorically what 'ati-nuṭpam' (exceedingly subtle or complex obstacles) could possibly stand in their way. Their combined wisdom easily penetrates and resolves even the most intricate challenges.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

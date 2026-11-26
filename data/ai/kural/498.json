@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "சிறு",
-     "lemma": "சிறுமை",
+     "lemma": "சிறு",
      "gloss": "small"
     },
     {
@@ -16,10 +16,10 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "he who has"
     }
    ],
-   "gloss": "he with a small army"
+   "gloss": "he who has a small army"
   },
   {
    "surface": "செல்",
@@ -27,10 +27,10 @@
     {
      "text": "செல்",
      "lemma": "செல்",
-     "gloss": "suitable"
+     "gloss": "go / suitable to go"
     }
    ],
-   "gloss": "suitable"
+   "gloss": "go / suitable to go"
   },
   {
    "surface": "இடம்",
@@ -49,7 +49,7 @@
     {
      "text": "சேர்",
      "lemma": "சேர்",
-     "gloss": "to reach"
+     "gloss": "reach"
     },
     {
      "text": "இன்",
@@ -57,7 +57,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if he reaches"
+   "gloss": "if [he] reaches"
   },
   {
    "surface": "உறுபடையான்",
@@ -65,7 +65,7 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "mighty"
+     "gloss": "large / abundant"
     },
     {
      "text": "படை",
@@ -75,10 +75,10 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "he who has"
     }
    ],
-   "gloss": "he with a mighty army"
+   "gloss": "he who has a large army"
   },
   {
    "surface": "ஊக்கம்",
@@ -86,38 +86,48 @@
     {
      "text": "ஊக்கம்",
      "lemma": "ஊக்கம்",
-     "gloss": "spirit"
+     "gloss": "morale / strength"
     }
    ],
-   "gloss": "spirit"
+   "gloss": "morale / strength"
   },
   {
    "surface": "அழிந்து",
    "parts": [
     {
-     "text": "அழிந்து",
+     "text": "அழி",
      "lemma": "அழி",
-     "gloss": "having been destroyed"
+     "gloss": "perish / destroy"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "இந்து",
+     "gloss": "having (past participle suffix)"
     }
    ],
-   "gloss": "having been destroyed"
+   "gloss": "having perished"
   },
   {
    "surface": "விடும்",
    "parts": [
     {
-     "text": "விடும்",
+     "text": "விடு",
      "lemma": "விடு",
-     "gloss": "will leave"
+     "gloss": "leave / auxiliary indicating completion"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (future/habitual suffix)"
     }
    ],
-   "gloss": "will be (completed)"
+   "gloss": "will completely"
   }
  ],
- "literal": "He with a small army, suitable place if he reaches, he with a mighty army's spirit having been destroyed will be.",
- "translation": "If a leader with a small army reaches a suitable place for defense, the spirit of the leader with a mighty army will be shattered.",
- "modern": "சிறிய படையை உடையவன் தனக்குப் பொருத்தமான இடத்தை அடைந்து போரிட்டால், பெரிய படையை உடையவனின் ஊக்கம் அழிந்து போய்விடும்.",
- "explanation": "This couplet highlights the strategic importance of choosing the right battleground. Even if a leader has only a small army, securing an advantageous position gives them a critical edge. Consequently, the morale and momentum of an opponent with a massive army will be completely broken, because their numerical superiority is neutralized by the terrain. The contrast between a small army and a mighty army emphasizes that location can overcome sheer numbers.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If he who has a small army reaches a place suitable to go, the morale of him who has a large army will be completely destroyed.",
+ "translation": "If a leader with a small army reaches a battlefield suited to his strength, the morale of the enemy with a massive army will be utterly shattered.",
+ "modern": "சிறிய படையை உடையவன் தனக்கு ஏற்ற இடத்தைச் சென்றடைந்தால், பெரிய படையை உடையவனுடைய ஊக்கம் அழிந்துவிடும்.",
+ "explanation": "This couplet highlights the supreme importance of choosing the right location in strategy. Even a commander with a small force can defeat a much larger force if they secure a strategic position that favors them. Once the smaller force occupies this advantageous ground, the confidence and morale of the larger army will collapse, leading to their defeat. The word 'உறு' here means large or abundant, contrasting with 'சிறு' (small), showing that strategic positioning overcomes numerical superiority.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

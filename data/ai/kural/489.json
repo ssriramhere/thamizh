@@ -11,37 +11,32 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "for"
+     "gloss": "to / for"
     }
    ],
-   "gloss": "for attaining"
+   "gloss": "to attain"
   },
   {
    "surface": "அரியது",
    "parts": [
     {
      "text": "அரியது",
-     "lemma": "அருமை",
-     "gloss": "rare thing"
+     "lemma": "அரிது",
+     "gloss": "that which is rare"
     }
    ],
-   "gloss": "rare thing"
+   "gloss": "that which is rare"
   },
   {
    "surface": "இயைந்தக்கால்",
    "parts": [
     {
-     "text": "இயைந்த",
-     "lemma": "இயை",
-     "gloss": "occurred"
-    },
-    {
-     "text": "கால்",
-     "lemma": "கால்",
-     "gloss": "time/if"
+     "text": "இயைந்தக்கால்",
+     "lemma": "இயைதல்",
+     "gloss": "when obtained / when it occurs"
     }
    ],
-   "gloss": "if it occurs"
+   "gloss": "when it is obtained"
   },
   {
    "surface": "அந்நிலையே",
@@ -66,18 +61,18 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "for"
+     "gloss": "to / for"
     }
    ],
-   "gloss": "for doing"
+   "gloss": "to do"
   },
   {
    "surface": "அரிய",
    "parts": [
     {
      "text": "அரிய",
-     "lemma": "அருமை",
-     "gloss": "rare/difficult"
+     "lemma": "அரிது",
+     "gloss": "rare / difficult"
     }
    ],
    "gloss": "difficult"
@@ -87,17 +82,17 @@
    "parts": [
     {
      "text": "செயல்",
-     "lemma": "செய்",
-     "gloss": "action/do"
+     "lemma": "செயல்",
+     "gloss": "action / deed"
     }
    ],
-   "gloss": "do (the action)"
+   "gloss": "action"
   }
  ],
- "literal": "for attaining / rare thing / if it occurs / at that very moment / for doing / difficult / actions (do)",
- "translation": "When a rare opportunity presents itself, use that very moment to accomplish tasks that are otherwise impossible to do.",
- "modern": "கிடைப்பதற்கு அரிய வாய்ப்பு கிடைத்தால், அந்த வாய்ப்பு இருக்கும்போதே செய்து முடிப்பதற்கு அரிய செயல்களைச் செய்து முடிக்க வேண்டும்.",
- "explanation": "This couplet emphasizes the importance of seizing the right moment. Opportunities that are hard to come by do not last long. Therefore, when such a rare chance occurs, one must act instantly to complete difficult tasks that cannot be done at any other time. The repetition of the word 'ariya' (rare or difficult) highlights both the scarcity of the opportunity and the greatness of the deed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To attain rare-thing when obtained, at that very moment, to do difficult deed [one must] do.",
+ "translation": "When an opportunity that is rare to obtain comes your way, use that very moment to perform the deed that is otherwise difficult to achieve.",
+ "modern": "கிடைப்பதற்கு அரிய காலம் வாய்க்கும்போது, அந்த கணத்திலேயே, செய்வதற்கு அரிய செயலைச் செய்து முடிக்க வேண்டும்.",
+ "explanation": "This couplet emphasizes the critical importance of seizing the right moment. The phrase 'எய்தற்கு அரியது' refers to a rare and hard-to-get opportunity, while 'இயைந்தக்கால்' means when such an opportunity actually presents itself. The word 'அந்நிலையே' highlights the urgency, meaning 'at that very instant' without any delay. By acting immediately when the rare moment arrives, one can successfully accomplish a 'செய்தற்கு அரிய செயல்'—a great deed that is otherwise impossible to achieve.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

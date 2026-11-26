@@ -4,23 +4,29 @@
    "surface": "கொல்லா",
    "parts": [
     {
-     "text": "கொல்லா",
+     "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "not killing"
+     "gloss": "kill"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not (negative relative participle suffix)"
     }
    ],
-   "gloss": "not killing"
+   "gloss": "non-killing"
   },
   {
    "surface": "நலத்தது",
    "parts": [
     {
      "text": "நலத்தது",
-     "lemma": "நலம்",
-     "gloss": "it has the goodness"
+     "lemma": "நலத்தது",
+     "gloss": "is of the goodness of"
     }
    ],
-   "gloss": "it has the goodness"
+   "gloss": "is of the goodness of",
+   "split_unverified": true
   },
   {
    "surface": "நோன்மை",
@@ -28,10 +34,10 @@
     {
      "text": "நோன்மை",
      "lemma": "நோன்மை",
-     "gloss": "penance"
+     "gloss": "penance / self-discipline"
     }
    ],
-   "gloss": "penance"
+   "gloss": "penance / strength of self-discipline"
   },
   {
    "surface": "பிறர்",
@@ -50,32 +56,38 @@
     {
      "text": "தீமை",
      "lemma": "தீமை",
-     "gloss": "fault"
+     "gloss": "evil / faults"
     }
    ],
-   "gloss": "fault"
+   "gloss": "evil / faults"
   },
   {
    "surface": "சொல்லா",
    "parts": [
     {
-     "text": "சொல்லா",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "not saying"
+     "gloss": "speak"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not (negative relative participle suffix)"
     }
    ],
-   "gloss": "not saying"
+   "gloss": "not speaking"
   },
   {
    "surface": "நலத்தது",
    "parts": [
     {
      "text": "நலத்தது",
-     "lemma": "நலம்",
-     "gloss": "it has the goodness"
+     "lemma": "நலத்தது",
+     "gloss": "is of the goodness of"
     }
    ],
-   "gloss": "it has the goodness"
+   "gloss": "is of the goodness of",
+   "split_unverified": true
   },
   {
    "surface": "சால்பு",
@@ -83,16 +95,16 @@
     {
      "text": "சால்பு",
      "lemma": "சால்பு",
-     "gloss": "perfection"
+     "gloss": "noble character / perfection of virtue"
     }
    ],
-   "gloss": "perfection"
+   "gloss": "noble character / perfection"
   }
  ],
- "literal": "not killing, it has the goodness, penance; others' fault, not saying, it has the goodness, perfection.",
- "translation": "Penance has the goodness of not killing. Perfection has the goodness of not speaking of others' faults.",
- "modern": "உயிர்களைக் கொல்லாத நற்பண்பை அடிப்படையாகக் கொண்டது தவம். அதுபோல, மற்றவர்களின் குற்றங்களைச் சொல்லாத நற்பண்பை அடிப்படையாகக் கொண்டது சான்றாண்மை.",
- "explanation": "This couplet defines the core virtues of two great ideals: penance and perfection. True penance (நோன்மை) is rooted in the goodness of not harming or killing any living being. Similarly, true perfection or nobility (சால்பு) is rooted in the goodness of not speaking about the faults of others. By placing these two side by side, the poet elevates the social virtue of refraining from gossip to the same level as the ascetic virtue of non-violence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Non-killing goodness-having-it is penance; others' evil not-speaking goodness-having-it is noble character.",
+ "translation": "The virtue of penance consists in the goodness of not killing; the virtue of noble character consists in the goodness of not speaking of others' faults.",
+ "modern": "பிற உயிர்களைக் கொல்லாத நற்பண்பே தவ வலிமையாகும்; பிறருடைய குற்றங்களைப் பேசாத நற்பண்பே சால்பு என்னும் சான்றாண்மையாகும்.",
+ "explanation": "This couplet defines two high spiritual and moral ideals by comparing their core qualities. The strength of penance or self-discipline (நோன்மை) lies in the supreme goodness of non-killing (கொல்லா நலத்தது), which means refraining from causing harm to any living being. In a parallel way, the perfection of noble character (சால்பு) lies in the goodness of not speaking about the faults or evils of others (பிறர் தீமை சொல்லா நலத்தது). Just as an ascetic guards against physical violence, a noble person guards their speech against verbal violence and gossip.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

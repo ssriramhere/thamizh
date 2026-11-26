@@ -20,22 +20,12 @@
      "gloss": "without"
     },
     {
-     "text": "அது",
+     "text": "அதனை",
      "lemma": "அது",
-     "gloss": "it"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "link"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative"
+     "gloss": "that (accusative)"
     }
    ],
-   "gloss": "that which is without (it)"
+   "gloss": "that which is without (bone)"
   },
   {
    "surface": "வெயில்",
@@ -52,14 +42,9 @@
    "surface": "போல",
    "parts": [
     {
-     "text": "போல்",
-     "lemma": "போல்",
-     "gloss": "to resemble"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive"
+     "text": "போல",
+     "lemma": "போல",
+     "gloss": "like"
     }
    ],
    "gloss": "like"
@@ -68,14 +53,9 @@
    "surface": "காயுமே",
    "parts": [
     {
-     "text": "காய்",
-     "lemma": "காய்",
-     "gloss": "to scorch"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future"
+     "text": "காயும்",
+     "lemma": "காய்தல்",
+     "gloss": "will scorch"
     },
     {
      "text": "ஏ",
@@ -105,22 +85,12 @@
      "gloss": "without"
     },
     {
-     "text": "அது",
+     "text": "அதனை",
      "lemma": "அது",
-     "gloss": "it"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "link"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative"
+     "gloss": "that (accusative)"
     }
    ],
-   "gloss": "that which is without (it)"
+   "gloss": "that which is without (love)"
   },
   {
    "surface": "அறம்",
@@ -128,16 +98,16 @@
     {
      "text": "அறம்",
      "lemma": "அறம்",
-     "gloss": "virtue"
+     "gloss": "righteousness"
     }
    ],
-   "gloss": "virtue"
+   "gloss": "righteousness"
   }
  ],
- "literal": "Bone that which is without sunlight like will scorch indeed, love that which is without virtue.",
- "translation": "Just as the sun scorches a boneless creature, virtue will scorch a loveless creature.",
- "modern": "எலும்பு இல்லாத புழுக்களை வெயில் சுட்டெரிப்பது போல, அன்பு இல்லாத உயிர்களை அறம் சுட்டெரிக்கும்.",
- "explanation": "This couplet draws a powerful parallel between the physical and moral worlds. A boneless creature, like a worm, has no defense against the scorching heat of the sun and perishes. In the exact same way, a soul without love has no protection, and the very force of virtue or righteousness will scorch and destroy it. The word aṟam here represents the natural moral order, which sustains those with love but acts as a destructive force against those without it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which is without bone, the sun like, will scorch; that which is without love, righteousness [will scorch].",
+ "translation": "Just as the scorching sun burns up boneless creatures, so does Righteousness burn up those who are devoid of love.",
+ "modern": "எலும்பு இல்லாத உயிர்களை வெயில் சுட்டெரிப்பது போல, அன்பு இல்லாதவர்களை அறம் அழித்துவிடும்.",
+ "explanation": "This couplet uses a vivid analogy from nature to illustrate the vital importance of love in human life. The 'boneless' creatures, such as worms, have no internal skeletal support to withstand the heat of the sun and are easily dried up and destroyed by it. Similarly, those who lack love have no inner moral strength, and 'Aṟam' (the cosmic principle of righteousness) will inevitably wither and ruin them. Love is thus presented as the essential backbone of human existence, without which one cannot survive the moral laws of the universe.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

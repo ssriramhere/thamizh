@@ -16,13 +16,13 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "எனல்",
-     "gloss": "to say"
+     "lemma": "என்",
+     "gloss": "say"
     },
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "they say"
@@ -44,17 +44,17 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life/soul"
+     "gloss": "life"
     },
     {
      "text": "க்கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "lemma": "க்கு",
+     "gloss": "to (dative)"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even/all"
+     "gloss": "all"
     }
    ],
    "gloss": "to all living beings"
@@ -63,24 +63,20 @@
    "surface": "எஞ்ஞான்றும்",
    "parts": [
     {
-     "text": "எஞ்ஞான்று",
-     "lemma": "எஞ்ஞான்று",
-     "gloss": "any time"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "entirely/always"
+     "text": "எஞ்ஞான்றும்",
+     "lemma": "எஞ்ஞான்றும்",
+     "gloss": "always"
     }
    ],
-   "gloss": "at all times"
+   "gloss": "always",
+   "split_unverified": true
   },
   {
    "surface": "தவாஅ",
    "parts": [
     {
      "text": "தவாஅ",
-     "lemma": "தவாஅ",
+     "lemma": "தபு",
      "gloss": "unceasing"
     }
    ],
@@ -102,13 +98,13 @@
    "parts": [
     {
      "text": "ஈன்",
-     "lemma": "ஈனுதல்",
-     "gloss": "to yield"
+     "lemma": "ஈன்",
+     "gloss": "yield"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "which yields"
+     "gloss": "which"
     }
    ],
    "gloss": "which yields"
@@ -125,10 +121,10 @@
    "gloss": "seed"
   }
  ],
- "literal": "Desire, they say, to all living beings at all times, is the unceasing birth-yielding seed.",
- "translation": "They say that desire is the seed that yields unceasing birth to all living beings at all times.",
- "modern": "எல்லா உயிர்களுக்கும் எக்காலத்திலும் முடிவில்லாத பிறப்பைத் தரும் விதை ஆசையே என்று கூறுவார்கள்.",
- "explanation": "This couplet identifies desire as the root cause of the endless cycle of birth and suffering. The word 'அவா' means craving or desire, which acts as a 'வித்து' or seed. Just as a seed inevitably sprouts, desire guarantees that a soul will be reborn ('தவாஅப் பிறப்பு') across all times ('எஞ்ஞான்றும்'). By cutting off this desire, one can stop the cycle of rebirth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Desire, they say, for all living beings, at all times, is the seed that yields unceasing birth.",
+ "translation": "Desire, they say, is the seed that yields an endless cycle of births for all living beings at all times.",
+ "modern": "எல்லா உயிர்களுக்கும் எக்காலத்திலும் அழியாத பிறவித்துன்பத்தைத் தரும் விதை ஆசை என்று கூறுவர்.",
+ "explanation": "This couplet explains the root cause of the cycle of rebirths. The author identifies 'அவா' (desire) as the primary seed ('வித்து') that continuously generates new births ('பிறப்பு') for all living beings. The word 'தவாஅ' is an elongated form meaning 'unceasing' or 'never-ending', emphasizing that as long as desire exists, the cycle of birth and death will never stop. By calling desire the 'seed', the couplet highlights that just as a seed inevitably grows into a plant, desire inevitably manifests as future existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,18 +6,18 @@
     {
      "text": "சிறை",
      "lemma": "சிறை",
-     "gloss": "fortification"
+     "gloss": "fortress"
     }
    ],
-   "gloss": "fortification"
+   "gloss": "fortress"
   },
   {
    "surface": "நலனும்",
    "parts": [
     {
      "text": "நலன்",
-     "lemma": "நலன்",
-     "gloss": "strength"
+     "lemma": "நலம்",
+     "gloss": "goodness"
     },
     {
      "text": "உம்",
@@ -25,7 +25,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "strength and"
+   "gloss": "and goodness"
   },
   {
    "surface": "சீரும்",
@@ -33,7 +33,7 @@
     {
      "text": "சீர்",
      "lemma": "சீர்",
-     "gloss": "power"
+     "gloss": "greatness"
     },
     {
      "text": "உம்",
@@ -41,36 +41,26 @@
      "gloss": "and"
     }
    ],
-   "gloss": "power and"
+   "gloss": "and greatness"
   },
   {
    "surface": "இலர்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "இலர்",
+     "lemma": "இலர்",
+     "gloss": "they do not have"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "they do not have"
   },
   {
    "surface": "எனினும்",
    "parts": [
     {
-     "text": "எனின்",
-     "lemma": "எனின்",
-     "gloss": "if said"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "எனினும்",
+     "lemma": "எனினும்",
+     "gloss": "even if"
     }
    ],
    "gloss": "even if"
@@ -81,10 +71,10 @@
     {
      "text": "மாந்தர்",
      "lemma": "மாந்தர்",
-     "gloss": "people"
+     "gloss": "adversaries"
     }
    ],
-   "gloss": "people (foes)"
+   "gloss": "adversaries"
   },
   {
    "surface": "உறை",
@@ -117,34 +107,29 @@
    "surface": "ஒட்டல்",
    "parts": [
     {
-     "text": "ஒட்டு",
-     "lemma": "ஒட்டு",
-     "gloss": "to attack"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஒட்டல்",
+     "lemma": "ஒட்டல்",
+     "gloss": "to oppose"
     }
    ],
-   "gloss": "attacking"
+   "gloss": "to oppose"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "difficult"
+     "lemma": "அரிது",
+     "gloss": "is difficult"
     }
    ],
    "gloss": "is difficult"
   }
  ],
- "literal": "fortification strength and power without-they even if, people dwelling land-with attacking is difficult.",
- "translation": "Even if foes lack strong fortifications and great power, it is difficult to attack and defeat them on their own home ground.",
- "modern": "அரண் வலிமையும் மற்ற சிறப்புகளும் இல்லாதவர்கள் என்றாலும், பகைவர்களை அவர்கள் வாழும் இடத்திலேயே சென்று தாக்குவதும் வெல்வதும் கடினமாகும்.",
- "explanation": "This couplet emphasizes the strategic advantage of fighting on one's own territory. It states that even if enemies do not have strong defensive structures or significant military power, they are still formidable on their home ground. The word 'உறைநிலம்' (dwelling land) highlights the natural familiarity and support they possess there, making 'ஒட்டல்' (attacking and defeating them) a highly difficult task.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they do not have fortress goodness and greatness, to oppose adversaries with their dwelling land is difficult.",
+ "translation": "Even if adversaries lack strong fortresses and great resources, it is difficult to defeat them when they are in their own home territory.",
+ "modern": "அரண் வலிமையும் சிறப்பும் இல்லாதவர்களாக இருந்தாலும், பகைவர்கள் வாழ்கின்ற சொந்த நிலத்திற்குச் சென்று அவர்களை வெல்வது கடினம்.",
+ "explanation": "This couplet emphasizes the strategic advantage of home territory in conflict. Even if adversaries do not possess strong defensive fortifications or great resources, they retain a natural strength by being in their own familiar dwelling place. Attempting to attack or conquer them on their own ground is extremely difficult. A wise leader must therefore respect the power of location and avoid engaging enemies in their home territory.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -22,10 +22,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even/all"
+     "gloss": "even / all"
     }
    ],
-   "gloss": "in all births"
+   "gloss": "even in all seven births"
   },
   {
    "surface": "தீயவை",
@@ -33,7 +33,7 @@
     {
      "text": "தீயவை",
      "lemma": "தீயவை",
-     "gloss": "evil things"
+     "gloss": "evil things / miseries"
     }
    ],
    "gloss": "evil things"
@@ -44,7 +44,7 @@
     {
      "text": "தீண்டா",
      "lemma": "தீண்டு",
-     "gloss": "touch-not"
+     "gloss": "will not touch"
     }
    ],
    "gloss": "will not touch"
@@ -55,7 +55,7 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "blame / reproach"
     }
    ],
    "gloss": "blame"
@@ -66,10 +66,10 @@
     {
      "text": "பிறங்கா",
      "lemma": "பிறங்கு",
-     "gloss": "appear-not"
+     "gloss": "not abounding / free from"
     }
    ],
-   "gloss": "not appearing"
+   "gloss": "not abounding / free from"
   },
   {
    "surface": "பண்பு",
@@ -77,10 +77,10 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "character"
+     "gloss": "good character / virtue"
     }
    ],
-   "gloss": "character"
+   "gloss": "good character"
   },
   {
    "surface": "உடை",
@@ -88,7 +88,7 @@
     {
      "text": "உடை",
      "lemma": "உடை",
-     "gloss": "possess"
+     "gloss": "possessing"
     }
    ],
    "gloss": "possessing"
@@ -108,23 +108,18 @@
    "surface": "பெறின்",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "obtain"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one obtains"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "if one obtains"
   }
  ],
- "literal": "Seven births-in evil-things touch-not blame appear-not character possessing children obtain-if.",
- "translation": "If one begets children of blameless character, evil will not touch them throughout all seven births.",
- "modern": "பழி இல்லாத நல்ல பண்புகளை உடைய பிள்ளைகளைப் பெற்றால், ஒருவரை ஏழு பிறவிகளிலும் எந்தத் தீமையும் தீண்டாது.",
- "explanation": "This couplet emphasizes the lasting value of raising children with good character. The phrase 'pali piranga' means blame or fault does not appear, highlighting a spotless reputation. If parents raise such virtuous children, the text states that 'evil things will not touch' them across 'seven births', a traditional idiom for an immeasurable span of time. The merit of having good children protects the parents from suffering indefinitely.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in seven births, evil things will not touch, if one obtains children possessing good character free from blame.",
+ "translation": "If one obtains children of virtuous character who are free from blame, no evils will touch them throughout all their seven births.",
+ "modern": "பழிப்பில்லாத நற்பண்புகளை உடைய பிள்ளைகளைப் பெற்றெடுத்தால், ஒருவரை ஏழு பிறவிகளிலும் துன்பங்கள் வந்து தொடாது.",
+ "explanation": "This couplet highlights the immense spiritual and worldly benefit of raising virtuous children. The phrase 'seven births' is a classical way of expressing eternity or all future existences. If parents are blessed with children who possess excellent character and are free from blame, the positive influence and merit of such children shield the parents from miseries across all their births. The key lies in the children possessing both good character and a life free from reproach.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

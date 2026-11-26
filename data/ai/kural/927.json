@@ -6,10 +6,10 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "inside/secret"
     }
    ],
-   "gloss": "inside"
+   "gloss": "secret"
   },
   {
    "surface": "ஒற்றி",
@@ -17,10 +17,10 @@
     {
      "text": "ஒற்றி",
      "lemma": "ஒற்று",
-     "gloss": "having hidden"
+     "gloss": "to spy/detect"
     }
    ],
-   "gloss": "having hidden"
+   "gloss": "having detected"
   },
   {
    "surface": "உள்ளூர்",
@@ -28,15 +28,15 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "local"
+     "gloss": "inside/local"
     },
     {
      "text": "ஊர்",
      "lemma": "ஊர்",
-     "gloss": "town"
+     "gloss": "town/villagers"
     }
    ],
-   "gloss": "local town"
+   "gloss": "by the local townspeople"
   },
   {
    "surface": "நகப்படுவர்",
@@ -47,9 +47,9 @@
      "gloss": "to laugh"
     },
     {
-     "text": "ப்படுவர்",
+     "text": "படுவர்",
      "lemma": "படு",
-     "gloss": "they will experience (passive)"
+     "gloss": "they will undergo"
     }
    ],
    "gloss": "they will be laughed at"
@@ -63,7 +63,8 @@
      "gloss": "always"
     }
    ],
-   "gloss": "always"
+   "gloss": "always",
+   "split_unverified": true
   },
   {
    "surface": "கள்",
@@ -82,10 +83,10 @@
     {
      "text": "ஒற்றி",
      "lemma": "ஒற்று",
-     "gloss": "having hidden"
+     "gloss": "to drink secretly/cling to"
     }
    ],
-   "gloss": "having hidden"
+   "gloss": "drinking secretly"
   },
   {
    "surface": "கண்",
@@ -93,10 +94,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eye/awareness"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "eye/awareness"
   },
   {
    "surface": "சாய்பவர்",
@@ -104,21 +105,21 @@
     {
      "text": "சாய்",
      "lemma": "சாய்",
-     "gloss": "to droop"
+     "gloss": "to droop/lose control"
     },
     {
      "text": "பவர்",
      "lemma": "பவர்",
-     "gloss": "those who"
+     "gloss": "those who do"
     }
    ],
-   "gloss": "those who droop"
+   "gloss": "those who lose control"
   }
  ],
- "literal": "Inside having hidden, by the local town they will be laughed at, always, liquor having hidden eyes those who droop.",
- "translation": "Those who secretly drink liquor and let their intoxicated eyes droop will always be laughed at by the whole town, even if they think they are hiding it inside.",
- "modern": "கள்ளை மறைத்துக் குடித்துவிட்டுப் போதையால் கண்கள் சொருகுபவர்கள், தாங்கள் குடித்ததை மனத்திற்குள் மறைத்தாலும், உள்ளூர் மக்களால் எக்காலத்தும் சிரிக்கப்படுவார்கள்.",
- "explanation": "This couplet mocks the foolishness of secret drinkers. The word 'ஒற்றி' (from 'ஒற்றுதல்') is used here in the sense of hiding or concealing. A person might consume liquor in secret and try to hide the fact in their mind ('உள் ஒற்றி'). However, the physical effects of intoxication, such as drooping eyes, cannot be concealed. Consequently, their secret is exposed, and they become a constant laughingstock to the people of their town.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having their secrets detected, by the local townspeople they will be laughed at always, those who drink liquor secretly and lose their awareness.",
+ "translation": "Those who drink liquor secretly and lose their senses will have their secrets found out and will be laughed at by their fellow-townsmen at all times.",
+ "modern": "ரகசியமாகக் கள் குடித்துத் தன் அறிவை இழப்பவர்கள், எப்போதும் தம் ஊர் மக்களால் அவர்களின் ரகசியங்கள் அறியப்பட்டு எள்ளி நகையாடப்படுவார்கள்.",
+ "explanation": "This couplet warns against the illusion of secret drinking. The poet explains that those who drink liquor in secret ('kaḷ oṟṟi') and lose their mental clarity or droop their eyes ('kaṇ cāypavar') cannot keep it a secret for long. Their inner secrets will be easily detected ('uḷ oṟṟi') by others because of their drunken behavior. Consequently, they will be mocked and laughed at ('nakappaṭuvar') by their own local townspeople ('uḷḷūr') at all times ('eññāṉṟum').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

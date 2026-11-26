@@ -6,17 +6,17 @@
     {
      "text": "வெண்மை",
      "lemma": "வெண்மை",
-     "gloss": "ignorance"
+     "gloss": "folly (literally, blankness or whiteness)"
     }
    ],
-   "gloss": "ignorance"
+   "gloss": "folly or ignorance"
   },
   {
    "surface": "எனப்படுவ",
    "parts": [
     {
      "text": "எனப்படுவ",
-     "lemma": "எனப்படு",
+     "lemma": "எனப்படுவது",
      "gloss": "that which is called"
     }
    ],
@@ -27,12 +27,11 @@
    "parts": [
     {
      "text": "தியாதெனின்",
-     "lemma": "தியாதெனின்",
-     "gloss": "if asked what it is"
+     "lemma": "யாதெனின்",
+     "gloss": "if you ask what it is"
     }
    ],
-   "gloss": "if asked what it is",
-   "split_unverified": true
+   "gloss": "if you ask what it is"
   },
   {
    "surface": "ஒண்மை",
@@ -40,17 +39,17 @@
     {
      "text": "ஒண்மை",
      "lemma": "ஒண்மை",
-     "gloss": "wisdom"
+     "gloss": "wisdom (literally, brightness)"
     }
    ],
-   "gloss": "wisdom"
+   "gloss": "wisdom or intelligence"
   },
   {
    "surface": "உடையம்",
    "parts": [
     {
      "text": "உடையம்",
-     "lemma": "உடை",
+     "lemma": "உடையம்",
      "gloss": "we possess"
     }
    ],
@@ -72,11 +71,11 @@
    "parts": [
     {
      "text": "என்னும்",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என்னும்",
+     "gloss": "that says"
     }
    ],
-   "gloss": "saying"
+   "gloss": "that says"
   },
   {
    "surface": "செருக்கு",
@@ -84,16 +83,16 @@
     {
      "text": "செருக்கு",
      "lemma": "செருக்கு",
-     "gloss": "conceit"
+     "gloss": "pride or vanity"
     }
    ],
-   "gloss": "conceit"
+   "gloss": "pride or vanity"
   }
  ],
- "literal": "Ignorance that which is called if asked what it is, wisdom we possess we saying conceit.",
- "translation": "If asked what is called true ignorance, it is the conceit of proudly declaring, 'We possess wisdom.'",
- "modern": "அறியாமை என்று சொல்லப்படுவது எது என்றால், 'நாம் மிகுந்த அறிவுடையோம்' என்று தமக்குத் தாமே நினைத்துக்கொள்ளும் செருக்குதான்.",
- "explanation": "This couplet defines the essence of ignorance or folly. The word 'veṇmai' literally means whiteness or emptiness, but here it signifies a blank, ignorant mind. True ignorance is not merely a lack of knowledge, but the arrogant conceit ('cerukku') of believing and declaring that one is already wise ('oṇmai'). Such false pride prevents a person from ever acquiring real wisdom.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Folly that which is called if you ask what, wisdom we possess we saying pride.",
+ "translation": "If you ask what constitutes true folly, it is the vanity of declaring, 'We possess great wisdom.'",
+ "modern": "அறியாமை என்று சொல்லப்படுவது எதுவென்றால், 'நாங்கள் அறிவுடையவர்கள்' என்று தங்களைத் தாங்களே மதித்துக் கொள்ளும் செருக்கு ஆகும்.",
+ "explanation": "In this couplet, the poet defines the essence of ignorance or folly. The word 'வெண்மை' literally means whiteness or blankness, which represents a blank, ignorant mind. Conversely, 'ஒண்மை' means brightness or clarity, representing wisdom. The poet explains that true ignorance is not merely a lack of knowledge, but the arrogant self-delusion ('செருக்கு') of believing oneself to be already wise, which shuts the door to all learning.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

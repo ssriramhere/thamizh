@@ -6,10 +6,10 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "modesty"
+     "gloss": "sense of honor"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "sense of honor"
   },
   {
    "surface": "வேலி",
@@ -28,7 +28,7 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "to have"
+     "gloss": "hold"
     },
     {
      "text": "ஆது",
@@ -36,7 +36,7 @@
      "gloss": "without"
     }
    ],
-   "gloss": "without having"
+   "gloss": "without holding"
   },
   {
    "surface": "மன்னோ",
@@ -49,7 +49,7 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "euphonic suffix"
+     "gloss": "emphasis"
     }
    ],
    "gloss": "indeed"
@@ -81,21 +81,16 @@
    "parts": [
     {
      "text": "பேண்",
-     "lemma": "பேண்",
-     "gloss": "to cherish"
+     "lemma": "பேணு",
+     "gloss": "cherish"
     },
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "text": "அலர்",
+     "lemma": "அலர்",
+     "gloss": "they will not"
     }
    ],
-   "gloss": "they will not cherish"
+   "gloss": "they will not desire"
   },
   {
    "surface": "மேலாயவர்",
@@ -103,21 +98,21 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "high"
+     "gloss": "noble"
     },
     {
      "text": "ஆயவர்",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "those who are"
     }
    ],
-   "gloss": "noble ones"
+   "gloss": "those who are noble"
   }
  ],
- "literal": "Modesty fence without-having indeed vast world they-will-not-cherish high-ones.",
- "translation": "The noble ones will not desire even the vast world if it means living without the fence of modesty.",
- "modern": "மேன்மையானவர்கள் நாணம் என்னும் வேலியை விட்டுவிட்டு, இந்தப் பரந்த உலகத்தை ஆள்வதையும் விரும்ப மாட்டார்கள்.",
- "explanation": "This couplet emphasizes that noble people value modesty above all worldly possessions. The word 'நாண்' (modesty or a sense of shame against doing wrong) is compared to a protective 'வேலி' (fence) that guards their character. The phrase 'கொள்ளாது... பேணலர்' indicates that without maintaining this fence, they would not cherish even the vast world ('வியன் ஞாலம்'). Thus, true greatness lies in preserving one's moral boundaries rather than acquiring limitless power or wealth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without holding the sense of honor as their fence, indeed, the vast world, they will not desire, those who are noble.",
+ "translation": "Noble people will not desire even the vast world if they cannot have their sense of honor as its protective fence.",
+ "modern": "மேன்மையானவர்கள், நாணத்தை (தன்மானத்தை) ஒரு வேலியாகக் கொள்ளாமல், இந்த அகன்ற உலகத்தையே பெறுவதாக இருந்தாலும் அதனை விரும்ப மாட்டார்கள்.",
+ "explanation": "This couplet highlights the supreme value of 'nan' (the sense of shame or honor) for noble individuals. Great people would not desire to possess the entire vast world if they had to do so by compromising their self-respect. The metaphor of 'nan' as a 'veli' (fence) suggests that honor is what guards and defines a person's character. Without this boundary of self-respect, even the grandest worldly achievements are worthless to the noble.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

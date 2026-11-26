@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "நட்டார்",
-     "lemma": "நள்",
+     "lemma": "நட்டார்",
      "gloss": "friends"
     }
    ],
@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "நல்லவை",
-     "lemma": "நன்மை",
+     "lemma": "நல்லவை",
      "gloss": "good things"
     }
    ],
@@ -37,28 +37,28 @@
    "surface": "சொல்லினும்",
    "parts": [
     {
-     "text": "சொல்லின்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "if say"
+     "gloss": "speak"
     },
     {
-     "text": "உம்",
+     "text": "இனும்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if they say"
+   "gloss": "even if they speak"
   },
   {
    "surface": "ஒட்டார்",
    "parts": [
     {
      "text": "ஒட்டார்",
-     "lemma": "ஒட்டு",
-     "gloss": "foes"
+     "lemma": "ஒட்டார்",
+     "gloss": "enemies"
     }
    ],
-   "gloss": "foes"
+   "gloss": "enemies (those who do not unite in heart)"
   },
   {
    "surface": "சொல்",
@@ -88,10 +88,10 @@
     {
      "text": "உணர",
      "lemma": "உணர்",
-     "gloss": "to perceive"
+     "gloss": "to understand"
     }
    ],
-   "gloss": "to perceive"
+   "gloss": "to understand"
   },
   {
    "surface": "படும்",
@@ -105,10 +105,10 @@
    "gloss": "will be"
   }
  ],
- "literal": "Like friends, good things even if they say, foes' words quickly will be perceived.",
- "translation": "Even if foes speak pleasant words as though they were friends, the true nature of their words will quickly be understood.",
- "modern": "நண்பர்களைப் போல நல்ல வார்த்தைகளைச் சொன்னாலும், பகைவர்களின் சொற்களின் உண்மைத் தன்மை விரைவாகப் புரிந்து கொள்ளப்படும்.",
- "explanation": "This couplet warns about the deceptive speech of enemies who pretend to be well-wishers. The word 'நட்டார்' refers to true friends who have formed a genuine bond, while 'ஒட்டார்' refers to foes who do not truly unite or agree with you. Even if these enemies speak pleasant and agreeable words ('நல்லவை'), their underlying hostility cannot be hidden for long. The phrase 'ஒல்லை உணரப்படும்' emphasizes that the deceitful nature of their words will swiftly be perceived by a discerning mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like friends good things even if they speak, enemies' words quickly to be understood will be.",
+ "translation": "Even if those who are hostile speak beneficial things like friends, the true nature of their words will be quickly understood.",
+ "modern": "நண்பர்களைப் போல நல்ல காரியங்களைச் சொன்னாலும், நம்முடன் மனதால் ஒன்றாத பகைவர்களின் சொற்களின் உண்மைத் தன்மை விரைவில் உணர்ந்து கொள்ளப்படும்.",
+ "explanation": "This couplet warns against the deceptive words of insincere people who pretend to be friends. Even if they offer advice or speak words that seem highly beneficial on the surface, their underlying hostile intent cannot remain hidden. A discerning mind will quickly perceive the true, harmful nature behind their sweet words. The key words 'oṭṭār' (those who do not unite in heart) and 'ollai' (quickly) emphasize that the false nature of an enemy's speech is rapidly exposed to those who are vigilant.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

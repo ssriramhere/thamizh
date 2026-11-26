@@ -6,10 +6,10 @@
     {
      "text": "அலர்",
      "lemma": "அலர்",
-     "gloss": "rumour"
+     "gloss": "rumor"
     }
    ],
-   "gloss": "rumour"
+   "gloss": "rumor"
   },
   {
    "surface": "எழ",
@@ -17,17 +17,17 @@
     {
      "text": "எழ",
      "lemma": "எழு",
-     "gloss": "to rise"
+     "gloss": "to arise"
     }
    ],
-   "gloss": "to rise"
+   "gloss": "as it arises"
   },
   {
    "surface": "ஆர்",
    "parts": [
     {
      "text": "ஆர்",
-     "lemma": "ஆர்",
+     "lemma": "அருமை",
      "gloss": "precious"
     }
    ],
@@ -50,10 +50,10 @@
     {
      "text": "நிற்கும்",
      "lemma": "நில்",
-     "gloss": "stands"
+     "gloss": "will stand"
     }
    ],
-   "gloss": "stands"
+   "gloss": "persists"
   },
   {
    "surface": "அதனை",
@@ -61,10 +61,10 @@
     {
      "text": "அதனை",
      "lemma": "அது",
-     "gloss": "it"
+     "gloss": "that"
     }
    ],
-   "gloss": "it"
+   "gloss": "that fact"
   },
   {
    "surface": "பலர்",
@@ -83,27 +83,32 @@
     {
      "text": "அறியார்",
      "lemma": "அறி",
-     "gloss": "know not"
+     "gloss": "do not know"
     }
    ],
-   "gloss": "know not"
+   "gloss": "do not know"
   },
   {
    "surface": "பாக்கியத்தால்",
    "parts": [
     {
-     "text": "பாக்கியத்தால்",
+     "text": "பாக்கியத்து",
      "lemma": "பாக்கியம்",
-     "gloss": "by good fortune"
+     "gloss": "good fortune"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
     }
    ],
    "gloss": "by good fortune"
   }
  ],
- "literal": "Rumour to rise, precious life stands; it, many know not, by good fortune.",
- "translation": "My precious life sustains itself because this rumour has risen. By good fortune, the many people who spread it do not know this.",
- "modern": "ஊரில் நம்மைப் பற்றிப் பழிச்சொல் எழுவதால்தான் என் அரிய உயிர் நிலைத்து நிற்கிறது. நல்ல வேளையாக, இதை அந்தப் பலரும் அறிய மாட்டார்கள்.",
- "explanation": "The speaker finds an unexpected comfort in the public rumour about their secret love. The gossip validates their bond and gives them the strength to keep living despite the pain of separation. Ironically, the townspeople spread the rumour to shame them, unaware that they are actually keeping the speaker's hopes and life alive. It is sheer good fortune that the public does not realize the life-saving effect of their gossip.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "As rumor arises, precious life persists; that, many do not know, by good fortune.",
+ "translation": "My precious life survives only because this rumor of our love arises; fortunately, the many who gossip do not realize this.",
+ "modern": "அலர் (பழிச்சொல்) எழுவதால் என்னுடைய அரிய உயிர் நிலைத்து நிற்கிறது; அதனைப் பலர் அறியவில்லை, அது என் நல்வாய்ப்பே ஆகும்.",
+ "explanation": "In this couplet, the heroine speaks of how the public rumor (alar) about her secret love actually sustains her life during separation. The gossip of the townspeople serves as a constant validation of her relationship, giving her the strength to endure the pain of absence. Ironically, those who spread the rumor do so to slander her, unaware that their gossip acts as a life-saving medicine. She considers this ignorance of theirs to be her own good fortune, as they would otherwise stop gossiping and she would lose her will to live.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

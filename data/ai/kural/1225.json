@@ -9,9 +9,9 @@
      "gloss": "morning"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "dative case marker"
     }
    ],
    "gloss": "to the morning"
@@ -33,10 +33,10 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "good deed"
     }
    ],
-   "gloss": "good thing"
+   "gloss": "good deed"
   },
   {
    "surface": "என்",
@@ -55,7 +55,7 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "particle of wonder"
     }
    ],
    "gloss": "indeed"
@@ -66,10 +66,10 @@
     {
      "text": "எவன்",
      "lemma": "எவன்",
-     "gloss": "what"
+     "gloss": "what kind"
     }
    ],
-   "gloss": "what"
+   "gloss": "what kind"
   },
   {
    "surface": "கொல்",
@@ -77,7 +77,7 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "particle of wonder"
     }
    ],
    "gloss": "indeed"
@@ -102,9 +102,9 @@
      "gloss": "evening"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "dative case marker"
     }
    ],
    "gloss": "to the evening"
@@ -129,13 +129,13 @@
      "gloss": "enmity"
     }
    ],
-   "gloss": "harm"
+   "gloss": "enmity"
   }
  ],
  "literal": "To the morning done good what indeed? What indeed I to the evening done enmity?",
- "translation": "What good have I done to the morning? And what harm have I done to the evening?",
- "modern": "நான் காலைப் பொழுதிற்குச் செய்த நன்மை என்ன? மாலைப் பொழுதிற்குச் செய்த தீமைதான் என்ன?",
- "explanation": "The speaker contrasts her experience of morning and evening during her lover's absence. Morning brings her relief and hope, making her wonder what good deed she did to earn its favor. Evening, however, intensifies her loneliness and sorrow, prompting her to ask what harm she ever did to make it torment her so. The words 'நன்று' (good) and 'பகை' (enmity or harm) highlight the stark difference in how the two times of day affect her lovesick heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "translation": "What good did I do to the morning, and what enmity did I commit against the evening, that the former is so kind and the latter so cruel?",
+ "modern": "நான் காலைப் பொழுதிற்குச் செய்த நன்மை என்னவோ? மாலைப் பொழுதிற்கு நான் செய்த பகைமைதான் என்னவோ?",
+ "explanation": "The pining heroine compares her feelings during different times of the day. The morning is gentle and does not torment her, making her wonder what good deed she did to earn its favor. In contrast, the evening arrives like a fierce enemy, intensifying her pain of separation, which makes her wonder what enmity she committed against it. Through this personification of morning and evening, the couplet beautifully illustrates how twilight amplifies the grief of those separated from their beloved.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

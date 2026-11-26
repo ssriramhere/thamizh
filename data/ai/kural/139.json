@@ -6,10 +6,10 @@
     {
      "text": "ஒழுக்கம்",
      "lemma": "ஒழுக்கம்",
-     "gloss": "decorum"
+     "gloss": "good conduct"
     }
    ],
-   "gloss": "decorum"
+   "gloss": "good conduct"
   },
   {
    "surface": "உடையவர்க்கு",
@@ -20,7 +20,7 @@
      "gloss": "those who possess"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -33,7 +33,7 @@
     {
      "text": "ஒல்லா",
      "lemma": "ஒல்லுதல்",
-     "gloss": "are not possible"
+     "gloss": "will not suit"
     },
     {
      "text": "ஏ",
@@ -41,15 +41,15 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "are indeed impossible"
+   "gloss": "are impossible indeed"
   },
   {
    "surface": "தீய",
    "parts": [
     {
      "text": "தீய",
-     "lemma": "தீமை",
-     "gloss": "evil things"
+     "lemma": "தீது",
+     "gloss": "evil words"
     }
    ],
    "gloss": "evil words"
@@ -68,7 +68,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having slipped"
+   "gloss": "even by a slip of tongue"
   },
   {
    "surface": "வாயால்",
@@ -81,10 +81,10 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "with"
+     "gloss": "by"
     }
    ],
-   "gloss": "with mouth"
+   "gloss": "by mouth"
   },
   {
    "surface": "சொலல்",
@@ -98,10 +98,10 @@
    "gloss": "speaking"
   }
  ],
- "literal": "Decorum to those who possess, are indeed impossible, evil things, even having slipped, with mouth speaking.",
+ "literal": "To those who possess good conduct, it is impossible indeed, evil words, even by a slip of tongue, by mouth, to speak.",
  "translation": "For those who possess good conduct, it is impossible to speak evil words, even by a slip of the tongue.",
- "modern": "நல்லொழுக்கம் உடையவர்கள் தவறிக்கூடத் தங்கள் வாயால் தீய சொற்களைச் சொல்ல மாட்டார்கள்.",
- "explanation": "This couplet highlights the deep-rooted nature of good conduct in a person. The word 'ஒழுக்கம்' (decorum or good conduct) is shown as a defining trait that prevents bad behavior. The phrase 'வழுக்கியும்' means 'even having slipped' or 'even by mistake', emphasizing that true decorum is an ingrained habit rather than just a conscious effort. Therefore, for those who possess such character, uttering evil words with their mouth is simply impossible ('ஒல்லாவே').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "modern": "ஒழுக்கம் உடையவர்களுக்கு, தவறியும் கூடத் தங்கள் வாயால் தீமையான சொற்களைச் சொல்லுதல் இயலாது.",
+ "explanation": "This couplet highlights how deeply good conduct is ingrained in a virtuous person. For those who possess propriety and discipline, uttering harmful or evil words is completely unnatural. Even by an accidental slip of the tongue, they will not let bad words escape their mouth. The word 'ollāvē' emphasizes that such speech is entirely incompatible with their character, showing that true conduct governs even one's involuntary utterances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

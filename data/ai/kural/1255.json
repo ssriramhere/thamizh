@@ -6,10 +6,10 @@
     {
      "text": "செற்றார்",
      "lemma": "செறு",
-     "gloss": "those who scorned"
+     "gloss": "those who disliked"
     }
    ],
-   "gloss": "those who scorned"
+   "gloss": "those who have disliked or abandoned us"
   },
   {
    "surface": "பின்",
@@ -26,9 +26,14 @@
    "surface": "செல்லா",
    "parts": [
     {
-     "text": "செல்லா",
+     "text": "செல்",
      "lemma": "செல்",
-     "gloss": "not going"
+     "gloss": "go"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not"
     }
    ],
    "gloss": "not going"
@@ -51,10 +56,10 @@
     {
      "text": "காமநோய்",
      "lemma": "காமநோய்",
-     "gloss": "disease of love"
+     "gloss": "the disease of love"
     }
    ],
-   "gloss": "disease of love",
+   "gloss": "the disease of love",
    "split_unverified": true
   },
   {
@@ -63,18 +68,23 @@
     {
      "text": "உற்றார்",
      "lemma": "உறு",
-     "gloss": "those who experience"
+     "gloss": "those who suffer"
     }
    ],
-   "gloss": "those afflicted"
+   "gloss": "those who suffer from it"
   },
   {
    "surface": "அறிவது",
    "parts": [
     {
-     "text": "அறிவது",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "that which is known"
+     "gloss": "know"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that which"
     }
    ],
    "gloss": "that which is known"
@@ -95,17 +105,17 @@
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is not"
     }
    ],
    "gloss": "is not"
   }
  ],
- "literal": "After those who scorned not going great dignity love-disease afflicted those knowing one thing is not.",
- "translation": "The noble pride of not pursuing those who have scorned us is not a thing known to those afflicted by the disease of love.",
- "modern": "நம்மை வெறுத்துச் சென்றவர் பின்னே செல்லாத பெருமை, காம நோயால் துன்பப்படுபவர்கள் அறியும் ஒரு செயல் அல்ல.",
- "explanation": "The speaker reflects on the loss of her self-control and dignity. Normally, a person of great dignity would never chase after someone who has scorned or abandoned them. However, this noble pride is completely unknown to those suffering from the intense affliction of love, compelling her to seek out her lover despite his neglect.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The great dignity of not going after those who disliked us is not one thing known by those who suffer from the disease of love.",
+ "translation": "The noble dignity of not running after those who have abandoned us is not something known to those who suffer from the affliction of love.",
+ "modern": "நம்மை வெறுத்து நீங்கியவர் பின்னே செல்லாமல் இருக்கும் பெருந்தன்மை, காமநோயால் வருந்துபவர்கள் அறியக்கூடிய ஒன்று அல்ல.",
+ "explanation": "This couplet describes the loss of self-control and dignity under the influence of intense love. Normally, self-respect demands that one should not pursue someone who has shown dislike or abandoned them. However, the speaker confesses that such noble restraint is impossible for those afflicted with the disease of love. Their overwhelming passion breaks all barriers of pride, forcing them to seek out the very person who caused them pain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,9 +4,14 @@
    "surface": "அஞ்சாமை",
    "parts": [
     {
-     "text": "அஞ்சாமை",
-     "lemma": "அஞ்சாமை",
-     "gloss": "fearlessness"
+     "text": "அஞ்சு",
+     "lemma": "அஞ்சு",
+     "gloss": "to fear"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominalizing suffix"
     }
    ],
    "gloss": "fearlessness"
@@ -15,12 +20,17 @@
    "surface": "அல்லால்",
    "parts": [
     {
-     "text": "அல்லால்",
-     "lemma": "அல்லால்",
-     "gloss": "other than"
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "conditional suffix"
     }
    ],
-   "gloss": "other than"
+   "gloss": "other than / except"
   },
   {
    "surface": "துணை",
@@ -28,71 +38,92 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "aid"
+     "gloss": "help / support"
     }
    ],
-   "gloss": "aid"
+   "gloss": "help / support"
   },
   {
    "surface": "வேண்டா",
    "parts": [
     {
-     "text": "வேண்டா",
-     "lemma": "வேண்டுதல்",
-     "gloss": "are not needed"
+     "text": "வேண்டு",
+     "lemma": "வேண்டு",
+     "gloss": "to need"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
     }
    ],
-   "gloss": "are not needed"
+   "gloss": "is not needed"
   },
   {
    "surface": "எஞ்சாமை",
    "parts": [
     {
-     "text": "எஞ்சாமை",
-     "lemma": "எஞ்சாமை",
-     "gloss": "without omission"
+     "text": "எஞ்சு",
+     "lemma": "எஞ்சு",
+     "gloss": "to fail / omit"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominalizing suffix"
     }
    ],
-   "gloss": "without omission"
+   "gloss": "without omission / thoroughly"
   },
   {
    "surface": "எண்ணி",
    "parts": [
     {
-     "text": "எண்ணி",
-     "lemma": "எண்ணுதல்",
-     "gloss": "having considered"
+     "text": "எண்",
+     "lemma": "எண்",
+     "gloss": "to think / plan"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past participle suffix"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having planned"
   },
   {
    "surface": "இடத்தால்",
    "parts": [
     {
      "text": "இடத்தால்",
-     "lemma": "இடம்",
-     "gloss": "with the right place"
+     "lemma": "இடத்தால்",
+     "gloss": "from a suitable place"
     }
    ],
-   "gloss": "with the right place"
+   "gloss": "from a suitable place",
+   "split_unverified": true
   },
   {
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செயின்",
-     "lemma": "செய்தல்",
-     "gloss": "if done"
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
     }
    ],
-   "gloss": "if done"
+   "gloss": "if one acts"
   }
  ],
- "literal": "Fearlessness other than, aid is not needed, without omission having considered, with the place if done.",
- "translation": "If one considers every detail thoroughly and acts in the right place, no ally is needed other than one's own fearlessness.",
- "modern": "எதையும் விட்டுவிடாமல் முழுமையாக ஆராய்ந்து, தகுந்த இடத்தில் ஒரு செயலைச் செய்தால், ஒருவருக்குத் தன் அஞ்சாமையைத் தவிர வேறு எந்தத் துணையும் தேவையில்லை.",
- "explanation": "This couplet highlights the immense strategic value of choosing the right location for an undertaking. The word 'எஞ்சாமை' means without omission, stressing the need for flawless and complete planning. When thorough preparation is combined with the perfect place to act, the resulting advantage is so great that a person's own courage becomes the only ally they require.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Fearlessness other than support is not needed, without omission having planned, from a suitable place if one acts.",
+ "translation": "No other support than fearlessness is needed, if one acts from an advantageous place after planning everything without any omission.",
+ "modern": "ஒரு செயலை எஞ்சாமல் முழுமையாகத் திட்டமிட்டு, ஏற்ற இடத்தைத் தேர்ந்தெடுத்துச் செய்தால், அஞ்சாமை ஒன்றைத் தவிர வேறு எந்தத் துணையும் தேவையில்லை.",
+ "explanation": "This couplet emphasizes the power of choosing the right location for an action. If a person plans their strategy thoroughly without leaving any loopholes (எஞ்சாமை எண்ணி) and executes it from an advantageous position (இடத்தால் செயின்), they do not require any external allies or additional support (துணை வேண்டா). In such a well-planned scenario, the only quality required is inner courage or fearlessness (அஞ்சாமை அல்லால்). The choice of the right place acts as a force multiplier, making the actor self-sufficient.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

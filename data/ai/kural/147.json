@@ -22,10 +22,10 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "he who possesses"
     }
    ],
-   "gloss": "by nature"
+   "gloss": "he who possesses the nature of"
   },
   {
    "surface": "இல்வாழ்வான்",
@@ -33,23 +33,28 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     },
     {
      "text": "வாழ்வான்",
-     "lemma": "வாழ்",
+     "lemma": "வாழு",
      "gloss": "he who lives"
     }
    ],
-   "gloss": "householder"
+   "gloss": "he who lives in a household"
   },
   {
    "surface": "என்பான்",
    "parts": [
     {
-     "text": "என்பான்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "he who is called"
+     "gloss": "say"
+    },
+    {
+     "text": "பான்",
+     "lemma": "பான்",
+     "gloss": "he who"
     }
    ],
    "gloss": "he who is called"
@@ -76,10 +81,10 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "she who is"
+     "gloss": "she who possesses"
     }
    ],
-   "gloss": "she who belongs to"
+   "gloss": "she who belongs to another"
   },
   {
    "surface": "பெண்மை",
@@ -96,23 +101,23 @@
    "surface": "நயவாதவன்",
    "parts": [
     {
-     "text": "நயவாது",
-     "lemma": "நய",
+     "text": "நயவா",
+     "lemma": "நயத்தல்",
      "gloss": "not desiring"
     },
     {
-     "text": "அவன்",
+     "text": "தவன்",
      "lemma": "அவன்",
-     "gloss": "he"
+     "gloss": "he who"
     }
    ],
    "gloss": "he who does not desire"
   }
  ],
- "literal": "Virtue by nature householder he who is called another man she who belongs to womanhood he who does not desire.",
- "translation": "He who is called a true householder living by virtue is the one who does not desire the womanhood of her who belongs to another.",
- "modern": "அறத்தின் இயல்போடு இல்வாழ்க்கை வாழ்பவன் என்று சொல்லப்படுபவன், மற்றொருவனின் உரிமைக்கு உட்பட்டவளின் பெண்மையை விரும்பாதவனே ஆவான்.",
- "explanation": "This couplet defines the true nature of a virtuous householder. It states that merely living in a household does not make one a true householder; true domestic virtue requires strict moral discipline. The key word 'நயவாதவன்' is formed by joining 'நயவாது' (without desiring) and 'அவன்' (he), emphasizing the complete absence of desire for another man's wife. Thus, the foundation of a righteous family life is built on respecting the boundaries of others.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who is called a householder living by the nature of virtue is he who does not desire the womanhood of her who belongs to another.",
+ "translation": "He who is said to live a virtuous householder's life is one who does not lust after the womanhood of another man's wife.",
+ "modern": "அறநெறியோடு இல்வாழ்க்கை வாழ்பவன் என்று சொல்லப்படுபவன், பிறனுடைய மனைவியின் பெண்மையை விரும்பாதவனே ஆவான்.",
+ "explanation": "This couplet defines the true standard of a virtuous householder. A person who is praised as living a righteous domestic life must possess the self-control to not covet another man's wife. The word 'piṟaṉiyalāḷ' refers to a woman who belongs to another man's household. By stating that such a householder does not desire her womanhood, the poet emphasizes that respecting the boundaries of other families is the cornerstone of domestic virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

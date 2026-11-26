@@ -4,23 +4,33 @@
    "surface": "பிழைத்",
    "parts": [
     {
-     "text": "பிழைத்",
+     "text": "பிழை",
      "lemma": "பிழை",
-     "gloss": "having erred"
+     "gloss": "mistake"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "having erred"
+   "gloss": "mistakenly"
   },
   {
    "surface": "துணர்ந்தும்",
    "parts": [
     {
-     "text": "துணர்ந்தும்",
-     "lemma": "உணர்",
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi consonant"
+    },
+    {
+     "text": "உணர்ந்தும்",
+     "lemma": "உணர்தல்",
      "gloss": "even if understood"
     }
    ],
-   "gloss": "even if understood"
+   "gloss": "even if they understood"
   },
   {
    "surface": "பேதைமை",
@@ -31,41 +41,51 @@
      "gloss": "foolishness"
     }
    ],
-   "gloss": "foolishness"
+   "gloss": "foolish words"
   },
   {
    "surface": "சொல்லா",
    "parts": [
     {
-     "text": "சொல்லா",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "will not say"
+     "gloss": "speak"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
     }
    ],
-   "gloss": "will not say"
+   "gloss": "will not speak"
   },
   {
    "surface": "ரிழைத்துணர்ந்",
    "parts": [
     {
-     "text": "ரிழைத்து",
-     "lemma": "இழை",
-     "gloss": "having examined minutely"
+     "text": "ர்",
+     "lemma": "ர்",
+     "gloss": "pronominal suffix 'they'"
     },
     {
-     "text": "உணர்ந்",
-     "lemma": "உணர்",
-     "gloss": "having understood"
+     "text": "இழைத்துணர்ந்",
+     "lemma": "இழைத்துணர்தல்",
+     "gloss": "having subtly analyzed"
     }
    ],
-   "gloss": "having examined and understood"
+   "gloss": "they who have subtly analyzed"
   },
   {
    "surface": "தீண்டிய",
    "parts": [
     {
-     "text": "தீண்டிய",
-     "lemma": "ஈண்டு",
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi consonant"
+    },
+    {
+     "text": "ஈண்டிய",
+     "lemma": "ஈண்டுதல்",
      "gloss": "accumulated"
     }
    ],
@@ -77,27 +97,32 @@
     {
      "text": "கேள்வி",
      "lemma": "கேள்வி",
-     "gloss": "learning by hearing"
+     "gloss": "learning by listening"
     }
    ],
-   "gloss": "learning by hearing"
+   "gloss": "learning by listening"
   },
   {
    "surface": "யவர்",
    "parts": [
     {
-     "text": "யவர்",
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "glide consonant"
+    },
+    {
+     "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who"
     }
    ],
-   "gloss": "they (who have)"
+   "gloss": "those who possess"
   }
  ],
- "literal": "Having erred even if understood, foolishness they will not say, having examined minutely and understood, accumulated learning-by-hearing they.",
- "translation": "Even if they have misunderstood something by mistake, those who have accumulated learning through subtle examination and understanding will not speak foolish words.",
- "modern": "நுட்பமாக ஆராய்ந்து உணர்ந்து பெற்ற கேள்வியறிவை உடையவர்கள், ஒருவேளை தவறாகப் புரிந்து கொண்டிருந்தாலும், பேதைமையான சொற்களைச் சொல்ல மாட்டார்கள்.",
- "explanation": "This couplet highlights the maturity of those who have gained deep knowledge through attentive listening. The phrase 'இழைத்து உணர்ந்து ஈண்டிய கேள்வி' refers to learning that is accumulated by minutely examining and truly understanding what is heard. Because their foundation is so thorough, even if they happen to misunderstand a specific point ('பிழைத்து உணர்ந்தும்'), they will restrain themselves and not blurt out foolish or ignorant words ('பேதைமை சொல்லார்'). Their deep learning gives them the wisdom to avoid speaking rashly.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they mistakenly understand, foolishness will not speak they who have subtly analyzed and accumulated learning by listening.",
+ "translation": "Those who have acquired deep knowledge by listening and subtly analyzing things will never utter foolish words, even if they happen to misunderstand something.",
+ "modern": "நுட்பமாக ஆராய்ந்து திரட்டிய கேள்வி அறிவு உடையவர்கள், ஒருவேளை தவறாகப் புரிந்து கொண்டாலும், வாய்தவறியும் அறிவற்ற சொற்களைச் சொல்ல மாட்டார்கள்.",
+ "explanation": "This couplet highlights the profound impact of 'கேள்வி' (learning by listening to the wise). Those who have carefully analyzed and accumulated such knowledge possess a refined mind. Even if they occasionally misunderstand a concept ('பிழைத்துணர்ந்தும்'), their deep-rooted wisdom prevents them from speaking foolishly ('பேதைமை சொல்லார்'). The key words 'இழைத்துணர்ந்து' (subtly analyzing) and 'ஈண்டிய' (accumulated) emphasize that true listening is an active, deep process that safeguards one's speech from ignorance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

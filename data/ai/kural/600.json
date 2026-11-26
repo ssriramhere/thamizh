@@ -25,7 +25,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to one"
+   "gloss": "to a person"
   },
   {
    "surface": "உள்ள",
@@ -33,15 +33,15 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "mind/inside"
+     "gloss": "mind"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "adjectival suffix"
+     "gloss": "of"
     }
    ],
-   "gloss": "inner"
+   "gloss": "of the mind"
   },
   {
    "surface": "வெறுக்கை",
@@ -71,15 +71,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not-have"
+     "gloss": "not"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they who"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "மரம்",
@@ -98,10 +98,10 @@
     {
      "text": "மக்கள்",
      "lemma": "மக்கள்",
-     "gloss": "people"
+     "gloss": "humans"
     }
    ],
-   "gloss": "people"
+   "gloss": "humans"
   },
   {
    "surface": "ஆதலே",
@@ -117,7 +117,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "being indeed"
+   "gloss": "indeed being"
   },
   {
    "surface": "வேறு",
@@ -128,13 +128,13 @@
      "gloss": "different"
     }
    ],
-   "gloss": "difference"
+   "gloss": "different"
   }
  ],
- "literal": "Strength to one (is) inner wealth; that those-without (are) trees, being people indeed (is the) difference.",
- "translation": "A person's true strength is the inner wealth of motivation. Those who lack it are merely trees; their human form is the only difference.",
- "modern": "ஒருவருக்கு உண்மையான வலிமை என்பது அவரது மன ஊக்கமே ஆகும். அந்த ஊக்கம் இல்லாதவர்கள் மரங்களுக்கு ஒப்பானவர்கள்; அவர்கள் மனிதர்களாகக் காணப்படுவது மட்டுமே மரங்களுக்கும் அவர்களுக்கும் உள்ள வேறுபாடு.",
- "explanation": "This couplet defines true human strength as the inner wealth of motivation or energy. The word 'வெறுக்கை' means wealth or abundance, used here metaphorically to show that a driven mind is a person's greatest asset. Those who lack this inner drive are compared to trees. The poet states that the only difference between such people and trees is their physical human form, emphasizing that without enthusiasm, human life is merely vegetative.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Strength to a person is the wealth of the mind; those who lack that are trees, being different only in being called humans.",
+ "translation": "A person's true strength is the wealth of their mental energy; those who lack it are like trees, differing only in their human form.",
+ "modern": "ஒருவருக்கு உண்மையான வலிமை என்பது மன ஊக்கமாகிய செல்வமே ஆகும்; அது இல்லாதவர்கள் மனித வடிவம் பெற்றுள்ளார்கள் என்ற வேறுபாடு மட்டுமே கொண்ட மரங்கள் ஆவர்.",
+ "explanation": "This couplet defines true strength (uram) not as physical power, but as the wealth of inner drive and mental energy (uḷḷa veṟukkai). The poet compares those who lack this inner motivation to inanimate trees (maram). The only difference (vēṟu) between such passive individuals and trees is their outward human appearance (makkaḷ ātalē). Without the active, conscious energy of resolve, a human body is no better than a motionless wooden trunk.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

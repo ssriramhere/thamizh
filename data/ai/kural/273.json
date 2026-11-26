@@ -14,7 +14,7 @@
      "gloss": "without"
     }
    ],
-   "gloss": "without strength"
+   "gloss": "without strength of self-control"
   },
   {
    "surface": "நிலைமையான்",
@@ -22,7 +22,7 @@
     {
      "text": "நிலைமை",
      "lemma": "நிலைமை",
-     "gloss": "nature"
+     "gloss": "conduct or state"
     },
     {
      "text": "ஆன்",
@@ -30,7 +30,7 @@
      "gloss": "he who has"
     }
    ],
-   "gloss": "he of [such] nature"
+   "gloss": "he who has the state of mind"
   },
   {
    "surface": "வல்",
@@ -38,10 +38,10 @@
     {
      "text": "வல்",
      "lemma": "வல்",
-     "gloss": "strong"
+     "gloss": "strong or severe"
     }
    ],
-   "gloss": "strong"
+   "gloss": "strong or severe"
   },
   {
    "surface": "உருவம்",
@@ -49,10 +49,10 @@
     {
      "text": "உருவம்",
      "lemma": "உருவம்",
-     "gloss": "appearance"
+     "gloss": "guise or appearance"
     }
    ],
-   "gloss": "appearance"
+   "gloss": "guise or appearance"
   },
   {
    "surface": "பெற்றம்",
@@ -79,7 +79,7 @@
      "gloss": "of"
     }
    ],
-   "gloss": "of tiger"
+   "gloss": "tiger's"
   },
   {
    "surface": "தோல்",
@@ -87,7 +87,7 @@
     {
      "text": "தோல்",
      "lemma": "தோல்",
-     "gloss": "skin"
+     "gloss": "skin or hide"
     }
    ],
    "gloss": "skin"
@@ -97,18 +97,18 @@
    "parts": [
     {
      "text": "போர்த்து",
-     "lemma": "போர்",
-     "gloss": "having covered"
+     "lemma": "போர்த்து",
+     "gloss": "having wrapped or covered"
     }
    ],
-   "gloss": "having covered"
+   "gloss": "having wrapped"
   },
   {
    "surface": "மேய்ந்து",
    "parts": [
     {
      "text": "மேய்ந்து",
-     "lemma": "மேய்",
+     "lemma": "மேய்ந்து",
      "gloss": "having grazed"
     }
    ],
@@ -120,16 +120,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Without strength, he of [such] nature [taking a] strong appearance, [is like a] cow, of tiger skin having covered, having grazed, like that.",
- "translation": "A man of weak nature taking on a mighty ascetic appearance is like a cow grazing while covered in a tiger's skin.",
- "modern": "மன அடக்கம் இல்லாதவன் துறவிக்குரிய வலிமையான தோற்றத்தைக் கொண்டிருப்பது, ஒரு பசு புலியின் தோலைப் போர்த்திக்கொண்டு பயிரை மேய்ந்ததைப் போன்றது.",
- "explanation": "This couplet uses a striking simile to expose the hypocrisy of false ascetics. A person who lacks the inner strength to control their senses but wears the impressive garb of a renunciant is compared to a cow wearing a tiger's skin. Just as the cow uses the terrifying disguise of a tiger to graze safely on others' crops without being chased away, the false ascetic uses the respected appearance of a holy man to indulge in worldly pleasures without being questioned. The contrast between the weak nature ('வலியில் நிலைமையான்') and the strong appearance ('வல்லுருவம்') perfectly mirrors the harmless cow hiding beneath the fierce tiger's skin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A person who has a state of being without strength of self-control, adopting a severe guise, is like a cow grazing after wrapping itself in a tiger's skin.",
+ "translation": "The severe ascetic guise assumed by a man who lacks the strength of self-control is like a cow grazing on crops while wrapped in a tiger's skin.",
+ "modern": "மனவலிமை இல்லாத ஒருவன் தவக்கோலம் பூண்டு ஒழுக்கமற்று வாழ்வது, ஒரு பசு மாடு புலியின் தோலைப் போர்த்திக் கொண்டு பயிரை மேய்வதைப் போன்றது ஆகும்.",
+ "explanation": "This couplet uses a vivid simile to expose the hypocrisy of those who pretend to be ascetics but lack inner self-control. The poet compares a person without mental strength who puts on a powerful ascetic appearance to a cow that covers itself with a tiger's skin to graze on crops. Just as the cow uses the tiger's skin to scare away the farmers so it can feed on their fields without being stopped, the hypocritical ascetic uses the respected garb of renunciation to indulge in forbidden desires without being questioned. Ultimately, both the cow's disguise and the false ascetic's guise are deceptive covers for their true, weak natures.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

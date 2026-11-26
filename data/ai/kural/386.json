@@ -6,15 +6,15 @@
     {
      "text": "காட்சி",
      "lemma": "காட்சி",
-     "gloss": "sight"
+     "gloss": "sight/access"
     },
     {
-     "text": "க்கு",
+     "text": "கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to sight"
+   "gloss": "to accessibility"
   },
   {
    "surface": "எளியன்",
@@ -22,26 +22,26 @@
     {
      "text": "எளியன்",
      "lemma": "எளியன்",
-     "gloss": "easy man"
+     "gloss": "one who is easy of access"
     }
    ],
-   "gloss": "easy man"
+   "gloss": "one who is easy of access"
   },
   {
    "surface": "கடுஞ்சொல்லன்",
    "parts": [
     {
-     "text": "கடுஞ்",
+     "text": "கடும்",
      "lemma": "கடுமை",
      "gloss": "harsh"
     },
     {
      "text": "சொல்லன்",
      "lemma": "சொல்லன்",
-     "gloss": "worded man"
+     "gloss": "one of words"
     }
    ],
-   "gloss": "harsh-worded man"
+   "gloss": "one who speaks harsh words"
   },
   {
    "surface": "அல்லனேல்",
@@ -49,7 +49,7 @@
     {
      "text": "அல்லன்",
      "lemma": "அல்",
-     "gloss": "is not he"
+     "gloss": "not being so"
     },
     {
      "text": "ஏல்",
@@ -63,14 +63,14 @@
    "surface": "மீக்கூறும்",
    "parts": [
     {
-     "text": "மீக்",
+     "text": "மீ",
      "lemma": "மீ",
-     "gloss": "high"
+     "gloss": "high/above"
     },
     {
      "text": "கூறும்",
      "lemma": "கூறு",
-     "gloss": "will speak"
+     "gloss": "will praise"
     }
    ],
    "gloss": "will highly praise"
@@ -92,16 +92,16 @@
     {
      "text": "நிலம்",
      "lemma": "நிலம்",
-     "gloss": "land"
+     "gloss": "land/earth"
     }
    ],
-   "gloss": "land"
+   "gloss": "the land"
   }
  ],
- "literal": "To sight easy man, harsh-worded man if he is not, will highly praise king land.",
- "translation": "If a king is easy to access and free from harsh words, the world will highly praise his land.",
- "modern": "காண்பதற்கு எளிமையானவனாகவும், கடுமையான சொற்களைப் பேசாதவனாகவும் ஒரு மன்னன் இருந்தால், அவனது நாட்டை உலகம் மிகவும் புகழ்ந்து பேசும்.",
- "explanation": "This couplet defines two essential qualities of a great ruler: accessibility and gentle speech. The phrase 'காட்சிக்கு எளியன்' means the king is easy to approach and does not isolate himself from his people. The phrase 'கடுஞ்சொல்லன் அல்லனேல்' means he does not use harsh or abusive words. When a ruler possesses these two virtues, the entire world will look up to and highly praise his land.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To sight easy, harsh-worded if he is not, highly praise will the king's land.",
+ "translation": "If a king is easy of access and not harsh in speech, the world will highly praise his land.",
+ "modern": "காண்பதற்கு எளியவனாகவும், கடுமையான சொற்களைப் பேசாதவனாகவும் ஒரு அரசன் இருந்தால், அவனது நாட்டை உலகத்தார் உயர்த்திப் பேசுவார்கள்.",
+ "explanation": "This couplet highlights two key qualities of an ideal ruler: accessibility and gentle communication. A leader must be easy for anyone to approach and meet without fear. Additionally, they must refrain from using harsh or offensive language when speaking to others. If a king rules with these qualities, the people of the world will highly praise and extol his land.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

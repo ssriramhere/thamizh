@@ -9,7 +9,7 @@
      "gloss": "good"
     }
    ],
-   "gloss": "good / true"
+   "gloss": "good"
   },
   {
    "surface": "ஆண்மை",
@@ -17,21 +17,26 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "capability"
+     "gloss": "manliness"
     }
    ],
-   "gloss": "capability / manliness"
+   "gloss": "manliness or noble effort"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
-     "text": "என்பது",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "that which is called"
+     "gloss": "say"
+    },
+    {
+     "text": "பது",
+     "lemma": "பது",
+     "gloss": "that which is"
     }
    ],
-   "gloss": "that which is called"
+   "gloss": "is said to be"
   },
   {
    "surface": "ஒருவற்கு",
@@ -80,7 +85,7 @@
      "gloss": "house"
     }
    ],
-   "gloss": "family / house"
+   "gloss": "family or house"
   },
   {
    "surface": "ஆண்மை",
@@ -88,10 +93,10 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "leadership"
+     "gloss": "management"
     }
    ],
-   "gloss": "leadership / governance"
+   "gloss": "leadership or dignity"
   },
   {
    "surface": "ஆக்கி",
@@ -102,7 +107,7 @@
      "gloss": "having made"
     }
    ],
-   "gloss": "having made"
+   "gloss": "having established"
   },
   {
    "surface": "கொளல்",
@@ -113,13 +118,13 @@
      "gloss": "taking"
     }
    ],
-   "gloss": "taking / assuming"
+   "gloss": "achieving or adopting"
   }
  ],
- "literal": "Good capability that which is called to a person oneself born family leadership having made taking.",
- "translation": "True capability for a person consists in taking charge of the family into which they were born and making it prosper.",
- "modern": "ஒருவருக்கு உண்மையான ஆற்றல் என்பது, தான் பிறந்த குடும்பத்தின் பொறுப்பைத் தானே ஏற்று அதனை உயர்த்துவதாகும்.",
- "explanation": "This couplet redefines true capability or 'manliness' (ஆண்மை) as the willingness to take responsibility for one's family. The word 'ஆண்மை' appears twice: first meaning general capability or virtue, and second meaning the governance or leadership of the household. By using the phrase 'ஆக்கிக் கொளல்' (assuming or making it one's own), the text emphasizes actively taking charge. Therefore, uplifting the family one is born into is presented as the highest form of personal strength.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Good manliness is, for a person, making the dignity of the family they were born in, and taking it upon themselves.",
+ "translation": "True manliness for a person consists in taking upon themselves the responsibility to elevate and lead the family in which they were born.",
+ "modern": "ஒருவனுக்குச் சிறந்த ஆண்மை என்பது, தான் பிறந்த குடும்பத்தை ஆளும் பொறுப்பை ஏற்று அதை மேம்படுத்துவதாகும்.",
+ "explanation": "The couplet defines true manliness or noble effort (நல்லாண்மை) not as mere physical strength or individual success, but as the dedication to uplift one's own family. The word 'ஆண்மை' (manliness/strength) is used twice: first as 'நல்லாண்மை' (true/noble effort) and then as 'இல்லாண்மை' (family leadership/management). The poet explains that a person's ultimate strength is demonstrated when they take charge of their family's welfare and elevate its status. This active responsibility (ஆக்கிக் கொளல்) is what constitutes genuine dignity and duty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

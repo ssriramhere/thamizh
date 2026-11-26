@@ -11,7 +11,7 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to/for"
+     "gloss": "to"
     },
     {
      "text": "உம்",
@@ -19,7 +19,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "for greatness and"
+   "gloss": "and to greatness"
   },
   {
    "surface": "ஏனை",
@@ -38,12 +38,12 @@
     {
      "text": "சிறுமை",
      "lemma": "சிறுமை",
-     "gloss": "smallness"
+     "gloss": "lowliness"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to/for"
+     "gloss": "to"
     },
     {
      "text": "உம்",
@@ -51,7 +51,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "for smallness and"
+   "gloss": "and to lowliness"
   },
   {
    "surface": "தத்தம்",
@@ -70,7 +70,7 @@
     {
      "text": "கருமம்",
      "lemma": "கருமம்",
-     "gloss": "deed"
+     "gloss": "action"
     },
     {
      "text": "ஏ",
@@ -78,7 +78,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "deeds indeed"
+   "gloss": "indeed the actions"
   },
   {
    "surface": "கட்டளை",
@@ -103,10 +103,10 @@
    "gloss": "stone"
   }
  ],
- "literal": "For greatness and other smallness, their respective deeds indeed are the touchstone.",
- "translation": "A person's own deeds are the touchstone that tests their greatness and their smallness.",
- "modern": "ஒருவரின் பெருமைக்கும் சிறுமைக்கும் உரைகல்லாக அமைவது அவரவர் செய்யும் செயல்களே ஆகும்.",
- "explanation": "This couplet explains how to judge a person's true worth. It uses the metaphor of a touchstone, which is a dark stone used to test the purity of gold. Just as the stone reveals the quality of the metal, a person's own actions reveal whether they are great or small. Therefore, one should evaluate others based entirely on what they do.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For greatness and the other, lowliness, their respective action indeed is the touchstone.",
+ "translation": "A person's own deeds are the touchstone that measures both their greatness and their lowliness.",
+ "modern": "ஒருவருடைய பெருமைக்கும் மற்றதான சிறுமைக்கும் அவரவர் செய்யும் செயல்களே உரைகல்லாகும்.",
+ "explanation": "This couplet explains how to evaluate a person's true character and worth. The poet uses the metaphor of a touchstone, which is a stone used to test the purity of gold. A person's own actions serve as this touchstone, revealing whether they possess true greatness or lowliness. Rather than relying on birth, words, or appearance, one must look at a person's deeds to judge their true value.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,12 +4,17 @@
    "surface": "எழுதும்",
    "parts": [
     {
-     "text": "எழுதும்",
+     "text": "எழுது",
      "lemma": "எழுது",
-     "gloss": "painting"
+     "gloss": "to paint or apply collyrium"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "painting"
+   "gloss": "painting or applying"
   },
   {
    "surface": "கால்",
@@ -17,10 +22,10 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "time or when"
     }
    ],
-   "gloss": "time"
+   "gloss": "when"
   },
   {
    "surface": "கோல்",
@@ -28,10 +33,10 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "stick"
+     "gloss": "painting rod or stylus"
     }
    ],
-   "gloss": "stick"
+   "gloss": "the painting rod"
   },
   {
    "surface": "காணா",
@@ -55,10 +60,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphatic particle"
     }
    ],
-   "gloss": "eye itself"
+   "gloss": "the eyes indeed"
   },
   {
    "surface": "போல்",
@@ -66,7 +71,7 @@
     {
      "text": "போல்",
      "lemma": "போல்",
-     "gloss": "like"
+     "gloss": "like or resembling"
     }
    ],
    "gloss": "like"
@@ -77,10 +82,10 @@
     {
      "text": "கொண்கன்",
      "lemma": "கொண்கன்",
-     "gloss": "lover"
+     "gloss": "husband or lover"
     }
    ],
-   "gloss": "lover's"
+   "gloss": "husband"
   },
   {
    "surface": "பழி",
@@ -88,10 +93,10 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "fault"
+     "gloss": "faults or blame"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults"
   },
   {
    "surface": "காணேன்",
@@ -99,10 +104,10 @@
     {
      "text": "காணேன்",
      "lemma": "காண்",
-     "gloss": "I see not"
+     "gloss": "I do not see"
     }
    ],
-   "gloss": "I see not"
+   "gloss": "I do not see"
   },
   {
    "surface": "கண்ட",
@@ -110,10 +115,10 @@
     {
      "text": "கண்ட",
      "lemma": "காண்",
-     "gloss": "seen"
+     "gloss": "that saw or when seeing"
     }
    ],
-   "gloss": "seen"
+   "gloss": "when seeing"
   },
   {
    "surface": "இடத்து",
@@ -121,16 +126,16 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "at the time"
+     "gloss": "at the time or place"
     }
    ],
    "gloss": "at the time"
   }
  ],
- "literal": "Painting time stick not-seeing eye-itself like lover's fault I-see-not seen time.",
- "translation": "Like the eye that cannot see the kohl-stick when being painted, I cannot see my lover's faults when I look at him.",
- "modern": "கண்ணுக்கு மை தீட்டும்போது அந்த மைத்தீட்டும் குச்சியை கண் பார்க்க முடியாதது போல, என் தலைவனை நான் நேரில் பார்க்கும் போது அவனுடைய தவறுகளை என்னால் காண முடிவதில்லை.",
- "explanation": "The speaker compares her inability to stay angry at her lover to an eye being painted with kohl. Just as the eye cannot see the stick applying the makeup because it is too close, she cannot see her lover's faults when he is right in front of her. She only remembers his flaws and feels angry when he is away, but his presence blinds her to everything except her love for him.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When painting, like the eyes indeed that do not see the painting rod, I do not see the faults of my husband when I see him.",
+ "translation": "Just like the eyes that cannot see the painting-rod while collyrium is being applied to them, I cannot see any of my husband's faults when he is before me.",
+ "modern": "கண்களுக்கு மை தீட்டும்போது அந்த மையைத் தீட்டும் கோலைத் தன் கண்கள் காணாதது போல, என் கணவனை நான் நேரில் காணும்போது அவனுடைய தவறுகள் எதையும் நான் காண்பதில்லை.",
+ "explanation": "In this couplet, the heroine describes her inability to hold a grudge or remember her husband's faults once he is in her presence. She compares this to the act of applying collyrium to the eyes. When the painting-rod ('kōl') comes extremely close to the eyes to beautify them, the eyes themselves cannot see the rod. Similarly, when her beloved husband ('koṇkaṉ') is close to her, his physical presence and love completely overwhelm her, making it impossible for her to see or remember any of his flaws ('paḻi') that she had previously intended to confront him about.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

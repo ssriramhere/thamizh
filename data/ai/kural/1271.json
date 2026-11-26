@@ -4,22 +4,12 @@
    "surface": "கரப்பினும்",
    "parts": [
     {
-     "text": "கர",
-     "lemma": "கர",
-     "gloss": "to hide"
-    },
-    {
-     "text": "ப்பின்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "கரப்பினும்",
+     "lemma": "கரத்தல்",
+     "gloss": "even if concealing"
     }
    ],
-   "gloss": "even if hidden"
+   "gloss": "even if you conceal"
   },
   {
    "surface": "கை",
@@ -27,57 +17,32 @@
     {
      "text": "கை",
      "lemma": "கை",
-     "gloss": "control"
+     "gloss": "limit"
     }
    ],
-   "gloss": "control"
+   "gloss": "limit"
   },
   {
    "surface": "இகந்து",
    "parts": [
     {
-     "text": "இக",
-     "lemma": "இக",
-     "gloss": "to exceed"
-    },
-    {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial suffix"
+     "text": "இகந்து",
+     "lemma": "இகத்தல்",
+     "gloss": "having transgressed"
     }
    ],
-   "gloss": "having exceeded"
+   "gloss": "having gone beyond"
   },
   {
    "surface": "ஒல்லா",
    "parts": [
     {
-     "text": "ஒல்",
-     "lemma": "ஒல்",
-     "gloss": "to agree"
-    },
-    {
-     "text": "ல்",
-     "lemma": "ல்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "ஒல்லா",
+     "lemma": "ஒல்லுதல்",
+     "gloss": "not complying"
     }
    ],
-   "gloss": "not agreeing"
+   "gloss": "refusing to cooperate"
   },
   {
    "surface": "நின்",
@@ -96,7 +61,7 @@
     {
      "text": "உண்",
      "lemma": "உண்",
-     "gloss": "to absorb (collyrium)"
+     "gloss": "kohl-dyed"
     },
     {
      "text": "கண்",
@@ -104,49 +69,29 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "painted eyes"
+   "gloss": "kohl-dyed eyes"
   },
   {
    "surface": "உரைக்கல்",
    "parts": [
     {
-     "text": "உரை",
-     "lemma": "உரை",
-     "gloss": "to tell"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "கல்",
-     "lemma": "கல்",
-     "gloss": "verbal noun suffix"
+     "text": "உரைக்கல்",
+     "lemma": "உரைத்தல்",
+     "gloss": "to speak"
     }
    ],
-   "gloss": "telling"
+   "gloss": "to speak"
   },
   {
    "surface": "உறுவது",
    "parts": [
     {
-     "text": "உறு",
-     "lemma": "உறு",
-     "gloss": "to be about to"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "text": "உறுவது",
+     "lemma": "உறுதல்",
+     "gloss": "that which is intended"
     }
    ],
-   "gloss": "that which is about to"
+   "gloss": "that which they intend"
   },
   {
    "surface": "ஒன்று",
@@ -164,17 +109,17 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "there is"
     }
    ],
    "gloss": "there is"
   }
  ],
- "literal": "Even if hidden, crossing control and not agreeing (to be contained), your painted eyes have one thing that is about to be told.",
- "translation": "Even if you try to hide it, your painted eyes exceed your control, refuse to be contained, and have something they are about to tell.",
- "modern": "நீ உன் காதலை மறைத்தாலும், உன் மை தீட்டிய கண்கள் உன் கட்டுப்பாட்டை மீறி அடங்காமல் ஏதோ ஒன்றைச் சொல்ல முற்படுகின்றன.",
- "explanation": "The lover observes that the lady is trying to conceal her feelings, but her eyes betray her. The word 'கை' here means control or bounds, and 'இகந்து' means exceeding; together they show her eyes are beyond her control. 'ஒல்லா' indicates that her eyes refuse to agree with her attempt to hide, clearly showing they have a message they are about to reveal ('உரைக்கல் உறுவது ஒன்று உண்டு').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if you conceal, transgressing the limit and refusing to cooperate, your kohl-dyed eyes, to speak, that which they intend, one thing, there is.",
+ "translation": "Even if you try to hide your feelings, going beyond all limits of self-control and refusing to cooperate, there is something that your kohl-dyed eyes are trying to say.",
+ "modern": "நீ மறைக்க முயன்றாலும், எல்லை கடந்து உனக்கு அடங்காமல், உன்னுடைய மை தீட்டிய கண்கள் சொல்ல விரும்பும் செய்தி ஒன்று இருக்கிறது.",
+ "explanation": "In this couplet, the speaker observes that the lady is trying hard to conceal her inner feelings of love or longing. However, her beautiful, kohl-dyed eyes ('உண்கண்') refuse to cooperate with her attempt at secrecy. They have transgressed the limits of her self-control ('கை இகந்து ஒல்லா') and are visibly eager to reveal the truth. The speaker gently points out that there is indeed a message ('உரைக்கல் உறுவது ஒன்று உண்டு') written clearly in her gaze.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,17 +11,17 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "wife (acc.)"
+   "gloss": "the wife"
   },
   {
    "surface": "அஞ்சுவான்",
    "parts": [
     {
      "text": "அஞ்சுவான்",
-     "lemma": "அஞ்சு",
+     "lemma": "அஞ்சுதல்",
      "gloss": "he who fears"
     }
    ],
@@ -47,7 +47,7 @@
      "gloss": "always"
     }
    ],
-   "gloss": "always"
+   "gloss": "at all times"
   },
   {
    "surface": "நல்லார்க்கு",
@@ -60,21 +60,21 @@
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "dative case marker"
     }
    ],
-   "gloss": "to the good people"
+   "gloss": "to good people"
   },
   {
    "surface": "நல்ல",
    "parts": [
     {
      "text": "நல்ல",
-     "lemma": "நன்மை",
-     "gloss": "good things"
+     "lemma": "நல்ல",
+     "gloss": "good"
     }
    ],
-   "gloss": "good things"
+   "gloss": "good"
   },
   {
    "surface": "செயல்",
@@ -82,16 +82,16 @@
     {
      "text": "செயல்",
      "lemma": "செயல்",
-     "gloss": "to do"
+     "gloss": "doing"
     }
    ],
-   "gloss": "to do"
+   "gloss": "deeds"
   }
  ],
- "literal": "Wife (acc.) he who fears, will fear indeed always, to good people good things to do.",
- "translation": "He who fears his wife will always be afraid to do good deeds for good people.",
- "modern": "தன் மனைவிக்கு அஞ்சுகின்றவன், நல்லவர்களுக்கு நல்ல செயல்களைச் செய்வதற்கும் எப்போதும் அஞ்சுவான்.",
- "explanation": "This couplet explains that a man who is overly afraid of his wife will lack the courage to perform virtuous deeds. 'இல்லாளை அஞ்சுவான்' refers to a husband who lives in constant fear of his wife's displeasure. Because his actions are entirely dictated by this fear, he 'அஞ்சும்' (will fear) to do 'நல்ல' (good things) for 'நல்லார்க்கு' (good people) at all times ('எஞ்ஞான்றும்'). Thus, his submissiveness prevents him from fulfilling his moral and social duties.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who fears his wife will indeed fear, at all times, doing good deeds to good people.",
+ "translation": "He who stands in fear of his wife will always shrink from performing noble deeds for virtuous people.",
+ "modern": "தன் மனைவிக்கு அஞ்சி வாழ்பவன், நல்லவர்களுக்கு நல்ல உதவிகளைச் செய்வதற்கு எப்போதும் பயப்படுவான்.",
+ "explanation": "This couplet explains how domestic submissiveness destroys a man's social and moral agency. A man who is dominated by and fears his wife (இல்லாளை அஞ்சுவான்) loses his independence to act righteously. Consequently, he will always hesitate and fear (அஞ்சும்) to perform charitable or noble deeds (நல்ல செயல்) for worthy, good people (நல்லார்க்கு). The particle 'மற்று' emphasizes the certainty of this moral paralysis.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

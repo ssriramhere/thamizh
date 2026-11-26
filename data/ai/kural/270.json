@@ -4,33 +4,23 @@
    "surface": "இலர்",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இலர்",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "those who have not"
     }
    ],
-   "gloss": "the destitute"
+   "gloss": "the destitute / those who have not"
   },
   {
    "surface": "பலர்",
    "parts": [
     {
-     "text": "பல்",
-     "lemma": "பல்",
-     "gloss": "many"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "பலர்",
+     "lemma": "பலர்",
+     "gloss": "many people"
     }
    ],
-   "gloss": "are many"
+   "gloss": "many people"
   },
   {
    "surface": "ஆகிய",
@@ -41,12 +31,17 @@
      "gloss": "to become"
     },
     {
-     "text": "இய",
-     "lemma": "இய",
-     "gloss": "that-became"
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "being"
+   "gloss": "that became / being"
   },
   {
    "surface": "காரணம்",
@@ -65,52 +60,42 @@
     {
      "text": "நோல்",
      "lemma": "நோல்",
-     "gloss": "to do penance"
+     "gloss": "to perform penance"
     },
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "(future tense marker)"
+     "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those who do penance"
+   "gloss": "those who perform penance"
   },
   {
    "surface": "சிலர்",
    "parts": [
     {
-     "text": "சில்",
-     "lemma": "சில்",
-     "gloss": "few"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "சிலர்",
+     "lemma": "சிலர்",
+     "gloss": "few people"
     }
    ],
-   "gloss": "are few"
+   "gloss": "few people"
   },
   {
    "surface": "பலர்",
    "parts": [
     {
-     "text": "பல்",
-     "lemma": "பல்",
-     "gloss": "many"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "பலர்",
+     "lemma": "பலர்",
+     "gloss": "many people"
     }
    ],
-   "gloss": "many"
+   "gloss": "many people"
   },
   {
    "surface": "நோலாதவர்",
@@ -118,7 +103,7 @@
     {
      "text": "நோல்",
      "lemma": "நோல்",
-     "gloss": "to do penance"
+     "gloss": "to perform penance"
     },
     {
      "text": "ஆதவர்",
@@ -126,13 +111,13 @@
      "gloss": "those who do not"
     }
    ],
-   "gloss": "those who do not do penance"
+   "gloss": "those who do not perform penance"
   }
  ],
- "literal": "The destitute are many, the reason being: those who do penance are few, many are those who do not do penance.",
- "translation": "The reason there are so many destitute people is that those who practice penance are few, while those who do not are many.",
- "modern": "உலகில் வறியவர்கள் பலராக இருப்பதற்குக் காரணம், தவம் செய்பவர்கள் சிலராகவும், தவம் செய்யாதவர்கள் பலராகவும் இருப்பதுதான்.",
- "explanation": "This couplet draws a direct link between the practice of penance and prosperity. It observes that the world is filled with people who lack what they need ('ilar'). The reason given for this widespread destitution is a simple imbalance: very few people undertake the discipline of penance ('nōṟpār'), while the vast majority avoid it ('nōlātavar'). The root word 'nōl' means to endure or practice austerities, suggesting that the rewards of life require a discipline that most people are unwilling to cultivate.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The reason why those who have not are many is that those who perform penance are few, and those who do not perform penance are many.",
+ "translation": "The reason why the destitute are so numerous in this world is that those who practice self-discipline are very few, while those who do not are many.",
+ "modern": "உலகில் வறியவர்கள் பலராக இருப்பதற்குக் காரணம், தவம் (சுயகட்டுப்பாடு) மேற்கொள்பவர்கள் சிலராகவும், அதனை மேற்கொள்ளாதவர்கள் பலராகவும் இருப்பதே ஆகும்.",
+ "explanation": "This couplet explains the disparity in human achievement and well-being through the lens of self-discipline or penance (tavam). The poet states that the reason why there are so many 'have-nots' (ilar) in the world is directly linked to a lack of effort and self-restraint. Those who undergo the rigorous practice of penance (nōṟpār) are very few, whereas those who avoid such discipline (nōlātavar) make up the vast majority. By equating the lack of penance with being a 'have-not', the couplet emphasizes that true wealth, power, and success are the fruits of sustained self-discipline and endurance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "உடையார்",
      "lemma": "உடையார்",
-     "gloss": "those who possess"
+     "gloss": "those who possess wealth"
     }
    ],
-   "gloss": "the wealthy"
+   "gloss": "those who possess wealth"
   },
   {
    "surface": "முன்",
@@ -28,10 +28,10 @@
     {
      "text": "இல்லார்",
      "lemma": "இல்லார்",
-     "gloss": "those who do not have"
+     "gloss": "those who have nothing"
     }
    ],
-   "gloss": "the destitute"
+   "gloss": "those who have nothing"
   },
   {
    "surface": "போல்",
@@ -50,7 +50,7 @@
     {
      "text": "ஏக்கற்று",
      "lemma": "ஏக்கறு",
-     "gloss": "having humbled oneself"
+     "gloss": "having stood in eager humility"
     },
     {
      "text": "உம்",
@@ -58,18 +58,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having humbled oneself"
+   "gloss": "even standing in eager humility"
   },
   {
    "surface": "கற்றார்",
    "parts": [
     {
      "text": "கற்றார்",
-     "lemma": "கல்",
-     "gloss": "those who have learned"
+     "lemma": "கற்றார்",
+     "gloss": "those who learned"
     }
    ],
-   "gloss": "the learned"
+   "gloss": "those who have learned"
   },
   {
    "surface": "கடையரே",
@@ -85,24 +85,24 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "the lowest indeed"
+   "gloss": "are indeed the lowest"
   },
   {
    "surface": "கல்லாதவர்",
    "parts": [
     {
      "text": "கல்லாதவர்",
-     "lemma": "கல்",
+     "lemma": "கல்லாதவர்",
      "gloss": "those who have not learned"
     }
    ],
-   "gloss": "the unlearned"
+   "gloss": "those who have not learned"
   }
  ],
- "literal": "Those-who-possess before, those-who-do-not-have like, even-having-humbled-oneself those-who-learned; the-lowest-indeed those-who-learned-not.",
- "translation": "The learned acquire knowledge by humbling themselves, just as the destitute stand before the wealthy. Those who do not learn are the lowest of all.",
- "modern": "செல்வர்கள் முன் ஏழைகள் பணிந்து நிற்பது போல, ஆசிரியரிடம் பணிந்து கற்பவர்களே உயர்ந்தவர்கள். அவ்வாறு கற்காதவர்கள் மிகவும் தாழ்ந்தவர்கள் ஆவர்.",
- "explanation": "This couplet contrasts the learned with the unlearned using a powerful social comparison. It compares a student seeking knowledge to a poor person standing humbly before a wealthy person. Those who are willing to humble themselves and yearn for knowledge become the learned and attain greatness. In contrast, those who refuse to humble themselves and remain unlearned are considered the lowest of people.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like those who have nothing before those who possess, even standing in eager humility, those who learned; the lowest indeed are those who have not learned.",
+ "translation": "Those who acquire learning by standing in eager humility before their teacher, like the destitute standing before the wealthy, are the truly learned; those who do not learn thus are indeed the lowest.",
+ "modern": "செல்வம் உடையவர்களின் முன் வறியவர்கள் இரந்து நிற்பது போல, பணிந்து நின்று ஏங்கித் தவித்துக் கற்றவர்களே சிறந்தவர்கள்; அவ்வாறு செய்ய நாணி கல்லாதவர் எக்காலத்திலும் கடைப்பட்டவரே ஆவர்.",
+ "explanation": "This couplet highlights the necessity of humility in the pursuit of knowledge. The poet compares a student seeking knowledge to a poor person standing expectantly before a wealthy benefactor. Those who are willing to humble themselves and show an eager desire to learn are the ones who become truly educated. Conversely, those who are too proud to adopt this humble posture of learning remain ignorant and are deemed the lowest in society.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

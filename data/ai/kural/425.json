@@ -9,19 +9,19 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "தழீஇயது",
    "parts": [
     {
-     "text": "தழீஇ",
+     "text": "தழீஇய",
      "lemma": "தழுவு",
      "gloss": "embracing"
     },
     {
-     "text": "அது",
-     "lemma": "அது",
+     "text": "து",
+     "lemma": "து",
      "gloss": "that which"
     }
    ],
@@ -36,15 +36,15 @@
      "gloss": "wisdom"
     }
    ],
-   "gloss": "wisdom"
+   "gloss": "wisdom or mental clarity"
   },
   {
    "surface": "மலர்தலும்",
    "parts": [
     {
      "text": "மலர்தல்",
-     "lemma": "மலர்",
-     "gloss": "blooming"
+     "lemma": "மலர்தல்",
+     "gloss": "expanding"
     },
     {
      "text": "உம்",
@@ -52,15 +52,15 @@
      "gloss": "and"
     }
    ],
-   "gloss": "blooming and"
+   "gloss": "both expanding (elation)"
   },
   {
    "surface": "கூம்பலும்",
    "parts": [
     {
      "text": "கூம்பல்",
-     "lemma": "கூம்பு",
-     "gloss": "closing"
+     "lemma": "கூம்பல்",
+     "gloss": "contracting"
     },
     {
      "text": "உம்",
@@ -68,20 +68,15 @@
      "gloss": "and"
     }
    ],
-   "gloss": "closing and"
+   "gloss": "and contracting (depression)"
   },
   {
    "surface": "இல்லது",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல்லது",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which is"
+     "gloss": "that which is without"
     }
    ],
    "gloss": "that which is without"
@@ -92,16 +87,16 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     }
    ],
-   "gloss": "knowledge"
+   "gloss": "true wisdom"
   }
  ],
- "literal": "The world that which embraces [is] wisdom; blooming and closing that which is without [is] knowledge.",
- "translation": "Wisdom is that which embraces the world. True knowledge is that which neither blooms nor closes.",
- "modern": "உலகத்தாரோடு பொருந்தி வாழ்வதே சிறந்த மதிநுட்பமாகும். மகிழ்ச்சியால் விரிவதும் துன்பத்தால் சுருங்குவதும் இல்லாத மனநிலையே உண்மையான அறிவாகும்.",
- "explanation": "This couplet defines two aspects of the intellect: practical wisdom and true knowledge. Wisdom (ஒட்பம்) is the ability to embrace the world, meaning to adapt and live in harmony with others. Knowledge (அறிவு) is described through the metaphor of a flower that neither blooms nor closes. This signifies a state of equanimity, where the mind neither expands with pride and joy nor shrinks with fear and sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To embrace the world is wisdom; that which has neither expanding nor contracting is true wisdom.",
+ "translation": "To live in harmony with the world is wisdom; true wisdom is to remain equanimous, free from both elation and depression.",
+ "modern": "உலகத்தோடு பொருந்தி வாழ்வதே சிறந்த அறிவாகும்; இன்ப துன்பங்களால் மன விரிவோ அல்லது மனச் சுருக்கமோ அடையாமல் சமமாக இருப்பதே உண்மையான அறிவாகும்.",
+ "explanation": "This couplet defines wisdom through two key concepts: harmony and equanimity. First, 'ஒட்பம்' (mental clarity) is shown as 'உலகம் தழீஇயது', which means embracing and living in harmony with the people of the world. Second, true 'அறிவு' (wisdom) is described as having neither 'மலர்தல்' (expanding or blooming with joy/elation) nor 'கூம்பல்' (contracting or closing with grief/depression). A truly wise person maintains a steady, balanced mind regardless of changing fortunes.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

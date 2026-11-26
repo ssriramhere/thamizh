@@ -4,17 +4,13 @@
    "surface": "கண்ணிறைந்த",
    "parts": [
     {
-     "text": "கண்",
-     "lemma": "கண்",
-     "gloss": "eye"
-    },
-    {
-     "text": "ணிறைந்த",
-     "lemma": "நிறை",
-     "gloss": "filled"
+     "text": "கண்ணிறைந்த",
+     "lemma": "கண்ணிறைந்த",
+     "gloss": "eye-filling"
     }
    ],
-   "gloss": "eye-filling"
+   "gloss": "eye-filling",
+   "split_unverified": true
   },
   {
    "surface": "காரிகைக்",
@@ -27,26 +23,22 @@
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "increment"
     }
    ],
-   "gloss": "beauty"
+   "gloss": "of the beauty"
   },
   {
    "surface": "காம்பேர்தோட்",
    "parts": [
     {
-     "text": "காம்பேர்",
-     "lemma": "காம்பேர்",
-     "gloss": "bamboo-resembling"
-    },
-    {
-     "text": "தோட்",
-     "lemma": "தோள்",
-     "gloss": "shoulder"
+     "text": "காம்பேர்தோட்",
+     "lemma": "காம்பேர்தோட்",
+     "gloss": "bamboo-like shoulders"
     }
    ],
-   "gloss": "bamboo-resembling shoulders"
+   "gloss": "bamboo-like shoulders",
+   "split_unverified": true
   },
   {
    "surface": "பேதைக்குப்",
@@ -54,15 +46,20 @@
     {
      "text": "பேதை",
      "lemma": "பேதை",
-     "gloss": "innocent girl"
+     "gloss": "simple woman"
     },
     {
-     "text": "க்குப்",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "increment"
     }
    ],
-   "gloss": "to the innocent girl"
+   "gloss": "to the simple woman"
   },
   {
    "surface": "பெண்",
@@ -70,10 +67,10 @@
     {
      "text": "பெண்",
      "lemma": "பெண்",
-     "gloss": "woman"
+     "gloss": "womanhood"
     }
    ],
-   "gloss": "woman"
+   "gloss": "feminine"
   },
   {
    "surface": "நிறைந்த",
@@ -84,7 +81,7 @@
      "gloss": "filled"
     }
    ],
-   "gloss": "filled"
+   "gloss": "abundant"
   },
   {
    "surface": "நீர்மை",
@@ -95,7 +92,7 @@
      "gloss": "nature"
     }
    ],
-   "gloss": "nature"
+   "gloss": "modesty"
   },
   {
    "surface": "பெரிது",
@@ -109,10 +106,10 @@
    "gloss": "is great"
   }
  ],
- "literal": "Eye-filling beauty, bamboo-resembling shoulders, to the innocent girl, woman-filled nature is great.",
- "translation": "This innocent girl with bamboo-like shoulders and eye-filling beauty possesses an abundance of deep feminine modesty.",
- "modern": "கண்களை நிறைக்கும் அழகும் மூங்கில் போன்ற தோள்களும் கொண்ட இந்தப் பேதைப் பெண்ணிடம், பெண்மைக்குரிய நாணம் முதலிய குணங்கள் மிகுதியாக உள்ளன.",
- "explanation": "The lover observes the heroine and notes that despite her overwhelming, eye-filling beauty and graceful bamboo-like shoulders, she remains an innocent girl. However, her 'womanly nature'—specifically her modesty and reserve—is very strong. This explains why she carefully conceals her romantic feelings behind a veil of traditional feminine restraint.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For the simple woman who has eye-filling beauty and bamboo-resembling shoulders, her womanhood-filled modesty is great.",
+ "translation": "For this simple maiden of eye-filling beauty and bamboo-like shoulders, her abundant feminine modesty is indeed great.",
+ "modern": "கண்களை நிறைக்கும் அழகுடைய, மூங்கில் போன்ற தோள்களைக் கொண்ட இந்தப் பெண்ணிடம், பெண்மை நிறைந்த குணங்கள் மிக அதிகமாக உள்ளன.",
+ "explanation": "The hero admires the heroine's self-control and modesty. While she possesses eye-filling beauty ('கண்ணிறைந்த காரிகை') and beautiful shoulders resembling smooth bamboo ('காம்பேர்தோள்'), her feminine modesty and reserve ('பெண் நிறைந்த நீர்மை') are even more prominent. She does not easily betray her inner feelings, showing a dignified restraint that makes her even more attractive.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

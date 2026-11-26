@@ -4,9 +4,14 @@
    "surface": "பிறர்க்கு",
    "parts": [
     {
-     "text": "பிறர்க்கு",
+     "text": "பிறர்",
      "lemma": "பிறர்",
-     "gloss": "to others"
+     "gloss": "others"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to others"
@@ -17,32 +22,42 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "harmful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "harmful things"
   },
   {
    "surface": "முற்பகல்",
    "parts": [
     {
-     "text": "முற்பகல்",
-     "lemma": "முற்பகல்",
+     "text": "முன்",
+     "lemma": "முன்",
      "gloss": "forenoon"
+    },
+    {
+     "text": "பகல்",
+     "lemma": "பகல்",
+     "gloss": "day"
     }
    ],
-   "gloss": "forenoon"
+   "gloss": "in the forenoon"
   },
   {
    "surface": "செய்யின்",
    "parts": [
     {
-     "text": "செய்யின்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "if done"
+     "gloss": "do"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if done"
+   "gloss": "if one does"
   },
   {
    "surface": "தமக்கு",
@@ -50,10 +65,10 @@
     {
      "text": "தமக்கு",
      "lemma": "தாம்",
-     "gloss": "to oneself"
+     "gloss": "to themselves"
     }
    ],
-   "gloss": "to oneself"
+   "gloss": "to themselves"
   },
   {
    "surface": "இன்னா",
@@ -61,49 +76,64 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "harmful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "harmful things"
   },
   {
    "surface": "பிற்பகல்",
    "parts": [
     {
-     "text": "பிற்பகல்",
-     "lemma": "பிற்பகல்",
+     "text": "பின்",
+     "lemma": "பின்",
      "gloss": "afternoon"
+    },
+    {
+     "text": "பகல்",
+     "lemma": "பகல்",
+     "gloss": "day"
     }
    ],
-   "gloss": "afternoon"
+   "gloss": "in the afternoon"
   },
   {
    "surface": "தாமே",
    "parts": [
     {
-     "text": "தாமே",
+     "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "of themselves"
+     "gloss": "themselves"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
     }
    ],
-   "gloss": "of themselves"
+   "gloss": "on their own"
   },
   {
    "surface": "வரும்",
    "parts": [
     {
-     "text": "வரும்",
-     "lemma": "வா",
-     "gloss": "will come"
+     "text": "வரு",
+     "lemma": "வரு",
+     "gloss": "come"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
    "gloss": "will come"
   }
  ],
- "literal": "To others harm forenoon if one does, to oneself harm afternoon of themselves will come.",
- "translation": "If one does harm to others in the morning, harm will come to them of its own accord in the afternoon.",
- "modern": "ஒருவர் மற்றவர்களுக்குக் காலையில் துன்பம் செய்தால், அவருக்கான துன்பம் மாலையில் தானாகவே வந்து சேரும்.",
- "explanation": "This couplet warns about the swift and inevitable return of harmful actions. If a person inflicts pain on others in the early part of the day, pain will naturally seek them out later in the same day. The contrasting words for forenoon and afternoon emphasize that the consequences of evil actions return very quickly, without waiting for another lifetime. The word 'tāmē' (of themselves) shows that this retribution is an automatic, inescapable law of nature.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one does harmful things to others in the forenoon, harmful things will come to themselves in the afternoon on their own.",
+ "translation": "If you do evil to others in the morning, evil will come to you on its own in the afternoon.",
+ "modern": "ஒருவர் மற்றவருக்குக் காலையில் துன்பம் செய்தால், அவருக்குத் துன்பமானது மாலையிலேயே தானாக வந்து சேரும்.",
+ "explanation": "This couplet uses the natural division of a single day to illustrate the swift and inevitable return of one's actions. The terms 'முற்பகல்' (forenoon) and 'பிற்பகல்' (afternoon) serve as metaphors for the early and later stages of life, or simply the rapid cycle of cause and effect. The poet emphasizes that the harm we inflict on others ('பிறர்க்கு இன்னா') does not go unanswered; it returns to us ('தமக்கு இன்னா') automatically ('தாமே வரும்') without needing any external agent to deliver the punishment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

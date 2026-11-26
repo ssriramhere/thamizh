@@ -9,26 +9,36 @@
      "gloss": "family"
     }
    ],
-   "gloss": "family"
+   "gloss": "family lineage"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "to say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "குன்றா",
    "parts": [
     {
-     "text": "குன்றா",
+     "text": "குன்று",
      "lemma": "குன்று",
-     "gloss": "undiminishing"
+     "gloss": "to diminish"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
     }
    ],
    "gloss": "undiminishing"
@@ -59,12 +69,17 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "to say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "மாசு",
@@ -72,10 +87,10 @@
     {
      "text": "மாசு",
      "lemma": "மாசு",
-     "gloss": "dirt"
+     "gloss": "soot"
     }
    ],
-   "gloss": "dirt"
+   "gloss": "soot"
   },
   {
    "surface": "ஊர",
@@ -86,7 +101,7 @@
      "gloss": "to spread"
     }
    ],
-   "gloss": "to spread"
+   "gloss": "to spread over"
   },
   {
    "surface": "மாய்ந்து",
@@ -105,16 +120,16 @@
     {
      "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "will perish"
+     "gloss": "will be ruined"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will be ruined"
   }
  ],
- "literal": "The family called undiminishing lamp, [when] the dirt called laziness spreads, having been extinguished will perish.",
- "translation": "The unfailing lamp of one's family will be extinguished and destroyed when the soot of laziness spreads over it.",
- "modern": "குடி என்னும் அணையாத விளக்கு, மடி என்னும் மாசு படிந்தால் அணைந்து அழிந்துவிடும்.",
- "explanation": "This couplet uses the metaphor of a lamp to describe a family's reputation and prosperity. The family is called an 'undiminishing lamp' that shines brightly across generations. Laziness is compared to 'dirt' (மாசு), which in the context of a lamp specifically means the soot that creeps over it. When the soot of laziness spreads, it blocks the light and eventually extinguishes the flame, causing the family's greatness to perish. The imagery clearly warns that sloth destroys a household's enduring legacy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The undiminishing lamp called family, when the soot called laziness spreads over it, will be extinguished and ruined.",
+ "translation": "The never-failing lamp of one's family lineage will flicker out and die when the soot of laziness spreads over it.",
+ "modern": "குடும்பம் என்னும் குறையாத விளக்கு, சோம்பல் என்னும் கரி படிந்து பரவுவதால் அணைந்து அழிந்துவிடும்.",
+ "explanation": "This couplet uses a vivid visual metaphor to warn against the dangers of laziness. A family's honor, prosperity, and lineage are compared to a bright, undiminishing lamp (விளக்கம்). Laziness (மடி) is compared to dark soot (மாசு) that gradually crawls and spreads (ஊர) over the lamp. If laziness is allowed to take over, it smothers the flame, causing the family's light to be extinguished (மாய்ந்து) and completely ruined (கெடும்).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

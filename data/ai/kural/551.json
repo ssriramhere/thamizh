@@ -20,9 +20,14 @@
      "gloss": "upon"
     },
     {
-     "text": "கொண்டார்",
+     "text": "கொண்டு",
      "lemma": "கொள்",
-     "gloss": "those who took"
+     "gloss": "having taken"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "those who"
     },
     {
      "text": "இன்",
@@ -30,7 +35,7 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than those who undertake"
+   "gloss": "than those who have undertaken murder"
   },
   {
    "surface": "கொடிதே",
@@ -46,7 +51,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "is crueler indeed"
+   "gloss": "is more cruel indeed"
   },
   {
    "surface": "அலை",
@@ -79,14 +84,9 @@
    "surface": "அல்லவை",
    "parts": [
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அவை",
-     "lemma": "அவை",
-     "gloss": "those things"
+     "text": "அல்லவை",
+     "lemma": "அல்லவை",
+     "gloss": "unjust things"
     }
    ],
    "gloss": "unjust things"
@@ -95,33 +95,23 @@
    "surface": "செய்து",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "having"
+     "text": "செய்து",
+     "lemma": "செய செய்",
+     "gloss": "having done"
     }
    ],
-   "gloss": "having done"
+   "gloss": "doing"
   },
   {
    "surface": "ஒழுகும்",
    "parts": [
     {
-     "text": "ஒழுகு",
+     "text": "ஒழுகும்",
      "lemma": "ஒழுகு",
-     "gloss": "behave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which"
+     "gloss": "who conducts himself"
     }
    ],
-   "gloss": "behaving"
+   "gloss": "who conducts himself"
   },
   {
    "surface": "வேந்து",
@@ -135,10 +125,10 @@
    "gloss": "king"
   }
  ],
- "literal": "Murder - than those who undertake - is crueler indeed - harassment - having undertaken - unjust things - having done - behaving - king.",
- "translation": "A king who rules by harassing his people and committing injustices is crueler than murderers.",
- "modern": "மக்களைத் துன்புறுத்தி அநீதியான செயல்களைச் செய்து ஆட்சி நடத்தும் அரசன், கொலைத் தொழிலைச் செய்பவர்களை விடக் கொடியவன் ஆவான்.",
- "explanation": "This couplet compares a tyrannical king to murderers, concluding that the king is far worse. The word 'கொலைமேற்கொண்டார்' refers to those who take up killing as their profession, such as assassins or robbers. The king is supposed to protect his people, but when he instead takes up 'அலை' (harassment or extortion) and does 'அல்லவை' (unjust deeds), his betrayal of duty makes him 'கொடிதே' (more cruel) than common murderers.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than those who have undertaken murder, more cruel indeed is the king who, having undertaken harassment, conducts himself doing unjust things.",
+ "translation": "More cruel than those who make a living by murder is the king who oppresses his subjects and rules with injustice.",
+ "modern": "கொலை செய்வதைத் தொழிலாகக் கொண்டவர்களை விட, தன் குடிமக்களைத் துன்புறுத்தி அறமல்லாத செயல்களைச் செய்து வாழும் அரசன் மிகவும் கொடியவன் ஆவான்.",
+ "explanation": "This couplet compares a tyrannical ruler to murderers. The poet states that a king who oppresses his subjects ('அலை மேற்கொண்டு') and acts unjustly ('அல்லவை செய்து') is far more cruel ('கொடிதே') than those who commit murder ('கொலை மேற்கொண்டார்'). While murderers kill individuals, an unjust ruler destroys the livelihood and peace of an entire nation. The key words 'அலை' (harassment/oppression) and 'அல்லவை' (unjust deeds) highlight the destructive nature of bad governance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

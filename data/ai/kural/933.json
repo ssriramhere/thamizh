@@ -17,32 +17,42 @@
     {
      "text": "ஆயம்",
      "lemma": "ஆயம்",
-     "gloss": "game"
+     "gloss": "gain/game of dice"
     }
    ],
-   "gloss": "game"
+   "gloss": "gain or game of dice"
   },
   {
    "surface": "ஓவாது",
    "parts": [
     {
-     "text": "ஓவாது",
+     "text": "ஓவு",
      "lemma": "ஓவு",
-     "gloss": "without ceasing"
+     "gloss": "cease"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
     }
    ],
-   "gloss": "unceasingly"
+   "gloss": "without ceasing"
   },
   {
    "surface": "கூறின்",
    "parts": [
     {
-     "text": "கூறின்",
+     "text": "கூறு",
      "lemma": "கூறு",
-     "gloss": "if calls"
+     "gloss": "speak/call out"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if one calls"
+   "gloss": "if one speaks or plays"
   },
   {
    "surface": "பொருள்",
@@ -61,10 +71,10 @@
     {
      "text": "ஆயம்",
      "lemma": "ஆயம்",
-     "gloss": "income"
+     "gloss": "gain/income"
     }
    ],
-   "gloss": "income"
+   "gloss": "gain or income"
   },
   {
    "surface": "போஒய்",
@@ -72,7 +82,7 @@
     {
      "text": "போஒய்",
      "lemma": "போ",
-     "gloss": "having gone"
+     "gloss": "having gone (elongated)"
     }
    ],
    "gloss": "having gone"
@@ -99,16 +109,16 @@
     {
      "text": "படும்",
      "lemma": "படு",
-     "gloss": "will fall"
+     "gloss": "will fall/go"
     }
    ],
-   "gloss": "will fall"
+   "gloss": "will fall or go"
   }
  ],
- "literal": "Rolling game unceasingly if one calls, wealth income having gone outside indeed will fall.",
- "translation": "If one constantly calls the roll in the game of dice, their wealth and income will depart and fall to outsiders.",
- "modern": "உருளும் சூதாட்டத்தை இடைவிடாமல் ஆடினால், ஒருவனது பொருளும் வருவாயும் அவனை விட்டு விலகிப் பிறரிடமே சென்று சேரும்.",
- "explanation": "The couplet warns against the addiction of gambling. The phrase urul ayam refers to the game of rolling dice, while porul ayam refers to one's accumulated wealth and incoming revenue. If a person constantly calls out the dice rolls without stopping, all their wealth and income will leave them and fall into the hands of outsiders. The play on the word ayam, meaning both a game and income, highlights how engaging in the former destroys the latter.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one speaks of the rolling dice gain without ceasing, the wealth gain will go outside and fall.",
+ "translation": "If a person constantly speaks of and plays the rolling dice game without ceasing, their accumulated wealth and income will depart and fall into the hands of others.",
+ "modern": "உருளும் பகடையின் லாபத்தைப் பற்றி இடைவிடாமல் பேசிக்கொண்டு (சூதாடிக்கொண்டு) இருந்தால், ஒருவனுடைய செல்வமும் வருவாயும் அவனை விட்டு நீங்கிப் பிறரிடம் போய்ச் சேரும்.",
+ "explanation": "This couplet warns against the addictive nature of gambling. The poet contrasts 'உருளாயம்' (the gain from rolling dice) with 'பொருளாயம்' (the gain of real wealth and income). If a person is constantly obsessed with the rolling dice and speaks of it without ceasing ('ஓவாது கூறின்'), their actual earned wealth and income will vanish ('போஒய்') and end up in the hands of others ('புறமே படும்'). The word 'ஓவாது' highlights how the relentless, non-stop pursuit of gambling leads directly to financial ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

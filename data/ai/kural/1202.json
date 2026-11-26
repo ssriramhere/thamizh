@@ -6,10 +6,10 @@
     {
      "text": "எனைத்து",
      "lemma": "எனைத்து",
-     "gloss": "in whatever measure"
+     "gloss": "how much"
     }
    ],
-   "gloss": "in whatever measure"
+   "gloss": "how much"
   },
   {
    "surface": "ஒனறு",
@@ -26,17 +26,12 @@
    "surface": "ஏனிதே",
    "parts": [
     {
-     "text": "ஏனிது",
-     "lemma": "இனிது",
-     "gloss": "sweet"
-    },
-    {
-     "text": "ஏ",
-     "lemma": "ஏ",
-     "gloss": "indeed"
+     "text": "ஏனிதே",
+     "lemma": "ஏனினிது",
+     "gloss": "why is it sweet"
     }
    ],
-   "gloss": "sweet indeed"
+   "gloss": "why is it sweet"
   },
   {
    "surface": "காண்",
@@ -44,10 +39,10 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "see"
+     "gloss": "behold"
     }
    ],
-   "gloss": "see!"
+   "gloss": "behold"
   },
   {
    "surface": "காமம்",
@@ -66,39 +61,39 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "oneself"
+     "gloss": "themselves"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "themselves"
   },
   {
    "surface": "வீழ்வார்",
    "parts": [
     {
      "text": "வீழ்வார்",
-     "lemma": "வீழ்",
-     "gloss": "lover"
+     "lemma": "வீழ்தல்",
+     "gloss": "those whom they love"
     }
    ],
-   "gloss": "lover"
+   "gloss": "those whom they love"
   },
   {
    "surface": "நினைப்ப",
    "parts": [
     {
      "text": "நினைப்ப",
-     "lemma": "நினை",
-     "gloss": "when thinking"
+     "lemma": "நினைத்தல்",
+     "gloss": "when thinking of"
     }
    ],
-   "gloss": "when thinking"
+   "gloss": "when thinking of"
   },
   {
    "surface": "வருவது",
    "parts": [
     {
      "text": "வருவது",
-     "lemma": "வா",
+     "lemma": "வருதல்",
      "gloss": "that which comes"
     }
    ],
@@ -110,27 +105,27 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one thing"
+     "gloss": "a certain joy"
     }
    ],
-   "gloss": "one thing"
+   "gloss": "a certain joy"
   },
   {
    "surface": "ஏல்",
    "parts": [
     {
      "text": "ஏல்",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "ஏல்",
+     "gloss": "if"
     }
    ],
-   "gloss": "is not"
+   "gloss": "if"
   }
  ],
- "literal": "In whatever measure one thing sweet indeed see love, oneself lover when thinking that which comes one thing is not.",
- "translation": "Behold, love is sweet in every possible way; for when one thinks of the lover, nothing sorrowful comes of it.",
- "modern": "காதல் எல்லா வகையிலும் இனிமையானது; ஏனெனில், தாம் விரும்பும் காதலரை நினைக்கும்போது துன்பம் தருவது எதுவும் இல்லை.",
- "explanation": "The speaker declares that love is entirely sweet in every possible measure. Unlike other worldly experiences where separation brings only pain, love is unique because merely thinking of the beloved brings joy. Therefore, no sorrow or negative feeling comes when remembering the lover.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "How much, in one way, why is it sweet, behold, love, when if they think of those whom they themselves love, that which comes is a certain joy!",
+ "translation": "Behold, how sweet is love! For if one merely thinks of the beloved, it brings such an exquisite joy.",
+ "modern": "நாம் விரும்பும் காதலரை நினைக்கும்போதே இன்பம் தருகிறது என்றால், காமம் எவ்வளவு இனிமையானது என்று பாருங்கள்!",
+ "explanation": "In this couplet, the heroine marvels at the nature of love. She expresses that love is incredibly sweet because even the mere thought of the beloved brings immense joy. The word 'நினைப்ப' (when thinking of) highlights that physical presence is not required to experience the pleasure of love; memory alone is sufficient. The phrase 'வருவது ஒன்று' refers to the unique, incomparable happiness that arises from these thoughts.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

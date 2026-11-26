@@ -6,10 +6,10 @@
     {
      "text": "துளி",
      "lemma": "துளி",
-     "gloss": "drop (of rain)"
+     "gloss": "rain drop"
     }
    ],
-   "gloss": "drop"
+   "gloss": "rain drop"
   },
   {
    "surface": "இன்மை",
@@ -42,7 +42,7 @@
      "gloss": "of what nature"
     }
    ],
-   "gloss": "how"
+   "gloss": "of what nature"
   },
   {
    "surface": "அற்றே",
@@ -58,7 +58,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "like that indeed"
+   "gloss": "just like that"
   },
   {
    "surface": "வேந்தன்",
@@ -69,7 +69,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king's"
+   "gloss": "king"
   },
   {
    "surface": "அளி",
@@ -104,7 +104,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "living"
@@ -115,16 +115,16 @@
     {
      "text": "உயிர்க்கு",
      "lemma": "உயிர்",
-     "gloss": "to the beings"
+     "gloss": "to the living beings"
     }
    ],
-   "gloss": "to the beings"
+   "gloss": "to the living beings"
   }
  ],
- "literal": "Drop absence to the world how, like that indeed king's grace absence living to beings.",
- "translation": "Whatever the world suffers when there is not a drop of rain, living beings suffer the same when the king lacks grace.",
- "modern": "மழைத்துளி இல்லாதபோது இந்த உலகம் எத்தகைய துன்பத்தை அடையுமோ, அதே போன்ற துன்பத்தை அரசனின் கருணை இல்லாதபோது வாழும் உயிர்கள் அடையும்.",
- "explanation": "This couplet draws a direct parallel between the natural world and the political realm. It asks how the world fares without a single drop of rain, and answers that living beings fare exactly the same without the king's grace. The word 'அளி' can mean love, grace, or protection; here, in the context of unjust rule, it denotes the compassionate protection a just ruler owes their subjects. By comparing a cruel king to a severe drought, the text emphasizes that just rule is as essential to human survival as water is to the earth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The absence of rain drops to the world of what nature, like that indeed is the king's absence of grace to the living beings.",
+ "translation": "Just as the absence of rain brings ruin to the world, so does the absence of a king's grace bring misery to his subjects.",
+ "modern": "மழைத்துளி இல்லாதிருப்பது உலகத்திற்கு எவ்வளவு துன்பமோ, அதுபோலவே அரசனுடைய அருள் இல்லாதிருப்பது அவனுடைய நாட்டில் வாழும் உயிர்களுக்குத் துன்பமாகும்.",
+ "explanation": "This couplet compares the vital necessity of a ruler's grace to the necessity of rain for the world. The word 'துளி' refers to rain drops, representing the life-giving water that sustains all earthly existence. 'அளி' means grace, compassion, or benevolence, which is the essential quality a ruler must possess to protect their subjects. Just as the 'இன்மை' (absence) of rain causes the physical world to wither and perish, the 'இன்மை' (absence) of a king's compassion causes the 'வாழும் உயிர்க்கு' (living beings) under his rule to suffer and decline.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,10 +17,10 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "light"
+     "gloss": "light or sight"
     }
    ],
-   "gloss": "light (sight)"
+   "gloss": "light or sight"
   },
   {
    "surface": "ஊறு",
@@ -28,10 +28,10 @@
     {
      "text": "ஊறு",
      "lemma": "ஊறு",
-     "gloss": "touch"
+     "gloss": "touch or sensation"
     }
    ],
-   "gloss": "touch"
+   "gloss": "touch or sensation"
   },
   {
    "surface": "ஓசை",
@@ -50,23 +50,18 @@
     {
      "text": "நாற்றம்",
      "lemma": "நாற்றம்",
-     "gloss": "smell"
+     "gloss": "smell or fragrance"
     }
    ],
-   "gloss": "smell"
+   "gloss": "smell or fragrance"
   },
   {
    "surface": "என",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "என",
+     "lemma": "என",
+     "gloss": "thus"
     }
    ],
    "gloss": "thus"
@@ -82,7 +77,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "genitive suffix"
+     "gloss": "of"
     }
    ],
    "gloss": "of the five"
@@ -93,10 +88,10 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "nature"
+     "gloss": "nature or classification"
     }
    ],
-   "gloss": "nature"
+   "gloss": "nature or classification"
   },
   {
    "surface": "தெரிவான்",
@@ -107,14 +102,9 @@
      "gloss": "to know"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future suffix"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "text": "வான்",
+     "lemma": "வான்",
+     "gloss": "he who"
     }
    ],
    "gloss": "he who knows"
@@ -125,15 +115,15 @@
     {
      "text": "கட்டு",
      "lemma": "கட்டு",
-     "gloss": "control"
+     "gloss": "possession or control"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "emphasis particle"
     }
    ],
-   "gloss": "indeed in the control"
+   "gloss": "within the control of"
   },
   {
    "surface": "உலகு",
@@ -144,13 +134,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Taste, sight, touch, sound, smell, thus of the five the nature he who knows, in his control indeed is the world.",
- "translation": "The world is in the hands of the one who understands the true nature of the five senses: taste, sight, touch, sound, and smell.",
- "modern": "சுவை, ஒளி, ஊறு, ஓசை, நாற்றம் என்று சொல்லப்படும் ஐந்து புலன்களின் தன்மைகளை ஆராய்ந்து அறிந்தவனின் கட்டுப்பாட்டில்தான் இந்த உலகம் இருக்கும்.",
- "explanation": "The couplet lists the five senses and states that the world is under the control of someone who truly understands their nature. The word 'வகை' (vakai) refers to the nature or workings of these senses, implying mastery over them rather than mere experience. 'கட்டே' (kaṭṭē) means 'in the control of' or 'in the domain of', emphasizing that true power and understanding of the world belong to those who have mastered their own perception.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Taste, sight, touch, sound, and smell—the world is within the grasp of the one who understands the nature of these five.",
+ "translation": "The world is within the grasp of the one who understands the true nature of the five senses: taste, sight, touch, hearing, and smell.",
+ "modern": "சுவை, ஒளி, தொடுதல், ஓசை, வாசனை ஆகிய ஐந்து புலன்களின் தன்மைகளை ஆராய்ந்து அறிபவனுடைய வசப்பட்டதே இவ்வுலகம்.",
+ "explanation": "This couplet highlights the greatness of those who have mastered their sensory perceptions. The five senses—taste, sight, touch, hearing, and smell—are the primary channels through which human beings experience the material world. The poet states that the entire world lies within the understanding or control of the person who comprehends the true nature and workings of these five senses. By understanding how these senses operate and affect the mind, one transcends their limitations and gains true wisdom.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,15 +6,15 @@
     {
      "text": "செப்பு",
      "lemma": "செப்பு",
-     "gloss": "casket"
+     "gloss": "metal box"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "of"
+     "gloss": "of (oblique suffix)"
     }
    ],
-   "gloss": "of a casket"
+   "gloss": "of a metal box"
   },
   {
    "surface": "புணர்ச்சி",
@@ -44,31 +44,41 @@
     {
      "text": "கூடு",
      "lemma": "கூடு",
-     "gloss": "to join"
+     "gloss": "join"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if joined"
+   "gloss": "even if they join"
   },
   {
    "surface": "கூடாதே",
    "parts": [
     {
-     "text": "கூடாது",
+     "text": "கூடு",
      "lemma": "கூடு",
-     "gloss": "will not join"
+     "gloss": "join"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "not (negative suffix)"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "will not unite indeed"
+   "gloss": "will not truly unite"
   },
   {
    "surface": "உட்பகை",
@@ -76,7 +86,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inner"
+     "gloss": "inside"
     },
     {
      "text": "பகை",
@@ -92,10 +102,10 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "having experienced"
+     "gloss": "which has obtained"
     }
    ],
-   "gloss": "afflicted by"
+   "gloss": "beset with"
   },
   {
    "surface": "குடி",
@@ -109,10 +119,10 @@
    "gloss": "family"
   }
  ],
- "literal": "Of a casket joining like even if joined, will not unite indeed, internal enmity afflicted family.",
- "translation": "Even if they appear joined like a casket and its lid, a family afflicted by internal enmity will never truly unite.",
- "modern": "செப்பிற்கும் அதன் மூடிக்கும் உள்ள பொருத்தத்தைப் போல வெளிப்பார்வைக்கு ஒன்றாகச் சேர்ந்திருந்தாலும், உட்பகை உள்ள குடி உண்மையில் ஒன்றுபடாது.",
- "explanation": "This couplet uses the striking image of a small box or casket (செப்பு) and its lid. When closed, the lid and the box fit together perfectly on the outside, but they remain two separate pieces. Similarly, a family or group suffering from internal enmity might look united to the outside world. However, their hearts remain divided, and they will never truly become one.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like the joining of a metal box, even if they join, they will not truly unite, the family beset with internal enmity.",
+ "translation": "Even if they seem to fit together closely like the lid and a casket, a family beset with internal enmity will never truly unite.",
+ "modern": "உட்பகை கொண்ட குடும்பத்தினர், செப்பின் மூடியும் உடலும் பொருந்துவது போல வெளியில் கூடி வாழ்ந்தாலும், மனதால் ஒருபோதும் ஒன்றாக இணைய மாட்டார்கள்.",
+ "explanation": "This couplet uses the vivid metaphor of a metal box (செப்பு) and its lid. Although the lid and the box fit together so perfectly that they appear to be a single unit from the outside, they remain two separate pieces that never actually fuse. Similarly, members of a family (குடி) who harbor internal hatred (உட்பகை) may live together and appear united to the world, but their hearts and minds remain completely divided and can never truly bond.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

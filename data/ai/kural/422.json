@@ -6,21 +6,26 @@
     {
      "text": "சென்ற",
      "lemma": "செல்",
-     "gloss": "that goes"
+     "gloss": "that which went"
     }
    ],
-   "gloss": "that goes"
+   "gloss": "that which went"
   },
   {
    "surface": "இடத்தால்",
    "parts": [
     {
-     "text": "இடத்தால்",
+     "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "in the direction"
+     "gloss": "place or path"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by or through"
     }
    ],
-   "gloss": "in the direction"
+   "gloss": "through the path (it went)"
   },
   {
    "surface": "செல",
@@ -42,7 +47,7 @@
      "gloss": "not letting"
     }
    ],
-   "gloss": "not letting"
+   "gloss": "without letting"
   },
   {
    "surface": "தீது",
@@ -61,21 +66,26 @@
     {
      "text": "ஒரீஇ",
      "lemma": "ஒருவு",
-     "gloss": "having shunned"
+     "gloss": "avoiding"
     }
    ],
-   "gloss": "having shunned"
+   "gloss": "avoiding"
   },
   {
    "surface": "நன்றின்பால்",
    "parts": [
     {
-     "text": "நன்றின்பால்",
+     "text": "நன்றின்",
      "lemma": "நன்று",
-     "gloss": "towards the good"
+     "gloss": "goodness"
+    },
+    {
+     "text": "பால்",
+     "lemma": "பால்",
+     "gloss": "towards"
     }
    ],
-   "gloss": "towards the good"
+   "gloss": "towards goodness"
   },
   {
    "surface": "உய்ப்பது",
@@ -93,17 +103,17 @@
    "parts": [
     {
      "text": "அறிவு",
-     "lemma": "அறிவு",
+     "lemma": "அறி",
      "gloss": "wisdom"
     }
    ],
    "gloss": "wisdom"
   }
  ],
- "literal": "that goes - in the direction - to go - not letting - evil - having shunned - towards the good - directing - [is] wisdom",
- "translation": "Wisdom is not letting the mind wander wherever it goes, but keeping it away from evil and directing it towards the good.",
- "modern": "மனம் சென்ற திசையிலெல்லாம் அதனைச் செல்ல விடாமல் தடுத்து, தீமையானவற்றிலிருந்து விலக்கி, நன்மையான வழியில் செலுத்துவதே அறிவாகும்.",
- "explanation": "This couplet defines true wisdom as the mastery over one's own mind. The mind naturally tends to wander wherever its desires lead it. Wisdom consists of not letting it go ('செல விடா') in those arbitrary directions. Instead, one must actively shun evil paths ('தீது ஒரீஇ') and consciously direct the mind toward what is good ('நன்றின்பால் உய்ப்பது').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not letting (the mind) go in the path it went, avoiding evil, and directing it towards goodness is wisdom.",
+ "translation": "Wisdom consists in not letting the mind wander wherever it desires, but restraining it from evil and directing it towards the path of goodness.",
+ "modern": "மனம் போன போக்கிலே அதைச் செல்ல விடாமல், தீமையிலிருந்து விலக்கி, நன்மையான வழியில் செலுத்துவதே அறிவாகும்.",
+ "explanation": "This couplet defines true wisdom as the active discipline and control of the mind. The mind naturally tends to wander in the direction of sensory desires and impulses. Wisdom does not allow the mind to run free in these directions, but instead restrains it from harmful paths and steers it toward what is good and virtuous. Thus, wisdom is not merely intellectual capacity, but the practical mastery of one's thoughts and actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

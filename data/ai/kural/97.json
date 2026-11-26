@@ -5,22 +5,22 @@
    "parts": [
     {
      "text": "நயன்",
-     "lemma": "நயன்",
-     "gloss": "agreeableness"
+     "lemma": "நயம்",
+     "gloss": "pleasantness"
     }
    ],
-   "gloss": "agreeableness"
+   "gloss": "pleasantness"
   },
   {
    "surface": "ஈன்று",
    "parts": [
     {
      "text": "ஈன்று",
-     "lemma": "ஈன்",
-     "gloss": "having yielded"
+     "lemma": "ஈனு",
+     "gloss": "yielding"
     }
    ],
-   "gloss": "having yielded"
+   "gloss": "yielding"
   },
   {
    "surface": "நன்றி",
@@ -28,10 +28,10 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "goodness"
+     "gloss": "virtue"
     }
    ],
-   "gloss": "goodness"
+   "gloss": "virtue"
   },
   {
    "surface": "பயக்கும்",
@@ -39,10 +39,10 @@
     {
      "text": "பயக்கும்",
      "lemma": "பய",
-     "gloss": "will produce"
+     "gloss": "will yield"
     }
    ],
-   "gloss": "will produce"
+   "gloss": "will yield"
   },
   {
    "surface": "பயன்",
@@ -60,11 +60,11 @@
    "parts": [
     {
      "text": "ஈன்று",
-     "lemma": "ஈன்",
-     "gloss": "having yielded"
+     "lemma": "ஈனு",
+     "gloss": "yielding"
     }
    ],
-   "gloss": "having yielded"
+   "gloss": "yielding"
   },
   {
    "surface": "பண்பின்",
@@ -72,7 +72,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "character"
+     "gloss": "courtesy"
     },
     {
      "text": "இன்",
@@ -80,23 +80,18 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from character"
+   "gloss": "from courtesy"
   },
   {
    "surface": "தலைப்பிரியா",
    "parts": [
     {
-     "text": "தலை",
-     "lemma": "தலை",
-     "gloss": "source"
-    },
-    {
-     "text": "பிரியா",
-     "lemma": "பிரி",
-     "gloss": "not departing"
+     "text": "தலைப்பிரியா",
+     "lemma": "தலைப்பிரி",
+     "gloss": "not deviating"
     }
    ],
-   "gloss": "not departing"
+   "gloss": "not deviating"
   },
   {
    "surface": "சொல்",
@@ -104,16 +99,16 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   }
  ],
- "literal": "Agreeableness having yielded, goodness it will produce; benefit having yielded, from character not departing word.",
- "translation": "Words that yield practical benefit and never depart from good character will bring forth joy and produce lasting goodness.",
- "modern": "பயனைத் தந்து நல்ல பண்பிலிருந்து விலகாத சொற்கள், கேட்பவருக்கு மகிழ்ச்சியைத் தந்து நன்மையை உண்டாக்கும்.",
- "explanation": "This couplet describes the dual positive effects of speaking sweet, character-driven words. The subject is words that yield practical benefit (பயன்) and never depart from good character (பண்பு). The predicate states that such words will bring forth immediate joy or agreeableness (நயன்) and produce lasting goodness (நன்றி). The repetition of the word 'ஈன்று' (having yielded) emphasizes that good words are fertile and productive, bearing fruit in both usefulness and emotional warmth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Words that do not deviate from courtesy, yielding benefit, will yield pleasantness and produce virtue.",
+ "translation": "Words that do not deviate from courtesy, while yielding fruitful benefits, will produce pleasantness and yield lasting virtue.",
+ "modern": "நற்பண்பிலிருந்து விலகாமல், நன்மையைத் தந்து, இன்பத்தையும் அறத்தையும் தருவது இனிய சொற்கள் ஆகும்.",
+ "explanation": "This couplet highlights the profound impact of speaking sweet words that are rooted in good character. Words that do not deviate from courtesy and bring practical benefit have a dual effect. They produce immediate pleasantness or harmony and yield long-term moral virtue. Thus, true sweet speech is not mere flattery, but a virtuous act that benefits both the speaker and the listener.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

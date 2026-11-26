@@ -4,38 +4,23 @@
    "surface": "புலப்பல்",
    "parts": [
     {
-     "text": "புல",
-     "lemma": "புல",
-     "gloss": "sulk"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "1st person singular suffix"
+     "text": "புலப்பல்",
+     "lemma": "புலத்தல்",
+     "gloss": "I will feign anger"
     }
    ],
-   "gloss": "I will sulk"
+   "gloss": "I will feign anger"
   },
   {
    "surface": "என",
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "saying to myself"
     }
    ],
-   "gloss": "saying"
+   "gloss": "saying to myself"
   },
   {
    "surface": "சென்றேன்",
@@ -53,7 +38,7 @@
    "parts": [
     {
      "text": "புல்லினேன்",
-     "lemma": "புல்",
+     "lemma": "புல்லுதல்",
      "gloss": "I embraced"
     }
    ],
@@ -74,48 +59,23 @@
    "surface": "கலத்தல்",
    "parts": [
     {
-     "text": "கல",
-     "lemma": "கல",
-     "gloss": "mingle"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "verbal noun marker"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "suffix"
+     "text": "கலத்தல்",
+     "lemma": "கலத்தல்",
+     "gloss": "uniting"
     }
    ],
-   "gloss": "mingling"
+   "gloss": "uniting"
   },
   {
    "surface": "உறுவது",
    "parts": [
     {
-     "text": "உறு",
-     "lemma": "உறு",
-     "gloss": "experience"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "text": "உறுவது",
+     "lemma": "உறுதல்",
+     "gloss": "desiring"
     }
    ],
-   "gloss": "about to experience"
+   "gloss": "desiring"
   },
   {
    "surface": "கண்டு",
@@ -123,16 +83,16 @@
     {
      "text": "கண்டு",
      "lemma": "காண்",
-     "gloss": "having seen"
+     "gloss": "seeing"
     }
    ],
-   "gloss": "having seen"
+   "gloss": "seeing"
   }
  ],
- "literal": "\"I will sulk\" saying I went; I embraced, heart mingling about to experience having seen.",
- "translation": "I went to him thinking, \"I will sulk,\" but seeing my heart rushing to unite with him, I embraced him instead.",
- "modern": "\"நான் அவரிடம் பிணங்குவேன்\" என்று நினைத்துக்கொண்டு சென்றேன்; ஆனால் என் நெஞ்சம் அவரோடு கலக்க முற்படுவதைக் கண்டு, பிணங்குவதை விட்டு அவரைத் தழுவிக்கொண்டேன்.",
- "explanation": "The speaker describes her failed attempt to maintain her reserve and feign anger with her lover. She approaches him with the firm intention to sulk. However, before she can act cold, she realizes her own heart is already rushing to unite with him. Betrayed by her own heart's eagerness, she abandons her pride and embraces him. The contrast between her planned action and her actual action highlights the overpowering nature of love over self-control.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "'I will feign anger,' saying to myself I went; I embraced him, seeing my heart desiring to unite.",
+ "translation": "I went with the resolve to feign anger, but I ended up embracing him, seeing my own heart rushing to unite with him.",
+ "modern": "நான் அவனிடம் ஊடல் கொள்ள வேண்டும் என்று நினைத்துச் சென்றேன்; ஆனால் என் நெஞ்சம் அவனுடன் கூடுவதற்கு விரைவதைக் கண்டு, அவனைத் தழுவிக்கொண்டேன்.",
+ "explanation": "In this couplet, the heroine describes how her resolve to remain angry melts away in her lover's presence. She approaches him intending to feign anger ('புலப்பல்') to test his love. However, upon seeing him, she realizes her own heart ('நெஞ்சம்') is already eager to unite ('கலத்தல் உறுவது') with him. Unable to resist her own heart's desire, she immediately embraces him ('புல்லினேன்'), showing that love triumphs over stubborn pride.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

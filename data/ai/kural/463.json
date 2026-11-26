@@ -6,10 +6,10 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "profit"
+     "gloss": "gain"
     }
    ],
-   "gloss": "profit"
+   "gloss": "gain or profit"
   },
   {
    "surface": "கருதி",
@@ -17,10 +17,10 @@
     {
      "text": "கருதி",
      "lemma": "கருது",
-     "gloss": "desiring"
+     "gloss": "aiming at"
     }
    ],
-   "gloss": "desiring"
+   "gloss": "aiming at"
   },
   {
    "surface": "முதல்",
@@ -31,7 +31,7 @@
      "gloss": "capital"
     }
    ],
-   "gloss": "capital"
+   "gloss": "capital or principal"
   },
   {
    "surface": "இழக்கும்",
@@ -39,10 +39,10 @@
     {
      "text": "இழக்கும்",
      "lemma": "இழ",
-     "gloss": "which loses"
+     "gloss": "losing"
     }
    ],
-   "gloss": "which loses"
+   "gloss": "that which loses"
   },
   {
    "surface": "செய்வினை",
@@ -50,7 +50,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "doing"
+     "gloss": "do"
     },
     {
      "text": "வினை",
@@ -58,7 +58,7 @@
      "gloss": "action"
     }
    ],
-   "gloss": "undertaking"
+   "gloss": "an action to be done"
   },
   {
    "surface": "ஊக்கார்",
@@ -69,7 +69,7 @@
      "gloss": "will not undertake"
     }
    ],
-   "gloss": "will not undertake"
+   "gloss": "they will not undertake"
   },
   {
    "surface": "அறிவுடையார்",
@@ -85,13 +85,13 @@
      "gloss": "possessors"
     }
    ],
-   "gloss": "the wise"
+   "gloss": "those who possess wisdom"
   }
  ],
- "literal": "Profit desiring, capital which loses undertaking, will not undertake the wise.",
- "translation": "The wise will not undertake an action that risks the capital in the hope of making a profit.",
- "modern": "லாபத்தை விரும்பி இருக்கும் முதலையும் இழக்கச் செய்யும் செயல்களை அறிவுடையவர்கள் தொடங்க மாட்டார்கள்.",
- "explanation": "This couplet warns against reckless ventures. It states that wise people will not engage in actions that might destroy their initial capital just because they desire a potential profit. The word mutal refers to the base capital or existing resources, while aakkam denotes the expected gain. True wisdom lies in protecting what one already has before attempting to multiply it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Gain aiming at, capital losing action, will not undertake those who possess wisdom.",
+ "translation": "Those who possess wisdom will not undertake an action that risks losing their existing capital in the pursuit of profit.",
+ "modern": "இலாபத்தை எதிர்பார்த்து, முதலீட்டையே இழக்கச் செய்யும் செயலை அறிவுடையவர்கள் செய்யத் தொடங்க மாட்டார்கள்.",
+ "explanation": "This couplet advises on the importance of risk assessment before starting any venture. The word 'ākkam' refers to the expected profit or growth, while 'mutal' refers to the base capital or existing assets. Wise people ('aṟivuṭaiyār') will not be motivated ('ūkkār') to initiate an action ('ceyviṉai') if a careful analysis reveals that the pursuit of extra gain might end up destroying the very foundation of what they already own. Preserving one's core resources is prioritized over speculative and highly risky gains.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

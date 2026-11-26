@@ -21,33 +21,33 @@
    "parts": [
     {
      "text": "இன்னாதது",
-     "lemma": "இன்னா",
+     "lemma": "இன்னாதது",
      "gloss": "painful thing"
     }
    ],
-   "gloss": "painful thing"
+   "gloss": "that which is painful"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "இனிது",
    "parts": [
     {
      "text": "இனிது",
-     "lemma": "இனிமை",
-     "gloss": "sweet"
+     "lemma": "இனிது",
+     "gloss": "pleasant"
     }
    ],
-   "gloss": "sweet"
+   "gloss": "pleasant"
   },
   {
    "surface": "அதூஉம்",
@@ -65,7 +65,7 @@
    "parts": [
     {
      "text": "ஈதல்",
-     "lemma": "ஈ",
+     "lemma": "ஈதல்",
      "gloss": "giving"
     }
    ],
@@ -80,7 +80,7 @@
      "gloss": "not possible"
     }
    ],
-   "gloss": "not possible"
+   "gloss": "when not possible"
   },
   {
    "surface": "கடை",
@@ -88,16 +88,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "time"
+     "gloss": "when/at the time of"
     }
    ],
-   "gloss": "time"
+   "gloss": "when/at the time of"
   }
  ],
- "literal": "Than dying, painful thing there is not; sweet is even that, giving not-possible time.",
- "translation": "There is nothing more painful than dying, yet even death is sweet when it is no longer possible to give to others.",
- "modern": "இறப்பதை விடத் துன்பமான செயல் வேறு எதுவும் இல்லை. ஆனால், பிறருக்குக் கொடுத்து உதவ முடியாத நிலை வரும்போது அந்த இறப்பும் இனிமையானதே ஆகும்.",
- "explanation": "The couplet contrasts the ultimate pain of death with the inability to be generous. The phrase 'சாதலின் இன்னாதது இல்லை' establishes that dying is universally considered the most painful experience. However, the poet flips this expectation by declaring that even death becomes sweet ('இனிது அதூஉம்'). This happens when one is in a state where giving to others is impossible ('ஈதல் இயையாக் கடை'). The poem emphasizes the supreme value of charity by making a life without it worse than death itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than dying, a more painful thing there is not; pleasant even that becomes, when giving is not possible.",
+ "translation": "There is nothing more painful than death; yet even death becomes pleasant when one is unable to give to those in need.",
+ "modern": "இறப்பதை விடத் துன்பமானது வேறு எதுவும் இல்லை; ஆனால், வறியவர்க்குத் தர முடியாத நிலை ஏற்படும் போது, அந்த இறப்பும் கூட இனியதே ஆகும்.",
+ "explanation": "This couplet compares the pain of death with the pain of being unable to practice charity. It begins by stating that nothing is more painful than dying. However, it immediately qualifies this by saying that even death becomes sweet when one's circumstances make giving impossible. The word 'kaṭai' here functions as a conditional marker meaning 'when' or 'in the state of'. Through this stark comparison, the poet emphasizes that for a noble person, the inability to help others is a fate far worse than death itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

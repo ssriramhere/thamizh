@@ -6,26 +6,21 @@
     {
      "text": "காலம்",
      "lemma": "காலம்",
-     "gloss": "time"
+     "gloss": "right time"
     }
    ],
-   "gloss": "time"
+   "gloss": "the right time"
   },
   {
    "surface": "கருதி",
    "parts": [
     {
-     "text": "கருது",
+     "text": "கருதி",
      "lemma": "கருது",
-     "gloss": "consider"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having in mind"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "keeping in mind"
   },
   {
    "surface": "இருப்பர்",
@@ -33,22 +28,12 @@
     {
      "text": "இரு",
      "lemma": "இரு",
-     "gloss": "be"
+     "gloss": "wait"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future]"
-    },
-    {
-     "text": "அர்",
+     "text": "ப்பர்",
      "lemma": "அர்",
-     "gloss": "[3pl]"
+     "gloss": "they (honorific/plural)"
     }
    ],
    "gloss": "they will wait"
@@ -57,17 +42,12 @@
    "surface": "கலங்காது",
    "parts": [
     {
-     "text": "கலங்கு",
+     "text": "கலங்காது",
      "lemma": "கலங்கு",
-     "gloss": "be perturbed"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without wavering"
     }
    ],
-   "gloss": "without being perturbed"
+   "gloss": "without getting agitated"
   },
   {
    "surface": "ஞாலம்",
@@ -78,7 +58,7 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "கருதுபவர்",
@@ -86,26 +66,21 @@
     {
      "text": "கருது",
      "lemma": "கருது",
-     "gloss": "consider"
+     "gloss": "aim for"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future]"
-    },
-    {
-     "text": "அவர்",
+     "text": "பவர்",
      "lemma": "அவர்",
      "gloss": "those who"
     }
    ],
-   "gloss": "those who desire"
+   "gloss": "those who aim for"
   }
  ],
- "literal": "Time having considered they will wait unperturbed, the world those who desire.",
- "translation": "Those who desire to conquer the world will wait unperturbed, biding their time.",
- "modern": "உலகத்தை ஆள நினைப்பவர்கள், அதற்கான சரியான காலத்தை எதிர்பார்த்துக் கலங்காமல் காத்திருப்பார்கள்.",
- "explanation": "This couplet explains the patience required for great ambitions. The word 'ஞாலம்' means the world, and 'கருதுபவர்' refers to those who aim to conquer or rule it. To achieve such a massive goal, they will not act hastily or get perturbed ('கலங்காது'). Instead, they will calmly wait ('இருப்பர்') for the right time ('காலம் கருதி') to act.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The right time keeping in mind they will wait, without getting agitated, the world those who aim for.",
+ "translation": "Those who aim to conquer the world will wait patiently without wavering, biding the right time.",
+ "modern": "உலகத்தை வெல்ல நினைப்பவர்கள், மனம் கலங்காமல் அதற்குரிய ஏற்ற காலத்தை எதிர்பார்த்துக் காத்திருப்பார்கள்.",
+ "explanation": "This couplet highlights the strategic patience required for achieving monumental goals. Those who aspire to conquer or rule the entire world ('ஞாலம் கருதுபவர்') do not act impulsively or lose their composure. Instead, they remain completely unagitated ('கலங்காது') and wait ('இருப்பர்') for the most opportune moment ('காலம் கருதி'). Their stillness is not inaction, but a calculated wait for the perfect time to ensure absolute victory.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

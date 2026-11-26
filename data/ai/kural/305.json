@@ -6,12 +6,12 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "oneself (oblique)"
+     "gloss": "one's self"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "oneself"
@@ -31,12 +31,17 @@
    "surface": "காக்கின்",
    "parts": [
     {
-     "text": "காக்கின்",
+     "text": "கா",
      "lemma": "கா",
-     "gloss": "if [one] protects"
+     "gloss": "protect"
+    },
+    {
+     "text": "க்கின்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix (if)"
     }
    ],
-   "gloss": "if [one] protects"
+   "gloss": "if one protects"
   },
   {
    "surface": "சினம்",
@@ -55,34 +60,49 @@
     {
      "text": "காக்க",
      "lemma": "கா",
-     "gloss": "let [one] guard"
+     "gloss": "let one restrain"
     }
    ],
-   "gloss": "let [one] guard against"
+   "gloss": "let one restrain"
   },
   {
    "surface": "காவாக்கால்",
    "parts": [
     {
-     "text": "காவாக்கால்",
+     "text": "கா",
      "lemma": "கா",
-     "gloss": "if [one] does not guard"
+     "gloss": "protect"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative marker"
+    },
+    {
+     "text": "க்கால்",
+     "lemma": "கால்",
+     "gloss": "conditional suffix (if/when)"
     }
    ],
-   "gloss": "if not guarded"
+   "gloss": "if one does not restrain"
   },
   {
    "surface": "தன்னையே",
    "parts": [
     {
-     "text": "தன்னை",
+     "text": "தன்",
      "lemma": "தான்",
-     "gloss": "oneself"
+     "gloss": "one's self"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphatic suffix"
+     "gloss": "emphatic particle"
     }
    ],
    "gloss": "oneself indeed"
@@ -93,10 +113,10 @@
     {
      "text": "கொல்லும்",
      "lemma": "கொல்",
-     "gloss": "will kill"
+     "gloss": "will destroy"
     }
    ],
-   "gloss": "will kill"
+   "gloss": "will destroy"
   },
   {
    "surface": "சினம்",
@@ -110,10 +130,10 @@
    "gloss": "anger"
   }
  ],
- "literal": "Oneself oneself if protects, anger let guard; if not guarded, oneself indeed will kill anger.",
- "translation": "If you wish to protect yourself, guard against anger. If you do not guard against it, that anger will kill you.",
- "modern": "ஒருவன் தன்னைத் தான் காத்துக்கொள்ள விரும்பினால், அவன் தன் சினத்தைக் கட்டுப்படுத்த வேண்டும். அப்படிச் சினத்தைக் காக்கவில்லை என்றால், அந்தச் சினமே அவனை அழித்துவிடும்.",
- "explanation": "This couplet establishes a direct link between self-preservation and the control of anger. The word 'காக்கின்' (if one protects) sets up a condition: true self-protection requires restraining one's own wrath. If a person fails to guard against it ('காவாக்கால்'), the very anger they harbor becomes a destructive force. Ultimately, the anger turns inward and destroys the person who holds it, emphasized by 'தன்னையே கொல்லும்' (will kill oneself indeed).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If oneself indeed protects, anger let one restrain; if not restrained, oneself indeed will destroy, anger.",
+ "translation": "If you wish to protect yourself, restrain your anger; if you do not restrain it, that very anger will destroy you.",
+ "modern": "ஒருவன் தன்னைத் தான் காத்துக் கொள்ள விரும்பினால், தன் கோபத்தைக் கட்டுப்படுத்திக் காக்க வேண்டும்; அவ்வாறு காக்காவிட்டால், அந்தக் கோபமே அவனை அழித்துவிடும்.",
+ "explanation": "This couplet highlights the self-destructive nature of anger. The author advises that if a person wishes to protect their own well-being, the primary thing they must guard against is their own anger ('cinam'). The conditional 'kākkiṉ' (if one protects) is paired with the imperative 'kākka' (let one restrain), emphasizing that self-preservation is directly tied to anger management. If one fails to do so ('kāvākkāl'), the anger does not just harm others; it turns inward and destroys ('kollum') the very person ('taṉṉaiyē') who harbors it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

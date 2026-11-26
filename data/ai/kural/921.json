@@ -4,23 +4,29 @@
    "surface": "உட்க",
    "parts": [
     {
-     "text": "உட்க",
+     "text": "உட்கு",
      "lemma": "உட்கு",
-     "gloss": "to fear"
+     "gloss": "to fear or respect"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to be feared"
+   "gloss": "to be feared or respected"
   },
   {
    "surface": "படாஅர்",
    "parts": [
     {
      "text": "படாஅர்",
-     "lemma": "படு",
-     "gloss": "experience-not-they"
+     "lemma": "படாஅர்",
+     "gloss": "they will not be subject to"
     }
    ],
-   "gloss": "they will not experience"
+   "gloss": "they will not be subject to",
+   "split_unverified": true
   },
   {
    "surface": "ஒளி",
@@ -28,18 +34,28 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "light/esteem"
+     "gloss": "glory or reputation"
     }
    ],
-   "gloss": "esteem"
+   "gloss": "glory"
   },
   {
    "surface": "இழப்பர்",
    "parts": [
     {
-     "text": "இழப்பர்",
+     "text": "இழ",
      "lemma": "இழ",
-     "gloss": "lose-will-they"
+     "gloss": "to lose"
+    },
+    {
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "third person plural suffix"
     }
    ],
    "gloss": "they will lose"
@@ -53,7 +69,8 @@
      "gloss": "always"
     }
    ],
-   "gloss": "always"
+   "gloss": "always",
+   "split_unverified": true
   },
   {
    "surface": "கள்",
@@ -61,7 +78,7 @@
     {
      "text": "கள்",
      "lemma": "கள்",
-     "gloss": "liquor"
+     "gloss": "liquor or toddy"
     }
    ],
    "gloss": "liquor"
@@ -72,7 +89,7 @@
     {
      "text": "காதல்",
      "lemma": "காதல்",
-     "gloss": "desire"
+     "gloss": "desire or love"
     }
    ],
    "gloss": "desire"
@@ -82,8 +99,8 @@
    "parts": [
     {
      "text": "கொண்டு",
-     "lemma": "கொள்",
-     "gloss": "having taken"
+     "lemma": "கொண்டு",
+     "gloss": "having or possessing"
     }
    ],
    "gloss": "having"
@@ -92,18 +109,28 @@
    "surface": "ஒழுகுவார்",
    "parts": [
     {
-     "text": "ஒழுகுவார்",
+     "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "conduct-will-they"
+     "gloss": "to behave or live"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "third person plural suffix"
     }
    ],
-   "gloss": "those who conduct themselves"
+   "gloss": "those who live"
   }
  ],
- "literal": "To be feared they will not experience, esteem they will lose, always, liquor desire having those who conduct themselves.",
- "translation": "Those who live with a constant craving for liquor will never be feared or respected, and they will lose their esteem forever.",
- "modern": "கள்ளின் மீது ஆசை கொண்டு வாழ்பவர்கள், மற்றவர்களால் அஞ்சப்படவோ மதிக்கப்படவோ மாட்டார்கள்; அவர்கள் தங்கள் புகழையும் எப்போதும் இழப்பார்கள்.",
- "explanation": "This couplet warns of the social consequences of alcoholism. The phrase 'உட்கப் படாஅர்' means they will not inspire fear or respect in others, making them vulnerable. 'ஒளி இழப்பர்' indicates the loss of their inner light, dignity, and public esteem. Thus, those who live driven by a desire for liquor ('கள் காதல் கொண்டு ஒழுகுவார்') forfeit both their power and their reputation permanently ('எஞ்ஞான்றும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To be respected they will not be subject to, glory they will lose, always, liquor desire having, those who live.",
+ "translation": "Those who live with an abiding desire for liquor will never command the respect of others, and they will lose their reputation for all time.",
+ "modern": "மதுவின் மீது விருப்பம் கொண்டு வாழ்பவர்கள், எப்போதும் பிறரால் மதிக்கப்பட மாட்டார்கள்; தங்களுடைய புகழையும் இழப்பார்கள்.",
+ "explanation": "This couplet introduces the chapter on avoiding liquor by highlighting the social consequences of addiction. The poet states that those who live with a constant desire for alcohol will lose two essential elements of a dignified life: the respect of others and their own personal glory. The word 'உட்கு' refers to the awe-inspired respect or fear that a person of dignity commands, which an addict loses completely. This loss of esteem and reputation is not temporary but persists at all times, as indicated by 'எஞ்ஞான்றும்'.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "பெண்டிர்",
-     "lemma": "பெண்டிர்",
+     "lemma": "பெண்டு",
      "gloss": "women"
     }
    ],
@@ -28,10 +28,10 @@
     {
      "text": "பொய்ம்மை",
      "lemma": "பொய்ம்மை",
-     "gloss": "falseness"
+     "gloss": "falsehood"
     }
    ],
-   "gloss": "falseness"
+   "gloss": "false"
   },
   {
    "surface": "முயக்கம்",
@@ -53,7 +53,7 @@
      "gloss": "darkness"
     }
    ],
-   "gloss": "darkness"
+   "gloss": "dark"
   },
   {
    "surface": "அறையில்",
@@ -80,7 +80,7 @@
      "gloss": "stranger"
     }
    ],
-   "gloss": "stranger"
+   "gloss": "stranger's"
   },
   {
    "surface": "பிணம்",
@@ -99,10 +99,10 @@
     {
      "text": "தழீஇ",
      "lemma": "தழுவு",
-     "gloss": "having embraced"
+     "gloss": "embracing"
     }
    ],
-   "gloss": "having embraced"
+   "gloss": "embracing"
   },
   {
    "surface": "அற்று",
@@ -110,16 +110,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "wealth women falseness embrace darkness room-in stranger corpse having-embraced like-that",
- "translation": "The false embrace of women who desire only wealth is like hugging a stranger's corpse in a dark room.",
- "modern": "பொருளுக்காக ஆசைப்படும் பெண்களின் பொய்யான தழுவல், ஓர் இருட்டு அறையில் முன்பின் தெரியாத ஒரு பிணத்தைக் கட்டிப்பிடிப்பதற்குச் சமமாகும்.",
- "explanation": "This couplet vividly describes the loveless nature of women who offer intimacy solely for money. Their embrace is termed 'false' because it lacks genuine affection and warmth. The poet compares this act to hugging an unknown corpse in a pitch-black room. The darkness signifies the blindness of lust, while the stranger's corpse highlights the utter lack of life, feeling, and true connection in such an embrace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The false embrace of women who desire wealth is like embracing a stranger's corpse in a dark room.",
+ "translation": "The false embrace of women who love only wealth is like holding a stranger's corpse in a dark room.",
+ "modern": "பொருளையே விரும்பும் பொதுமகளிரின் பொய்யான தழுவல், இருண்ட அறையில் அடையாளம் தெரியாத ஒரு பிணத்தைத் தழுவுவதைப் போன்றதாகும்.",
+ "explanation": "This couplet warns against seeking the company of women who sell their intimacy for money. The poet compares their false, loveless embrace ('பொய்ம்மை முயக்கம்') to holding a cold, lifeless corpse ('பிணம்') of an unrelated stranger ('ஏதில்') in a pitch-black room. Just as a corpse has no warmth, soul, or genuine response, the intimacy of these women is entirely transactional and devoid of real human affection. The imagery of the dark room emphasizes the ignorance, blindness, and spiritual danger of those who indulge in such relationships.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,13 +4,17 @@
    "surface": "அழுக்காற்றின்",
    "parts": [
     {
-     "text": "அழுக்காற்றின்",
-     "lemma": "அழுக்காற்றின்",
-     "gloss": "out of envy"
+     "text": "அழுக்காற்று",
+     "lemma": "அழுக்காறு",
+     "gloss": "envy (oblique stem)"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "through"
     }
    ],
-   "gloss": "out of envy",
-   "split_unverified": true
+   "gloss": "through envy"
   },
   {
    "surface": "அல்லவை",
@@ -18,12 +22,12 @@
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "not-good"
+     "gloss": "not / evil"
     },
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "those things"
+     "gloss": "things"
     }
    ],
    "gloss": "evil deeds"
@@ -39,7 +43,7 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (will not)"
+     "gloss": "they will not (negative third-person plural)"
     }
    ],
    "gloss": "they will not do"
@@ -48,17 +52,17 @@
    "surface": "இழுக்காற்றின்",
    "parts": [
     {
-     "text": "இழுக்கு",
+     "text": "இழுக்காற்று",
      "lemma": "இழுக்கு",
-     "gloss": "fault"
+     "gloss": "moral slip or error (oblique stem)"
     },
     {
-     "text": "ஆற்றின்",
-     "lemma": "ஆறு",
-     "gloss": "by the path"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "through"
     }
    ],
-   "gloss": "by the path of fault"
+   "gloss": "through the path of moral slip"
   },
   {
    "surface": "ஏதம்",
@@ -66,21 +70,26 @@
     {
      "text": "ஏதம்",
      "lemma": "ஏதம்",
-     "gloss": "misery"
+     "gloss": "ruin / suffering"
     }
    ],
-   "gloss": "misery"
+   "gloss": "ruin / suffering"
   },
   {
    "surface": "படுபாக்கு",
    "parts": [
     {
-     "text": "படுபாக்கு",
-     "lemma": "படுபாக்கு",
-     "gloss": "happening"
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "befall"
+    },
+    {
+     "text": "பாக்கு",
+     "lemma": "பாக்கு",
+     "gloss": "future adverbial participle suffix"
     }
    ],
-   "gloss": "the happening"
+   "gloss": "that which will inevitably befall"
   },
   {
    "surface": "அறிந்து",
@@ -91,13 +100,13 @@
      "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "having known / realizing"
   }
  ],
- "literal": "Out of envy evil deeds they will not do, by the path of fault misery happening having known.",
- "translation": "Knowing that misery will come from the path of fault, they will not commit evil deeds out of envy.",
- "modern": "பொறாமையினால் தீய செயல்களைச் செய்ய மாட்டார்கள், அந்தத் தவறான வழியினால் தமக்குத் துன்பம் வரும் என்பதை அறிந்து.",
- "explanation": "This couplet explains why wise people avoid acting out of envy. They understand that envy is a flawed path that inevitably brings misery to themselves. Knowing the harm that follows such an error, they refrain from doing evil deeds driven by jealousy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Through envy, evil deeds they will not do, through the path of moral slip, ruin will befall, having known.",
+ "translation": "Those who clearly realize that ruin will inevitably befall them if they stray into wrongful paths do not commit evil deeds out of envy.",
+ "modern": "பொறாமை காரணமாக வரும் தவறான வழியால் தமக்குத் துன்பம் உண்டாகும் என்பதை உணர்ந்தவர்கள், பொறாமையினால் பிறருக்குத் தீமைகளைச் செய்ய மாட்டார்கள்.",
+ "explanation": "This couplet highlights how wise people avoid the destructive nature of envy. The word 'அழுக்காறு' means envy, and 'அழுக்காற்றின்' refers to acting under its influence. 'இழுக்காறு' refers to a moral slip or deviation from the right path, while 'ஏதம்' means ruin or distress. The poet explains that those who understand ('அறிந்து') that straying into wrongful paths ('இழுக்காற்றின்') will inevitably bring ruin ('ஏதம் படுபாக்கு') upon themselves will never commit harmful deeds ('அல்லவை செய்யார்') out of envy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

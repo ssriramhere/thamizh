@@ -6,10 +6,10 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one (gain)"
     }
    ],
-   "gloss": "one"
+   "gloss": "one (gain)"
   },
   {
    "surface": "எய்தி",
@@ -17,10 +17,10 @@
     {
      "text": "எய்தி",
      "lemma": "எய்து",
-     "gloss": "having gained"
+     "gloss": "having obtained"
     }
    ],
-   "gloss": "having gained"
+   "gloss": "having obtained"
   },
   {
    "surface": "நூறு",
@@ -28,10 +28,10 @@
     {
      "text": "நூறு",
      "lemma": "நூறு",
-     "gloss": "hundred"
+     "gloss": "a hundred"
     }
    ],
-   "gloss": "hundred"
+   "gloss": "a hundred"
   },
   {
    "surface": "இழக்கும்",
@@ -39,10 +39,10 @@
     {
      "text": "இழக்கும்",
      "lemma": "இழ",
-     "gloss": "who lose"
+     "gloss": "losing"
     }
    ],
-   "gloss": "who lose"
+   "gloss": "losing"
   },
   {
    "surface": "சூதர்க்கும்",
@@ -53,9 +53,14 @@
      "gloss": "gamblers"
     },
     {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
+    },
+    {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "for"
+     "gloss": "to"
     },
     {
      "text": "உம்",
@@ -63,15 +68,15 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even for gamblers"
+   "gloss": "even to gamblers"
   },
   {
    "surface": "உண்டு",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
-     "gloss": "exists"
+     "lemma": "உண்டு",
+     "gloss": "is there"
     }
    ],
    "gloss": "is there"
@@ -82,10 +87,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆ",
-     "gloss": "becomes/is"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "is"
+   "gloss": "indeed"
   },
   {
    "surface": "கொல்",
@@ -93,21 +98,21 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed (question particle)"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "indeed?"
+   "gloss": "is it so?"
   },
   {
    "surface": "நன்று",
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நன்மை",
-     "gloss": "good"
+     "lemma": "நன்று",
+     "gloss": "goodness"
     }
    ],
-   "gloss": "good"
+   "gloss": "goodness / prosperity"
   },
   {
    "surface": "எய்தி",
@@ -115,10 +120,10 @@
     {
      "text": "எய்தி",
      "lemma": "எய்து",
-     "gloss": "having attained"
+     "gloss": "having obtained"
     }
    ],
-   "gloss": "having attained"
+   "gloss": "having obtained"
   },
   {
    "surface": "வாழ்வது",
@@ -137,10 +142,10 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "a"
+     "gloss": "a / one"
     }
    ],
-   "gloss": "a"
+   "gloss": "a / one"
   },
   {
    "surface": "ஆறு",
@@ -151,13 +156,13 @@
      "gloss": "way"
     }
    ],
-   "gloss": "way"
+   "gloss": "way / path"
   }
  ],
- "literal": "Having gained one, who lose a hundred, even for gamblers is there indeed, good having attained, living a way?",
- "translation": "Is there any way to attain goodness and live well for gamblers who win one and lose a hundred?",
- "modern": "ஒன்றை வென்று நூறை இழக்கின்ற சூதாடிகளுக்கு, நன்மையை அடைந்து வாழக்கூடிய ஒரு வழி இருக்கிறதா? (இல்லை).",
- "explanation": "The couplet asks a rhetorical question about the ultimate fate of gamblers. It describes the core nature of gambling as 'gaining one and losing a hundred' (ஒன்று எய்தி நூறு இழக்கும்), emphasizing the inevitable and disproportionate losses that overshadow any minor, occasional wins. The phrase 'உண்டாங்கொல்' (is there indeed?) strongly implies a negative answer. Consequently, the text asserts that attaining goodness and living a stable, prosperous life (நன்று எய்தி வாழ்வது ஓர் ஆறு) is entirely impossible for those addicted to gambling.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having obtained one, losing a hundred, even to gamblers, is there indeed a way of living having obtained goodness?",
+ "translation": "Can there ever be a way for gamblers, who gain but one thing only to lose a hundred, to attain prosperity and live a good life?",
+ "modern": "ஒன்றைப் பெற்று நூறை இழக்கின்ற சூதாடிகளுக்கு, நன்மையை அடைந்து வாழ்வதற்கு ஏதேனும் ஒரு வழி உண்டோ?",
+ "explanation": "This couplet highlights the futility and ruinous nature of gambling. The poet points out that a gambler might occasionally win a single gain ('ஒன்று'), but in the process, they inevitably lose a hundredfold ('நூறு'). Because of this disproportionate loss, the poet rhetorically asks if there can ever be a viable path ('ஆறு') for such gamblers to attain true prosperity ('நன்று') and lead a stable, good life. The contrast between gaining one and losing a hundred vividly illustrates how gambling leads to certain financial and moral bankruptcy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

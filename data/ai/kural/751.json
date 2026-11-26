@@ -16,16 +16,16 @@
    "parts": [
     {
      "text": "அல்லவர்",
-     "lemma": "அல்",
-     "gloss": "those who are not worthy"
+     "lemma": "அல்லவர்",
+     "gloss": "those who are of no worth"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "the worthless (acc.)"
+   "gloss": "those who are of no worth"
   },
   {
    "surface": "பொருளாக",
@@ -33,7 +33,7 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "worth"
+     "gloss": "a person of worth"
     },
     {
      "text": "ஆக",
@@ -41,7 +41,7 @@
      "gloss": "to become"
     }
    ],
-   "gloss": "as worthy"
+   "gloss": "into people of worth"
   },
   {
    "surface": "செய்யும்",
@@ -69,14 +69,9 @@
    "surface": "அல்லது",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லது",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which is"
+     "gloss": "other than"
     }
    ],
    "gloss": "other than"
@@ -87,10 +82,10 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is nothing"
     }
    ],
-   "gloss": "there is no"
+   "gloss": "there is nothing"
   },
   {
    "surface": "பொருள்",
@@ -98,16 +93,16 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "substance"
+     "gloss": "a thing of value"
     }
    ],
-   "gloss": "real wealth"
+   "gloss": "a thing of value"
   }
  ],
- "literal": "Wealth / those who are not / as worthy / makes / wealth / other than / there is no / wealth.",
- "translation": "There is nothing of real value other than wealth, which turns even worthless people into people of worth.",
- "modern": "ஒரு பொருட்டாக மதிக்கத்தகாதவர்களையும் மதிக்கத்தக்கவர்களாகச் செய்யும் செல்வத்தைத் தவிர, உலகில் சிறந்த பொருள் வேறு எதுவும் இல்லை.",
- "explanation": "This couplet emphasizes the transformative power of wealth in society. The word 'poruḷ' is used repeatedly here to mean both material wealth and intrinsic worth or significance. It states that wealth can elevate even those who lack personal merit into people of importance. Therefore, apart from such wealth, there is no other substance of true practical value in the world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Wealth makes those who are of no worth into people of worth; other than wealth, there is no other thing of value.",
+ "translation": "Except wealth, there is nothing else that can make those of no consequence into people of consequence.",
+ "modern": "மதிப்பில்லாதவர்களை மதிப்புடையவர்களாக மாற்றும் ஆற்றல் செல்வத்திற்கு மட்டுமே உண்டு; அச்செல்வத்தைத் தவிர வேறு சிறந்த பொருள் எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the social power of wealth by playing on the multiple meanings of the word 'poruḷ'. First, 'poruḷ' refers to wealth, which has the unique power to transform 'allavar' (those of no worth) into 'poruḷ' (people of consequence and respect). Finally, the poet concludes that other than wealth, there is no other 'poruḷ' (thing of real substance or utility) that can achieve this. The verse shows how material wealth instantly alters social perception and elevates a person's status.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

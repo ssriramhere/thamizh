@@ -4,17 +4,13 @@
    "surface": "கருமத்தால்",
    "parts": [
     {
-     "text": "கருமத்து",
-     "lemma": "கருமம்",
-     "gloss": "action"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "by"
+     "text": "கருமத்தால்",
+     "lemma": "கருமத்தால்",
+     "gloss": "because of improper deeds"
     }
    ],
-   "gloss": "by action"
+   "gloss": "because of improper deeds",
+   "split_unverified": true
   },
   {
    "surface": "நாணுதல்",
@@ -22,10 +18,10 @@
     {
      "text": "நாணுதல்",
      "lemma": "நாணுதல்",
-     "gloss": "feeling ashamed"
+     "gloss": "feeling shame"
     }
    ],
-   "gloss": "feeling ashamed"
+   "gloss": "feeling shame"
   },
   {
    "surface": "நாணும்",
@@ -33,7 +29,7 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "shame"
+     "gloss": "modesty / sense of shame"
     },
     {
      "text": "உம்",
@@ -41,7 +37,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "shame indeed"
+   "gloss": "is true modesty indeed"
   },
   {
    "surface": "திருநுதல்",
@@ -57,7 +53,7 @@
      "gloss": "forehead"
     }
    ],
-   "gloss": "beautiful forehead"
+   "gloss": "beautiful-foreheaded"
   },
   {
    "surface": "நல்லவர்",
@@ -65,21 +61,22 @@
     {
      "text": "நல்லவர்",
      "lemma": "நல்லவர்",
-     "gloss": "good women"
+     "gloss": "virtuous women"
     }
    ],
-   "gloss": "good women"
+   "gloss": "virtuous women"
   },
   {
    "surface": "நாணு",
    "parts": [
     {
      "text": "நாணு",
-     "lemma": "நாண்",
-     "gloss": "modesty"
+     "lemma": "நாணு",
+     "gloss": "shyness"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "shyness",
+   "split_unverified": true
   },
   {
    "surface": "பிற",
@@ -87,16 +84,16 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "other"
+     "gloss": "other things"
     }
    ],
-   "gloss": "are other"
+   "gloss": "other kinds"
   }
  ],
- "literal": "By action feeling ashamed is shame indeed; beautiful forehead good women's modesty is other.",
- "translation": "True shame is shrinking away from wrongful deeds. The natural modesty of beautiful women is something else entirely.",
- "modern": "தகாத செயல்களைச் செய்ய வெட்கப்படுவதே உண்மையான நாணம் ஆகும். அழகிய நெற்றியை உடைய பெண்களின் இயல்பான நாணம் என்பது அதிலிருந்து வேறுபட்டதாகும்.",
- "explanation": "This couplet distinguishes true moral shame from natural feminine modesty. The word 'கருமத்தால்' (by action) emphasizes that genuine shame is the internal shrinking away from committing dishonorable or wrong deeds. In contrast, the natural shyness seen in beautiful women is merely a physical or social trait, which is entirely different from this noble virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Feeling shame because of improper deeds is true modesty indeed; the other kind of shyness is that of beautiful-foreheaded virtuous women.",
+ "translation": "To shrink in shame from improper deeds is true modesty; all other kinds of shyness are merely the natural bashfulness of beautiful-foreheaded women.",
+ "modern": "தீய செயல்களைச் செய்ய அஞ்சி நாணமடைவதே உண்மையான நாணமாகும்; மற்றவை எல்லாம் அழகிய நெற்றியையுடைய பெண்களின் இயற்கை நாணமே ஆகும்.",
+ "explanation": "This couplet distinguishes between moral shame and natural bashfulness. The author states that true, essential modesty (நாண்) is the shrinking back from committing improper or evil deeds. Any other form of shyness, such as the natural reserve or bashfulness shown by beautiful women (திருநுதல் நல்லவர்), is of a different, non-moral kind. For a virtuous life, it is the dread of doing wrong that constitutes genuine modesty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,12 +4,17 @@
    "surface": "தினைத்துணை",
    "parts": [
     {
-     "text": "தினைத்துணை",
-     "lemma": "தினைத்துணை",
-     "gloss": "millet measure"
+     "text": "தினை",
+     "lemma": "தினை",
+     "gloss": "millet seed"
+    },
+    {
+     "text": "துணை",
+     "lemma": "துணை",
+     "gloss": "measure/size"
     }
    ],
-   "gloss": "millet-measure"
+   "gloss": "as small as a millet seed"
   },
   {
    "surface": "நன்றி",
@@ -17,10 +22,10 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "good deed"
+     "gloss": "help/benefit"
     }
    ],
-   "gloss": "good deed"
+   "gloss": "help/benefit"
   },
   {
    "surface": "செயினும்",
@@ -36,7 +41,7 @@
      "gloss": "even if"
     }
    ],
-   "gloss": "even if done"
+   "gloss": "even if one does"
   },
   {
    "surface": "பனைத்துணையாக்",
@@ -44,19 +49,29 @@
     {
      "text": "பனைத்துணையாக்",
      "lemma": "பனைத்துணையாக்",
-     "gloss": "as a palmyra-measure"
+     "gloss": "as large as a palmyra palm"
     }
    ],
-   "gloss": "as a palmyra-measure",
+   "gloss": "as large as a palmyra palm",
    "split_unverified": true
   },
   {
    "surface": "கொள்வர்",
    "parts": [
     {
-     "text": "கொள்வர்",
+     "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "they will consider"
+     "gloss": "take/consider"
+    },
+    {
+     "text": "வ்",
+     "lemma": "இடைநிலை",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (plural suffix)"
     }
    ],
    "gloss": "they will consider"
@@ -67,27 +82,37 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "value"
+     "gloss": "benefit/value"
     }
    ],
-   "gloss": "value"
+   "gloss": "benefit/value"
   },
   {
    "surface": "தெரிவார்",
    "parts": [
     {
-     "text": "தெரிவார்",
+     "text": "தெரி",
      "lemma": "தெரி",
-     "gloss": "those who know"
+     "gloss": "know/understand"
+    },
+    {
+     "text": "வ்",
+     "lemma": "இடைநிலை",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those who know"
+   "gloss": "those who understand"
   }
  ],
- "literal": "Millet-measure good-deed even-if-done, palmyra-measure-as they-will-consider value those-who-know.",
- "translation": "Even if a good deed is as tiny as a millet seed, those who know its true value will consider it as large as a palmyra tree.",
- "modern": "ஒருவர் தினையளவு சிறிய உதவியைச் செய்தாலும், அந்த உதவியின் உண்மையான பயனை அறிந்தவர்கள் அதனைப் பனையளவு பெரியதாகக் கருதுவார்கள்.",
- "explanation": "This couplet contrasts the tiny millet seed with the massive palmyra tree to illustrate how gratitude is measured. Even if a good deed is objectively small, its worth is not judged merely by its physical size. Those who truly understand the value of the help received will magnify it in their hearts, seeing it as vast as a palmyra tree.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if one does a help of the size of a millet seed, those who understand the value will consider it as of the size of a palmyra palm.",
+ "translation": "Even if the help rendered is as small as a millet seed, those who truly understand its value will cherish it as huge as a palmyra palm.",
+ "modern": "தினையளவு மிகச்சிறிய உதவியை ஒருவர் செய்தாலும், அதன் பயனை அறிந்தவர்கள் அதனைப் பனையளவு பெரிய உதவியாகக் கருதுவார்கள்.",
+ "explanation": "This couplet highlights how the recipients of a favor evaluate its worth. The poet contrasts two well-known objects of vastly different sizes: the tiny millet seed (thinai) and the massive palmyra palm (panai). Those who truly understand the value of gratitude and the timely nature of help (payan terivar) do not look at the physical scale of the assistance. Instead, they magnify even the smallest act of kindness, treating it as a monumental favor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

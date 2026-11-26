@@ -6,10 +6,10 @@
     {
      "text": "புறள்",
      "lemma": "புறம்",
-     "gloss": "outside"
+     "gloss": "exterior"
     }
    ],
-   "gloss": "outside"
+   "gloss": "exterior"
   },
   {
    "surface": "தூய்மை",
@@ -42,17 +42,12 @@
    "surface": "அமையும்",
    "parts": [
     {
-     "text": "அமை",
+     "text": "அமையும்",
      "lemma": "அமை",
-     "gloss": "to be established"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will be established"
     }
    ],
-   "gloss": "is achieved"
+   "gloss": "is established"
   },
   {
    "surface": "அகம்",
@@ -60,10 +55,10 @@
     {
      "text": "அகம்",
      "lemma": "அகம்",
-     "gloss": "inside"
+     "gloss": "interior"
     }
    ],
-   "gloss": "inside"
+   "gloss": "interior"
   },
   {
    "surface": "தூய்மை",
@@ -96,39 +91,29 @@
    "surface": "காண",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காண",
      "lemma": "காண்",
      "gloss": "to see"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to be seen"
+   "gloss": "to see"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to experience (passive)"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will be"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "Outside purity by water is achieved; inside purity by truthfulness will be seen.",
- "translation": "Purity of the body is achieved with water, but purity of the mind is revealed through truthfulness.",
- "modern": "உடலின் புறத்தூய்மை நீரினால் ஏற்படும்; ஆனால் உள்ளத்தின் அகத்தூய்மை ஒருவனது வாய்மையால் மட்டுமே அறியப்படும்.",
- "explanation": "This couplet contrasts physical cleanliness with inner purity. While the outside of the body can be washed and made clean with water, the purity of the mind cannot be cleansed physically. Instead, inner purity is achieved and made visible to others only through truthfulness. The phrase 'காணப்படும்' (will be seen) emphasizes that true inner purity naturally reveals itself through a person's honest words and actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Exterior purity by water is established; interior purity by truthfulness is seen.",
+ "translation": "Outward purity is achieved by water, while inward purity is manifested by truthfulness.",
+ "modern": "உடலின் புறத்தூய்மை நீரினால் உண்டாகும்; உள்ளத்தின் அகத்தூய்மை வாய்மையால் (உண்மையால்) வெளிப்படும்.",
+ "explanation": "This couplet draws a clear contrast between physical cleanliness and moral purity. The author explains that while water is sufficient to cleanse the external body (puram), it cannot wash the inner self or mind (akam). Inner purity can only be achieved and made visible to others through truthfulness (vaymai) in thought, speech, and action. Thus, truthfulness is presented as the ultimate purifying agent for the human soul, just as water is for the physical body.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

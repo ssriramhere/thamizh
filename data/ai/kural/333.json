@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "அற்கா",
-     "lemma": "அற்கு",
-     "gloss": "not staying"
+     "lemma": "அல்கு",
+     "gloss": "impermanent"
     }
    ],
-   "gloss": "not staying"
+   "gloss": "impermanent"
   },
   {
    "surface": "இயல்பிற்று",
@@ -22,10 +22,10 @@
     {
      "text": "இற்று",
      "lemma": "இற்று",
-     "gloss": "such it is"
+     "gloss": "is of such"
     }
    ],
-   "gloss": "it is of the nature"
+   "gloss": "is of the nature of"
   },
   {
    "surface": "செல்வம்",
@@ -55,21 +55,21 @@
     {
      "text": "பெற்றால்",
      "lemma": "பெறு",
-     "gloss": "if obtained"
+     "gloss": "if one obtains"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "if one obtains"
   },
   {
    "surface": "அற்குப",
    "parts": [
     {
      "text": "அற்குப",
-     "lemma": "அற்கு",
-     "gloss": "things that abide"
+     "lemma": "அல்கு",
+     "gloss": "things that endure"
     }
    ],
-   "gloss": "things that abide"
+   "gloss": "things that endure"
   },
   {
    "surface": "ஆங்கே",
@@ -77,15 +77,15 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "there/then"
+     "gloss": "then and there"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "right then"
+   "gloss": "immediately"
   },
   {
    "surface": "செயல்",
@@ -96,13 +96,13 @@
      "gloss": "doing"
     }
    ],
-   "gloss": "should do"
+   "gloss": "should be done"
   }
  ],
- "literal": "Not-staying nature-it-has wealth; that if obtained, things-that-abide right-then do.",
- "translation": "Wealth is transient by nature. When you obtain it, immediately use it to do things that will last.",
- "modern": "செல்வம் நிலைக்காத இயல்பினை உடையது. அதனைப் பெற்றால், பெற்ற அப்பொழுதே நிலைத்து நிற்கும் நல்ல செயல்களைச் செய்ய வேண்டும்.",
- "explanation": "This couplet highlights the fleeting nature of wealth. The word அற்கா means not staying or unstable, describing wealth's natural tendency to vanish. Because wealth can disappear at any moment, the poet advises that the moment one acquires it, they should immediately invest it in அற்குப—deeds of virtue that will endure forever.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Impermanent is the nature of wealth; if that is obtained, things that endure, immediately, should be done.",
+ "translation": "Wealth is of an impermanent nature; if you obtain it, immediately perform those deeds that are of a lasting nature.",
+ "modern": "செல்வம் நிலைவில்லாத தன்மையுடையது; அதனைப் பெற்றால், அப்பொழுதே நிலைத்து நிற்கும் அறச்செயல்களைச் செய்ய வேண்டும்.",
+ "explanation": "This couplet highlights the fleeting nature of material wealth and advises on its immediate, wise utilization. The word 'அற்கா' means impermanent or non-abiding, describing the true nature ('இயல்பிற்று') of wealth ('செல்வம்'). Since wealth can vanish at any moment, the author urges that if one happens to acquire it ('அதுபெற்றால்'), they must immediately ('ஆங்கே') use it to perform deeds that have a lasting value ('அற்குப செயல்'), such as acts of virtue and charity. By converting transient wealth into enduring good deeds, one achieves something of permanent value before the opportunity slips away.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

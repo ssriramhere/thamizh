@@ -9,15 +9,20 @@
      "gloss": "fool"
     }
    ],
-   "gloss": "fool"
+   "gloss": "a fool"
   },
   {
    "surface": "பெருங்",
    "parts": [
     {
-     "text": "பெருங்",
+     "text": "பெரு",
      "lemma": "பெருமை",
      "gloss": "great"
+    },
+    {
+     "text": "ங்",
+     "lemma": "ங்",
+     "gloss": "nasal increment"
     }
    ],
    "gloss": "great"
@@ -28,10 +33,10 @@
     {
      "text": "கெழீஇ",
      "lemma": "கெழுமு",
-     "gloss": "having become intimate"
+     "gloss": "having associated closely"
     }
    ],
-   "gloss": "having become intimate"
+   "gloss": "highly intimate"
   },
   {
    "surface": "நட்பின்",
@@ -47,7 +52,7 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than friendship"
+   "gloss": "than the friendship"
   },
   {
    "surface": "அறிவுடையார்",
@@ -60,10 +65,10 @@
     {
      "text": "உடையார்",
      "lemma": "உடையார்",
-     "gloss": "those who possess"
+     "gloss": "possessors"
     }
    ],
-   "gloss": "wise people"
+   "gloss": "of those who have wisdom"
   },
   {
    "surface": "ஏதின்மை",
@@ -71,10 +76,10 @@
     {
      "text": "ஏதின்மை",
      "lemma": "ஏதின்மை",
-     "gloss": "enmity"
+     "gloss": "estrangement"
     }
    ],
-   "gloss": "enmity"
+   "gloss": "estrangement"
   },
   {
    "surface": "கோடி",
@@ -85,7 +90,7 @@
      "gloss": "ten million"
     }
    ],
-   "gloss": "ten million (times better)"
+   "gloss": "ten million times"
   },
   {
    "surface": "உறும்",
@@ -93,16 +98,16 @@
     {
      "text": "உறும்",
      "lemma": "உறு",
-     "gloss": "will be"
+     "gloss": "is better"
     }
    ],
-   "gloss": "will be"
+   "gloss": "is better"
   }
  ],
- "literal": "Than a fool's great having-become-intimate friendship, wise people's enmity ten million will be.",
- "translation": "The enmity of the wise is ten million times better than the deep intimacy of a fool.",
- "modern": "அறிவில்லாதவர்களுடன் கொள்ளும் மிக நெருக்கமான நட்பை விட, அறிவுடையவர்களுடன் கொள்ளும் பகைமை கோடி மடங்கு நன்மையைத் தரும்.",
- "explanation": "This couplet contrasts the value of relationships based on the wisdom of the people involved. The word 'பேதை' refers to a fool, and 'பெருங் கெழீஇ' describes an intense, intimate bond. The poet asserts that even the enmity ('ஏதின்மை') of wise people ('அறிவுடையார்') is ten million times ('கோடி') better than such a friendship. This is because the wise, even as enemies, will act with principles and reason, whereas a fool's friendship will inevitably lead to ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than the highly intimate friendship of a fool, the estrangement of those who have wisdom is ten million times better.",
+ "translation": "Rather than the highly intimate friendship of a fool, the complete estrangement of wise people is ten million times better.",
+ "modern": "ஒரு பேதையின் மிக நெருக்கமான நட்பை விட, அறிவுடையவர்களின் பகைமை அல்லது விலகியிருக்கும் தன்மை கோடி மடங்கு மேலானதாகும்.",
+ "explanation": "This couplet contrasts the close friendship of an ignorant person with the complete estrangement of wise people. The word 'பேதை' refers to a fool whose intense intimacy ('பெருங்கெழீஇ நட்பு') is unstable and dangerous. On the other hand, 'ஏதின்மை' refers to being strangers or having no relationship. The poet asserts that having no connection with wise people ('அறிவுடையார்') is ten million ('கோடி') times better ('உறும்') than being close to a fool, because even the indifference of the wise does no harm, whereas the friendship of a fool is inherently ruinous.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

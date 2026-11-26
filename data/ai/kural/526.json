@@ -4,12 +4,17 @@
    "surface": "பெருங்கொடையான்",
    "parts": [
     {
-     "text": "பெருங்கொடையான்",
-     "lemma": "பெருங்கொடையான்",
-     "gloss": "man of great generosity"
+     "text": "பெருங்",
+     "lemma": "பெருமை",
+     "gloss": "great"
+    },
+    {
+     "text": "கொடையான்",
+     "lemma": "கொடையான்",
+     "gloss": "one who is generous"
     }
    ],
-   "gloss": "man of great generosity"
+   "gloss": "one who is very generous"
   },
   {
    "surface": "பேணான்",
@@ -17,10 +22,10 @@
     {
      "text": "பேணான்",
      "lemma": "பேணுதல்",
-     "gloss": "he does not harbor"
+     "gloss": "does not cherish"
     }
    ],
-   "gloss": "he does not harbor"
+   "gloss": "one who does not harbor or cherish"
   },
   {
    "surface": "வெகுளி",
@@ -39,7 +44,7 @@
     {
      "text": "அவன்",
      "lemma": "அவன்",
-     "gloss": "him"
+     "gloss": "he"
     },
     {
      "text": "இன்",
@@ -55,10 +60,10 @@
     {
      "text": "மருங்கு",
      "lemma": "மருங்கு",
-     "gloss": "side/kin"
+     "gloss": "relations or surrounding people"
     }
    ],
-   "gloss": "kin"
+   "gloss": "relations or surrounding people"
   },
   {
    "surface": "உடையார்",
@@ -66,10 +71,10 @@
     {
      "text": "உடையார்",
      "lemma": "உடையார்",
-     "gloss": "possessors"
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "possessors"
+   "gloss": "those who possess"
   },
   {
    "surface": "மாநிலத்து",
@@ -82,10 +87,10 @@
     {
      "text": "நிலத்து",
      "lemma": "நிலம்",
-     "gloss": "in the world"
+     "gloss": "of the earth"
     }
    ],
-   "gloss": "in the great world"
+   "gloss": "on this great earth"
   },
   {
    "surface": "இல்",
@@ -93,16 +98,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "there is no one"
+     "gloss": "there is none"
     }
    ],
-   "gloss": "there is no one"
+   "gloss": "there is none"
   }
  ],
- "literal": "man of great generosity / he harbors not / anger / than him / kin / possessors / in the great world / there are none",
- "translation": "In this vast world, no one has more kin than a man of great generosity who harbors no anger.",
- "modern": "மிகுந்த கொடைத்தன்மை உடையவனாகவும், சினத்தை மனதில் கொள்ளாதவனாகவும் இருப்பவனை விட, இந்தப் பெரிய உலகத்தில் அதிகமான சுற்றத்தாரை உடையவர் வேறு யாரும் இல்லை.",
- "explanation": "This couplet highlights two essential qualities for gathering and keeping a large circle of family and friends: generosity and a mild temper. 'பெருங்கொடையான்' refers to a person who gives freely and abundantly to others. 'பேணான் வெகுளி' describes someone who does not nurse or hold onto anger. The poet asserts that in the entire world ('மாநிலத்து'), no one will be surrounded by more kin ('மருங்கு உடையார்') than a person who combines these two virtues.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "One of great generosity, who does not cherish anger, than him, those who have surrounding relations, on this great earth, there is none.",
+ "translation": "There is no one on this vast earth who possesses more surrounding kinsmen than a person of great generosity who does not harbor anger.",
+ "modern": "பெரிய கொடையாளனாகவும், கோபத்தைக் கொள்ளாதவனாகவும் இருப்பவனை விட, அதிகமான சுற்றத்தாரைப் பெற்றவர் இந்த பெரிய உலகத்தில் யாரும் இல்லை.",
+ "explanation": "This couplet highlights the two essential qualities required to attract and retain a large circle of relatives and friends: boundless generosity and freedom from anger. A person who gives freely to those in need and never harbors resentment or anger will naturally draw people toward them. The poet asserts that such an individual will have the largest network of supportive relations on earth. The word 'maruṅku' refers to one's side or surrounding relations, emphasizing how these virtues keep people closely bound to one's side.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

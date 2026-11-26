@@ -22,10 +22,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive"
+     "gloss": "even/also"
     }
    ],
-   "gloss": "lamps"
+   "gloss": "every lamp"
   },
   {
    "surface": "விளக்கு",
@@ -55,31 +55,26 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "noble people"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the noble ones"
+   "gloss": "to the noble"
   },
   {
    "surface": "பொய்யா",
    "parts": [
     {
-     "text": "பொய்",
+     "text": "பொய்யா",
      "lemma": "பொய்",
-     "gloss": "lie"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "unlying/truthful"
     }
    ],
-   "gloss": "unfailing"
+   "gloss": "unlying"
   },
   {
    "surface": "விளக்கே",
@@ -95,7 +90,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "lamp indeed"
+   "gloss": "the lamp indeed"
   },
   {
    "surface": "விளக்கு",
@@ -106,13 +101,13 @@
      "gloss": "lamp"
     }
    ],
-   "gloss": "lamp"
+   "gloss": "is the lamp"
   }
  ],
- "literal": "All lamps lamps are not; to the noble ones unfailing lamp indeed lamp.",
- "translation": "Not all lamps are true lamps; to the noble, the lamp of truth is the only lamp.",
- "modern": "உலகத்தில் உள்ள எல்லா விளக்குகளும் உண்மையான விளக்குகள் ஆகா. சான்றோர்களுக்குப் பொய் சொல்லாமை என்னும் விளக்கே உண்மையான விளக்கு ஆகும்.",
- "explanation": "This couplet distinguishes between physical light and moral light. While ordinary lamps dispel physical darkness, they are not considered true lamps by the wise. To the noble ones, the unfailing lamp of truthfulness is the only real lamp, as it dispels the darkness of ignorance and deceit. The repetition of the word lamp emphasizes the superiority of inner truth over outer illumination.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "All lamps are not lamps; to the noble, the unlying lamp indeed is the lamp.",
+ "translation": "All external lamps that shed light are not true lamps; to the virtuous, the lamp of truthfulness, which never lies, is the only true lamp.",
+ "modern": "புற இருளை நீக்கும் எல்லா விளக்குகளும் உண்மையான விளக்குகள் அல்ல; சான்றோர்களுக்குப் பொய் சொல்லாத வாய்மை என்னும் விளக்கே உண்மையான விளக்காகும்.",
+ "explanation": "This couplet contrasts physical lamps with the spiritual light of truthfulness. The poet states that ordinary lamps, which merely dispel physical darkness, are not considered true lights by noble minds. For the virtuous, the only real lamp is truthfulness, referred to here as the 'unlying lamp' (poyyā viḷakku). While physical lights can be extinguished and only illuminate the outside, the light of truth shines eternally within, guiding a person's character and dispelling the darkness of ignorance and falsehood.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

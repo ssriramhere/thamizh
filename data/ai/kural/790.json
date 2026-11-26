@@ -6,10 +6,10 @@
     {
      "text": "இனையர்",
      "lemma": "இனையர்",
-     "gloss": "of this nature-they"
+     "gloss": "such persons"
     }
    ],
-   "gloss": "of this nature-they"
+   "gloss": "such persons"
   },
   {
    "surface": "இவர்",
@@ -17,10 +17,10 @@
     {
      "text": "இவர்",
      "lemma": "இவர்",
-     "gloss": "these people"
+     "gloss": "these persons"
     }
    ],
-   "gloss": "these people"
+   "gloss": "these persons"
   },
   {
    "surface": "எமக்கு",
@@ -39,10 +39,10 @@
     {
      "text": "இன்னம்",
      "lemma": "இன்னம்",
-     "gloss": "of this nature-we"
+     "gloss": "of such nature"
     }
    ],
-   "gloss": "of this nature-we"
+   "gloss": "of such nature"
   },
   {
    "surface": "யாம்",
@@ -70,9 +70,14 @@
    "surface": "புனையினும்",
    "parts": [
     {
-     "text": "புனையினும்",
+     "text": "புனை",
      "lemma": "புனை",
-     "gloss": "even if praised"
+     "gloss": "praise"
+    },
+    {
+     "text": "இனும்",
+     "lemma": "உம்",
+     "gloss": "even if"
     }
    ],
    "gloss": "even if praised"
@@ -83,10 +88,10 @@
     {
      "text": "புல்",
      "lemma": "புல்",
-     "gloss": "worthless"
+     "gloss": "mean"
     }
    ],
-   "gloss": "worthless"
+   "gloss": "mean or trivial"
   },
   {
    "surface": "என்னும்",
@@ -94,10 +99,10 @@
     {
      "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "will say"
+     "gloss": "will be called"
     }
    ],
-   "gloss": "will say"
+   "gloss": "will be called"
   },
   {
    "surface": "நட்பு",
@@ -111,10 +116,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "\"Of this nature they [are] to us, of this nature we [are]\" saying, even if praised, worthless will say friendship.",
- "translation": "Even if praised by saying, \"They mean this much to us, and we mean this much to them,\" such friendship will be considered worthless.",
- "modern": "இவர் நமக்கு இவ்வளவு நெருக்கமானவர், நாம் இவருக்கு இவ்வளவு நெருக்கமானவர்கள் என்று வார்த்தைகளால் புகழ்ந்து கூறினாலும், அந்த நட்பு சிறப்பற்றது என்றே கருதப்படும்.",
- "explanation": "This couplet emphasizes that true friendship transcends verbal expression and boasting. When friends feel the need to constantly measure and praise their bond by saying 'they are this much to us, and we are this much to them,' it reveals an artificiality. Genuine affection is felt deeply and silently; decorating it with words only makes the friendship appear cheap and insignificant.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Such persons these are to us, of such nature we are [to them], saying thus, even if praised, mean will be called friendship.",
+ "translation": "Even if one praises a friendship by boasting, 'They are of such great value to us, and we are of such nature to them,' that friendship becomes trivial and loses its dignity.",
+ "modern": "இவர் நமக்கு இப்படிப்பட்டவர், நாம் இவருக்கு இப்படிப்பட்டவர் என்று பெருமையாகச் சொன்னாலும், அந்த நட்பு தன் பெருமையை இழந்து சிறுமைப்பட்டுப் போகும்.",
+ "explanation": "This couplet teaches that true friendship does not require boastful words or public declarations of mutual value. When friends start defining and measuring their relationship by saying, 'They are so good to us, and we are like this to them,' the friendship loses its natural depth and becomes trivial ('புல்'). True friendship is an unspoken, deep connection that does not need to be calculated or advertised. Embellishing or praising it with such words only diminishes its true worth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

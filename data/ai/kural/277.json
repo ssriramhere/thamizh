@@ -17,10 +17,10 @@
     {
      "text": "குன்றி",
      "lemma": "குன்றி",
-     "gloss": "kunri seed"
+     "gloss": "crab's eye seed"
     }
    ],
-   "gloss": "kunri seed"
+   "gloss": "crab's eye seed"
   },
   {
    "surface": "கண்டனையர்",
@@ -32,11 +32,11 @@
     },
     {
      "text": "அனையர்",
-     "lemma": "அனை",
-     "gloss": "they are like"
+     "lemma": "அனையர்",
+     "gloss": "those who are like"
     }
    ],
-   "gloss": "they look like"
+   "gloss": "those who are like what is seen"
   },
   {
    "surface": "ஏனும்",
@@ -44,10 +44,10 @@
     {
      "text": "ஏனும்",
      "lemma": "ஏனும்",
-     "gloss": "even if"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "அகம்",
@@ -66,23 +66,23 @@
     {
      "text": "குன்றி",
      "lemma": "குன்றி",
-     "gloss": "kunri seed"
+     "gloss": "crab's eye seed"
     }
    ],
-   "gloss": "kunri seed"
+   "gloss": "crab's eye seed"
   },
   {
    "surface": "முக்கில்",
    "parts": [
     {
      "text": "முக்கு",
-     "lemma": "முக்கு",
-     "gloss": "tip"
+     "lemma": "மூக்கு",
+     "gloss": "tip or nose"
     },
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "in"
+     "gloss": "at"
     }
    ],
    "gloss": "at the tip"
@@ -91,17 +91,12 @@
    "surface": "கரியார்",
    "parts": [
     {
-     "text": "கரி",
-     "lemma": "கரி",
-     "gloss": "black"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they are"
+     "text": "கரியார்",
+     "lemma": "கரியார்",
+     "gloss": "those who are black"
     }
    ],
-   "gloss": "they are black"
+   "gloss": "those who are black-hearted"
   },
   {
    "surface": "உடைத்து",
@@ -109,16 +104,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it has"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it has"
+   "gloss": "possesses"
   }
  ],
- "literal": "outside kunri-seed having-seen-they-are-like even-if inside kunri-seed tip-in they-are-black it-has",
- "translation": "The world has people who look as fair as the kunri seed on the outside, but are as black as its tip on the inside.",
- "modern": "வெளியில் குன்றிமணியைப் போலச் சிவப்பாகவும் அழகாகவும் காணப்பட்டாலும், உள்ளத்தில் அந்தக் குன்றிமணியின் மூக்கைப் போலக் கருமையான எண்ணம் கொண்டவர்களை இவ்வுலகம் கொண்டுள்ளது.",
- "explanation": "This couplet uses the image of the kunri seed, which is bright red but has a black tip. It compares hypocrites to this seed. On the outside, they appear pure and virtuous, but on the inside, their minds are dark with deceit. The word 'uṭaittu' implies that the world unfortunately contains such deceptive people.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they are like the outside of a crab's eye seed, the world possesses those who are black inside like its tip.",
+ "translation": "Though they appear as bright red as the outside of a crab's eye seed, the world contains those whose hearts are as black as that seed's tip.",
+ "modern": "வெளியே குன்றிமணியின் சிவந்த நிறத்தைப் போல நல்லவர்களாகக் தோன்றினாலும், உள்ளே அக்குன்றிமணியின் மூக்கைப் போலக் கரிய மனமுடையவர்களை இவ்வுலகம் கொண்டுள்ளது.",
+ "explanation": "This couplet uses the striking image of the 'kunri' seed (crab's eye seed) to expose hypocrites who practice false asceticism. The seed is brilliantly red and beautiful on the outside, but has a distinct black spot at its tip. Similarly, some people appear pure, virtuous, and radiant on the outside, but their inner minds are filled with dark, evil thoughts. The poet warns that the world contains such deceptive individuals, urging us to look beyond outward appearances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

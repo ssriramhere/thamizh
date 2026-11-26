@@ -9,7 +9,8 @@
      "gloss": "clear water"
     }
    ],
-   "gloss": "clear water"
+   "gloss": "clear water",
+   "split_unverified": true
   },
   {
    "surface": "அடுபுற்கை",
@@ -17,7 +18,7 @@
     {
      "text": "அடு",
      "lemma": "அடு",
-     "gloss": "cooked"
+     "gloss": "to cook"
     },
     {
      "text": "புற்கை",
@@ -32,7 +33,7 @@
    "parts": [
     {
      "text": "ஆயினும்",
-     "lemma": "ஆகுதல்",
+     "lemma": "ஆயினும்",
      "gloss": "even if it is"
     }
    ],
@@ -54,19 +55,24 @@
    "parts": [
     {
      "text": "தந்தது",
-     "lemma": "தருதல்",
-     "gloss": "that which gave"
+     "lemma": "தரு",
+     "gloss": "that which was yielded"
     }
    ],
-   "gloss": "that which gave"
+   "gloss": "that which was yielded"
   },
   {
    "surface": "உண்ணலின்",
    "parts": [
     {
-     "text": "உண்ணலின்",
+     "text": "உண்ணல்",
      "lemma": "உண்ணல்",
-     "gloss": "than eating"
+     "gloss": "eating"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
     }
    ],
    "gloss": "than eating"
@@ -77,17 +83,17 @@
     {
      "text": "ஊங்கு",
      "lemma": "ஊங்கு",
-     "gloss": "more"
+     "gloss": "more than"
     }
    ],
-   "gloss": "more"
+   "gloss": "more than"
   },
   {
    "surface": "இனியது",
    "parts": [
     {
      "text": "இனியது",
-     "lemma": "இனியது",
+     "lemma": "இனிது",
      "gloss": "sweet thing"
     }
    ],
@@ -99,16 +105,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is nothing"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is nothing"
   }
  ],
- "literal": "clear water cooked gruel even if it is, effort gave that than eating more sweet thing is not.",
- "translation": "Even if it is just thin gruel cooked with clear water, there is nothing sweeter than eating the food produced by one's own labor.",
- "modern": "வெறும் தெளிந்த நீரைப் போன்ற மெலிதான கஞ்சியாக இருந்தாலும், தன் உழைப்பால் கிடைத்ததை உண்பதை விட இனிமையானது வேறு இல்லை.",
- "explanation": "This couplet emphasizes the dignity and joy of self-reliance. Thin gruel cooked with clear water represents the poorest of meals. Yet, if it is earned through one's own hard work, eating it brings a sweetness unmatched by any rich feast obtained through begging.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if it is cooked gruel made of clear water, than eating that which was yielded by one's own effort, a sweeter thing there is not.",
+ "translation": "Even if it is mere gruel cooked with clear water, there is nothing sweeter than eating that which is earned by one's own effort.",
+ "modern": "தெளிந்த நீரால் சமைக்கப்பட்ட கஞ்சி என்றாலும், தன் முயற்சியால் கிடைத்ததை உண்பதை விட இனிமையானது வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the sweetness of self-reliance and honest labor. The poet compares a simple, watery gruel (தெண்ணீர் அடுபுற்கை) earned through one's own effort (தாள் தந்தது) to any other food. Eating what is obtained by one's own exertion is described as the sweetest experience, far superior to living on charity or begging. The key words 'தாள்' (effort) and 'உண்ணலின் ஊங்கினிய தில்' (nothing is sweeter than eating) emphasize that independence brings unmatched joy and dignity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

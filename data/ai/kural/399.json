@@ -17,26 +17,26 @@
     {
      "text": "இன்பு",
      "lemma": "இன்பு",
-     "gloss": "joy"
+     "gloss": "pleasure"
     },
     {
      "text": "உறுவது",
      "lemma": "உறு",
-     "gloss": "that which experiences"
+     "gloss": "experiencing"
     }
    ],
-   "gloss": "that which brings joy"
+   "gloss": "that which they enjoy"
   },
   {
    "surface": "உலகு",
    "parts": [
     {
      "text": "உலகு",
-     "lemma": "உலகு",
+     "lemma": "உலகம்",
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "இன்புற",
@@ -44,7 +44,7 @@
     {
      "text": "இன்பு",
      "lemma": "இன்பு",
-     "gloss": "joy"
+     "gloss": "pleasure"
     },
     {
      "text": "உற",
@@ -69,9 +69,14 @@
    "surface": "காமுறுவர்",
    "parts": [
     {
-     "text": "காமுறுவர்",
-     "lemma": "காமுறு",
-     "gloss": "they will desire"
+     "text": "காம்",
+     "lemma": "காமம்",
+     "gloss": "desire"
+    },
+    {
+     "text": "உறுவர்",
+     "lemma": "உறு",
+     "gloss": "they will experience"
     }
    ],
    "gloss": "they will desire"
@@ -93,16 +98,16 @@
     {
      "text": "அறிந்தார்",
      "lemma": "அறி",
-     "gloss": "those who know"
+     "gloss": "those who knew"
     }
    ],
-   "gloss": "the wise"
+   "gloss": "those who have acquired knowledge"
   }
  ],
- "literal": "Themselves that which brings joy, the world rejoicing having seen, they will desire, having learned those who know.",
- "translation": "Seeing the world rejoice in the very learning that brings them joy, the wise will love learning all the more.",
- "modern": "தாம் இன்பம் அடையும் கல்வியால் உலகமும் இன்பம் அடைவதைப் பார்த்து, கற்றறிந்த அறிஞர்கள் அக்கல்வியின் மீது மேலும் விருப்பம் கொள்வார்கள்.",
- "explanation": "This couplet explains the self-reinforcing nature of learning. The learned find immense personal joy in their knowledge. When they share this knowledge and see the world also rejoicing in it, their love for learning deepens. The word 'காமுறுவர்' (they will desire or love) shows that the pursuit of knowledge becomes a passionate, lifelong endeavor driven by both personal fulfillment and the joy it brings to others.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Themselves that which they enjoy, the world to rejoice having seen, they will desire, those who have learned and known.",
+ "translation": "Seeing that the world rejoices in the very knowledge that they themselves enjoy, those who have learned and acquired wisdom will desire to learn even more.",
+ "modern": "தாம் இன்பம் அடையும் கல்வியறிவை உலகமும் பெற்று இன்பமடைவதைக் கண்டு, கற்றறிந்தவர்கள் மேலும் மேலும் கற்க விரும்புவார்கள்.",
+ "explanation": "This couplet highlights the profound joy of learning and its social impact. Scholars find personal delight in their own wisdom, but their joy is multiplied when they see the world benefit and rejoice from that same knowledge. The term 'காமுறுவர்' indicates a passionate desire or love, showing that the learned do not grow weary of study; instead, seeing others happy because of their knowledge inspires them to pursue learning even more eagerly.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

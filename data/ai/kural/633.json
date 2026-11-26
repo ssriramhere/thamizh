@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "பிரித்தல்",
-     "lemma": "பிரி",
+     "lemma": "பிரித்தல்",
      "gloss": "separating"
     },
     {
@@ -14,14 +14,14 @@
      "gloss": "and"
     }
    ],
-   "gloss": "separating and"
+   "gloss": "and separating (enemies)"
   },
   {
    "surface": "பேணி",
    "parts": [
     {
      "text": "பேணி",
-     "lemma": "பேண்",
+     "lemma": "பேணு",
      "gloss": "cherishing"
     }
    ],
@@ -33,7 +33,7 @@
     {
      "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "keeping"
+     "gloss": "securing"
     },
     {
      "text": "உம்",
@@ -41,7 +41,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "keeping and"
+   "gloss": "and securing (allies)"
   },
   {
    "surface": "பிரிந்தார்",
@@ -60,7 +60,7 @@
     {
      "text": "பொருத்தல்",
      "lemma": "பொருத்து",
-     "gloss": "uniting"
+     "gloss": "reuniting"
     },
     {
      "text": "உம்",
@@ -68,7 +68,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "uniting and"
+   "gloss": "and reuniting"
   },
   {
    "surface": "வல்லது",
@@ -76,10 +76,10 @@
     {
      "text": "வல்லது",
      "lemma": "வல்",
-     "gloss": "that which is capable"
+     "gloss": "that which is capable of"
     }
    ],
-   "gloss": "that which is capable"
+   "gloss": "that which is capable of"
   },
   {
    "surface": "அமைச்சு",
@@ -87,16 +87,16 @@
     {
      "text": "அமைச்சு",
      "lemma": "அமைச்சு",
-     "gloss": "minister"
+     "gloss": "ministry"
     }
    ],
-   "gloss": "minister"
+   "gloss": "ministry"
   }
  ],
- "literal": "Separating and, cherishing keeping and, those who separated uniting and, that which is capable (is) minister.",
- "translation": "A minister is one who is capable of dividing foes, cherishing and keeping allies, and reuniting those who have separated.",
- "modern": "பகைவர்களைப் பிரிப்பதும், நண்பர்களைப் பாதுகாத்துத் தன்னுடனே வைத்துக் கொள்வதும், பிரிந்து சென்றவர்களை மீண்டும் சேர்த்து வைப்பதும் ஆகிய செயல்களில் வல்லவரே அமைச்சர் ஆவார்.",
- "explanation": "This couplet defines the core diplomatic capabilities of a minister. The word 'பிரித்தலும்' refers to the ability to separate enemies from their allies. 'பேணிக் கொளலும்' means carefully maintaining existing alliances. Finally, 'பிரிந்தார் பொருத்தலும்' highlights the skill of reconciling and reuniting with those who have previously estranged themselves. A true minister ('அமைச்சு') is one who is capable ('வல்லது') of executing all these three strategies effectively.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And separating (enemies), cherishing and securing (allies), and reuniting those who separated, is that which a ministry is capable of.",
+ "translation": "A minister is one who is capable of dividing enemies, cherishing and securing allies, and winning back those who have parted ways.",
+ "modern": "பகைவர்களைப் பிரிப்பதும், தன் பக்கமுள்ளவர்களைப் பேணிக் காத்துக் கொள்வதும், பிரிந்து சென்றவர்களை மீண்டும் சேர்த்துக் கொள்வதும் செய்ய வல்லவரே அமைச்சர் ஆவார்.",
+ "explanation": "This couplet defines the core diplomatic duties of an able minister. First, a minister must know how to divide the allies of enemies (pirittal) to weaken them. Second, they must cherish and secure their own allies (pēṇik koḷal) to maintain strength. Third, they must be skilled at reconciling and bringing back those who have previously separated or defected (pirintārp poruttal). A true ministry is defined by the capability to perform these three strategic actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

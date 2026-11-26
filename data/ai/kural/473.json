@@ -4,12 +4,17 @@
    "surface": "உடைத்தம்",
    "parts": [
     {
-     "text": "உடைத்தம்",
-     "lemma": "உடைத்தம்",
-     "gloss": "one's own"
+     "text": "உடைத்து",
+     "lemma": "உடைத்து",
+     "gloss": "one's own measure"
+    },
+    {
+     "text": "அம்",
+     "lemma": "அம்",
+     "gloss": "inflectional increment"
     }
    ],
-   "gloss": "one's own"
+   "gloss": "their own measure"
   },
   {
    "surface": "வலி",
@@ -31,17 +36,12 @@
      "gloss": "know"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (negative)"
+     "gloss": "they who (negative)"
     }
    ],
-   "gloss": "knowing not"
+   "gloss": "those who do not know"
   },
   {
    "surface": "ஊக்கத்தின்",
@@ -49,31 +49,26 @@
     {
      "text": "ஊக்கத்து",
      "lemma": "ஊக்கம்",
-     "gloss": "zeal"
+     "gloss": "zeal/enthusiasm"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "out of"
+     "gloss": "by/through"
     }
    ],
-   "gloss": "out of zeal"
+   "gloss": "by mere enthusiasm"
   },
   {
    "surface": "ஊக்கி",
    "parts": [
     {
-     "text": "ஊக்கு",
+     "text": "ஊக்கி",
      "lemma": "ஊக்கு",
-     "gloss": "urge/act with zeal"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having been spurred on"
     }
    ],
-   "gloss": "having started"
+   "gloss": "spurred on / excited"
   },
   {
    "surface": "இடைக்கண்",
@@ -84,17 +79,12 @@
      "gloss": "middle"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at"
+     "gloss": "locative suffix (in/at)"
     }
    ],
-   "gloss": "in the middle"
+   "gloss": "in the middle / midway"
   },
   {
    "surface": "முரிந்தார்",
@@ -107,10 +97,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "broke down"
+   "gloss": "they who broke down"
   },
   {
    "surface": "பலர்",
@@ -118,16 +108,16 @@
     {
      "text": "பலர்",
      "lemma": "பலர்",
-     "gloss": "many"
+     "gloss": "many people"
     }
    ],
-   "gloss": "many"
+   "gloss": "many people"
   }
  ],
- "literal": "Their own strength knowing not, out of zeal having started, in the middle broke down many.",
- "translation": "Many have broken down midway through an undertaking, having started it out of mere zeal without knowing their own strength.",
- "modern": "தமக்கு உள்ள வலிமையின் அளவை அறியாமல், வெறும் மன எழுச்சியினால் ஒரு செயலைத் தொடங்கி, அதை முடிக்க முடியாமல் இடையில் கெட்டவர்கள் பலர்.",
- "explanation": "This couplet warns against starting tasks based purely on enthusiasm without assessing one's actual capabilities. The word 'ஊக்கத்தின்' highlights that zeal alone is the driving force here, which is insufficient for success. Consequently, 'இடைக்கண் முரிந்தார்' vividly describes how such people break down or fail midway through their endeavors.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Their own strength not knowing, by mere enthusiasm spurred on, in the middle broke down many.",
+ "translation": "Many are those who, not knowing the measure of their own strength, are spurred on by mere enthusiasm and break down midway.",
+ "modern": "தங்கள் சொந்த வலிமையை அறியாமல், வெறும் ஆர்வத்தினால் மட்டும் தூண்டப்பட்டுச் செயலில் இறங்கி, வழியிலேயே அழிந்துபோனவர்கள் பலர்.",
+ "explanation": "This couplet warns against starting an enterprise based solely on passion without assessing one's actual capability. 'உடைத்தம் வலி' refers to one's own strength or resources, which must be measured realistically. 'ஊக்கம்' means zeal or enthusiasm, which is a powerful motivator but dangerous when blind. Those who act out of mere excitement without self-evaluation are described as 'இடைக்கண் முரிந்தார்'—they break down and fail halfway through their journey.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,20 +6,15 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "affliction"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
-   "gloss": "to sorrow"
+   "gloss": "to affliction"
   },
   {
    "surface": "இடும்பை",
@@ -27,33 +22,18 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "affliction"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "affliction"
   },
   {
    "surface": "படுப்பர்",
    "parts": [
     {
-     "text": "படு",
-     "lemma": "படு",
-     "gloss": "to inflict"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "படுப்பர்",
+     "lemma": "படுத்து",
+     "gloss": "they will inflict"
     }
    ],
    "gloss": "they will inflict"
@@ -64,20 +44,15 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "affliction"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
-   "gloss": "to sorrow"
+   "gloss": "to affliction"
   },
   {
    "surface": "இடும்பை",
@@ -85,47 +60,32 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "affliction"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "affliction"
   },
   {
    "surface": "படாஅதவர்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படாஅ",
      "lemma": "படு",
-     "gloss": "to suffer"
+     "gloss": "not suffering"
     },
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "metric elongation"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அவர்",
+     "text": "தவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who"
     }
    ],
    "gloss": "those who do not suffer"
   }
  ],
- "literal": "To sorrow sorrow they will inflict, to sorrow sorrow those who do not suffer.",
- "translation": "Those who do not suffer sorrow when facing sorrow will inflict sorrow upon sorrow itself.",
- "modern": "துன்பம் வந்த போது அதற்காகத் துன்பப்படாதவர்கள், அந்தத் துன்பத்திற்கே துன்பத்தை உண்டாக்குவார்கள்.",
- "explanation": "This couplet plays on the word 'இடும்பை' (sorrow or affliction) to emphasize mental resilience. When trouble arrives, an ordinary person feels sorrow. However, those who refuse to be troubled by trouble turn the tables on adversity. By remaining unbroken, they effectively inflict suffering upon suffering itself, defeating it completely.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To affliction, affliction they will inflict, who to affliction do not suffer.",
+ "translation": "Those who do not lose heart and suffer when affliction comes will themselves inflict affliction upon that affliction.",
+ "modern": "துன்பம் வரும்போது அதற்காக வருந்தாதவர்கள், அந்தத் துன்பத்திற்கே துன்பத்தை உண்டாக்குவார்கள்.",
+ "explanation": "This couplet emphasizes the power of resilience in the face of adversity. The poet uses a powerful repetition of the word 'idumbai' (affliction) to illustrate a psychological triumph. When a person refuses to be broken or saddened by difficulties, they effectively disarm the trouble itself. Instead of the individual suffering, the distress is defeated and forced to retreat, meaning the resilient person inflicts suffering upon the suffering itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

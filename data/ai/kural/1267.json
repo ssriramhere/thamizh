@@ -5,23 +5,18 @@
    "parts": [
     {
      "text": "புல",
-     "lemma": "புல",
+     "lemma": "புலத்தல்",
      "gloss": "to sulk"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஏன்",
      "lemma": "ஏன்",
-     "gloss": "1st person singular suffix"
+     "gloss": "I"
     }
    ],
    "gloss": "I will sulk"
@@ -35,14 +30,14 @@
      "gloss": "particle of doubt"
     }
    ],
-   "gloss": "shall I"
+   "gloss": "or / whether"
   },
   {
    "surface": "புல்லுவேன்",
    "parts": [
     {
      "text": "புல்லு",
-     "lemma": "புல்",
+     "lemma": "புல்லுதல்",
      "gloss": "to embrace"
     },
     {
@@ -53,7 +48,7 @@
     {
      "text": "ஏன்",
      "lemma": "ஏன்",
-     "gloss": "1st person singular suffix"
+     "gloss": "I"
     }
    ],
    "gloss": "I will embrace"
@@ -69,33 +64,28 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "alternative marker"
+     "gloss": "clitic of emphasis"
     }
    ],
-   "gloss": "or shall I"
+   "gloss": "or indeed"
   },
   {
    "surface": "கலப்பேன்",
    "parts": [
     {
      "text": "கல",
-     "lemma": "கல",
+     "lemma": "கலத்தல்",
      "gloss": "to unite"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஏன்",
      "lemma": "ஏன்",
-     "gloss": "1st person singular suffix"
+     "gloss": "I"
     }
    ],
    "gloss": "I will unite"
@@ -109,7 +99,7 @@
      "gloss": "particle of doubt"
     }
    ],
-   "gloss": "or shall I"
+   "gloss": "or / whether"
   },
   {
    "surface": "கண்",
@@ -139,27 +129,27 @@
     {
      "text": "கேளிர்",
      "lemma": "கேளிர்",
-     "gloss": "lover"
+     "gloss": "beloved"
     }
    ],
-   "gloss": "lover"
+   "gloss": "beloved"
   },
   {
    "surface": "விரன்",
    "parts": [
     {
      "text": "விரன்",
-     "lemma": "வா",
-     "gloss": "if comes"
+     "lemma": "விரன்",
+     "gloss": "husband"
     }
    ],
-   "gloss": "if comes"
+   "gloss": "husband"
   }
  ],
- "literal": "Shall I sulk? Shall I embrace? Or shall I unite? Eye-like lover if comes.",
- "translation": "When my lover, who is as precious as my own eyes, returns, shall I sulk? Shall I embrace him? Or shall I do both and unite with him?",
- "modern": "என் கண்களைப் போன்ற காதலர் திரும்பி வந்தால், நான் அவரிடம் ஊடல் கொள்வேனா? அல்லது அவரைத் தழுவுவேனா? அல்லது ஊடலும் தழுவலும் கலந்து அவரோடு இணைவேனா?",
- "explanation": "The speaker eagerly anticipates the return of her lover, who is as essential and dear to her as her own eyes. She playfully debates with herself about how she will react when he finally arrives. She wonders whether she should feign anger for his long absence, simply embrace him out of joy, or mingle both reactions together. This internal debate highlights her overwhelming love and the restless excitement of her waiting.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Shall I sulk? Or shall I embrace? Or shall I unite, when the husband who is like my eyes [is here]?",
+ "translation": "Shall I feign anger? Shall I embrace him? Or shall I immediately unite with him, now that my beloved husband, who is as precious as my own eyes, is here?",
+ "modern": "என் கண் போன்ற காதலராகிய என் கணவர் வரும்போது, நான் அவரிடம் ஊடல் கொள்வேனா? அல்லது அவரைத் தழுவுவேனா? அல்லது அவருடன் உடனே ஒன்றுபடுவேனா?",
+ "explanation": "The heroine is filled with intense excitement and sweet confusion upon the arrival of her beloved husband, who is as precious to her as her own eyes. She is caught in a dilemma of love, wondering whether she should first show feigned anger to punish him for his absence, immediately embrace him out of longing, or completely lose herself in union with him. The repeated use of the doubtful particles 'kol' and 'kollō' beautifully conveys her racing thoughts and the overwhelming rush of emotions she experiences.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

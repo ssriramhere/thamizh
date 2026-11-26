@@ -9,12 +9,17 @@
      "gloss": "ploughing"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
+     "text": "இன்",
+     "lemma": "இன்",
      "gloss": "than"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "than ploughing"
+   "gloss": "even more than ploughing"
   },
   {
    "surface": "நன்று",
@@ -25,7 +30,7 @@
      "gloss": "good"
     }
    ],
-   "gloss": "is better"
+   "gloss": "is good"
   },
   {
    "surface": "ஆல்",
@@ -65,11 +70,11 @@
    "parts": [
     {
      "text": "கட்ட",
-     "lemma": "கட்டு",
-     "gloss": "weeded"
+     "lemma": "கட்டல்",
+     "gloss": "weeding"
     }
    ],
-   "gloss": "weeded"
+   "gloss": "weeding"
   },
   {
    "surface": "பின்",
@@ -91,12 +96,17 @@
      "gloss": "water"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
+     "text": "இன்",
+     "lemma": "இன்",
      "gloss": "than"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "than watering"
+   "gloss": "even more than watering"
   },
   {
    "surface": "நன்று",
@@ -107,20 +117,15 @@
      "gloss": "good"
     }
    ],
-   "gloss": "is better"
+   "gloss": "is good"
   },
   {
    "surface": "அதன்",
    "parts": [
     {
-     "text": "அது",
+     "text": "அதன்",
      "lemma": "அது",
-     "gloss": "it"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "oblique suffix"
+     "gloss": "its"
     }
    ],
    "gloss": "its"
@@ -137,10 +142,10 @@
    "gloss": "protection"
   }
  ],
- "literal": "Than ploughing, is better indeed manure applying; weeded after, than watering, is better its protection.",
- "translation": "Applying manure is even better than ploughing. After weeding, protecting the crop is even better than watering it.",
- "modern": "நிலத்தை உழுவதை விட எரு இடுவது மிகவும் நல்லது. களை எடுத்த பிறகு, நீர் பாய்ச்சுவதை விடப் பயிரைப் பாதுகாப்பது மிகவும் நல்லது.",
- "explanation": "This couplet outlines the relative importance of different agricultural practices. It states that applying manure yields better results than merely ploughing the land. Furthermore, once the weeds have been removed, guarding the crop from pests and animals is even more crucial than watering it. The word 'கட்ட' refers to the act of weeding, emphasizing that protection ('காப்பு') is the ultimate step to ensure a good harvest.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even than ploughing, good indeed is applying manure; after weeding, even than watering, good is its protection.",
+ "translation": "Applying manure is better than mere ploughing; and once weeding is done, guarding the crop is even more important than watering it.",
+ "modern": "ஏர் பூட்டி உழுவதை விட எருவிடுவது நல்லது; களை எடுத்த பிறகு, நீர் பாய்ச்சுவதை விட பயிரைக் காவல் காப்பது நல்லது.",
+ "explanation": "This couplet outlines the practical hierarchy of agricultural tasks to ensure a bountiful harvest. The author explains that while ploughing ('ஏர்') is the fundamental first step, applying manure ('எரு விடுதல்') is far more beneficial to the soil's fertility. Similarly, once the weeds are cleared ('கட்ட பின்'), protecting the growing crop ('காப்பு') from external threats is even more critical than watering it ('நீர்'). The verse emphasizes that consistent care and vigilant protection are the ultimate keys to farming success.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

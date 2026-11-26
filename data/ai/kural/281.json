@@ -4,17 +4,12 @@
    "surface": "எள்ளாமை",
    "parts": [
     {
-     "text": "எள்",
-     "lemma": "எள்ளு",
-     "gloss": "to despise"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "எள்ளாமை",
+     "lemma": "எள்ளாமை",
+     "gloss": "not being despised"
     }
    ],
-   "gloss": "not being despised"
+   "gloss": "freedom from contempt"
   },
   {
    "surface": "வேண்டுவான்",
@@ -22,17 +17,12 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "text": "வான்",
+     "lemma": "வான்",
+     "gloss": "he who"
     }
    ],
    "gloss": "he who desires"
@@ -43,20 +33,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "text": "பான்",
+     "lemma": "பான்",
+     "gloss": "he who"
     }
    ],
-   "gloss": "he who is called"
+   "gloss": "he who says"
   },
   {
    "surface": "எனைத்து",
@@ -64,10 +49,10 @@
     {
      "text": "எனைத்து",
      "lemma": "எனைத்து",
-     "gloss": "whatever measure"
+     "gloss": "of whatever measure"
     }
    ],
-   "gloss": "of whatever measure"
+   "gloss": "of whatever small measure"
   },
   {
    "surface": "ஒன்றும்",
@@ -75,7 +60,7 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one thing"
+     "gloss": "one"
     },
     {
      "text": "உம்",
@@ -83,7 +68,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even one thing"
+   "gloss": "even a single thing"
   },
   {
    "surface": "கள்ளாமை",
@@ -91,12 +76,12 @@
     {
      "text": "கள்",
      "lemma": "கள்",
-     "gloss": "to steal"
+     "gloss": "steal"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not doing"
     }
    ],
    "gloss": "not stealing"
@@ -107,17 +92,12 @@
     {
      "text": "கா",
      "lemma": "கா",
-     "gloss": "to guard"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "guard"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "let"
     }
    ],
    "gloss": "let him guard"
@@ -128,10 +108,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "his"
+     "gloss": "one's own"
     }
    ],
-   "gloss": "his"
+   "gloss": "his own"
   },
   {
    "surface": "நெஞ்சு",
@@ -145,10 +125,10 @@
    "gloss": "mind"
   }
  ],
- "literal": "Not being despised he who desires he who is called, of whatever measure even one thing, not stealing let him guard his mind.",
- "translation": "He who wishes to live without being despised must guard his mind against even the slightest thought of stealing.",
- "modern": "பிறரால் இகழப்படாமல் வாழ விரும்புபவன், எவ்வளவோ சிறியதாயினும் எந்தவொரு பொருளையும் திருட நினைக்காதவாறு தன் நெஞ்சைக் காக்க வேண்டும்.",
- "explanation": "This couplet teaches that a respectable life requires strict inner discipline. The phrase 'எள்ளாமை வேண்டுவான்' describes someone who wishes to avoid being despised by society. To maintain this honor, he is instructed to guard his mind ('தன் நெஞ்சு காக்க') against the very thought of stealing ('கள்ளாமை'). The words 'எனைத்து ஒன்றும்' emphasize that this rule applies to absolutely anything, no matter how trivial, showing that true honesty is a state of mind before it is an action.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who says he desires freedom from contempt, let him guard his own mind against stealing even a single thing of whatever small measure.",
+ "translation": "He who wishes not to be despised by others must guard his own mind against the thought of stealing anything, however small.",
+ "modern": "பிறரால் இகழப்படாமல் வாழ விரும்புகிறேன் என்று சொல்பவன், எந்த ஒரு சிறிய பொருளையும் திருட நினைக்காதவாறு தன் நெஞ்சைக் காத்துக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet explains that self-respect and avoiding the scorn of others begin with mental discipline. If a person desires to live without being looked down upon, they must protect their mind from even the slightest thought of theft. The word 'eḷḷāmai' refers to the state of not being despised, and 'kaḷḷāmai' refers to non-stealing. The poet emphasizes that even a tiny, hidden desire to take what belongs to another can ruin one's honor, so the mind itself must be guarded.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

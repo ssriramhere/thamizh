@@ -11,12 +11,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case marker"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "dative suffix"
     }
    ],
    "gloss": "to the eye"
@@ -48,10 +48,10 @@
     {
      "text": "ஓட்டம்",
      "lemma": "ஓட்டம்",
-     "gloss": "flow"
+     "gloss": "flowing/kindness"
     }
    ],
-   "gloss": "graciousness"
+   "gloss": "benignity"
   },
   {
    "surface": "அஃது",
@@ -70,7 +70,7 @@
     {
      "text": "இன்று",
      "lemma": "இன்று",
-     "gloss": "without"
+     "gloss": "not being"
     },
     {
      "text": "ஏல்",
@@ -78,7 +78,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if without"
+   "gloss": "if it is not there"
   },
   {
    "surface": "புண்",
@@ -86,7 +86,7 @@
     {
      "text": "புண்",
      "lemma": "புண்",
-     "gloss": "sore"
+     "gloss": "sore/wound"
     }
    ],
    "gloss": "sore"
@@ -96,7 +96,7 @@
    "parts": [
     {
      "text": "என்று",
-     "lemma": "என்று",
+     "lemma": "என்",
      "gloss": "as"
     }
    ],
@@ -106,39 +106,29 @@
    "surface": "உணர",
    "parts": [
     {
-     "text": "உணர்",
+     "text": "உணர",
      "lemma": "உணர்",
-     "gloss": "perceive"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to understand"
     }
    ],
-   "gloss": "to be perceived"
+   "gloss": "to be understood"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "passive auxiliary"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will be"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "To the eye, ornament is graciousness; that if without, sore as to be perceived it will be.",
- "translation": "Graciousness is the true ornament for the eyes. Without it, they will be considered mere sores.",
- "modern": "கண்களுக்கு உண்மையான அணிகலன் இரக்கமாகும். அந்த இரக்கம் இல்லாவிட்டால், கண்கள் முகத்தில் உள்ள வெறும் புண்கள் என்றே கருதப்படும்.",
- "explanation": "This couplet defines the true purpose and beauty of the eyes. The word 'kaṇṇōṭṭam' literally means the flowing of the eyes, which signifies a gracious, compassionate look towards others. The poet states that this graciousness is the only real ornament ('aṇikalam') for the eyes. If the eyes lack this quality, they are not truly eyes but will be perceived merely as sores ('puṇ') on the face. The contrast between a beautiful jewel and a painful sore emphasizes that physical eyes are worthless without inner kindness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the eye, the ornament is benignity; if that is absent, it will be understood as a sore.",
+ "translation": "The true ornament of the eye is benignity; if that is lacking, those eyes will be regarded as mere sores.",
+ "modern": "கண்ணுக்கு உண்மையான அணிகலன் கண்ணோட்டம் (இரக்கம்) ஆகும்; அது இல்லை என்றால், அந்த கண்கள் வெறும் புண்கள் என்றே கருதப்படும்.",
+ "explanation": "This couplet defines the true purpose and beauty of the eyes. The author states that the real ornament of an eye is 'kaṇṇōṭṭam', which means benignity, kind consideration, or a sympathetic outlook. If this quality of kindness is absent, the eyes lose their value and are to be regarded merely as sores or wounds on the face. Through this stark contrast, the couplet emphasizes that physical eyes without compassion are useless and unsightly.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

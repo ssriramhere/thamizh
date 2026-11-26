@@ -4,23 +4,28 @@
    "surface": "பழையம்",
    "parts": [
     {
-     "text": "பழையம்",
-     "lemma": "பழையம்",
-     "gloss": "we are old (friends)"
+     "text": "பழை",
+     "lemma": "பழை",
+     "gloss": "long-standing friendship"
+    },
+    {
+     "text": "அம்",
+     "lemma": "அம்",
+     "gloss": "we (first-person plural suffix)"
     }
    ],
-   "gloss": "we are old (friends)"
+   "gloss": "we are old friends"
   },
   {
    "surface": "என",
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "thus"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking thus"
   },
   {
    "surface": "கருதி",
@@ -28,10 +33,10 @@
     {
      "text": "கருதி",
      "lemma": "கருது",
-     "gloss": "having considered"
+     "gloss": "considering"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "considering"
   },
   {
    "surface": "பண்பு",
@@ -39,10 +44,10 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "proper conduct"
+     "gloss": "courtesy"
     }
    ],
-   "gloss": "proper conduct"
+   "gloss": "courtesy"
   },
   {
    "surface": "அல்ல",
@@ -50,7 +55,7 @@
     {
      "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "things that are not"
+     "gloss": "not"
     }
    ],
    "gloss": "things that are not"
@@ -70,12 +75,17 @@
    "surface": "கெழுதகைமை",
    "parts": [
     {
-     "text": "கெழுதகைமை",
-     "lemma": "கெழுதகைமை",
-     "gloss": "intimacy"
+     "text": "கெழு",
+     "lemma": "கெழு",
+     "gloss": "close"
+    },
+    {
+     "text": "தகைமை",
+     "lemma": "தகைமை",
+     "gloss": "nature of familiarity"
     }
    ],
-   "gloss": "intimacy"
+   "gloss": "over-familiarity"
   },
   {
    "surface": "கேடு",
@@ -94,16 +104,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will yield"
+     "gloss": "will bring"
     }
    ],
-   "gloss": "will yield"
+   "gloss": "will bring"
   }
  ],
- "literal": "Thinking 'we are old friends' and doing things that are not proper conduct, such intimacy will yield ruin.",
- "translation": "Taking liberties by thinking 'we are old friends' and doing improper things will bring ruin.",
- "modern": "நாம் அரசருக்குப் பழைய நண்பர்கள் என்று கருதி, பண்பற்ற செயல்களைச் செய்யும் உரிமை ஒருவருக்கு அழிவையே தரும்.",
- "explanation": "This couplet warns against taking undue liberties with a ruler based on long-standing friendship. The word 'பழையம்' captures the presumption of a person who thinks their old ties grant them special privileges. When this presumed intimacy ('கெழுதகைமை') leads someone to act improperly, it will ultimately result in their own ruin. A wise person maintains respectful boundaries regardless of how long they have known the king.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking 'we are old friends' and doing things that are not courteous, that over-familiarity will bring ruin.",
+ "translation": "The over-familiarity that leads one to behave discourteously, presuming on long-standing friendship, will bring about one's ruin.",
+ "modern": "\"நாங்கள் பழைய நண்பர்கள்\" என்று நினைத்துக்கொண்டு, தகுதியற்ற செயல்களைச் செய்யத் தூண்டும் அளவுக்கு மீறிய உரிமை பாராட்டுதல் அழிவைத் தரும்.",
+ "explanation": "This couplet warns against taking relationships with rulers or superiors for granted. A person might assume that their long-standing friendship (pazhaiyam) allows them to bypass etiquette. However, behaving discourteously (paṇpu alla seyyum) out of such over-familiarity (kezhuthakaimai) will ultimately lead to their downfall and ruin (kēḍu tharum).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

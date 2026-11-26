@@ -32,16 +32,16 @@
    "parts": [
     {
      "text": "இடத்து",
-     "lemma": "இடம்",
-     "gloss": "place"
+     "lemma": "இடத்து",
+     "gloss": "place or status"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "suffix"
+     "gloss": "of the nature of"
     }
    ],
-   "gloss": "has the place of"
+   "gloss": "takes the place of / has the status of"
   },
   {
    "surface": "புரை",
@@ -49,18 +49,23 @@
     {
      "text": "புரை",
      "lemma": "புரை",
-     "gloss": "flaw"
+     "gloss": "fault or harm"
     }
    ],
-   "gloss": "flaw"
+   "gloss": "fault"
   },
   {
    "surface": "தீர்ந்த",
    "parts": [
     {
-     "text": "தீர்ந்த",
+     "text": "தீர்",
      "lemma": "தீர்",
-     "gloss": "free from"
+     "gloss": "be free from"
+    },
+    {
+     "text": "ந்த",
+     "lemma": "ந்த",
+     "gloss": "past relative participle suffix"
     }
    ],
    "gloss": "free from"
@@ -71,7 +76,7 @@
     {
      "text": "நன்மை",
      "lemma": "நன்மை",
-     "gloss": "goodness"
+     "gloss": "goodness or benefit"
     }
    ],
    "gloss": "goodness"
@@ -82,32 +87,27 @@
     {
      "text": "பயக்கும்",
      "lemma": "பய",
-     "gloss": "yields"
+     "gloss": "will yield"
     }
    ],
-   "gloss": "yields"
+   "gloss": "will yield"
   },
   {
    "surface": "எனின்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
+     "text": "எனின்",
+     "lemma": "எனின்",
      "gloss": "if"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "Even falsehood has the place of truth, if it yields goodness free from flaw.",
- "translation": "Even falsehood takes the place of truth, if it produces a flawless good.",
- "modern": "குற்றமற்ற நன்மையை உருவாக்குமானால், பொய்யான சொல்லும் உண்மையாகவே கருதப்படும்.",
- "explanation": "This couplet defines truthfulness not just by factual accuracy, but by its ultimate moral effect. It states that even a false statement can be elevated to the status of truth. This happens only if the falsehood results in a pure, flawless benefit for others. The key word 'புரைதீர்ந்த' (flawless) ensures that the outcome must be entirely good, without any hidden harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even falsehood is of the status of truth, if it yields fault-free goodness.",
+ "translation": "Even falsehood has the nature of truth, if it produces pure, faultless good.",
+ "modern": "குற்றம் இல்லாத நன்மையை விளைவிக்கும் என்றால், பொய் சொல்லுவதும் வாய்மையின் தன்மையைப் பெறும்.",
+ "explanation": "This couplet presents a profound ethical perspective on truth. It states that even an untruth (பொய்மையும்) can be elevated to the status of truth (வாய்மை இடத்த) under one condition: if it results in completely faultless good (புரைதீர்ந்த நன்மை பயக்கும் எனின்). The key words 'புரைதீர்ந்த நன்மை' emphasize that the outcome must be entirely free from harm or bad intentions. Thus, the moral value of speech is judged not just by literal accuracy, but by the benevolent impact it has on others.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

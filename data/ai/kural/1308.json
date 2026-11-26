@@ -4,17 +4,12 @@
    "surface": "நோதல்",
    "parts": [
     {
-     "text": "நோ",
-     "lemma": "நோ",
-     "gloss": "to suffer"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "நோதல்",
+     "lemma": "நோதல்",
+     "gloss": "grieving"
     }
    ],
-   "gloss": "suffering"
+   "gloss": "grieving"
   },
   {
    "surface": "எவன்",
@@ -22,10 +17,10 @@
     {
      "text": "எவன்",
      "lemma": "எவன்",
-     "gloss": "what (use)"
+     "gloss": "what use"
     }
    ],
-   "gloss": "what (use)"
+   "gloss": "what use"
   },
   {
    "surface": "மற்று",
@@ -33,10 +28,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "indeed"
+     "gloss": "expletive particle"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "then"
   },
   {
    "surface": "நொந்தார்",
@@ -44,10 +39,10 @@
     {
      "text": "நொந்தார்",
      "lemma": "நோ",
-     "gloss": "they suffered"
+     "gloss": "one who suffered"
     }
    ],
-   "gloss": "they suffered"
+   "gloss": "she has suffered"
   },
   {
    "surface": "என்று",
@@ -58,14 +53,14 @@
      "gloss": "saying"
     }
    ],
-   "gloss": "saying"
+   "gloss": "that"
   },
   {
    "surface": "அஃது",
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அஃது",
+     "lemma": "அது",
      "gloss": "that"
     }
    ],
@@ -75,30 +70,20 @@
    "surface": "அறியும்",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறியும்",
      "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "will understand"
     }
    ],
-   "gloss": "knowing"
+   "gloss": "which understands"
   },
   {
    "surface": "காதலர்",
    "parts": [
     {
-     "text": "காதல்",
-     "lemma": "காதல்",
-     "gloss": "love"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "personal suffix"
+     "text": "காதலர்",
+     "lemma": "காதலர்",
+     "gloss": "lover"
     }
    ],
    "gloss": "lover"
@@ -107,17 +92,12 @@
    "surface": "இல்லா",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல்லா",
      "lemma": "இல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not having"
     }
    ],
-   "gloss": "not having"
+   "gloss": "absent"
   },
   {
    "surface": "வழி",
@@ -131,10 +111,10 @@
    "gloss": "when"
   }
  ],
- "literal": "Suffering what (use) indeed, 'they suffered' saying that knowing lover not having when.",
- "translation": "What is the use of suffering, when there is no lover who understands that you have suffered?",
- "modern": "தான் வருத்தப்பட்டதை அறிந்து கொள்ளும் அன்பான காதலர் இல்லாத போது, ஒருத்தி வருத்தப்படுவதால் என்ன பயன்?",
- "explanation": "This couplet questions the value of feigning anger or sulking when the lover is not perceptive enough to notice it. The word 'நோதல்' refers to the mental distress or the act of sulking in a romantic quarrel. The heroine reflects that suffering is pointless ('எவன்') if her lover ('காதலர்') lacks the empathy to recognize ('அஃது அறியும்') that she is in pain ('நொந்தார் என்று'). It highlights that the pleasure of a lover's quarrel depends entirely on the partner's attentive and soothing response.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Grieving what use then, 'she has suffered' that, that-which-understands lover absent when?",
+ "translation": "What is the use of grieving when one does not have a lover who can understand that grief?",
+ "modern": "துன்பப்படுவதை உணர்ந்து கொள்ளும் காதலர் இல்லாத போது, துன்பப்படுவதால் என்ன பயன்?",
+ "explanation": "In this couplet, the heroine reflects on the futility of her feigned anger or sulking. She asks what the point of her distress ('நோதல்') is if her partner is not there to notice and soothe it. Feigned anger is a game of love that requires a responsive partner; without a lover who understands that she is hurting ('நொந்தார் என்று அஃது அறியும்'), her sulking becomes meaningless. The word 'வழி' here functions as 'when' or 'in the situation of', indicating the condition under which grief is useless.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,7 +9,7 @@
      "gloss": "number"
     }
    ],
-   "gloss": "number"
+   "gloss": "numbers / arithmetic"
   },
   {
    "surface": "என்ப",
@@ -17,15 +17,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "they (epicene)"
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they say"
+   "gloss": "they say / are said to be"
   },
   {
    "surface": "ஏனை",
@@ -33,7 +33,7 @@
     {
      "text": "ஏனை",
      "lemma": "ஏனை",
-     "gloss": "the other"
+     "gloss": "other"
     }
    ],
    "gloss": "the other"
@@ -44,10 +44,10 @@
     {
      "text": "எழுத்து",
      "lemma": "எழுத்து",
-     "gloss": "letter"
+     "gloss": "letters / grammar"
     }
    ],
-   "gloss": "letter"
+   "gloss": "letters / written language"
   },
   {
    "surface": "என்ப",
@@ -55,15 +55,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "they (epicene)"
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they say"
+   "gloss": "they say / are said to be"
   },
   {
    "surface": "இவ்",
@@ -71,7 +71,7 @@
     {
      "text": "இவ்",
      "lemma": "இ",
-     "gloss": "these"
+     "gloss": "this"
     }
    ],
    "gloss": "these"
@@ -87,10 +87,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "both"
+     "gloss": "both / and"
     }
    ],
-   "gloss": "both"
+   "gloss": "both of these"
   },
   {
    "surface": "கண்",
@@ -101,7 +101,7 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "eye"
+   "gloss": "eyes"
   },
   {
    "surface": "என்ப",
@@ -109,15 +109,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "they (epicene)"
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they say"
+   "gloss": "they say / are said to be"
   },
   {
    "surface": "வாழும்",
@@ -125,7 +125,7 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "to live"
+     "gloss": "live"
     },
     {
      "text": "உம்",
@@ -141,21 +141,21 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life/being"
+     "gloss": "life / living being"
     },
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to (dative suffix)"
     }
    ],
    "gloss": "to living beings"
   }
  ],
- "literal": "Number they say, the other letter they say, these both eye they say to living beings.",
- "translation": "Numbers and letters, they say, are the two eyes of living beings.",
- "modern": "எண்ணும் எழுத்தும் ஆகிய இவ்விரண்டும் வாழும் மக்களுக்குக் கண்கள் என்று அறிஞர்கள் கூறுவர்.",
- "explanation": "This couplet identifies two fundamental domains of knowledge: 'eṇ' (numbers or mathematics) and 'eḻuttu' (letters or literature). It states that wise people consider both of these to be the eyes of living beings. Just as eyes are essential to see and navigate the physical world, numerical and linguistic literacy are essential to understand and navigate life. The repeated use of 'eṉpa' (they say) emphasizes that this is a universally accepted wisdom among the learned.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Numbers, they say, and the other, letters, they say, these two, eyes, they say, to living beings.",
+ "translation": "Numbers and letters, these two are said to be the eyes of living beings.",
+ "modern": "எண் என்றும், மற்றொன்றான எழுத்து என்றும் சொல்லப்படும் இவ்விரண்டையும் வாழ்கின்ற மக்களுக்குக் கண்கள் என்று கூறுவர்.",
+ "explanation": "This couplet highlights the fundamental importance of basic education, specifically numeracy and literacy. The poet describes numbers (mathematics) and letters (language and literature) as the two eyes of living human beings. Just as physical eyes are necessary to perceive the physical world, these two disciplines are essential to perceive and understand intellectual and moral truths. Without them, a person remains metaphorically blind despite having physical sight.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

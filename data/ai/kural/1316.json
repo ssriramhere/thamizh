@@ -6,38 +6,28 @@
     {
      "text": "உள்ளு",
      "lemma": "உள்ளு",
-     "gloss": "to remember"
+     "gloss": "think of"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "past tense"
+     "gloss": "past tense marker"
     },
     {
      "text": "ஏன்",
      "lemma": "ஏன்",
-     "gloss": "I"
+     "gloss": "I (pronominal termination)"
     }
    ],
-   "gloss": "I remembered"
+   "gloss": "I thought (of you)"
   },
   {
    "surface": "என்றேன்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்றேன்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ற்",
-     "lemma": "ற்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I"
+     "gloss": "I said"
     }
    ],
    "gloss": "I said"
@@ -48,10 +38,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "but"
+     "gloss": "then / an expletive particle"
     }
    ],
-   "gloss": "but"
+   "gloss": "then / indeed"
   },
   {
    "surface": "என்",
@@ -59,33 +49,18 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "why"
+     "gloss": "what"
     }
    ],
-   "gloss": "why"
+   "gloss": "what"
   },
   {
    "surface": "மறந்தீர்",
    "parts": [
     {
-     "text": "மற",
+     "text": "மறந்தீர்",
      "lemma": "மற",
-     "gloss": "to forget"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "ஈர்",
-     "lemma": "ஈர்",
-     "gloss": "you (honorific)"
+     "gloss": "you forgot"
     }
    ],
    "gloss": "you forgot"
@@ -94,14 +69,9 @@
    "surface": "என்று",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்று",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "று",
-     "lemma": "று",
-     "gloss": "adverbial suffix"
+     "gloss": "saying"
     }
    ],
    "gloss": "saying"
@@ -110,14 +80,9 @@
    "surface": "என்னை",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "யான்",
+     "text": "என்னை",
+     "lemma": "என்",
      "gloss": "me"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
     }
    ],
    "gloss": "me"
@@ -128,42 +93,32 @@
     {
      "text": "புல்லு",
      "lemma": "புல்லு",
-     "gloss": "to embrace"
+     "gloss": "embrace"
     },
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "she (negative)"
+     "gloss": "she (negative marker)"
     }
    ],
-   "gloss": "she embraced not"
+   "gloss": "she did not embrace"
   },
   {
    "surface": "புலத்தக்கனள்",
    "parts": [
     {
-     "text": "புல",
-     "lemma": "புல",
-     "gloss": "to sulk"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "தக்கனள்",
-     "lemma": "தகு",
-     "gloss": "she was apt to"
+     "text": "புலத்தக்கனள்",
+     "lemma": "புலத்தல்",
+     "gloss": "she who is fit to sulk / she sulked"
     }
    ],
-   "gloss": "she became sulky"
+   "gloss": "she sulked / she became fit to sulk"
   }
  ],
- "literal": "\"I remembered,\" I said; but \"Why did you forget?\" saying, me she embraced not, she became sulky.",
- "translation": "I said, \"I remembered you.\" But she refused to embrace me and began to sulk, asking, \"Why did you ever forget me?\"",
- "modern": "\"உன்னை நினைத்தேன்\" என்று நான் கூறினேன். ஆனால் அவள், \"என்னை ஏன் மறந்தீர்கள்?\" என்று கேட்டு, என்னைத் தழுவாமல் ஊடல் கொண்டாள்.",
- "explanation": "The speaker attempts to show his affection by telling his lover that he was thinking of her. However, she cleverly catches the logical implication of his words: one can only remember what one has previously forgotten. Using the word 'marantīr' (you forgot), she refuses his embrace and begins to sulk. This illustrates the subtle and playful nature of lovers' quarrels, where even a declaration of love can be twisted into a reason for feigned anger.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "\"I thought [of you],\" I said; \"then, what did you forget [about me]?\" saying, me she did not embrace, she sulked.",
+ "translation": "I told her, \"I was thinking of you.\" Immediately she asked, \"What did you forget about me that you had to think of me?\" and, refusing to embrace me, she began to sulk.",
+ "modern": "\"நான் உன்னை நினைத்தேன்\" என்று கூறினேன்; \"அப்படியானால் என்னை எப்போது மறந்தீர்கள்?\" என்று கேட்டு, என்னைத் தழுவாமல் அவள் ஊடல் கொண்டாள்.",
+ "explanation": "This couplet portrays a delicate and witty moment of a lovers' tiff. When the hero tries to show his affection by saying he was thinking of her, the heroine cleverly turns it against him. She reasons that one only needs to think of someone if they had forgotten them first, and asks what he had forgotten. Refusing his embrace, she playfully sulks, showing how even loving words can be turned into a reason for a sweet argument.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

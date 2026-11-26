@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "மன்னர்",
-     "lemma": "மன்னன்",
+     "lemma": "மன்னர்",
      "gloss": "kings"
     },
     {
@@ -21,11 +21,11 @@
    "parts": [
     {
      "text": "மன்னுதல்",
-     "lemma": "மன்னு",
+     "lemma": "மன்னுதல்",
      "gloss": "enduring"
     }
    ],
-   "gloss": "enduring"
+   "gloss": "permanence"
   },
   {
    "surface": "செங்கோன்மை",
@@ -33,17 +33,18 @@
     {
      "text": "செங்கோன்மை",
      "lemma": "செங்கோன்மை",
-     "gloss": "just rule"
+     "gloss": "just governance"
     }
    ],
-   "gloss": "just rule"
+   "gloss": "just governance",
+   "split_unverified": true
   },
   {
    "surface": "அஃது",
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அது",
+     "lemma": "அஃது",
      "gloss": "that"
     }
    ],
@@ -54,8 +55,8 @@
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
-     "gloss": "without"
+     "lemma": "இன்று",
+     "gloss": "not existing"
     },
     {
      "text": "ஏல்",
@@ -63,7 +64,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if without"
+   "gloss": "if that is not there"
   },
   {
    "surface": "மன்னா",
@@ -71,7 +72,7 @@
     {
      "text": "மன்னா",
      "lemma": "மன்னு",
-     "gloss": "will not endure"
+     "gloss": "not enduring"
     }
    ],
    "gloss": "will not endure"
@@ -92,7 +93,7 @@
    "parts": [
     {
      "text": "மன்னர்",
-     "lemma": "மன்னன்",
+     "lemma": "மன்னர்",
      "gloss": "kings"
     },
     {
@@ -115,10 +116,10 @@
    "gloss": "glory"
   }
  ],
- "literal": "To kings, enduring is just rule; that if without, will not endure will become to kings glory.",
- "translation": "A king's permanence lies in his just rule. Without it, his glory will not endure.",
- "modern": "அரசர்களுக்கு நிலைத்து நிற்பது அவர்களின் செங்கோலாட்சியே ஆகும். அந்த நீதி தவறானால் அரசர்களின் புகழ் நிலைக்காமல் அழியும்.",
- "explanation": "The couplet defines what makes a king's reign permanent. The word 'மன்னுதல்' means enduring or lasting forever, and the text states that only 'செங்கோன்மை' (a straight scepter, representing just rule) provides this permanence. The second half warns of the consequence of unjust rule. If justice is absent, the 'ஒளி' (light or glory) of the king will perish. Thus, a ruler's lasting fame and power depend entirely on their commitment to justice.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To kings, permanence is just governance; if that is not there, not enduring will become to kings the glory.",
+ "translation": "For kings, permanence of rule comes from a just sceptre; if that is lacking, their glory will not endure.",
+ "modern": "மன்னர்களுக்கு நிலைத்தன்மை தருவது நேர்மையான ஆட்சிமுறை ஆகும்; அது இல்லாவிட்டால், மன்னர்களுடைய புகழானது நிலைபெறாமல் அழியும்.",
+ "explanation": "This couplet explains that the stability of a king's reign depends entirely on just governance (செங்கோன்மை). The word 'மன்னுதல்' means enduring or remaining stable. If a ruler lacks a just sceptre, their 'ஒளி' (glory or fame) will not last ('மன்னாவாம்'). Thus, the poet emphasizes that justice is the sole foundation of a ruler's lasting reputation and authority.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

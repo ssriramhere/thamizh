@@ -6,10 +6,10 @@
     {
      "text": "அவி",
      "lemma": "அவி",
-     "gloss": "oblation"
+     "gloss": "sacrificial offering"
     }
    ],
-   "gloss": "oblation"
+   "gloss": "sacrificial offering"
   },
   {
    "surface": "சொரிந்து",
@@ -43,11 +43,11 @@
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "than"
     }
    ],
-   "gloss": "than sacrificing"
+   "gloss": "than performing sacrifices"
   },
   {
    "surface": "ஒன்றன்",
@@ -60,10 +60,10 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "of"
+     "gloss": "of (oblique suffix)"
     }
    ],
-   "gloss": "of one"
+   "gloss": "of a single being"
   },
   {
    "surface": "உயிர்",
@@ -82,18 +82,23 @@
     {
      "text": "செகுத்து",
      "lemma": "செகு",
-     "gloss": "having destroyed"
+     "gloss": "having killed"
     }
    ],
-   "gloss": "having destroyed"
+   "gloss": "having killed"
   },
   {
    "surface": "உண்ணாமை",
    "parts": [
     {
-     "text": "உண்ணாமை",
+     "text": "உண்",
      "lemma": "உண்",
-     "gloss": "not eating"
+     "gloss": "eat"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "not doing"
     }
    ],
    "gloss": "not eating"
@@ -104,16 +109,16 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "is good"
+     "gloss": "is better"
     }
    ],
-   "gloss": "is good"
+   "gloss": "is better"
   }
  ],
- "literal": "oblation having-poured thousand than-sacrificing of-one life having-destroyed not-eating is-good",
- "translation": "Not destroying the life of a single creature to eat its flesh is better than pouring oblations in a thousand sacrifices.",
- "modern": "நெய் போன்ற பொருள்களைத் தீயில் சொரிந்து ஆயிரம் வேள்விகளைச் செய்வதை விட, ஓர் உயிரைக் கொன்று அதன் ஊனை உண்ணாமை மிகவும் நல்லது.",
- "explanation": "The couplet compares the merit of performing grand religious rituals with the simple act of abstaining from meat. 'அவி' refers to the offerings like ghee poured into the sacrificial fire. 'வேட்டலின்' means 'than performing sacrifices', setting up a comparison. The text asserts that not killing even a single creature ('ஒன்றன் உயிர் செகுத்து') for food ('உண்ணாமை') is far superior ('நன்று') to conducting a thousand such sacrifices.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than performing a thousand sacrifices by pouring offerings, not eating [flesh] by destroying the life of a single being is better.",
+ "translation": "Abstaining from killing even a single living being and eating its flesh is far better than performing a thousand sacrifices by pouring rich offerings into the fire.",
+ "modern": "அவிப்பொருள்களைச் சொரிந்து ஆயிரம் வேள்விகளைச் செய்வதை விட, ஓர் உயிரைக் கொன்று அதன் உடலை உண்ணாமல் இருப்பது மிகவும் நல்லது.",
+ "explanation": "This couplet compares ritual piety with ethical compassion. The author states that performing a thousand elaborate fire sacrifices (வேட்டல்) with rich offerings (அவி) is of lesser value than the simple act of refraining from killing a single living being (உயிர் செகுத்து) and eating its flesh (உண்ணாமை). The word 'அவி' refers to the sacred offerings like ghee or grains poured into the sacrificial fire, while 'செகுத்து' means destroying or killing. By placing the preservation of a single life above a thousand grand religious rituals, the couplet emphasizes that non-killing and compassion are the highest virtues.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

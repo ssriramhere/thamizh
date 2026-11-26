@@ -6,10 +6,10 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "high"
+     "gloss": "high position"
     }
    ],
-   "gloss": "high"
+   "gloss": "high position"
   },
   {
    "surface": "இருந்தும்",
@@ -17,15 +17,15 @@
     {
      "text": "இருந்து",
      "lemma": "இரு",
-     "gloss": "having been"
+     "gloss": "being"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even if being"
+   "gloss": "even though being in"
   },
   {
    "surface": "மேல்",
@@ -33,26 +33,21 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "high"
+     "gloss": "noble character"
     }
    ],
-   "gloss": "high"
+   "gloss": "noble character"
   },
   {
    "surface": "அல்லார்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லார்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "those who"
+     "gloss": "those who do not have"
     }
    ],
-   "gloss": "those who are not"
+   "gloss": "those who do not have"
   },
   {
    "surface": "மேல்",
@@ -60,26 +55,21 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "high"
+     "gloss": "noble"
     }
    ],
-   "gloss": "high"
+   "gloss": "noble"
   },
   {
    "surface": "அல்லர்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லர்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "are not"
     }
    ],
-   "gloss": "they are not"
+   "gloss": "are not"
   },
   {
    "surface": "கீழ்",
@@ -87,10 +77,10 @@
     {
      "text": "கீழ்",
      "lemma": "கீழ்",
-     "gloss": "low"
+     "gloss": "low position"
     }
    ],
-   "gloss": "low"
+   "gloss": "low position"
   },
   {
    "surface": "இருந்தும்",
@@ -98,15 +88,15 @@
     {
      "text": "இருந்து",
      "lemma": "இரு",
-     "gloss": "having been"
+     "gloss": "being"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even if being"
+   "gloss": "even though being in"
   },
   {
    "surface": "கீழ்",
@@ -114,26 +104,21 @@
     {
      "text": "கீழ்",
      "lemma": "கீழ்",
-     "gloss": "low"
+     "gloss": "base character"
     }
    ],
-   "gloss": "low"
+   "gloss": "base character"
   },
   {
    "surface": "அல்லார்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லார்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "those who"
+     "gloss": "those who do not have"
     }
    ],
-   "gloss": "those who are not"
+   "gloss": "those who do not have"
   },
   {
    "surface": "கீழ்",
@@ -141,32 +126,27 @@
     {
      "text": "கீழ்",
      "lemma": "கீழ்",
-     "gloss": "low"
+     "gloss": "base"
     }
    ],
-   "gloss": "low"
+   "gloss": "base"
   },
   {
    "surface": "அல்லவர்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லவர்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "are not"
     }
    ],
-   "gloss": "they are not"
+   "gloss": "are not"
   }
  ],
- "literal": "High even if being, high those who are not, high they are not; low even if being, low those who are not, low they are not.",
- "translation": "Even if placed in a high position, those who lack greatness are not truly high. Even if placed in a low position, those who do not lack greatness are not truly low.",
- "modern": "உயர்ந்த நிலையில் இருந்தாலும், பெருமை இல்லாதவர்கள் உயர்ந்தவர்கள் ஆக மாட்டார்கள். தாழ்ந்த நிலையில் இருந்தாலும், சிறுமை இல்லாதவர்கள் தாழ்ந்தவர்கள் ஆக மாட்டார்கள்.",
- "explanation": "This couplet defines true greatness by separating it from mere social or material status. The words 'mēl' (high) and 'kīḻ' (low) are used in two senses: first to denote outward position, and second to denote inner character. Even if placed in a high position, people without noble qualities are not truly high. Conversely, people with noble qualities remain high in character even if they are placed in a low position.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even though being in a high position, those who do not have noble character are not noble; even though being in a low position, those who do not have base character are not base.",
+ "translation": "Even when placed in high positions, those who lack noble qualities are never noble; and even when placed in low positions, those who lack base qualities are never base.",
+ "modern": "உயர்ந்த நிலையில் இருந்தாலும், மேன்மையான குணம் இல்லாதவர்கள் மேலானவர்கள் அல்லர்; தாழ்ந்த நிலையில் இருந்தாலும், இழிவான குணம் இல்லாதவர்கள் தாழ்ந்தவர்கள் அல்லர்.",
+ "explanation": "This couplet emphasizes that true greatness or baseness is determined solely by one's character, not by social status or position. The poet uses the words 'mēl' (high/noble) and 'kīḻ' (low/base) in two distinct senses: physical or social position, and moral character. A person of low character does not become noble simply by being elevated to a high position. Conversely, a person of noble character does not become base even when forced into a lowly position.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

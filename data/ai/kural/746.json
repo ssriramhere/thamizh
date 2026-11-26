@@ -17,31 +17,31 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "thing/wealth"
+     "gloss": "resources"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/entirety"
+     "gloss": "and"
     }
    ],
-   "gloss": "things (entirely)"
+   "gloss": "and resources"
   },
   {
    "surface": "உடைத்தாய்",
    "parts": [
     {
      "text": "உடைத்து",
-     "lemma": "உடைமை",
-     "gloss": "possessing"
+     "lemma": "உடைத்து",
+     "gloss": "having"
     },
     {
      "text": "ஆய்",
-     "lemma": "ஆகு",
-     "gloss": "having become"
+     "lemma": "ஆய்",
+     "gloss": "being"
     }
    ],
-   "gloss": "having possessed"
+   "gloss": "having"
   },
   {
    "surface": "இடத்து",
@@ -49,10 +49,10 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "at the place/time of need"
+     "gloss": "time of need"
     }
    ],
-   "gloss": "at the time of need"
+   "gloss": "in times of need"
   },
   {
    "surface": "உதவும்",
@@ -60,33 +60,33 @@
     {
      "text": "உதவும்",
      "lemma": "உதவு",
-     "gloss": "will help"
+     "gloss": "that helps"
     }
    ],
-   "gloss": "will help"
+   "gloss": "that helps"
   },
   {
    "surface": "நல்லாள்",
    "parts": [
     {
      "text": "நல்",
-     "lemma": "நன்மை",
-     "gloss": "good"
+     "lemma": "நல்",
+     "gloss": "excellent"
     },
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "men/defenders"
+     "gloss": "defenders"
     }
    ],
-   "gloss": "good defenders"
+   "gloss": "excellent defenders"
   },
   {
    "surface": "உடையது",
    "parts": [
     {
      "text": "உடையது",
-     "lemma": "உடைமை",
+     "lemma": "உடைத்து",
      "gloss": "that which possesses"
     }
    ],
@@ -101,13 +101,13 @@
      "gloss": "fortress"
     }
    ],
-   "gloss": "fortress"
+   "gloss": "a fortress"
   }
  ],
- "literal": "all things possessing, at the time of need will-help good-defenders that-which-possesses [is] a fortress",
- "translation": "A fortress is that which possesses all necessary provisions and holds good defenders who will help in times of need.",
- "modern": "எல்லாப் பொருட்களையும் தன்னுள் கொண்டதாகவும், நெருக்கடியான நேரத்தில் உதவக்கூடிய நல்ல வீரர்களை உடையதாகவும் இருப்பதே சிறந்த அரண் ஆகும்.",
- "explanation": "This couplet defines the two most critical internal assets of a fortress: material supplies and human resources. The phrase 'எல்லாப் பொருளும் உடைத்தாய்' emphasizes that the fort must be self-sufficient, holding all necessary provisions to withstand a long siege. Furthermore, 'இடத்து உதவும் நல்லாள்' highlights the need for capable and loyal defenders who will fight effectively when the situation demands it. A true fortress is defined by possessing both these material and human strengths.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "All resources and having, in times of need that helps, excellent defenders that which possesses, is a fortress.",
+ "translation": "A true fortress is one that possesses all necessary resources and is manned by excellent defenders who will stand and help in times of need.",
+ "modern": "எல்லாத் தேவையான பொருள்களையும் கொண்டு, ஆபத்து காலத்தில் உதவி செய்யக்கூடிய நல்ல வீரர்களைக் கொண்டிருப்பதே சிறந்த அரண் ஆகும்.",
+ "explanation": "This couplet defines the essential internal qualities of a strong fortress. It states that a fortress must not only be stocked with all necessary provisions and resources to withstand a long siege, but it must also be manned by capable, loyal, and brave defenders who will actively fight and help during a crisis. The word 'ஆள்' here refers to the soldiers or defenders, and 'நல்' emphasizes their skill and loyalty. Without both material resources and dependable defenders, a physical structure cannot function as a true fortress.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

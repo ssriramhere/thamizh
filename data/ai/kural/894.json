@@ -5,44 +5,65 @@
    "parts": [
     {
      "text": "கூற்றத்தை",
-     "lemma": "கூற்றம்",
-     "gloss": "Death (acc.)"
+     "lemma": "கூற்றத்தை",
+     "gloss": "the God of Death"
     }
    ],
-   "gloss": "Death (acc.)"
+   "gloss": "the God of Death",
+   "split_unverified": true
   },
   {
    "surface": "கையால்",
    "parts": [
     {
-     "text": "கையால்",
+     "text": "கை",
      "lemma": "கை",
-     "gloss": "by hand"
+     "gloss": "hand"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "with / by (instrumental case marker)"
     }
    ],
-   "gloss": "by hand"
+   "gloss": "with the hand"
   },
   {
    "surface": "விளித்தற்றால்",
    "parts": [
     {
-     "text": "விளித்தற்றால்",
-     "lemma": "விளித்தற்று",
-     "gloss": "is like calling"
+     "text": "விளித்து",
+     "lemma": "விளி",
+     "gloss": "having called / beckoned"
+    },
+    {
+     "text": "அற்று",
+     "lemma": "அற்று",
+     "gloss": "like / similar to"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "indeed (particle of emphasis)"
     }
    ],
-   "gloss": "is like calling"
+   "gloss": "is like beckoning"
   },
   {
    "surface": "ஆற்றுவார்க்கு",
    "parts": [
     {
-     "text": "ஆற்றுவார்க்கு",
+     "text": "ஆற்றுவார்",
      "lemma": "ஆற்றுவார்",
-     "gloss": "to the powerful"
+     "gloss": "those who are powerful / capable"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to (dative case marker)"
     }
    ],
-   "gloss": "to the powerful"
+   "gloss": "to those who are powerful"
   },
   {
    "surface": "ஆற்றாதார்",
@@ -50,10 +71,10 @@
     {
      "text": "ஆற்றாதார்",
      "lemma": "ஆற்றாதார்",
-     "gloss": "the powerless"
+     "gloss": "those who are powerless / weak"
     }
    ],
-   "gloss": "the powerless"
+   "gloss": "those who are powerless"
   },
   {
    "surface": "இன்னா",
@@ -61,7 +82,7 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "harm / evil / unpleasantness"
     }
    ],
    "gloss": "harm"
@@ -72,16 +93,16 @@
     {
      "text": "செயல்",
      "lemma": "செயல்",
-     "gloss": "doing"
+     "gloss": "doing / action"
     }
    ],
    "gloss": "doing"
   }
  ],
- "literal": "Death (acc.) by hand is like calling, to the powerful the powerless harm doing.",
- "translation": "For the powerless to do harm to the powerful is like beckoning Death with their own hands.",
- "modern": "வலியற்றவர்கள் வலிமை மிக்கவர்களுக்குத் தீங்கு செய்வது, தங்கள் கைகளால் எமனை அழைப்பதற்குச் சமமாகும்.",
- "explanation": "This couplet warns against the folly of provoking those who are stronger than oneself. The word 'ஆற்றுவார்' refers to the powerful who can accomplish things, while 'ஆற்றாதார்' refers to those lacking such power. By doing harm ('இன்னா செயல்') to the mighty, the weak are essentially bringing destruction upon themselves. The poet uses the striking image of beckoning Death ('கூற்றத்தை') with one's own hand ('கையால் விளித்தற்றால்') to illustrate the suicidal nature of such an act.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Doing harm to those who are powerful by those who are powerless is like beckoning the God of Death with one's own hand.",
+ "translation": "For the weak to do harm to the powerful is like beckoning the God of Death with one's own hand.",
+ "modern": "வலிமை உடையவர்களுக்கு வலிமையற்றவர்கள் தீங்கு செய்வது, எமனைத் தன் கையால் கூவி அழைப்பதற்கு ஒப்பானதாகும்.",
+ "explanation": "This couplet warns against the extreme danger of provoking or offending those who possess great power. The poet compares a weak person ('āṟṟādār') trying to harm a powerful person ('āṟṟuvār') to someone beckoning the God of Death ('kūṟṟam') with their own hand ('kaiyāl viḷittatṟāl'). Such an act is not just a mistake, but an active invitation to one's own swift and certain destruction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

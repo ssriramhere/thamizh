@@ -6,10 +6,11 @@
     {
      "text": "காதன்மை",
      "lemma": "காதன்மை",
-     "gloss": "affection"
+     "gloss": "affection or personal attachment"
     }
    ],
-   "gloss": "affection"
+   "gloss": "affection or personal attachment",
+   "split_unverified": true
   },
   {
    "surface": "கந்தா",
@@ -17,15 +18,15 @@
     {
      "text": "கந்து",
      "lemma": "கந்து",
-     "gloss": "support"
+     "gloss": "pillar or support"
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகு",
-     "gloss": "becoming"
+     "lemma": "ஆ",
+     "gloss": "as or having become"
     }
    ],
-   "gloss": "as support"
+   "gloss": "as a support or basis"
   },
   {
    "surface": "அறிவு",
@@ -33,7 +34,7 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "knowledge or wisdom"
     }
    ],
    "gloss": "knowledge"
@@ -42,34 +43,49 @@
    "surface": "அறியார்",
    "parts": [
     {
-     "text": "அறியார்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "those who know not"
+     "gloss": "to know"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who do not (negative suffix)"
     }
    ],
-   "gloss": "those who know not"
+   "gloss": "those who do not know"
   },
   {
    "surface": "தேறுதல்",
    "parts": [
     {
-     "text": "தேறுதல்",
+     "text": "தேறு",
      "lemma": "தேறு",
-     "gloss": "trusting"
+     "gloss": "to trust or select"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "trusting"
+   "gloss": "trusting or choosing"
   },
   {
    "surface": "பேதைமை",
    "parts": [
     {
-     "text": "பேதைமை",
-     "lemma": "பேதைமை",
-     "gloss": "folly"
+     "text": "பேதை",
+     "lemma": "பேதை",
+     "gloss": "foolish person"
+    },
+    {
+     "text": "மை",
+     "lemma": "மை",
+     "gloss": "abstract noun suffix"
     }
    ],
-   "gloss": "folly"
+   "gloss": "folly or foolishness"
   },
   {
    "surface": "எல்லாம்",
@@ -80,7 +96,7 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all"
+   "gloss": "all kinds of"
   },
   {
    "surface": "தரும்",
@@ -88,16 +104,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will give"
+     "gloss": "will bring or give"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "Affection as support, knowledge those who know not trusting, folly all will give.",
- "translation": "Trusting those who lack knowledge, relying solely on one's affection for them, will result in every kind of folly.",
- "modern": "அறிவில்லாதவர்களை அவர்கள் மீதான அன்பை மட்டுமே பற்றுக்கோடாகக் கொண்டு நம்பித் தேர்ந்தெடுப்பது, எல்லாவிதமான அறியாமையையும் குற்றங்களையும் தரும்.",
- "explanation": "This couplet warns against letting personal affection override objective evaluation when choosing people for tasks. 'காதன்மை' means affection or attachment, and 'கந்து' refers to a support or peg. Using affection as the sole support ('கந்தா') to trust ('தேறுதல்') those who lack the necessary knowledge ('அறிவு அறியார்') is a grave mistake. Such a choice will only result in complete folly ('பேதைமை எல்லாம் தரும்'), leading to failure and ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Taking affection as support, trusting those who do not know knowledge, will bring all foolishness.",
+ "translation": "Trusting and choosing those who lack wisdom, merely out of personal affection, will bring every kind of folly.",
+ "modern": "அன்பையே அடிப்படையாகக் கொண்டு, அறிவு இல்லாதவர்களைத் தேர்ந்தெடுத்து நம்புவது, எல்லாவிதமான அறியாமையையும் துன்பத்தையும் தரும்.",
+ "explanation": "This couplet warns against choosing or trusting people for important duties based solely on personal attachment. The word 'காதன்மை' refers to affection, and 'கந்தா' means taking it as a support or pillar. If a leader trusts those who lack wisdom ('அறிவறியார்') simply because they love them, it will result in complete ruin, bringing every form of foolishness ('பேதைமை எல்லாம்') to their endeavors.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

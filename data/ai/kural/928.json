@@ -15,56 +15,72 @@
    "surface": "அறியேன்",
    "parts": [
     {
-     "text": "அறியேன்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "I know not"
+     "gloss": "know"
+    },
+    {
+     "text": "ஏன்",
+     "lemma": "ஏன்",
+     "gloss": "I do not"
     }
    ],
-   "gloss": "I know not"
+   "gloss": "I do not know"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
      "text": "என்பது",
-     "lemma": "என்",
-     "gloss": "saying that"
+     "lemma": "என்பது",
+     "gloss": "the saying that"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "the saying that"
   },
   {
    "surface": "கைவிடுக",
    "parts": [
     {
-     "text": "கைவிடுக",
-     "lemma": "கைவிடு",
-     "gloss": "let one abandon"
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "hand"
+    },
+    {
+     "text": "விடுக",
+     "lemma": "விடு",
+     "gloss": "let go"
     }
    ],
-   "gloss": "let one abandon"
+   "gloss": "abandon"
   },
   {
    "surface": "நெஞ்சத்து",
    "parts": [
     {
-     "text": "நெஞ்சத்து",
-     "lemma": "நெஞ்சம்",
-     "gloss": "in the heart"
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "heart"
+    },
+    {
+     "text": "அத்து",
+     "lemma": "அத்து",
+     "gloss": "inflectional increment"
     }
    ],
-   "gloss": "in the heart"
+   "gloss": "of the heart"
   },
   {
    "surface": "ஒளித்ததூஉம்",
    "parts": [
     {
      "text": "ஒளித்ததூஉம்",
-     "lemma": "ஒளி",
+     "lemma": "ஒளித்ததூஉம்",
      "gloss": "even that which was hidden"
     }
    ],
-   "gloss": "even that which was hidden"
+   "gloss": "even that which was hidden",
+   "split_unverified": true
   },
   {
    "surface": "ஆங்கே",
@@ -77,10 +93,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "right there"
+   "gloss": "at that very moment"
   },
   {
    "surface": "மிகும்",
@@ -91,13 +107,13 @@
      "gloss": "will increase"
     }
    ],
-   "gloss": "will increase"
+   "gloss": "will be revealed intensely"
   }
  ],
- "literal": "Having been intoxicated I know not, saying that let one abandon; in the heart even that which was hidden right there will increase.",
- "translation": "Let one give up saying, \"I have never known intoxication.\" When drunk, even the secrets hidden deep in the heart will readily reveal themselves.",
- "modern": "நான் குடித்து அறியமாட்டேன் என்று சொல்வதைக் கைவிட வேண்டும். குடித்தால், மனத்திற்குள் மறைத்து வைத்திருந்த ரகசியங்களும் அப்போதே வெளிப்பட்டுவிடும்.",
- "explanation": "This couplet warns against the self-deception of a drinker who claims they have never been intoxicated. The word 'kaḷittu' specifically means being intoxicated by drink in this chapter's context. The poet points out that alcohol strips away inhibitions, so 'oḷittatūum' (even hidden things) in the mind will 'mikum' (increase or become manifest) right then and there. Thus, trying to hide one's drinking is futile, as the drink itself will force the truth out.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Abandon the saying 'I do not know being intoxicated'; even that which was hidden in the heart will increase at that very moment.",
+ "translation": "Abandon the boast, 'I have never lost my senses to drink'; for when you drink, even the secrets hidden deep within your heart will be magnified and exposed.",
+ "modern": "நான் மது அருந்தித் தன்மறதி அடைந்ததில்லை என்று சொல்வதைக் கைவிட வேண்டும். மது அருந்தும்போது, நெஞ்சில் ஒளித்து வைத்திருந்த இரகசியங்களும் அங்கே வெளிப்பட்டு மிகுதியாகும்.",
+ "explanation": "This couplet warns against the self-deception of those who drink but claim they never lose control or reveal their secrets. The poet advises such people to abandon the boast 'I have never known intoxication' (களித்தறியேன் என்பது கைவிடுக). When a person drinks, the alcohol acts on the mind, and whatever was carefully hidden in the heart (நெஞ்சத்து ஒளித்ததூஉம்) will be magnified and exposed at that very moment (ஆங்கே மிகும்). Thus, drinking inevitably betrays one's innermost secrets, making the claim of self-control impossible to maintain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

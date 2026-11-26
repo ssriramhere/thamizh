@@ -9,26 +9,31 @@
      "gloss": "work"
     }
    ],
-   "gloss": "work"
+   "gloss": "work or duty"
   },
   {
    "surface": "செய்வார்",
    "parts": [
     {
-     "text": "செய்வார்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "those who do"
+     "gloss": "do"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "those who do"
+   "gloss": "those who perform"
   },
   {
    "surface": "தம்",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தான்",
+     "gloss": "their"
     }
    ],
    "gloss": "one's own"
@@ -42,18 +47,18 @@
      "gloss": "relatives"
     }
    ],
-   "gloss": "relatives"
+   "gloss": "relatives or kinsmen"
   },
   {
    "surface": "வேண்டாதார்",
    "parts": [
     {
      "text": "வேண்டாதார்",
-     "lemma": "வேண்டு",
-     "gloss": "those who do not desire (enemies)"
+     "lemma": "வேண்டாதார்",
+     "gloss": "enemies"
     }
    ],
-   "gloss": "enemies"
+   "gloss": "enemies or those who dislike"
   },
   {
    "surface": "என்று",
@@ -61,10 +66,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying that"
+     "gloss": "saying"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "thus"
   },
   {
    "surface": "ஆங்கு",
@@ -72,10 +77,10 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "thus"
+     "gloss": "and so"
     }
    ],
-   "gloss": "thus"
+   "gloss": "in that manner"
   },
   {
    "surface": "அனைவரையும்",
@@ -88,12 +93,12 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "totalizing particle"
     }
    ],
    "gloss": "everyone"
@@ -102,12 +107,17 @@
    "surface": "ஆராய்வது",
    "parts": [
     {
-     "text": "ஆராய்வது",
+     "text": "ஆராய்",
      "lemma": "ஆராய்",
-     "gloss": "that which investigates"
+     "gloss": "investigate"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "that which investigates"
+   "gloss": "investigating"
   },
   {
    "surface": "ஒற்று",
@@ -115,16 +125,16 @@
     {
      "text": "ஒற்று",
      "lemma": "ஒற்று",
-     "gloss": "spy"
+     "gloss": "espionage"
     }
    ],
-   "gloss": "spy"
+   "gloss": "espionage or spying"
   }
  ],
- "literal": "Work doers, one's own relatives, enemies, saying that thus, everyone, that which investigates is a spy.",
- "translation": "A true spy is one who investigates absolutely everyone—the officials who do the work, one's own relatives, and one's enemies.",
- "modern": "அரசுப் பணியாளர்கள், தம்முடைய உறவினர்கள், பகைவர்கள் என்று வேறுபாடு இல்லாமல் அனைவரையும் பற்றி ஆராய்ந்து அறிபவனே சிறந்த ஒற்றன் ஆவான்.",
- "explanation": "This couplet defines the comprehensive scope of a spy's duty. A ruler must not rely on blind trust when governing a state. Therefore, a spy ('ஒற்று') must secretly observe three specific groups: the officials executing tasks ('வினை செய்வார்'), the ruler's own inner circle of relatives ('தம் சுற்றம்'), and the adversaries ('வேண்டாதார்'). By scrutinizing absolutely everyone ('அனைவரையும்'), the spy ensures the ruler has an accurate and unbiased understanding of the state's affairs.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who do work, one's own relatives, and enemies, thus in that manner, everyone, investigating is espionage.",
+ "translation": "Espionage consists of watching everyone closely—those who perform state duties, one's own relatives, and one's enemies.",
+ "modern": "அரசுப் பணிகளைச் செய்பவர்கள், தன் உறவினர்கள், பகைவர்கள் என்று சொல்லப்படும் எல்லாரையும் கண்காணித்து ஆராய்வதே ஒற்றாடல் ஆகும்.",
+ "explanation": "This couplet defines the comprehensive scope of a ruler's intelligence network. The poet lists three vital groups that must be kept under surveillance: 'vinai-ceyvār' (officials executing state duties), 'cuṟṟam' (the ruler's own relatives), and 'vēṇṭātār' (declared enemies). By watching officials, the ruler ensures loyalty and efficiency; by watching relatives, internal conspiracies are prevented; and by watching enemies, external threats are anticipated. True espionage ('oṟṟu') leaves no one unobserved, ensuring the stability of the state through complete awareness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

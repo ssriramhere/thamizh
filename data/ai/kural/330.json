@@ -25,18 +25,28 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from body"
+   "gloss": "from the body"
   },
   {
    "surface": "நீக்கியார்",
    "parts": [
     {
-     "text": "நீக்கியார்",
+     "text": "நீக்கு",
      "lemma": "நீக்கு",
-     "gloss": "those who removed"
+     "gloss": "remove"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (personal suffix)"
     }
    ],
-   "gloss": "those who removed"
+   "gloss": "those who separated"
   },
   {
    "surface": "என்ப",
@@ -49,7 +59,7 @@
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they (plural suffix)"
     }
    ],
    "gloss": "they say"
@@ -60,10 +70,10 @@
     {
      "text": "செயிர்",
      "lemma": "செயிர்",
-     "gloss": "disease"
+     "gloss": "disease or defect"
     }
    ],
-   "gloss": "disease"
+   "gloss": "diseased or defective"
   },
   {
    "surface": "உடம்பின்",
@@ -79,7 +89,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with body"
+   "gloss": "with a body"
   },
   {
    "surface": "செல்லா",
@@ -87,15 +97,15 @@
     {
      "text": "செல்",
      "lemma": "செல்",
-     "gloss": "pass"
+     "gloss": "go or pass away"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not (negative relative participle)"
     }
    ],
-   "gloss": "not passing"
+   "gloss": "unending"
   },
   {
    "surface": "தீ",
@@ -103,10 +113,10 @@
     {
      "text": "தீ",
      "lemma": "தீ",
-     "gloss": "cruel"
+     "gloss": "evil or misery"
     }
    ],
-   "gloss": "cruel"
+   "gloss": "evil or misery"
   },
   {
    "surface": "வாழ்க்கை",
@@ -125,16 +135,16 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those persons"
     }
    ],
-   "gloss": "they"
+   "gloss": "those persons"
   }
  ],
- "literal": "Life from body those who removed, they say, disease with body not passing cruel life they.",
- "translation": "They say that those who endure a cruel, unending life in a diseased body are the ones who once separated life from the bodies of others.",
- "modern": "நோயால் துன்புறும் உடம்போடு நீங்காத கொடிய வாழ்க்கையை வாழ்பவர்கள், முன்பு பிற உயிர்களை அவற்றின் உடம்பிலிருந்து பிரித்துக் கொன்றவர்கள் என்று அறிஞர் கூறுவர்.",
- "explanation": "This couplet connects the act of killing to the experience of severe physical suffering. The phrase 'உயிர் உடம்பின் நீக்கியார்' directly describes killers as those who separate life from a body. The consequence is described as 'செயிர் உடம்பின் செல்லாத் தீ வாழ்க்கை', meaning a cruel, unyielding life trapped in a diseased or suffering body. The word 'என்ப' (they say) indicates that this is a recognized truth among the wise. The poem uses the symmetry of bodies, suggesting that destroying another's body leads to suffering in one's own.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who separated life from the body, they say, are those who have a life of unending misery with a diseased body.",
+ "translation": "Wise people say that those who live a life of unending misery in a diseased and suffering body are those who once separated life from another's body.",
+ "modern": "உடம்பிலிருந்து உயிரைப் பிரித்தவர்கள் (கொலை செய்தவர்கள்) என்று, நோயால் துன்புறும் உடம்போடு நீங்காத துன்ப வாழ்க்கையை வாழ்பவர்களை அறிவுடையோர் கூறுவர்.",
+ "explanation": "This couplet links the act of killing to the physical suffering experienced in a subsequent existence. The poet suggests that those who suffer from chronic, painful diseases and live a life of unending misery (cellā tī vāḻkkai) in a defective body (ceyiṟ uṭampu) are reaping the consequences of having taken another life. The word 'ceyiṟ' means defect or disease, highlighting physical suffering, while 'cellā tī' represents unceasing, fire-like misery. Through this, the chapter on non-killing (kollāmai) emphasizes that the violence inflicted on others ultimately returns to the perpetrator as physical and mental torment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

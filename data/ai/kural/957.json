@@ -6,10 +6,10 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "lineage"
+     "gloss": "noble family"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "noble family"
   },
   {
    "surface": "பிறந்தார்",
@@ -17,10 +17,10 @@
     {
      "text": "பிறந்தார்",
      "lemma": "பிற",
-     "gloss": "those born"
+     "gloss": "those who are born"
     }
    ],
-   "gloss": "those born"
+   "gloss": "those who are born"
   },
   {
    "surface": "கண்",
@@ -28,26 +28,21 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "locative suffix (in/with)"
     }
    ],
-   "gloss": "in (locative)"
+   "gloss": "locative suffix (in/with)"
   },
   {
    "surface": "விளங்கும்",
    "parts": [
     {
-     "text": "விளங்கு",
+     "text": "விளங்கும்",
      "lemma": "விளங்கு",
-     "gloss": "to be visible"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will be conspicuous"
     }
    ],
-   "gloss": "will be visible"
+   "gloss": "will be conspicuous"
   },
   {
    "surface": "குற்றம்",
@@ -55,10 +50,10 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "fault or blemish"
     }
    ],
-   "gloss": "fault"
+   "gloss": "fault or blemish"
   },
   {
    "surface": "விசும்பின்",
@@ -71,7 +66,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "of"
+     "gloss": "of (genitive suffix)"
     }
    ],
    "gloss": "of the sky"
@@ -93,10 +88,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "locative suffix (in/on)"
     }
    ],
-   "gloss": "in (locative)"
+   "gloss": "locative suffix (in/on)"
   },
   {
    "surface": "மறு",
@@ -104,10 +99,10 @@
     {
      "text": "மறு",
      "lemma": "மறு",
-     "gloss": "spot"
+     "gloss": "spot or blemish"
     }
    ],
-   "gloss": "spot"
+   "gloss": "spot or blemish"
   },
   {
    "surface": "போல்",
@@ -115,10 +110,10 @@
     {
      "text": "போல்",
      "lemma": "போல்",
-     "gloss": "like"
+     "gloss": "like or resembling"
     }
    ],
-   "gloss": "like"
+   "gloss": "like or resembling"
   },
   {
    "surface": "உயர்ந்து",
@@ -126,16 +121,16 @@
     {
      "text": "உயர்ந்து",
      "lemma": "உயர்",
-     "gloss": "being elevated"
+     "gloss": "having risen high"
     }
    ],
-   "gloss": "being elevated"
+   "gloss": "having risen high"
   }
  ],
- "literal": "lineage - those born - in - will be visible - fault - sky's - moon - in - spot - like - being elevated.",
- "translation": "The faults of those born in a noble lineage will be glaringly visible, standing out like the dark spots on the moon high in the sky.",
- "modern": "உயர்ந்த குடியில் பிறந்தவர்களிடம் உள்ள குற்றமானது, வானத்தில் உயர்ந்து விளங்கும் நிலவில் உள்ள களங்கம் போல உலகத்தாருக்குத் தெளிவாகத் தெரியும்.",
- "explanation": "This couplet emphasizes that people from noble or respected backgrounds are held to a higher standard. Just as a dark spot is highly visible on the bright moon high in the sky, even a small fault in a person of high standing becomes glaringly obvious to everyone. The word 'உயர்ந்து' (being elevated) connects both the high position of the moon and the high social standing of the noble family, showing how prominence magnifies flaws.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The fault that appears in those born of noble family will shine out, like the spot on the moon in the sky, rising high.",
+ "translation": "The faults of those born in a noble family will stand out conspicuously, like the dark spot on the moon high up in the sky.",
+ "modern": "உயர்ந்த குடியில் பிறந்தவர்களிடம் காணப்படும் குற்றம், வானத்தில் உள்ள சந்திரனிடத்தில் இருக்கும் களங்கம் போல, எல்லோருக்கும் மிகத் தெளிவாகத் தெரியும்.",
+ "explanation": "This couplet explains how even minor flaws in people of noble birth are easily noticed by the world. The author compares their faults to the dark spot on the moon. Just as the moon is high in the sky for everyone to see, noble people hold a high position in society, making their actions highly visible. Therefore, any blemish in their character stands out prominently, just like the dark spot on the bright moon.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

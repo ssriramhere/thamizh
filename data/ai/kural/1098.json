@@ -6,12 +6,12 @@
     {
      "text": "அசை",
      "lemma": "அசை",
-     "gloss": "swaying"
+     "gloss": "sway/grace"
     },
     {
      "text": "இயல்",
      "lemma": "இயல்",
-     "gloss": "nature"
+     "gloss": "nature/gait"
     },
     {
      "text": "கு",
@@ -19,18 +19,18 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to the swaying-natured one"
+   "gloss": "to the woman of graceful, swaying gait"
   },
   {
    "surface": "உண்டு",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
-     "gloss": "is"
+     "lemma": "உண்டு",
+     "gloss": "exists"
     }
    ],
-   "gloss": "is"
+   "gloss": "there is"
   },
   {
    "surface": "ஆண்டு",
@@ -48,11 +48,11 @@
    "parts": [
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "a"
+     "lemma": "ஒன்று",
+     "gloss": "a/one"
     }
    ],
-   "gloss": "a"
+   "gloss": "a unique"
   },
   {
    "surface": "ஏஎர்",
@@ -63,7 +63,7 @@
      "gloss": "beauty"
     }
    ],
-   "gloss": "beauty"
+   "gloss": "beauty/charm"
   },
   {
    "surface": "யான்",
@@ -82,7 +82,7 @@
     {
      "text": "நோக்க",
      "lemma": "நோக்கு",
-     "gloss": "when looking"
+     "gloss": "to look"
     }
    ],
    "gloss": "when looking"
@@ -93,20 +93,15 @@
     {
      "text": "பசை",
      "lemma": "பசை",
-     "gloss": "affection"
+     "gloss": "affection/love"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "euphonic suffix"
-    },
-    {
-     "text": "அள்",
-     "lemma": "அள்",
-     "gloss": "she"
+     "text": "இனள்",
+     "lemma": "இனள்",
+     "gloss": "she who has"
     }
    ],
-   "gloss": "she of affection"
+   "gloss": "she who has affection"
   },
   {
    "surface": "பைய",
@@ -114,7 +109,7 @@
     {
      "text": "பைய",
      "lemma": "பைய",
-     "gloss": "gently"
+     "gloss": "gently/softly"
     }
    ],
    "gloss": "gently"
@@ -131,10 +126,10 @@
    "gloss": "smiles"
   }
  ],
- "literal": "To the swaying-natured one, is there a beauty; I to look, she of affection gently smiles.",
- "translation": "There is a special beauty in this slender woman: when I look at her, she smiles gently with affection.",
- "modern": "நான் அவளைப் பார்க்கும்போது, மென்மையான இயல்புடைய அவள் அன்போடு மெல்ல சிரிக்கிறாள்; அதில் ஒரு தனி அழகு இருக்கிறது.",
- "explanation": "This couplet captures the subtle communication of love through a gentle smile. The speaker observes that the slender woman possesses a unique, captivating beauty in her response to his gaze. When he looks at her, she does not turn away but smiles softly, revealing her affection ('pasai'). The word 'asaiyiyal' beautifully describes her delicate, swaying form, while 'paiya nagum' highlights the shy, tender nature of her smile that confirms her mutual feelings.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the woman of swaying gait, there is there a unique beauty; when I look, she of affection gently smiles.",
+ "translation": "There is a unique charm in this woman of graceful, swaying gait; when I look at her, she, filled with love, gently smiles.",
+ "modern": "மெல்ல அசையும் இயல்புடைய இவளிடம் ஒரு தனி அழகு இருக்கிறது; நான் அவளைப் பார்க்கும்போது, அன்புடையவளாய் அவள் மெதுவாகப் புன்னகைக்கிறாள்.",
+ "explanation": "The hero observes the subtle signs of love in the heroine's behavior. He notes that the woman of graceful, swaying gait ('அசையியல்') possesses a unique, captivating charm ('ஏஎர்') that manifests in his presence. When he looks at her, instead of turning away coldly, she responds with a soft, gentle smile ('பைய நகும்'). This gentle smile reveals her inner affection ('பசை'), confirming to him that her heart is filled with love for him.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

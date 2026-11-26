@@ -6,7 +6,7 @@
     {
      "text": "ஆகு",
      "lemma": "ஆகு",
-     "gloss": "to come in"
+     "gloss": "accruing"
     },
     {
      "text": "ஆறு",
@@ -14,7 +14,7 @@
      "gloss": "way"
     }
    ],
-   "gloss": "way of income"
+   "gloss": "the way of income"
   },
   {
    "surface": "அளவு",
@@ -36,18 +36,23 @@
      "gloss": "small"
     }
    ],
-   "gloss": "small"
+   "gloss": "is small"
   },
   {
    "surface": "ஆயினும்",
    "parts": [
     {
-     "text": "ஆயினும்",
-     "lemma": "ஆயினும்",
-     "gloss": "even if"
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
+     "gloss": "if it is"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if it is"
+   "gloss": "even if"
   },
   {
    "surface": "கேடு",
@@ -65,11 +70,11 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்லை",
-     "gloss": "is not"
+     "lemma": "இல்",
+     "gloss": "not"
     }
    ],
-   "gloss": "there is no"
+   "gloss": "there is none"
   },
   {
    "surface": "போகாறு",
@@ -77,7 +82,7 @@
     {
      "text": "போகு",
      "lemma": "போகு",
-     "gloss": "to go out"
+     "gloss": "going"
     },
     {
      "text": "ஆறு",
@@ -85,23 +90,18 @@
      "gloss": "way"
     }
    ],
-   "gloss": "way of expenditure"
+   "gloss": "the way of expenditure"
   },
   {
    "surface": "அகலா",
    "parts": [
     {
-     "text": "அகல்",
-     "lemma": "அகல்",
-     "gloss": "to widen"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "text": "அகலா",
+     "lemma": "அகலு",
+     "gloss": "not widening"
     }
    ],
-   "gloss": "not widening"
+   "gloss": "does not widen"
   },
   {
    "surface": "கடை",
@@ -109,16 +109,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "state"
+     "gloss": "if"
     }
    ],
-   "gloss": "in the condition"
+   "gloss": "if"
   }
  ],
- "literal": "Way of income measure small even if, ruin is not, way of expenditure not widening in the condition.",
- "translation": "Even if the channel of income is small, there is no harm as long as the channel of expenditure does not widen.",
- "modern": "பொருள் வரும் வழி சிறியதாக இருந்தாலும், செலவு செய்யும் வழி விரிவடையாமல் இருந்தால் ஒருவருக்கு எந்தக் கேடும் இல்லை.",
- "explanation": "This couplet teaches the fundamental principle of living within one's means. The word 'ஆகாறு' refers to the channel of income, while 'போகாறு' refers to the channel of expenditure. The poet states that having a small income is not a cause for ruin. Financial stability is maintained as long as one's expenses do not expand beyond the limits of their wealth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if the measure of the incoming path is small, there is no ruin, if the outgoing path does not widen.",
+ "translation": "Even if the source of income is small in measure, there is no ruin as long as the path of expenditure does not exceed it.",
+ "modern": "வருமானம் வரும் வழி சிறியதாக இருந்தாலும், செலவு செய்யும் வழி விரிவடையாமல் இருந்தால் அழிவு இல்லை.",
+ "explanation": "This couplet highlights the fundamental principle of financial management. The poet uses the terms 'āgāṟu' (the incoming path or income) and 'pōgāṟu' (the outgoing path or expenditure) to describe a person's budget. Even if one's income is very small ('iṭṭitu'), there will be no ruin ('kēṭu illai') as long as the expenses do not expand ('agalā') beyond that limit. The conditional word 'kaṭai' (if) emphasizes that financial survival depends entirely on keeping expenditure within the bounds of income.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

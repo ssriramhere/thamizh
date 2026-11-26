@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "ஓஒதல்",
-     "lemma": "ஓ",
-     "gloss": "shunning"
+     "lemma": "ஓது",
+     "gloss": "avoiding"
     }
    ],
-   "gloss": "shunning"
+   "gloss": "avoiding"
   },
   {
    "surface": "வேண்டும்",
@@ -17,10 +17,10 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "is necessary"
     }
    ],
-   "gloss": "must"
+   "gloss": "is necessary"
   },
   {
    "surface": "ஒளி",
@@ -28,10 +28,10 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "glory"
+     "gloss": "fame"
     }
    ],
-   "gloss": "glory"
+   "gloss": "fame"
   },
   {
    "surface": "மாழ்கும்",
@@ -39,7 +39,7 @@
     {
      "text": "மாழ்கும்",
      "lemma": "மாழ்கு",
-     "gloss": "fading"
+     "gloss": "which dims"
     }
    ],
    "gloss": "which dims"
@@ -50,7 +50,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "doing"
+     "gloss": "do"
     },
     {
      "text": "வினை",
@@ -58,14 +58,14 @@
      "gloss": "action"
     }
    ],
-   "gloss": "deeds"
+   "gloss": "action to be done"
   },
   {
    "surface": "ஆஅதும்",
    "parts": [
     {
      "text": "ஆஅதும்",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "we will prosper"
     }
    ],
@@ -77,10 +77,10 @@
     {
      "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "who say"
+     "gloss": "saying"
     }
    ],
-   "gloss": "who say"
+   "gloss": "saying"
   },
   {
    "surface": "அவர்",
@@ -88,16 +88,16 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those people"
     }
    ],
    "gloss": "those people"
   }
  ],
- "literal": "shunning is-needed glory fading doing-action 'we-will-prosper' who-say they",
- "translation": "Those who say to themselves, 'We will prosper,' must shun actions that would dim their glory.",
- "modern": "நாம் வாழ்வில் மேன்மை அடைவோம் என்று எண்ணுபவர்கள், தம் புகழைக் கெடுக்கும் செயல்களைச் செய்வதை விட்டுவிட வேண்டும்.",
- "explanation": "The couplet advises ambitious individuals on the importance of pure actions. The word 'ஆஅதும்' (we will prosper) captures the mindset of those who wish to rise in life. To achieve true success, they must avoid 'ஒளி மாழ்கும் செய்வினை', which means actions that tarnish their 'ஒளி' (light or glory). Even if a bad action seems to offer a shortcut, it will ultimately destroy their reputation and must be strictly shunned ('ஓஒதல் வேண்டும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Avoiding is necessary, fame-dimming actions, by those who say 'we will prosper'.",
+ "translation": "Those who say, 'We will prosper,' must avoid doing actions that dim their fame.",
+ "modern": "மேம்பாடு அடைவோம் என்று நினைப்பவர்கள், தங்களுடைய புகழைக் கெடுக்கும் செயல்களைச் செய்வதைத் தவிர்க்க வேண்டும்.",
+ "explanation": "This couplet outlines the path of purity in action for those who aspire to rise in life. The word 'ஆஅதும்' refers to those who wish to grow, succeed, or prosper. The poet advises that such ambitious individuals must absolutely avoid ('ஓஒதல் வேண்டும்') any deed ('செய்வினை') that would diminish or ruin ('மாழ்கும்') their personal honor and fame ('ஒளி'). True prosperity cannot be built on actions that bring disgrace.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

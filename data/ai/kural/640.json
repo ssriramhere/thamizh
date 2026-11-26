@@ -6,12 +6,12 @@
     {
      "text": "முறை",
      "lemma": "முறை",
-     "gloss": "order"
+     "gloss": "method"
     },
     {
      "text": "பட",
      "lemma": "படு",
-     "gloss": "to happen"
+     "gloss": "to be in accordance with"
     }
    ],
    "gloss": "methodically"
@@ -22,15 +22,15 @@
     {
      "text": "சூழ்ந்து",
      "lemma": "சூழ்",
-     "gloss": "having deliberated"
+     "gloss": "having planned"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even having deliberated"
+   "gloss": "even after planning"
   },
   {
    "surface": "முடிவு",
@@ -41,7 +41,7 @@
      "gloss": "completion"
     }
    ],
-   "gloss": "completion"
+   "gloss": "successful completion"
   },
   {
    "surface": "இலவே",
@@ -49,7 +49,7 @@
     {
      "text": "இல",
      "lemma": "இல்",
-     "gloss": "things without"
+     "gloss": "things that are not"
     },
     {
      "text": "ஏ",
@@ -57,7 +57,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "things without indeed"
+   "gloss": "only unsuccessful things"
   },
   {
    "surface": "செய்வர்",
@@ -68,7 +68,7 @@
      "gloss": "they will do"
     }
    ],
-   "gloss": "they will do"
+   "gloss": "they will perform"
   },
   {
    "surface": "திறப்பாடு",
@@ -76,27 +76,37 @@
     {
      "text": "திறப்பாடு",
      "lemma": "திறப்பாடு",
-     "gloss": "competence"
+     "gloss": "capability"
     }
    ],
-   "gloss": "competence"
+   "gloss": "capability"
   },
   {
    "surface": "இலாஅதவர்",
    "parts": [
     {
-     "text": "இலாஅதவர்",
-     "lemma": "இல்லாதவர்",
-     "gloss": "those who lack"
+     "text": "இலா",
+     "lemma": "இல்",
+     "gloss": "not having"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "metrical lengthening"
+    },
+    {
+     "text": "தவர்",
+     "lemma": "அவர்",
+     "gloss": "those who"
     }
    ],
    "gloss": "those who lack"
   }
  ],
- "literal": "Methodically even having deliberated, completion things-without-indeed they will do, competence those who lack.",
- "translation": "Even after deliberating methodically, those who lack the competence to execute will only perform actions that remain incomplete.",
- "modern": "செயல்படுத்தும் திறமை இல்லாதவர்கள், ஒரு செயலை முறையாகச் சிந்தித்துத் தொடங்கினாலும், அதனை முடிக்க முடியாமல் அரைகுறையாகவே செய்வார்கள்.",
- "explanation": "This couplet highlights the crucial difference between planning and execution. The root 'சூழ்' generally means to surround, but in the context of ministry and counsel, it takes the sense of deliberating or considering an issue from all sides. The word 'முறைப்பட' emphasizes that this deliberation was done methodically. However, 'திறப்பாடு' refers to the practical ability or competence to carry out a task. The couplet states that without this practical competence, even the best-laid plans will result in actions that have no 'முடிவு' (completion), meaning they will be left unfinished.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even after planning methodically, only endless (unsuccessful) things will they do, those who lack capability.",
+ "translation": "Those who lack capability will only produce unsuccessful results, even if they have planned their actions methodically.",
+ "modern": "செயல்பாட்டுத் திறன் இல்லாதவர்கள், முறையோடு திட்டமிட்டாலும் கூட, வெற்றியில் முடியாத செயல்களையே செய்வார்கள்.",
+ "explanation": "This couplet emphasizes that planning is futile without the practical capability to execute. Even if those who lack competence (tiraṟpāṭu ilāatavar) plan their actions methodically and systematically, their endeavors will still end in failure without reaching a successful completion. The word 'tiraṟpāṭu' refers to the inherent skill or capability required to turn plans into reality. Thus, the author shows that execution capability is just as vital as strategic planning.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

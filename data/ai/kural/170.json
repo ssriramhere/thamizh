@@ -4,19 +4,24 @@
    "surface": "அழுக்கற்று",
    "parts": [
     {
-     "text": "அழுக்கற்று",
-     "lemma": "அழுக்கறு",
-     "gloss": "having envied"
+     "text": "அழுக்கு",
+     "lemma": "அழுக்கு",
+     "gloss": "envy"
+    },
+    {
+     "text": "அற்று",
+     "lemma": "அறு",
+     "gloss": "having rid of"
     }
    ],
-   "gloss": "having envied"
+   "gloss": "having rid oneself of envy"
   },
   {
    "surface": "அகன்றாரும்",
    "parts": [
     {
      "text": "அகன்றார்",
-     "lemma": "அகல்",
+     "lemma": "அகன்றார்",
      "gloss": "those who prospered"
     },
     {
@@ -32,11 +37,11 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "are not"
+     "lemma": "இல்லை",
+     "gloss": "do not exist"
     }
    ],
-   "gloss": "are not"
+   "gloss": "do not exist"
   },
   {
    "surface": "அஃது",
@@ -47,37 +52,38 @@
      "gloss": "that"
     }
    ],
-   "gloss": "that"
+   "gloss": "that (envy)"
   },
   {
    "surface": "இல்லார்",
    "parts": [
     {
      "text": "இல்லார்",
-     "lemma": "இல்",
+     "lemma": "இல்லார்",
      "gloss": "those who do not have"
     }
    ],
-   "gloss": "those who do not have"
+   "gloss": "those who do not have (it)"
   },
   {
    "surface": "பெருக்கத்தில்",
    "parts": [
     {
      "text": "பெருக்கத்தில்",
-     "lemma": "பெருக்கம்",
-     "gloss": "from prosperity"
+     "lemma": "பெருக்கத்தில்",
+     "gloss": "in prosperity"
     }
    ],
-   "gloss": "from prosperity"
+   "gloss": "in prosperity",
+   "split_unverified": true
   },
   {
    "surface": "தீர்ந்தாரும்",
    "parts": [
     {
      "text": "தீர்ந்தார்",
-     "lemma": "தீர்",
-     "gloss": "those who departed"
+     "lemma": "தீர்ந்தார்",
+     "gloss": "those who were ruined"
     },
     {
      "text": "உம்",
@@ -85,7 +91,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even those who departed"
+   "gloss": "even those who were ruined"
   },
   {
    "surface": "இல்",
@@ -93,16 +99,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "are not"
+     "gloss": "do not exist"
     }
    ],
-   "gloss": "are not"
+   "gloss": "do not exist"
   }
  ],
- "literal": "Having envied, even those who prospered are not; those who do not have that, even those who departed from prosperity are not.",
- "translation": "No one has ever achieved greatness through envy. Likewise, no one free from envy has ever fallen from prosperity.",
- "modern": "பொறாமை கொண்டு வாழ்வில் உயர்ந்தவர்களும் இல்லை; பொறாமை இல்லாதவர்கள் செல்வத்திலிருந்து நீங்கித் தாழ்ந்தவர்களும் இல்லை.",
- "explanation": "The couplet states a clear rule about the consequences of envy. It says that those who harbor envy never achieve true greatness or prosperity. Conversely, those who are completely free from that flaw never lose their prosperity. The word 'அகன்றார்' means those who have expanded or grown great, while 'தீர்ந்தார்' means those who have fallen away or separated from their wealth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having rid of envy, those who prospered even, do not exist; that (envy) those who do not have, in prosperity, those who were ruined even, do not exist.",
+ "translation": "No one has ever prospered through envy, nor has anyone free from envy ever been ruined of their prosperity.",
+ "modern": "பொறாமை கொண்டு பெருமையடைந்தவர்களும் இல்லை; அந்தப் பொறாமை இல்லாதவர்களில் தம் செல்வச் செழிப்பை இழந்தவர்களும் இல்லை.",
+ "explanation": "This couplet highlights the absolute law of envy and its consequences on human fortune. The first part asserts that history has never seen anyone who truly grew great or prospered by harboring envy. Conversely, the second part states that those who are free from envy have never been ruined or deprived of their wealth. The contrast between 'அகன்றார்' (those who expanded or prospered) and 'தீர்ந்தார்' (those who were ruined or depleted) shows that envy never builds up, and the lack of envy never tears down.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

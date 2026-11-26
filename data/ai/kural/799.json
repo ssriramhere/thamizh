@@ -16,19 +16,24 @@
    "parts": [
     {
      "text": "காலை",
-     "lemma": "காலை",
+     "lemma": "காலம்",
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "at the time of"
   },
   {
    "surface": "கைவிடுவார்",
    "parts": [
     {
-     "text": "கைவிடுவார்",
-     "lemma": "கைவிடு",
-     "gloss": "those who abandon"
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "hand"
+    },
+    {
+     "text": "விடுவார்",
+     "lemma": "விடு",
+     "gloss": "will leave"
     }
    ],
    "gloss": "those who abandon"
@@ -50,21 +55,21 @@
     {
      "text": "அடும்",
      "lemma": "அடு",
-     "gloss": "destroying"
+     "gloss": "killing"
     }
    ],
-   "gloss": "destroying"
+   "gloss": "killing"
   },
   {
    "surface": "காலை",
    "parts": [
     {
      "text": "காலை",
-     "lemma": "காலை",
+     "lemma": "காலம்",
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "at the time of"
   },
   {
    "surface": "உள்ளினும்",
@@ -80,7 +85,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if thought of"
+   "gloss": "even if one thinks of"
   },
   {
    "surface": "உள்ளம்",
@@ -91,7 +96,7 @@
      "gloss": "mind"
     }
    ],
-   "gloss": "mind"
+   "gloss": "the mind"
   },
   {
    "surface": "சுடும்",
@@ -105,10 +110,10 @@
    "gloss": "will burn"
   }
  ],
- "literal": "ruining time those-who-abandon friendship destroying time even-if-thought-of mind will-burn",
- "translation": "The friendship of those who abandon you in times of ruin will burn your heart, even if you recall it at the hour of death.",
- "modern": "துன்பம் வரும் காலத்தில் நம்மைக் கைவிட்டுச் செல்பவர்களின் நட்பை, நாம் இறக்கும் காலத்தில் நினைத்தாலும் அது நம் மனத்தைச் சுடும்.",
- "explanation": "This couplet warns against false friends who desert a person when misfortune strikes. The phrase 'keṭum kālai' refers to the time of ruin or adversity, while 'aṭum kālai' refers to the ultimate time of destruction or death. The poet emphasizes the deep emotional scar left by such betrayal. Even at the very end of life, merely recalling the friendship of those who abandoned you will burn your heart with pain.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "At the time of ruin, the friendship of those who abandon, at the time of death, even if thought of, the mind will burn.",
+ "translation": "The friendship of those who abandon you in times of ruin will burn your mind, even if you think of it at the moment of death.",
+ "modern": "துன்பம் வரும் காலத்தில் கைவிட்டு விலகிப் போகின்றவர்களின் நட்பு, ஒருவருக்கு இறுதி காலம் நெருங்கும் போது நினைத்துப் பார்த்தாலும் மனதைச் சுட்டு வருத்தும்.",
+ "explanation": "This couplet warns against the lingering pain caused by fair-weather friends. The poet states that the friendship of those who abandon us when we fall into ruin (keṭuṅkālai) is so toxic that even thinking about it on one's deathbed (aṭuṅkālai) will burn the heart. The word 'aṭu' here means to destroy or kill, referring to the final moments of life. The betrayal of a false friend leaves a scar so deep that it hurts even at the very end of one's existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

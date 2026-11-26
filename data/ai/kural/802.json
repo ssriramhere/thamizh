@@ -11,12 +11,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case marker"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative)"
     }
    ],
    "gloss": "to friendship"
@@ -27,21 +27,26 @@
     {
      "text": "உறுப்பு",
      "lemma": "உறுப்பு",
-     "gloss": "essential part"
+     "gloss": "limb or essential part"
     }
    ],
-   "gloss": "essential part"
+   "gloss": "essential limb"
   },
   {
    "surface": "கெழுதகைமை",
    "parts": [
     {
-     "text": "கெழுதகைமை",
-     "lemma": "கெழுதகைமை",
-     "gloss": "right of intimacy"
+     "text": "கெழு",
+     "lemma": "கெழு",
+     "gloss": "close or intimate"
+    },
+    {
+     "text": "தகைமை",
+     "lemma": "தகைமை",
+     "gloss": "quality or familiarity"
     }
    ],
-   "gloss": "right of intimacy"
+   "gloss": "intimate familiarity"
   },
   {
    "surface": "மற்று",
@@ -49,10 +54,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "and"
+     "gloss": "and or further"
     }
    ],
-   "gloss": "and"
+   "gloss": "and further"
   },
   {
    "surface": "அதற்கு",
@@ -65,12 +70,12 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique increment"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative)"
     }
    ],
    "gloss": "to that"
@@ -81,26 +86,21 @@
     {
      "text": "உப்பு",
      "lemma": "உப்பு",
-     "gloss": "agreeable"
+     "gloss": "salt or seasoning"
     }
    ],
-   "gloss": "agreeable"
+   "gloss": "seasoning salt"
   },
   {
    "surface": "ஆதல்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "to become"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஆதல்",
+     "lemma": "ஆதல்",
+     "gloss": "becoming or being"
     }
    ],
-   "gloss": "becoming"
+   "gloss": "being"
   },
   {
    "surface": "சான்றோர்",
@@ -108,10 +108,10 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "the noble or wise"
     }
    ],
-   "gloss": "noble ones"
+   "gloss": "the noble"
   },
   {
    "surface": "கடன்",
@@ -125,10 +125,10 @@
    "gloss": "duty"
   }
  ],
- "literal": "To friendship, the essential part is the right of intimacy; and to that, becoming agreeable is the noble ones' duty.",
- "translation": "The defining feature of true friendship is the freedom to take liberties. It is the duty of the noble to gracefully accept such intimacy.",
- "modern": "நட்பின் முக்கிய உறுப்பு, நண்பர்கள் தமக்குள் உரிமை எடுத்துக்கொள்வதாகும். அந்த உரிமைக்கு இனிமையாக உடன்பட்டு நடப்பது சிறந்தவர்களின் கடமையாகும்.",
- "explanation": "This couplet defines the core of long-standing friendship as 'கெழுதகைமை', which is the right to take liberties without hesitation. The word 'உறுப்பு' compares this right to an essential limb, showing that friendship cannot function without it. Furthermore, the word 'உப்பு' (literally salt) is used metaphorically to mean being agreeable or adding a pleasant taste. Therefore, it is the duty of noble people to warmly accept and be agreeable to the liberties taken by their old friends.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To friendship, the limb is intimate familiarity; and to that, being the seasoning salt is the duty of the noble.",
+ "translation": "Intimate familiarity is the very life-limb of friendship; to be the seasoning salt that makes this familiarity sweet is the duty of the noble.",
+ "modern": "நட்பிற்கு நெருங்கிய உரிமை பாராட்டுவதே சிறந்த உறுப்பாகும்; அந்த உரிமைக்கு இன்பம் தரும் உப்பாக விளங்குவது சான்றோரின் கடமையாகும்.",
+ "explanation": "This couplet defines the essence of long-standing friendship. The word 'keḻutakaimai' refers to the right of familiarity, where friends can act with freedom without needing formal permission. The poet states that this familiarity is the 'uṟuppu' (the vital limb or constituent) of friendship. To make this familiarity pleasant and enduring, noble friends must act as 'uppu' (salt or seasoning), gracefully accepting and returning this intimacy to keep the relationship flavorful and sweet.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

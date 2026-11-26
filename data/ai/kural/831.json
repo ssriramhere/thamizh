@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "என்பது",
-     "lemma": "என்",
+     "lemma": "என்பது",
      "gloss": "that which is called"
     }
    ],
@@ -28,7 +28,7 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one thing"
     }
    ],
    "gloss": "one thing"
@@ -48,14 +48,9 @@
    "surface": "எனின்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "எனின்",
+     "lemma": "எனின்",
+     "gloss": "if asked"
     }
    ],
    "gloss": "if asked"
@@ -77,10 +72,10 @@
     {
      "text": "கொண்டு",
      "lemma": "கொள்",
-     "gloss": "having taken"
+     "gloss": "taking"
     }
    ],
-   "gloss": "having taken"
+   "gloss": "taking"
   },
   {
    "surface": "ஊதியம்",
@@ -88,23 +83,18 @@
     {
      "text": "ஊதியம்",
      "lemma": "ஊதியம்",
-     "gloss": "profit"
+     "gloss": "benefit"
     }
    ],
-   "gloss": "profit"
+   "gloss": "benefit"
   },
   {
    "surface": "போக",
    "parts": [
     {
-     "text": "போ",
+     "text": "போக",
      "lemma": "போ",
      "gloss": "to go"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "infinitive suffix"
     }
    ],
    "gloss": "to go"
@@ -113,23 +103,18 @@
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "to let go"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "letting go"
     }
    ],
-   "gloss": "letting"
+   "gloss": "letting go"
   }
  ],
- "literal": "Folly that-which-is-called one-thing what if-asked, harm having-taken profit to-go letting.",
- "translation": "If asked what the one thing called folly is, it is grasping what causes harm and letting go of what brings profit.",
- "modern": "பேதைமை என்று சொல்லப்படுவது என்னவென்றால், தனக்குத் துன்பம் தருவதைப் பற்றிக்கொண்டு, நன்மை தருவதைக் கைவிடுவதாகும்.",
- "explanation": "This couplet defines the core nature of folly or ignorance. The poet asks what the single defining trait of folly is, and answers by contrasting 'ētam' (harm) with 'ūtiyam' (profit or benefit). A foolish person actively grasps and holds onto things that cause them harm, while carelessly letting go of things that would bring them true benefit. Thus, folly is shown not merely as a lack of knowledge, but as an actively destructive pattern of choices.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Folly that which is called one thing, what if asked, harm taking, benefit to go letting go.",
+ "translation": "If one asks what that single thing called folly is, it is taking hold of what is harmful and letting go of what is beneficial.",
+ "modern": "பேதைமை என்று சொல்லப்படும் ஒரு தன்மை யாது என்று கேட்டால், அது தனக்குத் துன்பம் தருவனவற்றை ஏற்றுக்கொண்டு, நன்மை தருவனவற்றைத் நழுவவிடுவது ஆகும்.",
+ "explanation": "This couplet defines the core nature of folly. The poet asks a rhetorical question about what constitutes folly, and answers it directly. Folly is the lack of discernment that leads a person to actively embrace things that bring harm (ētam) while letting go of things that bring true benefit (ūtiyam). A foolish person acts against their own self-interest, choosing ruin over prosperity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

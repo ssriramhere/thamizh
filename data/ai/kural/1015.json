@@ -9,7 +9,7 @@
      "gloss": "others"
     }
    ],
-   "gloss": "others'"
+   "gloss": "others"
   },
   {
    "surface": "பழியும்",
@@ -17,7 +17,7 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "disgrace"
+     "gloss": "blame or guilt"
     },
     {
      "text": "உம்",
@@ -25,18 +25,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "disgrace and"
+   "gloss": "and the blame"
   },
   {
    "surface": "தம்",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தான்",
+     "gloss": "their own"
     }
    ],
-   "gloss": "one's own"
+   "gloss": "their own"
   },
   {
    "surface": "பழியும்",
@@ -44,7 +44,7 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "disgrace"
+     "gloss": "blame or guilt"
     },
     {
      "text": "உம்",
@@ -52,29 +52,44 @@
      "gloss": "and"
     }
    ],
-   "gloss": "disgrace and"
+   "gloss": "and the blame"
   },
   {
    "surface": "நாணுவார்",
    "parts": [
     {
-     "text": "நாணுவார்",
+     "text": "நாணு",
      "lemma": "நாணு",
-     "gloss": "those who feel ashamed"
+     "gloss": "to feel shame"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who"
     }
    ],
-   "gloss": "those who feel ashamed"
+   "gloss": "those who feel shame"
   },
   {
    "surface": "நாணுக்கு",
    "parts": [
     {
-     "text": "நாணுக்கு",
+     "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "to modesty"
+     "gloss": "shame or modesty"
+    },
+    {
+     "text": "உக்கு",
+     "lemma": "கு",
+     "gloss": "dative case suffix"
     }
    ],
-   "gloss": "to modesty"
+   "gloss": "for the virtue of shame"
   },
   {
    "surface": "உறைபதி",
@@ -82,7 +97,7 @@
     {
      "text": "உறை",
      "lemma": "உறை",
-     "gloss": "dwell"
+     "gloss": "to dwell"
     },
     {
      "text": "பதி",
@@ -96,12 +111,17 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "will say"
+     "gloss": "to say or call"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "will say"
+   "gloss": "will call"
   },
   {
    "surface": "உலகு",
@@ -109,16 +129,16 @@
     {
      "text": "உலகு",
      "lemma": "உலகு",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Others' disgrace and their own disgrace, those who feel ashamed of - to modesty, dwelling place, will say the world.",
- "translation": "The world will call those who shrink from the disgrace of others as much as their own, the very abode of modesty.",
- "modern": "பிறருக்கு வரும் பழியையும் தமக்கு வரும் பழியையும் கண்டு வெட்கப்படுகின்றவர்களை, நாணம் தங்கியிருக்கும் உறைவிடம் என்று உலகம் சொல்லும்.",
- "explanation": "This couplet defines the highest standard of modesty or a sense of shame. It states that true modesty is not just avoiding one's own disgrace, but also feeling ashamed when others face disgrace. The word 'நாணுவார்' refers to those who instinctively shrink from any shameful act, regardless of who commits it. The world considers such empathetic and principled people to be the very dwelling place ('உறைபதி') of modesty itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who feel shame for others' blame and their own blame, the world will call them the dwelling place for the virtue of shame.",
+ "translation": "The world will hail those who shrink in shame from both others' guilt and their own as the very abode of the virtue of modesty.",
+ "modern": "பிறருக்கு வரும் பழியையும் தமக்கு வரும் பழியையும் கண்டு நாணப்படுபவர்களை, இந்த உலகம் நாணம் என்னும் நற்பண்பின் உறைவிடம் என்று போற்றும்.",
+ "explanation": "This couplet defines the true depth of the virtue of shame. A highly ethical person does not merely feel shame for their own misdeeds; they are so sensitive to moral wrongs that they feel equally ashamed when others commit blameworthy acts. The world praises such individuals, recognizing them as the very home or dwelling place of the virtue of shame. Their capacity to feel others' guilt as their own represents the peak of moral empathy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

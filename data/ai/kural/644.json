@@ -6,10 +6,10 @@
     {
      "text": "திறன்",
      "lemma": "திறன்",
-     "gloss": "capacity"
+     "gloss": "suitability"
     }
    ],
-   "gloss": "capacity"
+   "gloss": "suitability"
   },
   {
    "surface": "அறிந்து",
@@ -17,10 +17,10 @@
     {
      "text": "அறிந்து",
      "lemma": "அறி",
-     "gloss": "having known"
+     "gloss": "having understood"
     }
    ],
-   "gloss": "having known"
+   "gloss": "having understood"
   },
   {
    "surface": "சொல்லுக",
@@ -28,33 +28,28 @@
     {
      "text": "சொல்லுக",
      "lemma": "சொல்",
-     "gloss": "let speak"
+     "gloss": "speak"
     }
    ],
-   "gloss": "let speak"
+   "gloss": "speak"
   },
   {
    "surface": "சொல்லை",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லை",
      "lemma": "சொல்",
-     "gloss": "word"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "the word"
     }
    ],
-   "gloss": "word"
+   "gloss": "the word"
   },
   {
    "surface": "அறனும்",
    "parts": [
     {
      "text": "அறன்",
-     "lemma": "அறன்",
+     "lemma": "அறம்",
      "gloss": "virtue"
     },
     {
@@ -63,7 +58,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "virtue and"
+   "gloss": "and virtue"
   },
   {
    "surface": "பொருளும்",
@@ -79,15 +74,20 @@
      "gloss": "and"
     }
    ],
-   "gloss": "wealth and"
+   "gloss": "and wealth"
   },
   {
    "surface": "அதனின்",
    "parts": [
     {
-     "text": "அதனின்",
+     "text": "அதன்",
      "lemma": "அது",
-     "gloss": "than that"
+     "gloss": "that"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
     }
    ],
    "gloss": "than that"
@@ -115,10 +115,10 @@
    "gloss": "is not"
   }
  ],
- "literal": "Capacity having known let one speak the word; virtue and wealth than that greater is not.",
- "translation": "Speak your words after understanding the capacity of your listeners. There is no virtue or wealth greater than that.",
- "modern": "கேட்போரின் தன்மையை அறிந்து சொற்களைச் சொல்ல வேண்டும். அதைவிடச் சிறந்த அறமும் பொருளும் வேறு இல்லை.",
- "explanation": "The couplet advises speakers to carefully assess the capacity ('திறன்') of their audience before speaking. When words are chosen to perfectly match the listeners' understanding, communication becomes highly effective. The poet emphasizes the value of this skill by stating that there is no greater source of virtue ('அறன்') or wealth ('பொருள்') than such well-judged speech.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having understood the suitability, speak the word; virtue and wealth, than that, greater, there is not.",
+ "translation": "Assess the suitability of the situation and speak your words; there is no greater virtue or wealth than doing so.",
+ "modern": "தகுதியை அறிந்து சொல்லைச் சொல்ல வேண்டும்; அதைவிடச் சிறந்த அறமும் பொருளும் வேறு இல்லை.",
+ "explanation": "This couplet highlights the supreme value of speaking with discernment. The word 'tiran' refers to the suitability of the audience, the context, and the manner of delivery. The poet advises us to first understand this suitability before speaking any word. Doing so is of the highest importance, as there is no greater virtue or material benefit than speech delivered with such careful judgment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

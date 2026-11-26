@@ -6,21 +6,27 @@
     {
      "text": "வானோக்கி",
      "lemma": "வானோக்கி",
-     "gloss": "looking at the sky"
+     "gloss": "looking towards the sky"
     }
    ],
-   "gloss": "looking at the sky"
+   "gloss": "looking towards the sky",
+   "split_unverified": true
   },
   {
    "surface": "வாழும்",
    "parts": [
     {
-     "text": "வாழும்",
+     "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "living"
+     "gloss": "live"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "living"
+   "gloss": "that lives"
   },
   {
    "surface": "உலகெல்லாம்",
@@ -47,7 +53,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king's"
+   "gloss": "the king"
   },
   {
    "surface": "கோல்",
@@ -55,10 +61,10 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "scepter"
+     "gloss": "sceptre"
     }
    ],
-   "gloss": "scepter"
+   "gloss": "sceptre"
   },
   {
    "surface": "நோக்கி",
@@ -66,21 +72,26 @@
     {
      "text": "நோக்கி",
      "lemma": "நோக்கு",
-     "gloss": "looking at"
+     "gloss": "looking towards"
     }
    ],
-   "gloss": "looking at"
+   "gloss": "looking towards"
   },
   {
    "surface": "வாழும்",
    "parts": [
     {
-     "text": "வாழும்",
+     "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "living"
+     "gloss": "live"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "living"
+   "gloss": "that lives"
   },
   {
    "surface": "குடி",
@@ -94,10 +105,10 @@
    "gloss": "subjects"
   }
  ],
- "literal": "Looking at the sky living world all, king's scepter looking at living subjects.",
- "translation": "All the world lives looking to the sky for rain; the subjects live looking to the king's scepter for justice.",
- "modern": "உலகத்து உயிர்கள் எல்லாம் மழையை எதிர்பார்த்து வாழ்கின்றன; அதுபோல மக்கள் மன்னனது செங்கோலை எதிர்பார்த்து வாழ்கிறார்கள்.",
- "explanation": "This couplet draws a parallel between the natural order and the political order. Just as all life on earth depends on the sky for rain to survive, the citizens of a kingdom depend on the king's righteous scepter for justice and security. The word 'kōl' (scepter) symbolizes the ruler's fair administration. Without rain, the world perishes; without a just rule, the society perishes.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "All the world that lives looking towards the sky, the subjects live looking towards the king's sceptre.",
+ "translation": "Just as all living beings in the world look up to the sky for rain to survive, so do subjects look up to the righteous sceptre of their king for their livelihood.",
+ "modern": "மழைக்காக வானத்தை எதிர்பார்த்து உலகத்து உயிர்கள் எல்லாம் வாழ்கின்றன; அதுபோல, அரசனது செங்கோலை எதிர்பார்த்து அவனுடைய குடிமக்கள் வாழ்கின்றனர்.",
+ "explanation": "This couplet compares the dependence of the world on rain to the dependence of citizens on a just ruler. The word 'வான்' refers to the sky, representing the rain that sustains all life on earth. 'கோல்' refers to the sceptre, symbolizing the king's righteous and just rule. Just as crops and living beings cannot survive without timely rain from the heavens, citizens cannot thrive or live in peace without the protective and fair governance of their ruler. The parallel structure of 'வானோக்கி வாழும்' and 'கோல் நோக்கி வாழும்' beautifully highlights this vital relationship.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

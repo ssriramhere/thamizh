@@ -11,45 +11,50 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "link"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "by/in"
     }
    ],
-   "gloss": "in waking state"
+   "gloss": "in the waking state"
   },
   {
    "surface": "நம்",
    "parts": [
     {
      "text": "நம்",
-     "lemma": "நாம்",
-     "gloss": "us"
+     "lemma": "நம்",
+     "gloss": "our"
     }
    ],
-   "gloss": "us"
+   "gloss": "our (beloved)"
   },
   {
    "surface": "நீத்தார்",
    "parts": [
     {
      "text": "நீத்தார்",
-     "lemma": "நீ",
-     "gloss": "he abandoned"
+     "lemma": "நீத்தார்",
+     "gloss": "he who left"
     }
    ],
-   "gloss": "he abandoned"
+   "gloss": "he who abandoned (us)"
   },
   {
    "surface": "என்பர்",
    "parts": [
     {
-     "text": "என்பர்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "they say"
+     "gloss": "say"
+    },
+    {
+     "text": "பர்",
+     "lemma": "பர்",
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "they say"
@@ -65,12 +70,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "link"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "by/in"
     }
    ],
    "gloss": "in dream"
@@ -79,12 +84,17 @@
    "surface": "காணார்",
    "parts": [
     {
-     "text": "காணார்",
+     "text": "காண்",
      "lemma": "காண்",
-     "gloss": "they see not"
+     "gloss": "see"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (negative suffix)"
     }
    ],
-   "gloss": "they see not"
+   "gloss": "they do not see"
   },
   {
    "surface": "கொல்",
@@ -92,10 +102,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "question particle"
+     "gloss": "particle of doubt/wonder"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "wonder / is it because"
   },
   {
    "surface": "இவ்வூரவர்",
@@ -103,17 +113,17 @@
     {
      "text": "இவ்வூரவர்",
      "lemma": "இவ்வூரவர்",
-     "gloss": "people of this town"
+     "gloss": "the people of this town"
     }
    ],
-   "gloss": "people of this town",
+   "gloss": "the people of this town",
    "split_unverified": true
   }
  ],
- "literal": "In waking state us he abandoned they say; in dream they see not I wonder this town's people.",
- "translation": "The people of this town say he has abandoned me in my waking hours. Do they not see him visiting me in my dreams?",
- "modern": "அவர் என்னை நனவில் பிரிந்துவிட்டார் என்று இந்த ஊர் மக்கள் பழித்துச் சொல்கிறார்கள். ஆனால் அவர் என் கனவில் என்னுடன் இருப்பதை இவர்கள் காண்பதில்லையோ?",
- "explanation": "The heroine responds to the local gossip that her lover has left her. The townspeople only see her waking reality, where she is alone and suffering. She wonders if they are blind to her dreams, where he is constantly present with her. The contrast between waking and dreaming highlights her rich inner life, which remains hidden from the judgmental eyes of the town.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the waking state, our (beloved) abandoned (us), they say; in dream, do they not see (him), the people of this town?",
+ "translation": "The people of this town say that my beloved has abandoned me, judging only by the waking state. Do they not see him coming to me in their own dreams?",
+ "modern": "விழித்திருக்கும்போது நம் காதலர் நம்மை விட்டுப் பிரிந்துவிட்டார் என்று இவ்வூரார் சொல்கிறார்கள்; அவர்கள் தங்கள் கனவில் அவரைக் காண்பதில்லையோ?",
+ "explanation": "The heroine is pining for her departed lover, and the townspeople gossip that he has abandoned her. She counters this by stating that he only appears to have left during the waking state (நனவினால்). In her dreams (கனவினால்), he is constantly present with her. She wonders aloud if the townspeople ever experience dreams themselves, as they seem completely ignorant of the nightly reunions she enjoys with her beloved.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

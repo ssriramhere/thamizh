@@ -6,7 +6,7 @@
     {
      "text": "நீங்கு",
      "lemma": "நீங்கு",
-     "gloss": "leave"
+     "gloss": "to depart"
     },
     {
      "text": "இன்",
@@ -14,7 +14,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if separated"
+   "gloss": "if departing"
   },
   {
    "surface": "தெறூஉம்",
@@ -22,18 +22,23 @@
     {
      "text": "தெறூஉம்",
      "lemma": "தெறு",
-     "gloss": "burns"
+     "gloss": "will burn"
     }
    ],
-   "gloss": "burns"
+   "gloss": "it burns"
   },
   {
    "surface": "குறுகும்",
    "parts": [
     {
-     "text": "குறுகும்",
+     "text": "குறுகு",
      "lemma": "குறுகு",
-     "gloss": "approaching"
+     "gloss": "to approach"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "approaching"
@@ -44,10 +49,10 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "time or when"
     }
    ],
-   "gloss": "time"
+   "gloss": "when"
   },
   {
    "surface": "தண்",
@@ -66,15 +71,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "say/be"
+     "gloss": "to feel like"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "it says/is"
+   "gloss": "that feels like"
   },
   {
    "surface": "தீ",
@@ -102,9 +107,14 @@
    "surface": "பெற்றாள்",
    "parts": [
     {
-     "text": "பெற்றாள்",
+     "text": "பெற்று",
      "lemma": "பெறு",
-     "gloss": "obtained-she"
+     "gloss": "having obtained"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she"
     }
    ],
    "gloss": "she obtained"
@@ -121,10 +131,10 @@
    "gloss": "this woman"
   }
  ],
- "literal": "If moving away, it burns; when approaching, it is cool; fire, where did she obtain, this woman?",
- "translation": "When I move away, it burns; when I draw near, it cools. Where did this woman get such a strange fire?",
- "modern": "நான் விலகிச் சென்றால் சுடுகிறது; நெருங்கி வந்தால் குளிர்கிறது. இத்தகைய விந்தையான நெருப்பை இவள் எங்கே பெற்றாள்?",
- "explanation": "The lover marvels at the unique nature of his beloved's embrace. Ordinary fire burns when one gets close and loses its heat when one moves away. However, the fire of love he feels from her does the exact opposite: it scorches him with longing when they are apart, but cools and comforts him when they are together. He playfully wonders where she found such a paradoxical fire.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If departing, it burns; when approaching, it feels cool; such a fire, where did she obtain, this woman?",
+ "translation": "Where did this woman obtain a fire that burns when one departs from it, but feels cool when one approaches?",
+ "modern": "விலகிச் சென்றால் சுடுகின்ற, நெருங்கி வந்தால் குளிர்ச்சி தருகின்ற நெருப்பை இவள் எங்கே பெற்றாள்?",
+ "explanation": "This couplet highlights the paradoxical nature of the beloved's touch. Ordinary fire burns when we get close to it and cools down when we move away. However, the lover notes that his partner's love acts in the exact opposite way: leaving her presence burns him with the pain of separation ('நீங்கின் தெறூஉம்'), while drawing near to her gives him a soothing, cool comfort ('குறுகுங்கால் தண்ணென்னும்'). He wonders in amazement where she could have acquired such a miraculous, unique fire ('தீ யாண்டுப் பெற்றாள் இவள்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

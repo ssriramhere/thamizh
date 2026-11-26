@@ -17,26 +17,21 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "pleasant"
     }
    ],
-   "gloss": "sweet"
+   "gloss": "pleasant"
   },
   {
    "surface": "பேதையார்",
    "parts": [
     {
-     "text": "பேதை",
-     "lemma": "பேதை",
-     "gloss": "fool"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "honorific suffix"
+     "text": "பேதையார்",
+     "lemma": "பேதையார்",
+     "gloss": "fools"
     }
    ],
-   "gloss": "fools"
+   "gloss": "of fools"
   },
   {
    "surface": "கேண்மை",
@@ -60,15 +55,15 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "oblique marker"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at"
+     "gloss": "locative suffix (at/in)"
     }
    ],
-   "gloss": "at separation"
+   "gloss": "at the time of separation"
   },
   {
    "surface": "பீழை",
@@ -85,19 +80,9 @@
    "surface": "தருவது",
    "parts": [
     {
-     "text": "தரு",
-     "lemma": "தா",
-     "gloss": "give"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which"
+     "text": "தருவது",
+     "lemma": "தருவது",
+     "gloss": "that which gives"
     }
    ],
    "gloss": "that which gives"
@@ -119,16 +104,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not"
+     "gloss": "is not"
     }
    ],
    "gloss": "is not"
   }
  ],
- "literal": "Greatly sweet is fools' friendship; at separation, pain-giving thing, there is not one.",
- "translation": "The friendship of fools is highly pleasant, for when it ends, it leaves behind no pain at all.",
- "modern": "அறிவில்லாதவர்களுடன் கொள்ளும் நட்பு மிகவும் இனிமையானது; ஏனெனில், அவர்களைப் பிரியும்போது நமக்கு எந்தத் துன்பமும் ஏற்படுவதில்லை.",
- "explanation": "This couplet uses deep irony to describe the nature of associating with foolish people. It states that the friendship of fools is exceedingly sweet. The reason for this sweetness is revealed in the second line: when the friendship ends, it causes absolutely no pain or sorrow. Unlike true friendship, which brings immense grief upon separation, parting from a fool brings only relief. The word 'கேண்மை' denotes friendship, while 'பீழை' means distress, highlighting the contrast between the expected sorrow of parting and the actual relief felt when a fool leaves.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Greatly pleasant is the friendship of fools; at the time of separation, pain-giving one thing is not.",
+ "translation": "The friendship of fools is highly pleasant, because when they part, there is not a single thing that causes pain.",
+ "modern": "அறிவிலாதவர்களின் நட்பு மிகவும் இனிமையானது; ஏனெனில், அவர்கள் பிரியும்போது துன்பம் தருவது ஒன்றும் இல்லை.",
+ "explanation": "This couplet uses irony to describe the friendship of foolish people. The poet states that their friendship is highly pleasant, but the reason is humorous: when the friendship ends and they part ways, it causes absolutely no sorrow or pain. Normally, parting from a true friend is painful, but parting from a fool brings only relief. Thus, the lack of pain during separation is what makes their friendship 'pleasant' in a satirical sense.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

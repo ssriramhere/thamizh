@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
+     "lemma": "அரிது",
      "gloss": "difficult"
     }
    ],
@@ -17,10 +17,10 @@
     {
      "text": "அரோ",
      "lemma": "அரோ",
-     "gloss": "alas (expletive)"
+     "gloss": "an expletive particle"
     }
    ],
-   "gloss": "alas"
+   "gloss": "indeed (poetic particle)"
   },
   {
    "surface": "தேற்றம்",
@@ -31,7 +31,7 @@
      "gloss": "consolation"
     }
    ],
-   "gloss": "consolation"
+   "gloss": "consolation or clarity of mind"
   },
   {
    "surface": "அறிவுடையார்",
@@ -44,10 +44,10 @@
     {
      "text": "உடையார்",
      "lemma": "உடையார்",
-     "gloss": "possessors"
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "the wise"
+   "gloss": "those who possess wisdom"
   },
   {
    "surface": "கண்ணும்",
@@ -55,7 +55,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at"
+     "gloss": "in (locative case)"
     },
     {
      "text": "உம்",
@@ -63,7 +63,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even from"
+   "gloss": "even in"
   },
   {
    "surface": "பிரிவு",
@@ -85,7 +85,7 @@
      "gloss": "one"
     }
    ],
-   "gloss": "a"
+   "gloss": "a certain"
   },
   {
    "surface": "இடத்து",
@@ -93,10 +93,10 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "in-place"
+     "gloss": "at the place or time"
     }
    ],
-   "gloss": "in situation"
+   "gloss": "at the time"
   },
   {
    "surface": "உண்மையான்",
@@ -104,21 +104,21 @@
     {
      "text": "உண்மை",
      "lemma": "உண்மை",
-     "gloss": "reality"
+     "gloss": "existence"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "because-of"
+     "gloss": "because of"
     }
    ],
-   "gloss": "because of reality"
+   "gloss": "because of its existence"
   }
  ],
- "literal": "Difficult alas [is] consolation even from the wise, separation in one situation because of [its] reality.",
- "translation": "Because separation is an undeniable reality in this situation, finding consolation is difficult, alas, even from the wise.",
- "modern": "பிரிவு என்பது ஒரு நிலையில் உண்மையாக நடப்பதால், அறிவுடையவர்களால் கூட எனக்கு ஆறுதல் கூறுவது கடினமாக இருக்கிறது.",
- "explanation": "The speaker expresses the deep pain of parting from her lover. She notes that because the separation is an undeniable reality, no words of comfort can soothe her. Even the wise, who usually know how to console a grieving heart, find it difficult to offer any effective assurance in the face of this actual separation. The word 'தேற்றம்' means clarity or consolation, which is rendered impossible by the sheer fact ('உண்மையான்') of his leaving.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Difficult indeed is consolation, even in those who possess wisdom, because separation exists at a certain time.",
+ "translation": "Consolation is indeed difficult to find, even in those who possess great wisdom, because separation is a reality that inevitably occurs at some time.",
+ "modern": "அறிவுடையவர்களிடத்திலும் தேறுதல் அடைவது மிகவும் அரிதானது; ஏனெனில், ஏதோ ஒரு காலத்தில் பிரிவு என்பது உண்மையாகவே நிகழ்ந்துவிடுகிறது.",
+ "explanation": "This couplet highlights the overwhelming pain of parting, which can shatter even the most disciplined minds. The speaker notes that finding consolation or clarity of mind (தேற்றம்) is extremely difficult (அரிது), even among highly wise and mature individuals (அறிவுடையார் கண்ணும்). This is because separation (பிரிவு) is an inevitable reality that occurs at some point (ஓர் இடத்து உண்மையான்). The verse beautifully shows that the emotional suffering of parting transcends intellectual wisdom and self-control.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

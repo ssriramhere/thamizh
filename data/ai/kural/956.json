@@ -9,7 +9,7 @@
      "gloss": "deceit"
     }
    ],
-   "gloss": "deceit"
+   "gloss": "deceit or anger"
   },
   {
    "surface": "பற்றி",
@@ -17,10 +17,10 @@
     {
      "text": "பற்றி",
      "lemma": "பற்று",
-     "gloss": "grasping"
+     "gloss": "holding onto"
     }
    ],
-   "gloss": "grasping"
+   "gloss": "clinging to or motivated by"
   },
   {
    "surface": "சால்பு",
@@ -28,29 +28,34 @@
     {
      "text": "சால்பு",
      "lemma": "சால்பு",
-     "gloss": "excellence"
+     "gloss": "nobility"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "nobility or dignity"
   },
   {
    "surface": "இல",
    "parts": [
     {
      "text": "இல",
-     "lemma": "இல்",
-     "gloss": "things without"
+     "lemma": "இல",
+     "gloss": "things that are not"
     }
    ],
-   "gloss": "things without"
+   "gloss": "deeds devoid of (nobility)"
   },
   {
    "surface": "செய்யார்",
    "parts": [
     {
-     "text": "செய்யார்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "they will not do"
+     "gloss": "do"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "they will not do"
@@ -64,7 +69,7 @@
      "gloss": "blemish"
     }
    ],
-   "gloss": "blemish"
+   "gloss": "blemish or flaw"
   },
   {
    "surface": "அற்ற",
@@ -86,7 +91,7 @@
      "gloss": "lineage"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "lineage or family"
   },
   {
    "surface": "பற்றி",
@@ -94,38 +99,48 @@
     {
      "text": "பற்றி",
      "lemma": "பற்று",
-     "gloss": "upholding"
+     "gloss": "relying on"
     }
    ],
-   "gloss": "upholding"
+   "gloss": "relying on"
   },
   {
    "surface": "வாழ்தும்",
    "parts": [
     {
-     "text": "வாழ்தும்",
+     "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "we will live"
+     "gloss": "live"
+    },
+    {
+     "text": "தும்",
+     "lemma": "தும்",
+     "gloss": "we will (suffix)"
     }
    ],
-   "gloss": "we will live"
+   "gloss": "we shall live"
   },
   {
    "surface": "என்பார்",
    "parts": [
     {
-     "text": "என்பார்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "those who say"
+     "gloss": "say"
+    },
+    {
+     "text": "பார்",
+     "lemma": "பார்",
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "those who say"
   }
  ],
- "literal": "Deceit grasping, excellence without, they will not do; blemish free lineage upholding we will live, those who say.",
- "translation": "Those who say, \"We will live upholding our flawless lineage,\" will not resort to deceit to do deeds devoid of excellence.",
- "modern": "குற்றமற்ற தமது குடியின் பெருமையைக் காத்து வாழ்வோம் என்று சொல்பவர்கள், வஞ்சகத்தைக் கையாண்டு பெருமை இல்லாத செயல்களைச் செய்ய மாட்டார்கள்.",
- "explanation": "This couplet defines the integrity of those who value their family's honor. The phrase 'mācu aṟṟa kulam paṟṟi vāḻtum eṉpār' refers to people who are determined to live in a way that upholds their flawless lineage. To maintain this honor, they will never engage in 'calam', which means deceit or baseness in this context. Consequently, they will completely avoid actions that lack 'cālpu' or moral excellence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Deceit clinging to, deeds devoid of nobility they will not do, 'spotless lineage relying on we shall live' those who say.",
+ "translation": "Those who resolve, 'We shall live by relying on our spotless lineage,' will not perform deeds devoid of nobility, even when motivated by deceit or anger.",
+ "modern": "குற்றமற்ற குடிப்பிறப்பை அடிப்படையாகக் கொண்டு வாழ்வோம் என்று நினைப்பவர்கள், வஞ்சனையினாலோ அல்லது கோபத்தினாலோ தகுதிக்கு ஒவ்வாத செயல்களைச் செய்யமாட்டார்கள்.",
+ "explanation": "This couplet highlights the self-imposed standards of those born into noble families. People who pride themselves on maintaining the spotless reputation of their lineage ('மாசற்ற குலம்') resolve to live strictly by those high standards. Consequently, even when faced with situations that provoke deceit, anger, or hostility ('சலம்'), they will never stoop to performing actions that lack dignity or nobility ('சால்பில'). Their commitment to their family's honor acts as a shield against unethical behavior.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

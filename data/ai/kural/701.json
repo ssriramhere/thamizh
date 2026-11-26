@@ -6,7 +6,7 @@
     {
      "text": "கூறாமை",
      "lemma": "கூறாமை",
-     "gloss": "non-speaking"
+     "gloss": "not speaking"
     }
    ],
    "gloss": "without speaking"
@@ -31,15 +31,20 @@
      "gloss": "intention"
     }
    ],
-   "gloss": "intention"
+   "gloss": "the intention"
   },
   {
    "surface": "அறிவான்",
    "parts": [
     {
-     "text": "அறிவான்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "he who knows"
+     "gloss": "know"
+    },
+    {
+     "text": "வான்",
+     "lemma": "ஆன்",
+     "gloss": "he who"
     }
    ],
    "gloss": "he who knows"
@@ -50,10 +55,11 @@
     {
      "text": "எஞ்ஞான்றும்",
      "lemma": "எஞ்ஞான்றும்",
-     "gloss": "always"
+     "gloss": "at all times"
     }
    ],
-   "gloss": "always"
+   "gloss": "at all times",
+   "split_unverified": true
   },
   {
    "surface": "மாறா",
@@ -64,7 +70,7 @@
      "gloss": "unchanging"
     }
    ],
-   "gloss": "unchanging"
+   "gloss": "never-drying"
   },
   {
    "surface": "நீர்",
@@ -81,9 +87,14 @@
    "surface": "வையக்கு",
    "parts": [
     {
-     "text": "வையக்கு",
+     "text": "வைய",
      "lemma": "வையம்",
-     "gloss": "to the world"
+     "gloss": "world"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to the world"
@@ -97,13 +108,13 @@
      "gloss": "ornament"
     }
    ],
-   "gloss": "ornament"
+   "gloss": "an ornament"
   }
  ],
- "literal": "without speaking by looking intention he who knows always unchanging water to the world ornament",
- "translation": "He who knows another's intention just by looking, without a word being spoken, is an everlasting ornament to this world surrounded by the unceasing sea.",
- "modern": "ஒருவர் வாய்திறந்து சொல்லாமலேயே, அவரது முகத்தை நோக்கி அவரது குறிப்பை அறியும் ஆற்றல் உடையவன், வற்றாத கடலால் சூழப்பட்ட இந்த உலகத்திற்கு எப்போதும் ஒரு அணிகலன் ஆவான்.",
- "explanation": "This couplet praises the rare ability to read minds. A person who can understand what another is thinking merely by looking at them, without needing any words to be spoken, possesses a profound skill. The poet describes such a person as a permanent jewel to the earth, which is bounded by the ever-present ocean. The phrase 'māṟā nīr' refers to the unchanging, unceasing waters of the sea that surround the world, emphasizing the enduring value of such an insightful person.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who knows the intention by looking, without speaking, is at all times an ornament to the world of unchanging water.",
+ "translation": "One who can read another's mind simply by looking, without a word being spoken, is an ornament at all times to this world surrounded by the eternal sea.",
+ "modern": "ஒருவர் வாயால் சொல்லாமலேயே அவருடைய முகத்தையும் கண்ணையும் நோக்கி அவரது குறிப்பை அறிந்துகொள்பவர், வற்றாத கடல் நீரால் சூழப்பட்ட இந்த உலகத்திற்கு எக்காலத்திலும் ஒரு சிறந்த அணிகலன் ஆவார்.",
+ "explanation": "This couplet praises the rare and valuable skill of reading another person's mind or intentions without them having to express it in words. The poet states that a person who possesses this intuitive ability is a true ornament to the entire world. The world is described as being surrounded by 'unchanging water', referring to the vast, eternal ocean. By comparing such an insightful person to a precious jewel, the couplet highlights how highly society values those who can perceive unspoken thoughts and feelings through simple observation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,12 +4,17 @@
    "surface": "உறாஅதோ",
    "parts": [
     {
-     "text": "உறாஅதோ",
+     "text": "உறாஅது",
      "lemma": "உறு",
-     "gloss": "does it not yield?"
+     "gloss": "not happening/befitting"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "does it not yield?"
+   "gloss": "will it not happen or befit?"
   },
   {
    "surface": "ஊர்",
@@ -17,7 +22,7 @@
     {
      "text": "ஊர்",
      "lemma": "ஊர்",
-     "gloss": "town"
+     "gloss": "town/villagers"
     }
    ],
    "gloss": "town"
@@ -39,21 +44,31 @@
     {
      "text": "கௌவை",
      "lemma": "கௌவை",
-     "gloss": "scandal"
+     "gloss": "gossip/rumor"
     }
    ],
-   "gloss": "scandal"
+   "gloss": "gossip"
   },
   {
    "surface": "அதனை",
    "parts": [
     {
-     "text": "அதனை",
+     "text": "அது",
      "lemma": "அது",
-     "gloss": "that-ACC"
+     "gloss": "that"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "that-ACC"
+   "gloss": "that (accusative)"
   },
   {
    "surface": "பெறாஅது",
@@ -83,7 +98,7 @@
     {
      "text": "அன்ன",
      "lemma": "அன்ன",
-     "gloss": "like"
+     "gloss": "like/similar to"
     }
    ],
    "gloss": "like"
@@ -94,16 +109,16 @@
     {
      "text": "நீர்த்து",
      "lemma": "நீர்மை",
-     "gloss": "nature-it has"
+     "gloss": "has the nature of"
     }
    ],
-   "gloss": "nature-it has"
+   "gloss": "has the nature of"
   }
  ],
- "literal": "Does it not yield, town known scandal? That without obtaining, having obtained like nature it has.",
- "translation": "Does not this scandal known to the whole town bring me joy? It has the nature of making me feel as if I have attained him, even when I have not.",
- "modern": "ஊர் முழுவதும் அறிந்த இந்த வதந்தி எனக்கு இன்பம் தராதா? அவரை நான் அடையாமலேயே அடைந்தது போன்ற உணர்வை அது தருகிறது.",
- "explanation": "The heroine speaks about the public gossip surrounding her relationship with her lover. She asks rhetorically if this scandal does not actually bring her joy. Because their love is now spoken of by everyone, she feels a sense of union with him. The gossip creates the illusion of having attained him, even when they are physically apart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Will it not befit, the gossip known to the town? That has the nature of having obtained [him] without actually obtaining [him].",
+ "translation": "Will not the gossip known to the entire town work in my favor? It has the unique nature of making me feel as if I have attained my lover, even before I have actually won him.",
+ "modern": "ஊரார் அறிந்த இந்த அலர் (வதந்தி) எனக்கு நன்மை செய்யாதோ? என் காதலனை இன்னும் அடையப் பெறாத நிலையிலும், அவனை அடைந்துவிட்டது போன்ற இன்பத்தைத் தரும் தன்மையுடையது அது.",
+ "explanation": "The heroine reflects on the public gossip spreading through the town regarding her secret love affair. Instead of being distressed by the rumors, she welcomes them. She explains that the gossip has a wonderful effect: it makes her feel as though she has already united with her lover, even before their formal marriage. The key words 'பெறாஅது' (without obtaining) and 'பெற்றன்ன' (as if obtained) highlight this sweet paradox where public exposure solidifies their bond in her heart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,21 +6,21 @@
     {
      "text": "கயல்",
      "lemma": "கயல்",
-     "gloss": "carp"
+     "gloss": "carp fish"
     }
    ],
-   "gloss": "carp"
+   "gloss": "fish-like"
   },
   {
    "surface": "உண்",
    "parts": [
     {
      "text": "உண்",
-     "lemma": "உண்",
-     "gloss": "painted (with collyrium)"
+     "lemma": "உண்ணுதல்",
+     "gloss": "to consume or be smeared with kohl"
     }
    ],
-   "gloss": "painted"
+   "gloss": "kohl-smeared"
   },
   {
    "surface": "கண்",
@@ -49,46 +49,51 @@
    "parts": [
     {
      "text": "இரப்ப",
-     "lemma": "இர",
-     "gloss": "as (I) beg"
+     "lemma": "இரத்தல்",
+     "gloss": "to beg or entreat"
     }
    ],
-   "gloss": "as (I) beg"
+   "gloss": "when begging"
   },
   {
    "surface": "துஞ்சின்",
    "parts": [
     {
      "text": "துஞ்சு",
-     "lemma": "துஞ்சு",
-     "gloss": "sleep"
+     "lemma": "துஞ்சுதல்",
+     "gloss": "to sleep"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if (they) sleep"
+   "gloss": "if they sleep"
   },
   {
    "surface": "கலந்தார்க்கு",
    "parts": [
     {
-     "text": "கலந்தார்க்கு",
-     "lemma": "கல",
-     "gloss": "to the one who united"
+     "text": "கலந்தார்",
+     "lemma": "கலத்தல்",
+     "gloss": "those who united"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to (dative case marker)"
     }
    ],
-   "gloss": "to the one who united"
+   "gloss": "to the one who united with me"
   },
   {
    "surface": "உயல்",
    "parts": [
     {
      "text": "உயல்",
-     "lemma": "உயல்",
-     "gloss": "survival"
+     "lemma": "உய்தல்",
+     "gloss": "escaping or surviving"
     }
    ],
    "gloss": "survival"
@@ -99,21 +104,26 @@
     {
      "text": "உண்மை",
      "lemma": "உண்மை",
-     "gloss": "truth"
+     "gloss": "truth or reality"
     }
    ],
-   "gloss": "truth"
+   "gloss": "the reality"
   },
   {
    "surface": "சாற்றுவேன்",
    "parts": [
     {
-     "text": "சாற்றுவேன்",
-     "lemma": "சாற்று",
-     "gloss": "I will proclaim"
+     "text": "சாற்று",
+     "lemma": "சாற்றுதல்",
+     "gloss": "to declare or tell"
+    },
+    {
+     "text": "வேன்",
+     "lemma": "ஏன்",
+     "gloss": "I (first-person singular future suffix)"
     }
    ],
-   "gloss": "I will proclaim"
+   "gloss": "I would tell"
   },
   {
    "surface": "மன்",
@@ -121,16 +131,16 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "particle of regret"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "alas"
   }
  ],
- "literal": "Carp painted eyes I as beg if sleep to the united one survival truth I will proclaim indeed.",
- "translation": "If my carp-like painted eyes would only sleep as I beg them to, I would proclaim the truth of my survival to my lover who united with me.",
- "modern": "நான் இரந்து கேட்டும் உறங்காத என் கயல் போன்ற மை தீட்டிய கண்கள் உறங்கினால், என்னோடு கலந்த காதலருக்கு நான் இன்னும் உயிரோடு இருக்கும் உண்மையைச் சொல்வேன்.",
- "explanation": "The speaker addresses her own sleepless eyes, which resemble carp fish painted with collyrium. She begs them to close and sleep so that she might see her lover in a dream. If her eyes would only grant her sleep, she could meet the lover who once united with her and proclaim the truth that she is still surviving despite the agony of separation. The particle 'மன்' adds a tone of longing and slight despair, as her eyes refuse to sleep, denying her even a dream of him.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If my fish-like, kohl-smeared eyes, when I beg them, would sleep, I would tell the reality of my survival to the one who united with me in my dreams, alas.",
+ "translation": "If only my fish-like, kohl-painted eyes would sleep when I beg them to, I could tell my lover, who unites with me in my dreams, the painful reality of how I survive this separation.",
+ "modern": "மீன் போன்ற மை தீட்டிய என் கண்கள் நான் கெஞ்சி கேட்கும்போது தூங்குமானால், என் கனவில் வந்து என்னோடு கலந்த காதலருக்கு நான் உயிர் பிழைத்திருக்கும் உண்மையைச் சொல்வேன்; ஆனால் அவை தூங்குவதில்லையே!",
+ "explanation": "The heroine is suffering from the intense pain of separation and can only meet her lover in her dreams. However, her beautiful, fish-like eyes (கயலுண்கண்) refuse to close and sleep, even when she begs them (யான் இரப்ப) to do so. She laments that if they would only sleep (துஞ்சின்), she could see her lover in her dreams and tell him (சாற்றுவேன்) the painful truth of how she barely manages to survive (உயல் உண்மை) without him. The particle 'மன்' at the end emphasizes her regret, indicating that her eyes remain stubbornly awake, denying her even the solace of a dream.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

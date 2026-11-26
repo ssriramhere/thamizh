@@ -19,7 +19,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "two waters and"
+   "gloss": "and the two waters (surface and underground water)"
   },
   {
    "surface": "வாய்ந்த",
@@ -27,10 +27,10 @@
     {
      "text": "வாய்ந்த",
      "lemma": "வாய்",
-     "gloss": "endowed with"
+     "gloss": "well-situated"
     }
    ],
-   "gloss": "endowed with"
+   "gloss": "well-situated"
   },
   {
    "surface": "மலையும்",
@@ -46,14 +46,14 @@
      "gloss": "and"
     }
    ],
-   "gloss": "mountain and"
+   "gloss": "and the mountain"
   },
   {
    "surface": "வருபுனலும்",
    "parts": [
     {
      "text": "வரு",
-     "lemma": "வா",
+     "lemma": "வரு",
      "gloss": "coming"
     },
     {
@@ -67,7 +67,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "coming water and"
+   "gloss": "and the flowing water"
   },
   {
    "surface": "வல்",
@@ -94,18 +94,19 @@
      "gloss": "and"
     }
    ],
-   "gloss": "fortress and"
+   "gloss": "and the fortress"
   },
   {
    "surface": "நாட்டிற்கு",
    "parts": [
     {
      "text": "நாட்டிற்கு",
-     "lemma": "நாடு",
-     "gloss": "to a country"
+     "lemma": "நாட்டிற்கு",
+     "gloss": "for a country"
     }
    ],
-   "gloss": "to a country"
+   "gloss": "for a country",
+   "split_unverified": true
   },
   {
    "surface": "உறுப்பு",
@@ -113,16 +114,16 @@
     {
      "text": "உறுப்பு",
      "lemma": "உறுப்பு",
-     "gloss": "limb"
+     "gloss": "essential part"
     }
    ],
-   "gloss": "limb"
+   "gloss": "essential parts"
   }
  ],
- "literal": "Two waters and, endowed mountain and, coming water and, strong fortress and, to a country, limbs.",
- "translation": "Two sources of water, well-situated mountains, flowing rivers, and strong fortresses are the essential limbs of a country.",
- "modern": "மேல்நீர் கீழ்நீர் ஆகிய இருவகை நீர்நிலைகளும், தக்க இடத்தில் அமைந்த மலையும், அதிலிருந்து வரும் ஆற்று நீரும், வலிய கோட்டையும் ஒரு நாட்டிற்கு உறுப்புகளாகும்.",
- "explanation": "This couplet lists the essential physical features that make up a secure and prosperous country. 'Irupuṉal' refers to two types of water sources, typically understood as ground water and surface water. Along with these, well-placed mountains, flowing rivers, and strong fortresses serve as the vital organs or limbs ('uṟuppu') of a nation, providing both sustenance and defense.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The two waters, and a well-situated mountain, and flowing water, and a strong fortress, are the essential parts for a country.",
+ "translation": "The two sources of water, a well-situated mountain, flowing river water, and a strong fortress are the essential constituents of a country.",
+ "modern": "மேல்நிலை நீர், கீழ்நிலை நீர் ஆகிய இருவகை நீர்வளமும், தக்க இடத்தில் அமைந்த மலையும், ஓடிவரும் ஆற்று நீரும், வலிமையான அரணும் ஒரு நாட்டிற்கு இன்றியமையாத உறுப்புகளாகும்.",
+ "explanation": "This couplet lists the five essential physical features that constitute a prosperous and secure nation. The term 'இருபுனல்' refers to the two primary sources of water: rain (or surface water) and underground spring or well water. A 'வாய்ந்த மலை' is a mountain situated in a way that offers natural resources and protection. 'வருபுனல்' refers to flowing water, such as rivers that continuously feed the agricultural lands. Finally, 'வல்லரண்' is a strong, impenetrable fortress for defense. Together, these water sources, natural barriers, and defenses form the vital limbs of a country.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

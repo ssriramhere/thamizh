@@ -6,15 +6,15 @@
     {
      "text": "எ",
      "lemma": "எ",
-     "gloss": "which/whatever"
+     "gloss": "whatever"
     },
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "matter"
+     "gloss": "thing"
     }
    ],
-   "gloss": "whatever matter"
+   "gloss": "whatever thing"
   },
   {
    "surface": "யார்",
@@ -25,7 +25,7 @@
      "gloss": "who"
     }
    ],
-   "gloss": "who"
+   "gloss": "whoever"
   },
   {
    "surface": "யார்",
@@ -36,7 +36,7 @@
      "gloss": "who"
     }
    ],
-   "gloss": "who"
+   "gloss": "whoever"
   },
   {
    "surface": "வாய்",
@@ -47,15 +47,20 @@
      "gloss": "mouth"
     }
    ],
-   "gloss": "mouth"
+   "gloss": "from the mouth of"
   },
   {
    "surface": "கேட்பினும்",
    "parts": [
     {
-     "text": "கேட்பின்",
+     "text": "கேள்",
      "lemma": "கேள்",
-     "gloss": "if heard"
+     "gloss": "hear"
+    },
+    {
+     "text": "பின்",
+     "lemma": "பின்",
+     "gloss": "if"
     },
     {
      "text": "உம்",
@@ -76,10 +81,10 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "matter"
+     "gloss": "thing"
     }
    ],
-   "gloss": "that matter"
+   "gloss": "that thing"
   },
   {
    "surface": "மெய்ப்பொருள்",
@@ -87,43 +92,53 @@
     {
      "text": "மெய்",
      "lemma": "மெய்",
-     "gloss": "true"
+     "gloss": "truth"
     },
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "nature"
+     "gloss": "thing"
     }
    ],
-   "gloss": "true nature"
+   "gloss": "the true substance"
   },
   {
    "surface": "காண்பது",
    "parts": [
     {
-     "text": "காண்பது",
+     "text": "காண்",
      "lemma": "காண்",
-     "gloss": "seeing"
+     "gloss": "see"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "nominalizer"
     }
    ],
-   "gloss": "seeing"
+   "gloss": "discerning"
   },
   {
    "surface": "அறிவு",
    "parts": [
     {
      "text": "அறிவு",
-     "lemma": "அறி",
+     "lemma": "அறிவு",
      "gloss": "wisdom"
     }
    ],
    "gloss": "wisdom"
   }
  ],
- "literal": "Whatever matter, who who mouth even if heard, that matter's true nature seeing is wisdom.",
- "translation": "Whatever you may hear, and from whomever's mouth you hear it, wisdom is seeing the truth in it.",
- "modern": "எந்த ஒரு செய்தியை யார் யாரிடமிருந்து கேட்டாலும், அந்தச் செய்தியின் உண்மையான பொருளை ஆராய்ந்து அறிவதே அறிவாகும்.",
- "explanation": "This couplet defines true wisdom as the ability to discern the truth objectively. The repeated word 'யார் யார்' (whoever) paired with 'வாய்' (mouth) emphasizes that the source of the information—whether a person of high status, a friend, or a stranger—should not cloud one's judgment. 'மெய்ப்பொருள்' refers to the actual truth or reality of the matter. Therefore, a wise person does not blindly accept what is said based on who says it, but critically examines the matter to find its true nature.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Whatever thing, from whosoever's mouth one hears, of that thing, the true substance to discern is wisdom.",
+ "translation": "To discern the true substance of whatever is heard, from whomsoever it is heard, is wisdom.",
+ "modern": "எந்தக் கருத்தை யார் யார் சொல்லக் கேட்டாலும், அக்கருத்தின் உண்மையான பொருளைக் கண்டறிவதே அறிவாகும்.",
+ "explanation": "This couplet defines the core nature of true wisdom. In daily life, we receive information, advice, and opinions from many different people. Wisdom does not lie in blindly accepting or rejecting a statement based on the status, authority, or identity of the speaker. Instead, a wise person looks past the speaker's mouth (வாய்) and analyzes the statement itself to find its objective, underlying truth (மெய்ப்பொருள்).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

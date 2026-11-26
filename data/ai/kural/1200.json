@@ -4,22 +4,12 @@
    "surface": "உறாஅர்க்கு",
    "parts": [
     {
-     "text": "உறாஅர்",
+     "text": "உறாஅர்க்கு",
      "lemma": "உறு",
-     "gloss": "those who do not experience"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to the one who does not love"
     }
    ],
-   "gloss": "to those who do not experience"
+   "gloss": "to the one who does not love"
   },
   {
    "surface": "உறுநோய்",
@@ -27,7 +17,7 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "experiencing"
+     "gloss": "intense"
     },
     {
      "text": "நோய்",
@@ -35,33 +25,18 @@
      "gloss": "pain"
     }
    ],
-   "gloss": "experienced pain"
+   "gloss": "intense pain"
   },
   {
    "surface": "உரைப்பாய்",
    "parts": [
     {
-     "text": "உரை",
+     "text": "உரைப்பாய்",
      "lemma": "உரை",
-     "gloss": "tell"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆய்",
-     "lemma": "ஆய்",
-     "gloss": "you"
+     "gloss": "you speak"
     }
    ],
-   "gloss": "you will tell"
+   "gloss": "you speak"
   },
   {
    "surface": "கடலை",
@@ -69,15 +44,15 @@
     {
      "text": "கடல்",
      "lemma": "கடல்",
-     "gloss": "sea"
+     "gloss": "ocean"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "the sea"
+   "gloss": "the ocean"
   },
   {
    "surface": "செறாஅஅய்",
@@ -85,23 +60,18 @@
     {
      "text": "செறாஅஅய்",
      "lemma": "செறு",
-     "gloss": "you do not punish"
+     "gloss": "you do not dry up"
     }
    ],
-   "gloss": "you do not punish"
+   "gloss": "you do not dry up"
   },
   {
    "surface": "வாழிய",
    "parts": [
     {
-     "text": "வாழ்",
+     "text": "வாழிய",
      "lemma": "வாழ்",
-     "gloss": "live"
-    },
-    {
-     "text": "இய",
-     "lemma": "இய",
-     "gloss": "optative suffix"
+     "gloss": "may you live"
     }
    ],
    "gloss": "may you live"
@@ -115,13 +85,13 @@
      "gloss": "heart"
     }
    ],
-   "gloss": "heart"
+   "gloss": "O heart"
   }
  ],
- "literal": "To those who do not experience [it] the experienced pain you tell; the sea you do not punish, may you live long, O heart!",
- "translation": "O heart, you go to tell our suffering to the one who feels no love for us, yet you do not silence the roaring sea that torments us here. May you live long!",
- "modern": "நெஞ்சே! நம் மீது அன்பு இல்லாதவரிடம் சென்று நம் துன்பத்தைச் சொல்கிறாய்; ஆனால் இங்கிருந்து நம்மைத் துன்புறுத்தும் கடலின் ஒலியை அடக்க மாட்டாயா? நீ வாழ்வாயாக!",
- "explanation": "The heroine ironically blesses her heart while pointing out its foolishness. She suffers from lovesickness, which is aggravated by the relentless roaring of the sea at night. Her heart constantly thinks of going to her lover, who does not share her pain, to tell him of her sorrow. Yet, it does nothing to silence the sea that is immediately tormenting her, showing its misplaced efforts.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the one who does not love, intense pain you speak; the ocean you do not dry up; may you live, O heart!",
+ "translation": "May you prosper, my heart! You reveal your deep torment to him who does not love you; why do you not rather try to dry up the roaring ocean that torments me?",
+ "modern": "என் நெஞ்சே! நீ வாழ்க! உன்னிடம் அன்பு காட்டாதவரிடம் உன்னுடைய மிகுந்த துன்பத்தைச் சொல்கிறாய்; அதற்குப் பதிலாக, உன்னைத் துன்புறுத்தும் இந்தக் கடலை வற்றச் செய்யாமல் இருக்கிறாயே!",
+ "explanation": "In this couplet, the heroine addresses her own heart in deep distress. She notes that her heart keeps yearning for and trying to communicate its intense suffering to her beloved, who remains indifferent and does not return her love. She sarcastically blesses her heart and suggests that trying to dry up the vast, roaring ocean—which worsens her grief with its relentless sound—would be just as futile, yet perhaps a better task than pleading with an unfeeling lover. The word 'செறாஅஅய்' is used here in the sense of drying up or scooping out the ocean, highlighting the impossibility and desperation of her situation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

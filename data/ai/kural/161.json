@@ -6,31 +6,26 @@
     {
      "text": "ஒழுக்காறு",
      "lemma": "ஒழுக்காறு",
-     "gloss": "proper conduct"
+     "gloss": "way of conduct"
     },
     {
      "text": "ஆ",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "as"
     }
    ],
-   "gloss": "as proper conduct"
+   "gloss": "as the way of conduct"
   },
   {
    "surface": "கொள்க",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொள்க",
      "lemma": "கொள்",
-     "gloss": "take"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "let"
+     "gloss": "let one adopt"
     }
    ],
-   "gloss": "let consider"
+   "gloss": "let one adopt"
   },
   {
    "surface": "ஒருவன்",
@@ -49,21 +44,22 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "his"
+     "gloss": "one's own"
     }
    ],
-   "gloss": "his"
+   "gloss": "one's own"
   },
   {
    "surface": "நெஞ்சத்து",
    "parts": [
     {
      "text": "நெஞ்சத்து",
-     "lemma": "நெஞ்சம்",
-     "gloss": "in the heart"
+     "lemma": "நெஞ்சத்து",
+     "gloss": "in the mind"
     }
    ],
-   "gloss": "in the heart"
+   "gloss": "in the mind",
+   "split_unverified": true
   },
   {
    "surface": "அழுக்காறு",
@@ -81,11 +77,11 @@
    "parts": [
     {
      "text": "இலாத",
-     "lemma": "இல்",
-     "gloss": "without"
+     "lemma": "இலா",
+     "gloss": "not having"
     }
    ],
-   "gloss": "without"
+   "gloss": "not having"
   },
   {
    "surface": "இயல்பு",
@@ -99,10 +95,10 @@
    "gloss": "nature"
   }
  ],
- "literal": "As proper conduct let consider a person his in heart envy without nature.",
- "translation": "Let a person consider the nature of being without envy in his heart as his proper conduct.",
- "modern": "ஒருவன் தன் நெஞ்சத்தில் பொறாமை இல்லாத குணத்தையே தனக்கான சிறந்த ஒழுக்கமாகக் கொள்ள வேண்டும்.",
- "explanation": "This couplet defines the core of good conduct as the absence of envy. The word 'ஒழுக்காறு' refers to the path of proper behavior or morality. The poet advises that a person should actively adopt a nature ('இயல்பு') free from envy ('அழுக்காறு') in their heart. True morality is thus presented not just as outward actions, but as a pure internal state of mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "As the way of conduct, let one adopt, in one's own mind, the nature of not having envy.",
+ "translation": "Let a person adopt as their very rule of conduct the state of mind that is entirely free from envy.",
+ "modern": "ஒருவன் தன் நெஞ்சத்தில் பொறாமை இல்லாத குணத்தையே தன் ஒழுக்க நெறியாகக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet teaches that the most fundamental rule of conduct a person can practice is keeping their mind free from envy. The word 'ஒழுக்காறு' refers to the path of righteous conduct, which is elevated here to mean a core life principle. By advising us to 'adopt' (கொள்க) this envy-free nature (இயல்பு) within our own heart (நெஞ்சத்து), the poet emphasizes that true virtue is an internal state of being. Eliminating jealousy from the mind is thus presented as the primary step toward a moral life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

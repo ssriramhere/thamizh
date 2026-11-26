@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "நாண",
-     "lemma": "நாண்",
-     "gloss": "to be ashamed"
+     "lemma": "நாணு",
+     "gloss": "to feel ashamed"
     }
    ],
-   "gloss": "to be ashamed"
+   "gloss": "to feel ashamed"
   },
   {
    "surface": "தக்கது",
@@ -48,24 +48,19 @@
    "surface": "நாணான்",
    "parts": [
     {
-     "text": "நாண்",
-     "lemma": "நாண்",
-     "gloss": "to be ashamed"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "text": "நாணான்",
+     "lemma": "நாணு",
+     "gloss": "he who does not feel ashamed"
     }
    ],
-   "gloss": "he is not ashamed"
+   "gloss": "he does not feel ashamed"
   },
   {
    "surface": "ஆயின்",
    "parts": [
     {
      "text": "ஆயின்",
-     "lemma": "ஆ",
+     "lemma": "ஆயின்",
      "gloss": "if"
     }
    ],
@@ -87,11 +82,11 @@
    "parts": [
     {
      "text": "நாண",
-     "lemma": "நாண்",
-     "gloss": "to be ashamed"
+     "lemma": "நாணு",
+     "gloss": "to feel ashamed"
     }
    ],
-   "gloss": "to be ashamed"
+   "gloss": "to feel ashamed"
   },
   {
    "surface": "தக்கது",
@@ -110,16 +105,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it has"
+     "gloss": "it possesses"
     }
    ],
-   "gloss": "it has"
+   "gloss": "it possesses"
   }
  ],
- "literal": "others to-be-ashamed that-which-is-fit oneself is-not-ashamed if, virtue to-be-ashamed that-which-is-fit it-has.",
- "translation": "If a person is not ashamed of what makes others ashamed, virtue itself will find fit cause to be ashamed of him.",
- "modern": "பிறர் வெட்கப்பட வேண்டிய பழிச்செயலுக்கு ஒருவன் தான் வெட்கப்படாமல் இருப்பானானால், அறமே அவனைக் கண்டு வெட்கப்பட்டு விலகும் தன்மையை அது பெறும்.",
- "explanation": "This couplet defines true modesty as aligning one's moral compass with the conscience of the wider community. It warns that a person must feel ashamed of actions that others rightfully consider shameful. If someone brazenly commits such acts without personal shame ('தான் நாணான் ஆயின்'), they completely detach themselves from moral goodness. As a result, virtue ('அறம்') itself will feel ashamed to be associated with them and will abandon them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If oneself does not feel ashamed of that which is fit for others to feel ashamed, virtue possesses that which is fit to feel ashamed of him.",
+ "translation": "If a person does not feel ashamed of an act that makes onlookers feel ashamed, virtue itself will feel ashamed to remain with him.",
+ "modern": "பிறர் வெட்கப்படக்கூடிய ஒரு செயலுக்குத் தான் வெட்கப்படாமல் இருந்தால், அறமே அவனைக் கண்டு வெட்கப்பட்டு அவனை விட்டு நீங்கும் தன்மையைக் கொண்டிருக்கும்.",
+ "explanation": "This couplet highlights the critical role of a sense of shame in maintaining moral character. When a person commits a wrong deed that makes even others feel embarrassed on their behalf, yet remains shameless, they lose their moral compass. The poet personifies virtue (அறம்) to explain that it will feel ashamed to dwell with such a shameless person and will abandon them. Thus, shamelessness completely drives away all goodness and virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

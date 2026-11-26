@@ -55,7 +55,7 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஆல்",
@@ -63,18 +63,18 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "it is like"
+   "gloss": "is like"
   },
   {
    "surface": "சான்றோர்",
    "parts": [
     {
      "text": "சான்றோர்",
-     "lemma": "சால்",
-     "gloss": "noble ones"
+     "lemma": "சான்றோர்",
+     "gloss": "noble people"
     }
    ],
-   "gloss": "noble ones"
+   "gloss": "of the noble"
   },
   {
    "surface": "குழாஅத்து",
@@ -82,10 +82,10 @@
     {
      "text": "குழாஅத்து",
      "lemma": "குழாம்",
-     "gloss": "in the assembly"
+     "gloss": "assembly"
     }
    ],
-   "gloss": "in the assembly"
+   "gloss": "into the assembly"
   },
   {
    "surface": "பேதை",
@@ -96,7 +96,7 @@
      "gloss": "fool"
     }
    ],
-   "gloss": "fool"
+   "gloss": "a fool"
   },
   {
    "surface": "புகல்",
@@ -110,10 +110,10 @@
    "gloss": "entering"
   }
  ],
- "literal": "Unwashed foot inside bed having placed it is like, noble ones' in assembly fool entering.",
- "translation": "A fool entering an assembly of the wise is like placing unwashed feet onto a clean bed.",
- "modern": "சான்றோர்களின் அவைக்குள் ஒரு அறிவிலி நுழைவது, கழுவாத கால்களுடன் படுக்கையில் ஏறுவதற்கு ஒப்பாகும்.",
- "explanation": "This couplet uses a vivid, everyday simile to illustrate the disruptive nature of ignorance. The phrase \"கழாஅ கால்\" (unwashed feet) placed into \"பள்ளியுள்\" (a bed) evokes the spoiling of a clean, restful place with dirt. In the same way, the entry (\"புகல்\") of a fool (\"பேதை\") into a gathering of noble, wise people (\"சான்றோர் குழாஅத்து\") pollutes the refined and harmonious environment of the assembly. The poet shows that ignorance is not merely an absence of knowledge, but an active stain on a cultured space.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Unwashed foot inside the bed having placed is like, noble people's assembly a fool entering.",
+ "translation": "A fool entering the assembly of the noble is like stepping onto a clean bed with unwashed feet.",
+ "modern": "கழுவாத காலைப் படுக்கையினுள் வைப்பதைப் போன்றது, சான்றோர்களின் அவையினுள் அறிவிலி நுழைவது.",
+ "explanation": "This couplet uses a vivid everyday analogy to illustrate the discordance of ignorance in a refined setting. Entering a clean bed with dirty, unwashed feet instantly soils and ruins the purity of the sleeping space. Similarly, when an ignorant person enters an assembly of wise and noble scholars, their presence and unrefined behavior disrupt the intellectual harmony of the gathering. The poet highlights that a fool's intrusion is not just out of place, but actively defiles the dignity of a noble space.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

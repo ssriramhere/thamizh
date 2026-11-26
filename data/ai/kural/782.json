@@ -6,42 +6,42 @@
     {
      "text": "நிறை",
      "lemma": "நிறை",
-     "gloss": "waxing"
+     "gloss": "fullness / waxing"
     }
    ],
-   "gloss": "waxing"
+   "gloss": "fullness / waxing"
   },
   {
    "surface": "நீர",
    "parts": [
     {
      "text": "நீர்",
-     "lemma": "நீர்மை",
-     "gloss": "nature"
+     "lemma": "நீர்",
+     "gloss": "nature / character"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "they are"
+     "gloss": "appellative suffix"
     }
    ],
-   "gloss": "of the nature"
+   "gloss": "having the nature of"
   },
   {
    "surface": "நீரவர்",
    "parts": [
     {
      "text": "நீர்",
-     "lemma": "நீர்மை",
-     "gloss": "good nature"
+     "lemma": "நீர்",
+     "gloss": "character"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who have"
     }
    ],
-   "gloss": "those of good nature"
+   "gloss": "those of noble character"
   },
   {
    "surface": "கேண்மை",
@@ -82,10 +82,10 @@
     {
      "text": "பின்னீர",
      "lemma": "பின்னீர",
-     "gloss": "of the waning nature"
+     "gloss": "having the nature of waning / later stage"
     }
    ],
-   "gloss": "of the waning nature",
+   "gloss": "having the nature of waning / later stage",
    "split_unverified": true
   },
   {
@@ -94,7 +94,7 @@
     {
      "text": "பேதை",
      "lemma": "பேதை",
-     "gloss": "fool"
+     "gloss": "fool / ignorant person"
     },
     {
      "text": "ஆர்",
@@ -102,7 +102,7 @@
      "gloss": "plural suffix"
     }
    ],
-   "gloss": "fools"
+   "gloss": "of fools"
   },
   {
    "surface": "நட்பு",
@@ -116,10 +116,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "Waxing nature, good-natured ones' friendship; crescent moon's waning nature, fools' friendship.",
- "translation": "Friendship with the wise grows steadily like the waxing crescent moon. Friendship with fools shrinks like the waning moon.",
- "modern": "நற்பண்பு உடையவர்களின் நட்பு வளரும் பிறை நிலவைப் போன்றது. அறிவற்றவர்களின் நட்பு முழுநிலவிலிருந்து தேயும் நிலவைப் போன்றது.",
- "explanation": "This couplet contrasts the friendships of the wise and the foolish using the phases of the moon. 'நிறைநீர' (waxing nature) describes how friendship with good-natured people starts small but grows steadily over time. Conversely, 'பின்னீர' (waning nature) shows how friendship with fools may start full and intense but inevitably diminishes and fades away.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having the nature of fullness is the friendship of those of noble character; having the nature of the moon's later stage is the friendship of fools.",
+ "translation": "The friendship of those of noble character is like the waxing moon that grows to fullness; the friendship of fools is like the waning moon that gradually fades away.",
+ "modern": "அறிவுடையோரின் நட்பு வளர்பிறை போல வளரும் தன்மை உடையது; அறிவிலிகளின் நட்பு தேய்பிறை போலத் தேயும் தன்மை உடையது.",
+ "explanation": "This couplet compares the nature of friendship to the phases of the moon. The friendship of wise and noble people (நீரவர்) is like the waxing moon (நிறைநீர), which starts small but steadily grows to complete fullness. In contrast, the friendship of foolish or ignorant people (பேதையார்) is like the waning moon (பிறைமதிப் பின்னீர), which may start large and bright but gradually diminishes until it disappears entirely. True friendship grows with time and understanding, while superficial friendship fades away.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

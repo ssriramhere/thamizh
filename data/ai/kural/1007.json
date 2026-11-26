@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "அற்றார்",
-     "lemma": "அறு",
-     "gloss": "destitute people"
+     "lemma": "அற்றார்",
+     "gloss": "those who have nothing"
     },
     {
      "text": "கு",
@@ -22,17 +22,17 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "anything"
+     "gloss": "one thing"
     }
    ],
-   "gloss": "anything"
+   "gloss": "even a single thing"
   },
   {
    "surface": "ஆற்றாதான்",
    "parts": [
     {
      "text": "ஆற்றாதான்",
-     "lemma": "ஆற்று",
+     "lemma": "ஆற்றாதான்",
      "gloss": "he who does not give"
     }
    ],
@@ -47,18 +47,18 @@
      "gloss": "wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "the wealth"
   },
   {
    "surface": "மிக",
    "parts": [
     {
      "text": "மிக",
-     "lemma": "மிகு",
+     "lemma": "மிக",
      "gloss": "greatly"
     }
    ],
-   "gloss": "greatly"
+   "gloss": "great"
   },
   {
    "surface": "நலம்",
@@ -77,10 +77,10 @@
     {
      "text": "பெற்றாள்",
      "lemma": "பெறு",
-     "gloss": "she who obtained"
+     "gloss": "she who possessed"
     }
    ],
-   "gloss": "she who obtained"
+   "gloss": "she who possessed"
   },
   {
    "surface": "தமியள்",
@@ -88,10 +88,10 @@
     {
      "text": "தமியள்",
      "lemma": "தமியள்",
-     "gloss": "solitary woman"
+     "gloss": "she who is alone"
     }
    ],
-   "gloss": "solitary woman"
+   "gloss": "being alone"
   },
   {
    "surface": "மூத்து",
@@ -99,10 +99,10 @@
     {
      "text": "மூத்து",
      "lemma": "மூ",
-     "gloss": "having aged"
+     "gloss": "having grown old"
     }
    ],
-   "gloss": "having aged"
+   "gloss": "having grown old"
   },
   {
    "surface": "அற்று",
@@ -110,16 +110,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "is like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "is like that"
+   "gloss": "is like"
   }
  ],
- "literal": "To the destitute anything he who does not give wealth, great beauty she who obtained solitary woman having aged is like that.",
- "translation": "The wealth of a man who gives nothing to the destitute is like a woman of great beauty growing old in loneliness.",
- "modern": "வறியவர்களுக்கு ஒரு சிறு பொருளையும் கொடுத்து உதவாதவனுடைய செல்வமானது, மிகுந்த அழகைப் பெற்ற ஒரு பெண் தனிமையிலேயே வாழ்ந்து முதுமை அடைவதைப் போன்றது.",
- "explanation": "This couplet compares hoarded, unused wealth to unshared beauty. The word 'அற்றார்க்கு' refers to those who are destitute or lack resources, while 'ஆற்றாதான்' denotes a person who fails to do the duty of giving. The wealth of such a miser is likened to a woman of great beauty ('மிக நலம் பெற்றாள்') who grows old entirely alone ('தமியள் மூத்து'). Just as her beauty fades without ever being appreciated or bringing joy to a partner, the miser's wealth is wasted because it never brings relief to those in need or joy to the giver.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the destitute even one thing he who does not give, his wealth, great beauty she who possessed, alone, having grown old, is like.",
+ "translation": "The wealth of one who gives nothing to the destitute is like a woman of great beauty growing old in lonely solitude.",
+ "modern": "வறியவர்களுக்கு ஏதும் தராதவனுடைய செல்வம், மிகுந்த அழகைப் பெற்ற ஒரு பெண் தனியாகவே இருந்து முதுமையடைவதைப் போன்றது.",
+ "explanation": "This couplet uses a vivid analogy to illustrate the uselessness of hoarded wealth. The word 'அற்றார்' refers to those who are completely destitute, and 'ஆற்றாதான்' is one who fails to perform the duty of giving to them. The poet compares such unshared wealth to a woman endowed with great beauty ('மிகநலம் பெற்றாள்') who lives in forced isolation ('தமியள்') and grows old ('மூத்து') without ever bringing joy to a partner or family. Just as her beauty goes to waste without fulfilling its natural purpose, the miser's wealth remains useless to society.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

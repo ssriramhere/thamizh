@@ -17,10 +17,10 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "affliction"
+     "gloss": "suffering"
     }
    ],
-   "gloss": "affliction"
+   "gloss": "suffering"
   },
   {
    "surface": "இரந்து",
@@ -31,18 +31,23 @@
      "gloss": "having begged"
     }
    ],
-   "gloss": "having begged"
+   "gloss": "by begging"
   },
   {
    "surface": "தீர்வாம்",
    "parts": [
     {
-     "text": "தீர்வாம்",
+     "text": "தீர்",
      "lemma": "தீர்",
-     "gloss": "we will end"
+     "gloss": "resolve"
+    },
+    {
+     "text": "வாம்",
+     "lemma": "ஆம்",
+     "gloss": "we will"
     }
    ],
-   "gloss": "we will end"
+   "gloss": "we shall cure"
   },
   {
    "surface": "என்னும்",
@@ -50,32 +55,38 @@
     {
      "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "thinking"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking"
   },
   {
    "surface": "வன்மையின்",
    "parts": [
     {
-     "text": "வன்மையின்",
+     "text": "வன்மை",
      "lemma": "வன்மை",
-     "gloss": "than the hardness"
+     "gloss": "hardness of mind"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
     }
    ],
-   "gloss": "than the hardness"
+   "gloss": "than the hardness of mind"
   },
   {
    "surface": "வன்பாட்டது",
    "parts": [
     {
      "text": "வன்பாட்டது",
-     "lemma": "வன்பாடு",
-     "gloss": "hard-natured thing"
+     "lemma": "வன்பாட்டது",
+     "gloss": "that which is of greater hardness"
     }
    ],
-   "gloss": "hard-natured thing"
+   "gloss": "that which is of greater hardness",
+   "split_unverified": true
   },
   {
    "surface": "இல்",
@@ -83,16 +94,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "there is not"
+     "gloss": "there is nothing"
     }
    ],
-   "gloss": "there is not"
+   "gloss": "there is nothing"
   }
  ],
- "literal": "Poverty's affliction having begged we will end saying than the hardness hard-natured thing there is not.",
- "translation": "There is no hardness greater than the hard-hearted ignorance of saying, 'We will cure the affliction of poverty by begging.'",
- "modern": "வறுமையின் துன்பத்தைப் பிச்சை எடுத்துத் தீர்ப்போம் என்று சொல்லும் வன்மையை விடக் கொடிய வன்மை வேறு இல்லை.",
- "explanation": "This couplet condemns the mindset of choosing to beg as a solution to poverty. The word inmai refers to poverty, and iṭumpai is the sorrow it brings. The poet states that resolving to cure this sorrow by begging shows a stubborn ignorance or hardness of heart. There is absolutely nothing harder or worse than this degrading resolution.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The suffering of poverty, 'by begging we shall cure', thinking, than that hardness of mind, of greater hardness, there is nothing.",
+ "translation": "There is no greater hardness of heart than the determination of those who think they can cure the misery of poverty by begging.",
+ "modern": "வறுமையின் துன்பத்தை பிறரிடம் இரந்து கேட்டுப் போக்கிக் கொள்வோம் என்று நினைக்கும் மனவலிமையைக் காட்டிலும் கொடுமையான வன்னெஞ்சம் வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet exposes the shameless mindset of those who choose to beg. The poet uses the word 'vanmai' (strength/hardness of mind) ironically to describe the resolve of a person who decides to cure the misery of poverty ('inmai iṭumpai') by begging ('irantu tīrvām'). The poet then declares that there is nothing more hard-hearted or cruel ('vanpāṭṭatu il') than this specific kind of mental strength. To lose one's self-respect and rely on begging, rather than facing poverty with dignity or labor, is presented as the ultimate form of insensitivity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "அனிச்சம்",
      "lemma": "அனிச்சம்",
-     "gloss": "aniccam flower"
+     "gloss": "anicham flower"
     },
     {
      "text": "உம்",
@@ -14,29 +14,35 @@
      "gloss": "and"
     }
    ],
-   "gloss": "aniccam flower and"
+   "gloss": "and the delicate anicham flower"
   },
   {
    "surface": "அன்னத்தின்",
    "parts": [
     {
      "text": "அன்னத்தின்",
-     "lemma": "அன்னம்",
+     "lemma": "அன்னத்தின்",
      "gloss": "of the swan"
     }
    ],
-   "gloss": "of the swan"
+   "gloss": "of the swan",
+   "split_unverified": true
   },
   {
    "surface": "தூவியும்",
    "parts": [
     {
-     "text": "தூவியும்",
+     "text": "தூவி",
      "lemma": "தூவி",
-     "gloss": "feather and"
+     "gloss": "feather"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
     }
    ],
-   "gloss": "feather and"
+   "gloss": "and the soft down feathers"
   },
   {
    "surface": "மாதர்",
@@ -44,18 +50,23 @@
     {
      "text": "மாதர்",
      "lemma": "மாதர்",
-     "gloss": "woman"
+     "gloss": "beloved woman"
     }
    ],
-   "gloss": "woman's"
+   "gloss": "of the beloved woman"
   },
   {
    "surface": "அடிக்கு",
    "parts": [
     {
-     "text": "அடிக்கு",
+     "text": "அடி",
      "lemma": "அடி",
-     "gloss": "to the feet"
+     "gloss": "foot"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to the feet"
@@ -66,10 +77,10 @@
     {
      "text": "நெருஞ்சி",
      "lemma": "நெருஞ்சி",
-     "gloss": "caltrop"
+     "gloss": "puncture vine"
     }
    ],
-   "gloss": "caltrop"
+   "gloss": "nerunji thorn"
   },
   {
    "surface": "பழம்",
@@ -80,13 +91,13 @@
      "gloss": "fruit"
     }
    ],
-   "gloss": "fruit (burr)"
+   "gloss": "fruit"
   }
  ],
- "literal": "The aniccam flower and the swan's feather, to the woman's feet, are the nerunji burr.",
- "translation": "Compared to this woman's tender feet, even the delicate aniccam flower and the swan's down are as harsh as thorny caltrop burrs.",
- "modern": "இந்தப் பெண்ணின் மென்மையான பாதங்களுக்கு, அனிச்ச மலரும் அன்னப்பறவையின் சிறகும் நெருஞ்சி முள் போல உறுத்தும்.",
- "explanation": "The lover praises the extreme softness of the woman's feet through a striking hyperbole. The aniccam flower and the swan's down are traditionally considered the softest things in nature. Yet, he claims that compared to her feet, even these incredibly soft objects feel as rough and painful as the thorny burrs of the nerunji plant. This highlights her unmatched delicacy and tenderness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The anicham flower and the swan's feathers, to the beloved woman's feet, are nerunji thorns.",
+ "translation": "Both the delicate anicham flower and the soft down of a swan are as harsh as the thorny nerunji fruit to the tender feet of my beloved.",
+ "modern": "அனிச்ச மலரும் அன்னப் பறவையின் மென்மையான இறகுகளும் என் காதலியின் மெல்லிய பாதங்களுக்கு நெருஞ்சி முள் போன்றவையாகும்.",
+ "explanation": "This couplet uses poetic exaggeration to praise the extreme tenderness of the beloved's feet. The speaker claims that even the softest elements of nature, such as the delicate anicham flower and the downy feathers of a swan, would feel like the sharp, painful thorns of the nerunji fruit if they touched her feet. By contrasting these famously soft objects with a prickly thorn, the verse highlights the incomparable delicacy of her form. This comparison serves to express the lover's deep adoration and protective concern.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

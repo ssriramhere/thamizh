@@ -6,7 +6,7 @@
     {
      "text": "நுணங்கு",
      "lemma": "நுணங்கு",
-     "gloss": "to be subtle"
+     "gloss": "to be refined or subtle"
     },
     {
      "text": "இ",
@@ -16,10 +16,10 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "subtle"
+   "gloss": "refined or subtle"
   },
   {
    "surface": "கேள்வியர்",
@@ -27,15 +27,15 @@
     {
      "text": "கேள்வி",
      "lemma": "கேள்வி",
-     "gloss": "hearing/learning"
+     "gloss": "learning by listening"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who possess"
     }
    ],
-   "gloss": "people of hearing"
+   "gloss": "those who possess learning through listening"
   },
   {
    "surface": "அல்லார்",
@@ -48,7 +48,7 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who"
     }
    ],
    "gloss": "those who are not"
@@ -59,7 +59,7 @@
     {
      "text": "வணங்கு",
      "lemma": "வணங்கு",
-     "gloss": "to bow/be humble"
+     "gloss": "to bow or be humble"
     },
     {
      "text": "இ",
@@ -69,10 +69,10 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "humble"
+   "gloss": "humble or respectful"
   },
   {
    "surface": "வாயினர்",
@@ -80,20 +80,20 @@
     {
      "text": "வாய்",
      "lemma": "வாய்",
-     "gloss": "mouth/speech"
+     "gloss": "mouth or speech"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who possess"
     }
    ],
-   "gloss": "people of mouth"
+   "gloss": "those who possess speech"
   },
   {
    "surface": "ஆதல்",
@@ -117,16 +117,16 @@
     {
      "text": "அரிது",
      "lemma": "அரிது",
-     "gloss": "it is rare"
+     "gloss": "rare or difficult"
     }
    ],
    "gloss": "is rare"
   }
  ],
- "literal": "Those who are not people of subtle hearing, becoming people of humble mouth is rare.",
- "translation": "It is rare for those without subtle learning to speak with humble words.",
- "modern": "நுட்பமான கேள்வியறிவு இல்லாதவர்கள் பணிவான சொற்களைப் பேசுபவர்களாக ஆவது கடினம்.",
- "explanation": "This couplet connects the depth of one's listening to the humility of one's speech. The word 'நுணங்கிய' (subtle or refined) describes the quality of learning acquired through careful hearing. Those who lack this refined understanding rarely possess a 'வணங்கிய வாய்' (a bowed or humble mouth). True learning naturally brings modesty to a person's words, while the absence of deep listening results in arrogant or unrefined speech.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who are not of refined listening, to become of humble mouth is rare.",
+ "translation": "It is rare for those who have not acquired refined learning through listening to speak with humble and respectful words.",
+ "modern": "நுட்பமான கேள்வி அறிவு இல்லாதவர்கள், அடக்கமான சொற்களைப் பேசுபவர்களாக மாறுவது கடினம்.",
+ "explanation": "This couplet emphasizes the direct connection between listening and the quality of one's speech. 'Nuṇaṅkiya' refers to subtle, sharp, and highly refined wisdom, while 'kēḷvi' is the act of listening to the wise. Those who do not cultivate this refined listening lack the inner maturity and restraint required for polite discourse. Consequently, it is extremely rare for such people to speak with a 'humble mouth' (vaṇaṅkiya vāy), which represents respectful and modest speech.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

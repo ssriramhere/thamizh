@@ -5,33 +5,39 @@
    "parts": [
     {
      "text": "மற்றியான்",
-     "lemma": "மற்று",
-     "gloss": "else I"
+     "lemma": "மற்றியான்",
+     "gloss": "otherwise I"
     }
    ],
-   "gloss": "else I"
+   "gloss": "otherwise I",
+   "split_unverified": true
   },
   {
    "surface": "என்னுளேன்",
    "parts": [
     {
-     "text": "என்னுளேன்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "how do I exist"
+     "gloss": "why"
+    },
+    {
+     "text": "உளேன்",
+     "lemma": "உள்",
+     "gloss": "am I alive"
     }
    ],
-   "gloss": "how do I exist"
+   "gloss": "why am I alive"
   },
   {
    "surface": "மன்னோ",
    "parts": [
     {
      "text": "மன்னோ",
-     "lemma": "மன்",
-     "gloss": "indeed (alas)"
+     "lemma": "மன்னோ",
+     "gloss": "indeed (expletive)"
     }
    ],
-   "gloss": "indeed (alas)"
+   "gloss": "indeed"
   },
   {
    "surface": "அவரொடி",
@@ -61,10 +67,10 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "experienced"
+     "gloss": "spent"
     }
    ],
-   "gloss": "experienced"
+   "gloss": "spent"
   },
   {
    "surface": "நாள்",
@@ -82,11 +88,11 @@
    "parts": [
     {
      "text": "உள்ள",
-     "lemma": "உள்",
+     "lemma": "உள்ளு",
      "gloss": "to remember"
     }
    ],
-   "gloss": "to remember"
+   "gloss": "remembering"
   },
   {
    "surface": "உளேன்",
@@ -94,16 +100,16 @@
     {
      "text": "உளேன்",
      "lemma": "உள்",
-     "gloss": "exist I"
+     "gloss": "I am alive"
     }
    ],
-   "gloss": "exist I"
+   "gloss": "I am alive"
   }
  ],
- "literal": "Else I, how exist I, alas! With him I, experienced days, to remember, exist I.",
- "translation": "How else could I stay alive, alas? I survive only by remembering the days I shared with him.",
- "modern": "நான் வேறு எப்படி உயிர் வாழ்வேன்? அவருடன் நான் கூடி மகிழ்ந்த நாட்களை நினைத்துப் பார்ப்பதால்தான் நான் இன்னும் உயிரோடு இருக்கிறேன்.",
- "explanation": "The speaker expresses her deep sorrow and longing for her absent lover. She wonders how she could possibly remain alive while enduring the pain of separation. She reveals that her only means of survival is the constant memory of the joyful days they spent together. The word 'உள்ள' (to remember) highlights that her existence now depends entirely on reliving those past moments in her mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Otherwise, why am I alive indeed? With him, I, the spent days, remembering, am alive.",
+ "translation": "Otherwise, how indeed do I survive? I only remain alive by remembering the days I spent with him.",
+ "modern": "அப்படியில்லையென்றால் நான் எவ்வாறு உயிரோடு இருப்பேன்? அவரோடு நான் கூடி வாழ்ந்த நாட்களை நினைத்துப் பார்ப்பதால் மட்டுமே நான் உயிரோடு இருக்கிறேன்.",
+ "explanation": "The heroine, suffering from the pain of separation, explains how she manages to stay alive. She asks how she could possibly survive otherwise, revealing that her existence depends entirely on memory. It is only by constantly remembering (உள்ள) the happy days (நாள்) she spent (உற்ற) in union with her lover (அவரொடு) that she keeps her breath. Without these sweet recollections to sustain her, she would have perished from grief.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

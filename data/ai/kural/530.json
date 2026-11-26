@@ -6,48 +6,54 @@
     {
      "text": "உழை",
      "lemma": "உழை",
-     "gloss": "side"
+     "gloss": "presence / side"
     }
    ],
-   "gloss": "from the side"
+   "gloss": "from the presence / side"
   },
   {
    "surface": "பிரிந்து",
    "parts": [
     {
-     "text": "பிரிந்து",
+     "text": "பிரி",
      "lemma": "பிரி",
-     "gloss": "having separated"
+     "gloss": "separate"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "ந்து",
+     "gloss": "having (past participle suffix)"
     }
    ],
-   "gloss": "having separated"
+   "gloss": "having separated / departed"
   },
   {
    "surface": "காரணத்தின்",
    "parts": [
     {
      "text": "காரணத்தின்",
-     "lemma": "காரணம்",
+     "lemma": "காரணத்தின்",
      "gloss": "due to a reason"
     }
    ],
-   "gloss": "due to a reason"
+   "gloss": "due to a reason",
+   "split_unverified": true
   },
   {
    "surface": "வந்தானை",
    "parts": [
     {
      "text": "வந்தான்",
-     "lemma": "வா",
+     "lemma": "வந்தான்",
      "gloss": "he who came"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who came"
+   "gloss": "him who came back"
   },
   {
    "surface": "வேந்தன்",
@@ -58,29 +64,39 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "இழைத்து",
    "parts": [
     {
-     "text": "இழைத்து",
+     "text": "இழை",
      "lemma": "இழை",
-     "gloss": "having examined"
+     "gloss": "examine / plan / perform"
+    },
+    {
+     "text": "த்து",
+     "lemma": "த்து",
+     "gloss": "having (past participle suffix)"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having carefully examined / tested"
   },
   {
    "surface": "இருந்து",
    "parts": [
     {
-     "text": "இருந்து",
+     "text": "இரு",
      "lemma": "இரு",
-     "gloss": "having stayed"
+     "gloss": "be / wait"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "ந்து",
+     "gloss": "having (past participle suffix)"
     }
    ],
-   "gloss": "having stayed"
+   "gloss": "having waited / remained patient"
   },
   {
    "surface": "எண்ணி",
@@ -88,32 +104,27 @@
     {
      "text": "எண்ணி",
      "lemma": "எண்ணு",
-     "gloss": "having considered"
+     "gloss": "having evaluated / considered"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having evaluated"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "take"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "should"
+     "gloss": "accepting / taking back"
     }
    ],
-   "gloss": "should accept"
+   "gloss": "should accept / take back"
   }
  ],
- "literal": "From the side having separated, due to a reason him who came, the king, having examined, having stayed, having considered, should accept.",
- "translation": "When an associate who previously left returns for a reason, the king should carefully examine the matter, consider it well, and then accept him back.",
- "modern": "தன்னிடம் இருந்து பிரிந்து சென்று, பின் ஒரு காரணத்தால் மீண்டும் தன்னிடம் வந்தவனை, அரசன் அதற்கான காரணத்தை ஆராய்ந்து தீர்த்து, நன்கு சிந்தித்து ஏற்றுக்கொள்ள வேண்டும்.",
- "explanation": "This couplet advises a leader on how to handle an associate who previously left but has now returned. The word 'உழை' refers to the leader's side or proximity. When such a person returns 'காரணத்தின்' (for a specific reason), the king must not accept them blindly. Instead, he should 'இழைத்து இருந்து எண்ணி'—carefully examine the cause of the separation, resolve any underlying issues, and thoughtfully take them back into his circle.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "From the presence having separated, due to a reason him who came back, the king, having carefully examined, having waited, having evaluated, should accept.",
+ "translation": "When a relative who had departed from one's presence returns with a specific reason, the king should carefully examine the cause, wait patiently, evaluate their intent, and then accept them back.",
+ "modern": "தன்னை விட்டுப் பிரிந்து சென்று, பின்னர் ஒரு காரணத்தோடு திரும்பி வந்தவனை, அரசன் ஆராய்ந்து, பொறுத்திருந்து, அவனது தகுதியை எண்ணிப் பார்த்து மீண்டும் சேர்த்துக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet advises a leader on how to receive a relative or associate who previously left but has now returned. The word 'உழை' refers to one's close presence or side, indicating a former close companion. When such a person returns due to a specific cause ('காரணத்தின்'), the leader must not act in haste. Instead, they must carefully examine the circumstances ('இழைத்து'), wait and observe patiently ('இருந்து'), and thoroughly evaluate the person's true intent ('எண்ணி') before deciding to accept them back ('கொளல்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

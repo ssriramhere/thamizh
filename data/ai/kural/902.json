@@ -4,17 +4,12 @@
    "surface": "பேணாது",
    "parts": [
     {
-     "text": "பேண்",
-     "lemma": "பேண்",
-     "gloss": "to cherish"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative suffix"
+     "text": "பேணாது",
+     "lemma": "பேணு",
+     "gloss": "without considering"
     }
    ],
-   "gloss": "disregarding"
+   "gloss": "without considering (one's duty)"
   },
   {
    "surface": "பெண்",
@@ -25,28 +20,18 @@
      "gloss": "woman"
     }
    ],
-   "gloss": "woman"
+   "gloss": "woman / wife"
   },
   {
    "surface": "விழைவான்",
    "parts": [
     {
-     "text": "விழை",
+     "text": "விழைவான்",
      "lemma": "விழை",
-     "gloss": "to desire"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "he who desires"
     }
    ],
-   "gloss": "he who desires"
+   "gloss": "he who desires / is infatuated with"
   },
   {
    "surface": "ஆக்கம்",
@@ -57,7 +42,7 @@
      "gloss": "wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "wealth / prosperity"
   },
   {
    "surface": "பெரியது",
@@ -65,10 +50,10 @@
     {
      "text": "பெரியது",
      "lemma": "பெரியது",
-     "gloss": "that which is great"
+     "gloss": "great thing"
     }
    ],
-   "gloss": "great"
+   "gloss": "great thing"
   },
   {
    "surface": "ஓர்",
@@ -79,7 +64,7 @@
      "gloss": "a"
     }
    ],
-   "gloss": "a"
+   "gloss": "a / one"
   },
   {
    "surface": "நாண்",
@@ -90,56 +75,46 @@
      "gloss": "shame"
     }
    ],
-   "gloss": "shame"
+   "gloss": "shame / sense of decency"
   },
   {
    "surface": "ஆக",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆக",
      "lemma": "ஆகு",
      "gloss": "to become"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to become"
+   "gloss": "as / to become"
   },
   {
    "surface": "நாணு",
    "parts": [
     {
      "text": "நாணு",
-     "lemma": "நாண்",
+     "lemma": "நாணு",
      "gloss": "shame"
     }
    ],
-   "gloss": "shame"
+   "gloss": "shame / disgrace"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரு",
+     "text": "தரும்",
      "lemma": "தா",
-     "gloss": "to give"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will bring"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "Disregarding, woman he-who-desires' wealth, great a shame to-become, shame will-give.",
- "translation": "The wealth of a man who disregards his duty and blindly desires his wife will only bring him shame, becoming a great disgrace.",
- "modern": "தன் கடமையைப் போற்றாமல் மனைவியின் விருப்பத்தையே விரும்பி வாழ்பவனின் செல்வம், அவனுக்குப் பெரியதொரு அவமானமாக மாறி வெட்கத்தைத் தரும்.",
- "explanation": "This couplet warns against a man becoming overly infatuated with his wife at the expense of his own duties. The word 'பேணாது' (disregarding) implies neglecting one's responsibilities or honor. 'பெண் விழைவான்' refers to a man who is entirely driven by his desire for his woman. The couplet states that any 'ஆக்கம்' (wealth or success) such a man possesses is useless; instead of bringing him respect, it will only result in profound shame.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without considering (his duty), the wealth of him who desires a woman will bring shame as a great shame.",
+ "translation": "The prosperity of a man who, disregarding his own duty, is infatuated with his wife, will only bring him a great and humiliating shame.",
+ "modern": "தன் கடமையை மதிக்காமல், தன் மனைவியின் விருப்பத்தையே விரும்பி நடப்பவனுடைய செல்வமும் பெருமையும், அவனுக்குப் பெரிய அவமானத்தையே தரும்.",
+ "explanation": "This couplet warns against losing one's self-respect and sense of duty by being overly submissive to one's wife. The word 'pēṇātu' means not cherishing or neglecting one's duties and self-respect. When a man is infatuated ('viḻaivāṉ') with a woman to the point of neglecting his responsibilities, any wealth or status ('ākkam') he possesses will not bring him honor. Instead, it will only result in a great, public disgrace ('nāṇāka nāṇu tarum') that makes him a laughingstock.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

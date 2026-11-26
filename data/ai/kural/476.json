@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "கொம்பர்",
-     "lemma": "கொம்பர்",
+     "lemma": "கொம்பு",
      "gloss": "branch"
     }
    ],
-   "gloss": "branch"
+   "gloss": "branch of a tree"
   },
   {
    "surface": "ஏறினார்",
@@ -28,10 +28,10 @@
     {
      "text": "ஏறினார்",
      "lemma": "ஏறு",
-     "gloss": "they who climbed"
+     "gloss": "climbed (they)"
     }
    ],
-   "gloss": "they who climbed"
+   "gloss": "those who have climbed"
   },
   {
    "surface": "அஃது",
@@ -42,7 +42,7 @@
      "gloss": "that"
     }
    ],
-   "gloss": "that"
+   "gloss": "that limit"
   },
   {
    "surface": "இறந்து",
@@ -50,34 +50,34 @@
     {
      "text": "இறந்து",
      "lemma": "இற",
-     "gloss": "having exceeded"
+     "gloss": "going beyond"
     }
    ],
-   "gloss": "having exceeded"
+   "gloss": "going beyond"
   },
   {
    "surface": "ஊக்கின்",
    "parts": [
     {
-     "text": "ஊக்கு",
+     "text": "ஊக்கின்",
      "lemma": "ஊக்கு",
-     "gloss": "strive"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one attempts"
     }
    ],
-   "gloss": "if strive"
+   "gloss": "if they attempt to go further"
   },
   {
    "surface": "உயிர்க்கு",
    "parts": [
     {
-     "text": "உயிர்க்கு",
+     "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "to life"
+     "gloss": "life"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to life"
@@ -91,45 +91,35 @@
      "gloss": "end"
     }
    ],
-   "gloss": "end"
+   "gloss": "end or death"
   },
   {
    "surface": "ஆகி",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "becoming"
     }
    ],
-   "gloss": "having become"
+   "gloss": "becoming"
   },
   {
    "surface": "விடும்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடும்",
      "lemma": "விடு",
-     "gloss": "leave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will end up"
     }
    ],
-   "gloss": "it will result"
+   "gloss": "will surely result in"
   }
  ],
- "literal": "Tip of branch they who climbed, that having exceeded if they strive, to life end having become it will leave.",
- "translation": "If those who have climbed to the very tip of a branch try to push beyond it, it will result in the end of their life.",
- "modern": "ஒரு மரக்கிளையின் நுனிவரை ஏறியவர்கள், அந்த எல்லையைத் தாண்டி மேலே செல்ல முயன்றால், அது அவர்களின் உயிருக்கே முடிவாகிவிடும்.",
- "explanation": "This couplet uses the vivid image of climbing a tree to illustrate the danger of overstepping one's limits. The words 'நுனி' (tip) and 'கொம்பர்' (branch) set the scene of someone who has already reached the highest possible point. If they strive ('ஊக்கின்') to go beyond ('இறந்து') that limit ('அஃது'), they will inevitably fall. It serves as a powerful metaphor for knowing the boundaries of one's power and position, warning that excessive ambition beyond one's capacity leads to ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who climbed the tip of a branch, if they attempt to go beyond that, it will end up becoming the end of their life.",
+ "translation": "If those who have climbed to the very tip of a tree branch attempt to push further beyond that limit, it will result in the end of their life.",
+ "modern": "மரக்கிளையின் நுனிவரை ஏறியவர்கள், அந்த எல்லையையும் தாண்டி மேலே செல்ல முயன்றால், அது அவர்களுடைய உயிருக்கே முடிவாகிவிடும்.",
+ "explanation": "This couplet uses a vivid physical metaphor to warn against overreaching one's limits. A climber who has already reached the absolute tip of a branch is at the peak of danger; if they try to push even further, the branch will break, leading to a fatal fall. In the context of acting according to one's strength, it teaches that exceeding the absolute limit of one's capacity, even after achieving great heights, brings total ruin. The word 'ookkin' here refers to the foolish attempt to exert oneself beyond the safe boundary, which inevitably ends in disaster.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "கலந்து",
      "lemma": "கல",
-     "gloss": "having united"
+     "gloss": "having mingled"
     }
    ],
-   "gloss": "having united"
+   "gloss": "having mingled or united"
   },
   {
    "surface": "உணர்த்தும்",
@@ -17,10 +17,10 @@
     {
      "text": "உணர்த்தும்",
      "lemma": "உணர்த்து",
-     "gloss": "who pacifies"
+     "gloss": "appeasing"
     }
    ],
-   "gloss": "who pacifies"
+   "gloss": "who appeases or comforts"
   },
   {
    "surface": "காதலர்",
@@ -31,7 +31,7 @@
      "gloss": "lover"
     }
    ],
-   "gloss": "lover"
+   "gloss": "the lover"
   },
   {
    "surface": "கண்டால்",
@@ -42,7 +42,7 @@
      "gloss": "if seen"
     }
    ],
-   "gloss": "if seen"
+   "gloss": "if you see"
   },
   {
    "surface": "புலந்து",
@@ -64,7 +64,7 @@
      "gloss": "you do not realize"
     }
    ],
-   "gloss": "you do not realize"
+   "gloss": "you do not maintain or realize the sulking"
   },
   {
    "surface": "பொய்",
@@ -82,7 +82,7 @@
    "parts": [
     {
      "text": "காய்வு",
-     "lemma": "காய்",
+     "lemma": "காய்வு",
      "gloss": "anger"
     }
    ],
@@ -94,17 +94,17 @@
     {
      "text": "காய்தி",
      "lemma": "காய்",
-     "gloss": "you are angry"
+     "gloss": "you show anger"
     }
    ],
-   "gloss": "you are angry"
+   "gloss": "you show anger"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -122,10 +122,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "having united / who pacifies / lover / if seen / having sulked / you do not realize / false / anger / you are angry / my / heart",
- "translation": "O my heart, you are burning with a false anger! For if you see our lover who embraces and pacifies us, you will not hold on to your sulking.",
- "modern": "என் நெஞ்சே! கூடி மகிழ்ந்து நம்மை சமாதானப்படுத்தும் காதலரைக் கண்டால் நீ ஊடல் கொண்டு நிற்கமாட்டாய்; அதனால் இப்போது நீ கொள்ளும் கோபம் பொய்யானதே.",
- "explanation": "The speaker addresses her own heart, pointing out the futility of its current anger towards her absent lover. She calls the heart's anger 'false' (பொய் காய்வு) because she knows it will instantly vanish the moment the lover returns. When he embraces and pacifies her (கலந்து உணர்த்தும்), the heart will completely forget to sulk (புலந்து உணராய்), proving its present resentment is merely a temporary pretense.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having mingled and appeasing lover if you see, having sulked you do not realize; false anger you show, my heart!",
+ "translation": "O my heart! If you see our lover who comes to embrace and appease us, you forget to remain sulky; yet, in his absence, you show only a false anger.",
+ "modern": "கூடி அணைத்துத் தன் அன்பைப் புரியவைக்கும் காதலரைக் கண்டால், நீ ஊடல் கொள்வதை மறந்துவிடுகிறாய்; என் நெஞ்சமே! இப்போது மட்டும் அவரிடம் வீணாகப் பொய்க் கோபம் கொள்கிறாய்.",
+ "explanation": "In this couplet, the heroine speaks to her own heart, pointing out its inconsistency. She notes that when her lover is present, ready to embrace and comfort her, her heart completely forgets its resolve to remain sulky ('pulantu uṇarāy'). However, in his absence, the heart pretends to be angry and vows to show resentment. Thus, she chides her heart for harboring a 'false anger' ('poykkāyvu') that vanishes the moment the lover appears.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

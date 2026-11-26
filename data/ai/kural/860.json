@@ -6,37 +6,37 @@
     {
      "text": "இகல்",
      "lemma": "இகல்",
-     "gloss": "enmity"
+     "gloss": "hostility"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "from"
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "from enmity"
+   "gloss": "by hostility"
   },
   {
    "surface": "ஆம்",
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "will happen"
+     "lemma": "ஆகு",
+     "gloss": "will arise"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "will arise"
   },
   {
    "surface": "இன்னாத",
    "parts": [
     {
      "text": "இன்னாத",
-     "lemma": "இன்னா",
-     "gloss": "painful things"
+     "lemma": "இன்னாதது",
+     "gloss": "unpleasant things"
     }
    ],
-   "gloss": "painful things"
+   "gloss": "unpleasant things"
   },
   {
    "surface": "எல்லாம்",
@@ -55,26 +55,26 @@
     {
      "text": "நகல்",
      "lemma": "நகல்",
-     "gloss": "friendship"
+     "gloss": "friendliness"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "from"
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "from friendship"
+   "gloss": "by friendliness"
   },
   {
    "surface": "ஆம்",
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "will happen"
+     "lemma": "ஆகு",
+     "gloss": "will arise"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "will arise"
   },
   {
    "surface": "நன்னயம்",
@@ -82,21 +82,27 @@
     {
      "text": "நன்னயம்",
      "lemma": "நன்னயம்",
-     "gloss": "good benefit"
+     "gloss": "great goodness"
     }
    ],
-   "gloss": "good benefit"
+   "gloss": "great goodness",
+   "split_unverified": true
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "to say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "செருக்கு",
@@ -104,16 +110,16 @@
     {
      "text": "செருக்கு",
      "lemma": "செருக்கு",
-     "gloss": "wealth"
+     "gloss": "abundance"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "abundance"
   }
  ],
- "literal": "From enmity will happen painful things all; from friendship will happen good benefit called wealth.",
- "translation": "All painful evils arise from enmity. The great wealth of good grace arises from friendship.",
- "modern": "பகைமையால் துன்பம் தரும் செயல்கள் எல்லாம் உண்டாகும். நட்பினால் நல்ல பயன் எனப்படும் பெருஞ்செல்வம் உண்டாகும்.",
- "explanation": "The couplet contrasts the outcomes of enmity and friendship. 'இகல்' (enmity) is identified as the source of all painful and harmful things. In contrast, 'நகல்' (friendship or rejoicing) brings about the great wealth ('செருக்கு') of good benefits ('நன்னயம்'). Here, 'செருக்கு', which often means pride, is used positively to mean abundance or greatness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By hostility will arise unpleasant things all; by friendliness will arise great goodness which is called abundance.",
+ "translation": "All painful things arise from hostility; from friendliness arises the great wealth called goodness.",
+ "modern": "பகையினால் துன்பங்கள் எல்லாம் உண்டாகும்; நட்பினால் நன்னயம் என்று சொல்லப்படும் பெருஞ்செல்வம் உண்டாகும்.",
+ "explanation": "This couplet contrasts the consequences of hostility (ikal) and friendliness (nakal). The author explains that all painful and unpleasant experiences (iṉṉāta ellām) in life are born out of harboring hostility. Conversely, cultivating friendliness and joy with others yields the ultimate abundance (cerukku) which is supreme goodness (naṉṉayam). Here, 'nakal' refers to a cheerful, friendly disposition, and 'cerukku' is used in the sense of a rich abundance of virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

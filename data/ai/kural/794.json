@@ -6,10 +6,10 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "good family"
+     "gloss": "noble family"
     }
    ],
-   "gloss": "good family"
+   "gloss": "noble family"
   },
   {
    "surface": "பிறந்து",
@@ -33,7 +33,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "in / locative marker"
     }
    ],
    "gloss": "in oneself"
@@ -44,26 +44,26 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "blame or disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "blame or disgrace"
   },
   {
    "surface": "நாணுவானை",
    "parts": [
     {
      "text": "நாணுவான்",
-     "lemma": "நாண்",
-     "gloss": "he who is ashamed"
+     "lemma": "நாணு",
+     "gloss": "one who is ashamed of"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[accusative]"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who is ashamed"
+   "gloss": "him who is ashamed of"
   },
   {
    "surface": "கொடுத்தும்",
@@ -79,7 +79,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having given"
+   "gloss": "even by giving"
   },
   {
    "surface": "கொளல்",
@@ -87,7 +87,7 @@
     {
      "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "acquiring"
+     "gloss": "acquiring or securing"
     }
    ],
    "gloss": "acquiring"
@@ -115,10 +115,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "Good family having been born, in oneself blame him who shrinks from, even having given, acquiring is necessary friendship.",
- "translation": "Even by paying a price, one must acquire the friendship of a person born in a good family who shrinks from disgrace.",
- "modern": "நல்ல குடியில் பிறந்து தன்னிடம் பழி சேர்வதற்கு வெட்கப்படும் இயல்புடையவனின் நட்பை, ஏதேனும் விலை கொடுத்தாவது பெற்றுக்கொள்ள வேண்டும்.",
- "explanation": "This couplet emphasizes the immense value of befriending someone of noble character. The phrase 'குடி பிறந்து' refers to being born into a respectable family, which instills strong moral values. Such a person will naturally fear and avoid any 'பழி' (blame or disgrace) falling upon themselves ('தன்கண்'). The poet advises that the friendship ('நட்பு') of such a principled individual is so precious that one must acquire it ('கொளல் வேண்டும்') even if it means giving up something valuable in return ('கொடுத்தும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having been born in a noble family, him who is ashamed of blame in himself, even by giving, securing friendship is necessary.",
+ "translation": "One must secure the friendship of a person born of noble lineage who shrinks from disgrace, even if one has to give up something of value to obtain it.",
+ "modern": "நல்ல குடியில் பிறந்து, தன் மேல் பழி வருவதற்கு நாணுகின்ற ஒருவனுடைய நட்பை, ஏதேனும் கொடுத்தாவது நாம் பெற்றுக்கொள்ள வேண்டும்.",
+ "explanation": "This couplet outlines the essential qualities of an ideal friend and the lengths to which one should go to secure their companionship. The poet identifies two key traits: being born into a family of good values (குடிப்பிறந்து) and possessing a deep-seated dread of disgrace or wrongdoing (பழிநாணுவான்). A person who fears blame will naturally act with integrity and loyalty. The phrase 'கொடுத்தும் கொளல்வேண்டும்' emphasizes that such a virtuous friend is so rare and valuable that one should be willing to sacrifice material wealth or other resources just to win their friendship.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

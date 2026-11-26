@@ -6,15 +6,15 @@
     {
      "text": "உலைவு",
      "lemma": "உலைவு",
-     "gloss": "ruin"
+     "gloss": "ruin/distress"
     },
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "in the place/time"
+     "gloss": "at the time of"
     }
    ],
-   "gloss": "in the time of ruin"
+   "gloss": "at the time of ruin or distress"
   },
   {
    "surface": "ஊறு",
@@ -22,32 +22,37 @@
     {
      "text": "ஊறு",
      "lemma": "ஊறு",
-     "gloss": "injury"
+     "gloss": "injury/wound"
     }
    ],
-   "gloss": "injury"
+   "gloss": "injury or wound"
   },
   {
    "surface": "அஞ்சா",
    "parts": [
     {
      "text": "அஞ்சா",
-     "lemma": "அஞ்சுதல்",
-     "gloss": "fearing-not"
+     "lemma": "அஞ்சு",
+     "gloss": "not fearing"
     }
    ],
-   "gloss": "not fearing"
+   "gloss": "unfearing"
   },
   {
    "surface": "வன்கண்",
    "parts": [
     {
-     "text": "வன்கண்",
-     "lemma": "வன்கண்",
-     "gloss": "courage"
+     "text": "வன்",
+     "lemma": "வன்மை",
+     "gloss": "strength"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "quality"
     }
    ],
-   "gloss": "courage"
+   "gloss": "fortitude or courage"
   },
   {
    "surface": "தொலைவிடத்து",
@@ -55,15 +60,15 @@
     {
      "text": "தொலைவு",
      "lemma": "தொலைவு",
-     "gloss": "defeat"
+     "gloss": "defeat/destruction"
     },
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "in the place/time"
+     "gloss": "at the time of"
     }
    ],
-   "gloss": "in the time of defeat"
+   "gloss": "at the time of defeat"
   },
   {
    "surface": "தொல்படைக்கு",
@@ -71,7 +76,7 @@
     {
      "text": "தொல்",
      "lemma": "தொன்மை",
-     "gloss": "ancient"
+     "gloss": "ancient/traditional"
     },
     {
      "text": "படைக்கு",
@@ -85,29 +90,34 @@
    "surface": "அல்லால்",
    "parts": [
     {
-     "text": "அல்லால்",
+     "text": "அல்",
      "lemma": "அல்",
-     "gloss": "except"
+     "gloss": "not"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "except/other than"
     }
    ],
-   "gloss": "except"
+   "gloss": "except for"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "rare"
+     "lemma": "அரிது",
+     "gloss": "rare/difficult"
     }
    ],
-   "gloss": "rare"
+   "gloss": "is rare"
   }
  ],
- "literal": "In the time of ruin, injury not-fearing courage, in the time of defeat, to the ancient army except, is rare.",
- "translation": "The courage that does not fear injury even in the face of ruin is rare to find except in a veteran army.",
- "modern": "அழிவு வந்த காலத்திலும் காயங்களுக்கு அஞ்சாத வீரம், போரில் தோற்கும் நிலை வந்தாலும், தொன்றுதொட்டு வரும் பழைய படைக்கு அல்லாமல் மற்றவர்களுக்கு இருப்பது அரிது.",
- "explanation": "This couplet praises the resilience of a veteran army. The word 'உலைவிடத்து' refers to a situation of ruin or collapse, while 'தொலைவிடத்து' means a state of defeat. Even in such dire circumstances, the 'வன்கண்' (courage) that does not fear 'ஊறு' (injury or wounds) is a unique trait. The poet asserts that such steadfast bravery is rare ('அரிது') in any force other than an ancient, well-established army ('தொல்படை').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "At the time of ruin, injury-not-fearing courage, at the time of defeat, to the ancient army except, is rare.",
+ "translation": "The courage that fears no wounds in times of ruin is rare for any but an ancient, time-tested army in times of defeat.",
+ "modern": "அழிவு வரும் காலத்தில் காயங்களுக்கு அஞ்சாத வீரமும், தோல்வி ஏற்படும் காலத்தில் தளராத மன உறுதியும் பழமையான படைக்கு அல்லாமல் வேறு யாருக்கும் கிடைப்பது அரிது.",
+ "explanation": "This couplet highlights the unique quality of a seasoned, traditional army. It states that when ruin or defeat is imminent, the steadfast courage that does not fear wounds or suffering is extremely rare to find in any force other than such an ancient, time-tested army. The key words 'உலைவிடம்' and 'தொலைவிடம்' refer to critical moments of distress and defeat, while 'வன்கண்' represents the unyielding fortitude required to withstand them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

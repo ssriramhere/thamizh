@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "இடன்",
-     "lemma": "இடம்",
-     "gloss": "wealth"
+     "lemma": "இடன்",
+     "gloss": "resources/wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "resources"
   },
   {
    "surface": "இல்",
@@ -20,23 +20,19 @@
      "gloss": "without"
     }
    ],
-   "gloss": "without"
+   "gloss": "lacking"
   },
   {
    "surface": "பருவத்தும்",
    "parts": [
     {
-     "text": "பருவத்து",
-     "lemma": "பருவம்",
-     "gloss": "time (oblique)"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "பருவத்தும்",
+     "lemma": "பருவத்தும்",
+     "gloss": "even in the time"
     }
    ],
-   "gloss": "even in the time"
+   "gloss": "even in the time",
+   "split_unverified": true
   },
   {
    "surface": "ஒப்புரவிற்கு",
@@ -44,28 +40,33 @@
     {
      "text": "ஒப்புரவு",
      "lemma": "ஒப்புரவு",
-     "gloss": "benevolence"
+     "gloss": "benevolence/social duty"
     },
     {
-     "text": "இற்கு",
-     "lemma": "இற்கு",
-     "gloss": "to"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to/for (dative suffix)"
     }
    ],
-   "gloss": "to benevolence"
+   "gloss": "from benevolence"
   },
   {
    "surface": "ஒல்கார்",
    "parts": [
     {
      "text": "ஒல்கு",
-     "lemma": "ஒல்குதல்",
-     "gloss": "shrink"
+     "lemma": "ஒல்கு",
+     "gloss": "shrink/weaken"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (negative)"
+     "gloss": "they will not (negative third person plural)"
     }
    ],
    "gloss": "they will not shrink"
@@ -86,8 +87,8 @@
    "parts": [
     {
      "text": "அறி",
-     "lemma": "அறிதல்",
-     "gloss": "knowing"
+     "lemma": "அறி",
+     "gloss": "know"
     }
    ],
    "gloss": "knowing"
@@ -98,21 +99,21 @@
     {
      "text": "காட்சி",
      "lemma": "காட்சி",
-     "gloss": "vision"
+     "gloss": "vision/understanding"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who have"
     }
    ],
-   "gloss": "those of vision"
+   "gloss": "those who have the vision"
   }
  ],
- "literal": "wealth / without / time-even-in / to-benevolence / shrink-not-they / duty / knowing / vision-they",
- "translation": "Those with the clear vision to know their duty will not shrink from benevolence, even in times when they have no wealth.",
- "modern": "தங்கள் கடமையை அறியும் தெளிவான அறிவுடையவர்கள், தம்மிடம் செல்வம் இல்லாத வறுமைக் காலத்திலும் பிறருக்கு உதவி செய்வதிலிருந்து பின்வாங்க மாட்டார்கள்.",
- "explanation": "This couplet highlights the unwavering nature of true benevolence. The word 'இடன்' literally means space or place, but here it takes the sense of wealth or resources. Combined with 'இல் பருவத்தும்', it refers to a time of poverty or lack. Even in such difficult times, those who clearly understand their moral duty ('கடன் அறி காட்சியவர்') will not hesitate or shrink ('ஒல்கார்') from helping others. Their commitment to doing what is fitting for society does not depend on their financial comfort.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in a time lacking resources, from benevolence they will not shrink, those who have the vision of knowing their duty.",
+ "translation": "Even in times of destitution, those who possess the clear vision of duty do not shrink from their benevolence to society.",
+ "modern": "வறுமைக்காலத்திலும், கடமையை உணர்ந்த அறிவுடையவர்கள் பிறருக்கு உதவி செய்யும் ஒப்புரவுப் பண்பிலிருந்து பின்வாங்க மாட்டார்கள்.",
+ "explanation": "This couplet explains that true benevolence is a matter of character and vision, not just material wealth. The phrase 'கடனறி காட்சியவர்' refers to wise individuals who have a clear, deep understanding of their duty to the community. Even during 'இடனில் பருவம்'—a period when they lack personal resources or face poverty—they do not shrink ('ஒல்கார்') from performing acts of social benevolence ('ஒப்புரவு'). Their commitment to helping others remains steadfast regardless of their financial situation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

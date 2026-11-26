@@ -6,15 +6,15 @@
     {
      "text": "செல்",
      "lemma": "செல்",
-     "gloss": "to go"
+     "gloss": "go"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he will not"
+     "gloss": "without"
     }
    ],
-   "gloss": "he goes not"
+   "gloss": "without going"
   },
   {
    "surface": "கிழவன்",
@@ -25,7 +25,7 @@
      "gloss": "owner"
     }
    ],
-   "gloss": "owner"
+   "gloss": "the owner"
   },
   {
    "surface": "இருப்பின்",
@@ -33,25 +33,15 @@
     {
      "text": "இரு",
      "lemma": "இரு",
-     "gloss": "to stay"
+     "gloss": "remain"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "இன்",
+     "text": "ப்பின்",
      "lemma": "இன்",
      "gloss": "if"
     }
    ],
-   "gloss": "if stays"
+   "gloss": "if he remains idle"
   },
   {
    "surface": "நிலம்",
@@ -62,33 +52,18 @@
      "gloss": "land"
     }
    ],
-   "gloss": "land"
+   "gloss": "the land"
   },
   {
    "surface": "புலந்து",
    "parts": [
     {
-     "text": "புல",
-     "lemma": "புல",
-     "gloss": "to sulk"
-    },
-    {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial suffix"
+     "text": "புலந்து",
+     "lemma": "புலத்தல்",
+     "gloss": "feeling neglected"
     }
    ],
-   "gloss": "having sulked"
+   "gloss": "feeling neglected"
   },
   {
    "surface": "இல்லாளின்",
@@ -110,39 +85,29 @@
    "surface": "ஊடி",
    "parts": [
     {
-     "text": "ஊடு",
-     "lemma": "ஊடு",
-     "gloss": "to feign anger"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "text": "ஊடி",
+     "lemma": "ஊடுதல்",
+     "gloss": "feigning anger"
     }
    ],
-   "gloss": "having feigned anger"
+   "gloss": "feigning anger"
   },
   {
    "surface": "விடும்",
    "parts": [
     {
-     "text": "விடு",
-     "lemma": "விடு",
-     "gloss": "to leave (auxiliary)"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future tense marker"
+     "text": "விடும்",
+     "lemma": "விடுதல்",
+     "gloss": "will surely do"
     }
    ],
-   "gloss": "will do"
+   "gloss": "will surely do"
   }
  ],
- "literal": "Not going, owner if stays, land having sulked, like wife will feign anger.",
- "translation": "If the owner stays away without visiting his field, the land will sulk and feign anger like a neglected wife.",
- "modern": "நிலத்திற்கு உரியவன் அங்குச் செல்லாமல் வீட்டிலேயே தங்கியிருந்தால், அவனுடைய மனைவியைப் போல அந்த நிலமும் அவனிடம் வெறுப்புற்றுப் பிணங்கிவிடும்.",
- "explanation": "This couplet personifies agricultural land as a wife. If the farmer, who is the owner ('கிழவன்'), does not visit his field and stays away, the land will feel neglected. Just as a wife would sulk and feign anger ('ஊடி') when ignored by her husband, the land will sulk ('புலந்து') and refuse to yield crops. The poet beautifully applies the dynamics of a romantic relationship to the bond between a farmer and his land, emphasizing that constant attention is required for a good harvest.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without going, if the owner remains, the land, feeling neglected, like a wife, will feign anger.",
+ "translation": "If the owner remains idle without visiting his field, the land, feeling neglected, will sulk and feign anger like a wife.",
+ "modern": "நிலத்தின் உரிமையாளன் நிலத்திற்குச் செல்லாமல் சோம்பேறியாக இருந்தால், அவனது நிலமானது தன்னை அவன் கைவிட்டுவிட்டதாக எண்ணி, அவனது மனைவி ஊடல் கொள்வது போலக் கோபித்துக் கொள்ளும்.",
+ "explanation": "This couplet uses a beautiful domestic metaphor to emphasize the necessity of constant personal attention in agriculture. The poet compares the land to a wife (illāḷ) who expects her husband's presence and care. If the owner (kiḻavaṉ) remains idle and fails to visit his fields (cellāṉ iruppiṉ), the land feels neglected (pulantu) and reacts with resentment (ūṭi viṭum), refusing to yield its bounty. Just as a neglected wife withdraws her affection, the neglected earth withdraws her fertility, showing that farming requires daily devotion and cannot be managed from afar.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

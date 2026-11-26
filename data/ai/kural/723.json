@@ -6,10 +6,10 @@
     {
      "text": "பகை",
      "lemma": "பகை",
-     "gloss": "enemy"
+     "gloss": "battle"
     }
    ],
-   "gloss": "enemy"
+   "gloss": "battle"
   },
   {
    "surface": "அகத்து",
@@ -17,10 +17,10 @@
     {
      "text": "அகத்து",
      "lemma": "அகம்",
-     "gloss": "inside"
+     "gloss": "in the midst of"
     }
    ],
-   "gloss": "inside"
+   "gloss": "in the midst of"
   },
   {
    "surface": "சாவார்",
@@ -39,10 +39,10 @@
     {
      "text": "எளியர்",
      "lemma": "எளியர்",
-     "gloss": "easy ones"
+     "gloss": "are easy to find"
     }
    ],
-   "gloss": "easy ones"
+   "gloss": "are easy to find"
   },
   {
    "surface": "அரியர்",
@@ -50,10 +50,10 @@
     {
      "text": "அரியர்",
      "lemma": "அரியர்",
-     "gloss": "rare ones"
+     "gloss": "are rare"
     }
    ],
-   "gloss": "rare ones"
+   "gloss": "are rare"
   },
   {
    "surface": "அவை",
@@ -72,27 +72,32 @@
     {
      "text": "அகத்து",
      "lemma": "அகம்",
-     "gloss": "inside"
+     "gloss": "in the midst of"
     }
    ],
-   "gloss": "inside"
+   "gloss": "in the midst of"
   },
   {
    "surface": "அஞ்சாதவர்",
    "parts": [
     {
-     "text": "அஞ்சாதவர்",
+     "text": "அஞ்சாது",
      "lemma": "அஞ்சு",
-     "gloss": "those who do not fear"
+     "gloss": "without fearing"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "those who"
     }
    ],
    "gloss": "those who do not fear"
   }
  ],
- "literal": "Enemy inside those who die are easy; rare are assembly inside those who fear not.",
- "translation": "Those who bravely die on the battlefield are easy to find. Rare are those who stand without fear in an assembly.",
- "modern": "போர்க்களத்தில் பகைவர்களுக்கு அஞ்சாமல் சாகத் துணிபவர்கள் உலகில் பலர் உள்ளனர். ஆனால் கற்றவர் நிறைந்த சபையில் பேச அஞ்சாதவர்கள் மிகவும் சிலரே ஆவர்.",
- "explanation": "This couplet contrasts physical courage with intellectual courage. It states that finding warriors willing to die on the battlefield is relatively easy. However, finding individuals who can stand before a learned assembly and speak without fear is truly rare. The repetition of the word 'agattu' (inside) draws a direct parallel between the battlefield and the assembly hall, highlighting that facing an audience requires a rarer kind of bravery.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the midst of battle, those who die are easy to find; rare are those who do not fear in the midst of an assembly.",
+ "translation": "Those who can face death in the midst of battle are easy to find; but those who can stand without fear in the midst of an assembly are truly rare.",
+ "modern": "போர்க்களத்தில் சாகக்கூடியவர்கள் எளிதாகக் கிடைப்பார்கள்; ஆனால் அவையின் நடுவே அச்சமின்றிப் பேசக்கூடியவர்கள் கிடைப்பது அரிது.",
+ "explanation": "This couplet contrasts physical bravery in battle with intellectual courage in a public assembly. The author notes that many soldiers are willing to face death on the battlefield, making such brave individuals relatively common. However, standing before a learned assembly without fear requires a different, rarer kind of courage. The key words 'பகை' (battle) and 'அவை' (assembly) represent two different arenas of human trial, highlighting that mental fortitude before peers is scarcer than physical valor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

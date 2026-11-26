@@ -27,10 +27,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "which"
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "that is said"
+   "gloss": "called"
   },
   {
    "surface": "மாத்திரையர்",
@@ -43,10 +43,10 @@
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they are"
+     "gloss": "they"
     }
    ],
-   "gloss": "they are of the measure"
+   "gloss": "those who are of the mere measure"
   },
   {
    "surface": "அல்லால்",
@@ -59,26 +59,21 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "if"
+     "gloss": "except"
     }
    ],
-   "gloss": "except"
+   "gloss": "other than"
   },
   {
    "surface": "பயவா",
    "parts": [
     {
-     "text": "பய",
-     "lemma": "பய",
-     "gloss": "yield"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "text": "பயவா",
+     "lemma": "பயவா",
+     "gloss": "non-yielding"
     }
    ],
-   "gloss": "yielding-not"
+   "gloss": "barren"
   },
   {
    "surface": "களர்",
@@ -86,7 +81,7 @@
     {
      "text": "களர்",
      "lemma": "களர்",
-     "gloss": "barren land"
+     "gloss": "saline soil"
     }
    ],
    "gloss": "barren land"
@@ -95,12 +90,17 @@
    "surface": "அனையர்",
    "parts": [
     {
-     "text": "அனையர்",
-     "lemma": "அனையர்",
-     "gloss": "like-they"
+     "text": "அனை",
+     "lemma": "அனை",
+     "gloss": "like"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "they are like"
+   "gloss": "are like"
   },
   {
    "surface": "கல்லாதவர்",
@@ -113,16 +113,16 @@
     {
      "text": "ஆதவர்",
      "lemma": "ஆதவர்",
-     "gloss": "not-they"
+     "gloss": "those who do not"
     }
    ],
-   "gloss": "the unlearned"
+   "gloss": "unlearned people"
   }
  ],
- "literal": "\"They exist\" that is said measure-they-are except, yielding-not barren land like-they-are learn-not-they.",
- "translation": "The unlearned are exactly like barren land that yields nothing, except for the mere fact that they can be said to exist.",
- "modern": "கல்லாதவர்கள் 'உயிரோடு இருக்கிறார்கள்' என்று சொல்லப்படும் அளவினரே தவிர, வேறு எந்தப் பயனும் தராத களர் நிலத்தைப் போன்றவர்கள்.",
- "explanation": "This couplet compares uneducated people to barren, saline soil (களர்). Just as barren land occupies space but produces no crops, the unlearned occupy space in the world but produce nothing of value to themselves or others. The phrase 'உளர் என்னும் மாத்திரையர்' emphasizes that their only defining trait is their mere physical existence, while 'பயவா' (non-yielding) directly links the uselessness of the uncultivated land to the uncultivated mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Except for the mere measure of being called those who exist, unlearned people are like barren land that yields nothing.",
+ "translation": "Except for the mere fact that they are said to exist, those who are unlearned are like barren, useless land.",
+ "modern": "உயிரோடு இருக்கிறார்கள் என்று சொல்லும் அளவினரே அல்லாமல், கல்லாதவர்கள் ஒன்றும் விளையாத களர் நிலத்திற்கு ஒப்பாவார்கள்.",
+ "explanation": "This couplet compares unlearned people to barren, saline soil (களர்) which cannot produce any useful crops. The author states that the uneducated are like this useless land, serving no productive purpose for society. The phrase 'உளரென்னும் மாத்திரையர்' emphasizes that their only attribute is that they are physically alive, and nothing more. They lack the intellectual and moral fruitfulness that comes with learning.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

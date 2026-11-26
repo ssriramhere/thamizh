@@ -28,10 +28,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "painful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "painful things"
   },
   {
    "surface": "செயினும்",
@@ -39,7 +39,7 @@
     {
      "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "if do"
+     "gloss": "if done"
     },
     {
      "text": "உம்",
@@ -47,7 +47,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if done"
+   "gloss": "even if they do"
   },
   {
    "surface": "அவர்",
@@ -66,10 +66,10 @@
     {
      "text": "செய்த",
      "lemma": "செய்",
-     "gloss": "did"
+     "gloss": "done"
     }
    ],
-   "gloss": "did"
+   "gloss": "done"
   },
   {
    "surface": "ஒன்று",
@@ -88,10 +88,10 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good thing"
+     "gloss": "good deed"
     }
    ],
-   "gloss": "good thing"
+   "gloss": "good deed"
   },
   {
    "surface": "உள்ள",
@@ -99,10 +99,10 @@
     {
      "text": "உள்ள",
      "lemma": "உள்ளு",
-     "gloss": "to think of"
+     "gloss": "to remember"
     }
    ],
-   "gloss": "to think of"
+   "gloss": "upon remembering"
   },
   {
    "surface": "கெடும்",
@@ -110,16 +110,16 @@
     {
      "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "will perish"
+     "gloss": "will disappear"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will disappear"
   }
  ],
- "literal": "Killing-like harm even if [they] do, they did one good thing to think [of], [the harm] will perish.",
- "translation": "Even if someone does you a harm as grievous as murder, it will vanish from your mind when you remember a single good thing they have done for you.",
- "modern": "ஒருவர் நம்மைக் கொல்வது போன்ற பெருந்துன்பத்தைச் செய்தாலும், அவர் முன்பு செய்த ஒரு நன்மையை நினைத்துப் பார்த்தால் அந்தத் துன்பம் மறைந்துவிடும்.",
- "explanation": "This couplet emphasizes the power of gratitude to overcome resentment. The phrase 'கொன்றன்ன இன்னா' (harm like killing) sets up the extreme case of someone causing the worst possible pain. Yet, the poet says that even if they commit such an act, the pain 'கெடும்' (will perish or be erased). The condition for this erasure is simply 'உள்ள' (to remember) just 'ஒன்று நன்று' (one good thing) that the same person did in the past. By focusing on a single past kindness, the mind lets go of even the most severe present injury.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they do painful things like killing, upon remembering one good deed done by them, [the pain] will disappear.",
+ "translation": "Even if someone does you harm as painful as murder, all that suffering will vanish the moment you remember a single good deed they did for you in the past.",
+ "modern": "கொலை செய்வதைப் போன்ற துன்பங்களை ஒருவர் நமக்குச் செய்தாலும், அவர் முன்பு செய்த ஒரு நன்மையை நினைத்துப் பார்த்தால் அந்தத் துன்பங்கள் மறைந்துவிடும்.",
+ "explanation": "This couplet highlights the supreme power of gratitude in overcoming resentment. The poet uses a powerful comparison: even if someone inflicts a harm so severe that it feels like being killed ('koṉṟu aṉṉa iṉṉā'), we should not harbor hatred. Instead, by actively remembering ('uḷḷa') even a single good deed ('oṉṟu naṉṟu') that person did for us in the past, the pain and anger caused by their massive harm will completely vanish ('keṭum'). This teaches us that gratitude has the strength to dissolve even the deepest grievances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

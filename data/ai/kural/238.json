@@ -9,23 +9,18 @@
      "gloss": "blame"
     }
    ],
-   "gloss": "blame"
+   "gloss": "blame or disgrace"
   },
   {
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "epicene plural suffix"
+     "gloss": "they say"
     }
    ],
-   "gloss": "they say"
+   "gloss": "they say it is"
   },
   {
    "surface": "வையத்தார்க்கு",
@@ -38,7 +33,7 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
    "gloss": "to the people of the world"
@@ -69,17 +64,12 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "which is called"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "எச்சம்",
@@ -87,53 +77,38 @@
     {
      "text": "எச்சம்",
      "lemma": "எச்சம்",
-     "gloss": "remainder"
+     "gloss": "legacy or remainder"
     }
    ],
-   "gloss": "remainder"
+   "gloss": "legacy left behind"
   },
   {
    "surface": "பெறாஅ",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறாஅ",
      "lemma": "பெறு",
-     "gloss": "to obtain"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "metric lengthening"
+     "gloss": "not obtaining"
     }
    ],
-   "gloss": "not obtaining"
+   "gloss": "without obtaining"
   },
   {
    "surface": "விடின்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடின்",
      "lemma": "விடு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if"
     }
    ],
-   "gloss": "if they fail"
+   "gloss": "if"
   }
  ],
- "literal": "Blame, they say, to the people of the world all, fame called remainder not obtaining if they fail.",
- "translation": "If the people of the world fail to achieve the lasting legacy called fame, it is said to be a disgrace to them all.",
- "modern": "இவ்வுலகில் வாழும் மக்கள் அனைவரும் புகழ் என்னும் எச்சத்தைப் பெறாமல் போனால், அது அவர்களுக்குப் பெரும் பழி என்று கூறுவர்.",
- "explanation": "The couplet emphasizes that fame is the only true legacy a person leaves behind after death. The word 'eccam' literally means 'remainder' or 'that which survives', pointing to the enduring nature of a good reputation. If people fail to acquire this lasting fame, their very existence is considered a disgrace ('vasai'). Thus, living without earning a good name is seen as a fundamental failure in life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Blame, they say, to all the people of the world, if they do not obtain the legacy called fame.",
+ "translation": "For all people living on this earth, it is said to be a disgrace if they fail to acquire the lasting legacy called fame.",
+ "modern": "உலகில் வாழும் மக்கள் அனைவருக்கும், புகழ் என்று சொல்லப்படும் எஞ்சி நிற்கும் அழியாத செல்வத்தைப் பெறாவிட்டால், அதுவே பழி என்று கூறுவர்.",
+ "explanation": "This couplet highlights the supreme importance of earning a good reputation during one's lifetime. The word 'icai' means fame, and 'eaccam' refers to a legacy or that which remains after one is gone. The poet states that if a person does not acquire this lasting legacy of fame, their life is considered a 'vacai', meaning a disgrace or blame. Thus, living a life that leaves no honorable memory behind is deemed a failure by the world.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

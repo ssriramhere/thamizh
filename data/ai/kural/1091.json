@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "இரு",
-     "lemma": "இரண்டு",
+     "lemma": "இரு",
      "gloss": "two"
     }
    ],
-   "gloss": "two"
+   "gloss": "twofold"
   },
   {
    "surface": "நோக்கு",
@@ -20,7 +20,7 @@
      "gloss": "look"
     }
    ],
-   "gloss": "looks"
+   "gloss": "look"
   },
   {
    "surface": "இவள்",
@@ -39,7 +39,7 @@
     {
      "text": "உண்",
      "lemma": "உண்",
-     "gloss": "consuming"
+     "gloss": "painted"
     },
     {
      "text": "கண்",
@@ -47,7 +47,7 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "consuming eyes"
+   "gloss": "painted eyes"
   },
   {
    "surface": "உள்ளது",
@@ -63,14 +63,14 @@
      "gloss": "it"
     }
    ],
-   "gloss": "have"
+   "gloss": "contains"
   },
   {
    "surface": "ஒரு",
    "parts": [
     {
      "text": "ஒரு",
-     "lemma": "ஒன்று",
+     "lemma": "ஒரு",
      "gloss": "one"
     }
    ],
@@ -93,7 +93,7 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "disease"
+     "gloss": "pain"
     }
    ],
    "gloss": "pain"
@@ -118,7 +118,7 @@
      "gloss": "one"
     }
    ],
-   "gloss": "the other"
+   "gloss": "one"
   },
   {
    "surface": "அந்நோய்",
@@ -126,10 +126,10 @@
     {
      "text": "அந்நோய்",
      "lemma": "அந்நோய்",
-     "gloss": "that pain's"
+     "gloss": "that pain"
     }
    ],
-   "gloss": "that pain's",
+   "gloss": "that pain",
    "split_unverified": true
   },
   {
@@ -138,16 +138,16 @@
     {
      "text": "மருந்து",
      "lemma": "மருந்து",
-     "gloss": "medicine"
+     "gloss": "cure"
     }
    ],
-   "gloss": "medicine"
+   "gloss": "cure"
   }
  ],
- "literal": "Two looks this woman's consuming eyes have; one look is a pain look, the other is that pain's medicine.",
- "translation": "There are two kinds of looks in this woman's consuming eyes. One look inflicts the pain of love, and the other is the cure for that very pain.",
- "modern": "இவளுடைய மையுண்ட கண்களில் இரண்டு வகையான பார்வைகள் உள்ளன. ஒரு பார்வை காதல் நோயைத் தரும் பார்வை; மற்றொன்று அந்த நோயைத் தீர்க்கும் மருந்தாகும்.",
- "explanation": "The speaker observes the dual nature of his beloved's glances. Her eyes possess two distinct looks: one that inflicts the sweet pain of love, and another that offers the cure for that very affliction. The word 'உண்கண்' (consuming eyes) suggests eyes that captivate and devour the onlooker's heart, while the contrast between 'நோய்' (disease/pain) and 'மருந்து' (medicine) beautifully captures the paradox of romantic longing, where the cause of suffering is also its only relief.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Twofold look this-woman's painted-eyes have; one look pain look, one that-pain cure.",
+ "translation": "There are two different looks in the painted eyes of this woman: one look causes pain, and the other is the cure for that very pain.",
+ "modern": "இவளுடைய மைதீட்டிய கண்களில் இரண்டு வகையான பார்வைகள் உள்ளன; ஒரு பார்வை காம நோயைத் தரும் பார்வை, மற்றொன்று அந்த நோய்க்கு மருந்தாகும் பார்வை.",
+ "explanation": "The couplet describes the dual nature of the beloved's gaze. Her painted eyes possess two distinct looks. One look causes the sweet torment or pain of love, while the other look acts as the soothing medicine to cure that very distress. The poet beautifully captures how the same eyes that wound also have the power to heal.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

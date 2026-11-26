@@ -6,20 +6,20 @@
     {
      "text": "இது",
      "lemma": "இது",
-     "gloss": "this"
+     "gloss": "this thing"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "empty morph"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "this (task)"
+   "gloss": "this task"
   },
   {
    "surface": "இதனால்",
@@ -27,20 +27,20 @@
     {
      "text": "இது",
      "lemma": "இது",
-     "gloss": "this"
+     "gloss": "this thing"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "empty morph"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "instrumental suffix"
+     "gloss": "instrumental case marker"
     }
    ],
-   "gloss": "by this (means)"
+   "gloss": "by this means"
   },
   {
    "surface": "இவன்",
@@ -51,55 +51,40 @@
      "gloss": "this man"
     }
    ],
-   "gloss": "this man"
+   "gloss": "this person"
   },
   {
    "surface": "முடிக்கும்",
    "parts": [
     {
-     "text": "முடி",
+     "text": "முடிக்கும்",
      "lemma": "முடி",
-     "gloss": "to complete"
-    },
-    {
-     "text": "க்கும்",
-     "lemma": "உம்",
-     "gloss": "future tense suffix"
+     "gloss": "will accomplish"
     }
    ],
-   "gloss": "will complete"
+   "gloss": "will accomplish"
   },
   {
    "surface": "என்று",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்று",
      "lemma": "என்",
-     "gloss": "to say/consider"
-    },
-    {
-     "text": "று",
-     "lemma": "று",
-     "gloss": "adverbial suffix"
+     "gloss": "thus / having thought"
     }
    ],
-   "gloss": "having considered (that)"
+   "gloss": "thus thinking"
   },
   {
    "surface": "ஆய்ந்து",
    "parts": [
     {
-     "text": "ஆய்",
+     "text": "ஆய்ந்து",
      "lemma": "ஆய்",
-     "gloss": "to examine"
-    },
-    {
-     "text": "ந்து",
-     "lemma": "ந்து",
-     "gloss": "past participle suffix"
+     "gloss": "having examined"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having thoroughly analyzed"
   },
   {
    "surface": "அதனை",
@@ -107,20 +92,20 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that"
+     "gloss": "that thing"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "empty morph"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "that (task)"
+   "gloss": "that task"
   },
   {
    "surface": "அவன்கண்",
@@ -128,37 +113,32 @@
     {
      "text": "அவன்",
      "lemma": "அவன்",
-     "gloss": "that man"
+     "gloss": "he"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix"
+     "gloss": "locative case marker / with"
     }
    ],
-   "gloss": "with him"
+   "gloss": "to him"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "to leave / entrust"
     }
    ],
-   "gloss": "entrust"
+   "gloss": "entrusting"
   }
  ],
- "literal": "'This task, by this means, this man will complete' - having considered and examined, that task with him leave.",
- "translation": "Having carefully analyzed and concluded that 'this man will complete this task by this means,' entrust that task to him.",
- "modern": "இந்தச் செயலை இந்தக் கருவியால் இவன் முடிப்பான் என்று ஆராய்ந்து அறிந்த பிறகு, அந்தச் செயலை அவனிடமே ஒப்படைக்க வேண்டும்.",
- "explanation": "This couplet explains the proper way to delegate a task. A leader must first carefully analyze three things: the nature of the task, the resources or methods required, and the capability of the person. Once it is determined that a specific person can successfully complete the task using the given means, the responsibility should be fully entrusted to them. The repetition of demonstrative pronouns emphasizes the precision required in matching the right person to the right job.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "This [task], by this [means], this person will accomplish, thus having analyzed, that [task] to him leaving.",
+ "translation": "After analyzing, 'This person can accomplish this task by these means,' then entrust that duty to him.",
+ "modern": "இந்தப் பணியை, இந்த வழியால், இவன் செய்து முடிப்பான் என்று ஆராய்ந்து பார்த்து, அந்தப் பணியை அவனிடம் ஒப்படைக்க வேண்டும்.",
+ "explanation": "This couplet outlines the fundamental principle of delegation and human resource management. A leader must first analyze the task itself and determine the exact means or resources required to complete it. Then, the leader must evaluate the capability of the specific individual to see if they can successfully execute it. Only after a thorough investigation of these three factors should the responsibility be fully entrusted to that person.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

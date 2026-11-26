@@ -6,10 +6,10 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "resource"
+     "gloss": "resources or wealth"
     }
    ],
-   "gloss": "resource"
+   "gloss": "resources or wealth"
   },
   {
    "surface": "கருவி",
@@ -17,10 +17,10 @@
     {
      "text": "கருவி",
      "lemma": "கருவி",
-     "gloss": "instrument"
+     "gloss": "instrument or tool"
     }
    ],
-   "gloss": "instrument"
+   "gloss": "instrument or tool"
   },
   {
    "surface": "காலம்",
@@ -28,10 +28,10 @@
     {
      "text": "காலம்",
      "lemma": "காலம்",
-     "gloss": "time"
+     "gloss": "time or season"
     }
    ],
-   "gloss": "time"
+   "gloss": "time or season"
   },
   {
    "surface": "வினை",
@@ -39,10 +39,10 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "action or deed"
     }
    ],
-   "gloss": "action"
+   "gloss": "action or deed"
   },
   {
    "surface": "இடனொடு",
@@ -55,10 +55,10 @@
     {
      "text": "ஒடு",
      "lemma": "ஒடு",
-     "gloss": "with"
+     "gloss": "with (sociative case suffix)"
     }
    ],
-   "gloss": "along with place"
+   "gloss": "along with the place"
   },
   {
    "surface": "ஐந்தும்",
@@ -71,7 +71,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "all"
+     "gloss": "all (inclusive particle)"
     }
    ],
    "gloss": "all five"
@@ -82,32 +82,32 @@
     {
      "text": "இருள்",
      "lemma": "இருள்",
-     "gloss": "darkness"
+     "gloss": "darkness or doubt"
     }
    ],
-   "gloss": "darkness (doubt)"
+   "gloss": "darkness or doubt"
   },
   {
    "surface": "தீர",
    "parts": [
     {
      "text": "தீர",
-     "lemma": "தீர்",
-     "gloss": "to clear"
+     "lemma": "தீரு",
+     "gloss": "to end or be cleared"
     }
    ],
-   "gloss": "to clear"
+   "gloss": "to be cleared away"
   },
   {
    "surface": "எண்ணி",
    "parts": [
     {
      "text": "எண்ணி",
-     "lemma": "எண்",
-     "gloss": "having considered"
+     "lemma": "எண்ணு",
+     "gloss": "having thought or analyzed"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having analyzed"
   },
   {
    "surface": "செயல்",
@@ -115,16 +115,16 @@
     {
      "text": "செயல்",
      "lemma": "செய்",
-     "gloss": "act"
+     "gloss": "to do or perform"
     }
    ],
-   "gloss": "act"
+   "gloss": "one should act"
   }
  ],
- "literal": "Resource, instrument, time, action, along with place, all five, for darkness to clear, having considered, act.",
- "translation": "Consider thoroughly these five factors—resources, instruments, time, the action itself, and the place—until all doubts are cleared, and then act.",
- "modern": "பொருள், கருவி, காலம், செய்யும் செயல், இடம் ஆகிய ஐந்தையும் எவ்வித மயக்கமும் தீரும்படி நன்கு ஆராய்ந்து ஒரு செயலைச் செய்ய வேண்டும்.",
- "explanation": "This couplet outlines the five essential factors to evaluate before undertaking any task. The five factors are the resources required ('பொருள்'), the tools or means ('கருவி'), the appropriate time ('காலம்'), the nature of the action itself ('வினை'), and the suitable location ('இடன்'). The phrase 'இருள் தீர' literally means 'for darkness to clear', which in this context metaphorically refers to dispelling all doubts, ignorance, or confusion. By thoroughly considering all five elements until absolute clarity is reached ('எண்ணி'), one ensures the successful execution of the deed ('செயல்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Resources, instrument, time, action, along with place—all five, darkness being cleared, having analyzed, to act.",
+ "translation": "Analyze these five factors thoroughly until all doubts are cleared before embarking on an action: the required resources, the proper instruments, the right time, the nature of the action, and the suitable place.",
+ "modern": "தேவையான பொருள், தகுந்த கருவி, ஏற்ற காலம், செய்ய வேண்டிய செயல், அதற்குரிய இடம் ஆகிய ஐந்தையும் ஐயமற ஆராய்ந்து ஒரு செயலைச் செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the five essential prerequisites for executing any task successfully. The five factors are the necessary resources (poruḷ), the appropriate tools or instruments (karuvi), the right timing (kālam), the nature of the deed itself (viṉai), and the proper location (iṭam). The phrase 'iruḷ tīra' (darkness being cleared) metaphorically refers to dispelling all doubts and ignorance. The poet advises that one must analyze all five elements with absolute clarity before initiating any action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

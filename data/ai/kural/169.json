@@ -15,9 +15,14 @@
    "surface": "நெஞ்சத்தான்",
    "parts": [
     {
-     "text": "நெஞ்சத்து",
-     "lemma": "நெஞ்சம்",
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
      "gloss": "heart"
+    },
+    {
+     "text": "அத்து",
+     "lemma": "அத்து",
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆன்",
@@ -25,7 +30,7 @@
      "gloss": "he who has"
     }
    ],
-   "gloss": "he of the heart"
+   "gloss": "he who has an envious heart"
   },
   {
    "surface": "ஆக்கமும்",
@@ -57,7 +62,7 @@
      "gloss": "he who has"
     }
    ],
-   "gloss": "of the upright man"
+   "gloss": "he who is upright"
   },
   {
    "surface": "கேடும்",
@@ -79,29 +84,39 @@
    "surface": "நினைக்க",
    "parts": [
     {
-     "text": "நினைக்க",
+     "text": "நினை",
      "lemma": "நினை",
-     "gloss": "to ponder"
+     "gloss": "think"
+    },
+    {
+     "text": "க்க",
+     "lemma": "க்க",
+     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to ponder"
+   "gloss": "to be pondered"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படும்",
+     "text": "படு",
      "lemma": "படு",
-     "gloss": "will be"
+     "gloss": "passive auxiliary"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual suffix"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "Envious heart-he-of prosperity-and, upright-man-of ruin-and, to-ponder will-be.",
- "translation": "The prosperity of a man with an envious heart, and the ruin of an upright man, are things to be deeply pondered.",
- "modern": "பொறாமை கொண்ட மனம் உடையவனின் செல்வமும், நேர்மையான மனம் உடையவனின் வறுமையும் சான்றோரால் ஆராய்ந்து பார்க்கப்படும்.",
- "explanation": "This couplet contrasts two unexpected situations: an envious person gaining wealth ('ஆக்கம்') and a righteous person facing ruin ('கேடு'). The word 'அவ்விய' means crooked or envious, fitting the chapter's theme of not envying, while 'செவ்வியான்' denotes someone who is straight and upright. The phrase 'நினைக்கப் படும்' indicates that these outcomes will be deeply pondered, as they seem to contradict the natural order of justice. The text implies that such unnatural states are anomalies that provoke thought about their true causes and ultimate consequences.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The prosperity of the envious-hearted person and the ruin of the upright person will be pondered.",
+ "translation": "The prosperity of an envious-hearted person and the adversity of an upright person are matters to be deeply pondered.",
+ "modern": "பொறாமை குணம் கொண்டவனுடைய செல்வமும், நேர்மையானவனுடைய வறுமையும் (மக்களால் வியப்புடன்) ஆராய்ந்து நினைக்கப்படும்.",
+ "explanation": "This couplet addresses a common paradox in human life: the prosperity of the wicked and the suffering of the righteous. The poet states that the wealth of an envious person (அவ்விய நெஞ்சத்தான் ஆக்கம்) and the ruin of an upright person (செவ்வியான் கேடு) are anomalies that will be deeply pondered and analyzed by the world. Here, 'அவ்வியம்' refers to envy or crookedness of the mind, while 'செவ்வி' refers to rectitude or equity. By stating that these situations are 'to be pondered' (நினைக்கப்படும்), the poet implies that such unnatural states of fortune are temporary, unnatural, and bound to be resolved by the laws of nature.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

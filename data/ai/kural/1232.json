@@ -5,40 +5,40 @@
    "parts": [
     {
      "text": "நயந்தவர்",
-     "lemma": "நய",
-     "gloss": "he who loved"
+     "lemma": "நயந்தவர்",
+     "gloss": "the beloved one"
     }
    ],
-   "gloss": "he who loved"
+   "gloss": "the beloved one"
   },
   {
    "surface": "நல்காமை",
    "parts": [
     {
      "text": "நல்காமை",
-     "lemma": "நல்கு",
-     "gloss": "not granting"
+     "lemma": "நல்காமை",
+     "gloss": "lack of love"
     }
    ],
-   "gloss": "not granting"
+   "gloss": "lack of love"
   },
   {
    "surface": "சொல்லுவ",
    "parts": [
     {
      "text": "சொல்லுவ",
-     "lemma": "சொல்",
-     "gloss": "things that say"
+     "lemma": "சொல்லுவ",
+     "gloss": "they speak"
     }
    ],
-   "gloss": "things that say"
+   "gloss": "they speak"
   },
   {
    "surface": "போலும்",
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போல்",
+     "lemma": "போலும்",
      "gloss": "it seems"
     }
    ],
@@ -49,11 +49,11 @@
    "parts": [
     {
      "text": "பசந்து",
-     "lemma": "பச",
-     "gloss": "having paled"
+     "lemma": "பசத்தல்",
+     "gloss": "having turned pale"
     }
    ],
-   "gloss": "having paled"
+   "gloss": "having turned pale"
   },
   {
    "surface": "பனி",
@@ -71,11 +71,11 @@
    "parts": [
     {
      "text": "வாரும்",
-     "lemma": "வார்",
-     "gloss": "flowing"
+     "lemma": "வார்தல்",
+     "gloss": "shedding"
     }
    ],
-   "gloss": "flowing"
+   "gloss": "shedding"
   },
   {
    "surface": "கண்",
@@ -89,10 +89,10 @@
    "gloss": "eyes"
   }
  ],
- "literal": "He who loved / not granting / things that say / it seems / having paled / tears / flowing / eyes",
- "translation": "My eyes, turning pale and brimming with tears, seem to proclaim the unkindness of my lover.",
- "modern": "பசலை நிறம் கொண்டு கண்ணீர் வடிக்கின்ற என் கண்கள், என் காதலர் எனக்கு அன்பு காட்டாததை உலகத்தார்க்குச் சொல்வன போல இருக்கின்றன.",
- "explanation": "The speaker observes the physical toll that separation has taken on her eyes. They have lost their natural beauty, turning pale (பசந்து), and are constantly shedding tears (பனி வாரும்). She feels that these visible signs of sorrow act as a public declaration. They seem to announce to everyone the unkindness (நல்காமை) of her lover (நயந்தவர்), who has left her to suffer without his comforting presence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The beloved one's lack of love, they speak, it seems, having turned pale and shedding tears, the eyes.",
+ "translation": "My eyes, turning pale and shedding tears, seem to proclaim the lack of love of my beloved.",
+ "modern": "என்னை விரும்பிய காதலரின் அன்பில்லாத தன்மையை, பசலை நிறமடைந்து கண்ணீர் வடிக்கும் என் கண்கள் பிறருக்குச் சொல்வது போலத் தோன்றுகின்றன.",
+ "explanation": "In this couplet, the heroine laments her physical deterioration due to separation. Her eyes have turned pale and are constantly shedding tears. She poetically imagines that her weeping eyes are not merely expressing her grief, but are actively announcing to the world that her beloved has failed to show grace and love by staying away. The word 'pōlum' emphasizes this comparison, showing how her silent suffering is made public by her eyes.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

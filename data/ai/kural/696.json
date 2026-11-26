@@ -6,10 +6,10 @@
     {
      "text": "குறிப்பு",
      "lemma": "குறிப்பு",
-     "gloss": "mood"
+     "gloss": "intention"
     }
    ],
-   "gloss": "mood"
+   "gloss": "intention"
   },
   {
    "surface": "அறிந்து",
@@ -37,14 +37,9 @@
    "surface": "கருதி",
    "parts": [
     {
-     "text": "கருது",
+     "text": "கருதி",
      "lemma": "கருது",
-     "gloss": "to consider"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "having considered"
     }
    ],
    "gloss": "having considered"
@@ -64,33 +59,23 @@
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "not having"
     }
    ],
-   "gloss": "things without"
+   "gloss": "not having"
   },
   {
    "surface": "வேண்டுப",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டுப",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "neuter plural suffix"
+     "gloss": "things that are desired"
     }
    ],
-   "gloss": "desirable things"
+   "gloss": "things that are desired"
   },
   {
    "surface": "வேட்ப",
@@ -98,32 +83,27 @@
     {
      "text": "வேட்ப",
      "lemma": "வேள்",
-     "gloss": "pleasingly"
+     "gloss": "to please"
     }
    ],
-   "gloss": "pleasingly"
+   "gloss": "to please"
   },
   {
    "surface": "சொலல்",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொலல்",
      "lemma": "சொல்",
-     "gloss": "to speak"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "speaking"
     }
    ],
-   "gloss": "to speak"
+   "gloss": "speaking"
   }
  ],
- "literal": "mood having-known time having-considered dislike without desirable-things pleasingly to-speak.",
- "translation": "Understanding the mood and considering the right time, one should speak desirable things that cause no offense, in a pleasing manner.",
- "modern": "அரசரின் மனக்குறிப்பை அறிந்து, ஏற்ற காலத்தையும் கருதி, வெறுப்பு தராத தேவையான காரியங்களை அவர் விரும்பும் வகையில் சொல்ல வேண்டும்.",
- "explanation": "This couplet advises on how to speak to a ruler or a person in power. First, one must gauge their current mood ('குறிப்பு') and choose the appropriate time ('காலம்'). Then, the words spoken should be useful and desirable ('வேண்டுப'), free from anything that might cause offense ('வெறுப்பு இல'), and delivered in a way that pleases the listener ('வேட்ப'). The word 'வேட்ப' emphasizes that even necessary advice must be presented attractively.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Knowing the intention, considering the time, speaking things that are desired, which are free from dislike, in a manner that pleases.",
+ "translation": "Understanding the ruler's mind and choosing the right moment, one should speak what is necessary in an agreeable manner, avoiding anything that causes dislike.",
+ "modern": "அரசனின் குறிப்பை அறிந்து, ஏற்ற காலத்தை ஆராய்ந்து, அவனுக்கு வெறுப்பு தராதவற்றை, அவன் விரும்பும் வண்ணம் அவன் விரும்பும் காரியங்களைச் சொல்ல வேண்டும்.",
+ "explanation": "This couplet outlines the art of communicating with a ruler or superior. First, the speaker must read the ruler's unspoken thoughts or mood (kuṟippu). Second, they must wait for the opportune moment (kālam). Third, the message must be delivered without causing any annoyance or dislike (veṟuppila). Finally, the speaker should present the necessary matters (vēṇṭupa) in a pleasing, acceptable manner (vēṭpa).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

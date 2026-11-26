@@ -28,7 +28,7 @@
     {
      "text": "காக்கும்",
      "lemma": "கா",
-     "gloss": "which protects"
+     "gloss": "protecting"
     }
    ],
    "gloss": "protecting"
@@ -48,14 +48,9 @@
    "surface": "செறுவார்க்கும்",
    "parts": [
     {
-     "text": "செறுவார்",
+     "text": "செறுவார்க்கு",
      "lemma": "செறுவார்",
-     "gloss": "enemies"
-    },
-    {
-     "text": "க்கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to enemies"
     },
     {
      "text": "உம்",
@@ -110,10 +105,10 @@
    "gloss": "fortress"
   }
  ],
- "literal": "Wisdom ruin protecting tool, to enemies even inside destroying impossible fortress.",
- "translation": "Wisdom is a tool that protects against ruin; it is an inner fortress that even enemies cannot destroy.",
- "modern": "அறிவு என்பது ஒருவருக்கு அழிவு வராமல் காக்கும் கருவியாகும். மேலும் அது பகைவர்களாலும் அழிக்க முடியாத உள்ளரண் ஆகும்.",
- "explanation": "This couplet defines the dual protective nature of wisdom. The word 'aṟivu' (wisdom) is first described as an active tool ('karuvi') that wards off ruin or vulnerability ('aṟṟam'). Second, it is compared to a fortress ('araṇ') built within ('uḷ'). This inner defense is so strong that even determined enemies ('ceṟuvār') find it impossible to breach and destroy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Wisdom is a tool protecting from ruin, and an inner fortress impossible to destroy even for enemies.",
+ "translation": "Wisdom is an armor that wards off ruin; it is an inner fortress that even enemies cannot destroy.",
+ "modern": "அறிவு என்பது அழிவு வராமல் காக்கும் கருவியாகும்; அது பகைவர்களாலும் உள்ளே புகுந்து அழிக்க முடியாத ஒரு கோட்டையாகும்.",
+ "explanation": "This couplet defines wisdom using two powerful metaphors: an active tool and a passive defense. First, wisdom acts as a tool (கருவி) that prevents ruin (அற்றம்) before it can strike. Second, it functions as an inner fortress (அரண்) built within the mind. While physical fortresses can be breached by hostile forces, this mental fortress is so secure that even the most determined enemies (செறுவார்) cannot penetrate or destroy it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

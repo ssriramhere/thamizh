@@ -6,7 +6,7 @@
     {
      "text": "விடு",
      "lemma": "விடு",
-     "gloss": "sent"
+     "gloss": "send"
     }
    ],
    "gloss": "sent"
@@ -17,7 +17,7 @@
     {
      "text": "மாற்றம்",
      "lemma": "மாற்றம்",
-     "gloss": "message"
+     "gloss": "word/message"
     }
    ],
    "gloss": "message"
@@ -27,16 +27,11 @@
    "parts": [
     {
      "text": "வேந்தர்",
-     "lemma": "வேந்தன்",
+     "lemma": "வேந்தர்",
      "gloss": "kings"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -52,22 +47,12 @@
      "gloss": "speak"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future]"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "text": "ப்பான்",
+     "lemma": "பான்",
+     "gloss": "he who does"
     }
    ],
-   "gloss": "he who speaks"
+   "gloss": "he who delivers/speaks"
   },
   {
    "surface": "வடு",
@@ -75,10 +60,10 @@
     {
      "text": "வடு",
      "lemma": "வடு",
-     "gloss": "flaw"
+     "gloss": "blemish/fault"
     }
    ],
-   "gloss": "flaw"
+   "gloss": "blemish/fault"
   },
   {
    "surface": "மாற்றம்",
@@ -86,10 +71,10 @@
     {
      "text": "மாற்றம்",
      "lemma": "மாற்றம்",
-     "gloss": "word"
+     "gloss": "word/speech"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   },
   {
    "surface": "வாய்",
@@ -108,7 +93,7 @@
     {
      "text": "சேர்",
      "lemma": "சேர்",
-     "gloss": "join"
+     "gloss": "join/reach"
     },
     {
      "text": "ஆ",
@@ -116,7 +101,7 @@
      "gloss": "not"
     }
    ],
-   "gloss": "not joining"
+   "gloss": "not reaching/not uttering"
   },
   {
    "surface": "வன்கணவன்",
@@ -124,21 +109,21 @@
     {
      "text": "வன்கண்",
      "lemma": "வன்கண்",
-     "gloss": "courage"
+     "gloss": "courage/firmness"
     },
     {
      "text": "அவன்",
      "lemma": "அவன்",
-     "gloss": "he"
+     "gloss": "he who has"
     }
    ],
-   "gloss": "courageous man"
+   "gloss": "a man of steadfast courage"
   }
  ],
- "literal": "Sent message to kings he who speaks, flaw word mouth not-joining courageous-man.",
- "translation": "The envoy who delivers a dispatched message to foreign kings is a courageous man whose mouth never utters a flawed word.",
- "modern": "அனுப்பப்பட்ட செய்தியை வேற்று அரசர்களிடம் சொல்பவன், தன் வாயில் குற்றமான சொற்கள் சேராதபடி பேசும் தைரியம் கொண்டவன் ஆவான்.",
- "explanation": "This couplet defines the essential courage and discipline of an envoy. The phrase 'viṭumāṟṟam' refers to the message dispatched by his own king, which he must deliver to foreign or enemy kings. To do this without fear requires a 'vaṉkaṇavaṉ', a man of immense courage. Furthermore, his bravery is matched by his flawless speech, as his mouth never lets slip a flawed or disgraceful word.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The sent message to kings he who delivers, blemish-causing words mouth not reaching, a courageous man.",
+ "translation": "He who delivers a sent message to other kings must be a man of steadfast courage, whose mouth never utters words that bring blemish or ruin.",
+ "modern": "அனுப்பப்பட்ட செய்தியை மாற்றரசர்களுக்குச் சொல்பவன், தன் வாயிலிருந்து குற்றம் தரும் சொற்கள் வெளிவராதவாறு காக்கும் அஞ்சாத நெஞ்சமுடையவன் ஆவான்.",
+ "explanation": "This couplet defines the essential quality of an envoy when delivering a message to foreign rulers. The envoy must be a person of steadfast courage, referred to as 'vaṉkaṇavaṉ', who does not falter under pressure or threat. Crucially, even in difficult situations, his mouth must never slip to utter 'vaṭumāṟṟam'—faulty, weak, or damaging words that could bring disgrace to his own king. The word 'māṟṟam' is used beautifully in two senses: 'viṭumāṟṟam' refers to the official message sent, while 'vaṭumāṟṟam' refers to flawed words of blame.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

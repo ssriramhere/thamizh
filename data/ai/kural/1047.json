@@ -15,17 +15,12 @@
    "surface": "சாரா",
    "parts": [
     {
-     "text": "சார்",
+     "text": "சாரா",
      "lemma": "சார்",
-     "gloss": "to associate"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not associating with"
     }
    ],
-   "gloss": "unassociated with"
+   "gloss": "not aligned with"
   },
   {
    "surface": "நல்குரவு",
@@ -42,22 +37,12 @@
    "surface": "ஈன்ற",
    "parts": [
     {
-     "text": "ஈன்",
+     "text": "ஈன்ற",
      "lemma": "ஈன்",
-     "gloss": "to bear"
-    },
-    {
-     "text": "ற்",
-     "lemma": "ற்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "who gave birth to"
     }
    ],
-   "gloss": "who bore"
+   "gloss": "who gave birth to"
   },
   {
    "surface": "தாய்",
@@ -75,8 +60,8 @@
    "parts": [
     {
      "text": "ஆனும்",
-     "lemma": "ஆனும்",
-     "gloss": "even if"
+     "lemma": "ஆகு",
+     "gloss": "even if she is"
     }
    ],
    "gloss": "even"
@@ -96,14 +81,9 @@
    "surface": "போல",
    "parts": [
     {
-     "text": "போல்",
+     "text": "போல",
      "lemma": "போல்",
-     "gloss": "to resemble"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "like"
     }
    ],
    "gloss": "like"
@@ -112,19 +92,14 @@
    "surface": "நோக்கப்",
    "parts": [
     {
-     "text": "நோக்கு",
+     "text": "நோக்க",
      "lemma": "நோக்கு",
-     "gloss": "to look"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to look at"
     },
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "sandhi consonant"
+     "gloss": "increment"
     }
    ],
    "gloss": "to be looked at"
@@ -133,23 +108,18 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to experience/passive marker"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "gloss": "will be"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "Virtue unassociated poverty, who-bore mother even, stranger like will-be-looked-at.",
- "translation": "If a person suffers from poverty that is devoid of virtue, even the mother who bore him will look upon him as a stranger.",
- "modern": "அறத்தோடு பொருந்தாத வறுமை ஒருவனை வாட்டினால், அவனைப் பெற்ற தாயும் அவனை ஒரு முன்பின் தெரியாத அயலானைப் போலவே பார்ப்பாள்.",
- "explanation": "This couplet highlights the extreme social alienation caused by severe, unvirtuous poverty. The phrase 'அறம் சாரா நல்குரவு' refers to a state of destitution that lacks any redeeming moral grace or prevents one from doing good. When a person falls into such a wretched state, the closest of all human bonds is broken. Even the mother who gave birth to him will distance herself and treat him like a complete stranger.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Virtue-not-associating poverty, the mother who bore [him] even, like a stranger, to be looked at will happen.",
+ "translation": "Even the mother who gave birth to him will look upon a man as a stranger, if he is afflicted by poverty that is devoid of virtue.",
+ "modern": "அறநெறியோடு பொருந்தாத வறுமை உடையவனை, அவனைப் பெற்ற தாயும் கூட ஒரு அந்நியனைப் போலத் தான் பார்ப்பாள்.",
+ "explanation": "This couplet illustrates the devastating social impact of poverty. The poet states that when a person is trapped in a miserable poverty that lacks any virtuous support or dignity, even their own mother will look at them coldly, as if they were a stranger. The term 'அறஞ்சாரா' (not aligned with virtue) suggests a state of destitution so severe that it strips away moral standing and social respect. By using the mother—the ultimate symbol of unconditional love—as the one who turns away, the verse emphasizes how poverty destroys even the strongest human bonds.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -22,38 +22,38 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "what"
+     "gloss": "what use"
     }
    ],
-   "gloss": "what (use)"
+   "gloss": "what use is there"
   },
   {
    "surface": "வன்கண்ணர்",
    "parts": [
     {
      "text": "வன்கண்",
-     "lemma": "வன்கண்",
+     "lemma": "வன்கண்மை",
      "gloss": "bravery"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they (suffix)"
+     "gloss": "they who have"
     }
    ],
-   "gloss": "brave people"
+   "gloss": "those who possess bravery"
   },
   {
    "surface": "அல்லார்க்கு",
    "parts": [
     {
      "text": "அல்லார்",
-     "lemma": "அல்",
+     "lemma": "அல்லார்",
      "gloss": "those who are not"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
+     "text": "க்கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
@@ -65,7 +65,7 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "book / learning"
+     "gloss": "book of learning"
     },
     {
      "text": "ஒடு",
@@ -73,7 +73,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with learning"
+   "gloss": "with books of learning"
   },
   {
    "surface": "என்",
@@ -81,10 +81,10 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "what"
+     "gloss": "what use"
     }
    ],
-   "gloss": "what (use)"
+   "gloss": "what use is there"
   },
   {
    "surface": "நுண்",
@@ -92,7 +92,7 @@
     {
      "text": "நுண்",
      "lemma": "நுண்மை",
-     "gloss": "subtle / sharp"
+     "gloss": "subtle"
     }
    ],
    "gloss": "subtle"
@@ -113,22 +113,22 @@
    "parts": [
     {
      "text": "அஞ்சுபவர்",
-     "lemma": "அஞ்சு",
+     "lemma": "அஞ்சுபவர்",
      "gloss": "those who fear"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
+     "text": "க்கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
    "gloss": "to those who fear"
   }
  ],
- "literal": "With a sword, what, to those who are not brave? With a book, what, to those who fear a subtle assembly?",
- "translation": "What use is a sword to those who lack courage? What use is learning to those who fear an assembly of subtle minds?",
- "modern": "வீரம் இல்லாதவர்களுக்கு வாளால் என்ன பயன்? அதுபோலவே, கூர்மையான அறிவுடையோர் நிறைந்த அவையைக் கண்டு அஞ்சுபவர்களுக்கு அவர்கள் கற்ற நூல்களால் என்ன பயன்?",
- "explanation": "This couplet uses a striking analogy to emphasize the importance of confidence in public speaking. It compares a coward holding a sword to a timid scholar facing an assembly. Just as a weapon is useless to someone without bravery (வன்கண்), extensive learning (நூல்) is of no value to someone who is afraid to speak before an assembly of sharp, subtle thinkers (நுண் அவை). The repeated question 'என்' (what use) highlights that tools and knowledge require inner strength to be effective.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With a sword, what use is there to those who are not brave? With books of learning, what use is there to those who fear the subtle assembly?",
+ "translation": "What is the use of a sword to those who lack courage? Likewise, what is the use of learned treatises to those who fear to speak before an assembly of refined minds?",
+ "modern": "துணிவில்லாதவர்களுக்குக் கையில் இருக்கும் வாளினால் என்ன பயன்? அதுபோல, நுட்பமான அறிவை உடையவர்களின் அவையைக் கண்டு அஞ்சுபவர்களுக்கு அவர்கள் கற்ற நூல்களினால் என்ன பயன்?",
+ "explanation": "This couplet uses a vivid analogy to highlight the futility of learning without the courage to present it. Just as a sword is completely useless in the hands of a coward who lacks the bravery to fight, learned books and treatises are of no value to someone who trembles with fear before an assembly of refined, intelligent people. The word 'vaṉkaṇṇar' refers to those with courage or strength of mind, and 'nuṇ avai' refers to an assembly of subtle, sharp intellects. The poet emphasizes that courage is essential to make one's education meaningful and impactful in public life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

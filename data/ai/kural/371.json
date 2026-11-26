@@ -6,10 +6,10 @@
     {
      "text": "ஆகு",
      "lemma": "ஆகு",
-     "gloss": "prospering"
+     "gloss": "to accrue / to become"
     }
    ],
-   "gloss": "prospering"
+   "gloss": "accruing"
   },
   {
    "surface": "ஊழால்",
@@ -17,12 +17,12 @@
     {
      "text": "ஊழ்",
      "lemma": "ஊழ்",
-     "gloss": "fate"
+     "gloss": "fate / destiny"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
    "gloss": "by fate"
@@ -33,10 +33,10 @@
     {
      "text": "தோன்றும்",
      "lemma": "தோன்று",
-     "gloss": "appears"
+     "gloss": "will arise / will appear"
     }
    ],
-   "gloss": "appears"
+   "gloss": "will arise"
   },
   {
    "surface": "அசைவு",
@@ -44,10 +44,10 @@
     {
      "text": "அசைவு",
      "lemma": "அசைவு",
-     "gloss": "sluggishness"
+     "gloss": "sloth / weariness"
     }
    ],
-   "gloss": "sluggishness"
+   "gloss": "sloth"
   },
   {
    "surface": "இன்மை",
@@ -55,7 +55,7 @@
     {
      "text": "இன்மை",
      "lemma": "இன்மை",
-     "gloss": "absence"
+     "gloss": "absence / lack"
     }
    ],
    "gloss": "absence"
@@ -71,10 +71,10 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "wealth"
+     "gloss": "wealth / substance"
     }
    ],
-   "gloss": "accumulated wealth"
+   "gloss": "wealth in hand"
   },
   {
    "surface": "போகு",
@@ -82,10 +82,10 @@
     {
      "text": "போகு",
      "lemma": "போகு",
-     "gloss": "going"
+     "gloss": "to depart / to be lost"
     }
    ],
-   "gloss": "losing"
+   "gloss": "departing"
   },
   {
    "surface": "ஊழால்",
@@ -93,12 +93,12 @@
     {
      "text": "ஊழ்",
      "lemma": "ஊழ்",
-     "gloss": "fate"
+     "gloss": "fate / destiny"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
    "gloss": "by fate"
@@ -109,10 +109,10 @@
     {
      "text": "தோன்றும்",
      "lemma": "தோன்று",
-     "gloss": "appears"
+     "gloss": "will arise / will appear"
     }
    ],
-   "gloss": "appears"
+   "gloss": "will arise"
   },
   {
    "surface": "மடி",
@@ -120,16 +120,16 @@
     {
      "text": "மடி",
      "lemma": "மடி",
-     "gloss": "laziness"
+     "gloss": "laziness / sloth"
     }
    ],
    "gloss": "laziness"
   }
  ],
- "literal": "Prospering fate-by appears sluggishness-absence; hand-wealth going fate-by appears laziness.",
- "translation": "Through the fate that brings prosperity, tireless effort arises. Through the fate that takes away accumulated wealth, laziness arises.",
- "modern": "செல்வம் பெருகுவதற்கான ஊழ் இருக்கும்போது தளராத முயற்சி உண்டாகும். கையில் உள்ள செல்வம் அழிவதற்கான ஊழ் இருக்கும்போது சோம்பல் உண்டாகும்.",
- "explanation": "This couplet explains how destiny operates by influencing a person's mindset and actions. The phrase 'ஆகு ஊழ்' refers to a fate of prospering, which naturally brings about 'அசைவின்மை' (the absence of sluggishness, or tireless effort). Conversely, when the fate of losing ('போகு ஊழ்') one's accumulated wealth ('கைப்பொருள்') is active, 'மடி' (laziness) takes over. Thus, destiny shapes outcomes by instilling either industriousness or sloth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By the fate of accruing (wealth), there arises the absence of sloth; by the fate of wealth in hand departing, there arises laziness.",
+ "translation": "Through the destiny of prosperity, untiring effort arises; through the destiny of losing one's wealth, laziness takes hold.",
+ "modern": "செல்வம் சேர்வதற்குக் காரணமான விதியினால் சோர்வில்லாத முயற்சி உண்டாகும்; கையில் உள்ள பொருள் அழிவதற்குக் காரணமான விதியினால் சோம்பல் உண்டாகும்.",
+ "explanation": "This couplet explains how destiny (ஊழ்) shapes a person's mental attitude and drive. When it is one's destiny to prosper (ஆகூழ்), an innate sense of untiring effort and perseverance (அசைவின்மை) arises, driving them to work hard. Conversely, when destiny decrees the loss of one's wealth (போகூழ்), laziness and apathy (மடி) naturally creep in, causing them to neglect their work. Thus, the author suggests that even our industriousness or laziness is directed by the unseen force of destiny.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

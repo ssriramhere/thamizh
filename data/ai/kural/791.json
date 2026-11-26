@@ -6,31 +6,31 @@
     {
      "text": "நாடு",
      "lemma": "நாடு",
-     "gloss": "to investigate"
+     "gloss": "examine"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative participle suffix)"
     }
    ],
-   "gloss": "without investigating"
+   "gloss": "without examining"
   },
   {
    "surface": "நட்டலின்",
    "parts": [
     {
      "text": "நட்டல்",
-     "lemma": "நள்",
-     "gloss": "befriending"
+     "lemma": "நட்டல்",
+     "gloss": "making friendship"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative suffix)"
     }
    ],
-   "gloss": "than befriending"
+   "gloss": "than making friendship"
   },
   {
    "surface": "கேடு",
@@ -48,22 +48,22 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is none"
     }
    ],
-   "gloss": "there is not"
+   "gloss": "there is none"
   },
   {
    "surface": "நட்ட",
    "parts": [
     {
      "text": "நட்ட",
-     "lemma": "நள்",
-     "gloss": "befriended"
+     "lemma": "நடு",
+     "gloss": "having established friendship"
     }
    ],
-   "gloss": "having befriended"
+   "gloss": "having established friendship"
   },
   {
    "surface": "பின்",
@@ -82,21 +82,21 @@
     {
      "text": "வீடு",
      "lemma": "வீடு",
-     "gloss": "release"
+     "gloss": "abandonment"
     }
    ],
-   "gloss": "release"
+   "gloss": "abandonment"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is none"
     }
    ],
-   "gloss": "there is not"
+   "gloss": "there is none"
   },
   {
    "surface": "நட்பு",
@@ -113,23 +113,28 @@
    "surface": "ஆள்பவர்க்கு",
    "parts": [
     {
-     "text": "ஆள்பவர்",
+     "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "those who practice"
+     "gloss": "cherish"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "they who do"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to (dative suffix)"
     }
    ],
-   "gloss": "to those who practice"
+   "gloss": "to those who cherish"
   }
  ],
- "literal": "Without investigating, than befriending, ruin there is not; befriended after, release there is not, to those who practice friendship.",
- "translation": "There is no greater ruin than making a friend without investigation, for once friendship is made, there is no letting go for those who maintain it.",
- "modern": "ஒருவரைப் பற்றி ஆராயாமல் நட்பு கொள்வதை விடப் பெரிய கேடு வேறு இல்லை. ஏனென்றால், நட்பு கொண்ட பிறகு சிறந்த நட்பைக் காப்பவர்களுக்கு அதிலிருந்து விடுதலை இல்லை.",
- "explanation": "This couplet warns against rushing into friendships without careful thought. The word 'nāṭātu' means failing to investigate a person's character. 'Naṭṭalin' uses the comparative suffix to show that nothing is worse than such hasty befriending. The reason is given in the second line: for those who truly practice friendship ('naṭpu āḷpavarkku'), there is no 'vīṭu' once the bond is formed. Here, 'vīṭu' means release or abandonment, not its common meaning of a house. Therefore, being stuck with a bad friend brings inevitable ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without examining, than making friendship, ruin there is none; having established friendship after, abandonment there is none, to those who cherish friendship.",
+ "translation": "There is no greater ruin than contracting a friendship without prior examination; for once a bond is formed, those who truly cherish friendship cannot abandon it.",
+ "modern": "ஆராயாமல் நட்புக்கொள்வதை விடப் பெரிய கேடு வேறு இல்லை; நட்புக்கொண்ட பிறகு, நட்பைப் பேணிக் காப்பவர்களுக்கு அதைக் கைவிடுதல் என்பது இல்லை.",
+ "explanation": "This couplet highlights the danger of entering into friendships hastily. The word 'nāṭātu' means acting without careful examination or inquiry. The poet warns that there is no worse ruin than making a friend without testing their character first, because for those who truly value and practice friendship ('naṭpu āḷpavarkku'), abandoning a friend ('vīṭu') later is simply not an option. Therefore, the choice must be made with utmost care before the bond is sealed.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

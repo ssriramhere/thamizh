@@ -6,15 +6,20 @@
     {
      "text": "அருள்",
      "lemma": "அருள்",
-     "gloss": "compassion"
+     "gloss": "grace"
     },
     {
-     "text": "ஒடும்",
+     "text": "ஒடு",
      "lemma": "ஒடு",
-     "gloss": "and with"
+     "gloss": "with"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
     }
    ],
-   "gloss": "with compassion"
+   "gloss": "and with grace"
   },
   {
    "surface": "அன்பொடும்",
@@ -25,9 +30,14 @@
      "gloss": "love"
     },
     {
-     "text": "ஒடும்",
+     "text": "ஒடு",
      "lemma": "ஒடு",
-     "gloss": "and with"
+     "gloss": "with"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
     }
    ],
    "gloss": "and with love"
@@ -37,8 +47,8 @@
    "parts": [
     {
      "text": "வாரா",
-     "lemma": "வா",
-     "gloss": "that does not come"
+     "lemma": "வருதல்",
+     "gloss": "not coming"
     }
    ],
    "gloss": "that does not come"
@@ -70,29 +80,24 @@
    "parts": [
     {
      "text": "புல்",
-     "lemma": "புல்",
+     "lemma": "புல்லுதல்",
      "gloss": "embrace"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "without doing"
+     "gloss": "not"
     }
    ],
-   "gloss": "without embracing"
+   "gloss": "do not embrace"
   },
   {
    "surface": "புரள",
    "parts": [
     {
-     "text": "புரள்",
-     "lemma": "புரள்",
-     "gloss": "roll"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "புரள",
+     "lemma": "புரளுதல்",
+     "gloss": "to roll away"
     }
    ],
    "gloss": "to roll away"
@@ -101,23 +106,18 @@
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
-     "lemma": "விடு",
-     "gloss": "let go"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "imperative suffix"
+     "text": "விடல்",
+     "lemma": "விடுதல்",
+     "gloss": "leave"
     }
    ],
-   "gloss": "let go"
+   "gloss": "leave it"
   }
  ],
- "literal": "With compassion and with love that-does-not-come wealth accumulation, without-embracing, to roll-away let-go.",
- "translation": "Do not embrace the accumulation of wealth that does not come with compassion and love; let it slip away.",
- "modern": "அருளும் அன்பும் இல்லாமல் சேரும் செல்வத்தை ஏற்றுக்கொள்ளாமல், அது தன்னை விட்டுப் போகும்படி விட்டுவிட வேண்டும்.",
- "explanation": "The couplet advises against acquiring wealth through ruthless or unethical means. 'Arul' (compassion) and 'anbu' (love) are the necessary companions of righteous wealth. If wealth is accumulated without these qualities, the text instructs the seeker not to embrace it ('pullar'), but rather to let it roll away ('purala vidal'). True prosperity must align with human kindness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With grace and with love, that does not come, wealth's accumulation, do not embrace, let it roll away.",
+ "translation": "Do not accept the accumulation of wealth that does not come with grace and love; cast it away and let it perish.",
+ "modern": "அருளோடும் அன்போடும் வராத செல்வத்தின் சேர்க்கையை ஏற்றுக்கொள்ளாமல், அது அழிந்துபோகுமாறு விட்டுவிட வேண்டும்.",
+ "explanation": "This couplet highlights the ethical boundaries of acquiring wealth. It states that any prosperity or accumulation of wealth (ஆக்கம்) that is not earned through compassionate means (அருள்) and loving ways (அன்பு) must be rejected. The term 'புல்லார்' instructs us not to embrace or accept such unethical gains. Instead, one should let it roll away and perish (புரள விடல்), as wealth obtained without moral values brings no true benefit.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

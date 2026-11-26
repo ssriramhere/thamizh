@@ -74,9 +74,14 @@
    "surface": "ஆறாதே",
    "parts": [
     {
-     "text": "ஆறாது",
+     "text": "ஆறு",
      "lemma": "ஆறு",
-     "gloss": "will not heal"
+     "gloss": "heal"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "not"
     },
     {
      "text": "ஏ",
@@ -105,7 +110,7 @@
      "gloss": "by"
     }
    ],
-   "gloss": "by tongue"
+   "gloss": "by the tongue"
   },
   {
    "surface": "சுட்ட",
@@ -130,10 +135,10 @@
    "gloss": "scar"
   }
  ],
- "literal": "By fire burnt wound inside will heal; will never heal by tongue burnt scar.",
- "translation": "A wound burnt by fire will heal inside, but the scar burnt by a tongue will never heal.",
- "modern": "தீயினால் சுட்ட புண் உடம்பின் உள்ளே காலப்போக்கில் ஆறிவிடும். ஆனால் ஒருவருடைய நாவினால் சுட்ட வடு ஒருபோதும் ஆறாது.",
- "explanation": "This couplet contrasts physical injury with emotional harm to stress the importance of controlling one's speech. A physical burn from fire is described as a wound that will eventually heal inside. However, the damage caused by harsh words from the tongue is described as a scar, a permanent mark that will never heal. The precise choice of words highlights that while physical pain is temporary, the pain inflicted by words lasts forever.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A wound burnt by fire will heal on the inside; but the scar burnt by the tongue will never heal.",
+ "translation": "A wound caused by fire will heal on the inside, but the scar left by a burning tongue will never heal.",
+ "modern": "தீயினால் ஏற்பட்ட காயம் உள்ளே ஆறிவிடும்; ஆனால் நாவினால் ஏற்பட்ட வடு எப்போதும் ஆறாது.",
+ "explanation": "This couplet highlights the lasting damage of harsh words compared to physical injuries. A physical wound caused by fire may be painful, but over time, the body heals it from within. However, a wound inflicted by the tongue—cruel, bitter, or insulting words—leaves a deep psychological scar (வடு) that remains fresh in the mind and never truly heals. The poet uses the metaphor of 'burning' (சுட்ட) for both fire and the tongue to emphasize that words can burn just as intensely as physical fire, but with far more permanent consequences.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

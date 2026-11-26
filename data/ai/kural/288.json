@@ -6,29 +6,49 @@
     {
      "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "measure"
+     "gloss": "measure or limit"
     }
    ],
-   "gloss": "measure"
+   "gloss": "measure or limit of proper conduct"
   },
   {
    "surface": "அறிந்தார்",
    "parts": [
     {
-     "text": "அறிந்தார்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "knew-they"
+     "gloss": "know"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (honorific/plural)"
     }
    ],
-   "gloss": "those who knew"
+   "gloss": "those who know"
   },
   {
    "surface": "நெஞ்சத்து",
    "parts": [
     {
-     "text": "நெஞ்சத்து",
+     "text": "நெஞ்சு",
      "lemma": "நெஞ்சு",
-     "gloss": "heart-in"
+     "gloss": "heart or mind"
+    },
+    {
+     "text": "அத்து",
+     "lemma": "அத்து",
+     "gloss": "inflectional increment"
     }
    ],
    "gloss": "in the heart"
@@ -39,7 +59,7 @@
     {
      "text": "அறம்",
      "lemma": "அறம்",
-     "gloss": "virtue"
+     "gloss": "virtue or righteousness"
     }
    ],
    "gloss": "virtue"
@@ -53,18 +73,23 @@
      "gloss": "like"
     }
    ],
-   "gloss": "like"
+   "gloss": "just like"
   },
   {
    "surface": "நிற்கும்",
    "parts": [
     {
-     "text": "நிற்கும்",
+     "text": "நில்",
      "lemma": "நில்",
-     "gloss": "will-stand"
+     "gloss": "stand or abide"
+    },
+    {
+     "text": "கும்",
+     "lemma": "உம்",
+     "gloss": "habitual suffix"
     }
    ],
-   "gloss": "will stand"
+   "gloss": "will stand or abide"
   },
   {
    "surface": "களவு",
@@ -81,20 +106,40 @@
    "surface": "அறிந்தார்",
    "parts": [
     {
-     "text": "அறிந்தார்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "knew-they"
+     "gloss": "know"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (honorific/plural)"
     }
    ],
-   "gloss": "those who knew"
+   "gloss": "those who know"
   },
   {
    "surface": "நெஞ்சில்",
    "parts": [
     {
-     "text": "நெஞ்சில்",
+     "text": "நெஞ்சு",
      "lemma": "நெஞ்சு",
-     "gloss": "heart-in"
+     "gloss": "heart or mind"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "locative case suffix"
     }
    ],
    "gloss": "in the heart"
@@ -105,16 +150,16 @@
     {
      "text": "கரவு",
      "lemma": "கரவு",
-     "gloss": "deceit"
+     "gloss": "deceit or concealment"
     }
    ],
    "gloss": "deceit"
   }
  ],
- "literal": "Measure knew-they heart-in virtue like will-stand theft knew-they heart-in deceit.",
- "translation": "Just as virtue abides in the hearts of those who know their limits, deceit abides in the hearts of those who know theft.",
- "modern": "தங்கள் அளவை அறிந்து வாழ்பவர்களின் நெஞ்சில் அறம் நிலைத்து நிற்பது போல, திருடுவதை அறிந்தவர்களின் நெஞ்சில் வஞ்சனை நிலைத்து நிற்கும்.",
- "explanation": "The couplet contrasts two types of people and what resides in their hearts. For those who know their proper measure and limits, virtue stands firmly in their minds. In the same way, for those who are familiar with theft, deceit and concealment constantly occupy their thoughts. The word 'கரவு' means deceit or hiding, showing that a thief's mind is always troubled by the need to conceal their actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Just like virtue stands in the heart of those who know moderation, deceit stands in the heart of those who know theft.",
+ "translation": "Just as virtue abides in the hearts of those who know the limits of proper conduct, deceit dwells in the minds of those who practice theft.",
+ "modern": "அளவறிந்து வாழ்பவர்களின் நெஞ்சில் அறம் நிலைத்து நிற்பது போல, திருடத் தெரிந்தவர்களின் நெஞ்சில் வஞ்சகம் நிலைத்து நிற்கும்.",
+ "explanation": "This couplet draws a direct parallel between the righteous and the dishonest. Those who understand moderation and live within the limits of virtue (அளவறிந்தார்) will naturally have righteousness (அறம்) firmly established in their hearts. On the other hand, those who are skilled in stealing (களவறிந்தார்) will always have deceit (கரவு) dwelling in their minds. The poet uses the word 'கரவு' (deceit or concealment) to emphasize that a thief's mind is never open or honest; it is constantly occupied with schemes of deception.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

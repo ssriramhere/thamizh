@@ -4,20 +4,30 @@
    "surface": "நுண்ணியம்",
    "parts": [
     {
-     "text": "நுண்ணியம்",
+     "text": "நுண்",
      "lemma": "நுண்மை",
-     "gloss": "we are subtle"
+     "gloss": "subtle/sharp"
+    },
+    {
+     "text": "இயம்",
+     "lemma": "இயம்",
+     "gloss": "we are"
     }
    ],
-   "gloss": "we are subtle"
+   "gloss": "we are of subtle understanding"
   },
   {
    "surface": "என்பார்",
    "parts": [
     {
-     "text": "என்பார்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "those who say"
+     "gloss": "say"
+    },
+    {
+     "text": "பார்",
+     "lemma": "ஆர்",
+     "gloss": "those who"
     }
    ],
    "gloss": "those who say"
@@ -27,7 +37,7 @@
    "parts": [
     {
      "text": "அளக்கும்",
-     "lemma": "அள",
+     "lemma": "அளத்தல்",
      "gloss": "measuring"
     }
    ],
@@ -42,18 +52,18 @@
      "gloss": "rod"
     }
    ],
-   "gloss": "rod"
+   "gloss": "rod/scale"
   },
   {
    "surface": "காணும்",
    "parts": [
     {
      "text": "காணும்",
-     "lemma": "காண்",
-     "gloss": "seeing"
+     "lemma": "காணுதல்",
+     "gloss": "seeing/examining"
     }
    ],
-   "gloss": "seeing"
+   "gloss": "examining"
   },
   {
    "surface": "கால்",
@@ -61,10 +71,10 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "time/when"
     }
    ],
-   "gloss": "time"
+   "gloss": "when"
   },
   {
    "surface": "கண்",
@@ -75,15 +85,20 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "eye"
+   "gloss": "the eye"
   },
   {
    "surface": "அல்லது",
    "parts": [
     {
-     "text": "அல்லது",
+     "text": "அல்",
      "lemma": "அல்",
-     "gloss": "other than"
+     "gloss": "not"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
    "gloss": "other than"
@@ -93,11 +108,11 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is nothing"
   },
   {
    "surface": "பிற",
@@ -108,13 +123,13 @@
      "gloss": "other things"
     }
    ],
-   "gloss": "other things"
+   "gloss": "else"
   }
  ],
- "literal": "\"We are subtle\" those who say - measuring - rod - seeing - time - eye - other than - is not - other things.",
- "translation": "When you look for the measuring rod of those who say \"we are sharp,\" it is nothing other than the eye.",
- "modern": "'நாங்கள் நுண்ணறிவு உடையவர்கள்' என்று கூறுபவர்களின் அளவுகோலை ஆராய்ந்து பார்த்தால், அது மற்றவர்களின் கண்களைத் தவிர வேறு எதுவும் இல்லை.",
- "explanation": "This couplet reveals the secret tool of those who are skilled at reading minds. People who claim to have the subtle intelligence to understand unspoken thoughts rely entirely on observing others. When we look for their measuring rod, we find it is nothing other than the eyes of the people they interact with. The eyes serve as a precise instrument that measures and reveals a person's true inner feelings.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who say 'we are of subtle understanding', when examining their measuring rod, other than the eye, there is nothing else.",
+ "translation": "For those who claim to possess subtle understanding, when you look for the instrument with which they measure others' minds, there is no other measuring rod than their own eyes.",
+ "modern": "நாங்கள் நுட்பமான அறிவுடையவர்கள் என்று சொல்லிக்கொள்பவர்கள், பிறருடைய மனக்கருத்தை அளந்து அறிவதற்குப் பயன்படுத்தும் அளவுகோலை ஆராய்ந்து பார்த்தால், அது அவர்களுடைய கண்ணே தவிர வேறு ஒன்றும் இல்லை.",
+ "explanation": "This couplet explains how highly perceptive people read the minds of others. Those who boast of having a sharp, subtle intellect (நுண்ணியம் என்பார்) must have a tool to gauge what is hidden in another person's heart. When we look closely to find what this measuring rod (அளக்குங்கோல்) is, we realize it is nothing other than their own eyes (கண் அல்லது இல்லை பிற). The eye acts as the ultimate instrument of perception, catching the unspoken thoughts and feelings of others instantly.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

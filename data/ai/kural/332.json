@@ -4,9 +4,14 @@
    "surface": "கூத்தாட்டு",
    "parts": [
     {
-     "text": "கூத்தாட்டு",
-     "lemma": "கூத்தாட்டு",
-     "gloss": "dance performance"
+     "text": "கூத்து",
+     "lemma": "கூத்து",
+     "gloss": "dance drama"
+    },
+    {
+     "text": "ஆட்டு",
+     "lemma": "ஆட்டு",
+     "gloss": "performance"
     }
    ],
    "gloss": "dance performance"
@@ -17,7 +22,7 @@
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "assembly"
+     "gloss": "assembly hall"
     }
    ],
    "gloss": "assembly"
@@ -28,10 +33,10 @@
     {
      "text": "குழாத்து",
      "lemma": "குழாம்",
-     "gloss": "crowd's"
+     "gloss": "of the crowd"
     }
    ],
-   "gloss": "crowd's"
+   "gloss": "of the crowd"
   },
   {
    "surface": "அற்றே",
@@ -39,15 +44,15 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "like that indeed"
+   "gloss": "is just like"
   },
   {
    "surface": "பெருஞ்செல்வம்",
@@ -71,10 +76,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "too"
+     "gloss": "and"
     }
    ],
-   "gloss": "departure too"
+   "gloss": "and its departure"
   },
   {
    "surface": "அது",
@@ -82,10 +87,10 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "it"
+     "gloss": "that"
     }
    ],
-   "gloss": "it"
+   "gloss": "that"
   },
   {
    "surface": "விளிந்து",
@@ -104,16 +109,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Dance-performance assembly crowd's like-indeed great-wealth departure-too it having-dispersed like",
- "translation": "The accumulation of great wealth is like a crowd gathering for a dance performance. Its departure is like that same crowd dispersing.",
- "modern": "ஒரு நாடகத்தைக் காண்பதற்காக அரங்கத்தில் கூட்டம் சேர்வதைப் போன்றது பெருஞ்செல்வம் ஒருவனிடம் சேர்வது. அச்செல்வம் அவனை விட்டுப் போவதும், நாடகம் முடிந்த பின் அக்கூட்டம் கலைந்து செல்வதைப் போன்றதே ஆகும்.",
- "explanation": "This couplet illustrates the transient nature of wealth using a vivid simile. Wealth accumulates much like a crowd gathering in a theater to watch a play. Just as the audience naturally disperses once the performance ends, wealth too will eventually leave its possessor. The words 'குழாத்து அற்றே' (like a gathering crowd) and 'விளிந்து அற்று' (like dispersing) perfectly contrast the arrival and departure of riches.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like the gathering of a crowd for a dance performance is great wealth; its departure is like that crowd dispersing.",
+ "translation": "The gathering of great wealth is like a crowd assembling to watch a play; its departure is like that same crowd dispersing when the show is over.",
+ "modern": "பெரிய செல்வம் சேருவது கூத்து நடக்கும் இடத்திற்கு மக்கள் கூட்டம் கூடுவது போன்றது; அச்செல்வம் அழிந்து போவது அக்கூட்டம் கலைந்து போவது போன்றது.",
+ "explanation": "This couplet uses a vivid theatrical metaphor to explain the impermanence of wealth. The gathering of great wealth is compared to a crowd assembling to watch a dance performance—it happens gradually and looks grand. However, just as the crowd quickly disperses and vanishes once the show is over, the accumulated wealth can disappear in an instant. The key words 'கூத்தாட்டு அவை' (dance drama assembly) and 'விளிந்து' (disappearing/dispersing) highlight how transient worldly possessions are, urging us not to cling to them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

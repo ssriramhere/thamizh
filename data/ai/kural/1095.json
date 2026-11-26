@@ -6,7 +6,7 @@
     {
      "text": "குறி",
      "lemma": "குறி",
-     "gloss": "mark"
+     "gloss": "aim or intent"
     },
     {
      "text": "கொண்டு",
@@ -14,36 +14,26 @@
      "gloss": "having taken"
     }
    ],
-   "gloss": "having looked intently"
+   "gloss": "intently or with direct aim"
   },
   {
    "surface": "நோக்காமை",
    "parts": [
     {
-     "text": "நோக்கு",
+     "text": "நோக்காமை",
      "lemma": "நோக்கு",
-     "gloss": "look"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "gloss": "not looking"
     }
    ],
-   "gloss": "not looking"
+   "gloss": "not looking directly"
   },
   {
    "surface": "அல்லால்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லால்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "instrumental suffix"
+     "gloss": "other than or except"
     }
    ],
    "gloss": "except"
@@ -74,24 +64,9 @@
    "surface": "சிறக்கணித்தாள்",
    "parts": [
     {
-     "text": "சிறக்கணி",
+     "text": "சிறக்கணித்தாள்",
      "lemma": "சிறக்கணி",
-     "gloss": "look askance"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "ஆள்",
-     "lemma": "ஆள்",
-     "gloss": "3rd person feminine singular suffix"
+     "gloss": "she who looked askance"
     }
    ],
    "gloss": "she who looked askance"
@@ -100,39 +75,29 @@
    "surface": "போல",
    "parts": [
     {
-     "text": "போல்",
+     "text": "போல",
      "lemma": "போல்",
-     "gloss": "resemble"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "like"
     }
    ],
-   "gloss": "as if"
+   "gloss": "like"
   },
   {
    "surface": "நகும்",
    "parts": [
     {
-     "text": "நகு",
+     "text": "நகும்",
      "lemma": "நகு",
-     "gloss": "smile"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "non-past suffix"
+     "gloss": "smiles"
     }
    ],
-   "gloss": "she smiles"
+   "gloss": "smiles"
   }
  ],
- "literal": "Intently not looking except, one eye she who looked askance as if, she smiles.",
- "translation": "Except that she does not look at me directly, she smiles as if looking askance with one eye.",
- "modern": "என்னை நேராக உற்றுப் பார்க்கவில்லையே தவிர, அவள் ஒரு கண்ணைச் சிறிது மூடி ஓரக்கண்ணால் பார்ப்பவள் போலச் சிரிக்கிறாள்.",
- "explanation": "The speaker observes the subtle expressions of the woman he loves. He notes that while she avoids looking at him directly and intently (`குறிக்கொண்டு நோக்காமை`), she does not completely ignore him. Instead, she smiles as if looking at him from the corner of one eye (`ஒருகண் சிறக்கணித்தாள் போல நகும்`). This reveals her hidden affection and shyness, showing that her avoidance of a direct gaze is playful rather than dismissive.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Other than not looking with direct intent, she smiles like she who looked askance with one eye.",
+ "translation": "Apart from avoiding a direct, intent gaze at me, she smiles as if looking askance with a side-glance from one of her eyes.",
+ "modern": "என்னை நேராகக் குறிவைத்து நோக்காமல் இருப்பதைத் தவிர, அவள் ஒரு கண்ணால் ஓரக்கண்ணாகப் பார்ப்பவள் போலப் புன்னகைக்கிறாள்.",
+ "explanation": "In this couplet, the hero describes the subtle signs of the heroine's love. She avoids staring at him directly to preserve her modesty and keep their love hidden from others. Instead, she casts a delicate side-glance with one eye and offers a gentle smile. This playful and restrained gaze communicates her deep affection without being overly obvious.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

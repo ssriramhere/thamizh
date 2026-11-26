@@ -9,7 +9,7 @@
      "gloss": "madness"
     }
    ],
-   "gloss": "madness"
+   "gloss": "madness or delusion"
   },
   {
    "surface": "ஒருவன்",
@@ -17,10 +17,10 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one man"
+     "gloss": "a person"
     }
    ],
-   "gloss": "a man"
+   "gloss": "a person"
   },
   {
    "surface": "களித்தற்று",
@@ -28,15 +28,15 @@
     {
      "text": "களித்து",
      "lemma": "களி",
-     "gloss": "having intoxicated"
+     "gloss": "having become intoxicated"
     },
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like being intoxicated"
+   "gloss": "is like becoming intoxicated"
   },
   {
    "surface": "ஆல்",
@@ -44,7 +44,7 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "indeed (particle)"
+     "gloss": "indeed"
     }
    ],
    "gloss": "indeed"
@@ -58,7 +58,7 @@
      "gloss": "fool"
     }
    ],
-   "gloss": "fool"
+   "gloss": "a fool"
   },
   {
    "surface": "தன்",
@@ -66,10 +66,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "his"
+     "gloss": "his own"
     }
    ],
-   "gloss": "his"
+   "gloss": "his own"
   },
   {
    "surface": "கை",
@@ -88,10 +88,10 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one thing"
     }
    ],
-   "gloss": "some"
+   "gloss": "one thing"
   },
   {
    "surface": "உடைமை",
@@ -99,32 +99,27 @@
     {
      "text": "உடைமை",
      "lemma": "உடைமை",
-     "gloss": "wealth"
+     "gloss": "possession"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "possession or wealth"
   },
   {
    "surface": "பெறின்",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "get"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if obtains"
     }
    ],
-   "gloss": "if gets"
+   "gloss": "if one obtains"
   }
  ],
- "literal": "Madness one-man like-having-intoxicated indeed fool his hand some wealth if-gets.",
- "translation": "If a fool gets hold of some wealth in his hands, it is like a madman becoming intoxicated.",
- "modern": "ஒரு பேதை தன் கையில் ஒரு செல்வத்தைப் பெற்றால், அது ஏற்கெனவே பைத்தியம் பிடித்த ஒருவன் மது குடித்து வெறித்தது போன்றதாகும்.",
- "explanation": "This couplet compares a fool acquiring wealth to a madman getting drunk. The word 'maiyal' means madness or delusion, and 'kalittarru' refers to the state of being intoxicated. Just as alcohol worsens the erratic behavior of someone who is already mad, sudden wealth amplifies the harmful and unpredictable actions of a fool.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a madman becoming intoxicated indeed is a fool if he obtains a possession in his hand.",
+ "translation": "A fool obtaining a possession in his hand is like a madman becoming intoxicated.",
+ "modern": "மனநலம் குன்றிய ஒருவன் மதுவருந்தி வெறி கொள்வதைப் போன்றது, அறிவிலி தன் கையில் ஏதேனும் ஒரு செல்வத்தைப் பெறுவது ஆகும்.",
+ "explanation": "This couplet compares a fool who acquires wealth to a madman who gets drunk. A person who is already mentally unstable (மையல் ஒருவன்) will lose all remaining restraint and act wildly if they consume alcohol (களித்தற்று). Similarly, a fool (பேதை), who already lacks wisdom and self-control, becomes completely reckless and arrogant when they acquire a possession (உடைமை) in their hand. The analogy highlights how sudden fortune does not improve a fool, but rather amplifies their inherent foolishness and makes them dangerous.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

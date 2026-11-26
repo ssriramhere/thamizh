@@ -6,10 +6,10 @@
     {
      "text": "இன்னாது",
      "lemma": "இன்னாது",
-     "gloss": "is painful"
+     "gloss": "that which is painful"
     }
    ],
-   "gloss": "is painful"
+   "gloss": "painful"
   },
   {
    "surface": "இனன்",
@@ -17,10 +17,10 @@
     {
      "text": "இனன்",
      "lemma": "இனம்",
-     "gloss": "kin"
+     "gloss": "companions"
     }
    ],
-   "gloss": "kin"
+   "gloss": "companions"
   },
   {
    "surface": "இல்",
@@ -48,14 +48,9 @@
    "surface": "வாழ்தல்",
    "parts": [
     {
-     "text": "வாழ்",
-     "lemma": "வாழ்",
-     "gloss": "live"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "வாழ்தல்",
+     "lemma": "வாழ்தல்",
+     "gloss": "living"
     }
    ],
    "gloss": "living"
@@ -64,19 +59,9 @@
    "surface": "அதனினும்",
    "parts": [
     {
-     "text": "அது",
+     "text": "அதனின்",
      "lemma": "அது",
-     "gloss": "that"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "link"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than that"
     },
     {
      "text": "உம்",
@@ -92,10 +77,10 @@
     {
      "text": "இன்னாது",
      "lemma": "இன்னாது",
-     "gloss": "is painful"
+     "gloss": "that which is painful"
     }
    ],
-   "gloss": "is painful"
+   "gloss": "painful"
   },
   {
    "surface": "இனியார்",
@@ -103,10 +88,10 @@
     {
      "text": "இனியார்",
      "lemma": "இனியார்",
-     "gloss": "sweet one"
+     "gloss": "beloved ones"
     }
    ],
-   "gloss": "sweet one"
+   "gloss": "beloved ones"
   },
   {
    "surface": "பிரிவு",
@@ -120,10 +105,10 @@
    "gloss": "separation"
   }
  ],
- "literal": "Painful is kin-without town living; even than that, painful is sweet one's separation.",
- "translation": "Living in a town without any kin is painful, but parting from one's beloved is even more painful than that.",
- "modern": "உறவினர் இல்லாத ஊரில் வாழ்வது துன்பமானது. ஆனால், அன்பானவரைப் பிரிந்து செல்வது அதைவிடத் துன்பமானது.",
- "explanation": "The couplet compares two kinds of sorrow to emphasize the unbearable nature of parting. Living in a strange town without friends or family is a well-known hardship. However, the speaker declares that separating from a beloved partner is far more painful than that isolation. The word 'iṉiyār' refers to the sweet or dear one, highlighting the deep affection that makes the separation so agonizing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Painful is living in a town without companions; even more painful than that is separation from beloved ones.",
+ "translation": "Living in a town where one has no companions is painful; but far more painful than that is separation from those who are beloved.",
+ "modern": "உறவினர்கள் இல்லாத ஊரில் வாழ்வது துன்பமானது; அதைவிடத் துன்பமானது அன்பானவரைப் பிரிந்து வாழ்வது ஆகும்.",
+ "explanation": "The couplet compares two painful situations to highlight the extreme distress of separation. Living in a town without friends or relatives (இனன் இல் ஊர்) is hard and lonely. However, the poet states that separation from one's beloved (இனியார் பிரிவு) is even more painful (அதனினும் இன்னாது) than such a friendless existence. The words 'இன்னாது' (painful) and 'இனியார்' (sweet/beloved ones) beautifully contrast the bitterness of loneliness with the sweetness of love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

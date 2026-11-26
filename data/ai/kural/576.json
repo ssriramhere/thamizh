@@ -4,77 +4,85 @@
    "surface": "மண்ணோ",
    "parts": [
     {
-     "text": "மண்ணோ",
-     "lemma": "மண்ணோடு",
-     "gloss": "with earth"
+     "text": "மண்",
+     "lemma": "மண்",
+     "gloss": "earth"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓடு",
+     "gloss": "with (part 1)"
     }
    ],
-   "gloss": "with earth"
+   "gloss": "with the earth"
   },
   {
    "surface": "டியைந்த",
    "parts": [
     {
      "text": "டியைந்த",
-     "lemma": "இயைந்த",
-     "gloss": "joined"
+     "lemma": "டியைந்த",
+     "gloss": "connected"
     }
    ],
-   "gloss": "joined"
+   "gloss": "connected",
+   "split_unverified": true
   },
   {
    "surface": "மரத்தனையர்",
    "parts": [
     {
-     "text": "மரத்து",
-     "lemma": "மரம்",
-     "gloss": "tree"
-    },
-    {
-     "text": "அனையர்",
-     "lemma": "அனையர்",
-     "gloss": "they are like"
+     "text": "மரத்தனையர்",
+     "lemma": "மரத்தனையர்",
+     "gloss": "are like trees"
     }
    ],
-   "gloss": "they are like trees"
+   "gloss": "are like trees",
+   "split_unverified": true
   },
   {
    "surface": "கண்ணோ",
    "parts": [
     {
-     "text": "கண்ணோ",
-     "lemma": "கண்ணோடு",
-     "gloss": "with eyes"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓடு",
+     "gloss": "with (part 1)"
     }
    ],
-   "gloss": "with eyes"
+   "gloss": "with the eyes"
   },
   {
    "surface": "டியைந்துகண்",
    "parts": [
     {
-     "text": "டியைந்து",
-     "lemma": "இயைந்து",
-     "gloss": "having joined"
-    },
-    {
-     "text": "கண்",
-     "lemma": "கண்",
-     "gloss": "eye"
+     "text": "டியைந்துகண்",
+     "lemma": "டியைந்துகண்",
+     "gloss": "having connected, yet the eye"
     }
    ],
-   "gloss": "having joined, eyes"
+   "gloss": "having connected, yet the eye",
+   "split_unverified": true
   },
   {
    "surface": "ணோடா",
    "parts": [
     {
-     "text": "ணோடா",
-     "lemma": "ஓடா",
-     "gloss": "not running"
+     "text": "ண்",
+     "lemma": "கண்",
+     "gloss": "eye (sandhi consonant)"
+    },
+    {
+     "text": "ஓடா",
+     "lemma": "ஓடு",
+     "gloss": "not showing benignity"
     }
    ],
-   "gloss": "not running"
+   "gloss": "not showing kindliness"
   },
   {
    "surface": "தவர்",
@@ -82,16 +90,16 @@
     {
      "text": "தவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who do not"
     }
    ],
-   "gloss": "they"
+   "gloss": "those who do not"
   }
  ],
- "literal": "With earth joined, tree-like they are; with eyes having joined, eyes-not-running they.",
- "translation": "Those who have eyes but do not look with graciousness are merely like trees rooted in the earth.",
- "modern": "கண்கள் இருந்தும் பிறரிடம் இரக்கம் காட்டாதவர்கள், மண்ணில் நிலைத்து நிற்கும் மரங்களுக்கு ஒப்பானவர்கள்.",
- "explanation": "This couplet plays on the literal meaning of the Tamil word for graciousness, which implies the 'running' or extending of the eyes towards others. The poet states that people who possess physical eyes but fail to look upon others with empathy are no different from trees. Even though they exist in human form, their lack of compassion makes them as unfeeling and stationary as a tree rooted in the dirt.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With the earth connected, like trees they are, who, though connected with eyes, do not show kindliness.",
+ "translation": "Those who possess eyes but do not look upon others with kindliness are like trees that are merely fixed to the earth.",
+ "modern": "கண்களைப் பெற்றிருந்தும் பிறரிடம் இரக்கம் காட்டாதவர்கள், மண்ணோடு பொருந்தி நிற்கும் மரங்களைப் போன்றவர்கள் ஆவர்.",
+ "explanation": "This couplet highlights the importance of benignity or kindliness (kaṇṇōṭṭam). The author compares people who lack this quality to inanimate trees. Although they have eyes and are physically alive, their lack of empathy and kind looks makes them no better than wooden trees rooted in the soil. The word kaṇṇōṭṭam literally means the 'running of the eye' towards others in compassion; without this movement of grace, the eyes are mere physical organs, and the human is reduced to a stationary, unfeeling tree.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

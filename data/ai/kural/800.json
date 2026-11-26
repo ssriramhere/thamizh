@@ -4,17 +4,12 @@
    "surface": "மருவுக",
    "parts": [
     {
-     "text": "மருவு",
+     "text": "மருவுக",
      "lemma": "மருவு",
-     "gloss": "to associate"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "cultivate"
     }
    ],
-   "gloss": "let associate"
+   "gloss": "cultivate"
   },
   {
    "surface": "மாசு",
@@ -32,11 +27,11 @@
    "parts": [
     {
      "text": "அற்றார்",
-     "lemma": "அறு",
-     "gloss": "those who are without"
+     "lemma": "அற்றார்",
+     "gloss": "those who are free from"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who are free from"
   },
   {
    "surface": "கேண்மை",
@@ -55,7 +50,7 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one thing"
+     "gloss": "something"
     }
    ],
    "gloss": "something"
@@ -66,7 +61,7 @@
     {
      "text": "ஈத்து",
      "lemma": "ஈ",
-     "gloss": "having given"
+     "gloss": "giving"
     },
     {
      "text": "உம்",
@@ -74,23 +69,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having given"
+   "gloss": "even by giving"
   },
   {
    "surface": "ஒருவுக",
    "parts": [
     {
-     "text": "ஒருவு",
+     "text": "ஒருவுக",
      "lemma": "ஒருவு",
-     "gloss": "to abandon"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "abandon"
     }
    ],
-   "gloss": "let abandon"
+   "gloss": "abandon"
   },
   {
    "surface": "ஒப்பு",
@@ -98,26 +88,21 @@
     {
      "text": "ஒப்பு",
      "lemma": "ஒப்பு",
-     "gloss": "compatibility"
+     "gloss": "suitability"
     }
    ],
-   "gloss": "compatibility"
+   "gloss": "suitability"
   },
   {
    "surface": "இலார்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "text": "இலார்",
+     "lemma": "இலார்",
+     "gloss": "those who lack"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "நட்பு",
@@ -131,10 +116,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "Let associate blemish-without-those friendship; something even having given, let abandon compatibility-without-those friendship.",
- "translation": "Cultivate the friendship of the flawless. Even if you must give something up to do so, abandon the friendship of the incompatible.",
- "modern": "குற்றமற்றவர்களின் நட்பை விரும்பி ஏற்றுக்கொள்ள வேண்டும். ஒத்த பண்பு இல்லாதவர்களின் நட்பை, அவர்களுக்கு ஏதாவது ஒரு பொருளைக் கொடுத்தாவது விட்டுவிட வேண்டும்.",
- "explanation": "This couplet advises on the active choices one must make regarding companions. It urges us to embrace the friendship of those who are flawless in their character. Conversely, it stresses the importance of abandoning friendship with those who lack compatibility or proper conduct, even if it requires giving up something valuable to sever the tie. The phrase 'even having given something' highlights that escaping bad company is worth any material cost.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Cultivate the friendship of those who are free from blemish; even by giving something, abandon the friendship of those who lack suitability.",
+ "translation": "Cultivate the friendship of those who are free from faults; even if you must give away something to do so, abandon the friendship of those who are unsuitable.",
+ "modern": "குற்றமற்றவர்களுடைய நட்பை விரும்பி ஏற்றுக்கொள்ளுங்கள்; நமக்குத் தகுதி இல்லாதவர்களுடைய நட்பை, ஏதேனும் ஒன்றை அவர்களுக்குக் கொடுத்தாவது கைவிடுங்கள்.",
+ "explanation": "This couplet advises the learner on how to choose and manage relationships. It urges us to seek and embrace the friendship of those who are pure and free from moral blemishes. Conversely, we must distance ourselves from those who lack compatibility or proper character. The poet emphasizes that we should be willing to give up something of value, if necessary, as a price to safely sever ties with unsuitable companions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

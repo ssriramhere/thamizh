@@ -6,7 +6,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to make"
+     "gloss": "make"
     },
     {
      "text": "க",
@@ -14,7 +14,7 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "let one make"
+   "gloss": "make / accumulate"
   },
   {
    "surface": "பொருளை",
@@ -27,7 +27,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "wealth"
@@ -38,10 +38,10 @@
     {
      "text": "செறுநர்",
      "lemma": "செறுநர்",
-     "gloss": "foes"
+     "gloss": "enemies"
     }
    ],
-   "gloss": "of foes"
+   "gloss": "enemies"
   },
   {
    "surface": "செருக்கு",
@@ -49,10 +49,10 @@
     {
      "text": "செருக்கு",
      "lemma": "செருக்கு",
-     "gloss": "pride"
+     "gloss": "pride / arrogance"
     }
    ],
-   "gloss": "pride"
+   "gloss": "pride / arrogance"
   },
   {
    "surface": "அறுக்கும்",
@@ -60,15 +60,15 @@
     {
      "text": "அறு",
      "lemma": "அறு",
-     "gloss": "to sever"
+     "gloss": "cut / destroy"
     },
     {
      "text": "க்கும்",
      "lemma": "க்கும்",
-     "gloss": "future relative participle suffix"
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "which severs"
+   "gloss": "that which cuts or destroys"
   },
   {
    "surface": "எஃகு",
@@ -76,10 +76,10 @@
     {
      "text": "எஃகு",
      "lemma": "எஃகு",
-     "gloss": "weapon"
+     "gloss": "steel weapon"
     }
    ],
-   "gloss": "weapon"
+   "gloss": "steel weapon"
   },
   {
    "surface": "அதனின்",
@@ -92,12 +92,12 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "empty morpheme"
+     "gloss": "inflectional increment"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative case marker)"
     }
    ],
    "gloss": "than that"
@@ -106,12 +106,17 @@
    "surface": "கூரியது",
    "parts": [
     {
-     "text": "கூரியது",
-     "lemma": "கூரியது",
-     "gloss": "sharp thing"
+     "text": "கூர்",
+     "lemma": "கூர்",
+     "gloss": "sharpness"
+    },
+    {
+     "text": "இயது",
+     "lemma": "இயது",
+     "gloss": "that which is"
     }
    ],
-   "gloss": "sharp thing"
+   "gloss": "that which is sharper"
   },
   {
    "surface": "இல்",
@@ -119,16 +124,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "there is not"
+   "gloss": "there is nothing"
   }
  ],
- "literal": "Make wealth; foes' pride severing weapon, than that sharper thing there is not.",
- "translation": "Acquire wealth. There is no sharper weapon than that to sever the arrogance of your foes.",
- "modern": "பொருளைச் சேருங்கள். பகைவர்களின் செருக்கை அறுக்கக்கூடிய ஆயுதம் அதைவிடக் கூர்மையானது வேறு எதுவும் இல்லை.",
- "explanation": "The couplet advises one to actively accumulate wealth. It describes wealth metaphorically as a sharp weapon (எஃகு) that cuts down the pride of enemies. The word எஃகு primarily means steel or a bladed weapon, emphasizing that financial strength is the most effective and piercing tool to defeat opposition.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Make wealth; to cut the pride of enemies, a steel weapon sharper than that, there is nothing.",
+ "translation": "Accumulate wealth; there is no sharper steel than it to cut down the pride of your enemies.",
+ "modern": "பொருளைச் சம்பாதியுங்கள்; பகைவரின் செருக்கை அழிக்கும் கூர்மையான ஆயுதம் அதைவிட வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the immense practical power of acquiring wealth. The poet advises us to earn and accumulate wealth, describing it as the ultimate instrument of defense and influence. To cut down the arrogance and pride of one's enemies, there is no steel weapon sharper than the possession of wealth. When one is financially strong, adversaries naturally lose their power to oppose, making wealth more effective than any physical blade.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

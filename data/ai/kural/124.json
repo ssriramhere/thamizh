@@ -6,37 +6,52 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "state"
+     "gloss": "proper state or position"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "from (ablative case suffix)"
     }
    ],
-   "gloss": "from [one's] state"
+   "gloss": "from one's proper state"
   },
   {
    "surface": "திரியாது",
    "parts": [
     {
-     "text": "திரியாது",
+     "text": "திரி",
      "lemma": "திரி",
-     "gloss": "without swerving"
+     "gloss": "to deviate or swerve"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
-   "gloss": "without swerving"
+   "gloss": "without deviating"
   },
   {
    "surface": "அடங்கியான்",
    "parts": [
     {
-     "text": "அடங்கியான்",
+     "text": "அடங்கு",
      "lemma": "அடங்கு",
-     "gloss": "he who is self-controlled"
+     "gloss": "to be self-controlled"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who (pronominal suffix)"
     }
    ],
-   "gloss": "of him who is self-controlled"
+   "gloss": "he who is self-controlled"
   },
   {
    "surface": "தோற்றம்",
@@ -44,10 +59,10 @@
     {
      "text": "தோற்றம்",
      "lemma": "தோற்றம்",
-     "gloss": "stature"
+     "gloss": "stature or greatness"
     }
    ],
-   "gloss": "stature"
+   "gloss": "moral stature or greatness"
   },
   {
    "surface": "மலையினும்",
@@ -60,12 +75,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative suffix)"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even (concessive particle)"
     }
    ],
    "gloss": "even than a mountain"
@@ -76,7 +91,7 @@
     {
      "text": "மாண்",
      "lemma": "மாண்",
-     "gloss": "excellence"
+     "gloss": "to be glorious or great"
     },
     {
      "text": "அ",
@@ -91,17 +106,17 @@
    "parts": [
     {
      "text": "பெரிது",
-     "lemma": "பெருமை",
-     "gloss": "it is great"
+     "lemma": "பெரிது",
+     "gloss": "that which is great"
     }
    ],
    "gloss": "is great"
   }
  ],
- "literal": "From [his] state without swerving, of him who is self-controlled, the stature, even than a mountain, is greatly big.",
- "translation": "The stature of one who remains self-controlled without swerving from his proper state is far greater than a mountain.",
- "modern": "தன் நிலையிலிருந்து மாறாமல் அடக்கத்துடன் வாழ்பவனின் உயர்வு, மலையை விட மிகவும் பெரியதாகும்.",
- "explanation": "This couplet compares the greatness of a self-controlled person to a mountain. The word 'nilai' refers to one's proper state or moral standing in life. When a person maintains this standing without swerving ('tiriyātu') and exercises self-restraint ('aṭaṅkiyāṉ'), their resulting stature ('tōṟṟam') becomes immense. The poet emphasizes this by stating that such a person's greatness is vastly larger ('māṇa peritu') even than a towering mountain.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "From his proper state without deviating, he who is self-controlled, his moral stature, even than a mountain, greatly, is great.",
+ "translation": "The moral stature of one who remains self-controlled without deviating from his proper path is far greater than even a mountain.",
+ "modern": "தன் நன்னெறியிலிருந்து மாறாமல் அடக்கத்தோடு வாழ்பவனுடைய உயர்வு, மலையின் அளவை விடவும் மிக மிகப் பெரியதாகும்.",
+ "explanation": "This couplet highlights the immense value of self-control. The poet compares the moral stature of a person who stays true to their righteous path and practices self-restraint to a mountain. While a mountain is physically massive, the spiritual and moral greatness of a self-controlled person is described as being far greater. The word 'தோற்றம்' here refers to one's true dignity or moral stature, and 'நிலையின் திரியாது' emphasizes consistency in one's ethical position.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

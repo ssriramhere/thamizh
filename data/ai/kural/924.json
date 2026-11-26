@@ -17,7 +17,7 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
      "text": "உம்",
@@ -32,7 +32,7 @@
    "parts": [
     {
      "text": "நல்",
-     "lemma": "நன்மை",
+     "lemma": "நல்",
      "gloss": "good"
     },
     {
@@ -41,7 +41,7 @@
      "gloss": "woman"
     }
    ],
-   "gloss": "good woman"
+   "gloss": "the good woman"
   },
   {
    "surface": "புறம்",
@@ -60,12 +60,17 @@
     {
      "text": "கொடு",
      "lemma": "கொடு",
-     "gloss": "to give"
+     "gloss": "give"
     },
     {
-     "text": "க்கும்",
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
+    },
+    {
+     "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future tense suffix"
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "will give"
@@ -76,10 +81,10 @@
     {
      "text": "கள்",
      "lemma": "கள்",
-     "gloss": "toddy"
+     "gloss": "liquor"
     }
    ],
-   "gloss": "toddy"
+   "gloss": "liquor"
   },
   {
    "surface": "என்னும்",
@@ -87,7 +92,7 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
      "text": "உம்",
@@ -103,32 +108,33 @@
     {
      "text": "பேண்",
      "lemma": "பேண்",
-     "gloss": "to esteem"
+     "gloss": "cherish"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "negative relative participle suffix"
     }
    ],
-   "gloss": "unesteemed"
+   "gloss": "not cherished"
   },
   {
    "surface": "பெருங்குற்றத்தார்க்கு",
    "parts": [
     {
      "text": "பெருங்குற்றத்தார்க்கு",
-     "lemma": "பெருங்குற்றத்தார்",
+     "lemma": "பெருங்குற்றத்தார்க்கு",
      "gloss": "to those with the great fault"
     }
    ],
-   "gloss": "to those with the great fault"
+   "gloss": "to those with the great fault",
+   "split_unverified": true
   }
  ],
- "literal": "Modesty called good woman back will give toddy called unesteemed to those with great fault.",
- "translation": "The good woman called Modesty will turn her back on those who commit the despised, great fault of drinking toddy.",
- "modern": "கள் குடித்தல் என்னும் விரும்பத்தகாத பெரிய குற்றத்தைச் செய்பவர்களை விட்டு, நாணம் என்று சொல்லப்படும் நல்லவள் விலகிச் செல்வாள்.",
- "explanation": "The poet personifies modesty as a noble woman who refuses to associate with drunkards. Drinking toddy is described as a great, unesteemed fault that strips a person of their sense of shame. By turning her back, Modesty abandons the drunkard entirely, leaving them without dignity or moral standing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Modesty called good woman back will give to those of the not-cherished great fault called liquor.",
+ "translation": "The virtuous maiden called Modesty will turn her back and depart from those who commit the undesirable, grave crime of drinking liquor.",
+ "modern": "நாணம் என்று சொல்லப்படும் நல்ல பெண்மகள், கள் குடித்தல் என்னும் விரும்பத்தகாத பெரும் குற்றத்தைச் செய்பவர்களுக்குத் தன் முதுகைக் காட்டி விலகிப் போவாள்.",
+ "explanation": "This couplet personifies modesty as a virtuous woman who abandons those who drink liquor. The poet describes drinking as an undesirable, grave vice (பேணா பெருங்குற்றம்) that strips a person of their dignity. When a person consumes alcohol, they lose their self-control and sense of shame, symbolized by the lady of Modesty turning her back (புறங்கொடுக்கும்) on them. Thus, the desire for liquor drives away one's innate decency and self-respect.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

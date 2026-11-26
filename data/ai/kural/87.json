@@ -4,23 +4,38 @@
    "surface": "இனைத்துணைத்து",
    "parts": [
     {
-     "text": "இனைத்துணைத்து",
-     "lemma": "இனைத்துணைத்து",
-     "gloss": "of this measure"
+     "text": "இனை",
+     "lemma": "இனை",
+     "gloss": "this much"
+    },
+    {
+     "text": "துணை",
+     "lemma": "துணை",
+     "gloss": "measure"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it"
     }
    ],
-   "gloss": "of this measure"
+   "gloss": "having this much measure"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
-     "text": "என்பது",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "that which is said"
+     "gloss": "to say"
+    },
+    {
+     "text": "பது",
+     "lemma": "பது",
+     "gloss": "neuter singular suffix"
     }
    ],
-   "gloss": "that which is said"
+   "gloss": "saying that / that which is called"
   },
   {
    "surface": "ஒன்று",
@@ -31,18 +46,18 @@
      "gloss": "one thing"
     }
    ],
-   "gloss": "one thing"
+   "gloss": "one thing / any limit"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   },
   {
    "surface": "விருந்தின்",
@@ -74,7 +89,7 @@
      "gloss": "measure"
     }
    ],
-   "gloss": "measure of the measure"
+   "gloss": "is of the measure of the guest's worth"
   },
   {
    "surface": "வேள்வி",
@@ -82,10 +97,10 @@
     {
      "text": "வேள்வி",
      "lemma": "வேள்வி",
-     "gloss": "sacrifice"
+     "gloss": "sacrifice / hospitality"
     }
    ],
-   "gloss": "sacrifice"
+   "gloss": "of the sacrifice of hospitality"
   },
   {
    "surface": "பயன்",
@@ -93,16 +108,16 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "fruit"
+     "gloss": "benefit / fruit"
     }
    ],
-   "gloss": "fruit"
+   "gloss": "the reward / benefit"
   }
  ],
- "literal": "\"Of this measure\" that which is said one thing is not; of the guest measure-measure sacrifice's fruit.",
- "translation": "The benefit of the sacrifice of hospitality cannot be quantified as being \"just this much\". Its measure is exactly commensurate with the worth of the guests.",
- "modern": "விருந்தோம்பல் என்னும் வேள்வியின் பயன் இவ்வளவுதான் என்று அளவிட்டுக் கூற முடியாது. அது வந்த விருந்தினரின் தகுதிக்கு ஏற்ற அளவினைக் கொண்டதாகும்.",
- "explanation": "The couplet compares the act of hosting guests to a sacred sacrifice ('வேள்வி'). It states that the spiritual or moral benefit ('பயன்') of this hospitality cannot be restricted to a specific, quantifiable amount ('இனைத்துணைத்து'). Instead, the reward is directly proportional to the worth and quality of the guests ('விருந்தின் துணைத்துணை'). Thus, the true value of hospitality lies in the merit of those who are welcomed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "There is no such thing as saying 'the benefit is of this much measure'; the benefit of the sacrifice of hospitality is of the measure of the guest's own worth.",
+ "translation": "There is no fixed measure for the benefit of hosting a guest; its true measure is the worth of the guest who is received.",
+ "modern": "\"விருந்தினரை உபசரிப்பதால் கிடைக்கும் நன்மை இவ்வளவுதான்\" என்று வரையறுத்துக் கூற முடியாது; அந்த விருந்தினரின் தகுதியே அந்த உபசரிப்பாகிய வேள்வியின் பயனின் அளவாகும்.",
+ "explanation": "This couplet explains that the spiritual and moral reward of hospitality cannot be measured by a fixed material standard, such as the cost of the food served. Instead, the true value of the act is determined by the character and qualities of the guest who receives it. The poet uses the word 'வேள்வி' (sacrifice) to describe the noble duty of hosting, elevating it to a sacred ritual. The word 'துணை' is repeated to emphasize that the measure of the reward matches the measure of the guest's worth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

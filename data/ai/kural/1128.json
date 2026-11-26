@@ -11,29 +11,34 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "he-who-is"
+     "gloss": "he who is"
     }
    ],
-   "gloss": "he who is in the heart"
+   "gloss": "he who resides in my heart"
   },
   {
    "surface": "காதலவர்",
    "parts": [
     {
-     "text": "காதலவர்",
-     "lemma": "காதலர்",
-     "gloss": "lover"
+     "text": "காதல்",
+     "lemma": "காதல்",
+     "gloss": "love"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "he"
     }
    ],
-   "gloss": "lover"
+   "gloss": "the beloved"
   },
   {
    "surface": "ஆக",
    "parts": [
     {
      "text": "ஆக",
-     "lemma": "ஆகு",
-     "gloss": "to-become"
+     "lemma": "ஆ",
+     "gloss": "since he is"
     }
    ],
    "gloss": "since he is"
@@ -43,11 +48,11 @@
    "parts": [
     {
      "text": "வெய்து",
-     "lemma": "வெம்மை",
-     "gloss": "hot-thing"
+     "lemma": "வெய்து",
+     "gloss": "hot food"
     }
    ],
-   "gloss": "hot things"
+   "gloss": "hot food"
   },
   {
    "surface": "உண்டல்",
@@ -66,21 +71,21 @@
     {
      "text": "அஞ்சுதும்",
      "lemma": "அஞ்சு",
-     "gloss": "fear-we"
+     "gloss": "I fear"
     }
    ],
-   "gloss": "we fear"
+   "gloss": "I fear"
   },
   {
    "surface": "வேபாக்கு",
    "parts": [
     {
      "text": "வேபாக்கு",
-     "lemma": "வே",
+     "lemma": "வேபாக்கு",
      "gloss": "burning"
     }
    ],
-   "gloss": "burning"
+   "gloss": "the burning"
   },
   {
    "surface": "அறிந்து",
@@ -88,16 +93,16 @@
     {
      "text": "அறிந்து",
      "lemma": "அறி",
-     "gloss": "having-known"
+     "gloss": "knowing"
     }
    ],
    "gloss": "knowing"
   }
  ],
- "literal": "As the lover is he who is in the heart, eating hot things we fear, knowing the burning.",
- "translation": "Since my lover resides in my heart, I fear eating hot food, knowing it would burn him.",
- "modern": "என் காதலர் என் நெஞ்சத்திற்குள் இருப்பதால், அவருக்குச் சுடும் என்பதை அறிந்து நான் சூடான உணவை உண்ணப் பயப்படுகிறேன்.",
- "explanation": "The heroine expresses the depth of her love by imagining her lover physically residing within her heart. Because he is always there, she avoids eating hot food. She fears that the heat of the food will burn him. This delicate hyperbole illustrates how constantly she holds him in her thoughts and how deeply she cares for his well-being.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Since the lover is the resident of my heart, knowing the burning, I fear eating hot food.",
+ "translation": "Since my beloved resides within my heart, I fear to eat hot food, knowing that the heat might burn him.",
+ "modern": "என் காதலர் என் நெஞ்சத்தில் இருப்பதால், சூடான உணவை உண்பதால் அவருக்குச் சூடு பட்டுவிடுமோ என்று அஞ்சி, நான் சூடான உணவை உண்ண அஞ்சுகிறேன்.",
+ "explanation": "This couplet beautifully illustrates the depth of the heroine's love through a tender, imaginative fear. She believes her lover physically resides inside her heart. Consequently, she fears eating hot food because she knows the heat might burn him. This hyperbolic expression shows how her thoughts are entirely consumed by her beloved, to the extent that even her basic daily actions are performed with his comfort in mind.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

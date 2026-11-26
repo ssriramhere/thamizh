@@ -11,10 +11,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "of"
     }
    ],
-   "gloss": "from the sky"
+   "gloss": "of the sky"
   },
   {
    "surface": "துளி",
@@ -25,7 +25,7 @@
      "gloss": "drop"
     }
    ],
-   "gloss": "drop"
+   "gloss": "rain drop"
   },
   {
    "surface": "வீழின்",
@@ -41,23 +41,18 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if falls"
+   "gloss": "if it falls"
   },
   {
    "surface": "அல்லால்",
    "parts": [
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "if"
+     "text": "அல்லால்",
+     "lemma": "அல்லால்",
+     "gloss": "except"
     }
    ],
-   "gloss": "unless"
+   "gloss": "other than / unless"
   },
   {
    "surface": "மற்று",
@@ -65,10 +60,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "otherwise"
+     "gloss": "otherwise / expletive"
     }
    ],
-   "gloss": "otherwise"
+   "gloss": "then / else"
   },
   {
    "surface": "ஆங்கே",
@@ -81,18 +76,23 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "there"
+   "gloss": "at that very place"
   },
   {
    "surface": "பசும்புல்",
    "parts": [
     {
-     "text": "பசும்புல்",
-     "lemma": "பசும்புல்",
-     "gloss": "green grass"
+     "text": "பசும்",
+     "lemma": "பசுமை",
+     "gloss": "green"
+    },
+    {
+     "text": "புல்",
+     "lemma": "புல்",
+     "gloss": "grass"
     }
    ],
    "gloss": "green grass"
@@ -103,21 +103,26 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "head / tip"
     }
    ],
-   "gloss": "head"
+   "gloss": "tip / blade"
   },
   {
    "surface": "காண்பு",
    "parts": [
     {
-     "text": "காண்பு",
+     "text": "காண்",
      "lemma": "காண்",
-     "gloss": "seeing"
+     "gloss": "see"
+    },
+    {
+     "text": "பு",
+     "lemma": "பு",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "seeing"
+   "gloss": "seeing / appearance"
   },
   {
    "surface": "அரிது",
@@ -125,16 +130,16 @@
     {
      "text": "அரிது",
      "lemma": "அரிது",
-     "gloss": "is rare"
+     "gloss": "rare / impossible"
     }
    ],
-   "gloss": "is rare"
+   "gloss": "is rare / is impossible"
   }
  ],
- "literal": "From the sky drop if falls unless, otherwise there green grass head seeing is rare.",
- "translation": "Unless drops of rain fall from the sky, it is rare to see even a blade of green grass.",
- "modern": "வானத்திலிருந்து மழைத்துளி விழவில்லை என்றால், உலகத்தில் ஒரு பச்சைப் புல்லின் நுனியைக் கூடப் பார்ப்பது அரிது.",
- "explanation": "This couplet emphasizes the absolute necessity of rain for all life on earth. It states that without a single drop of rain falling from the sky, even the simplest form of life, a blade of green grass, cannot sprout or survive. The phrase 'பசும்புல் தலை' (head of green grass) vividly illustrates the smallest and most common vegetation. Thus, rain is shown as the fundamental source of life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If a drop of the sky falls except, then, right there, green grass's tip to see is rare.",
+ "translation": "Unless drops of rain fall from the sky, it is impossible to see even the tip of a single blade of green grass.",
+ "modern": "வானத்திலிருந்து மழைத்துளி விழுந்தால் ஒழிய, அந்த இடத்திலே ஒரு பச்சைப் புல்லின் நுனியைக் கூடக் காண்பது அரிதாகும்.",
+ "explanation": "This couplet highlights the absolute necessity of rain for terrestrial life by focusing on its simplest form: grass. The poet states that without rain falling from the sky (விசும்பின் துளி), one cannot even see the tip (தலை) of a blade of green grass (பசும்புல்). The word 'தலை' (literally 'head') is used here to denote the very first shoot or tip of the grass that emerges from the soil. By showing that even the humblest and most resilient plant cannot sprout without rain, the couplet emphasizes that all life on earth is entirely dependent on water from above.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

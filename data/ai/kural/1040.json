@@ -4,14 +4,9 @@
    "surface": "இலம்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அம்",
-     "lemma": "அம்",
-     "gloss": "we"
+     "text": "இலம்",
+     "lemma": "இலம்",
+     "gloss": "we have nothing"
     }
    ],
    "gloss": "we have nothing"
@@ -20,14 +15,9 @@
    "surface": "என்று",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்று",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "று",
-     "lemma": "து",
-     "gloss": "having"
+     "gloss": "saying"
     }
    ],
    "gloss": "saying"
@@ -36,14 +26,9 @@
    "surface": "அசைஇ",
    "parts": [
     {
-     "text": "அசை",
+     "text": "அசைஇ",
      "lemma": "அசை",
-     "gloss": "to be lazy"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "being lazy"
     }
    ],
    "gloss": "being lazy"
@@ -52,48 +37,28 @@
    "surface": "இருப்பாரை",
    "parts": [
     {
-     "text": "இரு",
+     "text": "இருப்பார்",
      "lemma": "இரு",
-     "gloss": "to sit"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who sit idle"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "those who sit (acc.)"
+   "gloss": "those who sit idle"
   },
   {
    "surface": "காணின்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காணின்",
      "lemma": "காண்",
-     "gloss": "to see"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if she sees"
     }
    ],
-   "gloss": "if sees"
+   "gloss": "if she sees"
   },
   {
    "surface": "நிலம்",
@@ -101,23 +66,18 @@
     {
      "text": "நிலம்",
      "lemma": "நிலம்",
-     "gloss": "land"
+     "gloss": "earth"
     }
    ],
-   "gloss": "land"
+   "gloss": "the earth"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "called"
     }
    ],
    "gloss": "called"
@@ -126,39 +86,29 @@
    "surface": "நல்லாள்",
    "parts": [
     {
-     "text": "நல்",
-     "lemma": "நல்",
-     "gloss": "good"
-    },
-    {
-     "text": "ஆள்",
-     "lemma": "ஆள்",
-     "gloss": "woman"
+     "text": "நல்லாள்",
+     "lemma": "நல்லாள்",
+     "gloss": "good lady"
     }
    ],
-   "gloss": "good woman"
+   "gloss": "good lady"
   },
   {
    "surface": "நகும்",
    "parts": [
     {
-     "text": "நகு",
+     "text": "நகும்",
      "lemma": "நகு",
-     "gloss": "to laugh"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will laugh"
     }
    ],
    "gloss": "will laugh"
   }
  ],
- "literal": "\"We have nothing\" saying, being lazy, those who sit (acc.) if sees, land called good woman will laugh.",
- "translation": "If the good woman called Earth sees those who sit idle complaining \"We have nothing,\" she will laugh at them.",
- "modern": "என்னிடம் ஒன்றும் இல்லை என்று கூறிக்கொண்டு சோம்பேறியாக உட்கார்ந்திருப்பவர்களைக் கண்டால், நிலம் என்னும் நல்லவள் அவர்களைப் பார்த்துச் சிரிப்பாள்.",
- "explanation": "This couplet personifies the earth as a generous, good woman. It describes her reaction to people who remain idle and complain about being destitute. If she sees them sitting lazily, saying 'we have nothing,' she will laugh at them. Her laughter implies that the earth holds abundant wealth for anyone willing to work the soil, making their idleness the true cause of their poverty.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If she sees those who sit idle, saying 'we have nothing' and being lazy, the good lady called Earth will laugh.",
+ "translation": "If the good lady called Earth sees those who sit idle, lazily complaining 'we have nothing,' she will laugh in mockery.",
+ "modern": "\"எங்களிடம் ஏதும் இல்லை\" என்று சோம்பேறியாக அமர்ந்திருப்பவர்களைக் கண்டால், பூமிதேவி என்னும் நல்லவள் பார்த்துச் சிரிப்பாள்.",
+ "explanation": "This couplet highlights the value of agricultural labor and the absurdity of complaining about poverty while refusing to work the land. The poet personifies the Earth as a 'good lady' (நல்லாள்) who is ready to yield wealth to those who toil. When people sit idle, lazily complaining that they have nothing, the Earth laughs at their foolishness because the source of abundance is right beneath their feet, waiting to be cultivated. The word 'அசைஇ' denotes being lazy or inactive, and 'நகும்' indicates her mocking laughter at their self-imposed poverty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

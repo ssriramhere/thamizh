@@ -4,30 +4,21 @@
    "surface": "எண்பதத்தான்",
    "parts": [
     {
-     "text": "எண்",
-     "lemma": "எண்",
-     "gloss": "easy"
-    },
-    {
-     "text": "பதத்து",
-     "lemma": "பதம்",
-     "gloss": "state/access"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "with/by"
+     "text": "எண்பதத்தான்",
+     "lemma": "எண்பதத்தான்",
+     "gloss": "he who is easy of access"
     }
    ],
-   "gloss": "with easy access"
+   "gloss": "he who is easy of access",
+   "split_unverified": true
   },
   {
    "surface": "ஓரா",
    "parts": [
     {
-     "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "to examine"
+     "text": "ஓரு",
+     "lemma": "ஓரு",
+     "gloss": "investigate"
     },
     {
      "text": "ஆ",
@@ -35,7 +26,7 @@
      "gloss": "negative suffix"
     }
    ],
-   "gloss": "not examining"
+   "gloss": "without investigating"
   },
   {
    "surface": "முறை",
@@ -54,7 +45,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "ஆ",
@@ -62,39 +53,35 @@
      "gloss": "negative suffix"
     }
    ],
-   "gloss": "not doing"
+   "gloss": "without doing"
   },
   {
    "surface": "மன்னவன்",
    "parts": [
     {
-     "text": "மன்னவன்",
-     "lemma": "மன்னவன்",
-     "gloss": "king"
+     "text": "மன்னு",
+     "lemma": "மன்னு",
+     "gloss": "to rule"
+    },
+    {
+     "text": "அவன்",
+     "lemma": "அவன்",
+     "gloss": "he"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "தண்பதத்தான்",
    "parts": [
     {
-     "text": "தண்",
-     "lemma": "தண்",
-     "gloss": "cool/diminished"
-    },
-    {
-     "text": "பதத்து",
-     "lemma": "பதம்",
-     "gloss": "state"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "by"
+     "text": "தண்பதத்தான்",
+     "lemma": "தண்பதத்தான்",
+     "gloss": "by an easy state (easily)"
     }
    ],
-   "gloss": "by diminished state"
+   "gloss": "by an easy state (easily)",
+   "split_unverified": true
   },
   {
    "surface": "தானே",
@@ -110,7 +97,7 @@
      "gloss": "emphasis"
     }
    ],
-   "gloss": "by himself"
+   "gloss": "himself"
   },
   {
    "surface": "கெடும்",
@@ -118,21 +105,21 @@
     {
      "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "to perish"
+     "gloss": "perish"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will"
     }
    ],
    "gloss": "will perish"
   }
  ],
- "literal": "With easy access not examining, justice not doing king, by diminished state by himself will perish.",
- "translation": "A king who does not examine cases with easy accessibility and fails to administer justice will fall into a diminished state and perish on his own.",
- "modern": "எளிதில் அணுகக்கூடிய நிலையில் இருந்து வழக்குகளை ஆராயாமலும், நீதி வழங்காமலும் இருக்கும் அரசன், தன் வலிமை குன்றிய நிலையில் தானாகவே அழிந்து போவான்.",
- "explanation": "This couplet warns of the inevitable downfall of an inaccessible and unjust ruler. The phrase 'எண்பதத்தான்' (with easy access) acts as an instrumental adverb modifying the negative actions of not examining ('ஓரா') and not doing justice ('செய்யா'), indicating a king who fails to be approachable to his people. Consequently, he is reduced to 'தண்பதத்தான்' (a diminished or 'cooled' state of lost power), leading him to perish entirely on his own ('தானே கெடும்') without needing external enemies to defeat him.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who is easy of access, not investigating and not doing justice, that king, by an easy state, himself will perish.",
+ "translation": "A king who, though easy of access, does not investigate and administer justice, will fall from his position and perish easily of his own accord.",
+ "modern": "எளிய அணுகுமுறை உடையவனாக இருந்தாலும், வழக்குகளை ஆராய்ந்து நீதி வழங்காத அரசன், வலிமையிழந்து தானாகவே எளிதில் அழிந்துபோவான்.",
+ "explanation": "This couplet highlights the absolute necessity of active justice in governance. While being easy of access (எண்பதத்தான்) is a virtue for a ruler, it becomes meaningless if he fails to investigate grievances (ஓரா) and deliver fair justice (முறைசெய்யா). A king who neglects these core duties will lose his authority and fall to a low, vulnerable state (தண்பதத்தான்), perishing of his own accord (தானே கெடும்) without the need for a powerful external enemy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

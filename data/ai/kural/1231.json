@@ -6,10 +6,10 @@
     {
      "text": "சிறுமை",
      "lemma": "சிறுமை",
-     "gloss": "sorrow"
+     "gloss": "distress"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress / affliction"
   },
   {
    "surface": "நமக்கு",
@@ -28,10 +28,10 @@
     {
      "text": "ஒழிய",
      "lemma": "ஒழி",
-     "gloss": "to be left behind"
+     "gloss": "to remain behind"
     }
    ],
-   "gloss": "to be left behind"
+   "gloss": "to remain behind"
   },
   {
    "surface": "சேண்",
@@ -39,10 +39,10 @@
     {
      "text": "சேண்",
      "lemma": "சேண்",
-     "gloss": "far away"
+     "gloss": "distance"
     }
    ],
-   "gloss": "far away"
+   "gloss": "far distance"
   },
   {
    "surface": "சென்றார்",
@@ -64,25 +64,30 @@
      "gloss": "thinking of"
     }
    ],
-   "gloss": "thinking of"
+   "gloss": "thinking of / remembering"
   },
   {
    "surface": "நறுமலர்",
    "parts": [
     {
-     "text": "நறுமலர்",
-     "lemma": "நறுமலர்",
-     "gloss": "fragrant flowers"
+     "text": "நறு",
+     "lemma": "நறை",
+     "gloss": "fragrant"
+    },
+    {
+     "text": "மலர்",
+     "lemma": "மலர்",
+     "gloss": "flower"
     }
    ],
-   "gloss": "fragrant flowers"
+   "gloss": "fragrant flower"
   },
   {
    "surface": "நாணின",
    "parts": [
     {
      "text": "நாணின",
-     "lemma": "நாண்",
+     "lemma": "நாணு",
      "gloss": "felt ashamed"
     }
    ],
@@ -100,10 +105,10 @@
    "gloss": "eyes"
   }
  ],
- "literal": "Sorrow to us to remain, far away he who went thinking of, fragrant flowers felt ashamed eyes.",
- "translation": "Thinking of him who went far away leaving me in sorrow, my eyes have wept so much that they feel ashamed before fragrant flowers.",
- "modern": "நமக்குத் துன்பம் மட்டும் எஞ்சி நிற்க, தொலைதூரத்திற்குச் சென்ற காதலரை நினைத்து அழுது என் கண்கள் அழகிழந்து நறுமணமுள்ள மலர்களைக் கண்டு வெட்கப்படுகின்றன.",
- "explanation": "The speaker laments the loss of her physical beauty due to the sorrow of separation. Her lover has gone far away, leaving her with nothing but distress. Constantly thinking of him and weeping, her once-beautiful eyes have lost their luster. Now, they feel ashamed to even look at fresh, fragrant flowers, knowing they can no longer match their beauty.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Distress to us to remain behind, he who went to a far distance thinking of, fragrant flowers felt ashamed, the eyes.",
+ "translation": "Thinking of him who went far away, leaving me with nothing but distress, my eyes have wept so much that they now shrink in shame before fragrant flowers.",
+ "modern": "நமக்குத் துன்பத்தை விட்டுவிட்டுத் தொலைதூரத்திற்குச் சென்ற காதலரை நினைத்து வருந்துவதால், என் கண்கள் அழகு கெட்டு நறுமணமுள்ள மலர்களுக்கு அஞ்சி நாணமடைகின்றன.",
+ "explanation": "This couplet describes the physical toll of separation on the heroine's eyes. Her lover has departed to a distant land ('சேண் சென்றார்'), leaving her behind in deep distress ('சிறுமை நமக்கு ஒழிய'). By constantly thinking of him and weeping ('உள்ளி'), her eyes have lost their natural luster, becoming red and swollen. Previously, her beautiful eyes were compared to fresh, fragrant flowers ('நறுமலர்') and outshone them; now, having lost their beauty, the eyes feel ashamed ('நாணின') to even look at those flowers.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

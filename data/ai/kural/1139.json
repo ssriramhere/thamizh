@@ -9,30 +9,20 @@
      "gloss": "know"
     },
     {
-     "text": "கில்",
-     "lemma": "கில்",
-     "gloss": "ability (negated)"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "text": "கிலார்",
+     "lemma": "கிலார்",
+     "gloss": "they do not"
     }
    ],
-   "gloss": "they know not"
+   "gloss": "they do not know"
   },
   {
    "surface": "எல்லாரும்",
    "parts": [
     {
-     "text": "எல்லார்",
-     "lemma": "எல்லார்",
-     "gloss": "all people"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "entirety"
+     "text": "எல்லாரும்",
+     "lemma": "எல்லாரும்",
+     "gloss": "everyone"
     }
    ],
    "gloss": "everyone"
@@ -42,8 +32,8 @@
    "parts": [
     {
      "text": "என்று",
-     "lemma": "என்",
-     "gloss": "having said (thinking)"
+     "lemma": "என்று",
+     "gloss": "thinking thus"
     },
     {
      "text": "ஏ",
@@ -51,14 +41,14 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "thinking indeed"
+   "gloss": "thinking thus indeed"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -70,10 +60,10 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "passion"
+     "gloss": "love"
     }
    ],
-   "gloss": "passion"
+   "gloss": "love"
   },
   {
    "surface": "மறுகின்",
@@ -97,10 +87,10 @@
     {
      "text": "மறுகும்",
      "lemma": "மறுகு",
-     "gloss": "whirls / wanders"
+     "gloss": "wanders in distress"
     }
    ],
-   "gloss": "wanders"
+   "gloss": "wanders in distress"
   },
   {
    "surface": "மருண்டு",
@@ -108,16 +98,16 @@
     {
      "text": "மருண்டு",
      "lemma": "மருள்",
-     "gloss": "being bewildered"
+     "gloss": "having become bewildered"
     }
    ],
-   "gloss": "being bewildered"
+   "gloss": "having become bewildered"
   }
  ],
- "literal": "Thinking indeed 'all people know not', my passion in the street wanders being bewildered.",
- "translation": "Thinking that no one knows about it, my passion wanders bewildered in the public street.",
- "modern": "என் காதல், 'எல்லாரும் இதை அறியமாட்டார்கள்' என்று நினைத்துக்கொண்டு, மயங்கித் தெருவிலே சுழன்று திரிகிறது.",
- "explanation": "The speaker's secret love has grown so intense that it can no longer be hidden. The passion itself is personified as being bewildered ('மருண்டு'), foolishly thinking that the public is unaware of it ('அறிகிலார் எல்லாரும் என்றே'), while it openly exposes itself by wandering in the streets. The word 'மறுகு' is used beautifully in two senses: as a noun meaning 'street' ('மறுகின்') and as a verb meaning 'to whirl or wander in distress' ('மறுகும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "They do not know, everyone, thinking thus indeed, my love, in the street, wanders in distress, having become bewildered.",
+ "translation": "Thinking 'no one knows of my secret', my love has become bewildered and wanders openly in distress in the public street.",
+ "modern": "எல்லாரும் என் காதலைப் பற்றி அறியவில்லை என்று நினைத்து, என் காமமானது மருட்சியடைந்து தெருவிலே அலமந்து சுழல்கிறது.",
+ "explanation": "The speaker describes how their intense love, which they tried to keep hidden, has now become public. Believing that no one else knew about this secret passion, the love itself has become bewildered and has spilled out into the public streets. The word 'maruku' has a double meaning: it refers to a public street and also means to be agitated or to whirl in distress. By saying 'marukiṉ marukum' (wanders in distress in the street), the poet brilliantly highlights how a deeply private grief has transformed into a highly visible public exposure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

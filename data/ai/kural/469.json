@@ -6,17 +6,17 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "goodness"
     }
    ],
-   "gloss": "good"
+   "gloss": "goodness"
   },
   {
    "surface": "ஆற்றல்",
    "parts": [
     {
      "text": "ஆற்றல்",
-     "lemma": "ஆற்று",
+     "lemma": "ஆற்றுதல்",
      "gloss": "doing"
     }
    ],
@@ -28,7 +28,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "in"
+     "gloss": "within"
     },
     {
      "text": "உம்",
@@ -36,7 +36,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even in"
+   "gloss": "even within"
   },
   {
    "surface": "தவுறு",
@@ -44,10 +44,10 @@
     {
      "text": "தவுறு",
      "lemma": "தவறு",
-     "gloss": "fault"
+     "gloss": "mistake"
     }
    ],
-   "gloss": "fault"
+   "gloss": "mistake"
   },
   {
    "surface": "உண்டு",
@@ -64,17 +64,12 @@
    "surface": "அவரவர்",
    "parts": [
     {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "that person"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "that person"
+     "text": "அவரவர்",
+     "lemma": "அவரவர்",
+     "gloss": "each person's"
     }
    ],
-   "gloss": "their respective"
+   "gloss": "each person's"
   },
   {
    "surface": "பண்பு",
@@ -103,7 +98,7 @@
    "parts": [
     {
      "text": "ஆற்றா",
-     "lemma": "ஆற்று",
+     "lemma": "ஆற்றுதல்",
      "gloss": "not doing"
     }
    ],
@@ -115,16 +110,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "state"
+     "gloss": "if"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "Good doing even in, fault there is, their respective nature having known not doing state.",
- "translation": "Even in doing a good deed there is room for error, if it is done without understanding the nature of the people involved.",
- "modern": "அவரவர் இயல்பை அறிந்து அதற்கேற்பச் செயல்படாவிட்டால், நன்மை செய்வதிலும் தவறு நேர்ந்துவிடும்.",
- "explanation": "This couplet warns that good intentions alone are not enough when taking action. Even when performing a good deed, a fault can occur. This happens if one acts without first understanding the specific character and nature of the individuals involved. Careful consideration of the recipient is necessary to ensure that a good action yields a good result.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even within doing good, there is mistake, if [one] does not do [it] having known each person's nature.",
+ "translation": "Even in doing good, failure can occur if one does not act after understanding the specific nature of the individuals involved.",
+ "modern": "ஒவ்வொருவருடைய குணத்தையும் அறிந்து அதற்கேற்பச் செய்யாவிட்டால், நன்மை செய்வதிலும் தவறு நேர்ந்துவிடும்.",
+ "explanation": "This couplet warns that even well-intentioned actions can go wrong and result in failure. Doing good is not enough on its own; one must understand the unique character and temperament of the person receiving the help or involved in the action. If we act without this understanding, the good deed may backfire, turn into a mistake, or cause unintended harm. Therefore, thoughtful action requires analyzing both the deed and the nature of the people affected by it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

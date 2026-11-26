@@ -6,12 +6,7 @@
     {
      "text": "மடி",
      "lemma": "மடி",
-     "gloss": "laziness"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "sloth"
     },
     {
      "text": "ஐ",
@@ -19,7 +14,7 @@
      "gloss": "accusative suffix"
     }
    ],
-   "gloss": "laziness (acc.)"
+   "gloss": "sloth (accusative)"
   },
   {
    "surface": "மடியா",
@@ -27,20 +22,15 @@
     {
      "text": "மடி",
      "lemma": "மடி",
-     "gloss": "destruction"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "to destroy"
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகு",
-     "gloss": "as"
+     "lemma": "ஆ",
+     "gloss": "having done (absolutive)"
     }
    ],
-   "gloss": "as destruction"
+   "gloss": "destroying"
   },
   {
    "surface": "ஒழுகல்",
@@ -67,17 +57,12 @@
      "gloss": "family"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "ஐ",
      "lemma": "ஐ",
      "gloss": "accusative suffix"
     }
    ],
-   "gloss": "family (acc.)"
+   "gloss": "one's family (accusative)"
   },
   {
    "surface": "குடியாக",
@@ -85,20 +70,15 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "family"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "exalted family"
     },
     {
      "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "as"
+     "gloss": "to become"
     }
    ],
-   "gloss": "as a family"
+   "gloss": "as an exalted family"
   },
   {
    "surface": "வேண்டுபவர்",
@@ -109,23 +89,18 @@
      "gloss": "to desire"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அவர்",
+     "text": "பவர்",
      "lemma": "அவர்",
-     "gloss": "they (epicene plural)"
+     "gloss": "those who"
     }
    ],
    "gloss": "those who desire"
   }
  ],
- "literal": "Laziness as destruction conducting oneself, family as family those who desire.",
- "translation": "Those who desire their family to be a true family must conduct themselves by treating laziness as destruction.",
- "modern": "தம் குடியைச் சிறந்த குடியாக உயர்த்த விரும்புபவர், சோம்பலைத் தமக்கு அழிவு என்று கருதி அதனை விலக்கி வாழ வேண்டும்.",
- "explanation": "This couplet uses a clever play on the word 'maṭi', which means both 'laziness' and 'destruction'. It creates a parallel structure: just as one desires their family ('kuṭi') to be a true family ('kuṭiyāka'), they must treat laziness ('maṭiyai') as destruction ('maṭiyā'). The message is that anyone wishing to elevate their lineage must conduct themselves with the constant awareness that sluggishness will ruin their efforts.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sloth destroying, conducting oneself, family as an exalted family, those who desire.",
+ "translation": "Those who desire to elevate their family to an exalted status must live their lives by destroying laziness.",
+ "modern": "தங்கள் குடும்பத்தை உயர்ந்த குடியாக உயர்த்த விரும்புகின்றவர்கள், சோம்பலை அழித்து வாழ வேண்டும்.",
+ "explanation": "This couplet highlights the direct link between overcoming laziness and elevating one's family status. The author uses the word 'madi' twice in the first line with different meanings: first as a noun meaning 'sloth' (madiyai) and then as a verb meaning 'destroying' (madiyā). To make one's family a noble and prosperous one (kuṭiyāka), one must actively eliminate laziness from daily conduct (oḻukal). The verse teaches that family honor is not merely inherited but must be actively built and sustained through diligent effort.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

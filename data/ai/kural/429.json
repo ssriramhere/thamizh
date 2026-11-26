@@ -4,22 +4,13 @@
    "surface": "எதிரதாக்",
    "parts": [
     {
-     "text": "எதிரது",
-     "lemma": "எதிரது",
-     "gloss": "future thing"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "as"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
+     "text": "எதிரதாக்",
+     "lemma": "எதிரதாக்",
+     "gloss": "beforehand / anticipating that which is to come"
     }
    ],
-   "gloss": "as a future thing"
+   "gloss": "beforehand / anticipating that which is to come",
+   "split_unverified": true
   },
   {
    "surface": "காக்கும்",
@@ -27,26 +18,36 @@
     {
      "text": "காக்கும்",
      "lemma": "கா",
-     "gloss": "will guard"
+     "gloss": "guarding / protecting"
     }
    ],
-   "gloss": "will guard"
+   "gloss": "guarding against"
   },
   {
    "surface": "அறிவினார்க்",
    "parts": [
     {
-     "text": "அறிவினார்",
-     "lemma": "அறிவினார்",
-     "gloss": "those with wisdom"
+     "text": "அறிவு",
+     "lemma": "அறிவு",
+     "gloss": "knowledge / wisdom"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "oblique increment"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "pronominal suffix (those who)"
     },
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "those with wisdom"
+   "gloss": "to those who possess wisdom"
   },
   {
    "surface": "கில்லை",
@@ -54,27 +55,22 @@
     {
      "text": "கில்லை",
      "lemma": "கில்லை",
-     "gloss": "there is not"
+     "gloss": "there is not for"
     }
    ],
-   "gloss": "there is not",
+   "gloss": "there is not for",
    "split_unverified": true
   },
   {
    "surface": "அதிர",
    "parts": [
     {
-     "text": "அதிர்",
+     "text": "அதிர",
      "lemma": "அதிர்",
-     "gloss": "to tremble"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to tremble / shake"
     }
    ],
-   "gloss": "to tremble"
+   "gloss": "to make them tremble"
   },
   {
    "surface": "வருவது",
@@ -92,11 +88,11 @@
    "parts": [
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "a"
+     "lemma": "ஒரு",
+     "gloss": "one / a single"
     }
    ],
-   "gloss": "a"
+   "gloss": "any single"
   },
   {
    "surface": "நோய்",
@@ -104,16 +100,16 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "affliction / distress / disease"
     }
    ],
-   "gloss": "pain"
+   "gloss": "affliction / calamity"
   }
  ],
- "literal": "Guarding against the future, to the wise there is not a pain that comes to make them tremble.",
- "translation": "Those with the wisdom to foresee and guard against the future will suffer no terrifying afflictions.",
- "modern": "எதிர்காலத்தில் வரப்போவதை முன்னே அறிந்து காத்துக்கொள்ளும் அறிவுடையவர்களுக்கு, அவர்கள் நடுங்கும்படியாக வரும் துன்பம் எதுவும் இல்லை.",
- "explanation": "This couplet highlights the protective power of foresight. The phrase 'எதிரதாக் காக்கும்' refers to anticipating future events and taking preventive measures. Because the wise prepare in advance, no sudden or overwhelming disaster can catch them off guard and cause them to tremble.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For those with wisdom who guard against that which is to come beforehand, there is not any affliction that comes to make them tremble.",
+ "translation": "For those possessing the wisdom to guard against future events beforehand, there is no calamity that can come to make them tremble.",
+ "modern": "வரப்போகும் துன்பத்தை முன்னதாகவே அறிந்து காத்துக் கொள்ளும் அறிவுடையவர்களுக்கு, அவர்கள் நடுங்கும்படி வரக்கூடிய துன்பம் எதுவும் இல்லை.",
+ "explanation": "This couplet emphasizes the power of foresight and prevention. The phrase 'எதிரதாக் காக்கும்' describes the act of anticipating future dangers and taking protective measures before they arrive. Those who possess this active wisdom ('அறிவினார்க்') are never caught off guard. Consequently, no sudden calamity ('நோய்') can ever come to shock or shake ('அதிர') them, as they are always prepared.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

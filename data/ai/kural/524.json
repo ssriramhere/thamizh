@@ -4,17 +4,13 @@
    "surface": "சுற்றத்தால்",
    "parts": [
     {
-     "text": "சுற்றத்து",
-     "lemma": "சுற்றம்",
-     "gloss": "kin (oblique)"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "by"
+     "text": "சுற்றத்தால்",
+     "lemma": "சுற்றத்தால்",
+     "gloss": "by one's relatives"
     }
    ],
-   "gloss": "by kin"
+   "gloss": "by one's relatives",
+   "split_unverified": true
   },
   {
    "surface": "சுற்ற",
@@ -33,7 +29,7 @@
     {
      "text": "பட",
      "lemma": "படு",
-     "gloss": "to experience (passive marker)"
+     "gloss": "to experience/be (forming passive)"
     }
    ],
    "gloss": "to be"
@@ -43,8 +39,8 @@
    "parts": [
     {
      "text": "ஒழுகல்",
-     "lemma": "ஒழுகு",
-     "gloss": "living"
+     "lemma": "ஒழுகுதல்",
+     "gloss": "living/behaving"
     }
    ],
    "gloss": "living"
@@ -75,17 +71,13 @@
    "surface": "பெற்றத்தால்",
    "parts": [
     {
-     "text": "பெற்றத்து",
-     "lemma": "பெற்றம்",
-     "gloss": "acquiring (oblique)"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "by"
+     "text": "பெற்றத்தால்",
+     "lemma": "பெற்றத்தால்",
+     "gloss": "by acquiring"
     }
    ],
-   "gloss": "by the acquiring"
+   "gloss": "by acquiring",
+   "split_unverified": true
   },
   {
    "surface": "பெற்ற",
@@ -104,16 +96,16 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "fruit"
+     "gloss": "benefit/fruit"
     }
    ],
-   "gloss": "fruit"
+   "gloss": "benefit"
   }
  ],
- "literal": "By kin to be surrounded living, wealth indeed by the acquiring obtained fruit.",
- "translation": "Living surrounded by one's kin is the true fruit gained by acquiring wealth.",
- "modern": "ஒருவன் தன் சுற்றத்தார் தன்னைச் சுற்றி அன்போடு இருக்கும்படி வாழ்வதுதான், அவன் செல்வத்தைப் பெற்றதனால் அடைந்த உண்மையான பயனாகும்.",
- "explanation": "This couplet defines the ultimate purpose of acquiring wealth. It states that the true benefit of earning riches is the ability to live surrounded by loving relatives. Wealth is not meant to be hoarded but used to support and embrace one's kin, ensuring they remain close. The word 'சுற்றத்தால்' emphasizes the presence of family, while 'பெற்ற பயன்' highlights that this togetherness is the very fruit of prosperity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By relatives, to be surrounded, living, wealth indeed, by acquiring, obtained benefit.",
+ "translation": "Living surrounded by one's relatives is the true benefit obtained by acquiring wealth.",
+ "modern": "தன் சுற்றத்தாரால் சூழப்பட்டு வாழும் வாழ்க்கை முறையே, ஒருவன் செல்வத்தைப் பெற்றதனால் அடையும் உண்மையான பயனாகும்.",
+ "explanation": "This couplet explains the ultimate purpose of acquiring material wealth. The author states that the real fruit (பயன்) of possessing wealth (செல்வம்) is the ability to live a life surrounded (சுற்றப்பட) and supported by one's relatives (சுற்றம்). The word 'ஒழுகல்' refers to one's conduct and way of living. Thus, wealth is not an end in itself, but a means to foster and cherish a close-knit community of kinsmen.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

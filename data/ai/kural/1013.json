@@ -11,10 +11,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "flesh (acc.)"
+   "gloss": "the flesh"
   },
   {
    "surface": "குறித்த",
@@ -22,10 +22,10 @@
     {
      "text": "குறித்த",
      "lemma": "குறி",
-     "gloss": "that depends on"
+     "gloss": "having as its basis"
     }
    ],
-   "gloss": "depending on"
+   "gloss": "having as its basis"
   },
   {
    "surface": "உயிர்",
@@ -55,18 +55,23 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "modesty"
+     "gloss": "sense of shame"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "sense of shame"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "which is called"
+     "gloss": "to say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
    "gloss": "called"
@@ -77,10 +82,10 @@
     {
      "text": "நன்மை",
      "lemma": "நன்மை",
-     "gloss": "goodness"
+     "gloss": "virtue"
     }
    ],
-   "gloss": "goodness"
+   "gloss": "virtue"
   },
   {
    "surface": "குறித்தது",
@@ -88,10 +93,10 @@
     {
      "text": "குறித்தது",
      "lemma": "குறி",
-     "gloss": "it depends on"
+     "gloss": "has as its basis"
     }
    ],
-   "gloss": "it depends on"
+   "gloss": "has as its basis"
   },
   {
    "surface": "சால்பு",
@@ -99,16 +104,16 @@
     {
      "text": "சால்பு",
      "lemma": "சால்பு",
-     "gloss": "perfection"
+     "gloss": "nobility"
     }
    ],
-   "gloss": "perfection"
+   "gloss": "nobility"
   }
  ],
- "literal": "Flesh depending-on life all; modesty called goodness it-depends-on perfection.",
- "translation": "All life depends on the physical body; true perfection depends on the goodness called modesty.",
- "modern": "எல்லா உயிர்களும் உடம்பை அடிப்படையாகக் கொண்டு வாழ்கின்றன; அதுபோல சான்றாண்மை என்பது நாணம் என்னும் நற்பண்பை அடிப்படையாகக் கொண்டு வாழ்கிறது.",
- "explanation": "The couplet draws a direct parallel between physical existence and moral excellence. Just as all living beings rely on their physical flesh to exist in this world, true perfection relies entirely on the virtue of modesty. The word 'குறித்த' means to be stationed in or to depend upon, showing the foundational nature of these elements. Without the body, life cannot manifest, and without a sense of shame for wrongdoings, noble excellence cannot survive.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "All lives that have flesh as their basis; nobility has as its basis the virtue called shame.",
+ "translation": "Just as all physical life depends on the flesh for its existence, perfect nobility depends on the virtue called a sense of shame.",
+ "modern": "உடலை அடிப்படையாகக் கொண்டுதான் எல்லா உயிர்களும் வாழ்கின்றன; அதுபோல, சால்பு என்னும் சான்றாண்மை நாணம் என்னும் நற்பண்பை அடிப்படையாகக் கொண்டது.",
+ "explanation": "This couplet draws a beautiful analogy between physical existence and moral character. Every living being in the world requires a physical body of flesh to exist. In the exact same way, a person's perfect character or nobility (sālpu) cannot exist without the foundational virtue of 'nāṇ' (a healthy sense of shame or dread of doing wrong). The poet emphasizes that just as a soul without a body cannot manifest, nobility without a sense of shame is impossible.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -21,11 +21,11 @@
    "parts": [
     {
      "text": "செற்றார்",
-     "lemma": "செறு",
-     "gloss": "those who harmed"
+     "lemma": "செற்றார்",
+     "gloss": "those who hated or harmed"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     },
@@ -35,18 +35,28 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even to those who harmed"
+   "gloss": "even to those who harmed us"
   },
   {
    "surface": "இன்னாத",
    "parts": [
     {
-     "text": "இன்னாத",
-     "lemma": "இன்னாத",
-     "gloss": "painful things"
+     "text": "இன்னா",
+     "lemma": "இன்னா",
+     "gloss": "painful or evil"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "increment"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "things"
     }
    ],
-   "gloss": "painful things"
+   "gloss": "evil things"
   },
   {
    "surface": "செய்த",
@@ -57,12 +67,17 @@
      "gloss": "do"
     },
     {
-     "text": "த",
-     "lemma": "த",
-     "gloss": "past suffix"
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "did"
+   "gloss": "that did"
   },
   {
    "surface": "பின்",
@@ -97,32 +112,27 @@
     {
      "text": "விழுமம்",
      "lemma": "விழுமம்",
-     "gloss": "sorrow"
+     "gloss": "distress or ruin"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "great distress"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரு",
-     "lemma": "தா",
-     "gloss": "give"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "text": "தரும்",
+     "lemma": "தரு",
+     "gloss": "will give"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "Without doing, even to those who harmed, painful things after doing, inescapable sorrow it will give.",
- "translation": "If you do harm in return, even to those who harmed you without provocation, it will bring you inescapable sorrow.",
- "modern": "நாம் எந்தத் தீங்கும் செய்யாமல் இருக்க, நமக்குத் தீங்கு செய்தவர்களுக்கும் நாம் துன்பம் தரும் செயல்களைச் செய்தால், அது நாம் தப்ப முடியாத பெருந்துன்பத்தை நமக்குத் தரும்.",
- "explanation": "This couplet warns against retaliation, even when the initial harm was completely unprovoked. The phrase 'செய்யாமல் செற்றார்' refers to those who cause harm without any prior offense from the victim. If one responds to such unprovoked hostility by doing 'இன்னாத' (painful things), the result is 'உய்யா விழுமம்'—a sorrow so deep that one cannot escape or survive it. The word 'உய்யா' means 'unable to escape', emphasizing that revenge ultimately destroys the one who takes it, trapping them in an endless cycle of suffering.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without doing harm, even to those who harmed us, if one does evil things after, inescapable distress it will bring.",
+ "translation": "Even if others have caused us harm without any provocation, doing evil to them in return will bring us inescapable ruin.",
+ "modern": "நமக்கு ஒரு தீங்கும் செய்யாமல் நமக்குத் தீங்கு செய்தவர்க்கும் நாம் திரும்பத் தீங்கு செய்தால், அது நமக்குத் தப்பிக்க முடியாத பெரும் துன்பத்தைத் தரும்.",
+ "explanation": "This couplet emphasizes the absolute principle of non-injury. It warns that even if someone harms us without any provocation, returning that harm will only result in inescapable misery for ourselves. The word 'செற்றார்' refers to those who harbor anger or cause harm, while 'உய்யா' means that which cannot be escaped or cured. Thus, the poet shows that retaliation is self-destructive, bringing unavoidable ruin to the one who seeks revenge.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,7 +17,7 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "sweet thing"
     }
    ],
    "gloss": "is sweet"
@@ -39,7 +39,7 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "sweet thing"
     }
    ],
    "gloss": "is sweet"
@@ -48,14 +48,9 @@
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "they"
+     "gloss": "say-they"
     }
    ],
    "gloss": "they say"
@@ -65,8 +60,8 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தான்",
+     "gloss": "their"
     }
    ],
    "gloss": "their own"
@@ -80,7 +75,7 @@
      "gloss": "children"
     }
    ],
-   "gloss": "children"
+   "gloss": "children's"
   },
   {
    "surface": "மழலை",
@@ -88,10 +83,10 @@
     {
      "text": "மழலை",
      "lemma": "மழலை",
-     "gloss": "prattle"
+     "gloss": "babble"
     }
    ],
-   "gloss": "prattle"
+   "gloss": "lisping"
   },
   {
    "surface": "சொல்",
@@ -109,17 +104,17 @@
    "parts": [
     {
      "text": "கேளாதவர்",
-     "lemma": "கேள்",
+     "lemma": "கேளாதவர்",
      "gloss": "those who have not heard"
     }
    ],
    "gloss": "those who have not heard"
   }
  ],
- "literal": "Flute is sweet, lute is sweet, they say - their own children's prattling words those who have not heard.",
- "translation": "Only those who have not heard the prattling words of their own children will say that the flute and the lute are sweet.",
- "modern": "தங்கள் குழந்தைகளின் மழலைச் சொற்களைக் கேட்காதவர்கள் மட்டுமே குழலின் இசையும் யாழின் இசையும் இனிமையானவை என்று கூறுவார்கள்.",
- "explanation": "The couplet contrasts the beauty of instrumental music with the sound of a child's voice. It states that people praise the sweetness of the flute and the lute only until they hear their own children babble. The words 'குழல்' (flute) and 'யாழ்' (lute) represent the highest forms of refined music. Yet, the natural, unpolished 'மழலை' (prattle) of one's own children surpasses them in sweetness, highlighting the unparalleled joy of parenthood.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Flute is sweet, lute is sweet, they say, who their own children's lisping words have not heard.",
+ "translation": "Only those who have not heard the lisping speech of their own children will say that the flute is sweet and the lute is sweet.",
+ "modern": "தம்முடைய குழந்தைகளின் மழலைச் சொற்களைக் கேட்காதவர்களே, குழலின் ஓசையும் யாழின் ஓசையும் இனிமையானவை என்று கூறுவார்கள்.",
+ "explanation": "This couplet highlights the incomparable sweetness of a child's early, imperfect speech, known as 'maḻalai'. The poet compares this natural sound to the flute and the lute, which were considered the pinnacle of sweet, refined music in classical times. To parents who have experienced the joy of hearing their own children babble, even these exquisite musical instruments sound secondary. Therefore, only those who are deprived of hearing their children's voices would praise instrumental music as the ultimate sweetness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,17 +4,12 @@
    "surface": "செல்லா",
    "parts": [
     {
-     "text": "செல்",
-     "lemma": "செல்",
-     "gloss": "to be effective"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "செல்லா",
+     "lemma": "செல்லா",
+     "gloss": "where it does not work"
     }
    ],
-   "gloss": "ineffective"
+   "gloss": "where it is ineffective"
   },
   {
    "surface": "இடத்து",
@@ -43,11 +38,11 @@
    "parts": [
     {
      "text": "தீது",
-     "lemma": "தீமை",
-     "gloss": "evil"
+     "lemma": "தீது",
+     "gloss": "is bad"
     }
    ],
-   "gloss": "is evil"
+   "gloss": "is bad"
   },
   {
    "surface": "செல்",
@@ -55,10 +50,10 @@
     {
      "text": "செல்",
      "lemma": "செல்",
-     "gloss": "to be effective"
+     "gloss": "where it works"
     }
    ],
-   "gloss": "effective"
+   "gloss": "where it is effective"
   },
   {
    "surface": "இடத்தும்",
@@ -91,14 +86,9 @@
    "surface": "அதனின்",
    "parts": [
     {
-     "text": "அதன்",
+     "text": "அதனின்",
      "lemma": "அது",
-     "gloss": "that"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than that"
     }
    ],
    "gloss": "than that"
@@ -108,11 +98,11 @@
    "parts": [
     {
      "text": "தீய",
-     "lemma": "தீமை",
+     "lemma": "தீது",
      "gloss": "evil things"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "more evil things"
   },
   {
    "surface": "பிற",
@@ -123,13 +113,13 @@
      "gloss": "other things"
     }
    ],
-   "gloss": "others"
+   "gloss": "other things"
   }
  ],
- "literal": "Ineffective in place anger is evil; effective in place even, there is not than that evil other.",
- "translation": "Anger is bad when directed at those against whom it is powerless. Even when it has the power to act, there is no greater evil than anger.",
- "modern": "தன் அதிகாரம் செல்லாத இடத்தில் கோபம் கொள்வது தீமையானது. அதிகாரம் செல்லும் இடத்திலும் கூட, அக்கோபத்தை விடத் தீமையானவை வேறு எதுவும் இல்லை.",
- "explanation": "This couplet evaluates anger based on the power dynamic between the angry person and their target. When directed at someone stronger, where it cannot take effect, anger is harmful because it invites retaliation and ruin. Yet, even when directed at someone weaker, where it can take effect, there is no evil worse than anger itself, as it destroys one's own peace and character. The verb 'செல்' (to go) is used here in the specific sense of being effective or having power over a situation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the place where it does not work, anger is bad; even in the place where it works, there are no other things more evil than that.",
+ "translation": "Anger is harmful when directed at those where it has no effect; even when directed at those where it does have an effect, there is nothing more evil than it.",
+ "modern": "தன் கோபம் செல்லுபடியாகாத இடத்தில் கோபம் கொள்வது தீமையானது; தன் கோபம் செல்லுபடியாகும் இடத்திலும் அதைவிடத் தீமையானது வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet analyzes the consequences of anger in two distinct situations: against those who are stronger and against those who are weaker. In a situation where one's anger cannot prevail (against the powerful), harboring anger only causes self-harm and distress. Conversely, in a situation where one's anger does prevail (against the powerless), exercising it is the ultimate evil because it leads to oppression and moral ruin. Therefore, anger is entirely destructive and unjustifiable in any circumstance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

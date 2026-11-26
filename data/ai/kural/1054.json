@@ -30,18 +30,18 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "giving indeed"
+   "gloss": "indeed giving"
   },
   {
    "surface": "போலும்",
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போலுதல்",
+     "lemma": "போலும்",
      "gloss": "resembles"
     }
    ],
-   "gloss": "is like"
+   "gloss": "resembles"
   },
   {
    "surface": "கரத்தல்",
@@ -49,10 +49,10 @@
     {
      "text": "கரத்தல்",
      "lemma": "கரத்தல்",
-     "gloss": "withholding"
+     "gloss": "hiding"
     }
    ],
-   "gloss": "withholding"
+   "gloss": "hiding"
   },
   {
    "surface": "கனவிலும்",
@@ -73,15 +73,20 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even in dream"
+   "gloss": "even in a dream"
   },
   {
    "surface": "தேற்றாதார்",
    "parts": [
     {
-     "text": "தேற்றாதார்",
-     "lemma": "தேற்றுதல்",
-     "gloss": "those who do not know"
+     "text": "தேற்று",
+     "lemma": "தேற்று",
+     "gloss": "know"
+    },
+    {
+     "text": "ஆதார்",
+     "lemma": "ஆதார்",
+     "gloss": "those who do not"
     }
    ],
    "gloss": "those who do not know"
@@ -92,16 +97,16 @@
     {
      "text": "மாட்டு",
      "lemma": "மாட்டு",
-     "gloss": "with"
+     "gloss": "towards"
     }
    ],
-   "gloss": "with"
+   "gloss": "towards"
   }
  ],
- "literal": "Even begging giving indeed is like, withholding even in dream those who do not know with.",
- "translation": "Begging is as joyful as giving itself, when asking from those who do not know how to withhold even in their dreams.",
- "modern": "கனவில் கூடத் தாம் உள்ளதை மறைக்கத் தெரியாதவர்களிடம் சென்று ஒன்றை யாசிப்பது, பிறருக்குக் கொடுப்பதற்குச் சமமான இன்பத்தைத் தரும்.",
- "explanation": "This couplet elevates the act of asking for help when it is directed at the truly generous. The word 'karattal' means concealing or withholding what one has from those who ask. When one approaches people who do not even dream of withholding their wealth, the act of begging loses its usual sting. In such cases, asking brings as much joy and dignity as the act of giving itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even begging resembles indeed giving, towards those who do not know hiding even in a dream.",
+ "translation": "Begging from those who do not know how to hide their wealth, even in their dreams, is as pleasant as giving itself.",
+ "modern": "கனவிலும் பிறருக்குக் கொடுப்பதை மறைக்கத் தெரியாதவர்களிடம் சென்று இரப்பதும், பிறருக்குக் கொடுப்பதைப் போன்ற பெருமை உடையதே ஆகும்.",
+ "explanation": "This couplet explains that begging is not always a degrading act; its nature depends entirely on whom one asks. When a person begs from generous souls who cannot even conceive of hiding their wealth or refusing a request, even in their dreams, that act of receiving becomes as beautiful and dignified as giving itself. The key word 'கரத்தல்' refers to the act of concealing one's resources to avoid giving, and 'தேற்றாதார்' describes those who are completely incapable of such deceit. Thus, asking from such noble givers brings no shame, only joy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

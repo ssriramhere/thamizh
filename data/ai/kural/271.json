@@ -16,11 +16,12 @@
    "parts": [
     {
      "text": "மனத்தான்",
-     "lemma": "மனம்",
-     "gloss": "he of the mind"
+     "lemma": "மனத்தான்",
+     "gloss": "he who has a mind"
     }
    ],
-   "gloss": "he of the mind"
+   "gloss": "he who has a mind",
+   "split_unverified": true
   },
   {
    "surface": "படிற்று",
@@ -28,10 +29,10 @@
     {
      "text": "படிற்று",
      "lemma": "படிறு",
-     "gloss": "deceitful"
+     "gloss": "false/fraudulent"
     }
    ],
-   "gloss": "deceitful"
+   "gloss": "false"
   },
   {
    "surface": "ஒழுக்கம்",
@@ -48,20 +49,30 @@
    "surface": "பூதங்கள்",
    "parts": [
     {
-     "text": "பூதங்கள்",
+     "text": "பூதம்",
      "lemma": "பூதம்",
-     "gloss": "elements"
+     "gloss": "element"
+    },
+    {
+     "text": "கள்",
+     "lemma": "கள்",
+     "gloss": "plural suffix"
     }
    ],
-   "gloss": "elements"
+   "gloss": "the elements"
   },
   {
    "surface": "ஐந்தும்",
    "parts": [
     {
-     "text": "ஐந்தும்",
+     "text": "ஐந்து",
      "lemma": "ஐந்து",
-     "gloss": "all five"
+     "gloss": "five"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "all"
     }
    ],
    "gloss": "all five"
@@ -71,28 +82,34 @@
    "parts": [
     {
      "text": "அகத்தே",
-     "lemma": "அகம்",
-     "gloss": "inside-indeed"
+     "lemma": "அகத்தே",
+     "gloss": "within indeed"
     }
    ],
-   "gloss": "inside-indeed"
+   "gloss": "within indeed",
+   "split_unverified": true
   },
   {
    "surface": "நகும்",
    "parts": [
     {
-     "text": "நகும்",
+     "text": "நகு",
      "lemma": "நகு",
-     "gloss": "will laugh"
+     "gloss": "laugh"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
    "gloss": "will laugh"
   }
  ],
- "literal": "deceitful / he of the mind / deceitful / conduct / elements / all five / inside-indeed / will laugh",
- "translation": "The five elements within his own body will laugh inwardly at the hypocritical conduct of a man with a deceitful mind.",
- "modern": "வஞ்சகமான மனத்தை உடையவனின் பொய்யான ஒழுக்கத்தைக் கண்டு, அவனது உடம்பில் உள்ள ஐம்பூதங்களும் தமக்குள்ளே சிரிக்கும்.",
- "explanation": "This couplet exposes the folly of hypocrisy by pointing out that a person cannot hide their true nature from themselves. The 'five elements' (earth, water, fire, air, space) that make up the person's own body are constant witnesses to their deceit. Even if the world is fooled by their outward conduct, their own inner being will mock their false behavior. The word 'நகும்' (will laugh) powerfully personifies the elements, showing the absurdity of trying to fake virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The false conduct of him who has a deceitful mind, the five elements within indeed will laugh.",
+ "translation": "At the false conduct of a man with a deceitful mind, the five elements that dwell within him will laugh in derision.",
+ "modern": "வஞ்சக மனதை உடையவனுடைய பொய்யான ஒழுக்கத்தைக் கண்டு, அவனுடைய உடம்பிற்குள் இருக்கும் ஐந்து பூதங்களும் மனதிற்குள் சிரிக்கும்.",
+ "explanation": "This couplet exposes the futility of hypocrisy. A person may successfully deceive the outside world with a false show of virtuous conduct (படிற்றொழுக்கம்). However, they cannot hide their true nature from the five elements (பூதங்கள் ஐந்தும்)—earth, water, fire, air, and space—that constitute their own physical body. Knowing the inner deceit, these elements laugh inwardly (அகத்தே நகும்) at the hypocrite's pretense, emphasizing that true virtue must be genuine and internal.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

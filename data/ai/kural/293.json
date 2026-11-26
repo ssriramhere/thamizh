@@ -17,10 +17,10 @@
     {
      "text": "நெஞ்சு",
      "lemma": "நெஞ்சு",
-     "gloss": "heart"
+     "gloss": "heart or mind"
     }
    ],
-   "gloss": "heart"
+   "gloss": "heart or mind"
   },
   {
    "surface": "அறிவது",
@@ -37,12 +37,17 @@
    "surface": "பொய்யற்க",
    "parts": [
     {
-     "text": "பொய்யற்க",
+     "text": "பொய்",
      "lemma": "பொய்",
-     "gloss": "let one not lie"
+     "gloss": "to lie"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not"
     }
    ],
-   "gloss": "let one not lie"
+   "gloss": "do not lie"
   },
   {
    "surface": "பொய்த்த",
@@ -50,10 +55,10 @@
     {
      "text": "பொய்த்த",
      "lemma": "பொய்",
-     "gloss": "lied"
+     "gloss": "having lied"
     }
    ],
-   "gloss": "lied"
+   "gloss": "having lied"
   },
   {
    "surface": "பின்",
@@ -83,28 +88,23 @@
     {
      "text": "நெஞ்சு",
      "lemma": "நெஞ்சு",
-     "gloss": "heart"
+     "gloss": "heart or mind"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "itself"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "heart itself"
+   "gloss": "one's own heart or mind itself"
   },
   {
    "surface": "தன்னை",
    "parts": [
     {
-     "text": "தன்",
+     "text": "தன்னை",
      "lemma": "தான்",
      "gloss": "oneself"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
     }
    ],
    "gloss": "oneself"
@@ -113,23 +113,18 @@
    "surface": "சுடும்",
    "parts": [
     {
-     "text": "சுடு",
+     "text": "சுடும்",
      "lemma": "சுடு",
-     "gloss": "burn"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will burn"
     }
    ],
    "gloss": "will burn"
   }
  ],
- "literal": "One's own heart that which is known let one not lie; lied after, one's own heart itself oneself will burn.",
- "translation": "Do not lie about what your own heart knows to be true. If you do, your own heart will burn you.",
- "modern": "தன் நெஞ்சுக்குத் தெரிந்த உண்மையை மறைத்துப் பொய் சொல்லக் கூடாது. அப்படிப் பொய் சொன்னால், தன் நெஞ்சமே தன்னைத் தண்டித்து வருத்தும்.",
- "explanation": "This couplet emphasizes the inescapable internal consequence of speaking a falsehood. The phrase 'தன் நெஞ்சு அறிவது' refers to the truth that a person is fully aware of in their own mind. If one speaks against this inner knowledge, the resulting guilt cannot be avoided. The word 'சுடும்' (will burn) vividly captures how one's own conscience becomes the punisher, inflicting mental agony after the lie is told.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not lie about that which one's own mind knows; after lying, one's own mind itself will burn oneself.",
+ "translation": "Do not tell a lie about what your own mind knows to be true; if you do lie, your own conscience will burn you.",
+ "modern": "தன் மனதுக்குத் தெரிந்த உண்மையை மறைத்துப் பொய் சொல்லக் கூடாது; அப்படிப் பொய் சொன்னால், தன் மனமே தன்னை வருத்தும்.",
+ "explanation": "This couplet emphasizes the power of conscience in upholding truthfulness. It advises that one must never speak a lie against what their own heart or mind knows to be true. If a person goes against their inner knowledge and lies, their own conscience will continuously torment and burn them with guilt. The word 'neñcu' (heart or mind) here represents the internal witness of truth, and 'cuṭum' (will burn) vividly describes the painful heat of self-reproach.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

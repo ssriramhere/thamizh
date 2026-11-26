@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "ஐயத்தின்",
-     "lemma": "ஐயம்",
+     "lemma": "ஐயத்தின்",
      "gloss": "from doubt"
     }
    ],
-   "gloss": "from doubt"
+   "gloss": "from doubt",
+   "split_unverified": true
   },
   {
    "surface": "நீங்கி",
@@ -17,32 +18,38 @@
     {
      "text": "நீங்கி",
      "lemma": "நீங்கு",
-     "gloss": "having departed"
+     "gloss": "having freed oneself"
     }
    ],
-   "gloss": "having departed"
+   "gloss": "having freed oneself"
   },
   {
    "surface": "தெளிந்தார்க்கு",
    "parts": [
     {
-     "text": "தெளிந்தார்க்கு",
+     "text": "தெளிந்தார்",
      "lemma": "தெளி",
-     "gloss": "to those who are clear"
+     "gloss": "those who attained clarity"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who are clear"
+   "gloss": "to those who have attained clarity"
   },
   {
    "surface": "வையத்தின்",
    "parts": [
     {
      "text": "வையத்தின்",
-     "lemma": "வையம்",
+     "lemma": "வையத்தின்",
      "gloss": "than the earth"
     }
    ],
-   "gloss": "than the earth"
+   "gloss": "than the earth",
+   "split_unverified": true
   },
   {
    "surface": "வானம்",
@@ -59,29 +66,34 @@
    "surface": "நணியது",
    "parts": [
     {
-     "text": "நணியது",
+     "text": "நணி",
      "lemma": "நணி",
      "gloss": "nearness"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
-   "gloss": "nearness"
+   "gloss": "that which is nearer"
   },
   {
    "surface": "உடைத்து",
    "parts": [
     {
      "text": "உடைத்து",
-     "lemma": "உடைமை",
-     "gloss": "it possesses"
+     "lemma": "உடைத்து",
+     "gloss": "it has"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "it has"
   }
  ],
- "literal": "From doubt having departed to those who are clear, than the earth heaven nearness possesses.",
- "translation": "To those who have freed themselves from doubt and attained clarity, heaven is nearer than the earth.",
- "modern": "ஐயங்களிலிருந்து விடுபட்டு தெளிந்த அறிவைப் பெற்றவர்களுக்கு, இந்த உலகத்தை விட வானுலகம் மிகவும் நெருக்கமானதாகும்.",
- "explanation": "This couplet emphasizes the power of clear, doubt-free understanding. The phrase 'ஐயத்தின் நீங்கி' means departing from all uncertainties and illusions. For those who achieve such flawless clarity ('தெளிந்தார்க்கு'), the ultimate state of heaven ('வானம்') becomes closer and more accessible than the physical earth ('வையத்தின்') they stand on. The word 'நணியது' denotes nearness, showing that spiritual liberation is immediately within reach for the truly realized.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "From doubt having freed themselves, to those who have attained clarity, than the earth, heaven nearer it has.",
+ "translation": "To those who have freed themselves from doubt and attained clear vision, heaven is closer than this earth.",
+ "modern": "ஐயத்திலிருந்து நீங்கி மெய்ப்பொருளைத் தெளிவாக உணர்ந்தவர்களுக்கு, இவ்வுலகத்தை விட வானுலகம் மிக அருகில் உள்ளதாகும்.",
+ "explanation": "This couplet explains the state of those who have attained true knowledge. When a person removes all doubts (ஐயம்) and achieves absolute clarity of mind (தெளிவு), the ultimate state of liberation (வானம்) is closer to them than this physical earth (வையம்) they inhabit. The poet uses the word 'நணியது' (nearer) to emphasize that liberation is not a distant, unreachable goal but an immediate reality for the enlightened mind.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

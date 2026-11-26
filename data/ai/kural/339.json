@@ -9,14 +9,9 @@
      "gloss": "to sleep"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "verbal noun suffix"
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizing suffix"
     }
    ],
    "gloss": "sleeping"
@@ -25,14 +20,9 @@
    "surface": "போலும்",
    "parts": [
     {
-     "text": "போல்",
-     "lemma": "போல்",
-     "gloss": "to resemble"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "habitual suffix"
+     "text": "போலும்",
+     "lemma": "போலும்",
+     "gloss": "is like"
     }
    ],
    "gloss": "is like"
@@ -59,7 +49,7 @@
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "past participle suffix"
+     "gloss": "past verbal participle suffix"
     }
    ],
    "gloss": "having slept"
@@ -70,22 +60,12 @@
     {
      "text": "விழி",
      "lemma": "விழி",
-     "gloss": "to wake"
+     "gloss": "to wake up"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "verbal noun suffix"
+     "text": "ப்பது",
+     "lemma": "ப்பது",
+     "gloss": "nominalizing suffix"
     }
    ],
    "gloss": "waking up"
@@ -94,14 +74,9 @@
    "surface": "போலும்",
    "parts": [
     {
-     "text": "போல்",
-     "lemma": "போல்",
-     "gloss": "to resemble"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "habitual suffix"
+     "text": "போலும்",
+     "lemma": "போலும்",
+     "gloss": "is like"
     }
    ],
    "gloss": "is like"
@@ -118,10 +93,10 @@
    "gloss": "birth"
   }
  ],
- "literal": "Sleeping is-like death; having-slept waking-up is-like birth.",
- "translation": "Death is like falling asleep, and birth is like waking up from that sleep.",
- "modern": "இறப்பு என்பது தூங்குவதைப் போன்றது; பிறப்பு என்பது தூங்கி விழிப்பதைப் போன்றது.",
- "explanation": "The couplet compares the cycle of life and death to the familiar daily cycle of sleeping and waking. Death is likened to the state of sleep, presenting it as a natural and temporary resting phase. Birth is compared to waking up after having slept. This simple analogy emphasizes the transience of life, showing death and birth as alternating, inevitable states rather than absolute endings or beginnings.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sleeping is like death; having slept, waking up is like birth.",
+ "translation": "Death is like falling asleep, and birth is like waking up after sleep.",
+ "modern": "இறப்பு என்பது உறங்குவதைப் போன்றது; உறங்கிவிட்டு விழித்தெழுவது போன்றது பிறப்பு.",
+ "explanation": "This couplet explains the concept of impermanence and the cycle of life using a simple, everyday analogy. Death is compared to falling asleep, which is a natural, temporary state of rest. Birth is compared to waking up after that sleep. By equating these grand cosmic transitions to the familiar daily cycle of sleeping and waking, the poet demystifies death and shows that life is a continuous journey of transitions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

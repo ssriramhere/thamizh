@@ -6,10 +6,11 @@
     {
      "text": "அறவினை",
      "lemma": "அறவினை",
-     "gloss": "virtuous deed"
+     "gloss": "virtuous action"
     }
    ],
-   "gloss": "virtuous deed"
+   "gloss": "virtuous action",
+   "split_unverified": true
   },
   {
    "surface": "யாது",
@@ -27,11 +28,11 @@
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if asked"
+     "lemma": "எனின்",
+     "gloss": "if one asks"
     }
    ],
-   "gloss": "if asked"
+   "gloss": "if one asks"
   },
   {
    "surface": "கொல்லாமை",
@@ -49,7 +50,7 @@
    "parts": [
     {
      "text": "கோறல்",
-     "lemma": "கோறல்",
+     "lemma": "கொல்லுதல்",
      "gloss": "killing"
     }
    ],
@@ -59,12 +60,17 @@
    "surface": "பிறவினை",
    "parts": [
     {
-     "text": "பிறவினை",
-     "lemma": "பிறவினை",
-     "gloss": "other deeds"
+     "text": "பிற",
+     "lemma": "பிற",
+     "gloss": "other"
+    },
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "actions"
     }
    ],
-   "gloss": "other deeds"
+   "gloss": "other actions"
   },
   {
    "surface": "எல்லாம்",
@@ -82,17 +88,17 @@
    "parts": [
     {
      "text": "தரும்",
-     "lemma": "தா",
+     "lemma": "தருதல்",
      "gloss": "will bring"
     }
    ],
    "gloss": "will bring"
   }
  ],
- "literal": "Virtuous deed what if asked, non-killing; killing other deeds all will bring.",
- "translation": "If asked what the supreme virtuous deed is, it is non-killing. The act of killing brings about all other evil deeds.",
- "modern": "சிறந்த அறச்செயல் எது என்று கேட்டால், அது ஓர் உயிரையும் கொல்லாமல் இருப்பதே ஆகும். கொலை செய்வது மற்ற தீய செயல்கள் எல்லாவற்றையும் ஒருவனுக்குக் கொண்டுவரும்.",
- "explanation": "This couplet defines the highest virtue as the practice of non-killing (கொல்லாமை). It contrasts this with the act of killing (கோறல்), which is identified as the root cause of all other sins. By stating that killing brings all other evil deeds (பிறவினை எல்லாம் தரும்), the poet emphasizes that violence destroys the foundation of moral life. Therefore, preserving life is the ultimate ethical action from which all other virtues flow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one asks what virtuous action is, it is non-killing; killing will bring all other actions.",
+ "translation": "If you ask what virtuous action is, it is non-killing; killing will bring about all other harmful deeds.",
+ "modern": "அறச்செயல் எது என்று கேட்டால் அது கொல்லாமையே ஆகும்; உயிரைக் கொல்லுதல் மற்ற தீய செயல்கள் அனைத்தையும் கொண்டுவந்து சேர்க்கும்.",
+ "explanation": "This couplet defines the essence of virtue as the practice of non-killing. The author states that if one inquires about the foremost virtuous deed, the answer is simply not taking any life. On the other hand, committing the act of killing is described as a gateway sin that brings about all other harmful and evil deeds. By upholding non-killing, a person is naturally protected from falling into other vices.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

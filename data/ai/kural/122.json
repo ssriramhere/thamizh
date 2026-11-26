@@ -6,7 +6,7 @@
     {
      "text": "காக்க",
      "lemma": "கா",
-     "gloss": "let guard"
+     "gloss": "let one guard"
     }
    ],
    "gloss": "let one guard"
@@ -17,26 +17,27 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "wealth"
+     "gloss": "wealth or value"
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகு",
-     "gloss": "as"
+     "lemma": "ஆக",
+     "gloss": "as or considering as"
     }
    ],
-   "gloss": "as wealth"
+   "gloss": "considering as a valuable treasure"
   },
   {
    "surface": "அடக்கத்தை",
    "parts": [
     {
      "text": "அடக்கத்தை",
-     "lemma": "அடக்கம்",
-     "gloss": "self-control (accusative)"
+     "lemma": "அடக்கத்தை",
+     "gloss": "self-control"
     }
    ],
-   "gloss": "self-control (obj.)"
+   "gloss": "self-control",
+   "split_unverified": true
   },
   {
    "surface": "ஆக்கம்",
@@ -44,21 +45,22 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "gain"
+     "gloss": "prosperity or elevation"
     }
    ],
-   "gloss": "gain"
+   "gloss": "prosperity"
   },
   {
    "surface": "அதனின்",
    "parts": [
     {
      "text": "அதனின்",
-     "lemma": "அது",
+     "lemma": "அதனின்",
      "gloss": "than that"
     }
    ],
-   "gloss": "than that"
+   "gloss": "than that",
+   "split_unverified": true
   },
   {
    "surface": "ஊஉங்கு",
@@ -66,7 +68,7 @@
     {
      "text": "ஊஉங்கு",
      "lemma": "ஊங்கு",
-     "gloss": "greater"
+     "gloss": "greater or beyond"
     }
    ],
    "gloss": "greater"
@@ -77,7 +79,7 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
    "gloss": "there is not"
@@ -88,21 +90,21 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "life or soul"
     },
     {
-     "text": "க்கு",
+     "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
-   "gloss": "to life"
+   "gloss": "to a person's life"
   }
  ],
- "literal": "Let one guard as wealth self-control; gain than that greater is not to life.",
- "translation": "Guard self-control as a precious treasure. There is no greater wealth for a living being than that.",
- "modern": "அடக்கத்தை ஒரு சிறந்த செல்வமாகப் போற்றிக் காக்க வேண்டும். ஒருயிருக்கு அதைவிடச் சிறந்த செல்வம் வேறு எதுவும் இல்லை.",
- "explanation": "This couplet emphasizes the supreme value of self-control. It urges the reader to guard self-control as if it were the most precious material wealth. The word 'பொருள்' can mean meaning, reality, or wealth; here it specifically means wealth or treasure. Similarly, 'ஆக்கம்' can mean creation or prosperity, but here it means gain or wealth. The text states that for any living soul, there is no greater gain than mastering oneself, making self-control the ultimate treasure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Let one guard self-control as a treasure; prosperity greater than that there is not for life.",
+ "translation": "One should guard self-control as a precious treasure; there is no greater wealth than that for a person's life.",
+ "modern": "அடக்கத்தை ஒரு சிறந்த செல்வமாகக் கருதி அதைக் காக்க வேண்டும்; மனித உயிருக்கு அதைவிடச் சிறந்த செல்வம் வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the supreme value of self-control. The poet advises us to protect and nurture self-restraint (அடக்கம்) as if it were our most precious wealth (பொருள்). The second line reinforces this by stating that there is absolutely no greater source of true prosperity or elevation (ஆக்கம்) for a human life (உயிர்) than possessing this single virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

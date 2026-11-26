@@ -6,17 +6,17 @@
     {
      "text": "அரங்கு",
      "lemma": "அரங்கு",
-     "gloss": "board"
+     "gloss": "game board"
     }
    ],
-   "gloss": "board"
+   "gloss": "game board"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்று",
      "gloss": "without"
     }
    ],
@@ -28,10 +28,10 @@
     {
      "text": "வட்டு",
      "lemma": "வட்டு",
-     "gloss": "game-piece"
+     "gloss": "playing piece"
     }
    ],
-   "gloss": "game-piece"
+   "gloss": "playing piece"
   },
   {
    "surface": "ஆடி",
@@ -50,15 +50,15 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "like that indeed"
+   "gloss": "is just like"
   },
   {
    "surface": "நிரம்பிய",
@@ -66,10 +66,10 @@
     {
      "text": "நிரம்பிய",
      "lemma": "நிரம்பு",
-     "gloss": "complete"
+     "gloss": "thorough"
     }
    ],
-   "gloss": "complete"
+   "gloss": "thorough"
   },
   {
    "surface": "நூல்",
@@ -77,17 +77,17 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "book"
+     "gloss": "learned book"
     }
    ],
-   "gloss": "book"
+   "gloss": "learned books"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்று",
      "gloss": "without"
     }
    ],
@@ -110,16 +110,16 @@
     {
      "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "taking part"
+     "gloss": "holding"
     }
    ],
-   "gloss": "taking part"
+   "gloss": "holding or participating in"
   }
  ],
- "literal": "Board without, game-piece having played, like that indeed: complete book without, assembly taking part.",
- "translation": "Taking part in an assembly without complete learning is exactly like playing a game with pieces but no board.",
- "modern": "முழுமையான நூலறிவு இல்லாமல் கற்றவர் அவையில் சென்று பேசுவது, கட்டம் வரைந்த பலகை இல்லாமல் வட்டு விளையாடுவதைப் போன்றது.",
- "explanation": "This couplet uses a vivid analogy to show the futility of an uneducated person trying to participate in a learned discussion. It compares such an attempt to playing a board game ('வட்டு') without the board ('அரங்கு') that defines the rules and spaces. Just as the game pieces have no meaning without the board, a person's words have no weight in an assembly ('கோட்டி') without the solid foundation of complete learning ('நிரம்பிய நூல்'). The emphatic 'ஏ' in 'அற்றே' stresses that the two situations are exactly alike.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without a game board, playing with a piece is like; without thorough learned books, holding an assembly.",
+ "translation": "To participate in an assembly of scholars without thorough learning is like playing a game of dice without a game board.",
+ "modern": "விளையாடும் பலகை இல்லாமல் வட்டு உருட்டி விளையாடுவதைப் போன்றது, முழுமையான நூலறிவு இல்லாமல் அறிஞர்கள் அவையில் பேசுவது.",
+ "explanation": "This couplet uses a vivid analogy to show the futility of unlearned people trying to engage in intellectual debates. The word 'vaṭṭu' refers to a playing piece or die, and 'araṅku' is the marked board required to play the game. Just as throwing dice without a board is meaningless and impossible to score, speaking in an assembly ('kōṭṭi') without comprehensive knowledge ('nirampiya nūl') is completely pointless. The poet emphasizes that thorough learning is the essential foundation for any intellectual discourse.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,15 +6,15 @@
     {
      "text": "கவ்வை",
      "lemma": "கவ்வை",
-     "gloss": "gossip"
+     "gloss": "public gossip"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by / because of"
     }
    ],
-   "gloss": "by gossip"
+   "gloss": "because of public gossip"
   },
   {
    "surface": "கவ்விது",
@@ -22,10 +22,10 @@
     {
      "text": "கவ்விது",
      "lemma": "கவ்விது",
-     "gloss": "it is budding"
+     "gloss": "it is sustained / it thrives"
     }
    ],
-   "gloss": "it is budding"
+   "gloss": "it is sustained and thrives"
   },
   {
    "surface": "காமம்",
@@ -33,7 +33,7 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "love"
+     "gloss": "love / desire"
     }
    ],
    "gloss": "love"
@@ -44,7 +44,7 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that"
+     "gloss": "that (gossip)"
     }
    ],
    "gloss": "that"
@@ -55,7 +55,7 @@
     {
      "text": "இன்று",
      "lemma": "இன்று",
-     "gloss": "is not"
+     "gloss": "without"
     },
     {
      "text": "ஏல்",
@@ -63,7 +63,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if it is not"
+   "gloss": "if that is not there"
   },
   {
    "surface": "தவ்",
@@ -71,21 +71,26 @@
     {
      "text": "தவ்",
      "lemma": "தவ்",
-     "gloss": "'tav' (fading)"
+     "gloss": "shrinking / fading"
     }
    ],
-   "gloss": "'tav' (fading)"
+   "gloss": "shrinking"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "will say"
+     "gloss": "to say / to be like"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "will say"
+   "gloss": "of the nature of / called"
   },
   {
    "surface": "தன்மை",
@@ -93,7 +98,7 @@
     {
      "text": "தன்மை",
      "lemma": "தன்மை",
-     "gloss": "nature"
+     "gloss": "nature / quality"
     }
    ],
    "gloss": "nature"
@@ -107,13 +112,13 @@
      "gloss": "having lost"
     }
    ],
-   "gloss": "having lost"
+   "gloss": "losing"
   }
  ],
- "literal": "By gossip, it is budding, love; if that is not, having lost nature, it will say 'tav' (fade).",
- "translation": "Love buds and grows because of public gossip. Without it, love would lose its nature and fade away.",
- "modern": "ஊரார் பேசும் அலரால் என் காதல் வளர்கிறது; அந்த அலர் இல்லாவிட்டால், காதல் தன் இயல்பை இழந்து சுருங்கிவிடும்.",
- "explanation": "The speaker declares that public gossip actually nourishes their love, rather than destroying it. The word 'கவ்விது' here means budding or sprouting, showing that rumors act like a stimulus that makes passion grow. The ideophone 'தவ்' represents the idea of shrinking and fading. Without the challenge of public chatter, love would lose its vibrant nature and wither away.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By public gossip, sustained is love; that if not present, shrinking-like nature losing.",
+ "translation": "My love is sustained and thrives because of public gossip; without that gossip, it would lose its nature and fade away.",
+ "modern": "ஊராரின் அலர் பேச்சால் என் காமம் வளர்கிறது; அந்த அலர் பேச்சு இல்லாவிட்டால், அது தன் தன்மையை இழந்து சுருங்கிப் போய்விடும்.",
+ "explanation": "In this couplet, the heroine explains how public gossip ('கவ்வை') about her secret love actually acts as a nutrient that keeps her love alive and thriving ('கவ்விது'). She asserts that if there were no such gossip ('அதுவின்றேல்'), her love would lose its vibrant quality ('தன்மை இழந்து') and wither away. The word 'தவ்' is an imitative word representing shrinking or fading. Thus, rather than destroying their bond, the public talk serves to intensify and sustain their mutual passion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

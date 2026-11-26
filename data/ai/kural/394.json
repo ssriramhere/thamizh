@@ -6,21 +6,26 @@
     {
      "text": "உவப்ப",
      "lemma": "உவ",
-     "gloss": "to rejoice"
+     "gloss": "to delight"
     }
    ],
-   "gloss": "to rejoice"
+   "gloss": "so as to delight"
   },
   {
    "surface": "தலைக்கூடி",
    "parts": [
     {
-     "text": "தலைக்கூடி",
-     "lemma": "தலைக்கூடு",
+     "text": "தலை",
+     "lemma": "தலை",
+     "gloss": "together"
+    },
+    {
+     "text": "கூடி",
+     "lemma": "கூடு",
      "gloss": "having met"
     }
    ],
-   "gloss": "having met"
+   "gloss": "having met together"
   },
   {
    "surface": "உள்ள",
@@ -28,21 +33,26 @@
     {
      "text": "உள்ள",
      "lemma": "உள்ளு",
-     "gloss": "to think"
+     "gloss": "to think of with longing"
     }
    ],
-   "gloss": "to think"
+   "gloss": "to think of with longing"
   },
   {
    "surface": "பிரிதல்",
    "parts": [
     {
-     "text": "பிரிதல்",
+     "text": "பிரி",
      "lemma": "பிரி",
-     "gloss": "separating"
+     "gloss": "separate"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "separating"
+   "gloss": "parting"
   },
   {
    "surface": "அனைத்தே",
@@ -55,10 +65,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "[emphasis]"
+     "gloss": "emphasis suffix"
     }
    ],
-   "gloss": "is of that nature indeed"
+   "gloss": "is of that very nature"
   },
   {
    "surface": "புலவர்",
@@ -66,10 +76,10 @@
     {
      "text": "புலவர்",
      "lemma": "புலவர்",
-     "gloss": "learned ones"
+     "gloss": "scholars"
     }
    ],
-   "gloss": "of the learned"
+   "gloss": "the learned"
   },
   {
    "surface": "தொழில்",
@@ -77,16 +87,16 @@
     {
      "text": "தொழில்",
      "lemma": "தொழில்",
-     "gloss": "action"
+     "gloss": "nature or duty"
     }
    ],
-   "gloss": "action"
+   "gloss": "the characteristic nature"
   }
  ],
- "literal": "To rejoice having met, to think separating, of that nature indeed (is) the learned ones' action.",
- "translation": "Meeting with joy and parting with fond memories—such is the characteristic action of the learned.",
- "modern": "அறிஞர்களின் செயல் எப்படிப்பட்டதென்றால், அவர்கள் சந்திக்கும்போது மிகவும் மகிழ்ந்து கூடுவார்கள்; பிரியும்போது அந்தச் சந்திப்பை இனிமையாக நினைத்துப் பார்க்கும்படி பிரிவார்கள்.",
- "explanation": "This couplet describes the characteristic behavior of learned people when they interact. When scholars gather, they meet with great joy, sharing their knowledge and delighting in the exchange. When it is time to part, they separate in a way that leaves them thinking fondly of the gathering and longing to meet again. The word 'தொழில்' (action or work) highlights that creating joyful connections and lasting intellectual memories is the very nature of the educated.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To meet together so as to delight, and to part so as to be thought of with longing, such is the characteristic nature of the learned.",
+ "translation": "To meet with delight and to part with a lingering longing to meet again—such is the way of the learned.",
+ "modern": "மகிழ்ச்சியடையும்படி கூடிப் பேசி, பிரியும்போது மீண்டும் நினைத்துப் பார்க்கும் படியாகப் பிரிவதே கற்றறிந்தவர்களின் இயல்பாகும்.",
+ "explanation": "This couplet beautifully defines the nature of intellectual companionship. When scholars meet, their interaction is filled with mutual joy and intellectual stimulation, represented by the word 'uvappa' (to delight). When they part, they do not simply forget each other; instead, they leave a lasting impression that makes them think of and long for each other's company, represented by 'uḷḷa' (to think of with longing). The poet suggests that the ultimate test of a meaningful, learned relationship is that it brings joy in presence and a sweet, reflective longing in absence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

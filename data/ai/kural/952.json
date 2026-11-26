@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "good conduct and"
+   "gloss": "and good conduct"
   },
   {
    "surface": "வாய்மையும்",
@@ -30,7 +30,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "truthfulness and"
+   "gloss": "and truthfulness"
   },
   {
    "surface": "நாணும்",
@@ -46,15 +46,20 @@
      "gloss": "and"
     }
    ],
-   "gloss": "sense of shame and"
+   "gloss": "and a sense of shame"
   },
   {
    "surface": "இம்",
    "parts": [
     {
-     "text": "இம்",
+     "text": "இ",
      "lemma": "இ",
-     "gloss": "these"
+     "gloss": "this"
+    },
+    {
+     "text": "ம்",
+     "lemma": "ம்",
+     "gloss": "adjectival marker"
     }
    ],
    "gloss": "these"
@@ -65,7 +70,7 @@
     {
      "text": "மூன்று",
      "lemma": "மூன்று",
-     "gloss": "three"
+     "gloss": "three things"
     },
     {
      "text": "உம்",
@@ -73,7 +78,7 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all three"
+   "gloss": "all three things"
   },
   {
    "surface": "இழுக்கார்",
@@ -81,7 +86,7 @@
     {
      "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "to slip"
+     "gloss": "to slip or deviate"
     },
     {
      "text": "ஆர்",
@@ -89,7 +94,7 @@
      "gloss": "they will not"
     }
    ],
-   "gloss": "they will not fail"
+   "gloss": "they will not fail in"
   },
   {
    "surface": "குடி",
@@ -100,7 +105,7 @@
      "gloss": "noble family"
     }
    ],
-   "gloss": "in a noble family"
+   "gloss": "noble family"
   },
   {
    "surface": "பிறந்தார்",
@@ -111,28 +116,23 @@
      "gloss": "to be born"
     },
     {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
+     "text": "ந்த்",
      "lemma": "த்",
-     "gloss": "past tense"
+     "gloss": "past tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who"
     }
    ],
    "gloss": "those who are born"
   }
  ],
- "literal": "Good conduct and, truthfulness and, sense of shame and, these all three, they will not slip from, in a noble family, those who are born.",
- "translation": "Those born into a noble family will never fail in these three things: good conduct, truthfulness, and a sense of shame.",
- "modern": "நல்ல குடியில் பிறந்தவர்கள் ஒழுக்கம், வாய்மை, நாணம் ஆகிய இந்த மூன்றிலிருந்தும் ஒருபோதும் தவற மாட்டார்கள்.",
- "explanation": "This couplet defines the core traits of those who come from a noble lineage. The word 'kuṭi' here refers to a family of high character and standing. The author identifies three essential virtues: 'oḻukkam' (proper conduct), 'vāymai' (truthfulness), and 'nāṇ' (a healthy sense of shame or shrinking from wrongdoing). Those born into such families will never slip ('iḻukkār') from these three principles, maintaining them as their defining qualities.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Good conduct and, truthfulness and, a sense of shame and, these, all three things, they will not fail in, noble family, those who are born.",
+ "translation": "Those who are born of a noble family will never fail in these three qualities: good conduct, truthfulness, and a sense of shame.",
+ "modern": "நற்குடியில் பிறந்தவர்கள் ஒழுக்கம், உண்மை, பழிக்கு நாணுதல் ஆகிய இந்த மூன்றிலிருந்தும் என்றும் தவற மாட்டார்கள்.",
+ "explanation": "This couplet defines the essential qualities of those born into a noble family. The poet lists three core virtues: right conduct, truthfulness, and a moral sense of shame that shrinks from doing wrong. Those of noble birth will never deviate or slip from these three principles, regardless of the circumstances. The word 'நாண்' here represents a deep-seated conscience rather than simple shyness, acting as a shield against dishonorable actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "ஒண்ணுதற்கு",
      "lemma": "ஒண்ணுதற்கு",
-     "gloss": "to the bright forehead"
+     "gloss": "to the bright-foreheaded one"
     }
    ],
-   "gloss": "to the bright forehead",
+   "gloss": "to the bright-foreheaded one",
    "split_unverified": true
   },
   {
@@ -18,26 +18,21 @@
     {
      "text": "ஓஒ",
      "lemma": "ஓ",
-     "gloss": "oh!"
+     "gloss": "alas / oh"
     }
    ],
-   "gloss": "oh!"
+   "gloss": "alas"
   },
   {
    "surface": "உடைந்ததே",
    "parts": [
     {
-     "text": "உடைந்தது",
+     "text": "உடைந்ததே",
      "lemma": "உடை",
-     "gloss": "it broke"
-    },
-    {
-     "text": "ஏ",
-     "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "broke indeed"
     }
    ],
-   "gloss": "it broke indeed"
+   "gloss": "broke indeed"
   },
   {
    "surface": "ஞாட்பினுள்",
@@ -45,12 +40,12 @@
     {
      "text": "ஞாட்பு",
      "lemma": "ஞாட்பு",
-     "gloss": "battle"
+     "gloss": "battlefield"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "of"
     },
     {
      "text": "உள்",
@@ -58,7 +53,7 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "in the battle"
+   "gloss": "in the battlefield"
   },
   {
    "surface": "நண்ணாரும்",
@@ -66,7 +61,7 @@
     {
      "text": "நண்ணார்",
      "lemma": "நண்ணார்",
-     "gloss": "foes"
+     "gloss": "enemies (those who do not approach)"
     },
     {
      "text": "உம்",
@@ -74,7 +69,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even foes"
+   "gloss": "even enemies"
   },
   {
    "surface": "உட்கும்",
@@ -92,7 +87,7 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "யான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -104,16 +99,16 @@
     {
      "text": "பீடு",
      "lemma": "பீடு",
-     "gloss": "pride"
+     "gloss": "strength / valour"
     }
    ],
-   "gloss": "pride"
+   "gloss": "strength"
   }
  ],
- "literal": "To the bright forehead, oh!, it broke indeed, in battle even foes fear, my pride.",
- "translation": "My great pride, which terrifies even my enemies on the battlefield, has shattered before her bright forehead. Oh!",
- "modern": "போர்க்களத்தில் பகைவரும் கண்டு அஞ்சுகின்ற என்னுடைய வீரப்பெருமை, இவளுடைய ஒளிபொருந்திய நெற்றியைக் கண்டதும் உடைந்துவிட்டதே!",
- "explanation": "The hero marvels at the overwhelming power of the heroine's beauty. He is a fierce warrior whose strength and pride ('பீடு') strike terror into his enemies on the battlefield ('ஞாட்பு'). Yet, that very same unshakeable pride has completely shattered before her radiant forehead ('ஒண்ணுதல்'). The exclamation 'ஓஒ' expresses his helpless astonishment at how easily love has conquered his martial valor.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the bright-foreheaded one, oh, broke indeed, in the battlefield, even enemies will fear, my strength.",
+ "translation": "Alas! My strength and valour, which even the fiercest enemies on the battlefield would fear, has been completely shattered by this bright-foreheaded maiden.",
+ "modern": "போர்க்களத்தில் பகைவர்களும் அஞ்சுகின்ற என்னுடைய வலிமையானது, இந்த ஒளிபொருந்திய நெற்றியை உடையவளுக்கு முன்னால், ஐயோ! உடைந்துபோனதே!",
+ "explanation": "The hero laments the sudden loss of his legendary strength in the presence of the heroine. He is a mighty warrior whose valour (pīṭu) strikes terror even in his enemies (naṇṇārum) on the battlefield (ñāṭpiṉuḷ). Yet, confronted by the beauty of this woman with a bright forehead (oṇṇutaṟku), his strength has completely shattered (uṭaintatē). The exclamation 'ōo' emphasizes his astonishment and vulnerability at being defeated not by weapons, but by love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,10 +17,10 @@
     {
      "text": "பட்டு",
      "lemma": "படு",
-     "gloss": "having suffered"
+     "gloss": "having experienced"
     }
    ],
-   "gloss": "having suffered"
+   "gloss": "having experienced"
   },
   {
    "surface": "ஆற்றாது",
@@ -59,12 +59,17 @@
    "surface": "அன்றே",
    "parts": [
     {
-     "text": "அன்றே",
+     "text": "அன்று",
      "lemma": "அன்று",
-     "gloss": "is it not indeed"
+     "gloss": "is it not"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
     }
    ],
-   "gloss": "is it not indeed"
+   "gloss": "is indeed"
   },
   {
    "surface": "செல்வத்தை",
@@ -83,10 +88,10 @@
     {
      "text": "தேய்க்கும்",
      "lemma": "தேய்",
-     "gloss": "will wear away"
+     "gloss": "wearing away"
     }
    ],
-   "gloss": "will wear away"
+   "gloss": "wearing away"
   },
   {
    "surface": "படை",
@@ -100,10 +105,10 @@
    "gloss": "weapon"
   }
  ],
- "literal": "suffering experienced unable to bear wept tears are they not wealth wearing away weapon",
- "translation": "The tears wept by people unable to bear their suffering are the very weapon that will wear away the ruler's wealth.",
- "modern": "துன்பப்பட்டு அதனைத் தாங்க முடியாமல் மக்கள் அழுத கண்ணீர்தான் ஆட்சியாளரின் செல்வத்தை அழிக்கும் ஆயுதமாகும்.",
- "explanation": "This couplet warns an unjust ruler about the destructive power of the people's sorrow. When subjects are oppressed and weep because they cannot bear their suffering, their tears are not merely signs of grief. The poet metaphorically equates these tears to a powerful weapon that will gradually wear away and destroy the king's wealth and prosperity. It emphasizes that a ruler's true security lies in the happiness of the people, not in military might or accumulated riches.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Suffering having experienced, unable to bear, wept tears indeed, wealth wearing away weapon.",
+ "translation": "The tears shed by subjects who suffer and cannot bear the cruelty of a tyrant are indeed the weapon that wears away his wealth.",
+ "modern": "கொடுங்கோன்மையால் துன்பப்பட்டு, அதனைப் பொறுக்க முடியாமல் அழுத மக்களின் கண்ணீர்தான், ஒரு மன்னனின் செல்வத்தை அழிக்கும் ஆயுதமாகும்.",
+ "explanation": "This couplet warns of the silent but destructive power of the tears of oppressed subjects. When people suffer under a tyrant and find their misery unbearable ('ஆற்றாது'), they weep in despair. The tears ('கண்ணீர்') they shed are not merely signs of grief; they act as a powerful weapon ('படை') that gradually erodes and destroys the ruler's prosperity and power ('செல்வத்தைத் தேய்க்கும்'). The word 'அன்றே' emphasizes that this destruction is certain and inevitable, showing that a ruler's oppression contains the very seeds of his own ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

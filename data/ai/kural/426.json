@@ -17,15 +17,15 @@
     {
      "text": "உறை",
      "lemma": "உறை",
-     "gloss": "dwell"
+     "gloss": "to dwell"
     },
     {
      "text": "வது",
      "lemma": "வது",
-     "gloss": "that which"
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "dwells"
+   "gloss": "living"
   },
   {
    "surface": "உலகம்",
@@ -36,23 +36,19 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "உலகத்தோடு",
    "parts": [
     {
-     "text": "உலகத்து",
-     "lemma": "உலகம்",
-     "gloss": "world (oblique)"
-    },
-    {
-     "text": "ஓடு",
-     "lemma": "ஓடு",
-     "gloss": "with"
+     "text": "உலகத்தோடு",
+     "lemma": "உலகத்தோடு",
+     "gloss": "with the world"
     }
    ],
-   "gloss": "with the world"
+   "gloss": "with the world",
+   "split_unverified": true
   },
   {
    "surface": "அவ்வது",
@@ -60,10 +56,10 @@
     {
      "text": "அவ்வது",
      "lemma": "அவ்வது",
-     "gloss": "in that way"
+     "gloss": "in that same way"
     }
    ],
-   "gloss": "in that way"
+   "gloss": "in that same way"
   },
   {
    "surface": "உறைவது",
@@ -71,37 +67,32 @@
     {
      "text": "உறை",
      "lemma": "உறை",
-     "gloss": "dwell"
+     "gloss": "to dwell"
     },
     {
      "text": "வது",
      "lemma": "வது",
-     "gloss": "that which"
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "dwelling"
+   "gloss": "living"
   },
   {
    "surface": "அறிவு",
    "parts": [
     {
-     "text": "அறி",
-     "lemma": "அறி",
-     "gloss": "know"
-    },
-    {
-     "text": "வு",
-     "lemma": "வு",
-     "gloss": "noun suffix"
+     "text": "அறிவு",
+     "lemma": "அறிவு",
+     "gloss": "wisdom"
     }
    ],
    "gloss": "wisdom"
   }
  ],
- "literal": "In whichever way dwells the world, with the world in that way dwelling is wisdom.",
- "translation": "Wisdom is to live in harmony with the world, conducting oneself in whatever way the world conducts itself.",
- "modern": "உலகம் எப்படி வாழ்கிறதோ, அந்த உலகத்தோடு பொருந்தி அதே வழியில் வாழ்வதே அறிவாகும்.",
- "explanation": "This couplet defines practical wisdom as adaptability and social harmony. The word 'உறைவது' means dwelling or living, indicating one's conduct in daily life. True wisdom is not just theoretical knowledge, but the ability to understand the ways of the world and live in accordance with them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In whichever way dwells the world, with the world in that same way to dwell is wisdom.",
+ "translation": "To live in harmony with the world, adapting to the way the world lives, is true wisdom.",
+ "modern": "உலகம் எத்தகைய வழியில் வாழ்கிறதோ, அந்த உலகத்தோடு பொருந்தி அதே வழியில் வாழ்வதே அறிவாகும்.",
+ "explanation": "This couplet defines wisdom not as isolated intellectual knowledge, but as the practical ability to adapt and live in harmony with society. The word 'உலகம்' (world) here refers to the wise and noble people of the world. 'எவ்வது உறைவது' means 'in whichever way they live', and 'அவ்வது உறைவது' means 'living in that very same manner'. True wisdom ('அறிவு') lies in conforming to the righteous customs and conduct of the community rather than standing apart in stubborn isolation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

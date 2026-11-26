@@ -4,25 +4,25 @@
    "surface": "தக்காங்கு",
    "parts": [
     {
-     "text": "தக்காங்கு",
-     "lemma": "தக்காங்கு",
-     "gloss": "properly"
+     "text": "தக்கு",
+     "lemma": "தகு",
+     "gloss": "fittingly"
+    },
+    {
+     "text": "ஆங்கு",
+     "lemma": "ஆங்கு",
+     "gloss": "in that manner"
     }
    ],
-   "gloss": "properly"
+   "gloss": "fittingly"
   },
   {
    "surface": "நாடி",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "investigate"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having investigated"
     }
    ],
    "gloss": "having investigated"
@@ -33,48 +33,53 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "further"
+     "gloss": "again"
     }
    ],
-   "gloss": "further"
+   "gloss": "again"
   },
   {
    "surface": "செல்லா",
    "parts": [
     {
-     "text": "செல்",
+     "text": "செல்லா",
      "lemma": "செல்",
-     "gloss": "happen"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not proceeding"
     }
    ],
-   "gloss": "not happening"
+   "gloss": "not proceeding"
   },
   {
    "surface": "வண்ணத்தால்",
    "parts": [
     {
-     "text": "வண்ணத்தால்",
+     "text": "வண்ணத்து",
      "lemma": "வண்ணம்",
-     "gloss": "by the manner"
+     "gloss": "manner"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
     }
    ],
-   "gloss": "by the manner"
+   "gloss": "in such a manner"
   },
   {
    "surface": "ஒத்தாங்கு",
    "parts": [
     {
-     "text": "ஒத்தாங்கு",
-     "lemma": "ஒத்தாங்கு",
-     "gloss": "suitably"
+     "text": "ஒத்து",
+     "lemma": "ஒத்து",
+     "gloss": "proportionately"
+    },
+    {
+     "text": "ஆங்கு",
+     "lemma": "ஆங்கு",
+     "gloss": "in that manner"
     }
    ],
-   "gloss": "suitably"
+   "gloss": "proportionately"
   },
   {
    "surface": "ஒறுப்பது",
@@ -99,10 +104,10 @@
    "gloss": "king"
   }
  ],
- "literal": "Properly having investigated, further not happening by the manner, suitably punishing is king.",
- "translation": "A king investigates a crime properly and punishes it proportionately, in a manner that ensures it does not happen again.",
- "modern": "ஒரு குற்றத்தை முறையாக ஆராய்ந்து, அக்குற்றம் மீண்டும் நிகழாத வகையில், குற்றத்திற்கு ஏற்றவாறு தண்டிப்பதே அரசனின் கடமையாகும்.",
- "explanation": "This couplet defines the purpose and measure of royal justice. The king must first investigate a fault thoroughly. Then, he must issue a punishment that fits the crime, with the ultimate goal being deterrence so that the offense does not occur again. The emphasis is on proportionate justice rather than excessive cruelty.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Fittingly having investigated, in a manner that [the crime] does not proceed again, proportionately punishing is [the duty of] the king.",
+ "translation": "A true ruler is one who thoroughly investigates an offense and administers a proportionate punishment, ensuring that the crime is not repeated.",
+ "modern": "ஒரு குற்றத்தை நடுநிலையோடு ஆராய்ந்து, மீண்டும் அக்குற்றம் நடக்காதவாறு, அதற்குப் பொருத்தமான தண்டனையை வழங்குவதே சிறந்த அரசனின் கடமையாகும்.",
+ "explanation": "This couplet outlines the core principles of justice and deterrence for a ruler. The word 'தக்காங்கு' emphasizes that the investigation must be conducted fittingly and impartially. The phrase 'தலைச்செல்லா வண்ணத்தால்' highlights the goal of deterrence, meaning the punishment should be designed so that the crime does not occur again. Finally, 'ஒத்தாங்கு ஒறுப்பது' demands that the punishment be perfectly proportionate to the gravity of the offense, ensuring justice is neither overly harsh nor weak.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

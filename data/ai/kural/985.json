@@ -4,12 +4,17 @@
    "surface": "ஆற்றுவார்",
    "parts": [
     {
-     "text": "ஆற்றுவார்",
+     "text": "ஆற்று",
      "lemma": "ஆற்று",
-     "gloss": "those who accomplish"
+     "gloss": "to do or accomplish"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those who accomplish"
+   "gloss": "those who accomplish great things"
   },
   {
    "surface": "ஆற்றல்",
@@ -17,7 +22,7 @@
     {
      "text": "ஆற்றல்",
      "lemma": "ஆற்றல்",
-     "gloss": "strength"
+     "gloss": "strength or power"
     }
    ],
    "gloss": "strength"
@@ -27,11 +32,11 @@
    "parts": [
     {
      "text": "பணிதல்",
-     "lemma": "பணி",
-     "gloss": "being humble"
+     "lemma": "பணிதல்",
+     "gloss": "bowing or humility"
     }
    ],
-   "gloss": "being humble"
+   "gloss": "humility"
   },
   {
    "surface": "அது",
@@ -49,11 +54,11 @@
    "parts": [
     {
      "text": "சான்றோர்",
-     "lemma": "சால்",
+     "lemma": "சான்றோர்",
      "gloss": "the noble ones"
     }
    ],
-   "gloss": "the noble ones"
+   "gloss": "the noble"
   },
   {
    "surface": "மாற்றாரை",
@@ -61,31 +66,26 @@
     {
      "text": "மாற்றார்",
      "lemma": "மாற்றார்",
-     "gloss": "foes"
+     "gloss": "adversaries or enemies"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "foes (accusative)"
+   "gloss": "adversaries"
   },
   {
    "surface": "மாற்றும்",
    "parts": [
     {
-     "text": "மாற்று",
+     "text": "மாற்றும்",
      "lemma": "மாற்று",
-     "gloss": "to change"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "gloss": "which transforms or wins over"
     }
    ],
-   "gloss": "will change"
+   "gloss": "which transforms"
   },
   {
    "surface": "படை",
@@ -99,10 +99,10 @@
    "gloss": "weapon"
   }
  ],
- "literal": "Of those who accomplish, the strength is being humble; that, for the noble ones, is the weapon that changes foes.",
- "translation": "The true strength of capable people is their humility. For the noble, that same humility is the weapon that transforms their enemies.",
- "modern": "ஒரு செயலைச் செய்து முடிப்பவர்களின் உண்மையான வலிமை பணிவுடன் இருப்பதே ஆகும். சான்றோர்களுக்குப் பகைவர்களையும் நண்பர்களாக மாற்றும் ஆயுதம் அந்தப் பணிவே ஆகும்.",
- "explanation": "This couplet defines humility not as a weakness, but as the ultimate strength of capable individuals. The word 'ஆற்றுவார்' refers to those who can successfully accomplish tasks, and their true power ('ஆற்றல்') lies in being humble ('பணிதல்'). Furthermore, for the noble ('சான்றோர்'), this very humility acts as a powerful weapon ('படை') that disarms and transforms their enemies ('மாற்றாரை மாற்றும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The strength of those who accomplish is humility; that is the weapon of the noble that transforms adversaries.",
+ "translation": "The true strength of those who accomplish great deeds is humility; for the noble, that humility is the weapon that wins over and transforms their adversaries.",
+ "modern": "காரியங்களைச் செய்து முடிப்பவர்களின் வலிமை பணிவுடன் நடப்பதே ஆகும்; அதுவே சான்றோர்கள் தம் பகைவர்களையும் நண்பர்களாக மாற்றும் கருவியாகும்.",
+ "explanation": "This couplet highlights the supreme power of humility in the chapter on perfect goodness. For capable people who achieve great things, their ultimate strength lies not in force or pride, but in behaving with modesty and bowing to others. For the noble-minded, this gentle humility acts as a powerful weapon that disarms and transforms their opponents into allies. True nobility conquers opposition not by destroying the enemy, but by changing their heart through humility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

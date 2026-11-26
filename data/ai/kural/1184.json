@@ -6,7 +6,7 @@
     {
      "text": "உள்ளு",
      "lemma": "உள்ளு",
-     "gloss": "to think"
+     "gloss": "think of"
     },
     {
      "text": "வ்",
@@ -16,10 +16,10 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "1st person singular suffix"
+     "gloss": "I (first person singular suffix)"
     }
    ],
-   "gloss": "I will think"
+   "gloss": "I think of"
   },
   {
    "surface": "மன்",
@@ -27,7 +27,7 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "particle of emphasis"
     }
    ],
    "gloss": "indeed"
@@ -49,25 +49,20 @@
     {
      "text": "உரை",
      "lemma": "உரை",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
+     "gloss": "present/future marker"
     },
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "neuter singular suffix (verbal noun)"
+     "gloss": "that which"
     }
    ],
-   "gloss": "that which is spoken"
+   "gloss": "what is spoken"
   },
   {
    "surface": "அவர்",
@@ -75,7 +70,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "his"
+     "gloss": "he (honorific)"
     }
    ],
    "gloss": "his"
@@ -86,10 +81,10 @@
     {
      "text": "திறம்",
      "lemma": "திறம்",
-     "gloss": "nature"
+     "gloss": "qualities / virtues"
     }
    ],
-   "gloss": "nature"
+   "gloss": "qualities"
   },
   {
    "surface": "ஆல்",
@@ -97,7 +92,7 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "indeed"
+     "gloss": "particle of emphasis"
     }
    ],
    "gloss": "indeed"
@@ -108,10 +103,10 @@
     {
      "text": "கள்ளம்",
      "lemma": "கள்ளம்",
-     "gloss": "deceit"
+     "gloss": "deceit / stealth"
     }
    ],
-   "gloss": "deceit"
+   "gloss": "deceitful"
   },
   {
    "surface": "பிறவோ",
@@ -119,15 +114,15 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "other"
+     "gloss": "other things"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "or other things?"
+   "gloss": "are they other things?"
   },
   {
    "surface": "பசப்பு",
@@ -135,16 +130,16 @@
     {
      "text": "பசப்பு",
      "lemma": "பசப்பு",
-     "gloss": "pallor"
+     "gloss": "pallor (yellowish skin discoloration due to grief)"
     }
    ],
    "gloss": "pallor"
   }
  ],
- "literal": "Think-will-I indeed, I; speak-that-which his nature indeed; deceit other-? pallor.",
- "translation": "I think of him constantly, and what I speak of is his nature. Is this pallor that still afflicts me deceitful, or something else?",
- "modern": "நான் அவரை எப்போதும் நினைக்கிறேன்; நான் பேசுவதும் அவருடைய குணங்களைப் பற்றித்தான். அப்படியிருக்க, என் மேல் படரும் இந்தப் பசப்பு நிறம் பொய்யானதா அல்லது வேறு ஏதாவதா?",
- "explanation": "The speaker wonders why she suffers from the pallor of separation when her lover is constantly in her thoughts and words. Since he is always present in her mind and speech, she feels they are not truly separated. Therefore, she questions whether the pallor that appears on her body is merely a deceitful illusion or something else entirely, as it contradicts her inner experience of his presence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "I think of him indeed, what I speak of is his qualities indeed; is this pallor deceitful, or is there some other reason?",
+ "translation": "I think of him constantly, and I speak only of his noble qualities. Yet, this pallor has spread over me; is it acting deceitfully, or is there some other secret cause?",
+ "modern": "நான் அவரை எப்போதும் நினைக்கிறேன்; நான் பேசுவதும் அவருடைய பெருமைகளைப் பற்றித்தான். அப்படியிருக்க, என் உடலில் பசப்பு படர்வது வஞ்சகமா அல்லது வேறு ஏதேனும் காரணம் உண்டா?",
+ "explanation": "The heroine is suffering from the pain of separation, and her skin has turned pale, a physical sign of longing known as 'pasappu'. She argues that this pallor is unjustified because she has not forgotten her lover for even a moment; she constantly thinks of him and speaks only of his virtues. Since her mind and speech are entirely filled with him, she wonders if the pallor is playing a deceitful trick on her by appearing anyway. Alternatively, she questions if there is some other hidden reason for this discoloration that she does not understand.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

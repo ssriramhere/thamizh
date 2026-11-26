@@ -17,15 +17,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they who are"
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "எல்லாம்",
@@ -36,14 +36,14 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all"
+   "gloss": "all things"
   },
   {
    "surface": "தமக்கு",
    "parts": [
     {
      "text": "தமக்கு",
-     "lemma": "தாம்",
+     "lemma": "தான்",
      "gloss": "to themselves"
     }
    ],
@@ -53,12 +53,17 @@
    "surface": "உரியர்",
    "parts": [
     {
-     "text": "உரியர்",
-     "lemma": "உரியர்",
-     "gloss": "they are owners"
+     "text": "உரி",
+     "lemma": "உரிமை",
+     "gloss": "belonging"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "they are owners"
+   "gloss": "they claim ownership"
   },
   {
    "surface": "அன்பு",
@@ -75,9 +80,14 @@
    "surface": "உடையார்",
    "parts": [
     {
-     "text": "உடையார்",
-     "lemma": "உடையார்",
-     "gloss": "they who possess"
+     "text": "உடை",
+     "lemma": "உடைமை",
+     "gloss": "possession"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
    "gloss": "those who possess"
@@ -96,35 +106,45 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even bone"
+   "gloss": "even their bones"
   },
   {
    "surface": "உரியர்",
    "parts": [
     {
-     "text": "உரியர்",
-     "lemma": "உரியர்",
-     "gloss": "they are owners"
+     "text": "உரி",
+     "lemma": "உரிமை",
+     "gloss": "belonging"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "they are owners"
+   "gloss": "they make belong"
   },
   {
    "surface": "பிறர்க்கு",
    "parts": [
     {
-     "text": "பிறர்க்கு",
+     "text": "பிறர்",
      "lemma": "பிறர்",
-     "gloss": "to others"
+     "gloss": "others"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to others"
   }
  ],
- "literal": "love / those without / all / to themselves / they are owners / love / those who possess / bone even / they are owners / to others",
- "translation": "Those without love claim everything for themselves. Those with love offer even their own bones to others.",
- "modern": "அன்பு இல்லாதவர்கள் எல்லாப் பொருள்களையும் தமக்கே உரியதாகக் கொள்வார்கள். ஆனால் அன்பு உடையவர்கள் தம் உடம்பிலுள்ள எலும்பையும் பிறருக்கு உரியதாக்குவார்கள்.",
- "explanation": "This couplet contrasts the selfish nature of the loveless with the boundless generosity of the loving. Those who lack love claim everything for themselves, driven entirely by self-interest. In contrast, those who possess love are so selfless that they consider even their own 'bones'—representing their very body and life—as belonging to others. The word 'என்பு' (bone) powerfully symbolizes the ultimate sacrifice one can make out of love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who lack love, everything to themselves they claim; those who possess love, even their bones belong to others.",
+ "translation": "Those who lack love claim everything for themselves; those who possess love yield even their very bones to others.",
+ "modern": "அன்பு இல்லாதவர்கள் எல்லாப் பொருட்களையும் தமக்கே உரியதாகக் கொள்வர்; அன்பு உடையவர்கள் தம் உடம்பையும் பிறருக்கு உரியதாக்குவர்.",
+ "explanation": "This couplet contrasts the selfish nature of those who lack love with the ultimate selflessness of those who possess it. People without love seek to hoard everything, believing that all things belong solely to them. In stark contrast, those filled with love are so generous that they consider even their own physical bodies, represented here by bones, as belonging to others. The word 'enpu' (bone) is used metaphorically to signify the most fundamental, innermost part of one's physical existence, highlighting that true love knows no boundaries of self-preservation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

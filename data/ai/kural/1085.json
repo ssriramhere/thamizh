@@ -6,15 +6,15 @@
     {
      "text": "கூற்றம்",
      "lemma": "கூற்றம்",
-     "gloss": "death"
+     "gloss": "god of death"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "is it death?"
+   "gloss": "Is it the god of death?"
   },
   {
    "surface": "கண்ணோ",
@@ -27,10 +27,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "is it an eye?"
+   "gloss": "Is it an eye?"
   },
   {
    "surface": "பிணையோ",
@@ -38,15 +38,15 @@
     {
      "text": "பிணை",
      "lemma": "பிணை",
-     "gloss": "doe"
+     "gloss": "female deer"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "is it a doe?"
+   "gloss": "Is it a female deer?"
   },
   {
    "surface": "மடவரல்",
@@ -54,10 +54,10 @@
     {
      "text": "மடவரல்",
      "lemma": "மடவரல்",
-     "gloss": "innocent woman"
+     "gloss": "young woman"
     }
    ],
-   "gloss": "innocent woman's"
+   "gloss": "of the young woman"
   },
   {
    "surface": "நோக்கம்",
@@ -65,26 +65,21 @@
     {
      "text": "நோக்கம்",
      "lemma": "நோக்கம்",
-     "gloss": "look"
+     "gloss": "glance"
     }
    ],
-   "gloss": "look"
+   "gloss": "the glance"
   },
   {
    "surface": "இம்",
    "parts": [
     {
-     "text": "இ",
+     "text": "இம்",
      "lemma": "இ",
-     "gloss": "these"
-    },
-    {
-     "text": "ம்",
-     "lemma": "ம்",
-     "gloss": "sandhi"
+     "gloss": "this"
     }
    ],
-   "gloss": "these"
+   "gloss": "this"
   },
   {
    "surface": "மூன்றும்",
@@ -108,16 +103,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "possesses-it"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   }
  ],
- "literal": "Death? Eye? Doe? Innocent woman's look these all three possesses.",
- "translation": "Is it Death, an eye, or a timid doe? The look of this innocent woman has the nature of all three.",
- "modern": "இந்த மென்மையான பெண்ணின் பார்வையானது எமன், கண், பெண் மான் ஆகிய மூன்றின் தன்மைகளையும் ஒருங்கே கொண்டுள்ளது.",
- "explanation": "The speaker is captivated and bewildered by the woman's glance. He wonders if what he sees is Death, a mere eye, or a timid doe. He concludes that the look of this innocent woman possesses the qualities of all three: the deadliness of Death, the natural form of an eye, and the captivating, startled beauty of a doe. The repeated particle 'o' expresses his intense doubt and wonder.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Is it the god of death? Is it an eye? Is it a female deer? The glance of this young woman possesses all these three.",
+ "translation": "Is it the god of death, or a beautiful eye, or a startled doe? The glance of this young woman possesses the qualities of all three.",
+ "modern": "இவள் எமனோ, கண்ணோ, பெண் மானோ? இந்த இளம்பெண்ணின் பார்வை இந்த மூன்று தன்மைகளையும் கொண்டிருக்கிறது.",
+ "explanation": "The speaker is captivated and overwhelmed by the powerful gaze of a young woman. He wonders if her glance is the god of death because it steals his soul, a human eye because of its beauty, or the gentle eye of a female deer because of its innocence. The word 'மடவரல்' denotes a young, gentle woman, and 'நோக்கம்' refers to her glance. By combining these three elements, the couplet highlights the complex, mesmerizing, and life-altering impact of the beloved's first look.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

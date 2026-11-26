@@ -5,16 +5,16 @@
    "parts": [
     {
      "text": "தண்",
-     "lemma": "தண்மை",
+     "lemma": "தண்",
      "gloss": "cool"
     },
     {
      "text": "அம்",
      "lemma": "அம்",
-     "gloss": "beautiful"
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "cool and beautiful"
+   "gloss": "cool and pleasant"
   },
   {
    "surface": "துறைவன்",
@@ -22,26 +22,31 @@
     {
      "text": "துறை",
      "lemma": "துறை",
-     "gloss": "shore"
+     "gloss": "maritime shore"
     },
     {
-     "text": "வன்",
+     "text": "அன்",
      "lemma": "அன்",
-     "gloss": "he who has"
+     "gloss": "he of (masculine suffix)"
     }
    ],
-   "gloss": "lord of the shore"
+   "gloss": "the lord of the maritime shore"
   },
   {
    "surface": "தணந்தமை",
    "parts": [
     {
-     "text": "தணந்தமை",
+     "text": "தணந்த",
      "lemma": "தண",
-     "gloss": "fact of having separated"
+     "gloss": "departed"
+    },
+    {
+     "text": "மை",
+     "lemma": "மை",
+     "gloss": "the state of (nominal suffix)"
     }
    ],
-   "gloss": "the separation"
+   "gloss": "the fact of his departure"
   },
   {
    "surface": "நம்மினும்",
@@ -54,7 +59,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative)"
     },
     {
      "text": "உம்",
@@ -68,9 +73,14 @@
    "surface": "முன்னம்",
    "parts": [
     {
-     "text": "முன்னம்",
+     "text": "முன்",
      "lemma": "முன்",
      "gloss": "before"
+    },
+    {
+     "text": "அம்",
+     "lemma": "அம்",
+     "gloss": "euphonic suffix"
     }
    ],
    "gloss": "beforehand"
@@ -79,12 +89,17 @@
    "surface": "உணர்ந்த",
    "parts": [
     {
-     "text": "உணர்ந்த",
+     "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "that realized"
+     "gloss": "to sense"
+    },
+    {
+     "text": "ந்த",
+     "lemma": "ந்த",
+     "gloss": "past relative participle suffix"
     }
    ],
-   "gloss": "that realized"
+   "gloss": "sensed"
   },
   {
    "surface": "வளை",
@@ -95,13 +110,13 @@
      "gloss": "bangle"
     }
    ],
-   "gloss": "bangles"
+   "gloss": "the bangles"
   }
  ],
- "literal": "Cool beautiful shore-lord's separation, even than us, before, realized bangles.",
- "translation": "My bangles realized the departure of the lord of the cool shores even before I did.",
- "modern": "குளிர்ந்த நீர்த்துறையை உடைய தலைவன் நம்மை விட்டுப் பிரிந்ததை, நம்மை விட முன்னதாகவே நம் கையில் உள்ள வளையல்கள் உணர்ந்துவிட்டன.",
- "explanation": "The heroine remarks on how quickly her body reacts to the hero's departure. The word 'துறைவன்' refers to the lord of the coastal region, whose shores are cool ('தண்ணம்'). When he leaves ('தணந்தமை'), she immediately loses weight out of sorrow, causing her bangles ('வளை') to slip off. Thus, she poetically claims that her bangles perceived his separation even before her own mind did ('நம்மினும் முன்னம் உணர்ந்த').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The cool shore's lord's departure, even before us, beforehand sensed, the bangles.",
+ "translation": "Even before I could fully realize that the lord of the cool shore had departed, my slipping bangles sensed it first.",
+ "modern": "குளிர்ந்த கடற்கரைத் தலைவன் நம்மைப் பிரிந்து சென்றதை, நம்மை விட முன்னதாகவே என் கைகளில் உள்ள வளையல்கள் உணர்ந்து கொண்டு கழன்றன.",
+ "explanation": "In this couplet, the heroine speaks of her deep grief over her lover's departure. The lover is addressed as the lord of the cool maritime shore (துறைவன்). Even before her mind could fully process the pain of his separation (நம்மினும் முன்னம் உணர்ந்த), her body reacted instantly to the sorrow. Her arms grew thin from grief, causing her bangles (வளை) to slip off, making it seem as though the bangles knew of the departure before she herself did.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

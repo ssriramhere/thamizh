@@ -16,19 +16,29 @@
    "parts": [
     {
      "text": "செறுப்ப",
-     "lemma": "செறு",
-     "gloss": "when suppressing"
+     "lemma": "செறுப்ப",
+     "gloss": "to restrain"
     }
    ],
-   "gloss": "when suppressing"
+   "gloss": "when restrained"
   },
   {
    "surface": "அழுதாள்",
    "parts": [
     {
-     "text": "அழுதாள்",
+     "text": "அழு",
      "lemma": "அழு",
-     "gloss": "she wept"
+     "gloss": "weep"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she (feminine singular suffix)"
     }
    ],
    "gloss": "she wept"
@@ -49,11 +59,11 @@
    "parts": [
     {
      "text": "உள்ளல்",
-     "lemma": "உள்ளு",
-     "gloss": "thinking"
+     "lemma": "உள்ளல்",
+     "gloss": "thinking of"
     }
    ],
-   "gloss": "thinking"
+   "gloss": "thinking of"
   },
   {
    "surface": "எம்மை",
@@ -61,48 +71,63 @@
     {
      "text": "எம்",
      "lemma": "யாம்",
-     "gloss": "us"
+     "gloss": "us/me"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "from us"
+   "gloss": "from me"
   },
   {
    "surface": "மறைத்திரோ",
    "parts": [
     {
-     "text": "மறைத்திர்",
+     "text": "மறை",
      "lemma": "மறை",
-     "gloss": "you hide"
+     "gloss": "hide"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "increment"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "இர்",
+     "lemma": "இர்",
+     "gloss": "you (plural/honorific)"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "are you hiding?"
+   "gloss": "did you hide?"
   },
   {
    "surface": "என்று",
    "parts": [
     {
      "text": "என்று",
-     "lemma": "என்",
+     "lemma": "என்று",
      "gloss": "saying"
     }
    ],
    "gloss": "saying"
   }
  ],
- "literal": "Sneeze when suppressing, she wept, 'Your people thinking, from us are you hiding?' saying.",
- "translation": "When I suppressed a sneeze, she wept, saying, \"Are you hiding from me that your people are thinking of you?\"",
- "modern": "நான் தும்மலை அடக்கியபோது, 'உம்முடைய உறவினர் உம்மை நினைப்பதை என்னிடமிருந்து மறைக்கிறீரோ?' என்று கூறி அவள் அழுதாள்.",
- "explanation": "This couplet relies on the traditional poetic belief that a sneeze indicates a loved one is thinking of the person sneezing. The hero, knowing his wife will assume another woman is thinking of him, tries to suppress his sneeze to avoid her jealousy. However, she notices him holding it back and bursts into tears anyway. She accuses him of hiding the sneeze because he wants to conceal that 'his people' (a sarcastic reference to other women) are thinking of him. The word 'நுமர்' (your people) perfectly captures her feigned anger, distancing herself from him by suggesting his true affections lie elsewhere.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When [he] suppressed a sneeze, she wept, saying, 'Did you hide [it] from me [to conceal that] your people are thinking of [you]?'",
+ "translation": "When I suppressed a sneeze, she wept and asked, 'Did you hide it from me to conceal that your loved ones are thinking of you?'",
+ "modern": "தும்மலை அடக்கியபோது, 'உம்மைச் சார்ந்தவர்கள் உம்மை நினைப்பதை என்னிடம் இருந்து மறைக்கிறீரோ?' என்று கூறி அவள் அழுதாள்.",
+ "explanation": "This couplet plays on the traditional belief that a sneeze is triggered when someone who loves you is thinking of you. To avoid making his wife jealous, the husband tries to suppress his sneeze. However, the wife notices this and interprets his action as an attempt to hide the sneeze, accusing him of trying to conceal the fact that another woman (referred to as 'your people') is thinking of him.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

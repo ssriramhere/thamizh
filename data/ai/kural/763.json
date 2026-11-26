@@ -6,15 +6,15 @@
     {
      "text": "ஒலித்த",
      "lemma": "ஒலி",
-     "gloss": "sounded"
+     "gloss": "that made sound"
     },
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "if"
+     "gloss": "if/when"
     }
    ],
-   "gloss": "if roared"
+   "gloss": "if they roar"
   },
   {
    "surface": "என்னாம்",
@@ -30,7 +30,7 @@
      "gloss": "will become"
     }
    ],
-   "gloss": "what will happen"
+   "gloss": "what is the use"
   },
   {
    "surface": "உவரி",
@@ -41,7 +41,7 @@
      "gloss": "ocean"
     }
    ],
-   "gloss": "ocean"
+   "gloss": "ocean-like"
   },
   {
    "surface": "எலிப்பகை",
@@ -54,10 +54,10 @@
     {
      "text": "பகை",
      "lemma": "பகை",
-     "gloss": "host/army"
+     "gloss": "hostile army"
     }
    ],
-   "gloss": "rat army"
+   "gloss": "army of rats"
   },
   {
    "surface": "நாகம்",
@@ -68,18 +68,18 @@
      "gloss": "cobra"
     }
    ],
-   "gloss": "cobra"
+   "gloss": "a cobra"
   },
   {
    "surface": "உயிர்ப்ப",
    "parts": [
     {
      "text": "உயிர்ப்ப",
-     "lemma": "உயிர்",
-     "gloss": "when breathing"
+     "lemma": "உயிர்த்தல்",
+     "gloss": "to breathe or hiss"
     }
    ],
-   "gloss": "when hissing"
+   "gloss": "when it breathes"
   },
   {
    "surface": "கெடும்",
@@ -90,13 +90,13 @@
      "gloss": "will perish"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will be destroyed"
   }
  ],
- "literal": "If roared what will become ocean rat-army cobra when breathing will perish.",
- "translation": "What does it matter if an army of rats roars like the ocean? It will perish the moment a cobra hisses.",
- "modern": "எலிகளின் படை கடல் போல முழங்கினாலும் என்ன பயன்? ஒரு நாகப்பாம்பு மூச்சு விட்டாலே அந்தப் படை அழிந்துவிடும்.",
- "explanation": "This couplet contrasts a massive but weak army with a single, powerful warrior. The word உவரி (ocean) illustrates the sheer volume and loud noise of the rat army (எலிப்பகை). However, என்னாம் (what is the use) questions their strength, because just as rats scatter and die when a cobra (நாகம்) merely breathes or hisses (உயிர்ப்ப), a weak army will be instantly destroyed by a truly fierce force.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If they roar, what is the use, an ocean-like army of rats? When a cobra breathes, they will perish.",
+ "translation": "Of what use is an army of rats, even if it roars like the ocean? They will all perish the moment a single cobra merely breathes.",
+ "modern": "கடல் போல ஆரவாரம் செய்தாலும் எலிகளின் பகைப்படை என்ன செய்ய முடியும்? ஒரு நாகப்பாம்பு மூச்சுவிட்டால் அவை அனைத்தும் அழிந்துவிடும்.",
+ "explanation": "This couplet illustrates that a vast army of weak and cowardly soldiers is useless against a single, powerful hero. The poet compares a large but weak army to a roaring ocean of rats. No matter how much noise they make, they cannot withstand a true warrior, symbolized by a cobra. The mere hiss or breath of the cobra is enough to scatter and destroy the entire host of rats.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

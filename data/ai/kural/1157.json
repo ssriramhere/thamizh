@@ -17,26 +17,31 @@
     {
      "text": "துறந்த",
      "lemma": "துற",
-     "gloss": "having forsaken"
+     "gloss": "having departed"
     },
     {
      "text": "மை",
      "lemma": "மை",
-     "gloss": "fact of"
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "fact of having forsaken"
+   "gloss": "the fact of his departure"
   },
   {
    "surface": "தூற்றா",
    "parts": [
     {
-     "text": "தூற்றா",
+     "text": "தூற்று",
      "lemma": "தூற்று",
-     "gloss": "will not proclaim"
+     "gloss": "proclaim"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "interrogative suffix"
     }
    ],
-   "gloss": "will they not proclaim"
+   "gloss": "will they not proclaim?"
   },
   {
    "surface": "கொல்",
@@ -44,7 +49,7 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed (question particle)"
+     "gloss": "particle of interrogation"
     }
    ],
    "gloss": "indeed"
@@ -55,12 +60,12 @@
     {
      "text": "முன்",
      "lemma": "முன்",
-     "gloss": "front"
+     "gloss": "fore"
     },
     {
      "text": "கை",
      "lemma": "கை",
-     "gloss": "hand"
+     "gloss": "arm"
     }
    ],
    "gloss": "forearm"
@@ -71,10 +76,10 @@
     {
      "text": "இறை",
      "lemma": "இறை",
-     "gloss": "joint"
+     "gloss": "wrist"
     }
    ],
-   "gloss": "joint"
+   "gloss": "wrist"
   },
   {
    "surface": "இறவா",
@@ -82,10 +87,10 @@
     {
      "text": "இறவா",
      "lemma": "இற",
-     "gloss": "slipping past"
+     "gloss": "slipping down"
     }
    ],
-   "gloss": "slipping past"
+   "gloss": "slipping down"
   },
   {
    "surface": "நின்ற",
@@ -110,10 +115,10 @@
    "gloss": "bangles"
   }
  ],
- "literal": "Lord of the shore / fact of having forsaken / will they not proclaim / [question particle] / forearm / joint / slipping past / which are / bangles",
- "translation": "Will not these bangles, slipping past the joints of my forearms, proclaim the fact that the lord of the shore has forsaken me?",
- "modern": "என் முன்கையின் மூட்டுகளைத் தாண்டி நழுவி விழுகின்ற இந்த வளையல்கள், துறைவன் என்னைப் பிரிந்து சென்ற உண்மையை ஊருக்குத் தூற்றிச் சொல்லாதோ?",
- "explanation": "The speaker is suffering deeply from the pain of separation. As she pines for her lover, referred to as the lord of the shore, she loses weight, causing her bangles to slip past her wrists. She wonders if these slipping bangles will not publicly proclaim the secret that he has left her. The physical symptom of slipping bangles is a classic poetic convention illustrating the physical toll of sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The lord of the shore's departure, will they not proclaim, the bangles that are slipping down from the wrist of my forearm?",
+ "translation": "Will not the bangles, slipping down from the wrists of my forearms, proclaim to the world that the lord of the shore has departed?",
+ "modern": "முன்கையின் மணிக்கட்டிலிருந்து கழன்று விழுகின்ற வளையல்கள், நெய்தல் நிலத் தலைவன் என்னை விட்டுப் பிரிந்து சென்றதை ஊராருக்கு வெளிப்படுத்திக் காட்டாவோ?",
+ "explanation": "The heroine is deeply distressed by the separation of her lover, the lord of the maritime tract (துறைவன்). Her intense grief and pining cause her body to waste away, making her arms grow thin. Consequently, the bangles on her wrists begin to slip off. She laments that even if she tries to hide her sorrow, these slipping bangles will loudly proclaim his departure to the entire neighborhood.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -14,7 +14,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having forgotten"
+   "gloss": "even by forgetfulness"
   },
   {
    "surface": "பிறன்",
@@ -22,7 +22,7 @@
     {
      "text": "பிறன்",
      "lemma": "பிறன்",
-     "gloss": "another"
+     "gloss": "another man"
     }
    ],
    "gloss": "another's"
@@ -42,12 +42,17 @@
    "surface": "சூழற்க",
    "parts": [
     {
-     "text": "சூழற்க",
+     "text": "சூழ்",
      "lemma": "சூழ்",
-     "gloss": "let not plan"
+     "gloss": "plot"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not"
     }
    ],
-   "gloss": "let one not plan"
+   "gloss": "do not plot"
   },
   {
    "surface": "சூழின்",
@@ -55,7 +60,7 @@
     {
      "text": "சூழ்",
      "lemma": "சூழ்",
-     "gloss": "plan"
+     "gloss": "plot"
     },
     {
      "text": "இன்",
@@ -63,7 +68,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if planned"
+   "gloss": "if one plots"
   },
   {
    "surface": "அறம்",
@@ -82,21 +87,21 @@
     {
      "text": "சூழம்",
      "lemma": "சூழ்",
-     "gloss": "will plan"
+     "gloss": "will plot"
     }
    ],
-   "gloss": "will plan"
+   "gloss": "will plot"
   },
   {
    "surface": "சூழ்ந்தவன்",
    "parts": [
     {
      "text": "சூழ்ந்தவன்",
-     "lemma": "சூழ்",
-     "gloss": "he who planned"
+     "lemma": "சூழ்ந்தவன்",
+     "gloss": "he who plotted"
     }
    ],
-   "gloss": "he who planned"
+   "gloss": "the plotter's"
   },
   {
    "surface": "கேடு",
@@ -110,10 +115,10 @@
    "gloss": "ruin"
   }
  ],
- "literal": "Even having forgotten, another's ruin let one not plan; if planned, virtue will plan the planner's ruin.",
- "translation": "Do not plot the ruin of another, even in a moment of forgetfulness. If you do, virtue itself will plot your ruin.",
- "modern": "மறந்துபோய்கூட மற்றொருவனுக்குக் கேடு செய்ய நினைக்கக் கூடாது; அப்படி நினைத்தால், நினைத்தவனுக்குக் கேடு செய்ய அறமே நினைக்கும்.",
- "explanation": "This couplet warns against plotting harm to others, emphasizing that such thoughts should not occur even by accident or forgetfulness. The word 'சூழற்க' (let one not plan) highlights that the mere intention or plotting of evil is forbidden. If one does plot another's ruin, 'அறம்' (virtue or the moral order) will turn against them and actively plan their downfall. Thus, the moral law acts as an inevitable force of justice against those who harbor malicious intentions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even forgetting, another's ruin do not plot; if plotted, virtue will plot the plotter's ruin.",
+ "translation": "Do not plot another's ruin, even through forgetfulness; if you do, Virtue itself will plot your ruin.",
+ "modern": "மறந்தும் கூடப் பிறருக்குக் கேடு செய்ய நினைக்கக் கூடாது; அப்படி நினைத்தால், நினைத்தவனுடைய அழிவை அறமே நினைத்துச் செய்யும்.",
+ "explanation": "This couplet warns against harboring thoughts of doing harm to others, even in a moment of forgetfulness or inattention. The key word 'சூழற்க' (do not plot) emphasizes that even the mental act of planning harm is dangerous. If one violates this and plots harm ('சூழின்'), 'அறம்' (Virtue or the moral law of the universe) will actively plot ('சூழம்') the ruin ('கேடு') of that plotter ('சூழ்ந்தவன்'). This personification of Virtue as an active agent that retaliates against evil thoughts highlights the inescapable nature of moral consequences.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

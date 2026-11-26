@@ -22,7 +22,7 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
    "gloss": "to a person"
@@ -33,7 +33,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside/mind"
+     "gloss": "mind or determination"
     },
     {
      "text": "அ",
@@ -41,7 +41,7 @@
      "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "inner"
+   "gloss": "of determination"
   },
   {
    "surface": "வெறுக்கை",
@@ -76,7 +76,7 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
    "gloss": "to a person"
@@ -107,14 +107,9 @@
    "surface": "வாழ்தும்",
    "parts": [
     {
-     "text": "வாழ்",
+     "text": "வாழ்தும்",
      "lemma": "வாழ்",
-     "gloss": "to live"
-    },
-    {
-     "text": "தும்",
-     "lemma": "தும்",
-     "gloss": "1st person plural future suffix"
+     "gloss": "we shall live"
     }
    ],
    "gloss": "we shall live"
@@ -123,23 +118,18 @@
    "surface": "எனல்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "எனல்",
+     "lemma": "எனல்",
+     "gloss": "thinking"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking"
   }
  ],
- "literal": "Glory to a person is inner wealth; disgrace to a person is saying 'we shall live having lost that'.",
- "translation": "True glory for a person is their inner wealth of spirit. Disgrace is thinking, 'We can live even after losing it.'",
- "modern": "ஒருவருக்கு உண்மையான பெருமை என்பது அவரது உள்ளத்தில் இருக்கும் ஊக்கமே ஆகும். அந்த ஊக்கத்தை இழந்துவிட்டும் நாம் வாழ்வோம் என்று நினைப்பது அவருக்கு இழிவாகும்.",
- "explanation": "This couplet defines what constitutes true glory and what constitutes disgrace for an individual. The word 'ஒளி' (light) metaphorically stands for glory or brilliance, which the poet identifies as 'உள்ள வெறுக்கை', the inner wealth of spirit or motivation. Conversely, 'இளி' means disgrace or shame. The greatest shame is not poverty or failure, but the very thought that one can continue to live after losing that inner wealth. The contrast between inner abundance and the mere physical continuation of life highlights the importance of spirit in achieving greatness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Glory to a person is the wealth of determination; disgrace to a person is thinking 'we shall live' having lost that.",
+ "translation": "A person's glory is the wealth of their inner determination; their disgrace is thinking, 'We shall live on,' after having lost that determination.",
+ "modern": "ஒருவனுக்குப் பெருமை என்பது அவனது ஊக்கமாகிய செல்வமே ஆகும்; அவனுக்கு இழிவு என்பது அந்த ஊக்கத்தை இழந்துவிட்டும் 'நாம் உயிர் வாழ்வோம்' என்று நினைப்பதே ஆகும்.",
+ "explanation": "This couplet defines true greatness and disgrace through the lens of inner strength. Glory is described as the wealth of determination that a person possesses. In contrast, disgrace is the attitude of wanting to live on after losing that noble determination. The poet suggests that a life devoid of high aspirations and self-respect is a shameful existence, whereas a life driven by strong willpower is truly glorious.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

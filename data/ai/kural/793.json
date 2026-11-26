@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "character and"
+   "gloss": "and character"
   },
   {
    "surface": "குடிமையும்",
@@ -30,7 +30,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "lineage and"
+   "gloss": "and lineage"
   },
   {
    "surface": "குற்றமும்",
@@ -38,7 +38,7 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "faults"
     },
     {
      "text": "உம்",
@@ -46,7 +46,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "faults and"
+   "gloss": "and faults"
   },
   {
    "surface": "குன்றா",
@@ -54,18 +54,18 @@
     {
      "text": "குன்றா",
      "lemma": "குன்று",
-     "gloss": "undiminished"
+     "gloss": "undiminishing"
     }
    ],
-   "gloss": "undiminished"
+   "gloss": "undiminishing"
   },
   {
    "surface": "இனனும்",
    "parts": [
     {
      "text": "இனன்",
-     "lemma": "இனன்",
-     "gloss": "kindred"
+     "lemma": "இனம்",
+     "gloss": "associates"
     },
     {
      "text": "உம்",
@@ -73,7 +73,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "kindred and"
+   "gloss": "and associates"
   },
   {
    "surface": "அறிந்தியாக்க",
@@ -81,10 +81,11 @@
     {
      "text": "அறிந்தியாக்க",
      "lemma": "அறிந்தியாக்க",
-     "gloss": "having known, make"
+     "gloss": "having known and bound"
     }
    ],
-   "gloss": "having known, make"
+   "gloss": "having known and bound",
+   "split_unverified": true
   },
   {
    "surface": "நட்பு",
@@ -98,10 +99,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "Character and lineage and faults and undiminished kindred and, having known, make friendship.",
- "translation": "Make friends only after examining a person's character, lineage, faults, and their unfailing kindred.",
- "modern": "ஒருவருடைய குணம், குடும்பப் பின்னணி, குறைகள் மற்றும் குறையாத சுற்றத்தார் ஆகியவற்றை நன்கு ஆராய்ந்து அறிந்த பிறகே அவரிடம் நட்பு கொள்ள வேண்டும்.",
- "explanation": "This couplet lists the essential qualities to investigate before forming a friendship. One must carefully examine a potential friend's good character, family background, personal flaws, and the nature of their constant companions. The word 'அறிந்தியாக்க' emphasizes that friendship should be bound or forged only after thoroughly knowing all these aspects. By weighing both the good and the bad, one ensures a stable and trustworthy relationship.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Character and, lineage and, faults and, undiminishing associates and, having known, bind friendship.",
+ "translation": "Examine a person's character, lineage, faults, and the character of their undiminishing associates, and only then secure their friendship.",
+ "modern": "ஒருவருடைய குணத்தையும், குடும்பப் பின்னணியையும், குற்றங்களையும், குறையாத நல்ல சுற்றத்தாரையும் ஆராய்ந்து அறிந்து அவரோடு நட்புக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet outlines the essential criteria for choosing a friend. Before forming a bond of friendship, one must thoroughly examine four aspects of a person: their personal character (குணம்), their family background or lineage (குடிமை), their inherent flaws or faults (குற்றம்), and the quality of their constant associates (குன்றா இனம்). The word 'யாக்க' literally means 'to bind' or 'to tie', emphasizing that friendship should be a strong, deliberate bond formed only after careful investigation ('அறிந்து'). By evaluating these aspects, one avoids the pitfalls of making alliances with unsuitable companions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

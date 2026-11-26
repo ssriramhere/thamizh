@@ -14,23 +14,18 @@
      "gloss": "also"
     }
    ],
-   "gloss": "eyes too"
+   "gloss": "the eyes also"
   },
   {
    "surface": "கொள",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொள",
      "lemma": "கொள்",
-     "gloss": "to take"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to take along"
     }
    ],
-   "gloss": "to take"
+   "gloss": "taking along"
   },
   {
    "surface": "சேறி",
@@ -54,7 +49,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "vocative suffix"
+     "gloss": "vocative particle"
     }
    ],
    "gloss": "O heart!"
@@ -68,20 +63,15 @@
      "gloss": "these"
     }
    ],
-   "gloss": "these"
+   "gloss": "these (eyes)"
   },
   {
    "surface": "என்னை",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னை",
      "lemma": "நான்",
-     "gloss": "I (oblique)"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "me"
     }
    ],
    "gloss": "me"
@@ -90,14 +80,9 @@
    "surface": "தின்னும்",
    "parts": [
     {
-     "text": "தின்",
+     "text": "தின்னும்",
      "lemma": "தின்",
-     "gloss": "to eat"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will eat"
     }
    ],
    "gloss": "will eat"
@@ -117,14 +102,9 @@
    "surface": "காணல்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காணல்",
      "lemma": "காண்",
-     "gloss": "to see"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "seeing"
     }
    ],
    "gloss": "seeing"
@@ -135,16 +115,16 @@
     {
      "text": "உற்று",
      "lemma": "உறு",
-     "gloss": "having desired"
+     "gloss": "desiring"
     }
    ],
    "gloss": "desiring"
   }
  ],
- "literal": "Eyes too to take you go, O heart! These me will eat, him seeing having desired.",
- "translation": "O heart, take my eyes along when you go to him. Otherwise, desiring to see him, they will eat me alive.",
- "modern": "நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் அழைத்துச் செல். இல்லையென்றால், அவரைக் காண விரும்பி இந்தக் கண்கள் என்னைத் தின்றுவிடும்.",
- "explanation": "The speaker addresses her own heart, which is rushing to be with her lover. She begs her heart to take her eyes along on the journey. If left behind, her eyes, consumed by the intense desire to see him, will torment her endlessly, as if eating her alive. The word 'தின்னும்' (will eat) vividly captures the physical pain and relentless nature of her unfulfilled visual longing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Eyes also taking along you go, O heart! These me will eat, him seeing desiring.",
+ "translation": "O heart, take my eyes along with you when you go; otherwise, in their intense desire to see him, they will eat me alive.",
+ "modern": "நெஞ்சே! நீ அவரிடம் செல்லும்போது என் கண்களையும் உடன் கூட்டிக்கொண்டு போ; இல்லையென்றால், அவரைப் பார்க்க வேண்டும் என்று விரும்பி, இந்தக் கண்கள் என்னை அரித்துத் தின்றுவிடும்.",
+ "explanation": "In this couplet, the heroine addresses her own heart which is rushing to be with her beloved. She begs her heart to take her eyes along on its journey. She fears that if the eyes are left behind, their desperate longing to see him will torment and consume her. The metaphor of the eyes 'eating' her vividly portrays the painful, gnawing sensation of unfulfilled desire.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

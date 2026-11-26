@@ -6,15 +6,15 @@
     {
      "text": "இல்லாள்",
      "lemma": "இல்லாள்",
-     "gloss": "wife"
+     "gloss": "wife (mistress of the home)"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with"
+     "gloss": "towards/at"
     }
    ],
-   "gloss": "with the wife"
+   "gloss": "towards one's wife"
   },
   {
    "surface": "தாழ்ந்த",
@@ -22,10 +22,10 @@
     {
      "text": "தாழ்ந்த",
      "lemma": "தாழ்",
-     "gloss": "subordinated"
+     "gloss": "submissive/bowed down"
     }
    ],
-   "gloss": "subordinated"
+   "gloss": "being submissive"
   },
   {
    "surface": "இயல்பு",
@@ -33,10 +33,10 @@
     {
      "text": "இயல்பு",
      "lemma": "இயல்பு",
-     "gloss": "nature"
+     "gloss": "natural character/manliness"
     }
    ],
-   "gloss": "nature"
+   "gloss": "natural character"
   },
   {
    "surface": "இன்மை",
@@ -44,7 +44,7 @@
     {
      "text": "இன்மை",
      "lemma": "இன்மை",
-     "gloss": "lack"
+     "gloss": "lack/absence"
     }
    ],
    "gloss": "lack"
@@ -55,10 +55,11 @@
     {
      "text": "எஞ்ஞான்றும்",
      "lemma": "எஞ்ஞான்றும்",
-     "gloss": "always"
+     "gloss": "at all times/always"
     }
    ],
-   "gloss": "always"
+   "gloss": "at all times/always",
+   "split_unverified": true
   },
   {
    "surface": "நல்லாருள்",
@@ -66,7 +67,7 @@
     {
      "text": "நல்லார்",
      "lemma": "நல்லார்",
-     "gloss": "good people"
+     "gloss": "good/noble people"
     },
     {
      "text": "உள்",
@@ -74,20 +75,15 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among good people"
+   "gloss": "among noble people"
   },
   {
    "surface": "நாணு",
    "parts": [
     {
-     "text": "நாண்",
+     "text": "நாணு",
      "lemma": "நாண்",
-     "gloss": "shame"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "euphonic suffix"
+     "gloss": "shame/embarrassment"
     }
    ],
    "gloss": "shame"
@@ -98,16 +94,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will give"
+     "gloss": "will give/bring"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "With wife subordinated nature's lack always among good people shame will give.",
- "translation": "The unnatural state of being subordinated to one's wife will always bring shame among good people.",
- "modern": "மனைவியிடம் தாழ்ந்து நடக்கும் இயல்பற்ற நிலை ஒருவனுக்கு நல்லவர்களிடையே எப்போதும் வெட்கத்தைத் தரும்.",
- "explanation": "This couplet warns about the social consequences of a man being overly submissive to his wife. The phrase இல்லாள்கண் தாழ்ந்த describes the act of being subordinated to one's spouse. The word இன்மை means absence or lack, and here combined with இயல்பு (nature) it means a lack of proper nature or unnatural conduct. The word நல்லார் can sometimes mean women, but here it takes the sense of good and wise people. Because of his undignified behavior, such a man will always face shame when among the good.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The lack of natural character of being submissive towards one's wife, at all times, among noble people, shame will bring.",
+ "translation": "The unmanly nature of bowing submissively to one's wife will always bring shame when one stands among worthy men.",
+ "modern": "தன் மனைவியிடம் பணிந்துபோகும் ஆண்மையற்ற குணம், எப்போதும் நல்லவர்களிடையே அவமானத்தையே தரும்.",
+ "explanation": "This couplet highlights the loss of social dignity that comes from being overly submissive to one's wife. The phrase 'இல்லாள்கண் தாழ்ந்த' refers to behaving subserviently to the mistress of the house, and 'இயல்பின்மை' (literally, 'lack of natural character') denotes a lack of the strength and independence expected of a householder. Such submissiveness, the poet warns, will 'எஞ்ஞான்றும்' (always) bring 'நாணு' (shame or embarrassment) when the man stands 'நல்லாருள்' (among noble or worthy people). It emphasizes that a man who loses his authority at home cannot command respect in the wider society.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

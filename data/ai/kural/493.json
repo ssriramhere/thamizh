@@ -6,7 +6,7 @@
     {
      "text": "ஆற்றார்",
      "lemma": "ஆற்றார்",
-     "gloss": "weak people"
+     "gloss": "those who lack strength"
     },
     {
      "text": "உம்",
@@ -14,7 +14,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even the weak"
+   "gloss": "even those who lack strength"
   },
   {
    "surface": "ஆற்றி",
@@ -22,18 +22,23 @@
     {
      "text": "ஆற்றி",
      "lemma": "ஆற்று",
-     "gloss": "having become strong"
+     "gloss": "having gathered strength"
     }
    ],
-   "gloss": "having become strong"
+   "gloss": "having gathered strength"
   },
   {
    "surface": "அடுப",
    "parts": [
     {
-     "text": "அடுப",
+     "text": "அடு",
      "lemma": "அடு",
-     "gloss": "they will conquer"
+     "gloss": "conquer"
+    },
+    {
+     "text": "ப",
+     "lemma": "ப",
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "they will conquer"
@@ -47,7 +52,7 @@
      "gloss": "place"
     }
    ],
-   "gloss": "place"
+   "gloss": "the right place"
   },
   {
    "surface": "அறிந்து",
@@ -71,10 +76,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at"
+     "gloss": "against (locative suffix)"
     }
    ],
-   "gloss": "at the enemies"
+   "gloss": "against their enemies"
   },
   {
    "surface": "போற்றி",
@@ -82,10 +87,10 @@
     {
      "text": "போற்றி",
      "lemma": "போற்று",
-     "gloss": "having protected"
+     "gloss": "having guarded"
     }
    ],
-   "gloss": "having protected"
+   "gloss": "guarding themselves"
   },
   {
    "surface": "செயின்",
@@ -93,16 +98,16 @@
     {
      "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "if act"
+     "gloss": "if they act"
     }
    ],
    "gloss": "if they act"
   }
  ],
- "literal": "Even the weak, having become strong, will conquer, place having known, at the enemies, having protected, if they act.",
- "translation": "Even the weak will gather strength and conquer their foes, if they choose the right place, protect themselves, and then act.",
- "modern": "தக்க இடத்தினை அறிந்து, தம்மைக் காத்துக்கொண்டு பகைவரிடம் போர் செய்தால், வலிமையற்றவர்களும் வலிமை பெற்று வெல்வார்கள்.",
- "explanation": "This couplet explains the strategic advantage of choosing the right battleground. The word 'இடன்' (place) is central, emphasizing that location can compensate for a lack of inherent power. If even weak people ('ஆற்றாரும்') carefully protect themselves ('போற்றி') and engage their enemies in a well-chosen place, they will gather strength ('ஆற்றி') and achieve victory ('அடுப'). It highlights that tactical positioning and self-defense are just as crucial as raw strength.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even those who lack strength, having gathered strength, will conquer, the right place having known, against enemies, guarding themselves, if they act.",
+ "translation": "Even those who lack strength will gather strength and conquer their enemies, if they choose the right place, guard themselves well, and then act.",
+ "modern": "வலிமை இல்லாதவர்களும் கூட, தகுந்த இடத்தை அறிந்து, தங்களைப் பாதுகாத்துக் கொண்டு, பகைவர்களுக்கு எதிராகச் செயல்பட்டால், வலிமை பெற்று வெற்றி பெறுவார்கள்.",
+ "explanation": "This couplet emphasizes the power of choosing the right location in overcoming a stronger adversary. Even those who are naturally weak can defeat their enemies if they act with careful self-protection. The key lies in knowing the right place and preparing themselves adequately. By choosing a strategic location that favors them and disadvantages the enemy, the weak can neutralize the enemy's strength and emerge victorious.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

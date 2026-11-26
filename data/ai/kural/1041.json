@@ -20,12 +20,17 @@
    "surface": "இன்னாதது",
    "parts": [
     {
-     "text": "இன்னாதது",
-     "lemma": "இன்னாதது",
-     "gloss": "painful thing"
+     "text": "இன்னாத",
+     "lemma": "இன்னா",
+     "gloss": "painful"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "thing"
     }
    ],
-   "gloss": "painful thing"
+   "gloss": "that which is painful"
   },
   {
    "surface": "யாது",
@@ -42,17 +47,12 @@
    "surface": "எனின்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "எனின்",
+     "lemma": "எனின்",
+     "gloss": "if one asks"
     }
    ],
-   "gloss": "if asked"
+   "gloss": "if one asks"
   },
   {
    "surface": "இன்மையின்",
@@ -65,10 +65,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "like"
+     "gloss": "than"
     }
    ],
-   "gloss": "like poverty"
+   "gloss": "than poverty"
   },
   {
    "surface": "இன்மையே",
@@ -90,18 +90,23 @@
    "surface": "இன்னாதது",
    "parts": [
     {
-     "text": "இன்னாதது",
-     "lemma": "இன்னாதது",
-     "gloss": "painful thing"
+     "text": "இன்னாத",
+     "lemma": "இன்னா",
+     "gloss": "painful"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "thing"
     }
    ],
-   "gloss": "painful thing"
+   "gloss": "that which is painful"
   }
  ],
- "literal": "Than poverty painful thing what if asked, like poverty poverty itself painful thing.",
- "translation": "If asked what is more painful than poverty, poverty alone is as painful as poverty.",
- "modern": "வறுமையை விடத் துன்பம் தருவது எது என்று கேட்டால், வறுமையைப் போலத் துன்பம் தருவது வறுமை மட்டுமே ஆகும்.",
- "explanation": "This couplet emphasizes the unparalleled suffering caused by poverty. The poet asks a rhetorical question: what is more painful than poverty? The answer is that nothing else compares to it; only poverty itself is as painful as poverty. The fifth case suffix 'இன்' (in) is used twice here, first to mean 'more than' and then to mean 'like'. The repetition of the words 'இன்மை' (poverty) and 'இன்னாதது' (painful thing) reinforces the absolute and unique nature of the misery it brings.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than poverty that which is painful what if one asks, than poverty poverty itself is that which is painful.",
+ "translation": "If one asks what is as painful as poverty, the answer is that nothing is as painful as poverty itself.",
+ "modern": "வறுமையை விடக் கொடுமையானது எது என்று கேட்டால், வறுமையை விட வறுமையே கொடுமையானது ஆகும்.",
+ "explanation": "This couplet highlights the incomparable suffering of poverty. The poet poses a rhetorical question asking what could possibly be more painful than being poor. By answering that only poverty itself is as painful as poverty, the verse emphasizes that no other misery in the world can match its devastating nature. The repetition of the words for poverty and pain reinforces the absolute and inescapable grip of destitution.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

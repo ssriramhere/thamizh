@@ -22,7 +22,7 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative suffix)"
     }
    ],
    "gloss": "to the son"
@@ -33,10 +33,10 @@
     {
      "text": "ஆற்று",
      "lemma": "ஆற்று",
-     "gloss": "doing"
+     "gloss": "to do / perform"
     }
    ],
-   "gloss": "doing"
+   "gloss": "that which is performed"
   },
   {
    "surface": "நன்றி",
@@ -44,10 +44,10 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "good deed"
+     "gloss": "benefit / good deed"
     }
    ],
-   "gloss": "good deed"
+   "gloss": "benefit / good deed"
   },
   {
    "surface": "அவையத்து",
@@ -58,14 +58,9 @@
      "gloss": "assembly"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "அத்து",
      "lemma": "அத்து",
-     "gloss": "in"
+     "gloss": "inflectional increment"
     }
    ],
    "gloss": "in the assembly"
@@ -74,55 +69,40 @@
    "surface": "முந்தி",
    "parts": [
     {
-     "text": "முந்து",
+     "text": "முந்தி",
      "lemma": "முந்து",
-     "gloss": "to precede"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "to be in front / foremost"
     }
    ],
-   "gloss": "being first"
+   "gloss": "to be in front / foremost"
   },
   {
    "surface": "இருப்ப",
    "parts": [
     {
-     "text": "இரு",
+     "text": "இருப்ப",
      "lemma": "இரு",
-     "gloss": "to sit"
-    },
-    {
-     "text": "ப்ப",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to sit / to be present"
     }
    ],
-   "gloss": "so as to sit"
+   "gloss": "to sit / to be present"
   },
   {
    "surface": "செயல்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயல்",
      "lemma": "செய்",
-     "gloss": "to make"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "to make / to do"
     }
    ],
-   "gloss": "making"
+   "gloss": "to make / the act of doing"
   }
  ],
- "literal": "Father to son doing good deed, in assembly being first to sit making.",
- "translation": "The greatest good a father can do for his son is to make him worthy of sitting at the forefront of the assembly.",
- "modern": "ஒரு தந்தை தன் மகனுக்குச் செய்யும் நன்மை, அவனை அறிஞர்கள் அவையில் முன்னணியில் இருக்கும்படி தகுதியுடையவனாக ஆக்குவதாகும்.",
- "explanation": "This couplet defines the primary duty of a father towards his child. The phrase 'அவையத்து முந்தி இருப்பச் செயல்' (making him sit first in the assembly) means equipping the son with enough knowledge and character to be respected among the wise. The word 'நன்றி' (good deed or benefit) highlights that this is the most valuable gift a parent can provide. Rather than merely leaving behind wealth, a father's true contribution is raising a child capable of leading and excelling in society.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The father to the son performing benefit, in the assembly foremost to sit, to make.",
+ "translation": "The greatest benefit a father can confer upon his son is to enable him to sit foremost in the assembly of the wise.",
+ "modern": "ஒரு தந்தை தன் மகனுக்குச் செய்யக்கூடிய சிறந்த உதவி, அவனை அறிஞர்கள் நிறைந்த அவையில் முதன்மையாக இருக்குமாறு கல்வி அறிவு உடையவனாக ஆக்குவதே ஆகும்.",
+ "explanation": "This couplet defines the ultimate duty and gift of a parent. The word 'நன்றி' here refers to the greatest benefit or good deed a father can perform for his son. The phrase 'அவையத்து முந்தி இருப்பச் செயல்' emphasizes that this benefit is not material wealth, but rather providing the education and character that allow the son to stand respected and prominent among learned scholars.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

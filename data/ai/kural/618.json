@@ -6,10 +6,10 @@
     {
      "text": "பொறி",
      "lemma": "பொறி",
-     "gloss": "fortune"
+     "gloss": "destiny or physical endowment"
     }
    ],
-   "gloss": "fortune"
+   "gloss": "destiny or physical endowment"
   },
   {
    "surface": "இன்மை",
@@ -17,28 +17,23 @@
     {
      "text": "இன்மை",
      "lemma": "இன்மை",
-     "gloss": "lack"
+     "gloss": "absence or lack"
     }
    ],
-   "gloss": "lack"
+   "gloss": "absence or lack"
   },
   {
    "surface": "யார்க்கும்",
    "parts": [
     {
-     "text": "யார்",
+     "text": "யார்க்கு",
      "lemma": "யார்",
-     "gloss": "who"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to whom"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even or also"
     }
    ],
    "gloss": "to anyone"
@@ -49,17 +44,17 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "blame or disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "blame or disgrace"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is not"
     }
    ],
@@ -71,7 +66,7 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "knowledge or what is to be known"
     }
    ],
    "gloss": "knowledge"
@@ -93,15 +88,15 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "manly"
+     "gloss": "to rule or exert"
     },
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "action or effort"
     }
    ],
-   "gloss": "effort"
+   "gloss": "effort or industriousness"
   },
   {
    "surface": "இன்மை",
@@ -109,10 +104,10 @@
     {
      "text": "இன்மை",
      "lemma": "இன்மை",
-     "gloss": "lack"
+     "gloss": "absence or lack"
     }
    ],
-   "gloss": "lack"
+   "gloss": "absence or lack"
   },
   {
    "surface": "பழி",
@@ -120,16 +115,16 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "blame or disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "blame or disgrace"
   }
  ],
- "literal": "Fortune lack to anyone blame is not; knowledge having known effort lack blame.",
- "translation": "Lacking good fortune is no disgrace to anyone. The true disgrace is lacking the effort to do what one knows must be done.",
- "modern": "ஒருவருக்கு நல்லூழ் இல்லாதிருப்பது அவருக்குப் பழியாகாது; ஆனால் அறிய வேண்டியவற்றை அறிந்து அதற்கேற்ப முயற்சி செய்யாமல் இருப்பதே பழியாகும்.",
- "explanation": "This couplet contrasts the lack of good fortune with the lack of effort. The word 'poṟi' can mean sense organs or destiny; here, contrasted with 'āḷviṉai' (effort), it means favorable fortune or destiny. The poet states that not being blessed with good fortune is not a fault or disgrace for anyone. However, failing to exert effort after understanding what needs to be done is a true disgrace. The emphasis is entirely on human agency and industry over innate luck.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Lack of destiny is not a disgrace to anyone; knowing what is to be known, lack of effort is disgrace.",
+ "translation": "Lacking favorable fortune or natural endowment is no disgrace to anyone; but lacking effort, after knowing what needs to be done, is a true disgrace.",
+ "modern": "விதி அல்லது நல்வினை இல்லாமல் இருப்பது யாருக்கும் பழி ஆகாது; ஆனால், செய்ய வேண்டியவற்றை அறிந்து முயற்சி செய்யாமல் இருப்பதே பழியாகும்.",
+ "explanation": "This couplet contrasts external circumstances with personal responsibility. The word 'poṟi' refers to fate, luck, or natural physical endowment; the poet asserts that lacking these is not a disgrace because they are beyond a person's control. However, 'āḷviṉai iṉmai' (the lack of effort) is a genuine disgrace. The phrase 'aṟivu aṟintu' emphasizes that one must first acquire the necessary knowledge of how to perform a task, and then apply effort; failing to try despite knowing what to do is where the real blame lies.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

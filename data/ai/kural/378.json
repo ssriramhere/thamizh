@@ -6,25 +6,20 @@
     {
      "text": "துற",
      "lemma": "துற",
-     "gloss": "to renounce"
+     "gloss": "renounce"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "third person plural suffix"
+     "gloss": "they (third person plural suffix)"
     }
    ],
-   "gloss": "they will renounce"
+   "gloss": "they would renounce"
   },
   {
    "surface": "மன்",
@@ -32,7 +27,7 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "indeed (particle of emphasis or regret)"
     }
    ],
    "gloss": "indeed"
@@ -43,10 +38,10 @@
     {
      "text": "துப்புரவு",
      "lemma": "துப்புரவு",
-     "gloss": "enjoyment"
+     "gloss": "enjoyments or resources"
     }
    ],
-   "gloss": "enjoyment"
+   "gloss": "enjoyments"
   },
   {
    "surface": "இல்லார்",
@@ -54,36 +49,31 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "ல்",
-     "lemma": "ல்",
-     "gloss": "sandhi"
+     "gloss": "not having"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "third person plural suffix"
+     "gloss": "those who (pronominal suffix)"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "உறற்பால",
    "parts": [
     {
      "text": "உறல்",
-     "lemma": "உறல்",
-     "gloss": "experiencing"
+     "lemma": "உறு",
+     "gloss": "happening"
     },
     {
      "text": "பால",
      "lemma": "பால்",
-     "gloss": "things of the nature of"
+     "gloss": "destined portion or nature"
     }
    ],
-   "gloss": "things destined to be experienced"
+   "gloss": "things destined to happen"
   },
   {
    "surface": "ஊட்டா",
@@ -91,15 +81,15 @@
     {
      "text": "ஊட்டு",
      "lemma": "ஊட்டு",
-     "gloss": "to feed"
+     "gloss": "feed or make experience"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
-   "gloss": "without feeding"
+   "gloss": "without making one experience"
   },
   {
    "surface": "கழியும்",
@@ -107,20 +97,15 @@
     {
      "text": "கழி",
      "lemma": "கழி",
-     "gloss": "to pass"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "pass away or depart"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will (future or habitual marker)"
     }
    ],
-   "gloss": "will pass"
+   "gloss": "would pass away"
   },
   {
    "surface": "எனின்",
@@ -128,7 +113,7 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say or be"
     },
     {
      "text": "இன்",
@@ -139,10 +124,10 @@
    "gloss": "if"
   }
  ],
- "literal": "Will renounce indeed, enjoyment those without, things destined to be experienced without feeding will pass if.",
- "translation": "Even those without worldly enjoyments would renounce the world, if the experiences destined for them would pass away without forcing themselves upon them.",
- "modern": "தாம் அனுபவிக்க வேண்டிய வினைகள் தங்களை அனுபவிக்கச் செய்யாமல் தாமாகவே கழிந்துபோகுமானால், வறுமையில் உள்ளவர்கள் கூட உலக வாழ்க்கையைத் துறந்து விடுவார்கள்.",
- "explanation": "This couplet illustrates the inescapable power of destiny. It observes that people who lack wealth and worldly enjoyments ('துப்புரவு இல்லார்') have little reason to remain attached to worldly life, yet they do not easily become ascetics. The reason is that destiny does not simply pass away ('கழியும்'); it actively forces individuals to undergo their allotted experiences ('உறற்பால'). The word 'ஊட்டா' (without feeding) vividly personifies destiny as an entity that insists on feeding people their destined joys and sorrows, thereby keeping even the destitute bound to the world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "They would renounce indeed, those who lack enjoyments, if things destined to happen would pass away without making them experience.",
+ "translation": "Those who lack the means of enjoyment would surely renounce the world, if only destined events would pass away without forcing them to experience their fruits.",
+ "modern": "அனுபவிக்க வேண்டிய விதிப்பயன்கள் தங்களை அனுபவிக்கச் செய்யாமல் சும்மா கடந்து போய்விடுமானால், நுகர்பொருள்கள் இல்லாத ஏழைகள் உலகத்தைத் துறந்து துறவிகளாகிவிடுவார்கள்.",
+ "explanation": "This couplet highlights the inescapable power of destiny. The poet suggests that those who suffer from a lack of basic resources and enjoyments ('tuppuravu illār') would easily renounce worldly life ('tuṟappār') to escape their misery. However, they are unable to do so because destiny ('uṟaṟpāla') does not pass away ('kaḻiyum') without forcing them to experience ('ūṭṭā') the fruits of their past actions. Thus, even the desire to renounce is governed and restricted by destiny, binding individuals to their destined experiences.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

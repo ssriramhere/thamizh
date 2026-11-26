@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "ஓர்த்து",
-     "lemma": "ஓர்",
-     "gloss": "having pondered"
+     "lemma": "ஓர்தல்",
+     "gloss": "having examined deeply"
     }
    ],
-   "gloss": "having pondered"
+   "gloss": "having examined deeply"
   },
   {
    "surface": "உள்ளம்",
@@ -17,34 +17,29 @@
     {
      "text": "உள்ளம்",
      "lemma": "உள்ளம்",
-     "gloss": "mind"
+     "gloss": "the mind"
     }
    ],
-   "gloss": "mind"
+   "gloss": "the mind"
   },
   {
    "surface": "உள்ளது",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "exist"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which"
+     "text": "உள்ளது",
+     "lemma": "உள்ளது",
+     "gloss": "that which is real"
     }
    ],
-   "gloss": "that which is"
+   "gloss": "that which is real"
   },
   {
    "surface": "உணரின்",
    "parts": [
     {
      "text": "உணர்",
-     "lemma": "உணர்",
-     "gloss": "realize"
+     "lemma": "உணர்தல்",
+     "gloss": "perceive"
     },
     {
      "text": "இன்",
@@ -52,7 +47,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if realizes"
+   "gloss": "if one perceives"
   },
   {
    "surface": "ஒருதலையா",
@@ -64,8 +59,8 @@
     },
     {
      "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "adverbial suffix"
+     "lemma": "ஆக",
+     "gloss": "as"
     }
    ],
    "gloss": "certainly"
@@ -75,7 +70,7 @@
    "parts": [
     {
      "text": "பேர்த்து",
-     "lemma": "பேர்",
+     "lemma": "பேர்த்தல்",
      "gloss": "again"
     }
    ],
@@ -85,30 +80,20 @@
    "surface": "உள்ள",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "think"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "உள்ள",
+     "lemma": "உள்ளுதல்",
+     "gloss": "to think of"
     }
    ],
-   "gloss": "to think"
+   "gloss": "to think of"
   },
   {
    "surface": "வேண்டா",
    "parts": [
     {
-     "text": "வேண்டு",
-     "lemma": "வேண்டு",
-     "gloss": "need"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "வேண்டா",
+     "lemma": "வேண்டுதல்",
+     "gloss": "is not needed"
     }
    ],
    "gloss": "is not needed"
@@ -125,10 +110,10 @@
    "gloss": "birth"
   }
  ],
- "literal": "Having pondered, mind, that which is, if realizes, certainly, again, to think of, is not needed, birth.",
- "translation": "If the mind ponders and realizes the ultimate truth, there will certainly be no need to think of birth again.",
- "modern": "உள்ளமானது ஆராய்ந்து உண்மையான பொருளை உணர்ந்தால், மீண்டும் பிறவி எடுப்பதைப் பற்றி நினைக்க வேண்டியதில்லை.",
- "explanation": "This couplet explains the result of realizing the ultimate truth. The word 'ஓர்த்து' means to examine or ponder deeply, while 'உள்ளது' refers to that which truly exists, or reality. If the mind grasps this reality, the cycle of birth is broken. Therefore, one will 'certainly' ('ஒருதலையா') not need to worry about or experience another birth ('பேர்த்து உள்ள வேண்டா பிறப்பு'). The verse emphasizes that true understanding frees the mind from the cycle of worldly existence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having examined deeply, if the mind perceives that which is real, certainly again to think of birth is not needed.",
+ "translation": "If the mind investigates deeply and realizes the ultimate reality, there is absolutely no need to think of rebirth again.",
+ "modern": "மனம் ஆராய்ந்து மெய்ப்பொருளை உணர்ந்தால், மீண்டும் பிறப்பைப் பற்றி நினைக்க வேண்டியதில்லை.",
+ "explanation": "This couplet explains the ultimate benefit of realizing the truth. When the mind investigates deeply and perceives the true nature of reality, it attains liberation. Consequently, there is absolutely no need to experience or contemplate rebirth ever again. The word 'உள்ளது' refers to the ultimate reality or truth, and 'ஓர்த்து' emphasizes the role of deep, critical inquiry in reaching this realization.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "ஈன்ற",
      "lemma": "ஈன்",
-     "gloss": "who bore"
+     "gloss": "having given birth to"
     }
    ],
-   "gloss": "who bore"
+   "gloss": "having given birth to"
   },
   {
    "surface": "பொழுதின்",
@@ -22,7 +22,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative case marker)"
     }
    ],
    "gloss": "than the time"
@@ -36,7 +36,7 @@
      "gloss": "greatly"
     }
    ],
-   "gloss": "greatly"
+   "gloss": "greatly / more"
   },
   {
    "surface": "உவக்கும்",
@@ -71,10 +71,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "ACC"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "son (ACC)"
+   "gloss": "son"
   },
   {
    "surface": "சான்றோன்",
@@ -82,21 +82,21 @@
     {
      "text": "சான்றோன்",
      "lemma": "சான்றோன்",
-     "gloss": "noble man"
+     "gloss": "noble/virtuous person"
     }
    ],
-   "gloss": "noble man"
+   "gloss": "a noble/virtuous person"
   },
   {
    "surface": "என",
    "parts": [
     {
      "text": "என",
-     "lemma": "என",
-     "gloss": "that"
+     "lemma": "என்",
+     "gloss": "as / that"
     }
    ],
-   "gloss": "that"
+   "gloss": "as / that"
   },
   {
    "surface": "கேட்ட",
@@ -121,10 +121,10 @@
    "gloss": "mother"
   }
  ],
- "literal": "who bore than the time greatly will rejoice her own son noble man that who heard mother",
- "translation": "A mother who hears her son praised as a noble man will rejoice even more than at the time she bore him.",
- "modern": "தன் மகனைச் சான்றோன் என்று பிறர் சொல்லக் கேட்ட தாய், அவனைப் பெற்றெடுத்த காலத்தில் அடைந்த மகிழ்ச்சியை விடப் பெரும் மகிழ்ச்சி அடைவாள்.",
- "explanation": "This couplet describes the ultimate joy of a mother. The word 'பொழுதின்' uses the suffix 'இன்' to mean 'more than the time', comparing two moments of immense happiness. When she hears others praise her son as 'சான்றோன்' (a noble or perfect man), her joy surpasses even the profound happiness she felt at his birth. It emphasizes that a child's virtuous character is the greatest reward for a parent.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than the time she gave birth, greatly will rejoice, her own son, 'a noble person' as heard, the mother.",
+ "translation": "A mother rejoices far more when she hears her son praised as a noble, virtuous man than she did on the day she gave birth to him.",
+ "modern": "தன் மகனை அறிவு ஒழுக்கங்களில் சிறந்த சான்றோன் என்று பிறர் சொல்லக் கேட்ட தாய், அவனைப் பெற்றெடுத்த போது அடைந்த மகிழ்ச்சியை விடப் பெரும் மகிழ்ச்சி அடைவாள்.",
+ "explanation": "This couplet beautifully captures the depth of maternal love and pride. While giving birth brings immense joy to a mother, hearing society praise her child as a 'சான்றோன்' (a person of complete noble character and wisdom) brings an even greater, unparalleled happiness. The word 'சான்றோன்' represents a person who is fully accomplished in virtues, showing that a mother's ultimate fulfillment lies in her child's moral and intellectual growth rather than just physical birth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

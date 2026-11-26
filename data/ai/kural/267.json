@@ -6,15 +6,15 @@
     {
      "text": "சுட",
      "lemma": "சுடு",
-     "gloss": "to heat"
+     "gloss": "as it is heated"
     },
     {
      "text": "சுடரும்",
      "lemma": "சுடர்",
-     "gloss": "will shine"
+     "gloss": "shining"
     }
    ],
-   "gloss": "will shine as heated"
+   "gloss": "shining as it is heated"
   },
   {
    "surface": "பொன்போல்",
@@ -38,7 +38,7 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "light"
+     "gloss": "luster"
     },
     {
      "text": "விடும்",
@@ -46,7 +46,7 @@
      "gloss": "will emit"
     }
    ],
-   "gloss": "will emit light"
+   "gloss": "will emit luster"
   },
   {
    "surface": "துன்பஞ்",
@@ -54,10 +54,10 @@
     {
      "text": "துன்பஞ்",
      "lemma": "துன்பம்",
-     "gloss": "pain"
+     "gloss": "suffering"
     }
    ],
-   "gloss": "pain"
+   "gloss": "suffering"
   },
   {
    "surface": "சுட",
@@ -65,7 +65,7 @@
     {
      "text": "சுட",
      "lemma": "சுடு",
-     "gloss": "to burn"
+     "gloss": "as it burns"
     }
    ],
    "gloss": "as it burns"
@@ -76,7 +76,7 @@
     {
      "text": "சுட",
      "lemma": "சுடு",
-     "gloss": "to burn"
+     "gloss": "as it burns"
     }
    ],
    "gloss": "as it burns"
@@ -85,23 +85,33 @@
    "surface": "நோற்கிற்பவர்க்கு",
    "parts": [
     {
-     "text": "நோற்கிற்பவர்",
+     "text": "நோல்",
      "lemma": "நோல்",
-     "gloss": "those who can endure"
+     "gloss": "to practice penance"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
+     "text": "கில்",
+     "lemma": "கில்",
+     "gloss": "ability suffix"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "they who"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to those who can endure"
+   "gloss": "to those who are able to practice penance"
   }
  ],
- "literal": "As heated it shines gold like, will emit light pain as it burns, as it burns, to those who can endure.",
- "translation": "Just as gold shines brighter the more it is heated in the fire, those who endure penance will shine brighter the more they are burned by pain.",
- "modern": "நெருப்பில் சுடச்சுடப் பொன் மேலும் ஒளிர்வது போல, தவம் செய்பவர்களைத் துன்பம் வருத்த வருத்த அவர்கள் மேலும் தூய்மையாகி ஒளி வீசுவார்கள்.",
- "explanation": "This couplet compares the process of penance to the refining of gold. Just as gold becomes purer and shines brighter the more it is heated in the fire, the character of those who undertake penance becomes more radiant the more they endure pain. The repetition of 'சுட' (to burn/heat) emphasizes the continuous and intense nature of both the refining fire and the hardships of penance. Through this endurance, their true inner light is revealed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like gold that shines more as it is heated and emits luster, to those who practice penance as suffering burns and burns them.",
+ "translation": "Just as gold shines more brilliantly the more it is heated in fire, the spiritual luster of those who perform penance increases the more they are purified by the sufferings they undergo.",
+ "modern": "நெருப்பில் சுடச்சுட ஒளிவிடுகின்ற பொன்னைப் போல, துன்பங்கள் வருத்த வருத்தத் தவம் மேற்கொள்பவர்களுக்கு அறிவு மற்றும் ஆற்றல் ஒளி பெருகும்.",
+ "explanation": "This couplet compares the practice of penance to the refining of gold. Gold becomes purer and shines more brilliantly each time it is heated in fire. Similarly, those who practice penance find their inner spiritual strength and wisdom growing greater and brighter with every suffering they endure. The repetition of 'சுடச்சுட' (as it burns) emphasizes the continuous nature of both the refining process and the endurance of hardships.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,26 +6,27 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "goodness"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis marker"
     }
    ],
-   "gloss": "good indeed"
+   "gloss": "even goodness"
   },
   {
    "surface": "தரினும்",
    "parts": [
     {
      "text": "தரினும்",
-     "lemma": "தா",
+     "lemma": "தரினும்",
      "gloss": "even if it yields"
     }
    ],
-   "gloss": "even if it yields"
+   "gloss": "even if it yields",
+   "split_unverified": true
   },
   {
    "surface": "நடுவு",
@@ -43,33 +44,34 @@
    "parts": [
     {
      "text": "இகந்து",
-     "lemma": "இக",
-     "gloss": "having deviated"
+     "lemma": "இகத்தல்",
+     "gloss": "having transgressed"
     }
    ],
-   "gloss": "having deviated"
+   "gloss": "having transgressed"
   },
   {
    "surface": "ஆம்",
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becoming"
+     "lemma": "ஆதல்",
+     "gloss": "which becomes"
     }
    ],
-   "gloss": "which accrues"
+   "gloss": "that is acquired"
   },
   {
    "surface": "ஆக்கத்தை",
    "parts": [
     {
      "text": "ஆக்கத்தை",
-     "lemma": "ஆக்கம்",
-     "gloss": "wealth (accusative)"
+     "lemma": "ஆக்கத்தை",
+     "gloss": "the wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "the wealth",
+   "split_unverified": true
   },
   {
    "surface": "அன்றே",
@@ -77,43 +79,43 @@
     {
      "text": "அன்று",
      "lemma": "அன்று",
-     "gloss": "that day"
+     "gloss": "that very day"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis marker"
     }
    ],
-   "gloss": "that very day"
+   "gloss": "at that very moment"
   },
   {
    "surface": "ஒழிய",
    "parts": [
     {
      "text": "ஒழிய",
-     "lemma": "ஒழி",
-     "gloss": "to cease"
+     "lemma": "ஒழிதல்",
+     "gloss": "to abandon"
     }
    ],
-   "gloss": "to be left behind"
+   "gloss": "to be abandoned"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
      "text": "விடல்",
-     "lemma": "விடு",
-     "gloss": "let one abandon"
+     "lemma": "விடுதல்",
+     "gloss": "must let go"
     }
    ],
-   "gloss": "let one abandon"
+   "gloss": "must be cast aside"
   }
  ],
- "literal": "Good indeed even if it yields, impartiality having deviated which accrues wealth, that very day to cease let one abandon.",
- "translation": "Even if it brings great good, abandon immediately any wealth gained by departing from impartiality.",
- "modern": "நடுவுநிலைமையிலிருந்து தவறி வரும் செல்வமானது நன்மையே தருவதாக இருந்தாலும், அதனை அப்போதே கைவிட வேண்டும்.",
- "explanation": "This couplet warns against the temptation of ill-gotten gains. Even if wealth acquired by compromising one's fairness seems to offer immense benefits, it should be rejected outright. True equity requires discarding any advantage that comes at the cost of justice, on the very day it appears.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if it yields goodness, wealth acquired by transgressing impartiality, at that very moment, to be abandoned, must let go.",
+ "translation": "Even if it yields great benefit, wealth acquired by departing from impartiality must be abandoned at that very moment.",
+ "modern": "நன்மையையே தந்தாலும், நடுவுநிலைமையைக் கடந்து பெறுகின்ற செல்வத்தை, அப்பொழுதே கைவிட்டுவிட வேண்டும்.",
+ "explanation": "This couplet emphasizes the absolute value of integrity and impartiality over material gain. The poet argues that even if a dishonest or biased act promises to bring immense wealth or benefit ('நன்றே தரினும்'), such wealth ('ஆக்கத்தை') acquired by deviating from fairness ('நடுவு இகந்து ஆம்') must be rejected immediately ('அன்றே ஒழிய விடல்'). The phrase 'அன்றே' (that very day or moment) highlights that there should be no hesitation or delay in discarding ill-gotten gains. True virtue lies in recognizing that wealth obtained through unfair means is inherently harmful and unworthy of possession.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

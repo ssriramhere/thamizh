@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "சிறு",
-     "lemma": "சிறு",
+     "lemma": "சிறுமை",
      "gloss": "small"
     }
    ],
-   "gloss": "small"
+   "gloss": "small / minimal"
   },
   {
    "surface": "காப்பின்",
@@ -17,7 +17,7 @@
     {
      "text": "காப்பு",
      "lemma": "காப்பு",
-     "gloss": "defense"
+     "gloss": "guarding"
     },
     {
      "text": "இன்",
@@ -25,14 +25,14 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with defense"
+   "gloss": "with guarding / requiring little defense"
   },
   {
    "surface": "பேர்",
    "parts": [
     {
      "text": "பேர்",
-     "lemma": "பேர்",
+     "lemma": "பெருமை",
      "gloss": "large"
     }
    ],
@@ -44,26 +44,21 @@
     {
      "text": "இடத்தது",
      "lemma": "இடம்",
-     "gloss": "that which has space"
+     "gloss": "having space"
     }
    ],
-   "gloss": "that which has space"
+   "gloss": "having space"
   },
   {
    "surface": "ஆகி",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "being"
     }
    ],
-   "gloss": "having become"
+   "gloss": "being"
   },
   {
    "surface": "உறு",
@@ -71,10 +66,10 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "pressing"
+     "gloss": "intense"
     }
    ],
-   "gloss": "pressing"
+   "gloss": "intense / great"
   },
   {
    "surface": "பகை",
@@ -93,10 +88,10 @@
     {
      "text": "ஊக்கம்",
      "lemma": "ஊக்கம்",
-     "gloss": "vigor"
+     "gloss": "zeal"
     }
    ],
-   "gloss": "vigor"
+   "gloss": "zeal / motivation"
   },
   {
    "surface": "அழிப்பது",
@@ -121,10 +116,10 @@
    "gloss": "fortress"
   }
  ],
- "literal": "Small in defense, large in space having become, pressing enemy's vigor that which destroys is a fortress.",
- "translation": "A true fortress requires only a small defense while holding a vast interior space, and it shatters the vigor of attacking enemies.",
- "modern": "காப்பதற்குச் சிறிய எல்லையையும், உள்ளே தங்குவதற்குப் பெரிய இடத்தையும் கொண்டு, தன்னை எதிர்த்து வரும் பகையின் ஊக்கத்தை அழிப்பதே சிறந்த அரணாகும்.",
- "explanation": "This couplet defines the ideal proportions and psychological impact of a fortress. It should have a narrow or easily defensible perimeter to minimize the effort of guarding it, yet possess a spacious interior to hold defenders and resources. Furthermore, its formidable nature must break the spirit and enthusiasm of any besieging enemy before they even strike.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With small defense, being of large space, that which destroys the zeal of the intense enemy is a fortress.",
+ "translation": "A true fortress is one that requires only a small force to defend, offers ample space inside, and destroys the zeal of the attacking enemy.",
+ "modern": "குறைந்த காவலுடன், பெரிய இடத்தைக் கொண்டு, வந்து தாக்கும் பகைவரின் ஊக்கத்தை அழிப்பதே சிறந்த அரண் ஆகும்.",
+ "explanation": "This couplet defines the essential qualities of an effective fortress (அரண்). First, it must require only a small guarding force (சிறுகாப்பு) to defend it, meaning its design makes it easy to secure. Second, it must have a large interior space (பேரிடத்தது) to accommodate people, provisions, and troops comfortably during a siege. Finally, its formidable nature must be such that it dampens and destroys the determination and zeal (ஊக்கம்) of even a powerful attacking enemy (உறுபகை). These physical and psychological advantages make a fortification truly secure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

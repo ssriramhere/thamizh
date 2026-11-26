@@ -6,7 +6,7 @@
     {
      "text": "நயன்",
      "lemma": "நயன்",
-     "gloss": "amiability"
+     "gloss": "justice or propriety"
     },
     {
      "text": "ஒடு",
@@ -14,7 +14,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with amiability"
+   "gloss": "with justice and propriety"
   },
   {
    "surface": "நன்றி",
@@ -22,10 +22,10 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "goodness"
+     "gloss": "virtue or goodness"
     }
    ],
-   "gloss": "goodness"
+   "gloss": "virtue"
   },
   {
    "surface": "புரிந்த",
@@ -33,10 +33,10 @@
     {
      "text": "புரிந்த",
      "lemma": "புரி",
-     "gloss": "practiced"
+     "gloss": "having practiced or performed"
     }
    ],
-   "gloss": "practiced"
+   "gloss": "having practiced"
   },
   {
    "surface": "பயன்",
@@ -44,10 +44,10 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "benefit"
+     "gloss": "usefulness or benefit"
     }
    ],
-   "gloss": "benefit"
+   "gloss": "usefulness"
   },
   {
    "surface": "உடையார்",
@@ -55,10 +55,10 @@
     {
      "text": "உடையார்",
      "lemma": "உடையார்",
-     "gloss": "possessors"
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "possessors"
+   "gloss": "those who possess"
   },
   {
    "surface": "பண்பு",
@@ -66,23 +66,18 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "character"
+     "gloss": "noble character or courtesy"
     }
    ],
-   "gloss": "character"
+   "gloss": "noble character"
   },
   {
    "surface": "பாராட்டும்",
    "parts": [
     {
-     "text": "பாராட்டு",
+     "text": "பாராட்டும்",
      "lemma": "பாராட்டு",
-     "gloss": "to praise"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will praise or celebrate"
     }
    ],
    "gloss": "will praise"
@@ -93,16 +88,16 @@
     {
      "text": "உலகு",
      "lemma": "உலகு",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "With amiability goodness practiced benefit possessors' character will praise world.",
- "translation": "The world celebrates the character of those whose usefulness lies in practicing amiability and goodness.",
- "modern": "நயமும் நன்மையும் பொருந்திய செயல்களைச் செய்யும் பயனுடையவர்களின் பண்பினை உலகம் பாராட்டும்.",
- "explanation": "The couplet explains that true usefulness in life comes from combining amiability with moral goodness. The word 'nayan' signifies a pleasant, fair, and amiable disposition, while 'nanri' refers to righteous and good deeds. Those who possess the benefit of practicing these two traits are highly valued by society. Consequently, the world praises and celebrates their noble character.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With justice, virtue having practiced, usefulness those who possess, their noble character will praise the world.",
+ "translation": "The world praises the noble character of those who make themselves useful to others by practicing justice and virtue.",
+ "modern": "நீதியோடும் நன்மையோடும் பிறருக்குப் பயன்படும் நற்செயல்களைச் செய்கின்றவர்களுடைய நற்பண்பை உலகத்தார் போற்றுவார்கள்.",
+ "explanation": "This couplet explains whose character is worthy of global appreciation. The poet uses 'nayan' to mean justice or propriety, and 'naṉṟi' to mean virtue or benevolence. When a person combines these two qualities to become 'payaṉ uṭaiyār'—someone whose life is of practical benefit to society—their behavior is recognized as true 'paṇpu' (noble character). The world ('ulaku', representing the wise people of the world) will naturally praise and celebrate such individuals.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

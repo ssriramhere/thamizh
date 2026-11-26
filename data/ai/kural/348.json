@@ -4,24 +4,24 @@
    "surface": "தலைப்பட்டார்",
    "parts": [
     {
-     "text": "தலை",
-     "lemma": "தலை",
-     "gloss": "highest state"
+     "text": "தலைப்பட்டு",
+     "lemma": "தலைப்படு",
+     "gloss": "having attained the supreme state"
     },
     {
-     "text": "பட்டார்",
-     "lemma": "படு",
-     "gloss": "reached-they"
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "they reached the highest state"
+   "gloss": "those who attained the supreme state"
   },
   {
    "surface": "தீர",
    "parts": [
     {
      "text": "தீர",
-     "lemma": "தீர்",
+     "lemma": "தீர",
      "gloss": "completely"
     }
    ],
@@ -31,9 +31,14 @@
    "surface": "துறந்தார்",
    "parts": [
     {
-     "text": "துறந்தார்",
+     "text": "துறந்து",
      "lemma": "துற",
-     "gloss": "renounced-they"
+     "gloss": "having renounced"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
    "gloss": "those who renounced"
@@ -44,26 +49,26 @@
     {
      "text": "மயங்கி",
      "lemma": "மயங்கு",
-     "gloss": "having been deluded"
+     "gloss": "being deluded"
     }
    ],
-   "gloss": "having been deluded"
+   "gloss": "being deluded"
   },
   {
    "surface": "வலைப்பட்டார்",
    "parts": [
     {
-     "text": "வலை",
-     "lemma": "வலை",
-     "gloss": "net"
+     "text": "வலைப்பட்டு",
+     "lemma": "வலைப்படு",
+     "gloss": "having been caught in a net"
     },
     {
-     "text": "பட்டார்",
-     "lemma": "படு",
-     "gloss": "fell into-they"
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "they fell into a net"
+   "gloss": "those who are caught in the net"
   },
   {
    "surface": "மற்றை",
@@ -74,7 +79,7 @@
      "gloss": "other"
     }
    ],
-   "gloss": "other"
+   "gloss": "the other"
   },
   {
    "surface": "அவர்",
@@ -82,16 +87,16 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "people"
     }
    ],
-   "gloss": "they"
+   "gloss": "people"
   }
  ],
- "literal": "Reached the highest state, completely renounced (they); having been deluded, fell into a net, other they.",
- "translation": "Those who have completely renounced have reached the highest state. The others, being deluded, are caught in a net.",
- "modern": "முற்றிலுமாகப் பற்றுக்களைத் துறந்தவர்கள் உயர்ந்த நிலையை அடைந்தவர்கள் ஆவர். அவ்வாறு துறக்காத மற்றவர்கள் மயக்கமடைந்து வலையில் அகப்பட்டவர்கள் ஆவர்.",
- "explanation": "This couplet contrasts those who have fully renounced attachments with those who have not. The phrase 'தீரத் துறந்தார்' refers to those who have completely given up desires, and they are said to have 'தலைப்பட்டார்', meaning they have reached the highest state. The word 'தலை' (head) is used here in the sense of 'highest' or 'ultimate', which best fits the goal of renunciation. On the other hand, 'மற்றையவர்' (the others) are 'மயங்கி' (deluded by worldly illusions) and thus 'வலைப்பட்டார்', trapped in the net of worldly suffering.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who attained the supreme state are those who renounced completely; being deluded, caught in the net are the other people.",
+ "translation": "Those who have completely renounced all attachments have attained the supreme state of liberation; all others, remaining deluded, are caught in the net of worldly bondage.",
+ "modern": "முற்றிலுமாகப் பற்றுகளைத் துறந்தவர்களே முக்தி நிலையை அடைந்தவர்கள் ஆவர்; அவ்வாறு துறக்காத மற்றவர்கள் மயக்கமுற்று உலக ஆசை என்னும் வலையில் சிக்கியவர்கள் ஆவர்.",
+ "explanation": "This couplet contrasts those who achieve spiritual liberation with those who remain bound to worldly existence. The term 'தலைப்பட்டார்' refers to those who have reached the highest state of spiritual attainment, which is achieved only by those who have renounced everything completely ('தீரத் துறந்தார்'). On the other hand, those who do not renounce ('மற்றையவர்') remain in a state of delusion ('மயங்கி'). This delusion causes them to be trapped like prey in a net ('வலைப்பட்டார்'), representing the inescapable snare of worldly desires and attachments.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -15,20 +15,30 @@
    "surface": "அறியார்",
    "parts": [
     {
-     "text": "அறியார்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "they know not"
+     "gloss": "know"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "negative third-person plural suffix"
     }
    ],
-   "gloss": "they know not"
+   "gloss": "those who do not know"
   },
   {
    "surface": "சொல்லல்",
    "parts": [
     {
-     "text": "சொல்லல்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "speaking"
+     "gloss": "speak"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "speaking"
@@ -48,23 +58,33 @@
    "surface": "கொள்பவர்",
    "parts": [
     {
-     "text": "கொள்பவர்",
+     "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "those who take"
+     "gloss": "take"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "pronominal suffix for those who do"
     }
    ],
-   "gloss": "those who take"
+   "gloss": "those who undertake"
   },
   {
    "surface": "சொல்லின்",
    "parts": [
     {
-     "text": "சொல்லின்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "of words"
+     "gloss": "word"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "genitive case suffix"
     }
    ],
-   "gloss": "of words"
+   "gloss": "of speech"
   },
   {
    "surface": "வகை",
@@ -72,21 +92,26 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "nature"
+     "gloss": "type"
     }
    ],
-   "gloss": "nature"
+   "gloss": "types"
   },
   {
    "surface": "அறியார்",
    "parts": [
     {
-     "text": "அறியார்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "they know not"
+     "gloss": "know"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "negative third-person plural suffix"
     }
    ],
-   "gloss": "they know not"
+   "gloss": "those who do not know"
   },
   {
    "surface": "வல்லதூஉம்",
@@ -94,10 +119,10 @@
     {
      "text": "வல்லதூஉம்",
      "lemma": "வல்லது",
-     "gloss": "even capable thing"
+     "gloss": "that which they are skilled in (with metrical elongation and 'even' suffix)"
     }
    ],
-   "gloss": "even capable thing"
+   "gloss": "even that which they are skilled in"
   },
   {
    "surface": "இல்",
@@ -105,16 +130,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   }
  ],
- "literal": "Assembly they-know-not speaking upon those-who-take of-words nature they-know-not capable-thing-even is-not.",
- "translation": "Those who undertake to speak without understanding their audience do not know the nature of words, and they possess no real ability.",
- "modern": "அவையின் தன்மையை அறியாமல் பேசத் தொடங்குபவர்கள், சொற்களின் தன்மையையும் அறியாதவர்கள்; அவர்களுக்கு என்று எந்தத் திறமையும் இல்லை.",
- "explanation": "This couplet emphasizes the importance of understanding one's audience before speaking. If a person begins to speak without assessing the assembly, it shows they do not truly understand how to use words effectively. Consequently, whatever other skills they might claim to have are rendered useless and non-existent.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who do not know the assembly, those who undertake speaking, do not know the types of speech, and even that which they are skilled in does not exist.",
+ "translation": "Those who undertake to speak without understanding the nature of their audience do not comprehend the power of words; even the knowledge they are skilled in becomes utterly worthless.",
+ "modern": "அவையின் தன்மையை அறியாமல் பேசுதலைத் தொடங்குபவர்கள், சொற்களின் வகைகளை அறியாதவர்கள் ஆவர்; அவர்கள் கற்றறிந்த கல்வியும் பயனில்லாததாகிவிடும்.",
+ "explanation": "This couplet emphasizes the importance of understanding one's audience before speaking. Those who rush to speak without assessing the nature, intellect, and mood of the assembly (அவை) demonstrate a lack of understanding of the power and classification of words (சொல்லின் வகை). Even if they possess deep knowledge or skill (வல்லதூஉம்) in a particular subject, it becomes completely useless and non-existent (இல்) because it is delivered in an inappropriate forum. True eloquence requires not just subject knowledge, but also the wisdom to adapt it to the audience.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

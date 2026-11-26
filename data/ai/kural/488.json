@@ -6,15 +6,15 @@
     {
      "text": "செறுநர்",
      "lemma": "செறுநர்",
-     "gloss": "foes"
+     "gloss": "enemies"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "foes (acc.)"
+   "gloss": "enemies"
   },
   {
    "surface": "காணின்",
@@ -27,10 +27,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if seen"
+   "gloss": "if one sees"
   },
   {
    "surface": "சுமக்க",
@@ -38,20 +38,15 @@
     {
      "text": "சும",
      "lemma": "சும",
-     "gloss": "bear"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "bear or carry"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative"
+     "gloss": "optative suffix"
     }
    ],
-   "gloss": "let one bear"
+   "gloss": "let one bear or carry on shoulders"
   },
   {
    "surface": "இறுவரை",
@@ -59,15 +54,15 @@
     {
      "text": "இறு",
      "lemma": "இறு",
-     "gloss": "end"
+     "gloss": "end or perish"
     },
     {
      "text": "வரை",
      "lemma": "வரை",
-     "gloss": "limit"
+     "gloss": "limit or time"
     }
    ],
-   "gloss": "end time"
+   "gloss": "the end time or time of ruin"
   },
   {
    "surface": "காணின்",
@@ -80,10 +75,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if seen"
+   "gloss": "if one sees"
   },
   {
    "surface": "கிழக்கு",
@@ -91,7 +86,7 @@
     {
      "text": "கிழக்கு",
      "lemma": "கிழக்கு",
-     "gloss": "downward"
+     "gloss": "downward or low"
     }
    ],
    "gloss": "downward"
@@ -101,7 +96,7 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆகு",
+     "lemma": "ஆ",
      "gloss": "will become"
     }
    ],
@@ -119,10 +114,10 @@
    "gloss": "head"
   }
  ],
- "literal": "Foes if seen, let one bear; end time if seen, downward will become head.",
- "translation": "When you meet your enemies, bear with them patiently. When the time for their end comes, their heads will fall to the ground.",
- "modern": "பகைவரைக் காணும்போது அவர் அழியும் காலம் வரும்வரை பொறுமையாகப் பணிந்து நடக்க வேண்டும்; அவர் அழியும் காலம் வந்ததும் அவர் தலை கீழே விழும்.",
- "explanation": "This couplet advises strategic patience when dealing with enemies. The word 'சுமக்க' means to bear or carry, implying one should endure the enemy's presence submissively until the right moment. 'இறுவரை' refers to the time of their end or vulnerability. When that time is seen, 'கிழக்கு' (which here means downward rather than east) describes how their head will fall. The imagery contrasts the temporary burden of bearing the enemy with their sudden, inevitable defeat.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one sees enemies, let one bear them; if one sees their end time, their head will become downward.",
+ "translation": "When you meet your enemies, bear with them and carry them on your shoulders; when their end-time arrives, their heads will fall headlong.",
+ "modern": "பகைவர்களைக் கண்டால் அவர்களைப் பொறுத்துக் கொண்டு தோளில் சுமக்க வேண்டும்; அவர்களது இறுதிக்காலம் வரும்போது, அவர்களது தலை கீழே விழும்.",
+ "explanation": "This couplet highlights the strategic importance of patience and timing when dealing with powerful adversaries. The term 'சுமக்க' (bear/carry) advises a person to patiently tolerate and even humor their enemies, acting with submissiveness as if carrying them on their shoulders. This is not weakness, but a calculated delay until the right moment. When the enemies' destined time of ruin ('இறுவரை') finally arrives, their downfall will be automatic and complete, described vividly as their heads falling headlong ('கிழக்காம் தலை').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

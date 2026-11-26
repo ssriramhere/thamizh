@@ -17,15 +17,15 @@
     {
      "text": "குடிமை",
      "lemma": "குடிமை",
-     "gloss": "noble birth"
+     "gloss": "noble family status"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "in (locative case marker)"
     }
    ],
-   "gloss": "in noble birth"
+   "gloss": "in one's noble family"
   },
   {
    "surface": "தங்கின்",
@@ -33,15 +33,15 @@
     {
      "text": "தங்கு",
      "lemma": "தங்கு",
-     "gloss": "to stay"
+     "gloss": "dwell"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if it stays"
+   "gloss": "if it dwells"
   },
   {
    "surface": "தன்",
@@ -60,15 +60,15 @@
     {
      "text": "ஒன்னார்",
      "lemma": "ஒன்னார்",
-     "gloss": "foes"
+     "gloss": "enemies"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative suffix)"
     }
    ],
-   "gloss": "to foes"
+   "gloss": "to enemies"
   },
   {
    "surface": "அடிமை",
@@ -87,15 +87,15 @@
     {
      "text": "புகுத்து",
      "lemma": "புகுத்து",
-     "gloss": "to cause to enter"
+     "gloss": "cause to enter"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having done (verbal participle suffix)"
     }
    ],
-   "gloss": "having forced into"
+   "gloss": "causing to enter"
   },
   {
    "surface": "விடும்",
@@ -103,16 +103,16 @@
     {
      "text": "விடும்",
      "lemma": "விடு",
-     "gloss": "will leave (auxiliary)"
+     "gloss": "will surely do (auxiliary verb of certainty)"
     }
    ],
-   "gloss": "it will certainly"
+   "gloss": "will surely do"
   }
  ],
- "literal": "Laziness in noble birth if it stays, to one's own foes slavery having caused to enter it will leave.",
- "translation": "If laziness takes root in a person of noble birth, it will force them into slavery under their own enemies.",
- "modern": "ஒரு நல்ல குடியில் பிறந்தவனிடம் சோம்பல் தங்கிவிட்டால், அது அவனை அவனுடைய பகைவர்களுக்கு அடிமையாக்கி விடும்.",
- "explanation": "This couplet warns of the severe consequences of laziness for someone born into a good family. The word 'குடிமை' refers to noble birth or family honor, which requires active effort to maintain. If sluggishness ('மடிமை') is allowed to stay ('தங்கின்'), it strips away this independence and strength. Ultimately, it reduces the person to a state of servitude ('அடிமை') to their very enemies, contrasting the dignity of a noble lineage with the humiliation of slavery.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If laziness dwells in one's noble family, it will surely thrust one into slavery to one's own enemies.",
+ "translation": "If laziness takes root in a person of noble birth, it will drag them down and force them into servitude under their enemies.",
+ "modern": "சோம்பல் ஒருவனுடைய உயர்ந்த குடும்பப் பெருமையில் வந்து தங்கிவிட்டால், அது அவனை அவனுடைய பகைவர்களிடம் அடிமையாகச் சேர்த்துவிடும்.",
+ "explanation": "This couplet warns of the devastating impact of laziness on a person's social standing. Even if someone is born into an illustrious or noble family (குடிமை), allowing laziness (மடிமை) to dwell within them will destroy their status. It strips away their independence and eventually forces them into a state of servitude (அடிமை) to their adversaries (ஒன்னார்). The poet emphasizes that sloth is not just a passive flaw, but an active force that actively drives a person to ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

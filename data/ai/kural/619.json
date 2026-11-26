@@ -4,9 +4,14 @@
    "surface": "தெய்வத்தான்",
    "parts": [
     {
-     "text": "தெய்வத்தான்",
+     "text": "தெய்வத்து",
      "lemma": "தெய்வம்",
-     "gloss": "by fate"
+     "gloss": "fate"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "by"
     }
    ],
    "gloss": "by fate"
@@ -20,15 +25,15 @@
      "gloss": "will not happen"
     }
    ],
-   "gloss": "will not happen"
+   "gloss": "is not possible"
   },
   {
    "surface": "எனினும்",
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if said"
+     "lemma": "எனின்",
+     "gloss": "even if"
     },
     {
      "text": "உம்",
@@ -55,10 +60,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "one's own"
+     "gloss": "its own"
     }
    ],
-   "gloss": "one's own"
+   "gloss": "its own"
   },
   {
    "surface": "மெய்",
@@ -77,10 +82,10 @@
     {
      "text": "வருத்த",
      "lemma": "வருத்து",
-     "gloss": "to exert"
+     "gloss": "to weary"
     }
    ],
-   "gloss": "to exert"
+   "gloss": "wearying"
   },
   {
    "surface": "கூலி",
@@ -105,10 +110,10 @@
    "gloss": "will give"
   }
  ],
- "literal": "By fate will not happen even if, effort one's own body to exert wages will give.",
- "translation": "Even if fate prevents success, effort will still pay the wages for one's physical exertion.",
- "modern": "விதியால் ஒரு செயல் நிறைவேறாது போனாலும், ஒருவருடைய முயற்சியானது அவரது உடல் உழைப்பிற்கு ஏற்ற பலனைத் தவறாமல் தரும்.",
- "explanation": "This couplet emphasizes the absolute value of hard work, regardless of destiny or external forces. Even if fate dictates that a task cannot be accomplished, the effort itself is never wasted. The exertion of one's own body will always yield a proportional reward, ensuring that true industry is its own guarantee of return.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if by fate it is not possible, effort will give the wages for its own body-wearying labor.",
+ "translation": "Even if destiny makes a task impossible, one's honest effort will still yield the wages due for the physical labor spent.",
+ "modern": "விதியினால் ஒரு செயல் முடியாமல் போனாலும், முயற்சி செய்வதனால் ஏற்படும் உடம்பின் வருத்தத்திற்கு ஏற்ற பலனை அந்த முயற்சி தரும்.",
+ "explanation": "This couplet highlights the supreme value of personal effort over fate. Even when external circumstances or destiny make the ultimate goal unattainable, the physical exertion put into the task does not go to waste. The effort itself guarantees a return proportional to the bodily pain and labor endured. This teaches that while success might sometimes be blocked by factors beyond control, honest labor always yields its own reward and is never entirely in vain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

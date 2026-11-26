@@ -4,24 +4,9 @@
    "surface": "அமைந்து",
    "parts": [
     {
-     "text": "அமை",
+     "text": "அமைந்து",
      "lemma": "அமை",
-     "gloss": "to adapt"
-    },
-    {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial participle suffix"
+     "gloss": "having adapted"
     }
    ],
    "gloss": "having adapted"
@@ -32,10 +17,10 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "in that way"
+     "gloss": "in that manner"
     }
    ],
-   "gloss": "in that way"
+   "gloss": "in that manner"
   },
   {
    "surface": "ஒழுகான்",
@@ -43,15 +28,15 @@
     {
      "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "to behave"
+     "gloss": "conduct oneself"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "negative third person singular suffix"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he behaves not"
+   "gloss": "he who does not conduct himself"
   },
   {
    "surface": "அளவு",
@@ -70,20 +55,15 @@
     {
      "text": "அறி",
      "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "know"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "negative third person singular suffix"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he knows not"
+   "gloss": "he who does not know"
   },
   {
    "surface": "தன்னை",
@@ -91,17 +71,12 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "self (oblique)"
-    },
-    {
-     "text": "ன்",
-     "lemma": "ன்",
-     "gloss": "sandhi"
+     "gloss": "self"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "himself"
@@ -110,53 +85,23 @@
    "surface": "வியந்தான்",
    "parts": [
     {
-     "text": "விய",
+     "text": "வியந்தான்",
      "lemma": "விய",
-     "gloss": "to admire"
-    },
-    {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "third person singular suffix"
+     "gloss": "he who exalts himself"
     }
    ],
-   "gloss": "he who admired"
+   "gloss": "he who exalts himself"
   },
   {
    "surface": "விரைந்து",
    "parts": [
     {
-     "text": "விரை",
+     "text": "விரைந்து",
      "lemma": "விரை",
-     "gloss": "to hasten"
-    },
-    {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial participle suffix"
+     "gloss": "having hastened"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "quickly"
   },
   {
    "surface": "கெடும்",
@@ -164,21 +109,21 @@
     {
      "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "to perish"
+     "gloss": "perish"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will"
     }
    ],
    "gloss": "will perish"
   }
  ],
- "literal": "Having adapted in that way he behaves not; the measure he knows not; himself he admired; swiftly he will perish.",
- "translation": "He who does not act in harmony with others, who is ignorant of the true measure of his own strength, and who boasts about himself, will swiftly perish.",
- "modern": "மற்றவர்களுடன் ஒத்துப்போகாமல், தன் வலிமையின் அளவை அறியாமல், தன்னைத் தானே பெருமையாக நினைத்துக்கொள்பவன் விரைவில் அழிந்து போவான்.",
- "explanation": "This couplet describes the rapid downfall of an arrogant and uncooperative person. The word 'அமைந்து' means adapting or acting in harmony with one's surroundings. The person described here fails to adapt ('ஒழுகான்'), does not understand the true measure of his own strength ('அளவு அறியான்'), and instead excessively admires himself ('தன்னை வியந்தான்'). Because of this toxic combination of ignorance, inflexibility, and vanity, his destruction will come swiftly.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having adapted in that manner not conducting himself, the measure not knowing, himself exalting, quickly will perish.",
+ "translation": "One who does not live in harmony with others, does not know the measure of his own strength, yet exalts himself, will quickly be ruined.",
+ "modern": "மற்றவர்களுடன் பொருந்தி வாழாமல், தன் வலிமையின் அளவையும் அறியாமல், தன்னைத்தானே வியந்து பாராட்டிக் கொள்பவன் விரைவாக அழிவான்.",
+ "explanation": "This couplet warns against the dangers of self-conceit combined with ignorance of one's actual strength and a failure to cooperate with others. The word 'அமைந்து' (amaintu) here means adapting or living in harmony with one's surroundings and associates. 'அளவு அறியான்' (aḷavu aṟiyāṉ) refers to a person who does not assess their own capabilities, resources, or limitations. When such a person additionally 'வியந்தான்' (viyantāṉ)—meaning they self-exalt or hold an inflated opinion of themselves—they lose all sense of reality. Consequently, their downfall ('கெடும்') is not just certain, but will happen very rapidly ('விரைந்து').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,19 +4,24 @@
    "surface": "உலகத்தார்",
    "parts": [
     {
-     "text": "உலகத்தார்",
-     "lemma": "உலகத்தார்",
-     "gloss": "people of the world"
+     "text": "உலகத்து",
+     "lemma": "உலகம்",
+     "gloss": "world"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "people"
     }
    ],
-   "gloss": "people of the world"
+   "gloss": "the people of the world"
   },
   {
    "surface": "உண்டு",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "exists"
     }
    ],
@@ -27,7 +32,7 @@
    "parts": [
     {
      "text": "என்பது",
-     "lemma": "என்",
+     "lemma": "என்பது",
      "gloss": "that which is said"
     }
    ],
@@ -48,9 +53,14 @@
    "surface": "என்பான்",
    "parts": [
     {
-     "text": "என்பான்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "he who says"
+     "gloss": "say"
+    },
+    {
+     "text": "பான்",
+     "lemma": "ஆன்",
+     "gloss": "he who"
     }
    ],
    "gloss": "he who says"
@@ -61,10 +71,10 @@
     {
      "text": "வையத்து",
      "lemma": "வையம்",
-     "gloss": "in the world"
+     "gloss": "earth"
     }
    ],
-   "gloss": "in the world"
+   "gloss": "on the earth"
   },
   {
    "surface": "அலகையா",
@@ -72,15 +82,15 @@
     {
      "text": "அலகை",
      "lemma": "அலகை",
-     "gloss": "demon"
+     "gloss": "ghost"
     },
     {
      "text": "ஆ",
-     "lemma": "ஆ",
+     "lemma": "ஆக",
      "gloss": "as"
     }
    ],
-   "gloss": "as a demon"
+   "gloss": "as a ghost"
   },
   {
    "surface": "வைக்க",
@@ -105,10 +115,10 @@
    "gloss": "will be"
   }
  ],
- "literal": "people of the world / exists / that which is said / does not exist / he who says / in the world / as a demon / to be placed / will be",
- "translation": "He who denies what the people of the world affirm to exist, will be considered a demon on earth.",
- "modern": "உலகத்து உயர்ந்தோர் உண்டு என்று சொல்வதை இல்லை என்று மறுப்பவன், இந்த உலகத்தில் ஒரு பேயாகவே கருதப்படுவான்.",
- "explanation": "This couplet describes the extreme folly of denying universal truths. When a person stubbornly rejects what the wise people of the world ('உலகத்தார்') collectively affirm to exist ('உண்டு என்பது'), he isolates himself from human reason. Because of this unnatural and destructive mindset, he is not seen as a normal human being but is classified as a demon ('அலகையா') wandering the earth. The word 'அலகை' (demon or ghost) emphasizes his alienation from human society and common sense.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who says that which the people of the world say exists does not exist, will be considered as a ghost on the earth.",
+ "translation": "He who denies the existence of what the people of the world accept as real will be regarded as a demon on this earth.",
+ "modern": "உலக மக்கள் உண்டு என்று ஒப்புக்கொள்ளும் ஒன்றை இல்லை என்று கூறுபவன், இவ்வுலகில் ஒரு பேயாகக் கருதப்படுவான்.",
+ "explanation": "This couplet defines the ultimate foolishness of denying common consensus and established truths. When the collective wisdom of the world agrees that something exists or is true, a person who stubbornly denies it isolates himself from humanity. The poet uses the word 'அலகை' (ghost or demon) to describe such a denier, indicating that they are no longer considered part of human society. By refusing to align with the shared reality of the world, they walk among living humans like an alien, disembodied spirit.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

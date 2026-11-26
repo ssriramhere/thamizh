@@ -6,17 +6,17 @@
     {
      "text": "அரம்",
      "lemma": "அரம்",
-     "gloss": "file (tool)"
+     "gloss": "file (metal-sharpening tool)"
     }
    ],
-   "gloss": "a file"
+   "gloss": "file (metal-sharpening tool)"
   },
   {
    "surface": "போலும்",
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போல்",
+     "lemma": "போலும்",
      "gloss": "resembling"
     }
    ],
@@ -26,12 +26,17 @@
    "surface": "கூர்மையர்",
    "parts": [
     {
-     "text": "கூர்மையர்",
+     "text": "கூர்மை",
      "lemma": "கூர்மை",
-     "gloss": "sharp ones"
+     "gloss": "sharpness"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "people of sharpness"
+   "gloss": "those who possess sharpness (of intellect)"
   },
   {
    "surface": "ஏனும்",
@@ -53,18 +58,23 @@
      "gloss": "tree"
     }
    ],
-   "gloss": "a tree"
+   "gloss": "tree"
   },
   {
    "surface": "போல்வர்",
    "parts": [
     {
-     "text": "போல்வர்",
-     "lemma": "போல்",
-     "gloss": "they resemble"
+     "text": "போல்",
+     "lemma": "போலுதல்",
+     "gloss": "resemble"
+    },
+    {
+     "text": "வர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they are like"
+   "gloss": "they resemble"
   },
   {
    "surface": "மக்கள்",
@@ -83,27 +93,27 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "quality"
+     "gloss": "courtesy"
     }
    ],
-   "gloss": "character"
+   "gloss": "courtesy"
   },
   {
    "surface": "இல்லாதவர்",
    "parts": [
     {
      "text": "இல்லாதவர்",
-     "lemma": "இல்",
-     "gloss": "those who do not have"
+     "lemma": "இல்லாதவர்",
+     "gloss": "those who lack"
     }
    ],
    "gloss": "those who lack"
   }
  ],
- "literal": "file resembling sharp ones even if, tree they resemble human quality those who do not have.",
- "translation": "Even if their intellect is as sharp as a file, those who lack human decency are merely like trees.",
- "modern": "அரத்தைப் போல கூர்மையான அறிவுடையவராக இருந்தாலும், மனிதர்களுக்கு உரிய நல்ல பண்பு இல்லாதவர்கள் மரத்திற்கு ஒப்பானவர்களே ஆவர்.",
- "explanation": "This couplet contrasts intellectual sharpness with moral character. The word 'அரம்' refers to a file, a tool used to sharpen metal, symbolizing a highly honed and piercing intellect. However, the poet asserts that without 'மக்கட்பண்பு' (human decency or noble character), such intelligent people are no better than a 'மரம்' (a tree). A tree is alive but lacks human sensitivity and empathy, showing that mere intelligence without humane qualities renders a person emotionally and socially wooden.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they are of sharpness resembling a file, they resemble a tree, those who lack human courtesy.",
+ "translation": "Even if they possess an intellect as sharp as a metal file, those who lack human courtesy are no different from wooden trees.",
+ "modern": "அரம் போன்ற கூர்மையான அறிவு உடையவராக இருந்தாலும், மனிதப் பண்பு இல்லாதவர்கள் மரத்தைப் போன்றவர்களே ஆவர்.",
+ "explanation": "This couplet highlights that intellectual sharpness alone does not make a person truly human. The word 'அரம்' refers to a file, a tool used to sharpen metal, representing a highly acute and penetrating intellect. However, if a person lacks 'மக்கட்பண்பு' (human courtesy and refinement), their sharp mind is of no moral value. Such individuals are compared to a 'மரம்' (tree or block of wood), which, despite its physical presence, lacks the capacity for empathy and active human goodness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

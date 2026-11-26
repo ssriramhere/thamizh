@@ -6,10 +6,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
-   "gloss": "eye"
+   "gloss": "eyes"
   },
   {
    "surface": "தாம்",
@@ -17,10 +17,10 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "they"
+     "gloss": "themselves"
     }
    ],
-   "gloss": "they"
+   "gloss": "themselves"
   },
   {
    "surface": "கலுழ்வது",
@@ -48,30 +48,20 @@
    "surface": "கொலோ",
    "parts": [
     {
-     "text": "கொல்",
-     "lemma": "கொல்",
-     "gloss": "indeed"
-    },
-    {
-     "text": "ஓ",
-     "lemma": "ஓ",
-     "gloss": "[particle]"
+     "text": "கொலோ",
+     "lemma": "கொலோ",
+     "gloss": "particle of wonder"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "particle of wonder"
   },
   {
    "surface": "தண்டா",
    "parts": [
     {
-     "text": "தண்டு",
+     "text": "தண்டா",
      "lemma": "தண்டு",
-     "gloss": "cease"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "[negative suffix]"
+     "gloss": "unceasing"
     }
    ],
    "gloss": "unceasing"
@@ -93,26 +83,21 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "they"
+     "gloss": "themselves"
     }
    ],
-   "gloss": "they"
+   "gloss": "themselves"
   },
   {
    "surface": "காட்ட",
    "parts": [
     {
-     "text": "காட்டு",
+     "text": "காட்ட",
      "lemma": "காட்டு",
-     "gloss": "show"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "[infinitive suffix]"
+     "gloss": "having shown"
     }
    ],
-   "gloss": "to show"
+   "gloss": "having shown"
   },
   {
    "surface": "யாம்",
@@ -137,10 +122,10 @@
    "gloss": "saw"
   }
  ],
- "literal": "Eyes themselves weeping why indeed? Unceasing pain they to show we saw.",
- "translation": "Why do my eyes weep now? It was they who showed him to me, bringing on this unceasing pain that I suffer.",
- "modern": "தீராத இந்த காதல் நோயை என் கண்கள் தாமே எனக்குக் காட்டி நான் அதைக் கண்டேன்; அப்படியிருக்க, இப்போது அந்தக் கண்கள் தாமே அழுவது ஏனோ?",
- "explanation": "The heroine playfully blames her own eyes for her lovesickness. She points out that her eyes were the ones that first looked at her lover, causing her this unceasing pain. Since they are responsible for bringing about this suffering, she wonders why they are now shedding tears as if they are the victims. The word 'தண்டா' emphasizes that the pain of love is relentless and unceasing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Why do the eyes themselves weep now, when they themselves showed us that which caused this unceasing pain?",
+ "translation": "Why do my eyes weep now? It was they who showed me my lover, bringing upon me this unceasing pain of separation that I now suffer.",
+ "modern": "தவிர்க்க முடியாத இந்தக் காம நோயை, அன்று அவர்களே காட்டி இன்று நாம் அனுபவிப்பதற்குக் காரணமான கண்கள், இப்போது தாமே அழுவது ஏனோ?",
+ "explanation": "In this couplet, the heroine laments the distress of her eyes, which are weeping due to the pain of separation from her lover. She points out the irony of their tears: it was her eyes that eagerly looked upon her lover in the first place, initiating the love that led to this relentless affliction. Since the eyes themselves showed her the lover and invited this pain, she questions why they are now weeping as if they are innocent victims of their own actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

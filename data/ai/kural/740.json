@@ -6,10 +6,10 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "in those ways"
+     "gloss": "there"
     }
    ],
-   "gloss": "in those ways"
+   "gloss": "there"
   },
   {
    "surface": "அமைவு",
@@ -17,10 +17,10 @@
     {
      "text": "அமைவு",
      "lemma": "அமைவு",
-     "gloss": "perfection"
+     "gloss": "completeness"
     }
    ],
-   "gloss": "perfection"
+   "gloss": "completeness"
   },
   {
    "surface": "எய்திய",
@@ -28,10 +28,10 @@
     {
      "text": "எய்திய",
      "lemma": "எய்து",
-     "gloss": "attained"
+     "gloss": "having attained"
     }
    ],
-   "gloss": "attained"
+   "gloss": "having attained"
   },
   {
    "surface": "கண்ணும்",
@@ -39,7 +39,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/if"
+     "gloss": "condition"
     },
     {
      "text": "உம்",
@@ -47,7 +47,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even when"
   },
   {
    "surface": "பயம்",
@@ -65,8 +65,8 @@
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
-     "gloss": "is without"
+     "lemma": "இன்று",
+     "gloss": "is not"
     },
     {
      "text": "ஏ",
@@ -74,7 +74,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "is without indeed"
+   "gloss": "is indeed not"
   },
   {
    "surface": "வேந்து",
@@ -82,10 +82,10 @@
     {
      "text": "வேந்து",
      "lemma": "வேந்து",
-     "gloss": "king"
+     "gloss": "ruler"
     }
    ],
-   "gloss": "king"
+   "gloss": "ruler"
   },
   {
    "surface": "அமைவு",
@@ -93,10 +93,10 @@
     {
      "text": "அமைவு",
      "lemma": "அமைவு",
-     "gloss": "excellence"
+     "gloss": "harmony"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "harmony"
   },
   {
    "surface": "இல்லாத",
@@ -104,10 +104,10 @@
     {
      "text": "இல்லாத",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "lacking"
     }
    ],
-   "gloss": "without"
+   "gloss": "lacking"
   },
   {
    "surface": "நாடு",
@@ -121,10 +121,10 @@
    "gloss": "country"
   }
  ],
- "literal": "In those ways perfection attained even if, benefit is without indeed, king excellence without country.",
- "translation": "Even if a country has achieved all the aforementioned perfections, they are of no use if it lacks an excellent ruler.",
- "modern": "மேற்கூறிய எல்லா சிறப்புகளையும் பெற்றிருந்தாலும், சிறந்த அரசன் இல்லாத நாட்டுக்கு அவற்றால் எந்தப் பயனும் இல்லை.",
- "explanation": "This couplet concludes the chapter on the features of a good country by emphasizing the paramount importance of leadership. The phrase 'ஆங்கு அமைவு' refers to all the previously mentioned perfections, such as wealth, health, and resources. However, 'பயம் இன்றே' declares that these are completely useless without 'வேந்து அமைவு', which is the excellence of the ruler. The word 'அமைவு' is used twice, contrasting the material perfection of the land with the qualitative perfection of its leadership. Ultimately, a country's natural and acquired greatness depends entirely on the quality of the one who governs it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when having attained completeness there, there is indeed no benefit for a country that lacks harmony with its ruler.",
+ "translation": "Even if a country has acquired all other forms of excellence, it is of no use if it lacks a ruler who governs in harmony with his people.",
+ "modern": "அனைத்துச் சிறப்புகளையும் பெற்றிருந்தாலும், நல்லாட்சி செய்யும் அரசன் இல்லாத நாடு எந்தப் பயனையும் தராது.",
+ "explanation": "This couplet concludes the chapter on the country by emphasizing that physical and economic resources are meaningless without proper governance. The phrase 'vēntu amaivu' refers to the fitness of the ruler and the harmony between the ruler and the subjects. Even if a land possesses natural wealth, security, and prosperity, these assets yield no real benefit if there is no capable leader to manage and protect them. Thus, a good ruler is the ultimate requirement that gives value to all other virtues of a nation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -10,13 +10,13 @@
     },
     {
      "text": "இற்கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "lemma": "இற்கு",
+     "gloss": "to (dative case suffix)"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even/also"
     }
    ],
    "gloss": "even to love"
@@ -35,7 +35,7 @@
      "gloss": "question particle"
     }
    ],
-   "gloss": "is there?"
+   "gloss": "is there indeed?"
   },
   {
    "surface": "அடைக்கும்",
@@ -43,10 +43,10 @@
     {
      "text": "அடைக்கும்",
      "lemma": "அடை",
-     "gloss": "shutting"
+     "gloss": "that which shuts/bolts"
     }
    ],
-   "gloss": "shutting"
+   "gloss": "shutting/bolting"
   },
   {
    "surface": "தாழ்",
@@ -54,10 +54,10 @@
     {
      "text": "தாழ்",
      "lemma": "தாழ்",
-     "gloss": "bolt"
+     "gloss": "latch/bolt"
     }
    ],
-   "gloss": "bolt"
+   "gloss": "latch/bolt"
   },
   {
    "surface": "ஆர்வலர்",
@@ -65,10 +65,10 @@
     {
      "text": "ஆர்வலர்",
      "lemma": "ஆர்வலர்",
-     "gloss": "affectionate ones"
+     "gloss": "those who have affection"
     }
    ],
-   "gloss": "affectionate ones"
+   "gloss": "those who have affection"
   },
   {
    "surface": "புன்கணீர்",
@@ -76,10 +76,11 @@
     {
      "text": "புன்கணீர்",
      "lemma": "புன்கணீர்",
-     "gloss": "sorrowful tears"
+     "gloss": "tears of distress"
     }
    ],
-   "gloss": "sorrowful tears"
+   "gloss": "tears of distress",
+   "split_unverified": true
   },
   {
    "surface": "பூசல்",
@@ -87,10 +88,10 @@
     {
      "text": "பூசல்",
      "lemma": "பூசல்",
-     "gloss": "loud proclamation"
+     "gloss": "proclamation/revealing"
     }
    ],
-   "gloss": "loud proclamation"
+   "gloss": "revealing/proclamation"
   },
   {
    "surface": "தரும்",
@@ -98,16 +99,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will yield"
+     "gloss": "will give/make"
     }
    ],
-   "gloss": "will yield"
+   "gloss": "will make/give"
   }
  ],
- "literal": "Even to love is there a shutting bolt? Affectionate ones' sorrowful tears will yield a loud proclamation.",
- "translation": "Is there a bolt that can shut up love? The sorrowful tears of affectionate people will loudly proclaim it.",
- "modern": "அன்பை மறைத்து வைக்கும் தாழ்ப்பாள் உலகத்தில் உண்டோ? அன்புடையவர்கள் படும் துன்பத்தைக் காணும்போது வடியும் கண்ணீரே அந்த அன்பை ஊரறிய வெளிப்படுத்திவிடும்.",
- "explanation": "This couplet asks rhetorically if there is any lock or bolt that can keep love hidden away. The answer is no, because true affection cannot be concealed. When people who love see their loved ones suffer, their sorrowful tears will break out and loudly proclaim the love they hold inside.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even for love, is there a shutting bolt? The tears of distress of those who have affection will make a proclamation.",
+ "translation": "Is there any bolt that can lock up love? The tiny tears of distressed loved ones will loudly proclaim it.",
+ "modern": "அன்பை அடைத்து வைக்கக்கூடிய தாழ்ப்பாள் ஏதேனும் இருக்கிறதா? அன்பிற்குரியவர்களின் துன்பத்தைக் கண்டு பெருகும் கண்ணீரே அந்த அன்பை வெளிப்படுத்திவிடும்.",
+ "explanation": "This couplet highlights the uncontrollable nature of true love. The poet asks rhetorically if there is any bolt or latch (தாழ்) that can confine or hide love (அன்பு). The answer is no, because when those we love are in distress, our own tears (புன்கணீர்) will immediately flow, acting as a loud proclamation (பூசல்) of our hidden affection. The word 'பூசல்' here means a loud announcement or clamor, showing how tears betray the secret of one's deep love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

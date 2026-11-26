@@ -4,33 +4,23 @@
    "surface": "பற்றி",
    "parts": [
     {
-     "text": "பற்று",
+     "text": "பற்றி",
      "lemma": "பற்று",
-     "gloss": "to grasp"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "having grasped"
     }
    ],
-   "gloss": "grasping"
+   "gloss": "clinging to / grasping"
   },
   {
    "surface": "விடாஅ",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடாஅ",
      "lemma": "விடு",
-     "gloss": "to let go"
-    },
-    {
-     "text": "ஆஅ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "without leaving"
     }
    ],
-   "gloss": "will not let go"
+   "gloss": "without letting go / persistently"
   },
   {
    "surface": "இடும்பைகள்",
@@ -38,7 +28,7 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "suffering"
     },
     {
      "text": "கள்",
@@ -46,7 +36,7 @@
      "gloss": "plural suffix"
     }
    ],
-   "gloss": "sorrows"
+   "gloss": "sufferings / miseries"
   },
   {
    "surface": "பற்றினை",
@@ -59,73 +49,53 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic link"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "attachment (acc.)"
+   "gloss": "the attachment"
   },
   {
    "surface": "பற்றி",
    "parts": [
     {
-     "text": "பற்று",
+     "text": "பற்றி",
      "lemma": "பற்று",
-     "gloss": "to grasp"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "having grasped"
     }
    ],
-   "gloss": "grasping"
+   "gloss": "holding on to"
   },
   {
    "surface": "விடாஅதவர்க்கு",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடாஅ",
      "lemma": "விடு",
-     "gloss": "to let go"
+     "gloss": "not letting go"
     },
     {
-     "text": "ஆஅ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அவர்",
+     "text": "தவர்",
      "lemma": "அவர்",
-     "gloss": "those people"
+     "gloss": "those who"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "dative suffix"
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to (dative)"
     }
    ],
    "gloss": "to those who do not let go"
   }
  ],
- "literal": "Grasping and not letting go are sorrows, attachment grasping and to those who do not let go.",
- "translation": "Sorrows will take hold and never let go of those who hold on to their attachments and never let them go.",
- "modern": "பற்றுகளைப் பிடித்துக்கொண்டு அவற்றை விடாதவர்களை, துன்பங்களும் விடாமல் பிடித்துக்கொள்ளும்.",
- "explanation": "This couplet creates a striking parallel between human action and the reaction of sorrow. The word 'பற்று' is used both as a noun meaning 'attachment' and as a verb meaning 'to grasp'. If a person grasps their attachments and refuses to let them go, sorrows will in turn grasp that person and refuse to let go. The repetition of the phrase 'பற்றி விடாஅ' (grasping and not letting go) emphasizes that suffering is the direct and inescapable mirror of clinging to worldly things.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Grasping and not leaving, miseries [will grasp] those who, grasping attachment, do not let go.",
+ "translation": "Sufferings will cling to and never let go of those who hold fast to their attachments and refuse to renounce them.",
+ "modern": "பற்றுகளைப் பிடித்துக்கொண்டு அவற்றை விடாதவர்களை, துன்பங்கள் விடாமல் பற்றிக்கொள்ளும்.",
+ "explanation": "This couplet uses a powerful wordplay on 'grasping' (பற்று) to illustrate the law of cause and effect in attachment. Just as a person holds onto worldly desires and refuses to let them go, sufferings will likewise grasp that person and refuse to leave. The repetition of 'பற்றி விடாஅ' (grasping and not letting go) for both the seeker's attachment and the resulting misery emphasizes that our pain is a direct mirror of our clinging. True liberation from sorrow is achieved only when we voluntarily release our grip on these attachments.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

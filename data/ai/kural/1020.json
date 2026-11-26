@@ -6,10 +6,10 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "modesty"
+     "gloss": "sense of shame"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "sense of shame"
   },
   {
    "surface": "அகத்து",
@@ -20,15 +20,20 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "inside"
+   "gloss": "inside (their hearts)"
   },
   {
    "surface": "இல்லார்",
    "parts": [
     {
-     "text": "இல்லார்",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "those who do not have"
+     "gloss": "not having"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who"
     }
    ],
    "gloss": "those who do not have"
@@ -86,12 +91,17 @@
    "surface": "மருட்டி",
    "parts": [
     {
-     "text": "மருட்டி",
+     "text": "மருட்டு",
      "lemma": "மருட்டு",
-     "gloss": "having deceived"
+     "gloss": "to simulate"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
     }
    ],
-   "gloss": "having deceived"
+   "gloss": "having simulated"
   },
   {
    "surface": "அற்று",
@@ -99,16 +109,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Modesty inside those who have not, movement, wooden puppet by string life having deceived like that.",
- "translation": "The actions of those who have no modesty in their hearts are like a wooden puppet creating the illusion of life by means of a string.",
- "modern": "மனதில் நாணம் இல்லாதவர்களின் செயல்பாடுகள், கயிற்றினால் இயக்கப்படும் மரப்பாவை உயிருள்ளது போல மயக்கத்தை ஏற்படுத்துவதைப் போன்றது.",
- "explanation": "This couplet uses a brilliant pun on the word 'நாண்', which means both 'modesty' and 'string'. It compares people who lack inner modesty to wooden puppets. Just as a puppet seems alive only because it is pulled by a string, shameless people merely go through the motions of life without true human dignity. Their outward actions are just an illusion of living.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The movement of those who do not have a sense of shame inside is like a wooden puppet simulating life by a string.",
+ "translation": "The movements of those who have no sense of shame in their hearts are like a wooden puppet merely mimicking life by the pulling of a string.",
+ "modern": "நெஞ்சில் நாண உணர்வு இல்லாதவர்களுடைய இயக்கம், மரப்பாவையை நூலினால் ஆட்டி உயிர் உள்ளதைப் போலக் காட்டி இயக்குவதைப் போன்றதாகும்.",
+ "explanation": "This couplet employs a brilliant play on the word 'நாண்'. In the first line, 'நாண்' refers to the moral sense of shame or conscience. In the second line, 'நாணால்' refers to the string or cord used to manipulate a puppet. The poet explains that a person who lacks an inner sense of shame has no true human agency or dignity. Their actions and movements are entirely mechanical, resembling a lifeless wooden puppet that is made to simulate life only because someone else is pulling its strings.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

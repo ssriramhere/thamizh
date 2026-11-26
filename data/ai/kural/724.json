@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "கற்றார்",
-     "lemma": "கல்",
-     "gloss": "learned ones"
+     "lemma": "கற்றார்",
+     "gloss": "the learned"
     }
    ],
-   "gloss": "learned ones"
+   "gloss": "the learned"
   },
   {
    "surface": "முன்",
@@ -27,40 +27,30 @@
    "parts": [
     {
      "text": "கற்ற",
-     "lemma": "கல்",
-     "gloss": "learned things"
+     "lemma": "கற்ற",
+     "gloss": "things learned"
     }
    ],
-   "gloss": "learned things"
+   "gloss": "things learned"
   },
   {
    "surface": "செல",
    "parts": [
     {
-     "text": "செல்",
-     "lemma": "செல்",
-     "gloss": "to go"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "செல",
+     "lemma": "செல",
+     "gloss": "so as to penetrate (their minds)"
     }
    ],
-   "gloss": "to reach"
+   "gloss": "so as to penetrate (their minds)"
   },
   {
    "surface": "சொல்லி",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லி",
      "lemma": "சொல்",
-     "gloss": "to speak"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "verbal participle suffix"
+     "gloss": "having spoken"
     }
    ],
    "gloss": "having spoken"
@@ -81,22 +71,22 @@
    "parts": [
     {
      "text": "கற்ற",
-     "lemma": "கல்",
-     "gloss": "learned things"
+     "lemma": "கற்ற",
+     "gloss": "things learned"
     }
    ],
-   "gloss": "learned things"
+   "gloss": "things learned"
   },
   {
    "surface": "மிக்கார்",
    "parts": [
     {
      "text": "மிக்கார்",
-     "lemma": "மிகு",
-     "gloss": "those who are greater"
+     "lemma": "மிக்கார்",
+     "gloss": "those who are superior"
     }
    ],
-   "gloss": "those who are greater"
+   "gloss": "those who are superior"
   },
   {
    "surface": "உள்",
@@ -114,33 +104,28 @@
    "parts": [
     {
      "text": "மிக்க",
-     "lemma": "மிகு",
-     "gloss": "greater things"
+     "lemma": "மிக்க",
+     "gloss": "superior things"
     }
    ],
-   "gloss": "greater things"
+   "gloss": "superior things"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "to take"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "acquiring"
     }
    ],
-   "gloss": "taking"
+   "gloss": "acquiring"
   }
  ],
- "literal": "Learned ones before, learned things to reach having spoken, oneself learned things, those who are greater among, greater things taking.",
- "translation": "Speak what you have learned convincingly before the learned; and from those who are more learned, grasp what is greater than your own learning.",
- "modern": "கற்றறிந்த அறிஞர்கள் முன்னே தான் கற்றவற்றை அவர்கள் மனத்தில் பதியுமாறு தெளிவாகச் சொல்ல வேண்டும். அதே சமயம், தன்னை விட அதிகமாகக் கற்ற அறிஞர்களிடமிருந்து தான் கற்றதை விட மேலான கருத்துகளைக் கேட்டு அறிந்துகொள்ள வேண்டும்.",
- "explanation": "This couplet outlines the dual responsibility of a learned person in an assembly. First, one must articulate their own knowledge clearly and convincingly before other scholars. Second, one must remain humble and receptive, actively acquiring deeper knowledge from those who are more learned. The word 'செல' (to go/reach) emphasizes that speaking is not just uttering words, but ensuring the ideas successfully reach and convince the audience's minds.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Before the learned, speaking what was learned so as to penetrate (their minds), and from those who are superior (in learning), acquiring their superior knowledge.",
+ "translation": "Speak what you have learned before the learned so that it deeply penetrates their minds; and from those who are more learned than yourself, acquire their superior knowledge.",
+ "modern": "கற்றவர்களின் முன்னே தான் கற்றவற்றை அவர்கள் மனதில் பதியுமாறு சொல்லி, தன்னைவிட அறிவில் சிறந்தவர்களிடமிருந்து அவர்கள் கற்ற சிறந்த அறிவைப் பெற்றுக்கொள்ள வேண்டும்.",
+ "explanation": "This couplet outlines the dual duty of a scholar when interacting with an assembly of the learned. First, one must present what they have learned in a clear, convincing manner so that it is accepted and understood by other scholars. Second, one must remain open to learning, actively acquiring the deeper, superior knowledge possessed by those who are even more learned. This approach ensures both the effective sharing of one's own knowledge and the continuous growth of one's intellect without fear or arrogance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

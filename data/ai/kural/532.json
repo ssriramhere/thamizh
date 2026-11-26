@@ -6,26 +6,21 @@
     {
      "text": "பொச்சாப்பு",
      "lemma": "பொச்சாப்பு",
-     "gloss": "negligence"
+     "gloss": "forgetfulness or negligence"
     }
    ],
-   "gloss": "negligence"
+   "gloss": "forgetfulness or negligence"
   },
   {
    "surface": "கொல்லும்",
    "parts": [
     {
-     "text": "கொல்",
+     "text": "கொல்லும்",
      "lemma": "கொல்",
-     "gloss": "to kill"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "non-past suffix"
+     "gloss": "will destroy"
     }
    ],
-   "gloss": "will kill"
+   "gloss": "will destroy"
   },
   {
    "surface": "புகழை",
@@ -38,10 +33,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "fame (accusative)"
+   "gloss": "fame"
   },
   {
    "surface": "அறிவினை",
@@ -49,20 +44,20 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic increment"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "knowledge (accusative)"
+   "gloss": "wisdom"
   },
   {
    "surface": "நிச்ச",
@@ -70,10 +65,10 @@
     {
      "text": "நிச்ச",
      "lemma": "நிச்சம்",
-     "gloss": "constant"
+     "gloss": "daily or constant"
     }
    ],
-   "gloss": "constant"
+   "gloss": "daily or constant"
   },
   {
    "surface": "நிரப்பு",
@@ -92,10 +87,10 @@
     {
      "text": "கொன்று",
      "lemma": "கொல்",
-     "gloss": "having killed"
+     "gloss": "having destroyed"
     }
    ],
-   "gloss": "having killed"
+   "gloss": "having destroyed"
   },
   {
    "surface": "ஆங்கு",
@@ -103,16 +98,16 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "like"
+     "gloss": "like or in that manner"
     }
    ],
-   "gloss": "like"
+   "gloss": "like or in that manner"
   }
  ],
- "literal": "Negligence kills fame, knowledge constant poverty having killed like.",
- "translation": "Negligence destroys a person's fame, just as constant poverty destroys their knowledge.",
- "modern": "தொடர்ச்சியான வறுமை ஒருவனின் அறிவை அழிப்பது போல, மறதி அவனது புகழை அழித்துவிடும்.",
- "explanation": "This couplet draws a powerful parallel between the destructive effects of poverty and negligence. Just as relentless poverty ('நிச்ச நிரப்பு') wears down and destroys a person's intellect and knowledge ('அறிவினை'), negligence or forgetfulness ('பொச்சாப்பு') completely ruins their hard-earned fame ('புகழை'). The verb 'கொல்லும்' (kills) is used to emphasize the total and fatal ruin brought about by a lack of vigilance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Forgetfulness destroys fame, in the manner that daily poverty destroys wisdom.",
+ "translation": "Just as constant poverty destroys one's wisdom, so does negligence destroy one's fame.",
+ "modern": "தினசரி வறுமையானது ஒருவனுடைய அறிவை அழிப்பதைப் போல, மறதி அல்லது அலட்சியம் ஒருவனுடைய புகழை அழித்துவிடும்.",
+ "explanation": "This couplet uses a powerful analogy to warn against negligence or forgetfulness (pocāppu). The poet compares the destructive power of negligence to that of constant, daily poverty (nicca nirappu). Just as relentless poverty wears down and ultimately destroys a person's wisdom and intellect (aṟivu), habitual carelessness or forgetfulness will ruin a person's hard-earned fame (pukaḻ). The word 'pocāppu' here denotes a state of mental slackness or lack of vigilance, which is shown to be fatal to one's reputation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -16,8 +16,8 @@
    "parts": [
     {
      "text": "வரு",
-     "lemma": "வா",
-     "gloss": "to come"
+     "lemma": "வரு",
+     "gloss": "come"
     },
     {
      "text": "இன்",
@@ -33,12 +33,12 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "to live"
+     "gloss": "live"
     },
     {
      "text": "ஆத",
      "lemma": "ஆத",
-     "gloss": "who do not"
+     "gloss": "not (adjectival suffix)"
     }
    ],
    "gloss": "who do not live"
@@ -49,10 +49,10 @@
     {
      "text": "மானம்",
      "lemma": "மானம்",
-     "gloss": "honor"
+     "gloss": "honour"
     }
    ],
-   "gloss": "honor"
+   "gloss": "honour"
   },
   {
    "surface": "உடையார்",
@@ -60,12 +60,12 @@
     {
      "text": "உடை",
      "lemma": "உடை",
-     "gloss": "to possess"
+     "gloss": "possess"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "those who"
+     "gloss": "they (pronominal suffix)"
     }
    ],
    "gloss": "those who possess"
@@ -87,15 +87,15 @@
     {
      "text": "தொழு",
      "lemma": "தொழு",
-     "gloss": "to bow"
+     "gloss": "worship"
     },
     {
      "text": "து",
      "lemma": "து",
-     "gloss": "having"
+     "gloss": "having done (verbal participle suffix)"
     }
    ],
-   "gloss": "having bowed"
+   "gloss": "having worshipped"
   },
   {
    "surface": "ஏத்தும்",
@@ -103,12 +103,12 @@
     {
      "text": "ஏத்து",
      "lemma": "ஏத்து",
-     "gloss": "to praise"
+     "gloss": "praise"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will (habitual suffix)"
     }
    ],
    "gloss": "will praise"
@@ -125,10 +125,10 @@
    "gloss": "the world"
   }
  ],
- "literal": "Disgrace if comes who do not live, honor those who possess - glory having bowed will praise the world.",
- "translation": "The world will bow down and praise the glory of honorable people who will not survive if disgrace befalls them.",
- "modern": "தமக்கு ஒரு சிறுமை வந்தால் உயிரோடு வாழாத மானம் உடையவர்களின் புகழை, இந்த உலகம் தொழுது போற்றும்.",
- "explanation": "This couplet describes the ultimate standard of personal dignity. The word 'இளி' means disgrace or indignity, representing anything that compromises one's self-respect. The word 'ஒளி' literally means light, but in this context, it is best understood as the radiant glory or lasting fame of the honorable. The text states that those who possess true dignity will not continue to live if they face such disgrace. Because of this unwavering commitment to their honor, the world will bow down and praise their brilliant legacy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Disgrace if comes, who do not live, honour those who possess, [their] glory, having worshipped, will praise, the world.",
+ "translation": "The world will worship and praise the bright glory of those who possess such honour that they would not choose to live if disgrace befell them.",
+ "modern": "அவமானம் வந்தால் உயிர் வாழாத மானம் உடையவர்களுடைய புகழை, இவ்வுலகம் தொழுது போற்றும்.",
+ "explanation": "This couplet highlights the supreme value of honour and self-respect. It describes people who possess such high self-esteem that they prefer death over a life of disgrace (iḷi). The poet states that the world (ulaku) does not just remember these individuals, but actively bows down to (toḻutu) and extols (ēttum) their lasting glory (oḷi). The word 'oḷi' here represents the radiant, luminous fame that outlives their physical existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

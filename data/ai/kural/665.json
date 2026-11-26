@@ -9,7 +9,7 @@
      "gloss": "greatness"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "greatness or distinction"
   },
   {
    "surface": "எய்தி",
@@ -28,20 +28,20 @@
     {
      "text": "மாண்",
      "lemma": "மாண்",
-     "gloss": "to be excellent"
+     "gloss": "excellence"
     },
     {
-     "text": "ட்",
-     "lemma": "ட்",
+     "text": "த்",
+     "lemma": "த்",
      "gloss": "past tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (honorific/plural)"
     }
    ],
-   "gloss": "excellent ones"
+   "gloss": "those who are excellent"
   },
   {
    "surface": "வினைத்திட்பம்",
@@ -54,7 +54,7 @@
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "increment"
     },
     {
      "text": "திட்பம்",
@@ -62,7 +62,7 @@
      "gloss": "firmness"
     }
    ],
-   "gloss": "firmness of action"
+   "gloss": "firmness in action"
   },
   {
    "surface": "வேந்தன்கண்",
@@ -75,7 +75,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at/with"
+     "gloss": "locative case marker (with/at)"
     }
    ],
    "gloss": "with the king"
@@ -86,10 +86,10 @@
     {
      "text": "ஊறு",
      "lemma": "ஊறு",
-     "gloss": "reaching"
+     "gloss": "result or impact"
     }
    ],
-   "gloss": "reaching"
+   "gloss": "result or impact"
   },
   {
    "surface": "எய்தி",
@@ -108,32 +108,37 @@
     {
      "text": "உள்ள",
      "lemma": "உள்ளு",
-     "gloss": "to esteem"
+     "gloss": "to think of"
     },
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "sandhi"
+     "gloss": "hard consonant doubling"
     }
    ],
-   "gloss": "to esteem"
+   "gloss": "to be thought of"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படும்",
+     "text": "படு",
      "lemma": "படு",
-     "gloss": "will be"
+     "gloss": "passive auxiliary verb"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual future suffix"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "Greatness having attained, the excellent ones' firmness of action, reaching the king, will be esteemed.",
- "translation": "The firmness in action of those who have attained greatness and excellence will reach the king and be highly esteemed.",
- "modern": "பெருமை அடைந்து சிறந்தவர்களின் செயல் உறுதியானது அரசனிடம் சென்று சேர்ந்து அவனால் பெரிதும் மதிக்கப்படும்.",
- "explanation": "This couplet highlights how resolute action elevates a person's standing. The phrase 'வீறு எய்தி மாண்டார்' refers to those who have attained greatness through their excellence. Their firmness in action does not go unnoticed; it reaches the ruler and earns their deep respect. The word 'ஊறு' here means reaching or firmly establishing oneself, chosen over its other common meaning of harm, to show how their reputation successfully reaches the king.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Greatness having attained, those who are excellent, their firmness in action, with the king, impact having attained, will be esteemed.",
+ "translation": "The firmness in action of those who have attained greatness and excellence will reach the ruler, yield successful results, and be highly esteemed.",
+ "modern": "பெருமை பெற்றுச் சிறந்தவர்களுடைய செயல் உறுதியானது, அரசனிடத்துச் சென்று பயனைத் தந்து, எல்லாராலும் மதிக்கப்படும்.",
+ "explanation": "This couplet explains how unwavering determination in action is recognized and valued. When individuals of noble character and excellence (maṇṭār) possess firmness in action (vinaittiṭpam), their resolve does not go unnoticed. It reaches the attention of the ruler (vēntankaṇ) and produces tangible, successful results (ūṟu). Consequently, their strength of purpose is highly praised and esteemed (uḷḷappaṭum) by the sovereign and society alike.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

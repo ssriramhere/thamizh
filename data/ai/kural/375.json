@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "தீய",
-     "lemma": "தீயவை",
+     "lemma": "தீய",
      "gloss": "bad things"
     }
    ],
@@ -38,18 +38,18 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆகு",
-     "gloss": "become"
+     "lemma": "ஆதல்",
+     "gloss": "will become"
     }
    ],
-   "gloss": "become"
+   "gloss": "will become"
   },
   {
    "surface": "தீயவும்",
    "parts": [
     {
      "text": "தீய",
-     "lemma": "தீயவை",
+     "lemma": "தீய",
      "gloss": "bad things"
     },
     {
@@ -65,7 +65,7 @@
    "parts": [
     {
      "text": "நல்ல",
-     "lemma": "நல்லவை",
+     "lemma": "நல்ல",
      "gloss": "good things"
     }
    ],
@@ -76,11 +76,11 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆகு",
-     "gloss": "become"
+     "lemma": "ஆதல்",
+     "gloss": "will become"
     }
    ],
-   "gloss": "become"
+   "gloss": "will become"
   },
   {
    "surface": "செல்வம்",
@@ -97,18 +97,23 @@
    "surface": "செயற்கு",
    "parts": [
     {
-     "text": "செயற்கு",
-     "lemma": "செய்",
-     "gloss": "to make"
+     "text": "செயல்",
+     "lemma": "செயல்",
+     "gloss": "making"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "for"
     }
    ],
-   "gloss": "to make"
+   "gloss": "for making"
   }
  ],
- "literal": "Good things all bad become, bad things even good become, wealth for making.",
- "translation": "In the pursuit of wealth, all good things may turn bad, and even bad things may turn good.",
- "modern": "செல்வத்தை ஈட்ட முயலும்போது, விதியின் காரணமாக நல்ல சூழ்நிலைகள் எல்லாம் தீயவையாக மாறிவிடும்; தீய சூழ்நிலைகளும் நல்லவையாக மாறி வெற்றியைத் தரும்.",
- "explanation": "This couplet illustrates the unpredictable power of fate in human endeavors, particularly in acquiring wealth. It states that when destiny is unfavorable, even the most favorable circumstances and good strategies will turn into failures. Conversely, when destiny is favorable, even adverse conditions and poor plans will transform into successes. The contrasting pairs of good and bad highlight how human calculation is ultimately subordinate to the natural order of fate.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Good things all bad will become; even bad things good will become, wealth for making.",
+ "translation": "In the endeavor to acquire wealth, all good efforts turn into harmful ones when fate is adverse, and even unfavorable things turn into beneficial ones when fate is favorable.",
+ "modern": "செல்வத்தைச் சேர்க்கும் முயற்சியில், நல்லவை எல்லாம் தீமையாக மாறும்; தீமையானவைகளும் நன்மையாக மாறும்.",
+ "explanation": "This couplet explains how fate completely alters the outcomes of one's efforts to acquire wealth. When fate is unfavorable, even the most well-planned, positive, and good actions turn into failures or cause harm. Conversely, when fate is favorable, even mistakes, obstacles, or seemingly bad circumstances turn around to produce successful and good results. Thus, the ultimate success in acquiring wealth depends not just on the nature of the actions themselves, but on the underlying power of fate.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "மிகல்",
      "lemma": "மிகல்",
-     "gloss": "victory"
+     "gloss": "triumph"
     }
    ],
-   "gloss": "victory"
+   "gloss": "triumph"
   },
   {
    "surface": "மேவல்",
@@ -28,7 +28,7 @@
     {
      "text": "மெய்",
      "lemma": "மெய்",
-     "gloss": "true"
+     "gloss": "truth"
     },
     {
      "text": "பொருள்",
@@ -42,17 +42,12 @@
    "surface": "காணார்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காணார்",
      "lemma": "காண்",
-     "gloss": "see"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (neg.)"
+     "gloss": "they do not see"
     }
    ],
-   "gloss": "they will not see"
+   "gloss": "they do not see"
   },
   {
    "surface": "இகல்",
@@ -71,10 +66,10 @@
     {
      "text": "மேவல்",
      "lemma": "மேவல்",
-     "gloss": "desiring"
+     "gloss": "pursuing"
     }
    ],
-   "gloss": "desiring"
+   "gloss": "pursuing"
   },
   {
    "surface": "இன்னா",
@@ -82,10 +77,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "painful"
+     "gloss": "harmful"
     }
    ],
-   "gloss": "painful"
+   "gloss": "harmful"
   },
   {
    "surface": "அறிவினவர்",
@@ -93,26 +88,26 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "understanding"
+     "gloss": "intellect"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they who have"
+     "gloss": "those who have"
     }
    ],
-   "gloss": "they of understanding"
+   "gloss": "those of intellect"
   }
  ],
- "literal": "victory attaining true-reality they-will-not-see hostility desiring painful understanding-those-of",
- "translation": "Those of painful understanding who desire hostility will not see the true reality of attaining victory.",
- "modern": "பகைமையை விரும்புகின்ற துன்பமான அறிவை உடையவர்கள், வெற்றியை அடையும் உண்மையான பொருளைக் காண மாட்டார்கள்.",
- "explanation": "The couplet contrasts the desire for hostility with the attainment of true success. The phrase 'இகல் மேவல் இன்னா அறிவினவர்' describes people whose minds are afflicted by a painful or harmful desire to engage in enmity. Because their understanding is clouded by this destructive urge, they 'காணார்' (will not see) the 'மெய்ப்பொருள்' (true reality or substance) of 'மிகல் மேவல்' (attaining victory or greatness). The repetition of the word 'மேவல்' (desiring or attaining) highlights the choice between pursuing conflict and pursuing genuine success.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Triumph attaining true reality they do not see, hostility pursuing harmful intellect they who have.",
+ "translation": "Those of harmful intellect who cherish hostility cannot perceive the true reality that leads to triumph.",
+ "modern": "பகைமையை விரும்புகின்ற தீய அறிவுடையவர்கள், தமக்கு வெற்றியைத் தரும் மெய்யான பொருளை அறிய மாட்டார்கள்.",
+ "explanation": "This couplet explains how hostility blinds a person's intellect. Those who harbor a harmful mind and actively pursue discord (இகல்) are unable to see the true reality (மெய்ப்பொருள்) that actually leads to lasting success or triumph (மிகல்). Their obsession with conflict prevents them from understanding what is truly beneficial, leading to their own downfall.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

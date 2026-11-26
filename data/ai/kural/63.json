@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தம்",
+     "gloss": "their own"
     }
    ],
-   "gloss": "one's own"
+   "gloss": "their own"
   },
   {
    "surface": "பொருள்",
@@ -26,14 +26,9 @@
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "they (suffix)"
+     "gloss": "they say"
     }
    ],
    "gloss": "they say"
@@ -43,11 +38,11 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தம்",
+     "gloss": "their own"
     }
    ],
-   "gloss": "one's own"
+   "gloss": "their own"
   },
   {
    "surface": "மக்கள்",
@@ -69,7 +64,7 @@
      "gloss": "their"
     }
    ],
-   "gloss": "their"
+   "gloss": "their (the children's)"
   },
   {
    "surface": "பொருள்",
@@ -87,22 +82,22 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "their"
+     "lemma": "தம்",
+     "gloss": "their own"
     }
    ],
-   "gloss": "their"
+   "gloss": "their own"
   },
   {
    "surface": "தம்",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "their"
+     "lemma": "தம்",
+     "gloss": "their own"
     }
    ],
-   "gloss": "their"
+   "gloss": "their own"
   },
   {
    "surface": "வினையான்",
@@ -118,29 +113,24 @@
      "gloss": "by"
     }
    ],
-   "gloss": "by deeds"
+   "gloss": "by their deeds"
   },
   {
    "surface": "வரும்",
    "parts": [
     {
-     "text": "வரு",
-     "lemma": "வா",
-     "gloss": "come"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "text": "வரும்",
+     "lemma": "வரு",
+     "gloss": "will come"
     }
    ],
    "gloss": "will come"
   }
  ],
- "literal": "One's own wealth, they say, one's own children; their wealth by their respective deeds will come.",
- "translation": "It is said that one's own children are one's true wealth, and that this wealth comes to a person through their own respective deeds.",
- "modern": "தம் மக்கள் தான் தம்முடைய உண்மையான செல்வம் என்று கூறுவர்; அந்தச் செல்வமானது அவரவர் செய்யும் செயல்களின் வழியாகவே வந்து சேரும்.",
- "explanation": "This couplet defines children as the true wealth of a person. The phrase 'they say' indicates an accepted wisdom that material wealth is secondary to one's offspring. The word 'அவர்' (their) in the second line refers to the children, making 'அவர் பொருள்' mean 'the wealth that is them'. The second half explains that this precious wealth is attained as a result of the parents' own respective deeds. Thus, the blessing of having good children is directly linked to one's own actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Their own wealth, they say, is their children; their wealth comes by their own respective deeds.",
+ "translation": "People say that one's children are one's true wealth; and the wealth of those children comes to them through their own respective deeds.",
+ "modern": "தம்முடைய மக்கள் தான் தம்முடைய செல்வம் என்று அறிஞர்கள் கூறுவர்; அந்த மக்களுடைய செல்வமானது அவரவர் செய்யும் நற்செயல்களால் வந்து சேரும்.",
+ "explanation": "This couplet explains the relationship between parents, children, and their individual destinies. The first part states that parents consider their children to be their greatest asset or wealth ('tam poruḷ'). The second part clarifies that the actual fortune, character, or destiny ('avar poruḷ') that these children experience in their lives is not inherited, but rather comes to them as a result of their own individual actions and deeds ('tam tam vinaiyāṉ'). Thus, while children are a treasure to their parents, their own future is shaped by their own conduct.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

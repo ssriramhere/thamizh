@@ -6,23 +6,18 @@
     {
      "text": "குணம்",
      "lemma": "குணம்",
-     "gloss": "good quality"
+     "gloss": "virtue / good quality"
     }
    ],
-   "gloss": "good quality"
+   "gloss": "virtue / good quality"
   },
   {
    "surface": "நாடி",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "to examine"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having examined"
     }
    ],
    "gloss": "having examined"
@@ -33,7 +28,7 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "fault / defect"
     },
     {
      "text": "உம்",
@@ -41,20 +36,15 @@
      "gloss": "and"
     }
    ],
-   "gloss": "and fault"
+   "gloss": "and the faults"
   },
   {
    "surface": "நாடி",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "to examine"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having examined"
     }
    ],
    "gloss": "having examined"
@@ -76,23 +66,18 @@
     {
      "text": "மிகை",
      "lemma": "மிகை",
-     "gloss": "excess"
+     "gloss": "the excess / that which is greater"
     }
    ],
-   "gloss": "excess"
+   "gloss": "the excess / that which is greater"
   },
   {
    "surface": "நாடி",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "to examine"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having examined"
     }
    ],
    "gloss": "having examined"
@@ -103,32 +88,27 @@
     {
      "text": "மிக்க",
      "lemma": "மிகு",
-     "gloss": "abundant"
+     "gloss": "that which is predominant"
     }
    ],
-   "gloss": "abundant"
+   "gloss": "that which is predominant"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "to take"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "to accept / to form an estimate"
     }
    ],
-   "gloss": "take"
+   "gloss": "to accept / to form an estimate"
   }
  ],
- "literal": "Good quality having examined, and fault having examined, among them excess having examined, the abundant take.",
- "translation": "Examine a person's good qualities and examine their faults; then, weighing which is greater, judge them by that majority.",
- "modern": "ஒருவருடைய நல்ல குணங்களையும் ஆராய்ந்து, அவருடைய குற்றங்களையும் ஆராய்ந்து, அவற்றுள் எவை அதிகமாக இருக்கின்றன என்று பார்த்து, அந்த மிகுதியானவற்றைக் கொண்டு அவரைப் பற்றி முடிவு செய்ய வேண்டும்.",
- "explanation": "To evaluate a person for a task or trust, one must objectively examine both their virtues and their flaws. Since no one is entirely perfect or entirely flawed, the decision should be based on the balance of these traits. By weighing which side is greater, one can accept and judge the person according to their predominant qualities.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Good qualities having examined, faults also having examined, among them the excess having examined, that which is greater, to accept.",
+ "translation": "Weigh a person's merits and weigh their faults; then, assessing which of the two is greater, form your judgment of them.",
+ "modern": "ஒருவருடைய நற்குணங்களை ஆராய்ந்து, அவருடைய குற்றங்களையும் ஆராய்ந்து, அவற்றுள் எது அதிகமாக இருக்கிறதோ அதை அடிப்படையாகக் கொண்டு அவரைப் பற்றி முடிவு செய்ய வேண்டும்.",
+ "explanation": "This couplet provides a highly practical and realistic method for evaluating people before placing trust or responsibility in them. The author advises us to first examine a person's virtues (குணம்) and then objectively examine their faults (குற்றம்). Since no human is entirely perfect, we must compare the two and see which side outweighs the other (மிகை). Our final decision to accept or trust them (கொளல்) should be based on whichever side is predominant (மிக்க).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

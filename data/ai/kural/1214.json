@@ -11,28 +11,28 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "(euphonic)"
+     "gloss": "oblique case suffix"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "locative/instrumental suffix"
     }
    ],
-   "gloss": "by dream"
+   "gloss": "through dream"
   },
   {
    "surface": "உண்டாகும்",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உண்டு",
+     "lemma": "உள்",
      "gloss": "existence"
     },
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "becomes"
+     "gloss": "will become"
     }
    ],
    "gloss": "arises"
@@ -43,10 +43,10 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "pleasure"
+     "gloss": "love"
     }
    ],
-   "gloss": "pleasure"
+   "gloss": "love"
   },
   {
    "surface": "நனவினான்",
@@ -59,52 +59,42 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "(euphonic)"
+     "gloss": "oblique case suffix"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "in"
+     "gloss": "locative/instrumental suffix"
     }
    ],
-   "gloss": "in waking state"
+   "gloss": "in the waking state"
   },
   {
    "surface": "நல்காரை",
    "parts": [
     {
-     "text": "நல்கு",
+     "text": "நல்கார்",
      "lemma": "நல்கு",
-     "gloss": "grant"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (neg.)"
+     "gloss": "he who does not bestow love"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "(accusative)"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who do not grant (acc.)"
+   "gloss": "him who does not show love"
   },
   {
    "surface": "நாடி",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "seek"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "(adverbial suffix)"
+     "gloss": "having sought"
     }
    ],
-   "gloss": "having sought"
+   "gloss": "seeking"
   },
   {
    "surface": "தரற்கு",
@@ -117,16 +107,16 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "for"
+     "gloss": "dative case marker"
     }
    ],
    "gloss": "for bringing"
   }
  ],
- "literal": "By dream arises pleasure, in waking state those who do not grant having sought for bringing.",
- "translation": "Pleasure comes to me through dreams, for they seek out and bring the one who grants no favor in the waking state.",
- "modern": "நனவில் வந்து அன்பு செய்யாதவரைத் தேடிக் கொண்டுவந்து தருவதால், கனவினால் எனக்கு இன்பம் உண்டாகிறது.",
- "explanation": "The speaker finds solace in her dreams because they accomplish what reality cannot. While her lover is absent and does not bestow his affection upon her in her waking hours, her dreams actively seek him out and bring him to her. Because dreams have the power to unite her with the one who is otherwise unreachable, they become the true source of her romantic pleasure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Through dream arises love, in the waking state him who does not show love, seeking, to bring.",
+ "translation": "My love is sustained only through dreams, which seek out and bring back the beloved who does not show grace in waking reality.",
+ "modern": "நனவு நிலையில் அன்பு செய்யாத காதலரைத் தேடிக் கொண்டுவந்து தருவதால், கனவின் மூலமாகவே காதல் நிலைபெற்று உண்டாகிறது.",
+ "explanation": "The heroine explains why she cherishes her dreams. In her waking life, her lover is absent and does not bestow his grace upon her. However, when she sleeps, her dreams actively seek out her distant lover and bring him to her. Therefore, it is only through the medium of dreams that her love is kept alive and nourished.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "அடல்",
-     "lemma": "அடு",
-     "gloss": "destroying"
+     "lemma": "அடல்",
+     "gloss": "conquering"
     }
    ],
-   "gloss": "destroying"
+   "gloss": "conquering"
   },
   {
    "surface": "வேண்டும்",
@@ -26,9 +26,14 @@
    "surface": "ஐந்தன்",
    "parts": [
     {
-     "text": "ஐந்தன்",
+     "text": "ஐந்து",
      "lemma": "ஐந்து",
-     "gloss": "of the five"
+     "gloss": "five"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "inflectional increment"
     }
    ],
    "gloss": "of the five"
@@ -38,11 +43,12 @@
    "parts": [
     {
      "text": "புலத்தை",
-     "lemma": "புலம்",
-     "gloss": "sense-domain (accusative)"
+     "lemma": "புலத்தை",
+     "gloss": "the sensory domain"
     }
    ],
-   "gloss": "sense-domain (accusative)"
+   "gloss": "the sensory domain",
+   "split_unverified": true
   },
   {
    "surface": "விடல்",
@@ -50,10 +56,10 @@
     {
      "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "leaving"
+     "gloss": "renouncing"
     }
    ],
-   "gloss": "leaving"
+   "gloss": "renouncing"
   },
   {
    "surface": "வேண்டும்",
@@ -75,7 +81,7 @@
      "gloss": "desired"
     }
    ],
-   "gloss": "desired"
+   "gloss": "desired things"
   },
   {
    "surface": "எல்லாம்",
@@ -100,10 +106,10 @@
    "gloss": "together"
   }
  ],
- "literal": "Destroying is necessary the five's sense-domain; leaving is necessary desired all together.",
- "translation": "One must conquer the domain of the five senses. To do so, one must give up all desired things altogether.",
- "modern": "ஐம்புலன்களின் ஆசைகளை அழிக்க வேண்டும்; அதற்கு நாம் விரும்பிய பொருட்கள் அனைத்தையும் ஒருசேர விட்டுவிட வேண்டும்.",
- "explanation": "This couplet outlines the fundamental requirement of renunciation. To achieve true detachment, one must conquer the domain of the five senses, which constantly pull the mind toward worldly objects. To succeed in this, it is necessary to completely and simultaneously give up all things one desires. The word 'ஒருங்கு' (altogether) stresses that partial renunciation is insufficient; all attachments must be abandoned at once.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Conquering is necessary of the five the sensory domain; renouncing is necessary desired things all together.",
+ "translation": "One must conquer the domain of the five senses, and simultaneously renounce all desired things of the world.",
+ "modern": "ஐந்து புலன்களின் வழியே செல்லும் ஆசையை வெல்ல வேண்டும்; விரும்பிய அனைத்தையும் ஒரே நேரத்தில் துறக்க வேண்டும்.",
+ "explanation": "This couplet outlines the essential steps for true renunciation. The 'five' refers to the five senses, and 'pulam' represents their respective domains of desire. To succeed in asceticism, one must first conquer these sensory impulses. Along with this internal control, one must completely and simultaneously abandon all external attachments and desires. The poet emphasizes that both sensory mastery and the giving up of worldly desires must happen together for complete liberation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

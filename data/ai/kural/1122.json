@@ -22,10 +22,10 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "soul"
     }
    ],
-   "gloss": "life"
+   "gloss": "soul"
   },
   {
    "surface": "இடை",
@@ -44,10 +44,10 @@
     {
      "text": "என்ன",
      "lemma": "என்ன",
-     "gloss": "what"
+     "gloss": "what kind of"
     }
    ],
-   "gloss": "what"
+   "gloss": "of what kind"
   },
   {
    "surface": "மற்று",
@@ -55,10 +55,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "indeed"
+     "gloss": "then"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "then"
   },
   {
    "surface": "அன்ன",
@@ -69,7 +69,7 @@
      "gloss": "like that"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like that"
   },
   {
    "surface": "மடந்தையொடு",
@@ -77,7 +77,7 @@
     {
      "text": "மடந்தை",
      "lemma": "மடந்தை",
-     "gloss": "woman"
+     "gloss": "young woman"
     },
     {
      "text": "ஒடு",
@@ -85,7 +85,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with the woman"
+   "gloss": "with the young woman"
   },
   {
    "surface": "எம்",
@@ -93,10 +93,10 @@
     {
      "text": "எம்",
      "lemma": "யாம்",
-     "gloss": "our"
+     "gloss": "my"
     }
    ],
-   "gloss": "our"
+   "gloss": "my"
   },
   {
    "surface": "இடை",
@@ -115,16 +115,16 @@
     {
      "text": "நட்பு",
      "lemma": "நட்பு",
-     "gloss": "bond"
+     "gloss": "love"
     }
    ],
-   "gloss": "bond"
+   "gloss": "love"
   }
  ],
- "literal": "With the body, life's connection is what, indeed like that is with the woman our connection's bond.",
- "translation": "Whatever the bond is between the physical body and life, such is the bond between this young woman and me.",
- "modern": "உடம்புக்கும் உயிருக்கும் இடையே உள்ள உறவு எத்தன்மையதோ, அத்தன்மையதே இந்த இளம்பெண்ணுக்கும் எனக்கும் இடையே உள்ள காதல் உறவாகும்.",
- "explanation": "The speaker compares his love for the young woman to the inseparable connection between a physical body and the life force that animates it. Just as a body cannot function without life, and life in this world requires a body, the lovers are completely dependent on each other. The word 'naṭpu', which usually means friendship, is used here to denote the deep, intimate bond of romantic love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With the body, the soul, between, what kind of [bond], then, like that, with the young woman, my, between, the love.",
+ "translation": "The love between this young woman and me is just like the inseparable bond that exists between the body and the soul.",
+ "modern": "உடம்புக்கும் உயிருக்கும் இடையே உள்ள உறவு எத்தகையதோ, அத்தகையதே இந்த இளம் பெண்ணுக்கும் எனக்கும் இடையே உள்ள காதல் உறவு ஆகும்.",
+ "explanation": "This couplet beautifully illustrates the depth of love by comparing it to the relationship between the physical body and the life-giving soul. The words 'உடம்பொடு' (with the body) and 'உயிர்' (soul) represent two distinct entities that cannot exist without each other. The phrase 'என்ன மற்று அன்ன' sets up the comparison, meaning 'just as that is, so is this'. By describing their 'நட்பு' (which here means intimate love) in this manner, the speaker emphasizes that their connection is not merely physical or temporary, but vital to their very existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

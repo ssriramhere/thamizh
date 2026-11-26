@@ -22,10 +22,10 @@
     {
      "text": "நின்றான்",
      "lemma": "நில்",
-     "gloss": "he who stood"
+     "gloss": "he who stands"
     }
    ],
-   "gloss": "he who stood"
+   "gloss": "he who stands (highway robber)"
   },
   {
    "surface": "இடு",
@@ -36,7 +36,7 @@
      "gloss": "give"
     }
    ],
-   "gloss": "give"
+   "gloss": "give / hand over"
   },
   {
    "surface": "என்றது",
@@ -44,21 +44,21 @@
     {
      "text": "என்றது",
      "lemma": "என்",
-     "gloss": "saying that"
+     "gloss": "that which said"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "saying so"
   },
   {
    "surface": "போலும்",
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போல்",
+     "lemma": "போலும்",
      "gloss": "is like"
     }
    ],
-   "gloss": "is like"
+   "gloss": "is similar to"
   },
   {
    "surface": "கோலொடு",
@@ -66,7 +66,7 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "scepter"
+     "gloss": "sceptre"
     },
     {
      "text": "ஒடு",
@@ -74,7 +74,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with a scepter"
+   "gloss": "with a sceptre"
   },
   {
    "surface": "நின்றான்",
@@ -82,27 +82,27 @@
     {
      "text": "நின்றான்",
      "lemma": "நில்",
-     "gloss": "he who stood"
+     "gloss": "he who stands"
     }
    ],
-   "gloss": "he who stood"
+   "gloss": "he who stands (the ruler)"
   },
   {
    "surface": "இரவு",
    "parts": [
     {
      "text": "இரவு",
-     "lemma": "இர",
-     "gloss": "begging"
+     "lemma": "இரவு",
+     "gloss": "begging / demanding"
     }
    ],
-   "gloss": "begging"
+   "gloss": "begging / demanding tribute"
   }
  ],
- "literal": "With a spear he who stood 'Give!' saying that is like, with a scepter he who stood begging.",
- "translation": "A king holding a scepter who demands wealth from his subjects is like a highway robber standing with a spear and demanding, 'Give!'",
- "modern": "ஆட்சி அதிகாரத்தைக் கையில் வைத்திருக்கும் அரசன் மக்களிடம் பொருளைக் கேட்பது, கையில் வேலுடன் வழியில் நிற்பவன் வழிப்போக்கர்களைப் பார்த்துப் பொருளைக் கொடு என்று மிரட்டிக் கேட்பதைப் போன்றது.",
- "explanation": "This couplet compares a tyrannical king's taxation to highway robbery. The word 'kōl' refers to the king's scepter, a symbol of his power and duty to protect. When a king uses this power to demand wealth from his subjects, it is not a legitimate request. Instead, it is exactly like a bandit standing with a spear ('vēl') and ordering travelers to hand over their valuables. The imagery highlights the abuse of authority where protection turns into extortion.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a robber standing with a spear saying 'Give!', is the demanding of a ruler standing with a sceptre.",
+ "translation": "A ruler demanding wealth from his subjects while holding the sceptre of power is just like a highway robber standing with a spear and demanding, 'Hand over your wealth!'",
+ "modern": "செங்கோலை ஏந்தி நிற்கும் அரசன் தன் குடிமக்களிடம் வரி கொடுக்குமாறு இரந்து கேட்பது, கையில் வேலை ஏந்தி வழியில் நிற்பவன் 'உன் பொருளைக் கொடு' என்று மிரட்டுவதைப் போன்றதாகும்.",
+ "explanation": "This couplet compares a tyrannical ruler's unjust demands for money to highway robbery. The sceptre (கோல்) is meant to be a symbol of protection and justice, but when used to extort wealth, it functions exactly like a robber's spear (வேல்). The word 'இரவு' in this context refers to the ruler's demand or begging for extra taxes from his helpless subjects. The comparison vividly illustrates that state extortion under the guise of law is nothing but armed banditry.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "பொது",
      "lemma": "பொது",
-     "gloss": "common"
+     "gloss": "common or indifferent manner"
     }
    ],
-   "gloss": "commonly"
+   "gloss": "commonly or indifferently"
   },
   {
    "surface": "நோக்கான்",
@@ -17,15 +17,15 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "look"
+     "gloss": "look or regard"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he-not"
+     "gloss": "negative third-person singular masculine suffix"
     }
    ],
-   "gloss": "looks-not-he"
+   "gloss": "he who does not look"
   },
   {
    "surface": "வேந்தன்",
@@ -33,10 +33,10 @@
     {
      "text": "வேந்தன்",
      "lemma": "வேந்தன்",
-     "gloss": "king"
+     "gloss": "king or ruler"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "வரிசையா",
@@ -44,15 +44,15 @@
     {
      "text": "வரிசை",
      "lemma": "வரிசை",
-     "gloss": "merit"
+     "gloss": "merit or rank"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "by"
+     "gloss": "instrumental suffix meaning 'by' or 'according to'"
     }
    ],
-   "gloss": "by merit"
+   "gloss": "according to merit"
   },
   {
    "surface": "நோக்கின்",
@@ -60,15 +60,15 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "look"
+     "gloss": "look or regard"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "conditional suffix meaning 'if'"
     }
    ],
-   "gloss": "if looks"
+   "gloss": "if he regards"
   },
   {
    "surface": "அது",
@@ -79,7 +79,7 @@
      "gloss": "that"
     }
    ],
-   "gloss": "that"
+   "gloss": "that quality"
   },
   {
    "surface": "நோக்கி",
@@ -87,15 +87,15 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "look"
+     "gloss": "look or regard"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having looked"
+     "gloss": "verbal participle suffix"
     }
    ],
-   "gloss": "looking at"
+   "gloss": "looking towards or seeking"
   },
   {
    "surface": "வாழ்வார்",
@@ -103,20 +103,20 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "live"
+     "gloss": "live or prosper"
     },
     {
      "text": "வ்",
      "lemma": "வ்",
-     "gloss": "[future]"
+     "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "third-person plural pronominal suffix"
     }
    ],
-   "gloss": "will live"
+   "gloss": "those who will live"
   },
   {
    "surface": "பலர்",
@@ -124,16 +124,16 @@
     {
      "text": "பலர்",
      "lemma": "பலர்",
-     "gloss": "many"
+     "gloss": "many people"
     }
    ],
-   "gloss": "many"
+   "gloss": "many people"
   }
  ],
- "literal": "Commonly looking-not, king by merit if looks, that looking at, those who live are many.",
- "translation": "If a king does not treat everyone alike but regards each according to their merit, many will live looking up to that discernment.",
- "modern": "அரசன் எல்லோரையும் பொதுவாக ஒரே மாதிரியாகப் பார்க்காமல், அவரவர் தகுதிக்கு ஏற்ப மதித்துப் பார்த்தால், அந்தப் பண்பை நம்பி வாழ்பவர்கள் பலராவர்.",
- "explanation": "This couplet explains how a leader should recognize individual merit. If a king treats everyone exactly the same ('பொது நோக்கான்'), he fails to acknowledge special talents or contributions. Instead, if he looks at people according to their specific rank or merit ('வரிசையா நோக்கின்'), many capable people will be drawn to him and live under his patronage ('அது நோக்கி வாழ்வார் பலர்'). The repetition of the root 'நோக்கு' (look) emphasizes both the leader's discerning vision and the followers' hopeful gaze.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without looking commonly, if the king looks according to merit, seeking that, many will live.",
+ "translation": "If a ruler does not look upon everyone with a common, indifferent eye but regards each according to their specific merit, many will gather and live under his protective care.",
+ "modern": "அனைவரையும் பொதுவாகப் பார்க்காமல், அரசன் அவரவர் தகுதிக்கு ஏற்ப ஆராய்ந்து நோக்கினால், அந்த அன்பை நாடி அவனோடு கூடி வாழ்பவர் பலர் ஆவர்.",
+ "explanation": "This couplet explains how a leader can gather and retain a large circle of supportive kinsmen and followers. If a king treats everyone with a flat, indifferent equality, he fails to appreciate individual worth. Instead, when he regards people according to their distinct merit and value, people recognize this appreciation. Seeking that supportive and discerning gaze, many will gladly come to live under his patronage.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

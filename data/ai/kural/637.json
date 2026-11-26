@@ -6,10 +6,10 @@
     {
      "text": "செயற்கை",
      "lemma": "செயற்கை",
-     "gloss": "theoretical method"
+     "gloss": "theoretical knowledge"
     }
    ],
-   "gloss": "theoretical method"
+   "gloss": "theoretical or bookish knowledge of doing a task"
   },
   {
    "surface": "அறிந்த",
@@ -26,24 +26,19 @@
    "surface": "கடைத்தும்",
    "parts": [
     {
-     "text": "கடைத்து",
-     "lemma": "கடை",
-     "gloss": "at the state"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "கடைத்தும்",
+     "lemma": "கடைத்து",
+     "gloss": "even if"
     }
    ],
-   "gloss": "even when"
+   "gloss": "even if one has thoroughly mastered"
   },
   {
    "surface": "உலகத்து",
    "parts": [
     {
      "text": "உலகத்து",
-     "lemma": "உலகு",
+     "lemma": "உலகம்",
      "gloss": "of the world"
     }
    ],
@@ -58,7 +53,7 @@
      "gloss": "nature"
     }
    ],
-   "gloss": "nature"
+   "gloss": "practical nature or customary ways"
   },
   {
    "surface": "அறிந்து",
@@ -69,7 +64,7 @@
      "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "having understood"
   },
   {
    "surface": "செயல்",
@@ -77,16 +72,16 @@
     {
      "text": "செயல்",
      "lemma": "செய்",
-     "gloss": "act"
+     "gloss": "to do"
     }
    ],
-   "gloss": "act"
+   "gloss": "one must act"
   }
  ],
- "literal": "Theoretical method known even when, of the world nature having known act.",
- "translation": "Even if you know the theoretical methods for a task, you must understand the practical nature of the world before acting.",
- "modern": "ஒரு செயலைச் செய்யும் முறைகளை முழுமையாக அறிந்திருந்தாலும், உலகத்தின் நடைமுறை இயல்பை நன்கு அறிந்து அதற்கேற்பச் செயல்பட வேண்டும்.",
- "explanation": "This couplet contrasts theoretical knowledge with practical wisdom. The word 'செயற்கை' refers to the artificial or theoretical methods of doing things, often learned from study. 'இயற்கை' refers to the natural state or practical reality of the world. The poet advises that even if a minister has mastered the theoretical methods of governance, they must observe and understand the actual conditions of the world before taking action.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Theoretical knowledge even if known, the world's practical nature having understood, act.",
+ "translation": "Even if you have thoroughly mastered the theoretical methods of performing a task, you must understand the practical ways of the world and act accordingly.",
+ "modern": "ஒரு செயலைச் செய்யும் முறைகளை நூலறிவால் அறிந்திருந்தாலும், உலக நடைமுறையை அறிந்து அதற்கேற்பச் செய்ய வேண்டும்.",
+ "explanation": "This couplet highlights the difference between theoretical knowledge and practical wisdom. The word 'செயற்கை' refers to artificial or bookish knowledge, which details the technical steps of a task. Even if a person has mastered these theories ('அறிந்தக் கடைத்தும்'), they cannot succeed without understanding 'உலகத்து இயற்கை', which refers to the natural, practical ways of the world and human behavior. A wise minister or leader must harmonize bookish rules with real-world conditions before taking action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

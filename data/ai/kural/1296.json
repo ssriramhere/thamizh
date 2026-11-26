@@ -6,7 +6,7 @@
     {
      "text": "தனி",
      "lemma": "தனி",
-     "gloss": "alone"
+     "gloss": "solitude"
     },
     {
      "text": "ஏ",
@@ -25,31 +25,36 @@
      "gloss": "having been"
     }
    ],
-   "gloss": "having been"
+   "gloss": "staying"
   },
   {
    "surface": "நினைத்தக்கால்",
    "parts": [
     {
-     "text": "நினைத்த",
+     "text": "நினை",
      "lemma": "நினை",
-     "gloss": "thought"
+     "gloss": "think"
     },
     {
-     "text": "கால்",
+     "text": "த்தக்கால்",
      "lemma": "கால்",
      "gloss": "when"
     }
    ],
-   "gloss": "when thought"
+   "gloss": "when thinking"
   },
   {
    "surface": "என்னை",
    "parts": [
     {
-     "text": "என்னை",
+     "text": "என்",
      "lemma": "நான்",
      "gloss": "me"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "me"
@@ -58,12 +63,17 @@
    "surface": "தினிய",
    "parts": [
     {
-     "text": "தினிய",
+     "text": "தின்",
      "lemma": "தின்",
-     "gloss": "to eat"
+     "gloss": "eat"
+    },
+    {
+     "text": "இய",
+     "lemma": "இய",
+     "gloss": "to"
     }
    ],
-   "gloss": "to eat"
+   "gloss": "to devour"
   },
   {
    "surface": "இருந்தது",
@@ -71,17 +81,17 @@
     {
      "text": "இருந்தது",
      "lemma": "இரு",
-     "gloss": "it was"
+     "gloss": "was"
     }
    ],
-   "gloss": "it was"
+   "gloss": "was"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -99,10 +109,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "Alone having been when thought me to eat it was my heart.",
- "translation": "When I sit alone and think of him, my heart is ready to consume me.",
- "modern": "நான் தனியாக இருந்து அவரைப் பற்றி நினைத்தால், என் நெஞ்சம் என்னைத் தின்பது போலத் துன்புறுத்துகிறது.",
- "explanation": "The speaker describes the intense pain of separation. When she sits alone and reflects on her lover, her own heart turns against her. Instead of comforting her, it torments her so deeply that it feels as though it is eating her alive. The word 'தினிய' vividly captures this consuming agony.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When staying alone and thinking, my heart was there to devour me.",
+ "translation": "When I remain all alone and think of him, my own heart is poised to devour me.",
+ "modern": "நான் தனியாக இருந்து அவரைப் பற்றி நினைக்கும் போது, என் நெஞ்சு என்னை விழுங்குவது போல் வருத்துவதாக இருந்தது.",
+ "explanation": "In this couplet, the heroine describes the agonizing pain of separation. When she is left entirely alone and begins to contemplate her lover, her own heart does not offer comfort; instead, it turns against her. The word 'tiṉiya' (to eat or devour) vividly illustrates how her inner thoughts and longing feel like a physical force consuming her from within. She expostulates with her heart because its constant dwelling on the beloved acts as a self-destructive torment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

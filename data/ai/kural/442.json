@@ -6,10 +6,10 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "that has occurred"
+     "gloss": "that which has arisen"
     }
    ],
-   "gloss": "that has occurred"
+   "gloss": "that which has arisen"
   },
   {
    "surface": "நோய்",
@@ -17,7 +17,7 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "affliction"
+     "gloss": "affliction / trouble"
     }
    ],
    "gloss": "affliction"
@@ -33,7 +33,7 @@
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "having removed"
@@ -43,11 +43,11 @@
    "parts": [
     {
      "text": "உறாஅமை",
-     "lemma": "உறு",
-     "gloss": "not occurring"
+     "lemma": "உறாமை",
+     "gloss": "non-occurrence / not happening"
     }
    ],
-   "gloss": "not occurring"
+   "gloss": "preventing from happening"
   },
   {
    "surface": "முற்காக்கும்",
@@ -63,7 +63,7 @@
      "gloss": "protecting"
     }
    ],
-   "gloss": "guarding in advance"
+   "gloss": "guarding beforehand"
   },
   {
    "surface": "பெற்றியார்",
@@ -71,28 +71,28 @@
     {
      "text": "பெற்றி",
      "lemma": "பெற்றி",
-     "gloss": "nature"
+     "gloss": "noble character"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "those who have"
+     "gloss": "they (honorific)"
     }
    ],
-   "gloss": "those of such nature"
+   "gloss": "those of such noble character"
   },
   {
    "surface": "பேணி",
    "parts": [
     {
-     "text": "பேணு",
-     "lemma": "பேணு",
+     "text": "பேண்",
+     "lemma": "பேண்",
      "gloss": "cherish"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "having cherished"
@@ -103,21 +103,21 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "take"
+     "gloss": "acquire"
     },
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "one should"
+     "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "one should secure"
+   "gloss": "securing as companions"
   }
  ],
- "literal": "Occurred affliction having removed, not occurring beforehand protecting, those of such nature having cherished, one should take.",
- "translation": "Cherish and secure the companionship of those who have the ability to remove present afflictions and guard against future ones.",
- "modern": "வந்த துன்பத்தை நீக்கி, இனிமேல் துன்பம் வராதபடி முன்னதாகவே காக்கும் தன்மையுடைய பெரியோர்களை விரும்பித் துணையாகக் கொள்ள வேண்டும்.",
- "explanation": "This couplet emphasizes the value of associating with capable and wise individuals. The word 'நோய்' (nōy) here means any affliction or trouble, not just physical disease. The phrase 'உற்ற நோய் நீக்கி' refers to their ability to solve current problems, while 'உறாஅமை முற்காக்கும்' highlights their foresight in preventing future troubles. By using 'பேணிக் கொளல்', the poet advises the leader to actively cherish and secure such people as their companions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Arisen affliction removing, [future affliction] not happening beforehand protecting, those of [such] character, cherishing, acquiring.",
+ "translation": "To cherish and secure the friendship of those who can dispel existing troubles and guard against future ones before they occur.",
+ "modern": "வந்துள்ள துன்பத்தை நீக்கி, இனிமேல் துன்பம் வராமல் முன்னதாகவே காக்கும் தன்மை உடைய பெரியோர்களைப் போற்றித் துணையாகக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet highlights the essential qualities of the wise guides whom a leader should seek as companions. They possess two key abilities: first, they can resolve and remove troubles that have already occurred; second, they can foresee and prevent future difficulties before they arise. A wise ruler must cherish and secure the guidance of such capable mentors to ensure steady and safe governance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

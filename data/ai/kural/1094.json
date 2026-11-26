@@ -20,18 +20,18 @@
      "gloss": "looking"
     }
    ],
-   "gloss": "look"
+   "gloss": "looking"
   },
   {
    "surface": "காலை",
    "parts": [
     {
      "text": "காலை",
-     "lemma": "காலை",
-     "gloss": "time"
+     "lemma": "கால்",
+     "gloss": "when"
     }
    ],
-   "gloss": "time"
+   "gloss": "at the time / when"
   },
   {
    "surface": "நிலன்",
@@ -42,7 +42,7 @@
      "gloss": "ground"
     }
    ],
-   "gloss": "ground"
+   "gloss": "the ground"
   },
   {
    "surface": "நோக்கும்",
@@ -53,7 +53,7 @@
      "gloss": "looks"
     }
    ],
-   "gloss": "looks"
+   "gloss": "looks at"
   },
   {
    "surface": "நோக்காக்கால்",
@@ -80,7 +80,7 @@
      "gloss": "she"
     }
    ],
-   "gloss": "she"
+   "gloss": "she herself"
   },
   {
    "surface": "நோக்கி",
@@ -88,10 +88,10 @@
     {
      "text": "நோக்கி",
      "lemma": "நோக்கு",
-     "gloss": "having looked"
+     "gloss": "looking"
     }
    ],
-   "gloss": "having looked"
+   "gloss": "looking [at me]"
   },
   {
    "surface": "மெல்ல",
@@ -99,10 +99,10 @@
     {
      "text": "மெல்ல",
      "lemma": "மெல்ல",
-     "gloss": "softly"
+     "gloss": "gently"
     }
    ],
-   "gloss": "softly"
+   "gloss": "gently"
   },
   {
    "surface": "நகும்",
@@ -116,10 +116,10 @@
    "gloss": "smiles"
   }
  ],
- "literal": "I look time, ground looks; not-look time, she having looked softly smiles.",
- "translation": "When I look at her, she looks at the ground; when I look away, she looks at me and smiles softly.",
- "modern": "நான் அவளைப் பார்க்கும்போது அவள் தரையைப் பார்ப்பாள்; நான் பார்க்காதபோது அவள் என்னைப் பார்த்து மெல்லச் சிரிப்பாள்.",
- "explanation": "This couplet captures the shy, unspoken communication between lovers through their eyes. When the speaker looks directly at her, she lowers her gaze to the ground out of modesty. However, the moment he looks away, she seizes the opportunity to look at him and smiles gently to herself. The contrast between her looking at the ground ('நிலன் நோக்கும்') and her looking at him ('தான் நோக்கி') beautifully illustrates the playful exchange of glances.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When I look, she looks at the ground; when I do not look, she looks and gently smiles.",
+ "translation": "When I look at her, she looks down at the ground; when I look away, she looks at me and smiles gently.",
+ "modern": "நான் அவளைப் பார்க்கும் பொழுது அவள் நிலத்தைப் பார்க்கிறாள்; நான் பார்க்காத பொழுது அவள் என்னைப் பார்த்து மெதுவாகச் சிரிக்கிறாள்.",
+ "explanation": "This couplet beautifully captures the shy, unspoken signs of love between a young woman and her lover. When the lover looks directly at her, she modestly casts her eyes down toward the ground to avoid direct eye contact. However, the moment he looks away, she seizes the opportunity to gaze at him and softly smiles to herself. These subtle, alternating gestures of looking down and smiling reveal her hidden affection and interest without her having to say a single word.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

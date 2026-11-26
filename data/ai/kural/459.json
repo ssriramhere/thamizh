@@ -4,17 +4,13 @@
    "surface": "மனநலத்தின்",
    "parts": [
     {
-     "text": "மனநலத்து",
-     "lemma": "மனநலம்",
-     "gloss": "goodness of mind"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "from"
+     "text": "மனநலத்தின்",
+     "lemma": "மனநலத்தின்",
+     "gloss": "by goodness of mind"
     }
    ],
-   "gloss": "from goodness of mind"
+   "gloss": "by goodness of mind",
+   "split_unverified": true
   },
   {
    "surface": "ஆகும்",
@@ -22,10 +18,10 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "will happen"
+     "gloss": "is attained / will happen"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "is attained"
   },
   {
    "surface": "மறுமை",
@@ -33,10 +29,10 @@
     {
      "text": "மறுமை",
      "lemma": "மறுமை",
-     "gloss": "next life"
+     "gloss": "the next world / future life"
     }
    ],
-   "gloss": "next life"
+   "gloss": "the next world"
   },
   {
    "surface": "மற்று",
@@ -44,10 +40,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "moreover"
+     "gloss": "and / further"
     }
    ],
-   "gloss": "moreover"
+   "gloss": "and"
   },
   {
    "surface": "அஃதும்",
@@ -60,26 +56,22 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "too"
+     "gloss": "even / also"
     }
    ],
-   "gloss": "that too"
+   "gloss": "even that"
   },
   {
    "surface": "இனநலத்தின்",
    "parts": [
     {
-     "text": "இனநலத்து",
-     "lemma": "இனநலம்",
-     "gloss": "goodness of company"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "from"
+     "text": "இனநலத்தின்",
+     "lemma": "இனநலத்தின்",
+     "gloss": "by goodness of association"
     }
    ],
-   "gloss": "from goodness of company"
+   "gloss": "by goodness of association",
+   "split_unverified": true
   },
   {
    "surface": "ஏமாப்பு",
@@ -87,10 +79,10 @@
     {
      "text": "ஏமாப்பு",
      "lemma": "ஏமாப்பு",
-     "gloss": "strength"
+     "gloss": "protection / strength"
     }
    ],
-   "gloss": "strength"
+   "gloss": "protection"
   },
   {
    "surface": "உடைத்து",
@@ -98,16 +90,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses / has"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   }
  ],
- "literal": "From goodness of mind will happen the next life; moreover, that too from goodness of company possesses strength.",
- "translation": "A good future life is achieved through goodness of mind; moreover, even that goodness is strengthened by the goodness of one's company.",
- "modern": "ஒருவனுக்கு மறுமை இன்பம் அவனது மனநலத்தால் உண்டாகும்; அந்த மனநலமும் அவன் சேர்ந்திருக்கும் நல்லினத்தின் நன்மையால் மேலும் வலிமை பெறும்.",
- "explanation": "This couplet explains the relationship between a pure mind and good company. While a good mind secures well-being in the future life, that very goodness of mind is reinforced and protected by associating with good people. The word 'ஏமாப்பு' means strength or security, highlighting that even internal virtue requires the external support of good company to remain steadfast.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By goodness of mind is attained the next world; and even that, by goodness of association, protection possesses.",
+ "translation": "The bliss of the next world is attained through goodness of mind; yet, even that goodness of mind finds its secure protection in the goodness of one's association.",
+ "modern": "மனத்தூய்மையினால் மறுமை இன்பம் உண்டாகும்; ஆனால், அந்த மனத்தூய்மையும் நல்லினத்தின் சேர்க்கையால்தான் வலிமை பெறும்.",
+ "explanation": "This couplet explains the relationship between a pure mind and good company. While goodness of mind (மனநலம்) is essential to attain the virtues and rewards of the next life (மறுமை), that mental purity itself is not self-sustaining. It requires the safety, support, and reinforcement (ஏமாப்பு) that comes from being associated with good people (இனநலம்). Thus, keeping good company is the ultimate safeguard for one's own character and destiny.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

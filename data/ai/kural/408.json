@@ -6,15 +6,15 @@
     {
      "text": "நல்லார்",
      "lemma": "நல்லார்",
-     "gloss": "good people"
+     "gloss": "good or learned people"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix (with/among)"
+     "gloss": "with / in the place of"
     }
    ],
-   "gloss": "with the good"
+   "gloss": "with the good or learned people"
   },
   {
    "surface": "பட்ட",
@@ -22,10 +22,10 @@
     {
      "text": "பட்ட",
      "lemma": "படு",
-     "gloss": "happened"
+     "gloss": "befallen / experienced"
     }
    ],
-   "gloss": "happened"
+   "gloss": "befallen"
   },
   {
    "surface": "வறுமையின்",
@@ -41,7 +41,7 @@
      "gloss": "than (comparative suffix)"
     }
    ],
-   "gloss": "than poverty"
+   "gloss": "than the poverty"
   },
   {
    "surface": "இன்னாதே",
@@ -49,12 +49,12 @@
     {
      "text": "இன்னாது",
      "lemma": "இன்னாது",
-     "gloss": "is painful"
+     "gloss": "painful thing"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed (emphatic)"
+     "gloss": "indeed (emphasis)"
     }
    ],
    "gloss": "is indeed more painful"
@@ -65,15 +65,15 @@
     {
      "text": "கல்லார்",
      "lemma": "கல்லார்",
-     "gloss": "unlearned people"
+     "gloss": "unlearned or ignorant people"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix (with/among)"
+     "gloss": "with / in the possession of"
     }
    ],
-   "gloss": "with the unlearned"
+   "gloss": "with the unlearned people"
   },
   {
    "surface": "பட்ட",
@@ -81,10 +81,10 @@
     {
      "text": "பட்ட",
      "lemma": "படு",
-     "gloss": "happened"
+     "gloss": "befallen / accumulated"
     }
    ],
-   "gloss": "happened"
+   "gloss": "accumulated"
   },
   {
    "surface": "திரு",
@@ -92,16 +92,16 @@
     {
      "text": "திரு",
      "lemma": "திரு",
-     "gloss": "wealth"
+     "gloss": "wealth / fortune"
     }
    ],
    "gloss": "wealth"
   }
  ],
- "literal": "With the good happened than poverty is indeed more painful, with the unlearned happened wealth.",
- "translation": "Wealth possessed by the unlearned is far more grievous than poverty suffered by the good.",
- "modern": "நல்லவர்களிடம் உள்ள வறுமையை விட, படிக்காதவர்களிடம் உள்ள செல்வம் மிகவும் துன்பம் தருவதாகும்.",
- "explanation": "This couplet contrasts two situations: poverty among the good and wealth among the unlearned. The comparative suffix 'இன்' (in) attached to 'வறுமை' (poverty) sets up the comparison, meaning 'than poverty'. The word 'இன்னாதே' (is indeed painful/grievous) emphasizes that it is worse for an uneducated person to have wealth than for a good, educated person to suffer poverty, as the unlearned are likely to misuse their wealth and cause harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than the poverty befallen with the learned, the wealth accumulated with the unlearned is indeed more painful.",
+ "translation": "More painful than the poverty that afflicts the learned is the wealth that accumulates with the unlearned.",
+ "modern": "அறிவுடைய நல்லவர்களிடம் உள்ள வறுமையை விட, கல்லாதவர்களிடம் சேர்ந்துள்ள செல்வம் மிகவும் துன்பம் தருவதாகும்.",
+ "explanation": "This couplet compares two undesirable states: poverty among the wise and wealth among the ignorant. The poet asserts that while the poverty of learned people is sad, the wealth possessed by uneducated, ignorant people is even more painful and harmful to society. The word 'நல்லார்' refers to good, learned people, while 'கல்லார்' refers to those who lack education. The term 'திரு' represents wealth or fortune, which becomes a source of distress when held by those without wisdom.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

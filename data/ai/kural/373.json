@@ -9,7 +9,7 @@
      "gloss": "subtle"
     }
    ],
-   "gloss": "subtle"
+   "gloss": "subtle and deep"
   },
   {
    "surface": "நூல்",
@@ -17,10 +17,10 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "texts"
+     "gloss": "treatise"
     }
    ],
-   "gloss": "texts"
+   "gloss": "treatises"
   },
   {
    "surface": "பல",
@@ -37,20 +37,9 @@
    "surface": "கற்பினும்",
    "parts": [
     {
-     "text": "கற்பினும்",
+     "text": "கற்பின்",
      "lemma": "கல்",
-     "gloss": "even if learned"
-    }
-   ],
-   "gloss": "even if learned"
-  },
-  {
-   "surface": "மற்றும்",
-   "parts": [
-    {
-     "text": "மற்று",
-     "lemma": "மற்று",
-     "gloss": "nevertheless"
+     "gloss": "if one learns"
     },
     {
      "text": "உம்",
@@ -58,7 +47,23 @@
      "gloss": "even"
     }
    ],
-   "gloss": "nevertheless"
+   "gloss": "even if one learns"
+  },
+  {
+   "surface": "மற்றும்",
+   "parts": [
+    {
+     "text": "மற்று",
+     "lemma": "மற்று",
+     "gloss": "yet"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
+    }
+   ],
+   "gloss": "yet still"
   },
   {
    "surface": "தன்",
@@ -80,7 +85,7 @@
      "gloss": "innate"
     }
    ],
-   "gloss": "innate"
+   "gloss": "innate nature"
   },
   {
    "surface": "அறிவே",
@@ -88,7 +93,7 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "intellect"
     },
     {
      "text": "ஏ",
@@ -96,7 +101,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "knowledge (indeed)"
+   "gloss": "intellect indeed"
   },
   {
    "surface": "மிகும்",
@@ -110,10 +115,10 @@
    "gloss": "will prevail"
   }
  ],
- "literal": "Subtle texts many even if learned, nevertheless one's own innate knowledge indeed will prevail.",
- "translation": "Even if one learns many profound texts, one's innate knowledge will ultimately prevail.",
- "modern": "ஒருவர் பல நுட்பமான நூல்களைக் கற்றாலும், இறுதியில் அவனது இயற்கையான அறிவே மேலோங்கி நிற்கும்.",
- "explanation": "This couplet states that formal education cannot completely override one's natural disposition or destiny. The word 'uṇmai' usually means 'truth', but in the context of this chapter on fate, it takes the sense of 'innate' or 'natural'. Therefore, 'uṇmai aṟivu' refers to the inherent understanding a person possesses, which will ultimately dominate their actions despite studying many profound texts.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Subtle treatises many even if one learns, yet one's own innate intellect indeed will prevail.",
+ "translation": "Even if a person studies many subtle and profound treatises, their own innate intellect, shaped by destiny, will ultimately prevail.",
+ "modern": "ஒருவர் நுட்பமான பல நூல்களைக் கற்றாலும், அவருடைய இயற்கையான அறிவே மேலோங்கி நிற்கும்.",
+ "explanation": "This couplet explains how destiny influences a person's intellect and behavior. Even if someone acquires vast knowledge by studying highly sophisticated and subtle treatises, their innate understanding ('uṇmai aṟivu') will ultimately dominate. Here, 'uṇmai' refers to the natural, fundamental disposition of the mind as determined by one's destiny. Thus, external learning cannot easily override the core nature ordained by fate.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

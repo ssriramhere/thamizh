@@ -4,9 +4,14 @@
    "surface": "வீழும்",
    "parts": [
     {
-     "text": "வீழும்",
+     "text": "வீழ்",
      "lemma": "வீழ்",
-     "gloss": "loving"
+     "gloss": "desire or love"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "loving"
@@ -17,12 +22,12 @@
     {
      "text": "இருவர்",
      "lemma": "இருவர்",
-     "gloss": "two persons"
+     "gloss": "two people"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "dative suffix"
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to (dative case suffix)"
     }
    ],
    "gloss": "to the two people"
@@ -38,10 +43,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphatic suffix"
+     "gloss": "indeed (emphatic clitic)"
     }
    ],
-   "gloss": "sweet indeed"
+   "gloss": "is sweet indeed"
   },
   {
    "surface": "வளி",
@@ -49,7 +54,7 @@
     {
      "text": "வளி",
      "lemma": "வளி",
-     "gloss": "wind"
+     "gloss": "wind or air"
     }
    ],
    "gloss": "wind"
@@ -60,7 +65,7 @@
     {
      "text": "இடை",
      "lemma": "இடை",
-     "gloss": "middle"
+     "gloss": "in between or space"
     }
    ],
    "gloss": "in between"
@@ -71,21 +76,26 @@
     {
      "text": "போழ",
      "lemma": "போழ்",
-     "gloss": "to pierce"
+     "gloss": "to cleave or pass through"
     }
    ],
-   "gloss": "to pierce"
+   "gloss": "to pass through"
   },
   {
    "surface": "படாஅ",
    "parts": [
     {
-     "text": "படாஅ",
+     "text": "படா",
      "lemma": "படு",
-     "gloss": "not experiencing"
+     "gloss": "not happening or not suffering (negative relative participle)"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "euphonic lengthening (alapaṭai)"
     }
    ],
-   "gloss": "not experiencing"
+   "gloss": "not allowing"
   },
   {
    "surface": "முயக்கு",
@@ -99,10 +109,10 @@
    "gloss": "embrace"
   }
  ],
- "literal": "To the loving two, sweet indeed (is) wind in the middle to pierce not experiencing embrace.",
- "translation": "For two lovers, sweet indeed is an embrace so tight that not even the wind can pierce the space between them.",
- "modern": "ஒருவரையொருவர் விரும்பும் இருவருக்கும், தங்களுக்கு இடையில் காற்று நுழைந்து பிரிக்க முடியாதபடி தழுவிக்கொள்வது மிகவும் இனிமையானது.",
- "explanation": "This couplet describes the intensity and closeness of the lovers' embrace. The word 'வீழும்' means desiring or loving, referring to the deep affection between the two. 'வளியிடை போழப் படாஅ முயக்கு' paints a vivid picture of an embrace so tight that there is no gap for even the wind to pass through and separate them. The poet emphasizes that for such deeply connected lovers, this absolute physical closeness is profoundly sweet ('இனிதே').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the two who love, sweet indeed is the embrace that does not allow the wind to pass in between.",
+ "translation": "Sweet indeed to two lovers is an embrace so close that even the wind cannot pass between them.",
+ "modern": "ஒருவரையொருவர் விரும்பும் இருவருக்கு, இடையில் காற்று கூடப் புக முடியாதபடி நெருக்கமாக இருக்கும் தழுவல் மிகவும் இனிமையானது.",
+ "explanation": "This couplet beautifully captures the physical and emotional closeness of lovers. The phrase 'வீழும் இருவர்' refers to two people who are deeply in love with each other. Their embrace ('முயக்கு') is described as being so tight and seamless that even the wind ('வளி') cannot find a gap to pass through ('போழப் படாஅ') or separate them. This vivid imagery emphasizes that true union leaves absolutely no room for distance or separation, making it the sweetest experience ('இனிதே') for the lovers.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

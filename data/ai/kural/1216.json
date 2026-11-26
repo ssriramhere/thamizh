@@ -17,7 +17,7 @@
     {
      "text": "என",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "to say or call"
     }
    ],
    "gloss": "called"
@@ -39,10 +39,10 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "not existing"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   },
   {
    "surface": "ஆயின்",
@@ -53,7 +53,7 @@
      "gloss": "if it is"
     }
    ],
-   "gloss": "if it is"
+   "gloss": "if"
   },
   {
    "surface": "கனவினால்",
@@ -66,26 +66,31 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "oblique suffix"
+     "gloss": "oblique case marker"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "instrumental or locative suffix"
     }
    ],
-   "gloss": "in dream"
+   "gloss": "through dream"
   },
   {
    "surface": "காதலர்",
    "parts": [
     {
-     "text": "காதலர்",
-     "lemma": "காதலர்",
-     "gloss": "lover"
+     "text": "காதல்",
+     "lemma": "காதல்",
+     "gloss": "love"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "honorific person suffix"
     }
    ],
-   "gloss": "lover"
+   "gloss": "the beloved"
   },
   {
    "surface": "நீங்கலர்",
@@ -93,20 +98,15 @@
     {
      "text": "நீங்கு",
      "lemma": "நீங்கு",
-     "gloss": "depart"
+     "gloss": "to depart"
     },
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "he (honorific)"
+     "text": "அலர்",
+     "lemma": "அலர்",
+     "gloss": "negative third-person plural suffix"
     }
    ],
-   "gloss": "will not depart"
+   "gloss": "would not depart"
   },
   {
    "surface": "மன்",
@@ -114,16 +114,16 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "particle of emphasis or regret"
     }
    ],
    "gloss": "indeed"
   }
  ],
- "literal": "Waking-state called one-thing is-not if, in-dream lover will-not-depart indeed.",
- "translation": "If there were no such thing as the waking state, my lover would never depart from my dreams.",
- "modern": "நனவு என்று சொல்லப்படும் ஒரு நிலை மட்டும் இல்லாமல் இருந்தால், என் காதலர் கனவில் என்னை விட்டுப் பிரியமாட்டார்.",
- "explanation": "The speaker expresses a deep longing to remain in her dream world where she is united with her lover. She states that if the waking state ('நனவு') did not exist, her lover would never leave her side in her dreams ('கனவினால்'). The waking reality is seen as an unwelcome interruption that tears them apart. The particle 'மன்' (maṉ) conveys a sense of wistful longing and certainty about what could have been.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If a thing called waking state does not exist, through dream the beloved would not depart, indeed.",
+ "translation": "If there were no such thing as the waking state, my beloved would never depart from me, even in dreams.",
+ "modern": "விழிப்பு நிலை என்று ஒன்று இல்லாதிருந்தால், கனவின் வழியாக என் காதலர் என்னை விட்டு நீங்கவே மாட்டார்.",
+ "explanation": "In this couplet, the heroine expresses her deep longing for her absent lover, whom she can only meet in her dreams. She laments that the waking state (நனவு) is what breaks this beautiful union. If the waking state did not exist at all, she would remain in a continuous dream where her beloved (காதலர்) would never have to depart (நீங்கலர்) from her. The particle 'மன்' emphasizes her sorrow and the painful contrast between the comfort of her dreams and the harsh reality of waking up.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

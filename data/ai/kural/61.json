@@ -6,26 +6,21 @@
     {
      "text": "பெறும்",
      "lemma": "பெறு",
-     "gloss": "that one obtains"
+     "gloss": "that are obtained"
     }
    ],
-   "gloss": "that one obtains"
+   "gloss": "that are obtained"
   },
   {
    "surface": "அவற்றுள்",
    "parts": [
     {
-     "text": "அவற்று",
+     "text": "அவற்றுள்",
      "lemma": "அவை",
-     "gloss": "them"
-    },
-    {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "among those things"
     }
    ],
-   "gloss": "among them"
+   "gloss": "among those things"
   },
   {
    "surface": "யாம்",
@@ -54,18 +49,18 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "அறிவு",
    "parts": [
     {
      "text": "அறிவு",
-     "lemma": "அறி",
+     "lemma": "அறிவு",
      "gloss": "knowledge"
     }
    ],
@@ -77,10 +72,10 @@
     {
      "text": "அறிந்த",
      "lemma": "அறி",
-     "gloss": "that knew"
+     "gloss": "known / acquired"
     }
    ],
-   "gloss": "who possess"
+   "gloss": "who have acquired"
   },
   {
    "surface": "மக்கள்",
@@ -98,11 +93,11 @@
    "parts": [
     {
      "text": "பேறு",
-     "lemma": "பெறு",
-     "gloss": "obtaining"
+     "lemma": "பேறு",
+     "gloss": "attainment / blessing"
     }
    ],
-   "gloss": "blessing"
+   "gloss": "the blessing"
   },
   {
    "surface": "அல்ல",
@@ -110,7 +105,7 @@
     {
      "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "are not"
+     "gloss": "other than"
     }
    ],
    "gloss": "other than"
@@ -127,10 +122,10 @@
    "gloss": "other things"
   }
  ],
- "literal": "Among things obtained, that which we know is not; other than the blessing of children who have known knowledge, other things.",
- "translation": "Among all the things one can acquire, we know of no greater blessing than having children who possess wisdom.",
- "modern": "ஒருவர் பெறும் செல்வங்கள் எல்லாவற்றுள்ளும், அறிவுடைய பிள்ளைகளைப் பெறும் பேற்றினைத் தவிர வேறு சிறந்த பேறு இருப்பதாக நாம் அறியவில்லை.",
- "explanation": "This couplet evaluates the greatest possible acquisition in human life. The phrase 'பெறும் அவற்றுள்' (among things obtained) sets up a comparison of all forms of wealth, status, or possessions. The poet emphatically states 'யாம் அறிவது இல்லை' (we know of nothing) to dismiss all other achievements. The true treasure is defined as 'அறிவு அறிந்த மக்கட்பேறு' (the blessing of children who possess knowledge). Here, the repetition of the root for knowledge emphasizes not just having offspring, but raising children who have actively cultivated wisdom and good character.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among those things that are obtained, we know of nothing else that is a blessing, other than the obtaining of children who have acquired knowledge.",
+ "translation": "Among all the blessings one can obtain in life, we know of none greater than the acquisition of children who possess wisdom.",
+ "modern": "பெறக்கூடிய பேறுகளுள், அறிவு நிறைந்த பிள்ளைகளைப் பெறுவதைத் தவிர வேறு சிறந்த பேறு இருப்பதாக நாங்கள் அறியவில்லை.",
+ "explanation": "This couplet highlights the supreme value of having wise and knowledgeable children. The author states that among all the fortunes, wealth, or achievements a person can acquire in life, there is nothing of greater value than obtaining children who possess true understanding and wisdom. The phrase 'arivarinda makkal' emphasizes that it is not merely having offspring, but having children endowed with discerning knowledge and character that constitutes the ultimate blessing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

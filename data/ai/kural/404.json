@@ -9,14 +9,9 @@
      "gloss": "learn"
     },
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "not"
     },
     {
      "text": "ஆன்",
@@ -24,7 +19,7 @@
      "gloss": "he"
     }
    ],
-   "gloss": "unlearned man"
+   "gloss": "the unlearned man"
   },
   {
    "surface": "ஒட்பம்",
@@ -32,10 +27,10 @@
     {
      "text": "ஒட்பம்",
      "lemma": "ஒட்பம்",
-     "gloss": "cleverness"
+     "gloss": "natural intelligence"
     }
    ],
-   "gloss": "cleverness"
+   "gloss": "natural intelligence"
   },
   {
    "surface": "கழிய",
@@ -63,22 +58,17 @@
    "surface": "ஆயினும்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "become"
+     "text": "ஆயின்",
+     "lemma": "ஆகு",
+     "gloss": "if it is"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if it is"
+   "gloss": "even though"
   },
   {
    "surface": "கொள்ளார்",
@@ -102,21 +92,21 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     },
     {
      "text": "உடையார்",
      "lemma": "உடையார்",
-     "gloss": "possessors"
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "the wise"
+   "gloss": "those who possess wisdom"
   }
  ],
- "literal": "Unlearned man's cleverness, exceedingly good even if it is, will not accept, knowledge possessors.",
- "translation": "Even if the natural cleverness of an unlearned man is exceedingly good, the wise will not accept it.",
- "modern": "படிக்காதவனின் அறிவுக்கூர்மை மிகவும் நன்றாக இருந்தாலும், அறிவுடையவர்கள் அதனை ஏற்றுக்கொள்ள மாட்டார்கள்.",
- "explanation": "This couplet emphasizes that natural cleverness without formal learning is not valued by the wise. The word 'கல்லாதான்' refers to a person who has not acquired learning, while 'ஒட்பம்' denotes natural brilliance or cleverness. Even if such a person's ideas seem exceptionally good ('கழிய நன்று'), those who possess true knowledge ('அறிவுடையார்') will not accept them, because uncultivated intellect lacks depth, discipline, and reliability.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "An unlearned man's natural intelligence, exceedingly good although it be, will not accept those who possess wisdom.",
+ "translation": "Even if the natural intelligence of an unlearned person is exceedingly great, those who possess true wisdom will not value it.",
+ "modern": "கல்லாதவனுடைய அறிவு மிகச் சிறந்ததாக இருந்தாலும், அறிவுடையவர்கள் அதனை ஏற்றுக்கொள்ள மாட்டார்கள்.",
+ "explanation": "This couplet explains that natural brightness or sharp-wittedness in an unlearned person is not highly valued by the wise. The word 'ஒட்பம்' refers to natural mental sharpness or brilliance. Even if this brilliance appears 'கழிய நன்று' (exceedingly good), those who possess true wisdom ('அறிவுடையார்') will not accept or respect it ('கொள்ளார்'). This is because natural wit, without the discipline and depth of systematic learning, is unstable and lacks real substance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

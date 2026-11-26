@@ -4,9 +4,14 @@
    "surface": "மிகினும்",
    "parts": [
     {
-     "text": "மிகின்",
+     "text": "மிகு",
      "lemma": "மிகு",
-     "gloss": "if it exceeds"
+     "gloss": "exceed"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     },
     {
      "text": "உம்",
@@ -14,15 +19,20 @@
      "gloss": "even"
     }
    ],
-   "gloss": "whether they increase"
+   "gloss": "even if it exceeds"
   },
   {
    "surface": "குறையினும்",
    "parts": [
     {
-     "text": "குறையின்",
+     "text": "குறை",
      "lemma": "குறை",
-     "gloss": "if it decreases"
+     "gloss": "decrease"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     },
     {
      "text": "உம்",
@@ -30,7 +40,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "or whether they decrease"
+   "gloss": "even if it decreases"
   },
   {
    "surface": "நோய்",
@@ -47,9 +57,14 @@
    "surface": "செய்யும்",
    "parts": [
     {
-     "text": "செய்யும்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "will cause"
+     "gloss": "do/cause"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
    "gloss": "will cause"
@@ -65,10 +80,10 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "those who have"
+     "gloss": "experts/authors"
     }
    ],
-   "gloss": "the learned"
+   "gloss": "medical experts who wrote the treatises"
   },
   {
    "surface": "வளி",
@@ -76,10 +91,10 @@
     {
      "text": "வளி",
      "lemma": "வளி",
-     "gloss": "wind"
+     "gloss": "wind/air (vata)"
     }
    ],
-   "gloss": "wind"
+   "gloss": "wind (representing the bodily humor vata)"
   },
   {
    "surface": "முதலா",
@@ -91,22 +106,27 @@
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகு",
-     "gloss": "becoming"
+     "lemma": "ஆ",
+     "gloss": "as/with"
     }
    ],
-   "gloss": "starting with"
+   "gloss": "beginning with"
   },
   {
    "surface": "எண்ணிய",
    "parts": [
     {
-     "text": "எண்ணிய",
-     "lemma": "எண்ணு",
-     "gloss": "enumerated"
+     "text": "எண்",
+     "lemma": "எண்",
+     "gloss": "reckon/count"
+    },
+    {
+     "text": "இய",
+     "lemma": "இய",
+     "gloss": "past relative participle suffix"
     }
    ],
-   "gloss": "enumerated"
+   "gloss": "reckoned"
   },
   {
    "surface": "மூன்று",
@@ -117,13 +137,13 @@
      "gloss": "three"
     }
    ],
-   "gloss": "three"
+   "gloss": "three things"
   }
  ],
- "literal": "Whether they increase or whether they decrease, disease will cause, the treatise-authors' wind starting-with enumerated three.",
- "translation": "The three elements starting with wind, enumerated by the learned, will cause disease if they increase or decrease.",
- "modern": "மருத்துவ நூல்களை எழுதியவர்கள் வளி முதலாக எண்ணிய மூன்று கூறுகளும் தத்தம் அளவிலிருந்து மிகுந்தாலும் குறைந்தாலும் உடலில் நோயை உண்டாக்கும்.",
- "explanation": "This couplet introduces the fundamental principle of health and disease. The learned authors of medical treatises have enumerated three bodily elements, beginning with wind. If these three elements either exceed or fall short of their natural balance, they will cause disease in the body. The word vali means wind, representing the first of the three vital forces.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they exceed, even if they decrease, disease will cause, (those) which the authors of treatises, wind beginning with, reckoned as three.",
+ "translation": "If the three humors reckoned by medical experts, beginning with wind, either exceed or fall short of their proper measure, they will cause disease.",
+ "modern": "மருத்துவ நூலோர் வளி (காற்று) முதலாக எண்ணிய மூன்று பொருள்களும் (வளி, பித்தம், ஐயம்) அளவுக்கு அதிகமானாலும் அல்லது குறைந்தாலும் உடலுக்கு நோயை உண்டாக்கும்.",
+ "explanation": "This couplet introduces the fundamental principle of traditional medicine regarding the three bodily humors: wind (vatha), bile (pitha), and phlegm (kapha). The poet refers to them as the 'three things reckoned by experts, beginning with wind'. Health is maintained when these three elements exist in perfect balance. If any of these three humors either exceeds its natural proportion or falls below it, the imbalance disrupts the body's harmony and causes disease.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -28,7 +28,7 @@
     {
      "text": "செல்வத்து",
      "lemma": "செல்வம்",
-     "gloss": "wealth"
+     "gloss": "wealth (oblique)"
     },
     {
      "text": "உள்",
@@ -36,7 +36,7 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among wealth"
+   "gloss": "among all wealth"
   },
   {
    "surface": "செல்வம்",
@@ -44,10 +44,10 @@
     {
      "text": "செல்வம்",
      "lemma": "செல்வம்",
-     "gloss": "wealth"
+     "gloss": "the supreme wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "the supreme wealth"
   },
   {
    "surface": "பொருள்",
@@ -80,7 +80,7 @@
      "gloss": "base people"
     }
    ],
-   "gloss": "base people"
+   "gloss": "base or ignoble people"
   },
   {
    "surface": "கண்ணும்",
@@ -88,7 +88,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place"
+     "gloss": "place/with"
     },
     {
      "text": "உம்",
@@ -103,17 +103,17 @@
    "parts": [
     {
      "text": "உள",
-     "lemma": "உள்",
+     "lemma": "உள",
      "gloss": "exist"
     }
    ],
    "gloss": "exist"
   }
  ],
- "literal": "Compassion wealth [is] wealth among wealth; material wealth base people with-even exist.",
- "translation": "The wealth of compassion is the true wealth among all wealth. Material wealth exists even with the base.",
- "modern": "அருளாகிய செல்வமே செல்வங்களில் சிறந்த செல்வமாகும். பொருளாகிய செல்வம் இழிந்தவர்களிடத்திலும் இருக்கும்.",
- "explanation": "The couplet contrasts two types of wealth: the wealth of compassion and material wealth. It declares that compassion is the ultimate wealth among all forms of wealth. This is because material wealth is common and can be found even among base or low-minded people. The word 'கண்ணும்' (even at the place of) emphasizes that possessing material goods does not indicate a person's true worth. Therefore, true value lies only in cultivating a compassionate heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The wealth of compassion is the supreme wealth among all wealth; material wealth exists even with base people.",
+ "translation": "The wealth of compassion is the supreme wealth among all wealth, for material wealth can be found even among the basest of people.",
+ "modern": "அருளாகிய செல்வமே செல்வங்கள் எல்லாவற்றிலும் சிறந்த செல்வமாகும்; பொருளாகிய செல்வமோ இழிந்த குணமுடையவர்களிடத்திலும் இருக்கிறது.",
+ "explanation": "This couplet contrasts inner spiritual wealth with outer material wealth to establish the primacy of compassion. The poet argues that compassion (அருள்) is the greatest treasure one can possess. To prove this, he points out that material wealth (பொருட்செல்வம்) is common and can be acquired even by mean or ignoble individuals (பூரியார்). Because material riches do not require or reflect noble character, they are inferior to the wealth of a compassionate heart, which belongs only to the truly virtuous.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,23 +4,28 @@
    "surface": "இண்ருழ்த்தும்",
    "parts": [
     {
-     "text": "இண்ருழ்த்தும்",
-     "lemma": "இணருழ்த்து",
-     "gloss": "even if blossomed in clusters"
+     "text": "இண்ருழ்த்து",
+     "lemma": "இணரூழ்த்து",
+     "gloss": "bloomed in clusters"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if blossomed in clusters"
+   "gloss": "even when blooming in clusters"
   },
   {
    "surface": "நாறா",
    "parts": [
     {
      "text": "நாறா",
-     "lemma": "நாறு",
-     "gloss": "not smelling"
+     "lemma": "நாறுதல்",
+     "gloss": "not yielding fragrance"
     }
    ],
-   "gloss": "scentless"
+   "gloss": "unscented"
   },
   {
    "surface": "மலர்",
@@ -31,14 +36,14 @@
      "gloss": "flower"
     }
    ],
-   "gloss": "flowers"
+   "gloss": "flower"
   },
   {
    "surface": "அனையர்",
    "parts": [
     {
      "text": "அனையர்",
-     "lemma": "அனை",
+     "lemma": "அனையர்",
      "gloss": "they are like"
     }
    ],
@@ -49,50 +54,50 @@
    "parts": [
     {
      "text": "கற்றது",
-     "lemma": "கல்",
+     "lemma": "கற்றது",
      "gloss": "that which was learned"
     }
    ],
-   "gloss": "what was learned"
+   "gloss": "what they have learned"
   },
   {
    "surface": "உணர",
    "parts": [
     {
      "text": "உணர",
-     "lemma": "உணர்",
+     "lemma": "உணர்தல்",
      "gloss": "to understand"
     }
    ],
-   "gloss": "to understand"
+   "gloss": "so that others understand"
   },
   {
    "surface": "விரித்து",
    "parts": [
     {
      "text": "விரித்து",
-     "lemma": "விரி",
-     "gloss": "having expanded"
+     "lemma": "விரித்தல்",
+     "gloss": "having explained in detail"
     }
    ],
-   "gloss": "having expanded"
+   "gloss": "elaborating"
   },
   {
    "surface": "உரையாதார்",
    "parts": [
     {
      "text": "உரையாதார்",
-     "lemma": "உரை",
+     "lemma": "உரையாதார்",
      "gloss": "those who do not speak"
     }
    ],
-   "gloss": "those who do not speak"
+   "gloss": "those who do not express"
   }
  ],
- "literal": "Even if blossomed in clusters, scentless flowers they are like: what was learned, to understand, having expanded, those who do not speak.",
- "translation": "Those who cannot clearly explain what they have learned so that others understand are like flowers that blossom in clusters but yield no fragrance.",
- "modern": "தாம் கற்றவற்றை மற்றவர்கள் உணரும்படி விரிவாக எடுத்துச் சொல்ல முடியாதவர்கள், கொத்தாக மலர்ந்திருந்தாலும் மணம் வீசாத மலர்களைப் போன்றவர்கள்.",
- "explanation": "This couplet compares learned people who lack the skill of communication to scentless flowers. The phrase 'இண்ருழ்த்தும் நாறா மலர்' (flowers that bloom in clusters but lack fragrance) creates a vivid image of something visually impressive but lacking its essential, appealing quality. Similarly, 'கற்றது உணர விரித்து உரையாதார்' refers to those who have acquired knowledge but cannot expand on it clearly for others to grasp. The comparison emphasizes that knowledge, like a flower's beauty, is unfulfilled if it cannot be effectively shared and appreciated by others.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if blooming in clusters, unscented flower-like are they, who what they learned, to be understood, in detail do not speak.",
+ "translation": "Those who cannot clearly explain what they have learned so that others can understand are like a bunch of flowers that have bloomed but have no fragrance.",
+ "modern": "தாம் கற்றவற்றை மற்றவர்கள் புரிந்து கொள்ளும்படி விரிவாக எடுத்துச் சொல்ல முடியாதவர்கள், கொத்தாக மலர்ந்திருந்தாலும் மணம் தராத மலரைப் போன்றவர்கள் ஆவர்.",
+ "explanation": "This couplet emphasizes the importance of eloquence and communication skills. A person may have acquired vast knowledge through study, but if they cannot articulate it clearly so that others can comprehend it, their learning remains useless. The poet beautifully compares such individuals to a cluster of flowers that, despite blooming abundantly, fail to spread any fragrance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

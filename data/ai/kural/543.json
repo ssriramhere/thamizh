@@ -4,67 +4,94 @@
    "surface": "அந்தணர்",
    "parts": [
     {
-     "text": "அந்தணர்",
-     "lemma": "அந்தணர்",
-     "gloss": "sages"
+     "text": "அந்தண்",
+     "lemma": "அம்",
+     "gloss": "beautiful or graceful"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (honorific suffix)"
     }
    ],
-   "gloss": "sages"
+   "gloss": "righteous people or sages"
   },
   {
    "surface": "நூற்கும்",
    "parts": [
     {
-     "text": "நூற்கும்",
+     "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "to the texts and"
+     "gloss": "scripture or book"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to (dative case marker)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and"
     }
    ],
-   "gloss": "to the texts and"
+   "gloss": "and to the scriptures"
   },
   {
    "surface": "அறத்திற்கும்",
    "parts": [
     {
      "text": "அறத்திற்கும்",
-     "lemma": "அறம்",
-     "gloss": "to virtue and"
+     "lemma": "அறத்திற்கும்",
+     "gloss": "and to virtue"
     }
    ],
-   "gloss": "to virtue and"
+   "gloss": "and to virtue",
+   "split_unverified": true
   },
   {
    "surface": "ஆதியாய்",
    "parts": [
     {
-     "text": "ஆதியாய்",
+     "text": "ஆதி",
      "lemma": "ஆதி",
-     "gloss": "having become the basis"
+     "gloss": "origin or source"
+    },
+    {
+     "text": "ஆய்",
+     "lemma": "ஆய்",
+     "gloss": "having become"
     }
    ],
-   "gloss": "having become the basis"
+   "gloss": "as the foundation"
   },
   {
    "surface": "நின்றது",
    "parts": [
     {
      "text": "நின்றது",
-     "lemma": "நில்",
-     "gloss": "it stands"
+     "lemma": "நின்றது",
+     "gloss": "stood or is established"
     }
    ],
-   "gloss": "it stands"
+   "gloss": "stood or is established",
+   "split_unverified": true
   },
   {
    "surface": "மன்னவன்",
    "parts": [
     {
-     "text": "மன்னவன்",
-     "lemma": "மன்னவன்",
+     "text": "மன்",
+     "lemma": "மன்",
      "gloss": "king"
+    },
+    {
+     "text": "அவன்",
+     "lemma": "அவன்",
+     "gloss": "he (pronominal suffix)"
     }
    ],
-   "gloss": "king's"
+   "gloss": "the king's"
   },
   {
    "surface": "கோல்",
@@ -72,16 +99,16 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "scepter"
+     "gloss": "sceptre or rod of justice"
     }
    ],
-   "gloss": "scepter"
+   "gloss": "sceptre"
   }
  ],
- "literal": "To the sages' texts and to virtue, having become the basis, it stands, the king's scepter.",
- "translation": "The king's scepter stands as the foundation for both the texts of the sages and virtue itself.",
- "modern": "அந்தணர்களின் அறநூல்களுக்கும், தர்மத்திற்கும் அடிப்படையாக நிலைத்து நிற்பது மன்னவனின் செங்கோல் ஆகும்.",
- "explanation": "This couplet emphasizes the foundational role of just governance in a society. The king's scepter (கோல்) symbolizes his righteous rule and authority. It stands as the basis (ஆதி) for both the moral texts of the sages and the actual practice of virtue (அறம்). Without a just ruler to maintain order and protect the good, neither moral teachings nor virtuous deeds can survive and flourish.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the scriptures of the righteous and to virtue, as the foundation, stood the king's sceptre.",
+ "translation": "The sceptre of a just king stands as the very foundation for both the sacred scriptures of the wise and the virtue of the world.",
+ "modern": "அறிஞர்களின் நூல்களுக்கும் அறத்திற்கும் அடிப்படையாக விளங்குவது மன்னனின் செங்கோல் ஆகும்.",
+ "explanation": "This couplet highlights the supreme importance of just governance in preserving society. The poet states that the sceptre of the king ('மன்னவன் கோல்') stands ('நின்றது') as the ultimate foundation ('ஆதியாய்') for both the sacred scriptures of the wise ('அந்தணர் நூற்கும்') and the practice of virtue ('அறத்திற்கும்') in the land. Without a just ruler to maintain order and protect the people, neither spiritual wisdom nor moral conduct can survive or flourish. Thus, the rule of law is the prerequisite for all higher human pursuits.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -38,11 +38,11 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தான்",
+     "gloss": "their own"
     }
    ],
-   "gloss": "one's own"
+   "gloss": "their own"
   },
   {
    "surface": "குற்றம்",
@@ -61,15 +61,15 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "to see"
+     "gloss": "see"
     },
     {
      "text": "கிற்பின்",
      "lemma": "கில்",
-     "gloss": "if able"
+     "gloss": "if able to"
     }
    ],
-   "gloss": "if able to see"
+   "gloss": "if they are able to see"
   },
   {
    "surface": "தீது",
@@ -93,7 +93,7 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[question particle]"
+     "gloss": "interrogative particle"
     }
    ],
    "gloss": "is there?"
@@ -102,14 +102,9 @@
    "surface": "மன்னும்",
    "parts": [
     {
-     "text": "மன்",
-     "lemma": "மன்",
+     "text": "மன்னும்",
+     "lemma": "மன்னு",
      "gloss": "enduring"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "[adjectival suffix]"
     }
    ],
    "gloss": "enduring"
@@ -120,21 +115,21 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "soul"
     },
     {
-     "text": "க்கு",
+     "text": "கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the life"
+   "gloss": "to the soul"
   }
  ],
- "literal": "Strangers' fault like, one's own fault if able to see, evil is there [question] for enduring life?",
- "translation": "If people could see their own faults just as they see the faults of others, would any harm ever come to their enduring lives?",
- "modern": "மற்றவர்களுடைய குற்றத்தைப் பார்ப்பது போலத் தன்னுடைய குற்றத்தையும் ஒருவனால் பார்க்க முடியுமானால், நிலைபெற்ற இந்த உயிருக்கு ஏதேனும் துன்பம் வருமா?",
- "explanation": "This couplet highlights the common human tendency to easily spot the flaws in others while ignoring one's own. It asks a rhetorical question: if a person develops the ability to examine their own faults as critically as they do a stranger's, could any evil befall them? The word 'காண்கிற்பின்' emphasizes the rare ability and effort required to truly see oneself. By turning the critical eye inward, a person avoids the harm that comes from ignorance and backbiting, ensuring a peaceful existence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If they are able to see their own fault like strangers' fault, is there evil to the enduring soul?",
+ "translation": "If people could look at their own faults in the same way they look at the faults of strangers, is there any harm that can ever come to their enduring lives?",
+ "modern": "அயலாரின் குற்றத்தைக் காண்பது போலத் தம்முடைய குற்றத்தையும் காண வல்லவரானால், நிலைபெற்று வாழும் உயிர்க்கு ஏதேனும் துன்பம் உண்டோ?",
+ "explanation": "This couplet addresses the human tendency to judge others while ignoring one's own flaws. The poet suggests that if we could examine our own faults with the same critical eye we use for strangers, we would naturally correct ourselves. By focusing on self-improvement rather than backbiting, we protect ourselves from harm. Consequently, no evil can ever affect a life that is guided by such self-awareness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

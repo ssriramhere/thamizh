@@ -20,12 +20,17 @@
    "surface": "யானைப்",
    "parts": [
     {
-     "text": "யானைப்",
+     "text": "யானை",
      "lemma": "யானை",
      "gloss": "elephant"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "elephant"
+   "gloss": "elephant's"
   },
   {
    "surface": "போர்",
@@ -33,34 +38,44 @@
     {
      "text": "போர்",
      "lemma": "போர்",
-     "gloss": "battle"
+     "gloss": "fight"
     }
    ],
-   "gloss": "battle"
+   "gloss": "fight"
   },
   {
    "surface": "கண்டற்றால்",
    "parts": [
     {
-     "text": "கண்டற்றால்",
+     "text": "கண்டு",
      "lemma": "காண்",
-     "gloss": "it is like seeing"
+     "gloss": "having seen"
+    },
+    {
+     "text": "அற்று",
+     "lemma": "அற்று",
+     "gloss": "like"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "indeed"
     }
    ],
-   "gloss": "it is like seeing"
+   "gloss": "is like watching"
   },
   {
    "surface": "தன்கைத்தொன்று",
    "parts": [
     {
      "text": "தன்",
-     "lemma": "தான்",
+     "lemma": "தன்",
      "gloss": "one's own"
     },
     {
      "text": "கைத்து",
      "lemma": "கைத்து",
-     "gloss": "property in hand"
+     "gloss": "wealth in hand"
     },
     {
      "text": "ஒன்று",
@@ -68,34 +83,44 @@
      "gloss": "something"
     }
    ],
-   "gloss": "having one's own property"
+   "gloss": "with something of one's own in hand"
   },
   {
    "surface": "உண்டாக",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உண்டு",
+     "lemma": "உள்",
      "gloss": "existing"
     },
     {
      "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "to become"
+     "gloss": "to be"
     }
    ],
-   "gloss": "being present"
+   "gloss": "having"
   },
   {
    "surface": "செய்வான்",
    "parts": [
     {
-     "text": "செய்வான்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "he who does"
+     "gloss": "do"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "அன்",
+     "gloss": "he"
     }
    ],
-   "gloss": "he who does"
+   "gloss": "he who performs"
   },
   {
    "surface": "வினை",
@@ -109,10 +134,10 @@
    "gloss": "action"
   }
  ],
- "literal": "Hill having climbed elephant battle like seeing, one's own hand something to be he who does action.",
- "translation": "Undertaking a venture with one's own wealth in hand is like safely watching an elephant battle from a hilltop.",
- "modern": "தன் கையில் சொந்தப் பொருள் இருக்க ஒரு செயலைத் தொடங்குவது, ஒருவன் பாதுகாப்பான குன்றின் மேல் ஏறி நின்று யானைப் போரை வேடிக்கை பார்ப்பதைப் போன்றது.",
- "explanation": "This couplet emphasizes the importance of financial independence when undertaking a project. Just as a person standing on a high hill can safely watch a fierce battle between elephants without fear of getting trampled, a person who uses their own wealth to fund an enterprise can execute it with confidence. Relying on one's own resources removes the anxiety and risks associated with depending on others.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having climbed a hill, watching an elephant fight is like, one's own hand-wealth something having, he who performs action.",
+ "translation": "Undertaking a task with one's own wealth in hand is like watching an elephant fight from the safety of a hilltop.",
+ "modern": "தன் கையில் சொந்தப் பொருள் இருக்க ஒருவன் ஒரு செயலைச் செய்வது, குன்றின் மேல் ஏறி நின்று யானைச் சண்டையைக் காண்பது போன்றது.",
+ "explanation": "This couplet highlights the security and confidence that comes from undertaking an enterprise with one's own capital. The poet compares this to watching an elephant fight from the safety of a hilltop ('kunṟēṟi'). Just as a spectator on a hill is completely safe from the dangers of the rampaging beasts below, a person who starts a task with their own secure funds ('taṉkaittoṉṟu uṇṭāka') is protected from the risks and anxieties of dependency. The vivid analogy emphasizes that self-reliance ensures both safety and success in any venture.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

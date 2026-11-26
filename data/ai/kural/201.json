@@ -11,10 +11,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those of evil deeds"
+   "gloss": "those who commit evil deeds"
   },
   {
    "surface": "அஞ்சார்",
@@ -27,10 +27,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they will not"
+     "gloss": "they (negative suffix)"
     }
    ],
-   "gloss": "they fear not"
+   "gloss": "they do not fear"
   },
   {
    "surface": "விழுமியார்",
@@ -38,15 +38,15 @@
     {
      "text": "விழுமி",
      "lemma": "விழுமி",
-     "gloss": "excellent"
+     "gloss": "noble/excellent"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "the excellent ones"
+   "gloss": "noble people"
   },
   {
    "surface": "அஞ்சுவர்",
@@ -57,17 +57,12 @@
      "gloss": "fear"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "உவர்",
+     "lemma": "உவர்",
+     "gloss": "they (habitual suffix)"
     }
    ],
-   "gloss": "they will fear"
+   "gloss": "they fear"
   },
   {
    "surface": "தீவினை",
@@ -91,12 +86,12 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "say"
+     "gloss": "say/call"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "which is"
+     "gloss": "adjectival participle suffix"
     }
    ],
    "gloss": "which is called"
@@ -107,16 +102,16 @@
     {
      "text": "செருக்கு",
      "lemma": "செருக்கு",
-     "gloss": "arrogance"
+     "gloss": "arrogance/delusion"
     }
    ],
-   "gloss": "arrogance"
+   "gloss": "arrogance/delusion"
   }
  ],
- "literal": "Those of evil deeds fear not; the excellent ones will fear the arrogance called evil deed.",
- "translation": "Those accustomed to evil do not fear it, but the noble deeply fear the arrogance of committing evil deeds.",
- "modern": "தீய செயல்களைச் செய்பவர்கள் தீவினை என்னும் செருக்கைக் கண்டு அஞ்ச மாட்டார்கள். ஆனால் சிறந்த பண்புடையவர்கள் அதற்கு அஞ்சுவார்கள்.",
- "explanation": "The couplet contrasts the attitudes of two types of people towards wrongdoing. Those who already commit evil deeds do not fear the arrogance and destructive pride that comes with doing evil. In contrast, noble and excellent people deeply fear this arrogance, knowing its harmful consequences. The word 'cerukku' (arrogance or infatuation) highlights that evil is not just an action, but a blinding pride that the wise actively avoid.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those of evil deeds do not fear; noble people fear the delusion called evil deed.",
+ "translation": "Those who habitually commit evil do not fear it, but noble people dread the delusion of committing an evil deed.",
+ "modern": "தீய செயல்களைச் செய்பவர்கள் அதற்கு அஞ்சமாட்டார்கள்; ஆனால் மேன்மையானவர்கள் தீவினை என்று சொல்லப்படும் செருக்கிற்கு (மன மயக்கத்திற்கு) அஞ்சுவார்கள்.",
+ "explanation": "This couplet contrasts how different people view harmful actions. Those who are already accustomed to doing wrong do not fear the consequences of their actions. In contrast, noble and virtuous people dread even the arrogant delusion ('cerukku') that makes one think they can commit an evil deed and escape its effects. The poet uses 'cerukku' to highlight that committing evil stems from a false sense of pride and mental blindness, which the wise carefully avoid.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

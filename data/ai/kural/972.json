@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "ஒக்கும்",
-     "lemma": "ஒ",
-     "gloss": "is alike"
+     "lemma": "ஒப்பு",
+     "gloss": "is equal"
     }
    ],
-   "gloss": "is alike"
+   "gloss": "is equal"
   },
   {
    "surface": "எல்லா",
@@ -42,17 +42,17 @@
      "gloss": "life"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive"
+     "gloss": "and"
     }
    ],
-   "gloss": "to all lives"
+   "gloss": "to all living beings"
   },
   {
    "surface": "சிறப்பு",
@@ -60,21 +60,21 @@
     {
      "text": "சிறப்பு",
      "lemma": "சிறப்பு",
-     "gloss": "greatness"
+     "gloss": "distinction"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "distinction"
   },
   {
    "surface": "ஒவ்வா",
    "parts": [
     {
      "text": "ஒவ்வா",
-     "lemma": "ஒ",
-     "gloss": "are not alike"
+     "lemma": "ஒப்பு",
+     "gloss": "are not equal"
     }
    ],
-   "gloss": "are not alike"
+   "gloss": "are not equal"
   },
   {
    "surface": "செய்",
@@ -82,10 +82,10 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "doing"
+     "gloss": "do"
     }
    ],
-   "gloss": "doing"
+   "gloss": "done"
   },
   {
    "surface": "தொழில்",
@@ -96,7 +96,7 @@
      "gloss": "deed"
     }
    ],
-   "gloss": "deed"
+   "gloss": "deeds"
   },
   {
    "surface": "வேற்றுமையான்",
@@ -109,16 +109,16 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "because of"
     }
    ],
-   "gloss": "by the difference"
+   "gloss": "because of the differences"
   }
  ],
- "literal": "Birth is alike to all lives; greatness is not alike, by the difference of doing deeds.",
- "translation": "Birth is the same for all living beings, but their greatness is not equal, due to the differences in the deeds they do.",
- "modern": "பிறப்பால் எல்லா உயிர்களும் சமமே. ஆனால் அவர்கள் செய்யும் செயல்களின் வேறுபாட்டால் அவர்களின் சிறப்புகள் சமமாக இருக்காது.",
- "explanation": "This couplet establishes a fundamental equality among all living beings at the moment of birth. The word 'piṟappu' (birth) is paired with 'okkum' (is alike), stating that no one is born inherently superior. However, 'ciṟappu' (greatness or distinction) does not remain equal ('ovvā'). This distinction arises solely through 'cey toḻil vēṟṟumaiyān', meaning the differences in the actions or work that individuals choose to do. Thus, true greatness is earned through one's deeds, not inherited by birth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Birth is equal to all living beings; distinction is not alike because of the differences in deeds done.",
+ "translation": "All living beings are equal by birth; their distinctions arise only from the differences in the deeds they perform.",
+ "modern": "எல்லா உயிர்களுக்கும் பிறப்பு என்பது சமமானது; ஆனால் அவர்கள் செய்யும் செயல்களின் வேறுபாடுகளால் அவர்களுக்குரிய சிறப்புகள் சமமாவதில்லை.",
+ "explanation": "This couplet establishes the fundamental equality of all living beings at the moment of birth. While birth is a common, equalizing factor for everyone, true greatness or distinction is not inherent or predetermined. Instead, individuals are distinguished solely by the quality and nature of the actions they perform throughout their lives. Thus, one's worth is defined by their deeds, not by their birth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

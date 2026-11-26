@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "கல்லாதவர்",
-     "lemma": "கல்",
+     "lemma": "கல்லாதவர்",
      "gloss": "unlearned people"
     },
     {
@@ -14,7 +14,7 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than the unlearned"
+   "gloss": "than those who have not learned"
   },
   {
    "surface": "கடை",
@@ -25,7 +25,7 @@
      "gloss": "lowest"
     }
    ],
-   "gloss": "lowest"
+   "gloss": "the lowest"
   },
   {
    "surface": "என்ப",
@@ -60,21 +60,21 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even having known"
+   "gloss": "even though knowing"
   },
   {
    "surface": "நல்லார்",
    "parts": [
     {
      "text": "நல்லார்",
-     "lemma": "நல்",
+     "lemma": "நல்லார்",
      "gloss": "good people"
     }
    ],
-   "gloss": "good people"
+   "gloss": "of the good"
   },
   {
    "surface": "அவை",
@@ -99,10 +99,10 @@
    "gloss": "those who fear"
   }
  ],
- "literal": "Than the unlearned, the lowest, they say, having learned and even having known, the good people's assembly those who fear.",
- "translation": "They say that those who have learned and understood much, yet fear the assembly of the good, are lower than the unlearned.",
- "modern": "நூல்களைக் கற்றும் அவற்றின் பொருளை அறிந்தும், நல்லவர்களின் அவைக்குப் பேச அஞ்சுபவர்கள், படிக்காதவர்களை விடக் கீழானவர்கள் என்று அறிஞர்கள் கூறுவார்கள்.",
- "explanation": "This couplet highlights the futility of knowledge without the courage to share it. The phrase 'கற்று அறிந்தும்' shows that the person has both acquired and deeply understood their learning. Yet, if they fear ('அஞ்சுவார்') speaking in the assembly of good and wise people ('நல்லார் அவை'), their education serves no purpose. Consequently, they are judged to be even lower ('கடை') than those who have never learned at all ('கல்லாதவரின்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than those who have not learned, the lowest, they say, [are those who] having learned and known, fear the assembly of the good.",
+ "translation": "They say that those who fear to face an assembly of the wise, even though they have studied and acquired knowledge, are worse than the unlearned.",
+ "modern": "கற்றுக்கொண்டு எல்லாவற்றையும் அறிந்திருந்தாலும், நல்லவர்களுடைய அவைக்கு அஞ்சுபவர்களை, கல்லாதவர்களை விடக் கடைசியானவர்கள் என்று கூறுவர்.",
+ "explanation": "This couplet highlights the futility of education without the courage to speak before an audience. The author states that people who have studied deeply and acquired vast knowledge, yet tremble with fear when facing an assembly of wise and good people, are considered inferior even to those who are completely uneducated. The key words 'கற்று அறிந்தும்' (even though having learned and known) contrast sharply with 'கல்லாதவரின் கடை' (lower than the unlearned), emphasizing that knowledge is useless if it cannot be expressed confidently in public. The term 'நல்லார் அவை' refers to an assembly of noble or learned people, which is the ultimate testing ground for one's learning.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

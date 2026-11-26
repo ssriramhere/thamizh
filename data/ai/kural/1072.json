@@ -6,22 +6,22 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "goodness"
     }
    ],
-   "gloss": "good"
+   "gloss": "goodness"
   },
   {
    "surface": "அறிவாரின்",
    "parts": [
     {
      "text": "அறிவார்",
-     "lemma": "அறிவார்",
+     "lemma": "அறி",
      "gloss": "those who know"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "than"
     }
    ],
@@ -54,8 +54,8 @@
    "parts": [
     {
      "text": "உடையர்",
-     "lemma": "உடையர்",
-     "gloss": "possessors"
+     "lemma": "உடைமை",
+     "gloss": "possessors of"
     }
    ],
    "gloss": "they possess"
@@ -65,12 +65,11 @@
    "parts": [
     {
      "text": "நெஞ்சத்து",
-     "lemma": "நெஞ்சத்து",
+     "lemma": "நெஞ்சம்",
      "gloss": "in the heart"
     }
    ],
-   "gloss": "in the heart",
-   "split_unverified": true
+   "gloss": "in their heart"
   },
   {
    "surface": "அவலம்",
@@ -88,17 +87,17 @@
    "parts": [
     {
      "text": "இலர்",
-     "lemma": "இலர்",
-     "gloss": "they are without"
+     "lemma": "இல்",
+     "gloss": "they do not have"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "they do not have"
   }
  ],
- "literal": "Good than those who know, base people fortune they possess; in the heart sorrow they are without.",
- "translation": "The base are more fortunate than those who know what is good, for they have no sorrow in their hearts.",
- "modern": "நன்மை எது என்று அறிந்து செயல்படுபவர்களை விட கயவர்கள் பாக்கியசாலிகள்; ஏனென்றால் அவர்கள் மனதில் எந்தக் கவலையும் இருப்பதில்லை.",
- "explanation": "This couplet uses sharp irony to describe the nature of base people. It claims that the mean-spirited are luckier than the wise who know what is good. While good people constantly worry about doing the right thing and feel sorrow for the suffering of others, the base have no such moral anxiety. Because they lack a conscience, their hearts are completely free from distress.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than those who know goodness, base people possess fortune; they do not have sorrow in their heart.",
+ "translation": "Base people are more fortunate than those who know what is good, for they have no worries or anxieties in their hearts.",
+ "modern": "நன்மையை அறிந்து நடப்பவர்களை விடக் கீழ்மக்கள் பேறு பெற்றவர்கள்; ஏனெனில் அவர்கள் தங்கள் நெஞ்சத்தில் எந்தக் கவலையும் இல்லாதவர்கள்.",
+ "explanation": "This couplet uses irony to contrast those who strive to live virtuously with base individuals. People who understand goodness and moral duty are often burdened by empathy and the anxiety of doing the right thing. In contrast, base people are described as fortunate because they completely lack a conscience. Since they do not care about right or wrong, they are entirely free from mental worry and sorrow in their hearts.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

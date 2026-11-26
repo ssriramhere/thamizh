@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "போன்று",
-     "lemma": "போலுதல்",
+     "lemma": "போல்",
      "gloss": "resembling"
     }
    ],
@@ -37,14 +37,9 @@
    "surface": "அல்லார்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லார்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who are not"
     }
    ],
    "gloss": "those who are not"
@@ -87,7 +82,7 @@
    "parts": [
     {
      "text": "போல",
-     "lemma": "போலுதல்",
+     "lemma": "போல்",
      "gloss": "like"
     }
    ],
@@ -108,23 +103,18 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
-     "lemma": "படுதல்",
-     "gloss": "to become"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "text": "படும்",
+     "lemma": "படு",
+     "gloss": "will become"
     }
    ],
    "gloss": "will become"
   }
  ],
- "literal": "Kin resembling, kin those-who-are-not friendship, women mind like different will-become.",
- "translation": "The friendship of those who look like your own kind but are not will change, just like the minds of fickle women.",
- "modern": "தமக்கு நெருக்கமானவர்களைப் போல நடித்து உண்மையில் அன்பில்லாதவர்களின் நட்பு, நிலையற்ற மனமுடைய மகளிரின் மனம்போல அடிக்கடி மாறிக்கொண்டே இருக்கும்.",
- "explanation": "This couplet warns against false friends who pretend to be part of one's inner circle. The word 'இனம்' (inam) means one's own kind or kin, representing true, loyal friends. Those who only resemble true friends but are not will not remain loyal. Their friendship is compared to the minds of 'மகளிர்' (makaḷir, women)—which in this specific context implies women whose affections are fickle and transactional. Just as their minds constantly shift, the loyalty of false friends will change when it suits them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The friendship of those who resemble kin but are not kin, like the mind of women, will become different.",
+ "translation": "The friendship of those who pretend to be your kin but are not, will constantly shift and change like the minds of fickle women.",
+ "modern": "உறவினரைப் போல நடித்து, உண்மையில் உறவினர் அல்லாதவர்களின் நட்பு, பெண்களின் மனத்தைப் போல மாறிக்கொண்டே இருக்கும்.",
+ "explanation": "This couplet warns us about the unstable nature of false friends. The poet describes them as people who outwardly act like our own kin ('inam pōṉṟu') but are actually not ('inam allār'). Their friendship ('kēṇmai') is compared to the shifting minds of women ('makaḷir maṉam'), which are depicted here as changing easily. Just as those minds lack constancy, the affection of false friends will eventually alter and turn different ('vēṟupaṭum') when circumstances change.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

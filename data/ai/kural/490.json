@@ -16,22 +16,22 @@
    "parts": [
     {
      "text": "ஒக்க",
-     "lemma": "ஒ",
-     "gloss": "to resemble"
+     "lemma": "ஒத்தல்",
+     "gloss": "to be like"
     }
    ],
-   "gloss": "be like"
+   "gloss": "to be like"
   },
   {
    "surface": "கூம்பும்",
    "parts": [
     {
      "text": "கூம்பும்",
-     "lemma": "கூம்பு",
-     "gloss": "folding"
+     "lemma": "கூம்புதல்",
+     "gloss": "will fold or remain inactive"
     }
    ],
-   "gloss": "folding"
+   "gloss": "remaining inactive"
   },
   {
    "surface": "பருவத்து",
@@ -42,7 +42,7 @@
      "gloss": "at the time"
     }
    ],
-   "gloss": "at the time"
+   "gloss": "at the unfavorable time"
   },
   {
    "surface": "மற்று",
@@ -50,10 +50,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "then"
+     "gloss": "and then"
     }
    ],
-   "gloss": "then"
+   "gloss": "and then"
   },
   {
    "surface": "அதன்",
@@ -71,8 +71,8 @@
    "parts": [
     {
      "text": "குத்து",
-     "lemma": "குத்து",
-     "gloss": "strike"
+     "lemma": "குத்துதல்",
+     "gloss": "strike or peck"
     }
    ],
    "gloss": "strike"
@@ -82,22 +82,22 @@
    "parts": [
     {
      "text": "ஒக்க",
-     "lemma": "ஒ",
-     "gloss": "to resemble"
+     "lemma": "ஒத்தல்",
+     "gloss": "to match"
     }
    ],
-   "gloss": "be like"
+   "gloss": "to match"
   },
   {
    "surface": "சீர்த்த",
    "parts": [
     {
      "text": "சீர்த்த",
-     "lemma": "சீர்",
-     "gloss": "fitting"
+     "lemma": "சீர்த்தல்",
+     "gloss": "to become ripe or opportune"
     }
    ],
-   "gloss": "fitting"
+   "gloss": "opportune"
   },
   {
    "surface": "இடத்து",
@@ -105,16 +105,16 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "at the place"
+     "gloss": "at the place or time"
     }
    ],
-   "gloss": "at the place"
+   "gloss": "when the opportunity arises"
   }
  ],
- "literal": "Heron be-like folding time-at, then its strike be-like fitting place-at.",
- "translation": "During the time of waiting, be still like a heron with folded wings. When the fitting moment arrives, strike swiftly like its peck.",
- "modern": "காத்திருக்க வேண்டிய காலத்தில் கொக்கைப் போல அமைதியாக இருக்க வேண்டும். ஏற்ற காலம் வந்ததும், அந்தக் கொக்கு இரையைக் கொத்துவதைப் போல விரைவாகச் செயல்பட வேண்டும்.",
- "explanation": "This couplet uses the vivid image of a heron hunting to teach the strategy of timing. A heron stands perfectly still with its wings folded (கூம்பும்) while waiting for prey, showing immense patience. When the right moment comes, it strikes with lightning speed (குத்து). Similarly, one must wait patiently without drawing attention when the time is not right, and act decisively and swiftly when the opportune moment arrives.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a heron, remain folded at the (unfavorable) time; and then, like its strike, (act) when the opportune time arises.",
+ "translation": "One should remain inactive like a resting heron when the time is unfavorable, but strike with swift precision like that heron the moment the right opportunity arises.",
+ "modern": "காலம் சாதகமாக இல்லாதபோது கொக்கைப் போல ஒடுங்கி இருக்க வேண்டும்; காலம் வாய்க்கும்போது அதன் குத்துப்போலத் தப்பாமல் விரைந்து செய்து முடிக்க வேண்டும்.",
+ "explanation": "This couplet uses the vivid metaphor of a hunting heron to teach the art of timing. A heron stands perfectly still, folding its wings and appearing completely harmless while waiting for prey. Similarly, a wise person must bide their time patiently and keep a low profile when circumstances are unfavorable. However, the moment the right opportunity presents itself, the heron strikes with lightning speed and absolute precision. In the same way, one must act decisively and without hesitation when the perfect moment arrives.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

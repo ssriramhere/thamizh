@@ -26,9 +26,19 @@
    "surface": "நெஞ்சினார்க்கு",
    "parts": [
     {
-     "text": "நெஞ்சினார்",
-     "lemma": "நெஞ்சம்",
-     "gloss": "those with hearts"
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "heart"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "those who have"
     },
     {
      "text": "க்கு",
@@ -36,7 +46,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to those with hearts"
+   "gloss": "to those who have a heart"
   },
   {
    "surface": "இல்லை",
@@ -44,7 +54,7 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
    "gloss": "there is not"
@@ -105,10 +115,10 @@
    "gloss": "entering"
   }
  ],
- "literal": "Compassion joined to those with hearts there is not darkness joined painful world entering.",
- "translation": "Those whose hearts are joined with compassion will never enter the painful world of darkness.",
- "modern": "அருள் பொருந்திய நெஞ்சத்தை உடையவர்களுக்கு இருள் சூழ்ந்த துன்ப உலகத்தில் நுழையும் நிலை இல்லை.",
- "explanation": "This couplet contrasts two states of being: a heart filled with compassion and a world filled with dark suffering. The word 'சேர்ந்த' (joined) is used twice to emphasize this contrast. Those who have joined their hearts with compassion are protected from joining or entering the dark, painful world. The 'dark world' represents a state of ignorance and suffering that naturally follows a lack of empathy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who have a heart joined with compassion, there is no entering into the painful world joined with darkness.",
+ "translation": "For those whose hearts are filled with compassion, there is no entry into the sorrowful world of darkness.",
+ "modern": "அருள் நிறைந்த நெஞ்சத்தை உடையவர்களுக்கு, இருள் சூழ்ந்த துன்ப உலகத்தில் நுழைதல் என்பது இல்லை.",
+ "explanation": "This couplet emphasizes the protective nature of compassion (அருள்). The author explains that those who possess a heart filled with grace and kindness will never have to experience the dark, painful world of misery. Here, 'darkness' (இருள்) represents ignorance and confusion, while the 'painful world' (இன்னா உலகம்) refers to a state of suffering. By cultivating compassion, a person is naturally shielded from entering these dark states of existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

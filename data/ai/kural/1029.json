@@ -4,17 +4,22 @@
    "surface": "இடும்பைக்கே",
    "parts": [
     {
-     "text": "இடும்பைக்கு",
+     "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "suffering (dative)"
+     "gloss": "affliction"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to (dative)"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "only for suffering"
+   "gloss": "indeed for affliction"
   },
   {
    "surface": "கொள்கலம்",
@@ -22,7 +27,7 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "to hold"
+     "gloss": "receive"
     },
     {
      "text": "கலம்",
@@ -30,7 +35,7 @@
      "gloss": "vessel"
     }
    ],
-   "gloss": "receptacle"
+   "gloss": "receptacle or vessel"
   },
   {
    "surface": "கொல்லோ",
@@ -38,31 +43,27 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed (particle)"
+     "gloss": "particle of doubt"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "doubt/pity (particle)"
+     "gloss": "clitic of wonder"
     }
    ],
-   "gloss": "alas"
+   "gloss": "is it indeed?"
   },
   {
    "surface": "குடும்பத்தை",
    "parts": [
     {
-     "text": "குடும்பத்து",
-     "lemma": "குடும்பம்",
-     "gloss": "family (oblique)"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "text": "குடும்பத்தை",
+     "lemma": "குடும்பத்தை",
+     "gloss": "the family"
     }
    ],
-   "gloss": "family (accusative)"
+   "gloss": "the family",
+   "split_unverified": true
   },
   {
    "surface": "குற்ற",
@@ -70,21 +71,26 @@
     {
      "text": "குற்ற",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "faults"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults or defects"
   },
   {
    "surface": "மறைப்பான்",
    "parts": [
     {
-     "text": "மறைப்பான்",
+     "text": "மறை",
      "lemma": "மறை",
-     "gloss": "he who shields"
+     "gloss": "shield or ward off"
+    },
+    {
+     "text": "ப்பான்",
+     "lemma": "ப்பான்",
+     "gloss": "he who does"
     }
    ],
-   "gloss": "he who shields"
+   "gloss": "of him who shields"
   },
   {
    "surface": "உடம்பு",
@@ -95,13 +101,13 @@
      "gloss": "body"
     }
    ],
-   "gloss": "body"
+   "gloss": "the body"
   }
  ],
- "literal": "Only for suffering / receptacle / alas / family (acc.) / fault / he who shields / body.",
- "translation": "Is the body of the man who shields his family from faults merely a receptacle for suffering?",
- "modern": "தன் குடும்பத்திற்குக் குற்றம் வராமல் காப்பவனின் உடம்பு, துன்பத்தை மட்டுமே தாங்கும் கொள்கலமோ?",
- "explanation": "This couplet reflects on the immense burden borne by one who takes responsibility for their family. The word 'மறைப்பான்' means one who shields or protects the family from faults, blame, or decline. The poet wonders with pity if such a person's body was created merely to be a vessel for endless suffering. It highlights the selfless, often painful sacrifices required to maintain a family's honor and well-being.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Is the body of him who shields his family from faults indeed a vessel for receiving affliction?",
+ "translation": "Is the body of a person who constantly shields their family from faults and ruin merely a vessel destined to hold suffering?",
+ "modern": "தன் குடும்பத்திற்கு வரும் குற்றங்களை நீக்கப் பாடுபடுபவனுடைய உடம்பு, துன்பங்களை மட்டுமே தாங்கும் ஒரு பாத்திரமோ?",
+ "explanation": "This couplet highlights the immense self-sacrifice of an individual who dedicates their life to protecting and uplifting their family. Such a person constantly faces hardships and struggles to shield their family from faults and ruin. The poet rhetorically asks if their very body is meant to be a vessel ('kolkalam') solely for containing suffering ('idumbai'), emphasizing that their life is defined by enduring pain for the sake of their family's honor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "அகர",
      "lemma": "அகரம்",
-     "gloss": "the letter A"
+     "gloss": "the letter 'A'"
     }
    ],
-   "gloss": "the letter A"
+   "gloss": "the letter 'A'"
   },
   {
    "surface": "முதல",
@@ -17,10 +17,10 @@
     {
      "text": "முதல",
      "lemma": "முதல்",
-     "gloss": "having as first"
+     "gloss": "having as beginning"
     }
    ],
-   "gloss": "having as first"
+   "gloss": "having as beginning"
   },
   {
    "surface": "எழுத்து",
@@ -28,10 +28,10 @@
     {
      "text": "எழுத்து",
      "lemma": "எழுத்து",
-     "gloss": "letter"
+     "gloss": "letters"
     }
    ],
-   "gloss": "letter"
+   "gloss": "letters"
   },
   {
    "surface": "எல்லாம்",
@@ -50,10 +50,10 @@
     {
      "text": "ஆதி",
      "lemma": "ஆதி",
-     "gloss": "primordial"
+     "gloss": "primordial / source"
     }
    ],
-   "gloss": "primordial"
+   "gloss": "primordial / source"
   },
   {
    "surface": "பகவன்",
@@ -61,26 +61,31 @@
     {
      "text": "பகவன்",
      "lemma": "பகவன்",
-     "gloss": "God"
+     "gloss": "the Divine / Lord"
     }
    ],
-   "gloss": "God"
+   "gloss": "the Divine / Lord"
   },
   {
    "surface": "முதற்றே",
    "parts": [
     {
-     "text": "முதற்று",
+     "text": "முதல்",
      "lemma": "முதல்",
-     "gloss": "having as first"
+     "gloss": "beginning"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it-suffix"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "has as first indeed"
+   "gloss": "has indeed as its beginning"
   },
   {
    "surface": "உலகு",
@@ -88,16 +93,16 @@
     {
      "text": "உலகு",
      "lemma": "உலகு",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "The letter A having as first letters all; primordial God having as first indeed the world.",
- "translation": "All letters have the letter A as their beginning. The world has the primordial God as its beginning.",
- "modern": "எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாகக் கொண்டுள்ளன. அதுபோல, இந்த உலகம் ஆதி பகவனை அடிப்படையாகக் கொண்டுள்ளது.",
- "explanation": "This couplet establishes the foundational nature of the divine by comparing it to language. Just as the vowel 'A' (அகரம்) is the first sound and the basis for all other letters in the Tamil alphabet, the primordial God (ஆதி பகவன்) is the origin and sustaining principle of the entire world. The word 'முதல்' (first or beginning) is used twice to emphasize this structural parallel between the alphabet and the universe.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The letter 'A' having as beginning letters all, the primordial Divine having as beginning indeed the world.",
+ "translation": "As all letters have the letter 'A' as their starting point, so the world has the primordial Divine as its beginning.",
+ "modern": "எழுத்துக்கள் எல்லாம் அகரத்தை முதலாகக் கொண்டுள்ளன; அதுபோல, இந்த உலகம் ஆதி பகவானை முதலாகக் கொண்டுள்ளது.",
+ "explanation": "This opening couplet of the Tirukkuṟaḷ establishes a profound analogy between language and existence. Just as the sound 'A' (அகர) is the fundamental, inherent starting point of all written and spoken letters (எழுத்து எல்லாம்), the primordial Divine (ஆதி பகவன்) is the source and origin of the entire universe (உலகு). The word 'முதற்றே' uses an emphatic suffix to stress that the world's existence is absolutely dependent on this primary source, just as speech depends on its first sound.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

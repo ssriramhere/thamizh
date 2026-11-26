@@ -4,12 +4,17 @@
    "surface": "பழகிய",
    "parts": [
     {
-     "text": "பழகிய",
+     "text": "பழகு",
      "lemma": "பழகு",
-     "gloss": "familiar"
+     "gloss": "to become familiar"
+    },
+    {
+     "text": "இய",
+     "lemma": "இய",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "familiar"
+   "gloss": "long-standing"
   },
   {
    "surface": "நட்பு",
@@ -28,10 +33,10 @@
     {
      "text": "எவன்",
      "lemma": "எவன்",
-     "gloss": "what"
+     "gloss": "what or of what use"
     }
    ],
-   "gloss": "what"
+   "gloss": "of what use"
   },
   {
    "surface": "செய்யும்",
@@ -50,10 +55,10 @@
     {
      "text": "கெழுதகைமை",
      "lemma": "கெழுதகைமை",
-     "gloss": "intimacy"
+     "gloss": "intimate freedom"
     }
    ],
-   "gloss": "intimacy"
+   "gloss": "intimate freedom"
   },
   {
    "surface": "செய்து",
@@ -64,7 +69,7 @@
      "gloss": "having done"
     }
    ],
-   "gloss": "having done"
+   "gloss": "acting"
   },
   {
    "surface": "ஆங்கு",
@@ -72,10 +77,10 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "in that way"
+     "gloss": "in that manner"
     }
    ],
-   "gloss": "in that way"
+   "gloss": "accordingly"
   },
   {
    "surface": "அமையா",
@@ -83,7 +88,7 @@
     {
      "text": "அமையா",
      "lemma": "அமை",
-     "gloss": "not accepting"
+     "gloss": "not agreeing or not accepting"
     }
    ],
    "gloss": "not accepting"
@@ -94,16 +99,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "if"
+     "gloss": "when or if"
     }
    ],
-   "gloss": "if"
+   "gloss": "when"
   }
  ],
- "literal": "familiar friendship what will do intimacy having done in that way not accepting if",
- "translation": "What is the use of a long-standing friendship if one does not accept the liberties taken by a friend?",
- "modern": "நண்பர்கள் உரிமையோடு செய்யும் செயல்களை அப்படியே ஏற்றுக்கொள்ளாவிட்டால் நெடுங்காலமாகப் பழகிய நட்பினால் என்ன பயன்?",
- "explanation": "This couplet questions the value of an old friendship if friends cannot tolerate the liberties taken by each other. The phrase kezhutakaimai refers to the intimate right to act freely without asking permission. If a friend acts with such intimacy and the other does not accept it gracefully, the long-standing bond loses its meaning. True friendship requires embracing the actions done out of deep familiarity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Of what use will a long-standing friendship be, if one does not accept when a friend acts with intimate freedom accordingly?",
+ "translation": "Of what use is a long-standing friendship if one cannot graciously accept and accommodate a friend's actions done with the freedom of intimacy?",
+ "modern": "நண்பர்கள் உரிமை எடுத்துக்கொண்டு செய்யும் செயல்களை அப்படியே ஏற்றுக்கொண்டு உடன்படாதபோது, பழமையான நட்பினால் என்ன பயன் விளையும்?",
+ "explanation": "This couplet defines the core of long-standing friendship, which is the right to act with intimate freedom (keḻutakaimai) without fear of offending. If a person cannot happily accept and accommodate their friend's actions when they take such liberties, the long-standing friendship loses its value. The word 'keḻutakaimai' denotes the privilege of intimacy where formal permission is unnecessary. True friendship is proven not by mere duration, but by the capacity to tolerate and welcome the free, unconstrained actions of a close friend.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

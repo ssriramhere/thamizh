@@ -6,17 +6,17 @@
     {
      "text": "அழிவு",
      "lemma": "அழிவு",
-     "gloss": "destruction"
+     "gloss": "defeat"
     }
    ],
-   "gloss": "destruction"
+   "gloss": "defeat"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
@@ -26,12 +26,17 @@
    "surface": "அறைபோகாது",
    "parts": [
     {
-     "text": "அறைபோகாது",
-     "lemma": "அறைபோ",
-     "gloss": "not being corrupted"
+     "text": "அறை",
+     "lemma": "அறை",
+     "gloss": "secret plot"
+    },
+    {
+     "text": "போகாது",
+     "lemma": "போதல்",
+     "gloss": "not succumbing to"
     }
    ],
-   "gloss": "not being corrupted"
+   "gloss": "not succumbing to betrayal or subversion"
   },
   {
    "surface": "ஆகி",
@@ -39,7 +44,7 @@
     {
      "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "having become"
+     "gloss": "being"
     }
    ],
    "gloss": "being"
@@ -64,18 +69,23 @@
      "gloss": "that came"
     }
    ],
-   "gloss": "that came"
+   "gloss": "that came down"
   },
   {
    "surface": "வன்கண்",
    "parts": [
     {
-     "text": "வன்கண்",
-     "lemma": "வன்கண்",
-     "gloss": "courage"
+     "text": "வன்",
+     "lemma": "வன்மை",
+     "gloss": "strong"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "determination"
     }
    ],
-   "gloss": "courage"
+   "gloss": "fortitude"
   },
   {
    "surface": "அதுவே",
@@ -102,13 +112,13 @@
      "gloss": "army"
     }
    ],
-   "gloss": "army"
+   "gloss": "an army"
   }
  ],
- "literal": "Without destruction, not being corrupted, being, the courage that came through lineage - that indeed is an army.",
- "translation": "A true army is one that suffers no ruin, cannot be corrupted, and possesses a hereditary tradition of fearless courage.",
- "modern": "அழிவில்லாமலும், பகைவரிடம் விலைபோகாமலும் இருந்து, பரம்பரையாக வந்த வீரத்தைக் கொண்டிருப்பதே உண்மையான படையாகும்.",
- "explanation": "This couplet defines the essential qualities of a great army. First, it must be resilient, facing no ruin or defeat. Second, it must be fiercely loyal, never allowing itself to be corrupted or secretly won over by the enemy. Finally, it must possess a deep-rooted, hereditary courage that has been passed down through generations. The word 'வன்கண்' can sometimes mean hard-heartedness, but in this military context, it specifically means fearless bravery.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without defeat, not succumbing to betrayal, being of traditional lineage, fortitude, that indeed is an army.",
+ "translation": "A true army is one that possesses traditional fortitude, remaining undefeated and immune to the enemy's subversion.",
+ "modern": "தோல்வி அடையாமலும், பகைவரின் சதிக்கு ஆளாகாமலும், பாரம்பரியமாகத் தொடர்ந்து வரும் மனவலிமையைக் கொண்டிருப்பதே உண்மையான படையாகும்.",
+ "explanation": "This couplet defines the essential qualities of a true army. It highlights that real military strength lies in 'vaṉkaṇ' (fortitude or valor) that has been passed down through generations of tradition ('vaḻivanta'). This courage must remain undefeated ('aḻiviṉṟi') in battle and must be completely resistant to the enemy's attempts at subversion or betrayal ('aṟaipōkātu'). The poet emphasizes that an army's true worth is determined by its historical resilience and unyielding loyalty rather than mere numbers.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

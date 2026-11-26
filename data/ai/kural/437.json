@@ -6,15 +6,15 @@
     {
      "text": "செயல்",
      "lemma": "செயல்",
-     "gloss": "doing"
+     "gloss": "doing or action"
     },
     {
      "text": "பால",
-     "lemma": "பால்",
-     "gloss": "things of the nature of"
+     "lemma": "பால",
+     "gloss": "those of the nature of"
     }
    ],
-   "gloss": "things that should be done"
+   "gloss": "things that ought to be done"
   },
   {
    "surface": "செய்யாது",
@@ -33,10 +33,10 @@
     {
      "text": "இவறியான்",
      "lemma": "இவறு",
-     "gloss": "he who hoards"
+     "gloss": "one who is miserly"
     }
    ],
-   "gloss": "of the miser"
+   "gloss": "he who is miserly"
   },
   {
    "surface": "செல்வம்",
@@ -55,15 +55,15 @@
     {
      "text": "உயல்",
      "lemma": "உயல்",
-     "gloss": "surviving"
+     "gloss": "escaping or surviving"
     },
     {
      "text": "பாலது",
-     "lemma": "பால்",
-     "gloss": "that which is of the nature of"
+     "lemma": "பாலது",
+     "gloss": "that of the nature of"
     }
    ],
-   "gloss": "that which has the nature of surviving"
+   "gloss": "that which is destined to survive"
   },
   {
    "surface": "அன்றி",
@@ -71,32 +71,27 @@
     {
      "text": "அன்றி",
      "lemma": "அல்",
-     "gloss": "without being"
+     "gloss": "not being so"
     }
    ],
-   "gloss": "without being"
+   "gloss": "not being so"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடு",
+     "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "perish"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will perish"
     }
    ],
    "gloss": "will perish"
   }
  ],
- "literal": "Things that should be done - without doing - of the miser - wealth - that which has the nature of surviving - without being - will perish.",
- "translation": "The wealth of a miser who hoards without doing what ought to be done will perish, having no chance of survival.",
- "modern": "செய்ய வேண்டிய நற்செயல்களைச் செய்யாமல் பொருளைச் சேர்த்து வைக்கும் கஞ்சனுடைய செல்வம், தப்பிப் பிழைக்கும் தன்மை இல்லாமல் அழிந்து போகும்.",
- "explanation": "This couplet warns against the vice of miserliness and the failure to perform one's duties. The word 'செயற்பால' refers to the necessary good deeds, such as charity or supporting one's dependents, for which wealth is meant. When a person hoards wealth ('இவறியான்') without fulfilling these obligations, that wealth is doomed. The phrase 'உயற்பாலது அன்றி' emphasizes that such hoarded wealth has absolutely no means of survival and will inevitably be lost.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The wealth of him who, without doing things that ought to be done, is miserly, without any way of surviving, will perish.",
+ "translation": "The wealth of a miserly person, who fails to perform the duties he ought to do, will surely perish without any chance of survival.",
+ "modern": "செய்ய வேண்டிய கடமைகளைச் செய்யாமல் கஞ்சத்தனமாக வாழ்பவனுடைய செல்வம், தப்பிப் பிழைக்கும் வழியின்றி அழிந்துவிடும்.",
+ "explanation": "This couplet warns against the twin vices of neglecting one's duties and hoarding wealth out of miserliness. The word 'செயற்பால' refers to actions or duties that are fit and necessary to be performed, such as charity or civic duties. 'இவறியான்' describes a miser who hoards wealth instead of spending it on these necessary duties. The poet states that the wealth of such a person has no way of escaping ('உயற்பாலது அன்றி') and is destined to be completely ruined ('கெடும்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

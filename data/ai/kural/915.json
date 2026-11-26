@@ -6,10 +6,11 @@
     {
      "text": "பொதுநலத்தார்",
      "lemma": "பொதுநலத்தார்",
-     "gloss": "women of public charm"
+     "gloss": "women of common beauty (prostitutes)"
     }
    ],
-   "gloss": "women of public charm"
+   "gloss": "women of common beauty (prostitutes)",
+   "split_unverified": true
   },
   {
    "surface": "புன்னலம்",
@@ -17,10 +18,11 @@
     {
      "text": "புன்னலம்",
      "lemma": "புன்னலம்",
-     "gloss": "base charm"
+     "gloss": "lowly pleasure"
     }
    ],
-   "gloss": "base charm"
+   "gloss": "lowly pleasure",
+   "split_unverified": true
   },
   {
    "surface": "தோயார்",
@@ -28,7 +30,7 @@
     {
      "text": "தோய்",
      "lemma": "தோய்",
-     "gloss": "embrace"
+     "gloss": "touch"
     },
     {
      "text": "ஆர்",
@@ -36,46 +38,58 @@
      "gloss": "they will not"
     }
    ],
-   "gloss": "they will not embrace"
+   "gloss": "will not embrace"
   },
   {
    "surface": "மதிநலத்தின்",
    "parts": [
     {
      "text": "மதிநலத்தின்",
-     "lemma": "மதிநலம்",
-     "gloss": "by goodness of mind"
+     "lemma": "மதிநலத்தின்",
+     "gloss": "by the excellence of their intellect"
     }
    ],
-   "gloss": "by goodness of mind"
+   "gloss": "by the excellence of their intellect",
+   "split_unverified": true
   },
   {
    "surface": "மாண்ட",
    "parts": [
     {
      "text": "மாண்ட",
-     "lemma": "மாண்",
-     "gloss": "glorious"
+     "lemma": "மாண்ட",
+     "gloss": "excellent"
     }
    ],
-   "gloss": "glorious"
+   "gloss": "excellent",
+   "split_unverified": true
   },
   {
    "surface": "அறிவினவர்",
    "parts": [
     {
-     "text": "அறிவினவர்",
-     "lemma": "அறிவினவர்",
-     "gloss": "those of wisdom"
+     "text": "அறிவு",
+     "lemma": "அறிவு",
+     "gloss": "knowledge"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "of"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "those of wisdom"
+   "gloss": "those who possess wisdom"
   }
  ],
- "literal": "Women of public charm's / base charm / they will not embrace / by goodness of mind / glorious / those of wisdom.",
- "translation": "Those whose wisdom is made glorious by the goodness of their mind will not embrace the base charms of women who offer their charms to all.",
- "modern": "சிறந்த அறிவும் நல்ல மனமும் உடையவர்கள், பொருள் கொடுப்பவர் அனைவருக்கும் பொதுவான இன்பம் தரும் மகளிரின் அற்பமான இன்பத்தை நாட மாட்டார்கள்.",
- "explanation": "The couplet contrasts two kinds of 'goodness' or 'charm' (நலம்). The women offer a 'public charm' (பொதுநலம்) which the poet calls a 'base charm' (புன்னலம்). In contrast, the wise possess the 'goodness of mind' (மதிநலம்) which makes their wisdom glorious. Because their minds are elevated, they will not degrade themselves by seeking the cheap, transactional affection of prostitutes.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those of common beauty's lowly pleasure will not embrace, by the excellence of their intellect, those of glorious wisdom.",
+ "translation": "Those who possess glorious wisdom, arising from an excellent intellect, will not embrace the lowly pleasure offered by women of public beauty.",
+ "modern": "இயற்கையான அறிவு நுட்பத்தால் சிறந்த அறிவைப் பெற்றவர்கள், பொதுவான அழகை விற்கும் மகளிரின் இழிவான இன்பத்தைப் பொருந்த மாட்டார்கள்.",
+ "explanation": "This couplet warns against the company of public women, referred to here as 'potunalamttār' (those whose beauty is common or public). The poet explains that those who possess 'māṇṭa aṟiviṉavar' (glorious wisdom) which is sharpened by 'matinalam' (excellence of intellect) will never seek 'punnalam' (lowly or worthless pleasure). The word 'punnalam' combines 'pul' (lowly/worthless) and 'nalam' (pleasure/benefit) to describe the fleeting, commercial nature of such relationships. True wisdom guides a person to recognize the emptiness of such pursuits and avoid them entirely.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

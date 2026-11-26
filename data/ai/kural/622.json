@@ -9,7 +9,7 @@
      "gloss": "of a flood"
     }
    ],
-   "gloss": "of a flood"
+   "gloss": "flood-like"
   },
   {
    "surface": "அனைய",
@@ -17,10 +17,10 @@
     {
      "text": "அனைய",
      "lemma": "அனைய",
-     "gloss": "like"
+     "gloss": "resembling"
     }
    ],
-   "gloss": "like"
+   "gloss": "resembling"
   },
   {
    "surface": "இடும்பை",
@@ -28,10 +28,10 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "affliction"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "affliction"
   },
   {
    "surface": "அறிவுடையான்",
@@ -47,7 +47,7 @@
      "gloss": "he who possesses"
     }
    ],
-   "gloss": "wise man"
+   "gloss": "one who possesses wisdom"
   },
   {
    "surface": "உள்ளத்தின்",
@@ -55,38 +55,38 @@
     {
      "text": "உள்ளத்தின்",
      "lemma": "உள்ளம்",
-     "gloss": "by the mind"
+     "gloss": "within the mind"
     }
    ],
-   "gloss": "by the mind"
+   "gloss": "within the mind"
   },
   {
    "surface": "உள்ள",
    "parts": [
     {
      "text": "உள்ள",
-     "lemma": "உள்",
-     "gloss": "to think"
+     "lemma": "உள்ளுதல்",
+     "gloss": "as one contemplates"
     }
    ],
-   "gloss": "to think"
+   "gloss": "as one contemplates"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
      "text": "கெடும்",
-     "lemma": "கெடு",
+     "lemma": "கெடுதல்",
      "gloss": "will perish"
     }
    ],
    "gloss": "will perish"
   }
  ],
- "literal": "Of-flood like sorrow wisdom-possessor by-mind to-think will-perish.",
- "translation": "Sorrow that seems as vast as a flood will vanish the moment a wise man sizes it up in his mind.",
- "modern": "வெள்ளம் போலப் பெருகி வரும் துன்பமும், அறிவுடையவன் தன் உள்ளத்தால் அதன் தன்மையை நினைத்த அளவிலேயே அழிந்துவிடும்.",
- "explanation": "This couplet illustrates how a wise person handles overwhelming difficulties. Trouble may appear as vast and unstoppable as a flood. However, a person equipped with wisdom does not panic. The moment he calmly evaluates the situation in his mind, the seemingly insurmountable sorrow loses its power and perishes. The contrast between the massive physical flood and the simple mental act of thinking highlights the supreme power of a clear mind over external adversity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Flood-like resembling affliction, one who possesses wisdom, within the mind as he contemplates, will perish.",
+ "translation": "Afflictions as vast as a flood will perish the moment a wise person calmly contemplates them within their mind.",
+ "modern": "வெள்ளம் போன்ற பெரிய துன்பங்களும், அறிவுடையவன் தன் மனத்திற்குள் அவற்றை நினைத்து ஆராயும்போதே அழிந்துவிடும்.",
+ "explanation": "This couplet describes the power of wisdom in overcoming immense difficulties. The phrase 'வெள்ளத்து அனைய இடும்பை' compares overwhelming troubles to a vast, sweeping flood. However, for a wise person ('அறிவுடையான்'), these massive problems do not cause despair. Instead, as they calmly contemplate and analyze the situation within their mind ('உள்ளத்தின் உள்ள'), the power of the affliction vanishes ('கெடும்'). The couplet teaches that mental clarity and thoughtful reflection can dissolve even the most formidable challenges.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

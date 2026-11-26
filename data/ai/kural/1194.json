@@ -6,21 +6,26 @@
     {
      "text": "வீழ",
      "lemma": "வீழ்",
-     "gloss": "to-love"
+     "gloss": "to love"
     }
    ],
-   "gloss": "to love"
+   "gloss": "to be loved"
   },
   {
    "surface": "படுவார்",
    "parts": [
     {
-     "text": "படுவார்",
+     "text": "படு",
      "lemma": "படு",
-     "gloss": "they-who-experience"
+     "gloss": "to undergo"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they who experience"
+   "gloss": "those who are [loved]"
   },
   {
    "surface": "கெழீஇ",
@@ -28,21 +33,26 @@
     {
      "text": "கெழீஇ",
      "lemma": "கெழு",
-     "gloss": "affection"
+     "gloss": "to associate / to possess intimacy"
     }
    ],
-   "gloss": "affection"
+   "gloss": "having the fortune of intimacy"
   },
   {
    "surface": "இலர்",
    "parts": [
     {
-     "text": "இலர்",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "they-are-without"
+     "gloss": "not"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "they do not have"
   },
   {
    "surface": "தாம்",
@@ -50,21 +60,26 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "they-themselves"
+     "gloss": "themselves"
     }
    ],
-   "gloss": "they themselves"
+   "gloss": "themselves"
   },
   {
    "surface": "வீழ்வார்",
    "parts": [
     {
-     "text": "வீழ்வார்",
+     "text": "வீழ்",
      "lemma": "வீழ்",
-     "gloss": "they-who-love"
+     "gloss": "to love"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "those who love"
+   "gloss": "those whom they love"
   },
   {
    "surface": "வீழ",
@@ -72,10 +87,10 @@
     {
      "text": "வீழ",
      "lemma": "வீழ்",
-     "gloss": "to-love"
+     "gloss": "to love"
     }
    ],
-   "gloss": "to love"
+   "gloss": "to be loved"
   },
   {
    "surface": "படாஅர்",
@@ -83,10 +98,10 @@
     {
      "text": "படாஅர்",
      "lemma": "படு",
-     "gloss": "they-experience-not"
+     "gloss": "to undergo (negative)"
     }
    ],
-   "gloss": "they do not experience"
+   "gloss": "are not [loved]"
   },
   {
    "surface": "எனின்",
@@ -94,16 +109,16 @@
     {
      "text": "எனின்",
      "lemma": "என்",
-     "gloss": "if-said"
+     "gloss": "if"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "to-love they-who-experience affection they-are-without they-themselves they-who-love to-love they-experience-not if",
- "translation": "Even those who are loved by many are devoid of affection, if they are not loved in return by the one they love.",
- "modern": "தாம் விரும்பும் காதலரால் தாம் விரும்பப்படாவிட்டால், உலகத்தாரால் விரும்பப்படுபவர்களும் அன்பில்லாதவர்களே ஆவர்.",
- "explanation": "The speaker reflects on the deep pain of unreciprocated love. Even if a person is loved and admired by the whole world, that widespread admiration feels entirely empty if they are not loved back by the specific person they desire. The word 'கெழீஇ' (affection or union) highlights that true emotional fulfillment only comes from mutual love, making any other affection meaningless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who are loved have no close intimacy, if those whom they themselves love do not love them in return.",
+ "translation": "Those who are loved by others have no real happiness if the ones they themselves love do not love them in return.",
+ "modern": "தாம் விரும்புகின்றவர் தம்மை விரும்பவில்லை என்றால், பிறரால் விரும்பப்படும் பெருமையைப் பெற்றிருந்தாலும் அவர்கள் உண்மையான அன்பின் இன்பத்தைப் பெறாதவர்களே ஆவர்.",
+ "explanation": "This couplet describes the deep sorrow of unrequited love. The speaker points out that even if a person is highly desired or loved by others ('வீழப் படுவார்'), they do not possess the true blessing of mutual intimacy ('கெழீஇயிலர்') if the specific person they desire does not return that love ('தாம்வீழ்வார் வீழப் படாஅர் எனின்'). The word 'கெழீஇ' denotes a close, fortunate bond of affection, which remains empty ('இலர்') without reciprocity. True fulfillment in love is not about being loved in general, but about being loved by the one you love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -19,7 +19,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even than ambrosia"
+   "gloss": "even more than ambrosia"
   },
   {
    "surface": "ஆற்ற",
@@ -46,7 +46,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "sweet indeed"
+   "gloss": "is sweet indeed"
   },
   {
    "surface": "தம்",
@@ -54,10 +54,10 @@
     {
      "text": "தம்",
      "lemma": "தாம்",
-     "gloss": "one's own"
+     "gloss": "their own"
     }
    ],
-   "gloss": "one's own"
+   "gloss": "their own"
   },
   {
    "surface": "மக்கள்",
@@ -98,15 +98,20 @@
     {
      "text": "அளாவு",
      "lemma": "அளாவு",
-     "gloss": "mix"
+     "gloss": "to stir"
     },
     {
-     "text": "இய",
-     "lemma": "இய",
-     "gloss": "past relative participle"
+     "text": "இ",
+     "lemma": "இன்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "mixed"
+   "gloss": "stirred"
   },
   {
    "surface": "கூழ்",
@@ -114,16 +119,16 @@
     {
      "text": "கூழ்",
      "lemma": "கூழ்",
-     "gloss": "porridge"
+     "gloss": "gruel"
     }
    ],
-   "gloss": "porridge"
+   "gloss": "gruel"
   }
  ],
- "literal": "Even than ambrosia, exceedingly sweet indeed is one's own children's small hands mixed porridge.",
- "translation": "The simple porridge stirred by the tiny hands of one's own children is far sweeter than the nectar of the gods.",
- "modern": "தம்முடைய குழந்தைகளின் சிறிய கைகளால் பிசையப்பட்ட உணவு, அமிழ்தத்தை விட மிகவும் இனிமையானதாகும்.",
- "explanation": "This couplet captures the pure joy of parenthood through a simple, everyday image. It states that ordinary food becomes sweeter than the mythical nectar of the gods when it has been playfully mixed by the tiny hands of one's own children. The word 'அமிழ்து' represents the ultimate delicacy, yet it is surpassed by the emotional sweetness of a child's touch. The imagery of 'சிறுகை அளாவிய கூழ்' evokes the messy, endearing reality of feeding toddlers, highlighting how parental love transforms the mundane into the extraordinary.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even than ambrosia, exceedingly sweet indeed is their own children's small hand stirred gruel.",
+ "translation": "The simple gruel stirred by the tiny hands of one's own children is far sweeter than even the nectar of immortality.",
+ "modern": "தம்முடைய பிள்ளைகளின் சிறிய கைகளால் துழாவப்பட்ட கூழானது, தேவாமிர்தத்தை விட மிகவும் இனிமையானதாகும்.",
+ "explanation": "This couplet beautifully captures the joy of parenthood through a simple domestic image. It states that ordinary food or gruel (கூழ்) becomes sweeter than the legendary nectar of immortality (அமிழ்து) when it has been dabbled in by the tiny hands of one's own children. The word 'அளாவிய' suggests the messy, playful way a child mixes food with their hands. The poet uses the contrast between the grandest divine food ('அமிழ்து') and the simplest earthly food ('கூழ்') to show how parental love elevates the mundane into something sublime.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

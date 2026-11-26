@@ -20,18 +20,23 @@
      "gloss": "having examined"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having examined (repeated for emphasis)"
   },
   {
    "surface": "கொள்ளாதான்",
    "parts": [
     {
-     "text": "கொள்ளாதான்",
+     "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "he who does not take"
+     "gloss": "take"
+    },
+    {
+     "text": "ஆதான்",
+     "lemma": "ஆதான்",
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he who does not take"
+   "gloss": "he who does not accept"
   },
   {
    "surface": "கேண்மை",
@@ -55,7 +60,7 @@
     {
      "text": "முறை",
      "lemma": "முறை",
-     "gloss": "turn"
+     "gloss": "order"
     }
    ],
    "gloss": "in the end"
@@ -80,7 +85,7 @@
      "gloss": "dying"
     }
    ],
-   "gloss": "dying"
+   "gloss": "fatal"
   },
   {
    "surface": "துயரம்",
@@ -88,27 +93,27 @@
     {
      "text": "துயரம்",
      "lemma": "துயரம்",
-     "gloss": "sorrow"
+     "gloss": "grief"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "grief"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
      "text": "தரும்",
-     "lemma": "தா",
+     "lemma": "தரு",
      "gloss": "will give"
     }
    ],
    "gloss": "will give"
   }
  ],
- "literal": "Having examined, having examined, he who does not take - friendship, in the end, oneself dying sorrow will give.",
- "translation": "Forming a friendship without examining the person again and again will ultimately bring sorrow that leads to one's death.",
- "modern": "பலமுறை ஆராய்ந்து பார்க்காமல் ஒருவனுடன் கொள்ளும் நட்பு, முடிவில் தான் சாகும் அளவிற்கான துன்பத்தைத் தரும்.",
- "explanation": "This couplet warns against rushing into friendships without thorough and repeated evaluation. The repetition in 'ஆய்ந்து ஆய்ந்து' (examining again and again) emphasizes the need for continuous scrutiny before accepting someone as a friend. If one fails to do this, the resulting friendship will ultimately bring grief severe enough to cause one's own death.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having examined and examined, he who does not accept friendship, in the end, to himself, dying grief will give.",
+ "translation": "The friendship formed by one who does not repeatedly and thoroughly examine a person beforehand will, in the end, bring him grief that is fatal.",
+ "modern": "மீண்டும் மீண்டும் ஆராய்ந்து பார்த்து ஒருவருடன் நட்புக்கொள்ளாதவனுடைய நட்பு, இறுதியில் அவனுக்குச் சாகுமளவிற்குத் துன்பத்தைத் தரும்.",
+ "explanation": "This couplet emphasizes the critical importance of thoroughly testing a person's character before befriending them. The repetition of the word 'ayntu' (having examined) highlights that scrutiny must be continuous and rigorous, not a casual or one-time affair. If one enters into a friendship blindly without such careful investigation, that relationship will eventually bring immense, life-threatening sorrow. The word 'kaṭaimuṟai' indicates the ultimate, inevitable outcome of such carelessness, while 'cām tuyaram' vividly describes a grief so intense that it feels like death itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -20,7 +20,7 @@
      "gloss": "those who possess"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -33,10 +33,10 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that"
+     "gloss": "that itself"
     }
    ],
-   "gloss": "that"
+   "gloss": "that itself"
   },
   {
    "surface": "சாலும்",
@@ -44,10 +44,10 @@
     {
      "text": "சாலும்",
      "lemma": "சால்",
-     "gloss": "is enough"
+     "gloss": "is sufficient"
     }
    ],
-   "gloss": "is enough"
+   "gloss": "is sufficient"
   },
   {
    "surface": "ஒன்னார்",
@@ -66,20 +66,15 @@
     {
      "text": "வழுக்கு",
      "lemma": "வழுக்கு",
-     "gloss": "slip/failure"
+     "gloss": "failure"
     },
     {
-     "text": "ஆய்",
-     "lemma": "ஆ",
-     "gloss": "having become"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "ஆயும்",
+     "lemma": "ஆயும்",
+     "gloss": "even if it occurs"
     }
    ],
-   "gloss": "even if absent"
+   "gloss": "even if they fail to harm"
   },
   {
    "surface": "கேடு",
@@ -96,23 +91,18 @@
    "surface": "ஈன்பது",
    "parts": [
     {
-     "text": "ஈன்",
-     "lemma": "ஈன்",
-     "gloss": "yield"
-    },
-    {
-     "text": "பது",
-     "lemma": "பது",
-     "gloss": "that which"
+     "text": "ஈன்பது",
+     "lemma": "ஈனுதல்",
+     "gloss": "that which yields"
     }
    ],
    "gloss": "that which yields"
   }
  ],
- "literal": "Envy to those who possess, that is enough; enemies even if failing, ruin that which yields.",
- "translation": "For those who harbor envy, that alone is enough to destroy them. Even if they have no enemies to cause them harm, their own envy will bring about their ruin.",
- "modern": "பொறாமை குணம் கொண்டவர்களுக்கு அவர்களை அழிக்க அந்தப் பொறாமையே போதும். அவர்களுக்குத் தீங்கு செய்ய பகைவர்கள் தவறினாலும், அந்தப் பொறாமையே அவர்களுக்குக் கேட்டைத் தரும்.",
- "explanation": "This couplet emphasizes the self-destructive nature of envy. The word 'அழுக்காறு' refers to jealousy or envy, and the poet states that possessing it is sufficient to bring about one's own downfall. Even if external enemies fail to cause harm, the internal flaw of envy will inevitably yield ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who possess envy, that itself is sufficient; even if enemies fail to harm, it will yield ruin.",
+ "translation": "For those who harbor envy, that vice alone is sufficient to destroy them; even if their enemies fail to do them harm, envy itself will yield their ruin.",
+ "modern": "பொறாமை உடையவர்களுக்கு அந்தப் பொறாமை ஒன்றே போதுமானது; பகைவர்கள் தீங்கு செய்யத் தவறினாலும், அதுவே அவர்களுக்கு அழிவைத் தரும்.",
+ "explanation": "This couplet highlights the self-destructive power of envy. For a person who possesses envy (அழுக்காறு உடையார்), no external enemies are required to bring about their downfall. Even if their enemies fail (வழுக்காயும்) to inflict harm, the envy itself is entirely sufficient (சாலும்) to yield (ஈன்பது) complete ruin (கேடு). The poet emphasizes that envy acts as an internal foe, making external adversaries redundant in causing one's destruction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

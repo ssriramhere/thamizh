@@ -6,18 +6,23 @@
     {
      "text": "ஊக்கம்",
      "lemma": "ஊக்கம்",
-     "gloss": "energy"
+     "gloss": "determination"
     }
    ],
-   "gloss": "energy"
+   "gloss": "determination"
   },
   {
    "surface": "உடையான்",
    "parts": [
     {
-     "text": "உடையான்",
-     "lemma": "உடையான்",
-     "gloss": "he who possesses"
+     "text": "உடை",
+     "lemma": "உடைமை",
+     "gloss": "possession"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who has"
     }
    ],
    "gloss": "he who possesses"
@@ -28,10 +33,10 @@
     {
      "text": "ஒடுக்கம்",
      "lemma": "ஒடுக்கம்",
-     "gloss": "restraint"
+     "gloss": "withdrawal"
     }
    ],
-   "gloss": "restraint"
+   "gloss": "withdrawal or restraint"
   },
   {
    "surface": "பொரு",
@@ -39,7 +44,7 @@
     {
      "text": "பொரு",
      "lemma": "பொரு",
-     "gloss": "fighting"
+     "gloss": "fight"
     }
    ],
    "gloss": "fighting"
@@ -60,8 +65,8 @@
    "parts": [
     {
      "text": "தாக்கல்",
-     "lemma": "தாக்கு",
-     "gloss": "attacking"
+     "lemma": "தாக்குதல்",
+     "gloss": "striking"
     },
     {
      "text": "கு",
@@ -69,20 +74,20 @@
      "gloss": "for"
     }
    ],
-   "gloss": "for attacking"
+   "gloss": "for striking"
   },
   {
    "surface": "பேரும்",
    "parts": [
     {
      "text": "பேர்",
-     "lemma": "பெயர்",
+     "lemma": "பேர்தல்",
      "gloss": "retreat"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "which will"
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "retreating"
@@ -91,28 +96,18 @@
    "surface": "தகைத்து",
    "parts": [
     {
-     "text": "தகை",
-     "lemma": "தகை",
-     "gloss": "nature"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "it"
+     "text": "தகைத்து",
+     "lemma": "தகைமை",
+     "gloss": "is of the nature of"
     }
    ],
-   "gloss": "it has the nature"
+   "gloss": "is of the nature of"
   }
  ],
- "literal": "Energy possessor's restraint, fighting ram for attacking retreating nature it has.",
- "translation": "The restraint of an energetic man is like a fighting ram stepping back to strike.",
- "modern": "ஊக்கம் உடையவன் தகுந்த காலம் வரும்வரை அடங்கி இருப்பது, சண்டையிடும் ஆட்டுக்கடா தன் பகையைத் தாக்குவதற்காகப் பின்வாங்கும் தன்மையைப் போன்றது.",
- "explanation": "This couplet explains the strategic patience of an energetic person. The word 'ஒடுக்கம்' (restraint or shrinking back) describes how a capable person might temporarily hold back and wait for the right time. This is compared to a 'பொருதகர்' (fighting ram) which steps back ('பேரும்') not out of fear, but to gather momentum for a powerful attack ('தாக்கற்கு'). The imagery clearly distinguishes strategic delay from cowardice.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The withdrawal of him who has determination is of the nature of a fighting ram's retreating to strike.",
+ "translation": "The temporary retreat of a person of great determination is like the drawing back of a fighting ram to gather momentum for a powerful strike.",
+ "modern": "ஊக்கமுடைய ஒருவனின் அடக்கம் அல்லது பின்வாங்குதல், சண்டையிடும் ஆட்டுக்கடா தாக்குவதற்காகப் பின்வாங்கிப் பாயும் தன்மையைப் போன்றது.",
+ "explanation": "This couplet explains the strategic value of waiting and temporary withdrawal using a vivid natural image. A person of great determination does not rush into action prematurely; their quiet restraint or retreat is not a sign of weakness or fear. Instead, it is compared to a fighting ram that steps back only to gain the momentum needed for a forceful attack. This teaches that patience and timely retreat are active, strategic preparations for ultimate victory.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

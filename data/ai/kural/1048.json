@@ -21,27 +21,22 @@
    "parts": [
     {
      "text": "வருவது",
-     "lemma": "வா",
-     "gloss": "coming-it"
+     "lemma": "வருதல்",
+     "gloss": "coming"
     }
    ],
-   "gloss": "coming-it"
+   "gloss": "will it come"
   },
   {
    "surface": "கொல்லோ",
    "parts": [
     {
-     "text": "கொல்",
-     "lemma": "கொல்",
-     "gloss": "particle of doubt"
-    },
-    {
-     "text": "ஓ",
-     "lemma": "ஓ",
-     "gloss": "question particle"
+     "text": "கொல்லோ",
+     "lemma": "கொல்லோ",
+     "gloss": "particle of doubt or anxiety"
     }
    ],
-   "gloss": "indeed?"
+   "gloss": "oh, will it?"
   },
   {
    "surface": "நெருநலும்",
@@ -64,22 +59,22 @@
    "parts": [
     {
      "text": "கொன்றது",
-     "lemma": "கொல்",
-     "gloss": "killed-it"
+     "lemma": "கொல்லுதல்",
+     "gloss": "that which killed"
     }
    ],
-   "gloss": "killed-it"
+   "gloss": "killed"
   },
   {
    "surface": "போலும்",
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போல்",
-     "gloss": "like"
+     "lemma": "போலும்",
+     "gloss": "as if"
     }
    ],
-   "gloss": "like"
+   "gloss": "as if"
   },
   {
    "surface": "நிரப்பு",
@@ -93,10 +88,10 @@
    "gloss": "poverty"
   }
  ],
- "literal": "Even today coming-it indeed? even yesterday killed-it like poverty.",
- "translation": "Will the poverty that almost killed me yesterday come again today?",
+ "literal": "Even today, will it come? - that poverty which, even yesterday, killed me as it were.",
+ "translation": "Will poverty, which felt as though it killed me even yesterday, come to torment me today as well?",
  "modern": "நேற்றும் என்னைக் கொன்றது போலத் துன்புறுத்திய வறுமை, இன்றும் என்னிடம் வருமோ?",
- "explanation": "The speaker personifies poverty as a deadly enemy. Having barely survived the agonizing hunger and suffering of yesterday, they dread the thought of facing it again today. The word 'கொன்றது' (killed) vividly captures the extreme pain of destitution, while 'கொல்லோ' expresses the speaker's deep anxiety and despair about the future.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "explanation": "This couplet vividly portrays the relentless, daily agony of extreme poverty. The speaker expresses dread, wondering if poverty—which inflicted such severe suffering yesterday that it felt like death—will return to torment them again today. By comparing the daily struggle of destitution to being killed repeatedly, the poet emphasizes that poverty is not a one-time hardship but a continuous, exhausting battle for survival.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

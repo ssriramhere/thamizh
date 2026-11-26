@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "ஆற்றின்",
-     "lemma": "ஆறு",
-     "gloss": "properly"
+     "lemma": "ஆற்றின்",
+     "gloss": "according to the systematic path"
     }
    ],
-   "gloss": "properly"
+   "gloss": "according to the systematic path",
+   "split_unverified": true
   },
   {
    "surface": "அளவு",
@@ -39,10 +40,10 @@
     {
      "text": "கற்க",
      "lemma": "கல்",
-     "gloss": "let one learn"
+     "gloss": "should learn"
     }
    ],
-   "gloss": "let one learn"
+   "gloss": "should learn"
   },
   {
    "surface": "அவை",
@@ -100,10 +101,10 @@
    "gloss": "for the sake of"
   }
  ],
- "literal": "Properly, the measure having known, let one learn, assembly not-fearing reply giving for the sake of.",
- "translation": "Let one learn the proper measure of subjects thoroughly, in order to give fearless replies in the assembly.",
- "modern": "அவையில் பயப்படாமல் தகுந்த பதிலைச் சொல்வதற்காக, நூல்களின் அளவை முறையாக அறிந்து கற்க வேண்டும்.",
- "explanation": "This couplet emphasizes the importance of thorough and proper learning for effective public speaking. The phrase 'ஆற்றின் அளவு அறிந்து' means knowing the proper extent and method of subjects. One must learn deeply so that they can confidently give an 'அஞ்சா மாற்றம்' (fearless reply) when questioned in an assembly. True confidence in a council comes from the depth and clarity of one's knowledge.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "According to the systematic path, the measure having known, one should learn, for the sake of giving a reply without fearing the assembly.",
+ "translation": "One should study systematically, knowing the measure of what is to be learned, for the purpose of giving a fearless reply in an assembly.",
+ "modern": "அவைக்கு அஞ்சாமல் பதில் கூறுவதற்காக, முறையான வழியில் நூல்களின் எல்லையை அறிந்து கற்க வேண்டும்.",
+ "explanation": "This couplet highlights how systematic learning builds the confidence needed for public speaking. To speak without fear in an assembly, one must learn by understanding the proper method and scope of the subjects. Knowing the limits and depth of knowledge prevents hesitation and errors when answering others. Thus, structured learning is presented as the foundation of fearless communication.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

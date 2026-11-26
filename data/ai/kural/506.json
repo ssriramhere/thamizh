@@ -5,48 +5,38 @@
    "parts": [
     {
      "text": "அற்றார்",
-     "lemma": "அறு",
-     "gloss": "those who are destitute"
+     "lemma": "அற்றார்",
+     "gloss": "those without relations"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who are destitute (acc.)"
+   "gloss": "those who have no relations"
   },
   {
    "surface": "தேறுதல்",
    "parts": [
     {
-     "text": "தேறு",
-     "lemma": "தேறு",
-     "gloss": "to trust"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "தேறுதல்",
+     "lemma": "தேறுதல்",
+     "gloss": "trusting"
     }
    ],
-   "gloss": "trusting"
+   "gloss": "trusting or choosing"
   },
   {
    "surface": "ஓம்புக",
    "parts": [
     {
-     "text": "ஓம்பு",
+     "text": "ஓம்புக",
      "lemma": "ஓம்பு",
-     "gloss": "to avoid"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "avoid"
     }
    ],
-   "gloss": "let one avoid"
+   "gloss": "avoid or guard against"
   },
   {
    "surface": "மற்று",
@@ -57,7 +47,7 @@
      "gloss": "for"
     }
    ],
-   "gloss": "for"
+   "gloss": "for or because"
   },
   {
    "surface": "அவர்",
@@ -79,39 +69,29 @@
      "gloss": "attachment"
     }
    ],
-   "gloss": "attachment"
+   "gloss": "attachment or ties"
   },
   {
    "surface": "இலர்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "text": "இலர்",
+     "lemma": "இலர்",
+     "gloss": "do not have"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "do not have"
   },
   {
    "surface": "நாணார்",
    "parts": [
     {
-     "text": "நாண்",
-     "lemma": "நாண்",
-     "gloss": "to be ashamed"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "negative epicene plural suffix"
+     "text": "நாணார்",
+     "lemma": "நாணுதல்",
+     "gloss": "will not feel ashamed of"
     }
    ],
-   "gloss": "they will not be ashamed"
+   "gloss": "will not feel ashamed of"
   },
   {
    "surface": "பழி",
@@ -119,16 +99,16 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "disgrace or blame"
   }
  ],
- "literal": "Those who are destitute (acc.) trusting let one avoid; for they, attachment they are without, they will not be ashamed of blame.",
- "translation": "Avoid trusting those who are destitute and without ties. Since they have no attachments, they will not be ashamed of incurring blame.",
- "modern": "எந்தப் பற்றுக்கோடும் இல்லாதவர்களை நம்பி ஒரு பொறுப்பை ஒப்படைப்பதைத் தவிர்க்க வேண்டும். ஏனென்றால், அவர்கள் சமூகத்தின் மீதோ நற்பெயரின் மீதோ பற்று இல்லாதவர்கள் என்பதால், பழிச்சொல்லுக்கு வெட்கப்பட மாட்டார்கள்.",
- "explanation": "This couplet advises against placing trust in people who have nothing to lose. The word 'aṟṟār' can mean those who are financially destitute or those who lack social and moral ties; in the context of choosing whom to trust, it refers to those without roots or standing. Because such people have no meaningful attachments ('paṟṟu') to society, family, or reputation, they do not fear the consequences of their actions. Consequently, they will not feel ashamed of committing faults or facing public blame ('paḻi').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Trusting those who have no relations, avoid; for they, attachment do not have, will not feel ashamed of disgrace.",
+ "translation": "Avoid choosing or trusting those who have no family ties; since they have no attachments, they will not fear disgrace.",
+ "modern": "உறவினர்கள் இல்லாதவர்களைத் தேர்ந்தெடுத்து நம்புவதைத் தவிர்க்க வேண்டும்; ஏனெனில், அவர்களுக்குப் பற்று இல்லாததால் அவர்கள் பழிக்கு அஞ்சமாட்டார்கள்.",
+ "explanation": "This couplet warns a leader against employing or trusting individuals who have no family ties or social attachments. The key words are 'பற்று இலர்' (those without attachments) and 'நாணார் பழி' (those who do not fear disgrace). A person with family and social connections is naturally restrained by the fear of bringing shame upon their loved ones. In contrast, someone completely detached from such relationships lacks this moral anchor and is more likely to commit dishonorable acts without any fear of public blame. Therefore, choosing such people for responsible positions must be avoided.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

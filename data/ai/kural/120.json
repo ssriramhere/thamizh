@@ -15,17 +15,12 @@
    "surface": "செய்வார்க்கு",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செய்",
-     "gloss": "do"
+     "text": "செய்வார்",
+     "lemma": "செய்வார்",
+     "gloss": "those who do"
     },
     {
-     "text": "வார்",
-     "lemma": "ஆர்",
-     "gloss": "those who"
-    },
-    {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -47,17 +42,12 @@
    "surface": "பேணி",
    "parts": [
     {
-     "text": "பேண்",
-     "lemma": "பேண்",
-     "gloss": "protect"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "text": "பேணி",
+     "lemma": "பேணு",
+     "gloss": "protecting"
     }
    ],
-   "gloss": "having protected"
+   "gloss": "protecting"
   },
   {
    "surface": "பிறவும்",
@@ -79,17 +69,12 @@
    "surface": "தம",
    "parts": [
     {
-     "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "things"
+     "text": "தம",
+     "lemma": "தமது",
+     "gloss": "their own things"
     }
    ],
-   "gloss": "one's own things"
+   "gloss": "their own things"
   },
   {
    "surface": "போல்",
@@ -106,23 +91,18 @@
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if they do"
     }
    ],
    "gloss": "if they do"
   }
  ],
- "literal": "Trade to those who do trade having protected others' things also one's own things like if they do.",
- "translation": "True trade for those who trade is to protect others' goods and treat them as their own.",
- "modern": "பிறர் பொருளையும் தம்முடைய பொருளைப் போலப் பாதுகாத்து வியாபாரம் செய்தால் அதுவே வியாபாரம் செய்பவர்களுக்குச் சிறந்த வியாபாரம் ஆகும்.",
- "explanation": "This couplet defines the core of ethical business. The word vaanikam is used twice: first to mean the act of trading, and second to mean the true spirit of trade. The key to this true trade is peeni (protecting or caring for) others' goods (piravum) exactly as one would care for one's own (tama pool). By treating the buyer's or partner's interests with the same care as their own, a trader upholds perfect impartiality.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Trade to those who do trade [is true] trade, protecting others' [goods] also like their own, if they do [it].",
+ "translation": "For merchants, true trade consists in protecting the goods of others as they would protect their own.",
+ "modern": "வியாபாரம் செய்பவர்களுக்கு முறையான வியாபாரம் என்பது, பிறருடைய பொருட்களையும் தங்களுடைய பொருட்களைப் போலப் பாதுகாத்து வியாபாரம் செய்தால் அமையும்.",
+ "explanation": "This couplet defines fairness and integrity in commerce, which is a key aspect of neutrality (நடுவுநிலைமை). It states that true merchants must treat the goods and interests of their customers and others with the same care and honesty they show to their own. By protecting others' property as if it were their own, merchants establish trust and maintain ethical standards. The word 'பேணி' (protecting) highlights the active care required in business dealings, and 'தமபோல்' (like their own) sets the standard of empathy and fairness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

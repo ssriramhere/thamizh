@@ -5,27 +5,22 @@
    "parts": [
     {
      "text": "நயன்",
-     "lemma": "நயன்",
-     "gloss": "fairness"
+     "lemma": "நயம்",
+     "gloss": "righteousness"
     }
    ],
-   "gloss": "fairness"
+   "gloss": "righteousness"
   },
   {
    "surface": "சாரா",
    "parts": [
     {
-     "text": "சார்",
-     "lemma": "சார்",
-     "gloss": "to conform"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "சாரா",
+     "lemma": "சாரு",
+     "gloss": "not aligning with"
     }
    ],
-   "gloss": "not conforming to"
+   "gloss": "not aligning with"
   },
   {
    "surface": "நன்மையின்",
@@ -47,17 +42,12 @@
    "surface": "நீக்கும்",
    "parts": [
     {
-     "text": "நீக்கு",
+     "text": "நீக்கும்",
      "lemma": "நீக்கு",
-     "gloss": "to remove"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will separate"
     }
    ],
-   "gloss": "will remove"
+   "gloss": "will separate"
   },
   {
    "surface": "பயன்",
@@ -65,26 +55,21 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "usefulness"
+     "gloss": "utility"
     }
    ],
-   "gloss": "usefulness"
+   "gloss": "utility"
   },
   {
    "surface": "சாரா",
    "parts": [
     {
-     "text": "சார்",
-     "lemma": "சார்",
-     "gloss": "to associate"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "சாரா",
+     "lemma": "சாரு",
+     "gloss": "not yielding"
     }
    ],
-   "gloss": "lacking"
+   "gloss": "not yielding"
   },
   {
    "surface": "பண்பு",
@@ -92,10 +77,10 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "quality"
+     "gloss": "courtesy"
     }
    ],
-   "gloss": "quality"
+   "gloss": "courtesy"
   },
   {
    "surface": "இல்",
@@ -103,10 +88,10 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "lacking"
     }
    ],
-   "gloss": "without"
+   "gloss": "lacking"
   },
   {
    "surface": "சொல்",
@@ -114,23 +99,18 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   },
   {
    "surface": "பல்லார்",
    "parts": [
     {
-     "text": "பல்",
-     "lemma": "பல்",
-     "gloss": "many"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "text": "பல்லார்",
+     "lemma": "பல்லார்",
+     "gloss": "many people"
     }
    ],
    "gloss": "many people"
@@ -141,16 +121,16 @@
     {
      "text": "அகத்து",
      "lemma": "அகம்",
-     "gloss": "in the presence"
+     "gloss": "in the presence of"
     }
    ],
-   "gloss": "in the presence"
+   "gloss": "in the presence of"
   }
  ],
- "literal": "Fairness not-conforming-to, from goodness will-remove, usefulness lacking quality-without word many-people in-presence.",
- "translation": "Speaking useless, uncultured words in the presence of many people will distance the speaker from fairness and strip away their goodness.",
- "modern": "பலருக்கு முன்னே பயனில்லாத பண்பற்ற சொற்களைச் சொல்வது, ஒருவனை நீதியோடு சேரவிடாமல் அவனுடைய நன்மையிலிருந்தும் நீக்கிவிடும்.",
- "explanation": "This couplet warns against speaking useless and uncultured words in a public gathering. Such speech lacks any meaningful purpose and shows a lack of good character. Consequently, it alienates the speaker from fairness and destroys their inherent goodness. The repetition of the word 'சாரா' (not conforming or lacking) emphasizes how such words are entirely disconnected from both justice and utility.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Righteousness not aligning with, from goodness will separate, utility not yielding, courtesy lacking words, many people in the presence of.",
+ "translation": "Words that lack courtesy and yield no benefit, when spoken in the presence of many, will alienate the speaker from righteousness and strip them of all goodness.",
+ "modern": "பலர் முன்னிலையில் பேசப்படும் பயனில்லாத, நற்பண்பு இல்லாத சொற்கள், ஒருவனை அறநெறியிலிருந்து விலக்கி, அவனுக்குக் கிடைக்கும் நன்மைகளிலிருந்தும் நீக்கிவிடும்.",
+ "explanation": "This couplet highlights the severe consequences of speaking useless and discourteous words in public. The poet describes such speech as 'பயன் சாராப் பண்பில் சொல்'—words that lack utility and basic human decency. When spoken in the presence of many ('பல்லார் அகத்து'), these words do not align with righteousness ('நயன் சாரா') and actively drag the speaker away from all goodness ('நன்மையின் நீக்கும்'). Thus, empty and rude speech in public ruins a person's moral standing and deprives them of the benefits of a virtuous life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -16,7 +16,7 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "3sg.fem. suffix"
+     "gloss": "she (feminine singular suffix)"
     }
    ],
    "gloss": "she looked"
@@ -32,7 +32,7 @@
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "past participle suffix"
     }
    ],
    "gloss": "having looked"
@@ -43,7 +43,7 @@
     {
      "text": "இறைஞ்சு",
      "lemma": "இறைஞ்சு",
-     "gloss": "to bow"
+     "gloss": "to bow or look down"
     },
     {
      "text": "இன்",
@@ -53,10 +53,10 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "3sg.fem. suffix"
+     "gloss": "she (feminine singular suffix)"
     }
    ],
-   "gloss": "she bowed"
+   "gloss": "she bowed her head"
   },
   {
    "surface": "அஃது",
@@ -75,10 +75,10 @@
     {
      "text": "அவள்",
      "lemma": "அவள்",
-     "gloss": "she/her"
+     "gloss": "she"
     }
    ],
-   "gloss": "her"
+   "gloss": "she"
   },
   {
    "surface": "யாப்பினுள்",
@@ -86,20 +86,20 @@
     {
      "text": "யாப்பு",
      "lemma": "யாப்பு",
-     "gloss": "bond"
+     "gloss": "binding or newly bound plant"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic increment"
+     "gloss": "inflectional increment"
     },
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "in or upon"
     }
    ],
-   "gloss": "into the bond"
+   "gloss": "upon the newly bound plant"
   },
   {
    "surface": "அட்டிய",
@@ -117,7 +117,7 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "adjectival suffix"
+     "gloss": "adjectival participle suffix"
     }
    ],
    "gloss": "poured"
@@ -134,10 +134,10 @@
    "gloss": "water"
   }
  ],
- "literal": "She looked, having looked she bowed; that [is] water poured into her bond.",
- "translation": "She looked at me, and having looked, she lowered her head; that act is like water poured to nourish the bond of our love.",
- "modern": "அவள் என்னை நோக்கினாள், நோக்கிய பின் வெட்கத்தால் தலை குனிந்தாள்; அச்செயல் எங்கள் அன்பாகிய பிணைப்பை வளர்க்க ஊற்றிய நீர் போன்றது.",
- "explanation": "The speaker interprets the subtle body language of his beloved. She looks at him, and upon meeting his gaze, she shyly lowers her head. He sees this sequence of actions as a clear sign of her growing affection. He beautifully compares her shy, downward glance to water poured into the bond ('யாப்பு') of their love, nourishing it and making it flourish.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "She looked; having looked, she bowed her head; that was the water she poured upon the newly bound plant.",
+ "translation": "She looked at me, and having looked, she bowed her head; that gesture was like water poured by her to nourish the tender plant of our love.",
+ "modern": "அவள் என்னை நோக்கினாள்; நோக்கிவிட்டுத் தன் தலையைக் கவிழ்த்துக் கொண்டாள்; அது அவள் எங்கள் காதல் பயிருக்கு ஊற்றிய நீர் போன்றது.",
+ "explanation": "The hero describes a silent, intimate moment with his beloved. First, she looks directly at him, signaling her interest and affection. Immediately after, she bows her head in shyness. The poet beautifully compares this sequence of actions to pouring water on a newly bound plant. Her shy downward glance is not a rejection, but the very nourishment that keeps their growing love alive.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

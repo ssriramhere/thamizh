@@ -6,17 +6,17 @@
     {
      "text": "நடுவு",
      "lemma": "நடுவு",
-     "gloss": "justice"
+     "gloss": "equity"
     }
    ],
-   "gloss": "justice"
+   "gloss": "equity"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
@@ -28,21 +28,27 @@
     {
      "text": "நன்பொருள்",
      "lemma": "நன்பொருள்",
-     "gloss": "good wealth"
+     "gloss": "good wealth of others"
     }
    ],
-   "gloss": "good wealth"
+   "gloss": "good wealth of others",
+   "split_unverified": true
   },
   {
    "surface": "வெஃகின்",
    "parts": [
     {
-     "text": "வெஃகின்",
+     "text": "வெஃகு",
      "lemma": "வெஃகு",
-     "gloss": "if covets"
+     "gloss": "covet"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if covets"
+   "gloss": "if one covets"
   },
   {
    "surface": "குடி",
@@ -72,7 +78,7 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "guilt"
     },
     {
      "text": "உம்",
@@ -80,7 +86,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "and faults"
+   "gloss": "and guilt"
   },
   {
    "surface": "ஆங்கே",
@@ -96,7 +102,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "right there"
+   "gloss": "then and there"
   },
   {
    "surface": "தரும்",
@@ -110,10 +116,10 @@
    "gloss": "will bring"
   }
  ],
- "literal": "Justice without, good wealth if one covets, family having perished, faults and right there it will bring.",
- "translation": "If one unjustly covets the good wealth of others, their family will perish and it will bring them ruin right then.",
- "modern": "ஒருவன் நடுவுநிலைமை இல்லாமல் பிறருடைய நல்ல பொருளை விரும்பினால், அவனுடைய குடி அழிந்து, அவனுக்குக் குற்றமும் அப்பொழுதே வந்து சேரும்.",
- "explanation": "This couplet warns against the desire to take others' rightful property. The word 'நடுவு' refers to fairness or justice, which is abandoned when one covets. 'வெஃகின்' means desiring or coveting. The consequence is twofold: the destruction of one's own family or lineage ('குடி பொன்றி'), and the immediate accumulation of guilt and faults ('குற்றமும் ஆங்கே தரும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without equity, if one covets the good wealth of others, their family perishing, guilt also then and there it will bring.",
+ "translation": "If a person, abandoning equity, covets the valuable wealth of others, it will ruin their family and bring instant guilt upon them.",
+ "modern": "நடுவுநிலைமை இல்லாமல், பிறருடைய நல்ல பொருளைக் கவர விரும்பினால், அவனுடைய குடும்பம் அழிந்து, அவனுக்குப் பழியும் உடனே வந்து சேரும்.",
+ "explanation": "This couplet warns against the destructive consequences of covetousness. When a person acts without fairness (நடுவின்றி) and desires the rightfully earned, valuable wealth of another (நன்பொருள்), they bring ruin upon themselves. The poet states that such greed leads to two immediate disasters: the destruction of one's own family lineage (குடிபொன்றி) and the instant acquisition of guilt and blame (குற்றமும் ஆங்கே தரும்). Thus, coveting others' property destroys both one's social standing and moral character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,31 +11,31 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case marker"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in/by"
+     "gloss": "instrumental suffix (by/in)"
     }
    ],
-   "gloss": "in the waking state"
+   "gloss": "by/in the waking state"
   },
   {
    "surface": "நல்காதவரை",
    "parts": [
     {
      "text": "நல்காதவர்",
-     "lemma": "நல்கு",
-     "gloss": "those who do not grant"
+     "lemma": "நல்காதவர்",
+     "gloss": "he who does not show love"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who do not grant (grace)"
+   "gloss": "him who does not show love"
   },
   {
    "surface": "கனவினால்",
@@ -48,15 +48,15 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case marker"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in/by"
+     "gloss": "instrumental suffix (by/in)"
     }
    ],
-   "gloss": "in the dream state"
+   "gloss": "by/in dream"
   },
   {
    "surface": "காண்டலின்",
@@ -79,7 +79,7 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "exists"
     }
    ],
@@ -90,7 +90,7 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -108,10 +108,10 @@
    "gloss": "life"
   }
  ],
- "literal": "In the waking state / those who do not grant / in the dream / because of seeing / exists / my / life.",
- "translation": "My life survives only because I see in my dreams the one who grants me no favor in my waking hours.",
- "modern": "நனவில் என் மீது அன்பு காட்டாதவரை நான் கனவில் காண்பதால்தான் என் உயிர் இன்னும் நிலைத்திருக்கிறது.",
- "explanation": "The speaker's lover is physically absent and thus unable to show affection in the waking world. However, the lover appears in her dreams, providing the emotional sustenance she needs. The contrast between 'நனவு' (waking) and 'கனவு' (dreaming) highlights that her survival depends entirely on the illusion of the dream. The word 'காண்டலின்' (because of seeing) emphasizes that this mere vision is what keeps her 'உயிர்' (life) from departing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By waking state him who does not show love, by dream because of seeing, exists my life.",
+ "translation": "Because I behold him in my dreams who does not show me love in my waking hours, my life still survives.",
+ "modern": "விழித்திருக்கும்போது எனக்கு அன்பு செய்யாதவரை, கனவில் காண்பதனால் தான் என் உயிர் இன்னும் நிலைத்திருக்கிறது.",
+ "explanation": "The heroine, suffering from the separation of her lover, explains how she manages to stay alive. While awake, her lover does not come to show her affection or comfort her. However, she is able to see him and experience his love in her dreams. It is this dream-encounter that sustains her spirit and keeps her alive despite the painful reality of her waking hours.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

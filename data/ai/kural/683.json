@@ -4,9 +4,14 @@
    "surface": "நூலாருள்",
    "parts": [
     {
-     "text": "நூலார்",
-     "lemma": "நூலார்",
-     "gloss": "learned ones"
+     "text": "நூல்",
+     "lemma": "நூல்",
+     "gloss": "treatise"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "plural suffix"
     },
     {
      "text": "உள்",
@@ -14,7 +19,7 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among the learned"
+   "gloss": "among those learned in treatises"
   },
   {
    "surface": "நூல்",
@@ -31,20 +36,30 @@
    "surface": "வல்லன்",
    "parts": [
     {
-     "text": "வல்லன்",
-     "lemma": "வல்லன்",
-     "gloss": "expert"
+     "text": "வல்",
+     "lemma": "வல்",
+     "gloss": "skill"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "masculine singular suffix"
     }
    ],
-   "gloss": "expert"
+   "gloss": "an expert"
   },
   {
    "surface": "ஆகுதல்",
    "parts": [
     {
-     "text": "ஆகுதல்",
-     "lemma": "ஆகுதல்",
-     "gloss": "becoming"
+     "text": "ஆகு",
+     "lemma": "ஆகு",
+     "gloss": "become"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "becoming"
@@ -53,9 +68,14 @@
    "surface": "வேலாருள்",
    "parts": [
     {
-     "text": "வேலார்",
-     "lemma": "வேலார்",
-     "gloss": "spearmen"
+     "text": "வேல்",
+     "lemma": "வேல்",
+     "gloss": "spear"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "plural suffix"
     },
     {
      "text": "உள்",
@@ -63,7 +83,7 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among spearmen"
+   "gloss": "among those who hold spears"
   },
   {
    "surface": "வென்றி",
@@ -91,9 +111,19 @@
    "surface": "உரைப்பான்",
    "parts": [
     {
-     "text": "உரைப்பான்",
-     "lemma": "உரைப்பான்",
-     "gloss": "he who speaks"
+     "text": "உரை",
+     "lemma": "உரை",
+     "gloss": "speak"
+    },
+    {
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
     }
    ],
    "gloss": "he who speaks"
@@ -110,10 +140,10 @@
    "gloss": "quality"
   }
  ],
- "literal": "Among the learned, treatise-expert being; among spearmen, victory-mission he-who-speaks' quality.",
- "translation": "The defining quality of an envoy who successfully delivers his mission among spear-bearing kings is to be the foremost expert in statecraft among the learned.",
- "modern": "வேல் ஏந்திய அரசர்களின் அவையில் சென்று வெற்றிகரமாகத் தன் தூதுச் செய்தியை உரைப்பவனின் பண்பு, நூல்களைக் கற்ற அறிஞர்களுக்கு இடையே தானும் சிறந்த நூல் வல்லவனாக விளங்குவதாகும்.",
- "explanation": "This couplet defines the intellectual caliber required of an envoy. The word 'நூலாருள்' refers to assemblies of highly educated scholars, while 'வேலாருள்' refers to the courts of rival, heavily armed kings. To successfully deliver a message ('வென்றி வினை உரைப்பான்') in a hostile or intimidating royal court, the envoy must possess unshakeable confidence. This confidence comes from being an absolute expert in treatises of statecraft ('நூல் வல்லன் ஆகுதல்'), allowing him to outshine even the most learned scholars.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among those learned in treatises, becoming an expert in treatises, and among those with spears, delivering a mission of victory, is the quality of an envoy.",
+ "translation": "To be an expert among those learned in books, and to deliver a mission of victory among spear-bearing kings, is the true quality of an envoy.",
+ "modern": "நூல்களைக் கற்றவர்களுள் நூல் அறிவு மிக்கவனாக விளங்குவதும், வேல் ஏந்திய அரசர்களுள் சென்று தன் அரசனுக்கு வெற்றியைத் தரும் தூதுச் செய்தியைச் சொல்வதும் ஒரு தூதனின் தகுதியாகும்.",
+ "explanation": "This couplet outlines the essential qualities of a successful diplomat or envoy. First, the envoy must be highly learned, standing out as an expert even when surrounded by other scholars of political and ethical treatises. Second, when standing before spear-bearing kings who hold military power, the envoy must possess the eloquence to deliver their mission in a way that secures victory. Thus, intellectual supremacy and persuasive speech under pressure are the defining traits of an envoy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

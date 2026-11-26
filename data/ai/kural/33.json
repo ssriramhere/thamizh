@@ -15,31 +15,46 @@
    "surface": "வகையான்",
    "parts": [
     {
-     "text": "வகையான்",
+     "text": "வகை",
      "lemma": "வகை",
-     "gloss": "by the manner"
+     "gloss": "way"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "by the manner"
+   "gloss": "by all possible ways"
   },
   {
    "surface": "அறவினை",
    "parts": [
     {
-     "text": "அறவினை",
-     "lemma": "அறவினை",
-     "gloss": "virtuous deed"
+     "text": "அற",
+     "lemma": "அறம்",
+     "gloss": "virtue"
+    },
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
     }
    ],
-   "gloss": "virtuous deed"
+   "gloss": "virtuous deeds"
   },
   {
    "surface": "ஓவாதே",
    "parts": [
     {
-     "text": "ஓவாதே",
-     "lemma": "ஓவாமை",
+     "text": "ஓவாது",
+     "lemma": "ஓவுதல்",
      "gloss": "without ceasing"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "emphasis"
     }
    ],
    "gloss": "without ceasing"
@@ -61,10 +76,10 @@
     {
      "text": "வாய்",
      "lemma": "வாய்",
-     "gloss": "place"
+     "gloss": "place or opportunity"
     }
    ],
-   "gloss": "place"
+   "gloss": "opportunity"
   },
   {
    "surface": "எல்லாம்",
@@ -82,17 +97,17 @@
    "parts": [
     {
      "text": "செயல்",
-     "lemma": "செயல்",
-     "gloss": "doing"
+     "lemma": "செய்தல்",
+     "gloss": "should be done"
     }
    ],
-   "gloss": "should do"
+   "gloss": "should be done"
   }
  ],
- "literal": "possible by the manner virtuous deed without ceasing going place all should do",
- "translation": "Perform virtuous deeds without ceasing, in every possible way and at every available opportunity.",
- "modern": "உங்களால் முடிந்த வழிகளில் எல்லாம், வாய்ப்பு கிடைக்கும் இடங்களில் எல்லாம், இடைவிடாமல் அறச்செயல்களைச் செய்ய வேண்டும்.",
- "explanation": "This couplet urges continuous and practical commitment to virtue. The word 'ஒல்லும்' means what is possible, suggesting that one should do good deeds according to their own capacity and means. 'செல்லும் வாய்' refers to every place or opportunity one encounters in life. Together, the couplet teaches that practicing virtue is not limited to specific times or grand gestures, but should be a constant, unceasing effort in everyday situations.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the way that is possible, virtuous action, without ceasing, in every opportunity that goes, do.",
+ "translation": "Perform virtuous deeds without ceasing, in every possible way and at every opportunity.",
+ "modern": "இயன்ற வழிகளில் எல்லாம் அறச் செயல்களை இடைவிடாமல், அவை செய்யக்கூடிய இடங்கள் மற்றும் வாய்ப்புகள் அனைத்திலும் செய்ய வேண்டும்.",
+ "explanation": "This couplet emphasizes the continuous practice of virtue in daily life. The term 'ஒல்லும் வகையான்' means 'by whatever means possible', suggesting that one should not wait for grand circumstances but do whatever small good is within their power. 'ஓவாதே' means 'without ceasing', highlighting that virtue is a constant practice rather than an occasional act. 'செல்லும்வாய் எல்லாம்' refers to every opportunity or place where it is possible to act righteously. Thus, the couplet instructs us to perform good deeds continuously, using every available means and opportunity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

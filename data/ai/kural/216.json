@@ -6,10 +6,10 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "fruit"
+     "gloss": "benefit"
     }
    ],
-   "gloss": "fruit"
+   "gloss": "benefit"
   },
   {
    "surface": "மரம்",
@@ -33,26 +33,21 @@
     {
      "text": "ஊர்",
      "lemma": "ஊர்",
-     "gloss": "town"
+     "gloss": "village"
     }
    ],
-   "gloss": "inside the town"
+   "gloss": "inside the village"
   },
   {
    "surface": "பழுத்தற்று",
    "parts": [
     {
-     "text": "பழுத்து",
-     "lemma": "பழுத்தல்",
-     "gloss": "having ripened"
-    },
-    {
-     "text": "அற்று",
-     "lemma": "அற்று",
-     "gloss": "like that"
+     "text": "பழுத்தற்று",
+     "lemma": "பழுத்தற்று",
+     "gloss": "like that which has ripened"
     }
    ],
-   "gloss": "like having ripened"
+   "gloss": "like that which has ripened"
   },
   {
    "surface": "ஆல்",
@@ -63,7 +58,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "indeed (clitic of emphasis)"
   },
   {
    "surface": "செல்வம்",
@@ -81,7 +76,7 @@
    "parts": [
     {
      "text": "நயன்",
-     "lemma": "நயம்",
+     "lemma": "நயன்",
      "gloss": "benevolence"
     }
    ],
@@ -93,10 +88,10 @@
     {
      "text": "உடையான்",
      "lemma": "உடையான்",
-     "gloss": "he who possesses"
+     "gloss": "one who possesses"
     }
    ],
-   "gloss": "he who possesses"
+   "gloss": "one who possesses"
   },
   {
    "surface": "கண்",
@@ -107,29 +102,24 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with"
+   "gloss": "with / in the hands of"
   },
   {
    "surface": "படின்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படின்",
      "lemma": "படுதல்",
-     "gloss": "to fall"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if reached"
     }
    ],
-   "gloss": "if it falls"
+   "gloss": "if acquired"
   }
  ],
- "literal": "Fruit tree inside town having ripened like indeed wealth benevolence he who possesses with if it falls.",
- "translation": "When wealth falls to a benevolent man, it is like a fruit-bearing tree ripening in the center of town.",
- "modern": "நற்குணம் உடையவனிடம் செல்வம் சேர்ந்தால், அது ஊரின் நடுவே உள்ள பயன்தரும் மரம் பழுத்ததைப் போன்றது.",
- "explanation": "This couplet compares a benevolent person acquiring wealth to a fruit tree ripening in the middle of a village. Just as a tree in the center of town is easily accessible to everyone without barriers, a good person's wealth naturally flows to those in need. The word 'nayan' denotes a sense of graciousness and benevolence, ensuring that the wealth is shared freely and brings joy to the whole community.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If wealth reaches with the one who has benevolence, it is indeed like a fruit tree having ripened inside the village.",
+ "translation": "When wealth comes to a benevolent person who loves to help others, it is like a fruitful tree ripening in the very center of a village.",
+ "modern": "பிறருக்கு உதவும் நற்பண்பு உடையவனிடம் செல்வம் சேருவது, ஊரின் நடுவே உள்ள பயன் தரும் மரம் பழுத்திருப்பதைப் போன்றது ஆகும்.",
+ "explanation": "The couplet compares the wealth of a benevolent person to a fruit-bearing tree in the middle of a village. A fruit tree located inside a village is accessible to everyone, and its fruits can be enjoyed by all without any hindrance. Similarly, when wealth reaches a person who has the quality of benevolence (நயன்), it is not hoarded but is naturally shared to benefit the entire community. The key words 'பயன்மரம்' (fruitful tree) and 'நயனுடையான்' (benevolent person) highlight how true wealth finds its purpose only when it is accessible and useful to others.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

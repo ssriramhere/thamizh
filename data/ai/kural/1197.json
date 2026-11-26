@@ -6,7 +6,7 @@
     {
      "text": "பருவரல்",
      "lemma": "பருவரல்",
-     "gloss": "distress"
+     "gloss": "affliction"
     },
     {
      "text": "உம்",
@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "distress and"
+   "gloss": "and the affliction"
   },
   {
    "surface": "பைதலும்",
@@ -22,7 +22,7 @@
     {
      "text": "பைதல்",
      "lemma": "பைதல்",
-     "gloss": "anguish"
+     "gloss": "sorrow"
     },
     {
      "text": "உம்",
@@ -30,23 +30,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "anguish and"
+   "gloss": "and the sorrow"
   },
   {
    "surface": "காணான்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காணான்",
      "lemma": "காண்",
-     "gloss": "see"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he does not"
+     "gloss": "he does not see"
     }
    ],
-   "gloss": "he sees not"
+   "gloss": "does he not see"
   },
   {
    "surface": "கொல்",
@@ -54,10 +49,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "I wonder"
+     "gloss": "particle of doubt or question"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "indeed / is it because"
   },
   {
    "surface": "காமன்",
@@ -65,10 +60,10 @@
     {
      "text": "காமன்",
      "lemma": "காமன்",
-     "gloss": "Kama (Love)"
+     "gloss": "Kama, the god of love"
     }
    ],
-   "gloss": "Kama"
+   "gloss": "Kama (the god of love)"
   },
   {
    "surface": "ஒருவர்கண்",
@@ -81,10 +76,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "locative suffix (with/upon)"
     }
    ],
-   "gloss": "in one person"
+   "gloss": "upon only one person"
   },
   {
    "surface": "நின்று",
@@ -92,10 +87,10 @@
     {
      "text": "நின்று",
      "lemma": "நில்",
-     "gloss": "standing"
+     "gloss": "abiding"
     }
    ],
-   "gloss": "standing"
+   "gloss": "abiding"
   },
   {
    "surface": "ஒழுகுவான்",
@@ -103,16 +98,16 @@
     {
      "text": "ஒழுகுவான்",
      "lemma": "ஒழுகு",
-     "gloss": "he who abides"
+     "gloss": "he who acts"
     }
    ],
-   "gloss": "he who abides"
+   "gloss": "he who acts"
   }
  ],
- "literal": "Distress and anguish he sees not, I wonder, Kama, in one person standing he who abides.",
- "translation": "I wonder, does Kama not see my distress and anguish, as he stands and abides in me alone?",
- "modern": "காதல் தெய்வம் என் ஒருத்தியிடம் மட்டுமே நிலைத்து நின்று செயல்படுகிறான். அதனால் எனக்கு ஏற்படும் துன்பத்தையும் துயரத்தையும் அவன் பார்க்க மாட்டானோ?",
- "explanation": "The speaker is enduring the pain of separation alone, feeling that love has afflicted only her and not her partner. She questions whether Kama, the god of love, is blind to her suffering. The words 'பருவரல்' (distress) and 'பைதல்' (anguish) emphasize the depth of her solitary pain. By noting that Kama abides in 'ஒருவர்கண்' (one person), she highlights the unfairness of one-sided longing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Affliction and sorrow, does he not see, Kama, who abides and acts upon only one person?",
+ "translation": "Does the god of love, who persists in tormenting only one of us, not see the affliction and sorrow that I suffer?",
+ "modern": "ஒருவரிடம் மட்டுமே நிலைத்து நின்று செயல்படும் காமன், எனது துன்பத்தையும் வருத்தத்தையும் பார்க்க மாட்டானோ?",
+ "explanation": "In this couplet, the heroine laments her solitary suffering in separation. She wonders if Kama, the god of love, is blind to her intense distress. She uses the phrase 'oruvaṟkaṇ niṉṟoḻukuvāṉ' (one who abides and acts upon only one person) to point out the unfairness of her situation. Love should affect both partners equally, yet she feels that Kama has targeted only her, leaving her to bear the twin burdens of affliction ('paruvaral') and sorrow ('paital') alone.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

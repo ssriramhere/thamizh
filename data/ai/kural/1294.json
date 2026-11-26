@@ -28,12 +28,7 @@
     {
      "text": "நின்",
      "lemma": "நீ",
-     "gloss": "you (oblique)"
-    },
-    {
-     "text": "ன்",
-     "lemma": "ன்",
-     "gloss": "sandhi"
+     "gloss": "you"
     },
     {
      "text": "ஒடு",
@@ -49,7 +44,7 @@
     {
      "text": "சூழ்",
      "lemma": "சூழ்",
-     "gloss": "to deliberate"
+     "gloss": "deliberate"
     },
     {
      "text": "வ்",
@@ -59,10 +54,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (epicene)"
+     "gloss": "they"
     }
    ],
-   "gloss": "will consult"
+   "gloss": "those who will consult"
   },
   {
    "surface": "யார்",
@@ -86,7 +81,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "vocative marker"
+     "gloss": "vocative particle"
     }
    ],
    "gloss": "O heart!"
@@ -108,12 +103,12 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "து",
-     "lemma": "து",
-     "gloss": "past adverbial suffix"
+     "lemma": "உ",
+     "gloss": "past participle suffix"
     }
    ],
    "gloss": "having made"
@@ -122,14 +117,14 @@
    "surface": "துவ்வாய்",
    "parts": [
     {
-     "text": "துவ்வு",
-     "lemma": "துவ்வு",
-     "gloss": "to enjoy"
+     "text": "துவ்",
+     "lemma": "துவ்",
+     "gloss": "enjoy"
     },
     {
      "text": "ஆய்",
      "lemma": "ஆய்",
-     "gloss": "you do not (negative 2nd person singular)"
+     "gloss": "you do not (negative second person singular)"
     }
    ],
    "gloss": "you do not enjoy"
@@ -140,10 +135,10 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "see"
+     "gloss": "behold"
     }
    ],
-   "gloss": "see!"
+   "gloss": "see"
   },
   {
    "surface": "மற்று",
@@ -151,16 +146,16 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "further"
+     "gloss": "expletive particle"
     }
    ],
-   "gloss": "further"
+   "gloss": "indeed"
   }
  ],
- "literal": "Hereafter such things with you will consult who, O heart! Sulk having made, you do not enjoy, see, further.",
- "translation": "O heart, who will ever consult you about such things hereafter? You initiate a sulk, but then you fail to see it through and enjoy it!",
- "modern": "நெஞ்சே! நீ ஊடல் கொள்கிறாய், ஆனால் அதை இறுதிவரை அனுபவிக்காமல் விட்டுவிடுகிறாய். இனிமேல் இப்படிப்பட்ட காரியங்களை உன்னோடு யார் ஆலோசிப்பார்கள்?",
- "explanation": "The speaker addresses her own heart, frustrated by its inconsistency in matters of love. The heart eagerly initiates a sulk (feigned anger) with the lover, but quickly gives it up without fully experiencing or sustaining it. Because the heart abandons its resolve so easily, the speaker declares she will no longer consult it on such matters. The word 'துவ்வாய்' (from the root 'துவ்வு', to enjoy or experience) highlights the heart's failure to actually sustain the resentment it started.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Hereafter such things with you who will consult, O heart! Sulking having made, you do not enjoy, see, indeed!",
+ "translation": "O my heart! Who will consult with you hereafter on such matters? For you prolong your sulking and do not enjoy the pleasure of union when it is offered.",
+ "modern": "நெஞ்சமே! இனிமேல் உன்னோடு இது போன்ற காரியங்களை யார்தான் ஆலோசிப்பார்கள்? நீயோ ஊடல் செய்து இன்பத்தை அனுபவிக்காமல் விடுகிறாய், பார்!",
+ "explanation": "The speaker addresses their own heart in frustration. The heart had previously advised feigning anger (sulking) to heighten the pleasure of love, but when the opportunity for union arose, the heart prolonged the sulking and failed to enjoy the moment. The speaker declares that they will never consult their heart again on such matters. The phrase 'சூழ்வார் யார்' (who will consult?) emphasizes the loss of trust in one's own mind, while 'துனி செய்து துவ்வாய்' (having sulked, you do not enjoy) highlights the self-defeating nature of the heart's advice.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

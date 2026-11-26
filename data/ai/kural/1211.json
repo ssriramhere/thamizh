@@ -25,7 +25,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with message"
+   "gloss": "with a message"
   },
   {
    "surface": "வந்த",
@@ -49,7 +49,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "உக்கு",
@@ -79,17 +79,12 @@
      "gloss": "do"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I"
+     "text": "வேன்",
+     "lemma": "வேன்",
+     "gloss": "I will"
     }
    ],
-   "gloss": "will I do"
+   "gloss": "I will do"
   },
   {
    "surface": "கொல்",
@@ -97,7 +92,7 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "particle of wonder"
     }
    ],
    "gloss": "indeed"
@@ -108,16 +103,16 @@
     {
      "text": "விருந்து",
      "lemma": "விருந்து",
-     "gloss": "feast"
+     "gloss": "hospitality"
     }
    ],
-   "gloss": "feast"
+   "gloss": "hospitality"
   }
  ],
- "literal": "Lover / with message / that came / to the dream / what / will I do / indeed / feast",
- "translation": "What feast can I possibly offer to the dream that came bearing a message from my lover?",
- "modern": "என் காதலரின் தூதுடன் வந்த கனவுக்கு நான் என்ன விருந்து செய்து உபசரிப்பேன்?",
- "explanation": "The speaker, longing for her absent lover, is comforted by a dream that brings a message from him. Overwhelmed with gratitude, she personifies the dream as a welcome guest. She wonders aloud what kind of feast or hospitality ('விருந்து') she could possibly offer to adequately thank the dream. This highlights the deep solace she finds in her dreams during their painful separation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the dream that came with a message from my lover, what hospitality shall I indeed offer?",
+ "translation": "What hospitality can I offer to the dream that came to me bearing a message from my beloved?",
+ "modern": "என் காதலரின் தூதுடன் வந்த கனவுக்கு நான் என்ன விருந்து செய்வேன்?",
+ "explanation": "The heroine, suffering from the pain of separation, experiences a dream in which her lover appears. She views this dream not just as an illusion, but as an honored guest that has traveled to bring her a precious message of love. Overwhelmed with gratitude, she wonders what fitting hospitality or feast (vīrundu) she can offer to welcome this dream. This highlights her deep longing and how even a fleeting dream of her lover is treated as a life-giving blessing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

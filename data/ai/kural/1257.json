@@ -33,7 +33,7 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "even"
+     "gloss": "clitic of emphasis"
     }
    ],
    "gloss": "even one thing"
@@ -42,9 +42,19 @@
    "surface": "அறியலம்",
    "parts": [
     {
-     "text": "அறியலம்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "we do not know"
+     "gloss": "know"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "அம்",
+     "lemma": "அம்",
+     "gloss": "we"
     }
    ],
    "gloss": "we do not know"
@@ -54,33 +64,44 @@
    "parts": [
     {
      "text": "காமத்தால்",
-     "lemma": "காமம்",
-     "gloss": "by passion"
+     "lemma": "காமத்தால்",
+     "gloss": "by desire"
     }
    ],
-   "gloss": "by passion"
+   "gloss": "by desire",
+   "split_unverified": true
   },
   {
    "surface": "பேணியார்",
    "parts": [
     {
-     "text": "பேணியார்",
+     "text": "பேணு",
      "lemma": "பேணு",
-     "gloss": "he who cares"
+     "gloss": "cherish"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "he who cares"
+   "gloss": "those who cherished"
   },
   {
    "surface": "பெட்ப",
    "parts": [
     {
      "text": "பெட்ப",
-     "lemma": "பெட்பு",
+     "lemma": "பெட்ப",
      "gloss": "pleasingly"
     }
    ],
-   "gloss": "pleasingly"
+   "gloss": "pleasing things"
   },
   {
    "surface": "செயின்",
@@ -96,13 +117,13 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if (he) does"
+   "gloss": "if they do"
   }
  ],
- "literal": "modesty called even one thing we do not know, by passion he who cares pleasingly if does.",
- "translation": "I know nothing of a thing called modesty when my lover, out of passion, does exactly what pleases me.",
- "modern": "காதலர் தன் காமத்தால் நான் விரும்பும் செயல்களைச் செய்தால், நாணம் என்று சொல்லப்படும் ஒரு பொருளை நான் அறிய மாட்டேன்.",
- "explanation": "The heroine expresses how her deep love overcomes her natural sense of reserve. She states that if her lover acts out of passion to do exactly what pleases her ('பெட்ப செயின்'), she completely loses herself. In those moments, she does not even recognize a concept called modesty ('நாண் என ஒன்றோ அறியலம்'). The word 'பேணியார்' refers to the lover who cares for her, highlighting that his affectionate actions dissolve her inhibitions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Modesty called one thing we do not know, if by love those who cherished (us) do pleasing things.",
+ "translation": "We know nothing of a thing called modesty, if our beloved, out of love, acts in ways that please us.",
+ "modern": "நம்மை விரும்பிய காதலர், காதலினால் நமக்கு விருப்பமானவற்றைச் செய்யும்போது, நாணம் என்று சொல்லப்படும் ஒரு குணத்தை நாம் அறியமாட்டோம்.",
+ "explanation": "In this couplet, the heroine describes how her natural reserve and modesty completely dissolve in the warmth of her lover's affection. She states that when her beloved, whom she deeply cherishes, acts out of love to do things that please her, she loses all awareness of what is called modesty ('நாண்'). The word 'பெட்ப' refers to pleasing or desirable actions that bring joy. The verse highlights how the overwhelming power of mutual love ('காமம்') naturally overcomes any sense of restraint or hesitation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

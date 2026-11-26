@@ -4,14 +4,9 @@
    "surface": "எனைத்துணையர்",
    "parts": [
     {
-     "text": "எனை",
-     "lemma": "எனை",
-     "gloss": "whatever"
-    },
-    {
-     "text": "துணை",
-     "lemma": "துணை",
-     "gloss": "measure"
+     "text": "எனைத்துணை",
+     "lemma": "எனைத்துணை",
+     "gloss": "of whatever greatness"
     },
     {
      "text": "அர்",
@@ -19,23 +14,18 @@
      "gloss": "they"
     }
    ],
-   "gloss": "of whatever measure they are"
+   "gloss": "those of whatever great stature"
   },
   {
    "surface": "ஆயினும்",
    "parts": [
     {
-     "text": "ஆயின்",
-     "lemma": "ஆகு",
-     "gloss": "if they are"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "ஆயினும்",
+     "lemma": "ஆயினும்",
+     "gloss": "even though they are"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though they are"
   },
   {
    "surface": "என்",
@@ -54,23 +44,18 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "will become"
+     "gloss": "will become / is the use"
     }
    ],
-   "gloss": "will become"
+   "gloss": "is the use"
   },
   {
    "surface": "தினைத்துணையும்",
    "parts": [
     {
-     "text": "தினை",
-     "lemma": "தினை",
-     "gloss": "millet"
-    },
-    {
-     "text": "துணை",
-     "lemma": "துணை",
-     "gloss": "measure"
+     "text": "தினைத்துணை",
+     "lemma": "தினைத்துணை",
+     "gloss": "measure of a millet seed"
     },
     {
      "text": "உம்",
@@ -78,23 +63,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even a millet's measure"
+   "gloss": "even to the tiny measure of a millet seed"
   },
   {
    "surface": "தேரான்",
    "parts": [
     {
-     "text": "தேர்",
+     "text": "தேரான்",
      "lemma": "தேர்",
-     "gloss": "consider"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "one who does not reflect"
     }
    ],
-   "gloss": "he who considers not"
+   "gloss": "without reflecting"
   },
   {
    "surface": "பிறன்",
@@ -105,7 +85,7 @@
      "gloss": "another man"
     }
    ],
-   "gloss": "another man's"
+   "gloss": "another's"
   },
   {
    "surface": "இல்",
@@ -113,27 +93,27 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house/wife"
+     "gloss": "house"
     }
    ],
-   "gloss": "house/wife"
+   "gloss": "house"
   },
   {
    "surface": "புகல்",
    "parts": [
     {
      "text": "புகல்",
-     "lemma": "புகு",
+     "lemma": "புகல்",
      "gloss": "entering"
     }
    ],
    "gloss": "entering"
   }
  ],
- "literal": "of whatever measure they are - even if - what - will become - even millet-measure - he who considers not - another man's - house/wife - entering",
- "translation": "What does it matter how great a man is? Entering another man's house without the slightest thought renders his greatness worthless.",
- "modern": "ஒருவர் எவ்வளவு பெருமை உடையவராக இருந்தாலும் என்ன பயன்? தினையளவு கூட விளைவுகளை ஆராயாமல் பிறனுடைய மனைவியிடம் செல்வது அந்தப் பெருமையை அழித்துவிடும்.",
- "explanation": "The couplet questions the value of any greatness a person might possess if they commit the grave error of desiring another man's wife. The word 'எனைத்துணையர்' (of whatever measure) emphasizes that no amount of wealth, power, or learning can compensate for this moral failure. 'தினைத்துணையும் தேரான்' (not considering even a millet's measure) vividly illustrates the complete lack of forethought and moral judgment. Entering another's house ('பிறனில் புகல்') without the slightest reflection renders all other achievements meaningless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Of whatever greatness they may be, what is the use, if, even a millet-seed's measure not reflecting, another's house they enter?",
+ "translation": "Of what use is any degree of greatness they may possess, if, without reflecting even to the measure of a tiny millet seed, they enter another's home with desire?",
+ "modern": "எவ்வளவு பெருமை உடையவராக இருந்தாலும், தினை அளவு கூட ஆராய்ந்து பார்க்காமல் பிறனுடைய வீட்டிற்குள் (அவன் மனைவியை விரும்பி) நுழைந்தால் என்ன பயன்?",
+ "explanation": "This couplet warns that no amount of power, learning, or social stature can save a person's reputation if they lack moral restraint. The phrase 'தினைத்துணையும் தேரான்' describes someone who fails to reflect on the consequences of their actions even to the tiny extent of a millet seed. 'பிறனில் புகல்' refers to entering another man's home with lustful intent toward his wife. The author emphasizes that this single, unthinking act of transgression completely nullifies all of one's accumulated greatness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

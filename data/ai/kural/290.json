@@ -4,24 +4,14 @@
    "surface": "கள்வார்க்கு",
    "parts": [
     {
-     "text": "கள்",
-     "lemma": "கள்",
-     "gloss": "to steal"
+     "text": "கள்வார்",
+     "lemma": "கள்வர்",
+     "gloss": "those who steal"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "dative suffix"
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to/for"
     }
    ],
    "gloss": "to those who steal"
@@ -30,17 +20,12 @@
    "surface": "தள்ளும்",
    "parts": [
     {
-     "text": "தள்ளு",
+     "text": "தள்ளும்",
      "lemma": "தள்ளு",
-     "gloss": "to fail"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future tense suffix"
+     "gloss": "will reject or slip away"
     }
    ],
-   "gloss": "will fail"
+   "gloss": "will be lost"
   },
   {
    "surface": "உயிர்நிலை",
@@ -53,52 +38,32 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "state"
+     "gloss": "abode"
     }
    ],
-   "gloss": "state of life"
+   "gloss": "the abode of life"
   },
   {
    "surface": "கள்வார்க்கு",
    "parts": [
     {
-     "text": "கள்",
-     "lemma": "கள்",
-     "gloss": "to steal"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "dative suffix"
+     "text": "கள்வார்க்கு",
+     "lemma": "கள்ளார்க்கு",
+     "gloss": "to those who do not steal"
     }
    ],
-   "gloss": "to those who steal (error for கள்ளார்க்கு)"
+   "gloss": "to those who do not steal"
   },
   {
    "surface": "தள்ளாது",
    "parts": [
     {
-     "text": "தள்ளு",
+     "text": "தள்ளாது",
      "lemma": "தள்ளு",
-     "gloss": "to fail"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative suffix"
+     "gloss": "will not reject"
     }
    ],
-   "gloss": "will not fail"
+   "gloss": "will not be denied"
   },
   {
    "surface": "புத்தேள்",
@@ -106,10 +71,10 @@
     {
      "text": "புத்தேள்",
      "lemma": "புத்தேள்",
-     "gloss": "god"
+     "gloss": "deity or celestial being"
     }
    ],
-   "gloss": "god"
+   "gloss": "celestial"
   },
   {
    "surface": "உளகு",
@@ -120,13 +85,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world (error for உலகு)"
+   "gloss": "world"
   }
  ],
- "literal": "To those who steal, the state of life will fail; to those who steal [error for: do not steal], the world of gods will not fail.",
- "translation": "For those who steal, their very existence will fail them. But for those who do not steal, the celestial world of the gods will never fail.",
- "modern": "பிறர் பொருளைத் திருடுபவர்களுக்கு அவர்களின் உயிரும் உடம்பும் நிலைக்காமல் அழிந்து போகும். திருடாதவர்களுக்குத் தேவர்களது உலகம் தவறாமல் கிடைக்கும்.",
- "explanation": "This couplet contrasts the ultimate fates of thieves and honest people. Note that the provided text contains typographical errors: the second 'கள்வார்க்கு' (to those who steal) should be 'கள்ளார்க்கு' (to those who do not steal), and 'உளகு' should be 'உலகு' (world). The poet warns that for those who steal, even their 'உயிர்நிலை' (the state of life, or the body that holds life) will eventually fail and perish. In contrast, for those who maintain their integrity and do not steal, the heavenly world of the gods ('புத்தேள் உலகு') will never fail to welcome them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who steal, the abode of life will be lost; to those who do not steal, the celestial world will not be denied.",
+ "translation": "For those who steal, even their very life-abode will be lost; but for those who do not steal, the celestial world of the gods will never be denied.",
+ "modern": "திருடுபவர்களுக்கு உடம்பாகிய உயிர்நிலை தவறிப்போகும்; திருடாதவர்களுக்குத் தேவர் உலகம் தவறாமல் கிடைக்கும்.",
+ "explanation": "This couplet contrasts the ultimate spiritual and physical fates of those who steal and those who practice non-stealing. For the thief, even the basic right to a proper physical existence or the preservation of their life (உயிர்நிலை) is lost due to their actions. In contrast, for those who strictly avoid theft, the ultimate celestial realm of the gods (புத்தேள் உலகு) is guaranteed and will never be withheld from them. The poet uses the contrast between losing one's earthly station and gaining the highest heavenly world to emphasize the gravity of non-stealing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

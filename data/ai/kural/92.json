@@ -17,10 +17,10 @@
     {
      "text": "அமர்ந்து",
      "lemma": "அமர்",
-     "gloss": "being pleased"
+     "gloss": "delighting"
     }
    ],
-   "gloss": "being pleased"
+   "gloss": "delighting"
   },
   {
    "surface": "ஈதலின்",
@@ -52,7 +52,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "it is better indeed"
+   "gloss": "is indeed better"
   },
   {
    "surface": "முகன்",
@@ -71,10 +71,10 @@
     {
      "text": "அமர்ந்து",
      "lemma": "அமர்",
-     "gloss": "being pleased"
+     "gloss": "delighting"
     }
    ],
-   "gloss": "being pleased"
+   "gloss": "delighting"
   },
   {
    "surface": "இன்சொலன்",
@@ -85,14 +85,9 @@
      "gloss": "sweet"
     },
     {
-     "text": "சொல்",
-     "lemma": "சொல்",
-     "gloss": "word"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "he who"
+     "text": "சொலன்",
+     "lemma": "சொல்லன்",
+     "gloss": "one who speaks words"
     }
    ],
    "gloss": "one who speaks sweet words"
@@ -101,14 +96,9 @@
    "surface": "ஆக",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to be"
     }
    ],
    "gloss": "to be"
@@ -117,23 +107,18 @@
    "surface": "பெறின்",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "to obtain"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one can be"
     }
    ],
-   "gloss": "if one is able to"
+   "gloss": "if one can be"
   }
  ],
- "literal": "Heart being pleased than giving, it is better indeed, face being pleased sweet-worded-one to be if obtained.",
- "translation": "It is even better than giving with a joyful heart, if one can speak sweet words with a cheerful face.",
- "modern": "உள்ளம் மகிழ்ந்து ஒரு பொருளைக் கொடுப்பதை விட, முகம் மலர்ந்து இனிய சொற்களைக் கூறுபவனாக இருக்க முடிந்தால் அது மிகவும் நல்லது.",
- "explanation": "This couplet compares two virtuous acts: giving generously and speaking sweetly. The phrase 'அகன் அமர்ந்து ஈதல்' refers to giving a gift with a willing, joyful heart. However, the poet states that 'முகன் அமர்ந்து இன்சொலன் ஆகப் பெறின்'—having a cheerful face and speaking pleasant words—is even better. The comparative suffix 'இன்' in 'ஈதலின்' combined with 'நன்றே' (it is better indeed) establishes that sweet speech with a smiling face surpasses even heartfelt charity. This emphasizes that kind words are a supreme virtue, accessible to everyone and deeply impactful.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With a delighted heart, than giving, is indeed better, with a delighted face, to be one who speaks sweet words, if one can be.",
+ "translation": "If one can be a person who speaks sweet words with a cheerful face, that is indeed better than giving gifts with a glad heart.",
+ "modern": "மனம் மகிழ்ந்து கொடுப்பதைக் காட்டிலும், முகம் மலர்ந்து இனிய சொற்களைப் பேசுபவனாக இருக்கப் பெற்றால் அதுவே மிகச் சிறந்ததாகும்.",
+ "explanation": "This couplet compares the virtue of charity with the virtue of pleasant speech. While giving gifts with a glad heart is highly praised, the poet asserts that speaking sweet words with a cheerful, welcoming face is even better. The words 'akan' (heart) and 'mukaṉ' (face) are contrasted to show that internal joy must manifest as external warmth. The repetition of 'amarntu' (delighting) emphasizes that both the giving and the speaking must be done with genuine pleasure, but the latter has a greater everyday value.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

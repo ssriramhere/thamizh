@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "பெறல்",
-     "lemma": "பெறு",
+     "lemma": "பெறுதல்",
      "gloss": "obtaining"
     }
    ],
@@ -26,9 +26,19 @@
    "surface": "ஊரார்க்கு",
    "parts": [
     {
-     "text": "ஊரார்க்கு",
-     "lemma": "ஊரார்",
-     "gloss": "to the townspeople"
+     "text": "ஊர்",
+     "lemma": "ஊர்",
+     "gloss": "town"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "people"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to the townspeople"
@@ -38,8 +48,8 @@
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "difficult"
+     "lemma": "அரிது",
+     "gloss": "difficult thing"
     }
    ],
    "gloss": "difficult"
@@ -50,7 +60,7 @@
     {
      "text": "அன்று",
      "lemma": "அன்று",
-     "gloss": "is not"
+     "gloss": "it is not"
     },
     {
      "text": "ஆல்",
@@ -65,7 +75,7 @@
    "parts": [
     {
      "text": "எம்",
-     "lemma": "எம்",
+     "lemma": "யாம்",
      "gloss": "our"
     }
    ],
@@ -88,7 +98,7 @@
     {
      "text": "அறை",
      "lemma": "அறை",
-     "gloss": "beaten"
+     "gloss": "beat"
     }
    ],
    "gloss": "beaten"
@@ -115,10 +125,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they who have"
+     "gloss": "those who have"
     }
    ],
-   "gloss": "those with eyes"
+   "gloss": "those who have eyes"
   },
   {
    "surface": "அகத்து",
@@ -132,10 +142,10 @@
    "gloss": "inside"
   }
  ],
- "literal": "Secret obtaining to townspeople difficult is not indeed, our like beaten drum eyes-who-have inside.",
- "translation": "It is not difficult for the townspeople to discover the secrets within those whose eyes, like ours, beat like a drum.",
- "modern": "எம்மைப் போலப் பறை அறைந்து செய்தியைச் சொல்லும் கண்களை உடையவர்களின் மனத்தில் உள்ள ரகசியத்தை அறிவது ஊராருக்குக் கடினமான செயல் அல்ல.",
- "explanation": "The speaker laments that her eyes are betraying her hidden sorrow. She compares her eyes to a beaten drum (அறை பறை) that loudly announces news to the whole town. The word அறை has multiple meanings such as a room or a rock, but here it means beaten or sounding, fitting the drum metaphor. Because her eyes weep and show her inner feelings so openly, it is not difficult (அரிது அன்று) for the townspeople to discover the secret (மறை) kept inside (அகத்து) her heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Obtaining the secret is not difficult indeed to the townspeople, inside those who have eyes like a beaten drum like us.",
+ "translation": "It is not at all difficult for the townspeople to discover my secret, for my eyes act like a beaten drum, loudly proclaiming what is hidden within me.",
+ "modern": "எங்களைப் போல அடிக்கப்படும் பறை போன்ற கண்களை உடையவர்களின் உள்ளத்தில் உள்ள ரகசியத்தை அறிவது இவ்வூர் மக்களுக்கு அரிதானது அல்ல.",
+ "explanation": "The heroine laments that she cannot keep her love a secret from the villagers. She compares her eyes to a beaten drum, which by its very nature broadcasts news to the entire town. Just as a drumbeat makes a public announcement, her expressive and tearful eyes instantly reveal the secret longing of her heart. Therefore, the townspeople easily perceive the love she tries to hide.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

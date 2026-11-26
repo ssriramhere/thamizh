@@ -33,10 +33,10 @@
     {
      "text": "மன்ற",
      "lemma": "மன்ற",
-     "gloss": "indeed"
+     "gloss": "surely"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "surely"
   },
   {
    "surface": "நிரப்பிய",
@@ -44,10 +44,10 @@
     {
      "text": "நிரப்பிய",
      "lemma": "நிரப்பு",
-     "gloss": "accumulated"
+     "gloss": "having filled or accumulated"
     }
    ],
-   "gloss": "accumulated things"
+   "gloss": "having accumulated"
   },
   {
    "surface": "தாமே",
@@ -55,15 +55,15 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "oneself"
+     "gloss": "themselves"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "oneself alone"
+   "gloss": "themselves alone"
   },
   {
    "surface": "தமியர்",
@@ -71,27 +71,27 @@
     {
      "text": "தமியர்",
      "lemma": "தமியர்",
-     "gloss": "solitary person"
+     "gloss": "solitary persons"
     }
    ],
-   "gloss": "as a solitary person"
+   "gloss": "being alone"
   },
   {
    "surface": "உணல்",
    "parts": [
     {
      "text": "உணல்",
-     "lemma": "உண்",
+     "lemma": "உணல்",
      "gloss": "eating"
     }
    ],
    "gloss": "eating"
   }
  ],
- "literal": "Than begging, is painful indeed, accumulated things oneself alone as a solitary person eating.",
- "translation": "Eating one's hoarded wealth all by oneself is truly more painful than begging.",
- "modern": "தான் சேர்த்து வைத்த பொருளைத் தான் மட்டுமே தனியாக இருந்து உண்பது, பிறரிடம் சென்று பிச்சை எடுப்பதை விட மிகவும் துன்பமானது.",
- "explanation": "This couplet compares the pain of begging with the act of hoarding wealth to consume it alone. The word 'இரத்தலின்' uses the ablative suffix to mean 'worse than begging', setting up a stark comparison. 'நிரப்பிய' refers to things that have been amassed or filled up over time. To eat these accumulated things entirely by oneself, expressed by the phrase 'தாமே தமியர் உணல்' (oneself as a solitary person eating), is declared to be 'இன்னாது' (painful or bad). The particle 'மன்ற' adds certainty, emphasizing that selfish hoarding without sharing is truly a more wretched state than being forced to beg.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than begging, painful indeed is, having accumulated food, themselves alone in solitude eating.",
+ "translation": "Eating alone in solitude, having hoarded food only for oneself, is surely more painful than begging for alms.",
+ "modern": "இரந்து கேட்பதை விட மிகவும் துன்பமானது, தனக்காகச் சேர்த்து வைத்த உணவைத் தான் மட்டும் தனியாக உண்பது ஆகும்.",
+ "explanation": "This couplet compares the misery of begging with the selfishness of hoarding. While begging is universally seen as a painful and humiliating state, the poet declares that securing food only for oneself ('nirappiya') and eating it in solitary isolation ('tamiyar uṇal') without sharing is far more wretched. The word 'maṉṟa' acts as an intensifier, emphasizing that this truth is absolute. Thus, the spiritual pain of selfishness is shown to be worse than the physical pain of poverty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,27 +5,22 @@
    "parts": [
     {
      "text": "அளவளா",
-     "lemma": "அளவளா",
-     "gloss": "mingling"
+     "lemma": "அளவளாவு",
+     "gloss": "mingling/associating closely"
     }
    ],
-   "gloss": "mingling"
+   "gloss": "mingling/associating closely"
   },
   {
    "surface": "இல்லாதான்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "ஆதான்",
-     "lemma": "ஆதான்",
-     "gloss": "he who is"
+     "text": "இல்லாதான்",
+     "lemma": "இல்லாதவன்",
+     "gloss": "one who does not have"
     }
    ],
-   "gloss": "he who is without"
+   "gloss": "one who does not have"
   },
   {
    "surface": "வாழ்க்கை",
@@ -55,10 +50,10 @@
     {
      "text": "கோடு",
      "lemma": "கோடு",
-     "gloss": "bank"
+     "gloss": "bank/embankment"
     }
    ],
-   "gloss": "bank"
+   "gloss": "bank/embankment"
   },
   {
    "surface": "இன்றி",
@@ -99,16 +94,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Mingling he-who-is-without life, pond's-expanse bank without water having-filled like-that.",
- "translation": "The life of one who does not mingle intimately with his kindred is like a vast pond filling with water without a bank to hold it.",
- "modern": "சுற்றத்தாருடன் மனம் விட்டுப் பழகும் தன்மை இல்லாதவனின் வாழ்க்கையானது, கரையில்லாத ஒரு பெரிய குளத்தில் நீர் நிறைவதைப் போன்றது.",
- "explanation": "This couplet compares the life of a person who lacks intimacy with their relatives to a vast pond that has no banks. Just as water flowing into a bankless pond simply runs off and is wasted without benefiting anyone, the wealth and life of someone who does not embrace their kindred will not be sustained or useful. The word 'அளவளா' refers to mingling freely and intimately, highlighting the emotional bond needed to hold a family together, much like a bank holds water.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The life of one who does not mingle is like a pond's expanse filled with water without an embankment.",
+ "translation": "The life of one who does not mingle lovingly with his relatives is like a wide pond filled with water that has no retaining bank.",
+ "modern": "சுற்றத்தாருடன் கலந்து பழகாதவனுடைய வாழ்க்கை, கரையில்லாமல் நீர் நிறைந்த குளத்தைப் போன்றது.",
+ "explanation": "This couplet emphasizes the importance of maintaining close and affectionate relationships with one's relatives. The poet compares the life of a person who does not mingle or socialize with his kin to a pond filled with water but lacking a protective embankment. Just as water in a bankless pond quickly drains away and goes to waste, the wealth and prosperity of a man who isolates himself from his relatives will not endure. Thus, relatives act as the protective banks that preserve and sustain one's life and resources.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

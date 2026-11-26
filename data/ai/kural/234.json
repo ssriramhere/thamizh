@@ -4,9 +4,14 @@
    "surface": "நிலவரை",
    "parts": [
     {
-     "text": "நிலவரை",
-     "lemma": "நிலவரை",
-     "gloss": "earth's limit"
+     "text": "நில",
+     "lemma": "நிலம்",
+     "gloss": "earth"
+    },
+    {
+     "text": "வரை",
+     "lemma": "வரை",
+     "gloss": "limit"
     }
    ],
    "gloss": "within the limits of the earth"
@@ -17,7 +22,7 @@
     {
      "text": "நீள்",
      "lemma": "நீள்",
-     "gloss": "long"
+     "gloss": "enduring"
     },
     {
      "text": "புகழ்",
@@ -32,8 +37,8 @@
    "parts": [
     {
      "text": "ஆற்று",
-     "lemma": "ஆற்று",
-     "gloss": "to do"
+     "lemma": "ஆற்றுதல்",
+     "gloss": "to achieve"
     },
     {
      "text": "இன்",
@@ -41,7 +46,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if achieved"
+   "gloss": "if one achieves"
   },
   {
    "surface": "புலவரை",
@@ -49,26 +54,31 @@
     {
      "text": "புலவர்",
      "lemma": "புலவர்",
-     "gloss": "wise ones"
+     "gloss": "wise sages"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "ACC"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "the wise ones"
+   "gloss": "the wise sages"
   },
   {
    "surface": "போற்றாது",
    "parts": [
     {
-     "text": "போற்றாது",
-     "lemma": "போற்று",
-     "gloss": "will not praise"
+     "text": "போற்று",
+     "lemma": "போற்றுதல்",
+     "gloss": "to praise"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
     }
    ],
-   "gloss": "will not praise"
+   "gloss": "without praising"
   },
   {
    "surface": "புத்தேள்",
@@ -76,10 +86,10 @@
     {
      "text": "புத்தேள்",
      "lemma": "புத்தேள்",
-     "gloss": "god"
+     "gloss": "deity"
     }
    ],
-   "gloss": "god"
+   "gloss": "celestial beings"
   },
   {
    "surface": "உலகு",
@@ -90,13 +100,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Within the limits of the earth, if enduring fame is achieved, the wise ones it will not praise, the world of gods.",
- "translation": "If a person achieves enduring fame within the limits of this earth, the celestial world of gods will praise them rather than its own wise sages.",
- "modern": "இந்த நிலவுலகில் ஒருவன் நிலைத்த புகழைப் பெற்றால், தேவர் உலகம் தன் அறிஞர்களைப் போற்றாமல் அந்தப் புகழுடையவனையே போற்றும்.",
- "explanation": "This couplet highlights the supreme value of earthly fame. If a person earns lasting fame within the boundaries of this world, their greatness is recognized even in the heavens. The celestial world of gods will cease praising its own wise sages and instead celebrate the famous mortal. The word 'pulavar' here refers to the wise ones or sages of the heavenly realm, emphasizing that earthly fame outshines even celestial wisdom.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one achieves enduring fame within the limits of the earth, the world of the gods, without praising the wise sages, will praise them.",
+ "translation": "If a person achieves enduring fame within the boundaries of this earth, the world of the gods will cease to praise its own wise sages and will instead praise that famous person.",
+ "modern": "ஒருவர் இந்த நிலவுலகின் எல்லைக்குள் அழியாத புகழைச் செய்வாரானால், தேவர் உலகம் அங்குள்ள அறிஞர்களைப் போற்றாமல், இவரையே போற்றிப் புகழும்.",
+ "explanation": "This couplet highlights the supreme value of earning lasting fame in the mortal world. It states that if someone achieves enduring fame on earth, even the celestial world of the gods will ignore its own resident sages and wise beings to praise and welcome this extraordinary human. The word 'புலவர்' here refers to the wise or divine scholars of the heavenly realm, and 'புத்தேள் உலகு' refers to the world of the gods. The poet uses this comparison to show that true earthly fame transcends even the glory of the heavens.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,17 +11,17 @@
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having (verbal participle suffix)"
     }
    ],
-   "gloss": "piling up"
+   "gloss": "having piled up"
   },
   {
    "surface": "வரினும்",
    "parts": [
     {
      "text": "வரு",
-     "lemma": "வா",
+     "lemma": "வரு",
      "gloss": "come"
     },
     {
@@ -35,7 +35,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if (they) come"
+   "gloss": "even if they come"
   },
   {
    "surface": "அழிவு",
@@ -54,12 +54,12 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not having"
+     "gloss": "without"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "he who"
     }
    ],
    "gloss": "he who does not have"
@@ -70,10 +70,10 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "experienced"
+     "gloss": "encountered"
     }
    ],
-   "gloss": "experienced"
+   "gloss": "encountered"
   },
   {
    "surface": "இடுக்கண்",
@@ -81,10 +81,10 @@
     {
      "text": "இடுக்கண்",
      "lemma": "இடுக்கண்",
-     "gloss": "trouble"
+     "gloss": "distress"
     }
    ],
-   "gloss": "trouble"
+   "gloss": "distress"
   },
   {
    "surface": "இடுக்கண்",
@@ -92,32 +92,27 @@
     {
      "text": "இடுக்கண்",
      "lemma": "இடுக்கண்",
-     "gloss": "trouble"
+     "gloss": "distress"
     }
    ],
-   "gloss": "trouble"
+   "gloss": "distress"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "suffer"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will suffer"
     }
    ],
    "gloss": "will suffer"
   }
  ],
- "literal": "Piling up even if (they) come, despair he-who-has-not experienced trouble, trouble will suffer.",
- "translation": "The trouble experienced by a man who does not despair even when hardships come piling up, will itself suffer trouble.",
- "modern": "துன்பங்கள் ஒன்றன்பின் ஒன்றாக அடுக்கிக்கொண்டு வந்தாலும் மனம் தளராதவன் அடைந்த துன்பமே, அவனிடம் தோற்றுத் துன்பப்படும்.",
- "explanation": "This couplet personifies trouble to illustrate the power of a resilient mind. It states that if a person refuses to despair even when hardships come one after another, the hardship itself will suffer. The word 'அழிவு' (destruction) here refers to the breaking down or despair of the mind. By standing firm, the resilient person turns the tables, making 'இடுக்கண்' (trouble) experience 'இடுக்கண்' (trouble) and ultimately defeating it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they come piled up, the distress encountered by him who has no despair will itself suffer distress.",
+ "translation": "Even if troubles come crowding in waves, the distress met by a person who does not despair will itself suffer distress and flee.",
+ "modern": "துன்பங்கள் அடுக்கடுக்காக வந்தாலும், மனத்தளர்ச்சி இல்லாதவன் அடையும் துன்பமானது தானே துன்பப்பட்டு அழிந்துவிடும்.",
+ "explanation": "This couplet uses a powerful personification of distress to show the strength of resilience. The poet states that when a person of undaunted spirit, who refuses to sink into despair (அழிவிலான்), encounters difficulties, those difficulties cannot break him. Even if troubles pile up one after another (அடுக்கி வரினும்), the distress itself gets distressed (இடுக்கண் இடுக்கட்படும்) and is defeated by his unwavering courage. Ultimately, resilience turns the tables on adversity, making the trouble itself suffer failure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

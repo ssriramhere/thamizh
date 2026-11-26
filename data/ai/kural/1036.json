@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "உழவினார்",
-     "lemma": "உழவினர்",
-     "gloss": "farmers"
+     "lemma": "உழவர்",
+     "gloss": "ploughmen"
     }
    ],
-   "gloss": "farmers"
+   "gloss": "ploughmen"
   },
   {
    "surface": "கைம்மடங்கின்",
@@ -17,17 +17,17 @@
     {
      "text": "கைம்மடங்கின்",
      "lemma": "கைம்மடங்குதல்",
-     "gloss": "if hands fold"
+     "gloss": "if hands are folded (cease to work)"
     }
    ],
-   "gloss": "if hands fold"
+   "gloss": "if hands are folded (cease to work)"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
+     "lemma": "இல்லை",
      "gloss": "there is not"
     }
    ],
@@ -39,10 +39,10 @@
     {
      "text": "விழைவதூஉம்",
      "lemma": "விழைவது",
-     "gloss": "even desired things"
+     "gloss": "even that which is desired"
     }
    ],
-   "gloss": "even desired things"
+   "gloss": "even that which is desired"
   },
   {
    "surface": "விட்டேம்",
@@ -72,16 +72,16 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "standing"
+     "gloss": "stability or state of existence"
     }
    ],
-   "gloss": "standing"
+   "gloss": "stability or state of existence"
   }
  ],
- "literal": "farmers / if hands fold / there is not / even desired things / we have renounced / even to those who say / standing",
- "translation": "If the hands of farmers stop working, even those who claim to have renounced all desires will find they cannot endure.",
- "modern": "உழவர்களின் கைகள் வேலை செய்யாமல் மடங்கிவிட்டால், ஆசைகளை எல்லாம் விட்டுவிட்டோம் என்று கூறும் துறவிகளுக்கும் உலகில் வாழும் நிலை இருக்காது.",
- "explanation": "This couplet highlights the absolute necessity of agriculture for all human life. The phrase 'hands fold' is a vivid image for ceasing to work the land. Even ascetics who claim to have given up all worldly desires still need food to maintain their physical existence. Therefore, the spiritual and ascetic life of a society ultimately rests on the continuous labor of its farmers.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If the ploughmen's hands are folded, there is no stability of existence even for those who say we have renounced all that is desired.",
+ "translation": "If the hands of ploughmen are folded in idleness, there is no stability of life even for those who claim to have renounced all worldly desires.",
+ "modern": "உழவர்களுடைய கைகள் வேலை செய்யாமல் முடங்கிப் போனால், 'நாங்கள் ஆசைகளைத் துறந்துவிட்டோம்' என்று கூறும் துறவிகளுக்கும் கூட இவ்வுலகில் வாழ வழியில்லாமல் போகும்.",
+ "explanation": "This couplet emphasizes that agriculture is the ultimate support for every member of society, including those who have withdrawn from worldly life. The phrase 'கைம்மடங்கின்' metaphorically describes farmers stopping their work, while 'விட்டேம் என்பார்' refers to ascetics who have renounced all desires. Even though these ascetics have given up material wants, they still require food to sustain their physical existence. Without the active labor of the ploughmen, even the most detached spiritual seekers cannot survive, proving that all human existence relies on the farmer.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

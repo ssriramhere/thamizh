@@ -4,20 +4,9 @@
    "surface": "இளையர்",
    "parts": [
     {
-     "text": "இளையர்",
-     "lemma": "இளையர்",
-     "gloss": "young persons"
-    }
-   ],
-   "gloss": "they are young"
-  },
-  {
-   "surface": "இனமுறையர்",
-   "parts": [
-    {
-     "text": "இனமுறை",
-     "lemma": "இனமுறை",
-     "gloss": "kinship"
+     "text": "இளை",
+     "lemma": "இளை",
+     "gloss": "young"
     },
     {
      "text": "அர்",
@@ -25,7 +14,19 @@
      "gloss": "they"
     }
    ],
-   "gloss": "they are relatives"
+   "gloss": "those who are younger"
+  },
+  {
+   "surface": "இனமுறையர்",
+   "parts": [
+    {
+     "text": "இனமுறையர்",
+     "lemma": "இனமுறையர்",
+     "gloss": "those who are related as kin"
+    }
+   ],
+   "gloss": "those who are related as kin",
+   "split_unverified": true
   },
   {
    "surface": "என்று",
@@ -33,10 +34,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "thinking"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "thinking so"
   },
   {
    "surface": "இகழார்",
@@ -44,7 +45,7 @@
     {
      "text": "இகழ்",
      "lemma": "இகழ்",
-     "gloss": "to despise"
+     "gloss": "despise"
     },
     {
      "text": "ஆர்",
@@ -52,7 +53,7 @@
      "gloss": "they (negative)"
     }
    ],
-   "gloss": "they will not despise"
+   "gloss": "without disrespecting"
   },
   {
    "surface": "நின்ற",
@@ -60,10 +61,10 @@
     {
      "text": "நின்ற",
      "lemma": "நில்",
-     "gloss": "standing"
+     "gloss": "abiding"
     }
    ],
-   "gloss": "enduring"
+   "gloss": "which stands"
   },
   {
    "surface": "ஒளியோடு",
@@ -71,7 +72,7 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "splendor"
+     "gloss": "majesty"
     },
     {
      "text": "ஓடு",
@@ -79,7 +80,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with the splendor"
+   "gloss": "with the majesty"
   },
   {
    "surface": "ஒழுக",
@@ -87,12 +88,12 @@
     {
      "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "to behave"
+     "gloss": "behave"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to"
     }
    ],
    "gloss": "to behave"
@@ -101,23 +102,18 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to be fitting"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "is fit"
     }
    ],
-   "gloss": "it is required"
+   "gloss": "it is fit"
   }
  ],
- "literal": "\"They are young\", \"they are relatives\", saying, they will not despise; with the standing splendor, to behave is fitting.",
- "translation": "One should not disrespect the ruler by thinking 'he is younger' or 'he is a relative.' Instead, one must conduct oneself in accordance with the enduring splendor of his position.",
- "modern": "இவர் என்னை விட வயதில் இளையவர் என்றோ, எனக்கு உறவினர் என்றோ அரசரை அவமதிக்கக் கூடாது. மாறாக, அரசப் பதவிக்கு உரிய நிலைத்த பெருமையோடு பொருந்தி நடப்பதே முறையாகும்.",
- "explanation": "This couplet advises on the proper decorum when serving a ruler who might be younger or related by blood. Familiarity or age differences should not lead to disrespect. The word 'ஒளி' (light or splendor) refers to the majesty and authority inherent in the ruler's position. Therefore, one must always act in accordance with that enduring royal dignity, setting aside personal familiarity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking 'they are younger' or 'they are related as kin', without disrespecting, it is fit to behave in accordance with the abiding majesty.",
+ "translation": "One should not disrespect a ruler thinking, 'He is younger than me,' or 'He is my relative'; rather, one must conduct oneself in accordance with the majestic authority they possess.",
+ "modern": "அரசர் நமக்கு வயதில் இளையவர் என்றும், நமக்கு உறவினர் என்றும் எண்ணி அவரை மதிக்காமல் இருக்கக் கூடாது; அவருடைய அரச பதவியின் பெருமையைப் போற்றி அதற்கேற்ப நடந்து கொள்ள வேண்டும்.",
+ "explanation": "This couplet advises those who associate with rulers or leaders on how to maintain proper respect. Even if a ruler is younger in age or a close relative, one must not treat them with familiarity or contempt. Instead, one must recognize and respect the sovereign authority and dignity, represented here by 'ஒளி' (majesty or light), that their position holds, and behave accordingly.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "செல்",
      "lemma": "செல்",
-     "gloss": "departing"
+     "gloss": "go"
     }
    ],
    "gloss": "departing"
@@ -28,10 +28,10 @@
     {
      "text": "ஓம்பி",
      "lemma": "ஓம்பு",
-     "gloss": "having cared for"
+     "gloss": "cherish"
     }
    ],
-   "gloss": "having cared for"
+   "gloss": "having cherished"
   },
   {
    "surface": "வரு",
@@ -39,7 +39,7 @@
     {
      "text": "வரு",
      "lemma": "வா",
-     "gloss": "coming"
+     "gloss": "come"
     }
    ],
    "gloss": "coming"
@@ -61,7 +61,7 @@
     {
      "text": "பார்த்து",
      "lemma": "பார்",
-     "gloss": "having looked for"
+     "gloss": "look for"
     }
    ],
    "gloss": "having looked for"
@@ -72,10 +72,10 @@
     {
      "text": "இருப்பான்",
      "lemma": "இரு",
-     "gloss": "he who will be"
+     "gloss": "remain"
     }
    ],
-   "gloss": "he who will be"
+   "gloss": "he who remains"
   },
   {
    "surface": "நல்",
@@ -93,7 +93,7 @@
    "parts": [
     {
      "text": "வருந்து",
-     "lemma": "விருந்து",
+     "lemma": "வருந்து",
      "gloss": "guest"
     }
    ],
@@ -103,23 +103,18 @@
    "surface": "வானத்தவர்க்கு",
    "parts": [
     {
-     "text": "வானத்தவர்",
+     "text": "வானத்தவர்க்கு",
      "lemma": "வானத்தவர்",
      "gloss": "heavenly beings"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
     }
    ],
-   "gloss": "to the heavenly beings"
+   "gloss": "to the inhabitants of heaven"
   }
  ],
- "literal": "Departing guest having cared for, coming guest having looked for he who will be, good guest to the heavenly beings.",
- "translation": "He who cares for the departing guest and waits for the coming guest will be a welcome guest to the heavenly beings.",
- "modern": "சென்ற விருந்தினரை உபசரித்து வழியனுப்பிவிட்டு, இனி வரும் விருந்தினரை எதிர்பார்த்திருப்பவன், வானுலகத்தில் உள்ள தேவர்களுக்கும் நல்ல விருந்தினன் ஆவான்.",
- "explanation": "This couplet highlights the continuous nature of true hospitality. A virtuous householder does not stop at serving one guest; after warmly sending off a departing guest, they immediately look forward to welcoming the next. Such a person, who makes hospitality their life's constant practice, will themselves be welcomed as an honored guest by the celestial beings in heaven. The word 'வருந்து' in the provided text functions as a variant of 'விருந்து', meaning guest.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The departing guest having tended, the coming guest waiting for he who remains, a good guest to the heavenly ones.",
+ "translation": "He who hospitably sends off the departing guest and waits expectantly for the incoming guest will be welcomed as an honored guest by the gods of heaven.",
+ "modern": "செல்லும் விருந்தினரைப் பேணி, வரும் விருந்தினரை எதிர்பார்த்து காத்திருப்பவன், வானுலகில் வாழும் தேவர்களுக்கு நல்ல விருந்தினன் ஆவான்.",
+ "explanation": "This couplet emphasizes the continuous nature of true hospitality. A virtuous householder does not merely host those who arrive, but actively cares for departing guests while eagerly anticipating the next ones. Such selfless dedication to others elevates the householder's character to a divine level. Ultimately, when they enter the heavenly realm, the celestial beings themselves will welcome them with the same high honor as a cherished guest.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

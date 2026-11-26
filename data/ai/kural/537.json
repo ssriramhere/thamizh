@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "அரிய",
-     "lemma": "அருமை",
-     "gloss": "difficult things"
+     "lemma": "அரிய",
+     "gloss": "difficult"
     }
    ],
    "gloss": "difficult things"
@@ -26,17 +26,12 @@
    "surface": "ஆகாத",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகாத",
      "lemma": "ஆகு",
-     "gloss": "to happen"
-    },
-    {
-     "text": "ஆத",
-     "lemma": "ஆத",
-     "gloss": "negative neuter plural suffix"
+     "gloss": "impossible"
     }
    ],
-   "gloss": "impossible things"
+   "gloss": "impossible"
   },
   {
    "surface": "இல்லை",
@@ -44,23 +39,18 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "are not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "are not"
+   "gloss": "there is not"
   },
   {
    "surface": "பொச்சாவா",
    "parts": [
     {
-     "text": "பொச்சா",
-     "lemma": "பொச்சா",
-     "gloss": "to forget"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "பொச்சாவா",
+     "lemma": "பொச்சாத்தல்",
+     "gloss": "unforgetting"
     }
    ],
    "gloss": "unforgetting"
@@ -79,45 +69,35 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with an instrument"
+   "gloss": "with the instrument"
   },
   {
    "surface": "போற்றி",
    "parts": [
     {
-     "text": "போற்று",
+     "text": "போற்றி",
      "lemma": "போற்று",
-     "gloss": "to guard"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "guarding"
     }
    ],
-   "gloss": "having guarded"
+   "gloss": "guarding carefully"
   },
   {
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one does"
     }
    ],
    "gloss": "if one does"
   }
  ],
- "literal": "\"Difficult\" saying, impossible things are not, unforgetting with instrument having guarded if one does.",
- "translation": "Nothing is impossible, dismissed as too difficult, if one acts carefully with an unforgetting mind.",
- "modern": "மறதி இல்லாத மனமாகிய கருவியோடு ஒரு செயலைக் கவனமாகச் செய்தால், இது கடினமானது என்று சொல்லக்கூடிய முடியாத செயல் எதுவும் இல்லை.",
- "explanation": "This couplet highlights the power of unfailing attention. The phrase 'பொச்சாவாக் கருவி' refers to the instrument of an unforgetting, vigilant mind. When a person acts carefully with such a mindset ('போற்றிச் செயின்'), they avoid careless mistakes. Consequently, no task can be dismissed as too difficult ('அரிய என்று'), and nothing remains impossible ('ஆகாத இல்லை') for them to accomplish.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Difficult things, saying [thus], impossible there is not, if one does, guarding with the unforgetting instrument.",
+ "translation": "There is nothing that is impossible, dismissed as too difficult, if one performs actions with care, using the instrument of unforgetfulness.",
+ "modern": "மறதி இல்லாத மனமாகிய கருவியைக் கொண்டு, எச்சரிக்கையுடன் ஒரு செயலைச் செய்தால், 'இது செய்வதற்கு அரியது' என்று முடியாத காரியம் எதுவும் இல்லை.",
+ "explanation": "This couplet emphasizes the power of constant vigilance and mindfulness in achieving any goal. The poet states that no task is impossible or too difficult to accomplish if it is undertaken with an unforgetting mind (பொச்சாவாக் கருவி) and guarded care (போற்றி). The 'unforgetting instrument' refers to a mind that is always alert, focused, and free from negligence. By maintaining this state of active awareness, even the most challenging obstacles can be overcome, leaving nothing as truly impossible.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

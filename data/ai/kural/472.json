@@ -4,23 +4,33 @@
    "surface": "ஒல்வது",
    "parts": [
     {
-     "text": "ஒல்வது",
+     "text": "ஒல்",
      "lemma": "ஒல்",
-     "gloss": "that which is possible"
+     "gloss": "to be possible"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "what is possible"
+   "gloss": "that which is possible"
   },
   {
    "surface": "அறிவது",
    "parts": [
     {
-     "text": "அறிவது",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "that which should be known"
+     "gloss": "to know"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "what is to be known"
+   "gloss": "that which is to be known"
   },
   {
    "surface": "அறிந்து",
@@ -37,17 +47,22 @@
    "surface": "அதன்கண்",
    "parts": [
     {
-     "text": "அதன்",
+     "text": "அது",
      "lemma": "அது",
-     "gloss": "in that (oblique)"
+     "gloss": "that"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "oblique increment"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/locative suffix"
+     "gloss": "locative suffix (in/upon)"
     }
    ],
-   "gloss": "in that"
+   "gloss": "within that"
   },
   {
    "surface": "தங்கி",
@@ -55,7 +70,7 @@
     {
      "text": "தங்கி",
      "lemma": "தங்கு",
-     "gloss": "having stayed"
+     "gloss": "abiding"
     }
    ],
    "gloss": "abiding"
@@ -76,11 +91,11 @@
    "parts": [
     {
      "text": "செல்லாதது",
-     "lemma": "செல்",
+     "lemma": "செல்லாதது",
      "gloss": "that which is impossible"
     }
    ],
-   "gloss": "what is impossible"
+   "gloss": "that which is impossible"
   },
   {
    "surface": "இல்",
@@ -88,16 +103,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   }
  ],
- "literal": "What is possible, what is to be known, having known, in that abiding, to those who proceed, what does not proceed is not.",
- "translation": "There is nothing impossible for those who know what is possible, know what must be known, and proceed while abiding in that knowledge.",
- "modern": "தம்மால் செய்யக்கூடியது எது, அறிய வேண்டியது எது என்பதை அறிந்து, அந்த அறிவிலேயே நிலைத்து நின்று செயல்படுபவர்களுக்கு முடியாத செயல் என்று எதுவும் இல்லை.",
- "explanation": "The couplet explains the importance of assessing one's capabilities before acting. The word 'ஒல்வது' refers to what is practically possible for a person to achieve. By knowing this, along with other necessary knowledge, and firmly basing their actions on this understanding, a person ensures their success. For such careful individuals, there is no goal that cannot be reached.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Knowing what is possible, knowing what is to be known, abiding in that, to those who proceed, that which is impossible does not exist.",
+ "translation": "For those who understand what is possible for them, learn what needs to be known about the task, and proceed while abiding within those limits, there is nothing that is impossible to achieve.",
+ "modern": "தனக்கு இயன்றதையும், அறிய வேண்டியவற்றையும் அறிந்து, அந்த எல்லைக்குள் நின்று செயல்படுபவர்களுக்கு முடியாதது என்று எதுவும் இல்லை.",
+ "explanation": "This couplet explains the secret to achieving any goal without failure. First, one must assess their own capability ('ஒல்வது') and thoroughly understand the requirements and obstacles of the task ('அறிவது'). Second, they must act while strictly staying within the limits of this realistic assessment ('அதன்கண் தங்கி'). For those who proceed with such careful planning and self-awareness, there is absolutely nothing that remains impossible ('செல்லாதது இல்') to accomplish.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

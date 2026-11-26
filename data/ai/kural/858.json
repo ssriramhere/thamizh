@@ -9,9 +9,14 @@
      "gloss": "hostility"
     },
     {
-     "text": "இற்கு",
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "oblique case marker"
+    },
+    {
+     "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative)"
     }
    ],
    "gloss": "to hostility"
@@ -22,15 +27,15 @@
     {
      "text": "எதிர்",
      "lemma": "எதிர்",
-     "gloss": "before"
+     "gloss": "opposite/facing"
     },
     {
      "text": "சாய்தல்",
      "lemma": "சாய்தல்",
-     "gloss": "yielding"
+     "gloss": "yielding/bending"
     }
    ],
-   "gloss": "yielding before"
+   "gloss": "yielding or bending before"
   },
   {
    "surface": "ஆக்கம்",
@@ -54,15 +59,15 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "it (acc.)"
+   "gloss": "that (hostility)"
   },
   {
    "surface": "மிகல்",
@@ -70,10 +75,10 @@
     {
      "text": "மிகல்",
      "lemma": "மிகல்",
-     "gloss": "exceeding/conquering"
+     "gloss": "increasing/triumphing"
     }
    ],
-   "gloss": "conquering"
+   "gloss": "increasing or triumphing"
   },
   {
    "surface": "ஊக்கின்",
@@ -81,7 +86,7 @@
     {
      "text": "ஊக்கு",
      "lemma": "ஊக்கு",
-     "gloss": "intend"
+     "gloss": "to desire/strive"
     },
     {
      "text": "இன்",
@@ -89,20 +94,15 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if one intends"
+   "gloss": "if one desires"
   },
   {
    "surface": "ஊக்கும்",
    "parts": [
     {
-     "text": "ஊக்கு",
+     "text": "ஊக்கும்",
      "lemma": "ஊக்கு",
-     "gloss": "hasten"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will hasten/bring about"
     }
    ],
    "gloss": "will hasten"
@@ -112,8 +112,8 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆம்",
-     "gloss": "indeed"
+     "lemma": "ஆ",
+     "gloss": "indeed/surely"
     }
    ],
    "gloss": "indeed"
@@ -124,16 +124,16 @@
     {
      "text": "கேடு",
      "lemma": "கேடு",
-     "gloss": "ruin"
+     "gloss": "ruin/destruction"
     }
    ],
    "gloss": "ruin"
   }
  ],
- "literal": "To hostility yielding before is prosperity; it conquering if one intends, will hasten indeed ruin.",
- "translation": "Yielding to hostility brings prosperity. If one intends to conquer it by fighting back, ruin will hasten to them.",
- "modern": "இகலுக்கு எதிர்த்து நிற்காமல் பணிந்து போவது நன்மையைத் தரும். அந்த இகலை வளர்த்து வெல்ல நினைத்தால், அது அழிவை விரைந்து கொண்டுவரும்.",
- "explanation": "The couplet contrasts the outcomes of yielding to enmity versus fueling it. The phrase 'எதிர்சாய்தல்' (yielding before) suggests stepping back from a conflict, which the poet says brings 'ஆக்கம்' (prosperity or growth). Conversely, 'மிகல் ஊக்கின்' means intending to increase or conquer through hostility. Doing so 'ஊக்கும் கேடு' (hastens ruin), with the word 'ஆம்' acting as an emphatic particle to stress the certainty of destruction.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To hostility yielding is prosperity; that to increase if one desires, will hasten indeed ruin.",
+ "translation": "Yielding before hostility brings prosperity; but if one strives to triumph in it, ruin will surely hasten upon them.",
+ "modern": "பகைமைக்கு பணிந்து போவது ஒருவருக்கு ஆக்கத்தைத் தரும்; அதனை வளர்க்க விரும்பினால், அது அவருக்கு அழிவை விரைந்து கொண்டுவரும்.",
+ "explanation": "This couplet contrasts the outcomes of two different responses to hostility (இகல்). Yielding or bending (எதிர்சாய்தல்) when faced with enmity is presented as a wise path that leads to prosperity (ஆக்கம்), much like a reed that survives a storm by bending. On the other hand, if a person actively desires to escalate or triumph (மிகல்) in that hostility, it will surely hasten (ஊக்கும்) their own ruin (கேடு). The poet emphasizes that avoiding conflict is a source of strength, while pursuing it guarantees destruction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

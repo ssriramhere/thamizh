@@ -28,7 +28,7 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one man"
+     "gloss": "a person"
     }
    ],
    "gloss": "a person"
@@ -37,20 +37,30 @@
    "surface": "கைதூவேன்",
    "parts": [
     {
-     "text": "கைதூவேன்",
-     "lemma": "கைதூ",
-     "gloss": "I will not cease"
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "hand"
+    },
+    {
+     "text": "தூவேன்",
+     "lemma": "தூ",
+     "gloss": "I will not slacken"
     }
    ],
-   "gloss": "I will not cease"
+   "gloss": "I will not slacken my hand"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "saying"
@@ -77,21 +87,21 @@
     {
      "text": "பீடு",
      "lemma": "பீடு",
-     "gloss": "eminence"
+     "gloss": "dignity"
     }
    ],
-   "gloss": "eminence"
+   "gloss": "dignity"
   },
   {
    "surface": "உடையது",
    "parts": [
     {
      "text": "உடையது",
-     "lemma": "உடை",
+     "lemma": "உடையது",
      "gloss": "that which possesses"
     }
    ],
-   "gloss": "possessing thing"
+   "gloss": "that which possesses"
   },
   {
    "surface": "இல்",
@@ -99,16 +109,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is nothing"
     }
    ],
-   "gloss": "there is not"
+   "gloss": "there is nothing"
   }
  ],
- "literal": "Duty to do, a person \"I will not cease\" saying, than the greatness, eminence possessing thing there is not.",
- "translation": "There is no glory greater than the greatness of a person who says, \"I will not cease from doing my duty.\"",
- "modern": "தன் கடமையைச் செய்து முடிக்க 'நான் ஒருபோதும் ஓயமாட்டேன்' என்று ஒருவன் கூறும் பெருமையை விடச் சிறந்த பெருமை வேறொன்றும் இல்லை.",
- "explanation": "The couplet emphasizes the supreme value of relentless dedication to one's duty. The word 'கருமம்' refers to the necessary action or duty one must perform to uplift one's family or community. The phrase 'கைதூவேன்' means 'I will not cease' or 'I will not rest my hands', capturing the spirit of tireless effort. The verse declares that there is no glory ('பீடு') that surpasses the greatness of such unwavering commitment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To do duty, a person, 'I will not slacken my hand', saying, than that greatness, dignity, possessing, there is nothing.",
+ "translation": "There is no dignity greater than the greatness of a person who says, 'I will not slacken my efforts until my duty is done.'",
+ "modern": "தன் கடமையைச் செய்ய ஒருவன் 'நான் என் கையைத் தளர்த்த மாட்டேன்' என்று விடாமுயற்சியுடன் கூறும் பெருமையைக் காட்டிலும் மேலான பெருமை வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet praises the relentless determination of an individual dedicated to uplifting their family and community. The phrase 'கைதூவேன்' literally means 'I will not rest my hand' or 'I will not slacken my efforts,' representing tireless work. The poet asserts that there is no greater dignity or nobility ('பீடு') in the world than the greatness ('பெருமை') of possessing such an unwavering attitude towards one's duty ('கருமம்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

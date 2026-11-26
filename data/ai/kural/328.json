@@ -6,10 +6,10 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "goodness"
     }
    ],
-   "gloss": "good"
+   "gloss": "goodness"
   },
   {
    "surface": "ஆகும்",
@@ -17,10 +17,10 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "becoming"
+     "gloss": "which yields"
     }
    ],
-   "gloss": "resulting"
+   "gloss": "which yields"
   },
   {
    "surface": "ஆக்கம்",
@@ -48,14 +48,9 @@
    "surface": "எனினும்",
    "parts": [
     {
-     "text": "எனின்",
+     "text": "எனினும்",
      "lemma": "என்",
-     "gloss": "if said"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if"
     }
    ],
    "gloss": "even if"
@@ -66,7 +61,7 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "noble people"
     },
     {
      "text": "கு",
@@ -74,7 +69,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to the noble ones"
+   "gloss": "to the noble people"
   },
   {
    "surface": "கொன்று",
@@ -82,10 +77,10 @@
     {
      "text": "கொன்று",
      "lemma": "கொல்",
-     "gloss": "having killed"
+     "gloss": "by killing"
     }
    ],
-   "gloss": "having killed"
+   "gloss": "by killing"
   },
   {
    "surface": "ஆகும்",
@@ -93,10 +88,10 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "becoming"
+     "gloss": "which is obtained"
     }
    ],
-   "gloss": "resulting"
+   "gloss": "which is obtained"
   },
   {
    "surface": "ஆக்கம்",
@@ -121,10 +116,10 @@
    "gloss": "lowest"
   }
  ],
- "literal": "Good resulting wealth great even if, to the noble ones, having killed resulting wealth lowest.",
- "translation": "Even if the resulting wealth is great and good, to the noble, wealth gained by killing is the lowest.",
- "modern": "நன்மையாக வரும் செல்வம் மிகப் பெரியதாக இருந்தாலும், ஓர் உயிரைக் கொன்று வரும் செல்வத்தைச் சான்றோர் மிகக் கீழானதாகவே கருதுவர்.",
- "explanation": "This couplet contrasts the value of wealth with the means of acquiring it. The phrase 'நன்றாகும் ஆக்கம்' refers to wealth that is considered good or brings good. The poet states that no matter how vast and beneficial such prosperity might seem, if it is obtained through taking a life ('கொன்று ஆகும் ஆக்கம்'), it is deemed the absolute worst ('கடை') by noble people. The core message is that the end never justifies the means, especially when the means involves killing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if the wealth that yields good is great, to the noble, the wealth obtained by killing is the lowest.",
+ "translation": "Even if the wealth that brings goodness is immensely great, to the virtuous, wealth obtained by killing other living beings is utterly base.",
+ "modern": "நன்மையைத் தரும் செல்வம் மிகப் பெரியதாக இருந்தாலும், பிற உயிர்களைக் கொல்வதன் மூலம் கிடைக்கும் செல்வம் சான்றோர்களுக்கு மிக இழிவானதாகும்.",
+ "explanation": "This couplet highlights the absolute commitment of virtuous people to the principle of non-killing. Even if a particular gain or wealth ('ஆக்கம்') is incredibly vast ('பெரிது') and promises great benefits ('நன்றாகும்'), it is deemed utterly base ('கடை') by the noble ('சான்றோர்') if it is acquired by destroying life ('கொன்று'). For the truly wise, no amount of material prosperity can justify the act of killing. The contrast between the greatness of the gain and its moral lowliness emphasizes that ethical purity always triumphs over material success.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

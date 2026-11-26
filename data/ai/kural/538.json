@@ -4,12 +4,17 @@
    "surface": "புகழ்ந்தவை",
    "parts": [
     {
-     "text": "புகழ்ந்தவை",
+     "text": "புகழ்ந்த",
      "lemma": "புகழ்",
-     "gloss": "praised things"
+     "gloss": "praised"
+    },
+    {
+     "text": "வை",
+     "lemma": "அவை",
+     "gloss": "those things"
     }
    ],
-   "gloss": "praised things"
+   "gloss": "those things praised by the wise"
   },
   {
    "surface": "போற்றி",
@@ -17,18 +22,18 @@
     {
      "text": "போற்றி",
      "lemma": "போற்று",
-     "gloss": "having cherished"
+     "gloss": "cherishing"
     }
    ],
-   "gloss": "having cherished"
+   "gloss": "cherishing and guarding"
   },
   {
    "surface": "செயல்",
    "parts": [
     {
      "text": "செயல்",
-     "lemma": "செய்",
-     "gloss": "doing"
+     "lemma": "செயல்",
+     "gloss": "action"
     }
    ],
    "gloss": "doing"
@@ -39,10 +44,10 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "must"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is required"
   },
   {
    "surface": "செய்யாது",
@@ -53,15 +58,20 @@
      "gloss": "without doing"
     }
    ],
-   "gloss": "without doing"
+   "gloss": "neglecting without performing"
   },
   {
    "surface": "இகழ்ந்தார்க்கு",
    "parts": [
     {
-     "text": "இகழ்ந்தார்க்கு",
+     "text": "இகழ்ந்தார்",
      "lemma": "இகழ்",
-     "gloss": "to those who neglected"
+     "gloss": "those who neglected"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to those who neglected"
@@ -70,12 +80,17 @@
    "surface": "எழுமையும்",
    "parts": [
     {
-     "text": "எழுமையும்",
+     "text": "எழுமை",
      "lemma": "எழுமை",
-     "gloss": "even in seven births"
+     "gloss": "seven births"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even in seven births"
+   "gloss": "even in all seven births"
   },
   {
    "surface": "இல்",
@@ -86,13 +101,13 @@
      "gloss": "is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is no good"
   }
  ],
- "literal": "praised things having cherished doing is needed; without doing to those who neglected even in seven births there is not.",
- "translation": "One must cherish and perform the deeds praised by the wise. Those who neglect and fail to do them will find no benefit in any of their seven births.",
- "modern": "அறிஞர்களால் புகழப்பட்ட நற்செயல்களை மறக்காமல் போற்றிச் செய்ய வேண்டும். அவற்றைச் செய்யாமல் கைவிட்டவர்களுக்கு ஏழேழு பிறவியிலும் எந்த நன்மையும் இல்லை.",
- "explanation": "The couplet advises us to carefully remember and perform actions that are praised by the wise. The word 'போற்றி' (cherishing) emphasizes doing these deeds with care and without negligence. If one neglects these duties, they will not achieve any good across all seven cycles of birth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those things praised, guarding and doing is required; without doing, to those who neglected, even in seven births there is none.",
+ "translation": "One must cherish and perform those actions praised by the wise; for those who neglect them and fail to perform them, there is no redemption even in seven births.",
+ "modern": "சான்றோரால் புகழப்பட்ட செயல்களைப் போற்றிச் செய்ய வேண்டும்; அவற்றைச் செய்யாமல் அலட்சியம் செய்தவர்க்கு ஏழு பிறவிகளிலும் நன்மை உண்டாகாது.",
+ "explanation": "This couplet highlights the severe consequences of negligence or forgetfulness in performing one's duties. The poet advises that we must carefully guard and perform those noble deeds that have been praised (புகழ்ந்தவை) by wise elders. If a person neglects (செய்யாது இகழ்ந்தார்க்கு) these duties out of laziness or carelessness, they will suffer the consequences. The phrase 'எழுமையும் இல்' warns that such negligent individuals will find no happiness or elevation in any of their seven successive births.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

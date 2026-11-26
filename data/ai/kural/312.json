@@ -6,10 +6,10 @@
     {
      "text": "கறுத்து",
      "lemma": "கறு",
-     "gloss": "having been angry"
+     "gloss": "having grown angry"
     }
    ],
-   "gloss": "having been angry"
+   "gloss": "having grown angry"
   },
   {
    "surface": "இன்னா",
@@ -17,10 +17,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "harmful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "harmful things"
   },
   {
    "surface": "செய்த",
@@ -28,10 +28,10 @@
     {
      "text": "செய்த",
      "lemma": "செய்",
-     "gloss": "done"
+     "gloss": "did"
     }
    ],
-   "gloss": "done"
+   "gloss": "who did"
   },
   {
    "surface": "அக்கண்ணும்",
@@ -44,7 +44,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place"
+     "gloss": "time or situation"
     },
     {
      "text": "உம்",
@@ -52,7 +52,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even when"
+   "gloss": "even in that situation"
   },
   {
    "surface": "மறுத்து",
@@ -60,7 +60,7 @@
     {
      "text": "மறுத்து",
      "lemma": "மறு",
-     "gloss": "having returned"
+     "gloss": "in return"
     }
    ],
    "gloss": "in return"
@@ -71,10 +71,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "harmful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "harmful things"
   },
   {
    "surface": "செய்யாமை",
@@ -104,10 +104,10 @@
     {
      "text": "அற்றார்",
      "lemma": "அறு",
-     "gloss": "those who are without"
+     "gloss": "those who are free from"
     }
    ],
-   "gloss": "those who are without"
+   "gloss": "those who are free from"
   },
   {
    "surface": "கோள்",
@@ -121,10 +121,10 @@
    "gloss": "principle"
   }
  ],
- "literal": "Having been angry harm done even when, in return harm not doing [is] blemish-less ones' principle.",
- "translation": "Even when others do harm out of anger, it is the principle of the flawless not to do harm in return.",
- "modern": "மற்றவர்கள் சினந்து துன்பம் செய்தாலும், அவர்களுக்குத் திரும்பத் துன்பம் செய்யாமல் இருப்பதே குற்றமற்றவர்களின் கொள்கையாகும்.",
- "explanation": "This couplet defines the core principle of those who are free from moral flaws. It states that even when someone harms them out of pure anger, they must not retaliate. The word 'kaṟuttu' emphasizes that the harm was done with deliberate anger, making it harder to forgive. Yet, 'maṟuttu' (in return) and 'ceyyāmai' (not doing) show that breaking the cycle of harm is the true mark of the flawless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when [someone] does harmful things out of anger, not doing harmful things in return is the principle of those who are free from blemish.",
+ "translation": "Even when others do harm out of anger, refraining from doing harm in return is the principle of those who are free from blemish.",
+ "modern": "ஒருவர் கோபம்கொண்டு துன்பம் செய்தபோதிலும், அவருக்குத் திரும்பத் துன்பம் செய்யாமல் இருப்பதே குற்றமற்றவர்களின் கொள்கையாகும்.",
+ "explanation": "This couplet defines the core standard of conduct for those who are pure and free from moral blemish (மாசற்றார்). The word 'கறுத்து' literally means 'having darkened' with rage, describing a person who acts out of blind anger to cause pain (இன்னா). Even under such extreme provocation (அக்கண்ணும்), a person of pure character must not retaliate with harm in return (மறுத்து இன்னா செய்யாமை). This steadfast refusal to return evil for evil is declared to be their defining principle (கோள்).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
      "text": "அல்",
@@ -21,32 +21,27 @@
    "parts": [
     {
      "text": "வல்",
-     "lemma": "வன்மை",
-     "gloss": "capable"
+     "lemma": "வல்",
+     "gloss": "capability"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "masculine singular suffix"
     }
    ],
-   "gloss": "capable man"
+   "gloss": "one who is capable"
   },
   {
    "surface": "சோர்வு",
    "parts": [
     {
-     "text": "சோர்",
-     "lemma": "சோர்",
-     "gloss": "to slip"
-    },
-    {
-     "text": "வு",
-     "lemma": "வு",
-     "gloss": "verbal noun suffix"
+     "text": "சோர்வு",
+     "lemma": "சோர்வு",
+     "gloss": "slip or forgetfulness"
     }
    ],
-   "gloss": "slip"
+   "gloss": "slip or forgetfulness"
   },
   {
    "surface": "இலன்",
@@ -54,15 +49,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "masculine singular suffix"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "one who is without"
   },
   {
    "surface": "அஞ்சான்",
@@ -70,15 +65,15 @@
     {
      "text": "அஞ்சு",
      "lemma": "அஞ்சு",
-     "gloss": "to fear"
+     "gloss": "fear"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "negative masculine singular suffix"
     }
    ],
-   "gloss": "he fears not"
+   "gloss": "one who is fearless"
   },
   {
    "surface": "அவனை",
@@ -91,7 +86,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "him"
@@ -102,10 +97,10 @@
     {
      "text": "இகல்",
      "lemma": "இகல்",
-     "gloss": "conflict"
+     "gloss": "opposition or feud"
     }
    ],
-   "gloss": "conflict"
+   "gloss": "opposition or feud"
   },
   {
    "surface": "வெல்லல்",
@@ -113,7 +108,7 @@
     {
      "text": "வெல்",
      "lemma": "வெல்",
-     "gloss": "to conquer"
+     "gloss": "conquer"
     },
     {
      "text": "அல்",
@@ -127,29 +122,39 @@
    "surface": "யார்க்கும்",
    "parts": [
     {
-     "text": "யார்க்கும்",
+     "text": "யார்",
      "lemma": "யார்",
-     "gloss": "to anyone"
+     "gloss": "who"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative case marker"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even or also"
     }
    ],
-   "gloss": "for anyone"
+   "gloss": "to anyone"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "it is difficult"
+     "lemma": "அரிது",
+     "gloss": "difficult"
     }
    ],
-   "gloss": "it is difficult"
+   "gloss": "difficult"
   }
  ],
- "literal": "Speaking capable-man, slip without-he, fears-not-he, him, conflict conquering, for anyone, difficult.",
- "translation": "It is difficult for anyone to defeat in a conflict a man who is capable in speech, who makes no slips, and who knows no fear.",
- "modern": "பேசுவதில் வல்லவனாகவும், சோர்வு இல்லாதவனாகவும், யாருக்கும் அஞ்சாதவனாகவும் இருப்பவனை எதிர்த்து வெல்வது எவருக்கும் கடினமாகும்.",
- "explanation": "This couplet describes the invincible nature of a skilled speaker. It identifies three key traits: the ability to speak persuasively ('சொலல் வல்லன்'), the absence of slips or fatigue in speech ('சோர்வு இலன்'), and fearlessness before an audience ('அஞ்சான்'). When a person possesses these three qualities, they become a formidable opponent in any debate or conflict. The word 'இகல்' here refers to a clash of words or ideas, fitting the chapter on the power of speech. Defeating such a person is said to be difficult for anyone.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "One who is capable in speaking, who has no slip, and who is fearless—to conquer him in opposition is difficult for anyone.",
+ "translation": "It is impossible for anyone to defeat in debate a person who is eloquent in speech, free from slips of memory, and completely fearless.",
+ "modern": "பேசுவதில் வல்லவனாகவும், சோர்வு (மறதி) இல்லாதவனாகவும், அஞ்சாதவனாகவும் இருப்பவனை, விவாதத்தில் வெல்வது எவருக்கும் அரிது.",
+ "explanation": "This couplet outlines the three essential qualities that make a speaker invincible in any debate or opposition. First, they must be eloquent and capable of powerful speech ('solalvallan'). Second, they must possess a sharp, alert mind free from slips of memory or confusion ('cōrvilan'). Third, they must be completely fearless ('añcān') when facing opponents. Anyone who possesses this combination of eloquence, mental clarity, and courage cannot be defeated by anyone in an argument.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -19,7 +19,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "whispered words and"
+   "gloss": "and whispering in the ear"
   },
   {
    "surface": "சேர்ந்த",
@@ -27,7 +27,7 @@
     {
      "text": "சேர்ந்த",
      "lemma": "சேர்",
-     "gloss": "joined/shared"
+     "gloss": "shared"
     }
    ],
    "gloss": "shared"
@@ -38,7 +38,7 @@
     {
      "text": "நகை",
      "lemma": "நகை",
-     "gloss": "smile"
+     "gloss": "laughter"
     },
     {
      "text": "உம்",
@@ -46,7 +46,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "smiles and"
+   "gloss": "and laughter"
   },
   {
    "surface": "அவித்து",
@@ -63,28 +63,23 @@
    "surface": "ஒழுகல்",
    "parts": [
     {
-     "text": "ஒழுகு",
+     "text": "ஒழுகல்",
      "lemma": "ஒழுகு",
-     "gloss": "to conduct oneself"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "behaving"
     }
    ],
-   "gloss": "conducting oneself"
+   "gloss": "behaving"
   },
   {
    "surface": "ஆன்ற",
    "parts": [
     {
      "text": "ஆன்ற",
-     "lemma": "ஆன்ற",
-     "gloss": "excellent"
+     "lemma": "ஆல்",
+     "gloss": "abundant"
     }
    ],
-   "gloss": "excellent"
+   "gloss": "abundant"
   },
   {
    "surface": "பெரியார்",
@@ -92,10 +87,10 @@
     {
      "text": "பெரியார்",
      "lemma": "பெரியார்",
-     "gloss": "great ones"
+     "gloss": "great people"
     }
    ],
-   "gloss": "great ones"
+   "gloss": "great people"
   },
   {
    "surface": "அகத்து",
@@ -103,16 +98,16 @@
     {
      "text": "அகத்து",
      "lemma": "அகம்",
-     "gloss": "in the presence of"
+     "gloss": "presence"
     }
    ],
    "gloss": "in the presence of"
   }
  ],
- "literal": "Whispered words and shared smiles, having suppressed, conducting oneself (is proper) great ones' presence in.",
- "translation": "When in the presence of great and excellent rulers, one should conduct oneself by suppressing the urge to whisper in others' ears and share private smiles.",
- "modern": "சிறந்த பெரியவர்களான அரசர்களின் அவையில் இருக்கும்போது, மற்றவர் காதில் ரகசியம் பேசுவதையும், தமக்குள் பார்த்துச் சிரிப்பதையும் தவிர்த்து நடக்க வேண்டும்.",
- "explanation": "This couplet advises on courtly etiquette when in the presence of a king or great leaders. The phrase 'செவிச்சொல்' refers to whispering secrets, and 'சேர்ந்த நகை' means sharing a private joke or smile with someone else. Doing these in a royal assembly implies disrespect or conspiracy. Therefore, one must suppress ('அவித்து') such behaviors and conduct oneself with proper decorum ('ஒழுகல்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Whispering in the ear and shared laughter, having suppressed, behaving, in the presence of abundant great people.",
+ "translation": "In the presence of great rulers, one must conduct oneself by avoiding whispering in another's ear and sharing private smiles.",
+ "modern": "அறிவு ஒழுக்கங்களில் சிறந்த பெரியவர்களின் முன்னிலையில், மற்றொருவர் காதில் இரகசியம் பேசுவதையும், அவருடன் சேர்ந்து சிரிப்பதையும் தவிர்த்து நடக்க வேண்டும்.",
+ "explanation": "This couplet outlines the essential etiquette to be observed when in the presence of rulers or highly placed individuals. Whispering into another person's ear and sharing private smiles or laughter are actions that can breed suspicion, appearing as if one is gossiping or mocking the ruler. To prevent such misunderstandings, a subordinate must completely suppress these habits. Conducting oneself with such restraint in their presence preserves dignity and fosters mutual trust.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,15 +11,15 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "comparative case marker"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "case suffix"
+     "gloss": "instrumental case marker"
     }
    ],
-   "gloss": "for a woman"
+   "gloss": "than a woman"
   },
   {
    "surface": "பெண்மை",
@@ -27,10 +27,10 @@
     {
      "text": "பெண்மை",
      "lemma": "பெண்மை",
-     "gloss": "womanhood"
+     "gloss": "femininity"
     }
    ],
-   "gloss": "womanhood"
+   "gloss": "femininity"
   },
   {
    "surface": "உடைத்து",
@@ -38,23 +38,18 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   },
   {
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "plural suffix"
+     "gloss": "they say"
     }
    ],
    "gloss": "they say"
@@ -70,12 +65,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "oblique case marker"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "instrumental suffix"
+     "gloss": "instrumental case marker"
     }
    ],
    "gloss": "through the eyes"
@@ -86,26 +81,22 @@
     {
      "text": "காமநோய்",
      "lemma": "காமநோய்",
-     "gloss": "love-sickness"
+     "gloss": "the pain of love"
     }
    ],
-   "gloss": "love-sickness"
+   "gloss": "the pain of love",
+   "split_unverified": true
   },
   {
    "surface": "சொல்லி",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லி",
      "lemma": "சொல்",
-     "gloss": "to say"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "participle suffix"
+     "gloss": "having spoken"
     }
    ],
-   "gloss": "having told"
+   "gloss": "expressing"
   },
   {
    "surface": "இரவு",
@@ -119,10 +110,10 @@
    "gloss": "begging"
   }
  ],
- "literal": "For a woman, womanhood it possesses, they say, through the eyes love-sickness having told, begging.",
- "translation": "They say the true mark of womanhood is to plead one's love-sickness solely through the eyes.",
- "modern": "காம நோயைக் கண்களால் மட்டுமே வெளிப்படுத்தி அன்பை இரந்து கேட்பதுதான் ஒரு பெண்ணுக்கு உண்மையான பெண்மை என்று சொல்வார்கள்.",
- "explanation": "This couplet defines the modesty inherent in womanhood when expressing love. Instead of speaking her desires aloud, a woman communicates her love-sickness and pleads for affection solely through her eyes. The word 'இரவு' (begging or pleading) highlights the intensity of her longing. Conveying deep passion through silent glances is thus considered the ultimate expression of femininity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "They say that begging, by expressing the pain of love through the eyes, possesses a femininity greater than womanhood itself.",
+ "translation": "They say that pleading for love by silently expressing one's love-sickness through the eyes possesses a grace far greater than womanhood itself.",
+ "modern": "கண்களால் காம நோயைக் கூறி இரந்து நிற்பது, பெண்ணியல்பைக் காட்டிலும் மிகுந்த பெண்மைத் தன்மையைக் கொண்டது என்று கூறுவர்.",
+ "explanation": "This couplet highlights the supreme beauty of feminine modesty in love. Instead of expressing her deep longing and love-sickness in words, the heroine conveys it subtly through her eyes. The act of pleading for her lover's union solely through her gaze is described as possessing a grace that surpasses even womanhood itself. The word 'iravu' here refers to the silent begging or pleading for love, and 'peṇmai' represents the ideal quality of feminine reserve and beauty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

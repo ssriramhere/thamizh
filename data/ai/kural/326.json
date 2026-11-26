@@ -6,12 +6,12 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "to kill"
+     "gloss": "kill"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "negative nominalizing suffix"
     }
    ],
    "gloss": "non-killing"
@@ -36,22 +36,12 @@
    "surface": "ஒழுகுவான்",
    "parts": [
     {
-     "text": "ஒழுகு",
+     "text": "ஒழுகுவான்",
      "lemma": "ஒழுகு",
-     "gloss": "to conduct oneself"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "one who conducts himself"
     }
    ],
-   "gloss": "he who conducts himself"
+   "gloss": "one who conducts himself"
   },
   {
    "surface": "வாழ்நாள்",
@@ -59,7 +49,7 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "to live"
+     "gloss": "live"
     },
     {
      "text": "நாள்",
@@ -84,17 +74,12 @@
    "surface": "செல்லாது",
    "parts": [
     {
-     "text": "செல்",
+     "text": "செல்லாது",
      "lemma": "செல்",
-     "gloss": "to go"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative suffix"
+     "gloss": "will not go"
     }
    ],
-   "gloss": "will not go"
+   "gloss": "will not advance"
   },
   {
    "surface": "உயிர்",
@@ -111,14 +96,9 @@
    "surface": "உண்ணும்",
    "parts": [
     {
-     "text": "உண்",
+     "text": "உண்ணும்",
      "lemma": "உண்",
-     "gloss": "to consume"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "consuming"
     }
    ],
    "gloss": "consuming"
@@ -135,10 +115,10 @@
    "gloss": "Death"
   }
  ],
- "literal": "non-killing having undertaken he who conducts himself lifetime upon will not go life consuming Death",
- "translation": "Death, which consumes life, will not advance upon the lifespan of one who lives by the principle of non-killing.",
- "modern": "உயிர்களைக் கொல்லாமை என்னும் அறத்தை ஏற்று நடப்பவனின் வாழ்நாளின் மீது, உயிரைப் பறிக்கும் எமன் செல்ல மாட்டான்.",
- "explanation": "This couplet states that Death, whose nature is to consume lives, will not shorten the lifespan of a person who strictly practices non-killing. The word 'kūṟṟu' literally means the divider, referring here to Death, the entity that separates life from the body. By choosing the path of not taking any life, a person protects their own life from being prematurely taken.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Upon the lifetime of one who conducts himself having undertaken non-killing, Death who consumes life will not advance.",
+ "translation": "Death, who devours lives, will not advance against the lifetime of one who adopts and practices non-killing.",
+ "modern": "கொல்லாமையைத் தன் விரதமாக ஏற்றுக்கொண்டு வாழ்கின்றவனுடைய வாழ்நாளின் மேல், உயிரைக் குடிக்கின்ற எமனானவன் செல்ல மாட்டான்.",
+ "explanation": "This couplet highlights the supreme virtue of non-killing by stating that even Death, who normally devours all lives, will not cut short the life of one who practices non-killing. The word 'கூற்று' refers to Death, the divider of life, and 'உயிருண்ணும்' describes Death's nature as a consumer of life. By saying Death 'will not advance' (செல்லாது) against such a person's lifetime (வாழ்நாள்மேல்), the poet emphasizes that a life of harmlessness naturally commands longevity and protection from untimely demise.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

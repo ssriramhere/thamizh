@@ -4,14 +4,9 @@
    "surface": "உண்ணாது",
    "parts": [
     {
-     "text": "உண்",
-     "lemma": "உண்",
-     "gloss": "to eat"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative verbal participle suffix"
+     "text": "உண்ணாது",
+     "lemma": "உண்ணு",
+     "gloss": "without eating"
     }
    ],
    "gloss": "without eating"
@@ -22,31 +17,31 @@
     {
      "text": "நோல்",
      "lemma": "நோல்",
-     "gloss": "to do penance"
+     "gloss": "to perform penance"
     },
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "future tense marker"
+     "gloss": "future/present tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those who do penance"
+   "gloss": "those who perform penance"
   },
   {
    "surface": "பெரியர்",
    "parts": [
     {
      "text": "பெரியர்",
-     "lemma": "பெருமை",
+     "lemma": "பெரியர்",
      "gloss": "great people"
     }
    ],
-   "gloss": "are great"
+   "gloss": "are great people"
   },
   {
    "surface": "பிறர்",
@@ -65,15 +60,15 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "to say"
+     "gloss": "word"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "that say"
+   "gloss": "spoken"
   },
   {
    "surface": "இன்னா",
@@ -81,7 +76,7 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harsh"
+     "gloss": "painful / harsh"
     }
    ],
    "gloss": "harsh"
@@ -92,7 +87,7 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
    "gloss": "words"
@@ -108,17 +103,17 @@
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "future tense marker"
+     "gloss": "future/present tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (pronominal suffix)"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "comparative suffix"
+     "gloss": "than (comparative case marker)"
     }
    ],
    "gloss": "than those who endure"
@@ -129,16 +124,16 @@
     {
      "text": "பின்",
      "lemma": "பின்",
-     "gloss": "behind"
+     "gloss": "behind / inferior"
     }
    ],
-   "gloss": "behind"
+   "gloss": "behind / inferior"
   }
  ],
- "literal": "Without eating those who do penance are great, (but they are) behind than those who endure harsh words that others say.",
- "translation": "Those who do penance by fasting are great, but they rank behind those who patiently endure the harsh words of others.",
- "modern": "உணவு உண்ணாமல் விரதம் இருப்பவர்கள் பெரியவர்கள் தான்; ஆனால் அவர்கள், மற்றவர்கள் சொல்லும் கடுமையான சொற்களைப் பொறுத்துக்கொள்பவர்களுக்கு அடுத்த நிலையில் தான் இருப்பார்கள்.",
- "explanation": "This couplet compares two types of endurance: physical fasting and emotional forbearance. The root word 'நோல்' is used twice, first meaning 'to do penance' by fasting, and second meaning 'to endure' harsh words. The poet declares that while fasting is a mark of greatness, the mental strength required to patiently bear the insults of others is an even higher virtue. Therefore, ascetics who fast rank only 'behind' (பின்) those who practice true forbearance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who perform penance without eating are great; (but they are) behind those who endure the harsh words spoken by others.",
+ "translation": "Those who perform penance by fasting are indeed great, but they stand only behind those who patiently endure the harsh words spoken by others.",
+ "modern": "உணவு உண்ணாமல் நோன்பு நோற்பவர்கள் பெருமை உடையவர்கள் ஆவர்; ஆனால், அவர்கள் பிறர் பேசும் கொடுமையான சொற்களைப் பொறுத்துக் கொள்பவர்களுக்குப் பின்னேதான் நிற்பார்கள்.",
+ "explanation": "This couplet compares physical fasting with emotional forbearance. While fasting (abstaining from food) is traditionally considered a high spiritual achievement, the poet argues that enduring the bitter, hurtful words of others requires a far greater strength of character. Therefore, those who practice patience and forgiveness are placed on a higher pedestal than those who merely subject their bodies to physical austerities. The key word 'நோல்' (to endure or perform penance) is used in both contexts to show that bearing insults is itself the ultimate form of penance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

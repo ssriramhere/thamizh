@@ -17,7 +17,7 @@
     {
      "text": "சிறப்பு",
      "lemma": "சிறப்பு",
-     "gloss": "eminence"
+     "gloss": "glory"
     },
     {
      "text": "ஒடு",
@@ -25,7 +25,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with eminence"
+   "gloss": "along with glory"
   },
   {
    "surface": "நீங்கும்",
@@ -44,26 +44,21 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "use"
+     "gloss": "usefulness"
     }
    ],
-   "gloss": "use"
+   "gloss": "usefulness"
   },
   {
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "things"
+     "text": "இல",
+     "lemma": "இல",
+     "gloss": "things that lack"
     }
    ],
-   "gloss": "things without"
+   "gloss": "things that lack (useless things)"
   },
   {
    "surface": "நீர்மை",
@@ -80,14 +75,9 @@
    "surface": "உடையார்",
    "parts": [
     {
-     "text": "உடை",
-     "lemma": "உடை",
-     "gloss": "possess"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "text": "உடையார்",
+     "lemma": "உடையார்",
+     "gloss": "those who possess"
     }
    ],
    "gloss": "those who possess"
@@ -106,13 +96,13 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if speak"
+   "gloss": "if they speak"
   }
  ],
- "literal": "Greatness with eminence will depart, useless things, good-nature possessors if speak.",
- "translation": "If people of good nature speak useless words, their greatness and eminence will depart from them.",
- "modern": "நல்ல பண்புகளை உடையவர்கள் பயனில்லாத சொற்களைப் பேசினால், அவர்களுடைய பெருமையும் சிறப்பும் அவர்களை விட்டு நீங்கிவிடும்.",
- "explanation": "This couplet warns about the consequences of speaking useless words for people of good character. The phrase 'நீர்மை உடையார்' refers to those who possess a naturally good and noble disposition. If such people speak 'பயன் இல' (words without use or benefit), the text states that their inherent greatness along with their special social esteem will depart from them. The verb 'நீங்கும்' (will depart) emphasizes that respect and dignity are not permanent, but depend on the continuous exercise of meaningful speech.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Greatness along with glory will depart, if those who possess good nature speak useless things.",
+ "translation": "If people of noble character speak useless words, their greatness, along with their glory, will depart from them.",
+ "modern": "நற்குணங்களை உடையவர்கள் பயனில்லாத சொற்களைப் பேசினால், அவர்களுடைய பெருமையும் சிறப்பும் அவர்களை விட்டு நீங்கிவிடும்.",
+ "explanation": "This couplet warns that even people who naturally possess a good and noble character (நீர்மையுடையார்) will lose their standing if they indulge in useless talk. The word 'சீர்மை' refers to their inherent greatness or dignity, while 'சிறப்பு' refers to the external glory or distinction they have earned. Both of these qualities will vanish (நீங்கும்) the moment they speak words that lack substance or benefit (பயனில). Thus, the poet emphasizes that maintaining one's reputation requires constant vigilance over one's speech.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

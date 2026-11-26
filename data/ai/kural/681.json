@@ -6,7 +6,7 @@
     {
      "text": "அன்பு",
      "lemma": "அன்பு",
-     "gloss": "love"
+     "gloss": "love/affection"
     },
     {
      "text": "உடைமை",
@@ -14,18 +14,18 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possessing love"
+   "gloss": "possessing love or affection"
   },
   {
    "surface": "ஆன்ற",
    "parts": [
     {
      "text": "ஆன்ற",
-     "lemma": "ஆல்",
-     "gloss": "noble"
+     "lemma": "ஆன்ற",
+     "gloss": "noble/excellent"
     }
    ],
-   "gloss": "noble"
+   "gloss": "noble or excellent"
   },
   {
    "surface": "குடி",
@@ -33,17 +33,17 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "lineage"
+     "gloss": "family/lineage"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "family or lineage"
   },
   {
    "surface": "பிறத்தல்",
    "parts": [
     {
      "text": "பிறத்தல்",
-     "lemma": "பிற",
+     "lemma": "பிறத்தல்",
      "gloss": "being born"
     }
    ],
@@ -66,10 +66,10 @@
     {
      "text": "அவாம்",
      "lemma": "அவாவு",
-     "gloss": "desiring"
+     "gloss": "desiring / which is desired"
     }
    ],
-   "gloss": "desiring"
+   "gloss": "desiring / which is desired"
   },
   {
    "surface": "பண்புடைமை",
@@ -77,7 +77,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "good qualities"
+     "gloss": "good quality/character"
     },
     {
      "text": "உடைமை",
@@ -93,21 +93,21 @@
     {
      "text": "தூது",
      "lemma": "தூது",
-     "gloss": "message"
+     "gloss": "embassy/message"
     }
    ],
-   "gloss": "message"
+   "gloss": "embassy or message"
   },
   {
    "surface": "உரைப்பான்",
    "parts": [
     {
      "text": "உரைப்பான்",
-     "lemma": "உரை",
+     "lemma": "உரைத்தல்",
      "gloss": "he who speaks"
     }
    ],
-   "gloss": "he who speaks"
+   "gloss": "he who speaks or delivers"
   },
   {
    "surface": "பண்பு",
@@ -115,16 +115,16 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "quality"
+     "gloss": "quality/nature"
     }
    ],
-   "gloss": "quality"
+   "gloss": "quality or duty"
   }
  ],
- "literal": "Possessing love, noble lineage being born, king desiring possessing good qualities: message he who speaks quality.",
- "translation": "Possessing love, being born in a noble lineage, and having the good qualities desired by kings are the true characteristics of an envoy.",
- "modern": "அன்பு கொண்டிருத்தல், சிறந்த குடியில் பிறந்திருத்தல், அரசர்கள் விரும்பும் நல்ல பண்புகளைப் பெற்றிருத்தல் ஆகியவையே தூது உரைப்பவனின் இலக்கணம் ஆகும்.",
- "explanation": "This couplet defines the three essential qualifications for an envoy or ambassador. First, they must possess genuine love and loyalty to their sovereign. Second, they should come from a noble and respected lineage, which ensures honorable conduct. Finally, they must have the refined qualities and culture that kings expect and appreciate in a diplomat.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Possessing love, being born in a noble family, and possessing the good qualities desired by the king, are the qualities of one who delivers an embassy.",
+ "translation": "An affectionate nature, birth in a noble family, and possessing the refined qualities esteemed by kings are the essential attributes of an envoy who delivers a message.",
+ "modern": "அன்பு கொண்டிருத்தல், சிறந்த குடியில் பிறந்திருத்தல், அரசன் விரும்பும் நற்பண்புகளைப் பெற்றிருத்தல் ஆகிய இவை மூன்றும் தூது உரைப்பவனின் தகுதிகள் ஆகும்.",
+ "explanation": "This couplet outlines the three fundamental qualities required of a successful envoy. First, they must possess genuine love and loyalty towards their own king and country. Second, they must come from an honorable and noble lineage, which gives them natural dignity and credibility. Third, they must possess the refined manners and pleasing qualities that kings appreciate, ensuring they can communicate effectively with foreign rulers.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

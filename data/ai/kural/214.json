@@ -4,53 +4,23 @@
    "surface": "ஒத்தது",
    "parts": [
     {
-     "text": "ஒ",
-     "lemma": "ஒ",
-     "gloss": "to be fitting"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "adjectival suffix"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "neuter singular suffix"
+     "text": "ஒத்தது",
+     "lemma": "ஒத்தது",
+     "gloss": "that which is fitting (benevolence)"
     }
    ],
-   "gloss": "that which is fitting"
+   "gloss": "that which is fitting (benevolence)"
   },
   {
    "surface": "அறவோன்",
    "parts": [
     {
-     "text": "அற",
-     "lemma": "அறம்",
-     "gloss": "virtue"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ஓன்",
-     "lemma": "ஓன்",
-     "gloss": "he who has"
+     "text": "அறவோன்",
+     "lemma": "அறவோன்",
+     "gloss": "benevolent person"
     }
    ],
-   "gloss": "virtuous man"
+   "gloss": "benevolent person"
   },
   {
    "surface": "உயிர்வாழ்வான்",
@@ -61,51 +31,31 @@
      "gloss": "life"
     },
     {
-     "text": "வாழ்",
-     "lemma": "வாழ்",
-     "gloss": "to live"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "masculine singular suffix"
+     "text": "வாழ்வான்",
+     "lemma": "வாழ்தல்",
+     "gloss": "he who lives"
     }
    ],
-   "gloss": "he truly lives"
+   "gloss": "he who truly lives"
   },
   {
    "surface": "மற்றையான்",
    "parts": [
     {
-     "text": "மற்றை",
-     "lemma": "மற்றை",
-     "gloss": "other"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "masculine singular suffix"
+     "text": "மற்றையான்",
+     "lemma": "மற்றையான்",
+     "gloss": "the other person"
     }
    ],
-   "gloss": "the other man"
+   "gloss": "the other person"
   },
   {
    "surface": "செத்தாருள்",
    "parts": [
     {
      "text": "செத்தார்",
-     "lemma": "சா",
-     "gloss": "those who died"
+     "lemma": "செத்தார்",
+     "gloss": "those who are dead"
     },
     {
      "text": "உள்",
@@ -119,49 +69,29 @@
    "surface": "வைக்க",
    "parts": [
     {
-     "text": "வை",
-     "lemma": "வை",
-     "gloss": "to place"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "வைக்க",
+     "lemma": "வைத்தல்",
+     "gloss": "to be placed"
     }
    ],
-   "gloss": "to place"
+   "gloss": "to be placed"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
-     "lemma": "படு",
-     "gloss": "to experience (passive)"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "text": "படும்",
+     "lemma": "படுதல்",
+     "gloss": "will be"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "That which is fitting, the virtuous man, he lives a life; the other man, among the dead, to be placed he will be.",
- "translation": "The virtuous man who does what is fitting truly lives. The one who does not will be counted among the dead.",
- "modern": "உலக நடப்பிற்குப் பொருத்தமான அறத்தைச் செய்பவனே உண்மையில் உயிருடன் வாழ்பவன் ஆவான். அதைச் செய்யாத மற்றவன் இறந்தவர்களுக்குச் சமமாகவே கருதப்படுவான்.",
- "explanation": "This couplet defines what it means to be truly alive in a society. The word 'ஒத்தது' refers to what is fitting or proper, pointing to one's duty to others. The virtuous man ('அறவோன்') who fulfills this social duty is the only one considered to be truly living ('உயிர்வாழ்வான்'). In contrast, the person who ignores this duty ('மற்றையான்') is completely useless to the world, and thus the poet says he will be counted among the dead ('செத்தாருள் வைக்கப்படும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who knows what is fitting (benevolence) is the living man; the other person will be placed among the dead.",
+ "translation": "He who understands and practices what is fitting for social harmony is the one who truly lives; he who does not will be counted among the dead.",
+ "modern": "உலக நடைமுறைக்கு ஒத்த உதவி செய்து வாழ்பவனே உயிர் வாழ்பவன் ஆவான்; அவ்வாறு செய்யாத மற்றவன் இறந்தவர்களுள் ஒருவனாகவே கருதப்படுவான்.",
+ "explanation": "This couplet defines true life not by physical breath, but by active participation in social benevolence. The word 'ottatu' refers to that which is fitting or agreeable to the world, meaning living in harmony with society through mutual aid. The benevolent person ('aravon') who practices this is the only one who truly lives ('uyirvalvan'). In contrast, the selfish person ('matraiyan') who does not contribute to the community is considered socially and spiritually dead, and is therefore counted among the deceased ('cettarul vaikkappadum').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

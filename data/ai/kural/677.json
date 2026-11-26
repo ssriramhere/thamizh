@@ -14,7 +14,7 @@
      "gloss": "action"
     }
    ],
-   "gloss": "action to be done"
+   "gloss": "the action to be performed"
   },
   {
    "surface": "செய்வான்",
@@ -27,10 +27,10 @@
     {
      "text": "வான்",
      "lemma": "ஆன்",
-     "gloss": "he who will"
+     "gloss": "he who does"
     }
    ],
-   "gloss": "he who does"
+   "gloss": "he who performs the action"
   },
   {
    "surface": "செயன்முறை",
@@ -38,10 +38,10 @@
     {
      "text": "செயன்முறை",
      "lemma": "செயன்முறை",
-     "gloss": "method of doing"
+     "gloss": "the method of acting"
     }
    ],
-   "gloss": "method of doing",
+   "gloss": "the method of acting",
    "split_unverified": true
   },
   {
@@ -50,10 +50,10 @@
     {
      "text": "அவ்வினை",
      "lemma": "அவ்வினை",
-     "gloss": "that action"
+     "gloss": "of that action"
     }
    ],
-   "gloss": "that action",
+   "gloss": "of that action",
    "split_unverified": true
   },
   {
@@ -62,10 +62,10 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inner nature"
+     "gloss": "inside"
     }
    ],
-   "gloss": "inner nature"
+   "gloss": "inner secrets"
   },
   {
    "surface": "அறிவான்",
@@ -78,7 +78,7 @@
     {
      "text": "வான்",
      "lemma": "ஆன்",
-     "gloss": "he who will"
+     "gloss": "he who"
     }
    ],
    "gloss": "he who knows"
@@ -92,29 +92,24 @@
      "gloss": "mind"
     }
    ],
-   "gloss": "mind"
+   "gloss": "the mind"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "take"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "to grasp"
     }
    ],
-   "gloss": "getting"
+   "gloss": "to win over"
   }
  ],
- "literal": "Action-to-be-done he-who-does method-of-doing that-action inner-nature he-who-knows mind getting.",
- "translation": "The proper method for one undertaking a task is to grasp the mind of an expert who knows its inner workings.",
- "modern": "ஒரு செயலைச் செய்பவன் அச்செயலைச் செய்யும் முறையாவது, அச்செயலின் நுட்பங்களை நன்கு அறிந்தவனின் கருத்தைக் கேட்டு அறிந்துகொள்வதாகும்.",
- "explanation": "This couplet explains the best approach for someone undertaking a task. The phrase ceyaṉmuṟai refers to the proper method of execution. To succeed, the doer must seek out someone who already understands the inner workings of that specific action. By grasping the expert's mind, the doer gains the necessary insight to complete the work flawlessly.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The method of acting of him who performs an action, is to win over the mind of him who knows the inner secrets of that action.",
+ "translation": "The way for one to successfully perform a task is to win over the mind of the person who knows the inner secrets of that task.",
+ "modern": "ஒரு செயலைச் செய்ய விரும்புகிறவர் அச்செயலை வெற்றிகரமாக முடிக்கும் வழியாகக் கொள்ள வேண்டியது, அச்செயலின் நுட்பங்களை அறிந்தவருடைய மனத்தைக் கவர்ந்து தன்வசப்படுத்துவதே ஆகும்.",
+ "explanation": "This couplet outlines the strategic approach to executing any task. The key to success for a doer (செய்வான்) lies in the method of action (செயன்முறை). Rather than working blindly, the doer must identify someone who already knows the inner secrets and complexities (உள்ளறிவான்) of that specific task (அவ்வினை). By winning over their mind and securing their goodwill (உள்ளம் கொளல்), the doer gains invaluable guidance and ensures the task is completed smoothly.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

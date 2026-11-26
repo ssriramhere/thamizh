@@ -28,10 +28,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "called"
     }
    ],
-   "gloss": "saying"
+   "gloss": "called"
   },
   {
    "surface": "இரண்டின்",
@@ -55,10 +55,10 @@
     {
      "text": "எச்சம்",
      "lemma": "எச்சம்",
-     "gloss": "remainder"
+     "gloss": "remnant"
     }
    ],
-   "gloss": "remainder"
+   "gloss": "remnant"
   },
   {
    "surface": "நினையுங்கால்",
@@ -71,10 +71,10 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "when"
     }
    ],
-   "gloss": "when considering"
+   "gloss": "when considered"
   },
   {
    "surface": "தீ",
@@ -93,10 +93,10 @@
     {
      "text": "எச்சம்",
      "lemma": "எச்சம்",
-     "gloss": "remainder"
+     "gloss": "remnant"
     }
    ],
-   "gloss": "remainder"
+   "gloss": "remnant"
   },
   {
    "surface": "போல",
@@ -113,23 +113,18 @@
    "surface": "தெறும்",
    "parts": [
     {
-     "text": "தெறு",
+     "text": "தெறும்",
      "lemma": "தெறு",
-     "gloss": "destroy"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will destroy"
     }
    ],
    "gloss": "will destroy"
   }
  ],
- "literal": "Action, enmity, saying, of the two, remainder, when considering, fire, remainder, like, will destroy.",
- "translation": "When considered, the unfinished remainder of two things—an action and an enmity—will destroy one just like the unextinguished remainder of a fire.",
- "modern": "ஒரு செயல் மற்றும் பகைமை ஆகிய இரண்டிலும் மீதம் வைக்கப்படும் பகுதி, ஆராய்ந்து பார்த்தால், முழுதும் அணைக்கப்படாமல் மீதம் இருக்கும் நெருப்பைப் போலப் பின்னால் வளர்ந்து அழித்துவிடும்.",
- "explanation": "This couplet warns against leaving tasks and conflicts unresolved. The key word 'eccam' means a remainder or residue, referring here to an unfinished action or an unextinguished enmity. When one thinks about it ('niṉaiyuṅkāl'), leaving even a small part of these two things is highly dangerous. Just as a tiny spark left from a fire can flare up again and destroy everything, an incomplete task or an unresolved enmity will eventually grow back and cause ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The remnant of the two called action and enmity, when considered, like the remnant of fire, will destroy.",
+ "translation": "When one considers them, the unfinished remnants of an action or an enmity will destroy a person, just like a remnant of fire left unextinguished.",
+ "modern": "செயல், பகை ஆகிய இரண்டின் எஞ்சிய பகுதி, ஆராய்ந்து பார்த்தால், அணையாமல் விடப்பட்ட நெருப்பின் எஞ்சிய பகுதி போல அழிவை உண்டாக்கும்.",
+ "explanation": "This couplet warns against leaving any task or enmity incomplete. The poet compares the remnants of an unfinished action (வினை) and an unresolved enmity (பகை) to a spark of fire (தீ) that is not fully put out. Just as a tiny leftover ember can flare up and burn down an entire house, any unfinished portion of a task or a lingering trace of hostility will eventually grow and destroy the person who neglected it. Therefore, both work and enmity must be resolved completely without leaving any residue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "மணி",
      "lemma": "மணி",
-     "gloss": "crystal"
+     "gloss": "gem-like"
     },
     {
      "text": "நீர்",
@@ -19,7 +19,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "clear water and"
+   "gloss": "and crystal-clear water"
   },
   {
    "surface": "மண்ணும்",
@@ -35,7 +35,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "open land and"
+   "gloss": "and land"
   },
   {
    "surface": "மலையும்",
@@ -46,17 +46,12 @@
      "gloss": "mountain"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "உம்",
      "lemma": "உம்",
      "gloss": "and"
     }
    ],
-   "gloss": "mountain and"
+   "gloss": "and a mountain"
   },
   {
    "surface": "அணிநிழற்",
@@ -67,7 +62,7 @@
      "gloss": "beautiful shade"
     }
    ],
-   "gloss": "beautiful shade"
+   "gloss": "beautifully shaded"
   },
   {
    "surface": "காடும்",
@@ -83,7 +78,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "forest and"
+   "gloss": "and a forest"
   },
   {
    "surface": "உடையது",
@@ -105,13 +100,13 @@
      "gloss": "fortress"
     }
    ],
-   "gloss": "fortress"
+   "gloss": "a fortress"
   }
  ],
- "literal": "Crystal water and, open land and, mountain and, beautiful shade forest and, that which possesses [is] a fortress.",
- "translation": "A true fortress is one that possesses clear waters, open land, mountains, and beautiful shaded forests.",
- "modern": "தெளிவான நீரும், வெட்டவெளியான நிலமும், மலையும், அழகிய நிழலைத் தரும் காடும் ஆகிய நான்கையும் உடையதே சிறந்த அரண் ஆகும்.",
- "explanation": "This couplet defines the natural components of a strong fortress. It lists four essential features: clear waters for drinking and defense, open land for clear visibility, mountains as natural barriers, and dense forests for cover. The word 'அணிநிழற்' emphasizes the thick, beautiful shade of the forest, which provides both resources and concealment. Together, these elements form an impenetrable natural defense.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Crystal-clear water, land, a mountain, and a beautifully shaded forest—that which possesses [these] is a fortress.",
+ "translation": "A true fortress is that which possesses crystal-clear water, open land, a high mountain, and a forest of beautiful, protective shade.",
+ "modern": "தெளிந்த நீரும், நிலமும், மலையும், அழகிய நிழலைத் தரும் காடும் கொண்டதே சிறந்த அரண் ஆகும்.",
+ "explanation": "This couplet defines the four essential natural elements that constitute a perfect defensive fortress (அரண்). First is 'மணிநீர்' (crystal-clear, gem-like water) which ensures a reliable water supply for those inside. Second is 'மண்' (fertile land or open space) which provides resources and space. Third is 'மலை' (a mountain) which offers a natural high vantage point and physical barrier. Fourth is 'அணிநிழற் காடு' (a forest with beautiful, dense shade) which provides cover, resources, and further defense. A stronghold possessing all four of these natural features is virtually impregnable.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "having done"
+     "gloss": "having made"
     }
    ],
-   "gloss": "having done"
+   "gloss": "having made"
   },
   {
    "surface": "ஏமம்",
@@ -28,10 +28,10 @@
     {
      "text": "சாரா",
      "lemma": "சார்",
-     "gloss": "not providing"
+     "gloss": "not yielding"
     }
    ],
-   "gloss": "not providing"
+   "gloss": "not yielding"
   },
   {
    "surface": "சிறியவர்",
@@ -39,34 +39,29 @@
     {
      "text": "சிறியவர்",
      "lemma": "சிறியவர்",
-     "gloss": "base people"
+     "gloss": "mean people"
     }
    ],
-   "gloss": "base people"
+   "gloss": "mean people"
   },
   {
    "surface": "புன்கேண்மை",
    "parts": [
     {
-     "text": "புன்",
-     "lemma": "புன்மை",
-     "gloss": "mean"
-    },
-    {
-     "text": "கேண்மை",
-     "lemma": "கேண்மை",
-     "gloss": "friendship"
+     "text": "புன்கேண்மை",
+     "lemma": "புன்கேண்மை",
+     "gloss": "worthless friendship"
     }
    ],
-   "gloss": "mean friendship"
+   "gloss": "worthless friendship"
   },
   {
    "surface": "எய்தலின்",
    "parts": [
     {
      "text": "எய்தல்",
-     "lemma": "எய்து",
-     "gloss": "attaining"
+     "lemma": "எய்தல்",
+     "gloss": "obtaining"
     },
     {
      "text": "இன்",
@@ -74,35 +69,35 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than attaining"
+   "gloss": "than obtaining"
   },
   {
    "surface": "எய்தாமை",
    "parts": [
     {
      "text": "எய்தாமை",
-     "lemma": "எய்து",
-     "gloss": "not attaining"
+     "lemma": "எய்தாமை",
+     "gloss": "not obtaining"
     }
    ],
-   "gloss": "not attaining"
+   "gloss": "not obtaining"
   },
   {
    "surface": "நன்று",
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நல்",
-     "gloss": "good"
+     "lemma": "நன்று",
+     "gloss": "is good"
     }
    ],
-   "gloss": "good"
+   "gloss": "is good"
   }
  ],
- "literal": "having done, protection not providing base people's mean friendship, than attaining not attaining (is) good.",
- "translation": "It is better not to attain, rather than to attain, the mean friendship of base people who offer no protection even when befriended.",
- "modern": "நட்பு செய்தாலும் பாதுகாப்புத் தராத சிறியவர்களின் தீய நட்பைப் பெறுவதை விடப் பெறாமல் இருப்பதே நல்லது.",
- "explanation": "This couplet warns against befriending base people who are unreliable. The word 'ஏமம்' means protection or security, which is the core purpose of true friendship. 'சாரா' indicates their failure to provide this support even after a friendship is formed ('செய்து'). Therefore, the poet concludes that it is far better never to attain ('எய்தாமை') such a mean friendship ('புன்கேண்மை') than to attain it ('எய்தலின்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having made protection, not yielding, of mean people, the worthless friendship, than obtaining, not obtaining is good.",
+ "translation": "Rather than acquiring the worthless friendship of mean people, which does not yield any protection even when cultivated, it is far better not to acquire it at all.",
+ "modern": "பாதுகாப்பைத் தராத கீழ் குணமுடையவர்களின் தீய நட்பைப் பெறுவதை விட, அதனைப் பெறாமல் இருப்பதே நல்லது.",
+ "explanation": "This couplet highlights the futility of forming alliances with base or mean-minded individuals. The poet describes their relationship as 'புன்கேண்மை' (worthless friendship) because, even if one puts effort into cultivating it, it fails to provide any safety or support ('ஏமம் சாரா') when needed. Therefore, the couplet concludes that not acquiring ('எய்தாமை') such a friendship is far better ('நன்று') than acquiring ('எய்தலின்') it, as it only brings vulnerability instead of security.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

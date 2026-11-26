@@ -4,12 +4,17 @@
    "surface": "கொடியார்",
    "parts": [
     {
-     "text": "கொடியார்",
-     "lemma": "கொடியார்",
-     "gloss": "cruel person"
+     "text": "கொடி",
+     "lemma": "கொடி",
+     "gloss": "cruel"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "person (honorific)"
     }
    ],
-   "gloss": "cruel person's"
+   "gloss": "the cruel one (the lover)"
   },
   {
    "surface": "கொடுமை",
@@ -26,12 +31,17 @@
    "surface": "உரைக்கும்",
    "parts": [
     {
-     "text": "உரைக்கும்",
+     "text": "உரை",
      "lemma": "உரை",
-     "gloss": "will tell"
+     "gloss": "to tell"
+    },
+    {
+     "text": "க்கும்",
+     "lemma": "உம்",
+     "gloss": "will (habitual marker)"
     }
    ],
-   "gloss": "will tell"
+   "gloss": "proclaims / reveals"
   },
   {
    "surface": "தொடியொடு",
@@ -39,15 +49,15 @@
     {
      "text": "தொடி",
      "lemma": "தொடி",
-     "gloss": "bangle"
+     "gloss": "bracelet"
     },
     {
      "text": "ஒடு",
      "lemma": "ஒடு",
-     "gloss": "with"
+     "gloss": "along with"
     }
    ],
-   "gloss": "with bangles"
+   "gloss": "along with the bracelets"
   },
   {
    "surface": "தொல்",
@@ -55,10 +65,10 @@
     {
      "text": "தொல்",
      "lemma": "தொல்",
-     "gloss": "former"
+     "gloss": "natural / ancient"
     }
    ],
-   "gloss": "former"
+   "gloss": "natural / ancient"
   },
   {
    "surface": "கவின்",
@@ -75,12 +85,17 @@
    "surface": "வாடிய",
    "parts": [
     {
-     "text": "வாடிய",
+     "text": "வாடு",
      "lemma": "வாடு",
-     "gloss": "faded"
+     "gloss": "to wither / thin"
+    },
+    {
+     "text": "இய",
+     "lemma": "அ",
+     "gloss": "past relative participle suffix"
     }
    ],
-   "gloss": "faded"
+   "gloss": "withered / faded"
   },
   {
    "surface": "தோள்",
@@ -88,16 +103,16 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulders"
+     "gloss": "shoulders / arms"
     }
    ],
    "gloss": "shoulders"
   }
  ],
- "literal": "Cruel person's cruelty will tell, with bangles, former beauty faded shoulders.",
- "translation": "My shoulders, which have lost their bangles and their former beauty, proclaim the cruelty of my cruel lover.",
- "modern": "வளையல்கள் கழன்று பழைய அழகும் கெட்டு வாடிப்போன என் தோள்கள், என்னை விட்டுப் பிரிந்த காதலரின் கொடுமையை உலகத்தார்க்குச் சொல்லும்.",
- "explanation": "The speaker laments the physical toll of her lover's absence. Her shoulders have grown so thin that her bangles slip off, and their natural, former beauty has faded. This visible wasting away acts as a silent but clear messenger, proclaiming the cruelty of the lover who abandoned her. The phrase 'தொடியொடு' (with bangles) vividly captures how both her adornments and her innate beauty are lost together.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The cruel one's cruelty proclaims, along with the bracelets, the natural beauty faded shoulders.",
+ "translation": "Along with the slipping bracelets, my shoulders, which have lost their natural beauty, proclaim the cruelty of my cruel lover.",
+ "modern": "கொடியவரான காதலரின் கொடுமையை, கழலும் வளையல்களோடு சேர்ந்து, தம் இயற்கை அழகை இழந்த என் தோள்கள் பிறருக்கு அறிவிக்கின்றன.",
+ "explanation": "In this verse, the heroine laments her physical decline caused by the pain of separation from her lover. Her shoulders have grown so thin that her bracelets are slipping off. She says that these wasted shoulders, having lost their natural beauty, act together with the falling bracelets to publicly announce the cruelty of her lover who left her. The physical changes in her body serve as an open testimony to his harshness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "கேட்டினும்",
      "lemma": "கேட்டினும்",
-     "gloss": "even in ruin"
+     "gloss": "even in adversity"
     }
    ],
-   "gloss": "even in ruin",
+   "gloss": "even in adversity",
    "split_unverified": true
   },
   {
@@ -18,7 +18,7 @@
     {
      "text": "உண்டு",
      "lemma": "உண்டு",
-     "gloss": "exists"
+     "gloss": "there is"
     }
    ],
    "gloss": "there is"
@@ -51,31 +51,26 @@
     {
      "text": "கிளைஞர்",
      "lemma": "கிளைஞர்",
-     "gloss": "relatives"
+     "gloss": "friends/relatives"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "relatives (acc.)"
+   "gloss": "friends"
   },
   {
    "surface": "நீட்டி",
    "parts": [
     {
-     "text": "நீட்டு",
+     "text": "நீட்டி",
      "lemma": "நீட்டு",
-     "gloss": "stretch"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "extending"
     }
    ],
-   "gloss": "having stretched"
+   "gloss": "extending"
   },
   {
    "surface": "அளப்பது",
@@ -83,12 +78,17 @@
     {
      "text": "அள",
      "lemma": "அள",
-     "gloss": "measure"
+     "gloss": "to measure"
     },
     {
-     "text": "ப்பது",
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அது",
      "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "gloss": "it"
     }
    ],
    "gloss": "that which measures"
@@ -110,16 +110,16 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "rod"
+     "gloss": "measuring rod"
     }
    ],
    "gloss": "measuring rod"
   }
  ],
- "literal": "Even in ruin there is a benefit: relatives (acc.) having stretched that which measures, a rod.",
- "translation": "Even in ruin there is a certain benefit: it acts as a measuring rod to stretch out and measure one's true friends.",
- "modern": "ஒருவனுக்கு வரும் துன்பத்திலும் ஒரு நன்மை உண்டு; அத்துன்பமே அவனுடைய நண்பர்களின் உண்மையான இயல்பை அளந்து காட்டும் அளவுகோலாக அமையும்.",
- "explanation": "This couplet reveals a hidden advantage in facing adversity. The word 'கேடு' refers to ruin or hardship, while 'உறுதி' means a solid benefit or good. The poet uses the metaphor of a measuring rod ('கோல்') that is stretched out ('நீட்டி') to measure things. Hardship acts exactly like this rod, allowing a person to accurately measure the true loyalty and worth of their friends and relatives ('கிளைஞர்'). Thus, adversity is not entirely bad, as it exposes who one's real companions are.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in adversity, is there a benefit? It is a rod that extends and measures one's friends.",
+ "translation": "Is there any benefit to be found even in adversity? Yes, it is a measuring rod that extends to gauge the true worth of one's friends.",
+ "modern": "துன்பத்திலும் ஒரு நன்மை உண்டோ? தன் நண்பர்களை நீட்டி அளந்து பார்க்கும் ஒரு அளவுகோல் அது.",
+ "explanation": "This couplet explains that even misfortune or ruin (கேடு) has a positive side. It acts as a measuring rod (கோல்) to test and evaluate the true character of one's friends and relatives (கிளைஞர்). When we are in trouble, we can easily see who stands by us and who abandons us. Thus, adversity serves as a practical tool to measure the depth and sincerity of our relationships.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

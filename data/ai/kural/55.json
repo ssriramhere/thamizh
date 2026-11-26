@@ -6,21 +6,31 @@
     {
      "text": "தெய்வம்",
      "lemma": "தெய்வம்",
-     "gloss": "god"
+     "gloss": "deity"
     }
    ],
-   "gloss": "god"
+   "gloss": "deity"
   },
   {
    "surface": "தொழாஅள்",
    "parts": [
     {
-     "text": "தொழாஅள்",
+     "text": "தொழு",
      "lemma": "தொழு",
-     "gloss": "she does not worship"
+     "gloss": "worship"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative marker"
+    },
+    {
+     "text": "அள்",
+     "lemma": "அள்",
+     "gloss": "she"
     }
    ],
-   "gloss": "she does not worship"
+   "gloss": "she who does not worship"
   },
   {
    "surface": "கொழுநன்",
@@ -48,9 +58,19 @@
    "surface": "எழுவாள்",
    "parts": [
     {
-     "text": "எழுவாள்",
+     "text": "எழு",
      "lemma": "எழு",
-     "gloss": "she who rises"
+     "gloss": "rise"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she"
     }
    ],
    "gloss": "she who rises"
@@ -61,10 +81,10 @@
     {
      "text": "பெய்",
      "lemma": "பெய்",
-     "gloss": "rain"
+     "gloss": "pour"
     }
    ],
-   "gloss": "rain (imperative)"
+   "gloss": "pour"
   },
   {
    "surface": "என",
@@ -72,10 +92,10 @@
     {
      "text": "என",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "upon saying"
     }
    ],
-   "gloss": "saying"
+   "gloss": "upon saying"
   },
   {
    "surface": "பெய்யும்",
@@ -83,10 +103,10 @@
     {
      "text": "பெய்யும்",
      "lemma": "பெய்",
-     "gloss": "will rain"
+     "gloss": "will pour"
     }
    ],
-   "gloss": "will rain"
+   "gloss": "will pour"
   },
   {
    "surface": "மழை",
@@ -100,10 +120,10 @@
    "gloss": "rain"
   }
  ],
- "literal": "God she worships not; husband having worshipped she who rises, 'rain' saying, will rain the rain.",
- "translation": "If a wife who does not worship God, but wakes up worshipping her husband, commands it to rain, the rain will fall.",
- "modern": "தெய்வத்தை வணங்காமல் தன் கணவனையே தொழுது துயிலெழும் மனைவி, பெய் என்று சொன்னால் மழையும் பெய்யும்.",
- "explanation": "This couplet illustrates the immense moral power of a devoted wife. It states that a woman who directs her reverence entirely toward her husband rather than other deities possesses such virtue that nature itself obeys her. The phrase 'பெய்யெனப் பெய்யும்' shows that her steadfast loyalty grants her words the power to command the rain.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Deity not-worshipping, husband having-worshipped she-who-rises, 'pour' upon-saying, will-pour rain.",
+ "translation": "If a wife who does not worship any other deity rises worshipping her husband, the rain will pour down at her command.",
+ "modern": "தெய்வத்தை வணங்காமல், தன் கணவனையே வணங்கித் துயில் எழுகின்ற பெண், 'மழை பெய்' என்று சொன்னால் உடனே மழை பெய்யும்.",
+ "explanation": "This couplet highlights the immense power of a wife's devotion and moral strength. The poet states that a woman who does not worship any external deity, but instead rises each day worshipping her husband, possesses such spiritual power that even nature obeys her. If she commands the rain to fall, it will immediately pour down. The key words 'தொழாஅள்' (she who does not worship other gods) and 'தொழுதெழுவாள்' (she who rises worshipping her husband) contrast the redirection of her devotion, while 'பெய்யெனப் பெய்யும்' (will pour as soon as told to pour) illustrates the absolute authority her virtue commands over the elements.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

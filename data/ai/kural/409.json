@@ -6,26 +6,36 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "high"
+     "gloss": "high status"
     }
    ],
-   "gloss": "high"
+   "gloss": "high status"
   },
   {
    "surface": "பிறந்தார்",
    "parts": [
     {
-     "text": "பிறந்து",
+     "text": "பிற",
      "lemma": "பிற",
-     "gloss": "having been born"
+     "gloss": "be born"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "past tense increment"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (plural)"
     }
    ],
-   "gloss": "they who are born"
+   "gloss": "those who are born"
   },
   {
    "surface": "ஆயினும்",
@@ -33,7 +43,7 @@
     {
      "text": "ஆயின்",
      "lemma": "ஆ",
-     "gloss": "if it is"
+     "gloss": "if become"
     },
     {
      "text": "உம்",
@@ -41,23 +51,33 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if they are"
+   "gloss": "even though they are"
   },
   {
    "surface": "கல்லாதார்",
    "parts": [
     {
-     "text": "கல்லாது",
+     "text": "கல்",
      "lemma": "கல்",
-     "gloss": "without learning"
+     "gloss": "learn"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative marker"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "hiatus preventer"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (plural)"
     }
    ],
-   "gloss": "unlearned people"
+   "gloss": "those who have not learned"
   },
   {
    "surface": "கீழ்",
@@ -65,42 +85,57 @@
     {
      "text": "கீழ்",
      "lemma": "கீழ்",
-     "gloss": "low"
+     "gloss": "low status"
     }
    ],
-   "gloss": "low"
+   "gloss": "low status"
   },
   {
    "surface": "பிறந்தும்",
    "parts": [
     {
-     "text": "பிறந்து",
+     "text": "பிற",
      "lemma": "பிற",
-     "gloss": "having been born"
+     "gloss": "be born"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "past tense increment"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even having been born"
+   "gloss": "even though born"
   },
   {
    "surface": "கற்றார்",
    "parts": [
     {
-     "text": "கற்று",
+     "text": "கல்",
      "lemma": "கல்",
-     "gloss": "having learned"
+     "gloss": "learn"
+    },
+    {
+     "text": "ற்",
+     "lemma": "ற்",
+     "gloss": "past tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (plural)"
     }
    ],
-   "gloss": "learned people"
+   "gloss": "those who have learned"
   },
   {
    "surface": "அனைத்து",
@@ -108,10 +143,10 @@
     {
      "text": "அனைத்து",
      "lemma": "அனைத்து",
-     "gloss": "that measure"
+     "gloss": "that much"
     }
    ],
-   "gloss": "that measure"
+   "gloss": "that much"
   },
   {
    "surface": "இலர்",
@@ -119,15 +154,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not have"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "they (plural)"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "they do not have"
   },
   {
    "surface": "பாடு",
@@ -141,10 +176,10 @@
    "gloss": "greatness"
   }
  ],
- "literal": "High they-were-born even-if, unlearned-people, low having-been-born learned-people's that-measure they-are-without greatness.",
- "translation": "Even if born in a high station, the unlearned do not possess the greatness of the learned who are born in a low station.",
- "modern": "உயர்ந்த குடியில் பிறந்திருந்தாலும், கல்வி கற்காதவர்கள் தாழ்ந்த குடியில் பிறந்திருந்தாலும் கல்வி கற்றவர்களின் பெருமைக்கு ஈடாக மாட்டார்கள்.",
- "explanation": "The couplet contrasts the value of birth with the value of education. It states that unlearned people, despite being born into a high social standing, lack true worth. In contrast, those who have learned possess a greatness that surpasses social origins, making them superior even if born into a lower station. The word 'பாடு' (pāṭu) here means greatness or dignity, emphasizing that true social worth comes from learning, not lineage.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if born in high status, those who have not learned, even though born in low status, those who have learned, that much they do not have greatness.",
+ "translation": "Even if born of high birth, those who are unlearned lack the dignity and greatness of those who, though of low birth, are learned.",
+ "modern": "உயர்ந்த குலத்தில் பிறந்திருந்தாலும் கல்வி கற்காதவர்கள், தாழ்ந்த குலத்தில் பிறந்திருந்தாலும் கல்வி கற்றவர்களின் அளவிற்குப் பெருமை இல்லாதவர்கள் ஆவர்.",
+ "explanation": "This couplet highlights that true dignity and greatness come from learning, not from the status of one's birth. The author contrasts those born into high status who remain unlearned with those born into low status who acquire knowledge. The word 'pāṭu' is used here in the sense of greatness or worthiness. The verse asserts that the unlearned, regardless of their high birth, can never match the intrinsic worth and respect commanded by the learned, even if the latter are of humble origins.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

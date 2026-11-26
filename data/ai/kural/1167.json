@@ -37,9 +37,14 @@
    "surface": "நீந்தி",
    "parts": [
     {
-     "text": "நீந்தி",
+     "text": "நீந்து",
      "lemma": "நீந்து",
-     "gloss": "having swum"
+     "gloss": "swim"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past participle suffix"
     }
    ],
    "gloss": "having swum"
@@ -66,7 +71,7 @@
     {
      "text": "ஏன்",
      "lemma": "ஏன்",
-     "gloss": "I do not"
+     "gloss": "I do not (first-person singular negative suffix)"
     }
    ],
    "gloss": "I do not see"
@@ -98,32 +103,27 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "alone"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "I alone"
+   "gloss": "I indeed"
   },
   {
    "surface": "உளேன்",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "exist"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I"
+     "text": "உளேன்",
+     "lemma": "உளன்",
+     "gloss": "I exist"
     }
    ],
-   "gloss": "I exist"
+   "gloss": "I am awake"
   }
  ],
- "literal": "Desire's fierce flood having swum, shore I see not; at midnight even, I alone exist.",
- "translation": "I swim the fierce flood of desire but can see no shore. Even at midnight, I alone remain awake.",
- "modern": "காமமாகிய கடுமையான வெள்ளத்தில் நீந்தியும் நான் கரையைச் சேரவில்லை; நள்ளிரவிலும் நான் மட்டுமே உறங்காமல் விழித்திருக்கிறேன்.",
- "explanation": "The speaker compares her intense longing to a fierce, endless flood that she struggles to swim across without ever finding the shore. While the rest of the world sleeps peacefully, she alone remains awake, trapped in her suffering. The contrast between the vast, turbulent flood of desire and the stillness of midnight highlights her profound isolation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Desire's fierce flood swimming, shore I do not see; even at midnight, I indeed am awake.",
+ "translation": "Swimming in the fierce flood of desire, I cannot see the shore; even in the dead of night, I am left all alone, awake.",
+ "modern": "காமம் என்னும் கொடிய வெள்ளத்தில் நீந்தியும் அதன் கரையை நான் காணவில்லை; நள்ளிரவிலும் நான் ஒருவளே விழித்திருக்கிறேன்.",
+ "explanation": "The heroine describes her overwhelming suffering during separation. She compares her intense passion to a fierce, rushing flood (கடும்புனல்) in which she is drowning. Though she struggles and swims (நீந்தி) constantly, she cannot find any shore (கரை காணேன்) or relief. To intensify her grief, even during the dead of night (யாமத்தும்) when the rest of the world is asleep, she alone remains awake (யானே உளேன்) with her painful thoughts.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

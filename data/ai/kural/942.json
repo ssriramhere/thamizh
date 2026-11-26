@@ -28,7 +28,7 @@
     {
      "text": "வேண்டா",
      "lemma": "வேண்டு",
-     "gloss": "is not needed"
+     "gloss": "not needed"
     },
     {
      "text": "ஆம்",
@@ -47,12 +47,12 @@
      "gloss": "body"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to/for"
+     "gloss": "to"
     }
    ],
-   "gloss": "for the body"
+   "gloss": "to the body"
   },
   {
    "surface": "அருந்தியது",
@@ -71,10 +71,10 @@
     {
      "text": "அற்றது",
      "lemma": "அறு",
-     "gloss": "that which was digested"
+     "gloss": "that which is digested"
     }
    ],
-   "gloss": "that which was digested"
+   "gloss": "having digested"
   },
   {
    "surface": "போற்றி",
@@ -85,29 +85,24 @@
      "gloss": "having ensured"
     }
    ],
-   "gloss": "having ensured"
+   "gloss": "carefully ensuring"
   },
   {
    "surface": "உணின்",
    "parts": [
     {
-     "text": "உண்",
+     "text": "உணின்",
      "lemma": "உண்",
-     "gloss": "eat"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one eats"
     }
    ],
    "gloss": "if one eats"
   }
  ],
- "literal": "Medicine as will not be needed for the body, what was eaten, what was digested having ensured if one eats.",
- "translation": "No medicine is needed for the body if one eats only after ensuring that the food previously eaten has been fully digested.",
- "modern": "முன்பு உண்ட உணவு முழுமையாகச் செரித்துவிட்டதா என்பதை உறுதிசெய்து பின்பு உண்டால், இந்த உடம்பிற்கு மருந்து என்று ஒன்று தேவையில்லை.",
- "explanation": "This couplet states a fundamental principle of health and digestion. The word 'யாக்கை' refers to the physical body, and 'அருந்தியது' means the food that was previously consumed. The term 'அற்றது' literally means 'that which is severed or ended', but here it specifically denotes the complete digestion of food. By 'போற்றி உணின்', the poet advises eating carefully, ensuring that the previous meal is fully digested before taking the next. If one follows this simple practice, the body will never require any medicine.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Medicine as will not be needed for the body, if one eats after carefully ensuring that what was previously eaten has been digested.",
+ "translation": "No medicine is needed for the body if one eats only after ensuring that what was previously consumed has been fully digested.",
+ "modern": "முன் உண்ட உணவு செரித்ததை உறுதி செய்து கொண்டு அதன் பிறகு உண்டால், உடம்பிற்கு மருந்து என்று ஒன்று தேவையில்லை.",
+ "explanation": "This couplet highlights a fundamental principle of preventive health. It states that the human body does not require any external medicine if a person regulates their eating habits. The key is to wait until the previously consumed food ('aruntiyatu') is completely digested ('aṟṟatu') before eating again. By carefully observing this digestion process ('pōṟṟi') and eating only when the body is ready ('uṇiṉ'), one maintains natural health, making medicine ('maruntu') entirely unnecessary.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

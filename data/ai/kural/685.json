@@ -4,92 +4,67 @@
    "surface": "தொக",
    "parts": [
     {
-     "text": "தொகு",
+     "text": "தொக",
      "lemma": "தொகு",
-     "gloss": "to summarize"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to summarize (infinitive used adverbially)"
     }
    ],
-   "gloss": "to summarize"
+   "gloss": "concisely"
   },
   {
    "surface": "சொல்லி",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லி",
      "lemma": "சொல்",
-     "gloss": "to speak"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "verbal participle suffix"
+     "gloss": "having spoken"
     }
    ],
-   "gloss": "having spoken"
+   "gloss": "speaking"
   },
   {
    "surface": "தூவாத",
    "parts": [
     {
      "text": "தூவாத",
-     "lemma": "தூவாத",
-     "gloss": "displeasing things"
+     "lemma": "தூவாமை",
+     "gloss": "disagreeable / unpleasant things"
     }
    ],
-   "gloss": "displeasing things"
+   "gloss": "disagreeable things"
   },
   {
    "surface": "நீக்கி",
    "parts": [
     {
-     "text": "நீக்கு",
+     "text": "நீக்கி",
      "lemma": "நீக்கு",
-     "gloss": "to remove"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "verbal participle suffix"
+     "gloss": "having removed / avoiding"
     }
    ],
-   "gloss": "having removed"
+   "gloss": "avoiding"
   },
   {
    "surface": "நக",
    "parts": [
     {
-     "text": "நகு",
+     "text": "நக",
      "lemma": "நகு",
-     "gloss": "to smile"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to make glad / to smile (infinitive used adverbially)"
     }
    ],
-   "gloss": "to smile"
+   "gloss": "pleasantly"
   },
   {
    "surface": "சொல்லி",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லி",
      "lemma": "சொல்",
-     "gloss": "to speak"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "verbal participle suffix"
+     "gloss": "having spoken"
     }
    ],
-   "gloss": "having spoken"
+   "gloss": "speaking"
   },
   {
    "surface": "நன்றி",
@@ -97,7 +72,7 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "benefit"
+     "gloss": "good / benefit"
     }
    ],
    "gloss": "benefit"
@@ -106,24 +81,9 @@
    "surface": "பயப்பது",
    "parts": [
     {
-     "text": "பய",
+     "text": "பயப்பது",
      "lemma": "பய",
-     "gloss": "to yield"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "gloss": "that which yields / produces"
     }
    ],
    "gloss": "that which yields"
@@ -133,8 +93,8 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆகு",
-     "gloss": "is"
+     "lemma": "ஆ",
+     "gloss": "is / becomes"
     }
    ],
    "gloss": "is"
@@ -145,16 +105,16 @@
     {
      "text": "தூது",
      "lemma": "தூது",
-     "gloss": "envoy"
+     "gloss": "envoy / embassy / mission"
     }
    ],
-   "gloss": "envoy"
+   "gloss": "an envoy / embassy"
   }
  ],
- "literal": "To summarize having spoken, displeasing things having removed, to smile having spoken, benefit that which yields is an envoy.",
- "translation": "A true envoy speaks concisely, avoids displeasing words, speaks to bring a smile, and thereby yields a beneficial outcome.",
- "modern": "சுருக்கமாகச் சொல்ல வேண்டியதைச் சொல்லி, வெறுப்பூட்டும் சொற்களை நீக்கி, கேட்பவர் மகிழும்படி பேசி, நன்மையை உருவாக்குபவரே சிறந்த தூதுவர் ஆவார்.",
- "explanation": "This couplet outlines the communication strategy of a successful envoy. First, they must speak concisely ('தொகச் சொல்லி') so the core message is clear and impactful. Second, they must filter out any harsh or useless words ('தூவாத நீக்கி') that might offend the listener. Finally, they must deliver the message in a pleasant way that brings a smile ('நகச்சொல்லி'), ensuring that the diplomatic mission yields a beneficial result ('நன்றி பயப்பது').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Speaking concisely, avoiding disagreeable things, speaking pleasantly, yielding benefit is the mission of an envoy.",
+ "translation": "To speak concisely, to avoid disagreeable words, and to speak so as to please, thereby yielding a beneficial result, is the true mission of an envoy.",
+ "modern": "விஷயங்களைச் சுருக்கமாகச் சொல்லி, வெறுப்புத் தரும் சொற்களைத் தவிர்த்து, கேட்பவர் மகிழுமாறு பேசி, நன்மையைத் தருவதே சிறந்த தூது ஆகும்.",
+ "explanation": "This couplet outlines the essential communication strategy of a successful diplomat. First, the envoy must present the core message concisely to maintain the listener's attention. Second, they must carefully filter out any offensive or disagreeable remarks that could provoke hostility. Third, they must speak in a pleasing, winning manner to foster goodwill. By combining these three qualities, the envoy's speech yields a beneficial outcome for their state.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

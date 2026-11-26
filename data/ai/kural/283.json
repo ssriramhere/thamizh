@@ -9,33 +9,23 @@
      "gloss": "theft"
     },
     {
-     "text": "இன்",
+     "text": "இனால்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by / through"
     }
    ],
-   "gloss": "by theft"
+   "gloss": "by means of theft"
   },
   {
    "surface": "ஆகிய",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகிய",
      "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "இய",
-     "lemma": "இய",
-     "gloss": "adjectival suffix"
+     "gloss": "that which is accumulated"
     }
    ],
-   "gloss": "accrued"
+   "gloss": "that is accumulated"
   },
   {
    "surface": "ஆக்கம்",
@@ -46,7 +36,7 @@
      "gloss": "wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "wealth / prosperity"
   },
   {
    "surface": "அளவு",
@@ -54,10 +44,10 @@
     {
      "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "limit"
+     "gloss": "measure / limit"
     }
    ],
-   "gloss": "limit"
+   "gloss": "measure / limit"
   },
   {
    "surface": "இறந்து",
@@ -76,48 +66,38 @@
     {
      "text": "ஆவது",
      "lemma": "ஆகு",
-     "gloss": "that which grows"
+     "gloss": "appearing to grow"
     }
    ],
-   "gloss": "growing"
+   "gloss": "appearing to grow"
   },
   {
    "surface": "போல",
    "parts": [
     {
-     "text": "போல்",
-     "lemma": "போல்",
-     "gloss": "to resemble"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "போல",
+     "lemma": "போல",
+     "gloss": "like / as if"
     }
    ],
-   "gloss": "appearing as if"
+   "gloss": "like / as if"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடு",
+     "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "to perish"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will perish"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will perish / be ruined"
   }
  ],
- "literal": "Wealth accrued by theft, having exceeded the limit, will perish like it is growing.",
- "translation": "Wealth accumulated through theft may seem to grow beyond all limits, but it will ultimately perish.",
- "modern": "திருடுவதால் சேர்ந்த செல்வம், எல்லையைக் கடந்து பெருகுவது போலத் தோன்றினாலும், முடிவில் அழிந்துவிடும்.",
- "explanation": "This couplet warns about the deceptive nature of ill-gotten wealth. The word 'ஆக்கம்' generally means creation or increase, but here it specifically refers to wealth or prosperity. The phrase 'களவினால்' indicates that this wealth is acquired through stealing. Although such wealth might appear to grow boundlessly ('அளவு இறந்து ஆவது போல'), this growth is an illusion. The verse concludes with 'கெடும்', emphasizing that it will inevitably be destroyed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Wealth accumulated by theft, exceeding measure, appearing to grow like, will perish.",
+ "translation": "Wealth accumulated by theft may seem to grow beyond measure, but it will perish utterly.",
+ "modern": "களவினால் சேர்க்கப்பட்ட செல்வம், எல்லை கடந்து பெருகுவது போலத் தோன்றி, இறுதியில் அழியும்.",
+ "explanation": "This couplet warns against the illusion of wealth acquired through dishonest means or theft. The poet explains that although stolen wealth (களவினால் ஆகிய ஆக்கம்) might appear to grow rapidly and exceed all limits (அளவிறந்து ஆவது போல), this growth is merely a deceptive illusion. In reality, such ill-gotten gains will vanish completely (கெடும்), leaving nothing behind. The key contrast is between the appearance of prosperity and its inevitable, sudden ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

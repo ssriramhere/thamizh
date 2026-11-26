@@ -6,10 +6,10 @@
     {
      "text": "முகத்தின்",
      "lemma": "முகத்தின்",
-     "gloss": "on the face"
+     "gloss": "with the face"
     }
    ],
-   "gloss": "on the face",
+   "gloss": "with the face",
    "split_unverified": true
   },
   {
@@ -18,32 +18,21 @@
     {
      "text": "இனிய",
      "lemma": "இனிய",
-     "gloss": "sweetly"
+     "gloss": "sweet / pleasant"
     }
    ],
-   "gloss": "sweetly",
-   "split_unverified": true
+   "gloss": "sweetly / pleasantly"
   },
   {
    "surface": "நகாஅ",
    "parts": [
     {
-     "text": "நகு",
+     "text": "நகாஅ",
      "lemma": "நகு",
-     "gloss": "smile"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "[participle]"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "[lengthening]"
+     "gloss": "smiling"
     }
    ],
-   "gloss": "smiling"
+   "gloss": "smiling (outwardly)"
   },
   {
    "surface": "அகத்து",
@@ -51,10 +40,10 @@
     {
      "text": "அகத்து",
      "lemma": "அகத்து",
-     "gloss": "in the mind"
+     "gloss": "in the mind / inside"
     }
    ],
-   "gloss": "in the mind",
+   "gloss": "in the mind / inside",
    "split_unverified": true
   },
   {
@@ -63,10 +52,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "evil"
+     "gloss": "bitter / harmful things"
     }
    ],
-   "gloss": "evil"
+   "gloss": "bitterness / hostility"
   },
   {
    "surface": "வஞ்சரை",
@@ -79,10 +68,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[accusative]"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "deceitful people (acc.)"
+   "gloss": "the deceitful people"
   },
   {
    "surface": "அஞ்ச",
@@ -95,7 +84,7 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "to"
+     "gloss": "infinitive suffix"
     }
    ],
    "gloss": "to fear"
@@ -104,23 +93,18 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
-     "lemma": "படு",
-     "gloss": "must"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "[future]"
+     "text": "படும்",
+     "lemma": "படுதல்",
+     "gloss": "is necessary / must"
     }
    ],
-   "gloss": "must be"
+   "gloss": "is fit / must be done"
   }
  ],
- "literal": "On the face sweetly smiling, in the mind evil, deceitful people to fear must be.",
- "translation": "One must fear deceitful people who smile sweetly on their faces but harbor evil in their hearts.",
- "modern": "முகத்தில் இனிமையாகச் சிரித்து, மனத்திற்குள் தீமையை வைத்திருக்கும் வஞ்சகர்களைக் கண்டு அஞ்ச வேண்டும்.",
- "explanation": "This couplet warns against false friends who hide their true intentions. The phrase 'முகத்தின் இனிய நகாஅ' describes their outward behavior, smiling sweetly to appear friendly. However, 'அகத்து இன்னா' reveals their true nature, holding evil or harm in their minds. Because of this dangerous contradiction, such deceitful people must be feared and avoided.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With the face sweetly smiling, in the mind bitter, deceitful people, to fear is fit.",
+ "translation": "One must fear the deceitful who smile sweetly with their face but harbor bitterness in their hearts.",
+ "modern": "முகத்தால் இனிமையாகச் சிரித்து, மனதில் தீமையை வைத்திருக்கும் வஞ்சகர்களைக் கண்டு அஞ்ச வேண்டும்.",
+ "explanation": "This couplet warns us about the danger of false friends. The key contrast is between the face (முகம்) and the heart or mind (அகம்). Deceitful people (வஞ்சர்) show a sweet, smiling countenance (இனிய நகாஅ) outwardly, but harbor bitter, hostile intentions (இன்னா) inwardly. The poet emphasizes that we must fear (அஞ்சப் படும்) such hypocrites because their hidden malice is far more dangerous than open enmity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

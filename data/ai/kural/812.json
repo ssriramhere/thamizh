@@ -6,15 +6,15 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "to be profitable"
+     "gloss": "to occur or gain"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "conditional suffix (if)"
     }
    ],
-   "gloss": "if profitable"
+   "gloss": "if there is gain"
   },
   {
    "surface": "நட்டு",
@@ -33,22 +33,22 @@
     {
      "text": "அறு",
      "lemma": "அறு",
-     "gloss": "to cease"
+     "gloss": "to cease or end"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "conditional suffix (if)"
     }
    ],
-   "gloss": "if ceasing"
+   "gloss": "if it ceases"
   },
   {
    "surface": "ஙருஉம்",
    "parts": [
     {
      "text": "ஙருஉம்",
-     "lemma": "ஒரு",
+     "lemma": "ஒரூஉம்",
      "gloss": "abandoning"
     }
    ],
@@ -60,10 +60,10 @@
     {
      "text": "ஒப்பு",
      "lemma": "ஒப்பு",
-     "gloss": "equality"
+     "gloss": "comparison or likeness"
     }
    ],
-   "gloss": "equality"
+   "gloss": "comparison"
   },
   {
    "surface": "இலார்",
@@ -71,15 +71,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "pronominal suffix (those who)"
     }
    ],
-   "gloss": "they who are without"
+   "gloss": "those who do not have"
   },
   {
    "surface": "கேண்மை",
@@ -101,9 +101,14 @@
      "gloss": "to obtain"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix (if)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
    "gloss": "even if obtained"
@@ -112,9 +117,24 @@
    "surface": "இழப்பினும்",
    "parts": [
     {
-     "text": "இழப்பினும்",
+     "text": "இழ",
      "lemma": "இழ",
-     "gloss": "even if lost"
+     "gloss": "to lose"
+    },
+    {
+     "text": "ப்பு",
+     "lemma": "ப்பு",
+     "gloss": "formative suffix"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix (if)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
    "gloss": "even if lost"
@@ -128,13 +148,13 @@
      "gloss": "what"
     }
    ],
-   "gloss": "what"
+   "gloss": "what is the use"
   }
  ],
- "literal": "If profitable having befriended, if ceasing abandoning, equality they-who-are-without friendship, even if obtained even if lost what?",
- "translation": "What does it matter whether one gains or loses the friendship of unfit people who befriend you when it is profitable and abandon you when it is not?",
- "modern": "தமக்கு ஒரு பயன் கிடைக்கும் போது நட்பு செய்து, பயன் இல்லாத போது விலகிப் போகும் தகுதியற்றவர்களின் நட்பைப் பெற்றாலும் என்ன, இழந்தாலும் என்ன?",
- "explanation": "This couplet warns against opportunistic friends. The phrase 'உறின் நட்டு' means befriending when there is something to gain, while 'அறின் ஙருஉம்' means abandoning when that gain ceases. The poet calls such people 'ஒப்பு இலார்', meaning they lack fitness or moral balance. Gaining or losing the friendship of such self-serving people makes absolutely no difference to one's life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If there is gain, befriending; if it ceases, abandoning; the friendship of those who have no comparison, even if gained, even if lost, what is the use?",
+ "translation": "What does it matter whether we gain or lose the friendship of those incomparable people who befriend us only when there is gain and abandon us when it ceases?",
+ "modern": "பயன் கிடைக்கும்போது நட்புக்கொண்டு, பயன் இல்லாதபோது விலகிப்போகும் ஒப்பில்லாத சுயநலவாதிகளின் நட்பைப் பெறுவதனால் என்ன பயன்? அதனை இழப்பதனால் என்ன நஷ்டம்?",
+ "explanation": "This couplet describes the nature of fair-weather friends who seek association solely for their own benefit. The word 'uṟiṉ' means when there is profit or gain, and 'aṟiṉ' means when that profit ceases. The word 'ṅaru'um' (a variant of 'orū'um') means to abandon or distance oneself. Such people are described as 'oppilār'—incomparable in their extreme selfishness. The poet asks what difference it makes ('eṉ') whether we gain ('peṟiṉum') or lose ('iỻappiṉum') their friendship, as it is completely worthless in either case.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

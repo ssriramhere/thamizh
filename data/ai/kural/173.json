@@ -4,9 +4,14 @@
    "surface": "சிற்றின்பம்",
    "parts": [
     {
-     "text": "சிற்றின்பம்",
-     "lemma": "சிற்றின்பம்",
-     "gloss": "petty pleasure"
+     "text": "சிற்று",
+     "lemma": "சிறுமை",
+     "gloss": "petty"
+    },
+    {
+     "text": "இன்பம்",
+     "lemma": "இன்பம்",
+     "gloss": "pleasure"
     }
    ],
    "gloss": "petty pleasure"
@@ -15,9 +20,14 @@
    "surface": "வெஃகி",
    "parts": [
     {
-     "text": "வெஃகி",
+     "text": "வெஃகு",
      "lemma": "வெஃகு",
-     "gloss": "having coveted"
+     "gloss": "covet"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having (verbal participle suffix)"
     }
    ],
    "gloss": "having coveted"
@@ -31,23 +41,18 @@
      "gloss": "virtue"
     }
    ],
-   "gloss": "virtue"
+   "gloss": "righteousness"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
      "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
     }
    ],
-   "gloss": "things that are not"
+   "gloss": "things that are not (virtuous)"
   },
   {
    "surface": "செய்யாரே",
@@ -60,10 +65,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "they will not do indeed"
+   "gloss": "they will indeed not do"
   },
   {
    "surface": "மற்று",
@@ -74,7 +79,7 @@
      "gloss": "other"
     }
    ],
-   "gloss": "other (lasting)"
+   "gloss": "the other (supreme)"
   },
   {
    "surface": "இன்பம்",
@@ -82,27 +87,27 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "வேண்டுபவர்",
    "parts": [
     {
      "text": "வேண்டுபவர்",
-     "lemma": "வேண்டு",
+     "lemma": "வேண்டுபவர்",
      "gloss": "those who desire"
     }
    ],
    "gloss": "those who desire"
   }
  ],
- "literal": "Petty pleasure having coveted, virtue-not they will not do indeed, the other joy those who desire.",
- "translation": "Those who desire lasting joy will not covet petty pleasures and commit unrighteous deeds.",
- "modern": "நிலையான இன்பத்தை விரும்புகின்றவர்கள், பிறர் பொருளைக் கவர்ந்துகொள்ளும் சிற்றின்பத்தை விரும்பி அறமல்லாத செயல்களைச் செய்ய மாட்டார்கள்.",
- "explanation": "This couplet contrasts fleeting, petty pleasures with lasting, true joy. Those who seek the ultimate, enduring happiness will not be tempted by the temporary thrill of taking what belongs to others. Consequently, they will never commit unjust or unrighteous acts just to satisfy a base desire. The word 'maṟṟu' (other) points to the higher, lasting joy that stands apart from worldly greed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Petty pleasure having coveted, unrighteous deeds they will indeed not do, the other pleasure those who desire.",
+ "translation": "Those who desire the supreme, lasting bliss of virtue will not commit unrighteous deeds out of a desire for the petty, fleeting pleasure of coveting others' wealth.",
+ "modern": "நிலையான உயர்ந்த இன்பத்தை விரும்புபவர்கள், பிறர் பொருளைக் கவர நினைக்கும் சிற்றின்பத்தை விரும்பி அறமற்ற செயல்களைச் செய்யமாட்டார்கள்.",
+ "explanation": "This couplet contrasts two kinds of happiness: 'சிற்றின்பம்' (the petty, transient pleasure of coveting and taking what belongs to others) and 'மற்று இன்பம்' (the other, supreme and lasting bliss that comes from a life of virtue). Those who truly seek the higher, enduring happiness will never stoop to unrighteous acts. They understand that the small gain from covetousness is fleeting and ultimately destructive to their character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

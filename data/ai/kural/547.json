@@ -6,10 +6,10 @@
     {
      "text": "இறை",
      "lemma": "இறை",
-     "gloss": "king"
+     "gloss": "ruler"
     }
    ],
-   "gloss": "king"
+   "gloss": "ruler"
   },
   {
    "surface": "காக்கும்",
@@ -55,7 +55,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "him"
@@ -77,23 +77,18 @@
     {
      "text": "காக்கும்",
      "lemma": "கா",
-     "gloss": "will protect"
+     "gloss": "protects"
     }
    ],
-   "gloss": "will protect"
+   "gloss": "protects"
   },
   {
    "surface": "முட்டா",
    "parts": [
     {
-     "text": "முட்டு",
+     "text": "முட்டா",
      "lemma": "முட்டு",
-     "gloss": "fail"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "without failing"
     }
    ],
    "gloss": "without failing"
@@ -109,16 +104,16 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if"
     }
    ],
-   "gloss": "if does"
+   "gloss": "if he administers"
   }
  ],
- "literal": "King protects world all; him justice will protect, without-failing if-[he]-does.",
- "translation": "The king protects the entire world, and his own justice will protect him if he administers it without failing.",
- "modern": "உலகம் முழுவதையும் அரசன் காப்பாற்றுவான்; அவன் நீதி தவறாமல் ஆட்சி செய்தால், அந்த நீதியே அவனைக் காப்பாற்றும்.",
- "explanation": "This couplet illustrates the reciprocal relationship between a ruler and justice. While it is the king's duty to protect the entire world, he is in turn protected by the very justice ('முறை') he upholds. The phrase 'முட்டாச் செயின்' emphasizes that this ultimate protection is guaranteed only if he administers his duties flawlessly and without any hindrance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The ruler protects the world all; him justice protects, without failing if he administers.",
+ "translation": "The ruler protects the entire world; and if he administers justice without failing, that justice itself will protect him.",
+ "modern": "அரசன் உலகத்தில் உள்ள எல்லாரையும் காப்பாற்றுவான்; அவன் தன் செங்கோல் ஆட்சியைத் தடையின்றிச் செய்வானானால், அந்த நீதியே அவனைக் காப்பாற்றும்.",
+ "explanation": "This couplet highlights the reciprocal relationship between a ruler and the justice they administer. While the ruler's duty is to protect all the people of the world, the ruler's own safety is secured by their adherence to justice. If the ruler administers justice ('முறை') without any failure or lapse ('முட்டாச் செயின்'), that very justice will serve as a shield to protect them. Thus, the ultimate protector of a sovereign is not their military might, but their own righteous governance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

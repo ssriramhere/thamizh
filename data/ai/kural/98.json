@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "சிறுமையுவு",
-     "lemma": "சிறுமை",
-     "gloss": "from meanness"
+     "lemma": "சிறுமையுள்",
+     "gloss": "meanness or harm"
     }
    ],
-   "gloss": "from meanness"
+   "gloss": "meanness or harm"
   },
   {
    "surface": "நீங்கிய",
@@ -17,43 +17,58 @@
     {
      "text": "நீங்கிய",
      "lemma": "நீங்கு",
-     "gloss": "freed from"
+     "gloss": "devoid of or free from"
     }
    ],
-   "gloss": "freed from"
+   "gloss": "devoid of or free from"
   },
   {
    "surface": "இன்சொல்",
    "parts": [
     {
-     "text": "இன்சொல்",
-     "lemma": "இன்சொல்",
-     "gloss": "sweet word"
+     "text": "இன்",
+     "lemma": "இனிமை",
+     "gloss": "sweet"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
     }
    ],
-   "gloss": "sweet word"
+   "gloss": "sweet words"
   },
   {
    "surface": "மறுமையும்",
    "parts": [
     {
-     "text": "மறுமையும்",
+     "text": "மறுமை",
      "lemma": "மறுமை",
-     "gloss": "in the next birth too"
+     "gloss": "the next life"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "also"
     }
    ],
-   "gloss": "in the next birth too"
+   "gloss": "in the next life too"
   },
   {
    "surface": "இம்மையும்",
    "parts": [
     {
-     "text": "இம்மையும்",
+     "text": "இம்மை",
      "lemma": "இம்மை",
-     "gloss": "in this birth too"
+     "gloss": "this life"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "also"
     }
    ],
-   "gloss": "in this birth too"
+   "gloss": "in this life too"
   },
   {
    "surface": "இன்பம்",
@@ -78,10 +93,10 @@
    "gloss": "will give"
   }
  ],
- "literal": "From meanness freed sweet word, in the next birth too, in this birth too, happiness will give.",
- "translation": "Sweet words freed from all meanness will bring happiness in this birth and the next.",
- "modern": "குற்றமற்ற இனிய சொற்கள் ஒருவனுக்கு இந்தப் பிறவியிலும் அடுத்த பிறவியிலும் இன்பத்தைத் தரும்.",
- "explanation": "This couplet highlights the enduring power of speaking kindly and without malice. The phrase 'சிறுமையுவு நீங்கிய' emphasizes that true sweet words must be free from deceit, harm, or petty intentions. When a person speaks such pure and pleasant words, it yields joy and good outcomes not only in their current life but also in the life to come.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sweet words free from meanness will give happiness both in the next life and in this life.",
+ "translation": "Sweet speech, free from all meanness, yields happiness both in this life and in the life to come.",
+ "modern": "பிறருக்குத் துன்பம் தராத இனிய சொற்கள், ஒருவருக்கு இப்பிறப்பிலும் மறுபிறப்பிலும் இன்பத்தைத் தரும்.",
+ "explanation": "This couplet highlights the dual benefit of speaking sweet words that are devoid of meanness or the intent to cause harm. Such pleasant speech does not just bring joy and harmonious relationships in the present life, but also accumulates spiritual merit that brings happiness in the next life. The key term 'சிறுமையுவு நீங்கிய' (traditionally 'சிறுமையுள் நீங்கிய') emphasizes that true sweet words must be completely free from pettiness, malice, or deceit. Thus, gentle and kind words are a source of eternal happiness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

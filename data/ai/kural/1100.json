@@ -11,7 +11,7 @@
     {
      "text": "ஒடு",
      "lemma": "ஒடு",
-     "gloss": "with"
+     "gloss": "with (sociative case suffix)"
     }
    ],
    "gloss": "with the eye"
@@ -33,7 +33,7 @@
     {
      "text": "இணை",
      "lemma": "இணை",
-     "gloss": "join"
+     "gloss": "to join or pair"
     }
    ],
    "gloss": "joining"
@@ -44,10 +44,10 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "look"
+     "gloss": "gaze or look"
     }
    ],
-   "gloss": "look"
+   "gloss": "gaze"
   },
   {
    "surface": "ஒக்கின்",
@@ -55,15 +55,15 @@
     {
      "text": "ஒக்கு",
      "lemma": "ஒக்கு",
-     "gloss": "agree"
+     "gloss": "to agree or match"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if agree"
+   "gloss": "if they agree"
   },
   {
    "surface": "வாய்",
@@ -109,37 +109,32 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "use"
+     "gloss": "use or benefit"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even (emphasizing 'any')"
     }
    ],
-   "gloss": "any use"
+   "gloss": "even any use"
   },
   {
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "text": "இல",
+     "lemma": "இல",
+     "gloss": "do not exist"
     }
    ],
-   "gloss": "are without"
+   "gloss": "have none"
   }
  ],
- "literal": "If the joining look of eye with eye agrees, mouth's words are without any use.",
- "translation": "When eyes meet and their looks agree, spoken words are of no use whatsoever.",
- "modern": "ஒருவருடைய கண்ணோடு மற்றொருவருடைய கண் இணைந்து நோக்கும் நோக்கம் ஒத்திருந்தால், வாயால் சொல்லப்படும் சொற்களால் எந்தப் பயனும் இல்லை.",
- "explanation": "This couplet explains the power of non-verbal communication between lovers. When the eyes of two people meet and their glances perfectly understand each other, there is no need for spoken language. The phrase 'கண்ணொடு கண் இணை நோக்கு' captures the intimate joining of their gazes. Consequently, words from the mouth become entirely redundant, as the eyes have already conveyed the heart's intent.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With eye, eye's joining gaze if agrees, mouth's words what use even have none.",
+ "translation": "When the paired gaze of eye meeting eye is in perfect agreement, words spoken by the mouth have no use whatsoever.",
+ "modern": "கண்ணோடு கண் சேர்ந்து பார்க்கும் பார்வை ஒன்றுபட்டால், வாயிலிருந்து வரும் சொற்களுக்கு எந்தப் பயனும் இல்லை.",
+ "explanation": "This couplet beautifully describes the silent language of love. When the eyes of two lovers meet and their gazes agree in mutual understanding, spoken words become entirely redundant. The eyes themselves communicate their deepest feelings and intentions, making verbal expression unnecessary. The poet emphasizes that silent, intuitive connection is far more powerful than any spoken language.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

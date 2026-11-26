@@ -4,17 +4,13 @@
    "surface": "நலத்தின்கண்",
    "parts": [
     {
-     "text": "நலத்தின்",
-     "lemma": "நலம்",
-     "gloss": "goodness"
-    },
-    {
-     "text": "கண்",
-     "lemma": "கண்",
-     "gloss": "in"
+     "text": "நலத்தின்கண்",
+     "lemma": "நலத்தின்கண்",
+     "gloss": "in one's good character"
     }
    ],
-   "gloss": "in goodness"
+   "gloss": "in one's good character",
+   "split_unverified": true
   },
   {
    "surface": "நார்",
@@ -42,12 +38,17 @@
    "surface": "தோன்றின்",
    "parts": [
     {
-     "text": "தோன்றின்",
+     "text": "தோன்று",
      "lemma": "தோன்று",
-     "gloss": "if appears"
+     "gloss": "appear"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if appears"
+   "gloss": "if it appears"
   },
   {
    "surface": "அவனை",
@@ -60,7 +61,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "him"
@@ -69,34 +70,31 @@
    "surface": "குலத்தின்கண்",
    "parts": [
     {
-     "text": "குலத்தின்",
-     "lemma": "குலம்",
-     "gloss": "lineage"
-    },
-    {
-     "text": "கண்",
-     "lemma": "கண்",
-     "gloss": "in"
+     "text": "குலத்தின்கண்",
+     "lemma": "குலத்தின்கண்",
+     "gloss": "in his lineage"
     }
    ],
-   "gloss": "in lineage"
+   "gloss": "in his lineage",
+   "split_unverified": true
   },
   {
    "surface": "ஐயப்படும்",
    "parts": [
     {
      "text": "ஐயப்படும்",
-     "lemma": "ஐயப்படு",
+     "lemma": "ஐயப்படும்",
      "gloss": "will be doubted"
     }
    ],
-   "gloss": "will be doubted"
+   "gloss": "will be doubted",
+   "split_unverified": true
   }
  ],
- "literal": "in goodness affection absence if appears him in lineage will be doubted",
- "translation": "If a lack of affection appears in a person of otherwise good qualities, his lineage will be doubted.",
- "modern": "ஒருவனிடம் நல்ல பண்புகள் இருந்தும் அன்பு இல்லை என்பது வெளிப்பட்டால், அவனது குடிப்பிறப்பை உலகம் சந்தேகப்படும்.",
- "explanation": "This couplet emphasizes that affection is the defining trait of noble birth. Even if a person possesses other virtues, a lack of basic human warmth will make others question his family background. The word 'நார்' literally means fiber, but here it metaphorically represents the binding force of love and attachment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In goodness, if the absence of affection appears, him, in lineage, will be doubted.",
+ "translation": "If a lack of affection or kindness appears in a person's good conduct, their noble lineage will be doubted.",
+ "modern": "ஒருவனுடைய நல்ல குணங்களில் அன்பு இல்லாத தன்மை வெளிப்பட்டால், அவனுடைய உயர்ந்த குடிப்பிறப்பைப் பற்றி உலகம் ஐயப்படும்.",
+ "explanation": "This couplet explains how essential love and affection are to a person of noble birth. The word 'நார்' literally means fiber or cord, but here it refers to the bond of affection and kindness that connects people. Even if a person possesses other good qualities, if they show a complete lack of love, people will begin to doubt the nobility of their family background. True nobility is not just about outward manners, but is fundamentally rooted in genuine love for others.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

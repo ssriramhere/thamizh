@@ -9,28 +9,18 @@
      "gloss": "formerly"
     }
    ],
-   "gloss": "formerly"
+   "gloss": "in the past"
   },
   {
    "surface": "அறியேன்",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறியேன்",
      "lemma": "அறி",
-     "gloss": "know"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I-not"
+     "gloss": "I did not know"
     }
    ],
-   "gloss": "I knew not"
+   "gloss": "I did not know"
   },
   {
    "surface": "கூற்று",
@@ -38,31 +28,21 @@
     {
      "text": "கூற்று",
      "lemma": "கூற்று",
-     "gloss": "Death"
+     "gloss": "God of Death"
     }
    ],
-   "gloss": "Death"
+   "gloss": "the God of Death"
   },
   {
    "surface": "என்பதனை",
    "parts": [
     {
-     "text": "என்பது",
-     "lemma": "என்ப",
-     "gloss": "that which is called"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "empty morpheme"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "text": "என்பதனை",
+     "lemma": "என்பது",
+     "gloss": "that which is called (accusative)"
     }
    ],
-   "gloss": "that which is called (acc.)"
+   "gloss": "that which is called"
   },
   {
    "surface": "இனி",
@@ -79,24 +59,9 @@
    "surface": "அறிந்தேன்",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறிந்தேன்",
      "lemma": "அறி",
-     "gloss": "know"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I"
+     "gloss": "I knew"
     }
    ],
    "gloss": "I have known"
@@ -105,13 +70,22 @@
    "surface": "பெண்டகையால்",
    "parts": [
     {
-     "text": "பெண்டகையால்",
-     "lemma": "பெண்டகையால்",
-     "gloss": "with womanly beauty"
+     "text": "பெண்",
+     "lemma": "பெண்",
+     "gloss": "woman"
+    },
+    {
+     "text": "தகை",
+     "lemma": "தகை",
+     "gloss": "grace"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "with"
     }
    ],
-   "gloss": "with womanly beauty",
-   "split_unverified": true
+   "gloss": "with feminine grace"
   },
   {
    "surface": "பேரமர்க்",
@@ -119,7 +93,7 @@
     {
      "text": "பேர்",
      "lemma": "பெருமை",
-     "gloss": "great"
+     "gloss": "large"
     },
     {
      "text": "அமர்",
@@ -129,28 +103,27 @@
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "consonant increment"
     }
    ],
-   "gloss": "great battle"
+   "gloss": "large, battling"
   },
   {
    "surface": "கட்டு",
    "parts": [
     {
      "text": "கட்டு",
-     "lemma": "கட்டு",
-     "gloss": "it has eyes"
+     "lemma": "கண்",
+     "gloss": "having eyes"
     }
    ],
-   "gloss": "it has eyes",
-   "split_unverified": true
+   "gloss": "having eyes"
   }
  ],
- "literal": "Formerly I knew not Death, that which is called; now I have known (it), with womanly beauty it has eyes of great battle.",
- "translation": "I never knew what Death was before, but now I know: it takes the form of a beautiful woman with large, battling eyes.",
- "modern": "முன்பு எமன் என்று சொல்லப்படுவதை நான் அறிந்ததில்லை; ஆனால் இப்போது அறிந்தேன், அது பெண் தன்மையுடன் பெரிய போர் செய்யும் கண்களை உடையது என்று.",
- "explanation": "The speaker, struck by the heroine's beauty, compares her captivating eyes to Death itself. He says that he had only heard of Death before but had never seen it. Now he realizes that Death does not come as a terrifying figure, but rather wrapped in feminine beauty, armed with large, piercing eyes that wage a battle on his heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the past I did not know that which is called the God of Death; now I have known [it]: with feminine grace, possessing large, battling eyes.",
+ "translation": "In the past, I did not know what the God of Death was. Now I know: it is a woman of great grace, possessing large, battling eyes.",
+ "modern": "முன்பெல்லாம் எமன் என்று சொல்லப்படுவதை நான் அறியாமல் இருந்தேன்; பெண் தன்மையோடு, பெரிய போரிடும் கண்களைக் கொண்டவளாக இருக்கும் இவளைக் கண்ட பிறகு இப்போதுதான் அதை அறிந்து கொண்டேன்.",
+ "explanation": "The hero is completely captivated and overwhelmed by the beauty and the piercing gaze of the heroine. He compares her gaze to the God of Death (கூற்று), who takes away a person's life. In the past, he only knew of Death as an abstract concept, but now he realizes that Death actually takes the form of a woman with feminine grace (பெண்டகை) and large, intense, battling eyes (பேரமர்க் கட்டு) that strike his heart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

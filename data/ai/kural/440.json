@@ -4,14 +4,9 @@
    "surface": "காதல",
    "parts": [
     {
-     "text": "காதல்",
-     "lemma": "காதல்",
-     "gloss": "desire"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "text": "காதல",
+     "lemma": "காதல",
+     "gloss": "desired things"
     }
    ],
    "gloss": "desired things"
@@ -25,7 +20,7 @@
      "gloss": "desire"
     }
    ],
-   "gloss": "attachment"
+   "gloss": "desire"
   },
   {
    "surface": "அறியாமை",
@@ -33,15 +28,15 @@
     {
      "text": "அறி",
      "lemma": "அறி",
-     "gloss": "to know"
+     "gloss": "know"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "gloss": "without (negative suffix)"
     }
    ],
-   "gloss": "without knowing"
+   "gloss": "without others knowing"
   },
   {
    "surface": "உய்க்கிற்பின்",
@@ -49,54 +44,34 @@
     {
      "text": "உய்",
      "lemma": "உய்",
-     "gloss": "to direct"
+     "gloss": "direct or manage"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "கிற்",
-     "lemma": "கிற்",
-     "gloss": "ability suffix"
-    },
-    {
-     "text": "பின்",
-     "lemma": "பின்",
-     "gloss": "if"
+     "text": "கிற்பின்",
+     "lemma": "கிற்பின்",
+     "gloss": "if able to"
     }
    ],
-   "gloss": "if one can manage"
+   "gloss": "if one is able to manage"
   },
   {
    "surface": "ஏதில",
    "parts": [
     {
-     "text": "ஏதில்",
-     "lemma": "ஏதில்",
-     "gloss": "uselessness"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "text": "ஏதில",
+     "lemma": "ஏதில",
+     "gloss": "useless or ineffective"
     }
    ],
-   "gloss": "useless things"
+   "gloss": "useless"
   },
   {
    "surface": "ஏதிலார்",
    "parts": [
     {
-     "text": "ஏதில்",
-     "lemma": "ஏதில்",
-     "gloss": "stranger/enemy"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "plural suffix"
+     "text": "ஏதிலார்",
+     "lemma": "ஏதிலார்",
+     "gloss": "enemies or strangers"
     }
    ],
    "gloss": "enemies"
@@ -107,16 +82,16 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "design/strategy"
+     "gloss": "schemes or strategic designs"
     }
    ],
-   "gloss": "designs"
+   "gloss": "schemes"
   }
  ],
- "literal": "Desired things, attachment without knowing if one can manage, useless [are] enemies' designs.",
- "translation": "If a ruler can manage his desires so that his attachments remain unknown, the strategies of his enemies will be rendered useless.",
- "modern": "தான் விரும்பும் பொருள்களின் மீதான ஆசையை மற்றவர் அறியாதபடி ஒருவனால் அனுபவிக்க முடியுமானால், பகைவரின் சூழ்ச்சிகள் அவனிடம் பலிக்காமல் வீணாகிவிடும்.",
- "explanation": "This couplet advises leaders on the importance of concealing their personal desires and attachments. The word 'காதல' refers to the things one desires, while 'காதல் அறியாமை' means keeping the extent of that desire hidden from others. If a leader can manage ('உய்க்கிற்பின்') this discretion, the 'நூல்' (which usually means books or threads, but here means calculated strategies) of enemies will become 'ஏதில' (useless), because enemies cannot exploit weaknesses they cannot see.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [one] can manage [one's] desired things without [one's] desire being known, the schemes of enemies [will become] useless.",
+ "translation": "If a leader can indulge in their desires without letting others know of their attachment, the hostile schemes of their enemies will prove utterly useless.",
+ "modern": "ஒருவர் தமக்கு விருப்பமானவற்றை, தன் விருப்பம் பிறருக்குத் தெரியாதவாறு அனுபவிக்கவோ அல்லது நடத்தவோ முடியுமானால், அவருடைய பகைவர்களின் சதித் திட்டங்கள் யாவும் பயனற்றவை ஆகிவிடும்.",
+ "explanation": "This couplet explains how a leader can protect themselves from the schemes of adversaries by concealing their personal desires. If enemies discover what a leader loves or craves, they will exploit that vulnerability to plot against them. However, if the leader can manage their desires in such a secret way that no one else knows about their attachment, then the enemies' strategic plots (நூல்) will fail and become completely ineffective (ஏதில). Thus, keeping one's personal desires hidden is a vital shield against external threats.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

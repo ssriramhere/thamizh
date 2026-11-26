@@ -28,10 +28,10 @@
     {
      "text": "எச்சம்",
      "lemma": "எச்சம்",
-     "gloss": "remainder"
+     "gloss": "the rest"
     }
    ],
-   "gloss": "other things"
+   "gloss": "the rest of basic needs"
   },
   {
    "surface": "உயிர்க்கு",
@@ -39,12 +39,12 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "living being"
+     "gloss": "life"
     },
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "dative case marker"
     }
    ],
    "gloss": "to living beings"
@@ -75,14 +75,9 @@
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "are not"
     }
    ],
    "gloss": "are not"
@@ -93,10 +88,10 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "modesty"
+     "gloss": "sense of shame"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "sense of shame"
   },
   {
    "surface": "உடைமை",
@@ -132,10 +127,10 @@
    "gloss": "distinction"
   }
  ],
- "literal": "Food, clothing, other things, to living beings all, different are not; modesty possession human beings' distinction.",
- "translation": "Food, clothing, and other such things are not different for all living beings. The possession of modesty is the special distinction of human beings.",
- "modern": "உணவு, உடை மற்றும் பிற தேவைகள் எல்லா உயிர்களுக்கும் பொதுவானவை. ஆனால் நாணம் என்னும் பண்பைக் கொண்டிருப்பதே மனிதர்களுக்கு உரிய சிறப்பம்சமாகும்.",
- "explanation": "This couplet contrasts the basic physical needs of life with the moral quality of modesty. The words 'ஊண்' (food), 'உடை' (clothing), and 'எச்சம்' (the rest) represent necessities that all living beings share, making them common to all. The true distinction ('சிறப்பு') of human beings ('மாந்தர்') lies in 'நாணுடைமை', the possession of a sense of shame or moral modesty. It is this inner quality that elevates humans above other creatures.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Food, clothing, and the rest, to all living beings, are not different; the possession of a sense of shame is human beings' distinction.",
+ "translation": "Food, clothing, and other basic needs are common to all living creatures; it is the possession of a sense of shame that is the unique distinction of human beings.",
+ "modern": "உணவு, உடை மற்றும் பிற அடிப்படைத் தேவைகள் எல்லா உயிர்களுக்கும் பொதுவானவை; ஆனால், நாணம் (பழிக்கு அஞ்சும் தன்மை) கொண்டிருப்பதே மனிதர்களுக்குரிய சிறந்த தனித்தன்மையாகும்.",
+ "explanation": "This couplet highlights what truly defines humanity. While biological needs like food, clothing, and other basic necessities (referred to as 'eccam') are shared by all living creatures, they do not make humans unique. The poet uses the word 'nan' to mean a moral sensitivity or a healthy sense of shame that shrinks from doing wrong. It is this possession of a moral conscience ('nanutaimai') that serves as the true distinction ('cirappu') of human beings ('mantar') over other forms of life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

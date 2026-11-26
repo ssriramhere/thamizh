@@ -9,29 +9,39 @@
      "gloss": "slipping"
     }
    ],
-   "gloss": "slipping"
+   "gloss": "slipping or slippery ground"
   },
   {
    "surface": "உடையுழி",
    "parts": [
     {
-     "text": "உடையுழி",
-     "lemma": "உடையுழி",
-     "gloss": "where there is"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "having"
+    },
+    {
+     "text": "உழி",
+     "lemma": "உழி",
+     "gloss": "place"
     }
    ],
-   "gloss": "where there is"
+   "gloss": "in a place that has (slipping)"
   },
   {
    "surface": "ஊற்றுக்கோல்",
    "parts": [
     {
-     "text": "ஊற்றுக்கோல்",
-     "lemma": "ஊற்றுக்கோல்",
-     "gloss": "supporting staff"
+     "text": "ஊற்று",
+     "lemma": "ஊற்று",
+     "gloss": "support"
+    },
+    {
+     "text": "கோல்",
+     "lemma": "கோல்",
+     "gloss": "staff"
     }
    ],
-   "gloss": "supporting staff"
+   "gloss": "a support staff or walking stick"
   },
   {
    "surface": "அற்றே",
@@ -39,15 +49,15 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "like that indeed"
+   "gloss": "is just like"
   },
   {
    "surface": "ஒழுக்கம்",
@@ -58,15 +68,20 @@
      "gloss": "good conduct"
     }
    ],
-   "gloss": "good conduct"
+   "gloss": "good conduct or discipline"
   },
   {
    "surface": "உடையார்",
    "parts": [
     {
-     "text": "உடையார்",
-     "lemma": "உடையார்",
-     "gloss": "those who possess"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who"
     }
    ],
    "gloss": "those who possess"
@@ -80,7 +95,7 @@
      "gloss": "mouth"
     }
    ],
-   "gloss": "mouth"
+   "gloss": "mouth (from the mouth of)"
   },
   {
    "surface": "சொல்",
@@ -91,13 +106,13 @@
      "gloss": "word"
     }
    ],
-   "gloss": "word"
+   "gloss": "words or speech"
   }
  ],
- "literal": "slipping where-there-is support-stick like-indeed good-conduct those-who-possess mouth word",
- "translation": "The words from the mouths of those with good conduct are like a supporting staff on slippery ground.",
- "modern": "வழுக்கும் நிலத்தில் நடக்கும்போது ஊன்றுகோல் எப்படி உதவுமோ, அதுபோலவே நல்லொழுக்கம் உடையவர்களின் வாயிலிருந்து வரும் சொற்கள் ஒருவருக்குத் துணையாக இருக்கும்.",
- "explanation": "This couplet compares the words of virtuous people to a walking stick used on slippery ground. Just as a staff prevents a person from falling when the path is treacherous, the advice of those with good conduct keeps a person from moral or practical failure. The word 'ஊற்றுக்கோல்' vividly captures this idea of firm support in times of instability.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a support staff in a place that has slipping, are the words from the mouth of those who possess good conduct.",
+ "translation": "The words from the mouth of those who possess disciplined conduct are like a supporting staff on slippery ground.",
+ "modern": "வழுக்கல் நிறைந்த இடத்தில் ஊன்றுகோல் உதவுவது போல, நல்ல ஒழுக்கம் உடையவர்களின் வாயிலிருந்து வரும் சொற்கள் வாழ்க்கையின் தடுமாற்றங்களில் துணையாக உதவும்.",
+ "explanation": "This couplet emphasizes the protective value of listening to virtuous people. Just as a walking staff prevents a person from slipping and falling on wet, unstable ground, the wise words spoken by those of disciplined conduct act as a reliable support during difficult times. Listening to their guidance saves one from moral and practical downfalls in life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,78 +4,58 @@
    "surface": "எள்ளாத",
    "parts": [
     {
-     "text": "எள்",
-     "lemma": "எள்",
-     "gloss": "to despise"
-    },
-    {
-     "text": "ஆத",
-     "lemma": "ஆத",
-     "gloss": "negative relative participle suffix"
+     "text": "எள்ளாத",
+     "lemma": "எள்ளு",
+     "gloss": "not despised"
     }
    ],
-   "gloss": "not-despised"
+   "gloss": "actions that are not despised"
   },
   {
    "surface": "எண்ணி",
    "parts": [
     {
-     "text": "எண்",
-     "lemma": "எண்",
-     "gloss": "to consider"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "verbal participle suffix"
+     "text": "எண்ணி",
+     "lemma": "எண்ணு",
+     "gloss": "having deliberated"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having deliberated"
   },
   {
    "surface": "செயல்",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "செயல்",
+     "lemma": "செயல்",
+     "gloss": "action"
     }
    ],
-   "gloss": "doing"
+   "gloss": "action"
   },
   {
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "to need"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "gloss": "is necessary"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is necessary"
   },
   {
    "surface": "தம்மோடு",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "oneself (oblique)"
+     "lemma": "தான்",
+     "gloss": "oneself"
     },
     {
      "text": "ஓடு",
      "lemma": "ஓடு",
-     "gloss": "sociative suffix"
+     "gloss": "with"
     }
    ],
    "gloss": "with oneself"
@@ -84,30 +64,20 @@
    "surface": "கொள்ளாத",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொள்ளாத",
      "lemma": "கொள்",
-     "gloss": "to agree"
-    },
-    {
-     "text": "ஆத",
-     "lemma": "ஆத",
-     "gloss": "negative relative participle suffix"
+     "gloss": "not fitting"
     }
    ],
-   "gloss": "not-agreeing"
+   "gloss": "things that do not fit"
   },
   {
    "surface": "கொள்ளாது",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொள்ளாது",
      "lemma": "கொள்",
-     "gloss": "to accept"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative finite verb suffix"
+     "gloss": "will not accept"
     }
    ],
    "gloss": "will not accept"
@@ -121,13 +91,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Not-despised [things] having considered doing is needed; with oneself not-agreeing [things] will not accept the world.",
- "translation": "One must carefully consider and perform actions that will not be mocked. The world will not accept actions that do not befit one's own status.",
- "modern": "உலகத்தார் பழித்துச் சிரிக்காத செயல்களை ஆராய்ந்து செய்ய வேண்டும். ஒருவருடைய தகுதிக்குப் பொருந்தாத செயல்களை உலகம் ஏற்றுக்கொள்ளாது.",
- "explanation": "This couplet advises acting in a way that avoids public mockery and aligns with one's own capacity. The phrase 'eḷḷāta eṇṇi' means considering and choosing actions that others will not despise. The word 'tammōṭu' refers to oneself, and 'koḷḷāta' means things that do not fit or agree. If a person undertakes tasks that do not suit their own nature or status, the world ('ulaku') will not accept or respect them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Actions not despised, having deliberated, one must do; things that do not fit with oneself, the world will not accept.",
+ "translation": "One must deliberate and perform only those actions that are not despised by others; for the world will not accept actions that do not fit one's own character or position.",
+ "modern": "பிறரால் இகழப்படாத செயல்களை ஆராய்ந்து செய்ய வேண்டும்; தன் நிலைக்குப் பொருந்தாத செயல்களை உலகம் ஏற்றுக்கொள்ளாது.",
+ "explanation": "This couplet emphasizes the importance of careful deliberation before acting, focusing on social acceptance and personal alignment. The author advises that any action undertaken must be blameless and free from the scorn of the wise. Furthermore, the action must align with one's own capacity, character, and position. If a person attempts something that is incompatible with their true nature or status, society will reject it and will not support them. Thus, successful action requires both public approval and personal compatibility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

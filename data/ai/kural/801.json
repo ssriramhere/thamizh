@@ -6,10 +6,10 @@
     {
      "text": "பழைமை",
      "lemma": "பழைமை",
-     "gloss": "intimacy"
+     "gloss": "old friendship"
     }
    ],
-   "gloss": "intimacy"
+   "gloss": "old friendship"
   },
   {
    "surface": "எனப்படுவது",
@@ -22,7 +22,7 @@
     {
      "text": "படுவது",
      "lemma": "படு",
-     "gloss": "that which is"
+     "gloss": "to be done"
     }
    ],
    "gloss": "that which is called"
@@ -43,8 +43,8 @@
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if said"
+     "lemma": "எனின்",
+     "gloss": "if asked"
     }
    ],
    "gloss": "if asked"
@@ -60,7 +60,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "at all"
     }
    ],
    "gloss": "in any way"
@@ -71,15 +71,15 @@
     {
      "text": "கிழமை",
      "lemma": "கிழமை",
-     "gloss": "privilege"
+     "gloss": "right of intimacy"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "privilege (accusative)"
+   "gloss": "the right of intimacy"
   },
   {
    "surface": "கீழ்ந்திடா",
@@ -87,7 +87,7 @@
     {
      "text": "கீழ்ந்து",
      "lemma": "கீழ்",
-     "gloss": "having rejected"
+     "gloss": "having breached"
     },
     {
      "text": "இடா",
@@ -95,7 +95,7 @@
      "gloss": "not doing"
     }
    ],
-   "gloss": "not rejecting"
+   "gloss": "not breaching"
   },
   {
    "surface": "நட்பு",
@@ -109,10 +109,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "Intimacy, that which is called, what if asked: in any way privilege not-rejecting friendship.",
- "translation": "If asked what is called true intimacy, it is the friendship that never rejects the liberties taken by a friend.",
- "modern": "பழைமை என்று சொல்லப்படுவது எது என்றால், நண்பர்கள் உரிமை எடுத்துக்கொள்வதை எந்த வகையிலும் தடுக்காத நட்பே ஆகும்.",
- "explanation": "This couplet defines the essence of long-standing friendship, termed here as intimacy. It asks what constitutes such a bond, and answers that it is a friendship that never rejects or resents the liberties taken by the friend. The word 'கீழ்ந்திடா' literally means not tearing or breaking, illustrating that true friends do not let the exercise of familiar privileges damage their relationship.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If asked what is called old friendship, it is friendship that does not in any way breach the rights of intimacy.",
+ "translation": "If one asks what defines long-standing friendship, it is that friendship which never, in any way, destroys the mutual rights and liberties of intimacy.",
+ "modern": "பழைமை என்று சொல்லப்படுவது எதுவென்றால், நண்பர்கள் தங்களுக்குள் இருக்கும் உரிமையை எக்காரணத்தைக் கொண்டும் சிதைக்காத நட்பாகும்.",
+ "explanation": "This couplet defines the essence of long-standing friendship (paḻaimai). The key word here is 'kiḻamai', which refers to the natural right, freedom, or ownership that close friends have over each other. True old friendship is characterized by 'kīḻntiṭā', meaning it does not breach or destroy this mutual liberty. Even when a friend takes liberties or acts without formal permission, the other does not take offense, preserving the deep bond of trust.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

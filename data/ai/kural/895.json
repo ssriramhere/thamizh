@@ -33,21 +33,21 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even / also"
     }
    ],
-   "gloss": "anywhere"
+   "gloss": "anywhere / at any time"
   },
   {
    "surface": "உளர்",
    "parts": [
     {
      "text": "உளர்",
-     "lemma": "உள்",
-     "gloss": "existing persons"
+     "lemma": "உளர்",
+     "gloss": "they exist"
     }
    ],
-   "gloss": "existing persons"
+   "gloss": "they exist"
   },
   {
    "surface": "ஆகார்",
@@ -58,7 +58,7 @@
      "gloss": "they will not become"
     }
    ],
-   "gloss": "they will not become"
+   "gloss": "they will not become / they will not survive"
   },
   {
    "surface": "வெம்",
@@ -66,7 +66,7 @@
     {
      "text": "வெம்",
      "lemma": "வெம்மை",
-     "gloss": "fierce"
+     "gloss": "fierce / hot"
     }
    ],
    "gloss": "fierce"
@@ -75,14 +75,9 @@
    "surface": "துப்பின்",
    "parts": [
     {
-     "text": "துப்பு",
+     "text": "துப்பின்",
      "lemma": "துப்பு",
-     "gloss": "strength"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "of"
+     "gloss": "strength / power"
     }
    ],
    "gloss": "of strength"
@@ -92,8 +87,8 @@
    "parts": [
     {
      "text": "வேந்து",
-     "lemma": "வேந்து",
-     "gloss": "king"
+     "lemma": "வேந்தன்",
+     "gloss": "king / ruler"
     }
    ],
    "gloss": "king"
@@ -102,23 +97,19 @@
    "surface": "செறப்பட்டவர்",
    "parts": [
     {
-     "text": "செற",
-     "lemma": "செறு",
-     "gloss": "to anger"
-    },
-    {
-     "text": "பட்டவர்",
-     "lemma": "படு",
-     "gloss": "those who suffered"
+     "text": "செறப்பட்டவர்",
+     "lemma": "செறப்பட்டவர்",
+     "gloss": "those who are angered against"
     }
    ],
-   "gloss": "those who are angered at"
+   "gloss": "those who are angered against",
+   "split_unverified": true
   }
  ],
- "literal": "Wherever having gone, anywhere existing ones they will not become, of fierce strength by a king those who are angered at.",
- "translation": "Those who have incurred the wrath of a king of fierce power will not survive anywhere, no matter where they flee.",
- "modern": "கடுமையான வலிமையுடைய அரசனால் கோபிக்கப்பட்டவர்கள் எங்கு தப்பிச் சென்றாலும் எங்கும் உயிர்வாழ மாட்டார்கள்.",
- "explanation": "This couplet warns against offending powerful rulers. The phrase 'வெம் துப்பின் வேந்து' refers to a king possessing fierce and formidable strength. 'செறப்பட்டவர்' denotes those who have become the target of such a king's anger. The couplet emphasizes that no matter where these offenders flee ('யாண்டுச் சென்று'), they will not find a safe haven to survive ('யாண்டும் உளர் ஆகார்'). The repetition of 'யாண்டு' underscores the absolute impossibility of escaping the reach of a truly powerful leader once offended.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Where having gone, anywhere they exist will not become, fierce of strength king by whom angered against.",
+ "translation": "Those who have incurred the wrath of a king of fierce power will not survive, wherever they go, even if they flee to any place.",
+ "modern": "கடும் வலிமை கொண்ட அரசனால் வெறுக்கப்பட்டு அழிக்கப்பட்டவர்கள், எங்குச் சென்றாலும் எங்கும் உயிர் பிழைத்து வாழ முடியாது.",
+ "explanation": "This couplet warns of the inescapable consequences of provoking those in supreme power. The phrase 'வெந்துப்பின் வேந்து' describes a ruler of fierce, burning might. Those who become the target of such a ruler's wrath ('செறப்பட்டவர்') cannot find safety anywhere. No matter where they flee ('யாண்டுச் சென்று'), they will not survive ('யாண்டும் உளராகார்') because the reach of a mighty sovereign is absolute.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

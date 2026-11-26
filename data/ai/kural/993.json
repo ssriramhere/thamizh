@@ -6,10 +6,10 @@
     {
      "text": "உறுப்பு",
      "lemma": "உறுப்பு",
-     "gloss": "physical feature"
+     "gloss": "limb"
     }
    ],
-   "gloss": "physical feature"
+   "gloss": "physical limb"
   },
   {
    "surface": "ஒத்தல்",
@@ -28,10 +28,10 @@
     {
      "text": "மக்கள்",
      "lemma": "மக்கள்",
-     "gloss": "human"
+     "gloss": "human beings"
     }
    ],
-   "gloss": "human"
+   "gloss": "human beings"
   },
   {
    "surface": "ஒப்பு",
@@ -39,18 +39,18 @@
     {
      "text": "ஒப்பு",
      "lemma": "ஒப்பு",
-     "gloss": "resemblance"
+     "gloss": "likeness"
     }
    ],
-   "gloss": "resemblance"
+   "gloss": "likeness"
   },
   {
    "surface": "அன்றால்",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
-     "gloss": "is not"
+     "lemma": "அன்று",
+     "gloss": "it is not"
     },
     {
      "text": "ஆல்",
@@ -58,18 +58,23 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "is not indeed"
+   "gloss": "is indeed not"
   },
   {
    "surface": "வெறுத்தக்க",
    "parts": [
     {
-     "text": "வெறுத்தக்க",
-     "lemma": "வெறுத்தக்க",
-     "gloss": "highly worthy"
+     "text": "வெறு",
+     "lemma": "வெறு",
+     "gloss": "abundant"
+    },
+    {
+     "text": "தக்க",
+     "lemma": "தக்க",
+     "gloss": "worthy"
     }
    ],
-   "gloss": "highly worthy"
+   "gloss": "highly estimable"
   },
   {
    "surface": "பண்பு",
@@ -99,17 +104,17 @@
     {
      "text": "ஒப்பது",
      "lemma": "ஒப்பு",
-     "gloss": "that which equals"
+     "gloss": "that which is a likeness"
     }
    ],
-   "gloss": "that which equals"
+   "gloss": "that which is a likeness"
   },
   {
    "surface": "ஆம்",
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
+     "lemma": "ஆதல்",
      "gloss": "is"
     }
    ],
@@ -121,16 +126,16 @@
     {
      "text": "ஒப்பு",
      "lemma": "ஒப்பு",
-     "gloss": "resemblance"
+     "gloss": "likeness"
     }
    ],
-   "gloss": "resemblance"
+   "gloss": "true likeness"
   }
  ],
- "literal": "Physical feature resembling human resemblance is not indeed; highly worthy character resembling that which equals is resemblance.",
- "translation": "Resembling others in physical form is not true human resemblance. Resembling them in excellent character is the only true resemblance.",
- "modern": "உடலமைப்பால் மற்றவர்களைப் போல இருப்பது உண்மையான மனித ஒப்புமை ஆகாது. சிறந்த பண்புகளால் மற்றவர்களோடு ஒத்திருப்பதே உண்மையான ஒப்புமை ஆகும்.",
- "explanation": "This couplet defines what makes someone truly human by contrasting physical appearance with inner character. The phrase \"உறுப்பு ஒத்தல்\" refers to having the same body parts as other people, which the poet states is not true human resemblance. Instead, true equality comes from \"பண்பு ஒத்தல்\"—sharing the excellent, worthy qualities (\"வெறுத்தக்க பண்பு\") that define humanity. The repetition of the word \"ஒப்பு\" (resemblance or equality) emphasizes that biological similarity is superficial, while moral character is the true measure of a person.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Limb resembling human likeness is indeed not; highly estimable character resembling is the likeness that is true likeness.",
+ "translation": "Resemblance in physical limbs is not true human likeness; a similarity in estimable character is the only true likeness.",
+ "modern": "உடலின் உறுப்புகளால் ஒன்றுபட்டிருப்பது மனிதர்களுக்கு இடையேயான உண்மையான ஒப்புமை அன்று; போற்றத்தக்க நற்பண்புகளால் ஒன்றுபட்டிருப்பதே உண்மையான ஒப்புமையாகும்.",
+ "explanation": "This couplet defines what constitutes true similarity among human beings. It states that merely having the same physical limbs does not make people truly alike. Instead, it is the sharing of noble character that forms the true basis of human likeness. The word 'veṟuttakka' is used here in its classical sense of 'highly estimable' or 'abundantly worthy' rather than its modern negative meaning of 'detestable', fitting the chapter's focus on courtesy and good character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

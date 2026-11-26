@@ -15,19 +15,9 @@
    "surface": "செய்தார்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்தார்",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "those who did"
     }
    ],
    "gloss": "those who did"
@@ -36,17 +26,12 @@
    "surface": "கெடுதல்",
    "parts": [
     {
-     "text": "கெடு",
-     "lemma": "கெடு",
-     "gloss": "to perish"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "கெடுதல்",
+     "lemma": "கெடுதல்",
+     "gloss": "ruin"
     }
    ],
-   "gloss": "perishing"
+   "gloss": "ruin"
   },
   {
    "surface": "நிழல்",
@@ -65,33 +50,23 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "oneself (oblique)"
-    },
-    {
-     "text": "ன்",
-     "lemma": "ன்",
-     "gloss": "sandhi"
+     "gloss": "itself"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "itself (accusative)"
   },
   {
    "surface": "வீயாது",
    "parts": [
     {
-     "text": "வீய்",
-     "lemma": "வீய்",
-     "gloss": "to separate/leave"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative adverbial suffix"
+     "text": "வீயாது",
+     "lemma": "வீயாது",
+     "gloss": "without leaving"
     }
    ],
    "gloss": "without leaving"
@@ -105,33 +80,18 @@
      "gloss": "foot (typo for அடி)"
     }
    ],
-   "gloss": "foot"
+   "gloss": "foot (typo for அடி)"
   },
   {
    "surface": "உறைந்து",
    "parts": [
     {
-     "text": "உறை",
-     "lemma": "உறை",
-     "gloss": "to stay/dwell"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial suffix"
+     "text": "உறைந்து",
+     "lemma": "உறைதல்",
+     "gloss": "staying"
     }
    ],
-   "gloss": "having stayed"
+   "gloss": "staying"
   },
   {
    "surface": "அற்று",
@@ -139,16 +99,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Evil deeds those who did perishing shadow oneself without leaving foot having stayed like that.",
- "translation": "Destruction will follow those who commit evil deeds, just as a person's shadow stays unfailingly at their feet.",
- "modern": "தீய செயல்களைச் செய்தவர்கள் அழிவது, ஒருவருடைய நிழல் அவரை விட்டு விலகாமல் அவர் அடியிலேயே தங்கியிருப்பதைப் போன்றது.",
- "explanation": "This couplet illustrates the inescapable nature of the consequences of evil deeds. The poet uses the powerful simile of a shadow that never leaves a person's feet to explain how destruction will inevitably follow those who commit evil. Just as one cannot outrun or detach from their own shadow, a wrongdoer cannot escape the ruin brought about by their own actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The ruin of those who did evil deeds is like [their] shadow staying at [their] feet without leaving.",
+ "translation": "The ruin of those who commit evil deeds will pursue and destroy them, just as one's own shadow stays at one's feet and never leaves.",
+ "modern": "தீய செயல்களைச் செய்தவர்கள் அழிவது, அவர்களுடைய நிழல் அவர்களை விட்டு நீங்காமல் அவர்களுடைய காலடியிலேயே தங்கியிருப்பதைப் போன்றது ஆகும்.",
+ "explanation": "This couplet warns that escape from the consequences of evil deeds is impossible. Just as a person's shadow is inseparable from them and stays right at their feet ('அடி', written here as 'அஇ') wherever they go, ruin ('கெடுதல்') will inevitably follow and catch up with those who do evil ('தீயவை செய்தார்'). The metaphor of the shadow ('நிழல்') emphasizes that retribution is not an external force but an inherent, inescapable consequence of one's own actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

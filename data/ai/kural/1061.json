@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "கரவாது",
-     "lemma": "கர",
+     "lemma": "கரத்தல்",
      "gloss": "without withholding"
     }
    ],
@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "உவந்து",
-     "lemma": "உவ",
+     "lemma": "உவத்தல்",
      "gloss": "gladly"
     }
    ],
@@ -27,8 +27,8 @@
    "parts": [
     {
      "text": "ஈயும்",
-     "lemma": "ஈ",
-     "gloss": "who give"
+     "lemma": "ஈதல்",
+     "gloss": "giving"
     }
    ],
    "gloss": "who give"
@@ -39,10 +39,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eyes"
+     "gloss": "eye"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "eye"
   },
   {
    "surface": "அன்னார்",
@@ -61,7 +61,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place"
+     "gloss": "with / from"
     },
     {
      "text": "உம்",
@@ -76,7 +76,7 @@
    "parts": [
     {
      "text": "இரவாமை",
-     "lemma": "இர",
+     "lemma": "இரத்தல்",
      "gloss": "not begging"
     }
    ],
@@ -91,24 +91,24 @@
      "gloss": "ten million"
     }
    ],
-   "gloss": "ten million"
+   "gloss": "ten million (times better)"
   },
   {
    "surface": "உறும்",
    "parts": [
     {
      "text": "உறும்",
-     "lemma": "உறு",
-     "gloss": "is worth"
+     "lemma": "உறுதல்",
+     "gloss": "will yield"
     }
    ],
-   "gloss": "is worth"
+   "gloss": "will yield"
   }
  ],
- "literal": "Without withholding, gladly who give, those who are like eyes, even from them, not begging ten million is worth.",
- "translation": "Even from those who are as precious as one's own eyes and give gladly without withholding, not begging is worth ten million.",
- "modern": "தன்னிடம் உள்ளதை மறைக்காமல் மகிழ்ந்து கொடுக்கும் கண் போன்றவர்களிடமும் பிச்சை கேட்காமல் இருப்பது ஒருவனுக்கு கோடி மடங்கு நன்மையாகும்.",
- "explanation": "This couplet emphasizes the supreme dignity of self-reliance by stating that one should not beg even from the most generous and loving people. The phrase 'கண் அன்னார்' compares such willing givers to one's own precious eyes, highlighting their closeness and immense value. 'கரவாது உவந்து ஈயும்' describes their nature of giving joyfully without hiding their wealth. Yet, the poet asserts that 'இரவாமை' (not begging) even from them is worth ten million ('கோடி உறும்'), showing that preserving one's self-respect is far superior to receiving even the most willingly given charity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without withholding, gladly giving, eye-like people, even from, not begging, ten million, will yield.",
+ "translation": "Even from those who are as dear as one's own eyes, who give gladly without hiding anything, refraining from begging is ten million times better.",
+ "modern": "தம்மிடம் உள்ளதை மறைக்காமல், மகிழ்ச்சியோடு கொடுக்கும் கண் போன்றவரிடத்திலும் கூட, இரந்து கேட்காமல் இருப்பது கோடி மடங்கு நன்மையைத் தரும்.",
+ "explanation": "This couplet highlights the supreme value of self-respect and the dread of begging. The poet describes a class of exceptionally generous people who are like one's own eyes, highly cherished and dependable, and who give with joy without concealing what they have. Even from such loving and open-handed individuals, the act of not begging is declared to be worth ten million times more than any gift one might receive. The word 'kōṭi' (ten million) is used here to emphasize that maintaining one's dignity by not begging far outweighs any material gain, even when the giver is extremely close and willing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

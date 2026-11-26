@@ -6,10 +6,10 @@
     {
      "text": "செரு",
      "lemma": "செரு",
-     "gloss": "battle"
+     "gloss": "war"
     }
    ],
-   "gloss": "battle"
+   "gloss": "war"
   },
   {
    "surface": "வந்த",
@@ -55,7 +55,7 @@
     {
      "text": "செய்யா",
      "lemma": "செய்",
-     "gloss": "who does not make"
+     "gloss": "not making"
     }
    ],
    "gloss": "who does not make"
@@ -75,9 +75,14 @@
    "surface": "வெருவந்து",
    "parts": [
     {
-     "text": "வெருவந்து",
-     "lemma": "வெருவு",
-     "gloss": "having feared"
+     "text": "வெரு",
+     "lemma": "வெரு",
+     "gloss": "fear"
+    },
+    {
+     "text": "வந்து",
+     "lemma": "வா",
+     "gloss": "having come"
     }
    ],
    "gloss": "having become terrified"
@@ -88,10 +93,10 @@
     {
      "text": "வெய்து",
      "lemma": "வெய்து",
-     "gloss": "quickly"
+     "gloss": "swiftly"
     }
    ],
-   "gloss": "quickly"
+   "gloss": "swiftly"
   },
   {
    "surface": "கெடும்",
@@ -105,10 +110,10 @@
    "gloss": "will perish"
   }
  ],
- "literal": "Battle - that came - at the time - defense - who does not make - king - having become terrified - quickly - will perish.",
- "translation": "A king who has not built his defenses by the time war comes will be struck with terror and perish swiftly.",
- "modern": "போர் வரும் காலத்திற்கு முன்பே தனக்கான அரண்களை அமைத்துக்கொள்ளாத அரசன், போர் வந்தவுடன் அச்சமடைந்து விரைவில் அழிந்துபோவான்.",
- "explanation": "This couplet warns of the fatal consequences of unpreparedness. The word 'சிறை' usually means a wing, feather, or prison, but here it takes the accepted sense of a defense, fortification, or protective barrier. A king who fails to establish these defenses beforehand ('சிறை செய்யா வேந்தன்') will find himself completely exposed when war actually arrives ('செரு வந்த போழ்தில்'). Without protection, he will be overcome by panic ('வெருவந்து') and face swift destruction ('வெய்து கெடும்'). The verse emphasizes that security and alliances must be firmly in place long before danger appears.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When war has come, a king who has not made defenses, becoming terrified, will swiftly perish.",
+ "translation": "A king who does not secure his defenses before war arrives will be seized with terror and swiftly perish when the battle comes.",
+ "modern": "போர் வந்த காலத்தில் தனக்கான அரண் பாதுகாப்பை முன்னரே செய்து கொள்ளாத அரசன், பகைவரைக் கண்டு அஞ்சி, விரைந்து அழிவான்.",
+ "explanation": "This couplet highlights the critical need for foresight and defensive preparation in statecraft. The word 'ciṟai' refers to fortifications or protective measures. A ruler who fails to build these defenses before a conflict ('ceru') begins will be caught unprepared. When the enemy finally attacks, the ruler will be overcome with sudden panic ('veruvantu') and meet a swift, inevitable ruin ('veytu keṭum').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

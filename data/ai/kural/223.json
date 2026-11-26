@@ -4,33 +4,23 @@
    "surface": "இலன்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "not-having"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "personal suffix"
+     "text": "இலன்",
+     "lemma": "இலன்",
+     "gloss": "destitute person"
     }
    ],
-   "gloss": "\"I have nothing\""
+   "gloss": "destitute person"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "saying"
     }
    ],
-   "gloss": "which says"
+   "gloss": "saying"
   },
   {
    "surface": "எவ்வம்",
@@ -49,28 +39,23 @@
     {
      "text": "உரை",
      "lemma": "உரை",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "without"
     }
    ],
-   "gloss": "not speaking"
+   "gloss": "without letting them speak"
   },
   {
    "surface": "ஈதல்",
    "parts": [
     {
-     "text": "ஈ",
-     "lemma": "ஈ",
-     "gloss": "to give"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஈதல்",
+     "lemma": "ஈதல்",
+     "gloss": "giving"
     }
    ],
    "gloss": "giving"
@@ -81,26 +66,21 @@
     {
      "text": "குலன்",
      "lemma": "குலம்",
-     "gloss": "noble birth"
+     "gloss": "noble lineage"
     }
    ],
-   "gloss": "noble birth"
+   "gloss": "noble lineage"
   },
   {
    "surface": "உடையான்",
    "parts": [
     {
-     "text": "உடை",
-     "lemma": "உடை",
-     "gloss": "possession"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he who"
+     "text": "உடையான்",
+     "lemma": "உடையான்",
+     "gloss": "one who has"
     }
    ],
-   "gloss": "he who possesses"
+   "gloss": "one who has"
   },
   {
    "surface": "கண்ணே",
@@ -108,7 +88,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative marker (with/at)"
+     "gloss": "with"
     },
     {
      "text": "ஏ",
@@ -122,23 +102,18 @@
    "surface": "உள",
    "parts": [
     {
-     "text": "உள்",
+     "text": "உள",
      "lemma": "உள்",
-     "gloss": "to exist"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "exist"
     }
    ],
-   "gloss": "they exist"
+   "gloss": "exist"
   }
  ],
- "literal": "\"I have nothing\" which-says distress not-speaking giving, noble-birth he-who-possesses only-with they-exist.",
- "translation": "The act of giving without ever uttering the distressing words \"I have nothing\" is found only in those of noble birth.",
- "modern": "என்னிடம் ஒன்றும் இல்லை என்ற துன்பமான சொல்லைச் சொல்லாமல் பிறருக்குக் கொடுக்கும் பண்பு, நல்ல குடியில் பிறந்தவனிடமே இருக்கும்.",
- "explanation": "This couplet highlights the graciousness of a truly noble giver. When approached for help, refusing by saying \"I have nothing\" (இலன்) causes deep distress (எவ்வம்) to both the speaker and the seeker. The act of giving freely without ever uttering such painful words of refusal is a natural quality that exists (உள) only in those born of a noble, generous lineage (குலன் உடையான்). The word 'இலன்' here acts as direct speech, capturing the exact phrase of refusal that a noble person avoids.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Giving without letting the destitute speak the distress of saying 'I have nothing' exists only with one who has noble lineage.",
+ "translation": "Giving to the needy even before they have to utter the painful words, 'I have nothing,' is a virtue found only in those of noble birth.",
+ "modern": "'எனக்கு ஒன்றும் இல்லை' என்று இரப்பவர் தன் துன்பத்தைச் சொல்லும் முன்பே அவருக்குக் கொடுக்கும் குணம், நற்குடியில் பிறந்தவரிடமே இருக்கும்.",
+ "explanation": "This couplet defines the highest form of charity. True giving does not wait for a needy person to undergo the painful humiliation of begging and uttering the words 'I have nothing' (இலன் என்னும் எவ்வம்). A person of noble character and lineage (குலனுடையான்) senses the distress of others and gives generously before they even have to ask (உரையாமை ஈதல்). This proactive generosity is described as a rare quality that exists only with those of noble birth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

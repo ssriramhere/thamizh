@@ -11,7 +11,7 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "way"
+     "gloss": "manner"
     },
     {
      "text": "ஆன்",
@@ -19,7 +19,7 @@
      "gloss": "by"
     }
    ],
-   "gloss": "in whatever way"
+   "gloss": "by whatever manner"
   },
   {
    "surface": "தேறிய",
@@ -27,10 +27,10 @@
     {
      "text": "தேறிய",
      "lemma": "தேறு",
-     "gloss": "trusted"
+     "gloss": "examined and trusted"
     }
    ],
-   "gloss": "trusted"
+   "gloss": "examined and trusted"
   },
   {
    "surface": "கண்ணும்",
@@ -38,7 +38,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "when"
+     "gloss": "case"
     },
     {
      "text": "உம்",
@@ -46,7 +46,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even when"
+   "gloss": "even in the case of"
   },
   {
    "surface": "வினைவகையான்",
@@ -54,7 +54,7 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "work"
+     "gloss": "action"
     },
     {
      "text": "வகை",
@@ -67,7 +67,7 @@
      "gloss": "by"
     }
    ],
-   "gloss": "by the nature of the work"
+   "gloss": "by the nature of the action"
   },
   {
    "surface": "வேறு",
@@ -84,17 +84,12 @@
    "surface": "ஆகும்",
    "parts": [
     {
-     "text": "ஆகு",
-     "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "text": "ஆகும்",
+     "lemma": "ஆ",
+     "gloss": "becoming"
     }
    ],
-   "gloss": "will become"
+   "gloss": "becoming"
   },
   {
    "surface": "மாந்தர்",
@@ -119,10 +114,10 @@
    "gloss": "many"
   }
  ],
- "literal": "in whatever way trusted even when, by the nature of the work different will become people many.",
- "translation": "Even when they have been tested and trusted in every possible way, many people change when it comes to the actual execution of the work.",
- "modern": "எல்லா வகையிலும் ஆராய்ந்து நம்பி ஒரு செயலை ஒப்படைத்தாலும், அந்தச் செயலைச் செய்யும்போது வேறுபட்டுப் போகின்ற மனிதர்கள் உலகில் பலர் உள்ளனர்.",
- "explanation": "This couplet warns about the unpredictability of human behavior in practical situations. The phrase 'எனைவகையான் தேறியக் கண்ணும்' means that even after a leader has thoroughly tested and placed trust in someone using every available method. However, 'வினைவகையான் வேறாகும்' points out that the specific demands, pressures, or temptations of the work itself can cause them to act differently than expected. Therefore, it emphasizes that theoretical trustworthiness does not always guarantee practical success, as many people change when faced with the actual task.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when examined and trusted in every possible way, those who become different by the nature of the action are many people.",
+ "translation": "Even after being tested and trusted in every possible way, there are many people who change their nature when confronted with the actual demands of a task.",
+ "modern": "எந்த வழிகளில் ஆராய்ந்து தெளிந்த போதிலும், செய்யும் செயலின் தன்மையால் வேறுபட்டுப் போகும் மனிதர்கள் பலர் இருக்கிறார்கள்.",
+ "explanation": "This couplet highlights a practical challenge in selecting people for tasks. A person might pass every test of character, loyalty, and capability beforehand. However, when they are assigned a specific task, the pressure, temptations, or nature of that work can cause them to change and behave differently. The poet warns that initial trust is not a guarantee of final performance, as many people alter their behavior under the influence of actual responsibility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

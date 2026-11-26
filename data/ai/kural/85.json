@@ -20,14 +20,9 @@
    "surface": "இடல்",
    "parts": [
     {
-     "text": "இடு",
-     "lemma": "இடு",
-     "gloss": "to sow"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "இடல்",
+     "lemma": "இடல்",
+     "gloss": "sowing"
     }
    ],
    "gloss": "sowing"
@@ -38,10 +33,10 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "is necessary"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is necessary"
   },
   {
    "surface": "கொல்லோ",
@@ -54,10 +49,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question suffix"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "indeed?"
+   "gloss": "indeed? (expressing doubt)"
   },
   {
    "surface": "விருந்து",
@@ -74,17 +69,12 @@
    "surface": "ஓம்பி",
    "parts": [
     {
-     "text": "ஓம்பு",
+     "text": "ஓம்பி",
      "lemma": "ஓம்பு",
-     "gloss": "to cherish"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having cherished"
     }
    ],
-   "gloss": "having cherished"
+   "gloss": "having hosted"
   },
   {
    "surface": "மிச்சில்",
@@ -92,28 +82,18 @@
     {
      "text": "மிச்சில்",
      "lemma": "மிச்சில்",
-     "gloss": "remainder"
+     "gloss": "remnant"
     }
    ],
-   "gloss": "remainder"
+   "gloss": "remnant (of food)"
   },
   {
    "surface": "மிசைவான்",
    "parts": [
     {
-     "text": "மிசை",
+     "text": "மிசைவான்",
      "lemma": "மிசை",
-     "gloss": "to eat"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "he who eats"
     }
    ],
    "gloss": "he who eats"
@@ -130,10 +110,10 @@
    "gloss": "field"
   }
  ],
- "literal": "Even seed sowing is needed indeed? - guest having cherished, remainder he who eats - [his] field.",
- "translation": "Is it even necessary to sow seeds in the field of a man who eats only what remains after feeding his guests?",
- "modern": "விருந்தினரை உபசரித்து உணவளித்த பின் எஞ்சியதை உண்பவனுடைய நிலத்தில் விதைகளை விதைக்கவும் வேண்டுமா?",
- "explanation": "This couplet asks a rhetorical question about the prosperity of a generous host. The phrase 'விருந்து ஓம்பி மிச்சில் மிசைவான்' describes a person who first feeds their guests and only eats the leftovers. The poet wonders if such a person even needs to sow seeds ('வித்தும் இடல் வேண்டும் கொல்லோ') in their field ('புலம்'). The implication is that nature itself will reward their hospitality, making their land yield abundantly without effort. The word 'கொல்லோ' emphasizes the rhetorical nature of the question, highlighting the supreme value of cherishing guests.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even seed sowing is it necessary indeed, of him who, having hosted guests, eats the remnant, the field?",
+ "translation": "Is it even necessary to sow seed in the field of one who eats only the remnants after hosting guests?",
+ "modern": "விருந்தினரை உபசரித்துவிட்டு எஞ்சிய உணவை உண்பவனுடைய நிலத்தில், விதை விதைக்கவும் வேண்டுமோ?",
+ "explanation": "This couplet uses a beautiful poetic hyperbole to praise the virtue of hospitality. It asks rhetorically if a farmer even needs to sow seeds in his field if he is someone who eats only the leftovers (மிச்சில்) after feeding his guests (விருந்து ஓம்பி). The word 'மிசைவான்' means 'he who eats', and 'புலம்' refers to his agricultural field. The poet suggests that nature itself will bless such a selfless host with effortless abundance, making the physical act of sowing seed redundant.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

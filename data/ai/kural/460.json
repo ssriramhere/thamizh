@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "நல்லினத்தின்",
-     "lemma": "நல்லினம்",
-     "gloss": "than good company"
+     "lemma": "நல்லினத்தின்",
+     "gloss": "than good association"
     }
    ],
-   "gloss": "than good company"
+   "gloss": "than good association",
+   "split_unverified": true
   },
   {
    "surface": "ஊங்கும்",
@@ -17,15 +18,15 @@
     {
      "text": "ஊங்கு",
      "lemma": "ஊங்கு",
-     "gloss": "greater"
+     "gloss": "more than"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "even greater"
+   "gloss": "greater than"
   },
   {
    "surface": "துணை",
@@ -33,32 +34,33 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "support"
+     "gloss": "companion"
     }
    ],
-   "gloss": "support"
+   "gloss": "companion"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "தீயினத்தின்",
    "parts": [
     {
      "text": "தீயினத்தின்",
-     "lemma": "தீயினம்",
-     "gloss": "than bad company"
+     "lemma": "தீயினத்தின்",
+     "gloss": "than evil association"
     }
    ],
-   "gloss": "than bad company"
+   "gloss": "than evil association",
+   "split_unverified": true
   },
   {
    "surface": "அல்லல்",
@@ -66,21 +68,22 @@
     {
      "text": "அல்லல்",
      "lemma": "அல்லல்",
-     "gloss": "sorrow"
+     "gloss": "suffering"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "suffering"
   },
   {
    "surface": "படுப்பதூஉம்",
    "parts": [
     {
      "text": "படுப்பதூஉம்",
-     "lemma": "படுப்பது",
-     "gloss": "that which causes"
+     "lemma": "படுப்பதூஉம்",
+     "gloss": "that which subjects one to"
     }
    ],
-   "gloss": "that which causes"
+   "gloss": "that which subjects one to",
+   "split_unverified": true
   },
   {
    "surface": "இல்",
@@ -88,16 +91,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   }
  ],
- "literal": "Than good company even greater support there is not; than bad company sorrow that which causes even there is not.",
- "translation": "There is no greater support than good company, and nothing causes more sorrow than bad company.",
- "modern": "நல்ல கூட்டத்தை விட சிறந்த துணை வேறு இல்லை. தீய கூட்டத்தை விட துன்பம் தருவது வேறு எதுவும் இல்லை.",
- "explanation": "This couplet contrasts the profound effects of good and bad company on a person's life. The word 'நல்லினம்' refers to a group of virtuous people, which acts as the greatest support ('துணை') one can have. Conversely, 'தீயினம்' means a group of wicked people, which is identified as the ultimate source of sorrow ('அல்லல்'). The poet uses a perfectly balanced parallel structure to emphasize that just as nothing helps you more than good friends, nothing harms you more than bad ones.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than good association, greater companion there is not; than evil association, suffering that which causes also there is not.",
+ "translation": "There is no companion greater than good association, and there is nothing that brings more suffering than evil association.",
+ "modern": "நல்ல சேர்க்கையை விடச் சிறந்த துணை வேறு இல்லை; தீய சேர்க்கையை விடத் துன்பத்தைத் தருவது வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the powerful influence of the company we keep. The poet uses a parallel structure to contrast good and bad associations. Good company is described as the ultimate support system, with no helper or companion ('துணை') exceeding it. Conversely, bad company is identified as the ultimate source of misery, with nothing else causing as much deep suffering ('அல்லல்'). The word 'படுப்பதூஉம்' uses a poetic elongation to emphasize the inevitable and heavy toll that bad associations inflict on a person.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

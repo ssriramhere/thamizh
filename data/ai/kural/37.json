@@ -6,7 +6,7 @@
     {
      "text": "அறத்து",
      "lemma": "அறம்",
-     "gloss": "virtue (oblique)"
+     "gloss": "virtue (in oblique case)"
     }
    ],
    "gloss": "of virtue"
@@ -17,10 +17,10 @@
     {
      "text": "ஆறு",
      "lemma": "ஆறு",
-     "gloss": "path"
+     "gloss": "path or fruit"
     }
    ],
-   "gloss": "path"
+   "gloss": "the path or fruit"
   },
   {
    "surface": "இது",
@@ -38,22 +38,22 @@
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "to say"
     }
    ],
-   "gloss": "saying"
+   "gloss": "saying so"
   },
   {
    "surface": "வேண்டா",
    "parts": [
     {
      "text": "வேண்டா",
-     "lemma": "வேண்டு",
-     "gloss": "is not needed"
+     "lemma": "வேண்டுதல்",
+     "gloss": "not needed"
     }
    ],
-   "gloss": "is not needed"
+   "gloss": "is not necessary"
   },
   {
    "surface": "சிவிகை",
@@ -71,8 +71,8 @@
    "parts": [
     {
      "text": "பொறுத்தான்",
-     "lemma": "பொறு",
-     "gloss": "he who bears"
+     "lemma": "பொறுத்தல்",
+     "gloss": "he who bore"
     },
     {
      "text": "ஓடு",
@@ -87,11 +87,11 @@
    "parts": [
     {
      "text": "ஊர்ந்தான்",
-     "lemma": "ஊர்",
-     "gloss": "he who rides"
+     "lemma": "ஊர்தல்",
+     "gloss": "he who rode"
     }
    ],
-   "gloss": "he who rides"
+   "gloss": "the rider"
   },
   {
    "surface": "இடை",
@@ -105,10 +105,10 @@
    "gloss": "between"
   }
  ],
- "literal": "Of virtue, the path is this, saying is not needed; between the palanquin with the one who bears and the one who rides.",
- "translation": "There is no need to explain that this is the path of virtue; just look at the difference between the palanquin bearer and the rider.",
- "modern": "அறத்தின் வழி இதுதான் என்று சொல்லத் தேவையில்லை; பல்லக்கைத் தூக்குபவனுக்கும் அதில் ஏறிச் செல்பவனுக்கும் இடையே உள்ள வேறுபாட்டைப் பார்த்தாலே தெரியும்.",
- "explanation": "This couplet illustrates the visible consequences of virtue. The poet states that one does not need words to explain the path of virtue. The contrast between the person riding in the palanquin and the person bearing it serves as a living example. The rider enjoys the fruits of virtuous deeds, while the bearer experiences the burden of lacking them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The fruit of virtue is this, saying so is not needed; it is seen between the palanquin bearer and the rider.",
+ "translation": "There is no need to explain the fruit of virtue with words; it is plainly visible in the contrast between the bearer of the palanquin and the one who rides in it.",
+ "modern": "அறத்தின் பயன் இது என்று நூல்களைக் கொண்டு விளக்க வேண்டியதில்லை; பல்லக்கைத் தூக்கிச் செல்பவனுக்கும் அதில் ஏறிச் செல்பவனுக்கும் இடையே உள்ள வேறுபாட்டிலேயே அது விளங்கும்.",
+ "explanation": "This couplet uses a vivid, everyday image to illustrate the self-evident nature of the fruits of virtue. The word 'ஆறு' can mean 'path' or 'fruit/result'; in this context, 'fruit' or 'consequence' fits best. The poet argues that one does not need elaborate philosophical arguments to prove the power of virtue. Instead, the stark contrast between the physical toil of the palanquin bearer ('பொறுத்தான்') and the comfort of the rider ('ஊர்ந்தான்') serves as a direct, visible demonstration of how past actions shape present circumstances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,7 +9,7 @@
      "gloss": "those who saw"
     }
    ],
-   "gloss": "those who saw"
+   "gloss": "those who look"
   },
   {
    "surface": "உயிர்",
@@ -42,18 +42,23 @@
      "gloss": "by the appearance"
     }
    ],
-   "gloss": "by the appearance"
+   "gloss": "by their appearance"
   },
   {
    "surface": "பெண்டகை",
    "parts": [
     {
-     "text": "பெண்டகை",
-     "lemma": "பெண்டகை",
-     "gloss": "womanly grace"
+     "text": "பெண்",
+     "lemma": "பெண்",
+     "gloss": "woman"
+    },
+    {
+     "text": "தகை",
+     "lemma": "தகை",
+     "gloss": "qualities"
     }
    ],
-   "gloss": "womanly grace"
+   "gloss": "womanly qualities"
   },
   {
    "surface": "பேதைக்கு",
@@ -61,15 +66,15 @@
     {
      "text": "பேதை",
      "lemma": "பேதை",
-     "gloss": "innocent woman"
+     "gloss": "simple woman"
     },
     {
      "text": "க்கு",
-     "lemma": "க்கு",
+     "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the innocent woman"
+   "gloss": "to the simple maiden"
   },
   {
    "surface": "அமர்த்தன",
@@ -77,10 +82,10 @@
     {
      "text": "அமர்த்தன",
      "lemma": "அமர்",
-     "gloss": "battled"
+     "gloss": "became warlike"
     }
    ],
-   "gloss": "battled"
+   "gloss": "have become warlike"
   },
   {
    "surface": "கண்",
@@ -91,13 +96,13 @@
      "gloss": "eyes"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "the eyes"
   }
  ],
- "literal": "those-who-saw life consuming by-appearance womanly-grace to-innocent-woman battled eyes",
- "translation": "The eyes of this innocent, graceful woman look as if they are engaged in battle, with a gaze that consumes the lives of those who look at her.",
- "modern": "பார்ப்பவர்களின் உயிரை உண்ணும் தோற்றத்துடன், பெண்மைக்குரிய மென்மை கொண்ட இந்தப் பேதையின் கண்கள் போருக்கு எழுந்தது போல் மாறுபட்டுள்ளன.",
- "explanation": "The speaker is captivated and overwhelmed by the beauty of the woman's eyes. He describes her as an innocent woman with natural feminine grace. However, her eyes contrast with this innocence, appearing hostile and ready for battle. This is because her striking gaze has the power to consume the very lives of those who look at her.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Of those who look, the life-consuming by their appearance, of this womanly-natured simple girl, have become warlike, the eyes.",
+ "translation": "The eyes of this simple, feminine maiden have become warlike; by their very appearance, they seem to consume the lives of those who look at them.",
+ "modern": "பெண்மையின் மென்மை கொண்ட இந்த இளம்பெண்ணின் கண்கள் பகைமை கொண்டு போர் தொடுப்பவை போல உள்ளன; அவை தம்மைப் பார்ப்பவர்களின் உயிரைக் குடிக்கும் தோற்றத்தைக் கொண்டுள்ளன.",
+ "explanation": "The hero is captivated by the intense gaze of the heroine. Although she is a simple, innocent maiden (பேதை) endowed with gentle womanly qualities (பெண்டகை), her eyes (கண்) appear warlike and hostile (அமர்த்தன). By their mere appearance (தோற்றத்தால்), they have the lethal power to consume (உண்ணும்) the very life (உயிர்) of anyone who looks at her (கண்டார்). The couplet beautifully contrasts her gentle nature with the overwhelming, almost fatal power of her beauty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

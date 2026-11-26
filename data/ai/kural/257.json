@@ -11,26 +11,21 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "negative verbal noun suffix (not doing)"
     }
    ],
-   "gloss": "not eating"
+   "gloss": "abstaining from eating"
   },
   {
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "need"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "is required / must"
     }
    ],
-   "gloss": "is necessary"
+   "gloss": "is required"
   },
   {
    "surface": "புலாஅல்",
@@ -38,10 +33,10 @@
     {
      "text": "புலாஅல்",
      "lemma": "புலால்",
-     "gloss": "meat"
+     "gloss": "flesh / meat (with metrical lengthening)"
     }
    ],
-   "gloss": "meat"
+   "gloss": "flesh"
   },
   {
    "surface": "பிறிது",
@@ -49,10 +44,10 @@
     {
      "text": "பிறிது",
      "lemma": "பிறிது",
-     "gloss": "another"
+     "gloss": "other"
     }
    ],
-   "gloss": "another"
+   "gloss": "other"
   },
   {
    "surface": "ஒன்றன்",
@@ -60,12 +55,12 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one (creature)"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "oblique suffix"
+     "gloss": "oblique case suffix"
     }
    ],
    "gloss": "of one"
@@ -76,7 +71,7 @@
     {
      "text": "புண்",
      "lemma": "புண்",
-     "gloss": "wound"
+     "gloss": "wound / sore"
     }
    ],
    "gloss": "wound"
@@ -87,10 +82,10 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that"
+     "gloss": "that / it"
     }
    ],
-   "gloss": "that"
+   "gloss": "that is"
   },
   {
    "surface": "உணர்வார்",
@@ -98,20 +93,20 @@
     {
      "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "realize"
+     "gloss": "realize / understand"
     },
     {
      "text": "வ்",
      "lemma": "வ்",
-     "gloss": "future suffix"
+     "gloss": "future/present tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "pronominal suffix (those who)"
     }
    ],
-   "gloss": "those who realize"
+   "gloss": "those who understand"
   },
   {
    "surface": "பெறின்",
@@ -119,21 +114,21 @@
     {
      "text": "பெறு",
      "lemma": "பெறு",
-     "gloss": "get"
+     "gloss": "obtain / find"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "conditional suffix (if)"
     }
    ],
-   "gloss": "if one gets"
+   "gloss": "if we find / if one obtains"
   }
  ],
- "literal": "not-eating is-necessary meat another of-one wound that those-who-realize if-obtained",
- "translation": "One must not eat meat, if one finds those who realize that it is but the wound of another creature.",
- "modern": "புலால் என்பது வேறொரு உயிரின் புண் என்பதை உணர்ந்தவர்களைக் கேட்டால், அதனை உண்ணக்கூடாது என்றே சொல்வார்கள்.",
- "explanation": "The couplet declares that meat is nothing but the wound or torn flesh of another living creature. The word 'புண்' (wound) starkly strips away the appeal of meat, revealing its violent origin. 'உணர்வார்ப் பெறின்' suggests that if one seeks the counsel of those who truly understand this reality, they will insist that one must abstain from eating it. Thus, true awareness naturally leads to the rejection of meat.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Abstaining from eating is required of flesh, which is the wound of another one, if those who understand this are found.",
+ "translation": "One must abstain from eating flesh, if one realizes that meat is nothing but the raw wound of another living being.",
+ "modern": "புலால் என்பது வேறொரு உயிரினுடைய உடலின் புண் என்பதை மக்கள் உணர்ந்தால், அதை உண்ணாமல் தவிர்க்க வேண்டும்.",
+ "explanation": "This couplet presents a powerful argument for vegetarianism by redefining what meat actually is. The poet uses the word 'puṇ' (புண்), meaning a wound or sore, to describe flesh. By realizing that meat is not just food but the mutilated, wounded body of another living creature, a person of understanding will naturally feel aversion. The couplet suggests that abstaining from meat is a logical consequence of truly perceiving the pain and suffering inherent in its origin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

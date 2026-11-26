@@ -15,17 +15,12 @@
    "surface": "உளன்",
    "parts": [
     {
-     "text": "உள்",
+     "text": "உளன்",
      "lemma": "உள்",
-     "gloss": "to exist"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "he existed"
     }
    ],
-   "gloss": "existed-he"
+   "gloss": "he was present"
   },
   {
    "surface": "ஒருவன்",
@@ -33,10 +28,10 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one man"
+     "gloss": "one person"
     }
    ],
-   "gloss": "a man"
+   "gloss": "one person"
   },
   {
    "surface": "இன்று",
@@ -54,7 +49,7 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்லை",
+     "lemma": "இல்",
      "gloss": "is not"
     }
    ],
@@ -64,14 +59,9 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "saying"
     }
    ],
    "gloss": "saying"
@@ -93,23 +83,18 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   },
   {
    "surface": "இவ்",
    "parts": [
     {
-     "text": "இ",
+     "text": "இவ்",
      "lemma": "இ",
      "gloss": "this"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
     }
    ],
    "gloss": "this"
@@ -126,10 +111,10 @@
    "gloss": "world"
   }
  ],
- "literal": "Yesterday existed a man, today is not, saying greatness possesses this world.",
- "translation": "This world possesses the profound greatness of saying, \"A man who existed yesterday does not exist today.\"",
- "modern": "நேற்று உயிரோடு இருந்த ஒருவன் இன்று இல்லை என்று சொல்லக்கூடிய நிலையாமையை இந்த உலகம் தன்னுள் கொண்டுள்ளது.",
- "explanation": "This couplet captures the sudden and absolute transience of human life. The sharp contrast between 'nerunal' (yesterday) and 'iṉṟu' (today) emphasizes how quickly existence turns into non-existence. The word 'perumai' usually means greatness or pride, but here it denotes the profound, awe-inspiring, and inescapable power of the world's impermanence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Yesterday he was present, one person; today he is not, saying [this] greatness possesses this world.",
+ "translation": "This world possesses the mighty reputation that a person who was alive yesterday is no more today.",
+ "modern": "நேற்று இருந்த ஒருவன் இன்று இல்லை என்று சொல்லும் பெருமையை இந்த உலகம் பெற்றுள்ளது.",
+ "explanation": "This couplet highlights the absolute transience of human life. The word 'perumai' (greatness or distinction) is used here with solemn irony to describe the world's defining power of impermanence. By contrasting 'nerunal' (yesterday) with 'iṉṟu' (today), the poet shows how quickly life can vanish. The greatness of this world lies in its constant reminder that no one, no matter how powerful, is guaranteed another day.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

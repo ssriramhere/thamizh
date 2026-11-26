@@ -11,10 +11,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "indeed"
+     "gloss": "even"
     }
    ],
-   "gloss": "penance indeed"
+   "gloss": "even penance"
   },
   {
    "surface": "தவம்",
@@ -31,13 +31,18 @@
    "surface": "உடையார்க்கு",
    "parts": [
     {
-     "text": "உடையார்",
-     "lemma": "உடையார்",
-     "gloss": "those who possess"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
@@ -49,10 +54,10 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "will happen"
+     "gloss": "will succeed"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "will succeed"
   },
   {
    "surface": "அதனை",
@@ -65,22 +70,22 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "it (acc.)"
+   "gloss": "that"
   },
   {
    "surface": "அஃது",
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அது",
+     "lemma": "அஃது",
      "gloss": "that"
     }
    ],
@@ -90,12 +95,17 @@
    "surface": "இலார்",
    "parts": [
     {
-     "text": "இலார்",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "those without"
+     "gloss": "not having"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "மேற்கொள்வது",
@@ -106,18 +116,23 @@
      "gloss": "upon"
     },
     {
-     "text": "கொள்வது",
+     "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "taking"
+     "gloss": "take"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizer"
     }
    ],
    "gloss": "undertaking"
   }
  ],
- "literal": "Penance indeed happens to those who possess penance; those without that undertaking it (is vain).",
- "translation": "Penance is fruitful only for those who already possess the inner discipline for it. It is futile for those without that nature to undertake it.",
- "modern": "தவம் செய்யும் இயல்பு உடையவர்களுக்கே தவம் கைகூடும். அந்த இயல்பு இல்லாதவர்கள் தவத்தை மேற்கொள்வது வீணாகும்.",
- "explanation": "This couplet states that the practice of asceticism or penance cannot be forced; it requires an inherent disposition. The phrase 'தவமும் தவமுடையார்க்கு ஆகும்' means that penance naturally succeeds only for those whose minds are already conditioned for it. The second half, 'அதனை அஃதிலார் மேற்கொள்வது' (those without it undertaking it), leaves the conclusion unstated but clearly implies that such an effort is useless. The word 'ஆகும்' (will happen or succeed) in the first half sets up this contrast, showing that outward acts of penance require an inward readiness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even penance to those who possess penance will succeed; that, those who lack that, undertaking [is in vain].",
+ "translation": "Austerity is possible only for those who have already acquired the capacity for it; for those who lack it, undertaking it is in vain.",
+ "modern": "தவம் செய்யும் ஆற்றல் உடையவர்களுக்கே தவம் கைகூடும்; அந்த ஆற்றல் இல்லாதவர்கள் தவத்தை மேற்கொள்வது வீணான முயற்சியாகும்.",
+ "explanation": "This couplet explains that true penance or self-discipline (தவம்) is not an easy task that anyone can perform on a whim. It is only successful for those who already possess the spiritual strength and discipline (தவமுடையார்) required for it. For those who lack this inner preparation (அஃதிலார்), merely attempting to undertake it (மேற்கொள்வது) is a futile effort. The poet emphasizes that the very capacity to perform austerity is itself a hard-won quality.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

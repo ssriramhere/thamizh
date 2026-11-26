@@ -5,35 +5,30 @@
    "parts": [
     {
      "text": "உளர்",
-     "lemma": "உள்",
-     "gloss": "they exist"
+     "lemma": "உளர்",
+     "gloss": "those who are alive"
     }
    ],
-   "gloss": "they exist"
+   "gloss": "those who are alive"
   },
   {
    "surface": "எனினும்",
    "parts": [
     {
-     "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if said"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "எனினும்",
+     "lemma": "எனினும்",
+     "gloss": "even though"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "இல்லாரொடு",
    "parts": [
     {
      "text": "இல்லார்",
-     "lemma": "இல்",
-     "gloss": "those who are not"
+     "lemma": "இல்லார்",
+     "gloss": "those who do not exist"
     },
     {
      "text": "ஒடு",
@@ -52,7 +47,7 @@
      "gloss": "they are equal"
     }
    ],
-   "gloss": "they are equal"
+   "gloss": "they are equal to"
   },
   {
    "surface": "களன்",
@@ -63,7 +58,7 @@
      "gloss": "assembly"
     }
    ],
-   "gloss": "assembly"
+   "gloss": "the assembly"
   },
   {
    "surface": "அஞ்சி",
@@ -71,10 +66,10 @@
     {
      "text": "அஞ்சி",
      "lemma": "அஞ்சு",
-     "gloss": "having feared"
+     "gloss": "fearing"
     }
    ],
-   "gloss": "having feared"
+   "gloss": "fearing"
   },
   {
    "surface": "கற்ற",
@@ -82,10 +77,10 @@
     {
      "text": "கற்ற",
      "lemma": "கல்",
-     "gloss": "things learned"
+     "gloss": "learned"
     }
    ],
-   "gloss": "things learned"
+   "gloss": "what they have learned"
   },
   {
    "surface": "செல",
@@ -93,27 +88,27 @@
     {
      "text": "செல",
      "lemma": "செல்",
-     "gloss": "to go"
+     "gloss": "to penetrate"
     }
    ],
-   "gloss": "so as to be understood"
+   "gloss": "so as to penetrate"
   },
   {
    "surface": "சொல்லாதார்",
    "parts": [
     {
      "text": "சொல்லாதார்",
-     "lemma": "சொல்",
+     "lemma": "சொல்லாதார்",
      "gloss": "those who do not speak"
     }
    ],
    "gloss": "those who do not speak"
   }
  ],
- "literal": "They exist, even if, with those who do not exist they are equal, assembly having feared, things learned to go those who do not speak.",
- "translation": "Those who fear the assembly and fail to speak their learning convincingly are equal to the dead, even though they are alive.",
- "modern": "அவைக்குப் பயந்து தாங்கள் கற்றவற்றைப் பிறர் ஏற்குமாறு சொல்லத் தெரியாதவர்கள், உயிரோடு இருந்தாலும் இறந்தவர்களுக்கு ஒப்பானவர்களே.",
- "explanation": "This couplet strongly condemns the inability to share one's knowledge in public due to stage fright. The phrase 'களன் அஞ்சி' means fearing the assembly of scholars, while 'செலச் சொல்லாதார்' refers to those who cannot communicate their learning so that it reaches and convinces the listeners. Because their knowledge remains unshared and useless to the world, the poet declares that even if they are physically alive ('உளர் எனினும்'), they are no different from the dead ('இல்லாரொடு ஒப்பர்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even though they are alive, they are equal to those who do not exist—those who, fearing the assembly, do not speak what they have learned so that it penetrates.",
+ "translation": "Though they are alive, those who fear the assembly and fail to speak what they have learned in a way that penetrates the minds of others are equal to the dead.",
+ "modern": "அவைக்கு அஞ்சி, தாம் கற்றவற்றை கேட்பவர் மனதில் பதியுமாறு சொல்ல முடியாதவர்கள், உயிரோடு வாழ்ந்தாலும் இறந்தவர்களுக்கு ஒப்பாவார்கள்.",
+ "explanation": "This couplet highlights the uselessness of education when paired with cowardice. The poet argues that those who fear the assembly (களன் அஞ்சி) and fail to present their knowledge in an impactful, convincing manner (செலச் சொல்லாதார்) are practically useless to society. Even though they are physically alive (உளர் எனினும்), their silence makes them equivalent to the dead or non-existent (இல்லாரொடு ஒப்பர்). Thus, the courage to speak in public is as essential as the acquisition of knowledge itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

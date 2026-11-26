@@ -6,31 +6,31 @@
     {
      "text": "இமையார்",
      "lemma": "இமையார்",
-     "gloss": "gods"
+     "gloss": "celestials"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "like"
+     "gloss": "than"
     }
    ],
-   "gloss": "like the gods"
+   "gloss": "than the celestials"
   },
   {
    "surface": "வாழினும்",
    "parts": [
     {
-     "text": "வாழ்",
+     "text": "வாழின்",
      "lemma": "வாழ்",
-     "gloss": "to live"
+     "gloss": "if [one] lives"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if they live"
+   "gloss": "even if [they] live"
   },
   {
    "surface": "பாடு",
@@ -38,18 +38,18 @@
     {
      "text": "பாடு",
      "lemma": "பாடு",
-     "gloss": "greatness"
+     "gloss": "dignity"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "dignity"
   },
   {
    "surface": "இலரே",
    "parts": [
     {
      "text": "இலர்",
-     "lemma": "இல்",
-     "gloss": "they are without"
+     "lemma": "இலர்",
+     "gloss": "they do not have"
     },
     {
      "text": "ஏ",
@@ -57,7 +57,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "they are without indeed"
+   "gloss": "they indeed do not have"
   },
   {
    "surface": "இல்லாள்",
@@ -98,7 +98,7 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulder"
+     "gloss": "shoulders"
     }
    ],
    "gloss": "shoulders"
@@ -115,10 +115,10 @@
    "gloss": "those who fear"
   }
  ],
- "literal": "Like the gods even if they live, greatness they are without indeed, wife's bamboo resembling shoulders those who fear.",
- "translation": "Even if they live a life like that of the gods, men who fear their wife's bamboo-like shoulders have no true greatness.",
- "modern": "தம் மனைவியின் மூங்கில் போன்ற தோள்களைக் கண்டு அஞ்சுகின்ற கணவர்கள், தேவர்களைப் போலச் சிறந்த வாழ்க்கை வாழ்ந்தாலும் எந்தப் பெருமையும் இல்லாதவர்களே ஆவர்.",
- "explanation": "This couplet criticizes men who are overly submissive to their wives out of fear. The phrase 'அமையார்தோள்' (bamboo-like shoulders) is a classical metaphor for a woman's beautiful, smooth shoulders, highlighting the irony of fearing something so delicate. 'இமையார்' refers to the gods, who are traditionally believed not to blink. The poet states that even if such men achieve a heavenly, god-like status in life, their cowardly submission strips them of all true dignity and greatness ('பாடு').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they live than the celestials, those who fear the bamboo-resembling shoulders of their wife indeed have no dignity.",
+ "translation": "Even if they live with the splendor of the immortal gods, those who live in fear of their wife's bamboo-like shoulders possess no true dignity.",
+ "modern": "மனைவியின் மூங்கில் போன்ற தோள்களுக்கு அஞ்சி வாழ்பவர்கள், தேவர்களைப் போல வாழ்ந்தாலும் பெருமை இல்லாதவர்களே ஆவர்.",
+ "explanation": "This couplet highlights the loss of honor for men who are overly submissive to their wives. The poet uses the classical metaphor of 'bamboo-like shoulders' (அமையார்தோள்) to describe the wife, representing her beauty and feminine grace. A husband who fears his wife instead of leading with mutual respect loses his dignity (பாடு). Even if such men enjoy a life of supreme comfort and longevity like the immortal gods (இமையார்), they are deemed completely devoid of greatness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

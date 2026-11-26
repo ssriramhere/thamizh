@@ -4,9 +4,14 @@
    "surface": "ஈத்து",
    "parts": [
     {
-     "text": "ஈத்து",
+     "text": "ஈ",
      "lemma": "ஈ",
-     "gloss": "having given"
+     "gloss": "give"
+    },
+    {
+     "text": "த்து",
+     "lemma": "த்து",
+     "gloss": "having"
     }
    ],
    "gloss": "having given"
@@ -15,9 +20,14 @@
    "surface": "உவக்கும்",
    "parts": [
     {
-     "text": "உவக்கும்",
+     "text": "உவ",
      "lemma": "உவ",
-     "gloss": "rejoicing"
+     "gloss": "rejoice"
+    },
+    {
+     "text": "க்கும்",
+     "lemma": "க்கும்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "rejoicing"
@@ -28,18 +38,23 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "அறியார்",
    "parts": [
     {
-     "text": "அறியார்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "they do not know"
+     "gloss": "know"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who do not"
     }
    ],
    "gloss": "they do not know"
@@ -50,18 +65,18 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "I wonder"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "is it because / indeed"
   },
   {
    "surface": "தாம்",
    "parts": [
     {
      "text": "தாம்",
-     "lemma": "தாம்",
-     "gloss": "their own"
+     "lemma": "தான்",
+     "gloss": "themselves"
     }
    ],
    "gloss": "their own"
@@ -81,23 +96,33 @@
    "surface": "வைத்து",
    "parts": [
     {
-     "text": "வைத்து",
+     "text": "வை",
      "lemma": "வை",
-     "gloss": "having hoarded"
+     "gloss": "store"
+    },
+    {
+     "text": "த்து",
+     "lemma": "த்து",
+     "gloss": "having"
     }
    ],
-   "gloss": "having hoarded"
+   "gloss": "having stored"
   },
   {
    "surface": "இழக்கும்",
    "parts": [
     {
-     "text": "இழக்கும்",
+     "text": "இழ",
      "lemma": "இழ",
-     "gloss": "who lose"
+     "gloss": "lose"
+    },
+    {
+     "text": "க்கும்",
+     "lemma": "க்கும்",
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "who lose"
+   "gloss": "losing"
   },
   {
    "surface": "வன்கணவர்",
@@ -110,16 +135,16 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "those who"
+     "gloss": "people"
     }
    ],
    "gloss": "hard-hearted people"
   }
  ],
- "literal": "Having given, the rejoicing joy do they not know, I wonder, who their own wealth having hoarded lose, the hard-hearted ones?",
- "translation": "Do the hard-hearted, who hoard their wealth only to lose it, not know the joy that comes from giving and rejoicing?",
- "modern": "தமது செல்வத்தை யாருக்கும் கொடுக்காமல் சேர்த்து வைத்துப் பின் அதனை இழந்துவிடும் வன்கண்மை உடையவர்கள், பிறருக்குக் கொடுத்து மகிழும் இன்பத்தை அறிய மாட்டார்களோ?",
- "explanation": "This couplet contrasts the pure joy of giving with the futility of hoarding. The phrase 'ஈத்து உவக்கும் இன்பம்' captures the happiness that comes from sharing with others and seeing them rejoice. The poet wonders ('கொல்') if those who are hard-hearted ('வன்கணவர்') are completely ignorant of this joy. These individuals merely hoard their possessions ('தாம் உடைமை வைத்து') without using them, ultimately losing everything. The word 'வன்கணவர்' specifically denotes those lacking the compassion to give, highlighting their emotional blindness to the joy of charity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having given, the rejoicing pleasure, do they not know indeed? Their own wealth, having stored, losing, the hard-hearted people.",
+ "translation": "Do those hard-hearted people, who hoard their wealth only to lose it eventually, not know the joy that comes from giving?",
+ "modern": "பிறருக்குக் கொடுத்து மகிழும் இன்பத்தை அறிய மாட்டார்களோ? தம்மிடமுள்ள செல்வத்தைச் சேர்த்து வைத்துப் பின் அதனை இழந்துவிடும் இரக்கமற்றவர்கள்.",
+ "explanation": "This couplet contrasts the joy of charity with the folly of hoarding. The poet refers to those who hoard wealth without sharing it as 'hard-hearted' (vaṉkaṇavar) because they lack the empathy to help others. By keeping their wealth locked away, they inevitably lose it to theft, decay, or death without ever enjoying it. The poet wonders if these people are simply ignorant of the profound happiness (iṉpam) that one experiences when giving to those in need.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

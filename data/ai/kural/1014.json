@@ -17,15 +17,15 @@
     {
      "text": "அன்று",
      "lemma": "அன்று",
-     "gloss": "is not"
+     "gloss": "is it not"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "emphasis marker"
     }
    ],
-   "gloss": "is it not"
+   "gloss": "is it not indeed"
   },
   {
    "surface": "நாண்",
@@ -33,10 +33,10 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "modesty"
+     "gloss": "sense of shame"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "sense of shame"
   },
   {
    "surface": "உடைமை",
@@ -47,7 +47,7 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possessing"
+   "gloss": "possession"
   },
   {
    "surface": "சான்றோர்க்கு",
@@ -55,22 +55,22 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "noble people"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
-   "gloss": "to the noble ones"
+   "gloss": "to the noble people"
   },
   {
    "surface": "அஃது",
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அது",
+     "lemma": "அஃது",
      "gloss": "that"
     }
    ],
@@ -82,7 +82,7 @@
     {
      "text": "இன்று",
      "lemma": "இன்று",
-     "gloss": "is without"
+     "gloss": "without"
     },
     {
      "text": "ஏல்",
@@ -90,7 +90,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if without"
+   "gloss": "if not present"
   },
   {
    "surface": "பிணி",
@@ -109,15 +109,15 @@
     {
      "text": "அன்று",
      "lemma": "அன்று",
-     "gloss": "is not"
+     "gloss": "is it not"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "emphasis marker"
     }
    ],
-   "gloss": "is it not"
+   "gloss": "is it not indeed"
   },
   {
    "surface": "பீடு",
@@ -139,13 +139,13 @@
      "gloss": "walk"
     }
    ],
-   "gloss": "bearing"
+   "gloss": "walk"
   }
  ],
- "literal": "Ornament - is it not - modesty - possessing - to the noble ones - that - if without - disease - is it not - proud - walk.",
- "translation": "Is not modesty the true ornament of the noble? Without it, is not a proud bearing merely a disease?",
- "modern": "நாணத்தை உடையவராக இருப்பதே சான்றோர்களுக்கு உண்மையான அழகாகும். அந்த நாணம் இல்லாவிட்டால், அவர்கள் பெருமிதத்துடன் நடக்கும் நடை ஒரு நோயே அல்லவா?",
- "explanation": "This couplet contrasts the true beauty of noble people with a false sense of greatness. The word 'நாண்' (modesty or a shrinking from wrongdoing) is described as the defining 'அணி' (ornament) for the noble ('சான்றோர்'). If they lack this quality ('அஃது இன்றேல்'), their 'பீடு நடை' (proud or stately bearing) is no longer a mark of greatness. Instead, it becomes a 'பிணி' (disease or affliction), something unnatural and harmful. The rhetorical questions ('அன்றோ') emphasize that true dignity comes from inner modesty, not outward arrogance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "An ornament is it not, the possession of shame, to the noble? If that is not there, a disease is it not, their proud walk?",
+ "translation": "To the noble, possessing a sense of shame is indeed an ornament; if they lack it, their proud, majestic walk is nothing but a disease.",
+ "modern": "சான்றோர்க்கு நாணத்தைக் கொண்டிருப்பதுதான் சிறந்த அணிகலன் ஆகும்; அது இல்லாவிட்டால், அவர்கள் பெருமிதத்தோடு நடக்கும் நடையானது ஒரு நோயாகவே கருதப்படும்.",
+ "explanation": "This couplet highlights the importance of 'nāṇ' (a sense of shame or moral dread of doing wrong) for noble individuals. It states that having this sense of shame is the true ornament that beautifies their character. Without this inner quality, any outward display of dignity, such as a proud or majestic gait, is not a sign of greatness but rather a disease or a defect. The contrast between 'aṇi' (ornament) and 'piṇi' (disease) emphasizes that true dignity comes from moral sensitivity, not from mere external posture.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

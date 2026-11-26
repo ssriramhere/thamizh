@@ -6,15 +6,15 @@
     {
      "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "to be negligent"
+     "gloss": "slip or forgetfulness"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "negative nominalizing suffix"
     }
    ],
-   "gloss": "non-negligence"
+   "gloss": "unforgetfulness or vigilance"
   },
   {
    "surface": "யார்மாட்டும்",
@@ -22,20 +22,20 @@
     {
      "text": "யார்",
      "lemma": "யார்",
-     "gloss": "who"
+     "gloss": "who or anyone"
     },
     {
      "text": "மாட்டு",
-     "lemma": "மாட்டு",
-     "gloss": "locative suffix (with/towards)"
+     "lemma": "மாடு",
+     "gloss": "locative case marker meaning towards"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix (all)"
+     "gloss": "inclusive particle meaning even or all"
     }
    ],
-   "gloss": "towards everyone"
+   "gloss": "towards anyone at all"
   },
   {
    "surface": "என்றும்",
@@ -43,15 +43,15 @@
     {
      "text": "என்று",
      "lemma": "என்று",
-     "gloss": "day/time"
+     "gloss": "day or time"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix (all)"
+     "gloss": "always"
     }
    ],
-   "gloss": "always"
+   "gloss": "always or at all times"
   },
   {
    "surface": "வழுக்காமை",
@@ -59,31 +59,31 @@
     {
      "text": "வழுக்கு",
      "lemma": "வழுக்கு",
-     "gloss": "to slip"
+     "gloss": "to slip or fail"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "negative nominalizing suffix"
     }
    ],
-   "gloss": "without slipping"
+   "gloss": "without failing or slipping"
   },
   {
    "surface": "வாயின்",
    "parts": [
     {
      "text": "வாய்",
-     "lemma": "வாய்",
-     "gloss": "to happen/be attained"
+     "lemma": "வாய்த்தல்",
+     "gloss": "to happen or be obtained"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "conditional suffix (if)"
+     "gloss": "if"
     }
    ],
-   "gloss": "if attained"
+   "gloss": "if it is obtained"
   },
   {
    "surface": "அது",
@@ -102,15 +102,15 @@
     {
      "text": "ஒப்பு",
      "lemma": "ஒப்பு",
-     "gloss": "to equal"
+     "gloss": "equal"
     },
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "gloss": "thing"
     }
    ],
-   "gloss": "that which equals"
+   "gloss": "a thing that is equal"
   },
   {
    "surface": "இல்",
@@ -118,16 +118,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "there is not"
+   "gloss": "there is none"
   }
  ],
- "literal": "non-negligence towards-everyone always without-slipping if-attained that which-equals is-not",
- "translation": "If one can unfailingly maintain non-negligence towards everyone at all times, there is nothing equal to that.",
- "modern": "எவரிடத்திலும் எக்காலத்திலும் மறதி இல்லாமல் விழிப்புடன் இருக்கும் நிலை ஒருவருக்குக் கைகூடினால், அந்த நிலைக்கு இணையானது வேறு எதுவும் இல்லை.",
- "explanation": "The couplet emphasizes the supreme value of constant vigilance or non-negligence (இழுக்காமை). It states that this quality must be maintained without slipping (வழுக்காமை) at all times and towards all people. The word 'வாய்' here takes the sense of 'to happen' or 'to be attained', fitting the conditional 'வாயின்' (if it is attained). If a person can successfully achieve this unwavering state of mindfulness, there is no other virtue or achievement that can equal it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Unforgetfulness towards anyone at all times, without failing if it is obtained, that equal there is none.",
+ "translation": "If one can practice constant vigilance towards everyone at all times without fail, there is nothing else equal to that virtue.",
+ "modern": "எல்லோரிடத்திலும் எப்போதும் மறதி இல்லாமல் விழிப்புடன் இருக்கும் குணம் ஒருவருக்குத் தவறாமல் அமையுமானால், அதற்கு இணையானது வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the supreme value of constant vigilance or non-forgetfulness (இழுக்காமை). The poet emphasizes that this quality must be maintained towards everyone (யார்மாட்டும்), regardless of their status, and at all times (என்றும்), rather than just during critical moments. The phrase 'வழுக்காமை வாயின்' means that if this state of mindfulness is achieved without any lapse or slip, it becomes an incomparable asset. The couplet concludes that there is absolutely nothing equal (அதுவொப்பது இல்) to such unwavering, universal attentiveness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

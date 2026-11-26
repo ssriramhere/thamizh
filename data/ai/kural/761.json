@@ -6,10 +6,10 @@
     {
      "text": "உறுப்பு",
      "lemma": "உறுப்பு",
-     "gloss": "part"
+     "gloss": "division"
     }
    ],
-   "gloss": "divisions"
+   "gloss": "divisions (of an army)"
   },
   {
    "surface": "அமைந்து",
@@ -17,10 +17,10 @@
     {
      "text": "அமைந்து",
      "lemma": "அமை",
-     "gloss": "having been complete"
+     "gloss": "having been structured"
     }
    ],
-   "gloss": "having been complete"
+   "gloss": "being well-structured"
   },
   {
    "surface": "ஊறு",
@@ -31,23 +31,18 @@
      "gloss": "injury"
     }
    ],
-   "gloss": "injury"
+   "gloss": "injury or harm"
   },
   {
    "surface": "அஞ்சா",
    "parts": [
     {
-     "text": "அஞ்சு",
+     "text": "அஞ்சா",
      "lemma": "அஞ்சு",
-     "gloss": "fear"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not fearing"
     }
    ],
-   "gloss": "not fearing"
+   "gloss": "unfearing"
   },
   {
    "surface": "வெல்படை",
@@ -74,7 +69,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king's"
+   "gloss": "king"
   },
   {
    "surface": "வெறுக்கையுள்",
@@ -87,10 +82,10 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "within"
     }
    ],
-   "gloss": "among wealth"
+   "gloss": "among the wealth"
   },
   {
    "surface": "எல்லாம்",
@@ -109,16 +104,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "foremost"
     }
    ],
    "gloss": "foremost"
   }
  ],
- "literal": "Divisions having been complete, injury not fearing victorious army, king's among wealths all, head.",
- "translation": "A victorious army, complete in its divisions and fearless of wounds, is the foremost of all a king's treasures.",
- "modern": "எல்லா உறுப்புகளும் முழுமையாக அமைந்து, போரில் ஏற்படும் காயங்களுக்குப் பயப்படாத வெற்றி பெறும் படையே ஒரு அரசனின் செல்வங்கள் எல்லாவற்றிலும் முதன்மையானதாகும்.",
- "explanation": "This couplet identifies a strong military as the greatest asset of a ruler. The word 'உறுப்பு' refers to the essential divisions or components that make up a complete and well-rounded military force. 'ஊறு அஞ்சா' highlights the crucial psychological trait of the soldiers, meaning they do not fear physical injury or harm in battle. Because such a 'வெல்படை' (victorious army) protects and secures the state, it is considered the 'தலை' (head or foremost) among all the 'வெறுக்கை' (treasures) a king can possess.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Divisions being well-structured, injury not fearing, victorious army, king's wealth among all, is foremost.",
+ "translation": "An army that is complete in all its divisions and fears no wounds is the foremost among all the treasures of a king.",
+ "modern": "அனைத்து உறுப்புகளும் நிறைந்து, போர்க்களத்துத் துன்பங்களுக்கு அஞ்சாமல் வெற்றிபெறும் படை, ஒரு அரசனுடைய செல்வங்கள் எல்லாவற்றிலும் முதன்மையானதாகும்.",
+ "explanation": "This couplet opens the chapter on the excellence of the army. The word 'uṟuppu' refers to the traditional fourfold divisions of an ancient army: chariots, elephants, cavalry, and infantry. The poet states that a victorious army must not only be structurally complete ('uṟuppamaintu') but also courageous enough to face wounds and death without fear ('ūṟañcā'). Such an army is described as the 'talai' (foremost) among all the 'veṟukkai' (wealth or treasures) that a king can possess.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,19 +9,9 @@
      "gloss": "hide"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I"
+     "text": "ப்பேன்",
+     "lemma": "ப்பேன்",
+     "gloss": "I will (first-person future suffix)"
     }
    ],
    "gloss": "I will hide"
@@ -32,10 +22,10 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "alas"
+     "gloss": "particle of regret or emphasis"
     }
    ],
-   "gloss": "alas"
+   "gloss": "indeed (expressing a futile desire)"
   },
   {
    "surface": "யான்",
@@ -59,10 +49,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "oh!"
+     "gloss": "emphasis particle"
     }
    ],
-   "gloss": "this (oh!)"
+   "gloss": "this indeed"
   },
   {
    "surface": "நோயை",
@@ -70,46 +60,31 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "pain of love"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative marker"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "pain (acc.)"
+   "gloss": "the pain of love"
   },
   {
    "surface": "இறைப்பவர்க்கு",
    "parts": [
     {
-     "text": "இறை",
-     "lemma": "இறை",
-     "gloss": "draw out"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "those who"
+     "text": "இறைப்பவர்",
+     "lemma": "இறைப்பவர்",
+     "gloss": "those who bale out water"
     },
     {
      "text": "க்கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "lemma": "க்கு",
+     "gloss": "dative case marker"
     }
    ],
-   "gloss": "to those who draw out"
+   "gloss": "to those who bale out water"
   },
   {
    "surface": "ஊற்றுநீர்",
@@ -125,20 +100,15 @@
      "gloss": "water"
     }
    ],
-   "gloss": "spring water"
+   "gloss": "spring-water"
   },
   {
    "surface": "போல",
    "parts": [
     {
-     "text": "போல்",
+     "text": "போல",
      "lemma": "போல்",
      "gloss": "like"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive marker"
     }
    ],
    "gloss": "like"
@@ -147,23 +117,18 @@
    "surface": "மிகும்",
    "parts": [
     {
-     "text": "மிகு",
+     "text": "மிகும்",
      "lemma": "மிகு",
-     "gloss": "increase"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual marker"
+     "gloss": "will increase"
     }
    ],
-   "gloss": "it increases"
+   "gloss": "will increase"
   }
  ],
- "literal": "I will hide, alas, I, this pain! To those who draw out, spring water like, it increases.",
- "translation": "I try to hide this pain, but alas! Like a spring that swells the more water is drawn from it, my sorrow only increases.",
- "modern": "நான் இந்தத் துன்பத்தை மறைக்கவே முயல்கிறேன்; ஆனால், நீரை இறைக்க இறைக்கப் பெருகும் ஊற்றுநீரைப் போல, இந்த நோய் நான் மறைக்க முயல முயல அதிகமாகிறது.",
- "explanation": "The speaker is suffering from the pain of separation and tries to conceal it from others. However, the effort to suppress the sorrow only makes it grow stronger. The couplet uses a vivid simile: 'ஊற்றுநீர்' (spring water) which flows more abundantly the more it is drawn out ('இறைப்பவர்க்கு'). The particle 'மன்' expresses the speaker's frustration at the impossibility of hiding the pain. The word 'நோய்' here specifically refers to the lovesickness or grief of separation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "I would indeed hide, I, this pain; to those who bale out, spring-water like, it increases.",
+ "translation": "I would indeed hide this pain of mine, but like a spring that wells up more and more as water is drawn, it only increases.",
+ "modern": "நான் இந்தத் துன்பத்தை மறைக்கவே நினைக்கிறேன்; ஆனால், இறைக்க இறைக்க ஊறும் ஊற்றுநீரைப் போல இது மேலும் மேலும் அதிகமாகிறது.",
+ "explanation": "The heroine describes the overwhelming nature of her love-sickness during separation. She wishes to conceal her suffering from others to preserve her modesty, but her efforts are futile. She compares her pain to a natural spring: just as drawing water from a spring causes more water to gush forth, her attempts to suppress or drain her feelings only make them increase and overflow.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

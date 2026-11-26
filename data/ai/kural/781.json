@@ -21,7 +21,7 @@
    "parts": [
     {
      "text": "அரிய",
-     "lemma": "அருமை",
+     "lemma": "அரிய",
      "gloss": "difficult"
     }
    ],
@@ -32,7 +32,7 @@
    "parts": [
     {
      "text": "யா",
-     "lemma": "யாவை",
+     "lemma": "யா",
      "gloss": "what things"
     }
    ],
@@ -42,9 +42,14 @@
    "surface": "உள",
    "parts": [
     {
-     "text": "உள",
+     "text": "உள்",
      "lemma": "உள்",
      "gloss": "exist"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "they"
     }
    ],
    "gloss": "are there"
@@ -108,7 +113,7 @@
    "parts": [
     {
      "text": "அரிய",
-     "lemma": "அருமை",
+     "lemma": "அரிய",
      "gloss": "difficult"
     }
    ],
@@ -119,7 +124,7 @@
    "parts": [
     {
      "text": "யா",
-     "lemma": "யாவை",
+     "lemma": "யா",
      "gloss": "what things"
     }
    ],
@@ -129,9 +134,14 @@
    "surface": "உள",
    "parts": [
     {
-     "text": "உள",
+     "text": "உள்",
      "lemma": "உள்",
      "gloss": "exist"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "they"
     }
    ],
    "gloss": "are there"
@@ -142,16 +152,16 @@
     {
      "text": "காப்பு",
      "lemma": "காப்பு",
-     "gloss": "protection"
+     "gloss": "defense"
     }
    ],
-   "gloss": "protection"
+   "gloss": "defense"
   }
  ],
- "literal": "For doing, difficult, what things exist than friendship? That like, for action, difficult, what things exist as protection?",
- "translation": "What is more difficult to form than friendship? And what offers a stronger defense for one's actions than that?",
- "modern": "நட்பை விட உருவாக்குவதற்கு கடினமானவை எவை உள்ளன? அதுபோல ஒருவருடைய செயல்களுக்கு பாதுகாப்பாக அமைவதில் நட்பை விடச் சிறந்தவை எவை உள்ளன?",
- "explanation": "This couplet highlights the supreme value of true friendship. The first line asks what is harder to build and maintain than a genuine friendship. The second line parallels this by asking what can provide a better defense or protection for one's endeavors than such a friendship. The word 'காப்பு' emphasizes that a good friend acts as a shield, safeguarding one's actions and life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To do difficult what things are there than friendship? That like, for action difficult what things are there as defense?",
+ "translation": "What is as difficult to acquire as true friendship? And like it, what else can serve as such an impregnable defense for one's endeavors?",
+ "modern": "நட்பை விடச் சம்பாதிப்பதற்கு அரியவை வேறு எவை உள்ளன? அதுபோல, ஒரு செயலைச் செய்யும்போது அதற்குச் சிறந்த பாதுகாப்பாக அமையக்கூடியவை வேறு எவை உள்ளன?",
+ "explanation": "This couplet highlights the supreme value of friendship by posing two rhetorical questions. First, it asks what is harder to acquire than a true friendship, implying that genuine friendship is the rarest and most precious achievement. Second, it asks what can offer a better shield or defense when undertaking any task. A true friend acts as a protective barrier, guiding and supporting one through difficult endeavors, making friendship both the hardest thing to attain and the greatest defense in life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

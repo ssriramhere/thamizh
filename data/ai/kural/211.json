@@ -6,10 +6,11 @@
     {
      "text": "கைம்மாறு",
      "lemma": "கைம்மாறு",
-     "gloss": "return"
+     "gloss": "recompense or return-benefit"
     }
    ],
-   "gloss": "return"
+   "gloss": "recompense or return-benefit",
+   "split_unverified": true
   },
   {
    "surface": "வேண்டா",
@@ -17,15 +18,15 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "desire"
+     "gloss": "require or desire"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not (negative suffix)"
     }
    ],
-   "gloss": "expecting not"
+   "gloss": "does not expect"
   },
   {
    "surface": "கடப்பாடு",
@@ -33,10 +34,10 @@
     {
      "text": "கடப்பாடு",
      "lemma": "கடப்பாடு",
-     "gloss": "duty"
+     "gloss": "duty of benevolence"
     }
    ],
-   "gloss": "duty"
+   "gloss": "duty of benevolence"
   },
   {
    "surface": "மாரிமாட்டு",
@@ -48,11 +49,11 @@
     },
     {
      "text": "மாட்டு",
-     "lemma": "மாட்டு",
-     "gloss": "towards"
+     "lemma": "மாடு",
+     "gloss": "towards or unto"
     }
    ],
-   "gloss": "towards rain"
+   "gloss": "towards the rain"
   },
   {
    "surface": "என்",
@@ -71,15 +72,15 @@
     {
      "text": "ஆற்று",
      "lemma": "ஆற்று",
-     "gloss": "do"
+     "gloss": "do or perform"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "habitual suffix"
     }
    ],
-   "gloss": "will do"
+   "gloss": "does or can return"
   },
   {
    "surface": "கொல்லோ",
@@ -87,15 +88,15 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "particle of wonder"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[wonder]"
+     "gloss": "clitic of emphasis"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "indeed (particle of wonder)"
   },
   {
    "surface": "உலகு",
@@ -106,13 +107,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Return expecting-not duty; towards rain what will-do indeed world?",
- "translation": "True duty expects no return. What can the world ever do in return for the rain?",
- "modern": "கைம்மாறு எதிர்பார்க்காமல் உதவுவதே சிறந்த கடமையாகும். மழைக்கு இந்த உலகம் கைம்மாறாக என்ன செய்துவிட முடியும்?",
- "explanation": "This couplet defines true benevolence as a duty that expects nothing in return. The word 'kaṭappāṭu' signifies a moral obligation to help others selflessly. The poet compares this unconditional giving to the rain, which sustains life without asking for anything back. By asking what the world could possibly give back to the rain, the couplet emphasizes that the highest form of giving is entirely one-sided.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Recompense expects not the duty of benevolence; towards the rain, what does indeed the world return?",
+ "translation": "Benevolent duty expects no return; after all, what does the world give back to the rain clouds that sustain it?",
+ "modern": "பிறருக்குச் செய்யும் உதவி கைம்மாறை எதிர்பார்ப்பது இல்லை; உலகிற்கு மழையைத் தரும் மேகத்திற்கு இவ்வுலகம் என்ன கைம்மாறு செய்ய முடியும்?",
+ "explanation": "This couplet explains the selfless nature of true benevolence. The word 'கடப்பாடு' refers to the duty of helping others, which should be done without expecting any 'கைம்மாறு' (recompense or return-benefit). To illustrate this, the poet asks a rhetorical question: what does the world ('உலகு') ever do in return for the rain ('மாரி')? Just as the rain pours down to sustain life without expecting anything back, a wise person performs acts of benevolence purely as a duty to society.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

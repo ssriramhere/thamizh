@@ -6,15 +6,15 @@
     {
      "text": "பிணி",
      "lemma": "பிணி",
-     "gloss": "disease"
+     "gloss": "sickness"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "dative suffix"
     }
    ],
-   "gloss": "for disease"
+   "gloss": "for sickness"
   },
   {
    "surface": "மருந்து",
@@ -44,7 +44,7 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed (particle)"
+     "gloss": "indeed"
     }
    ],
    "gloss": "indeed"
@@ -60,10 +60,10 @@
     {
      "text": "இழை",
      "lemma": "இழை",
-     "gloss": "jewel"
+     "gloss": "jewels"
     }
    ],
-   "gloss": "beautifully jeweled woman"
+   "gloss": "she who wears beautiful ornaments"
   },
   {
    "surface": "தன்",
@@ -71,10 +71,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "her"
+     "gloss": "her own"
     }
    ],
-   "gloss": "her"
+   "gloss": "her own"
   },
   {
    "surface": "நோய்க்கு",
@@ -85,12 +85,12 @@
      "gloss": "affliction"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "dative suffix"
     }
    ],
-   "gloss": "for affliction"
+   "gloss": "for the affliction"
   },
   {
    "surface": "தானே",
@@ -103,7 +103,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis suffix"
+     "gloss": "emphasis particle"
     }
    ],
    "gloss": "she herself"
@@ -120,10 +120,10 @@
    "gloss": "medicine"
   }
  ],
- "literal": "For disease, medicine (is) other things indeed; beautifully jeweled woman, for her affliction, she herself (is) medicine.",
- "translation": "For ordinary diseases, the cures are found in other things. But for the affliction caused by this beautifully jeweled woman, she herself is the only cure.",
- "modern": "சாதாரண நோய்களுக்கு மருந்துகள் வேறு பொருள்களாக இருக்கும். ஆனால் அழகிய அணிகலன்களை அணிந்த இந்தப் பெண்ணால் ஏற்படும் காம நோய்க்கு, அவளே மருந்தாக இருக்கிறாள்.",
- "explanation": "The couplet contrasts ordinary physical illnesses with the affliction of love. For a normal disease (பிணி), the remedy comes from external sources like herbs or roots. However, for the lovesickness (நோய்) caused by the beautifully adorned woman, she alone is the cure. The repetition of the word 'medicine' (மருந்து) highlights the paradox that the one who causes the suffering is also the only one who can heal it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For sickness, medicine is other things indeed; she who wears beautiful ornaments, for her own affliction, she herself is the medicine.",
+ "translation": "For ordinary diseases, the remedies lie in other external things; but for the affliction caused by this jewel-adorned maiden, she herself is the only cure.",
+ "modern": "நோய்க்கு மருந்துகள் வேறு பொருள்களாக இருக்கின்றன; ஆனால், ஆபரணங்களை அணிந்த இவள் தந்த நோய்க்கு இவளே மருந்தாக இருக்கிறாள்.",
+ "explanation": "In this couplet, the lover contrasts physical illnesses with the sweet affliction of love. For any common physical sickness, the cure is found in external medicines like herbs. However, for the pain of longing caused by this beautifully adorned maiden, no external remedy works. She who created the affliction is herself the only medicine that can heal him through her presence and union.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

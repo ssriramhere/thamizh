@@ -6,7 +6,7 @@
     {
      "text": "பகுத்து",
      "lemma": "பகு",
-     "gloss": "having shared"
+     "gloss": "having divided or shared"
     }
    ],
    "gloss": "having shared"
@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "பல்",
-     "lemma": "பல்",
+     "lemma": "பல",
      "gloss": "many"
     }
    ],
@@ -39,7 +39,7 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "lives"
+     "gloss": "life or living being"
     }
    ],
    "gloss": "lives"
@@ -50,7 +50,7 @@
     {
      "text": "ஓம்புதல்",
      "lemma": "ஓம்பு",
-     "gloss": "protecting"
+     "gloss": "protecting or cherishing"
     }
    ],
    "gloss": "protecting"
@@ -60,22 +60,23 @@
    "parts": [
     {
      "text": "நூலோர்",
-     "lemma": "நூலோர்",
-     "gloss": "authors of texts"
+     "lemma": "நூல்",
+     "gloss": "scholars or authors of scriptures"
     }
    ],
-   "gloss": "authors of texts"
+   "gloss": "scholars"
   },
   {
    "surface": "தொகுத்தவற்றுள்",
    "parts": [
     {
      "text": "தொகுத்தவற்றுள்",
-     "lemma": "தொகுத்தவை",
-     "gloss": "among those compiled"
+     "lemma": "தொகுத்தவற்றுள்",
+     "gloss": "among those things compiled"
     }
    ],
-   "gloss": "among those compiled"
+   "gloss": "among those things compiled",
+   "split_unverified": true
   },
   {
    "surface": "எல்லாம்",
@@ -94,16 +95,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head/chief"
+     "gloss": "foremost or head"
     }
    ],
-   "gloss": "chief"
+   "gloss": "foremost"
   }
  ],
- "literal": "Having shared, having eaten, many lives protecting: (by) authors of texts among those compiled, of all, (it is) the head.",
- "translation": "Sharing one's food and protecting all living beings is the chief among all the virtues compiled by the authors of texts.",
- "modern": "தன்னிடம் உள்ள உணவை மற்றவர்களுடன் பகிர்ந்து உண்டு, பல உயிர்களையும் பாதுகாப்பது, அறநூல்களை எழுதியவர்கள் தொகுத்துக் கூறியுள்ள அறங்கள் எல்லாவற்றிலும் முதன்மையானதாகும்.",
- "explanation": "This couplet defines the highest virtue among all moral teachings. The phrase 'பகுத்து உண்டு' emphasizes sharing one's resources, specifically food, before consuming it. 'பல்லுயிர் ஓம்புதல்' extends this compassion to protecting the lives of all creatures. The poet declares that out of everything compiled by wise authors, this twin act of sharing and protecting life stands as the supreme or 'head' ('தலை') virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sharing and eating, protecting many lives, among all those compiled by scholars, is the foremost.",
+ "translation": "Sharing one's food with others and protecting all living beings is the foremost virtue among all those compiled by scholars in their scriptures.",
+ "modern": "உணவைப் பகிர்ந்து உண்டு, பல உயிர்களையும் காப்பாற்றுவது, அறநூல்களை எழுதியவர்கள் தொகுத்துக் கூறிய அறங்கள் எல்லாவற்றிலும் முதன்மையானதாகும்.",
+ "explanation": "This couplet defines the pinnacle of virtue as the active protection of life. The poet states that sharing what one has with other living beings (paguttuṇṭu) and safeguarding them from harm (ōmputhal) is the greatest moral duty. While scholars of scriptures have compiled and classified numerous virtues, this practice of compassion and non-injury stands above them all. The term 'nūlōr' refers to the wise authors of ethical texts, and 'talai' establishes this specific path of sharing and protecting as the supreme crown of their teachings.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

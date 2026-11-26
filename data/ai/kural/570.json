@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "கல்லார்",
-     "lemma": "கல்",
+     "lemma": "கல்லார்",
      "gloss": "unlearned people"
     }
    ],
@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "பிணிக்கும்",
-     "lemma": "பிணி",
+     "lemma": "பிணிக்கும்",
      "gloss": "will bind"
     }
    ],
-   "gloss": "will bind"
+   "gloss": "which binds or draws together"
   },
   {
    "surface": "கடுங்கோல்",
@@ -28,10 +28,10 @@
     {
      "text": "கடுங்கோல்",
      "lemma": "கடுங்கோல்",
-     "gloss": "cruel scepter"
+     "gloss": "tyrannical rule"
     }
    ],
-   "gloss": "cruel scepter"
+   "gloss": "tyrannical rule (literally, harsh sceptre)"
   },
   {
    "surface": "அது",
@@ -50,28 +50,28 @@
     {
      "text": "அல்லது",
      "lemma": "அல்லது",
-     "gloss": "besides"
+     "gloss": "except"
     }
    ],
-   "gloss": "besides"
+   "gloss": "other than or except"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "நிலக்கு",
    "parts": [
     {
      "text": "நிலக்கு",
-     "lemma": "நிலம்",
+     "lemma": "நிலக்கு",
      "gloss": "to the earth"
     }
    ],
@@ -89,10 +89,10 @@
    "gloss": "burden"
   }
  ],
- "literal": "Unlearned-people will-bind cruel-scepter that besides is-not to-the-earth burden.",
- "translation": "A harsh ruler who binds himself to ignorant counselors is the greatest burden to the earth; there is no other.",
- "modern": "அறிவில்லாதவர்களைத் தன்னிடம் சேர்த்துக்கொள்ளும் கொடுங்கோல் ஆட்சி தவிர, இந்தப் பூமிக்குப் பெரும் சுமை வேறு எதுவும் இல்லை.",
- "explanation": "This couplet identifies the worst possible burden for the earth: a harsh ruler who surrounds himself with ignorant advisors. The word 'கல்லார்' refers to those who lack proper learning and wisdom, while 'கடுங்கோல்' signifies a cruel and unjust administration. By stating that there is no burden other than this, the poet emphasizes that political tyranny combined with foolish counsel is heavier and more destructive than any physical weight the earth must bear.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A harsh sceptre binds the unlearned; other than that, there is no burden to the earth.",
+ "translation": "A tyrannical rule surrounds itself only with the ignorant; other than such a reign, there is no greater burden for the earth to bear.",
+ "modern": "அறிவில்லாதவர்களைத் தன்பால் சேர்த்துக்கொள்ளும் கொடுங்கோல் ஆட்சி; அதைத் தவிர இந்த பூமிக்கு வேறு பெரிய சுமை எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the heavy burden of tyranny on the world. A cruel ruler with a harsh sceptre (கடுங்கோல்) naturally attracts and binds (பிணிக்கும்) only ignorant, unlearned people (கல்லார்) to his administration, as wise people avoid him. The poet asserts that there is no greater burden (பொறை) weighing down the earth (நிலக்கு) than this combination of a tyrant and his foolish counselors.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

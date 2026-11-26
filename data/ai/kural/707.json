@@ -4,9 +4,14 @@
    "surface": "முகத்தின்",
    "parts": [
     {
-     "text": "முகத்தின்",
+     "text": "முகத்து",
      "lemma": "முகம்",
-     "gloss": "than the face"
+     "gloss": "face"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than (comparative suffix)"
     }
    ],
    "gloss": "than the face"
@@ -16,11 +21,11 @@
    "parts": [
     {
      "text": "முதுக்குறைந்தது",
-     "lemma": "முதுக்குறை",
-     "gloss": "that which is wise"
+     "lemma": "முதுக்குறைந்தது",
+     "gloss": "that which is highly intelligent"
     }
    ],
-   "gloss": "that which is wise"
+   "gloss": "that which is highly intelligent"
   },
   {
    "surface": "உண்டோ",
@@ -33,7 +38,7 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "(question)"
+     "gloss": "question marker"
     }
    ],
    "gloss": "is there?"
@@ -42,20 +47,25 @@
    "surface": "உவப்பினும்",
    "parts": [
     {
-     "text": "உவப்பினும்",
-     "lemma": "உவ",
-     "gloss": "even if pleased"
+     "text": "உவப்பு",
+     "lemma": "உவப்பு",
+     "gloss": "joy"
+    },
+    {
+     "text": "இனும்",
+     "lemma": "இனும்",
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if pleased"
+   "gloss": "even if rejoicing"
   },
   {
    "surface": "காயினும்",
    "parts": [
     {
      "text": "காய்",
-     "lemma": "காய்",
-     "gloss": "angry"
+     "lemma": "காய்தல்",
+     "gloss": "to grow angry"
     },
     {
      "text": "இனும்",
@@ -81,22 +91,22 @@
    "parts": [
     {
      "text": "முந்து",
-     "lemma": "முந்து",
-     "gloss": "front"
+     "lemma": "முந்துதல்",
+     "gloss": "to precede"
     },
     {
      "text": "உறும்",
-     "lemma": "உறு",
-     "gloss": "will be"
+     "lemma": "உறுதல்",
+     "gloss": "to happen"
     }
    ],
-   "gloss": "will precede"
+   "gloss": "will express beforehand"
   }
  ],
- "literal": "Than the face, that which is wise is there? Even if pleased, even if angry, it will precede.",
- "translation": "Is there anything more perceptive than the face? Whether the mind feels joy or anger, the face shows it first.",
- "modern": "ஒருவர் மகிழ்ந்தாலும் கோபப்பட்டாலும், அதை அவருக்கு முன்பாகவே அவரது முகம் காட்டிவிடும். எனவே முகத்தை விட அறிவுடையது வேறு எதுவும் இல்லை.",
- "explanation": "This couplet highlights the face as the ultimate mirror of the mind. The word 'mutukkuṟaintatu' refers to mature wisdom or sharp intelligence, attributing a perceptive quality to the face. Because the face instantly reveals inner feelings like joy or anger before the person even speaks, it is considered the most intelligent part of the body.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than the face, a more highly intelligent thing is there? Whether rejoicing or being angry, it itself will express beforehand.",
+ "translation": "Is there anything more highly intelligent than the face? Whether one is pleased or angry, the face itself anticipates and expresses it first.",
+ "modern": "முகத்தை விட அறிவுமிக்கது வேறு ஏதேனும் உண்டா? ஒருவன் மகிழ்ந்தாலும் அல்லது கோபித்தாலும், அவனது முகம் அவனுக்கு முன்பாகவே அதனை வெளிப்படுத்திவிடும்.",
+ "explanation": "This couplet praises the face as the ultimate, instantaneous mirror of the human mind. The poet rhetorically asks if there is anything more intelligent ('முதுக்குறைந்தது') than the face. This is because whether a person feels joy ('உவப்பினும்') or anger ('காயினும்'), the face itself immediately anticipates ('முந்துறும்') and reveals those inner emotions before the person can even speak or consciously act.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

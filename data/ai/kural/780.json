@@ -4,27 +4,12 @@
    "surface": "புரந்தார்",
    "parts": [
     {
-     "text": "புர",
-     "lemma": "புர",
-     "gloss": "to protect"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (epicene plural)"
+     "text": "புரந்தார்",
+     "lemma": "புரத்தல்",
+     "gloss": "those who protected"
     }
    ],
-   "gloss": "protectors"
+   "gloss": "those who protected or cherished"
   },
   {
    "surface": "கண்",
@@ -32,10 +17,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "in the eyes of"
   },
   {
    "surface": "நீர்",
@@ -43,7 +28,7 @@
     {
      "text": "நீர்",
      "lemma": "நீர்",
-     "gloss": "water / tear"
+     "gloss": "water"
     }
    ],
    "gloss": "tears"
@@ -52,14 +37,9 @@
    "surface": "மல்க",
    "parts": [
     {
-     "text": "மல்கு",
+     "text": "மல்க",
      "lemma": "மல்கு",
      "gloss": "to overflow"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
     }
    ],
    "gloss": "to overflow"
@@ -68,22 +48,12 @@
    "surface": "சாகிற்பின்",
    "parts": [
     {
-     "text": "சா",
-     "lemma": "சா",
-     "gloss": "to die"
-    },
-    {
-     "text": "கில்",
-     "lemma": "கில்",
-     "gloss": "to be able"
-    },
-    {
-     "text": "பின்",
-     "lemma": "பின்",
-     "gloss": "if"
+     "text": "சாகிற்பின்",
+     "lemma": "சாதல்",
+     "gloss": "if one dies"
     }
    ],
-   "gloss": "if one can die"
+   "gloss": "if one dies"
   },
   {
    "surface": "சாக்காடு",
@@ -100,38 +70,23 @@
    "surface": "இரந்து",
    "parts": [
     {
-     "text": "இர",
-     "lemma": "இர",
-     "gloss": "to beg"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial suffix"
+     "text": "இரந்து",
+     "lemma": "இரத்தல்",
+     "gloss": "begging"
     }
    ],
-   "gloss": "having begged"
+   "gloss": "by begging"
   },
   {
    "surface": "கோள்",
    "parts": [
     {
      "text": "கோள்",
-     "lemma": "கொள்",
-     "gloss": "taking"
+     "lemma": "கொள்ளுதல்",
+     "gloss": "obtaining"
     }
    ],
-   "gloss": "taking"
+   "gloss": "obtaining"
   },
   {
    "surface": "தக்கது",
@@ -139,27 +94,27 @@
     {
      "text": "தக்கது",
      "lemma": "தகு",
-     "gloss": "that which is fit"
+     "gloss": "worthy thing"
     }
    ],
-   "gloss": "fitness"
+   "gloss": "worthy thing"
   },
   {
    "surface": "உடைத்து",
    "parts": [
     {
      "text": "உடைத்து",
-     "lemma": "உடை",
-     "gloss": "it possesses"
+     "lemma": "உடைத்து",
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it has"
+   "gloss": "possesses"
   }
  ],
- "literal": "Protectors' eyes tears to overflow if can die, death having begged taking fitness it has.",
- "translation": "If a warrior can die in a way that brings tears to his commander's eyes, such a death is worth obtaining even by begging.",
- "modern": "தம்மைப் பாதுகாக்கும் தலைவனின் கண்களில் கண்ணீர் பெருகுமாறு ஒருவரால் போர்க்களத்தில் சாக முடியுமானால், அத்தகைய மரணம் இரந்தாவது பெற்றுக்கொள்ளத் தக்க பெருமை உடையது.",
- "explanation": "This couplet speaks of the ultimate glory a warrior can achieve on the battlefield. The word 'புரந்தார்' refers to the king or commander who protects the soldiers and the land. If a warrior fights so valiantly that his death brings tears of sorrow and pride to his leader's eyes ('கண் நீர் மல்க'), that death is of the highest value. The phrase 'இரந்துகோள் தக்கது உடைத்து' means such a noble end is worth obtaining even by begging for it. It highlights the deep bond between the leader and the warrior, and the supreme honor of a heroic sacrifice.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one dies so that water overflows in the eyes of those who protected them, that death possesses the worthiness of being obtained by begging.",
+ "translation": "If one can die in such a way that tears well up in the eyes of those who cherished them, such a death is worthy of being sought even by begging.",
+ "modern": "தம்மைக் காப்பாற்றிய தலைவர்களின் கண்களில் கண்ணீர் பெருகும்படி ஒருவன் இறக்க முடியுமானால், அந்தச் சாவு இரந்து பெற்றுக் கொள்ளத்தக்க தகுதியை உடையதாகும்.",
+ "explanation": "This couplet extols the ultimate glory of a warrior's death on the battlefield. If a soldier dies fighting so heroically that their commanders or patrons—who nurtured and protected them—shed tears of grief and admiration, that death is the highest honor. The poet suggests that such a meaningful end is so desirable that a warrior should actively beg for it as a boon. The phrase 'புரந்தார்கண் நீர்மல்க' (tears overflowing in the eyes of the protectors) highlights the deep bond of gratitude and duty between the leader and the soldier, making the sacrifice truly noble.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

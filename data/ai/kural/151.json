@@ -5,13 +5,13 @@
    "parts": [
     {
      "text": "அகழ்வார்",
-     "lemma": "அகழ்",
+     "lemma": "அகழ்வார்",
      "gloss": "those who dig"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "those who dig (accusative)"
@@ -20,12 +20,17 @@
    "surface": "தாங்கும்",
    "parts": [
     {
-     "text": "தாங்கும்",
+     "text": "தாங்கு",
      "lemma": "தாங்கு",
-     "gloss": "bears"
+     "gloss": "to bear or support"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "bears"
+   "gloss": "which bears or supports"
   },
   {
    "surface": "நிலம்",
@@ -36,15 +41,20 @@
      "gloss": "earth"
     }
    ],
-   "gloss": "earth"
+   "gloss": "the earth"
   },
   {
    "surface": "போல",
    "parts": [
     {
-     "text": "போல",
+     "text": "போல்",
      "lemma": "போல்",
-     "gloss": "like"
+     "gloss": "to resemble"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix acting as 'like'"
     }
    ],
    "gloss": "like"
@@ -53,34 +63,49 @@
    "surface": "தம்மை",
    "parts": [
     {
-     "text": "தம்மை",
-     "lemma": "தாம்",
-     "gloss": "oneself (accusative)"
+     "text": "தம்",
+     "lemma": "தான்",
+     "gloss": "themselves (oblique)"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "oneself (accusative)"
+   "gloss": "themselves (accusative)"
   },
   {
    "surface": "இகழ்வார்",
    "parts": [
     {
      "text": "இகழ்வார்",
-     "lemma": "இகழ்",
-     "gloss": "those who insult"
+     "lemma": "இகழ்வார்",
+     "gloss": "those who insult or despise"
     }
    ],
-   "gloss": "those who insult"
+   "gloss": "those who insult or despise"
   },
   {
    "surface": "பொறுத்தல்",
    "parts": [
     {
-     "text": "பொறுத்தல்",
+     "text": "பொறு",
      "lemma": "பொறு",
-     "gloss": "bearing"
+     "gloss": "to bear or endure"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "increment"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "bearing"
+   "gloss": "bearing or enduring"
   },
   {
    "surface": "தலை",
@@ -88,16 +113,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "foremost"
+     "gloss": "head or foremost"
     }
    ],
-   "gloss": "foremost"
+   "gloss": "the foremost virtue"
   }
  ],
- "literal": "Those who dig (it) / bears / earth / like / oneself / those who insult / bearing / foremost.",
- "translation": "Just as the earth bears those who dig into it, bearing with those who insult oneself is the foremost virtue.",
- "modern": "தன்னைத் தோண்டுபவர்களையும் தாங்குகின்ற பூமியைப் போல, தன்னை அவமதிப்பவர்களையும் பொறுத்துக்கொள்வதே மிகச் சிறந்த பண்பாகும்.",
- "explanation": "This couplet uses a powerful natural simile to define the highest form of forbearance. The earth does not punish those who dig into it; instead, it continues to support them. In the same way, the greatest virtue is to patiently endure and forgive those who insult or harm us. The word 'தலை' literally means 'head', but is used metaphorically here to mean the foremost or highest quality.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like the earth that bears those who dig it, bearing those who insult them is the foremost virtue.",
+ "translation": "Just as the earth supports those who dig into it, bearing with those who insult us is the foremost virtue.",
+ "modern": "தன்னைத் தோண்டுபவர்களைத் தாங்கி நிற்கும் பூமியைப் போல, தம்மை இகழ்ந்து பேசுபவர்களைப் பொறுத்துக் கொள்வது மிகச் சிறந்த பண்பாகும்.",
+ "explanation": "This couplet introduces the chapter on forbearance using a powerful simile. The earth does not collapse or strike back when people dig into it; instead, it patiently supports them. Similarly, when others insult or despise us, the best response is to bear with them patiently. This quality of patience is hailed here as the foremost of all virtues.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

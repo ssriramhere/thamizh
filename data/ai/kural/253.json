@@ -17,10 +17,10 @@
     {
      "text": "கொண்டார்",
      "lemma": "கொள்",
-     "gloss": "those who hold"
+     "gloss": "those who held"
     }
    ],
-   "gloss": "held-they"
+   "gloss": "those who hold"
   },
   {
    "surface": "நெஞ்சம்",
@@ -61,10 +61,10 @@
     {
      "text": "ஊக்காது",
      "lemma": "ஊக்கு",
-     "gloss": "inclines not"
+     "gloss": "will not harbor"
     }
    ],
-   "gloss": "inclines-not"
+   "gloss": "will not harbor"
   },
   {
    "surface": "ஒன்றன்",
@@ -72,10 +72,10 @@
     {
      "text": "ஒன்றன்",
      "lemma": "ஒன்று",
-     "gloss": "of one"
+     "gloss": "of one creature"
     }
    ],
-   "gloss": "of-one"
+   "gloss": "of another creature"
   },
   {
    "surface": "உடல்",
@@ -108,7 +108,7 @@
      "gloss": "those who ate"
     }
    ],
-   "gloss": "ate-they"
+   "gloss": "those who ate"
   },
   {
    "surface": "மனம்",
@@ -122,10 +122,10 @@
    "gloss": "mind"
   }
  ],
- "literal": "Weapon held-they heart like, goodness inclines-not, of-one body taste ate-they mind.",
- "translation": "Like the heart of those who wield deadly weapons, the mind of those who relish the flesh of another creature will not incline towards goodness.",
- "modern": "ஆயுதம் ஏந்தியவர்களின் நெஞ்சம் எப்படி இரக்கமின்றி இருக்குமோ, அதே போல மற்றொரு உயிரின் உடலைச் சுவைத்து உண்டவர்களின் மனமும் நன்மையை நோக்கிச் செல்லாது.",
- "explanation": "This couplet compares meat-eaters to people who wield weapons. Just as a person holding a weapon to kill lacks compassion, a person who eats the flesh of another creature loses their natural sense of pity. The word 'நன்' (goodness) here refers to compassion or grace, which cannot exist in a mind that enjoys eating another body.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like the heart of those who hold weapons, the mind of those who ate the taste of another's body does not harbor goodness.",
+ "translation": "Like the heart of those who hold weapons of slaughter, the mind of those who feast on the flesh of another creature cannot harbor compassion.",
+ "modern": "ஆயுதம் ஏந்திய கொலைஞர்களின் நெஞ்சத்தைப் போல, பிறிதொரு உயிரின் உடலைச் சுவைத்து உண்டவர்களின் மனம் நன்மையை (அருளை) நாடாது.",
+ "explanation": "This couplet compares the mind of a meat-eater to that of a weapon-wielding killer. The word 'படைகொண்டார்' refers to those who hold weapons of slaughter, whose hearts are hardened to the pain of living beings. The poet states that the mind of someone who relishes the taste of another creature's body ('ஒன்றன் உடல்சுவை உண்டார்') is similarly incapable of harboring true goodness or compassion ('நன்னூக்காது'). Eating flesh requires ignoring the suffering of the animal, which naturally deadens the capacity for mercy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

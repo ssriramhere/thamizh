@@ -4,61 +4,31 @@
    "surface": "இழைத்தது",
    "parts": [
     {
-     "text": "இழை",
-     "lemma": "இழை",
-     "gloss": "to undertake"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "(past tense)"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which"
+     "text": "இழைத்தது",
+     "lemma": "இழைத்தல்",
+     "gloss": "that which was vowed"
     }
    ],
-   "gloss": "what was undertaken"
+   "gloss": "that which was vowed"
   },
   {
    "surface": "இகவாமை",
    "parts": [
     {
-     "text": "இக",
-     "lemma": "இக",
-     "gloss": "to deviate"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "text": "இகவாமை",
+     "lemma": "இகவாமை",
+     "gloss": "without failing"
     }
    ],
-   "gloss": "without deviating"
+   "gloss": "without failing"
   },
   {
    "surface": "சாவாரை",
    "parts": [
     {
      "text": "சா",
-     "lemma": "சா",
-     "gloss": "to die"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "(sandhi)"
+     "lemma": "சாதல்",
+     "gloss": "die"
     },
     {
      "text": "ஆர்",
@@ -68,10 +38,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "(accusative)"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who die (acc.)"
+   "gloss": "those who die"
   },
   {
    "surface": "யாரே",
@@ -93,64 +63,29 @@
    "surface": "பிழைத்தது",
    "parts": [
     {
-     "text": "பிழை",
-     "lemma": "பிழை",
-     "gloss": "to fail"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "(past tense)"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which"
+     "text": "பிழைத்தது",
+     "lemma": "பிழைத்தல்",
+     "gloss": "the failure"
     }
    ],
-   "gloss": "failure"
+   "gloss": "the failure"
   },
   {
    "surface": "ஒறுக்கிற்பவர்",
    "parts": [
     {
-     "text": "ஒறு",
-     "lemma": "ஒறு",
-     "gloss": "to punish"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "கில்",
-     "lemma": "கில்",
-     "gloss": "to be able"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "they"
+     "text": "ஒறுக்கிற்பவர்",
+     "lemma": "ஒறுக்கிற்பவர்",
+     "gloss": "those who can reprove"
     }
    ],
-   "gloss": "those who can punish"
+   "gloss": "those who can reprove"
   }
  ],
- "literal": "What was undertaken without deviating those who die (acc.) who indeed failure those who can punish",
- "translation": "Who can find fault with and punish those who die without deviating from their vow?",
- "modern": "தாம் ஏற்றுக்கொண்ட சபதத்திலிருந்து விலகாமல் போர்க்களத்தில் உயிர்விடுபவர்களை, அவர்கள் தோற்றுவிட்டார்கள் என்று குற்றம் சாட்டித் தண்டிக்கக் கூடியவர் எவரும் இல்லை.",
- "explanation": "This couplet honors the ultimate commitment of warriors on the battlefield. The word 'iḻaittatu' refers to the solemn vow a soldier makes before battle, while 'piḻaittatu' refers to a failure or fault. If they fight to the death without retreating, they have fulfilled their vow perfectly. Therefore, even if the battle is lost, no one can punish or reproach them for failure, because their honorable death is itself a victory of their spirit.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who die without failing what they vowed, who indeed are those who can reprove their failure?",
+ "translation": "Who is there that can reprove as a failure the death of those heroes who die without failing to fulfill what they vowed?",
+ "modern": "தாங்கள் சபதம் செய்ததை தவறாமல் நிறைவேற்றுவதற்காக உயிரை விடுபவர்களை, அவர்கள் அடைந்த தோல்விக்காக யாரால் குற்றம் சொல்ல முடியும்?",
+ "explanation": "This couplet praises the glorious death of warriors who remain true to their vows. When a warrior vows to achieve a heroic deed and dies in the battlefield without retreating or failing his word, his death is a supreme victory of honor. Even if he did not technically achieve the physical objective, no one can mock or reprove him for 'failing,' because he kept his vow unto death. The poet uses the word 'இழைத்தது' to mean 'that which was resolved or vowed' and 'ஒறுக்கிற்பவர்' to mean 'those who can find fault or punish,' highlighting that true honor lies in steadfastness to one's word rather than mere physical survival.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "மடி",
      "lemma": "மடி",
-     "gloss": "laziness"
+     "gloss": "sloth"
     }
    ],
-   "gloss": "laziness"
+   "gloss": "sloth"
   },
   {
    "surface": "மடிக்கொண்டு",
@@ -17,7 +17,7 @@
     {
      "text": "மடி",
      "lemma": "மடி",
-     "gloss": "lap"
+     "gloss": "sloth"
     },
     {
      "text": "கொண்டு",
@@ -25,23 +25,18 @@
      "gloss": "having taken"
     }
    ],
-   "gloss": "having taken into the lap"
+   "gloss": "holding onto sloth"
   },
   {
    "surface": "ஒழுகும்",
    "parts": [
     {
-     "text": "ஒழுகு",
+     "text": "ஒழுகும்",
      "lemma": "ஒழுகு",
-     "gloss": "behave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "who conducts oneself"
     }
    ],
-   "gloss": "behaving"
+   "gloss": "who lives"
   },
   {
    "surface": "பேதை",
@@ -49,7 +44,7 @@
     {
      "text": "பேதை",
      "lemma": "பேதை",
-     "gloss": "fool"
+     "gloss": "foolish person"
     }
    ],
    "gloss": "fool"
@@ -60,10 +55,10 @@
     {
      "text": "பிறந்த",
      "lemma": "பிற",
-     "gloss": "born"
+     "gloss": "was born"
     }
    ],
-   "gloss": "born"
+   "gloss": "in which one was born"
   },
   {
    "surface": "குடி",
@@ -80,14 +75,9 @@
    "surface": "மடியும்",
    "parts": [
     {
-     "text": "மடி",
+     "text": "மடியும்",
      "lemma": "மடி",
-     "gloss": "perish"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will perish"
     }
    ],
    "gloss": "will perish"
@@ -119,16 +109,16 @@
     {
      "text": "முந்து",
      "lemma": "முந்து",
-     "gloss": "prior"
+     "gloss": "earlier"
     }
    ],
-   "gloss": "before"
+   "gloss": "earlier"
   }
  ],
- "literal": "Laziness having taken into the lap behaving fool born family will perish than himself before.",
- "translation": "The family of a fool who lives embracing laziness in his lap will perish even before he does.",
- "modern": "சோம்பலைத் தன் மடியில் கட்டிக்கொண்டு வாழும் அறிவிலி பிறந்த குடியானது, அவன் அழிவதற்கு முன்பாகவே அழிந்துவிடும்.",
- "explanation": "This couplet warns of the destructive power of laziness on one's entire lineage. The poet brilliantly uses the word 'மடி' (maṭi) in three different senses: first as 'laziness', second as 'lap' (embracing laziness in one's lap), and third as 'to perish'. It means that if a foolish person harbors laziness as a cherished possession, his family's reputation and prosperity will die out even before his own physical death.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sloth holding-onto-sloth lives fool born family will-perish than-himself earlier.",
+ "translation": "The family of the fool who lives cherishing laziness will perish even before he himself does.",
+ "modern": "சோம்பலைத் தன் வாழ்க்கையாகக் கொண்டு வாழ்கின்ற அறிவிலி பிறந்த குடியானது, அவனுக்கு முன்பாகவே அழிந்துவிடும்.",
+ "explanation": "This couplet warns against the destructive nature of laziness. It states that if a foolish person conducts his life holding onto sloth as a constant companion, the family or lineage into which he was born will be ruined first. The ruin of his household and family status will happen even before his own personal physical or moral demise. The repetition of the word 'madi' (sloth/ruin) emphasizes how laziness directly leads to destruction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

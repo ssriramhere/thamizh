@@ -4,14 +4,9 @@
    "surface": "சொல்லுதல்",
    "parts": [
     {
-     "text": "சொல்",
-     "lemma": "சொல்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உதல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "சொல்லுதல்",
+     "lemma": "சொல்லுதல்",
+     "gloss": "saying"
     }
    ],
    "gloss": "saying"
@@ -27,12 +22,12 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "even"
     }
    ],
    "gloss": "to anyone"
@@ -42,22 +37,22 @@
    "parts": [
     {
      "text": "எளிய",
-     "lemma": "எளிமை",
+     "lemma": "எளிய",
      "gloss": "easy things"
     }
    ],
-   "gloss": "easy things"
+   "gloss": "easy"
   },
   {
    "surface": "அரிய",
    "parts": [
     {
      "text": "அரிய",
-     "lemma": "அருமை",
+     "lemma": "அரிய",
      "gloss": "difficult things"
     }
    ],
-   "gloss": "difficult things"
+   "gloss": "difficult"
   },
   {
    "surface": "ஆம்",
@@ -65,10 +60,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "they are"
+     "gloss": "are"
     }
    ],
-   "gloss": "they are"
+   "gloss": "are"
   },
   {
    "surface": "சொல்லிய",
@@ -96,23 +91,18 @@
    "surface": "செயல்",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "செயல்",
+     "lemma": "செயல்",
+     "gloss": "doing"
     }
    ],
    "gloss": "doing"
   }
  ],
- "literal": "Saying to anyone easy things; difficult things they are spoken manner doing.",
- "translation": "Telling others how to act is easy for anyone. Doing the deed exactly as spoken is difficult.",
- "modern": "ஒரு செயலை இப்படிச் செய்ய வேண்டும் என்று சொல்வது யாருக்கும் எளிதானது. ஆனால் சொல்லியபடியே அந்தச் செயலைச் செய்து முடிப்பது மிகவும் கடினமானது.",
- "explanation": "This couplet contrasts the ease of giving advice with the difficulty of execution. The word 'collutal' (saying) is paired with 'eḷiya' (easy things), showing that anyone can easily talk about how a task should be done. However, 'ceyal' (doing) exactly in the 'vaṇṇam' (manner) it was spoken is described as 'ariya' (difficult things). True firmness in action requires matching one's deeds to one's words.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Saying is easy for anyone; doing in the manner spoken is difficult.",
+ "translation": "To speak of an action is easy for anyone; but to perform it exactly as spoken is difficult.",
+ "modern": "சொல்லுவது எல்லாருக்கும் எளிதானது; ஆனால் சொல்லியபடியே அதைச் செய்து முடிப்பது கடினமானது.",
+ "explanation": "This couplet highlights the contrast between speech and action, which is central to the power of action (வினைத்திட்பம்). Anyone can easily boast or lay out plans in words. However, translating those words into actual deeds and executing them exactly as promised is a rare and difficult feat. The poet uses the simple contrast between 'எளிய' (easy) and 'அரிய' (difficult) to emphasize that true strength lies in execution, not in mere talk.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

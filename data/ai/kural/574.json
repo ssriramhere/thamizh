@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "உள",
-     "lemma": "உள்",
-     "gloss": "exist"
+     "lemma": "உள",
+     "gloss": "are present"
     }
    ],
-   "gloss": "exist"
+   "gloss": "are present"
   },
   {
    "surface": "போல்",
@@ -20,7 +20,7 @@
      "gloss": "like"
     }
    ],
-   "gloss": "like"
+   "gloss": "as if / appearing like"
   },
   {
    "surface": "முகத்து",
@@ -28,10 +28,10 @@
     {
      "text": "முகத்து",
      "lemma": "முகம்",
-     "gloss": "in the face"
+     "gloss": "on the face"
     }
    ],
-   "gloss": "in the face"
+   "gloss": "on the face"
   },
   {
    "surface": "எவன்",
@@ -42,7 +42,7 @@
      "gloss": "what"
     }
    ],
-   "gloss": "what"
+   "gloss": "what use"
   },
   {
    "surface": "செய்யும்",
@@ -53,40 +53,55 @@
      "gloss": "will do"
     }
    ],
-   "gloss": "will do"
+   "gloss": "will do / will yield"
   },
   {
    "surface": "அளவினால்",
    "parts": [
     {
-     "text": "அளவினால்",
+     "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "by the measure"
+     "gloss": "measure"
+    },
+    {
+     "text": "இனால்",
+     "lemma": "இன்",
+     "gloss": "by"
     }
    ],
-   "gloss": "by the measure"
+   "gloss": "merely by their physical presence"
   },
   {
    "surface": "கண்ணோட்டம்",
    "parts": [
     {
-     "text": "கண்ணோட்டம்",
-     "lemma": "கண்ணோட்டம்",
-     "gloss": "kindliness"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஓட்டம்",
+     "lemma": "ஓட்டம்",
+     "gloss": "run / flow"
     }
    ],
-   "gloss": "kindliness"
+   "gloss": "benignity / kind consideration"
   },
   {
    "surface": "இல்லாத",
    "parts": [
     {
-     "text": "இல்லாத",
+     "text": "இல்",
      "lemma": "இல்",
+     "gloss": "not"
+    },
+    {
+     "text": "ஆத",
+     "lemma": "ஆத",
      "gloss": "without"
     }
    ],
-   "gloss": "without"
+   "gloss": "lacking / without"
   },
   {
    "surface": "கண்",
@@ -97,13 +112,13 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "eye"
+   "gloss": "eyes"
   }
  ],
- "literal": "Existing like in the face what will do by the measure kindliness lacking eye",
- "translation": "What good are eyes that merely seem to exist on the face, if they lack the proper measure of kindliness?",
- "modern": "முகத்தில் இருப்பது போலத் தோன்றும் கண்கள், தகுந்த கண்ணோட்டம் இல்லாவிட்டால் என்ன பயனைத் தரும்?",
- "explanation": "The couplet questions the very purpose of eyes if they do not express compassion. Eyes that lack kindliness are described as merely appearing to exist on the face. Without the essential quality of empathy, they are reduced to mere physical features that serve no true human purpose.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Appearing as if they are present on the face, what use will they do merely by their physical measure, the eyes that are without benignity?",
+ "translation": "What is the use of eyes that merely appear to exist on the face, if they lack the essential quality of benignity and kind consideration?",
+ "modern": "முகத்தில் இருப்பது போலத் தோன்றினாலும், இரக்கமும் கண்ணோட்டமும் இல்லாத கண்கள் ஒருவருக்கு இருப்பதால் என்ன பயன் விளையும்?",
+ "explanation": "This couplet explores the true purpose of the eyes. The author argues that eyes are not defined merely by their physical presence on a person's face. If they lack 'kaṇṇōṭṭam'—which refers to a benign, compassionate, and kindly outlook towards others—they are completely useless. They exist only in appearance and fail to perform their true human function.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

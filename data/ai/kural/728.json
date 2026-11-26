@@ -17,10 +17,10 @@
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "those things"
+     "gloss": "subjects of learning"
     }
    ],
-   "gloss": "those things"
+   "gloss": "subjects of learning"
   },
   {
    "surface": "கற்றும்",
@@ -33,17 +33,17 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even having learned"
+   "gloss": "even though having learned"
   },
   {
    "surface": "பயம்",
    "parts": [
     {
      "text": "பயம்",
-     "lemma": "பயம்",
+     "lemma": "பயன்",
      "gloss": "benefit"
     }
    ],
@@ -54,8 +54,8 @@
    "parts": [
     {
      "text": "இலர்",
-     "lemma": "இல்",
-     "gloss": "they are without"
+     "lemma": "இலர்",
+     "gloss": "they do not have"
     },
     {
      "text": "ஏ",
@@ -63,7 +63,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "they are without indeed"
+   "gloss": "they indeed do not have"
   },
   {
    "surface": "நல்",
@@ -109,27 +109,27 @@
     {
      "text": "செல",
      "lemma": "செல்",
-     "gloss": "to reach"
+     "gloss": "to penetrate"
     }
    ],
-   "gloss": "to reach (the audience)"
+   "gloss": "so as to be received"
   },
   {
    "surface": "சொல்லாதார்",
    "parts": [
     {
      "text": "சொல்லாதார்",
-     "lemma": "சொல்",
+     "lemma": "சொல்லாதார்",
      "gloss": "those who do not speak"
     }
    ],
    "gloss": "those who do not speak"
   }
  ],
- "literal": "many - those things - even having learned - benefit - they are without indeed - good - assembly-in - well - to reach - those who do not speak",
- "translation": "Those who cannot speak well and convincingly in a good assembly derive no benefit at all, even if they have learned many things.",
- "modern": "நல்ல அறிஞர்கள் நிறைந்த அவையில், அவர்கள் மனம் ஏற்குமாறு நன்றாகப் பேச முடியாதவர்கள், பல நூல்களைக் கற்றிருந்தாலும் அதனால் ஒரு பயனும் இல்லாதவர்களே ஆவர்.",
- "explanation": "This couplet highlights that mere accumulation of knowledge is useless if one cannot communicate it effectively. The word 'அவை' appears twice with different meanings: first as 'those things' (referring to subjects of study) and then as 'assembly'. The phrase 'நன்கு செல' (to go well) vividly captures the idea of words reaching and penetrating the minds of the audience. Even if a person has learned many subjects, their learning yields no benefit ('பயமிலரே') if they lack the courage and skill to articulate it clearly in a gathering of good scholars.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Many subjects even though having learned, benefit they indeed do not have, in a good assembly, well so as to be received, those who do not speak.",
+ "translation": "Even though they have learned many subjects, those who cannot speak in a way that penetrates the minds of a good assembly are of no use at all.",
+ "modern": "நல்ல சபையிலே கேட்பவர் மனதில் பதியும்படி நன்றாக எடுத்துச் சொல்லத் தெரியாதவர்கள், பல நூல்களைக் கற்றிருந்தாலும் அதனால் ஒரு பயனும் இல்லாதவர்களே ஆவர்.",
+ "explanation": "This couplet emphasizes that the ultimate test of learning is the ability to communicate it effectively to others. The word 'பல்லவை' refers to many diverse subjects of study, and 'செல' means to penetrate or go deep into the minds of the listeners. Those who fail to speak clearly and convincingly before a good assembly ('நல்லவையுள்') render all their extensive education useless ('பயமிலரே'). True knowledge must be accompanied by the courage and skill to articulate it, otherwise, it remains locked away and serves no purpose.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

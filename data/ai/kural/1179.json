@@ -5,35 +5,35 @@
    "parts": [
     {
      "text": "வாரா",
-     "lemma": "வா",
+     "lemma": "வருதல்",
      "gloss": "not coming"
     },
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "when"
     }
    ],
-   "gloss": "if he comes not"
+   "gloss": "when he does not come"
   },
   {
    "surface": "துஞ்சா",
    "parts": [
     {
      "text": "துஞ்சா",
-     "lemma": "துஞ்சு",
-     "gloss": "sleep not"
+     "lemma": "துஞ்சுதல்",
+     "gloss": "do not sleep"
     }
    ],
-   "gloss": "they sleep not"
+   "gloss": "do not sleep"
   },
   {
    "surface": "வரின்",
    "parts": [
     {
      "text": "வரின்",
-     "lemma": "வா",
-     "gloss": "if comes"
+     "lemma": "வருதல்",
+     "gloss": "if he comes"
     }
    ],
    "gloss": "if he comes"
@@ -43,27 +43,27 @@
    "parts": [
     {
      "text": "துஞ்சா",
-     "lemma": "துஞ்சு",
-     "gloss": "sleep not"
+     "lemma": "துஞ்சுதல்",
+     "gloss": "do not sleep"
     }
    ],
-   "gloss": "they sleep not"
+   "gloss": "do not sleep"
   },
   {
    "surface": "ஆயிடை",
    "parts": [
     {
      "text": "ஆ",
-     "lemma": "அ",
+     "lemma": "ஆ",
      "gloss": "that"
     },
     {
      "text": "இடை",
      "lemma": "இடை",
-     "gloss": "state"
+     "gloss": "interval"
     }
    ],
-   "gloss": "in either state"
+   "gloss": "in both states"
   },
   {
    "surface": "ஆர்",
@@ -71,7 +71,7 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "intense"
+     "gloss": "abundant"
     }
    ],
    "gloss": "intense"
@@ -82,17 +82,17 @@
     {
      "text": "அஞர்",
      "lemma": "அஞர்",
-     "gloss": "sorrow"
+     "gloss": "grief"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "grief"
   },
   {
    "surface": "உற்றன",
    "parts": [
     {
      "text": "உற்றன",
-     "lemma": "உறு",
+     "lemma": "உறுதல்",
      "gloss": "experienced"
     }
    ],
@@ -104,16 +104,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "the eyes"
   }
  ],
- "literal": "If comes not, sleep not; if comes, sleep not; in that state, intense sorrow have experienced eyes.",
- "translation": "If he does not come, my eyes do not sleep; if he comes, they still do not sleep. In either case, my eyes endure intense sorrow.",
- "modern": "அவர் வராதபோதும் என் கண்கள் தூங்குவதில்லை; அவர் வந்தாலும் தூங்குவதில்லை. ஆக இந்த இரண்டு நிலைகளிலும் என் கண்கள் தாங்க முடியாத துன்பத்தையே அடைகின்றன.",
- "explanation": "The speaker laments the restless state of her eyes, which are caught in a paradox of longing and love. If her lover is away, her eyes cannot sleep because they are anxiously waiting and weeping for his return. If he is present, they still cannot sleep because they are too captivated by him and fear losing sight of him even for a moment. Thus, in both situations, her eyes are condemned to experience intense, inescapable sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When he does not come, they do not sleep; if he comes, they do not sleep; in both states, intense grief have experienced the eyes.",
+ "translation": "When my lover does not come, my eyes do not sleep; even when he does come, they do not sleep. In either state, they suffer endless grief.",
+ "modern": "காதலர் வராதபோது கண்கள் தூங்குவதில்லை; அவர் வந்தபோதும் அவை தூங்குவதில்லை; இவ்விரண்டு நிலைகளிலும் என் கண்கள் மிகுந்த துன்பத்தையே அடைகின்றன.",
+ "explanation": "In this couplet, the heroine laments the constant distress of her eyes. When her lover is away, her eyes cannot sleep because of the painful longing of separation. When he returns, they still do not sleep because they fear losing sight of him even for a moment, or because they are too busy gazing at him. Thus, whether he is absent or present, her eyes find no rest and suffer continuous affliction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

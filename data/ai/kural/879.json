@@ -5,16 +5,16 @@
    "parts": [
     {
      "text": "இளைது",
-     "lemma": "இளமை",
-     "gloss": "tender"
+     "lemma": "இளைது",
+     "gloss": "tender thing"
     },
     {
      "text": "ஆக",
-     "lemma": "ஆ",
-     "gloss": "as"
+     "lemma": "ஆகு",
+     "gloss": "while being"
     }
    ],
-   "gloss": "while tender"
+   "gloss": "while it is tender"
   },
   {
    "surface": "முள்மரம்",
@@ -30,20 +30,15 @@
      "gloss": "tree"
     }
    ],
-   "gloss": "thorn-tree"
+   "gloss": "thorny tree"
   },
   {
    "surface": "கொல்க",
    "parts": [
     {
-     "text": "கொல்",
+     "text": "கொல்க",
      "lemma": "கொல்",
-     "gloss": "destroy"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "let (optative)"
+     "gloss": "let one destroy"
     }
    ],
    "gloss": "let one destroy"
@@ -52,17 +47,12 @@
    "surface": "களையுநர்",
    "parts": [
     {
-     "text": "களை",
-     "lemma": "களை",
-     "gloss": "weed out"
-    },
-    {
-     "text": "உநர்",
-     "lemma": "உநர்",
-     "gloss": "those who"
+     "text": "களையுநர்",
+     "lemma": "களையுநர்",
+     "gloss": "those who remove"
     }
    ],
-   "gloss": "of those who weed out"
+   "gloss": "those who remove"
   },
   {
    "surface": "கை",
@@ -79,30 +69,20 @@
    "surface": "கொல்லும்",
    "parts": [
     {
-     "text": "கொல்",
+     "text": "கொல்லும்",
      "lemma": "கொல்",
-     "gloss": "hurt"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will hurt"
     }
    ],
-   "gloss": "it will hurt"
+   "gloss": "will hurt"
   },
   {
    "surface": "காழ்த்த",
    "parts": [
     {
-     "text": "காழ்",
+     "text": "காழ்த்த",
      "lemma": "காழ்",
-     "gloss": "harden"
-    },
-    {
-     "text": "த்த",
-     "lemma": "அ",
-     "gloss": "which did"
+     "gloss": "hardened"
     }
    ],
    "gloss": "hardened"
@@ -119,10 +99,10 @@
    "gloss": "at the time"
   }
  ],
- "literal": "While tender thorn-tree let one destroy; of those who weed out hand it will hurt hardened at the time.",
- "translation": "Cut down a thorny tree while it is still young and tender. If you wait until its trunk has hardened, it will injure the hands of those who try to chop it.",
- "modern": "முள்மரத்தை அது இளமையாக இருக்கும்போதே வெட்டிவிட வேண்டும். அது முதிர்ந்து வயிரம் பாய்ந்த பிறகு வெட்ட நினைத்தால், வெட்டுபவரின் கையையே அது காயப்படுத்தும்.",
- "explanation": "This couplet uses the vivid metaphor of a thorny tree to explain how to handle enemies. A thorny sapling is easy to uproot, but a mature one will injure the person trying to cut it down. Similarly, a foe's power should be dismantled while it is still weak and developing. If left to grow strong and entrenched, the enemy will cause great harm to anyone who attempts to defeat them later.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "While it is tender, a thorny tree, let one destroy; those who remove [it], [their] hand it will hurt, when [it has] hardened.",
+ "translation": "Cut down a thorny tree while it is still young; if left to grow thick and mature, it will wound the hands of those who try to fell it.",
+ "modern": "முள்மரத்தை அது இளமையாக இருக்கும்போதே வெட்டி அழிக்க வேண்டும்; அது முதிர்ந்து வளர்ந்துவிட்டால், அதனை வெட்டி அழிப்பவர்களின் கையை அது காயப்படுத்தும்.",
+ "explanation": "This couplet uses the metaphor of a thorny tree to explain how to handle growing threats or enemies. When a thorny plant is young and tender, it can be easily removed without causing any harm. However, if it is allowed to grow, mature, and harden, its sharp thorns will injure the hands of those who try to clear it. Similarly, hostile forces or problems should be resolved in their early stages before they become powerful enough to cause damage when challenged.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

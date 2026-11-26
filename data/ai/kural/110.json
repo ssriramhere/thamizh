@@ -4,12 +4,22 @@
    "surface": "எந்நன்றி",
    "parts": [
     {
-     "text": "எந்நன்றி",
-     "lemma": "எந்நன்றி",
-     "gloss": "whatever good deed"
+     "text": "எ",
+     "lemma": "எ",
+     "gloss": "which"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "நன்றி",
+     "lemma": "நன்றி",
+     "gloss": "virtue"
     }
    ],
-   "gloss": "whatever good deed"
+   "gloss": "any virtue"
   },
   {
    "surface": "கொன்றார்க்கும்",
@@ -43,16 +53,16 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உண்டு",
+     "lemma": "உள்",
      "gloss": "there is"
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆதல்",
-     "gloss": "it becomes"
+     "lemma": "ஆகு",
+     "gloss": "will be"
     }
    ],
-   "gloss": "there is"
+   "gloss": "there will be"
   },
   {
    "surface": "உய்வு",
@@ -70,22 +80,32 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is none"
   },
   {
    "surface": "செய்ந்நன்றி",
    "parts": [
     {
-     "text": "செய்ந்நன்றி",
-     "lemma": "செய்ந்நன்றி",
-     "gloss": "done good deed"
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "do"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "நன்றி",
+     "lemma": "நன்றி",
+     "gloss": "benefit"
     }
    ],
-   "gloss": "done good deed"
+   "gloss": "gratitude for a benefit done"
   },
   {
    "surface": "கொன்ற",
@@ -102,18 +122,23 @@
    "surface": "மகற்கு",
    "parts": [
     {
-     "text": "மகற்கு",
+     "text": "மகன்",
      "lemma": "மகன்",
-     "gloss": "to the person"
+     "gloss": "man"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the person"
+   "gloss": "to the man"
   }
  ],
- "literal": "Whatever good deed / to those who destroyed even / escape / there is / escape / is not / done good deed / who destroyed / to the person",
- "translation": "There is redemption for those who have destroyed any other virtue, but there is no redemption for one who destroys the memory of a good deed done to them.",
- "modern": "எந்த அறத்தை அழித்தவர்க்கும் தப்பிப் பிழைக்க ஒரு வழி இருக்கும். ஆனால், ஒருவர் செய்த உதவியை மறந்து அழித்தவனுக்குத் தப்பிப் பிழைக்க வழியே இல்லை.",
- "explanation": "The couplet contrasts the destruction of general virtues with the destruction of gratitude. The word 'கொன்ற' (killed/destroyed) is used metaphorically to mean ruining or completely forgetting a virtue or a good deed. While a person might find a way to redeem themselves after committing other wrongs, the text asserts that there is absolutely no salvation for someone who is ungrateful for the help they have received.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For those who destroyed any virtue, escape there will be; escape there is not for the man who destroyed a benefit done.",
+ "translation": "There may be salvation for those who have destroyed any other virtue; but there is no salvation for the person who has destroyed gratitude by forgetting a benefit done.",
+ "modern": "எந்த அறத்தை அழித்தவர்க்கும் தப்பிப் பிழைக்க வழி உண்டு; ஆனால், ஒருவர் செய்த உதவியை மறந்து அழித்த மனிதனுக்குத் தப்பிப் பிழைக்க வழியே இல்லை.",
+ "explanation": "This couplet emphasizes the supreme gravity of ingratitude. The author states that even for those who commit the worst sins or destroy other great virtues, there is still a way to redeem themselves or escape ruin. However, for the person who destroys a benefit done to them, there is absolutely no way of escape or redemption. The word 'கொன்ற' (literally 'killed' or 'destroyed') is used powerfully here to mean utterly wiping out or forgetting a good deed, showing that ingratitude is viewed as a fatal moral crime.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

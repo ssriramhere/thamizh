@@ -4,61 +4,41 @@
    "surface": "இமைப்பின்",
    "parts": [
     {
-     "text": "இமை",
-     "lemma": "இமை",
-     "gloss": "blink"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[sandhi]"
+     "text": "இமைப்பு",
+     "lemma": "இமைப்பு",
+     "gloss": "blinking"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if [I] blink"
+   "gloss": "if I blink"
   },
   {
    "surface": "கரப்பாக்கு",
    "parts": [
     {
-     "text": "கர",
-     "lemma": "கர",
-     "gloss": "hide"
+     "text": "கரப்பு",
+     "lemma": "கரப்பு",
+     "gloss": "hiding"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "பாக்கு",
-     "lemma": "பாக்கு",
-     "gloss": "that [he] will"
+     "text": "ஆக்கு",
+     "lemma": "ஆக்கு",
+     "gloss": "becoming"
     }
    ],
-   "gloss": "that he will hide"
+   "gloss": "that he will be hidden"
   },
   {
    "surface": "அறிவல்",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறிவல்",
      "lemma": "அறி",
-     "gloss": "know"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "[future]"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "I"
+     "gloss": "I know"
     }
    ],
    "gloss": "I know"
@@ -69,20 +49,25 @@
     {
      "text": "அனைத்து",
      "lemma": "அனைத்து",
-     "gloss": "that"
+     "gloss": "that much"
     },
     {
-     "text": "இற்கு",
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "கு",
      "lemma": "கு",
-     "gloss": "for"
+     "gloss": "for (dative suffix)"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "[emphasis]"
+     "gloss": "indeed (emphatic suffix)"
     }
    ],
-   "gloss": "for just that"
+   "gloss": "just for that very reason"
   },
   {
    "surface": "ஏதிலர்",
@@ -90,10 +75,10 @@
     {
      "text": "ஏதிலர்",
      "lemma": "ஏதிலர்",
-     "gloss": "stranger"
+     "gloss": "strangers / unsympathetic people"
     }
    ],
-   "gloss": "stranger"
+   "gloss": "strangers / unsympathetic people"
   },
   {
    "surface": "என்னும்",
@@ -106,23 +91,18 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "[habitual]"
+     "gloss": "that (relative participle suffix)"
     }
    ],
-   "gloss": "says"
+   "gloss": "that says / calls"
   },
   {
    "surface": "இவ்",
    "parts": [
     {
-     "text": "இ",
+     "text": "இவ்",
      "lemma": "இ",
      "gloss": "this"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "[sandhi]"
     }
    ],
    "gloss": "this"
@@ -133,16 +113,16 @@
     {
      "text": "ஊர்",
      "lemma": "ஊர்",
-     "gloss": "town"
+     "gloss": "town / villagers"
     }
    ],
    "gloss": "town"
   }
  ],
- "literal": "If blink, that he will hide I know; for just that, stranger says this town.",
- "translation": "I know that if I blink, he will be hidden from my sight. For just that reason, this town calls him a stranger who lacks love.",
- "modern": "நான் கண்களை இமைத்தால் அவர் மறைந்துவிடுவார் என்று எனக்குத் தெரியும். அதனால் நான் இமைக்காமல் இருக்கிறேன்; அதற்காகவே இந்த ஊர் மக்கள் அவரை அன்பில்லாதவர் என்று பழித்துச் சொல்கிறார்கள்.",
- "explanation": "The heroine explains why she never closes her eyes. She knows that if she blinks, her lover, who resides in her eyes, will be hidden from her sight. Because she keeps her eyes open constantly, they show signs of distress, leading the townspeople to mistakenly think he has abandoned her. The word 'ஏதிலர்' literally means strangers, but here it takes the specific sense of unloving or cruel people. Thus, the town wrongly calls him unloving, simply because she refuses to blink.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [I] blink, [his] hiding I know; just for that, 'stranger' says this town.",
+ "translation": "I know that if I blink, my lover who lives in my eyes will be hidden from me; yet, just because I do not blink to avoid this, the people of this town call him an unkind stranger.",
+ "modern": "நான் கண் இமைத்தால் என் கண்ணுக்குள் இருக்கும் காதலர் மறைந்துவிடுவார் என்பதை நான் அறிவேன்; அவ்வாறு இமைக்காமல் இருப்பதைக் கண்டு, இந்த ஊர் மக்கள் அவரை அன்பில்லாதவர் என்று தூற்றுகின்றனர்.",
+ "explanation": "The heroine explains that her lover is always present inside her eyes. She avoids blinking because she knows that even a momentary blink would hide him from her sight. However, the ignorant villagers do not understand this sweet secret; seeing her unblinking, tearful, or strained eyes, they gossip and call her lover an unsympathetic stranger who does not care for her. The word 'karappākku' refers to the hiding of her lover, and 'ētilar' highlights the town's lack of understanding, as they mistake her loving vigilance for distress caused by an uncaring partner.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

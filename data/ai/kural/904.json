@@ -11,18 +11,23 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "wife (acc.)"
+   "gloss": "the wife (accusative)"
   },
   {
    "surface": "அஞ்சும்",
    "parts": [
     {
-     "text": "அஞ்சும்",
+     "text": "அஞ்சு",
      "lemma": "அஞ்சு",
-     "gloss": "who fears"
+     "gloss": "to fear"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "who fears"
@@ -33,10 +38,10 @@
     {
      "text": "மறுமை",
      "lemma": "மறுமை",
-     "gloss": "next world"
+     "gloss": "next life"
     }
    ],
-   "gloss": "next world"
+   "gloss": "next life"
   },
   {
    "surface": "இலாளன்",
@@ -44,15 +49,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "ஆளன்",
      "lemma": "ஆளன்",
-     "gloss": "man"
+     "gloss": "he who possesses"
     }
    ],
-   "gloss": "man without"
+   "gloss": "he who does not possess"
   },
   {
    "surface": "வினை",
@@ -71,7 +76,7 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "manliness"
+     "gloss": "capability"
     }
    ],
    "gloss": "capability"
@@ -91,9 +96,14 @@
    "surface": "எய்தல்",
    "parts": [
     {
-     "text": "எய்தல்",
+     "text": "எய்து",
      "lemma": "எய்து",
-     "gloss": "attaining"
+     "gloss": "to attain"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "attaining"
@@ -103,17 +113,17 @@
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
+     "lemma": "இன்று",
      "gloss": "is not"
     }
    ],
    "gloss": "is not"
   }
  ],
- "literal": "Wife (acc.) who fears, next-world man-without, action capability greatness attaining is-not.",
- "translation": "The man who fears his wife lacks the rewards of the next world, and his capability in action will never attain greatness.",
- "modern": "தன் மனைவிக்கு அஞ்சுகின்ற, மறுமைப் பயன் இல்லாதவனுடைய செயல் திறம் எந்தப் பெருமையையும் அடையாது.",
- "explanation": "This couplet describes the consequences of a man fearing his wife. The phrase 'மறுமை இலாளன்' (man without a next world) implies that by yielding to fear, he fails to perform righteous duties that secure future rewards. Consequently, his 'வினை ஆண்மை' (manliness or capability in action) becomes fruitless. Even if he undertakes great tasks, his efforts will lack 'வீறு' (splendor or greatness) because his fundamental lack of courage undermines his achievements.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who fears his wife, who does not possess the next life, his action-capability attaining greatness is not.",
+ "translation": "He who fears his wife and has no hope of the next life will never attain greatness in the strength of his actions.",
+ "modern": "மனைவிக்கு அஞ்சுகின்ற, மறுமைப் பயன் இல்லாதவனுடைய, செயல் செய்யும் ஆற்றலின் சிறப்பானது ஒருபோதும் விளங்குவதில்லை.",
+ "explanation": "This couplet highlights the consequences of a man being subservient to his wife. The poet states that a man who lives in fear of his wife is like someone who has no share in the virtues of the next life. Such a person's capability and strength in executing actions will never achieve greatness or distinction. The key words 'வினையாண்மை' (strength of action) and 'வீறு' (greatness) emphasize that fear of one's wife paralyzes a man's capacity for noble and effective deeds.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

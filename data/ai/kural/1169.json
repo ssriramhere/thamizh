@@ -4,20 +4,30 @@
    "surface": "கொடியார்",
    "parts": [
     {
-     "text": "கொடியார்",
-     "lemma": "கொடியார்",
-     "gloss": "cruel person"
+     "text": "கொடி",
+     "lemma": "கொடு",
+     "gloss": "cruel"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "he (honorific)"
     }
    ],
-   "gloss": "cruel person"
+   "gloss": "the cruel one (the lover)"
   },
   {
    "surface": "கொடுமையின்",
    "parts": [
     {
-     "text": "கொடுமையின்",
+     "text": "கொடுமை",
      "lemma": "கொடுமை",
-     "gloss": "than the cruelty"
+     "gloss": "cruelty"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than (comparative)"
     }
    ],
    "gloss": "than the cruelty"
@@ -38,11 +48,11 @@
    "parts": [
     {
      "text": "கொடிய",
-     "lemma": "கொடிய",
+     "lemma": "கொடுமை",
      "gloss": "cruel"
     }
    ],
-   "gloss": "cruel"
+   "gloss": "are cruel"
   },
   {
    "surface": "இந்நாள்",
@@ -53,14 +63,15 @@
      "gloss": "these days"
     }
    ],
-   "gloss": "these days"
+   "gloss": "these days",
+   "split_unverified": true
   },
   {
    "surface": "நெடிய",
    "parts": [
     {
      "text": "நெடிய",
-     "lemma": "நெடிய",
+     "lemma": "நெடுமை",
      "gloss": "long"
     }
    ],
@@ -70,9 +81,14 @@
    "surface": "கழியும்",
    "parts": [
     {
-     "text": "கழியும்",
+     "text": "கழி",
      "lemma": "கழி",
-     "gloss": "passing"
+     "gloss": "pass"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "passing"
@@ -86,13 +102,13 @@
      "gloss": "night"
     }
    ],
-   "gloss": "night"
+   "gloss": "nights"
   }
  ],
- "literal": "Cruel person / than cruelty / themselves / cruel / these days / long / passing / nights",
- "translation": "The long, dragging nights of these days are themselves more cruel than the cruelty of the cruel one.",
- "modern": "கொடியவரான காதலரின் கொடுமையை விட, இப்போது நீண்டுகொண்டே போகும் இந்த இரவுகள் மிகவும் கொடியவையாக இருக்கின்றன.",
- "explanation": "The speaker laments the unbearable length of the nights while separated from her lover. She calls her lover cruel for leaving her alone to suffer. However, she feels that the nights that drag on endlessly these days are even more cruel than his abandonment. The repetition of the word cruel emphasizes how the agonizingly slow passage of time in the dark multiplies her sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than the cruelty of the cruel one, themselves cruel, these days, long, passing, the nights.",
+ "translation": "More cruel than the cruelty of my cruel lover are these nights, which stretch out so long and refuse to pass.",
+ "modern": "கொடுமை செய்யும் காதலரின் கொடுமையை விட, இந்த நாட்களில் மிக நீண்டு கழிகின்ற இரவுகள் தாமே அதிகக் கொடுமையானவை ஆகும்.",
+ "explanation": "The heroine, suffering in separation, compares two sources of pain: her absent lover and the night. She calls her lover 'koṭiyār' (the cruel one) for leaving her, but finds that the nights ('irā') during this separation are even more cruel ('tām koṭiya') than his actions. These nights stretch out endlessly ('neṭiya kaḻiyum') and refuse to end, making her loneliness and longing feel infinite.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

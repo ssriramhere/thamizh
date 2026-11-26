@@ -4,33 +4,23 @@
    "surface": "அற்றேம்",
    "parts": [
     {
-     "text": "அற்று",
+     "text": "அற்றேம்",
      "lemma": "அறு",
-     "gloss": "having been destitute"
-    },
-    {
-     "text": "ஏம்",
-     "lemma": "ஏம்",
-     "gloss": "we"
+     "gloss": "we have lost"
     }
    ],
-   "gloss": "we are destitute"
+   "gloss": "we have lost everything"
   },
   {
    "surface": "என்று",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்று",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "று",
-     "lemma": "று",
-     "gloss": "adverbial suffix"
+     "gloss": "saying"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking"
   },
   {
    "surface": "அல்லல்",
@@ -38,10 +28,10 @@
     {
      "text": "அல்லல்",
      "lemma": "அல்லல்",
-     "gloss": "sorrow"
+     "gloss": "grief"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "grief"
   },
   {
    "surface": "படுபவோ",
@@ -49,22 +39,17 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "to suffer"
+     "gloss": "experience"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "epicene plural suffix"
+     "text": "ப",
+     "lemma": "அவர்",
+     "gloss": "they"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question marker"
+     "gloss": "interrogative particle"
     }
    ],
    "gloss": "will they suffer?"
@@ -73,14 +58,9 @@
    "surface": "பெற்றேம்",
    "parts": [
     {
-     "text": "பெற்று",
+     "text": "பெற்றேம்",
      "lemma": "பெறு",
-     "gloss": "having obtained"
-    },
-    {
-     "text": "ஏம்",
-     "lemma": "ஏம்",
-     "gloss": "we"
+     "gloss": "we have obtained"
     }
    ],
    "gloss": "we have obtained"
@@ -89,17 +69,12 @@
    "surface": "என்று",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்று",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "று",
-     "lemma": "று",
-     "gloss": "adverbial suffix"
+     "gloss": "saying"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking"
   },
   {
    "surface": "ஓம்புதல்",
@@ -107,7 +82,7 @@
     {
      "text": "ஓம்பு",
      "lemma": "ஓம்பு",
-     "gloss": "to cherish"
+     "gloss": "to hoard"
     },
     {
      "text": "தல்",
@@ -115,39 +90,29 @@
      "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "cherishing"
+   "gloss": "hoarding or guarding"
   },
   {
    "surface": "தேற்றாதவர்",
    "parts": [
     {
-     "text": "தேற்று",
+     "text": "தேற்றாது",
      "lemma": "தேற்று",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative marker"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "not knowing"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who"
     }
    ],
    "gloss": "those who do not know"
   }
  ],
- "literal": "\"We are destitute\" saying, sorrow will they suffer? \"We have obtained\" saying, cherishing those who do not know.",
- "translation": "Will those who do not cherish wealth saying \"we have gained it\", suffer sorrow in poverty saying \"we are destitute\"?",
- "modern": "'செல்வத்தைப் பெற்றோம்' என்று மகிழ்ந்து அதைக் கொண்டாடத் தெரியாதவர்கள், வறுமை வந்தபோது 'எல்லாம் இழந்தோம்' என்று கூறித் துன்பப்படுவார்களா? மாட்டார்கள்.",
- "explanation": "This couplet explains the mindset of the wise who remain balanced in both prosperity and adversity. The word 'பெற்றேம்' (we have gained) refers to acquiring wealth, while 'அற்றேம்' (we are destitute) refers to losing it. The author asks a rhetorical question: if a person does not overly cherish or celebrate their gains, will they suffer sorrow when they lose them? By treating both gain and loss with the same equanimity, one avoids despair during difficult times.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking 'we have lost everything', will they suffer grief, those who do not know how to hoard thinking 'we have obtained'?",
+ "translation": "Will those who do not know how to hoard and gloat when they gain something, ever suffer from grief when they lose it?",
+ "modern": "நாம் பெற்றுவிட்டோம் என்று எண்ணிக் காப்பாற்றி மகிழத் தெரியாதவர்கள், நாம் இழந்துவிட்டோம் என்று எண்ணித் துன்பப்படுவார்களா?",
+ "explanation": "This couplet explains the secret to remaining unaffected by adversity and loss. Those who do not get overly attached to gains, and do not spend their time anxiously hoarding or gloating over what they have acquired, will not feel devastated when those things are lost. Since they do not experience the high of possession, they are immune to the low of deprivation. True resilience comes from maintaining equanimity towards both gain and loss.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,15 +6,15 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "தக்க",
      "lemma": "தகு",
-     "gloss": "fit things"
+     "gloss": "fitting"
     }
    ],
-   "gloss": "things fit to be done"
+   "gloss": "things that are fit to be done"
   },
   {
    "surface": "அல்ல",
@@ -22,10 +22,10 @@
     {
      "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "things that are not"
+     "gloss": "not"
     }
    ],
-   "gloss": "things that are not"
+   "gloss": "those which are not (unfitting things)"
   },
   {
    "surface": "செய",
@@ -33,7 +33,7 @@
     {
      "text": "செய",
      "lemma": "செய்",
-     "gloss": "by doing"
+     "gloss": "to do"
     }
    ],
    "gloss": "by doing"
@@ -44,10 +44,10 @@
     {
      "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "will be ruined"
+     "gloss": "will perish"
     }
    ],
-   "gloss": "will be ruined"
+   "gloss": "one will be ruined"
   },
   {
    "surface": "செய்தக்க",
@@ -55,15 +55,15 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "தக்க",
      "lemma": "தகு",
-     "gloss": "fit things"
+     "gloss": "fitting"
     }
    ],
-   "gloss": "things fit to be done"
+   "gloss": "things that are fit to be done"
   },
   {
    "surface": "செய்யாமை",
@@ -74,7 +74,7 @@
      "gloss": "not doing"
     }
    ],
-   "gloss": "not doing"
+   "gloss": "by not doing"
   },
   {
    "surface": "ஆனும்",
@@ -82,7 +82,7 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     },
     {
      "text": "உம்",
@@ -90,7 +90,7 @@
      "gloss": "also"
     }
    ],
-   "gloss": "also by"
+   "gloss": "even by / also by"
   },
   {
    "surface": "கெடும்",
@@ -98,16 +98,16 @@
     {
      "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "will be ruined"
+     "gloss": "will perish"
     }
    ],
-   "gloss": "will be ruined"
+   "gloss": "one will be ruined"
   }
  ],
- "literal": "things fit to be done / things that are not / by doing / will be ruined / things fit to be done / not doing / also by / will be ruined",
- "translation": "One will be ruined by doing what should not be done, and will also be ruined by not doing what should be done.",
- "modern": "செய்யத்தகாத செயல்களைச் செய்வதால் ஒருவன் அழிவான்; செய்யத்தக்க செயல்களைச் செய்யாமல் விடுவதாலும் அவன் அழிவான்.",
- "explanation": "This couplet warns against two paths to failure: wrong action and harmful inaction. The phrase 'செய்தக்க அல்ல செய' refers to committing acts that are unfit or inappropriate, which leads to ruin. Conversely, 'செய்தக்க செய்யாமை' points to the failure to perform necessary and proper actions, which is equally destructive. The repetition of 'கெடும்' (will be ruined) underscores the inevitable downfall that results from both errors in judgment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By doing those things which are not fit to be done, one will be ruined; by not doing those things which are fit to be done, one will also be ruined.",
+ "translation": "One is ruined by doing what ought not to be done; one is also ruined by failing to do what ought to be done.",
+ "modern": "செய்யத்தகாத செயல்களைச் செய்வதனாலும் ஒருவன் அழிவான்; செய்யத்தக்க செயல்களைச் செய்யாமல் விடுவதனாலும் அவன் அழிவான்.",
+ "explanation": "This couplet explains that ruin comes from two types of errors: commission and omission. The first line states that performing actions that are improper or unfit (cey-takka alla) leads to destruction. The second line warns that failing to perform actions that are necessary and proper (cey-takka) also leads to the exact same ruin. A wise person must therefore balance action and inaction, knowing both what to avoid and what to execute.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

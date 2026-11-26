@@ -6,10 +6,11 @@
     {
      "text": "மனமாணா",
      "lemma": "மனமாணா",
-     "gloss": "minds not agreeing"
+     "gloss": "of an insincere or discordant mind"
     }
    ],
-   "gloss": "minds not agreeing"
+   "gloss": "of an insincere or discordant mind",
+   "split_unverified": true
   },
   {
    "surface": "உட்பகை",
@@ -17,7 +18,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inner"
+     "gloss": "internal"
     },
     {
      "text": "பகை",
@@ -41,7 +42,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if appears"
+   "gloss": "if it arises"
   },
   {
    "surface": "இனமாணா",
@@ -49,10 +50,11 @@
     {
      "text": "இனமாணா",
      "lemma": "இனமாணா",
-     "gloss": "kinship breaking"
+     "gloss": "destroying the unity of one's kin"
     }
    ],
-   "gloss": "kinship breaking"
+   "gloss": "destroying the unity of one's kin",
+   "split_unverified": true
   },
   {
    "surface": "ஏதம்",
@@ -60,21 +62,26 @@
     {
      "text": "ஏதம்",
      "lemma": "ஏதம்",
-     "gloss": "harm"
+     "gloss": "ruin or affliction"
     }
    ],
-   "gloss": "harm"
+   "gloss": "ruin"
   },
   {
    "surface": "பலவும்",
    "parts": [
     {
-     "text": "பலவும்",
+     "text": "பல",
      "lemma": "பல",
-     "gloss": "many indeed"
+     "gloss": "many"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even or all"
     }
    ],
-   "gloss": "many indeed"
+   "gloss": "many things indeed"
   },
   {
    "surface": "தரும்",
@@ -85,13 +92,13 @@
      "gloss": "will give"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "minds not agreeing internal enmity if appears, kinship breaking harm many indeed will give",
- "translation": "If internal enmity arises and minds are divided, it will bring many harms that tear apart one's kin.",
- "modern": "மனம் ஒத்துப்போகாத உட்பகை உருவானால், அது சுற்றத்தாரைப் பிரிக்கும் பல துன்பங்களைத் தரும்.",
- "explanation": "This couplet warns about the destructive nature of internal enmity. The word 'மனமாணா' describes a state where minds no longer agree or fit together, creating a hidden rift. If such internal enmity appears, it does not just stay hidden. It leads to 'இனமாணா ஏதம்', which are harms that destroy the unity of one's kinship or group. The repetition of 'மாணா' (not fitting or not agreeing) emphasizes how internal division in the mind inevitably leads to division in the community.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If internal enmity of an unfitting mind arises, it will bring many ruins that make one's kin discordant.",
+ "translation": "If internal enmity arises from an insincere mind, it will bring many ruins that destroy the unity of one's kinsmen.",
+ "modern": "மனம் ஒன்றாத உட்பகை ஒருவனுக்குள் தோன்றினால், அது அவனுடைய சுற்றத்தாரைப் பிரிக்கும் பல துன்பங்களைத் தரும்.",
+ "explanation": "This couplet warns against the severe dangers of hidden, internal hatred. When internal enmity arises from a discordant or insincere mind, it does not remain a quiet grudge. It actively works to divide and ruin one's own group or kinsmen. Ultimately, this internal division brings about numerous forms of disaster and ruin to the entire household or community.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

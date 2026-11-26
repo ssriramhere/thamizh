@@ -47,9 +47,14 @@
    "surface": "என்று",
    "parts": [
     {
-     "text": "என்று",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "say"
+    },
+    {
+     "text": "று",
+     "lemma": "உ",
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "saying"
@@ -68,7 +73,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "it is like that"
+   "gloss": "is like that"
   },
   {
    "surface": "கௌவையால்",
@@ -76,15 +81,15 @@
     {
      "text": "கௌவை",
      "lemma": "கௌவை",
-     "gloss": "rumour"
+     "gloss": "public rumor"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "with"
     }
    ],
-   "gloss": "by rumour"
+   "gloss": "by public rumor"
   },
   {
    "surface": "காமம்",
@@ -92,10 +97,10 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "passion"
+     "gloss": "love"
     }
    ],
-   "gloss": "passion"
+   "gloss": "love"
   },
   {
    "surface": "நுதுப்பேம்",
@@ -117,18 +122,23 @@
    "surface": "எனல்",
    "parts": [
     {
-     "text": "எனல்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "say"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "saying"
   }
  ],
- "literal": "With ghee fire we will extinguish saying, it is like that, by rumour passion we will extinguish saying.",
- "translation": "Thinking that passion can be extinguished by public rumour is like saying one can extinguish a fire with ghee.",
- "modern": "ஊரார் பேசும் பழிச்சொல்லால் காமத்தை அணைத்துவிடலாம் என்று நினைப்பது, நெய்யை ஊற்றி நெருப்பை அணைப்போம் என்று சொல்வதைப் போன்றது.",
- "explanation": "This couplet uses a vivid simile to explain the effect of public gossip on secret love. Just as pouring ghee on a fire only makes it blaze higher instead of putting it out, trying to suppress passion through the uproar of public rumour only intensifies it. The word 'கௌவை' refers to the scandalous talk in the village, which, rather than shaming the lovers into separation, fuels their devotion to each other.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Saying 'we will extinguish fire with ghee' is like saying 'we will extinguish love by public rumor'.",
+ "translation": "To think that one can extinguish love through public gossip is like trying to put out a fire by pouring ghee on it.",
+ "modern": "நெய்யை ஊற்றி நெருப்பை அணைப்போம் என்று கூறுவது போலாகும், ஊரார் பேசும் வதந்தியைக் கொண்டு காதலை அடக்குவோம் என்று நினைப்பது.",
+ "explanation": "This couplet uses a vivid analogy to show how public gossip (கௌவை) only intensifies secret love (காமம்) instead of suppressing it. Ghee is highly inflammable, and pouring it on a fire (எரி) will only make the flames leap higher, not extinguish (நுதுப்பேம்) them. Similarly, when the townspeople gossip about the lovers, their talk acts as fuel, heightening the lovers' desire and making their bond even stronger. The poet highlights the futility of trying to control or end a deep passion through social pressure and rumors.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

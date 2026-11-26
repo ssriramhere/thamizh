@@ -17,10 +17,10 @@
     {
      "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "that is called"
+     "gloss": "called"
     }
    ],
-   "gloss": "that is called"
+   "gloss": "called"
   },
   {
    "surface": "எவ்வ",
@@ -28,10 +28,10 @@
     {
      "text": "எவ்வ",
      "lemma": "எவ்வம்",
-     "gloss": "grievous"
+     "gloss": "painful"
     }
    ],
-   "gloss": "grievous"
+   "gloss": "painful"
   },
   {
    "surface": "நோய்",
@@ -48,17 +48,12 @@
    "surface": "நீக்கின்",
    "parts": [
     {
-     "text": "நீக்கு",
+     "text": "நீக்கின்",
      "lemma": "நீக்கு",
-     "gloss": "remove"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one removes"
     }
    ],
-   "gloss": "if removed"
+   "gloss": "if one removes"
   },
   {
    "surface": "தவல்",
@@ -66,10 +61,10 @@
     {
      "text": "தவல்",
      "lemma": "தவல்",
-     "gloss": "failing"
+     "gloss": "diminishing"
     }
    ],
-   "gloss": "failing"
+   "gloss": "diminishing"
   },
   {
    "surface": "இல்லா",
@@ -127,10 +122,10 @@
    "gloss": "will give"
   }
  ],
- "literal": "Hostility called grievous disease if removed, failing without, decay without glory it will give.",
- "translation": "If one removes the grievous disease called hostility, it will yield unfailing and undecaying glory.",
- "modern": "இகல் என்று சொல்லப்படும் துன்பம் தரும் நோயை ஒருவன் தன் மனதிலிருந்து நீக்கிவிட்டால், அது அவனுக்கு அழிவில்லாத நிலையான புகழைத் தரும்.",
- "explanation": "This couplet describes hostility as a grievous disease that afflicts the mind. The word 'இகல்' (hostility or enmity) is paired with 'எவ்வ நோய்' (grievous disease) to emphasize how destructive it is to one's own well-being. If a person can completely remove this disease, the very act of curing themselves of hatred will grant them 'விளக்கம்' (glory or brightness) that is both 'தவல் இல்லா' (unfailing) and 'தா இல்' (undecaying). Thus, letting go of enmity is presented not just as a moral good, but as the ultimate path to lasting greatness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one removes the painful disease called hostility, it will give a glory without decrease and without decay.",
+ "translation": "If a person rids themselves of the painful disease called hostility, it will bring them an endless and undecaying glory.",
+ "modern": "பகைமை என்று சொல்லப்படும் துன்பம் தரும் நோயை ஒருவன் நீக்கினால், அது அவனுக்குக் குறைவில்லாத, அழிவில்லாத புகழைக் கொடுக்கும்.",
+ "explanation": "This couplet highlights the immense benefit of overcoming hostility. The poet metaphorically describes hostility as a painful disease ('எவ்வநோய்') because of the constant mental and social suffering it inflicts. If one manages to cure or remove this disease, it yields a life of great glory ('விளக்கம்'). This resulting glory is described as endless ('தவலில்லா') and free from any decay or blemish ('தாவில்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

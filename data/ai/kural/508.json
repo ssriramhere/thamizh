@@ -4,17 +4,12 @@
    "surface": "தேரான்",
    "parts": [
     {
-     "text": "தேர்",
+     "text": "தேரான்",
      "lemma": "தேர்",
-     "gloss": "to examine"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "one who does not examine"
     }
    ],
-   "gloss": "he who does not examine"
+   "gloss": "one who does not examine"
   },
   {
    "surface": "பிறனை",
@@ -22,38 +17,23 @@
     {
      "text": "பிறன்",
      "lemma": "பிறன்",
-     "gloss": "stranger"
+     "gloss": "other person"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "stranger (acc.)"
+   "gloss": "another person"
   },
   {
    "surface": "தெளிந்தான்",
    "parts": [
     {
-     "text": "தெளி",
+     "text": "தெளிந்தான்",
      "lemma": "தெளி",
-     "gloss": "to trust"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "he who trusted"
     }
    ],
    "gloss": "he who trusted"
@@ -64,28 +44,23 @@
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "path"
+     "gloss": "way or lineage"
     },
     {
      "text": "முறை",
      "lemma": "முறை",
-     "gloss": "order"
+     "gloss": "order or succession"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "successive generations or lineage"
   },
   {
    "surface": "தீரா",
    "parts": [
     {
-     "text": "தீர்",
+     "text": "தீரா",
      "lemma": "தீர்",
-     "gloss": "to end"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "unending"
     }
    ],
    "gloss": "unending"
@@ -96,32 +71,27 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "distress"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரு",
+     "text": "தரும்",
      "lemma": "தா",
-     "gloss": "to give"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future tense suffix"
+     "gloss": "will give"
     }
    ],
    "gloss": "will give"
   }
  ],
- "literal": "He who does not examine, a stranger, he who trusted - lineage, unending sorrow will give.",
- "translation": "Trusting a stranger without testing him will bring unending sorrow to one's descendants.",
- "modern": "ஒருவனைப் பற்றி ஆராயாமல் முன்பின் தெரியாதவனை நம்பி ஒரு செயலை ஒப்படைத்தவனுக்கு, அது அவனது தலைமுறைக்கும் நீங்காத துன்பத்தைத் தரும்.",
- "explanation": "This couplet warns against placing trust in unknown people without proper investigation. The word 'தேரான்' means failing to examine, and 'பிறனை' refers to someone who is an outsider or stranger. 'தெளிந்தான்' denotes the one who places his trust or confidence. The phrase 'வழிமுறை' indicates that the consequences of such a careless decision will not stop with the individual, but will pass down to their lineage. Thus, the text emphasizes that blind trust yields 'தீரா இடும்பை' or sorrow that never ends.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who does not examine, another person, he who trusted, to his lineage, unending, distress, will give.",
+ "translation": "Trusting a stranger without examining their character will bring endless distress to one's entire lineage.",
+ "modern": "ஆராய்ந்து பார்க்காமல் ஒருவரை நம்பித் தெளிந்தவனுடைய செயலே அவனது பரம்பரைக்கும் நீங்காத துன்பத்தைத் தரும்.",
+ "explanation": "This couplet warns of the severe consequences of blind trust. The word 'தேரான்' describes someone who fails to investigate or analyze a person's character before employing or relying on them. If one blindly trusts ('தெளிந்தான்') such an unexamined stranger ('பிறனை'), the resulting failure does not stop with them. It brings endless, incurable misery ('தீரா இடும்பை') that plagues their entire lineage and descendants ('வழிமுறை').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

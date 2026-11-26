@@ -17,10 +17,10 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "living beings"
     }
    ],
-   "gloss": "life"
+   "gloss": "living beings"
   },
   {
    "surface": "எல்லாம்",
@@ -39,10 +39,10 @@
     {
      "text": "துயிற்றி",
      "lemma": "துயிற்று",
-     "gloss": "having put to sleep"
+     "gloss": "having made to sleep"
     }
    ],
-   "gloss": "having put to sleep"
+   "gloss": "having made to sleep"
   },
   {
    "surface": "அளித்து",
@@ -50,10 +50,10 @@
     {
      "text": "அளித்து",
      "lemma": "அளி",
-     "gloss": "having been gracious"
+     "gloss": "having shown mercy"
     }
    ],
-   "gloss": "having been gracious"
+   "gloss": "having shown mercy"
   },
   {
    "surface": "இரா",
@@ -71,7 +71,7 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "யான்",
      "gloss": "me"
     }
    ],
@@ -82,7 +82,7 @@
    "parts": [
     {
      "text": "அல்லது",
-     "lemma": "அல்லது",
+     "lemma": "அல்",
      "gloss": "except"
     }
    ],
@@ -94,10 +94,10 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "does not have"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not have"
   },
   {
    "surface": "துணை",
@@ -111,10 +111,10 @@
    "gloss": "companion"
   }
  ],
- "literal": "Enduring life all having put to sleep having been gracious night, me except is not companion.",
- "translation": "The night has graciously put all living beings to sleep; now it has no companion except me.",
- "modern": "உலகத்து உயிர்களை எல்லாம் தூங்கச் செய்துவிட்டுத் தனித்திருக்கும் இந்த இரவுக்கு, இப்போது என்னைத் தவிர வேறு துணை இல்லை.",
- "explanation": "The speaker, suffering from the pain of separation, observes the deep stillness of the night. The word 'tuyiṟṟi' means making others sleep, and 'aḷittu' shows the night's kindness in giving rest to all creatures. Since everyone else is asleep, the speaker feels that the night itself is awake and lonely, with no one but her for company. This highlights her own sleeplessness and profound isolation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Enduring living beings all having made to sleep, showing mercy, the night, except me, does not have a companion.",
+ "translation": "Having put all living beings to sleep and comforted them, the night has no companion left but me.",
+ "modern": "நிலைபெற்ற உயிர்கள் எல்லாவற்றையும் தூங்கச் செய்து அவற்றுக்கு அருள் புரியும் இந்த இரவுக்கு, என்னைத் தவிர வேறு துணை இல்லை.",
+ "explanation": "The heroine, suffering from the intense pain of separation, is unable to sleep. She looks around and realizes that the night has kindly put all other living creatures to sleep, granting them peaceful rest. Since everyone else is asleep, only she and the night remain awake in the darkness. She poetically expresses that the night, too, is lonely and has found no companion other than her to share its long hours.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

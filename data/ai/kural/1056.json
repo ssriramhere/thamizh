@@ -6,10 +6,10 @@
     {
      "text": "கரப்பு",
      "lemma": "கரப்பு",
-     "gloss": "concealment"
+     "gloss": "concealing"
     }
    ],
-   "gloss": "concealment"
+   "gloss": "the act of concealing or hiding wealth"
   },
   {
    "surface": "இடும்பை",
@@ -17,26 +17,31 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "affliction"
+     "gloss": "evil or affliction"
     }
    ],
-   "gloss": "affliction"
+   "gloss": "the evil or painful trait"
   },
   {
    "surface": "இல்லாரை",
    "parts": [
     {
-     "text": "இல்லார்",
-     "lemma": "இல்லார்",
-     "gloss": "those without"
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "not having"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those without (acc.)"
+   "gloss": "those who do not have (the evil of concealing)"
   },
   {
    "surface": "காணின்",
@@ -44,7 +49,7 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "to see"
+     "gloss": "see"
     },
     {
      "text": "இன்",
@@ -52,7 +57,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if seen"
+   "gloss": "if one sees"
   },
   {
    "surface": "நிரப்பு",
@@ -74,7 +79,7 @@
      "gloss": "affliction"
     }
    ],
-   "gloss": "affliction"
+   "gloss": "the affliction"
   },
   {
    "surface": "எல்லாம்",
@@ -96,7 +101,7 @@
      "gloss": "together"
     }
    ],
-   "gloss": "together"
+   "gloss": "completely or at once"
   },
   {
    "surface": "கெடும்",
@@ -104,7 +109,7 @@
     {
      "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "to perish"
+     "gloss": "perish"
     },
     {
      "text": "உம்",
@@ -115,10 +120,10 @@
    "gloss": "will perish"
   }
  ],
- "literal": "Concealment affliction those-without-(acc.) if-seen, poverty affliction all together will-perish.",
- "translation": "If one sees those who do not have the affliction of hiding what they have, all the afflictions of poverty will perish at once.",
- "modern": "தன்னிடம் உள்ளதை மறைத்து வைக்கும் நோய் இல்லாதவர்களைக் கண்டால், வறுமையால் வரும் துன்பங்கள் எல்லாம் ஒன்றாக அழிந்துவிடும்.",
- "explanation": "The couplet contrasts two types of suffering: the suffering of poverty and the suffering of stinginess. The word 'கரப்பு' means concealment, referring to the habit of hiding one's wealth to avoid giving to those who ask. The poet calls this an 'இடும்பை' (affliction), just as poverty ('நிரப்பு') is an affliction. When a person in need encounters someone free from the disease of withholding, all the sorrows of their poverty are destroyed at once.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one sees those who do not have the evil of concealing wealth, all the affliction of poverty will perish at once.",
+ "translation": "If those who ask meet people who are free from the mean habit of hiding their wealth, all the misery of their poverty will vanish at once.",
+ "modern": "தம்மிடம் உள்ளதை மறைத்து வைக்கும் தீய குணம் இல்லாதவர்களைக் கண்டால், வறுமையினால் உண்டாகும் துன்பங்கள் அனைத்தும் உடனே நீங்கிவிடும்.",
+ "explanation": "This couplet highlights the profound relief a needy person feels upon encountering a truly generous giver. The word 'karappu' refers to the act of hiding or withholding one's wealth when someone asks for help, which is described here as an 'iṭumpai' (an evil or painful trait). When a seeker finds someone free from this withholding nature ('karappiṭumpai illārai'), their own 'nirappiṭumpai' (the misery of poverty) instantly disappears. The mere sight of such a noble person brings immediate comfort, as the seeker knows their distress is already resolved.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

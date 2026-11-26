@@ -20,17 +20,12 @@
      "gloss": "desire"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who"
     }
    ],
-   "gloss": "they who desire"
+   "gloss": "those who desire"
   },
   {
    "surface": "மாண்",
@@ -38,10 +33,10 @@
     {
      "text": "மாண்",
      "lemma": "மாண்",
-     "gloss": "excellent"
+     "gloss": "glorious"
     }
    ],
-   "gloss": "excellent"
+   "gloss": "glorious"
   },
   {
    "surface": "பயன்",
@@ -58,17 +53,12 @@
    "surface": "எய்தார்",
    "parts": [
     {
-     "text": "எய்து",
+     "text": "எய்தார்",
      "lemma": "எய்து",
-     "gloss": "attain"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "negative epicene plural suffix"
+     "gloss": "will not attain"
     }
    ],
-   "gloss": "they attain not"
+   "gloss": "they will not attain"
   },
   {
    "surface": "வினை",
@@ -90,33 +80,23 @@
      "gloss": "desire"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "glide"
-    },
-    {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who"
     }
    ],
-   "gloss": "they who desire"
+   "gloss": "those who desire"
   },
   {
    "surface": "வேண்டா",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டா",
      "lemma": "வேண்டு",
-     "gloss": "want"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative relative participle suffix"
+     "gloss": "undesired"
     }
    ],
-   "gloss": "rejecting"
+   "gloss": "undesired"
   },
   {
    "surface": "பொருளும்",
@@ -129,10 +109,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "also"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "thing also"
+   "gloss": "thing indeed"
   },
   {
    "surface": "அது",
@@ -146,10 +126,10 @@
    "gloss": "that"
   }
  ],
- "literal": "Wife they-who-desire excellent benefit they-attain-not; action they-who-desire rejecting thing-also that.",
- "translation": "Those who lust after their wives will not attain excellent benefits; that is also a thing rejected by those who desire great action.",
- "modern": "மனைவியின் மீது அதீத ஆசை கொண்டவர்கள் சிறந்த பயன்களை அடைய மாட்டார்கள். செயலில் வெற்றி பெற விரும்புபவர்கள் வெறுத்து ஒதுக்கும் பொருளும் அந்த பெண்ணாசையே ஆகும்.",
- "explanation": "This couplet warns against letting infatuation with one's wife override one's duties. The word 'maṉai' (household) here stands metonymically for the wife, and 'viḻaivār' refers to those who excessively desire or lust after her. Such people cannot achieve 'māṇ payaṉ' (excellent benefits or glorious results) in life. Furthermore, the text notes that this kind of infatuation ('atu') is exactly the thing rejected ('vēṇṭā poruḷ') by those who are committed to meaningful action ('viṉai viḻaiyār').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who desire their wife glorious benefit will not attain; those who desire action an undesired thing indeed is that.",
+ "translation": "Those who are infatuated with their wives will not attain great achievements; such infatuation is also an undesired thing for those who desire to accomplish great deeds.",
+ "modern": "மனைவியை மட்டுமே விரும்பி அவளது வழி நடப்பவர்கள் சிறந்த நன்மைகளை அடைய மாட்டார்கள்; செயல்களைச் செய்து முடிக்க விரும்புகிறவர்களுக்கும் அது வேண்டத்தகாத ஒரு செயலாகும்.",
+ "explanation": "This couplet warns against being overly infatuated with one's wife to the neglect of one's duties. The poet states that those who are consumed by domestic infatuation ('மனைவிழைவார்') will fail to achieve great and glorious results ('மாண்பயன் எய்தார்') in life. Furthermore, for those who are dedicated to accomplishing great deeds ('வினைவிழையார்'), such submissiveness is an undesirable trait ('வேண்டாப் பொருள்'). The verse emphasizes that greatness requires focus on duty rather than being ruled by domestic desires.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

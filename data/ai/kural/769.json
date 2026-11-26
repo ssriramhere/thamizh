@@ -6,7 +6,7 @@
     {
      "text": "சிறுமை",
      "lemma": "சிறுமை",
-     "gloss": "weakness"
+     "gloss": "meanness"
     },
     {
      "text": "உம்",
@@ -14,23 +14,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "weakness and"
+   "gloss": "and meanness"
   },
   {
    "surface": "செல்லா",
    "parts": [
     {
-     "text": "செல்",
+     "text": "செல்லா",
      "lemma": "செல்",
-     "gloss": "to depart"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not-leaving"
     }
    ],
-   "gloss": "un-departing"
+   "gloss": "lingering"
   },
   {
    "surface": "துனியும்",
@@ -38,7 +33,7 @@
     {
      "text": "துனி",
      "lemma": "துனி",
-     "gloss": "resentment"
+     "gloss": "discontent"
     },
     {
      "text": "உம்",
@@ -46,7 +41,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "resentment and"
+   "gloss": "and discontent"
   },
   {
    "surface": "வறுமையும்",
@@ -62,7 +57,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "poverty and"
+   "gloss": "and poverty"
   },
   {
    "surface": "இல்லாயின்",
@@ -70,7 +65,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not"
     },
     {
      "text": "ஆயின்",
@@ -78,20 +73,15 @@
      "gloss": "if it is"
     }
    ],
-   "gloss": "if without"
+   "gloss": "if they are absent"
   },
   {
    "surface": "வெல்லும்",
    "parts": [
     {
-     "text": "வெல்",
+     "text": "வெல்லும்",
      "lemma": "வெல்",
-     "gloss": "to conquer"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will conquer"
     }
    ],
    "gloss": "will conquer"
@@ -108,10 +98,10 @@
    "gloss": "army"
   }
  ],
- "literal": "Weakness and, un-departing resentment and, poverty and, if without, will conquer, the army.",
- "translation": "An army will conquer if it is free from weakness, lingering resentment, and poverty.",
- "modern": "படைவீரர்களிடம் மனத்தளர்ச்சி, நீங்காத வெறுப்பு, வறுமை ஆகிய மூன்றும் இல்லாவிட்டால் அந்தப் படை வெற்றி பெறும்.",
- "explanation": "This couplet identifies three internal flaws that can destroy an army's effectiveness. 'சிறுமை' refers to weakness or a shrinking in numbers and spirit. 'செல்லாத் துனி' means a deep, lingering resentment or grievance among the soldiers. 'வறுமை' points to poverty or a lack of proper resources and pay. If an army is free from these three defects, it will naturally be victorious.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And meanness, and lingering discontent, and poverty, if they are absent, the army will conquer.",
+ "translation": "If an army is free from meanness, lingering discontent, and poverty, it will achieve victory.",
+ "modern": "சிறுமைக்குணம், நீங்காத வெறுப்பு, வறுமை ஆகியவை இல்லாதிருந்தால், அந்தப் படை வெற்றி பெறும்.",
+ "explanation": "This couplet outlines the three internal defects that can ruin an army, regardless of its size or weapons. First is 'ciṟumai' (meanness or smallness of spirit), which refers to a lack of courage or noble character. Second is 'cellāத் tuṉi' (lingering discontent or resentment), which represents internal discord or grievances against the ruler that do not go away. Third is 'vaṟumai' (poverty or deprivation), which saps the soldiers' strength and morale. If an army is free from these three flaws, it is guaranteed to win.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

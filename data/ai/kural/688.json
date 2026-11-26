@@ -9,7 +9,7 @@
      "gloss": "purity"
     }
    ],
-   "gloss": "purity"
+   "gloss": "purity of character"
   },
   {
    "surface": "துணைமை",
@@ -17,10 +17,10 @@
     {
      "text": "துணைமை",
      "lemma": "துணைமை",
-     "gloss": "support"
+     "gloss": "companionship"
     }
    ],
-   "gloss": "support"
+   "gloss": "having helpful allies or pleasant companionship"
   },
   {
    "surface": "துணிவு",
@@ -49,11 +49,12 @@
    "parts": [
     {
      "text": "இம்மூன்றின்",
-     "lemma": "மூன்று",
-     "gloss": "with these three"
+     "lemma": "இம்மூன்றின்",
+     "gloss": "of these three"
     }
    ],
-   "gloss": "with these three"
+   "gloss": "of these three",
+   "split_unverified": true
   },
   {
    "surface": "வாய்மை",
@@ -64,7 +65,7 @@
      "gloss": "truthfulness"
     }
    ],
-   "gloss": "truthfulness"
+   "gloss": "truthfulness or genuine possession"
   },
   {
    "surface": "வழி",
@@ -75,18 +76,18 @@
      "gloss": "way"
     }
    ],
-   "gloss": "way"
+   "gloss": "way or path"
   },
   {
    "surface": "உரைப்பான்",
    "parts": [
     {
      "text": "உரைப்பான்",
-     "lemma": "உரை",
+     "lemma": "உரைத்தல்",
      "gloss": "he who speaks"
     }
    ],
-   "gloss": "he who speaks"
+   "gloss": "he who delivers the message"
   },
   {
    "surface": "பண்பு",
@@ -97,13 +98,13 @@
      "gloss": "quality"
     }
    ],
-   "gloss": "quality"
+   "gloss": "quality or attribute"
   }
  ],
- "literal": "Purity, support, possession of courage, truthfulness with these three, [are] the quality of him who speaks the way.",
- "translation": "Purity, resourceful support, and courage, along with truthfulness, are the defining qualities of an envoy who delivers a message.",
- "modern": "தூய்மை, தகுந்த துணை, துணிவு ஆகியவற்றுடன் உண்மையாகவும் இருப்பது ஒரு தூதுவனின் சிறந்த பண்புகளாகும்.",
- "explanation": "This couplet lists the essential qualities of an envoy (வழி உரைப்பான்). They must possess purity of character (தூய்மை), the support of resourceful companions (துணைமை), and unwavering courage (துணிவு). Along with these three (இம்மூன்றின்), unfailing truthfulness (வாய்மை) completes the nature (பண்பு) of a perfect ambassador.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Purity, companionship, courage-possession, of these three, truthfulness, is the quality of him who delivers the message in the proper way.",
+ "translation": "Purity of character, influential allies, and courage—the genuine possession of these three qualities defines an envoy who delivers a message.",
+ "modern": "தூய்மையான ஒழுக்கம், நல்ல துணை, துணிவு ஆகிய இம்மூன்றையும் உண்மையாகப் பெற்றிருப்பதே தூது உரைப்பவரின் தகுதியாகும்.",
+ "explanation": "This couplet outlines the three indispensable qualities of a successful envoy. First is 'தூய்மை' (purity), which denotes flawless integrity and moral uprightness, ensuring the envoy cannot be corrupted. Second is 'துணைமை' (companionship), which refers to having powerful allies or the tact to win over others. Third is 'துணிவுடைமை' (possession of courage), which allows the envoy to deliver difficult messages fearlessly in a foreign court. The genuine ('வாய்மை') presence of these three attributes constitutes the true character of one who speaks on behalf of a ruler.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,17 +4,12 @@
    "surface": "எள்ளின்",
    "parts": [
     {
-     "text": "எள்ளு",
-     "lemma": "எள்ளு",
-     "gloss": "to despise"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "எள்ளின்",
+     "lemma": "எள்",
+     "gloss": "if [I] despise [him]"
     }
    ],
-   "gloss": "if despised"
+   "gloss": "if [I] despise [him]"
   },
   {
    "surface": "இளிவாம்",
@@ -27,34 +22,29 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "will be"
+     "gloss": "will become"
     }
    ],
-   "gloss": "will be a disgrace"
+   "gloss": "it will be a disgrace"
   },
   {
    "surface": "என்று",
    "parts": [
     {
      "text": "என்று",
-     "lemma": "என்று",
-     "gloss": "saying"
+     "lemma": "என்",
+     "gloss": "thus"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking thus"
   },
   {
    "surface": "எண்ணி",
    "parts": [
     {
-     "text": "எண்ணு",
+     "text": "எண்ணி",
      "lemma": "எண்ணு",
-     "gloss": "to consider"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having considered"
     }
    ],
    "gloss": "having considered"
@@ -76,23 +66,18 @@
     {
      "text": "திறம்",
      "lemma": "திறம்",
-     "gloss": "virtues"
+     "gloss": "good qualities"
     }
    ],
-   "gloss": "virtues"
+   "gloss": "good qualities"
   },
   {
    "surface": "உள்ளும்",
    "parts": [
     {
-     "text": "உள்ளு",
+     "text": "உள்ளும்",
      "lemma": "உள்ளு",
-     "gloss": "to think"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which does"
+     "gloss": "thinks of"
     }
    ],
    "gloss": "thinks of"
@@ -114,10 +99,10 @@
     {
      "text": "காதல்",
      "lemma": "காதல்",
-     "gloss": "love"
+     "gloss": "loving"
     }
    ],
-   "gloss": "love"
+   "gloss": "loving"
   },
   {
    "surface": "நெஞ்சு",
@@ -131,10 +116,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "If despised, it will be a disgrace saying, having considered, his virtues thinks of, the life-loving heart.",
- "translation": "Thinking, It would be a disgrace to despise him, my heart, whose love is as dear as life, dwells only on his virtues.",
- "modern": "அவரை இகழ்ந்து ஊடினால் அது நமக்குச் சிறுமையாகும் என்று கருதி, என் உயிரைப் போன்ற அன்புடைய நெஞ்சம் அவருடைய நல்ல குணங்களையே நினைக்கிறது.",
- "explanation": "The speaker is frustrated with her own heart because it refuses to be angry with her lover. Her heart reasons that sulking or despising him would only bring disgrace to their deep bond. Because its love for him is as precious as life itself, the heart chooses to remember only his good qualities instead of his faults.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [I] despise [him], it will be a disgrace, thinking thus, my life-loving heart thinks of his virtues.",
+ "translation": "Thinking that it would be a disgrace to despise him, my life-loving heart thinks only of his virtues.",
+ "modern": "அவரை இகழ்ந்து பேசினால் அது நமக்கு இழிவாகும் என்று நினைத்து, என் உயிர் மேல் ஆசை கொண்ட நெஞ்சம் அவருடைய நற்குணங்களையே நினைத்துப் பார்க்கிறது.",
+ "explanation": "In this couplet, the heroine speaks of her heart's inability to stay angry with her beloved. She notes that if she were to despise or blame him for his absence, it would only bring disgrace to their love. To avoid this humiliation and to preserve its own life, her heart, which is deeply attached to living, chooses to focus entirely on his good qualities. The phrase 'uyirkkātal neñcu' highlights how the heart clings to life by choosing love and positive remembrance over resentment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "துறந்தார்",
-     "lemma": "துற",
-     "gloss": "those who renounced"
+     "lemma": "துறந்தார்",
+     "gloss": "those who have renounced"
     },
     {
      "text": "இன்",
@@ -14,7 +14,7 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than those who renounced"
+   "gloss": "than those who have renounced"
   },
   {
    "surface": "தூய்மை",
@@ -32,7 +32,7 @@
    "parts": [
     {
      "text": "உடையர்",
-     "lemma": "உடை",
+     "lemma": "உடையர்",
      "gloss": "they possess"
     }
    ],
@@ -43,11 +43,11 @@
    "parts": [
     {
      "text": "இறந்தார்",
-     "lemma": "இற",
-     "gloss": "those who transgressed"
+     "lemma": "இறத்தல்",
+     "gloss": "those who have transgressed limits"
     }
    ],
-   "gloss": "those who transgressed"
+   "gloss": "those who have transgressed limits"
   },
   {
    "surface": "வாய்",
@@ -58,7 +58,7 @@
      "gloss": "mouth"
     }
    ],
-   "gloss": "mouth"
+   "gloss": "from the mouth of"
   },
   {
    "surface": "இன்னா",
@@ -66,7 +66,7 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harsh"
+     "gloss": "harsh / painful"
     }
    ],
    "gloss": "harsh"
@@ -77,37 +77,27 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   },
   {
    "surface": "நோற்கிற்பவர்",
    "parts": [
     {
-     "text": "நோல்",
-     "lemma": "நோல்",
-     "gloss": "to endure"
-    },
-    {
-     "text": "கில்",
-     "lemma": "கில்",
-     "gloss": "to be able"
-    },
-    {
-     "text": "பவர்",
-     "lemma": "அவர்",
-     "gloss": "those who"
+     "text": "நோற்கிற்பவர்",
+     "lemma": "நோற்கிற்பவர்",
+     "gloss": "those who endure"
     }
    ],
-   "gloss": "those who can endure"
+   "gloss": "those who endure"
   }
  ],
- "literal": "Than those who have renounced, purity they possess, transgressors' mouth harsh words those who can endure.",
- "translation": "Those who can endure harsh words from the mouths of transgressors possess a purity greater than that of ascetics.",
- "modern": "வரம்பு மீறியவர்களின் வாயிலிருந்து வரும் கடுமையான சொற்களைப் பொறுத்துக்கொள்பவர்கள், பற்றுகளைத் துறந்த முனிவர்களை விடவும் தூய்மையானவர்கள் ஆவார்கள்.",
- "explanation": "The couplet compares the virtue of patience with the purity of renunciation. It states that those who can patiently endure harsh words from people who transgress boundaries of decency are purer than ascetics who have renounced the world. The word 'இறந்தார்' refers to those who have crossed the limits of proper conduct, while 'நோற்கிற்பவர்' highlights the active strength required to bear their insults. Thus, true purity lies not just in leaving the world, but in maintaining one's composure amidst its provocations.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than those who have renounced, purity possess they who endure harsh words from the mouth of those who have transgressed limits.",
+ "translation": "Those who endure harsh words from the mouths of people who transgress all bounds of decency possess a purity greater than even those who have renounced the world.",
+ "modern": "வரம்பு மீறி நடப்பவர்களுடைய வாயிலிருந்து வரும் துன்பம் தரும் சொற்களைப் பொறுத்துக் கொள்பவர்கள், உலகத்தைத் துறந்தவர்களை விடவும் மேலான தூய்மை உடையவர்கள் ஆவர்.",
+ "explanation": "This couplet compares the spiritual purity of those who practice patience with that of ascetics who have renounced the world. The word 'இறந்தார்' refers to those who have crossed the boundaries of proper conduct and decency. When such people utter 'இன்னாச்சொல்' (painful or abusive words), the act of enduring them ('நோற்கிற்பவர்') requires immense self-control. The poet asserts that this quiet endurance represents a higher level of moral and spiritual purity ('தூய்மை') than the formal renunciation ('துறந்தார்') of worldly life. Thus, patience is elevated to the highest form of spiritual practice.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

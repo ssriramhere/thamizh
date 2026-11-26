@@ -64,17 +64,12 @@
      "gloss": "see"
     },
     {
-     "text": "கில்",
+     "text": "கிற்பின்",
      "lemma": "கில்",
-     "gloss": "be able"
-    },
-    {
-     "text": "பின்",
-     "lemma": "பின்",
-     "gloss": "if"
+     "gloss": "if able to"
     }
    ],
-   "gloss": "if able to see"
+   "gloss": "if one is able to examine"
   },
   {
    "surface": "என்",
@@ -104,7 +99,7 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "will become"
+     "gloss": "will happen"
     }
    ],
    "gloss": "will happen"
@@ -115,7 +110,7 @@
     {
      "text": "இறை",
      "lemma": "இறை",
-     "gloss": "king"
+     "gloss": "leader"
     },
     {
      "text": "கு",
@@ -123,13 +118,13 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to the king"
+   "gloss": "to the leader"
   }
  ],
- "literal": "One's own fault having removed, others' fault if able to see, what fault will happen to the king?",
- "translation": "If a leader first removes his own faults and then looks into the faults of others, what fault can ever befall him?",
- "modern": "தன் குற்றத்தை முதலில் நீக்கிவிட்டு, அதன் பிறகு மற்றவர்களின் குற்றத்தை ஆராயும் தலைவனுக்கு என்ன குற்றம் நேரிடும்?",
- "explanation": "This couplet emphasizes the importance of self-correction for a leader. The word இறை refers to a king or leader. The phrase காண்கிற்பின் implies not just seeing, but having the moral authority and ability to examine others' flaws. By removing one's own faults first, a leader becomes immune to reproach, and no fault can attach to them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "One's own fault having removed, others' fault if able to examine, what fault will happen to the leader?",
+ "translation": "If a leader first removes their own faults and then examines the faults of others, what fault can ever come upon them?",
+ "modern": "தலைவன் தன் குற்றத்தை முதலில் நீக்கிவிட்டு, அதன் பிறகு பிறருடைய குற்றத்தை ஆராய்ந்து பார்ப்பானானால், அவனுக்கு என்ன குற்றம் நேரிடும்?",
+ "explanation": "This couplet highlights the essential quality of self-correction in leadership. A leader must first identify and eliminate their own flaws before attempting to judge or correct the mistakes of others. If a leader possesses this level of self-awareness and integrity, no blame or failure can ever touch them. The word 'iṟai' refers to a leader or ruler, and 'kāṇkiṟpin' emphasizes the capacity to examine or judge others' faults only after self-rectification.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,12 +4,17 @@
    "surface": "போற்றின்",
    "parts": [
     {
-     "text": "போற்றின்",
-     "lemma": "போற்றுதல்",
-     "gloss": "if one guards"
+     "text": "போற்று",
+     "lemma": "போற்று",
+     "gloss": "protect"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if one guards"
+   "gloss": "if one protects"
   },
   {
    "surface": "அரியவை",
@@ -17,32 +22,32 @@
     {
      "text": "அரியவை",
      "lemma": "அரியவை",
-     "gloss": "serious mistakes"
+     "gloss": "difficult things (secrets or serious faults)"
     }
    ],
-   "gloss": "serious mistakes"
+   "gloss": "difficult things (secrets)"
   },
   {
    "surface": "போற்றல்",
    "parts": [
     {
      "text": "போற்றல்",
-     "lemma": "போற்றுதல்",
-     "gloss": "guarding against"
+     "lemma": "போற்று",
+     "gloss": "protecting"
     }
    ],
-   "gloss": "guarding against"
+   "gloss": "protecting"
   },
   {
    "surface": "கடுத்த",
    "parts": [
     {
      "text": "கடுத்த",
-     "lemma": "கடுத்தல்",
+     "lemma": "கடு",
      "gloss": "suspected"
     }
    ],
-   "gloss": "suspected"
+   "gloss": "having suspected"
   },
   {
    "surface": "பின்",
@@ -60,11 +65,11 @@
    "parts": [
     {
      "text": "தேற்றுதல்",
-     "lemma": "தேற்றுதல்",
-     "gloss": "convincing"
+     "lemma": "தேற்று",
+     "gloss": "reassuring"
     }
    ],
-   "gloss": "convincing"
+   "gloss": "reassuring"
   },
   {
    "surface": "யார்க்கும்",
@@ -72,7 +77,7 @@
     {
      "text": "யார்க்கு",
      "lemma": "யார்",
-     "gloss": "to anyone"
+     "gloss": "to whom"
     },
     {
      "text": "உம்",
@@ -80,24 +85,24 @@
      "gloss": "even"
     }
    ],
-   "gloss": "for anyone"
+   "gloss": "to anyone"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "is difficult"
+     "lemma": "அரிது",
+     "gloss": "difficult"
     }
    ],
    "gloss": "is difficult"
   }
  ],
- "literal": "If guarding, guarding against serious mistakes; after having suspected, convincing is difficult for anyone.",
- "translation": "If you wish to protect yourself, guard against making serious mistakes. Once the ruler grows suspicious, it is difficult for anyone to restore his trust.",
- "modern": "தன்னைக் காத்துக்கொள்ள விரும்பினால், அரசனுக்குச் சந்தேகம் வரும்படியான பெரிய தவறுகளைச் செய்யாமல் காத்துக்கொள்ள வேண்டும். அரசன் ஒருமுறை சந்தேகித்துவிட்டால், அதன் பின் அவனைத் தெளிவுபடுத்துவது யாருக்கும் கடினமான செயலாகும்.",
- "explanation": "This couplet advises those serving a ruler to be extremely cautious and avoid grave errors. The word 'அரியவை' refers to serious mistakes that are hard to rectify. 'கடுத்தபின்' means after the ruler has grown suspicious or angry. The couplet warns that once a ruler's trust is broken and suspicion sets in, it is nearly impossible for anyone to clear his mind and regain his confidence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [one wants to] protect [oneself], protecting [against] difficult things [is necessary]; after [the ruler] suspects, reassuring [him] is difficult for anyone.",
+ "translation": "If you wish to protect yourself, guard against committing grave errors or revealing secrets; once suspicion is aroused in the ruler's mind, it is impossible for anyone to reassure him.",
+ "modern": "தன்னைத் தற்காத்துக் கொள்ள விரும்பினால், அரிய தவறுகள் நேராதவாறு (அல்லது இரகசியங்களை) காக்க வேண்டும்; அரசர் சந்தேகம் கொண்ட பிறகு, அவரது ஐயத்தைப் போக்கித் தெளிவிப்பது எவருக்கும் இயலாத காரியம் ஆகும்.",
+ "explanation": "This couplet advises those who associate closely with rulers on how to maintain their safety. The poet emphasizes that the most crucial defense is to avoid committing serious mistakes or leaking confidential matters ('அரியவை போற்றல்'). Once a ruler begins to harbor suspicion ('கடுத்தபின்'), it becomes nearly impossible for anyone—including the accused or their allies—to clear that doubt and restore trust ('தேற்றுதல் யார்க்கும் அரிது'). Therefore, prevention through careful conduct is the only reliable safeguard.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

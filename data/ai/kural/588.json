@@ -9,20 +9,15 @@
      "gloss": "spy"
     }
    ],
-   "gloss": "spy"
+   "gloss": "A spy"
   },
   {
    "surface": "ஒற்றி",
    "parts": [
     {
-     "text": "ஒற்று",
+     "text": "ஒற்றி",
      "lemma": "ஒற்று",
-     "gloss": "spy"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "[adv. suffix]"
+     "gloss": "having spied"
     }
    ],
    "gloss": "having spied"
@@ -33,10 +28,10 @@
     {
      "text": "தந்த",
      "lemma": "தா",
-     "gloss": "given"
+     "gloss": "brought"
     }
    ],
-   "gloss": "given"
+   "gloss": "brought"
   },
   {
    "surface": "பொருளையும்",
@@ -44,12 +39,12 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "matter"
+     "gloss": "information"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[acc.]"
+     "gloss": "accusative marker"
     },
     {
      "text": "உம்",
@@ -57,7 +52,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "the matter even"
+   "gloss": "even the information"
   },
   {
    "surface": "மற்றும்",
@@ -73,7 +68,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "another"
+   "gloss": "and another"
   },
   {
    "surface": "ஓர்",
@@ -97,7 +92,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "[euphonic]"
+     "gloss": "increment"
     },
     {
      "text": "ஆல்",
@@ -111,14 +106,9 @@
    "surface": "ஒற்றி",
    "parts": [
     {
-     "text": "ஒற்று",
+     "text": "ஒற்றி",
      "lemma": "ஒற்று",
-     "gloss": "verify"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "[adv. suffix]"
+     "gloss": "having spied"
     }
    ],
    "gloss": "having verified"
@@ -127,23 +117,18 @@
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "take"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "[verbal noun]"
+     "gloss": "should confirm"
     }
    ],
-   "gloss": "taking"
+   "gloss": "should confirm"
   }
  ],
- "literal": "Spy having spied given matter-even, by another one spy having verified taking.",
- "translation": "Even the information brought by a spy who has investigated, accept it only after verifying it through another spy.",
- "modern": "ஒரு ஒற்றன் ஆராய்ந்து கொண்டுவந்த செய்தியையும், வேறு ஒரு ஒற்றனைக் கொண்டு மீண்டும் ஆராய்ந்த பிறகே ஏற்றுக்கொள்ள வேண்டும்.",
- "explanation": "This couplet emphasizes the necessity of cross-verifying intelligence. The word 'ஒற்று' (spy) and its verbal form 'ஒற்றி' (having spied or verified) are repeated to highlight the continuous process of gathering and checking information. Even when a trusted spy brings a report, a ruler must not accept it immediately. Instead, they must use another independent spy to verify the facts before acting upon them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A spy, having spied, the information brought, even that, by another one spy, having verified, should confirm.",
+ "translation": "Even the information brought by a spy who has investigated must be verified and confirmed through another independent spy.",
+ "modern": "ஒரு ஒற்றன் ஆராய்ந்து கொண்டு வந்த செய்தியையும், வேறொரு ஒற்றனைக் கொண்டு ஆராய்ந்து உண்மை என்று உறுதி செய்து கொள்ள வேண்டும்.",
+ "explanation": "This couplet highlights the necessity of cross-verifying intelligence in statecraft. A ruler must not act immediately on the report of a single spy, as there is always a risk of error, bias, or deception. Instead, the ruler should send a second, independent spy to investigate the same matter. Only when the information brought by the first spy is confirmed by the second spy should it be accepted as the truth. This double-check system ensures the accuracy of crucial state decisions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

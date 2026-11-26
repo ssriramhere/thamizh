@@ -28,7 +28,7 @@
     {
      "text": "ஒன்னார்",
      "lemma": "ஒன்னார்",
-     "gloss": "foes"
+     "gloss": "enemies"
     },
     {
      "text": "கண்",
@@ -36,7 +36,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with foes"
+   "gloss": "from enemies"
   },
   {
    "surface": "கொள்ளற்க",
@@ -44,11 +44,11 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "take"
+     "gloss": "accept"
     },
     {
      "text": "அற்க",
-     "lemma": "அல்",
+     "lemma": "அற்க",
      "gloss": "do not"
     }
    ],
@@ -92,22 +92,22 @@
    "parts": [
     {
      "text": "குறித்தமை",
-     "lemma": "குறி",
-     "gloss": "fact of intending"
+     "lemma": "குறித்தல்",
+     "gloss": "having intended"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "because"
+     "gloss": "because of"
     }
    ],
    "gloss": "because of intending"
   }
  ],
- "literal": "Word humility foes-with do-not-accept bow bending harm because-of-intending.",
- "translation": "Do not accept the humble words of foes, for the bending of a bow intends only harm.",
- "modern": "பகைவர்கள் பணிவாகப் பேசும் சொற்களை நம்பி ஏற்றுக்கொள்ளக் கூடாது. ஏனென்றால், வில் வளைவது ஒருவருக்குத் தீங்கு செய்வதையே நோக்கமாகக் கொண்டது.",
- "explanation": "This couplet warns against trusting the submissive or polite speech of enemies. The word 'வணக்கம்' is used brilliantly in two senses: the humility of words and the physical bending of a bow. Just as a bow bends only to shoot an arrow and cause harm, an enemy's humble words are a deceptive posture meant to strike when the time is right. Therefore, one should never accept such false humility.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Word humility from enemies do not accept; bow bending harm because of intending.",
+ "translation": "Do not accept the humble words of your enemies; the bending of a bow is only for bringing about harm.",
+ "modern": "பகைவர்களிடம் காணப்படும் பணிவான சொற்களை நம்பி ஏற்றுக்கொள்ளக் கூடாது; ஏனெனில், வில் வளைவது தீமை செய்வதற்காகவே ஆகும்.",
+ "explanation": "This couplet warns us not to trust the polite or submissive words of an enemy. The poet uses a brilliant double meaning of the word 'vaṇakkam', which means both 'humility' (in speech) and 'bending' (of an object). Just as the bending of a bow is not a sign of respect but a preparation to shoot a lethal arrow, the humble speech of an adversary is merely a prelude to causing harm. Therefore, one must remain vigilant and not be deceived by superficial sweetness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

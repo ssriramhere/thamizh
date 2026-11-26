@@ -6,10 +6,10 @@
     {
      "text": "செறிவு",
      "lemma": "செறிவு",
-     "gloss": "firmness"
+     "gloss": "self-control"
     }
    ],
-   "gloss": "firmness"
+   "gloss": "self-control"
   },
   {
    "surface": "அறிந்து",
@@ -50,10 +50,10 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     }
    ],
-   "gloss": "knowledge"
+   "gloss": "wisdom"
   },
   {
    "surface": "அறிந்து",
@@ -71,11 +71,12 @@
    "parts": [
     {
      "text": "ஆற்றின்",
-     "lemma": "ஆறு",
-     "gloss": "in the proper way"
+     "lemma": "ஆற்றின்",
+     "gloss": "in the path"
     }
    ],
-   "gloss": "in the proper way"
+   "gloss": "in the path",
+   "split_unverified": true
   },
   {
    "surface": "அடங்க",
@@ -94,16 +95,16 @@
     {
      "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "if achieved"
+     "gloss": "if one obtains"
     }
    ],
-   "gloss": "if achieved"
+   "gloss": "if one obtains"
   }
  ],
- "literal": "Firmness having known, greatness it will yield; knowledge having known, in the proper way to be restrained if achieved.",
- "translation": "If one learns what is to be known and achieves self-restraint in the proper way, that firmness will be recognized and bring them greatness.",
- "modern": "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடக்கத்துடன் நடந்தால், அந்த அடக்கத்தை உலகம் அறிந்து பெருமை தரும்.",
- "explanation": "This couplet highlights the reward of disciplined self-restraint. It states that one must first acquire true knowledge and then apply it to restrain oneself in the righteous path. When a person achieves this, their steadfastness is recognized by the world, which in turn brings them immense greatness and respect.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Knowing the value of self-control, greatness it will yield, if, knowing wisdom, one is able to remain restrained in that path.",
+ "translation": "If one acquires wisdom and remains self-controlled in that path, that restraint, being recognized, will bring them great excellence.",
+ "modern": "அறிய வேண்டியவற்றை அறிந்து, நல்வழியில் அடங்கி வாழப் பெற்றால், அந்த அடக்கமானது அவனுக்குப் பெருமையைத் தரும்.",
+ "explanation": "This couplet highlights how self-control leads to true greatness when guided by wisdom. The poet states that if a person acquires proper knowledge and uses it to walk in the path of self-restraint, that restraint itself becomes a source of great dignity. The word 'cerivu' refers to the firmness of self-control, which yields excellence when practiced knowingly. Thus, true self-control is not passive, but an active, wise choice of conducting oneself in the right path.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

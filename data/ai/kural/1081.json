@@ -6,10 +6,10 @@
     {
      "text": "அணங்கு",
      "lemma": "அணங்கு",
-     "gloss": "goddess"
+     "gloss": "celestial maiden"
     }
    ],
-   "gloss": "goddess"
+   "gloss": "celestial maiden"
   },
   {
    "surface": "கொல்",
@@ -17,10 +17,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "is it"
+     "gloss": "particle of doubt"
     }
    ],
-   "gloss": "is it"
+   "gloss": "is she?"
   },
   {
    "surface": "ஆய்மயில்",
@@ -44,15 +44,15 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "is it"
+     "gloss": "particle of doubt"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[question]"
+     "gloss": "clitic of emphasis"
     }
    ],
-   "gloss": "or is it"
+   "gloss": "or is she indeed?"
   },
   {
    "surface": "கனங்குழை",
@@ -68,7 +68,7 @@
      "gloss": "earring"
     }
    ],
-   "gloss": "heavy earring"
+   "gloss": "she who wears heavy earrings"
   },
   {
    "surface": "மாதர்",
@@ -79,7 +79,7 @@
      "gloss": "woman"
     }
    ],
-   "gloss": "woman"
+   "gloss": "human woman"
   },
   {
    "surface": "கொல்",
@@ -87,26 +87,21 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "is it"
+     "gloss": "particle of doubt"
     }
    ],
-   "gloss": "or is it"
+   "gloss": "or is she?"
   },
   {
    "surface": "மாலும்",
    "parts": [
     {
-     "text": "மால்",
-     "lemma": "மால்",
-     "gloss": "to be confused"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "[non-past]"
+     "text": "மாலும்",
+     "lemma": "மாலுதல்",
+     "gloss": "is bewildered"
     }
    ],
-   "gloss": "is confused"
+   "gloss": "is bewildered"
   },
   {
    "surface": "என்",
@@ -131,10 +126,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "Goddess is it, beautiful peacock is it, heavy-earringed woman is it? Is confused my heart.",
- "translation": "Is she a goddess, a beautiful peacock, or a mortal woman wearing heavy earrings? My heart is utterly bewildered.",
- "modern": "இவள் தெய்வப் பெண்ணா, அல்லது அழகிய மயிலா, அல்லது கனமான காதணிகளை அணிந்த மனிதப் பெண்ணா என்று தெரியாமல் என் நெஞ்சம் மயங்குகிறது.",
- "explanation": "This couplet captures the speaker's overwhelming awe upon seeing a beautiful woman for the first time. He wonders if she is a celestial goddess, a graceful peacock, or a mortal woman adorned with heavy earrings. The repeated use of the particle 'kol' (is it / or) emphasizes his deep uncertainty and wonder. Ultimately, her stunning appearance leaves his heart completely bewildered and unable to decide.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A celestial maiden? Or a beautiful peacock? Or a woman wearing heavy earrings? Bewildered is my heart.",
+ "translation": "Is she a celestial maiden? Or a beautiful peacock? Or a mortal woman wearing heavy earrings? My heart is utterly bewildered.",
+ "modern": "இவள் ஒரு தெய்வப் பெண்ணா? அல்லது அழகான மயிலா? அல்லது கனமான காதணிகளை அணிந்த மனிதப் பெண்ணா? என்று என் நெஞ்சம் மயங்குகிறது.",
+ "explanation": "This couplet describes the protagonist's awe and confusion upon first seeing the heroine. Her extraordinary beauty makes him wonder if she is a divine being (அணங்கு), a graceful peacock (ஆய்மயில்), or a mortal woman adorned with heavy earrings (கனங்குழை மாதர்). The repeated use of the particle of doubt 'கொல்' and 'கொல்லோ' highlights his hesitation and inability to decide. Ultimately, his heart is left in a state of complete bewilderment ('மாலும் என் நெஞ்சு') by her mesmerizing presence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

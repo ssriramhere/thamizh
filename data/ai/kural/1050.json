@@ -6,10 +6,10 @@
     {
      "text": "துப்புரவு",
      "lemma": "துப்புரவு",
-     "gloss": "means of subsistence"
+     "gloss": "basic resources"
     }
    ],
-   "gloss": "means of subsistence"
+   "gloss": "basic resources of life"
   },
   {
    "surface": "இல்லார்",
@@ -17,12 +17,12 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not-have"
+     "gloss": "not having"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (epicene plural)"
+     "gloss": "they who"
     }
    ],
    "gloss": "those who lack"
@@ -49,7 +49,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not doing"
     }
    ],
    "gloss": "not renouncing"
@@ -65,20 +65,20 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative case"
+     "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/even"
+     "gloss": "and"
     }
    ],
-   "gloss": "even to salt"
+   "gloss": "and to salt"
   },
   {
    "surface": "காடிக்கும்",
@@ -86,20 +86,20 @@
     {
      "text": "காடி",
      "lemma": "காடி",
-     "gloss": "gruel"
+     "gloss": "sour gruel"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative case"
+     "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/even"
+     "gloss": "and"
     }
    ],
-   "gloss": "and to gruel"
+   "gloss": "and to sour gruel"
   },
   {
    "surface": "கூற்று",
@@ -107,16 +107,16 @@
     {
      "text": "கூற்று",
      "lemma": "கூற்று",
-     "gloss": "death/destroyer"
+     "gloss": "death"
     }
    ],
-   "gloss": "death"
+   "gloss": "death or destroyer"
   }
  ],
- "literal": "Means of subsistence those who lack completely not renouncing, to salt and to gruel is death.",
- "translation": "When those who lack the means to live fail to renounce the world completely, they become a deadly burden even to the salt and gruel of others.",
- "modern": "அடிப்படை வசதிகள் இல்லாதவர்கள் உலகத்தை முழுமையாகத் துறக்காமல் வாழ்வது, மற்றவர்களுடைய உப்புக்கும் கஞ்சிக்கும் எமனாக முடியும்.",
- "explanation": "This couplet highlights the severe burden of extreme poverty. The word 'tuppuravu' can mean enjoyment or purity, but here it specifically refers to the basic means of subsistence. When people utterly lack these means but still cling to worldly life, they must depend on others for the barest necessities. The poet uses the striking metaphor of 'kūṟṟu' (death or the destroyer) to show that such clinging consumes and destroys even the cheap salt and sour gruel of their neighbors.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who lack basic resources, completely not renouncing, is death to salt and to sour gruel.",
+ "translation": "For those who lack the basic resources of life, not renouncing domestic life completely is a death-blow to even their meager salt and sour gruel.",
+ "modern": "அனுபவிக்கத்தக்க பொருள்கள் இல்லாதவர்கள், இல்லற வாழ்க்கையை முற்றிலும் துறந்துவிடாமல் இருப்பது, அவர்கள் உண்ணும் எளிய உப்பிற்கும் கஞ்சிக்கும் கூட எமனாக (அழிவாக) முடியும்.",
+ "explanation": "This couplet describes the extreme misery of poverty in domestic life. The word 'துப்புரவு' refers to the basic resources or comforts of life, while 'துவர' means completely. When destitute people who lack even basic amenities refuse to completely renounce the householder's life, they struggle to survive. Their desperate attempt to maintain a household makes them consume even the cheapest, most basic food items like salt and sour gruel, thereby acting as a destroyer to these meager provisions. The poet uses the image of 'death' to show how poverty reduces a person to a state where even the simplest sustenance is exhausted.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

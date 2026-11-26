@@ -4,28 +4,33 @@
    "surface": "மனத்தின்",
    "parts": [
     {
-     "text": "மனத்தின்",
+     "text": "மனத்து",
      "lemma": "மனம்",
-     "gloss": "in mind"
+     "gloss": "mind"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "in"
     }
    ],
-   "gloss": "in mind"
+   "gloss": "in the mind"
   },
   {
    "surface": "அமையாதவரை",
    "parts": [
     {
      "text": "அமையாதவர்",
-     "lemma": "அமை",
+     "lemma": "அமையாதவர்",
      "gloss": "those who do not agree"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "those who do not agree"
+   "gloss": "those who do not agree in heart"
   },
   {
    "surface": "எனைத்து",
@@ -33,60 +38,80 @@
     {
      "text": "எனைத்து",
      "lemma": "எனைத்து",
-     "gloss": "whatever measure"
+     "gloss": "howsoever much"
     }
    ],
-   "gloss": "whatever measure"
+   "gloss": "in any measure"
   },
   {
    "surface": "ஒன்றும்",
    "parts": [
     {
-     "text": "ஒன்றும்",
+     "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "anything"
+     "gloss": "one thing"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "anything"
+   "gloss": "even a single bit"
   },
   {
    "surface": "சொல்லினால்",
    "parts": [
     {
-     "text": "சொல்லினால்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "by word"
+     "gloss": "word"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "increment"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
     }
    ],
-   "gloss": "by word"
+   "gloss": "by their words"
   },
   {
    "surface": "தேறற்பாற்று",
    "parts": [
     {
-     "text": "தேறற்பாற்று",
-     "lemma": "தேறு",
-     "gloss": "nature of trusting"
+     "text": "தேறல்",
+     "lemma": "தேறுதல்",
+     "gloss": "trusting"
+    },
+    {
+     "text": "பாற்று",
+     "lemma": "பாடு",
+     "gloss": "nature of"
     }
    ],
-   "gloss": "nature of trusting"
+   "gloss": "is of a nature to be trusted"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "it is not"
   }
  ],
- "literal": "In mind those who do not agree, in whatever measure anything, by word, of the nature of trusting it is not.",
- "translation": "It is never right to trust the words of those whose minds do not agree with yours, no matter what they say.",
- "modern": "மனத்தால் நம்மோடு பொருந்தாதவர்களை, அவர்கள் சொல்லும் சொற்களைக் கொண்டு எந்த அளவிலும் நம்புவது கூடாது.",
- "explanation": "This couplet warns against trusting people who harbor inner enmity while speaking friendly words. The phrase 'மனத்தின் அமையாதவரை' refers to those whose minds are not aligned or in harmony with ours. 'எனைத்தொன்றும்' emphasizes that one should not trust them even a little bit or in any matter. 'சொல்லினால் தேறற்பாற்று அன்று' concludes that relying merely on their spoken words is not a trustworthy course of action, as their outward speech contradicts their inner feelings.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who do not fit in their mind, even in the slightest measure, by their words, to trust is not the right way.",
+ "translation": "It is never right to trust those whose minds do not agree with you, no matter how much they promise with their words.",
+ "modern": "மனதால் நம்மோடு பொருந்தாதவர்களை, அவர்கள் கூறும் சொற்களைக் கொண்டு எவ்வகையிலும் நம்புவது தகுதியற்றது.",
+ "explanation": "This couplet warns us against trusting insincere people whose inner minds do not align with their outward behavior. The phrase 'மனத்தின் அமையாதவர்' refers to those whose hearts are not truly united or in harmony with us. Even if they speak sweet, reassuring words, one should not rely on them in the slightest degree. True friendship requires a union of minds, and relying merely on verbal assurances from those who are mentally detached is a path to deception.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

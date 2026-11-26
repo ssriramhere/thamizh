@@ -6,7 +6,7 @@
     {
      "text": "சிறப்பு",
      "lemma": "சிறப்பு",
-     "gloss": "special festival"
+     "gloss": "grand festival"
     },
     {
      "text": "ஒடு",
@@ -14,7 +14,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "special festivals and"
+   "gloss": "with grand festivals"
   },
   {
    "surface": "பூசனை",
@@ -32,11 +32,11 @@
    "parts": [
     {
      "text": "செல்லாது",
-     "lemma": "செல்",
-     "gloss": "will not proceed"
+     "lemma": "செல்லுதல்",
+     "gloss": "will not happen"
     }
    ],
-   "gloss": "will not proceed"
+   "gloss": "will not take place"
   },
   {
    "surface": "வானம்",
@@ -44,18 +44,18 @@
     {
      "text": "வானம்",
      "lemma": "வானம்",
-     "gloss": "sky"
+     "gloss": "sky or rain"
     }
    ],
-   "gloss": "sky (rain)"
+   "gloss": "the sky"
   },
   {
    "surface": "வறக்குமேல்",
    "parts": [
     {
      "text": "வறக்கும்",
-     "lemma": "வற",
-     "gloss": "will dry up"
+     "lemma": "வறத்தல்",
+     "gloss": "dries up"
     },
     {
      "text": "ஏல்",
@@ -69,14 +69,9 @@
    "surface": "வானோர்க்கும்",
    "parts": [
     {
-     "text": "வானோர்",
+     "text": "வானோர்க்கு",
      "lemma": "வானோர்",
-     "gloss": "celestials"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to the heavenly beings"
     },
     {
      "text": "உம்",
@@ -84,7 +79,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even for the celestials"
+   "gloss": "even for the heavenly beings"
   },
   {
    "surface": "ஈண்டு",
@@ -92,16 +87,16 @@
     {
      "text": "ஈண்டு",
      "lemma": "ஈண்டு",
-     "gloss": "here"
+     "gloss": "here in this world"
     }
    ],
    "gloss": "here"
   }
  ],
- "literal": "Special festivals and daily worship will not proceed, sky if it dries up, even for the celestials here.",
- "translation": "If the heavens dry up, neither special festivals nor daily worship will be offered here on earth, even for the celestial beings.",
- "modern": "மழை பெய்யாமல் வானம் வறண்டு போனால், இந்த உலகத்தில் தேவர்களுக்கும் திருவிழாக்களும் அன்றாடப் பூஜைகளும் நடைபெறாது.",
- "explanation": "This couplet highlights the absolute dependence of all earthly activities on rain, including the highest spiritual duties. The word வானம் (sky) stands for the rain it provides, and வறக்குமேல் means if it dries up. சிறப்பு refers to grand seasonal festivals, while பூசனை denotes regular daily worship. The verse states that without rain, human beings will lack the resources to perform even these sacred offerings to the celestial beings (வானோர்க்கும்) here on earth (ஈண்டு).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With grand festivals, daily worship will not happen, if the sky dries up, even for the heavenly beings, here.",
+ "translation": "If the heavens dry up, neither grand festivals nor daily worship will be offered here in this world, even to the heavenly gods.",
+ "modern": "வானம் மழை தராமல் வறண்டு போனால், இவ்வுலகில் தேவர்களுக்கும் கூடச் சிறப்பு வழிபாடுகளும் தினசரி பூசைகளும் நடைபெறாது.",
+ "explanation": "This couplet highlights the absolute dependency of all religious rituals on rain. The author states that if the sky fails to pour rain, even the gods in heaven will not receive their grand festivals or daily offerings from the people on earth. The word 'வறக்குமேல்' combines 'வறக்கும்' (dries up) and 'ஏல்' (if) to set the condition of drought. The particle 'உம்' in 'வானோர்க்கும்' emphasizes that even the divine beings, who are otherwise exalted, lose their worship when the earth lacks water.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

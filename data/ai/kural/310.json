@@ -5,22 +5,22 @@
    "parts": [
     {
      "text": "இறந்தார்",
-     "lemma": "இற",
-     "gloss": "those who transgress"
+     "lemma": "இறத்தல்",
+     "gloss": "those who transgressed"
     }
    ],
-   "gloss": "those who transgress"
+   "gloss": "those who transgressed"
   },
   {
    "surface": "இறந்தார்",
    "parts": [
     {
      "text": "இறந்தார்",
-     "lemma": "இற",
-     "gloss": "dead people"
+     "lemma": "இறத்தல்",
+     "gloss": "those who died"
     }
    ],
-   "gloss": "dead people"
+   "gloss": "those who died"
   },
   {
    "surface": "அனையர்",
@@ -37,9 +37,14 @@
    "surface": "சினத்தை",
    "parts": [
     {
-     "text": "சினத்தை",
+     "text": "சினத்து",
      "lemma": "சினம்",
      "gloss": "anger"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "anger"
@@ -49,22 +54,22 @@
    "parts": [
     {
      "text": "துறந்தார்",
-     "lemma": "துற",
-     "gloss": "those who renounced"
+     "lemma": "துறத்தல்",
+     "gloss": "those who gave up"
     }
    ],
-   "gloss": "those who renounced"
+   "gloss": "those who gave up"
   },
   {
    "surface": "துறந்தார்",
    "parts": [
     {
      "text": "துறந்தார்",
-     "lemma": "துற",
-     "gloss": "ascetics"
+     "lemma": "துறத்தல்",
+     "gloss": "those who renounced"
     }
    ],
-   "gloss": "ascetics"
+   "gloss": "those who renounced"
   },
   {
    "surface": "துணை",
@@ -72,16 +77,16 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "equal"
+     "gloss": "equal to"
     }
    ],
-   "gloss": "equal"
+   "gloss": "equal to"
   }
  ],
- "literal": "Those who transgress dead people are like; anger those who renounced ascetics equal.",
- "translation": "Those who transgress through anger are like the dead. Those who have renounced anger are equal to ascetics who have renounced everything.",
- "modern": "சினத்தால் நன்னடத்தை வரம்பை மீறியவர்கள் இறந்தவர்களுக்கு ஒப்பானவர்கள். சினத்தை விட்டொழித்தவர்கள் முற்றும் துறந்த முனிவர்களுக்கு ஒப்பானவர்கள்.",
- "explanation": "This couplet contrasts those who yield to anger with those who conquer it. The word 'இறந்தார்' is used twice: first to mean those who transgress the limits of good conduct through anger, and second to mean the dead, implying that angry people are as good as dead. Similarly, 'துறந்தார்' is used twice: first for those who have renounced anger, and second for ascetics who have renounced the world, showing that conquering anger is as great as ultimate renunciation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who transgressed are like those who died; those who gave up anger are equal to those who renounced.",
+ "translation": "Those who transgress limits through anger are like those who are dead; those who give up anger are equal to the ascetics who have renounced the world.",
+ "modern": "சினம்கொண்டு வரம்பு மீறியவர்கள் இறந்தவர்களுக்கு ஒப்பாவார்கள்; சினத்தைத் துறந்தவர்கள் உலகப்பற்றைத் துறந்த முனிவர்களுக்கு ஒப்பாவார்கள்.",
+ "explanation": "This couplet uses a powerful parallel structure to contrast those who yield to anger with those who conquer it. The poet states that people who lose control and transgress the bounds of virtue through anger are as good as dead, having lost their conscious humanity. Conversely, those who give up anger are equal to the great ascetics who have renounced all worldly desires. The wordplay on the words meaning 'transgressed/died' and 'gave up/renounced' beautifully highlights how overcoming anger is equivalent to the highest spiritual renunciation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

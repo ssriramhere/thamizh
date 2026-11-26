@@ -6,7 +6,7 @@
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "not/bad"
+     "gloss": "not"
     },
     {
      "text": "அவை",
@@ -20,14 +20,9 @@
    "surface": "தேய",
    "parts": [
     {
-     "text": "தேய்",
+     "text": "தேய",
      "lemma": "தேய்",
-     "gloss": "to wear away"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to diminish"
     }
    ],
    "gloss": "to diminish"
@@ -47,14 +42,9 @@
    "surface": "பெருகும்",
    "parts": [
     {
-     "text": "பெருகு",
+     "text": "பெருகும்",
      "lemma": "பெருகு",
      "gloss": "to increase"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
     }
    ],
    "gloss": "will increase"
@@ -64,7 +54,7 @@
    "parts": [
     {
      "text": "நல்",
-     "lemma": "நன்மை",
+     "lemma": "நல்",
      "gloss": "good"
     },
     {
@@ -79,14 +69,9 @@
    "surface": "நாடி",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடி",
      "lemma": "நாடு",
      "gloss": "to seek"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "having sought"
@@ -96,11 +81,11 @@
    "parts": [
     {
      "text": "இனிய",
-     "lemma": "இனிய",
+     "lemma": "இனிது",
      "gloss": "pleasant"
     }
    ],
-   "gloss": "pleasant"
+   "gloss": "pleasant words"
   },
   {
    "surface": "சொலின்",
@@ -113,16 +98,16 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if"
     }
    ],
-   "gloss": "if (one) speaks"
+   "gloss": "if one speaks"
   }
  ],
- "literal": "Evil things to diminish, virtue will increase, good things having sought, if pleasant (words) one speaks.",
- "translation": "If one seeks out good things and speaks pleasant words, their sins will diminish and their virtue will increase.",
- "modern": "நன்மையானவைகளை ஆராய்ந்து இனிமையான சொற்களைச் சொன்னால், ஒருவருடைய பாவங்கள் குறைந்து அறம் பெருகும்.",
- "explanation": "This couplet explains the moral benefits of speaking kindly. It says that when a person actively seeks out good thoughts and speaks pleasant words, the negative aspects of their life will wear away. At the same time, their virtue and righteousness will naturally grow. The words 'தேய' (diminish) and 'பெருகும்' (increase) create a powerful contrast, showing how good speech replaces evil with virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Evils having diminished, virtue will increase, good things having sought, pleasant words if one speaks.",
+ "translation": "If one seeks to do good and speaks pleasant words, their sins will diminish and virtue will grow.",
+ "modern": "நன்மையானவற்றை விரும்பி, இனிமையான சொற்களைப் பேசினால், பாவங்கள் தேய்ந்து அழியும்; அறம் பெருகும்.",
+ "explanation": "This couplet highlights the transformative power of kind speech. When a person actively seeks out what is good (நல்லவை நாடி) and speaks sweet, pleasant words (இனிய சொலின்), it brings about a dual effect. Their vices and past sins (அல்லவை) gradually wear away and diminish (தேய), while their righteousness and moral virtue (அறம்) grow and flourish (பெருகும்). The poet shows that pleasant speech is not just a social courtesy but a powerful practice that purifies one's character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

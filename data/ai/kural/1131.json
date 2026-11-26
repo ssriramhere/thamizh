@@ -6,17 +6,17 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "desire"
+     "gloss": "love"
     }
    ],
-   "gloss": "desire"
+   "gloss": "love"
   },
   {
    "surface": "உழந்து",
    "parts": [
     {
      "text": "உழந்து",
-     "lemma": "உழ",
+     "lemma": "உழத்தல்",
      "gloss": "having suffered"
     }
    ],
@@ -36,7 +36,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to those who grieved"
+   "gloss": "to those who grieve"
   },
   {
    "surface": "ஏமம்",
@@ -44,10 +44,10 @@
     {
      "text": "ஏமம்",
      "lemma": "ஏமம்",
-     "gloss": "protection"
+     "gloss": "refuge"
     }
    ],
-   "gloss": "protection"
+   "gloss": "refuge"
   },
   {
    "surface": "மடல்",
@@ -55,10 +55,10 @@
     {
      "text": "மடல்",
      "lemma": "மடல்",
-     "gloss": "palmyra stem"
+     "gloss": "palmyra-stem horse"
     }
    ],
-   "gloss": "palmyra stem"
+   "gloss": "palmyra-stem horse"
   },
   {
    "surface": "அல்லது",
@@ -77,10 +77,10 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "வலி",
@@ -94,10 +94,10 @@
    "gloss": "strength"
   }
  ],
- "literal": "Desire having suffered, to those who grieved, protection except the palmyra stem, there is no strength.",
- "translation": "For those who have suffered and grieved in love, there is no strong refuge other than riding the palmyra stem.",
- "modern": "காதல் துன்பத்தால் வருந்தியவர்களுக்கு மடல் ஏறுவதைத் தவிர வேறு உறுதியான பாதுகாப்பு இல்லை.",
- "explanation": "This couplet captures the desperation of unfulfilled love. The phrase 'காமம் உழந்து வருந்தினார்க்கு' describes those who have struggled and suffered deeply from intense romantic desire. In their extreme distress, their only remaining source of strength and refuge ('ஏமம்', 'வலி') is 'மடல்'. This refers to the ancient Tamil practice where a desperate lover publicly rides a rough horse made of jagged palmyra stems to win their beloved or perish. The speaker asserts that when love brings unbearable pain, this drastic public declaration is the only strong recourse left.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who suffer and grieve from love, there is no strength or refuge other than the palmyra-stem horse.",
+ "translation": "For those who suffer and grieve under the pain of love, there is no other strength or refuge except riding the palmyra-stem horse.",
+ "modern": "காம நோயால் வருந்தித் துன்பப்படுபவர்களுக்கு, மடலேறுதலைத் தவிர வேறு எந்தப் புகலிடமும் வலிமையும் இல்லை.",
+ "explanation": "This couplet describes the desperate state of a lover who is suffering from intense love-sickness. The word 'maṭal' refers to the ancient practice of riding a horse made of jagged palmyra stems to publicly declare one's unrequited love. The poet explains that for those who endure such agonizing love ('kāmam uḻantu varuntinārkku'), there is no other source of strength ('vali') or refuge ('ēmam') left to them. By choosing to ride the 'maṭal', the lover abandons all social modesty as a final, desperate attempt to find relief.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

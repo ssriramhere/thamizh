@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "கொடுப்பது",
-     "lemma": "கொடு",
+     "lemma": "கொடுப்பது",
      "gloss": "that which is given"
     }
    ],
-   "gloss": "that which is given"
+   "gloss": "that which is given (as charity)"
   },
   {
    "surface": "அழுக்கு",
@@ -28,10 +28,10 @@
     {
      "text": "அறுப்பான்",
      "lemma": "அறு",
-     "gloss": "he who harbours"
+     "gloss": "one who grudges"
     }
    ],
-   "gloss": "he who harbours"
+   "gloss": "one who grudges (harbors envy)"
   },
   {
    "surface": "சுற்றம்",
@@ -39,10 +39,10 @@
     {
      "text": "சுற்றம்",
      "lemma": "சுற்றம்",
-     "gloss": "relatives"
+     "gloss": "relations"
     }
    ],
-   "gloss": "relatives"
+   "gloss": "relations or family"
   },
   {
    "surface": "உடுப்பதூஉம்",
@@ -50,10 +50,10 @@
     {
      "text": "உடுப்பதூஉம்",
      "lemma": "உடுப்பது",
-     "gloss": "clothing-even"
+     "gloss": "clothing as well"
     }
    ],
-   "gloss": "clothing-even"
+   "gloss": "clothing as well"
   },
   {
    "surface": "உண்பதூஉம்",
@@ -61,17 +61,17 @@
     {
      "text": "உண்பதூஉம்",
      "lemma": "உண்பது",
-     "gloss": "food-even"
+     "gloss": "food as well"
     }
    ],
-   "gloss": "food-even"
+   "gloss": "food as well"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
@@ -89,10 +89,10 @@
    "gloss": "will perish"
   }
  ],
- "literal": "that which is given - envy - he who harbours - relatives - clothing even - food even - without - will perish",
- "translation": "The family of one who envies what is given to others will perish, left without even food and clothing.",
- "modern": "பிறருக்குக் கொடுக்கப்படுவதைக் கண்டு பொறாமைப்படுபவனின் சுற்றத்தார், உடுப்பதற்கு உடையும் உண்பதற்கு உணவும் இல்லாமல் அழிந்து போவார்கள்.",
- "explanation": "This couplet warns of the destructive consequences of envy. If a person feels jealous when seeing others receive gifts or charity, that envy will ruin not just him but his entire family. The lengthened words 'உடுப்பதூஉம்' (even clothing) and 'உண்பதூஉம்' (even food) use a poetic device (aḷapeṭai) to emphasize the absolute destitution that will befall them, leaving them without the most basic necessities of life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The family of him who envies that which is given will perish, without even clothing and food.",
+ "translation": "The family of one who envies the gifts given to others will perish, stripped of even basic clothing and food.",
+ "modern": "பிறருக்குக் கொடுப்பதைக் கண்டு பொறாமைப்படுபவனுடைய சுற்றத்தார், உடுத்துவதற்கும் உண்பதற்கும் கூட இல்லாமல் அழிந்து போவார்கள்.",
+ "explanation": "This couplet warns against the devastating consequences of harboring envy (அழுக்காறு) towards the charity or gifts given to others. The poet states that if a person feels jealous when someone gives a gift to another, it is not just that individual who suffers, but their entire family (சுற்றம்) that will face ruin. The ruin is so absolute that they will lack even the barest necessities of life: clothing (உடுப்பதூஉம்) and food (உண்பதூஉம்). The poetic lengthening (அளபெடை) in these two words emphasizes the extreme deprivation of these basic needs.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

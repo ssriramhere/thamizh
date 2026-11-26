@@ -6,15 +6,15 @@
     {
      "text": "உள்ளு",
      "lemma": "உள்ளு",
-     "gloss": "to think"
+     "gloss": "think"
     },
     {
      "text": "அற்க",
      "lemma": "அற்க",
-     "gloss": "negative optative suffix"
+     "gloss": "do not (negative optative suffix)"
     }
    ],
-   "gloss": "do not think"
+   "gloss": "do not think of"
   },
   {
    "surface": "உள்ளம்",
@@ -25,28 +25,18 @@
      "gloss": "mind/spirit"
     }
    ],
-   "gloss": "spirit"
+   "gloss": "mind/spirit"
   },
   {
    "surface": "சிறுகுவ",
    "parts": [
     {
-     "text": "சிறுகு",
+     "text": "சிறுகுவ",
      "lemma": "சிறுகு",
-     "gloss": "to shrink"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "things that diminish/make small"
     }
    ],
-   "gloss": "things that diminish"
+   "gloss": "things that diminish (the mind's greatness)"
   },
   {
    "surface": "கொள்ளற்க",
@@ -54,15 +44,15 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "to take"
+     "gloss": "take/accept"
     },
     {
      "text": "அற்க",
      "lemma": "அற்க",
-     "gloss": "negative optative suffix"
+     "gloss": "do not (negative optative suffix)"
     }
    ],
-   "gloss": "do not take"
+   "gloss": "do not accept/take"
   },
   {
    "surface": "அல்லற்கண்",
@@ -70,15 +60,15 @@
     {
      "text": "அல்லல்",
      "lemma": "அல்லல்",
-     "gloss": "sorrow"
+     "gloss": "distress/affliction"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix"
+     "gloss": "at/in (locative suffix)"
     }
    ],
-   "gloss": "in sorrow"
+   "gloss": "in times of distress"
   },
   {
    "surface": "ஆற்று",
@@ -86,10 +76,10 @@
     {
      "text": "ஆற்று",
      "lemma": "ஆறு",
-     "gloss": "way/support"
+     "gloss": "way/path/support"
     }
    ],
-   "gloss": "support"
+   "gloss": "way/path/support"
   },
   {
    "surface": "அறுப்பார்",
@@ -97,25 +87,20 @@
     {
      "text": "அறு",
      "lemma": "அறு",
-     "gloss": "to cut"
+     "gloss": "cut off/sever/abandon"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (third person plural suffix)"
     }
    ],
-   "gloss": "those who cut off"
+   "gloss": "those who cut off/abandon"
   },
   {
    "surface": "நட்பு",
@@ -129,10 +114,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "Do not think of things that diminish the spirit; do not take, in sorrow, the friendship of those who cut off support.",
- "translation": "Do not harbor thoughts that diminish your spirit; do not accept the friendship of those who abandon you in times of sorrow.",
- "modern": "மன ஊக்கத்தைக் குறைக்கும் செயல்களை எண்ணாதிருக்க வேண்டும்; துன்பம் வந்த காலத்தில் துணையை விட்டு விலகுபவரின் நட்பைக் கொள்ளாதிருக்க வேண்டும்.",
- "explanation": "This couplet advises against two harmful things: discouraging thoughts and unreliable friends. First, one should not entertain thoughts that shrink the mind or diminish one's spirit. Second, one should never accept the friendship of those who sever their support when sorrow or trouble strikes. The word 'ஆற்று' (the oblique form of 'ஆறு', meaning way or support) combined with 'அறுப்பார்' vividly describes fair-weather friends who cut off their ties and leave one stranded in difficult times.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not think of things that diminish the mind; do not accept the friendship of those who, in times of distress, cut off the path of support.",
+ "translation": "Never harbor thoughts that diminish the greatness of your mind; likewise, never accept the friendship of those who abandon you in times of distress.",
+ "modern": "மனம் தளரக்கூடிய எண்ணங்களை நினைக்க வேண்டாம்; துன்பம் வரும் காலத்தில் வழியைக் கைவிட்டு விலகிப் போகிறவர்களின் நட்பைக் கொள்ள வேண்டாம்.",
+ "explanation": "This couplet advises the learner on two crucial things to avoid for maintaining personal dignity and strength. First, one must never think of thoughts that weaken or diminish the resolve and greatness of the mind (உள்ளம் சிறுகுவ உள்ளற்க). Second, one must never accept the friendship of those who cut off support (ஆற்றறுப்பார்) and leave one stranded in times of distress (அல்லற்கண்). Here, 'ஆற்று' refers to the path of support or strength, and 'அறுப்பார்' refers to those who sever that connection when it is needed most. True strength lies in keeping the mind elevated and avoiding fair-weather friends.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

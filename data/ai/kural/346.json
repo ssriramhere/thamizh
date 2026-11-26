@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "எனது",
-     "lemma": "யான்",
+     "lemma": "எனது",
      "gloss": "mine"
     }
    ],
@@ -28,10 +28,10 @@
     {
      "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "which says"
+     "gloss": "called"
     }
    ],
-   "gloss": "which says"
+   "gloss": "called"
   },
   {
    "surface": "செருக்கு",
@@ -39,32 +39,37 @@
     {
      "text": "செருக்கு",
      "lemma": "செருக்கு",
-     "gloss": "pride"
+     "gloss": "delusion"
     }
    ],
-   "gloss": "pride"
+   "gloss": "delusion"
   },
   {
    "surface": "அறுப்பான்",
    "parts": [
     {
      "text": "அறுப்பான்",
-     "lemma": "அறு",
-     "gloss": "he who severs"
+     "lemma": "அறுப்பான்",
+     "gloss": "he who cuts off"
     }
    ],
-   "gloss": "he who severs"
+   "gloss": "he who cuts off"
   },
   {
    "surface": "வானோர்க்கு",
    "parts": [
     {
-     "text": "வானோர்க்கு",
+     "text": "வானோர்",
      "lemma": "வானோர்",
-     "gloss": "to the celestials"
+     "gloss": "heavenly beings"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the celestials"
+   "gloss": "to the heavenly beings"
   },
   {
    "surface": "உயர்ந்த",
@@ -72,10 +77,10 @@
     {
      "text": "உயர்ந்த",
      "lemma": "உயர்",
-     "gloss": "which is high"
+     "gloss": "exalted"
     }
    ],
-   "gloss": "higher"
+   "gloss": "exalted"
   },
   {
    "surface": "உலகம்",
@@ -100,10 +105,10 @@
    "gloss": "will enter"
   }
  ],
- "literal": "\"I\" [and] \"mine\" which says pride he who severs, celestials-to higher world will enter.",
- "translation": "He who severs the pride that says \"I\" and \"mine\" will enter a world higher than that of the celestials.",
- "modern": "'நான்', 'என்னுடையது' என்று சொல்லும் அகந்தையை வேரறுப்பவன், தேவர்களுக்கும் மேலான உயர்ந்த உலகத்தை அடைவான்.",
- "explanation": "This couplet identifies the core of true renunciation as the elimination of ego and possessiveness. The words 'யான்' (I) and 'எனது' (mine) represent the root causes of worldly attachment. 'செருக்கு' denotes the arrogant delusion that arises from clinging to these two concepts. By completely severing ('அறுப்பான்') this pride, a person achieves a spiritual state or realm ('உலகம்') that surpasses even the heavens of the celestial beings ('வானோர்க்கு உயர்ந்த').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who cuts off the delusion called 'I' and 'mine' will enter a world exalted even to the heavenly beings.",
+ "translation": "He who cuts off the delusion of 'I' and 'mine' will enter a realm that is higher than even the world of the heavenly beings.",
+ "modern": "\"நான்\", \"எனது\" என்கின்ற அகந்தையை ஒழிப்பவன், தேவர்களுக்கும் மேலான உயர்ந்த உலகத்தை அடைவான்.",
+ "explanation": "This couplet explains the ultimate reward of true renunciation. The poet identifies the root of all worldly attachment as the dual delusion of 'I' (egoism) and 'mine' (possessiveness), referred to here as 'cerukku' (delusion or pride). One who completely severs ('aṟuppāṉ') this deep-seated ignorance does not merely attain a temporary heaven. Instead, they enter a supreme state of liberation ('ulakam') that is far superior ('uyarnta') to the transient pleasures enjoyed even by the celestial beings ('vāṉōr').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

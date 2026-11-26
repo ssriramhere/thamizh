@@ -5,27 +5,27 @@
    "parts": [
     {
      "text": "ஓர்ந்து",
-     "lemma": "ஓர்",
+     "lemma": "ஓரு",
      "gloss": "having investigated"
     }
    ],
-   "gloss": "having investigated"
+   "gloss": "having thoroughly investigated"
   },
   {
    "surface": "கண்ணோடாது",
    "parts": [
     {
-     "text": "கண்ணோடு",
-     "lemma": "கண்ணோடு",
-     "gloss": "to show partiality"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye (favoritism)"
     },
     {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "without"
+     "text": "ஓடாது",
+     "lemma": "ஓடு",
+     "gloss": "not running"
     }
    ],
-   "gloss": "without showing partiality"
+   "gloss": "without showing favoritism"
   },
   {
    "surface": "இறை",
@@ -33,10 +33,10 @@
     {
      "text": "இறை",
      "lemma": "இறை",
-     "gloss": "justice"
+     "gloss": "impartiality"
     }
    ],
-   "gloss": "justice"
+   "gloss": "impartiality or justice"
   },
   {
    "surface": "புரிந்து",
@@ -44,10 +44,10 @@
     {
      "text": "புரிந்து",
      "lemma": "புரி",
-     "gloss": "having adhered to"
+     "gloss": "desiring"
     }
    ],
-   "gloss": "having adhered to"
+   "gloss": "desiring or leaning towards"
   },
   {
    "surface": "யார்மாட்டும்",
@@ -55,17 +55,12 @@
     {
      "text": "யார்",
      "lemma": "யார்",
-     "gloss": "who"
+     "gloss": "whoever"
     },
     {
-     "text": "மாட்டு",
-     "lemma": "மாட்டு",
+     "text": "மாட்டும்",
+     "lemma": "மாடு",
      "gloss": "towards"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
     }
    ],
    "gloss": "towards anyone"
@@ -79,7 +74,7 @@
      "gloss": "having deliberated"
     }
    ],
-   "gloss": "having deliberated"
+   "gloss": "having deliberated carefully"
   },
   {
    "surface": "செய்வஃதே",
@@ -87,7 +82,7 @@
     {
      "text": "செய்வஃது",
      "lemma": "செய்வது",
-     "gloss": "that which is done"
+     "gloss": "doing"
     },
     {
      "text": "ஏ",
@@ -95,7 +90,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "doing that indeed"
+   "gloss": "doing indeed"
   },
   {
    "surface": "முறை",
@@ -103,16 +98,16 @@
     {
      "text": "முறை",
      "lemma": "முறை",
-     "gloss": "proper rule"
+     "gloss": "righteous reign"
     }
    ],
-   "gloss": "proper rule"
+   "gloss": "the way of justice"
   }
  ],
- "literal": "Having investigated, without showing partiality, having adhered to justice, towards anyone having deliberated, that which is done indeed is proper rule.",
- "translation": "To investigate thoroughly, to show no partiality, to adhere to justice, and to act after careful deliberation towards anyone—this indeed is proper rule.",
- "modern": "எதனையும் நன்கு ஆராய்ந்து, யாரிடமும் பாரபட்சம் காட்டாமல், நடுவுநிலைமையோடு பொருந்தி, அனைவரிடமும் தகுந்ததை ஆராய்ந்து செய்வதே சரியான ஆட்சியாகும்.",
- "explanation": "This couplet defines the essence of a just rule. The ruler must first investigate any matter thoroughly and act without showing personal favoritism. By adhering strictly to justice and carefully deliberating the consequences for anyone involved, the actions taken constitute true and proper governance. The word 'iṟai' has multiple meanings including king or god, but here it specifically means impartial justice, which is the core duty of sovereignty.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having investigated, without showing favoritism, desiring impartiality, towards anyone, having deliberated, doing [justice] indeed is the way of a righteous reign.",
+ "translation": "To investigate a matter thoroughly, to show no favoritism, to lean only towards absolute impartiality, and to deliver judgment after careful deliberation is the true path of justice.",
+ "modern": "ஒரு குற்றத்தை நன்கு ஆராய்ந்து, யாரிடமும் பட்சபாதம் காட்டாமல், நடுநிலைமை தவறாமல், சட்டங்களை நன்கு ஆலோசித்துத் தண்டனை வழங்குவதே முறையான ஆட்சியாகும்.",
+ "explanation": "This couplet outlines the core duties of a ruler or judge in maintaining a righteous reign. First, they must fully investigate the facts of a case without rushing to judgment. Second, they must remain completely unbiased, refusing to let personal relationships or status influence their view. Third, they must lean only towards absolute impartiality, and finally, they must consult the laws and deliberate carefully before delivering a verdict. Following these steps is what defines true justice.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

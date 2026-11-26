@@ -6,32 +6,32 @@
     {
      "text": "விண்",
      "lemma": "விண்",
-     "gloss": "sky"
+     "gloss": "sky (rain)"
     }
    ],
-   "gloss": "sky"
+   "gloss": "the sky (or rain from the sky)"
   },
   {
    "surface": "இன்று",
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
-     "gloss": "without"
+     "lemma": "இன்று",
+     "gloss": "failing / being absent"
     }
    ],
-   "gloss": "without"
+   "gloss": "failing to yield rain"
   },
   {
    "surface": "பொய்ப்பின்",
    "parts": [
     {
      "text": "பொய்ப்பின்",
-     "lemma": "பொய்",
-     "gloss": "if fails"
+     "lemma": "பொய்த்தல்",
+     "gloss": "if [it] deceives / fails"
     }
    ],
-   "gloss": "if fails"
+   "gloss": "if it fails"
   },
   {
    "surface": "விரிநீர்",
@@ -39,7 +39,7 @@
     {
      "text": "விரி",
      "lemma": "விரி",
-     "gloss": "expanded"
+     "gloss": "expanding / vast"
     },
     {
      "text": "நீர்",
@@ -47,7 +47,7 @@
      "gloss": "water"
     }
    ],
-   "gloss": "expanded water"
+   "gloss": "vast water (the ocean)"
   },
   {
    "surface": "வியன்",
@@ -55,10 +55,10 @@
     {
      "text": "வியன்",
      "lemma": "வியன்",
-     "gloss": "vast"
+     "gloss": "wide / great"
     }
    ],
-   "gloss": "vast"
+   "gloss": "wide / great"
   },
   {
    "surface": "உலகத்து",
@@ -66,10 +66,10 @@
     {
      "text": "உலகத்து",
      "lemma": "உலகம்",
-     "gloss": "in the world"
+     "gloss": "of the world"
     }
    ],
-   "gloss": "in the world"
+   "gloss": "of the world"
   },
   {
    "surface": "உள்",
@@ -88,10 +88,10 @@
     {
      "text": "நின்று",
      "lemma": "நில்",
-     "gloss": "having stood"
+     "gloss": "standing / abiding"
     }
    ],
-   "gloss": "having stood"
+   "gloss": "abiding / staying"
   },
   {
    "surface": "உடற்றும்",
@@ -99,7 +99,7 @@
     {
      "text": "உடற்றும்",
      "lemma": "உடற்று",
-     "gloss": "will torment"
+     "gloss": "will torment / afflict"
     }
    ],
    "gloss": "will torment"
@@ -116,10 +116,10 @@
    "gloss": "hunger"
   }
  ],
- "literal": "Sky without if-fails, expanded-water vast world-in inside having-stood will-torment hunger.",
- "translation": "If the rain from the sky fails, hunger will stay and torment even this vast world surrounded by the wide sea.",
- "modern": "மழை பெய்யாமல் பொய்த்துவிட்டால், கடல் சூழ்ந்த இந்த அகன்ற உலகத்தின் உள்ளே பசி நிலைத்து நின்று உயிர்களைத் துன்புறுத்தும்.",
- "explanation": "This couplet emphasizes the absolute necessity of rain for survival. The phrase 'விரிநீர் வியனுலகத்து' describes the world as vast and surrounded by the expansive ocean. Despite having abundant seawater, the world cannot sustain life without fresh water from the sky ('விண்'). If the rain fails ('பொய்ப்பின்'), hunger ('பசி') will take root and continuously torment ('உடற்றும்') all living beings.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If the sky, failing, deceives, within the vast-watered great world, abiding inside, hunger will torment.",
+ "translation": "If the heavens fail and dry up, hunger will abide within and torment this great world, even though it is surrounded by the vast ocean.",
+ "modern": "மழை பெய்யாமல் பொய்த்துப் போனால், பரந்த கடலால் சூழப்பட்ட இப்பெரிய உலகத்தில் பசி நிலைபெற்று உயிர்களைத் துன்புறுத்தும்.",
+ "explanation": "This couplet highlights the absolute necessity of rain for survival. The poet contrasts the vast ocean ('விரிநீர்') surrounding the earth with the rain from the sky ('விண்'). Although the world is surrounded by abundant water, ocean water cannot sustain life or grow food. If the clouds fail ('பொய்ப்பின்') to bring rain, hunger ('பசி') will establish itself ('உள்நின்று') and torment ('உடற்றும்') all living beings on this great earth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

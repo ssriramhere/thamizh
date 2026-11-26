@@ -4,9 +4,19 @@
    "surface": "கேட்டார்",
    "parts": [
     {
-     "text": "கேட்டார்",
+     "text": "கேள்",
      "lemma": "கேள்",
-     "gloss": "those who listened"
+     "gloss": "hear"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
    "gloss": "those who listened"
@@ -15,31 +25,56 @@
    "surface": "பிணிக்கும்",
    "parts": [
     {
-     "text": "பிணிக்கும்",
+     "text": "பிணி",
      "lemma": "பிணி",
-     "gloss": "will bind"
+     "gloss": "bind"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "captivating"
+   "gloss": "captivating or binding"
   },
   {
    "surface": "தகையவாய்",
    "parts": [
     {
-     "text": "தகையவாய்",
+     "text": "தகை",
      "lemma": "தகை",
-     "gloss": "having the nature"
+     "gloss": "quality"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "possessing (pronominal suffix)"
+    },
+    {
+     "text": "ஆய்",
+     "lemma": "ஆய்",
+     "gloss": "having become (adverbial suffix)"
     }
    ],
-   "gloss": "having the nature"
+   "gloss": "having the quality of"
   },
   {
    "surface": "கேளாரும்",
    "parts": [
     {
      "text": "கேளார்",
-     "lemma": "கேள்",
-     "gloss": "those who did not listen"
+     "lemma": "கேளார்",
+     "gloss": "those who do not listen"
     },
     {
      "text": "உம்",
@@ -47,29 +82,49 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even those who did not listen"
+   "gloss": "even those who do not listen"
   },
   {
    "surface": "வேட்ப",
    "parts": [
     {
-     "text": "வேட்ப",
+     "text": "வேள்",
      "lemma": "வேள்",
-     "gloss": "to desire"
+     "gloss": "desire"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to desire"
+   "gloss": "so that they desire to hear"
   },
   {
    "surface": "மொழிவது",
    "parts": [
     {
-     "text": "மொழிவது",
+     "text": "மொழி",
      "lemma": "மொழி",
-     "gloss": "speaking"
+     "gloss": "speak"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "speaking"
+   "gloss": "that which is spoken"
   },
   {
    "surface": "ஆம்",
@@ -91,13 +146,13 @@
      "gloss": "speech"
     }
    ],
-   "gloss": "speech"
+   "gloss": "power of speech"
   }
  ],
- "literal": "Those who listened captivating having the nature, even those who did not listen to desire speaking is speech.",
- "translation": "True speech has the quality to captivate those who listen, and to make even those who have not listened desire to hear it.",
- "modern": "கேட்டவர்களைத் தன்வயப்படுத்தும் தன்மையுடையதாகவும், கேட்காதவர்களும் கேட்க விரும்புமாறு பேசுவதே சிறந்த சொல்லாற்றல் ஆகும்.",
- "explanation": "This couplet defines the true power of speech. It states that effective speech must have two qualities. First, it must captivate and hold the attention of those who are already listening. Second, its reputation and appeal must be so strong that even those who have not yet heard it desire to listen. The word 'பிணிக்கும்' (binding) vividly describes how a good speaker holds the audience spellbound.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Speaking that which has the quality of binding those who listened, and making even those who do not listen desire to hear, is power of speech.",
+ "translation": "True power of speech lies in speaking such that it captivates those who already listen, and makes even those who do not listen desire to hear.",
+ "modern": "கேட்டவர்களைத் தன்பால் ஈர்த்துப் பிணித்துக் கொள்ளும் தன்மையுடையதாகவும், கேட்காதவர்களும் விரும்பிக் கேட்கும் படியாகவும் பேசுவதே சொல்வன்மை ஆகும்.",
+ "explanation": "This couplet defines the ultimate standard of powerful speech (சொல்வன்மை). It must achieve two distinct effects: first, it must bind and captivate those who are already listening ('கேட்டார் பிணிக்கும்'), ensuring they remain engaged. Second, it must be so appealing that even those who are indifferent or disinclined to listen ('கேளாரும்') are moved by a desire ('வேட்ப') to hear it. The poet uses the contrasting terms 'கேட்டார்' (listeners) and 'கேளார்' (non-listeners) to show that a master communicator wins over both friends and strangers alike.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

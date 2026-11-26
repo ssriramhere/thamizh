@@ -26,11 +26,11 @@
     },
     {
      "text": "தரு",
-     "lemma": "தா",
-     "gloss": "auxiliary"
+     "lemma": "தரு",
+     "gloss": "giving (auxiliary)"
     }
    ],
-   "gloss": "shining"
+   "gloss": "shining through"
   },
   {
    "surface": "நூல்",
@@ -60,10 +60,10 @@
     {
      "text": "மடந்தை",
      "lemma": "மடந்தை",
-     "gloss": "woman"
+     "gloss": "young woman"
     }
    ],
-   "gloss": "woman"
+   "gloss": "young woman"
   },
   {
    "surface": "அணியில்",
@@ -71,7 +71,7 @@
     {
      "text": "அணி",
      "lemma": "அணி",
-     "gloss": "beauty"
+     "gloss": "ornament"
     },
     {
      "text": "இல்",
@@ -79,7 +79,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in beauty"
+   "gloss": "in the ornaments"
   },
   {
    "surface": "திகழ்வது",
@@ -90,14 +90,9 @@
      "gloss": "shine"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future/habitual marker"
-    },
-    {
-     "text": "அது",
+     "text": "வது",
      "lemma": "அது",
-     "gloss": "it (nominalizer)"
+     "gloss": "that which"
     }
    ],
    "gloss": "that which shines"
@@ -118,17 +113,17 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
-     "gloss": "there is"
+     "lemma": "உண்டு",
+     "gloss": "exists"
     }
    ],
-   "gloss": "there is"
+   "gloss": "exists"
   }
  ],
- "literal": "In the gem shining thread like, woman's in beauty that which shines one thing there is.",
- "translation": "Like the thread visible inside a translucent gem, there is something shining through this woman's beauty.",
- "modern": "மணியின் உள்ளே தெரியும் நூலைப் போல, இந்தப் பெண்ணின் அழகின் உள்ளே தெரிவதாகிய ஒரு குறிப்பு உள்ளது.",
- "explanation": "This couplet uses a striking simile to describe how hidden feelings become visible. Just as a thread strung through a translucent gem can be seen from the outside, the woman's inner emotions shine through her outward appearance. The word 'aṇi' here refers to her beauty or physical form, which acts like the gem. The 'one thing' (oṉṟu) that shines through this beauty is her unspoken affection, revealing her true state of mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like the thread that shines within a gem, there is one thing that shines within the ornaments of this young woman.",
+ "translation": "Like the thread that shows through a translucent gem, there is a hidden feeling that shines through this young woman's beauty.",
+ "modern": "பளிங்கு மணியின் உள்ளே விளங்கும் நூலைப் போல, இந்தப் பெண்ணின் அழகிற்குள்ளே விளங்குகின்ற குறிப்பு ஒன்று இருக்கிறது.",
+ "explanation": "This couplet uses a beautiful simile to describe how a woman's inner feelings are revealed. Just as a thread passing through a semi-transparent bead is visible from the outside, there is an underlying emotion—her love or desire—that shines through her physical beauty and ornaments. The word 'maṭantai' refers to a young woman, and 'aṇi' means her ornaments or physical grace. The speaker observes that her outer appearance does not completely hide her inner heart; rather, her true feelings are subtly yet clearly visible to those who look closely.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

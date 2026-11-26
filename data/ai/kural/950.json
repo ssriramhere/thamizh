@@ -6,10 +6,10 @@
     {
      "text": "உற்றவன்",
      "lemma": "உற்றவன்",
-     "gloss": "patient"
+     "gloss": "the patient (one who is afflicted)"
     }
    ],
-   "gloss": "patient"
+   "gloss": "the patient"
   },
   {
    "surface": "தீர்ப்பான்",
@@ -17,10 +17,10 @@
     {
      "text": "தீர்ப்பான்",
      "lemma": "தீர்ப்பான்",
-     "gloss": "healer"
+     "gloss": "the healer (physician)"
     }
    ],
-   "gloss": "healer"
+   "gloss": "the physician"
   },
   {
    "surface": "மருந்து",
@@ -31,7 +31,7 @@
      "gloss": "medicine"
     }
    ],
-   "gloss": "medicine"
+   "gloss": "the medicine"
   },
   {
    "surface": "உழை",
@@ -39,10 +39,10 @@
     {
      "text": "உழை",
      "lemma": "உழை",
-     "gloss": "beside"
+     "gloss": "near / side"
     }
    ],
-   "gloss": "beside"
+   "gloss": "near"
   },
   {
    "surface": "செல்வான்",
@@ -50,10 +50,10 @@
     {
      "text": "செல்வான்",
      "lemma": "செல்வான்",
-     "gloss": "attendant"
+     "gloss": "he who goes"
     }
    ],
-   "gloss": "attendant"
+   "gloss": "the attendant (who goes near to serve)"
   },
   {
    "surface": "என்று",
@@ -61,7 +61,7 @@
     {
      "text": "என்று",
      "lemma": "என்று",
-     "gloss": "thus"
+     "gloss": "thus / called"
     }
    ],
    "gloss": "thus"
@@ -70,17 +70,12 @@
    "surface": "அப்பால்",
    "parts": [
     {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "that"
-    },
-    {
-     "text": "பால்",
-     "lemma": "பால்",
-     "gloss": "part"
+     "text": "அப்பால்",
+     "lemma": "அப்பால்",
+     "gloss": "of those categories"
     }
    ],
-   "gloss": "in that way"
+   "gloss": "of those categories"
   },
   {
    "surface": "நால்",
@@ -99,15 +94,15 @@
     {
      "text": "கூற்று",
      "lemma": "கூற்று",
-     "gloss": "division"
+     "gloss": "parts / divisions"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "divisions indeed"
+   "gloss": "indeed the parts"
   },
   {
    "surface": "மருந்து",
@@ -115,16 +110,16 @@
     {
      "text": "மருந்து",
      "lemma": "மருந்து",
-     "gloss": "medical practice"
+     "gloss": "medicine (the system of healing)"
     }
    ],
-   "gloss": "medical practice"
+   "gloss": "medicine"
   }
  ],
- "literal": "Patient, healer, medicine, beside-goer, thus that part four divisions indeed medicine.",
- "translation": "Medical practice consists of four parts: the patient, the healer, the medicine, and the attendant.",
- "modern": "நோயாளி, மருத்துவர், மருந்து, அருகில் இருந்து உதவுபவர் என்று மருத்துவ முறை நான்கு பிரிவுகளை உடையதாகும்.",
- "explanation": "This couplet defines the four essential components of medical treatment. The word 'maruntu' is used twice with two accepted senses: first meaning the physical medicine or drug, and finally referring to the entire medical system. It states that healing is a combined practice consisting of the patient, the doctor, the drug itself, and the attendant who stays beside the patient. All four divisions are necessary for a successful cure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The patient, the healer, the medicine, and the attendant who goes near, thus, of those categories, four parts indeed is medicine.",
+ "translation": "The patient, the physician, the medicine, and the attendant—medicine consists of these four parts, each having its own role.",
+ "modern": "நோயாளி, குணப்படுத்தும் மருத்துவர், மருந்து, அருகில் இருந்து உதவும் உதவியாளர் என்று அந்த நான்கு வகைப் பாகங்களைக் கொண்டதுதான் மருத்துவ முறை ஆகும்.",
+ "explanation": "This couplet outlines the four essential components that constitute the entire system of medicine or healing. It lists them as: the patient (உற்றவன்), the physician (தீர்ப்பான்), the medicine itself (மருந்து), and the caregiver or attendant (உழைச்செல்வான்). For a successful cure, all four elements must function together effectively. The word 'உழைச்செல்வான்' literally means 'one who goes near', highlighting the crucial role of the nurse or assistant who administers the treatment and cares for the patient.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

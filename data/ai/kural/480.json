@@ -4,12 +4,17 @@
    "surface": "உளவரை",
    "parts": [
     {
-     "text": "உளவரை",
-     "lemma": "உளவரை",
-     "gloss": "measure of what one has"
+     "text": "உள",
+     "lemma": "உள்",
+     "gloss": "existing"
+    },
+    {
+     "text": "வரை",
+     "lemma": "வரை",
+     "gloss": "limit"
     }
    ],
-   "gloss": "measure of what one has"
+   "gloss": "the limit of what one possesses"
   },
   {
    "surface": "தூக்காத",
@@ -17,10 +22,10 @@
     {
      "text": "தூக்காத",
      "lemma": "தூக்கு",
-     "gloss": "not weighing"
+     "gloss": "without weighing or estimating"
     }
    ],
-   "gloss": "not weighing"
+   "gloss": "without estimating"
   },
   {
    "surface": "ஒப்புரவு",
@@ -28,7 +33,7 @@
     {
      "text": "ஒப்புரவு",
      "lemma": "ஒப்புரவு",
-     "gloss": "benevolence"
+     "gloss": "benevolence or helping others"
     }
    ],
    "gloss": "benevolence"
@@ -39,10 +44,10 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "practice"
+     "gloss": "practice or strength"
     }
    ],
-   "gloss": "practice"
+   "gloss": "the practice"
   },
   {
    "surface": "வளவரை",
@@ -50,10 +55,11 @@
     {
      "text": "வளவரை",
      "lemma": "வளவரை",
-     "gloss": "limit of wealth"
+     "gloss": "the limit of one's wealth"
     }
    ],
-   "gloss": "limit of wealth"
+   "gloss": "the limit of one's wealth",
+   "split_unverified": true
   },
   {
    "surface": "வல்லை",
@@ -61,10 +67,10 @@
     {
      "text": "வல்லை",
      "lemma": "வல்லை",
-     "gloss": "swiftly"
+     "gloss": "quickly"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "quickly"
   },
   {
    "surface": "கெடும்",
@@ -72,16 +78,16 @@
     {
      "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "will perish"
+     "gloss": "will be ruined"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will be ruined"
   }
  ],
- "literal": "measure of what one has not weighing benevolence practice limit of wealth swiftly will perish",
- "translation": "Practicing benevolence without weighing the measure of one's own resources will swiftly destroy the very limit of that wealth.",
- "modern": "தன்னிடம் உள்ள செல்வத்தின் அளவை ஆராய்ந்து பார்க்காமல் செய்யும் உதவி அவனது செல்வத்தின் அளவை விரைவாக அழித்துவிடும்.",
- "explanation": "This couplet warns about the dangers of excessive generosity that ignores one's actual financial capacity. The word உளவரை refers to the measure of resources one currently possesses, which must be weighed carefully. If a person practices benevolence beyond their means, the very foundation of their wealth will swiftly perish. True charity requires a clear understanding of one's own limits to remain sustainable.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The limit of what exists without estimating, the practice of benevolence, the limit of wealth quickly will be ruined.",
+ "translation": "The practice of benevolence without estimating the measure of one's own resources will quickly ruin the limits of one's wealth.",
+ "modern": "தனக்கு இருக்கும் பொருளின் அளவை ஆராய்ந்து பார்க்காமல் பிறருக்கு உதவி செய்யும் தன்மையானது, ஒருவனுடைய செல்வத்தின் எல்லையை விரைவாக அழித்துவிடும்.",
+ "explanation": "This couplet warns against blind or disproportionate generosity. While helping others is a noble duty, practicing benevolence without first assessing the limits of one's own resources leads to financial disaster. The poet emphasizes that even substantial wealth has its limits, and unsustainable giving will quickly deplete those resources. Therefore, charity must always be balanced with realistic self-awareness of one's financial strength.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,7 +11,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "in"
+     "gloss": "in (locative case marker)"
     }
    ],
    "gloss": "in the ear"
@@ -22,23 +22,18 @@
     {
      "text": "சுவை",
      "lemma": "சுவை",
-     "gloss": "taste"
+     "gloss": "taste or relish"
     }
    ],
-   "gloss": "taste"
+   "gloss": "taste or relish"
   },
   {
    "surface": "உணரா",
    "parts": [
     {
-     "text": "உணர்",
+     "text": "உணரா",
      "lemma": "உணர்",
-     "gloss": "perceive"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not perceiving (negative relative participle)"
     }
    ],
    "gloss": "who do not perceive"
@@ -60,15 +55,15 @@
     {
      "text": "உணர்வு",
      "lemma": "உணர்வு",
-     "gloss": "perception"
+     "gloss": "perception or sense"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "possessing"
+     "gloss": "of (genitive case marker)"
     }
    ],
-   "gloss": "possessing perception"
+   "gloss": "of the perception"
   },
   {
    "surface": "மாக்கள்",
@@ -76,10 +71,10 @@
     {
      "text": "மாக்கள்",
      "lemma": "மாக்கள்",
-     "gloss": "base people"
+     "gloss": "beast-like people or those lacking discrimination"
     }
    ],
-   "gloss": "base people"
+   "gloss": "beast-like people"
   },
   {
    "surface": "அவியினும்",
@@ -87,12 +82,12 @@
     {
      "text": "அவி",
      "lemma": "அவி",
-     "gloss": "perish"
+     "gloss": "to perish or die"
     },
     {
      "text": "இனும்",
      "lemma": "இனும்",
-     "gloss": "even if"
+     "gloss": "even if (conditional and concessive)"
     }
    ],
    "gloss": "even if they perish"
@@ -103,12 +98,12 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "live"
+     "gloss": "to live"
     },
     {
      "text": "இனும்",
      "lemma": "இனும்",
-     "gloss": "even if"
+     "gloss": "even if (conditional and concessive)"
     }
    ],
    "gloss": "even if they live"
@@ -119,16 +114,16 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "what"
+     "gloss": "what (does it matter)?"
     }
    ],
-   "gloss": "what (does it matter)"
+   "gloss": "what does it matter?"
   }
  ],
- "literal": "In the ear taste who do not perceive, mouth possessing perception base people, even if they perish even if they live, what?",
- "translation": "What does it matter whether those base people live or die, who know only the taste of the mouth and not the taste of the ear?",
- "modern": "செவியால் அறியும் கேள்வியின் சுவையை உணராமல், வாயால் அறியும் உணவின் சுவையை மட்டுமே உணரும் மனிதர்கள் வாழ்ந்தால் என்ன, இறந்தால் என்ன?",
- "explanation": "This couplet contrasts the intellectual pleasure of listening with the physical pleasure of eating. The phrase 'செவியில் சுவை உணரா' refers to those who do not appreciate the taste of knowledge gained through the ear. They are described as 'வாய் உணர்வின் மாக்கள்', base people who only understand the taste of the mouth. The poet asks what difference it makes whether such unrefined individuals live or die, as their existence contributes nothing of higher value to the world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the ear taste not-perceiving, mouth perception's beast-like people, even if they perish, even if they live, what does it matter?",
+ "translation": "What does it matter whether they live or die—those beast-like people who only know the taste of the mouth, but have never experienced the relish of the ear?",
+ "modern": "செவியால் கேட்கும் சுவையை உணராமல், வாயின் சுவையை மட்டுமே உணரும் விலங்கு போன்ற மனிதர்கள், இறந்தால் என்ன, வாழ்ந்தால் என்ன?",
+ "explanation": "This couplet concludes the chapter on listening by contrasting the refined pleasure of hearing wisdom with the basic physical pleasure of eating. The author uses the word 'taste' (சுவை) for both senses, comparing the 'taste of the ear' (listening to wise words) with the 'taste of the mouth' (eating food). Those who only seek physical nourishment and ignore intellectual growth are described as 'மாக்கள்' (beast-like people). The couplet bluntly asks what difference it makes to the world whether such unthinking people live or die, as their lives lack any meaningful purpose.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

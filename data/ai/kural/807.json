@@ -11,10 +11,10 @@
     {
      "text": "வந்த",
      "lemma": "வா",
-     "gloss": "that came"
+     "gloss": "that brought"
     }
    ],
-   "gloss": "that brought ruin"
+   "gloss": "that brought ruin or pain"
   },
   {
    "surface": "செய்யினும்",
@@ -25,14 +25,9 @@
      "gloss": "do"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
+     "text": "இனும்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if"
     }
    ],
    "gloss": "even if they do"
@@ -43,26 +38,21 @@
     {
      "text": "அன்பு",
      "lemma": "அன்பு",
-     "gloss": "love"
+     "gloss": "affection"
     }
    ],
-   "gloss": "love"
+   "gloss": "affection"
   },
   {
    "surface": "அறார்",
    "parts": [
     {
-     "text": "அறு",
+     "text": "அறார்",
      "lemma": "அறு",
-     "gloss": "sever"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they will not"
+     "gloss": "will not cut off"
     }
    ],
-   "gloss": "they will not sever"
+   "gloss": "they will not diminish"
   },
   {
    "surface": "அன்பின்",
@@ -70,7 +60,7 @@
     {
      "text": "அன்பு",
      "lemma": "அன்பு",
-     "gloss": "love"
+     "gloss": "affection"
     },
     {
      "text": "இன்",
@@ -78,7 +68,7 @@
      "gloss": "of"
     }
    ],
-   "gloss": "of love"
+   "gloss": "of affection"
   },
   {
    "surface": "வழிவந்த",
@@ -94,7 +84,7 @@
      "gloss": "that came"
     }
    ],
-   "gloss": "that came along the path"
+   "gloss": "that came through the path"
   },
   {
    "surface": "கேண்மை",
@@ -116,13 +106,13 @@
      "gloss": "they"
     }
    ],
-   "gloss": "they (those people)"
+   "gloss": "they"
   }
  ],
- "literal": "Ruin-bringing even if do, love will not sever, of love path-came friendship they.",
- "translation": "Even if their friends do things that bring them ruin, those bound by a long-standing friendship rooted in love will not sever their affection.",
- "modern": "நண்பர்கள் தமக்கு அழிவு தரும் செயல்களைச் செய்தாலும், அன்பின் வழியில் வந்த பழைய நட்பினை உடையவர்கள் அவர்கள் மீதான அன்பை விடமாட்டார்கள்.",
- "explanation": "This couplet highlights the resilience of true, long-standing friendship. The phrase 'friendship that has come along the path of love' describes a deep bond built over time. Even if such friends commit acts that cause harm or ruin, the injured party will not break the bond. The word for 'will not sever' emphasizes that genuine intimacy forgives even severe mistakes and maintains its affection.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they do things that bring ruin, they do not cut off their affection—those of friendship that came in the path of love.",
+ "translation": "Even if they do things that cause ruin or pain, those whose friendship has come down through long-standing affection will never diminish in their love.",
+ "modern": "அன்பின் வழியில் வந்த நீண்ட கால நட்பை உடையவர்கள், தமக்கு அழிவைத் தரும் செயல்களைச் செய்தாலும், அவர்கள் தம் அன்பைக் குறைத்துக் கொள்ள மாட்டார்கள்.",
+ "explanation": "This couplet highlights the strength of long-standing, traditional friendship. Those who share a deep-rooted friendship based on mutual affection will not abandon their love even if their friends commit acts that cause them ruin or distress. The key words 'அழிவந்த' (bringing ruin or pain) and 'அன்பறார்' (not cutting off love) emphasize that true, old friendship is resilient enough to withstand even severe mistakes or harmful actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

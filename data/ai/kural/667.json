@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "உருவு",
-     "lemma": "உருவு",
-     "gloss": "form"
+     "lemma": "உருவம்",
+     "gloss": "appearance"
     }
    ],
-   "gloss": "form"
+   "gloss": "appearance"
   },
   {
    "surface": "கண்டு",
@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "எள்ளாமை",
-     "lemma": "எள்ளு",
+     "lemma": "எள்ளுதல்",
      "gloss": "not despising"
     }
    ],
@@ -39,17 +39,17 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "is necessary"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is necessary"
   },
   {
    "surface": "உருள்",
    "parts": [
     {
      "text": "உருள்",
-     "lemma": "உருள்",
+     "lemma": "உருளுதல்",
      "gloss": "rolling"
     }
    ],
@@ -59,12 +59,17 @@
    "surface": "பெருந்தேர்க்கு",
    "parts": [
     {
-     "text": "பெருந்தேர்க்கு",
+     "text": "பெருந்தேர்",
      "lemma": "பெருந்தேர்",
-     "gloss": "to the large chariot"
+     "gloss": "big chariot"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the large chariot"
+   "gloss": "to the big chariot"
   },
   {
    "surface": "அச்சு",
@@ -83,10 +88,10 @@
     {
      "text": "ஆணி",
      "lemma": "ஆணி",
-     "gloss": "nail"
+     "gloss": "pin"
     }
    ],
-   "gloss": "linchpin"
+   "gloss": "pin"
   },
   {
    "surface": "அன்னார்",
@@ -97,24 +102,25 @@
      "gloss": "those who are like"
     }
    ],
-   "gloss": "people like"
+   "gloss": "those who are like",
+   "split_unverified": true
   },
   {
    "surface": "உடைத்து",
    "parts": [
     {
      "text": "உடைத்து",
-     "lemma": "உடை",
-     "gloss": "it possesses"
+     "lemma": "உடைத்து",
+     "gloss": "it has"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "it has"
   }
  ],
- "literal": "Having seen the form, not despising is needed; to the rolling large chariot, people like the axle-pin it possesses.",
- "translation": "Do not underestimate anyone based on their appearance. The world possesses people who are as crucial as the small linchpin to a massive, rolling chariot.",
- "modern": "ஒருவரின் தோற்றத்தைக் கண்டு அவரைச் சாதாரணமாக எண்ணி இகழக்கூடாது. உருண்டோடும் பெரிய தேருக்குச் சிறிய அச்சாணி எவ்வளவு முக்கியமோ, அதுபோன்ற ஆற்றல் உடையவர்கள் இவ்வுலகில் உள்ளனர்.",
- "explanation": "This couplet warns against judging a person's capability by their physical appearance. A chariot may be massive and impressive as it rolls along, but its movement depends entirely on a small linchpin holding the axle together. Similarly, people who appear small or unassuming may possess the crucial strength and firmness of action needed to sustain great enterprises. The word 'அச்சாணி' (linchpin) perfectly captures how immense power and stability can reside in a small, unpretentious form.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having seen the appearance, not despising is necessary; for the rolling big chariot, those who are like the axle-pin, it has.",
+ "translation": "One should not despise others by looking at their appearance; for even a mighty rolling chariot has those who are like its small axle-pin.",
+ "modern": "ஒருவருடைய தோற்றத்தைக் கண்டு அவரை இகழக் கூடாது; உருண்டோடும் பெரிய தேருக்கு அச்சாணி போன்றவர்கள் இவ்வுலகில் இருக்கிறார்கள்.",
+ "explanation": "This couplet advises us never to underestimate or mock anyone based solely on their physical size or outward appearance. To illustrate this, it uses the metaphor of a massive, rolling chariot. Though the chariot is grand and powerful, it cannot move or function without its tiny axle-pin. Similarly, there are individuals who may seem small or insignificant in appearance, but they possess the essential strength and capability to hold great tasks together.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

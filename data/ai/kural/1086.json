@@ -4,14 +4,9 @@
    "surface": "கொடும்",
    "parts": [
     {
-     "text": "கொடு",
+     "text": "கொடும்",
      "lemma": "கொடுமை",
      "gloss": "curved"
-    },
-    {
-     "text": "ம்",
-     "lemma": "ம்",
-     "gloss": "adjectival suffix"
     }
    ],
    "gloss": "curved"
@@ -25,49 +20,29 @@
      "gloss": "eyebrow"
     }
    ],
-   "gloss": "eyebrows"
+   "gloss": "eyebrow"
   },
   {
    "surface": "கோடா",
    "parts": [
     {
-     "text": "கோடு",
+     "text": "கோடா",
      "lemma": "கோடு",
-     "gloss": "to bend"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "adverbial suffix"
+     "gloss": "without bending"
     }
    ],
-   "gloss": "having bent"
+   "gloss": "without bending"
   },
   {
    "surface": "மறைப்பின்",
    "parts": [
     {
-     "text": "மறை",
+     "text": "மறைப்பின்",
      "lemma": "மறை",
-     "gloss": "to hide"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if they hide"
     }
    ],
-   "gloss": "if (they) hide"
+   "gloss": "if they hide"
   },
   {
    "surface": "நடுங்கு",
@@ -75,7 +50,7 @@
     {
      "text": "நடுங்கு",
      "lemma": "நடுங்கு",
-     "gloss": "to tremble"
+     "gloss": "trembling"
     }
    ],
    "gloss": "trembling"
@@ -86,36 +61,21 @@
     {
      "text": "அஞர்",
      "lemma": "அஞர்",
-     "gloss": "sorrow"
+     "gloss": "grief"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "grief"
   },
   {
    "surface": "செய்யல",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யல",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "they will not cause"
     }
    ],
-   "gloss": "will not cause"
+   "gloss": "they will not cause"
   },
   {
    "surface": "மன்",
@@ -134,7 +94,7 @@
     {
      "text": "இவள்",
      "lemma": "இவள்",
-     "gloss": "this woman"
+     "gloss": "this woman's"
     }
    ],
    "gloss": "this woman's"
@@ -145,16 +105,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
    "gloss": "eyes"
   }
  ],
- "literal": "Curved eyebrows having bent if hide, trembling sorrow will not cause indeed this woman's eyes.",
- "translation": "If her curved eyebrows would bend and conceal them, this woman's eyes would not cause me such trembling sorrow.",
- "modern": "இவளுடைய வளைந்த புருவங்கள் கீழ்நோக்கி வளைந்து கண்களை மறைக்குமானால், இவளது கண்கள் எனக்கு இந்த நடுங்கும் துன்பத்தை தரமாட்டா.",
- "explanation": "The speaker is captivated and overwhelmed by the woman's gaze. He notes that her eyes inflict a shivering distress upon him, which could only be stopped if her curved eyebrows bent down to hide them. The word 'கோடா' is used here in the classical pattern of a positive adverbial participle meaning 'having bent', showing how her downward glance might spare him from the direct strike of her eyes.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If her curved eyebrows, without bending, hide them, indeed this woman's eyes will not cause trembling grief.",
+ "translation": "If her curved eyebrows would screen her eyes without bending, then surely this woman's eyes would not inflict this trembling distress upon me.",
+ "modern": "வளைந்த புருவங்கள் கோணாமல் அவளுடைய கண்களை மறைத்துக் காக்குமானால், இவளுடைய கண்கள் எனக்கு நடுங்கும் துன்பத்தைச் செய்ய மாட்டா.",
+ "explanation": "The speaker is overwhelmed by the beauty of the woman's eyes, which cause him a trembling distress. He imagines her curved eyebrows as guards; if they do not bend or deviate from their protective duty and instead completely screen her eyes, those eyes would not be able to look at him and cause such grief. The word 'kōṭā' means 'not bending' or 'not deviating', suggesting that the eyebrows must stand firm to shield him from the power of her gaze. Thus, the couplet uses the imagery of eyebrows acting as a barrier to the painful yet captivating power of her eyes.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

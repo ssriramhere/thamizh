@@ -6,7 +6,7 @@
     {
      "text": "எனைத்து",
      "lemma": "எனைத்து",
-     "gloss": "whatever measure"
+     "gloss": "howsoever small"
     },
     {
      "text": "உம்",
@@ -14,7 +14,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "in any measure"
+   "gloss": "even in the least"
   },
   {
    "surface": "குறுகுதல்",
@@ -57,12 +57,12 @@
      "gloss": "house"
     },
     {
-     "text": "க்கு",
-     "lemma": "க்கு",
-     "gloss": "at"
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative case suffix"
     }
    ],
-   "gloss": "at home"
+   "gloss": "to the house"
   },
   {
    "surface": "எழீஇ",
@@ -70,10 +70,10 @@
     {
      "text": "எழீஇ",
      "lemma": "எழு",
-     "gloss": "having appeared"
+     "gloss": "having risen or behaved intimately"
     }
    ],
-   "gloss": "having appeared"
+   "gloss": "having behaved intimately"
   },
   {
    "surface": "மன்றில்",
@@ -86,10 +86,10 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "in"
+     "gloss": "locative case suffix"
     }
    ],
-   "gloss": "in public"
+   "gloss": "in the public assembly"
   },
   {
    "surface": "பழிப்பார்",
@@ -97,25 +97,20 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "to mock"
+     "gloss": "to slander"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "third person plural suffix"
     }
    ],
-   "gloss": "they who mock"
+   "gloss": "those who slander"
   },
   {
    "surface": "தொடர்பு",
@@ -129,10 +124,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "in any measure approaching avoid, at home having appeared, in public they who mock - (their) friendship",
- "translation": "Avoid entirely getting close to the friendship of those who act friendly in private but mock you in public.",
- "modern": "தனியாக வீட்டில் இருக்கும்போது நண்பர்களாகப் பழகிவிட்டு, பலரும் இருக்கும் பொது மன்றத்தில் பழித்துப் பேசுபவர்களின் நட்பை எந்த அளவிலும் நெருங்காமல் தவிர்க்க வேண்டும்.",
- "explanation": "This couplet warns against two-faced friends. The phrase 'மனைக்கு எழீஇ' describes those who appear warm and intimate in the privacy of a house, while 'மன்றில் பழிப்பார்' refers to their tendency to mock or belittle you in public assemblies. The word 'ஓம்பல்' strongly advises the reader to guard against such people. Therefore, one must avoid getting close ('குறுகுதல்') to their friendship ('தொடர்பு') in any measure ('எனைத்தும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in the least, approaching avoid, of those who are intimate at home but in public slander, the friendship.",
+ "translation": "Avoid even the slightest closeness with the friendship of those who act intimately in private but slander you in public.",
+ "modern": "வீட்டில் நெருக்கமாகப் பழகிவிட்டு, பொது அவையில் நம்மைப் பழித்துப் பேசுபவர்களின் நட்பை எவ்வளவும் நெருங்காமல் தவிர்த்தல் வேண்டும்.",
+ "explanation": "This couplet warns us against hypocritical friends. The poet advises us to completely avoid (ஓம்பல்) even the slightest closeness (எனைத்தும் குறுகுதல்) with people who behave with great intimacy inside our homes (மனைக்கு எழீஇ) but speak ill of us or slander us in public assemblies (மன்றில் பழிப்பார்). The contrast between the private space of the home and the public space of the assembly highlights their deceitful nature. True friendship cannot coexist with such double standards, and keeping any connection with them is dangerous.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

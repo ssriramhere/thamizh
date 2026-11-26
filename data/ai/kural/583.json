@@ -11,31 +11,26 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "by a spy"
+   "gloss": "through a spy"
   },
   {
    "surface": "ஒற்றி",
    "parts": [
     {
-     "text": "ஒற்று",
+     "text": "ஒற்றி",
      "lemma": "ஒற்று",
-     "gloss": "to spy"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having spied out"
     }
    ],
-   "gloss": "having spied"
+   "gloss": "having spied out"
   },
   {
    "surface": "பொருள்",
@@ -43,37 +38,32 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "truth"
+     "gloss": "the facts"
     }
    ],
-   "gloss": "truth"
+   "gloss": "the facts"
   },
   {
    "surface": "தெரியா",
    "parts": [
     {
-     "text": "தெரி",
+     "text": "தெரியா",
      "lemma": "தெரி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not knowing"
     }
    ],
-   "gloss": "who does not know"
+   "gloss": "not knowing"
   },
   {
    "surface": "மன்னவன்",
    "parts": [
     {
      "text": "மன்னவன்",
-     "lemma": "மன்னவன்",
+     "lemma": "மன்னன்",
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "கொற்றம்",
@@ -90,43 +80,23 @@
    "surface": "கொள",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொள",
      "lemma": "கொள்",
-     "gloss": "to take"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "to"
+     "gloss": "to attain"
     }
    ],
-   "gloss": "to achieve"
+   "gloss": "to attain"
   },
   {
    "surface": "கிடந்தது",
    "parts": [
     {
-     "text": "கிட",
+     "text": "கிடந்தது",
      "lemma": "கிட",
-     "gloss": "to lie"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which"
+     "gloss": "that which lies"
     }
    ],
-   "gloss": "that which remains"
+   "gloss": "that which lies"
   },
   {
    "surface": "இல்",
@@ -140,10 +110,10 @@
    "gloss": "is not"
   }
  ],
- "literal": "By a spy having spied, the truth who does not know, the king, victory to achieve that which remains is not.",
- "translation": "There is no way to achieve victory for a king who does not ascertain the truth by investigating through a spy.",
- "modern": "ஒற்றனைக் கொண்டு ஆராய்ந்து உண்மையை அறிந்துகொள்ளாத அரசன், வெற்றியை அடைவதற்கான வழி வேறு இல்லை.",
- "explanation": "This couplet emphasizes the absolute necessity of espionage for a ruler's success. The word 'ஒற்றினான்' refers to using a spy, and 'ஒற்றி' means the act of actively investigating. If a king fails to uncover the true state of affairs ('பொருள்') through this method, the text states there is nothing left ('கிடந்தது இல்') for him to secure his sovereignty or victory ('கொற்றம்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By a spy, having spied, the facts not knowing king, victory to attain, anything lying there is not.",
+ "translation": "For a king who does not discover the facts of what has happened through his spies, there is no way to achieve victory.",
+ "modern": "ஒற்றர்களைக் கொண்டு ஆராய்ந்து உண்மைகளைத் தெரிந்து கொள்ளாத அரசனுக்கு, வெற்றி பெறுவதற்கான வழி என்று எதுவும் இல்லை.",
+ "explanation": "This couplet emphasizes the absolute necessity of espionage for a ruler's success. The poet states that a king who fails to use spies to investigate and understand the ground realities (poruḷ) cannot hope for victory (koṟṟam). The phrase 'koḷak kiṭantatu il' strongly asserts that there is absolutely no prospect or possibility of triumph lying ahead for such an uninformed ruler. Thus, intelligence gathering is portrayed as the very foundation of political survival and victory.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

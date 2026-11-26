@@ -6,10 +6,10 @@
     {
      "text": "இடம்",
      "lemma": "இடம்",
-     "gloss": "space"
+     "gloss": "world / space"
     }
    ],
-   "gloss": "space"
+   "gloss": "world / space"
   },
   {
    "surface": "எல்லாம்",
@@ -26,33 +26,28 @@
    "surface": "கொள்ளா",
    "parts": [
     {
-     "text": "கொள்",
-     "lemma": "கொள்",
-     "gloss": "to contain"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "கொள்ளா",
+     "lemma": "கொள்ளுதல்",
+     "gloss": "not containing"
     }
    ],
-   "gloss": "not containing"
+   "gloss": "not containing / cannot hold"
   },
   {
    "surface": "தகைத்தே",
    "parts": [
     {
      "text": "தகைத்து",
-     "lemma": "தகைத்து",
-     "gloss": "of the nature"
+     "lemma": "தகைமை",
+     "gloss": "nature / greatness"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphatic"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "it is of the nature indeed"
+   "gloss": "is of the nature indeed"
   },
   {
    "surface": "இடம்",
@@ -60,26 +55,21 @@
     {
      "text": "இடம்",
      "lemma": "இடம்",
-     "gloss": "wealth"
+     "gloss": "means / resources"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "means / resources"
   },
   {
    "surface": "இல்லா",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல்லா",
      "lemma": "இல்",
-     "gloss": "to not be"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "lacking"
     }
    ],
-   "gloss": "not having"
+   "gloss": "lacking"
   },
   {
    "surface": "காலும்",
@@ -95,7 +85,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even at the time"
+   "gloss": "even at the time of"
   },
   {
    "surface": "இரவு",
@@ -112,14 +102,9 @@
    "surface": "ஒல்லா",
    "parts": [
     {
-     "text": "ஒல்",
-     "lemma": "ஒல்",
-     "gloss": "to consent"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "ஒல்லா",
+     "lemma": "ஒல்லுதல்",
+     "gloss": "not consenting to"
     }
    ],
    "gloss": "not consenting to"
@@ -130,16 +115,16 @@
     {
      "text": "சால்பு",
      "lemma": "சால்பு",
-     "gloss": "greatness"
+     "gloss": "nobility of character"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "nobility of character"
   }
  ],
- "literal": "Space all not-containing nature-indeed space not-having time-even begging not-consenting greatness.",
- "translation": "The nobility that refuses to beg even in times of utter destitution is of a magnitude that the entire world cannot contain.",
- "modern": "வறுமையால் தன்னிடம் பொருள் இல்லாத காலத்திலும் பிறரிடம் சென்று இரந்து கேட்பதற்கு உடன்படாத பெருந்தன்மை, இந்த உலகம் முழுவதிலும் அடங்காத பெருமையை உடையதாகும்.",
- "explanation": "This couplet praises the immense dignity of those who refuse to beg. The word 'இடம்' is used twice with different meanings: first to mean the physical space of the whole world, and second to mean personal wealth or means. Even when one has absolutely nothing, the noble character that rejects begging is so vast and magnificent that the entire earth is too small to hold it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The nobility that does not consent to begging even at a time of lacking resources is indeed of the nature that all space cannot contain.",
+ "translation": "The nobility of character that refuses to resort to begging, even when one is completely destitute, is so vast that the entire world cannot contain its greatness.",
+ "modern": "வறுமை வந்த காலத்திலும் பிறரிடம் இரந்து கேட்க உடன்படாத சான்றாண்மை, இவ்வுலகம் முழுதும் கொள்ள முடியாத அளவு பெருமையுடையதாகும்.",
+ "explanation": "This couplet praises the supreme dignity of self-respect. The word 'சால்பு' refers to the perfect nobility of character. Even when a person has absolutely no resources ('இடம் இல்லாக் காலும்'), they refuse to stoop to begging ('இரவு ஒல்லா'). The poet declares that the glory of such unyielding dignity is so immense that the entire world ('இடமெல்லாம்') is not large enough to contain it ('கொள்ளாத் தகைத்தே').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

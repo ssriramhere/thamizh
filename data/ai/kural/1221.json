@@ -9,35 +9,30 @@
      "gloss": "evening"
     },
     {
-     "text": "யோ",
+     "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "evening-?"
+   "gloss": "Is it evening?"
   },
   {
    "surface": "அல்லை",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லை",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "லை",
-     "lemma": "ஐ",
-     "gloss": "you"
+     "gloss": "you are not"
     }
    ],
-   "gloss": "are not-you"
+   "gloss": "you are not"
   },
   {
    "surface": "மணந்தார்",
    "parts": [
     {
      "text": "மணந்தார்",
-     "lemma": "மண",
+     "lemma": "மணத்தல்",
      "gloss": "those who united"
     }
    ],
@@ -58,9 +53,14 @@
    "surface": "உண்ணும்",
    "parts": [
     {
-     "text": "உண்ணும்",
+     "text": "உண்",
      "lemma": "உண்",
-     "gloss": "consuming"
+     "gloss": "to consume"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "consuming"
@@ -92,7 +92,7 @@
    "parts": [
     {
      "text": "வாழி",
-     "lemma": "வாழ்",
+     "lemma": "வாழி",
      "gloss": "may you live"
     }
    ],
@@ -110,10 +110,10 @@
    "gloss": "time"
   }
  ],
- "literal": "Evening? not-you; united-ones' life consuming time you, bless-you, time!",
- "translation": "You are not merely the evening; you are the deadly hour that consumes the lives of those parted from their lovers. Oh time, may you live long!",
- "modern": "நீ வெறும் மாலைப்பொழுது இல்லை; காதலரை விட்டுப் பிரிந்தவர்களின் உயிரை உண்ணும் நேரம் நீ. பொழுதே, நீ வாழ்வாயாக!",
- "explanation": "The speaker addresses the evening directly, expressing the intense pain of separation. She says it is no longer just a normal evening, but a deadly time that consumes the lives of those parted from their lovers. The word 'வாழி' (may you live) is used ironically or in distress, highlighting her helplessness against the overwhelming sorrow brought by the time of day.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Is it evening? You are not. Those who united, life-consuming time you are, may you live, O time!",
+ "translation": "You are not just the evening; you are the life-consuming hour for those who once united. May you prosper, O twilight hour!",
+ "modern": "பொழுதே! நீ வெறும் மாலைப் பொழுது அல்ல; கூடிப் பிரிந்தவர்களின் உயிரைக் குடிக்கும் கொலைக் காலம் நீ; நீ வாழ்க!",
+ "explanation": "The heroine, suffering from the pain of separation, addresses the approaching evening. She declares that this hour is not a gentle evening (மாலை) but rather a deadly time (வேலை) that devours the lives of lovers who are separated. The word 'வேலை' primarily means 'time' or 'season', but it also evokes the image of a sharp spear (வேல்) that inflicts a mortal wound. By addressing the evening with the ironic blessing 'வாழி' (may you live), she expresses her deep anguish and resentment toward this painful period of the day.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,7 +11,7 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "many people"
@@ -22,20 +22,15 @@
     {
      "text": "முனி",
      "lemma": "முனி",
-     "gloss": "to dislike"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "glide"
+     "gloss": "dislike/loathe"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to (infinitive suffix)"
     }
    ],
-   "gloss": "to dislike"
+   "gloss": "to be disgusted"
   },
   {
    "surface": "பயன்",
@@ -43,7 +38,7 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "benefit"
+     "gloss": "benefit/use"
     }
    ],
    "gloss": "benefit"
@@ -54,15 +49,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "they (neuter plural suffix)"
     }
    ],
-   "gloss": "things without"
+   "gloss": "useless things"
   },
   {
    "surface": "சொல்லுவான்",
@@ -70,22 +65,22 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
      "text": "உ",
      "lemma": "உ",
-     "gloss": "euphonic vowel"
+     "gloss": "increment"
     },
     {
      "text": "வ்",
      "lemma": "வ்",
-     "gloss": "future suffix"
+     "gloss": "future tense marker"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "masculine singular suffix"
+     "gloss": "he (pronominal suffix)"
     }
    ],
    "gloss": "he who speaks"
@@ -96,12 +91,12 @@
     {
      "text": "எல்லார்",
      "lemma": "எல்லார்",
-     "gloss": "all persons"
+     "gloss": "all people"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "completeness suffix"
+     "gloss": "fully (clitic)"
     }
    ],
    "gloss": "everyone"
@@ -112,15 +107,15 @@
     {
      "text": "எள்",
      "lemma": "எள்",
-     "gloss": "to mock"
+     "gloss": "despise/scorn"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to (infinitive suffix)"
     }
    ],
-   "gloss": "to mock"
+   "gloss": "to despise"
   },
   {
    "surface": "படும்",
@@ -128,21 +123,21 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "to experience"
+     "gloss": "undergo/suffer"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will (habitual suffix)"
     }
    ],
-   "gloss": "will experience"
+   "gloss": "will undergo"
   }
  ],
- "literal": "Many to dislike, benefit things-without he who speaks, everyone to mock will experience.",
- "translation": "He who speaks useless words to the disgust of many will be despised by everyone.",
- "modern": "பலரும் வெறுக்கும்படி பயனில்லாத சொற்களைச் சொல்பவன், எல்லாராலும் இகழப்படுவான்.",
- "explanation": "This couplet warns against speaking words that serve no purpose. When a person speaks uselessly, it annoys and disgusts the many people listening. Consequently, that person will lose respect and be mocked by everyone. The word 'முனிய' means to dislike or be disgusted, showing the immediate reaction of the listeners, while 'எள்ள' means to mock or despise, showing the lasting loss of respect.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Many people to be disgusted, useless things he who speaks, by everyone to be despised will experience.",
+ "translation": "He who speaks useless words, causing many to be disgusted, will be despised by everyone.",
+ "modern": "பலர் வெறுக்கும்படியாகப் பயனில்லாத சொற்களைப் பேசுபவன், எல்லாராலும் இகழப்படுவான்.",
+ "explanation": "This couplet warns against the social consequences of speaking without substance. When a person constantly utters useless words, it first causes annoyance and disgust (முனிய) among those who are listening. Eventually, this habit ruins their reputation entirely, leading to universal contempt and mockery (எள்ளப்படும்) from everyone in society. The progression from the irritation of a few to the contempt of all highlights how idle talk destroys one's standing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

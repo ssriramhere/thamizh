@@ -6,15 +6,15 @@
     {
      "text": "வறியார்",
      "lemma": "வறியார்",
-     "gloss": "destitute people"
+     "gloss": "those who have nothing"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative case marker)"
     }
    ],
-   "gloss": "to the destitute"
+   "gloss": "to those who are poor"
   },
   {
    "surface": "ஒன்று",
@@ -38,7 +38,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
    "gloss": "giving indeed"
@@ -52,7 +52,7 @@
      "gloss": "charity"
     }
    ],
-   "gloss": "charity"
+   "gloss": "true charity"
   },
   {
    "surface": "மற்று",
@@ -74,7 +74,7 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all"
+   "gloss": "all [other giving]"
   },
   {
    "surface": "குறி",
@@ -93,18 +93,18 @@
     {
      "text": "எதிர்ப்பை",
      "lemma": "எதிர்ப்பை",
-     "gloss": "return"
+     "gloss": "return gift or loan to be repaid"
     }
    ],
-   "gloss": "of return"
+   "gloss": "return gift"
   },
   {
    "surface": "நீரது",
    "parts": [
     {
      "text": "நீர்",
-     "lemma": "நீர்",
-     "gloss": "nature"
+     "lemma": "நீர்மை",
+     "gloss": "nature or quality"
     },
     {
      "text": "அது",
@@ -112,7 +112,7 @@
      "gloss": "it"
     }
    ],
-   "gloss": "nature it"
+   "gloss": "is of the nature"
   },
   {
    "surface": "உடைத்து",
@@ -126,10 +126,10 @@
    "gloss": "possesses"
   }
  ],
- "literal": "To the destitute something giving indeed is charity; other all, expectation of return nature it possesses.",
- "translation": "True charity is giving to the destitute. All other giving has the nature of expecting a return.",
- "modern": "வறுமையில் வாடுபவர்களுக்கு ஒரு பொருளைக் கொடுப்பதே உண்மையான ஈகையாகும். மற்றவர்களுக்குக் கொடுப்பதெல்லாம், திரும்பப் பெறும் நோக்கத்தைக் கொண்டதாகும்.",
- "explanation": "This couplet defines the true nature of charity. It states that giving to those who are completely destitute and cannot give anything back is the only real act of giving. Any other kind of giving is essentially a transaction. The phrase 'குறியெதிர்ப்பை' specifically refers to expecting a measured return, highlighting that conditional giving is not true charity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are poor, giving something is indeed true charity; all other giving possesses the nature of expecting a return gift.",
+ "translation": "Giving to the poor is true charity; all other giving is of the nature of a loan expecting a return.",
+ "modern": "வறியவர்களுக்கு ஏதேனும் ஒன்றைக் கொடுப்பதே ஈகை ஆகும்; மற்றபடி பிறருக்குக் கொடுப்பதெல்லாம் திரும்பப் பெறும் நோக்கம் உடைய கடனைப் போன்ற தன்மையைக் கொண்டது.",
+ "explanation": "This couplet defines the true essence of charity. Giving to those who are completely destitute and have nothing is the only real act of giving. Any other form of giving, such as giving to friends, relatives, or those who can repay, is not true charity. Instead, it is like a transaction or a loan given with the expectation of a future return or benefit.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

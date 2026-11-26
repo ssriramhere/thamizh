@@ -4,23 +4,33 @@
    "surface": "கற்றதனால்",
    "parts": [
     {
-     "text": "கற்றதனால்",
-     "lemma": "கல்",
-     "gloss": "by having learned"
+     "text": "கற்றது",
+     "lemma": "கற்றது",
+     "gloss": "that which was learned"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by (instrumental)"
     }
    ],
-   "gloss": "by having learned"
+   "gloss": "by that which was learned"
   },
   {
    "surface": "ஆய",
    "parts": [
     {
      "text": "ஆய",
-     "lemma": "ஆகு",
-     "gloss": "that became"
+     "lemma": "ஆ",
+     "gloss": "accrued"
     }
    ],
-   "gloss": "that became"
+   "gloss": "accrued"
   },
   {
    "surface": "பயன்",
@@ -28,10 +38,10 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "use"
+     "gloss": "benefit"
     }
    ],
-   "gloss": "use"
+   "gloss": "benefit"
   },
   {
    "surface": "என்",
@@ -50,10 +60,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "indeed (particle)"
   },
   {
    "surface": "வால்",
@@ -75,26 +85,41 @@
      "gloss": "knower"
     }
    ],
-   "gloss": "knower"
+   "gloss": "the Knower"
   },
   {
    "surface": "நற்றாள்",
    "parts": [
     {
-     "text": "நற்றாள்",
-     "lemma": "நற்றாள்",
-     "gloss": "good feet"
+     "text": "நல்",
+     "lemma": "நல்",
+     "gloss": "good"
+    },
+    {
+     "text": "தாள்",
+     "lemma": "தாள்",
+     "gloss": "feet"
     }
    ],
-   "gloss": "good feet"
+   "gloss": "noble feet"
   },
   {
    "surface": "தொழாஅர்",
    "parts": [
     {
-     "text": "தொழாஅர்",
+     "text": "தொழு",
      "lemma": "தொழு",
-     "gloss": "they do not worship"
+     "gloss": "worship"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "they do not worship"
@@ -104,17 +129,17 @@
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
+     "lemma": "எனின்",
      "gloss": "if"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "By having learned, the use that has become is what indeed, pure knower's good feet they do not worship if?",
- "translation": "What is the use of all that one has learned, if they do not worship the good feet of the one with pure knowledge?",
- "modern": "தூய அறிவினை உடையவனின் நல்ல திருவடிகளை வணங்கவில்லை என்றால், ஒருவர் கற்ற கல்வியினால் ஆகிய பயன் என்ன?",
- "explanation": "This couplet questions the ultimate purpose of acquiring knowledge. It states that all learning is useless if it does not lead one to revere the source of pure, unblemished knowledge. The word 'வால்' means pure or white, describing an intelligence that is flawless. True education must culminate in humility and devotion to this highest wisdom.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By that which was learned accrued benefit what indeed, pure knower's noble feet worship not, if.",
+ "translation": "What is the use of all their learning, if they do not worship the noble feet of the One who possesses pure knowledge?",
+ "modern": "தூய அறிவு வடிவானவனின் நல்ல திருவடிகளை வணங்காவிட்டால், கற்ற கல்வியினால் உண்டான பயன் என்ன?",
+ "explanation": "This couplet questions the ultimate purpose of education and intellectual pursuit. The term 'வால் அறிவன்' refers to the supreme being as the embodiment of pure, untainted knowledge. The author argues that the true fruit of learning is the humility to bow before this source of pure wisdom, symbolized by 'நற்றாள்' (noble feet). If learning does not lead to this reverence, all the effort spent in acquiring knowledge is rendered useless.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative)"
     },
     {
      "text": "உம்",
@@ -19,7 +19,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "than anyone"
+   "gloss": "more than anyone"
   },
   {
    "surface": "காதலம்",
@@ -32,10 +32,10 @@
     {
      "text": "அம்",
      "lemma": "அம்",
-     "gloss": "we"
+     "gloss": "we (first-person plural suffix)"
     }
    ],
-   "gloss": "we are loving"
+   "gloss": "we love"
   },
   {
    "surface": "என்றேன்",
@@ -46,14 +46,9 @@
      "gloss": "say"
     },
     {
-     "text": "ற்",
-     "lemma": "ற்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "ஏன்",
+     "text": "றேன்",
      "lemma": "ஏன்",
-     "gloss": "I"
+     "gloss": "I (past tense suffix)"
     }
    ],
    "gloss": "I said"
@@ -64,10 +59,10 @@
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "exclamatory particle"
+     "gloss": "alas / particle of exclamation"
     }
    ],
-   "gloss": "ah!"
+   "gloss": "alas / immediately"
   },
   {
    "surface": "ஊடினாள்",
@@ -75,7 +70,7 @@
     {
      "text": "ஊடு",
      "lemma": "ஊடு",
-     "gloss": "sulk"
+     "gloss": "sulk / feign anger"
     },
     {
      "text": "இன்",
@@ -109,7 +104,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "than who"
+   "gloss": "than whom?"
   },
   {
    "surface": "யாரினும்",
@@ -130,7 +125,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "than who"
+   "gloss": "than whom?"
   },
   {
    "surface": "என்று",
@@ -142,17 +137,17 @@
     },
     {
      "text": "று",
-     "lemma": "று",
-     "gloss": "adverbial suffix"
+     "lemma": "து",
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "saying"
   }
  ],
- "literal": "Than anyone, we are loving, said I, ah! She sulked, than who, than who, saying.",
- "translation": "I said, 'We love each other more than anyone.' She immediately sulked, asking, 'More than who? More than who?'",
- "modern": "நான் 'நாம் உலகத்தில் உள்ள எல்லாரையும் விட அதிகமாகக் காதலிக்கிறோம்' என்று சொன்னேன். அதைக் கேட்ட அவள், 'எல்லாரையும் விடவா? வேறு யாரை விட?' என்று கேட்டு ஊடல் கொண்டாள்.",
- "explanation": "The speaker tries to express the depth of his affection by saying their love is greater than anyone else's. However, his lover's mind, prone to petty jealousy, catches the word 'anyone'. She twists his innocent comparison into a suspicion that he is thinking of other women, repeatedly asking 'More than who?' to pick a playful fight.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "I said, 'We love more than anyone,' alas! She sulked, saying, 'More than whom? More than whom?'",
+ "translation": "When I said, 'I love you more than anyone else,' she immediately sulked, demanding, 'More than whom? More than whom?'",
+ "modern": "நான் 'உன்னை எல்லாரையும் விட அதிகமாகக் காதலிக்கிறேன்' என்று சொன்னேன்; உடனே அவள் 'யாரை விட? யாரை விட?' என்று கேட்டு ஊடினாள்.",
+ "explanation": "This couplet portrays a delicate moment of feigned anger (pulavi) between lovers. The hero attempts to express the depth of his affection by saying he loves her more than anyone else. However, the heroine quickly seizes upon his words and turns them into a cause for suspicion. By asking 'More than whom? More than whom?', she playfully implies that he must have loved other women to make such a comparison. The repetition of 'yāriṉum' highlights her swift, jealous wit and the charming complexity of her sulking.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

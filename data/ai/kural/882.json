@@ -15,14 +15,9 @@
    "surface": "போல",
    "parts": [
     {
-     "text": "போல்",
+     "text": "போல",
      "lemma": "போல்",
-     "gloss": "resemble"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "INF"
+     "gloss": "like"
     }
    ],
    "gloss": "like"
@@ -33,12 +28,12 @@
     {
      "text": "பகைவர்",
      "lemma": "பகைவர்",
-     "gloss": "enemy-HON"
+     "gloss": "enemies"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "ACC"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "enemies"
@@ -52,14 +47,9 @@
      "gloss": "fear"
     },
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "NEG"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "OPT"
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "negative optative suffix"
     }
    ],
    "gloss": "do not fear"
@@ -75,7 +65,7 @@
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "OPT"
+     "gloss": "optative suffix"
     }
    ],
    "gloss": "fear"
@@ -86,10 +76,10 @@
     {
      "text": "கேள்",
      "lemma": "கேள்",
-     "gloss": "kindred"
+     "gloss": "friend or relative"
     }
    ],
-   "gloss": "kindred"
+   "gloss": "friend or relative"
   },
   {
    "surface": "போல்",
@@ -97,7 +87,7 @@
     {
      "text": "போல்",
      "lemma": "போல்",
-     "gloss": "resemble"
+     "gloss": "like"
     }
    ],
    "gloss": "like"
@@ -108,7 +98,7 @@
     {
      "text": "பகைவர்",
      "lemma": "பகைவர்",
-     "gloss": "enemy-HON"
+     "gloss": "enemies"
     }
    ],
    "gloss": "enemies"
@@ -119,16 +109,16 @@
     {
      "text": "தொடர்பு",
      "lemma": "தொடர்பு",
-     "gloss": "connection"
+     "gloss": "alliance or relationship"
     }
    ],
-   "gloss": "connection"
+   "gloss": "alliance or relationship"
   }
  ],
- "literal": "Sword-like enemies do not fear; fear kindred-like enemies' connection.",
- "translation": "Do not fear enemies who are as open as a drawn sword. But fear the friendship of enemies who pose as your kin.",
- "modern": "வாளைப் போல வெளிப்படையாகத் தாக்கும் பகைவர்களுக்கு அஞ்ச வேண்டாம். ஆனால் உறவினர்களைப் போல நடித்து உள்ளுக்குள் பகைமை கொண்டவர்களின் நட்புக்கு அஞ்ச வேண்டும்.",
- "explanation": "The couplet contrasts two types of enemies to highlight the danger of hidden enmity. Open enemies are compared to a drawn sword ('வாள் போல பகைவர்'); one need not fear them because their hostility is clear and one can prepare a defense against them. However, the poet warns us to fear the connection ('தொடர்பு') with enemies who hide their malice under the guise of kinship ('கேள் போல் பகைவர்'). Such false friends are far more dangerous because their betrayal comes unexpectedly from within.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sword-like enemies do not fear; fear friend-like enemies' alliance.",
+ "translation": "Do not fear enemies who are like an open sword; fear the alliance of enemies who pretend to be friends.",
+ "modern": "வாளைப் போல வெளிப்படையாக இருக்கும் பகைவர்களுக்கு அஞ்ச வேண்டாம்; உறவினரைப் போல நடித்துப் பழகும் பகைவர்களின் நட்புக்கு அஞ்ச வேண்டும்.",
+ "explanation": "This couplet contrasts open hostility with hidden enmity. An open enemy is compared to a sword, which is visibly dangerous but straightforward, meaning one can prepare for the threat and therefore need not fear it. In contrast, one must deeply fear the alliance of enemies who pretend to be close friends or relatives. This hidden enmity is far more destructive because it operates under the guise of friendship, catching one completely off guard.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,20 +17,15 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "to suffer"
+     "gloss": "befall"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
+     "text": "இனும்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if experienced"
+   "gloss": "even if it befalls"
   },
   {
    "surface": "இளிவந்த",
@@ -43,10 +38,10 @@
     {
      "text": "வந்த",
      "lemma": "வா",
-     "gloss": "that came"
+     "gloss": "brought"
     }
    ],
-   "gloss": "disgraceful things"
+   "gloss": "disgraceful deeds"
   },
   {
    "surface": "செய்யார்",
@@ -54,7 +49,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "ஆர்",
@@ -81,10 +76,10 @@
     {
      "text": "அற்ற",
      "lemma": "அறு",
-     "gloss": "free from"
+     "gloss": "devoid of"
     }
    ],
-   "gloss": "free from"
+   "gloss": "devoid of"
   },
   {
    "surface": "காட்சி",
@@ -103,16 +98,16 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "those people"
+     "gloss": "they"
     }
    ],
-   "gloss": "those people"
+   "gloss": "they"
   }
  ],
- "literal": "Distress even if experienced, disgraceful things they will not do, wavering-free vision those people.",
- "translation": "Even if they fall into deep distress, those with unwavering vision will not commit disgraceful deeds.",
- "modern": "துன்பம் வந்தாலும், நடுக்கம் இல்லாத தெளிவான அறிவை உடையவர்கள் இழிவான செயல்களைச் செய்ய மாட்டார்கள்.",
- "explanation": "This couplet emphasizes the steadfastness of those with clear, unwavering understanding. The word 'இடுக்கண்' (distress) sets up a scenario of extreme hardship, which often tempts people to compromise their principles. However, 'நடுக்கற்ற காட்சி' (unwavering vision or clarity) gives them the strength to resist. Consequently, they will never do 'இளிவந்த' (disgraceful or degrading) deeds, maintaining the purity of their actions regardless of their circumstances.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if distress befalls, disgraceful deeds they will not do, those who have a vision free from wavering.",
+ "translation": "Even when beset by severe distress, those who possess unwavering clarity of vision will not commit deeds that bring disgrace.",
+ "modern": "துன்பம் வந்தாலும், நடுக்கமில்லாத தெளிவான அறிவுடையவர்கள் இழிவான செயல்களைச் செய்யமாட்டார்கள்.",
+ "explanation": "This couplet highlights the strength of character required to maintain purity of action during times of adversity. The key phrase 'நடுக்கற்ற காட்சி' refers to an unwavering clarity of vision or intellect that does not shake under pressure. People with such steady wisdom understand that temporary suffering is preferable to permanent dishonor. Therefore, even when faced with extreme distress, they refuse to perform disgraceful actions to ease their burden.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,31 +4,46 @@
    "surface": "உள்ளத்தால்",
    "parts": [
     {
-     "text": "உள்ளத்தால்",
+     "text": "உள்ளத்து",
      "lemma": "உள்ளம்",
-     "gloss": "with the mind"
+     "gloss": "mind"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "with / by"
     }
    ],
-   "gloss": "with the mind"
+   "gloss": "by the mind / from the heart"
   },
   {
    "surface": "பொய்யாது",
    "parts": [
     {
-     "text": "பொய்யாது",
+     "text": "பொய்",
      "lemma": "பொய்",
-     "gloss": "without lying"
+     "gloss": "lie / falsehood"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
     }
    ],
-   "gloss": "without lying"
+   "gloss": "without lying / without deceit"
   },
   {
    "surface": "ஒழுகின்",
    "parts": [
     {
-     "text": "ஒழுகின்",
+     "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "if one conducts oneself"
+     "gloss": "conduct oneself / behave"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
    "gloss": "if one conducts oneself"
@@ -37,9 +52,14 @@
    "surface": "உலகத்தார்",
    "parts": [
     {
-     "text": "உலகத்தார்",
-     "lemma": "உலகத்தார்",
-     "gloss": "people of the world"
+     "text": "உலகத்து",
+     "lemma": "உலகம்",
+     "gloss": "world"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "people (honorific/plural suffix)"
     }
    ],
    "gloss": "people of the world"
@@ -48,12 +68,17 @@
    "surface": "உள்ளத்துள்",
    "parts": [
     {
-     "text": "உள்ளத்துள்",
+     "text": "உள்ளத்து",
      "lemma": "உள்ளம்",
-     "gloss": "inside the mind"
+     "gloss": "mind"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "inside / in"
     }
    ],
-   "gloss": "inside the mind"
+   "gloss": "in the minds"
   },
   {
    "surface": "எல்லாம்",
@@ -64,24 +89,24 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all"
+   "gloss": "of all"
   },
   {
    "surface": "உளன்",
    "parts": [
     {
      "text": "உளன்",
-     "lemma": "உள்",
-     "gloss": "he is"
+     "lemma": "உளன்",
+     "gloss": "he exists / he is present"
     }
    ],
-   "gloss": "he is"
+   "gloss": "he will dwell / he exists"
   }
  ],
- "literal": "With the mind without lying if one conducts oneself, of the people of the world in the minds all he is.",
- "translation": "If one lives without falsehood in one's own heart, one will live in the hearts of all people in the world.",
- "modern": "ஒருவன் தன் மனத்திற்குத் தெரிந்து பொய் சொல்லாமல் நேர்மையாக வாழ்ந்தால், அவன் உலக மக்களின் உள்ளங்களில் எல்லாம் நிலைத்து நிற்பான்.",
- "explanation": "This couplet emphasizes the power of absolute truthfulness. If a person conducts their life without any falsehood even in their own mind ('உள்ளத்தால் பொய்யாது ஒழுகின்'), they achieve a lasting place in the hearts of everyone ('உலகத்தார் உள்ளத்துள் எல்லாம் உளன்'). True honesty is not just in words but in one's innermost thoughts. Such inner purity naturally commands universal respect and endears the person to the whole world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By the mind without lying if one conducts oneself, of the world's people in the minds of all, he will exist.",
+ "translation": "If one conducts oneself without deceit in one's own heart, one will dwell in the hearts of all people in the world.",
+ "modern": "ஒருவர் தன் நெஞ்சறியப் பொய் சொல்லாமல் வாழ்ந்தால், அவர் உலகத்தில் உள்ள எல்லாருடைய மனங்களிலும் வாழ்வார்.",
+ "explanation": "This couplet explains the profound power of inner truthfulness. If a person lives their life without harboring falsehood in their own mind, they earn a permanent place in the hearts of everyone in the world. True truthfulness is not merely about spoken words, but about absolute inner honesty. By being pure in thought, such a person becomes universally loved and remembered.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,9 +4,19 @@
    "surface": "அவாவினை",
    "parts": [
     {
-     "text": "அவாவினை",
+     "text": "அவா",
      "lemma": "அவா",
-     "gloss": "desire (accusative)"
+     "gloss": "desire"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "desire"
@@ -16,29 +26,34 @@
    "parts": [
     {
      "text": "ஆற்ற",
-     "lemma": "ஆற்று",
-     "gloss": "fully"
+     "lemma": "ஆற்ற",
+     "gloss": "completely"
     }
    ],
-   "gloss": "fully"
+   "gloss": "completely"
   },
   {
    "surface": "அறுப்பின்",
    "parts": [
     {
-     "text": "அறுப்பின்",
+     "text": "அறு",
      "lemma": "அறு",
-     "gloss": "if severed"
+     "gloss": "to cut off"
+    },
+    {
+     "text": "ப்பின்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if severed"
+   "gloss": "if one cuts off"
   },
   {
    "surface": "தவா",
    "parts": [
     {
      "text": "தவா",
-     "lemma": "தவு",
+     "lemma": "தபு",
      "gloss": "unfailing"
     }
    ],
@@ -50,10 +65,10 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "state"
+     "gloss": "state of being or action"
     }
    ],
-   "gloss": "state"
+   "gloss": "state of being"
   },
   {
    "surface": "தான்",
@@ -70,40 +85,51 @@
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டும்",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "desires"
+     "gloss": "to wish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
-   "gloss": "desires"
+   "gloss": "wishes"
   },
   {
    "surface": "ஆற்றான்",
    "parts": [
     {
      "text": "ஆற்றான்",
-     "lemma": "ஆறு",
-     "gloss": "by the way"
+     "lemma": "ஆற்றான்",
+     "gloss": "in the very manner"
     }
    ],
-   "gloss": "by the way"
+   "gloss": "in the very manner",
+   "split_unverified": true
   },
   {
    "surface": "வரும்",
    "parts": [
     {
-     "text": "வரும்",
-     "lemma": "வா",
-     "gloss": "will come"
+     "text": "வரு",
+     "lemma": "வரு",
+     "gloss": "to come"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
    "gloss": "will come"
   }
  ],
- "literal": "If one fully severs desire, the unfailing state will come by the way oneself desires.",
- "translation": "If one completely severs desire, an imperishable state will come to them in the very way they desire.",
- "modern": "ஆசையை முழுமையாக அழித்துவிட்டால், ஒருவன் விரும்புகின்ற வழியிலேயே அவனுக்கு அழியாத நன்னிலை வந்து சேரும்.",
- "explanation": "This couplet explains the ultimate reward of eradicating desire. The word 'அவா' means desire or craving, and 'ஆற்ற அறுப்பின்' emphasizes cutting it off completely without any residue. When a person achieves this, 'தவா வினை'—an unfailing or imperishable state of being—is attained. Ironically, by giving up all desires, the supreme state comes to the person exactly in the manner they would wish ('தான் வேண்டும் ஆற்றான்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one cuts off desire completely, the unfailing state will come in the very manner oneself wishes.",
+ "translation": "If a person completely cuts off desire, the eternal, unfailing state of liberation will come to them in the very way they wish.",
+ "modern": "ஆசையை முழுமையாக ஒழித்துவிட்டால், அழியாத பேரின்ப நிலை தான் விரும்பும் வழியிலேயே வந்து சேரும்.",
+ "explanation": "This couplet explains the ultimate reward of conquering desire. The word 'அவாவினை' refers to desire, which binds the soul, and 'ஆற்ற அறுப்பின்' means to sever it completely. When desire is totally eliminated, 'தவாவினை'—the unfailing, eternal state of liberation or supreme peace—comes naturally. The phrase 'தான்வேண்டு மாற்றான்' (தான் வேண்டும் ஆற்றான்) indicates that this ultimate state will manifest in the exact manner that the seeker wishes, showing that true freedom brings absolute mastery over one's destiny.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

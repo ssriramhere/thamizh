@@ -4,23 +4,43 @@
    "surface": "பெறாஅமை",
    "parts": [
     {
-     "text": "பெறாஅமை",
-     "lemma": "பெறாமை",
-     "gloss": "non-obtaining"
+     "text": "பெறு",
+     "lemma": "பெறுதல்",
+     "gloss": "to obtain"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "elongation of sound (alapeṭai)"
+    },
+    {
+     "text": "மை",
+     "lemma": "மை",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "non-obtaining"
+   "gloss": "not obtaining (union)"
   },
   {
    "surface": "அஞ்சும்",
    "parts": [
     {
-     "text": "அஞ்சும்",
+     "text": "அஞ்சு",
      "lemma": "அஞ்சுதல்",
-     "gloss": "it fears"
+     "gloss": "to fear"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual aspect suffix"
     }
    ],
-   "gloss": "it fears"
+   "gloss": "fears"
   },
   {
    "surface": "பெறின்",
@@ -33,7 +53,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "conditional suffix (if)"
     }
    ],
    "gloss": "if obtained"
@@ -42,9 +62,14 @@
    "surface": "பிரிவு",
    "parts": [
     {
-     "text": "பிரிவு",
-     "lemma": "பிரிவு",
-     "gloss": "separation"
+     "text": "பிரி",
+     "lemma": "பிரிதல்",
+     "gloss": "to separate"
+    },
+    {
+     "text": "வு",
+     "lemma": "வு",
+     "gloss": "noun-forming suffix"
     }
    ],
    "gloss": "separation"
@@ -53,23 +78,38 @@
    "surface": "அஞ்சும்",
    "parts": [
     {
-     "text": "அஞ்சும்",
+     "text": "அஞ்சு",
      "lemma": "அஞ்சுதல்",
-     "gloss": "it fears"
+     "gloss": "to fear"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual aspect suffix"
     }
    ],
-   "gloss": "it fears"
+   "gloss": "fears"
   },
   {
    "surface": "அறாஅ",
    "parts": [
     {
-     "text": "அறாஅ",
+     "text": "அறு",
      "lemma": "அறுதல்",
-     "gloss": "unceasing"
+     "gloss": "to cease"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "elongation of sound (alapeṭai)"
     }
    ],
-   "gloss": "unceasing"
+   "gloss": "unending"
   },
   {
    "surface": "இடும்பைத்து",
@@ -77,22 +117,22 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "affliction"
     },
     {
      "text": "து",
      "lemma": "து",
-     "gloss": "it has"
+     "gloss": "pronominal suffix of quality"
     }
    ],
-   "gloss": "it has sorrow"
+   "gloss": "is of the nature of affliction"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -110,10 +150,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "Non-obtaining it fears; if obtained, separation it fears; unceasing sorrow-having [is] my heart.",
- "translation": "My heart fears when it cannot attain him, and fears separation when it does. Thus, it is afflicted with unceasing sorrow.",
- "modern": "அவரைப் பெற முடியாதபோது என் நெஞ்சம் அஞ்சுகிறது; அவரைப் பெற்றாலோ மீண்டும் பிரிந்துவிடுவோமோ என்று அஞ்சுகிறது. அதனால் என் நெஞ்சம் நீங்காத துன்பத்தை உடையதாக இருக்கிறது.",
- "explanation": "The speaker addresses the constant state of anxiety in her heart regarding her lover. When he is away, the heart fears that it might not attain him again. When he is present, it immediately fears the inevitable future separation. Because it is caught between these two fears, the heart is burdened with endless, unceasing sorrow. The poetic lengthening of vowels (alapeṭai) in words like 'பெறாஅமை' (non-obtaining) and 'அறாஅ' (unceasing) emphasizes the prolonged and continuous nature of her suffering.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not obtaining fears; if obtained, separation fears; unending affliction-natured is my heart.",
+ "translation": "My heart is possessed of unending affliction: it fears when it does not obtain union, and if it does obtain it, it fears separation.",
+ "modern": "என் நெஞ்சம் எப்போதும் நீங்காத துன்பத்தை உடையதாக இருக்கிறது; காதலரைப் பெறாதபோது பெறவில்லையே என்று அஞ்சுகிறது, பெற்றுவிட்டால் பிரிந்துவிடுவாரோ என்று அஞ்சுகிறது.",
+ "explanation": "This couplet portrays the constant state of anxiety experienced by a lover's heart. When the lover is absent, the heart is filled with fear that it will never achieve union. However, even when union is achieved, the heart cannot rejoice fully because it immediately begins to fear the pain of future separation. Through the words 'peṟāamai añcum' (fears not obtaining) and 'peṟiṉ pirivu añcum' (if obtained, fears separation), the poet shows how the heart is trapped in a loop of worry, making its sorrow truly 'aṟāa iṭumpai' (ceaseless affliction).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

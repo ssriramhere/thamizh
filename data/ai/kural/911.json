@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "out of"
+     "gloss": "out of / with"
     }
    ],
    "gloss": "out of love"
@@ -27,10 +27,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they do not"
+     "gloss": "they who do not (negative suffix)"
     }
    ],
-   "gloss": "they desire not"
+   "gloss": "those who do not desire"
   },
   {
    "surface": "பொருள்",
@@ -54,7 +54,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "who do"
+     "gloss": "who (relative participle suffix)"
     }
    ],
    "gloss": "who desire"
@@ -65,7 +65,7 @@
     {
      "text": "ஆய்",
      "lemma": "ஆய்",
-     "gloss": "choice"
+     "gloss": "select / beautiful"
     },
     {
      "text": "தொடி",
@@ -75,17 +75,17 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "women with"
+     "gloss": "they who have (pronominal suffix)"
     }
    ],
-   "gloss": "women with choice bracelets"
+   "gloss": "women wearing select bracelets"
   },
   {
    "surface": "இன்சொல்",
    "parts": [
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இனிமை",
      "gloss": "sweet"
     },
     {
@@ -102,10 +102,10 @@
     {
      "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "ruin"
+     "gloss": "ruin / disgrace"
     }
    ],
-   "gloss": "ruin"
+   "gloss": "ruin / disgrace"
   },
   {
    "surface": "தரும்",
@@ -119,10 +119,10 @@
    "gloss": "will bring"
   }
  ],
- "literal": "Out of love they desire not, wealth who desire, women with choice bracelets, sweet words ruin will bring.",
- "translation": "The sweet words of women with choice bracelets, who desire wealth and not out of genuine love, will bring ruin.",
- "modern": "அன்பினால் விரும்பாமல் பொருளை மட்டுமே விரும்பும் அழகிய வளையல்களை அணிந்த பெண்களின் இனிய சொற்கள் ஒருவனுக்குத் துன்பத்தைத் தரும்.",
- "explanation": "This couplet warns against the deceptive sweetness of courtesans. It describes them as women wearing exquisite bracelets who show affection not out of genuine love, but out of a desire for wealth. Their sweet words are not expressions of true feeling but tools for financial gain. Believing and yielding to such false sweetness will ultimately bring a person to ruin and disgrace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The sweet words of those wearing select bracelets, who do not desire out of love but desire wealth, will bring ruin.",
+ "translation": "The sweet words of women adorned with choice bracelets, who desire only wealth and not love, will bring ruin.",
+ "modern": "அன்பினால் விரும்பாமல், பொருளை மட்டுமே விரும்புகின்ற, சிறந்த வளையல்களை அணிந்த பொதுமகளிரின் இன்சொற்கள் ஒருவனுக்கு அழிவைத் தரும்.",
+ "explanation": "This couplet warns against the deceptive sweet talk of courtesans, referred to here as those wearing select bracelets (ஆய்தொடியார்). The poet explains that these women do not act out of genuine love (அன்பின் விழையார்) but are motivated solely by money (பொருள் விழையும்). Therefore, their pleasant and flattering words (இன்சொல்) are untrustworthy and will ultimately lead a person to ruin or disgrace (இழுக்கு தரும்).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

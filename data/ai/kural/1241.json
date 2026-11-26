@@ -20,23 +20,28 @@
      "gloss": "one thing"
     }
    ],
-   "gloss": "one thing"
+   "gloss": "one thing / a solution"
   },
   {
    "surface": "சொல்லாயோ",
    "parts": [
     {
-     "text": "சொல்லாய்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "won't you say"
+     "gloss": "say"
+    },
+    {
+     "text": "ஆய்",
+     "lemma": "ஆய்",
+     "gloss": "you (negative/future)"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "interrogative suffix"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "won't you say"
+   "gloss": "will you not say?"
   },
   {
    "surface": "நெஞ்சே",
@@ -49,10 +54,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "vocative suffix"
+     "gloss": "vocative particle"
     }
    ],
-   "gloss": "O heart"
+   "gloss": "O heart!"
   },
   {
    "surface": "எனைத்து",
@@ -60,10 +65,10 @@
     {
      "text": "எனைத்து",
      "lemma": "எனைத்து",
-     "gloss": "whatever"
+     "gloss": "how much / of what kind"
     }
    ],
-   "gloss": "whatever"
+   "gloss": "of any measure"
   },
   {
    "surface": "ஒன்றும்",
@@ -71,7 +76,7 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one thing"
+     "gloss": "one"
     },
     {
      "text": "உம்",
@@ -79,7 +84,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "anything"
+   "gloss": "even a single"
   },
   {
    "surface": "எவ்வநோய்",
@@ -87,21 +92,22 @@
     {
      "text": "எவ்வநோய்",
      "lemma": "எவ்வநோய்",
-     "gloss": "disease of distress"
+     "gloss": "painful affliction of distress"
     }
    ],
-   "gloss": "disease of distress"
+   "gloss": "painful affliction of distress",
+   "split_unverified": true
   },
   {
    "surface": "தீர்க்கும்",
    "parts": [
     {
      "text": "தீர்க்கும்",
-     "lemma": "தீர்",
-     "gloss": "will cure"
+     "lemma": "தீர்த்தல்",
+     "gloss": "that will cure"
     }
    ],
-   "gloss": "will cure"
+   "gloss": "that will cure"
   },
   {
    "surface": "மருந்து",
@@ -115,10 +121,10 @@
    "gloss": "medicine"
   }
  ],
- "literal": "Having thought, one thing won't you say, O heart? Any whatsoever distress-disease curing medicine.",
- "translation": "O heart, think carefully and tell me one thing: is there any medicine whatsoever that can cure this grievous disease?",
- "modern": "நெஞ்சே, எனது இந்தத் துன்ப நோயைத் தீர்க்கக்கூடிய மருந்து ஏதாவது ஒன்றாவது இருக்கிறதா என்று சிந்தித்து எனக்குச் சொல்வாயாக.",
- "explanation": "The speaker addresses her own heart, overwhelmed by the pain of separation. She asks her heart to think deeply and suggest at least one remedy that could cure her intense suffering. The word 'எவ்வநோய்' refers to the grievous disease of love-sickness, while 'எனைத்தொன்றும்' emphasizes her desperate search for absolutely any cure. By pleading with her heart, she highlights her helplessness and the unbearable nature of her longing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having thought, one thing will you not say, O heart, even in any small measure, the medicine that cures this painful affliction?",
+ "translation": "O my heart! Can you not think of and tell me some remedy, even a tiny one, that will cure this painful affliction of love?",
+ "modern": "நெஞ்சே! இந்தத் துன்பத் துயரத்தைத் தீர்க்கும் ஏதேனும் ஒரு மருந்தை (வழியை) யோசித்து எனக்குச் சொல்ல மாட்டாயா?",
+ "explanation": "The heroine, suffering deeply from the pain of separation, addresses her own heart as a companion. She asks it to think deeply and suggest at least one remedy (ஒன்று சொல்லாயோ) to cure her suffering. She refers to her love-sickness as 'evvanōy' (எவ்வநோய்), meaning a painful disease of distress. She pleads for any medicine (மருந்து), even the smallest possible cure (எனைத்தொன்றும்), showing her utter helplessness and desperation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

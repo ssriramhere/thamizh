@@ -6,10 +6,10 @@
     {
      "text": "பற்று",
      "lemma": "பற்று",
-     "gloss": "wealth"
+     "gloss": "support or wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "support or wealth"
   },
   {
    "surface": "அற்ற",
@@ -17,10 +17,10 @@
     {
      "text": "அற்ற",
      "lemma": "அறு",
-     "gloss": "severed-which"
+     "gloss": "devoid of"
     }
    ],
-   "gloss": "lost"
+   "gloss": "lost or devoid of"
   },
   {
    "surface": "கண்ணும்",
@@ -28,7 +28,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place"
+     "gloss": "place or condition"
     },
     {
      "text": "உம்",
@@ -36,18 +36,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even when"
+   "gloss": "even in the condition of"
   },
   {
    "surface": "பழைமை",
    "parts": [
     {
      "text": "பழைமை",
-     "lemma": "பழமை",
-     "gloss": "oldness"
+     "lemma": "பழைமை",
+     "gloss": "old relationship"
     }
    ],
-   "gloss": "old ties"
+   "gloss": "old relationship"
   },
   {
    "surface": "பாராட்டுதல்",
@@ -65,7 +65,7 @@
    "parts": [
     {
      "text": "சுற்றத்தார்",
-     "lemma": "சுற்றம்",
+     "lemma": "சுற்றத்தார்",
      "gloss": "kinsmen"
     }
    ],
@@ -77,12 +77,12 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place"
+     "gloss": "with"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "only"
     }
    ],
    "gloss": "only with"
@@ -93,16 +93,16 @@
     {
      "text": "உள",
      "lemma": "உள்",
-     "gloss": "exist-they"
+     "gloss": "exist"
     }
    ],
-   "gloss": "are found"
+   "gloss": "exist"
   }
  ],
- "literal": "Wealth lost even-when, old-ties cherishing kinsmen with-indeed are-found.",
- "translation": "Even when one's wealth is lost, the cherishing of old ties is found only among kinsmen.",
- "modern": "ஒருவருடைய செல்வம் அழிந்த காலத்திலும், பழைய உறவைப் பாராட்டி அன்பு செலுத்தும் பண்பு சுற்றத்தாரிடமே உள்ளது.",
- "explanation": "This couplet highlights the enduring nature of true kinship. The word 'paṟṟu' generally means attachment or hold, but in this context, it specifically refers to wealth or resources that one holds onto. Even when a person loses all their wealth and becomes destitute, it is only their true relatives who will remember their old ties ('paḻaimai') and continue to cherish them. The emphatic suffix 'ē' in 'kaṇṇē' stresses that this unconditional loyalty is an exclusive trait found only among one's kin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in the condition of support being lost, cherishing old relationships exists only with kinsmen.",
+ "translation": "Even when one's wealth and support are entirely lost, the quality of cherishing old relationships is found only among one's kinsmen.",
+ "modern": "ஆதரவு அல்லது செல்வம் இல்லாத வறுமை நிலையிலும், பழைய உறவைப் போற்றிப் பாராட்டும் குணம் சுற்றத்தாரிடமே உண்டு.",
+ "explanation": "This couplet highlights the unique value of relatives during times of adversity. The word 'paṟṟu' here refers to wealth or support, and 'aṟṟa kaṇṇum' means 'even when that support is completely lost'. While others might abandon a person who has lost their fortune, true kinsmen will still cherish and honor their long-standing relationship ('paḻaimai pārāṭṭutal'). This enduring loyalty is a defining characteristic found only ('kaṇṇē') among one's relatives.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

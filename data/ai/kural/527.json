@@ -16,8 +16,8 @@
    "parts": [
     {
      "text": "கரவா",
-     "lemma": "கர",
-     "gloss": "not-concealing"
+     "lemma": "கரத்தல்",
+     "gloss": "without concealing"
     }
    ],
    "gloss": "without concealing"
@@ -27,18 +27,18 @@
    "parts": [
     {
      "text": "கரைந்து",
-     "lemma": "கரை",
-     "gloss": "having-called"
+     "lemma": "கரைதல்",
+     "gloss": "having called out"
     }
    ],
-   "gloss": "having called"
+   "gloss": "calling out"
   },
   {
    "surface": "உண்ணும்",
    "parts": [
     {
      "text": "உண்ணும்",
-     "lemma": "உண்",
+     "lemma": "உண்ணுதல்",
      "gloss": "eats"
     }
    ],
@@ -50,7 +50,7 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "wealth"
+     "gloss": "prosperity"
     },
     {
      "text": "உம்",
@@ -58,7 +58,7 @@
      "gloss": "also"
     }
    ],
-   "gloss": "wealth also"
+   "gloss": "prosperity also"
   },
   {
    "surface": "அன்ன",
@@ -75,9 +75,14 @@
    "surface": "நீரார்க்கே",
    "parts": [
     {
-     "text": "நீரார்க்கு",
-     "lemma": "நீரார்",
-     "gloss": "to-those-of-nature"
+     "text": "நீர்",
+     "lemma": "நீர்மை",
+     "gloss": "nature"
+    },
+    {
+     "text": "ஆர்க்கு",
+     "lemma": "ஆர்",
+     "gloss": "to those who have"
     },
     {
      "text": "ஏ",
@@ -92,17 +97,17 @@
    "parts": [
     {
      "text": "உள",
-     "lemma": "உள்",
+     "lemma": "உள",
      "gloss": "exist"
     }
    ],
    "gloss": "exist"
   }
  ],
- "literal": "Crow without-concealing having-called eats; wealth-also to-those-of-such-nature-only exist.",
- "translation": "The crow does not hide its food, but calls out to its kind and eats with them. Prosperity abides only with people of such a nature.",
- "modern": "காக்கை தனக்குக் கிடைத்த உணவை மறைக்காமல் தன் சுற்றத்தைக் கூவி அழைத்துச் சேர்ந்து உண்ணும். செல்வம் அத்தகைய குணம் உடையவர்களிடமே நிலைத்திருக்கும்.",
- "explanation": "This couplet uses the natural behavior of the crow to illustrate the virtue of sharing with one's kindred. A crow does not hide its food ('கரவா'); instead, it calls out ('கரைந்து') to gather its flock before eating ('உண்ணும்'). The word 'ஆக்கம்' refers to wealth or prosperity, and 'அன்ன நீரார்க்கே' means 'only to those of such nature'. The poem teaches that lasting prosperity belongs only to those who, like the crow, openly share their good fortune with their relatives.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The crow, without concealing, calling out eats; prosperity also to such natured people only exists.",
+ "translation": "Crows do not hide their food but call out to their kind to share it; prosperity likewise abides only with those who possess such a sharing nature.",
+ "modern": "காகம் தனக்குக் கிடைத்த உணவை மறைக்காமல் தன் சுற்றத்தைக் கூவி அழைத்து உண்ணும். அது போன்ற பகிர்ந்துண்ணும் குணம் உடையவர்களுக்கே செல்வமும் சேரும்.",
+ "explanation": "This couplet uses the simple, everyday behavior of a crow to teach a profound lesson on cherishing one's kinsmen. The word 'கரவா' means without hiding or keeping secrets, and 'கரைந்து' refers to the crow's habit of cawing to summon its flock when it finds food. The poet states that 'ஆக்கம்' (wealth or prosperity) will only come to and stay with ('உள') those who share the crow's generous nature ('அன்ன நீரார்க்கே'). True prosperity does not belong to the selfish, but to those who actively call upon their relatives and community to share in their good fortune.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

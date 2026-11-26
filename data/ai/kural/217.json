@@ -15,14 +15,9 @@
    "surface": "ஆகி",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having become"
     }
    ],
    "gloss": "having become"
@@ -31,14 +26,9 @@
    "surface": "தப்பா",
    "parts": [
     {
-     "text": "தப்பு",
+     "text": "தப்பா",
      "lemma": "தப்பு",
-     "gloss": "fail"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "unfailing"
     }
    ],
    "gloss": "unfailing"
@@ -49,10 +39,10 @@
     {
      "text": "மரத்து",
      "lemma": "மரம்",
-     "gloss": "of a tree"
+     "gloss": "of the tree"
     }
    ],
-   "gloss": "of a tree"
+   "gloss": "of the tree"
   },
   {
    "surface": "அற்று",
@@ -60,10 +50,10 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   },
   {
    "surface": "ஆல்",
@@ -93,10 +83,10 @@
     {
      "text": "பெருந்தகையான்",
      "lemma": "பெருந்தகையான்",
-     "gloss": "man of great nobility"
+     "gloss": "noble person"
     }
    ],
-   "gloss": "man of great nobility"
+   "gloss": "a person of great nobility"
   },
   {
    "surface": "கண்",
@@ -104,32 +94,27 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at/with"
+     "gloss": "with / in the hands of"
     }
    ],
-   "gloss": "with"
+   "gloss": "with / in the hands of"
   },
   {
    "surface": "படின்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படின்",
      "lemma": "படு",
-     "gloss": "fall"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if reached"
     }
    ],
-   "gloss": "if it falls"
+   "gloss": "if reached"
   }
  ],
- "literal": "Medicine having become unfailing tree's like that indeed wealth great-nobility-man with if falls.",
- "translation": "When wealth falls to a man of great nobility, it is like an unfailing tree whose every part becomes medicine.",
- "modern": "பெருந்தன்மையான ஒருவனிடம் செல்வம் சேர்ந்தால், அது எல்லா உறுப்புகளும் மருந்தாகப் பயன்படும் ஒரு குறையாத மரத்தைப் போன்றது.",
- "explanation": "This couplet compares the wealth of a truly noble person to a medicinal tree. The word 'தப்பா' (unfailing) describes a tree that never fails to provide healing through its leaves, bark, roots, and fruit. Similarly, when wealth reaches a 'பெருந்தகையான்' (man of great nobility), he uses it entirely to help and heal the suffering of others. The wealth does not sit idle but becomes a cure for society's ills.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a tree that becomes an unfailing medicine in all its parts, indeed, is wealth, if it reaches the hands of a person of great nobility.",
+ "translation": "If wealth reaches the hands of a person of great nobility, it is like a tree whose every part becomes an unfailing medicine.",
+ "modern": "பெருந்தன்மையானவரிடத்தில் செல்வம் சேர்ந்தால், அது தனது எல்லா உறுப்புகளும் மருந்தாகிப் பயன்படும் மரத்தைப் போன்றதாகும்.",
+ "explanation": "This couplet compares the wealth of a benevolent person to a medicinal tree. A medicinal tree is one whose bark, leaves, root, and fruit all serve as remedies without failing. Similarly, when wealth reaches a person of great nobility, every bit of it is used to alleviate the suffering of others. The word 'tappā' highlights that the tree never fails to heal, just as the noble person's wealth never fails to help those in need.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

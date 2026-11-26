@@ -6,21 +6,31 @@
     {
      "text": "அன்று",
      "lemma": "அன்று",
-     "gloss": "later"
+     "gloss": "then / in the future"
     }
    ],
-   "gloss": "later"
+   "gloss": "then / in the future"
   },
   {
    "surface": "அறிவாம்",
    "parts": [
     {
-     "text": "அறிவாம்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "we will know"
+     "gloss": "know / understand"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆம்",
+     "gloss": "we (first person plural suffix)"
     }
    ],
-   "gloss": "we will know"
+   "gloss": "we will know / we will do"
   },
   {
    "surface": "என்னாது",
@@ -28,12 +38,12 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "say"
+     "gloss": "say / think"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative adverbial participle suffix)"
     }
    ],
    "gloss": "without saying"
@@ -44,7 +54,7 @@
     {
      "text": "அறம்",
      "lemma": "அறம்",
-     "gloss": "virtue"
+     "gloss": "virtue / righteousness"
     }
    ],
    "gloss": "virtue"
@@ -55,15 +65,15 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "do"
+     "gloss": "do / perform"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative marker"
+     "gloss": "optative suffix"
     }
    ],
-   "gloss": "may you do"
+   "gloss": "do"
   },
   {
    "surface": "மற்று",
@@ -71,7 +81,7 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "indeed"
+     "gloss": "indeed / further (particle)"
     }
    ],
    "gloss": "indeed"
@@ -91,9 +101,14 @@
    "surface": "பொன்றும்",
    "parts": [
     {
-     "text": "பொன்றும்",
+     "text": "பொன்று",
      "lemma": "பொன்று",
-     "gloss": "perishing"
+     "gloss": "perish / die"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
    "gloss": "perishing"
@@ -104,21 +119,26 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "time / when"
     }
    ],
-   "gloss": "time"
+   "gloss": "at the time of"
   },
   {
    "surface": "பொன்றா",
    "parts": [
     {
-     "text": "பொன்றா",
+     "text": "பொன்று",
      "lemma": "பொன்று",
-     "gloss": "undying"
+     "gloss": "perish / die"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative adjectival participle suffix"
     }
    ],
-   "gloss": "undying"
+   "gloss": "imperishable"
   },
   {
    "surface": "துணை",
@@ -126,16 +146,16 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "companion"
+     "gloss": "companion / support"
     }
    ],
    "gloss": "companion"
   }
  ],
- "literal": "'Later we will know' without saying, may you do virtue; indeed that [is at] perishing time [an] undying companion.",
- "translation": "Do not delay doing good by saying 'We will see to it later.' When the time comes for you to die, virtue will be your only undying companion.",
- "modern": "'பிறகு பார்த்துக்கொள்ளலாம்' என்று காலம் கடத்தாமல் இப்போதே அறத்தைச் செய்யுங்கள். ஒருவருடைய உயிர் பிரியும் காலத்தில் அவருக்கு அழியாத துணையாக இருப்பது அந்த அறம் மட்டுமே.",
- "explanation": "This couplet warns against the common human tendency to postpone doing good. The phrase 'aṉṟu aṟivām' captures the excuse of putting off virtue until later in life. The poet urges the reader to practice virtue immediately without making such excuses. The striking contrast between 'poṉṟum kāl' (the time of perishing) and 'poṉṟā tuṇai' (an imperishable companion) highlights that when the body dies, only one's accumulated virtue remains as an eternal support.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without saying 'We will know (and do it) then', do virtue; indeed, that, at the time of perishing, is an imperishable companion.",
+ "translation": "Do not delay, saying, 'We will practice virtue later.' Do it now, for that virtue will be an imperishable companion when you perish.",
+ "modern": "‘பிறகு பார்த்துக் கொள்ளலாம்’ என்று தள்ளிப்போடாமல் அறத்தைச் செய்ய வேண்டும்; அதுவே நாம் அழியும் காலத்தில் அழியாத துணையாக இருக்கும்.",
+ "explanation": "This couplet emphasizes the urgency of practicing virtue without procrastination. The phrase 'அன்று அறிவாம்' represents the attitude of delaying good deeds to old age or a future time. The author advises doing virtue immediately because when the body perishes ('பொன்றுங்கால்'), only the virtue performed remains as an undying companion ('பொன்றாத் துணை') to support the soul. The contrast between the perishing body and the imperishable companion highlights the eternal value of righteous actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

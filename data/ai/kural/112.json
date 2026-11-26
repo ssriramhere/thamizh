@@ -15,9 +15,14 @@
    "surface": "உடையவன்",
    "parts": [
     {
-     "text": "உடையவன்",
-     "lemma": "உடையவன்",
-     "gloss": "he who possesses"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "அவன்",
+     "lemma": "அவன்",
+     "gloss": "he"
     }
    ],
    "gloss": "he who possesses"
@@ -28,10 +33,10 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "prosperity"
+     "gloss": "wealth"
     }
    ],
-   "gloss": "prosperity"
+   "gloss": "wealth"
   },
   {
    "surface": "சிதைவு",
@@ -39,10 +44,10 @@
     {
      "text": "சிதைவு",
      "lemma": "சிதைவு",
-     "gloss": "destruction"
+     "gloss": "decay"
     }
    ],
-   "gloss": "destruction"
+   "gloss": "decay"
   },
   {
    "surface": "இன்றி",
@@ -60,11 +65,12 @@
    "parts": [
     {
      "text": "எச்சத்திற்கு",
-     "lemma": "எச்சம்",
-     "gloss": "to the descendants"
+     "lemma": "எச்சத்திற்கு",
+     "gloss": "to the posterity"
     }
    ],
-   "gloss": "to the descendants"
+   "gloss": "to the posterity",
+   "split_unverified": true
   },
   {
    "surface": "ஏமாப்பு",
@@ -81,18 +87,23 @@
    "surface": "உடைத்து",
    "parts": [
     {
-     "text": "உடைத்து",
-     "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "it has"
   }
  ],
- "literal": "Impartiality he-who-possesses's prosperity, destruction without, to descendants protection it-has.",
- "translation": "The prosperity of a man of impartial justice will never perish, but will serve as a secure protection for his descendants.",
- "modern": "நடுவுநிலைமை உடையவனுடைய செல்வமானது அழிவில்லாமல் அவனுடைய சந்ததியினருக்கும் பாதுகாப்பாக அமையும்.",
- "explanation": "This couplet highlights the enduring nature of wealth earned through fairness. The word 'ceppam' refers to rectitude or impartiality. While ill-gotten wealth might seem to grow, the prosperity ('ākkam') of a just person is unique because it suffers no destruction ('citaivu iṉṟi'). Instead, it leaves a lasting legacy, providing security ('ēmāppu') to their descendants ('eccam', literally 'that which is left behind').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The wealth of him who possesses impartiality, without decay, to his posterity protection it has.",
+ "translation": "The wealth of a person of upright impartiality will not diminish; it will stand as a protective shield for their posterity.",
+ "modern": "நடுவுநிலைமை உடையவனுடைய செல்வமானது அழிவில்லாமல் அவனுடைய சந்ததிக்குப் பாதுகாப்பாக விளங்கும்.",
+ "explanation": "This couplet highlights the enduring value of impartiality, referred to here as 'ceppam'. The author asserts that the wealth accumulated by an upright, fair-minded person does not perish or decay. Instead, it remains secure and serves as a source of strength and protection for their descendants or posterity, termed 'eccam'. The word 'eccam' literally means 'that which is left behind', referring to one's children and future generations. Thus, practicing fairness not only benefits the individual during their lifetime but also secures the well-being of their lineage.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

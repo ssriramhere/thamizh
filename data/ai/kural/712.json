@@ -6,10 +6,10 @@
     {
      "text": "இடை",
      "lemma": "இடை",
-     "gloss": "context"
+     "gloss": "appropriate time"
     }
    ],
-   "gloss": "context"
+   "gloss": "appropriate time"
   },
   {
    "surface": "தெரிந்து",
@@ -17,10 +17,10 @@
     {
      "text": "தெரிந்து",
      "lemma": "தெரி",
-     "gloss": "having known"
+     "gloss": "having discerned"
     }
    ],
-   "gloss": "having known"
+   "gloss": "having discerned"
   },
   {
    "surface": "நன்கு",
@@ -39,10 +39,10 @@
     {
      "text": "உணர்ந்து",
      "lemma": "உணர்",
-     "gloss": "having perceived"
+     "gloss": "having understood"
     }
    ],
-   "gloss": "having perceived"
+   "gloss": "having understood"
   },
   {
    "surface": "சொல்லுக",
@@ -50,26 +50,21 @@
     {
      "text": "சொல்லுக",
      "lemma": "சொல்",
-     "gloss": "let speak"
+     "gloss": "let them speak"
     }
    ],
-   "gloss": "let speak"
+   "gloss": "let them speak"
   },
   {
    "surface": "சொல்லின்",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லின்",
      "lemma": "சொல்",
-     "gloss": "word"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "of"
+     "gloss": "of speech"
     }
    ],
-   "gloss": "of words"
+   "gloss": "of speech"
   },
   {
    "surface": "நடை",
@@ -77,10 +72,10 @@
     {
      "text": "நடை",
      "lemma": "நடை",
-     "gloss": "course"
+     "gloss": "nature"
     }
    ],
-   "gloss": "course"
+   "gloss": "nature"
   },
   {
    "surface": "தெரிந்த",
@@ -88,10 +83,10 @@
     {
      "text": "தெரிந்த",
      "lemma": "தெரி",
-     "gloss": "who knew"
+     "gloss": "who have known"
     }
    ],
-   "gloss": "who knew"
+   "gloss": "who have known"
   },
   {
    "surface": "நன்மை",
@@ -116,10 +111,10 @@
    "gloss": "they"
   }
  ],
- "literal": "Context having known, well having perceived, let speak; of words the course who knew, goodness they.",
- "translation": "Let the good people who know the proper usage of words speak only after understanding the context and perceiving the audience well.",
- "modern": "சொற்களின் நடையை அறிந்த நல்லவர்கள், அவையின் தன்மையை அறிந்து நன்கு உணர்ந்த பின்பே பேச வேண்டும்.",
- "explanation": "This couplet emphasizes the importance of understanding one's audience before speaking. The phrase 'சொல்லின் நடை' refers to the proper course or usage of words, highlighting the skill of effective communication. The word 'இடை' denotes the context or the assembly. The poet stresses that even good people who master vocabulary must carefully perceive the situation to ensure their words are appropriate and well-received.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having discerned the appropriate time, and having understood well, let them speak, those of goodness who have known the nature of speech.",
+ "translation": "Let those of good character, who know the nature of speech, discern the right opportunity and understand their audience thoroughly before they speak.",
+ "modern": "சொல்லின் தன்மையை அறிந்த நற்குணமுடையவர்கள், பேசுவதற்கு ஏற்ற நேரத்தை ஆராய்ந்து, அவையினரின் தன்மையை நன்றாக உணர்ந்து பேச வேண்டும்.",
+ "explanation": "This couplet highlights the essential qualities of effective communication. The poet advises that people of good character who understand the power and nature of words ('சொல்லின் நடை தெரிந்த நன்மையவர்') must speak with great care. They must first identify the right opportunity or timing ('இடை தெரிந்து') and then thoroughly comprehend the nature of their audience ('நன்கு உணர்ந்து'). Only when both the timing and the audience's disposition are favorable should they deliver their speech.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

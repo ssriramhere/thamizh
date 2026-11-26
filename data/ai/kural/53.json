@@ -4,14 +4,9 @@
    "surface": "இல்லது",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "text": "இல்லது",
+     "lemma": "இல்லது",
+     "gloss": "that which is lacking"
     }
    ],
    "gloss": "what is lacking"
@@ -33,7 +28,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     },
     {
      "text": "அவள்",
@@ -41,7 +36,7 @@
      "gloss": "she"
     }
    ],
-   "gloss": "wife"
+   "gloss": "wife (she of the home)"
   },
   {
    "surface": "மாண்பு",
@@ -58,38 +53,23 @@
    "surface": "ஆனால்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "become"
-    },
-    {
-     "text": "ன்",
-     "lemma": "ன்",
-     "gloss": "past"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "if"
+     "text": "ஆனால்",
+     "lemma": "ஆகு",
+     "gloss": "if she is"
     }
    ],
-   "gloss": "if becomes"
+   "gloss": "if she is"
   },
   {
    "surface": "உள்ளது",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "exist"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "text": "உள்ளது",
+     "lemma": "உள்ளது",
+     "gloss": "that which is present"
     }
    ],
-   "gloss": "what exists"
+   "gloss": "what is present"
   },
   {
    "surface": "என்",
@@ -108,7 +88,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     },
     {
      "text": "அவள்",
@@ -116,23 +96,18 @@
      "gloss": "she"
     }
    ],
-   "gloss": "wife"
+   "gloss": "wife (she of the home)"
   },
   {
    "surface": "மாணா",
    "parts": [
     {
-     "text": "மாண்",
+     "text": "மாணா",
      "lemma": "மாண்",
-     "gloss": "excellence"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative"
+     "gloss": "not having excellence"
     }
    ],
-   "gloss": "not excellent"
+   "gloss": "lacking excellence"
   },
   {
    "surface": "கடை",
@@ -140,16 +115,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "when"
+     "gloss": "when / in the state of"
     }
    ],
-   "gloss": "when"
+   "gloss": "when / in the state of"
   }
  ],
- "literal": "What is lacking, what, wife excellence if becomes? What exists, what, wife not-excellent when?",
- "translation": "If a wife possesses excellence, what is lacking? If she lacks excellence, what is there?",
- "modern": "மனைவி நற்பண்புடையவளாக இருந்தால் ஒருவனுக்கு இல்லாதது என்ன? அவள் நற்பண்பு இல்லாதவளாக இருந்தால் அவனிடம் இருப்பதுதான் என்ன?",
- "explanation": "This couplet emphasizes the central role of a wife's character in domestic life. The word 'illavaḷ' literally means 'she of the house', pointing to her foundational position. If she has 'māṇpu' (excellence or virtue), the household is complete and lacks nothing. Conversely, if she lacks this excellence ('māṇā kaṭai'), no amount of wealth or other possessions can make the household truly rich. The parallel structure contrasts 'illatu' (what is lacking) with 'uḷḷatu' (what exists) to show that her virtue is the ultimate measure of domestic wealth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "What is lacking, if the wife is excellent? What is present, if the wife lacks excellence?",
+ "translation": "What is lacking if the wife possesses noble virtues? And what is truly possessed if she lacks them?",
+ "modern": "மனைவி நற்பண்புகள் உடையவளாக இருந்தால் அங்கே இல்லாதது என்று எதுவுமில்லை; அவள் நற்பண்புகள் இல்லாதவளாக இருந்தால் அங்கே இருப்பது என்று எதுவுமில்லை.",
+ "explanation": "This couplet emphasizes that a wife's character is the true wealth of a household. If a wife possesses noble virtues (மாண்பு), the home lacks nothing, even in the absence of material riches. Conversely, if she lacks these qualities (மாணாக்கடை), no amount of material wealth can bring genuine prosperity or fulfillment. The poet uses a powerful rhetorical structure, contrasting 'what is lacking' with 'what is present', to show that domestic happiness depends entirely on the wife's goodness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "உவ",
      "lemma": "உவ",
-     "gloss": "yonder"
+     "gloss": "there"
     },
     {
      "text": "காண்",
@@ -14,7 +14,7 @@
      "gloss": "look"
     }
    ],
-   "gloss": "look yonder"
+   "gloss": "Look there!"
   },
   {
    "surface": "எம்",
@@ -22,7 +22,7 @@
     {
      "text": "எம்",
      "lemma": "எம்",
-     "gloss": "our"
+     "gloss": "my"
     }
    ],
    "gloss": "my"
@@ -31,9 +31,14 @@
    "surface": "காதலர்",
    "parts": [
     {
-     "text": "காதலர்",
-     "lemma": "காதலர்",
-     "gloss": "lover"
+     "text": "காதல்",
+     "lemma": "காதல்",
+     "gloss": "love"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "he (honorific)"
     }
    ],
    "gloss": "lover"
@@ -42,12 +47,22 @@
    "surface": "செல்வார்",
    "parts": [
     {
-     "text": "செல்வார்",
+     "text": "செல்",
      "lemma": "செல்",
-     "gloss": "goes-he"
+     "gloss": "go"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future/habitual marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "he (honorific)"
     }
    ],
-   "gloss": "goes"
+   "gloss": "he departs"
   },
   {
    "surface": "இவக்காண்",
@@ -63,7 +78,7 @@
      "gloss": "look"
     }
    ],
-   "gloss": "look here"
+   "gloss": "Look here!"
   },
   {
    "surface": "என்",
@@ -82,7 +97,7 @@
     {
      "text": "மேனி",
      "lemma": "மேனி",
-     "gloss": "body"
+     "gloss": "body/skin"
     }
    ],
    "gloss": "body"
@@ -102,18 +117,23 @@
    "surface": "ஊர்வது",
    "parts": [
     {
-     "text": "ஊர்வது",
+     "text": "ஊர்",
      "lemma": "ஊர்",
-     "gloss": "spreading-it"
+     "gloss": "spread/crawl"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "that which does"
     }
    ],
    "gloss": "spreading"
   }
  ],
- "literal": "Look yonder, my lover goes; look here, on my body pallor spreading.",
- "translation": "Look yonder, my lover is departing! Look here, pallor is already spreading over my body.",
- "modern": "அதோ பார், என் காதலர் செல்கிறார்; இதோ பார், என் உடம்பில் பசலை நிறம் படர்கிறது.",
- "explanation": "The heroine expresses her sorrow at her lover's departure by pointing out the immediate physical effect it has on her. She tells her friend to look yonder at her lover who is walking away. In the very next breath, she tells her to look here at her own body, where the pale hue of separation is already spreading. The contrast between yonder (உவக்காண்) and here (இவக்காண்) emphasizes how instantly the grief of separation manifests as physical pallor.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Look there, my lover departs; look here, my body, pallor spreading.",
+ "translation": "Look there! My lover is departing. Look here! Pallor is already spreading over my body.",
+ "modern": "அதோ பாருங்கள், என் காதலர் போகிறார்; இதோ பாருங்கள், என் உடம்பில் பசலை நிறம் பரவுகிறது.",
+ "explanation": "This couplet vividly captures the immediate physical toll of separation on the heroine. By using the contrasting deictic words 'uvakkāṇ' (look there) and 'ivakkāṇ' (look here), she points out the simultaneous nature of her lover's departure and her own distress. The moment he takes a step away, the sickly yellow pallor (pasappu) associated with grief and longing instantly begins to crawl over her skin. This dramatic exaggeration highlights the depth of her attachment and how her physical well-being is entirely bound to his presence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

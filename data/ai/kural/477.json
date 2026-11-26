@@ -5,22 +5,23 @@
    "parts": [
     {
      "text": "ஆற்றின்",
-     "lemma": "ஆறு",
-     "gloss": "of the capacity"
+     "lemma": "ஆற்றின்",
+     "gloss": "according to one's means"
     }
    ],
-   "gloss": "of the capacity"
+   "gloss": "according to one's means",
+   "split_unverified": true
   },
   {
    "surface": "அற",
    "parts": [
     {
      "text": "அற",
-     "lemma": "அறு",
-     "gloss": "fully"
+     "lemma": "அற",
+     "gloss": "properly or virtuously"
     }
    ],
-   "gloss": "fully"
+   "gloss": "properly"
   },
   {
    "surface": "அறிந்து",
@@ -31,7 +32,7 @@
      "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "knowing"
   },
   {
    "surface": "ஈக",
@@ -39,10 +40,10 @@
     {
      "text": "ஈக",
      "lemma": "ஈ",
-     "gloss": "let give"
+     "gloss": "give"
     }
    ],
-   "gloss": "let give"
+   "gloss": "give"
   },
   {
    "surface": "அது",
@@ -72,10 +73,10 @@
     {
      "text": "போற்றி",
      "lemma": "போற்று",
-     "gloss": "having preserved"
+     "gloss": "guarding or preserving"
     }
    ],
-   "gloss": "having preserved"
+   "gloss": "preserving"
   },
   {
    "surface": "வழங்கு",
@@ -83,10 +84,10 @@
     {
      "text": "வழங்கு",
      "lemma": "வழங்கு",
-     "gloss": "maintaining"
+     "gloss": "distributing"
     }
    ],
-   "gloss": "maintaining"
+   "gloss": "distributing"
   },
   {
    "surface": "நெறி",
@@ -94,16 +95,16 @@
     {
      "text": "நெறி",
      "lemma": "நெறி",
-     "gloss": "way"
+     "gloss": "way or path"
     }
    ],
-   "gloss": "way"
+   "gloss": "the way"
   }
  ],
- "literal": "Of the capacity fully having known let one give; that wealth having preserved maintaining way.",
- "translation": "Give to others only after fully knowing the measure of your own capacity. That is the true way to preserve and maintain your wealth.",
- "modern": "ஒருவன் தன் செல்வத்தின் அளவை முழுமையாக அறிந்து அதற்கேற்ப மற்றவர்களுக்குக் கொடுக்க வேண்டும். அதுவே அவனது செல்வத்தைப் பாதுகாத்து வாழும் வழியாகும்.",
- "explanation": "This couplet advises giving to others only within one's means. The word 'ஆற்றின்' refers to the measure of one's capacity or wealth, which must be fully understood ('அற அறிந்து') before giving ('ஈக'). Doing so is described as the true path ('நெறி') to safeguard ('போற்றி') and sustain one's wealth, preventing ruin through over-generosity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "According to one's means, properly knowing, give; that is the way of preserving and distributing wealth.",
+ "translation": "Give to others according to your means, knowing the proper way; that is the path to preserve and distribute your wealth.",
+ "modern": "ஒருவர் தன் வருவாயின் அளவுக்கு ஏற்ப, அறநெறியை அறிந்து பிறருக்குக் கொடுக்க வேண்டும்; அதுவே செல்வத்தைப் பாதுகாத்து வழங்கும் வழியாகும்.",
+ "explanation": "This couplet highlights the importance of giving within one's capacity. The word 'āṟṟiṉ' means according to one's ability or financial means, emphasizing that charity should not exceed what one can afford. 'Aṟa aṟintu' means knowing the proper, virtuous way of giving. The poet explains that giving in this balanced, mindful manner is actually the true path to both preserving and distributing one's wealth without destroying oneself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

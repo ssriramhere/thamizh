@@ -15,9 +15,14 @@
    "surface": "எனப்படுவது",
    "parts": [
     {
-     "text": "எனப்படுவது",
-     "lemma": "எனப்படு",
-     "gloss": "that which is called"
+     "text": "என",
+     "lemma": "என்",
+     "gloss": "to say"
+    },
+    {
+     "text": "படுவது",
+     "lemma": "படு",
+     "gloss": "that which is subjected to"
     }
    ],
    "gloss": "that which is called"
@@ -39,10 +44,10 @@
     {
      "text": "எனின்",
      "lemma": "என்",
-     "gloss": "if asked"
+     "gloss": "if one asks"
     }
    ],
-   "gloss": "if asked"
+   "gloss": "if you ask"
   },
   {
    "surface": "யாது",
@@ -50,10 +55,10 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "what"
+     "gloss": "any"
     }
    ],
-   "gloss": "whatever"
+   "gloss": "any"
   },
   {
    "surface": "ஒன்றும்",
@@ -88,10 +93,10 @@
     {
      "text": "இலாத",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     }
    ],
-   "gloss": "without"
+   "gloss": "free from"
   },
   {
    "surface": "சொலல்",
@@ -105,10 +110,10 @@
    "gloss": "speaking"
   }
  ],
- "literal": "Truthfulness, that which is called, what if asked: whatever even one harm without speaking.",
- "translation": "If asked what is called truthfulness, it is the speaking of words that are free from even the slightest harm.",
- "modern": "வாய்மை என்று சொல்லப்படுவது எது என்று கேட்டால், அது மற்றவருக்குச் சிறிதளவும் தீங்கு தராத சொற்களைச் சொல்வதாகும்.",
- "explanation": "This couplet defines truthfulness (வாய்மை) by focusing on its effect rather than mere factual accuracy. If asked what truthfulness is, the answer is speaking words that carry no harm (தீமை இலாத). The combination of 'யாது' and 'ஒன்றும்' stresses that not even the slightest harm should be caused by what is said. Therefore, true speech is fundamentally harmless speech.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "What is called truthfulness, if you ask, is the speaking of words free from even the slightest harm to anyone.",
+ "translation": "If one asks what truthfulness is, it is the speaking of words that are free from even the slightest harm to any living being.",
+ "modern": "வாய்மை என்று சொல்லப்படுவது எது என்றால், அது எவ்விதத்திலும் யாருக்கும் தீமை இல்லாத சொற்களைப் பேசுவதாகும்.",
+ "explanation": "In this couplet, the nature of truthfulness is defined not by literal accuracy, but by its impact. The author explains that true speech is that which is completely free from causing harm to any being. The phrase 'yātoṉṟum tīmai ilāta' emphasizes that even the smallest amount of harm must be absent. Therefore, the moral value of speech is determined by its benevolence and its capacity to prevent harm.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

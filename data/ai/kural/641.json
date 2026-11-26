@@ -14,18 +14,23 @@
      "gloss": "goodness"
     }
    ],
-   "gloss": "excellence of tongue"
+   "gloss": "excellence of the tongue"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "நலன்",
@@ -36,7 +41,7 @@
      "gloss": "goodness"
     }
    ],
-   "gloss": "goodness"
+   "gloss": "the asset"
   },
   {
    "surface": "உடைமை",
@@ -55,10 +60,11 @@
     {
      "text": "அந்நலம்",
      "lemma": "அந்நலம்",
-     "gloss": "that goodness"
+     "gloss": "that excellence"
     }
    ],
-   "gloss": "that goodness"
+   "gloss": "that excellence",
+   "split_unverified": true
   },
   {
    "surface": "யா",
@@ -66,10 +72,10 @@
     {
      "text": "யா",
      "lemma": "யா",
-     "gloss": "any"
+     "gloss": "which"
     }
    ],
-   "gloss": "any"
+   "gloss": "any other"
   },
   {
    "surface": "நலத்து",
@@ -77,38 +83,39 @@
     {
      "text": "நலத்து",
      "lemma": "நலம்",
-     "gloss": "in goodness"
+     "gloss": "goodness"
     }
    ],
-   "gloss": "in goodness"
+   "gloss": "among excellences"
   },
   {
    "surface": "உள்ளதூஉம்",
    "parts": [
     {
      "text": "உள்ளதூஉம்",
-     "lemma": "உள்",
-     "gloss": "included even"
+     "lemma": "உள்ளதூஉம்",
+     "gloss": "is indeed included"
     }
    ],
-   "gloss": "included even"
+   "gloss": "is indeed included",
+   "split_unverified": true
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "not"
   }
  ],
- "literal": "Excellence of tongue called possession of goodness, that goodness in any goodness included even is not.",
- "translation": "The possession of goodness called excellence of speech is a unique wealth. That goodness is not included in any other kind of goodness.",
- "modern": "நாவன்மை என்று சொல்லப்படும் நற்பண்பு ஒரு தனிப்பட்ட செல்வமாகும். அந்தச் செல்வம் வேறு எந்தச் செல்வங்களுக்குள்ளும் அடங்குவது அன்று.",
- "explanation": "The poet defines the power of speech as a unique and unparalleled wealth. By stating that the 'excellence of the tongue' (நாநலம்) is not included in any other kind of goodness, the couplet emphasizes its distinct nature. It implies that eloquence is an independent asset that cannot be replaced by other forms of wealth or virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Possession of the asset called excellence of the tongue, that excellence is not included in any other excellence.",
+ "translation": "The possession of the asset called eloquence of the tongue is a unique excellence; that excellence is not to be found among any other excellences.",
+ "modern": "நாநலம் என்று சொல்லப்படும் நன்மையைப் பெற்றிருப்பது ஒரு சிறந்த உடைமையாகும்; அந்த நன்மை வேறு எந்த நன்மைகளுள்ளும் அடங்குவது அன்று.",
+ "explanation": "This couplet highlights the supreme value of eloquence, termed here as the 'excellence of the tongue' (நாநலம்). The author states that possessing this gift of speech is the greatest asset a person can have. He contrasts it with all other forms of goodness or wealth, asserting that this specific excellence stands completely apart and cannot be matched by any other virtues. The word 'யாநலத்து' refers to any other kind of excellence, emphasizing that eloquence is unparalleled in its power and utility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

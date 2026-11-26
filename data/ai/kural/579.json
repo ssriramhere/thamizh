@@ -28,20 +28,20 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "nature"
+     "gloss": "character"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they who have"
+     "gloss": "they (honorific)"
     }
    ],
-   "gloss": "people of nature"
+   "gloss": "those of the character"
   },
   {
    "surface": "கண்ணும்",
@@ -49,7 +49,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/towards"
+     "gloss": "place / towards"
     },
     {
      "text": "உம்",
@@ -70,10 +70,10 @@
     {
      "text": "ஓடி",
      "lemma": "ஓடு",
-     "gloss": "having run"
+     "gloss": "running (showing consideration)"
     }
    ],
-   "gloss": "having shown consideration"
+   "gloss": "showing consideration"
   },
   {
    "surface": "பொறுத்து",
@@ -81,10 +81,10 @@
     {
      "text": "பொறுத்து",
      "lemma": "பொறு",
-     "gloss": "having borne"
+     "gloss": "having endured"
     }
    ],
-   "gloss": "having borne"
+   "gloss": "having endured"
   },
   {
    "surface": "ஆற்றும்",
@@ -92,10 +92,10 @@
     {
      "text": "ஆற்றும்",
      "lemma": "ஆற்று",
-     "gloss": "doing"
+     "gloss": "practicing"
     }
    ],
-   "gloss": "doing"
+   "gloss": "practicing"
   },
   {
    "surface": "பண்பே",
@@ -103,7 +103,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "nature"
+     "gloss": "quality"
     },
     {
      "text": "ஏ",
@@ -111,7 +111,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "nature indeed"
+   "gloss": "the quality indeed"
   },
   {
    "surface": "தலை",
@@ -119,16 +119,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "supreme"
     }
    ],
-   "gloss": "chief"
+   "gloss": "is supreme"
   }
  ],
- "literal": "Even towards people of a nature that does harm, having shown consideration, the nature that does endurance indeed is chief.",
- "translation": "Showing consideration and enduring the actions of even those whose nature is to cause harm is the foremost virtue.",
- "modern": "பிறருக்குத் துன்பம் செய்யும் குணம் உடையவர்களிடத்தும் இரக்கம் காட்டி, அவர்கள் செய்யும் குற்றத்தைப் பொறுத்துக்கொள்ளும் குணமே மிகச் சிறந்ததாகும்.",
- "explanation": "This couplet defines the highest form of graciousness or consideration. It states that one should show consideration even to those who actively cause harm. The phrase 'பொறுத்து ஆற்றும் பண்பே தலை' emphasizes that bearing with such people and continuing to act with a forgiving nature is the foremost quality. The word 'கண்ணோடி' literally means the eyes running towards someone, which signifies looking upon them with kindness and empathy regardless of their hostile nature.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even towards those of the character of doing harm, showing consideration and practicing endurance is the supreme quality.",
+ "translation": "Even towards those whose nature is to cause harm, showing consideration and practicing forgiveness is the supreme virtue.",
+ "modern": "துன்பம் செய்யும் குணம் உடையவர்களிடத்தும் இரக்கம் காட்டி, அத்துன்பத்தைப் பொறுத்துக் கொள்ளும் பண்பே மிகச் சிறந்ததாகும்.",
+ "explanation": "This couplet highlights the ultimate expression of 'kaṇṇōṭṭam' (benignity or consideration). The poet states that it is easy to be kind to those who are good, but the supreme virtue lies in showing consideration even to those whose very nature is to cause harm. Instead of retaliating, one must look upon them with a kindly eye and endure their actions with patience. This noble quality of combining consideration with forgiveness is hailed as the highest of all virtues.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

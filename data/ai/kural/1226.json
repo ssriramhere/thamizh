@@ -11,17 +11,17 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "affliction"
     }
    ],
-   "gloss": "evening pain"
+   "gloss": "evening-affliction"
   },
   {
    "surface": "செய்தல்",
    "parts": [
     {
      "text": "செய்தல்",
-     "lemma": "செய்",
+     "lemma": "செய்தல்",
      "gloss": "causing"
     }
    ],
@@ -32,22 +32,22 @@
    "parts": [
     {
      "text": "மணந்தார்",
-     "lemma": "மண",
-     "gloss": "lover"
+     "lemma": "மணத்தல்",
+     "gloss": "he who united with me"
     }
    ],
-   "gloss": "lover"
+   "gloss": "he who united with me"
   },
   {
    "surface": "அகலாத",
    "parts": [
     {
      "text": "அகலாத",
-     "lemma": "அகல்",
+     "lemma": "அகலுதல்",
      "gloss": "not departing"
     }
    ],
-   "gloss": "unseparated"
+   "gloss": "not departing"
   },
   {
    "surface": "காலை",
@@ -55,21 +55,26 @@
     {
      "text": "காலை",
      "lemma": "காலை",
-     "gloss": "time"
+     "gloss": "morning"
     }
    ],
-   "gloss": "time"
+   "gloss": "morning"
   },
   {
    "surface": "அறிந்தது",
    "parts": [
     {
-     "text": "அறிந்தது",
-     "lemma": "அறி",
-     "gloss": "known thing"
+     "text": "அறிந்து",
+     "lemma": "அறிதல்",
+     "gloss": "having known"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
-   "gloss": "known"
+   "gloss": "knowing it"
   },
   {
    "surface": "இலேன்",
@@ -77,16 +82,16 @@
     {
      "text": "இலேன்",
      "lemma": "இல்",
-     "gloss": "I am without"
+     "gloss": "I did not"
     }
    ],
-   "gloss": "I am not"
+   "gloss": "I did not"
   }
  ],
- "literal": "Evening pain causing, lover unseparated time, known I am not.",
- "translation": "I did not know that evening causes such pain, back when my lover had not parted from me.",
- "modern": "என் காதலர் என்னை விட்டுப் பிரியாமல் இருந்த காலத்தில், மாலைப் பொழுது இவ்வளவு துன்பம் செய்யும் என்பதை நான் அறிந்திருக்கவில்லை.",
- "explanation": "The speaker laments the intense sorrow brought by the evening now that she is separated from her lover. She states that when they were together, she was completely unaware of the evening's capacity to cause such pain. The word 'காலை' here means 'time' or 'period' rather than 'morning', referring to the time before his departure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Evening-affliction causing, my lover not-departing morning, I did not know.",
+ "translation": "In the morning, when my beloved had not departed from me, I did not know that the evening would bring such painful affliction.",
+ "modern": "என் கணவர் என்னை விட்டுப் பிரியாத காலைப் பொழுதில், மாலைப் பொழுது இத்தகைய துன்பத்தைத் தரும் என்பதை நான் அறிந்திருக்கவில்லை.",
+ "explanation": "The heroine, suffering from the pain of separation, laments the arrival of the evening. She reflects on the morning when her lover was still by her side, a time of joy and security. At that time, she could not have anticipated how agonizing the evening would become once he departed. The contrast between 'காலை' (morning) and 'மாலை' (evening) highlights how quickly her state of mind shifted from happiness to deep sorrow.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

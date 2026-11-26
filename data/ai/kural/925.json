@@ -6,23 +6,18 @@
     {
      "text": "கை",
      "lemma": "கை",
-     "gloss": "proper conduct"
+     "gloss": "action"
     }
    ],
-   "gloss": "proper conduct"
+   "gloss": "action"
   },
   {
    "surface": "அறியாமை",
    "parts": [
     {
-     "text": "அறி",
-     "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "அறியாமை",
+     "lemma": "அறியாமை",
+     "gloss": "ignorance"
     }
    ],
    "gloss": "ignorance"
@@ -33,15 +28,15 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed (emphatic)"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "it possesses indeed"
+   "gloss": "indeed possesses"
   },
   {
    "surface": "பொருள்",
@@ -60,10 +55,10 @@
     {
      "text": "கொடுத்து",
      "lemma": "கொடு",
-     "gloss": "having given"
+     "gloss": "giving"
     }
    ],
-   "gloss": "having given"
+   "gloss": "giving"
   },
   {
    "surface": "மெய்",
@@ -80,14 +75,9 @@
    "surface": "அறியாமை",
    "parts": [
     {
-     "text": "அறி",
-     "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "அறியாமை",
+     "lemma": "அறியாமை",
+     "gloss": "ignorance"
     }
    ],
    "gloss": "ignorance"
@@ -98,16 +88,16 @@
     {
      "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "acquiring"
+     "gloss": "buying"
     }
    ],
-   "gloss": "acquiring"
+   "gloss": "buying"
   }
  ],
- "literal": "Proper conduct ignorance it possesses indeed, wealth having given, body ignorance acquiring.",
- "translation": "Spending wealth to acquire a state of bodily unawareness is an act of utter senselessness.",
- "modern": "பணத்தைக் கொடுத்துத் தன் உடலையே அறியாத மயக்க நிலையை விலைக்கு வாங்குவது, என்ன செய்வதென்று அறியாத பெரும் முட்டாள்தனமாகும்.",
- "explanation": "This couplet points out the absurdity of paying for one's own intoxication. The phrase 'பொருள் கொடுத்து' means spending valuable wealth, while 'மெய்யறியாமை கொளல்' refers to buying a drunken state where one loses awareness of their own physical body. The poet concludes that doing this shows a complete lack of basic sense or proper conduct, expressed by the word 'கை' which here signifies proper action or what one ought to do.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Giving wealth and buying the unconsciousness of one's body indeed possesses the character of utter helplessness.",
+ "translation": "To pay away one's wealth to purchase the unconsciousness of one's own body is indeed the height of foolish helplessness.",
+ "modern": "பொருளைக் கொடுத்துத் தன் உடம்பை அறியாத மயக்க நிலையை விலைக்கு வாங்குவது, என்ன செய்வது என்று தெரியாத அறியாமைத் தன்மையைக் கொண்டதாகும்.",
+ "explanation": "This couplet exposes the irrationality of drinking by framing it as a foolish commercial transaction. The poet describes the act of consuming alcohol as paying one's own wealth (poruḷ koṭuttu) to purchase physical unconsciousness or stupor (mey-y-aṟiyāmai koḷal). Such behavior is characterized as 'kai-y-aṟiyāmai', which denotes utter helplessness or a total lack of self-control. Through these contrasting terms of 'knowing' and 'not knowing', the verse shows how a person willingly spends resources to lose their basic physical awareness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

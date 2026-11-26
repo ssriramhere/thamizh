@@ -16,11 +16,12 @@
    "parts": [
     {
      "text": "களிற்றின்",
-     "lemma": "களிறு",
-     "gloss": "of the elephant bull"
+     "lemma": "களிற்றின்",
+     "gloss": "of the male elephant"
     }
    ],
-   "gloss": "of the elephant bull"
+   "gloss": "of the male elephant",
+   "split_unverified": true
   },
   {
    "surface": "மேல்",
@@ -50,10 +51,10 @@
     {
      "text": "படாம்",
      "lemma": "படாம்",
-     "gloss": "veil"
+     "gloss": "covering cloth"
     }
    ],
-   "gloss": "veil"
+   "gloss": "shield or covering cloth"
   },
   {
    "surface": "மாதர்",
@@ -61,21 +62,21 @@
     {
      "text": "மாதர்",
      "lemma": "மாதர்",
-     "gloss": "woman's"
+     "gloss": "beautiful woman"
     }
    ],
-   "gloss": "woman's"
+   "gloss": "the beautiful woman's"
   },
   {
    "surface": "படாஅ",
    "parts": [
     {
      "text": "படாஅ",
-     "lemma": "படு",
-     "gloss": "unyielding"
+     "lemma": "படா",
+     "gloss": "not falling or firm"
     }
    ],
-   "gloss": "unyielding"
+   "gloss": "firm and upright"
   },
   {
    "surface": "முலை",
@@ -83,10 +84,10 @@
     {
      "text": "முலை",
      "lemma": "முலை",
-     "gloss": "breast"
+     "gloss": "breasts"
     }
    ],
-   "gloss": "breast"
+   "gloss": "breasts"
   },
   {
    "surface": "மேல்",
@@ -105,16 +106,16 @@
     {
      "text": "துகில்",
      "lemma": "துகில்",
-     "gloss": "cloth"
+     "gloss": "fine cloth"
     }
    ],
-   "gloss": "cloth"
+   "gloss": "fine cloth"
   }
  ],
- "literal": "rutting of elephant bull upon eye veil woman's unyielding breast upon cloth",
- "translation": "The garment covering this woman's firm breasts looks like the face-veil worn by a fierce, rutting elephant.",
- "modern": "இப்பெண்ணின் சாயாத மார்பகங்களின் மேல் அணிந்துள்ள ஆடையானது, மதம் பிடித்த ஆண் யானையின் கண்களை மறைக்கும் முகபடாம் போன்றது.",
- "explanation": "The speaker compares the garment over the young woman's firm breasts to the face-veil placed on a fierce, rutting elephant. Just as the veil on a rutting elephant signals its dangerous and overwhelming power, the cloth on her breasts highlights her captivating and devastating beauty. The word 'படாஅ' (unyielding or not sagging) emphasizes her youth and vitality. Through this striking martial imagery, the couplet conveys how her beauty completely overpowers his mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like the eye-shield upon a rutting male elephant is the fine cloth upon the firm breasts of this beautiful woman.",
+ "translation": "The fine cloth covering the firm breasts of this beautiful woman is like the protective eye-shield draped over a fierce, rutting elephant.",
+ "modern": "மதங்கொண்ட ஆண் யானையின் மேல் அணியும் கண்மறைப்புத் துணி போன்றது, இந்தப் பெண்ணின் நிமிர்ந்த மார்பகங்களின் மேல் அணிந்துள்ள மெல்லிய ஆடை.",
+ "explanation": "In this couplet, the hero compares the garment covering the heroine's breasts to the protective eye-shield (கட்படாம்) of a rutting elephant (கடாஅக் களிறு). A rutting elephant is wild and dangerously powerful; similarly, the beauty of the heroine's breasts is overwhelmingly intense and capable of causing sweet torment to the beholder. The fine cloth (துகில்) acts as a shield, partially veiling this immense power and protecting the onlooker from being completely overcome. The word 'படாஅ' describes her breasts as firm and unconquered, mirroring the untamed strength of the 'கடாஅ' (rutting) elephant.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

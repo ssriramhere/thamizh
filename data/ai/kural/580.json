@@ -9,7 +9,7 @@
      "gloss": "to pour"
     }
    ],
-   "gloss": "being poured"
+   "gloss": "when poured"
   },
   {
    "surface": "கண்டும்",
@@ -25,7 +25,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having seen"
+   "gloss": "even after seeing"
   },
   {
    "surface": "நஞ்சு",
@@ -55,10 +55,10 @@
     {
      "text": "அமைவர்",
      "lemma": "அமை",
-     "gloss": "they will be calm"
+     "gloss": "they will remain composed"
     }
    ],
-   "gloss": "they will be calm"
+   "gloss": "they will remain composed"
   },
   {
    "surface": "நயத்தக்க",
@@ -66,10 +66,11 @@
     {
      "text": "நயத்தக்க",
      "lemma": "நயத்தக்க",
-     "gloss": "worthy of esteem"
+     "gloss": "worthy of courtesy"
     }
    ],
-   "gloss": "worthy of esteem"
+   "gloss": "worthy of courtesy",
+   "split_unverified": true
   },
   {
    "surface": "நாகரிகம்",
@@ -77,27 +78,32 @@
     {
      "text": "நாகரிகம்",
      "lemma": "நாகரிகம்",
-     "gloss": "graciousness"
+     "gloss": "benignity"
     }
    ],
-   "gloss": "graciousness"
+   "gloss": "benignity"
   },
   {
    "surface": "வேண்டுபவர்",
    "parts": [
     {
-     "text": "வேண்டுபவர்",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "those who desire"
+     "gloss": "to desire"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "அவர்",
+     "gloss": "those who"
     }
    ],
    "gloss": "those who desire"
   }
  ],
- "literal": "Being poured even having seen, poison having consumed they will be calm, esteem-worthy graciousness those who desire.",
- "translation": "Those who desire highly esteemed graciousness will calmly drink poison, even when they see it being poured for them.",
- "modern": "எல்லாராலும் விரும்பத்தக்க சிறந்த நாகரிகத்தை விரும்புபவர்கள், தமக்கு நஞ்சை ஊற்றுவதைப் பார்த்தாலும், அதனை உண்டு அமைதியாக இருப்பார்கள்.",
- "explanation": "This couplet illustrates the extreme extent of graciousness and benignity. It says that those who value noble, esteemed social conduct will accept even poison from others without causing a scene. By drinking the poison calmly, they prioritize the feelings and dignity of the person serving it over their own lives. The word 'நாகரிகம்' (urbanity or graciousness) here denotes a profound, self-sacrificing courtesy that refuses to embarrass another person.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when poured and seeing it, poison having consumed they will remain composed, those who desire desirable benignity.",
+ "translation": "Those who desire the highly esteemed virtue of benignity will calmly drink even poison, even when they see it being poured out for them.",
+ "modern": "விரும்பத்தக்க கண்ணோட்டத்தை (நாகரிகத்தை) விரும்புகின்றவர்கள், தமக்கு நஞ்சை ஊற்றுவதைக் கண்ணால் கண்டபோதும் அதை உண்டு அமைதியாக இருப்பார்கள்.",
+ "explanation": "This couplet illustrates the ultimate limit of 'kaṇṇōṭtam' (benignity or consideration for others), which is here referred to as 'nākarikam' (civility or social refinement). Those who cherish this noble quality ('nākarikam vēṇṭupavar') value their relationships so highly that they would rather suffer than cause distress to others. Even if they openly see poison being served to them by someone, they will calmly drink it to avoid embarrassing or offending the host. The word 'nayattakka' emphasizes that this level of courtesy is highly desirable and worthy of praise.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

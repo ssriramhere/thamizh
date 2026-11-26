@@ -6,10 +6,10 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "detail"
+     "gloss": "means / ways"
     }
    ],
-   "gloss": "detail"
+   "gloss": "means / ways"
   },
   {
    "surface": "அற",
@@ -17,42 +17,32 @@
     {
      "text": "அற",
      "lemma": "அறு",
-     "gloss": "completely"
+     "gloss": "completely (literally: to cease)"
     }
    ],
-   "gloss": "completely"
+   "gloss": "completely / thoroughly"
   },
   {
    "surface": "சூழாது",
    "parts": [
     {
-     "text": "சூழ்",
+     "text": "சூழாது",
      "lemma": "சூழ்",
-     "gloss": "to consider"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative suffix"
+     "gloss": "without deliberating"
     }
    ],
-   "gloss": "without considering"
+   "gloss": "without deliberating"
   },
   {
    "surface": "எழுதல்",
    "parts": [
     {
-     "text": "எழு",
+     "text": "எழுதல்",
      "lemma": "எழு",
-     "gloss": "to rise"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "rising up (to act)"
     }
    ],
-   "gloss": "rising"
+   "gloss": "rising up (to act)"
   },
   {
    "surface": "பகைவரை",
@@ -65,10 +55,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "enemies"
+   "gloss": "enemies (accusative)"
   },
   {
    "surface": "பாத்தி",
@@ -76,10 +66,10 @@
     {
      "text": "பாத்தி",
      "lemma": "பாத்தி",
-     "gloss": "garden bed"
+     "gloss": "garden bed / plot of land"
     }
    ],
-   "gloss": "garden bed"
+   "gloss": "garden bed / plot of land"
   },
   {
    "surface": "படுப்பது",
@@ -87,21 +77,21 @@
     {
      "text": "படுப்பது",
      "lemma": "படு",
-     "gloss": "establishing"
+     "gloss": "making to lie down / planting"
     }
    ],
-   "gloss": "establishing"
+   "gloss": "making to lie down / planting"
   },
   {
    "surface": "ஓர்",
    "parts": [
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "a"
+     "lemma": "ஒரு",
+     "gloss": "one / a single"
     }
    ],
-   "gloss": "a"
+   "gloss": "one / a single"
   },
   {
    "surface": "ஆறு",
@@ -109,16 +99,16 @@
     {
      "text": "ஆறு",
      "lemma": "ஆறு",
-     "gloss": "way"
+     "gloss": "way / path"
     }
    ],
-   "gloss": "way"
+   "gloss": "way / path"
   }
  ],
- "literal": "Details completely without considering rising, enemies garden bed establishing a way.",
- "translation": "Setting out to act without exhaustively considering every detail is a way of planting one's enemies in a well-prepared bed.",
- "modern": "எல்லா வகைகளையும் முழுமையாக ஆராயாமல் ஒரு செயலைத் தொடங்குவது, பகைவர்களைப் பாத்தி கட்டி வளர்ப்பதற்குச் சமமான ஒரு வழியாகும்.",
- "explanation": "This couplet warns against hasty action. The word 'vakai' refers to the various details or categories of an undertaking, and 'aṟa' means to exhaust them completely. If a leader rises to act without such thorough deliberation ('cūḻātu'), they inadvertently create the perfect conditions for their enemies to thrive. The poet uses the agricultural image of a 'pātti' (a prepared garden bed) to show how poor planning actively cultivates and strengthens one's opposition.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without completely deliberating the means, rising up to act is a way of planting enemies in a garden bed.",
+ "translation": "To launch an action without thoroughly planning the means is a way of planting one's enemies in a fertile garden bed, helping them grow strong.",
+ "modern": "செயல் செய்யும் வழிகளை முழுமையாக ஆராயாமல் செயலில் இறங்குவது, பகைவர்களைப் பாத்தியில் நட்டு வளர்ப்பதற்கு ஒப்பான ஒரு வழியாகும்.",
+ "explanation": "This couplet warns against acting without a complete and detailed plan. The phrase 'vakaiyaṟa cūḻātu' means failing to deliberate thoroughly on all the possible ways and means of executing an action. If a person rushes into action or war without such planning, they are not defeating their enemies; instead, they are doing something that benefits them. The poet uses the agricultural metaphor of 'pātti' (a garden bed) to show that unplanned action is like preparing a fertile plot of land to plant and nurture one's own enemies, allowing them to take root and flourish.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

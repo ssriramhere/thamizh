@@ -6,7 +6,7 @@
     {
      "text": "எனை",
      "lemma": "எனை",
-     "gloss": "whatever measure"
+     "gloss": "whatever"
     },
     {
      "text": "திட்பம்",
@@ -14,7 +14,7 @@
      "gloss": "firmness"
     }
    ],
-   "gloss": "whatever firmness"
+   "gloss": "whatever other firmness"
   },
   {
    "surface": "எய்",
@@ -22,26 +22,26 @@
     {
      "text": "எய்",
      "lemma": "எய்து",
-     "gloss": "to attain (fragment)"
+     "gloss": "attain"
     }
    ],
-   "gloss": "attain (fragment)"
+   "gloss": "attain"
   },
   {
    "surface": "தியக்",
    "parts": [
     {
      "text": "திய",
-     "lemma": "திய",
-     "gloss": "past relative participle fragment"
+     "lemma": "இய",
+     "gloss": "past relative participle suffix"
     },
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "attained (fragment)"
+   "gloss": "that is attained"
   },
   {
    "surface": "கண்ணும்",
@@ -49,7 +49,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/time"
+     "gloss": "locative/temporal suffix meaning 'when'"
     },
     {
      "text": "உம்",
@@ -57,7 +57,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even when"
   },
   {
    "surface": "வினைத்திட்பம்",
@@ -81,26 +81,31 @@
     {
      "text": "வேண்டார்",
      "lemma": "வேண்டு",
-     "gloss": "those who do not desire/possess"
+     "gloss": "those who do not possess or value"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who lack (accusative)"
+   "gloss": "those who do not possess (firmness in action)"
   },
   {
    "surface": "வேண்டாது",
    "parts": [
     {
-     "text": "வேண்டாது",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "will not desire"
+     "gloss": "value or esteem"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "not (negative suffix)"
     }
    ],
-   "gloss": "will not desire"
+   "gloss": "will not value"
   },
   {
    "surface": "உலகு",
@@ -108,16 +113,16 @@
     {
      "text": "உலகு",
      "lemma": "உலகு",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
    "gloss": "the world"
   }
  ],
- "literal": "Whatever-firmness attained even-if, action-firmness those-who-lack desires-not the-world.",
- "translation": "Even if they possess every other kind of firmness, the world will not value those who lack firmness in action.",
- "modern": "வேறு எவ்வளவு வலிமைகளை அடைந்திருந்தாலும், செயலில் உறுதி இல்லாதவர்களை இந்த உலகம் மதிக்காது.",
- "explanation": "This couplet emphasizes the supreme importance of firmness in action. The phrase 'எனைத்திட்பம்' refers to any other kind of strength or firmness, such as wealth, military power, or intellect. Even if a person possesses all these, the world ('உலகு') will not value or respect them ('வேண்டாது') if they lack 'வினைத்திட்பம்'—the resolute determination to carry out an action to its end. The repetition of 'திட்பம்' (firmness) and 'வேண்டு' (desire/value) creates a strong contrast between what one might have and what the world truly demands.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Whatever other firmness even when attained, those who do not possess firmness in action, the world will not value.",
+ "translation": "Even if they possess every other kind of strength, the world will not respect those who lack firmness in action.",
+ "modern": "எவ்வளவு வலிமைகளைப் பெற்றிருந்த போதிலும், செய்யும் செயலில் உறுதி இல்லாதவர்களை இந்த உலகம் மதிக்காது.",
+ "explanation": "This couplet highlights the supreme importance of resoluteness in action. The term 'enait-tiṭpam' refers to any other kind of strength, such as wealth, physical power, or intellectual capacity. The poet asserts that even if one attains all these other strengths, they are of no value if one lacks 'vinai-tiṭpam', which is firmness and determination in executing a task. The world will ultimately disregard and fail to respect those who cannot carry out their actions with unwavering resolve.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

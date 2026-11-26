@@ -16,10 +16,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "becomes"
+     "gloss": "becoming"
     }
    ],
-   "gloss": "enmity becomes friendship"
+   "gloss": "when enmity becomes friendship"
   },
   {
    "surface": "காலம்",
@@ -30,14 +30,14 @@
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "the time"
   },
   {
    "surface": "வருங்கால்",
    "parts": [
     {
      "text": "வரும்",
-     "lemma": "வா",
+     "lemma": "வரு",
      "gloss": "coming"
     },
     {
@@ -46,7 +46,7 @@
      "gloss": "time"
     }
    ],
-   "gloss": "when comes"
+   "gloss": "when it arrives"
   },
   {
    "surface": "முகநட்டு",
@@ -54,10 +54,11 @@
     {
      "text": "முகநட்டு",
      "lemma": "முகநட்டு",
-     "gloss": "having befriended with the face"
+     "gloss": "befriending only with the face"
     }
    ],
-   "gloss": "having befriended with the face"
+   "gloss": "befriending only with the face",
+   "split_unverified": true
   },
   {
    "surface": "அகநட்பு",
@@ -65,10 +66,11 @@
     {
      "text": "அகநட்பு",
      "lemma": "அகநட்பு",
-     "gloss": "inner friendship"
+     "gloss": "friendship of the heart"
     }
    ],
-   "gloss": "inner friendship"
+   "gloss": "friendship of the heart",
+   "split_unverified": true
   },
   {
    "surface": "ஒரீஇ",
@@ -76,10 +78,10 @@
     {
      "text": "ஒரீஇ",
      "lemma": "ஒருவு",
-     "gloss": "having abandoned"
+     "gloss": "having avoided"
     }
    ],
-   "gloss": "having abandoned"
+   "gloss": "avoiding"
   },
   {
    "surface": "விடல்",
@@ -87,16 +89,16 @@
     {
      "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "let go"
+     "gloss": "to leave"
     }
    ],
-   "gloss": "let go"
+   "gloss": "should be abandoned"
   }
  ],
- "literal": "enmity becomes friendship time when comes having befriended with the face inner friendship having abandoned let go",
- "translation": "When the time comes for enemies to act like friends, show them friendship on your face but abandon it in your heart.",
- "modern": "பகைவர்கள் நண்பர்களாக மாறும் காலம் வரும்போது, முகத்தளவில் மட்டும் நட்பு பாராட்டி, மனதளவில் நட்பை நீக்கிவிட வேண்டும்.",
- "explanation": "This couplet advises caution when enemies suddenly pretend to be friends. The phrase 'பகைநட்பாம் காலம்' refers to a time when foes act friendly for their own benefit. In such situations, one should respond with 'முகநட்டு' (outward or facial friendship) to be polite and safe. However, one must completely abandon 'அகநட்பு' (inner or true friendship) to protect oneself from their hidden deceit.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When the time comes that enmity becomes friendship, befriending with the face, avoiding friendship of the heart, one should abandon them.",
+ "translation": "When a time comes where enemies pretend to be friends, one should reciprocate friendship only with a smiling face, while completely avoiding any true friendship of the heart.",
+ "modern": "பகைவர் நண்பராக நடிக்கும் காலம் வரும்போது, முக அளவில் மட்டும் நட்பு காட்டி, மனப்பூர்வமான நட்பைத் தவிர்த்து அவர்களை விட்டுவிட வேண்டும்.",
+ "explanation": "This couplet advises how to deal with insincere or hostile alliances. When circumstances force an enemy to seek your friendship, you should not reject them openly; instead, show a friendly face (முகநட்டு) to maintain appearances. However, you must strictly avoid establishing any genuine, deep friendship of the heart (அகநட்பு ஒரீஇ) with them. Ultimately, you must keep them at a distance and let them go, as their inner hostility remains unchanged.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative suffix)"
     }
    ],
    "gloss": "than poverty"
@@ -20,17 +20,12 @@
    "surface": "இன்னாது",
    "parts": [
     {
-     "text": "இன்னா",
-     "lemma": "இன்னா",
+     "text": "இன்னாது",
+     "lemma": "இன்னாது",
      "gloss": "painful"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "it is"
     }
    ],
-   "gloss": "it is painful"
+   "gloss": "is more painful"
   },
   {
    "surface": "உடைமை",
@@ -38,10 +33,10 @@
     {
      "text": "உடைமை",
      "lemma": "உடைமை",
-     "gloss": "wealth"
+     "gloss": "possession of wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "possession of wealth"
   },
   {
    "surface": "முறை",
@@ -58,24 +53,19 @@
    "surface": "செய்யா",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யா",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not doing"
     }
    ],
-   "gloss": "who does not do"
+   "gloss": "not doing"
   },
   {
    "surface": "மன்னவன்",
    "parts": [
     {
      "text": "மன்னவன்",
-     "lemma": "மன்னவன்",
+     "lemma": "மன்னன்",
      "gloss": "king"
     }
    ],
@@ -107,23 +97,18 @@
    "surface": "படின்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படின்",
      "lemma": "படு",
-     "gloss": "fall"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one falls"
     }
    ],
-   "gloss": "if it falls"
+   "gloss": "if one falls"
   }
  ],
- "literal": "Than poverty it is painful, wealth, justice who-does-not-do king's scepter under if it falls.",
- "translation": "If one falls under the scepter of a king who does not administer justice, possessing wealth is more painful than poverty.",
- "modern": "நீதி வழங்காத அரசனது ஆட்சியின் கீழ் வாழ நேர்ந்தால், வறுமையை விடச் செல்வம் உடையவராக இருப்பதே ஒருவருக்கு அதிகத் துன்பத்தைத் தரும்.",
- "explanation": "This couplet highlights the extreme insecurity of living under a tyrant. The phrase 'இன்மையின் இன்னாது உடைமை' states a paradox: having wealth is actually more painful than being in poverty. This happens when one's life falls under the scepter ('கோல்') of a king who does not govern justly ('முறைசெய்யா மன்னவன்'). Under such an unjust rule, a wealthy person becomes a constant target for extortion and confiscation, living in perpetual fear, whereas a poor person has nothing for the tyrant to steal.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than poverty, is more painful possession of wealth, if one falls under the scepter of a king who does not do justice.",
+ "translation": "If one must live under the scepter of a king who does not administer justice, possessing wealth is far more painful than suffering poverty.",
+ "modern": "நீதி செலுத்தாத அரசனுடைய செங்கோல் ஆட்சியின்கீழ் வாழ நேர்ந்தால், வறுமையை விடச் செல்வத்தை உடையவராக இருப்பது அதிகத் துன்பத்தைத் தரும்.",
+ "explanation": "This couplet highlights the dread of living under an unjust ruler. The poet states that if a person lives under a king who does not deliver justice ('முறை செய்யா மன்னவன்'), having wealth ('உடைமை') becomes a greater source of misery than poverty ('இன்மை'). Under a tyrannical regime, the wealthy are constantly targeted, extorted, or harassed, making their possessions a liability. Thus, the pain of holding wealth under tyranny far exceeds the hardships of having nothing at all.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

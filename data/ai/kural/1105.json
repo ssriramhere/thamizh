@@ -22,10 +22,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "at"
+     "gloss": "at / like"
     }
    ],
-   "gloss": "at the time"
+   "gloss": "at the time / like the moment"
   },
   {
    "surface": "அவை",
@@ -33,10 +33,10 @@
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "those"
+     "gloss": "those things"
     }
    ],
-   "gloss": "those"
+   "gloss": "those things"
   },
   {
    "surface": "அவை",
@@ -44,18 +44,18 @@
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "those"
+     "gloss": "those things"
     }
    ],
-   "gloss": "those"
+   "gloss": "those things"
   },
   {
    "surface": "போலுமே",
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போல்",
-     "gloss": "are like"
+     "lemma": "போலும்",
+     "gloss": "resemble"
     },
     {
      "text": "ஏ",
@@ -63,7 +63,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "are like indeed"
+   "gloss": "indeed resemble"
   },
   {
    "surface": "தோட்",
@@ -71,10 +71,10 @@
     {
      "text": "தோட்",
      "lemma": "தோடு",
-     "gloss": "petal"
+     "gloss": "flower petal"
     }
    ],
-   "gloss": "petal"
+   "gloss": "flower petal"
   },
   {
    "surface": "டார்",
@@ -82,10 +82,10 @@
     {
      "text": "டார்",
      "lemma": "ஆர்",
-     "gloss": "full of"
+     "gloss": "adorned with"
     }
    ],
-   "gloss": "full of"
+   "gloss": "adorned with"
   },
   {
    "surface": "கதுப்பினாள்",
@@ -93,20 +93,20 @@
     {
      "text": "கதுப்பு",
      "lemma": "கதுப்பு",
-     "gloss": "hair"
+     "gloss": "locks of hair"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "of"
     },
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "she"
+     "gloss": "she who has"
     }
    ],
-   "gloss": "she who has hair"
+   "gloss": "she who has locks of hair"
   },
   {
    "surface": "தோள்",
@@ -114,16 +114,16 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulder"
+     "gloss": "shoulders"
     }
    ],
-   "gloss": "shoulder"
+   "gloss": "shoulders"
   }
  ],
- "literal": "desired at the time those those are like indeed, petal full of she who has hair shoulder.",
- "translation": "Whenever I desire something, the shoulders of my love, whose hair is full of flowers, feel exactly like the very thing I long for.",
- "modern": "பூவிதழ்கள் நிறைந்த கூந்தலை உடையவளின் தோள்கள், நான் எதை எதை விரும்புகிறேனோ அந்தந்த நேரங்களில் அந்தந்தப் பொருள்களைப் போலவே எனக்கு இன்பம் தருகின்றன.",
- "explanation": "The lover marvels at the joy of embracing his beloved, whose hair is adorned with flower petals. He says that her shoulders have a magical quality of feeling exactly like whatever he desires at any given moment. The repetition of the word 'அவை' (those respective things) emphasizes that her embrace is infinitely adaptable, perfectly fulfilling every specific longing he experiences.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like those very things at the moment they are desired, indeed resemble the shoulders of her who has flower-adorned hair.",
+ "translation": "The shoulders of my beloved, whose hair is adorned with flower petals, are like those objects of desire that yield fresh and exquisite pleasure every single time they are enjoyed.",
+ "modern": "பூவிதழ்கள் அணிந்த கூந்தலை உடையவளின் தோள்கள், நாம் விரும்பிய காலத்தில் அனுபவிக்கும் அந்தந்த இன்பப் பொருட்களைப் போல எப்போதும் புதிய இன்பத்தைத் தருகின்றன.",
+ "explanation": "In this couplet, the lover expresses how the embrace of his beloved never grows old. He compares her shoulders to things that are intensely desired; just as those things bring fresh, unmatched joy every time they are experienced at the right moment, her shoulders offer a novel pleasure with every embrace. The phrase 'தோட்டார் கதுப்பினாள்' describes the beloved as one with flower-adorned hair, adding a sensory layer of fragrance and beauty to the imagery. The repetition of 'அவை அவை' (those very things) emphasizes the diverse and ever-renewing nature of these pleasures.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

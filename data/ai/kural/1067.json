@@ -11,20 +11,15 @@
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "1st person singular suffix"
+     "gloss": "first-person singular suffix"
     }
    ],
-   "gloss": "I will beg"
+   "gloss": "I beg"
   },
   {
    "surface": "இரப்பாரை",
@@ -37,17 +32,12 @@
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "3rd person plural suffix"
+     "gloss": "those who"
     },
     {
      "text": "ஐ",
@@ -55,7 +45,7 @@
      "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who beg (acc.)"
+   "gloss": "those who beg"
   },
   {
    "surface": "எல்லாம்",
@@ -77,22 +67,12 @@
      "gloss": "beg"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "இன்",
+     "text": "ப்பின்",
      "lemma": "இன்",
-     "gloss": "conditional marker"
+     "gloss": "if"
     }
    ],
-   "gloss": "if begging"
+   "gloss": "if you beg"
   },
   {
    "surface": "கரப்பார்",
@@ -100,12 +80,7 @@
     {
      "text": "கர",
      "lemma": "கர",
-     "gloss": "hide"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
+     "gloss": "hide or withhold"
     },
     {
      "text": "ப்",
@@ -115,10 +90,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "3rd person plural suffix"
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who hide"
+   "gloss": "those who hide their wealth"
   },
   {
    "surface": "இரவன்மின்",
@@ -129,14 +104,9 @@
      "gloss": "beg"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "அன்மின்",
      "lemma": "அன்மின்",
-     "gloss": "negative imperative plural suffix"
+     "gloss": "do not (prohibitive plural)"
     }
    ],
    "gloss": "do not beg"
@@ -151,17 +121,17 @@
     },
     {
      "text": "று",
-     "lemma": "று",
-     "gloss": "adverbial suffix"
+     "lemma": "உ",
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "saying"
   }
  ],
- "literal": "I will beg / those who beg / all / if begging / those who hide / do not beg / saying",
- "translation": "I beg of all those who beg: if you must beg, do not beg from those who hide what they have.",
- "modern": "பிச்சை எடுப்பவர்கள் எல்லாரிடமும் நான் ஒன்றை வேண்டிக் கேட்கிறேன்: நீங்கள் பிச்சை எடுத்தால், உள்ளதை மறைப்பவர்களிடம் சென்று பிச்சை எடுக்காதீர்கள்.",
- "explanation": "The poet addresses beggars directly, making an earnest plea to them. The word 'இரப்பன்' (I beg) is used ironically to show the poet's sincerity in asking a favor of those who usually ask favors of others. He asks them that if they are forced by circumstances to beg ('இரப்பின்'), they should never beg from misers who hide their wealth ('கரப்பார்'). This highlights the extreme indignity of facing a miser's refusal, which is portrayed as worse than the act of begging itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "I beg all those who beg, saying, 'If you beg, do not beg from those who hide [their wealth]'.",
+ "translation": "I make this one plea to all those who beg: if you must beg, do not beg from those who hide their wealth.",
+ "modern": "இரப்பவர்கள் எல்லாரிடமும் நான் ஒன்று வேண்டிக் கொள்கிறேன்: 'நீங்கள் இரக்க நேர்ந்தால், கொடுப்பதை மறைப்பவர்களிடம் இரக்காதீர்கள்' என்று.",
+ "explanation": "In this couplet, the poet addresses all beggars with a humble request. He begs them not to seek alms from those who have wealth but hide it to avoid giving. Begging itself is painful, but begging from a miser who refuses to give is an even greater humiliation. By avoiding such people, beggars can protect themselves from the deep pain of rejection.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

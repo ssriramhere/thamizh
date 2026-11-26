@@ -16,8 +16,8 @@
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "as"
     }
    ],
    "gloss": "as"
@@ -37,23 +37,43 @@
    "surface": "உணர்ந்தவை",
    "parts": [
     {
-     "text": "உணர்ந்தவை",
+     "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "things understood"
+     "gloss": "to feel or realize"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "euphonic change"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "those things"
     }
    ],
-   "gloss": "things understood"
+   "gloss": "those things which oneself realized"
   },
   {
    "surface": "துன்னாமை",
    "parts": [
     {
-     "text": "துன்னாமை",
+     "text": "துன்னு",
      "lemma": "துன்னு",
-     "gloss": "not approaching"
+     "gloss": "to practice or approach"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominal suffix"
     }
    ],
-   "gloss": "not approaching"
+   "gloss": "not practicing or avoiding"
   },
   {
    "surface": "வேண்டும்",
@@ -61,10 +81,10 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "is required"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is required"
   },
   {
    "surface": "பிறன்கண்",
@@ -72,15 +92,15 @@
     {
      "text": "பிறன்",
      "lemma": "பிறன்",
-     "gloss": "another"
+     "gloss": "another person"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "upon"
+     "gloss": "locative suffix meaning towards"
     }
    ],
-   "gloss": "upon another"
+   "gloss": "towards another person"
   },
   {
    "surface": "செயல்",
@@ -94,10 +114,10 @@
    "gloss": "doing"
   }
  ],
- "literal": "Painful things as oneself things-understood not-approaching is-needed another-upon doing.",
- "translation": "One must avoid doing to others the things that one has personally felt to be painful.",
- "modern": "தனக்குத் துன்பம் தருபவை என்று தான் அனுபவித்து உணர்ந்த செயல்களை, மற்றவர்களுக்குச் செய்யாமல் இருக்க வேண்டும்.",
- "explanation": "This couplet establishes a universal principle of empathy based on personal experience. It states that if a person has felt certain actions to be painful, they should recognize that those same actions will hurt others. The word உணர்ந்தவை emphasizes this personal realization of pain. Therefore, one must strictly avoid inflicting such deeds upon anyone else.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Painful things, as oneself realized, not practicing is required towards another doing.",
+ "translation": "One should not inflict those actions upon others which one has personally experienced and realized to be painful.",
+ "modern": "தனக்குத் துன்பம் தருபவை என்று தான் அனுபவித்து உணர்ந்த செயல்களை, மற்றவர்களுக்குச் செய்யாமல் தவிர்க்க வேண்டும்.",
+ "explanation": "This couplet defines the core principle of empathy and non-injury. The word 'உணர்ந்தவை' refers to the painful experiences that a person has personally felt and understood to be harmful. The poet advises that once we realize a certain action causes suffering to us, we must make a conscious effort ('வேண்டும்') to avoid practicing ('துன்னாமை') those very actions towards others ('பிறன்கண் செயல்'). It is the ultimate test of moral conduct: treating others as we wish to be treated.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

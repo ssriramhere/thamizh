@@ -6,18 +6,23 @@
     {
      "text": "இகல்",
      "lemma": "இகல்",
-     "gloss": "enmity"
+     "gloss": "hostility"
     }
    ],
-   "gloss": "enmity"
+   "gloss": "hostility"
   },
   {
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்ப",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "they say"
+     "gloss": "say"
+    },
+    {
+     "text": "ப",
+     "lemma": "அ",
+     "gloss": "they"
     }
    ],
    "gloss": "they say"
@@ -37,12 +42,22 @@
    "surface": "உயிர்க்கும்",
    "parts": [
     {
-     "text": "உயிர்க்கும்",
+     "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "to all lives"
+     "gloss": "life"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "all"
     }
    ],
-   "gloss": "to all lives"
+   "gloss": "to all living beings"
   },
   {
    "surface": "பகல்",
@@ -59,9 +74,14 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "which is called"
     }
    ],
    "gloss": "called"
@@ -72,26 +92,26 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "good quality"
+     "gloss": "good character"
     },
     {
      "text": "இன்மை",
      "lemma": "இன்மை",
-     "gloss": "lack"
+     "gloss": "absence"
     }
    ],
-   "gloss": "lack of goodness"
+   "gloss": "lack of good character"
   },
   {
    "surface": "பார஧க்கும்",
    "parts": [
     {
      "text": "பார஧க்கும்",
-     "lemma": "பாரி",
-     "gloss": "producing"
+     "lemma": "பார஧க்கும்",
+     "gloss": "that which brings about"
     }
    ],
-   "gloss": "producing"
+   "gloss": "that which brings about"
   },
   {
    "surface": "நோய்",
@@ -105,10 +125,10 @@
    "gloss": "disease"
   }
  ],
- "literal": "Enmity, they say, to all lives, division called, lack of goodness, producing disease.",
- "translation": "They say that enmity is the disease that breeds the evil called division among all living beings.",
- "modern": "எல்லா உயிர்களுக்கும் பிரிவினை என்னும் தீமையை உண்டாக்கும் நோயே இகல் என்று அறிஞர் கூறுவர்.",
- "explanation": "The couplet defines enmity (இகல்) as a destructive disease (நோய்). It affects all living beings by creating a lack of harmony or goodness (பண்பின்மை), which manifests as division and separation (பகல்). By calling it a disease, the poet emphasizes that enmity is an unnatural affliction that destroys the natural unity of life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Hostility, they say, is to all living beings the disease that brings about the lack of good character called division.",
+ "translation": "Hostility, they say, is a disease for all living beings that breeds the ill disposition of division.",
+ "modern": "இகல் என்று சொல்லப்படுவது, எல்லா உயிர்களுக்கும் பிரிவினை என்னும் தீய குணத்தை உண்டாக்குகின்ற ஒரு நோயாகும்.",
+ "explanation": "This couplet defines hostility (ikal) as a harmful disease (noy) that affects all living beings. It explains that hostility is the root cause of 'division' (pakal), which is described here as a complete lack of good character (panpinmai). Instead of bringing people together, hostility infects minds and creates separation, destroying the natural harmony of relationships. By comparing hostility to a disease, the poet emphasizes its destructive and infectious nature.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

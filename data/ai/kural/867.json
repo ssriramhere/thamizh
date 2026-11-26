@@ -6,7 +6,7 @@
     {
      "text": "கொடுத்து",
      "lemma": "கொடு",
-     "gloss": "having given"
+     "gloss": "giving"
     },
     {
      "text": "உம்",
@@ -14,7 +14,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having given"
+   "gloss": "even by giving"
   },
   {
    "surface": "கொளல்",
@@ -22,10 +22,10 @@
     {
      "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "acquiring"
+     "gloss": "securing"
     }
    ],
-   "gloss": "acquiring"
+   "gloss": "securing or neutralizing"
   },
   {
    "surface": "வேண்டும்",
@@ -44,21 +44,21 @@
     {
      "text": "மன்ற",
      "lemma": "மன்ற",
-     "gloss": "certainly"
+     "gloss": "surely"
     }
    ],
-   "gloss": "certainly"
+   "gloss": "surely"
   },
   {
    "surface": "அடுத்து",
    "parts": [
     {
      "text": "அடுத்து",
-     "lemma": "அடு",
-     "gloss": "having approached"
+     "lemma": "அடுத்து",
+     "gloss": "being near"
     }
    ],
-   "gloss": "having approached"
+   "gloss": "being near"
   },
   {
    "surface": "இருந்து",
@@ -66,10 +66,10 @@
     {
      "text": "இருந்து",
      "lemma": "இரு",
-     "gloss": "having been"
+     "gloss": "staying"
     }
    ],
-   "gloss": "having been"
+   "gloss": "staying"
   },
   {
    "surface": "மாணாத",
@@ -77,10 +77,10 @@
     {
      "text": "மாணாத",
      "lemma": "மாண்",
-     "gloss": "unexcellent things"
+     "gloss": "improper"
     }
    ],
-   "gloss": "unexcellent things"
+   "gloss": "improper deeds"
   },
   {
    "surface": "செய்வான்",
@@ -91,7 +91,7 @@
      "gloss": "he who does"
     }
    ],
-   "gloss": "he who does"
+   "gloss": "of him who does"
   },
   {
    "surface": "பகை",
@@ -102,13 +102,13 @@
      "gloss": "enmity"
     }
    ],
-   "gloss": "enmity"
+   "gloss": "the enmity"
   }
  ],
- "literal": "Even having given, acquiring is necessary certainly, having approached having been, unexcellent things he who does's enmity.",
- "translation": "One must certainly acquire the enmity of a person who stays close but does harmful things, even if one has to pay for it.",
- "modern": "தன்னுடனே நெருங்கியிருந்து தீமையான செயல்களைச் செய்பவனின் பகையை, ஒரு பொருளைக் கொடுத்தாவது பெற்றுக்கொள்ள வேண்டும்.",
- "explanation": "This couplet advises on when enmity is actually desirable. If a person remains close as an associate but constantly does harmful or foolish things, their proximity is dangerous. Therefore, the text states that one must certainly acquire their open enmity, even if it requires giving up something valuable to achieve that separation. The word 'மாணாத' refers to actions lacking excellence or virtue, meaning harmful or treacherous deeds.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even by giving, to secure is necessary surely, of him who, staying close, does improper things, the enmity.",
+ "translation": "One must surely resolve, even by making concessions, the enmity of a person who stays close but performs improper deeds.",
+ "modern": "நெருங்கி இருந்து தகுதியற்ற செயல்களைச் செய்பவனுடைய பகையை, ஏதேனும் கொடுத்தாவது தீர்த்துக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet advises on how to handle the hostility of an untrustworthy person who is physically close but acts improperly. Such a person, being nearby, can cause immense harm through their unfit actions. Therefore, the poet emphasizes that one must surely neutralize or buy off their enmity, even if it requires giving away wealth or making concessions. Resolving this threat immediately is crucial because an enemy within close proximity is highly dangerous.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

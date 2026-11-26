@@ -4,12 +4,22 @@
    "surface": "பழகிய",
    "parts": [
     {
-     "text": "பழகிய",
+     "text": "பழகு",
      "lemma": "பழகு",
-     "gloss": "old"
+     "gloss": "to be accustomed or long-standing"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "ancestral"
+   "gloss": "long-standing or inherited"
   },
   {
    "surface": "செல்வமும்",
@@ -25,7 +35,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "wealth and"
+   "gloss": "and wealth"
   },
   {
    "surface": "பண்பும்",
@@ -33,7 +43,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "character"
+     "gloss": "good character"
     },
     {
      "text": "உம்",
@@ -41,15 +51,25 @@
      "gloss": "and"
     }
    ],
-   "gloss": "character and"
+   "gloss": "and good character"
   },
   {
    "surface": "கெடுக்கும்",
    "parts": [
     {
-     "text": "கெடுக்கும்",
+     "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "will destroy"
+     "gloss": "to destroy"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (habitual future suffix)"
     }
    ],
    "gloss": "will destroy"
@@ -60,17 +80,17 @@
     {
      "text": "கழகத்து",
      "lemma": "கழகம்",
-     "gloss": "gambling hall (oblique)"
+     "gloss": "gambling den (oblique form)"
     }
    ],
-   "gloss": "of the gambling hall"
+   "gloss": "in the gambling den"
   },
   {
    "surface": "காலை",
    "parts": [
     {
      "text": "காலை",
-     "lemma": "காலை",
+     "lemma": "காலம்",
      "gloss": "time"
     }
    ],
@@ -80,18 +100,23 @@
    "surface": "புகின்",
    "parts": [
     {
-     "text": "புகின்",
+     "text": "புகு",
      "lemma": "புகு",
-     "gloss": "if enters"
+     "gloss": "to enter"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
    "gloss": "if one enters"
   }
  ],
- "literal": "Ancestral wealth and character it will destroy, gambling hall's time if one enters.",
- "translation": "If one spends their time entering the gambling hall, it will destroy both their ancestral wealth and their good character.",
- "modern": "சூதாடும் இடத்திற்குச் சென்று காலத்தைக் கழித்தால், அது ஒருவருடைய தொன்மையான செல்வத்தையும் நல்ல பண்பையும் அழித்துவிடும்.",
- "explanation": "This couplet warns about the destructive nature of spending time in gambling halls. The word 'பழகிய' refers to wealth that has been in the family for generations, showing that even deep-rooted prosperity is not safe from this vice. Similarly, 'பண்பும்' highlights that gambling ruins not just material wealth but also one's moral character. Entering the gambling hall ('கழகத்து') and wasting time ('காலை') there will inevitably lead to the total loss of both.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one enters spending time in the gambling den, it will destroy long-standing wealth and good character.",
+ "translation": "If a person enters a gambling den and wastes their time there, it will destroy both their inherited wealth and their good character.",
+ "modern": "சூதாடும் இடத்தில் தன் காலத்தைச் செலுத்தி நுழைந்தால், அது அவனுடைய பழைமையான செல்வத்தையும் நற்பண்பையும் அழித்துவிடும்.",
+ "explanation": "This couplet warns against the perils of entering a gambling den, referred to here as 'கழகம்'. The phrase 'காலை புகின்' points to the act of entering and wasting one's precious time in such places. The poet emphasizes that gambling does not merely cause financial ruin by wiping out long-standing, inherited wealth ('பழகிய செல்வம்'); it also degrades a person's moral character and innate goodness ('பண்பு'). Thus, the habit of gambling is doubly destructive, stripping a person of both material security and personal integrity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

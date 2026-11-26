@@ -5,40 +5,30 @@
    "parts": [
     {
      "text": "வெருவந்த",
-     "lemma": "வெருவரு",
-     "gloss": "terrifying"
+     "lemma": "வெருவந்த",
+     "gloss": "fear-causing"
     }
    ],
-   "gloss": "terrifying things"
+   "gloss": "fear-causing"
   },
   {
    "surface": "செய்து",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "having"
+     "gloss": "doing"
     }
    ],
-   "gloss": "having done"
+   "gloss": "doing"
   },
   {
    "surface": "ஒழுகும்",
    "parts": [
     {
-     "text": "ஒழுகு",
+     "text": "ஒழுகும்",
      "lemma": "ஒழுகு",
-     "gloss": "to behave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "who"
+     "gloss": "behaving"
     }
    ],
    "gloss": "behaving"
@@ -52,33 +42,23 @@
      "gloss": "cruel"
     },
     {
-     "text": "கோல்",
+     "text": "கோலன்",
      "lemma": "கோல்",
-     "gloss": "sceptre"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "he of the sceptre"
     }
    ],
-   "gloss": "cruel-sceptred man"
+   "gloss": "a ruler of a cruel sceptre"
   },
   {
    "surface": "ஆயின்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "to be"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "ஆயின்",
+     "lemma": "ஆகு",
+     "gloss": "if [he] is"
     }
    ],
-   "gloss": "if he is"
+   "gloss": "if [he] is"
   },
   {
    "surface": "ஒருவந்தம்",
@@ -97,32 +77,27 @@
     {
      "text": "ஒல்லை",
      "lemma": "ஒல்லை",
-     "gloss": "swiftly"
+     "gloss": "quickly"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "quickly"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடு",
+     "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "to perish"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will be ruined"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will be ruined"
   }
  ],
- "literal": "Terrifying-things having-done behaving cruel-sceptred-man if-he-is, certainly swiftly he-will-perish.",
- "translation": "If a ruler is a cruel tyrant who governs by doing terrifying things, he will certainly and swiftly perish.",
- "modern": "மக்களை அச்சுறுத்தும் செயல்களைச் செய்து ஆட்சி நடத்தும் கொடுங்கோலனாக ஒருவன் இருந்தால், அவன் நிச்சயமாக விரைவில் அழிந்து போவான்.",
- "explanation": "This couplet warns of the inevitable and rapid downfall of a tyrannical ruler. The phrase 'வெருவந்த செய்து ஒழுகும்' describes a king who habitually governs through terror and intimidation. 'வெங்கோலன்' refers to a ruler wielding a cruel sceptre, symbolizing unjust and oppressive rule. The words 'ஒருவந்தம்' (certainly) and 'ஒல்லை' (swiftly) emphasize that the destruction of such a ruler is not only guaranteed but will happen very soon.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [he] is a cruel-sceptred ruler behaving doing fear-causing [deeds], certainly quickly [he] will be ruined.",
+ "translation": "If a king rules with a cruel sceptre, performing deeds that cause fear to his subjects, his ruin is certain and will come quickly.",
+ "modern": "மக்களுக்கு அச்சம் தரும் செயல்களைச் செய்து ஆட்சி நடத்தும் கொடுங்கோலனாக ஒரு அரசன் இருந்தால், அவன் நிச்சயம் விரைவில் அழிவான்.",
+ "explanation": "This couplet warns of the swift and inevitable downfall of a tyrannical ruler. The term 'வெங்கோலன்' refers to a ruler with a hot or cruel sceptre, symbolizing tyranny. When such a ruler acts in a way that causes fear ('வெருவந்த') among his subjects, his power cannot endure. The poet emphasizes that his destruction is not just possible, but both certain ('ஒருவந்தம்') and rapid ('ஒல்லை'). The key message is that governance through fear and oppression leads directly to a ruler's immediate ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

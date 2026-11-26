@@ -6,7 +6,7 @@
     {
      "text": "கோட்டு",
      "lemma": "கோடு",
-     "gloss": "branch (oblique)"
+     "gloss": "of the branch"
     }
    ],
    "gloss": "of the branch"
@@ -26,14 +26,9 @@
    "surface": "சூடினும்",
    "parts": [
     {
-     "text": "சூடின்",
+     "text": "சூடினும்",
      "lemma": "சூடு",
-     "gloss": "if wear"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if [I] wear"
     }
    ],
    "gloss": "even if [I] wear"
@@ -42,17 +37,12 @@
    "surface": "காயும்",
    "parts": [
     {
-     "text": "காய்",
+     "text": "காயும்",
      "lemma": "காய்",
-     "gloss": "be angry"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "she will get angry"
     }
    ],
-   "gloss": "she will be angry"
+   "gloss": "she will get angry"
   },
   {
    "surface": "ஒருத்தியை",
@@ -60,49 +50,34 @@
     {
      "text": "ஒருத்தி",
      "lemma": "ஒருத்தி",
-     "gloss": "one woman"
+     "gloss": "a certain woman"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "another woman (accusative)"
+   "gloss": "a certain woman (accusative)"
   },
   {
    "surface": "காட்டிய",
    "parts": [
     {
-     "text": "காட்டு",
+     "text": "காட்டிய",
      "lemma": "காட்டு",
      "gloss": "to show"
-    },
-    {
-     "text": "இய",
-     "lemma": "இய",
-     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "in order to show"
+   "gloss": "to show"
   },
   {
    "surface": "சூடினீர்",
    "parts": [
     {
-     "text": "சூடு",
+     "text": "சூடினீர்",
      "lemma": "சூடு",
-     "gloss": "wear"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "past tense suffix"
-    },
-    {
-     "text": "ஈர்",
-     "lemma": "ஈர்",
-     "gloss": "you (honorific)"
+     "gloss": "you wore"
     }
    ],
    "gloss": "you wore"
@@ -119,10 +94,10 @@
    "gloss": "saying"
   }
  ],
- "literal": "Branch's flower even if [I] wear, she will be angry, \"Another woman to show you wore\" saying.",
- "translation": "Even if I just wear a flower from a branch, she gets angry, saying, \"You wore it to show off to another woman!\"",
- "modern": "நான் ஒரு மரக்கிளையிலிருந்து பறித்த பூவைச் சூடிக்கொண்டாலும், \"வேறொரு பெண்ணுக்குக் காட்டுவதற்காகவே நீங்கள் இதைச் சூடியிருக்கிறீர்கள்\" என்று சொல்லி அவள் கோபித்துக்கொள்வாள்.",
- "explanation": "This couplet captures the playful, exaggerated jealousy of the heroine. The hero remarks that his wife finds a reason to be upset no matter what he does. If he simply plucks a flower from a branch ('கோட்டுப் பூ') and wears it, she immediately suspects his motives. She accuses him of adorning himself ('சூடினீர்') solely to attract the attention of another woman ('ஒருத்தியைக் காட்டிய'). The word 'காயும்' (burns or gets angry) vividly expresses her sudden, fiery reaction to the most innocent of his actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if I wear a branch flower, she will get angry, saying, 'You wore it to show to another woman!'",
+ "translation": "Even if I wear a flower plucked from a tree branch, she will get angry and say, 'You wore this only to show it off to some other woman!'",
+ "modern": "மரக்கிளையில் மலர்ந்த பூவை நான் சூடிக்கொண்டாலும், 'வேறொரு பெண்ணுக்குக் காட்டுவதற்காகவே இதனைச் சூடினீர்' என்று கூறி அவள் என்னோடு ஊடல் கொள்வாள்.",
+ "explanation": "In this couplet from the chapter on the subtleties of lovers' tiffs, the hero laments his beloved's playful jealousy. Even an innocent act like wearing a flower from a tree branch (கோட்டுப் பூ) triggers her suspicion. She immediately accuses him of wearing it to show off (காட்டிய) to another woman (ஒருத்தியை). The word 'காயும்' captures her swift, feigned anger, which is a characteristic part of their intimate lovers' tiff.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

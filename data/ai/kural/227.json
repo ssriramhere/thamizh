@@ -9,7 +9,7 @@
      "gloss": "having shared"
     }
    ],
-   "gloss": "having shared"
+   "gloss": "sharing"
   },
   {
    "surface": "ஊண்",
@@ -28,10 +28,10 @@
     {
      "text": "மரீஇ",
      "lemma": "மருவு",
-     "gloss": "having accustomed"
+     "gloss": "having accustomed oneself to"
     }
    ],
-   "gloss": "having accustomed"
+   "gloss": "having habituated oneself to"
   },
   {
    "surface": "அவனை",
@@ -44,7 +44,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "him"
@@ -64,9 +64,14 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "which is called"
+     "gloss": "to say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
    "gloss": "which is called"
@@ -77,7 +82,7 @@
     {
      "text": "தீ",
      "lemma": "தீ",
-     "gloss": "evil"
+     "gloss": "fire or evil"
     },
     {
      "text": "பிணி",
@@ -85,15 +90,20 @@
      "gloss": "disease"
     }
    ],
-   "gloss": "evil disease"
+   "gloss": "fiery disease"
   },
   {
    "surface": "தீண்டல்",
    "parts": [
     {
-     "text": "தீண்டல்",
+     "text": "தீண்டு",
      "lemma": "தீண்டு",
-     "gloss": "touching"
+     "gloss": "to touch"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "touching"
@@ -104,16 +114,16 @@
     {
      "text": "அரிது",
      "lemma": "அருமை",
-     "gloss": "is rare"
+     "gloss": "rare or impossible"
     }
    ],
    "gloss": "is rare"
   }
  ],
- "literal": "having shared food having accustomed him hunger which is called evil disease touching is rare",
- "translation": "The evil disease called hunger will rarely touch the man who is accustomed to sharing his food.",
- "modern": "தன்னிடமுள்ள உணவை மற்றவர்களுடன் பகிர்ந்து உண்ணும் பழக்கம் உள்ளவனை, பசி என்று சொல்லப்படும் கொடிய நோய் தீண்டுவது இல்லை.",
- "explanation": "This couplet emphasizes the protective power of generosity. The phrase 'பாத்து ஊண் மரீஇ' describes someone who has made it a habit to share their food before eating. The poet personifies hunger as an 'evil disease' (தீப்பிணி), highlighting its destructive nature. However, this disease will rarely touch (தீண்டல் அரிது) the one who shares, suggesting that a generous person will always be provided for and protected from starvation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sharing food, having accustomed himself to it, him, hunger called fiery-disease, touching, is rare.",
+ "translation": "The fiery disease of hunger will never touch the one who has made a habit of sharing his food with others.",
+ "modern": "தன் உணவைப் பிறரோடு பகிர்ந்து உண்ணும் பழக்கத்தைக் கொண்டவனை, பசி என்று சொல்லப்படும் கொடிய நோய் தீண்டுவது இல்லை.",
+ "explanation": "This couplet highlights the protective power of charity. The poet compares hunger to a 'fiery disease' (தீப்பிணி) because of the intense, burning pain and suffering it inflicts on the body. The word 'மரீஇ' indicates a deep-seated habit or custom; it is not about a one-time act of giving, but rather about someone who has integrated sharing into their daily life. The couplet assures us that such a generous person will never suffer from the misery of hunger, as their virtue and the goodwill of those they helped will always sustain them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

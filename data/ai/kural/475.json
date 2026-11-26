@@ -11,7 +11,7 @@
     {
      "text": "பெய்",
      "lemma": "பெய்",
-     "gloss": "load"
+     "gloss": "loaded"
     }
    ],
    "gloss": "loaded with peacock feathers"
@@ -46,23 +46,18 @@
      "gloss": "will break"
     }
    ],
-   "gloss": "axle will break"
+   "gloss": "the axle will break"
   },
   {
    "surface": "அப்பண்டஞ்",
    "parts": [
     {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "that"
-    },
-    {
-     "text": "பண்டஞ்",
-     "lemma": "பண்டம்",
-     "gloss": "goods"
+     "text": "அப்பண்டஞ்",
+     "lemma": "அப்பண்டம்",
+     "gloss": "that cargo"
     }
    ],
-   "gloss": "those goods"
+   "gloss": "that cargo"
   },
   {
    "surface": "சால",
@@ -70,10 +65,10 @@
     {
      "text": "சால",
      "lemma": "சால",
-     "gloss": "abundantly"
+     "gloss": "greatly"
     }
    ],
-   "gloss": "abundantly"
+   "gloss": "greatly"
   },
   {
    "surface": "மிகுத்து",
@@ -81,10 +76,10 @@
     {
      "text": "மிகுத்து",
      "lemma": "மிகு",
-     "gloss": "having increased"
+     "gloss": "having exceeded"
     }
    ],
-   "gloss": "having increased"
+   "gloss": "exceeding in quantity"
   },
   {
    "surface": "பெயின்",
@@ -98,10 +93,10 @@
    "gloss": "if loaded"
   }
  ],
- "literal": "Peacock feather-loaded cart even, axle will break, those goods abundantly having increased if loaded.",
- "translation": "Even a cart loaded with light peacock feathers will have its axle break, if those goods are loaded in too great an excess.",
- "modern": "மென்மையான மயில் இறகுகளை ஏற்றிய வண்டியாக இருந்தாலும், அந்தப் பொருளை அளவுக்கு அதிகமாக ஏற்றினால் அதன் அச்சு முறிந்துவிடும்.",
- "explanation": "This couplet uses a vivid metaphor to warn against underestimating the cumulative weight of small things. Peacock feathers ('பீலி') are extremely light, but if a cart ('சாகாடு') is overloaded with them, its axle ('அச்சு') will still break. In the context of knowing one's strength, it teaches that taking on too many small, seemingly easy tasks or facing too many weak enemies at once can lead to one's downfall.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Peacock-feather-loaded cart-even axle-will-break that-cargo greatly exceeding if-loaded.",
+ "translation": "Even the axle of a cart loaded with light peacock feathers will break, if that cargo is loaded in great excess.",
+ "modern": "மயில் தோகையை ஏற்றிய வண்டியாக இருந்தாலும், அந்தப் பண்டத்தை அளவுக்கு அதிகமாக ஏற்றினால் வண்டியின் அச்சும் முறிந்து போகும்.",
+ "explanation": "This couplet uses a vivid metaphor to explain the danger of accumulation and the importance of knowing limits. Peacock feathers are incredibly light individually, but when loaded onto a cart in extreme excess, their cumulative weight will snap the strong wooden axle. Similarly, even minor challenges, small enemies, or seemingly insignificant tasks can overwhelm and destroy a person if they are allowed to accumulate beyond measure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

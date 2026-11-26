@@ -22,7 +22,7 @@
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative suffix)"
     }
    ],
    "gloss": "to the father"
@@ -33,10 +33,10 @@
     {
      "text": "ஆற்றும்",
      "lemma": "ஆற்று",
-     "gloss": "doing"
+     "gloss": "doing / performing"
     }
    ],
-   "gloss": "rendering"
+   "gloss": "that is done / performed"
   },
   {
    "surface": "உதவி",
@@ -44,10 +44,10 @@
     {
      "text": "உதவி",
      "lemma": "உதவி",
-     "gloss": "help"
+     "gloss": "help / benefit"
     }
    ],
-   "gloss": "help"
+   "gloss": "help / benefit"
   },
   {
    "surface": "இவன்",
@@ -86,12 +86,17 @@
    "surface": "நோற்றான்",
    "parts": [
     {
-     "text": "நோற்றான்",
+     "text": "நோற்று",
      "lemma": "நோல்",
-     "gloss": "did penance-he"
+     "gloss": "having performed penance"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "அவன்",
+     "gloss": "he"
     }
    ],
-   "gloss": "penance did he perform"
+   "gloss": "he performed penance"
   },
   {
    "surface": "கொல்",
@@ -99,10 +104,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "particle of wonder"
+     "gloss": "an expletive particle of wonder"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "an expletive of wonder"
   },
   {
    "surface": "எனும்",
@@ -110,7 +115,7 @@
     {
      "text": "எனும்",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "saying / that says"
     }
    ],
    "gloss": "saying"
@@ -121,16 +126,16 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "word / praise"
     }
    ],
-   "gloss": "word"
+   "gloss": "word / praise"
   }
  ],
- "literal": "Son to father rendering help: 'this man's father what penance did he perform, I wonder' saying word.",
- "translation": "The greatest help a son can render his father is to live so well that the world asks, 'What penance did his father perform to beget him?'",
- "modern": "ஒரு மகன் தன் தந்தைக்குச் செய்யும் கைம்மாறு, இவனுடைய தந்தை இவனைப் பிள்ளையாகப் பெற என்ன தவம் செய்தானோ என்று உலகத்தார் வியந்து கூறும் சொல்லைப் பெற்றுத் தருவதே ஆகும்.",
- "explanation": "This couplet defines the ultimate gratitude a son can show his father. The word 'உதவி' (help) here means the reciprocal duty or return a son owes. The greatest return is not material wealth, but living such an exemplary life that onlookers marvel at it. They will wonder aloud, 'என் நோற்றான் கொல்' (what penance did he perform?), implying the father must have done great austerities to be blessed with such a son. Thus, earning this specific word of praise from the world is the highest tribute a son can pay.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The help a son performs for his father is the word saying, 'What penance did this man's father perform?'",
+ "translation": "The greatest benefit a son can confer upon his father is to act so virtuously that others wonder, 'What great penance must his father have performed to beget such a son?'",
+ "modern": "ஒரு மகன் தன் தந்தைக்குச் செய்யக்கூடிய சிறந்த உதவி, 'இவனுடைய தந்தை இவனைப் பெறுவதற்கு என்ன தவம் செய்தாரோ!' என்று பிறர் வியந்து கூறும் சொல்லாகும்.",
+ "explanation": "This couplet describes the ultimate duty and gift a child can offer to their parents. The greatest 'help' (உதவி) a son can render is not material wealth, but living a life of such virtue and excellence that others praise his father. When people see the son's noble character, they should wonder aloud what great penance (நோற்றான்) the father must have performed to deserve such a child. This public admiration (சொல்) is the highest honor a child can bestow.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

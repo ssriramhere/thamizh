@@ -4,9 +4,14 @@
    "surface": "துஞ்சும்",
    "parts": [
     {
-     "text": "துஞ்சும்",
+     "text": "துஞ்சு",
      "lemma": "துஞ்சு",
-     "gloss": "sleeping"
+     "gloss": "sleep"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "sleeping"
@@ -17,10 +22,10 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "time or when"
     }
    ],
-   "gloss": "time"
+   "gloss": "when"
   },
   {
    "surface": "தோள்",
@@ -28,10 +33,10 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulder"
+     "gloss": "shoulders"
     }
    ],
-   "gloss": "shoulder"
+   "gloss": "shoulders"
   },
   {
    "surface": "மேலர்",
@@ -58,15 +63,25 @@
      "gloss": "having become"
     }
    ],
-   "gloss": "having become"
+   "gloss": "becoming"
   },
   {
    "surface": "விழிக்கும்",
    "parts": [
     {
-     "text": "விழிக்கும்",
+     "text": "விழி",
      "lemma": "விழி",
-     "gloss": "waking"
+     "gloss": "wake up"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "waking"
@@ -77,26 +92,22 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "time or when"
     }
    ],
-   "gloss": "time"
+   "gloss": "when"
   },
   {
    "surface": "நெஞ்சத்தர்",
    "parts": [
     {
-     "text": "நெஞ்சத்து",
-     "lemma": "நெஞ்சம்",
-     "gloss": "heart (oblique)"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "he (honorific)"
+     "text": "நெஞ்சத்தர்",
+     "lemma": "நெஞ்சத்தர்",
+     "gloss": "he of the heart"
     }
    ],
-   "gloss": "he who is in the heart"
+   "gloss": "he of the heart",
+   "split_unverified": true
   },
   {
    "surface": "ஆவர்",
@@ -115,16 +126,16 @@
     {
      "text": "விரைந்து",
      "lemma": "விரை",
-     "gloss": "swiftly"
+     "gloss": "having hastened"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "quickly"
   }
  ],
- "literal": "Sleeping time, shoulder-upon-he having become; waking time, heart-in-he he becomes, swiftly.",
- "translation": "When I sleep, he rests upon my shoulders; when I wake, he swiftly moves into my heart.",
- "modern": "நான் தூங்கும்போது என் தோள் மேல் இருப்பவர், நான் விழிக்கும்போது விரைந்து என் நெஞ்சத்திற்குள் சென்று விடுகிறார்.",
- "explanation": "The speaker describes the constant presence of her lover, whether she is asleep or awake. During her sleep, he appears in her dreams and embraces her shoulders. The moment she wakes up, he vanishes from her side but instantly takes residence in her heart as a memory. The words 'துஞ்சும் கால்' (when sleeping) and 'விழிக்கும் கால்' (when waking) contrast her two states, showing that her lover never truly leaves her.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When sleeping, shoulders-upon-he becoming, when waking, heart-of-he he becomes quickly.",
+ "translation": "When I sleep, he is upon my shoulders; but when I wake up, he quickly becomes the dweller of my heart.",
+ "modern": "நான் தூங்கும்போது என் தோள்களின் மேல் இருப்பவர், நான் விழிக்கும்போது விரைவாக என் நெஞ்சத்திற்குள் வந்துவிடுகிறார்.",
+ "explanation": "The heroine describes how her lover never leaves her, transitioning seamlessly between her dreams and her waking thoughts. When she falls asleep, she dreams of him embracing her, making him the one who rests upon her shoulders. The moment she wakes up, he does not vanish into nothingness; instead, he swiftly retreats into her heart as a vivid memory. The word 'நெஞ்சத்தர்' (he of the heart) highlights how his physical absence in the waking world is instantly compensated by his intense presence in her mind.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

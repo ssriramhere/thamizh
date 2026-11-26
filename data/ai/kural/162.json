@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "விழுப்பேற்றின்",
-     "lemma": "விழுப்பேறு",
-     "gloss": "among excellent gains"
+     "lemma": "விழுப்பேற்றின்",
+     "gloss": "than the most excellent attainment"
     }
    ],
-   "gloss": "among excellent gains"
+   "gloss": "than the most excellent attainment",
+   "split_unverified": true
   },
   {
    "surface": "அஃது",
@@ -36,18 +37,18 @@
      "gloss": "thing"
     }
    ],
-   "gloss": "equal thing"
+   "gloss": "that which is equal to"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "யார்",
@@ -58,7 +59,7 @@
      "gloss": "who"
     }
    ],
-   "gloss": "who"
+   "gloss": "anyone"
   },
   {
    "surface": "மாட்டும்",
@@ -66,7 +67,7 @@
     {
      "text": "மாட்டு",
      "lemma": "மாட்டு",
-     "gloss": "with"
+     "gloss": "towards"
     },
     {
      "text": "உம்",
@@ -74,18 +75,19 @@
      "gloss": "even"
     }
    ],
-   "gloss": "with anyone"
+   "gloss": "even towards"
   },
   {
    "surface": "அழுக்காற்றின்",
    "parts": [
     {
      "text": "அழுக்காற்றின்",
-     "lemma": "அழுக்காறு",
+     "lemma": "அழுக்காற்றின்",
      "gloss": "of envy"
     }
    ],
-   "gloss": "of envy"
+   "gloss": "of envy",
+   "split_unverified": true
   },
   {
    "surface": "அன்மை",
@@ -96,7 +98,7 @@
      "gloss": "absence"
     }
    ],
-   "gloss": "absence"
+   "gloss": "the absence"
   },
   {
    "surface": "பெறின்",
@@ -112,13 +114,13 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "if one obtains"
   }
  ],
- "literal": "Among excellent gains, an equal thing to that is not, with anyone, the absence of envy if obtained.",
- "translation": "If one can achieve the absence of envy towards anyone, there is no equal to that among excellent gains.",
- "modern": "யாரிடத்திலும் பொறாமை இல்லாத தன்மையை ஒருவர் பெற்றால், அவர் அடையும் சிறந்த பேறுகளில் அதற்கு இணையானது வேறு எதுவும் இல்லை.",
- "explanation": "This couplet highlights the supreme value of a mind free from envy. The phrase 'அழுக்காற்றின் அன்மை' means the complete absence of envy towards anyone ('யார் மாட்டும்'). The poet declares that if a person can attain this state, there is no other excellent gain ('விழுப்பேறு') that can equal it. Because envy destroys one's own peace and character, being entirely free from it is presented as the highest possible achievement.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than excellent attainment, that-equal there is not, towards anyone, of envy, the absence, if one obtains.",
+ "translation": "If one can attain the state of being free from envy towards anyone, there is no greater attainment than that in life.",
+ "modern": "யாரிடத்தும் பொறாமை கொள்ளாத குணத்தைப் பெற்றால், அதைவிடச் சிறந்த பேறு வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet emphasizes the supreme value of overcoming jealousy. The poet states that if a person can obtain the quality of being free from envy (அழுக்காற்றின் அன்மை) towards anyone (யார் மாட்டும்), there is no greater fortune or attainment (விழுப்பேறு) than that. The word 'விழுப்பேறு' refers to a highly esteemed gain, and the couplet shows that mental purity and freedom from ill-will are the greatest wealth one can ever acquire.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

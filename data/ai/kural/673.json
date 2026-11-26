@@ -6,10 +6,10 @@
     {
      "text": "ஙல்லும்",
      "lemma": "ஒல்லும்",
-     "gloss": "is possible"
+     "gloss": "being possible"
     }
    ],
-   "gloss": "is possible"
+   "gloss": "being possible"
   },
   {
    "surface": "வாய்",
@@ -17,10 +17,10 @@
     {
      "text": "வாய்",
      "lemma": "வாய்",
-     "gloss": "place"
+     "gloss": "way or opportunity"
     }
    ],
-   "gloss": "place"
+   "gloss": "way or opportunity"
   },
   {
    "surface": "எல்லாம்",
@@ -55,17 +55,17 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "is good indeed"
+   "gloss": "is indeed good"
   },
   {
    "surface": "ஒல்லாக்கால்",
    "parts": [
     {
      "text": "ஒல்லா",
-     "lemma": "ஒல்",
+     "lemma": "ஒல்லுதல்",
      "gloss": "not possible"
     },
     {
@@ -74,18 +74,18 @@
      "gloss": "when"
     }
    ],
-   "gloss": "when not possible"
+   "gloss": "when it is not possible"
   },
   {
    "surface": "செல்லும்",
    "parts": [
     {
      "text": "செல்லும்",
-     "lemma": "செல்",
-     "gloss": "succeeds"
+     "lemma": "செல்லுதல்",
+     "gloss": "succeeding or progressing"
     }
    ],
-   "gloss": "succeeds"
+   "gloss": "succeeding"
   },
   {
    "surface": "வாய்",
@@ -93,17 +93,17 @@
     {
      "text": "வாய்",
      "lemma": "வாய்",
-     "gloss": "way"
+     "gloss": "way or path"
     }
    ],
-   "gloss": "way"
+   "gloss": "way or path"
   },
   {
    "surface": "நோக்கி",
    "parts": [
     {
      "text": "நோக்கி",
-     "lemma": "நோக்கு",
+     "lemma": "நோக்குதல்",
      "gloss": "having considered"
     }
    ],
@@ -114,17 +114,17 @@
    "parts": [
     {
      "text": "செயல்",
-     "lemma": "செய்",
-     "gloss": "should do"
+     "lemma": "செய்தல்",
+     "gloss": "doing"
     }
    ],
-   "gloss": "act"
+   "gloss": "to do"
   }
  ],
- "literal": "Possible place all action good indeed; when not possible, succeeds way having considered act.",
- "translation": "Whenever possible, it is best to act directly. When that is not possible, one should consider the avenues that will succeed and act accordingly.",
- "modern": "இயலும் இடங்களில் எல்லாம் செயலை நேரடியாக முடிப்பது நல்லது. அப்படி இயலாத போது, அச்செயல் நிறைவேறும் வழியை ஆராய்ந்து செய்ய வேண்டும்.",
- "explanation": "This couplet advises on the flexibility required in executing a task. The opening phrase (where the first word is a common typographical variant or error for 'ollum') suggests that direct action is the best approach wherever circumstances permit. However, 'ollaakkaal' (when not possible) acknowledges that obstacles will inevitably arise. In such cases, rather than forcing the issue, one must find 'sellum vaay' (the way that works) and adapt their strategy to ensure the action is successfully completed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In all possible ways, action is indeed good; when not possible, having considered the way it will succeed, to do.",
+ "translation": "In every possible way, performing an action is good; if it is not possible, one should find a viable path to success and then act.",
+ "modern": "இயலும் வழிகளிலெல்லாம் செயலைச் செய்வது நல்லது; இயலாதபோது, அது வெற்றியடையும் வழியை ஆராய்ந்து செய்ய வேண்டும்.",
+ "explanation": "This couplet advises on the execution of tasks under different circumstances. In all situations where it is possible (ஒல்லும் வாய் எல்லாம்), performing the action directly is highly beneficial. However, when direct execution is not possible (ஒல்லாக்கால்), one must carefully analyze and find an alternative path or method that will lead to success (செல்லும்வாய் நோக்கி) and then proceed to act (செயல்). The key words 'ஒல்லும் வாய்' (possible ways) and 'செல்லும் வாய்' (viable paths of success) contrast the direct approach with the strategic, adaptive approach. Note: 'ஙல்லும்' is a variant/scribal representation of 'ஒல்லும்' in this context.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

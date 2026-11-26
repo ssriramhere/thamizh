@@ -17,15 +17,15 @@
     {
      "text": "விழை",
      "lemma": "விழை",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he does not (negative suffix)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he desires not"
+   "gloss": "he who does not desire"
   },
   {
    "surface": "வினை",
@@ -44,17 +44,12 @@
     {
      "text": "விழை",
      "lemma": "விழை",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
+     "text": "வான்",
      "lemma": "ஆன்",
-     "gloss": "he (pronominal suffix)"
+     "gloss": "he who"
     }
    ],
    "gloss": "he who desires"
@@ -65,10 +60,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "his"
+     "gloss": "one's own"
     }
    ],
-   "gloss": "his"
+   "gloss": "one's own"
   },
   {
    "surface": "கேளிர்",
@@ -76,10 +71,10 @@
     {
      "text": "கேளிர்",
      "lemma": "கேளிர்",
-     "gloss": "relatives"
+     "gloss": "relations"
     }
    ],
-   "gloss": "relatives"
+   "gloss": "relations"
   },
   {
    "surface": "துன்பம்",
@@ -87,33 +82,18 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "suffering"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "suffering"
   },
   {
    "surface": "துடைத்து",
    "parts": [
     {
-     "text": "துடை",
+     "text": "துடைத்து",
      "lemma": "துடை",
-     "gloss": "to wipe"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial suffix"
+     "gloss": "having wiped away"
     }
    ],
    "gloss": "having wiped away"
@@ -122,17 +102,12 @@
    "surface": "ஊன்றும்",
    "parts": [
     {
-     "text": "ஊன்று",
+     "text": "ஊன்றும்",
      "lemma": "ஊன்று",
-     "gloss": "to support"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "propping up"
     }
    ],
-   "gloss": "supporting"
+   "gloss": "propping up"
   },
   {
    "surface": "தூண்",
@@ -146,10 +121,10 @@
    "gloss": "pillar"
   }
  ],
- "literal": "Pleasure he-desires-not, work he-who-desires, his relatives' sorrow having-wiped-away supporting pillar.",
- "translation": "He who desires not personal pleasure but desires to accomplish his work is a pillar that wipes away the sorrows of his kin and supports them.",
- "modern": "தனக்குரிய இன்பத்தை விரும்பாமல், தான் செய்ய வேண்டிய செயலைச் செய்து முடிக்க விரும்புகின்றவன், தன் உறவினர்களின் துன்பத்தைப் போக்கி அவர்களைத் தாங்கும் தூண் ஆவான்.",
- "explanation": "This couplet defines the character of a truly industrious person. It contrasts the rejection of personal pleasure with a deep dedication to one's work. Such a person becomes the foundational support for their family and community. The poet uses the metaphor of a pillar to show how this individual bears the weight of others' burdens, actively wiping away their sorrows. By prioritizing duty over comfort, the person provides strength and stability to their kindred.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Pleasure he who desires not, work he who desires, his relations' suffering having wiped away, propping up pillar.",
+ "translation": "He who does not seek personal pleasure but desires only to do his work will become a supporting pillar that wipes away the suffering of his kin.",
+ "modern": "இன்பத்தை விரும்பாமல் தன் கடமையாகிய செயலைச் செய்ய விரும்புகின்றவன், தன் சுற்றத்தாரின் துன்பத்தைத் துடைத்து அவர்களைத் தாங்கி நிற்கும் தூண் ஆவான்.",
+ "explanation": "This couplet highlights the noble quality of a person dedicated to effort and duty. One who disregards personal ease and instead finds joy in hard work becomes a source of strength for their family and friends. By actively working, they wipe away the distress of their relatives and stand firm as a supportive pillar, bearing the weight of their community's welfare.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

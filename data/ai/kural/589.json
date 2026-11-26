@@ -6,10 +6,10 @@
     {
      "text": "ஒற்றெற்",
      "lemma": "ஒற்று",
-     "gloss": "spy"
+     "gloss": "spy on spy"
     }
    ],
-   "gloss": "spy"
+   "gloss": "spy on spy"
   },
   {
    "surface": "றுணராமை",
@@ -17,21 +17,21 @@
     {
      "text": "றுணராமை",
      "lemma": "உணராமை",
-     "gloss": "not knowing"
+     "gloss": "without knowing"
     }
    ],
-   "gloss": "not knowing"
+   "gloss": "without knowing"
   },
   {
    "surface": "ஆள்க",
    "parts": [
     {
      "text": "ஆள்க",
-     "lemma": "ஆள்",
-     "gloss": "let one manage"
+     "lemma": "ஆளுதல்",
+     "gloss": "let one employ"
     }
    ],
-   "gloss": "let one manage"
+   "gloss": "let one employ"
   },
   {
    "surface": "உடன்மூவர்",
@@ -47,14 +47,14 @@
      "gloss": "three persons"
     }
    ],
-   "gloss": "together three persons"
+   "gloss": "three persons together"
   },
   {
    "surface": "சொற்றொக்க",
    "parts": [
     {
      "text": "சொற்றொக்க",
-     "lemma": "சொல்தொக்க",
+     "lemma": "சொல் + தொகு",
      "gloss": "words agreeing"
     }
    ],
@@ -66,27 +66,27 @@
     {
      "text": "தேறப்",
      "lemma": "தேறு",
-     "gloss": "to trust"
+     "gloss": "to be confirmed"
     }
    ],
-   "gloss": "to trust"
+   "gloss": "to be confirmed"
   },
   {
    "surface": "படும்",
    "parts": [
     {
      "text": "படும்",
-     "lemma": "படு",
-     "gloss": "will be appropriate"
+     "lemma": "படுதல்",
+     "gloss": "will be"
     }
    ],
-   "gloss": "will be appropriate"
+   "gloss": "will be"
   }
  ],
- "literal": "spy not knowing let one manage together three persons words agreeing to trust will be appropriate",
- "translation": "A ruler should manage his spies so that they do not know each other. Information should be trusted only when the reports of three independent spies agree.",
- "modern": "ஒரு ஒற்றரை மற்றொரு ஒற்றர் அறியாதவாறு ஆள வேண்டும். அவ்வாறு செயல்படும் மூன்று ஒற்றர்களின் செய்திகளும் ஒன்றாக அமைந்தால் மட்டுமே அதனை உண்மையாகக் கருதி நம்ப வேண்டும்.",
- "explanation": "This couplet explains the method of verifying intelligence gathered by spies. A ruler must employ spies in such a way that they remain completely unaware of one another. Only when the independent reports of three different spies perfectly agree should the information be trusted and acted upon. This ensures that the intelligence is accurate and free from collusion.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Spying on spy without knowing let one employ; together three [spies'] words agreeing, [it] will be confirmed.",
+ "translation": "Let a ruler employ spies to watch other spies without their knowing each other; when the reports of three such independent spies agree, the information may be accepted as true.",
+ "modern": "ஒரு ஒற்றனை மற்றொரு ஒற்றன் அறியாதவாறு உளவு பார்க்க ஆள வேண்டும்; அவ்வாறு தனித்தனியே உளவு பார்த்த மூன்று ஒற்றர்களின் செய்திகளும் ஒன்றுபட்டால் மட்டுமே அதை உண்மை என்று தெளிந்து கொள்ள வேண்டும்.",
+ "explanation": "This couplet explains the method of verifying intelligence gathered by spies. The ruler should employ spies to spy on other spies without them being aware of each other. To ensure the reliability of the information, the ruler must compare the reports of three independent spies. Only when the words of all three spies agree should the information be trusted and acted upon. This system of triple-verification prevents false reports and ensures the security of the state.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

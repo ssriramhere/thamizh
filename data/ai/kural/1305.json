@@ -6,21 +6,26 @@
     {
      "text": "நலத்தகை",
      "lemma": "நலத்தகை",
-     "gloss": "excellent nature"
+     "gloss": "excellent goodness"
     }
    ],
-   "gloss": "excellent nature"
+   "gloss": "excellent goodness"
   },
   {
    "surface": "நல்லவர்க்கு",
    "parts": [
     {
-     "text": "நல்லவர்க்கு",
+     "text": "நல்லவர்",
      "lemma": "நல்லவர்",
-     "gloss": "to good men"
+     "gloss": "good people"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to good men"
+   "gloss": "to those who are good"
   },
   {
    "surface": "ஏஎர்",
@@ -31,7 +36,7 @@
      "gloss": "beauty"
     }
    ],
-   "gloss": "beauty"
+   "gloss": "beauty or grace"
   },
   {
    "surface": "புலத்தகை",
@@ -39,10 +44,10 @@
     {
      "text": "புலத்தகை",
      "lemma": "புலத்தகை",
-     "gloss": "nature of sulking"
+     "gloss": "quality of sulking"
     }
    ],
-   "gloss": "nature of sulking"
+   "gloss": "the quality of feigned anger"
   },
   {
    "surface": "பூ",
@@ -70,9 +75,14 @@
    "surface": "கண்ணார்",
    "parts": [
     {
-     "text": "கண்ணார்",
-     "lemma": "கண்ணார்",
-     "gloss": "those with eyes"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who have"
     }
    ],
    "gloss": "those with eyes"
@@ -83,16 +93,16 @@
     {
      "text": "அகத்து",
      "lemma": "அகம்",
-     "gloss": "in the mind"
+     "gloss": "in the heart"
     }
    ],
-   "gloss": "in the mind"
+   "gloss": "in the heart"
   }
  ],
- "literal": "excellent nature to good men beauty sulking nature flower like eyes having women's mind in",
- "translation": "For good men of excellent character, true beauty is the feigned anger in the hearts of their flower-eyed women.",
- "modern": "நற்பண்புகள் அமைந்த நல்லவர்களுக்கு உண்மையான அழகு என்பது, மலர் போன்ற கண்களை உடைய அவர்களின் மனைவியர் கொள்ளும் செல்லக் கோபமே ஆகும்.",
- "explanation": "This couplet describes how a lover's feigned anger enhances the relationship. The poet states that for men of excellent and good character, true beauty or grace comes from the sulking of their flower-eyed women. The word 'ஏஎர்' (beauty) highlights that enduring and resolving this gentle anger is an adornment to a good man's character.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The excellent goodness of good partners, their beauty is the quality of sulking in the hearts of those with flower-like eyes.",
+ "translation": "To virtuous lovers, the ultimate charm is the feigned anger that arises in the hearts of their beloveds whose eyes are like flowers.",
+ "modern": "மலர் போன்ற கண்களை உடைய பெண்களின் நெஞ்சில் தோன்றும் ஊடலின் தன்மையே, நல்ல குணங்களை உடைய கணவர்களுக்குக் கூடுதல் அழகைத் தருவதாகும்.",
+ "explanation": "This couplet highlights how playful sulking, or feigned anger, enhances the beauty of a romantic relationship. For loving and virtuous partners, the true charm of their bond lies in the sweet, temporary sulking that arises in the hearts of their flower-eyed beloveds. Rather than causing distance, this feigned anger acts as a decorative grace that deepens their mutual affection.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

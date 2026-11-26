@@ -6,18 +6,18 @@
     {
      "text": "கரப்பு",
      "lemma": "கரப்பு",
-     "gloss": "concealment"
+     "gloss": "concealing"
     }
    ],
-   "gloss": "concealment"
+   "gloss": "concealing or withholding wealth"
   },
   {
    "surface": "இலா",
    "parts": [
     {
      "text": "இலா",
-     "lemma": "இல்",
-     "gloss": "without"
+     "lemma": "இலா",
+     "gloss": "not having"
     }
    ],
    "gloss": "without"
@@ -26,14 +26,9 @@
    "surface": "நெஞ்சின்",
    "parts": [
     {
-     "text": "நெஞ்சு",
+     "text": "நெஞ்சின்",
      "lemma": "நெஞ்சு",
-     "gloss": "heart"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "of"
+     "gloss": "heart/mind (oblique)"
     }
    ],
    "gloss": "of the heart"
@@ -55,7 +50,7 @@
     {
      "text": "அறிவார்",
      "lemma": "அறி",
-     "gloss": "those who know"
+     "gloss": "know (they who know)"
     }
    ],
    "gloss": "those who know"
@@ -104,10 +99,10 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "a"
+     "gloss": "a unique"
     }
    ],
-   "gloss": "a"
+   "gloss": "a unique"
   },
   {
    "surface": "ஏஎர்",
@@ -126,16 +121,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   }
  ],
- "literal": "Concealment without of heart duty knowers before standing, begging even a beauty possesses.",
- "translation": "Standing before those who know their duty and have a heart that hides nothing, even begging possesses a certain beauty.",
- "modern": "ஒளிவுமறைவு இல்லாத நெஞ்சமும், பிறருக்குக் கொடுக்கும் கடமையை அறிந்தவரும் ஆகிய சான்றோர் முன் நின்று ஒன்றை யாசிப்பதும் ஒரு அழகை உடையதாகும்.",
- "explanation": "This couplet explores the rare circumstance where asking for help is not a source of shame. The word 'கரப்பு' means concealment, referring here to the act of hiding one's wealth to avoid giving. When one stands before noble people who know their duty ('கடன் அறிவார்') and have an open, generous heart ('கரப்பு இலா நெஞ்சின்'), the act of asking ('இரப்பு') loses its usual humiliation. In such a graceful exchange, even begging takes on a certain beauty ('ஏஎர் உடைத்து').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Standing before those who know their duty and have a heart without concealment, even begging possesses a unique beauty.",
+ "translation": "Standing and asking for help before those who know their duty and possess a heart free from withholding has a unique beauty of its own.",
+ "modern": "ஒளித்துவைக்கும் குணம் இல்லாத நெஞ்சத்தையும், தம் கடமையை அறியும் தன்மையையும் உடையவர் முன்னே நின்று இரந்து கேட்பதும் ஒரு தனி அழகைப் பெற்றதாகும்.",
+ "explanation": "This couplet explains that asking for help is not always a matter of shame; it can have its own grace under the right circumstances. When a person stands and asks (இரப்பும்) before those who do not hide what they have (கரப்பிலா நெஞ்சின்) and who understand their social duty to give (கடனறிவார்), the act of asking becomes dignified. The beauty (ஏஎர்) of this interaction lies in the mutual understanding between a needy person and a generous, dutiful giver. Thus, the poet elevates the act of seeking help when it is directed at the truly noble.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

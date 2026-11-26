@@ -4,12 +4,17 @@
    "surface": "உள்ளுவது",
    "parts": [
     {
-     "text": "உள்ளுவது",
-     "lemma": "உள்ளுதல்",
-     "gloss": "that which is thought"
+     "text": "உள்ளு",
+     "lemma": "உள்ளு",
+     "gloss": "to think"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "that which is"
     }
    ],
-   "gloss": "whatever is thought"
+   "gloss": "that which is thought"
   },
   {
    "surface": "எல்லாம்",
@@ -28,21 +33,21 @@
     {
      "text": "உயர்வு",
      "lemma": "உயர்வு",
-     "gloss": "elevation"
+     "gloss": "loftiness"
     }
    ],
-   "gloss": "high"
+   "gloss": "loftiness"
   },
   {
    "surface": "உள்ளல்",
    "parts": [
     {
      "text": "உள்ளல்",
-     "lemma": "உள்ளுதல்",
+     "lemma": "உள்ளல்",
      "gloss": "thinking"
     }
    ],
-   "gloss": "aiming"
+   "gloss": "thinking"
   },
   {
    "surface": "மற்று",
@@ -50,10 +55,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "and"
+     "gloss": "otherwise"
     }
    ],
-   "gloss": "and"
+   "gloss": "otherwise"
   },
   {
    "surface": "அது",
@@ -70,9 +75,14 @@
    "surface": "தள்ளினும்",
    "parts": [
     {
-     "text": "தள்ளின்",
-     "lemma": "தள்ளுதல்",
-     "gloss": "if it fails"
+     "text": "தள்ளு",
+     "lemma": "தள்ளு",
+     "gloss": "to fail"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     },
     {
      "text": "உம்",
@@ -86,29 +96,39 @@
    "surface": "தள்ளாமை",
    "parts": [
     {
-     "text": "தள்ளாமை",
-     "lemma": "தள்ளாமை",
-     "gloss": "non-failure"
+     "text": "தள்ளு",
+     "lemma": "தள்ளு",
+     "gloss": "to fail"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "not"
     }
    ],
-   "gloss": "non-failure"
+   "gloss": "not failing"
   },
   {
    "surface": "நீர்த்து",
    "parts": [
     {
-     "text": "நீர்த்து",
-     "lemma": "நீர்மை",
-     "gloss": "has the nature of"
+     "text": "நீர்",
+     "lemma": "நீர்",
+     "gloss": "nature"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it is of"
     }
    ],
-   "gloss": "has the nature of"
+   "gloss": "is of the nature of"
   }
  ],
- "literal": "Whatever is thought, all (should be) thinking of elevation; and that, even if it fails, has the nature of non-failure.",
- "translation": "Let all your thoughts be of high aims. Even if those aims fail, such noble thinking has the nature of success.",
- "modern": "நாம் நினைப்பது எல்லாம் உயர்ந்த நோக்கங்களாகவே இருக்க வேண்டும். அந்த நோக்கங்கள் நிறைவேறாவிட்டாலும், அப்படி உயர்ந்ததை நினைப்பதே ஒரு வெற்றியாகும்.",
- "explanation": "The couplet advises that one's goals and aspirations should always be set high. The word 'உள்ளுவது' refers to what one thinks or aims for, which should always be 'உயர்வு' (elevated or noble). Even if the desired outcome is not achieved, the very act of striving for something great is an achievement in itself. Thus, maintaining high motivation has the inherent nature ('நீர்த்து') of never truly failing ('தள்ளாமை').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "All that is thought should be thought of loftily; even if that fails, not failing is its nature.",
+ "translation": "Let all your thoughts be aimed at greatness; even if you fail to attain it, the very nature of such high aiming is itself a success.",
+ "modern": "நாம் நினைப்பதையெல்லாம் உயர்ந்ததாகவே நினைக்க வேண்டும்; அந்த எண்ணம் கைகூடாவிட்டாலும், அவ்வாறு நினைப்பதை விடாமல் இருப்பதே பெருமை தருவதாகும்.",
+ "explanation": "This couplet highlights the power of lofty aspirations. The word 'உள்ளுவது' refers to what we think or aim for, and 'உயர்வுள்ளல்' means keeping those thoughts noble and high. Even if circumstances prevent us from achieving that high goal ('தள்ளினும்'), the persistent attitude of aiming high ('தள்ளாமை') possesses the quality ('நீர்த்து') of greatness in itself. It teaches that noble ambition is never a failure, as the effort itself elevates the mind.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

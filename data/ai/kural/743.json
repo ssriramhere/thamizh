@@ -39,18 +39,23 @@
     {
      "text": "அருமை",
      "lemma": "அருமை",
-     "gloss": "difficulty"
+     "gloss": "impenetrability"
     }
    ],
-   "gloss": "difficulty"
+   "gloss": "impenetrability"
   },
   {
    "surface": "இந்",
    "parts": [
     {
-     "text": "இந்",
+     "text": "இ",
      "lemma": "இ",
-     "gloss": "these"
+     "gloss": "this"
+    },
+    {
+     "text": "ந்",
+     "lemma": "ந்",
+     "gloss": "glide"
     }
    ],
    "gloss": "these"
@@ -77,10 +82,10 @@
     {
      "text": "அமைவு",
      "lemma": "அமைவு",
-     "gloss": "possessing"
+     "gloss": "possession"
     }
    ],
-   "gloss": "possessing"
+   "gloss": "possession"
   },
   {
    "surface": "அரண்",
@@ -99,10 +104,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "that"
+     "gloss": "thus"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "thus"
   },
   {
    "surface": "உரைக்கும்",
@@ -110,10 +115,10 @@
     {
      "text": "உரைக்கும்",
      "lemma": "உரை",
-     "gloss": "will declare"
+     "gloss": "describes"
     }
    ],
-   "gloss": "declares"
+   "gloss": "describes"
   },
   {
    "surface": "நூல்",
@@ -127,10 +132,10 @@
    "gloss": "treatise"
   }
  ],
- "literal": "Height, width, strength, difficulty: of these four, the possessing is a fortress, thus declares the treatise.",
- "translation": "Treatises on strategy declare that a true fortress possesses these four qualities: height, breadth, strength, and inaccessibility.",
- "modern": "உயர்வு, அகலம், உறுதி, பகைவரால் அழிக்க முடியாத அருமை ஆகிய இந்த நான்கும் அமைந்திருப்பதே சிறந்த அரண் என்று நூல்கள் கூறும்.",
- "explanation": "This couplet defines the essential physical characteristics of a good fortress. The four key attributes are height to prevent scaling, breadth to accommodate defenders and supplies, strength to withstand attacks, and inaccessibility to make it difficult for enemies to approach. The word 'நூல்' refers to treatises on statecraft and military strategy, indicating that this definition is based on established strategic principles.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Height, width, strength, impenetrability—the possession of these four, a fortress, thus describes the treatise.",
+ "translation": "The authoritative treatises declare that a true fortress is one that possesses these four qualities: height, width, strength, and impenetrability.",
+ "modern": "உயரம், அகலம், வலிமை, எளிதில் கடக்க முடியாத அருமை ஆகிய இந்த நான்கும் பொருந்தி இருப்பதே சிறந்த அரண் என்று நூல்கள் கூறுகின்றன.",
+ "explanation": "This couplet defines the physical and strategic characteristics of an ideal fortress. According to military science or authoritative treatises (நூல்), a fortress must have four essential attributes: height (உயர்வு) to prevent easy scaling, width (அகலம்) to accommodate defenders and space, strength (திண்மை) of construction to withstand attacks, and impenetrability or difficulty of access (அருமை) to keep enemies at bay. The word 'அமைவு' indicates the perfect fitting or possession of these four qualities. When a fortification possesses all four, it is recognized as a complete and effective defense system.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

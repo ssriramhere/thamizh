@@ -6,15 +6,15 @@
     {
      "text": "நிறை",
      "lemma": "நிறை",
-     "gloss": "firmness"
+     "gloss": "fullness/integrity"
     },
     {
      "text": "நெஞ்சம்",
      "lemma": "நெஞ்சம்",
-     "gloss": "heart"
+     "gloss": "mind/heart"
     }
    ],
-   "gloss": "firm heart"
+   "gloss": "a mind of integrity and self-control"
   },
   {
    "surface": "இல்லவர்",
@@ -22,7 +22,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "அவர்",
@@ -30,15 +30,20 @@
      "gloss": "they"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "தோய்வார்",
    "parts": [
     {
-     "text": "தோய்வார்",
+     "text": "தோய்",
      "lemma": "தோய்",
-     "gloss": "they will embrace"
+     "gloss": "to touch/embrace"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
    "gloss": "they will embrace"
@@ -47,12 +52,22 @@
    "surface": "பிறநெஞ்சிற்",
    "parts": [
     {
-     "text": "பிறநெஞ்சிற்",
-     "lemma": "பிறநெஞ்சம்",
-     "gloss": "in a different heart"
+     "text": "பிற",
+     "lemma": "பிற",
+     "gloss": "other"
+    },
+    {
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "mind/heart"
+    },
+    {
+     "text": "இற்",
+     "lemma": "இன்",
+     "gloss": "in/with (locative/oblique suffix)"
     }
    ],
-   "gloss": "in a different heart"
+   "gloss": "with another mind (thinking of someone else)"
   },
   {
    "surface": "பேணி",
@@ -60,26 +75,31 @@
     {
      "text": "பேண்",
      "lemma": "பேண்",
-     "gloss": "cherish"
+     "gloss": "to cherish/desire"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having done (verbal participle suffix)"
     }
    ],
-   "gloss": "feigning"
+   "gloss": "cherishing"
   },
   {
    "surface": "புணர்பவர்",
    "parts": [
     {
-     "text": "புணர்பவர்",
+     "text": "புணர்",
      "lemma": "புணர்",
-     "gloss": "those who unite"
+     "gloss": "to unite/embrace"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "அவர்",
+     "gloss": "they who do (participial noun suffix)"
     }
    ],
-   "gloss": "those who unite"
+   "gloss": "those who physically unite"
   },
   {
    "surface": "தோள்",
@@ -87,16 +107,16 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulder"
+     "gloss": "shoulders"
     }
    ],
    "gloss": "shoulders"
   }
  ],
- "literal": "Firm-heart those-without will-embrace in-other-heart feigning those-who-unite's shoulders.",
- "translation": "Only men lacking a firm heart will embrace the shoulders of women who unite physically while harboring ulterior motives in their hearts.",
- "modern": "மன உறுதி இல்லாதவர்கள் மட்டுமே, உள்ளத்தில் வேறு நோக்கத்தை வைத்துக்கொண்டு உடலால் மட்டும் கூடும் பெண்களின் தோள்களைத் தழுவுவார்கள்.",
- "explanation": "This couplet highlights the lack of self-control in men who seek the company of wanton women. The phrase 'piṟa neñcil' (in a different heart) refers to the women's ulterior motive, usually financial gain, which contrasts with their outward show of affection. Only men without 'niṟai neñcam' (a firm, self-controlled mind) will fall for such feigned embraces.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who lack a mind of integrity will embrace the shoulders of those who physically unite while cherishing [others] in their other mind.",
+ "translation": "Only those who lack self-control and strength of mind will embrace the shoulders of women who physically unite with them while their hearts cherish someone else.",
+ "modern": "நெஞ்சுறுதி இல்லாதவர்களே, மனதால் வேறு ஒருவரை நினைத்துக் கொண்டு உடலால் மட்டும் தழுவும் பொதுமகளிரின் தோள்களைச் சேருவார்கள்.",
+ "explanation": "This couplet warns against the deceit of casual courtesans who sell their affection. The poet explains that these women do not offer genuine love; while they physically embrace a man, their minds are elsewhere, focused on money or other men ('பிறநெஞ்சிற் பேணி'). Only men who lack wisdom and self-control ('நிறைநெஞ்சம் இல்லவர்') will fall for such superficial physical union ('தோள் தோய்வார்'). The key contrast is between the 'full/steadfast mind' (நிறைநெஞ்சம்) that a wise man should possess, and the 'divided/alienated mind' (பிறநெஞ்சு) of the courtesan.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

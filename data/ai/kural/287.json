@@ -15,14 +15,9 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which is"
+     "gloss": "which is called"
     }
    ],
    "gloss": "which is called"
@@ -33,15 +28,15 @@
     {
      "text": "கார்",
      "lemma": "கார்",
-     "gloss": "dark"
+     "gloss": "darkness or ignorance"
     },
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "intellect or knowledge"
     }
    ],
-   "gloss": "dark ignorance"
+   "gloss": "dark intellect or ignorance"
   },
   {
    "surface": "ஆண்மை",
@@ -49,10 +44,10 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "boldness"
+     "gloss": "conduct or practice"
     }
    ],
-   "gloss": "boldness"
+   "gloss": "conduct or practice"
   },
   {
    "surface": "அளவு",
@@ -60,23 +55,18 @@
     {
      "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "measure"
+     "gloss": "measure or moderation"
     }
    ],
-   "gloss": "measure"
+   "gloss": "measure or moderation"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which is"
+     "gloss": "which is called"
     }
    ],
    "gloss": "which is called"
@@ -87,10 +77,10 @@
     {
      "text": "ஆற்றல்",
      "lemma": "ஆற்றல்",
-     "gloss": "power"
+     "gloss": "power or strength"
     }
    ],
-   "gloss": "power"
+   "gloss": "power or strength"
   },
   {
    "surface": "புரிந்தார்கண்ட",
@@ -98,20 +88,20 @@
     {
      "text": "புரிந்தார்",
      "lemma": "புரி",
-     "gloss": "those who practice"
+     "gloss": "those who cherished"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with (locative)"
+     "gloss": "in (locative case marker)"
     },
     {
-     "text": "ட",
-     "lemma": "ட",
-     "gloss": "euphonic suffix"
+     "text": "த",
+     "lemma": "து",
+     "gloss": "euphonic increment"
     }
    ],
-   "gloss": "with those who practice"
+   "gloss": "in those who cherished"
   },
   {
    "surface": "இல்",
@@ -119,16 +109,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   }
  ],
- "literal": "Theft which is called dark-knowledge boldness, measure which is called power with those who practice is not.",
- "translation": "The foolish boldness of dark ignorance known as theft is not found in those who practice the strong discipline of knowing their proper limits.",
- "modern": "அளவு என்னும் வரம்பினை அறிந்து வாழும் ஆற்றல் உடையவர்களிடத்தில், களவு என்று சொல்லப்படும் மயங்கிய அறிவினால் வரும் துணிவு இருக்காது.",
- "explanation": "The couplet contrasts two qualities: the disciplined strength of knowing one's proper limits ('measure') and the foolish boldness of stealing ('dark ignorance'). The word 'அளவு' (measure) refers to the boundary of what rightfully belongs to oneself, while 'காரறிவு' (dark knowledge) describes a mind clouded by greed. The author explains that those who possess the true power of self-restraint will never harbor the ignorant audacity to commit theft.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The conduct of dark intellect called theft, in those who cherish the power called moderation, exists not.",
+ "translation": "The practice of dark ignorance called theft will not be found in those who cherish the great power of moderation.",
+ "modern": "திருட்டு என்று சொல்லப்படும் அறியாமை நிறைந்த செயல், அளவு அறிந்து வாழும் ஆற்றலை விரும்பியவர்களிடம் இல்லை.",
+ "explanation": "This couplet contrasts the ignorance of theft with the strength of moderation. The author describes theft as 'kār-aṟivāṇmai'—a conduct born of dark, ignorant intellect. On the other hand, knowing and respecting the proper limits of things is described as 'aḷavennum āṟṟal'—the power of moderation. Those who cherish and practice this power of moderation will never harbor the dark desire to steal from others.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

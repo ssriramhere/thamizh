@@ -15,14 +15,9 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "called"
     }
    ],
    "gloss": "called"
@@ -38,7 +33,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "within"
     }
    ],
    "gloss": "within the affliction"
@@ -48,16 +43,16 @@
    "parts": [
     {
      "text": "பல்",
-     "lemma": "பல்",
+     "lemma": "பல",
      "gloss": "many"
     },
     {
      "text": "குரை",
      "lemma": "குரை",
-     "gloss": "expletive"
+     "gloss": "kinds"
     }
    ],
-   "gloss": "many kinds of"
+   "gloss": "of many kinds"
   },
   {
    "surface": "துன்பங்கள்",
@@ -65,7 +60,7 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "suffering"
     },
     {
      "text": "கள்",
@@ -73,7 +68,7 @@
      "gloss": "plural suffix"
     }
    ],
-   "gloss": "sorrows"
+   "gloss": "sufferings"
   },
   {
    "surface": "சென்று",
@@ -84,29 +79,24 @@
      "gloss": "having gone"
     }
    ],
-   "gloss": "having gone"
+   "gloss": "going into"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to happen"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will occur"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "will occur"
   }
  ],
- "literal": "Within the affliction called poverty, many sorrows having gone will happen.",
- "translation": "Within the single affliction called poverty, many other sorrows will come and gather.",
- "modern": "வறுமை என்று சொல்லப்படும் ஒரு துன்பத்திற்குள், பல வகையான வேறு துன்பங்களும் தாமாகவே வந்து சேர்ந்து கொள்ளும்.",
- "explanation": "This couplet explains how poverty is not just a single hardship but a magnet for many others. The word 'நல்குரவு' means poverty, which is described as an 'இடும்பை' or affliction. Within this one affliction, 'பல்குரைத் துன்பங்கள்' (many kinds of sorrows) will go and occur. This shows that being poor brings about a multitude of secondary sufferings, such as hunger, humiliation, and loss of status.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Within the affliction called poverty, many kinds of sufferings going into will occur.",
+ "translation": "Within the single affliction known as poverty, countless other diverse sufferings will enter and take root.",
+ "modern": "வறுமை என்று சொல்லப்படும் துன்பத்திற்குள், பல வகையான துன்பங்கள் சென்று சேரும்.",
+ "explanation": "This couplet explains that poverty is not just a single hardship, but a source of multiple miseries. The word 'iṭumpai' means affliction, and 'iṭumpaiyuḷ' indicates that within the state of poverty, other troubles reside. The term 'palkurai' refers to many different kinds or varieties. Thus, once a person falls into poverty, various other forms of suffering—such as hunger, loss of respect, and helplessness—will naturally enter and afflict them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

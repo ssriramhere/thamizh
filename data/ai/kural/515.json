@@ -9,7 +9,7 @@
      "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "having understood the task"
   },
   {
    "surface": "ஆற்றி",
@@ -17,10 +17,10 @@
     {
      "text": "ஆற்றி",
      "lemma": "ஆற்று",
-     "gloss": "having executed"
+     "gloss": "having performed or overcome obstacles"
     }
    ],
-   "gloss": "having executed"
+   "gloss": "having the capacity to endure and perform"
   },
   {
    "surface": "செய்கிற்பாற்கு",
@@ -31,23 +31,33 @@
      "gloss": "to do"
     },
     {
-     "text": "கிற்பாற்கு",
-     "lemma": "கில்",
-     "gloss": "to him who is able"
+     "text": "கிற்பு",
+     "lemma": "கிற்பு",
+     "gloss": "ability"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to him who is able to do"
+   "gloss": "to the one who is capable of doing"
   },
   {
    "surface": "அல்லால்",
    "parts": [
     {
      "text": "அல்லால்",
-     "lemma": "அல்",
-     "gloss": "except"
+     "lemma": "அல்லால்",
+     "gloss": "other than"
     }
    ],
-   "gloss": "except"
+   "gloss": "other than / except"
   },
   {
    "surface": "வினை",
@@ -58,7 +68,7 @@
      "gloss": "task"
     }
    ],
-   "gloss": "task"
+   "gloss": "a task"
   },
   {
    "surface": "தான்",
@@ -76,11 +86,11 @@
    "parts": [
     {
      "text": "சிறந்தான்",
-     "lemma": "சிற",
-     "gloss": "he is dear"
+     "lemma": "சிறந்தான்",
+     "gloss": "one who is beloved or dear"
     }
    ],
-   "gloss": "he is dear"
+   "gloss": "one who is beloved"
   },
   {
    "surface": "என்று",
@@ -88,10 +98,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "saying or thinking that"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking that"
   },
   {
    "surface": "ஏவற்பாற்று",
@@ -99,32 +109,32 @@
     {
      "text": "ஏவல்",
      "lemma": "ஏவல்",
-     "gloss": "command"
+     "gloss": "commanding or assigning"
     },
     {
      "text": "பாற்று",
-     "lemma": "பால்",
-     "gloss": "nature-it"
+     "lemma": "பாற்று",
+     "gloss": "of the nature of"
     }
    ],
-   "gloss": "of the nature of being commanded"
+   "gloss": "of the nature of being assigned"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is not"
     }
    ],
    "gloss": "is not"
   }
  ],
- "literal": "Having known, having executed, to him who is able to do except, task indeed 'he is dear' saying of the nature of being commanded is not.",
- "translation": "A task should not be entrusted to someone simply because he is dear; it should only be given to one who knows what to do, works hard, and has the ability to complete it.",
- "modern": "ஒரு செயலை எப்படிச் செய்ய வேண்டும் என்று அறிந்து, அதற்கான முயற்சிகளை மேற்கொண்டு செய்து முடிக்கும் ஆற்றல் உடையவரிடம் மட்டுமே அச்செயலை ஒப்படைக்க வேண்டும். அவர் நமக்கு மிகவும் வேண்டியவர் என்று கருதி அவரிடம் ஒரு செயலை ஒப்படைக்கக் கூடாது.",
- "explanation": "This couplet explains the criteria for delegating tasks. The phrase 'அறிந்து ஆற்றிச் செய்கிற்பாற்கு' emphasizes three qualities: knowing the nature of the work, putting in the required effort, and having the capacity to finish it. The word 'சிறந்தான்' here means someone who is dear or special to the leader. The couplet warns that personal affection should never be the reason for assigning a task; competence must be the only measure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Other than to one who is capable of doing, having understood and having performed, a task indeed is not of the nature of being assigned thinking that 'he is a beloved person'.",
+ "translation": "A task should not be entrusted to someone merely because they are a beloved associate; it must only be assigned to one who fully understands it, knows how to overcome obstacles, and has the capability to execute it.",
+ "modern": "ஒரு செயலை நன்கு அறிந்து, வரும் இடையூறுகளைத் தாங்கி, அதைச் செய்து முடிக்க வல்லவரிடமே அச்செயலை ஒப்படைக்க வேண்டும்; அவர் நமக்கு நெருக்கமானவர் என்று கருதி அவரிடம் அச்செயலை ஒப்படைக்கக் கூடாது.",
+ "explanation": "This couplet highlights the danger of favoritism and the necessity of competence when delegating responsibilities. The author argues that a task must only be assigned to someone who has analyzed it thoroughly, knows how to handle difficulties, and possesses the practical ability to execute it. It is a mistake to entrust a duty to someone simply because they are a close friend or beloved associate. True governance and successful action rely on choosing the right person for the job based on merit, not personal affection.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

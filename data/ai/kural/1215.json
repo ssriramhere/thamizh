@@ -6,20 +6,15 @@
     {
      "text": "நனவு",
      "lemma": "நனவு",
-     "gloss": "wakefulness"
+     "gloss": "waking state"
     },
     {
-     "text": "இன்",
+     "text": "இனால்",
      "lemma": "இன்",
-     "gloss": "[empty particle]"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "through (instrumental suffix)"
     }
    ],
-   "gloss": "in the waking state"
+   "gloss": "through the waking state"
   },
   {
    "surface": "கண்டதூஉம்",
@@ -27,10 +22,10 @@
     {
      "text": "கண்டதூஉம்",
      "lemma": "கண்டது",
-     "gloss": "that which was seen (also)"
+     "gloss": "that which was seen also (with poetic elongation)"
     }
    ],
-   "gloss": "that which was seen, too"
+   "gloss": "that which was seen also"
   },
   {
    "surface": "ஆங்கே",
@@ -38,15 +33,15 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "there"
+     "gloss": "there / at that moment"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "[emphasis]"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "right there"
+   "gloss": "at that very moment"
   },
   {
    "surface": "கனவும்",
@@ -62,7 +57,7 @@
      "gloss": "also"
     }
    ],
-   "gloss": "dream too"
+   "gloss": "a dream too"
   },
   {
    "surface": "தான்",
@@ -70,7 +65,7 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "indeed"
+     "gloss": "indeed (emphatic particle)"
     }
    ],
    "gloss": "indeed"
@@ -92,15 +87,15 @@
     {
      "text": "பொழுது",
      "lemma": "பொழுது",
-     "gloss": "time"
+     "gloss": "time / moment"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "[emphasis]"
+     "gloss": "only (emphasis)"
     }
    ],
-   "gloss": "at the very time"
+   "gloss": "only at the moment"
   },
   {
    "surface": "இனிது",
@@ -108,16 +103,16 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "is sweet / pleasant"
     }
    ],
    "gloss": "is sweet"
   }
  ],
- "literal": "in the waking state / that which was seen, too / right there / dream too / indeed / seen / at the very time / is sweet",
- "translation": "What was seen in the waking state was sweet right then; the dream too is sweet at the very time it is seen.",
- "modern": "நனவில் காதலர் தந்த இன்பம் அப்பொழுது இனிமையாக இருந்தது; அதுபோலவே கனவும் அதைக் காணும் பொழுது இனிமையாகவே இருக்கிறது.",
- "explanation": "The speaker reflects on the nature of her experiences with her lover. She states that the joy she experienced in her waking state was sweet exactly when it happened. In the same way, the dream she has of him is sweet at the very moment she experiences it. The lengthened vowel in 'கண்டதூஉம்' (what was seen) adds a lingering emphasis to her memory of the waking experience, while avoiding complex joining rules by being treated as a single unit here. By equating the two, she validates the comfort she finds in her dreams.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which was seen in the waking state also at that very moment, a dream indeed is sweet only at the moment it is seen.",
+ "translation": "Just as what is experienced in the waking state is pleasant only at that very moment, a dream too is pleasant only at the moment it is dreamt.",
+ "modern": "நனவில் கண்டதும் அந்த நேரத்திலேயே இனிமையானது; அதுபோலக் கனவும் அது காணப்படுகின்ற பொழுதே இனிமையானதாகும்.",
+ "explanation": "The heroine compares her waking experiences with her dreams. She observes that both waking reality and dreams are fleeting, bringing joy only at the exact moment they are experienced. Once the moment passes, waking pleasures fade into memory, and dreams vanish upon waking. Therefore, she finds solace in her dreams of her lover, as they offer immediate sweetness just like real-life encounters do while they last.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

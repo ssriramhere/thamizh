@@ -5,16 +5,16 @@
    "parts": [
     {
      "text": "இரப்பார்",
-     "lemma": "இர",
+     "lemma": "இரப்பார்",
      "gloss": "those who beg"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "ACC"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "beggars (ACC)"
+   "gloss": "those who beg (accusative)"
   },
   {
    "surface": "இல்லாயின்",
@@ -26,27 +26,22 @@
     },
     {
      "text": "ஆயின்",
-     "lemma": "ஆ",
+     "lemma": "ஆயின்",
      "gloss": "if"
     }
    ],
-   "gloss": "if not"
+   "gloss": "if they are not there"
   },
   {
    "surface": "ஈர்ங்கண்",
    "parts": [
     {
-     "text": "ஈர்ம்",
-     "lemma": "ஈர்ம்",
-     "gloss": "cool"
-    },
-    {
-     "text": "கண்",
-     "lemma": "கண்",
-     "gloss": "space"
+     "text": "ஈர்ங்கண்",
+     "lemma": "ஈர்ங்கண்",
+     "gloss": "cool and wide"
     }
    ],
-   "gloss": "cool space"
+   "gloss": "cool and wide"
   },
   {
    "surface": "மா",
@@ -109,16 +104,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like / of that nature"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like that"
   }
  ],
- "literal": "Beggars if not, cool vast world wooden puppet having gone having come like that.",
- "translation": "If there were no beggars, this vast, cool world would be merely like the mechanical moving to and fro of wooden puppets.",
- "modern": "இரப்பவர்கள் இல்லாவிட்டால், குளிர்ந்த பெரிய இந்த உலகம் மரப்பாவைகள் இயங்குவது போல உயிரற்றதாகிவிடும்.",
- "explanation": "This couplet highlights the social value of those who ask for help. Without beggars, the opportunity for charity and compassion would not exist. The vast, cool world would then be devoid of human warmth and empathy. People would merely go about their lives mechanically, resembling lifeless wooden puppets moving back and forth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If those who beg are not there, the cool, wide, great world is like a wooden puppet going and coming.",
+ "translation": "If there were no beggars to ask for alms, the movements of people in this vast, cool world would be like the mere coming and going of wooden puppets.",
+ "modern": "இரந்து கேட்பவர்கள் இல்லையென்றால், குளிர்ந்த இடத்தையுடைய இந்த பெரிய உலகத்தில் வாழும் மக்களின் இயக்கம், மரப்பாவை தானாகவே சென்று வருவது போன்றதாகும்.",
+ "explanation": "This couplet highlights the social and human value of giving and receiving. The author suggests that if there were no people who ask for help, the act of giving charity would cease to exist. Without the interplay of giving and receiving, human life would lose its warmth, empathy, and social connection. Consequently, the people moving about in this vast, cool world would be no different from lifeless wooden puppets controlled by strings, moving mechanically without true human spirit.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "conditional suffix (if)"
     }
    ],
    "gloss": "if obtained"
@@ -26,11 +26,11 @@
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "will become"
+     "lemma": "ஆகு",
+     "gloss": "will become / is the use"
     }
    ],
-   "gloss": "what is the use"
+   "gloss": "what is the use?"
   },
   {
    "surface": "பெற்றக்கால்",
@@ -43,10 +43,10 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time (if)"
+     "gloss": "conditional suffix (when)"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "when obtained"
   },
   {
    "surface": "என்னாம்",
@@ -58,11 +58,11 @@
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "will become"
+     "lemma": "ஆகு",
+     "gloss": "will become / is the use"
     }
    ],
-   "gloss": "what is the use"
+   "gloss": "what is the use?"
   },
   {
    "surface": "உறின்",
@@ -70,15 +70,15 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "to unite"
+     "gloss": "to embrace / touch"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "conditional suffix (if)"
     }
    ],
-   "gloss": "if united"
+   "gloss": "if embraced"
   },
   {
    "surface": "என்னாம்",
@@ -90,11 +90,11 @@
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "will become"
+     "lemma": "ஆகு",
+     "gloss": "will become / is the use"
     }
    ],
-   "gloss": "what is the use"
+   "gloss": "what is the use?"
   },
   {
    "surface": "உள்ளம்",
@@ -102,10 +102,10 @@
     {
      "text": "உள்ளம்",
      "lemma": "உள்ளம்",
-     "gloss": "heart"
+     "gloss": "heart / mind"
     }
    ],
-   "gloss": "heart"
+   "gloss": "the heart"
   },
   {
    "surface": "உடைந்து",
@@ -124,21 +124,21 @@
     {
      "text": "உக்க",
      "lemma": "உகு",
-     "gloss": "destroyed"
+     "gloss": "spilled / perished / wasted away"
     },
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time (if)"
+     "gloss": "conditional suffix (when)"
     }
    ],
-   "gloss": "if destroyed"
+   "gloss": "when it has wasted away"
   }
  ],
- "literal": "If obtained what is the use, if obtained what is the use, if united what is the use, if the heart having broken is destroyed?",
- "translation": "What is the use of his returning, what is the use of receiving him, and what is the use of uniting with him, if my heart has already broken and perished?",
- "modern": "என் உள்ளம் உடைந்து அழிந்த பிறகு, அவர் திரும்பி வந்தால்தான் என்ன, அவரைப் பெற்றால்தான் என்ன, அவருடன் கூடினால்தான் என்ன பயன்?",
- "explanation": "The speaker expresses the urgency of her lover's return. She asks what good it would do if he returns, if she receives him, or if they unite, once her heart has already broken and perished from sorrow. The repetition of 'what is the use' emphasizes her desperate state and the futility of a delayed reunion. The words 'having broken' and 'destroyed' vividly portray the fragility of her enduring heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [I] obtain, what is the use? When [I] have obtained, what is the use? If [we] embrace, what is the use, when the heart, having broken, has wasted away?",
+ "translation": "What is the use of obtaining him, what is the use of having obtained him, and what is the use of embracing him, if my heart has already broken and wasted away?",
+ "modern": "தலைவனைப் பெற முடிந்தால் என்ன பயன்? பெற்றுவிட்டால் என்ன பயன்? கூடித் தழுவினால் என்ன பயன்? என் நெஞ்சம் உடைந்து அழிந்துபோன பிறகு?",
+ "explanation": "This couplet portrays the extreme grief of the heroine waiting for her lover. She feels that the prolonged separation has already shattered her heart beyond repair. She asks what purpose is served by getting him back, having him near, or even embracing him, if her inner self has already perished. The repetition of 'what is the use?' emphasizes her despair, showing that physical union loses all meaning once the emotional self is completely broken.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

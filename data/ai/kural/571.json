@@ -4,9 +4,14 @@
    "surface": "கண்ணோட்டம்",
    "parts": [
     {
-     "text": "கண்ணோட்டம்",
-     "lemma": "கண்ணோட்டம்",
-     "gloss": "graciousness"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஓட்டம்",
+     "lemma": "ஓட்டம்",
+     "gloss": "flow"
     }
    ],
    "gloss": "graciousness"
@@ -15,12 +20,17 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "கழிபெரும்",
@@ -28,7 +38,7 @@
     {
      "text": "கழி",
      "lemma": "கழி",
-     "gloss": "exceeding"
+     "gloss": "excessive"
     },
     {
      "text": "பெரும்",
@@ -58,24 +68,19 @@
      "gloss": "existence"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "ஆன்",
      "lemma": "ஆன்",
      "gloss": "because of"
     }
    ],
-   "gloss": "by the existence"
+   "gloss": "because of the existence"
   },
   {
    "surface": "உண்டு",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உண்டு",
+     "lemma": "உள்",
      "gloss": "exists"
     }
    ],
@@ -85,9 +90,14 @@
    "surface": "இவ்",
    "parts": [
     {
-     "text": "இவ்",
+     "text": "இ",
      "lemma": "இ",
      "gloss": "this"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "glide"
     }
    ],
    "gloss": "this"
@@ -104,10 +114,10 @@
    "gloss": "world"
   }
  ],
- "literal": "Graciousness called exceedingly great beauty, by its existence, exists this world.",
- "translation": "This world continues to exist because of the presence of that exceedingly great beauty called graciousness.",
- "modern": "கண்ணோட்டம் என்று சொல்லப்படும் மிகச் சிறந்த அழகு இருப்பதால்தான் இந்த உலகம் நிலைபெற்று இருக்கிறது.",
- "explanation": "The couplet declares that the world continues to exist only because of human compassion or graciousness. It describes this quality as an 'exceedingly great beauty' (கழிபெருங் காரிகை), elevating it above mere physical attractiveness. Without this fundamental empathy connecting people, human society and the world as we know it would cease to function.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Because of the existence of the exceedingly great beauty called graciousness, this world exists.",
+ "translation": "This world continues to exist only because of the presence of that exceedingly great beauty called graciousness.",
+ "modern": "கண்ணோட்டம் என்று சொல்லப்படும் மிகச் சிறந்த அழகு இருப்பதனால்தான் இந்த உலகம் நிலைபெற்றுள்ளது.",
+ "explanation": "This couplet emphasizes that graciousness or kindly consideration is the ultimate beauty of human nature. The author describes this quality as an 'exceedingly great beauty' (கழிபெருங் காரிகை). The existence of the world and human society depends entirely on the presence of this virtue. Without empathy and benignity among people, social life would disintegrate, meaning the world exists only because of this grace.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

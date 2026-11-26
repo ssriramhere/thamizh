@@ -6,10 +6,10 @@
     {
      "text": "நகை",
      "lemma": "நகை",
-     "gloss": "joke"
+     "gloss": "laughter"
     }
    ],
-   "gloss": "joke"
+   "gloss": "laughter"
   },
   {
    "surface": "உள்ளும்",
@@ -33,10 +33,10 @@
     {
      "text": "இன்னாது",
      "lemma": "இன்னாது",
-     "gloss": "is unpleasant"
+     "gloss": "unpleasant"
     }
    ],
-   "gloss": "is unpleasant"
+   "gloss": "is painful"
   },
   {
    "surface": "இகழ்ச்சி",
@@ -44,10 +44,10 @@
     {
      "text": "இகழ்ச்சி",
      "lemma": "இகழ்ச்சி",
-     "gloss": "mockery"
+     "gloss": "contempt"
     }
    ],
-   "gloss": "mockery"
+   "gloss": "contempt"
   },
   {
    "surface": "பகை",
@@ -85,14 +85,14 @@
      "gloss": "courtesy"
     }
    ],
-   "gloss": "courtesy"
+   "gloss": "good qualities"
   },
   {
    "surface": "உள",
    "parts": [
     {
      "text": "உள",
-     "lemma": "உள்",
+     "lemma": "உள",
      "gloss": "exist"
     }
    ],
@@ -115,17 +115,12 @@
     {
      "text": "அறி",
      "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future marker"
+     "gloss": "know"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they who"
     }
    ],
    "gloss": "those who know"
@@ -142,10 +137,10 @@
    "gloss": "with"
   }
  ],
- "literal": "Even in a joke, mockery is unpleasant; even in enmity, courtesy exists with those who know proper conduct.",
- "translation": "Mockery is painful even when meant as a joke. But courtesy exists even during enmity among those who know proper conduct.",
- "modern": "விளையாட்டிற்காகச் சொல்லப்படும்போதும் ஒருவரை இகழ்ந்து பேசுவது துன்பம் தருவதாகும். ஆனால், உலகத்தின் இயல்பை அறிந்தவர்களிடத்தில் பகைமையிலும் நல்ல பண்புகள் இருக்கும்.",
- "explanation": "The couplet contrasts the pain caused by mockery with the grace of true courtesy. It states that belittling someone, even in jest, causes hurt. On the other hand, people who understand proper conduct maintain their good character and courtesy even towards their enemies. The juxtaposition highlights that true refinement never stoops to contempt, regardless of the situation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in laughter, contempt is painful; even in enmity, good qualities exist with those who know proper conduct.",
+ "translation": "Even in jest, contempt is painful; therefore, even in enmity, noble qualities are maintained by those who understand proper conduct.",
+ "modern": "விளையாட்டாகப் பேசும்போதும் பிறரை இகழ்வது துன்பம் தருவதாகும்; அதனால், பகைமையிலும் நல்ல பண்புகள் உலக நடைமுறையை அறிந்தவர்களிடம் இருக்கும்.",
+ "explanation": "This couplet highlights that being belittled or mocked is painful, even when it is done in playfulness or jest. Understanding this human sensitivity, noble individuals who know how to behave with dignity in the world (பாடறிவார்) do not abandon their courtesy. They maintain their good qualities (பண்பு) and show respect even when dealing with their enemies.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

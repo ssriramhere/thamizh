@@ -5,63 +5,63 @@
    "parts": [
     {
      "text": "துறந்தார்",
-     "lemma": "துற",
-     "gloss": "those who renounced"
+     "lemma": "துறந்தார்",
+     "gloss": "those who have renounced"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/also"
+     "gloss": "and"
     }
    ],
-   "gloss": "to those who have renounced also"
+   "gloss": "and to those who have renounced"
   },
   {
    "surface": "துவ்வாதவர்க்கும்",
    "parts": [
     {
      "text": "துவ்வாதவர்",
-     "lemma": "துவ்வு",
-     "gloss": "those who are destitute"
+     "lemma": "துவ்வாதவர்",
+     "gloss": "the destitute"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/also"
+     "gloss": "and"
     }
    ],
-   "gloss": "to the destitute also"
+   "gloss": "and to the destitute"
   },
   {
    "surface": "இறந்தார்க்கும்",
    "parts": [
     {
      "text": "இறந்தார்",
-     "lemma": "இற",
-     "gloss": "those who died"
+     "lemma": "இறந்தார்",
+     "gloss": "those who have passed away"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/also"
+     "gloss": "and"
     }
    ],
-   "gloss": "to those who have died also"
+   "gloss": "and to those who have passed away"
   },
   {
    "surface": "இல்வாழ்வான்",
@@ -69,22 +69,22 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     },
     {
      "text": "வாழ்வான்",
-     "lemma": "வாழ்",
+     "lemma": "வாழ்வான்",
      "gloss": "he who lives"
     }
    ],
-   "gloss": "he who lives in the home"
+   "gloss": "he who lives in a home (the householder)"
   },
   {
    "surface": "என்பான்",
    "parts": [
     {
      "text": "என்பான்",
-     "lemma": "என்",
+     "lemma": "என்பான்",
      "gloss": "he who is called"
     }
    ],
@@ -99,13 +99,13 @@
      "gloss": "support"
     }
    ],
-   "gloss": "support"
+   "gloss": "a support"
   }
  ],
- "literal": "To those who have renounced also, to the destitute also, to those who have died also, he who lives in the home, he who is called, [is] support.",
- "translation": "The householder is the true support for those who have renounced the world, for the destitute, and for those who have passed away.",
- "modern": "துறவிகளுக்கும், வறுமையால் வாடுபவர்களுக்கும், இறந்துபோனவர்களுக்கும் இல்லறத்தில் வாழ்பவனே துணையாக இருக்கிறான்.",
- "explanation": "This couplet highlights the central role of the householder in sustaining society. The word 'இல்வாழ்வான்' refers to the person leading a domestic life, who acts as the foundation for others. He provides 'துணை' (support) to three specific groups who cannot support themselves: 'துறந்தார்' (ascetics who have given up worldly pursuits), 'துவ்வாதவர்' (the destitute who lack basic needs), and 'இறந்தார்' (the departed, who rely on the living for memorial rites). By sustaining these dependent groups, domestic life is shown to be a life of vital service.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who have renounced, and to the destitute, and to those who have passed away, he who is called a householder is a support.",
+ "translation": "The householder is the support for those who have renounced the world, the destitute who cannot support themselves, and the departed who have passed away.",
+ "modern": "துறவிகளுக்கும், வறுமையில் உள்ளவர்களுக்கும், இறந்தவர்களுக்கும் இல்லறத்தில் வாழ்பவனே துணையாவான்.",
+ "explanation": "This couplet defines the social and moral duties of a householder by identifying three groups that depend on him. 'துறந்தார்' refers to ascetics who have renounced material life and rely on others for food. 'துவ்வாதவர்' refers to the poor and helpless who cannot secure their own livelihood. 'இறந்தார்' refers to ancestors or deceased relatives whose memory and rites are preserved by the living. By sustaining these three groups, the householder serves as their essential support (துணை).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

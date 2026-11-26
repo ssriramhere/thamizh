@@ -15,12 +15,17 @@
    "surface": "ஆரார்",
    "parts": [
     {
-     "text": "ஆரார்",
+     "text": "ஆர்",
+     "lemma": "ஆருதல்",
+     "gloss": "to fill"
+    },
+    {
+     "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they will not become full"
+     "gloss": "they (negative)"
     }
    ],
-   "gloss": "they will not become full"
+   "gloss": "they will not fill"
   },
   {
    "surface": "அல்லல்",
@@ -28,33 +33,23 @@
     {
      "text": "அல்லல்",
      "lemma": "அல்லல்",
-     "gloss": "suffering"
+     "gloss": "distress"
     }
    ],
-   "gloss": "suffering"
+   "gloss": "distress"
   },
   {
    "surface": "உழப்பர்",
    "parts": [
     {
-     "text": "உழ",
-     "lemma": "உழ",
+     "text": "உழப்பு",
+     "lemma": "உழப்புதல்",
      "gloss": "to suffer"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future suffix"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "3pl suffix"
+     "gloss": "they"
     }
    ],
    "gloss": "they will suffer"
@@ -76,12 +71,7 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ன்",
-     "lemma": "ன்",
-     "gloss": "sandhi"
+     "gloss": "to call"
     },
     {
      "text": "உம்",
@@ -100,14 +90,9 @@
      "gloss": "goddess of misfortune"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "instrumental suffix"
+     "gloss": "by"
     }
    ],
    "gloss": "by the goddess of misfortune"
@@ -116,18 +101,23 @@
    "surface": "மூடப்பட்டார்",
    "parts": [
     {
-     "text": "மூடப்பட்டார்",
-     "lemma": "மூடப்படு",
-     "gloss": "those who are covered"
+     "text": "மூட",
+     "lemma": "மூடுதல்",
+     "gloss": "to cover"
+    },
+    {
+     "text": "பட்டார்",
+     "lemma": "படுதல்",
+     "gloss": "they became (passive)"
     }
    ],
-   "gloss": "those who are covered"
+   "gloss": "those who are enveloped"
   }
  ],
- "literal": "Belly they-fill-not, suffering they-will-suffer, gambling called by-goddess-of-misfortune those-who-are-covered.",
- "translation": "Those enveloped by the goddess of misfortune called gambling will suffer in distress, unable to even fill their bellies.",
- "modern": "சூது என்று சொல்லப்படும் மூதேவியால் பீடிக்கப்பட்டவர்கள், வயிறு நிறைய உணவு கிடைக்காமல் வறுமையில் துன்பப்படுவார்கள்.",
- "explanation": "The couplet personifies gambling as 'Mukaṭi', the goddess of misfortune and poverty. Those who are completely enveloped or possessed by this destructive habit are said to be covered by her. As a result, they will suffer immense distress and will not even be able to earn enough to fill their bellies with food. The word 'mūṭappaṭṭār' (covered) vividly portrays how gambling completely swallows a person's life, leaving no room for prosperity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Their belly they will not fill, distress they will suffer, those who are enveloped by the goddess of misfortune called gambling.",
+ "translation": "Those who are enveloped by the goddess of misfortune called gambling will not even fill their bellies, and will suffer endless distress.",
+ "modern": "சூது என்று சொல்லப்படும் மூதேவியால் (வறுமைத் தெய்வத்தால்) மூடப்பட்டவர்கள், தம் வயிற்றைக்கூட நிரப்ப முடியாமல் துன்பத்தை அடைவார்கள்.",
+ "explanation": "This couplet warns against the devastating effects of gambling by personifying it as the goddess of misfortune. Those who fall into the trap of gambling are described as being completely enveloped or possessed by this destructive force. As a result, they lose everything, to the extent that they cannot even satisfy their basic hunger. Instead of wealth or pleasure, they are left to endure constant misery and distress.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

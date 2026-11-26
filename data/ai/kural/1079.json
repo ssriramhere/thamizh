@@ -6,10 +6,10 @@
     {
      "text": "உடுப்பதூஉம்",
      "lemma": "உடுப்பது",
-     "gloss": "what is worn (and)"
+     "gloss": "clothing"
     }
    ],
-   "gloss": "what is worn (and)"
+   "gloss": "clothing"
   },
   {
    "surface": "உண்பதூஉம்",
@@ -17,26 +17,21 @@
     {
      "text": "உண்பதூஉம்",
      "lemma": "உண்பது",
-     "gloss": "what is eaten (and)"
+     "gloss": "food"
     }
    ],
-   "gloss": "what is eaten (and)"
+   "gloss": "food"
   },
   {
    "surface": "காணின்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காணின்",
      "lemma": "காண்",
-     "gloss": "see"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if they see"
     }
    ],
-   "gloss": "if sees"
+   "gloss": "if they see"
   },
   {
    "surface": "பிறர்மேல்",
@@ -69,17 +64,12 @@
    "surface": "காண",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காண",
      "lemma": "காண்",
-     "gloss": "see"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to find"
     }
    ],
-   "gloss": "to see"
+   "gloss": "to find"
   },
   {
    "surface": "வற்று",
@@ -96,14 +86,9 @@
    "surface": "ஆகும்",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will become"
     }
    ],
    "gloss": "will become"
@@ -120,10 +105,10 @@
    "gloss": "base person"
   }
  ],
- "literal": "What is worn and what is eaten, if sees upon others, fault to see capable becomes the base person.",
- "translation": "If a base person sees others well-dressed and well-fed, he becomes capable only of finding faults in them.",
- "modern": "பிறர் நல்ல உடைகளை உடுத்துவதையும் நல்ல உணவை உண்பதையும் கண்டால், அவர்கள் மேல் குற்றங்களை மட்டுமே காணும் இயல்புடையவன் கீழ்மகன்.",
- "explanation": "This couplet describes the deeply envious nature of base people. When they see others enjoying good food and clothing, they cannot tolerate their prosperity. Instead of feeling happy or remaining indifferent, their immediate reaction is to search for blemishes ('வடு') in those prosperous people. The words 'உடுப்பதூஉம்' and 'உண்பதூஉம்' use elongated vowels (aḷapeṭai) to emphasize the abundance and quality of what is worn and eaten by others, which triggers the base person's jealousy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Clothing and food if they see, upon others fault to find capable will become the base person.",
+ "translation": "If a base person sees others enjoying decent clothing and food, they will immediately find faults in them out of sheer envy.",
+ "modern": "பிறர் நல்ல ஆடை உடுத்துவதையும் நல்ல உணவு உண்பதையும் கண்டால், அவர்கள் மீது குற்றம் கண்டுபிடிக்க வல்லவர் ஆவர் கீழ்மைக் குணம் உடையவர்.",
+ "explanation": "This couplet describes the deep-seated envy of base individuals (கீழ்). When they observe others enjoying basic comforts like clothing (உடுப்பது) and food (உண்பது), they cannot tolerate their prosperity. Driven by jealousy, they actively seek out faults or blemishes (வடு) in them. The word 'வற்று' denotes capability, showing that the only skill a low-minded person possesses is finding flaws in those who are doing well.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

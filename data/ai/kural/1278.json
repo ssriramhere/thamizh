@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "நெருநற்று",
-     "lemma": "நெருநற்று",
+     "lemma": "நெருநல்",
      "gloss": "yesterday"
     }
    ],
@@ -17,29 +17,34 @@
     {
      "text": "சென்றார்",
      "lemma": "செல்",
-     "gloss": "departed-he"
+     "gloss": "departed"
     }
    ],
-   "gloss": "departed-he"
+   "gloss": "departed"
   },
   {
    "surface": "எம்",
    "parts": [
     {
      "text": "எம்",
-     "lemma": "எம்",
-     "gloss": "our"
+     "lemma": "யாம்",
+     "gloss": "my"
     }
    ],
-   "gloss": "our"
+   "gloss": "my"
   },
   {
    "surface": "காதலர்",
    "parts": [
     {
-     "text": "காதலர்",
-     "lemma": "காதலர்",
-     "gloss": "lover"
+     "text": "காதல்",
+     "lemma": "காதல்",
+     "gloss": "love"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "he (honorific)"
     }
    ],
    "gloss": "lover"
@@ -50,7 +55,7 @@
     {
      "text": "யாம்",
      "lemma": "யாம்",
-     "gloss": "we"
+     "gloss": "I"
     },
     {
      "text": "உம்",
@@ -58,7 +63,7 @@
      "gloss": "also"
     }
    ],
-   "gloss": "we also"
+   "gloss": "and I"
   },
   {
    "surface": "எழு",
@@ -82,10 +87,10 @@
     {
      "text": "ஏம்",
      "lemma": "ஏம்",
-     "gloss": "we are"
+     "gloss": "we are of"
     }
    ],
-   "gloss": "days we are"
+   "gloss": "we are of [seven] days"
   },
   {
    "surface": "மேனி",
@@ -103,17 +108,17 @@
    "parts": [
     {
      "text": "பசந்து",
-     "lemma": "பச",
-     "gloss": "having paled"
+     "lemma": "பசத்தல்",
+     "gloss": "having turned pale"
     }
    ],
-   "gloss": "having paled"
+   "gloss": "having turned pale"
   }
  ],
- "literal": "Yesterday departed our lover; we also seven days-we are, body having paled.",
- "translation": "Our lover departed only yesterday, but my body has already paled for seven days.",
- "modern": "எம் காதலர் நேற்றுதான் பிரிந்து சென்றார், ஆனால் என் மேனி பசலை நிறம் அடைந்து ஏழு நாட்கள் ஆகிவிட்டன.",
- "explanation": "The heroine playfully exaggerates her lovesickness to her friend. She points out a logical impossibility: her lover left only yesterday, yet her body has borne the pallor of separation for seven days. This hyperbole emphasizes how time stretches agonizingly when she is apart from him, making a single day feel like a week. The contrast between 'yesterday' and 'seven days' highlights the immediate and intense physical effect of his absence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Yesterday departed my lover; and I, seven days we are, body having turned pale.",
+ "translation": "It was only yesterday that my lover departed; yet, my body has been pale with grief for seven days now.",
+ "modern": "என் காதலர் நேற்றுத்தான் பிரிந்து சென்றார்; ஆனால், என் உடலோ பசலை நோய் வந்து ஏழு நாட்கள் ஆனது போலப் பசந்து போய்விட்டது.",
+ "explanation": "The heroine speaks of her intense longing and the distortion of time in her lover's absence. He left only yesterday, but her body has already turned pale with the grief of separation (pasalai). To her suffering mind, this physical change makes it feel as though seven long days have already passed. The couplet beautifully contrasts the objective reality of time with the subjective experience of pain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

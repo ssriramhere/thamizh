@@ -4,46 +4,32 @@
    "surface": "பருவத்தோடு",
    "parts": [
     {
-     "text": "பருவத்து",
-     "lemma": "பருவம்",
-     "gloss": "season (oblique)"
-    },
-    {
-     "text": "ஓடு",
-     "lemma": "ஓடு",
-     "gloss": "with"
+     "text": "பருவத்தோடு",
+     "lemma": "பருவத்தோடு",
+     "gloss": "with the opportune time"
     }
    ],
-   "gloss": "with the season"
+   "gloss": "with the opportune time",
+   "split_unverified": true
   },
   {
    "surface": "ஒட்ட",
    "parts": [
     {
-     "text": "ஒட்டு",
-     "lemma": "ஒட்டு",
-     "gloss": "match"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "ஒட்ட",
+     "lemma": "ஒட்ட",
+     "gloss": "to suit or agree"
     }
    ],
-   "gloss": "to match"
+   "gloss": "to suit"
   },
   {
    "surface": "ஒழுகல்",
    "parts": [
     {
-     "text": "ஒழுகு",
-     "lemma": "ஒழுகு",
-     "gloss": "act"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஒழுகல்",
+     "lemma": "ஒழுகுதல்",
+     "gloss": "acting or behaving"
     }
    ],
    "gloss": "acting"
@@ -52,12 +38,22 @@
    "surface": "திருவினை",
    "parts": [
     {
-     "text": "திருவினை",
+     "text": "திரு",
      "lemma": "திரு",
-     "gloss": "wealth (accusative)"
+     "gloss": "goddess of fortune or wealth"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "fortune (object)"
   },
   {
    "surface": "தீராமை",
@@ -65,31 +61,31 @@
     {
      "text": "தீர்",
      "lemma": "தீர்",
-     "gloss": "leave"
+     "gloss": "to leave or end"
     },
     {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix"
+    },
+    {
+     "text": "மை",
+     "lemma": "மை",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "without leaving"
+   "gloss": "not leaving"
   },
   {
    "surface": "ஆர்க்கும்",
    "parts": [
     {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "bind"
-    },
-    {
-     "text": "க்கும்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "text": "ஆர்க்கும்",
+     "lemma": "ஆர்த்தல்",
+     "gloss": "binding or tying"
     }
    ],
-   "gloss": "binding"
+   "gloss": "that binds"
   },
   {
    "surface": "கயிறு",
@@ -103,10 +99,10 @@
    "gloss": "rope"
   }
  ],
- "literal": "With the season to match acting, wealth without leaving binding rope.",
- "translation": "Acting in harmony with the right time is the rope that binds wealth to you so it never departs.",
- "modern": "ஏற்ற காலத்தோடு பொருந்துமாறு செயல்படுவது, செல்வத்தை நம்மை விட்டு நீங்காமல் கட்டிவைக்கும் கயிறு ஆகும்.",
- "explanation": "This couplet emphasizes the importance of timing in any endeavor. The poet compares acting in accordance with the right season or time to a strong rope. This rope securely binds success and wealth to a person, ensuring that prosperity never leaves them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Acting to suit with the opportune time is the rope that binds fortune without leaving.",
+ "translation": "Acting in perfect agreement with the opportune time is the rope that binds Fortune, preventing her from departing.",
+ "modern": "உரிய காலத்தோடு பொருந்துமாறு செயல்படுதல், செல்வமகளை நம்மை விட்டு நீங்காமல் கட்டி வைக்கும் கயிறு ஆகும்.",
+ "explanation": "This couplet highlights the supreme importance of timing in securing prosperity. The poet uses the metaphor of a rope to show how one can hold onto the otherwise fleeting goddess of fortune. Acting in harmony with the right season or opportunity is the only way to bind success to oneself. Without proper timing, even great efforts fail to retain wealth and fortune.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

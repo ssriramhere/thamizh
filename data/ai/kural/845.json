@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "கல்லாத",
-     "lemma": "கல்",
-     "gloss": "unlearned"
+     "lemma": "கல்லாத",
+     "gloss": "things not learned"
     }
    ],
-   "gloss": "unlearned things"
+   "gloss": "things not learned"
   },
   {
    "surface": "மேற்கொண்டு",
@@ -25,7 +25,7 @@
      "gloss": "having taken"
     }
    ],
-   "gloss": "having undertaken"
+   "gloss": "undertaking or pretending to know"
   },
   {
    "surface": "ஒழுகல்",
@@ -36,7 +36,7 @@
      "gloss": "behaving"
     }
    ],
-   "gloss": "behaving"
+   "gloss": "behaving or acting"
   },
   {
    "surface": "கசடு",
@@ -44,10 +44,10 @@
     {
      "text": "கசடு",
      "lemma": "கசடு",
-     "gloss": "flaw"
+     "gloss": "defect or flaw"
     }
    ],
-   "gloss": "flaw"
+   "gloss": "defect or flaw"
   },
   {
    "surface": "அற",
@@ -55,10 +55,10 @@
     {
      "text": "அற",
      "lemma": "அறு",
-     "gloss": "to be removed"
+     "gloss": "to be removed or without"
     }
    ],
-   "gloss": "to be removed"
+   "gloss": "completely or without"
   },
   {
    "surface": "வல்லதூஉம்",
@@ -66,10 +66,10 @@
     {
      "text": "வல்லதூஉம்",
      "lemma": "வல்லது",
-     "gloss": "even that which is mastered"
+     "gloss": "even that which one is skilled in"
     }
    ],
-   "gloss": "even that which is mastered"
+   "gloss": "even that which one is truly skilled in"
   },
   {
    "surface": "ஐயம்",
@@ -80,7 +80,7 @@
      "gloss": "doubt"
     }
    ],
-   "gloss": "doubt"
+   "gloss": "doubt or suspicion"
   },
   {
    "surface": "தரும்",
@@ -88,16 +88,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will yield"
+     "gloss": "will give"
     }
    ],
-   "gloss": "will yield"
+   "gloss": "will give or bring"
   }
  ],
- "literal": "Unlearned having undertaken behaving flaw to be removed even that which is mastered doubt will yield",
- "translation": "Pretending to possess knowledge one has not learned will cast doubt even upon the subjects one has mastered flawlessly.",
- "modern": "படிக்காதவற்றைப் படித்ததாகக் காட்டிக்கொண்டு நடப்பது, ஒருவன் குற்றமறக் கற்று வல்லமையாக உள்ளவற்றின் மீதும் மற்றவர்களுக்குச் சந்தேகத்தை ஏற்படுத்தும்.",
- "explanation": "This couplet warns against the pretense of knowledge. When an ignorant person pretends to know things they have not actually learned, their behavior exposes their deceit. Consequently, others will begin to doubt even the genuine skills and knowledge that the person has mastered flawlessly. The word 'வல்லதூஉம்' uses a poetic elongation to emphasize that absolutely everything they are truly capable of becomes suspect.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Behaving by undertaking things not learned, even that which one is thoroughly skilled in will bring doubt.",
+ "translation": "Pretending to practice what one has not learned will cast doubt even on the things one is truly skilled in.",
+ "modern": "தான் கற்காதவற்றை அறிந்தவர் போல மேற்கொண்டு நடப்பது, ஒருவன் குற்றமறக் கற்றுத் தேர்ந்தவற்றின் மீதும் மற்றவர்களுக்கு ஐயத்தை உண்டாக்கும்.",
+ "explanation": "This couplet warns against the folly of pretending to possess knowledge or skills that one has not actually learned. When a person falsely undertakes tasks beyond their knowledge, they expose their ignorance. This pretense is so damaging that it ruins their overall credibility. Consequently, even in fields where they are genuinely and flawlessly skilled, others will begin to look upon them with doubt and suspicion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

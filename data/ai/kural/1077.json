@@ -4,28 +4,29 @@
    "surface": "ஈர்ங்கை",
    "parts": [
     {
-     "text": "ஈர்ம்",
-     "lemma": "ஈர்ம்",
-     "gloss": "wet"
-    },
-    {
-     "text": "கை",
-     "lemma": "கை",
-     "gloss": "hand"
+     "text": "ஈர்ங்கை",
+     "lemma": "ஈர்ங்கை",
+     "gloss": "wet hand (from eating)"
     }
    ],
-   "gloss": "wet hand"
+   "gloss": "wet hand (from eating)",
+   "split_unverified": true
   },
   {
    "surface": "விதிரார்",
    "parts": [
     {
-     "text": "விதிரார்",
+     "text": "விதிர்",
      "lemma": "விதிர்",
-     "gloss": "they will not shake off"
+     "gloss": "shake"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they will not (negative suffix)"
     }
    ],
-   "gloss": "they will not shake off"
+   "gloss": "they will not shake or flick"
   },
   {
    "surface": "கயவர்",
@@ -36,7 +37,7 @@
      "gloss": "base people"
     }
    ],
-   "gloss": "base people"
+   "gloss": "base or mean people"
   },
   {
    "surface": "கொடிறு",
@@ -55,10 +56,10 @@
     {
      "text": "உடைக்கும்",
      "lemma": "உடை",
-     "gloss": "who break"
+     "gloss": "that will break"
     }
    ],
-   "gloss": "who break"
+   "gloss": "breaking"
   },
   {
    "surface": "கூன்கையர்",
@@ -66,15 +67,15 @@
     {
      "text": "கூன்",
      "lemma": "கூன்",
-     "gloss": "bent"
+     "gloss": "bent or clenched"
     },
     {
      "text": "கையர்",
      "lemma": "கை",
-     "gloss": "hand-people"
+     "gloss": "those with hands"
     }
    ],
-   "gloss": "people with clenched fists"
+   "gloss": "those with clenched fists"
   },
   {
    "surface": "அல்லாதவர்க்கு",
@@ -85,18 +86,18 @@
      "gloss": "those who are not"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative)"
     }
    ],
    "gloss": "to those who are not"
   }
  ],
- "literal": "Wet hand they will not shake off base people, jaw who break bent hand-people to those who are not.",
- "translation": "The base will not even shake the water off their wet hands for anyone, except to those with clenched fists who will break their jaws.",
- "modern": "தங்கள் தாடையை உடைக்கும்படி முறுக்கிய கைகளை உடையவர்களுக்கு அன்றி, மற்றவர்களுக்குக் கயவர்கள் தங்கள் ஈரக்கையிலிருந்து ஒரு துளி நீரைக்கூட உதற மாட்டார்கள்.",
- "explanation": "This couplet vividly illustrates the extreme stinginess and cowardice of base people. The phrase 'ஈர்ங்கை விதிரார்' (they will not shake their wet hands) means they will not even let a drop of water fall from their washed hands if it might benefit someone else. However, they will readily yield to 'கொடிறு உடைக்கும் கூன்கையர்' (those with clenched fists who break jaws). The base only give or show respect out of physical fear and violence, never out of generosity or goodwill.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Wet hand will not shake base people jaw breaking clenched-fisted-ones except to those.",
+ "translation": "Mean people will not even shake the leftover food from their wet hands for anyone, except for those who would break their jaws with a clenched fist.",
+ "modern": "கயவர்கள் தங்களுக்குக் குத்துவிடக் கை ஓங்கும் வன்முறையாளர்களுக்கு அன்றி, மற்றவர்களுக்குத் தாங்கள் சாப்பிட்டு முடித்த ஈரக் கையைக்கூட உதற மாட்டார்கள்.",
+ "explanation": "This couplet satirizes the nature of base or mean-minded people. They are so utterly miserly that they will not even shake the moisture or leftover food grains from their wet hands to help a needy person. However, they will readily yield and give away everything to those who threaten them with clenched fists and are ready to break their jaws. The poet contrasts the utter stinginess of the base towards the polite with their instant submission to physical force.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "கல்",
      "lemma": "கல்",
-     "gloss": "to learn"
+     "gloss": "learn"
     },
     {
      "text": "க",
@@ -22,10 +22,10 @@
     {
      "text": "கசடு",
      "lemma": "கசடு",
-     "gloss": "flaw"
+     "gloss": "fault or defect"
     }
    ],
-   "gloss": "flaw"
+   "gloss": "fault or defect"
   },
   {
    "surface": "அற",
@@ -33,7 +33,7 @@
     {
      "text": "அறு",
      "lemma": "அறு",
-     "gloss": "to be severed"
+     "gloss": "to cease or be removed"
     },
     {
      "text": "அ",
@@ -41,29 +41,40 @@
      "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to be removed"
+   "gloss": "so as to be removed"
   },
   {
    "surface": "கற்பவை",
    "parts": [
     {
      "text": "கற்பவை",
-     "lemma": "கல்",
-     "gloss": "things to be learned"
+     "lemma": "கற்பவை",
+     "gloss": "those things worthy of being learned"
     }
    ],
-   "gloss": "things to be learned"
+   "gloss": "those things worthy of being learned",
+   "split_unverified": true
   },
   {
    "surface": "கற்ற",
    "parts": [
     {
-     "text": "கற்ற",
+     "text": "கல்",
      "lemma": "கல்",
-     "gloss": "learned"
+     "gloss": "learn"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "learned"
+   "gloss": "that were learned"
   },
   {
    "surface": "பின்",
@@ -82,7 +93,7 @@
     {
      "text": "நில்",
      "lemma": "நில்",
-     "gloss": "to stand"
+     "gloss": "stand or abide"
     },
     {
      "text": "க",
@@ -90,18 +101,19 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "let one stand"
+   "gloss": "let one stand or abide"
   },
   {
    "surface": "அதற்கு",
    "parts": [
     {
      "text": "அதற்கு",
-     "lemma": "அது",
+     "lemma": "அதற்கு",
      "gloss": "to that"
     }
    ],
-   "gloss": "to that"
+   "gloss": "to that",
+   "split_unverified": true
   },
   {
    "surface": "தக",
@@ -109,7 +121,7 @@
     {
      "text": "தகு",
      "lemma": "தகு",
-     "gloss": "to be fit"
+     "gloss": "be fit or worthy"
     },
     {
      "text": "அ",
@@ -120,10 +132,10 @@
    "gloss": "fittingly"
   }
  ],
- "literal": "Let one learn flaw to be removed things to be learned learned after let one stand to that fittingly",
- "translation": "Learn flawlessly whatever is worth learning. After learning, stand true to what you have learned.",
- "modern": "கற்க வேண்டியவற்றை எந்தக் குறையும் இல்லாமல் கற்க வேண்டும். அப்படிப் படித்த பிறகு, அந்தப் படிப்புக்கு ஏற்றபடி நடக்க வேண்டும்.",
- "explanation": "This couplet defines the true purpose of education. First, it urges the learner to study worthy subjects thoroughly and without any misunderstanding. Second, and more importantly, it demands that the learner's conduct matches the knowledge they have acquired. Learning is incomplete unless it transforms one's character and actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Learn flawlessly those things worthy of being learned; after learning, stand in accordance with that.",
+ "translation": "Learn thoroughly and without error what is worthy of being learned; and having learned, let your conduct be worthy of your learning.",
+ "modern": "கற்க வேண்டியவற்றைத் தங்கு தடையின்றித் தெளிவாகக் கற்க வேண்டும்; அவ்வாறு கற்ற பிறகு, கற்ற கல்விக்கு ஏற்ப நல்வழியில் நடக்க வேண்டும்.",
+ "explanation": "This couplet outlines the complete path of true education. First, one must choose to learn only what is worthy and beneficial. Second, this learning must be done flawlessly (kacaṭaṟa), leaving no room for doubts or errors. Finally, the ultimate test of education is conduct; after learning (kaṟṟapin), one must live and act in perfect alignment (niṟka athaṟkuth thaka) with that knowledge.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

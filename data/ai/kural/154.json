@@ -6,7 +6,7 @@
     {
      "text": "நிறை",
      "lemma": "நிறை",
-     "gloss": "perfection"
+     "gloss": "fullness of character"
     },
     {
      "text": "உடைமை",
@@ -14,39 +14,29 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possession of perfection"
+   "gloss": "possession of fullness of character"
   },
   {
    "surface": "நீங்காமை",
    "parts": [
     {
-     "text": "நீங்கு",
-     "lemma": "நீங்கு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "text": "நீங்காமை",
+     "lemma": "நீங்காமை",
+     "gloss": "not departing"
     }
    ],
-   "gloss": "not leaving"
+   "gloss": "not departing"
   },
   {
    "surface": "வேண்டின்",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டின்",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one desires"
     }
    ],
-   "gloss": "if desired"
+   "gloss": "if one desires"
   },
   {
    "surface": "பொற்யுடைமை",
@@ -63,55 +53,40 @@
    "surface": "போற்றி",
    "parts": [
     {
-     "text": "போற்று",
+     "text": "போற்றி",
      "lemma": "போற்று",
-     "gloss": "to cherish"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "cherishing"
     }
    ],
-   "gloss": "having cherished"
+   "gloss": "cherishing"
   },
   {
    "surface": "ஒழுக",
    "parts": [
     {
-     "text": "ஒழுகு",
+     "text": "ஒழுக",
      "lemma": "ஒழுகு",
-     "gloss": "to conduct oneself"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to practice"
     }
    ],
-   "gloss": "to conduct oneself"
+   "gloss": "to practice"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to be required"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "is fit"
     }
    ],
-   "gloss": "is required"
+   "gloss": "is fit"
   }
  ],
- "literal": "Possession of perfection not leaving if desired, possession of forbearance having cherished to conduct oneself is required.",
- "translation": "If you desire your perfection of character to never leave you, you must cherish and practice forbearance.",
- "modern": "நிறைக்குணம் தம்மை விட்டு நீங்காமல் இருக்க வேண்டும் என்று ஒருவர் விரும்பினால், அவர் பொறுமையைப் போற்றிக் கடைப்பிடிக்க வேண்டும்.",
- "explanation": "This couplet teaches that true perfection of character cannot endure without patience. If one desires their inner completeness and goodness to never leave them, they must actively cherish and practice forbearance. The word 'niṟaiyuṭaimai' signifies the possession of a full, unblemished moral character. By using the word 'pōṟṟi', the poet emphasizes that patience is a precious treasure that must be carefully guarded and maintained in all actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Fullness of character not departing if one desires, possession of forbearance cherishing to practice is fit.",
+ "translation": "If one desires that fullness of character never departs from them, they must cherish and practice forbearance.",
+ "modern": "ஒருவர் தன்னிடம் உள்ள நிறைவான நற்பண்புகள் நீங்காமல் இருக்க விரும்பினால், அவர் பொறுமையைப் போற்றிப் பின்பற்ற வேண்டும்.",
+ "explanation": "This couplet highlights the relationship between self-control or moral completeness (நிறையுடைமை) and forbearance (பொறையுடைமை). The author states that if a person wishes to retain their noble qualities and integrity without losing them, they must actively cherish and practice patience. Here, 'நிறை' refers to the abundance of good virtues and self-discipline, while 'பொறை' represents the capacity to endure wrongs. Thus, forbearance is presented as the essential protective shield that preserves all other virtues from slipping away.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

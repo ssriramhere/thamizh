@@ -20,18 +20,18 @@
      "gloss": "plough"
     }
    ],
-   "gloss": "plough"
+   "gloss": "plough (used metaphorically)"
   },
   {
    "surface": "உழவர்",
    "parts": [
     {
      "text": "உழவர்",
-     "lemma": "உழவர்",
+     "lemma": "உழவன்",
      "gloss": "ploughmen"
     }
    ],
-   "gloss": "ploughmen"
+   "gloss": "ploughmen (warriors)"
   },
   {
    "surface": "பகை",
@@ -53,17 +53,12 @@
      "gloss": "take"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
+     "text": "இனும்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if incurring"
+   "gloss": "even if one incurs"
   },
   {
    "surface": "கொள்ளற்க",
@@ -76,7 +71,7 @@
     {
      "text": "அற்க",
      "lemma": "அற்க",
-     "gloss": "do not"
+     "gloss": "do not (negative optative)"
     }
    ],
    "gloss": "do not incur"
@@ -101,18 +96,18 @@
      "gloss": "plough"
     }
    ],
-   "gloss": "plough"
+   "gloss": "plough (used metaphorically)"
   },
   {
    "surface": "உழவர்",
    "parts": [
     {
      "text": "உழவர்",
-     "lemma": "உழவர்",
+     "lemma": "உழவன்",
      "gloss": "ploughmen"
     }
    ],
-   "gloss": "ploughmen"
+   "gloss": "ploughmen (scholars/counselors)"
   },
   {
    "surface": "பகை",
@@ -126,10 +121,10 @@
    "gloss": "enmity"
   }
  ],
- "literal": "Bow plough ploughmen enmity even if incurring, do not incur word plough ploughmen enmity.",
- "translation": "Even if you incur the enmity of those who plough with a bow, do not incur the enmity of those who plough with words.",
- "modern": "வில்லை ஏராகக் கொண்டு போர் செய்யும் வீரர்களின் பகையை அடைந்தாலும் அடையலாம், ஆனால் சொற்களை ஏராகக் கொண்டு செயல்படும் அறிஞர்களின் பகையை ஒருபோதும் அடையக்கூடாது.",
- "explanation": "The couplet uses a striking agricultural metaphor to compare warriors and wise counselors. Warriors are described as ploughmen whose plough is the bow, while scholars and strategists are ploughmen whose plough is the word. It advises that while surviving the physical hostility of armed foes might be possible, making enemies of those who wield words and intellect will lead to certain ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if you incur the enmity of those who plough with the bow, do not incur the enmity of those who plough with words.",
+ "translation": "Even if you must brave the enmity of warriors who plough with the bow, never court the enmity of scholars and counselors who plough with words.",
+ "modern": "வில்லை ஏராகக் கொண்ட வீரர்களின் பகையைப் பெற்றாலும், சொல்லை ஏராகக் கொண்ட அறிஞர்களின் பகையைப் பெறக் கூடாது.",
+ "explanation": "This couplet uses a beautiful agricultural metaphor to compare physical power with intellectual power. Warriors are described as those who plough with the bow, using physical force to make their mark. Scholars, diplomats, and counselors are described as those who plough with words, using intellect and communication. The poet warns that while physical warfare is dangerous, the strategic and lasting damage caused by the enmity of wise and eloquent thinkers is far more destructive and impossible to overcome.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

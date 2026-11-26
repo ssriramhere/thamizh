@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "in"
+     "gloss": "in (locative case marker)"
     },
     {
      "text": "உம்",
@@ -27,10 +27,10 @@
     {
      "text": "இன்னாது",
      "lemma": "இன்னாது",
-     "gloss": "is painful"
+     "gloss": "unpleasant/painful thing"
     }
    ],
-   "gloss": "it is painful"
+   "gloss": "is unpleasant"
   },
   {
    "surface": "மன்னோ",
@@ -38,15 +38,15 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "indeed (particle of emphasis)"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[expletive]"
+     "gloss": "alas (exclamatory particle)"
     }
    ],
-   "gloss": "alas"
+   "gloss": "indeed"
   },
   {
    "surface": "வினை",
@@ -54,7 +54,7 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "action/deed"
     }
    ],
    "gloss": "action"
@@ -97,11 +97,12 @@
    "parts": [
     {
      "text": "பட்டார்",
-     "lemma": "படு",
-     "gloss": "those who are"
+     "lemma": "பட்டார்",
+     "gloss": "those who have differed"
     }
    ],
-   "gloss": "those who are"
+   "gloss": "those who have differed",
+   "split_unverified": true
   },
   {
    "surface": "தொடர்பு",
@@ -109,16 +110,16 @@
     {
      "text": "தொடர்பு",
      "lemma": "தொடர்பு",
-     "gloss": "friendship"
+     "gloss": "friendship/connection"
     }
    ],
    "gloss": "friendship"
   }
  ],
- "literal": "Even in a dream, it is painful, alas! Action different, word different, those who are - [their] friendship.",
- "translation": "The friendship of those whose words differ from their deeds is painful even in a dream.",
- "modern": "சொல்லும் சொல்லும் செய்யும் செயலும் வெவ்வேறாக இருப்பவர்களின் நட்பு, கனவிலும் துன்பம் தருவதாகும்.",
- "explanation": "This couplet warns against the friendship of hypocrites. The phrase 'வினை வேறு சொல் வேறு பட்டார்' describes people whose actions are completely different from their words. The poet states that having a connection with such deceitful people is painful not just in waking life, but even in a dream. The particles 'மன்னோ' add a tone of certainty and sorrow to the pain caused by such false friends.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in a dream, is unpleasant indeed, the friendship of those who have differed in action and differed in word.",
+ "translation": "Even in a dream, friendship with those whose deeds differ from their words is bitter.",
+ "modern": "செய்யும் செயல் வேறாகவும், சொல்லும் சொல் வேறாகவும் இருப்பவர்களுடைய நட்பு, கனவிலும் துன்பத்தைத் தருவதாகும்.",
+ "explanation": "This couplet warns us against hypocritical friends whose actions do not match their words. The key phrase 'வினைவேறு சொல்வேறு பட்டார்' describes deceitful people who say one thing but do another. The poet emphasizes that their friendship ('தொடர்பு') is painful ('இன்னாது') not just in waking life, but even in a dream ('கனவினும்'). The emphatic particle 'மன்னோ' highlights how deeply harmful and undesirable such deceptive relationships truly are.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

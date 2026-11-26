@@ -6,15 +6,20 @@
     {
      "text": "சால்பு",
      "lemma": "சால்பு",
-     "gloss": "nobility"
+     "gloss": "nobility of character"
     },
     {
-     "text": "இற்கு",
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "oblique case marker"
+    },
+    {
+     "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "dative suffix (to/for)"
     }
    ],
-   "gloss": "to nobility"
+   "gloss": "for nobility of character"
   },
   {
    "surface": "கட்டளை",
@@ -22,7 +27,7 @@
     {
      "text": "கட்டளை",
      "lemma": "கட்டளை",
-     "gloss": "touchstone"
+     "gloss": "touchstone or test"
     }
    ],
    "gloss": "touchstone"
@@ -42,17 +47,12 @@
    "surface": "எனின்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "எனின்",
+     "lemma": "எனின்",
+     "gloss": "if you ask"
     }
    ],
-   "gloss": "if asked"
+   "gloss": "if you ask"
   },
   {
    "surface": "தோல்வி",
@@ -60,7 +60,7 @@
     {
      "text": "தோல்வி",
      "lemma": "தோல்வி",
-     "gloss": "defeat"
+     "gloss": "defeat or yielding"
     }
    ],
    "gloss": "defeat"
@@ -71,26 +71,21 @@
     {
      "text": "துலை",
      "lemma": "துலை",
-     "gloss": "equal"
+     "gloss": "equality or balance"
     }
    ],
-   "gloss": "equal"
+   "gloss": "equality"
   },
   {
    "surface": "அல்லார்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லார்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who are not"
     }
    ],
-   "gloss": "those who are not"
+   "gloss": "those who are not equals"
   },
   {
    "surface": "கண்ணும்",
@@ -98,7 +93,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place"
+     "gloss": "place or locative marker (with/from)"
     },
     {
      "text": "உம்",
@@ -112,23 +107,18 @@
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "to accept"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "accepting or adopting"
     }
    ],
    "gloss": "accepting"
   }
  ],
- "literal": "For nobility, touchstone what, if asked: defeat, equal those-who-are-not from-even, accepting.",
- "translation": "If asked what the touchstone of true nobility is, it is the willingness to accept defeat even from one's inferiors.",
- "modern": "சான்றாண்மைக்கு உரைகல் எது என்றால், தமக்குச் சமம் இல்லாதவர்களிடமும் தோல்வியை ஏற்றுக்கொள்வதாகும்.",
- "explanation": "This couplet defines the ultimate test of a noble character. The word 'கட்டளை' refers to a touchstone used to test the purity of gold, here representing the standard for testing nobility ('சால்பு'). The true measure of such greatness is the humility to accept defeat ('தோல்வி கொளல்'). Crucially, this defeat is accepted not just from equals or superiors, but even from those who are not one's equal ('துலை அல்லார்'), demonstrating profound modesty and the absence of ego.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For nobility of character, the touchstone what if you ask, defeat even from those who are not equals accepting.",
+ "translation": "If you ask what is the touchstone of perfect character, it is accepting defeat even from those who are not one's equals.",
+ "modern": "சான்றாண்மைக்கு உரைகல் எதுவென்றால், தமக்குச் சமமில்லாத தாழ்ந்தவர்களிடமிருந்தும் தோல்வியை ஒப்புக்கொள்வதாகும்.",
+ "explanation": "This couplet defines the ultimate test of a person's noble character. The word 'கட்டளை' refers to a touchstone, which is used to test the purity of gold. The author states that the true test of nobility ('சால்பு') is one's willingness to accept defeat ('தோல்வி கொளல்') even when dealing with those who are not their equals ('துலையல்லார்'). Instead of using power, status, or intellect to crush an inferior opponent, a truly noble person shows greatness by yielding with grace and humility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

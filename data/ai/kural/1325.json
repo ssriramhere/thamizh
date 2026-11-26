@@ -10,19 +10,19 @@
     },
     {
      "text": "இலர்",
-     "lemma": "இல்",
-     "gloss": "without-they"
+     "lemma": "இலர்",
+     "gloss": "they do not have"
     }
    ],
-   "gloss": "they are without fault"
+   "gloss": "those who are without fault"
   },
   {
    "surface": "ஆயினும்",
    "parts": [
     {
      "text": "ஆயின்",
-     "lemma": "ஆகு",
-     "gloss": "if it is"
+     "lemma": "ஆயின்",
+     "gloss": "even if"
     },
     {
      "text": "உம்",
@@ -30,7 +30,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "தாம்வீழ்வார்",
@@ -42,35 +42,43 @@
     },
     {
      "text": "வீழ்வார்",
-     "lemma": "வீழ்",
-     "gloss": "loved ones"
+     "lemma": "வீழ்தல்",
+     "gloss": "those who love"
     }
    ],
-   "gloss": "one's beloved"
+   "gloss": "those whom one loves"
   },
   {
    "surface": "மென்றோள்",
    "parts": [
     {
-     "text": "மென்றோள்",
-     "lemma": "மென்றோள்",
-     "gloss": "soft shoulder"
+     "text": "மென்",
+     "lemma": "மென்மை",
+     "gloss": "soft"
+    },
+    {
+     "text": "தோள்",
+     "lemma": "தோள்",
+     "gloss": "shoulder"
     }
    ],
-   "gloss": "soft shoulder",
-   "split_unverified": true
+   "gloss": "soft shoulders"
   },
   {
    "surface": "அகறலின்",
    "parts": [
     {
-     "text": "அகறலின்",
-     "lemma": "அகறலின்",
-     "gloss": "from separating"
+     "text": "அகறல்",
+     "lemma": "அகறல்",
+     "gloss": "separating"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "from"
     }
    ],
-   "gloss": "from separating",
-   "split_unverified": true
+   "gloss": "from departing"
   },
   {
    "surface": "ஆங்கு",
@@ -81,7 +89,7 @@
      "gloss": "there"
     }
    ],
-   "gloss": "there"
+   "gloss": "in that state"
   },
   {
    "surface": "ஒன்று",
@@ -92,24 +100,24 @@
      "gloss": "one thing"
     }
    ],
-   "gloss": "a certain thing"
+   "gloss": "a certain pleasure"
   },
   {
    "surface": "உடைத்து",
    "parts": [
     {
      "text": "உடைத்து",
-     "lemma": "உடைமை",
+     "lemma": "உடைத்து",
      "gloss": "it possesses"
     }
    ],
    "gloss": "it has"
   }
  ],
- "literal": "Faultless they are even if, oneself-loved ones' soft shoulders from separating, there one thing it has.",
- "translation": "Even when there is no fault, stepping away from the soft shoulders of one's beloved holds a certain sweet charm.",
- "modern": "காதலர்கள் மீது எந்தத் தவறும் இல்லை என்றாலும், தாம் விரும்பும் காதலியின் மென்மையான தோள்களை விட்டுச் சற்று விலகி ஊடுவதில் ஒரு தனி இன்பம் இருக்கிறது.",
- "explanation": "This couplet captures the paradoxical joy of a lovers' quarrel. The speaker notes that even when neither partner has committed any fault, feigning a quarrel and stepping away from the beloved's soft embrace brings its own unique pleasure. The phrase 'one thing it has' delicately hints at the sweet anticipation of reuniting after a brief, playful separation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even though they are without fault, from departing the soft shoulders of those whom one loves, in that state a certain pleasure it possesses.",
+ "translation": "Even though they are free of any fault, separating from the soft shoulders of the one we love has a unique pleasure of its own.",
+ "modern": "அவர்கள் எந்தத் தவறும் செய்யாதவர் என்றாலும், நாம் விரும்பும் காதலியின் மென்மையான தோள்களை விட்டு விலகி இருப்பதில் ஒரு தனி இன்பம் இருக்கிறது.",
+ "explanation": "This couplet highlights the sweet nature of feigned anger and temporary separation in love. The speaker explains that even when the beloved has done nothing wrong, there is a distinct, delightful pleasure in staying away from her soft shoulders for a brief moment. This distance is not caused by actual conflict, but is a playful pause that makes their eventual reunion even more joyful.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

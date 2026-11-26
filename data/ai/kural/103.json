@@ -6,7 +6,7 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "benefit"
+     "gloss": "benefit/return"
     }
    ],
    "gloss": "benefit"
@@ -15,23 +15,33 @@
    "surface": "தூக்கார்",
    "parts": [
     {
-     "text": "தூக்கார்",
+     "text": "தூக்கு",
      "lemma": "தூக்கு",
-     "gloss": "weigh-not-they"
+     "gloss": "weigh/calculate"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who (negative personal suffix)"
     }
    ],
-   "gloss": "weighing-not-they"
+   "gloss": "those who do not weigh or calculate"
   },
   {
    "surface": "செய்த",
    "parts": [
     {
-     "text": "செய்த",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "done"
+     "gloss": "do/render"
+    },
+    {
+     "text": "த",
+     "lemma": "அ",
+     "gloss": "past relative participle suffix"
     }
    ],
-   "gloss": "done"
+   "gloss": "done/rendered"
   },
   {
    "surface": "உதவி",
@@ -39,7 +49,7 @@
     {
      "text": "உதவி",
      "lemma": "உதவி",
-     "gloss": "help"
+     "gloss": "help/assistance"
     }
    ],
    "gloss": "help"
@@ -50,21 +60,26 @@
     {
      "text": "நயன்",
      "lemma": "நயம்",
-     "gloss": "excellence"
+     "gloss": "goodness/value"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "goodness/value"
   },
   {
    "surface": "தூக்கின்",
    "parts": [
     {
-     "text": "தூக்கின்",
+     "text": "தூக்கு",
      "lemma": "தூக்கு",
-     "gloss": "weigh-if"
+     "gloss": "weigh/evaluate"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if weighed"
+   "gloss": "if one evaluates"
   },
   {
    "surface": "நன்மை",
@@ -72,10 +87,10 @@
     {
      "text": "நன்மை",
      "lemma": "நன்மை",
-     "gloss": "goodness"
+     "gloss": "greatness/goodness"
     }
    ],
-   "gloss": "goodness"
+   "gloss": "greatness"
   },
   {
    "surface": "கடலின்",
@@ -83,15 +98,15 @@
     {
      "text": "கடல்",
      "lemma": "கடல்",
-     "gloss": "sea"
+     "gloss": "ocean"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative case suffix)"
     }
    ],
-   "gloss": "than the sea"
+   "gloss": "than the ocean"
   },
   {
    "surface": "பெரிது",
@@ -99,16 +114,16 @@
     {
      "text": "பெரிது",
      "lemma": "பெரிது",
-     "gloss": "greater-it"
+     "gloss": "is greater"
     }
    ],
    "gloss": "is greater"
   }
  ],
- "literal": "Benefit weighing-not-they done help, excellence if-weighed, goodness sea-than is-greater.",
- "translation": "If one weighs the excellence of a help done by those who did not weigh the return benefit, its goodness is greater than the sea.",
- "modern": "தமக்கு என்ன பயன் கிடைக்கும் என்று ஆராயாமல் ஒருவர் செய்த உதவியின் சிறப்பை ஆராய்ந்து பார்த்தால், அதன் நன்மை கடலை விடப் பெரியதாகும்.",
- "explanation": "This couplet emphasizes the immense value of selfless help. The phrase 'பயன் தூக்கார்' refers to people who do not calculate the return benefit before helping. When someone evaluates the true excellence ('நயன்') of such unselfish assistance, they will find its inherent goodness ('நன்மை') to be vast. The poet uses the sea ('கடலின் பெரிது') as a metaphor to show that such pure generosity is boundless and greater than the ocean itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The benefit not-calculating done help, [its] goodness if-evaluated, greatness ocean-than is-greater.",
+ "translation": "If one evaluates the true worth of a help rendered by those who did not calculate the return benefit, its greatness is vaster than the ocean.",
+ "modern": "கைம்மாறு கருதாமல் ஒருவர் செய்த உதவியின் நன்மையை ஆராய்ந்து பார்த்தால், அதன் சிறப்பு கடலை விடப் பெரியதாகும்.",
+ "explanation": "This couplet explains the immeasurable value of selfless assistance. The word 'பயன்தூக்கார்' refers to those who act without weighing what they might get in return. When we analyze ('தூக்கின்') the inner worth ('நயன்') of such an unconditional act, we find that its spiritual and moral weight ('நன்மை') is far greater than the vastness of the ocean ('கடலின் பெரிது'). The poet uses the image of the ocean to show that selfless help transcends physical boundaries and calculations.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

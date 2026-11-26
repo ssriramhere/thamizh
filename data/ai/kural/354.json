@@ -17,10 +17,10 @@
     {
      "text": "உணர்வு",
      "lemma": "உணர்வு",
-     "gloss": "sense"
+     "gloss": "perception"
     }
    ],
-   "gloss": "sense"
+   "gloss": "perception"
   },
   {
    "surface": "எய்திய",
@@ -28,10 +28,10 @@
     {
      "text": "எய்திய",
      "lemma": "எய்து",
-     "gloss": "attained"
+     "gloss": "having attained"
     }
    ],
-   "gloss": "attained"
+   "gloss": "having attained"
   },
   {
    "surface": "கண்ணும்",
@@ -39,7 +39,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/time"
+     "gloss": "place or time"
     },
     {
      "text": "உம்",
@@ -54,8 +54,8 @@
    "parts": [
     {
      "text": "பயம்",
-     "lemma": "பயம்",
-     "gloss": "benefit"
+     "lemma": "பயன்",
+     "gloss": "benefit or fruit"
     }
    ],
    "gloss": "benefit"
@@ -65,8 +65,8 @@
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
-     "gloss": "is without"
+     "lemma": "இன்று",
+     "gloss": "is not"
     },
     {
      "text": "ஏ",
@@ -74,7 +74,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "is not indeed"
+   "gloss": "is indeed not"
   },
   {
    "surface": "மெய்",
@@ -93,21 +93,21 @@
     {
      "text": "உணர்வு",
      "lemma": "உணர்வு",
-     "gloss": "knowledge"
+     "gloss": "perception"
     }
    ],
-   "gloss": "knowledge"
+   "gloss": "perception"
   },
   {
    "surface": "இல்லாதவர்க்கு",
    "parts": [
     {
      "text": "இல்லாதவர்",
-     "lemma": "இல்",
-     "gloss": "those without"
+     "lemma": "இல்லாதவர்",
+     "gloss": "those who lack"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -115,10 +115,10 @@
    "gloss": "to those who lack"
   }
  ],
- "literal": "Five senses attained even when, benefit is not indeed, truth knowledge to those who lack.",
- "translation": "Even if one has attained mastery over the five senses, there is no benefit to those who lack the realization of truth.",
- "modern": "ஐம்புலன்களையும் அடக்கியாளும் திறனை அடைந்திருந்தாலும், உண்மையை உணரும் அறிவு இல்லாதவர்களுக்கு அதனால் எந்தப் பயனும் இல்லை.",
- "explanation": "The couplet contrasts the mastery of the physical senses with the realization of ultimate truth. The phrase 'ஐயுணர்வு' refers to the perception or mastery of the five senses, while 'மெய்யுணர்வு' denotes the knowledge of true reality. The text states that even if a person has successfully attained control over their five senses, this achievement yields no real benefit if they still lack the understanding of truth. Thus, sensory discipline is shown to be incomplete without the deeper realization of reality.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Five perception even when attained, benefit is indeed not, truth perception to those who lack.",
+ "translation": "Even if they have mastered the perception of all five senses, there is absolutely no benefit for those who lack the perception of the ultimate truth.",
+ "modern": "ஐம்புலன்களின் அறிவை முழுமையாகப் பெற்றிருந்த போதிலும், மெய்யறிவு இல்லாதவர்களுக்கு அதனால் எந்தப் பயனும் இல்லை.",
+ "explanation": "This couplet contrasts sensory perception with the realization of ultimate truth. 'ஐயுணர்வு' refers to the knowledge gained through the five physical senses. Even if a person achieves complete mastery over these senses, it is of no real benefit ('பயமின்றே') if they lack 'மெய்யுணர்வு', which is the direct perception of reality. True wisdom lies beyond mere sensory experience, in understanding the fundamental truth of existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

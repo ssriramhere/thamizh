@@ -11,42 +11,32 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "the great (acc.)"
+   "gloss": "the great ones (as object)"
   },
   {
    "surface": "பேணாது",
    "parts": [
     {
-     "text": "பேண்",
-     "lemma": "பேணு",
-     "gloss": "to respect"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "without"
+     "text": "பேணாது",
+     "lemma": "பேணுதல்",
+     "gloss": "without honoring"
     }
    ],
-   "gloss": "without respecting"
+   "gloss": "without respecting or honoring"
   },
   {
    "surface": "ஒழுகின்",
    "parts": [
     {
-     "text": "ஒழுகு",
-     "lemma": "ஒழுகு",
-     "gloss": "to behave"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "ஒழுகின்",
+     "lemma": "ஒழுகுதல்",
+     "gloss": "if one behaves"
     }
    ],
-   "gloss": "if behaves"
+   "gloss": "if one conducts oneself"
   },
   {
    "surface": "பெரியாரால்",
@@ -59,26 +49,21 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "instrumental case marker (by)"
     }
    ],
-   "gloss": "by the great"
+   "gloss": "by those great ones"
   },
   {
    "surface": "பேரா",
    "parts": [
     {
-     "text": "பேர்",
-     "lemma": "பேர்",
-     "gloss": "to depart"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "பேரா",
+     "lemma": "பெயர்தல்",
+     "gloss": "undeparting"
     }
    ],
-   "gloss": "unceasing"
+   "gloss": "unremovable or endless"
   },
   {
    "surface": "இடும்பை",
@@ -86,32 +71,27 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "suffering"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress or suffering"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரு",
-     "lemma": "தா",
-     "gloss": "to give"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "text": "தரும்",
+     "lemma": "தருதல்",
+     "gloss": "will bring"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "The great without respecting if one behaves, by the great un-departing sorrow it will give.",
- "translation": "If one conducts oneself without respecting the great, it will bring unceasing sorrow caused by those very great ones.",
- "modern": "பெரியவர்களை மதிக்காமல் ஒருவன் நடந்துகொண்டால், அந்தப் பெரியவர்களால் அவனுக்கு ஒருபோதும் நீங்காத துன்பம் வந்து சேரும்.",
- "explanation": "This couplet warns against the danger of disrespecting people of great power or virtue. The phrase 'பேணாது ஒழுகின்' describes conducting oneself without showing due honor to such individuals. If one acts this way, it will result in 'பேரா இடும்பை', which means sorrow that does not depart or cease. The word 'பெரியாரால்' emphasizes that the great themselves, or the very act of offending them, will be the direct cause of this unending affliction.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one behaves without honoring the great ones, it will bring undeparting suffering by those great ones.",
+ "translation": "If one conducts oneself without respecting great people, it will bring endless, unremovable distress through those very great ones.",
+ "modern": "பெரியவர்களை மதிக்காமல் நடந்துகொண்டால், அந்தப் பெரியவர்களாலேயே நீங்காத துன்பம் உண்டாகும்.",
+ "explanation": "This couplet warns of the severe consequences of disrespecting or neglecting wise and powerful elders. If a person behaves without due regard or reverence for them, it triggers ruinous distress. This suffering is described as 'pērā', meaning it is permanent and cannot be easily removed or escaped. Crucially, this inescapable ruin is brought about by the power and influence of the very great ones who were offended.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

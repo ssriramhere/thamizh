@@ -4,20 +4,30 @@
    "surface": "இகழ்ந்து",
    "parts": [
     {
-     "text": "இகழ்ந்து",
+     "text": "இகழ்",
      "lemma": "இகழ்",
-     "gloss": "having despised"
+     "gloss": "despise"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "-ந்து",
+     "gloss": "having"
     }
    ],
-   "gloss": "having despised"
+   "gloss": "despising"
   },
   {
    "surface": "எள்ளாது",
    "parts": [
     {
-     "text": "எள்ளாது",
+     "text": "எள்",
      "lemma": "எள்",
-     "gloss": "without mocking"
+     "gloss": "mock"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "-ஆது",
+     "gloss": "without"
     }
    ],
    "gloss": "without mocking"
@@ -27,16 +37,16 @@
    "parts": [
     {
      "text": "ஈவார்",
-     "lemma": "ஈ",
-     "gloss": "those who give"
+     "lemma": "ஈவார்",
+     "gloss": "givers"
     },
     {
      "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "lemma": "-ஐ",
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "those who give (acc.)"
+   "gloss": "those who give"
   },
   {
    "surface": "காணின்",
@@ -48,22 +58,27 @@
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "-இன்",
      "gloss": "if"
     }
    ],
-   "gloss": "if seen"
+   "gloss": "if one sees"
   },
   {
    "surface": "மகிழ்ந்து",
    "parts": [
     {
-     "text": "மகிழ்ந்து",
+     "text": "மகிழ்",
      "lemma": "மகிழ்",
-     "gloss": "having rejoiced"
+     "gloss": "rejoice"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "-ந்து",
+     "gloss": "having"
     }
    ],
-   "gloss": "having rejoiced"
+   "gloss": "rejoicing"
   },
   {
    "surface": "உள்ளம்",
@@ -74,7 +89,7 @@
      "gloss": "mind"
     }
    ],
-   "gloss": "mind"
+   "gloss": "the mind"
   },
   {
    "surface": "உள்ளுள்",
@@ -97,11 +112,11 @@
    "parts": [
     {
      "text": "உவப்பது",
-     "lemma": "உவ",
-     "gloss": "that which delights"
+     "lemma": "உவப்பது",
+     "gloss": "rejoicing"
     }
    ],
-   "gloss": "rejoicing"
+   "gloss": "delighting"
   },
   {
    "surface": "உடைத்து",
@@ -109,16 +124,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   }
  ],
- "literal": "Despising (and) without mocking, those who give (acc.) if seen, having rejoiced, mind inside-inside rejoicing it possesses.",
- "translation": "If one sees those who give without scorn or mockery, the mind will rejoice and feel delight deep within.",
- "modern": "தன்னை இகழ்ந்து ஏளனம் செய்யாமல் பொருள் கொடுப்பவரைக் கண்டால், இரப்பவரின் உள்ளம் மகிழ்ந்து தனக்குள்ளே பெருமகிழ்ச்சி அடையும்.",
- "explanation": "This couplet describes the profound joy of a person in need when they encounter a truly gracious giver. The words 'இகழ்ந்து' (scorning) and 'எள்ளாது' (without mocking) highlight the usual humiliation associated with asking for help. In Tamil syntax, the negative in the second word applies to the first as well, meaning 'without scorning and mocking'. When a giver provides without this disdain, the receiver's reaction is not just relief, but deep emotional happiness. The repetition in 'உள்ளுள்' (deep within) emphasizes that this joy penetrates to the very core of their heart, restoring their dignity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without despising and mocking, those who give if one sees, rejoicing, the mind deep within delighting possesses.",
+ "translation": "If one meets givers who give without despising or mocking, the mind rejoices and feels a deep, inward delight.",
+ "modern": "இகழ்ந்து ஒதுக்காமலும் எள்ளி நகையாடாமலும் கொடை கொடுப்பவரைக் கண்டால், இரப்பவரின் உள்ளம் மகிழ்ந்து தன் ஆழத்திற்குள் இன்பமடையும் தன்மை உடையதாகும்.",
+ "explanation": "This couplet highlights the emotional experience of a person in need when they encounter a truly respectful giver. The words 'இகழ்ந்து' (despising) and 'எள்ளாது' (without mocking) describe the ideal attitude of a benefactor who does not look down upon the beggar. When such dignified givers are found ('காணின்'), the seeker's mind ('உள்ளம்') does not just feel superficial relief; it rejoices ('மகிழ்ந்து') and experiences a profound, secret joy deep within ('உள்ளுள் உவப்பது உடைத்து'). The poet emphasizes that the manner of giving is far more valuable than the material gift itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

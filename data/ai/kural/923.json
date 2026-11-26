@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "ஈன்றாள்",
-     "lemma": "ஈன்",
-     "gloss": "she who bore (mother)"
+     "lemma": "ஈன்றாள்",
+     "gloss": "mother (she who gave birth)"
     }
    ],
    "gloss": "mother"
@@ -15,23 +15,38 @@
    "surface": "முகத்தேயும்",
    "parts": [
     {
-     "text": "முகத்தேயும்",
+     "text": "முகத்து",
      "lemma": "முகம்",
-     "gloss": "even in the presence"
+     "gloss": "face"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "emphasis"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even in the presence"
+   "gloss": "even in the face of"
   },
   {
    "surface": "இன்னாதால்",
    "parts": [
     {
-     "text": "இன்னாதால்",
-     "lemma": "இன்னாமை",
-     "gloss": "it is unpleasant"
+     "text": "இன்னாது",
+     "lemma": "இன்னாது",
+     "gloss": "unpleasant thing"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "indeed (particle)"
     }
    ],
-   "gloss": "it is unpleasant"
+   "gloss": "is unpleasant indeed"
   },
   {
    "surface": "என்",
@@ -50,7 +65,7 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "then"
+     "gloss": "then / otherwise"
     }
    ],
    "gloss": "then"
@@ -60,11 +75,11 @@
    "parts": [
     {
      "text": "சான்றோர்",
-     "lemma": "சால்பு",
-     "gloss": "the noble"
+     "lemma": "சான்றோர்",
+     "gloss": "noble/virtuous people"
     }
    ],
-   "gloss": "the noble"
+   "gloss": "of the noble"
   },
   {
    "surface": "முகத்து",
@@ -72,10 +87,10 @@
     {
      "text": "முகத்து",
      "lemma": "முகம்",
-     "gloss": "in the presence"
+     "gloss": "in the face of"
     }
    ],
-   "gloss": "in the presence"
+   "gloss": "in the face of"
   },
   {
    "surface": "களி",
@@ -83,16 +98,16 @@
     {
      "text": "களி",
      "lemma": "களி",
-     "gloss": "intoxication"
+     "gloss": "drunkenness / intoxication"
     }
    ],
-   "gloss": "intoxication"
+   "gloss": "drunkenness"
   }
  ],
- "literal": "Even in the presence of the mother who bore one, it is unpleasant; what then of intoxication in the presence of the noble?",
- "translation": "Drunkenness is painful even in the presence of one's own mother. How much worse will it be before the wise?",
- "modern": "பெற்ற தாயின் முன்னிலையிலும் குடிப்பழக்கம் துன்பம் தருவதாகும்; அப்படியிருக்க, சான்றோர்களின் முன்னிலையில் குடித்து மயங்குவது பற்றி என்ன சொல்வது?",
- "explanation": "This couplet highlights the universal disgrace of drunkenness. A mother's love is naturally forgiving and unconditional, yet even she finds her child's intoxication painful and repulsive. The poet uses this extreme example to ask a rhetorical question: if even a mother cannot bear the sight of drunkenness, how much more offensive will it be to the wise and noble, who judge by virtue and reason? The word 'களி' (intoxication) is contrasted with the presence of 'சான்றோர்' (the noble) to emphasize the incompatibility of vice and virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in the face of the mother who gave birth, [drunkenness] is unpleasant indeed; what then [will it be] in the face of the noble?",
+ "translation": "If drunkenness is offensive even in the presence of one's own mother, how much more shameful must it be in the presence of the wise and noble?",
+ "modern": "பெற்ற தாயின் முன்னிலையிலேயே மது மயக்கம் வெறுக்கத்தக்கது என்றால், அறிவு ஒழுக்கங்களில் சிறந்த சான்றோர்களின் முன்னிலையில் அது எவ்வளவு இழிவானதாக இருக்கும்?",
+ "explanation": "This couplet highlights the absolute disgrace of intoxication by comparing its effect on two highly respected figures: one's mother and the wise. A mother's love is unconditional, yet even she cannot bear to look at her child in a drunken state; it brings her pain and disgust. If the most forgiving person finds it intolerable, the couplet asks rhetorically, how much worse will it appear to the noble and virtuous ('சான்றோர்') who judge by high moral standards? Thus, the poet emphasizes that drunkenness destroys one's dignity in the eyes of everyone, from closest family to society's finest.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

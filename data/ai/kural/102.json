@@ -5,19 +5,30 @@
    "parts": [
     {
      "text": "காலத்தினால்",
-     "lemma": "காலம்",
-     "gloss": "at the appropriate time"
+     "lemma": "காலத்தினால்",
+     "gloss": "at the crucial time of need"
     }
    ],
-   "gloss": "at the appropriate time"
+   "gloss": "at the crucial time of need",
+   "split_unverified": true
   },
   {
    "surface": "செய்த",
    "parts": [
     {
-     "text": "செய்த",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "done"
+     "gloss": "do"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival participle suffix"
     }
    ],
    "gloss": "done"
@@ -28,7 +39,7 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "help"
+     "gloss": "help or favor"
     }
    ],
    "gloss": "help"
@@ -39,7 +50,7 @@
     {
      "text": "சிறிது",
      "lemma": "சிறிது",
-     "gloss": "small"
+     "gloss": "small thing"
     }
    ],
    "gloss": "small"
@@ -49,29 +60,30 @@
    "parts": [
     {
      "text": "எனினும்",
-     "lemma": "எனின்",
-     "gloss": "even if"
+     "lemma": "எனினும்",
+     "gloss": "even though"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "ஞாலத்தின்",
    "parts": [
     {
      "text": "ஞாலத்தின்",
-     "lemma": "ஞாலம்",
+     "lemma": "ஞாலத்தின்",
      "gloss": "than the world"
     }
    ],
-   "gloss": "than the world"
+   "gloss": "than the world",
+   "split_unverified": true
   },
   {
    "surface": "மாண",
    "parts": [
     {
      "text": "மாண",
-     "lemma": "மாண்",
+     "lemma": "மாண",
      "gloss": "greatly"
     }
    ],
@@ -83,16 +95,16 @@
     {
      "text": "பெரிது",
      "lemma": "பெரிது",
-     "gloss": "greater"
+     "gloss": "big thing"
     }
    ],
-   "gloss": "greater"
+   "gloss": "is larger"
   }
  ],
- "literal": "At the appropriate time done help, small even if, than the world greatly greater.",
- "translation": "A good deed done at the right time, even if small in measure, is vastly greater than the world.",
- "modern": "தக்க காலத்தில் செய்யப்பட்ட உதவி சிறியதாக இருந்தாலும், அது இந்த உலகத்தை விட மிகப் பெரியதாகும்.",
- "explanation": "This couplet emphasizes the immense value of timely help. The word 'காலத்தினால்' shows that the worth of a good deed is measured not by its physical size, but by the critical need of the moment. Therefore, even a small act of assistance rendered exactly when needed is considered far greater than the earth itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A help done at the crucial time, even though small, is greatly larger than the world.",
+ "translation": "A help rendered in the hour of need, though small in itself, is far larger than the world.",
+ "modern": "தகுந்த காலத்தில் செய்த உதவி சிறியதாக இருந்தாலும், அது உலகத்தை விட மிகவும் பெரியதாகும்.",
+ "explanation": "This couplet emphasizes that the value of an action is determined by its timing rather than its physical size. The word 'kālattināl' refers to help given at the exact moment of crisis or necessity. Even if such assistance is small ('siṟidu') in material terms, the fact that it saved someone in their hour of need makes it immeasurably vast. Therefore, its worth is declared to be far greater ('māṇap peridu') than the entire earth ('ñālattin').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -39,10 +39,10 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "fame"
+     "gloss": "reputation"
     }
    ],
-   "gloss": "fame"
+   "gloss": "reputation"
   },
   {
    "surface": "கல்வி",
@@ -61,10 +61,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "thus"
     }
    ],
-   "gloss": "saying thus"
+   "gloss": "thus"
   },
   {
    "surface": "ஐந்தும்",
@@ -77,10 +77,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "all"
+     "gloss": "and"
     }
    ],
-   "gloss": "all five"
+   "gloss": "all these five"
   },
   {
    "surface": "அடையாவாம்",
@@ -88,15 +88,15 @@
     {
      "text": "அடையா",
      "lemma": "அடை",
-     "gloss": "reach-not"
+     "gloss": "will not reach"
     },
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "will be"
+     "gloss": "will become"
     }
    ],
-   "gloss": "will not reach"
+   "gloss": "will not come to them"
   },
   {
    "surface": "ஆயம்",
@@ -115,21 +115,21 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "take"
+     "gloss": "take up"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "if"
     }
    ],
-   "gloss": "if one takes to"
+   "gloss": "if one takes up"
   }
  ],
- "literal": "Clothing, wealth, food, fame, learning, saying thus, all five, will not reach, gambling if one takes.",
- "translation": "Clothing, wealth, food, fame, and learning—all these five will elude one who takes to gambling.",
- "modern": "ஒருவன் சூதாட்டத்தை மேற்கொண்டால், உடை, செல்வம், உணவு, புகழ், கல்வி என்று சொல்லப்படும் ஐந்தும் அவனை வந்தடையாது.",
- "explanation": "This couplet lists five essential elements of a good life: clothing, wealth, food, fame, and education. The word 'oḷi' (literally light or brightness) is used here in the sense of fame or social respect, while 'āyam' refers to gambling. The poet warns that if a person engages in gambling, these five things will never reach them. Gambling strips a person not only of material necessities like food and clothes, but also of intangible assets like respect and learning.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Clothing, wealth, food, reputation, and learning—these five will not reach a person if they take up gambling.",
+ "translation": "Clothing, wealth, food, reputation, and learning—these five things will never belong to those who take up gambling.",
+ "modern": "ஒருவன் சூதாட்டத்தை மேற்கொண்டால், அவனுக்கு ஆடை, செல்வம், உணவு, புகழ், கல்வி ஆகிய ஐந்துமே வந்து சேரமாட்டா.",
+ "explanation": "This couplet lists five essential elements of a dignified and prosperous life: clothing (decency), wealth (security), food (sustenance), reputation (honor), and learning (wisdom). The author warns that if a person yields to the vice of gambling, represented here by the word 'āyam', they will lose all five. The word 'oḷi' is used here in the sense of reputation or luster, which is quickly ruined by the shame of gambling. Ultimately, the habit of gambling strips a person of both their material needs and their intellectual and social standing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

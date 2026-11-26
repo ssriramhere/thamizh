@@ -4,12 +4,17 @@
    "surface": "ஏந்திய",
    "parts": [
     {
-     "text": "ஏந்திய",
+     "text": "ஏந்து",
      "lemma": "ஏந்து",
-     "gloss": "exalted"
+     "gloss": "to uphold"
+    },
+    {
+     "text": "இய",
+     "lemma": "அ",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "exalted"
+   "gloss": "lofty / noble"
   },
   {
    "surface": "கொள்கையார்",
@@ -17,15 +22,15 @@
     {
      "text": "கொள்கை",
      "lemma": "கொள்கை",
-     "gloss": "principles"
+     "gloss": "principles / vows"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "those who have"
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "those of principles"
+   "gloss": "those who possess noble principles"
   },
   {
    "surface": "சீறின்",
@@ -33,15 +38,15 @@
     {
      "text": "சீறு",
      "lemma": "சீறு",
-     "gloss": "become enraged"
+     "gloss": "to rage / become angry"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "if"
     }
    ],
-   "gloss": "if enraged"
+   "gloss": "if they become angry"
   },
   {
    "surface": "இடை",
@@ -49,21 +54,26 @@
     {
      "text": "இடை",
      "lemma": "இடை",
-     "gloss": "middle"
+     "gloss": "middle / halfway"
     }
    ],
-   "gloss": "in the middle"
+   "gloss": "in the middle / halfway"
   },
   {
    "surface": "முரிந்து",
    "parts": [
     {
-     "text": "முரிந்து",
+     "text": "முரி",
      "lemma": "முரி",
-     "gloss": "having broken"
+     "gloss": "to break / snap"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "உ",
+     "gloss": "having (past participle)"
     }
    ],
-   "gloss": "having broken"
+   "gloss": "having broken / snapped"
   },
   {
    "surface": "வேந்தனும்",
@@ -79,7 +89,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even a king"
+   "gloss": "even the king"
   },
   {
    "surface": "வேந்து",
@@ -87,10 +97,10 @@
     {
      "text": "வேந்து",
      "lemma": "வேந்து",
-     "gloss": "kingship"
+     "gloss": "kingship / kingdom"
     }
    ],
-   "gloss": "kingship"
+   "gloss": "his kingship"
   },
   {
    "surface": "கெடும்",
@@ -98,7 +108,7 @@
     {
      "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "perish"
+     "gloss": "to perish / be ruined"
     },
     {
      "text": "உம்",
@@ -109,10 +119,10 @@
    "gloss": "will perish"
   }
  ],
- "literal": "Exalted principles-those if enraged, in the middle having broken, even a king kingship will perish.",
- "translation": "If those of exalted principles become enraged, even a king will break mid-way and lose his kingdom.",
- "modern": "உயர்ந்த கொள்கைகளை உடைய பெரியவர்கள் சினந்தால், ஒரு அரசனும் தன் இடையில் முறிந்து தன் அரச பதவியை இழந்து அழிவான்.",
- "explanation": "This couplet warns of the devastating consequences of angering people of high principles. The phrase 'ஏந்திய கொள்கையார்' refers to those who hold elevated, unwavering ideals. 'சீறின்' means if they hiss or become enraged, comparing their righteous anger to a snake's strike. The consequence is described vividly as 'இடை முரிந்து' (breaking in the middle), meaning the offender's life or reign will be snapped abruptly before its natural end. Even a powerful king ('வேந்தனும்') will lose his very kingship ('வேந்து கெடும்') if he incurs their wrath.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If those of lofty principles rage, even the king, breaking in the middle, his kingship will perish.",
+ "translation": "If men of lofty principles flare up in anger, even a mighty king will be broken midway and lose his kingdom.",
+ "modern": "உயர்ந்த கொள்கைகளை உடைய பெரியோர்கள் கோபமடைந்தால், பெரும் அரசனும்கூட நடுவிலேயே முறிந்து தன் அரசாட்சியை இழந்து அழிவான்.",
+ "explanation": "This couplet warns of the catastrophic consequences of provoking highly principled and self-controlled people. 'ஏந்திய கொள்கையார்' refers to those who steadfastly uphold noble vows and high moral principles. If such great people are driven to righteous anger ('சீறின்'), even a supreme ruler ('வேந்தனும்') will see his power snap in the middle ('இடைமுரிந்து') like a tree in a storm. Ultimately, both the king and his entire kingdom ('வேந்து') will be completely ruined.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

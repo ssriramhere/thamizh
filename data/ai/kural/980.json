@@ -6,21 +6,31 @@
     {
      "text": "அற்றம்",
      "lemma": "அற்றம்",
-     "gloss": "flaw"
+     "gloss": "vulnerability or secrets"
     }
    ],
-   "gloss": "flaw"
+   "gloss": "vulnerability or secrets of others"
   },
   {
    "surface": "மறைக்கும்",
    "parts": [
     {
-     "text": "மறைக்கும்",
+     "text": "மறை",
      "lemma": "மறை",
-     "gloss": "will hide"
+     "gloss": "hide"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (future/habitual suffix)"
     }
    ],
-   "gloss": "will hide"
+   "gloss": "will hide or cover"
   },
   {
    "surface": "பெருமை",
@@ -31,7 +41,7 @@
      "gloss": "greatness"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "greatness of character"
   },
   {
    "surface": "சிறுமை",
@@ -39,10 +49,10 @@
     {
      "text": "சிறுமை",
      "lemma": "சிறுமை",
-     "gloss": "meanness"
+     "gloss": "pettiness"
     }
    ],
-   "gloss": "meanness"
+   "gloss": "pettiness of character"
   },
   {
    "surface": "தான்",
@@ -61,23 +71,28 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "fault or flaw"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "only"
+     "gloss": "only (emphatic)"
     }
    ],
-   "gloss": "only the fault"
+   "gloss": "only the faults"
   },
   {
    "surface": "கூறி",
    "parts": [
     {
-     "text": "கூறி",
+     "text": "கூறு",
      "lemma": "கூறு",
-     "gloss": "having spoken"
+     "gloss": "speak"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having (past participle suffix)"
     }
    ],
    "gloss": "having spoken"
@@ -86,18 +101,23 @@
    "surface": "விடும்",
    "parts": [
     {
-     "text": "விடும்",
+     "text": "விடு",
      "lemma": "விடு",
-     "gloss": "will leave"
+     "gloss": "leave or release (auxiliary of completion)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (future/habitual suffix)"
     }
    ],
-   "gloss": "will certainly do"
+   "gloss": "will completely do"
   }
  ],
- "literal": "Flaw will-hide greatness, meanness indeed fault-only having-spoken will-leave.",
- "translation": "Greatness hides the flaws of others, but meanness will speak only of their faults.",
- "modern": "பெருமைக்குரியவர்கள் மற்றவர்களின் குறைகளை மறைப்பார்கள். ஆனால் சிறுமைக்குணம் கொண்டவர்கள் மற்றவர்களின் குற்றங்களையே கூறிக்கொண்டிருப்பார்கள்.",
- "explanation": "This couplet contrasts the behavior of the great and the mean-spirited towards others. The word 'aṟṟam' can mean an end or a secret, but here it specifically refers to a vulnerability or a flaw that should be kept private. True greatness chooses to cover and protect the weaknesses of others. In contrast, meanness actively seeks out and broadcasts only the faults of others, as emphasized by the exclusive particle 'ē' in 'kuṟṟamē'.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Vulnerability hides greatness; pettiness indeed faults only speaking will-do.",
+ "translation": "Greatness of character covers up the vulnerabilities of others, whereas pettiness does nothing but broadcast their faults.",
+ "modern": "பெருந்தன்மை பிறருடைய பலவீனங்களை மறைக்கும்; ஆனால் சிறுமைக்குணம் பிறருடைய குற்றங்களை மட்டுமே பிறருக்குச் சொல்லிக்கொண்டே இருக்கும்.",
+ "explanation": "This couplet contrasts the behavior of noble and petty minds. A person of greatness (perumai) possesses the magnanimity to shield and conceal the vulnerabilities or private weaknesses (aṟṟam) of others. On the other hand, a petty person (siṟumai) actively seeks out and broadcasts only the flaws (kuṟṟam) of others. The contrast highlights that nobility protects others' dignity, while pettiness thrives on exposing their shortcomings.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,26 +6,36 @@
     {
      "text": "கலங்கு",
      "lemma": "கலங்கு",
-     "gloss": "to be confused"
+     "gloss": "be confused"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
-   "gloss": "without confusion"
+   "gloss": "without being confused"
   },
   {
    "surface": "கண்ட",
    "parts": [
     {
-     "text": "கண்ட",
+     "text": "கண்",
      "lemma": "காண்",
-     "gloss": "decided"
+     "gloss": "determine"
+    },
+    {
+     "text": "ட்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "which (adjectival participle suffix)"
     }
    ],
-   "gloss": "decided"
+   "gloss": "which has been determined"
   },
   {
    "surface": "வினைக்கண்",
@@ -38,12 +48,12 @@
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "increment"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "in (locative case marker)"
     }
    ],
    "gloss": "in the action"
@@ -54,12 +64,12 @@
     {
      "text": "துளங்கு",
      "lemma": "துளங்கு",
-     "gloss": "to waver"
+     "gloss": "waver"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
    "gloss": "without wavering"
@@ -79,9 +89,14 @@
    "surface": "கடிந்து",
    "parts": [
     {
-     "text": "கடிந்து",
+     "text": "கடி",
      "lemma": "கடி",
-     "gloss": "having discarded"
+     "gloss": "discard"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "த்",
+     "gloss": "having (past participle suffix)"
     }
    ],
    "gloss": "having discarded"
@@ -92,21 +107,21 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "doing (verbal noun suffix)"
     }
    ],
-   "gloss": "should do"
+   "gloss": "to perform"
   }
  ],
- "literal": "Without confusion decided in the action, without wavering, delay having discarded, one should do.",
- "translation": "Once an action has been decided upon with a clear mind, one should execute it without wavering and without any delay.",
- "modern": "மனக்குழப்பம் இல்லாமல் ஆராய்ந்து முடிவு செய்த ஒரு செயலை, பின்பு எந்தத் தயக்கமும் இல்லாமல் காலதாமதத்தை விலக்கிச் செய்ய வேண்டும்.",
- "explanation": "This couplet emphasizes the importance of resolute execution once a decision is made. The word 'கலங்காது' (without confusion) describes the clear state of mind required when choosing a course of action. Once the deed is 'கண்ட' (decided or clearly seen), the focus shifts entirely to execution. The words 'துளங்காது' (without wavering) and 'தூக்கம் கடிந்து' (discarding delay) instruct the doer to act with unwavering firmness and promptness. Here, the word 'தூக்கம்' (which normally means sleep) is used in the specific sense of delay or procrastination.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without being confused, in the action determined, without wavering, delay having discarded, to perform.",
+ "translation": "Perform the action that has been clearly decided without any confusion, doing so without faltering and discarding all delay.",
+ "modern": "மனக்குழப்பம் இல்லாமல் ஆராய்ந்து முடிவு செய்த செயலை, சோர்வடையாமல், காலந்தாழ்த்துதலை நீக்கிச் செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the ideal execution of a chosen task. First, the action must be decided upon 'without confusion' (kalankātu kaṇṭa). Once decided, one must perform it 'without faltering' (tuḷaṅkātu) or wavering in resolve. Finally, the poet emphasizes 'discarding delay' (tūkkam kaṭintu), as procrastination can ruin even the best-planned efforts. The key words 'kalankātu' (unconfused) and 'tuḷaṅkātu' (unfaltering) show the progression from mental clarity to physical steadfastness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

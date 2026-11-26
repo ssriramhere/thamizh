@@ -20,7 +20,7 @@
      "gloss": "those who possess"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -43,11 +43,11 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்லை",
-     "gloss": "is not"
+     "lemma": "இல்",
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   },
   {
    "surface": "ஆங்கு",
@@ -55,21 +55,21 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "like that"
+     "gloss": "likewise"
     }
    ],
-   "gloss": "like that"
+   "gloss": "likewise"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்லை",
-     "gloss": "is not"
+     "lemma": "இல்",
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   },
   {
    "surface": "பொச்சாப்பு",
@@ -77,10 +77,10 @@
     {
      "text": "பொச்சாப்பு",
      "lemma": "பொச்சாப்பு",
-     "gloss": "negligence"
+     "gloss": "forgetfulness or negligence"
     }
    ],
-   "gloss": "negligence"
+   "gloss": "forgetfulness or negligence"
   },
   {
    "surface": "உடையார்க்கு",
@@ -91,7 +91,7 @@
      "gloss": "those who possess"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -103,17 +103,17 @@
    "parts": [
     {
      "text": "நன்கு",
-     "lemma": "நன்கு",
-     "gloss": "good"
+     "lemma": "நன்று",
+     "gloss": "goodness or benefit"
     }
    ],
-   "gloss": "good"
+   "gloss": "goodness or benefit"
   }
  ],
- "literal": "Fear to those who possess, fortress is not; like that is not, negligence to those who possess, good.",
- "translation": "Just as a fortress is of no use to those gripped by fear, there is no good for those who are negligent.",
- "modern": "அச்சம் உடையவர்களுக்கு அரண் இருந்தாலும் பயனில்லை. அதுபோலவே, கடமையை மறக்கும் சோர்வு உடையவர்களுக்கு எந்த நன்மையும் இல்லை.",
- "explanation": "This couplet draws a direct comparison between fear and negligence. A strong fortress cannot protect soldiers who are paralyzed by fear, because their internal weakness renders the external defense useless. In the exact same way, no amount of external advantage can bring success to those who are negligent. The word poccappu means a lapse in attention or forgetfulness, an internal flaw that undermines all other strengths.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who have fear, there is no fortress; likewise, there is no good to those who have forgetfulness.",
+ "translation": "Just as there is no fortress that can protect those who are fearful, there is no good that can come to those who are negligent.",
+ "modern": "அச்சம் உடையவர்களுக்குப் பாதுகாப்புத் தரும் அரண் என்று எதுவும் இல்லை; அதுபோல, மறதியும் அலட்சியமும் உடையவர்களுக்கு எந்த நன்மையும் உண்டாவதில்லை.",
+ "explanation": "This couplet uses a powerful analogy to warn against negligence or forgetfulness (பொச்சாப்பு). A person who is constantly gripped by fear cannot find safety even within a mighty fortress, because their own mind defeats them. Similarly, a person who is careless and forgetful can never achieve any lasting good or success, regardless of their opportunities. The poet emphasizes that internal discipline and alertness are far more critical than external circumstances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

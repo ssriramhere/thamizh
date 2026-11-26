@@ -6,10 +6,10 @@
     {
      "text": "முற்று",
      "lemma": "முற்று",
-     "gloss": "all"
+     "gloss": "siege"
     }
    ],
-   "gloss": "all"
+   "gloss": "siege"
   },
   {
    "surface": "ஆற்றி",
@@ -17,23 +17,28 @@
     {
      "text": "ஆற்றி",
      "lemma": "ஆற்று",
-     "gloss": "having gathered"
+     "gloss": "having performed"
     }
    ],
-   "gloss": "having gathered"
+   "gloss": "performing"
   },
   {
    "surface": "முற்றியவரையும்",
    "parts": [
     {
-     "text": "முற்றியவர்",
+     "text": "முற்றி",
      "lemma": "முற்று",
-     "gloss": "those who besieged"
+     "gloss": "having besieged"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "those who"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[accusative]"
+     "gloss": "accusative case marker"
     },
     {
      "text": "உம்",
@@ -41,7 +46,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even those who besieged"
+   "gloss": "even those who have besieged"
   },
   {
    "surface": "பற்று",
@@ -49,10 +54,10 @@
     {
      "text": "பற்று",
      "lemma": "பற்று",
-     "gloss": "position"
+     "gloss": "defense or stronghold"
     }
    ],
-   "gloss": "position"
+   "gloss": "defense"
   },
   {
    "surface": "ஆற்றி",
@@ -60,32 +65,42 @@
     {
      "text": "ஆற்றி",
      "lemma": "ஆற்று",
-     "gloss": "having secured"
+     "gloss": "having sustained"
     }
    ],
-   "gloss": "having secured"
+   "gloss": "sustaining"
   },
   {
    "surface": "பற்றியார்",
    "parts": [
     {
-     "text": "பற்றியார்",
+     "text": "பற்றி",
      "lemma": "பற்று",
-     "gloss": "those who held"
+     "gloss": "having held fast"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those who held"
+   "gloss": "those who hold fast (the defenders)"
   },
   {
    "surface": "வெல்வது",
    "parts": [
     {
-     "text": "வெல்வது",
+     "text": "வெல்",
      "lemma": "வெல்",
-     "gloss": "that which defeats"
+     "gloss": "to conquer"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "that which defeats"
+   "gloss": "that which conquers"
   },
   {
    "surface": "அரண்",
@@ -99,10 +114,10 @@
    "gloss": "fortress"
   }
  ],
- "literal": "All having gathered, even those who besieged, position having secured, those who held defeating, (is) a fortress.",
- "translation": "A true fortress enables its defenders, holding their secure positions, to defeat even enemies who have laid siege with all their gathered might.",
- "modern": "தமக்குரிய இடத்தின் வலிமையை நிலைநிறுத்தி உள்ளே இருப்பவர்கள், தம் முழு வலிமையையும் திரட்டி முற்றுகையிட்ட பகைவரையும் வெல்ல உதவுவதே சிறந்த அரணாகும்.",
- "explanation": "This couplet defines the ultimate defensive power of a fortress. The phrase 'முற்று ஆற்றி முற்றியவர்' refers to enemies who have gathered all their strength to lay a complete siege. Against them, 'பற்று ஆற்றி பற்றியார்' describes the defenders who firmly secure their position inside. A true fortress is one that allows these defenders to defeat such a massive, well-prepared besieging force.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Performing a siege, even those who have besieged, sustaining their defense, those who hold fast conquering, is a fortress.",
+ "translation": "A true fortress is one that enables its defenders, holding fast to their stronghold, to defeat even those who have laid a complete siege against them.",
+ "modern": "முற்றுகையிட்டுப் போரிடும் பகைவர்களையும், தங்களுக்குரிய பற்றுக் கோட்டை விடாமல் காக்கும் கோட்டைவாசிகள் வெல்ல உதவுவதே சிறந்த அரண் ஆகும்.",
+ "explanation": "This couplet defines the ultimate military value of a fortress. A true fort (அரண்) is not just a passive barrier, but an active tactical advantage that allows the defenders (பற்றியார்) who hold onto their stronghold (பற்று ஆற்றி) to overcome and defeat even a powerful enemy army that has completely surrounded and besieged them (முற்று ஆற்றி முற்றியவரையும்). The word 'முற்று' refers to a complete encirclement or siege, while 'பற்று' represents the defensive grip or the stronghold itself. The couplet highlights that a fort's design must empower a smaller, defending force to triumph over a besieging force.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -27,10 +27,10 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "within"
     }
    ],
-   "gloss": "among poverties"
+   "gloss": "among all poverties"
   },
   {
    "surface": "இன்மை",
@@ -41,7 +41,7 @@
      "gloss": "poverty"
     }
    ],
-   "gloss": "poverty"
+   "gloss": "the ultimate poverty"
   },
   {
    "surface": "பிறிதின்மை",
@@ -57,7 +57,7 @@
      "gloss": "lack"
     }
    ],
-   "gloss": "lack of other things"
+   "gloss": "other kinds of lack"
   },
   {
    "surface": "இன்மையா",
@@ -69,7 +69,7 @@
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகு",
+     "lemma": "ஆக",
      "gloss": "as"
     }
    ],
@@ -81,15 +81,15 @@
     {
      "text": "வை",
      "lemma": "வை",
-     "gloss": "consider"
+     "gloss": "to consider"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "does not"
+     "gloss": "not"
     }
    ],
-   "gloss": "does not consider"
+   "gloss": "will not consider"
   },
   {
    "surface": "உலகு",
@@ -97,16 +97,16 @@
     {
      "text": "உலகு",
      "lemma": "உலகு",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Lack of knowledge among poverties [is] poverty; lack of other things, as poverty does not consider the world.",
- "translation": "The ultimate poverty is the lack of knowledge. The world does not consider the lack of other things to be poverty at all.",
- "modern": "அறிவில்லாமல் இருப்பதே வறுமைகளுள் எல்லாம் கொடிய வறுமையாகும். மற்ற செல்வங்கள் இல்லாதிருப்பதை உலகம் ஒரு வறுமையாகக் கருதாது.",
- "explanation": "This couplet contrasts intellectual poverty with material poverty. The word 'இன்மை' (iṉmai) is used repeatedly to mean both 'lack' and 'poverty'. The text states that being without knowledge is the worst kind of destitution among all poverties. In contrast, lacking 'other things' (பிறிது), which implies material wealth, is not even considered true poverty by the world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Lack of knowledge is the poverty among poverties; other lack, as poverty, the world will not consider.",
+ "translation": "The lack of knowledge is the poorest of all poverties; the world does not consider any other kind of deprivation to be true poverty.",
+ "modern": "அறிவில்லாமையே வறுமைகளுள் மிகக் கொடிய வறுமையாகும்; மற்ற குறைபாடுகளை உலகம் வறுமையாகக் கருதாது.",
+ "explanation": "This couplet defines the ultimate form of destitution as the lack of knowledge or wisdom. While people generally view the absence of material wealth as poverty, the author asserts that such material lack is not true poverty. The world does not regard other forms of deprivation as significant because they can be overcome or endured with effort. In contrast, a lack of understanding is a fundamental deficiency that renders a person truly helpless, regardless of what else they might possess.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

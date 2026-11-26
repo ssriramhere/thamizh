@@ -17,10 +17,10 @@
     {
      "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "having examined"
+     "gloss": "having investigated"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having investigated"
   },
   {
    "surface": "நோய்",
@@ -39,10 +39,10 @@
     {
      "text": "முதல்",
      "lemma": "முதல்",
-     "gloss": "cause"
+     "gloss": "root cause"
     }
    ],
-   "gloss": "cause"
+   "gloss": "root cause"
   },
   {
    "surface": "நாடி",
@@ -50,10 +50,10 @@
     {
      "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "having examined"
+     "gloss": "having investigated"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having investigated"
   },
   {
    "surface": "அது",
@@ -83,10 +83,10 @@
     {
      "text": "வாய்",
      "lemma": "வாய்",
-     "gloss": "method"
+     "gloss": "method or way"
     }
    ],
-   "gloss": "method"
+   "gloss": "method or way"
   },
   {
    "surface": "நாடி",
@@ -94,21 +94,21 @@
     {
      "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "having examined"
+     "gloss": "having investigated"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having investigated"
   },
   {
    "surface": "வாய்ப்ப",
    "parts": [
     {
      "text": "வாய்ப்ப",
-     "lemma": "வாய்",
-     "gloss": "fittingly"
+     "lemma": "வாய்ப்படு",
+     "gloss": "so as to succeed"
     }
    ],
-   "gloss": "fittingly"
+   "gloss": "so as to succeed"
   },
   {
    "surface": "செயல்",
@@ -116,16 +116,16 @@
     {
      "text": "செயல்",
      "lemma": "செய்",
-     "gloss": "act"
+     "gloss": "to act"
     }
    ],
-   "gloss": "act"
+   "gloss": "to act"
   }
  ],
- "literal": "Disease having examined, disease cause having examined, that which mitigates method having examined, fittingly act.",
- "translation": "Examine the disease, examine its root cause, examine the method that cures it, and then act effectively.",
- "modern": "நோயை ஆராய்ந்து, அந்த நோய்க்கான காரணத்தை ஆராய்ந்து, அதனைத் தீர்க்கும் வழியையும் ஆராய்ந்து, பொருந்தும் படி மருத்துவம் செய்ய வேண்டும்.",
- "explanation": "This couplet outlines the systematic approach required to treat an illness. First, one must diagnose the disease itself, and then investigate its underlying cause. Next, one must determine the proper method to cure it. The word வாய் here means the way or method of treatment, rather than its common meaning of mouth. Finally, the treatment must be applied effectively and fittingly to ensure a complete cure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Disease having investigated, disease's root cause having investigated, that which mitigates way having investigated, so as to succeed, act.",
+ "translation": "Diagnose the disease, diagnose its root cause, investigate the proper method to cure it, and then administer the treatment effectively.",
+ "modern": "நோயை ஆராய்ந்து, நோயின் மூல காரணத்தை ஆராய்ந்து, அதைத் தணிக்கும் வழியை ஆராய்ந்து, அது பலிக்கும்படி செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the systematic approach required for medical treatment. First, the physician must identify the specific disease. Second, they must investigate its root cause rather than just treating the symptoms. Third, they must find the correct method or remedy to cure it. Finally, they must execute the treatment in a way that ensures success. The repetition of the word 'நாடி' (having investigated) emphasizes that careful diagnosis and inquiry must precede any action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

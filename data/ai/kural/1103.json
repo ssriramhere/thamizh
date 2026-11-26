@@ -6,15 +6,15 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "they"
+     "gloss": "oneself"
     },
     {
      "text": "வீழ்வார்",
-     "lemma": "வீழ்",
-     "gloss": "those who are desired"
+     "lemma": "வீழ்தல்",
+     "gloss": "those who are loved"
     }
    ],
-   "gloss": "the one they love"
+   "gloss": "one's beloved"
   },
   {
    "surface": "மென்றோள்",
@@ -22,18 +22,24 @@
     {
      "text": "மென்றோள்",
      "lemma": "மென்றோள்",
-     "gloss": "soft shoulder"
+     "gloss": "soft shoulders"
     }
    ],
-   "gloss": "soft shoulder"
+   "gloss": "soft shoulders",
+   "split_unverified": true
   },
   {
    "surface": "துயிலின்",
    "parts": [
     {
-     "text": "துயிலின்",
-     "lemma": "துயிலின்",
-     "gloss": "than sleeping"
+     "text": "துயில்",
+     "lemma": "துயில்",
+     "gloss": "slumber"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
     }
    ],
    "gloss": "than sleeping"
@@ -44,15 +50,15 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "sweet thing"
     },
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "is it"
+     "gloss": "is it so?"
     }
    ],
-   "gloss": "is it sweeter"
+   "gloss": "is it sweeter?"
   },
   {
    "surface": "தாமரை",
@@ -69,9 +75,14 @@
    "surface": "கண்ணான்",
    "parts": [
     {
-     "text": "கண்ணான்",
-     "lemma": "கண்ணான்",
-     "gloss": "he who has eyes"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who has"
     }
    ],
    "gloss": "he who has eyes"
@@ -88,10 +99,10 @@
    "gloss": "world"
   }
  ],
- "literal": "the one they love - soft shoulder - than sleeping - is it sweeter - lotus - he who has eyes - world",
- "translation": "Is the world of the lotus-eyed god sweeter than sleeping on the soft shoulders of the one they love?",
- "modern": "தாம் விரும்பும் காதலியின் மென்மையான தோள்களில் சாய்ந்து தூங்குவதை விட, தாமரைக் கண்ணனாகிய கடவுளின் உலகம் இனிமையானதோ?",
- "explanation": "The speaker asks a rhetorical question comparing the joys of love to the ultimate spiritual reward. He wonders if the heavenly world of the lotus-eyed god could possibly be sweeter than resting on the soft shoulders of his beloved. The word 'கொல்' is an interrogative particle that implies doubt, showing he believes nothing can surpass the joy of his lover's embrace. The phrase 'தாமரைக் கண்ணான் உலகு' refers to a divine paradise, emphasizing the supreme value he places on earthly love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than sleeping on the soft shoulders of one's beloved, is it sweeter, the world of the lotus-eyed one?",
+ "translation": "Is the world of the lotus-eyed deity any sweeter than slumbering on the soft shoulders of one's beloved?",
+ "modern": "தாம் விரும்பும் காதலியின் மென்மையான தோள்களில் துயில்வதை விட, தாமரை போன்ற கண்களை உடைய இறைவனின் உலகம் இனிமையானதோ?",
+ "explanation": "In this couplet, the speaker compares the ultimate spiritual or celestial bliss with the intimate joy of love. The phrase 'tām vīḻvār' refers to the beloved whom one desires, and 'meṉṟōḷ' describes her soft shoulders. By questioning whether the realm of the lotus-eyed deity is sweeter than sleeping in the embrace of the beloved, the poem exalts earthly love as a supreme experience that rivals or even surpasses divine realms.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,15 +17,15 @@
     {
      "text": "உடையான்",
      "lemma": "உடையான்",
-     "gloss": "possessor"
+     "gloss": "he who has"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with"
+     "gloss": "in or with (locative case marker)"
     }
    ],
-   "gloss": "with the possessor"
+   "gloss": "with him who has"
   },
   {
    "surface": "ஆக்கம்",
@@ -33,17 +33,17 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "wealth"
+     "gloss": "wealth or prosperity"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "wealth or prosperity"
   },
   {
    "surface": "போன்று",
    "parts": [
     {
      "text": "போன்று",
-     "lemma": "போல்",
+     "lemma": "போன்று",
      "gloss": "like"
     }
    ],
@@ -54,11 +54,11 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "ஒழுக்கம்",
@@ -66,10 +66,10 @@
     {
      "text": "ஒழுக்கம்",
      "lemma": "ஒழுக்கம்",
-     "gloss": "decorum"
+     "gloss": "good conduct"
     }
    ],
-   "gloss": "decorum"
+   "gloss": "good conduct"
   },
   {
    "surface": "இலான்கண்",
@@ -77,15 +77,15 @@
     {
      "text": "இலான்",
      "lemma": "இலான்",
-     "gloss": "one without"
+     "gloss": "he who lacks"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with"
+     "gloss": "in or with (locative case marker)"
     }
    ],
-   "gloss": "with one without"
+   "gloss": "with him who lacks"
   },
   {
    "surface": "உயர்வு",
@@ -93,16 +93,16 @@
     {
      "text": "உயர்வு",
      "lemma": "உயர்வு",
-     "gloss": "greatness"
+     "gloss": "greatness or rise"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "greatness or rise"
   }
  ],
- "literal": "Envy with the possessor wealth like, is not decorum with the one without greatness.",
- "translation": "Just as wealth does not stay with an envious person, greatness does not exist for a person without decorum.",
- "modern": "பொறாமை குணம் உடையவனிடம் செல்வம் நிலைக்காதது போல, நல்லொழுக்கம் இல்லாதவனிடம் உயர்வு இருக்காது.",
- "explanation": "This couplet draws a direct parallel between two negative traits and their inevitable consequences. The word aḻukkāṟu means envy, which prevents a person from accumulating true wealth or prosperity, the chosen meaning for ākkam here rather than mere creation. Similarly, oḻukkam refers to proper conduct or decorum, and its absence guarantees that a person cannot achieve greatness or high standing, the contextual meaning of uyarvu. By using the comparative word pōṉṟu, the text emphasizes that just as wealth shuns the envious, elevation in life shuns the undisciplined.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like wealth with him who has envy, there is no greatness with him who lacks good conduct.",
+ "translation": "Just as there is no lasting prosperity in a person filled with envy, there can be no true greatness in one who lacks right conduct.",
+ "modern": "பொறாமை உடையவனிடத்தில் செல்வம் நிலைக்காதது போல, நல்லொழுக்கம் இல்லாதவனிடத்தில் உயர்வு இருக்காது.",
+ "explanation": "This couplet uses a powerful comparison to show that right conduct is indispensable for personal elevation. The poet states that just as wealth (ஆக்கம்) cannot truly exist or flourish in an envious person (அழுக்காறு உடையான்), true greatness (உயர்வு) cannot exist in someone who lacks proper conduct (ஒழுக்கம் இலான்). The locative suffix 'கண்' is used to denote the locus of these qualities. By linking the impossibility of wealth in the envious to the impossibility of greatness in the undisciplined, the verse highlights that moral character is the sole foundation for any real rise in life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

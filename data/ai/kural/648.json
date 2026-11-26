@@ -6,15 +6,15 @@
     {
      "text": "விரை",
      "lemma": "விரை",
-     "gloss": "to hasten"
+     "gloss": "hasten"
     },
     {
      "text": "ந்து",
-     "lemma": "ந்து",
-     "gloss": "adverbial suffix"
+     "lemma": "-ந்து",
+     "gloss": "verbal participle suffix"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "quickly"
   },
   {
    "surface": "தொழில்",
@@ -22,7 +22,7 @@
     {
      "text": "தொழில்",
      "lemma": "தொழில்",
-     "gloss": "task"
+     "gloss": "work or command"
     }
    ],
    "gloss": "command"
@@ -33,12 +33,12 @@
     {
      "text": "கேள்",
      "lemma": "கேள்",
-     "gloss": "to listen"
+     "gloss": "hear or obey"
     },
     {
      "text": "கும்",
-     "lemma": "கும்",
-     "gloss": "future suffix"
+     "lemma": "-கும்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "will obey"
@@ -52,23 +52,18 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "நிரந்து",
    "parts": [
     {
-     "text": "நிர",
-     "lemma": "நிர",
-     "gloss": "to arrange"
-    },
-    {
-     "text": "ந்து",
-     "lemma": "ந்து",
-     "gloss": "adverbial suffix"
+     "text": "நிரந்து",
+     "lemma": "நிரத்தல்",
+     "gloss": "having arranged in order"
     }
    ],
-   "gloss": "having arranged"
+   "gloss": "systematically"
   },
   {
    "surface": "இனிது",
@@ -76,10 +71,10 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweetly"
+     "gloss": "pleasantly"
     }
    ],
-   "gloss": "sweetly"
+   "gloss": "pleasantly"
   },
   {
    "surface": "சொல்லுதல்",
@@ -87,11 +82,11 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
      "text": "உதல்",
-     "lemma": "உதல்",
+     "lemma": "-தல்",
      "gloss": "verbal noun suffix"
     }
    ],
@@ -103,15 +98,15 @@
     {
      "text": "வல்",
      "lemma": "வல்",
-     "gloss": "capable"
+     "gloss": "ability"
     },
     {
      "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "plural suffix"
+     "lemma": "-ஆர்",
+     "gloss": "third person plural suffix"
     }
    ],
-   "gloss": "capable people"
+   "gloss": "those who are capable"
   },
   {
    "surface": "பெறின்",
@@ -119,21 +114,21 @@
     {
      "text": "பெறு",
      "lemma": "பெறு",
-     "gloss": "to obtain"
+     "gloss": "get or obtain"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "-இன்",
      "gloss": "conditional suffix"
     }
    ],
    "gloss": "if obtained"
   }
  ],
- "literal": "Swiftly command will obey the world, having arranged sweetly speaking capable people if obtained.",
- "translation": "If the world obtains those who can speak with well-arranged thoughts and sweetness, it will swiftly obey their commands.",
- "modern": "கருத்துகளை வரிசைப்படுத்தி இனிமையாகச் சொல்லும் ஆற்றல் உடையவர்களைப் பெற்றால், உலகம் அவர்கள் இடும் கட்டளைகளை விரைந்து ஏற்றுச் செயல்படும்.",
- "explanation": "This couplet highlights the power of organized and pleasant speech. The word 'nirantu' means arranging or ordering, indicating that thoughts must be logically structured before they are spoken. When a person can articulate well-ordered ideas sweetly, the world will not just listen, but will swiftly carry out their commands. The phrase 'tozhil ketkum' specifically implies obeying instructions and taking immediate action.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having-hastened command will-obey the-world, systematically pleasantly speaking capable-ones if-obtained.",
+ "translation": "If the world obtains those who are capable of speaking in a systematic and pleasant manner, it will quickly listen to and carry out their commands.",
+ "modern": "கருத்துக்களை வரிசையாகவும் இனிமையாகவும் சொல்ல வல்லவர்களைப் பெற்றால், இவ்வுலகம் அவர்கள் ஏவும் கட்டளையை விரைந்து கேட்டுச் செய்யும்.",
+ "explanation": "This couplet highlights the power of effective communication. It states that if the world finds individuals who can present their thoughts in a logical, orderly sequence (நிரந்து) and in a pleasant, agreeable manner (இனிது), it will readily accept their leadership. The world will not only listen to them but will also hasten to execute their commands (தொழில் கேட்கும்). Thus, systematic and sweet speech is the key to gaining influence and authority over others.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "தந்நலம்",
-     "lemma": "தன்னலம்",
-     "gloss": "own goodness"
+     "lemma": "தந்நலம்",
+     "gloss": "one's own well-being"
     }
    ],
-   "gloss": "own goodness"
+   "gloss": "one's own well-being",
+   "split_unverified": true
   },
   {
    "surface": "பாரிப்பார்",
@@ -17,25 +18,20 @@
     {
      "text": "பாரி",
      "lemma": "பாரி",
-     "gloss": "to protect"
+     "gloss": "cherish"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
+     "text": "ப்ப்",
      "lemma": "ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who"
     }
    ],
-   "gloss": "those who protect"
+   "gloss": "those who cherish"
   },
   {
    "surface": "தோயார்",
@@ -43,12 +39,12 @@
     {
      "text": "தோய்",
      "lemma": "தோய்",
-     "gloss": "to embrace"
+     "gloss": "embrace"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "negative epicene plural suffix"
+     "gloss": "will not (they)"
     }
    ],
    "gloss": "will not embrace"
@@ -64,7 +60,7 @@
     {
      "text": "செருக்கி",
      "lemma": "செருக்கு",
-     "gloss": "having been proud"
+     "gloss": "having become proud"
     },
     {
      "text": "ப்",
@@ -72,7 +68,7 @@
      "gloss": "sandhi"
     }
    ],
-   "gloss": "being proud of beauty"
+   "gloss": "proud of their beauty"
   },
   {
    "surface": "புன்னலம்",
@@ -80,10 +76,11 @@
     {
      "text": "புன்னலம்",
      "lemma": "புன்னலம்",
-     "gloss": "base pleasure"
+     "gloss": "cheap pleasure"
     }
    ],
-   "gloss": "base pleasure"
+   "gloss": "cheap pleasure",
+   "split_unverified": true
   },
   {
    "surface": "பாரிப்பார்",
@@ -91,25 +88,20 @@
     {
      "text": "பாரி",
      "lemma": "பாரி",
-     "gloss": "to offer"
+     "gloss": "display"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
+     "text": "ப்ப்",
      "lemma": "ப்",
      "gloss": "future tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who"
     }
    ],
-   "gloss": "those who offer"
+   "gloss": "those who display"
   },
   {
    "surface": "தோள்",
@@ -117,16 +109,16 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulder"
+     "gloss": "shoulders"
     }
    ],
-   "gloss": "shoulder"
+   "gloss": "shoulders"
   }
  ],
- "literal": "Own goodness those who protect will not embrace, beauty being proud, base pleasure those who offer's shoulders.",
- "translation": "Those who cultivate their own virtue will not embrace the shoulders of women who, proud of their charms, offer base pleasures.",
- "modern": "தமது நல்லொழுக்கத்தைப் போற்றிக் காப்பவர்கள், தமது அழகைக் கண்டு செருக்கடைந்து இழிவான இன்பத்தை விற்கும் மகளிரின் தோள்களைத் தழுவ மாட்டார்கள்.",
- "explanation": "This couplet contrasts two types of people and their values. On one side are those who protect their own moral goodness and reputation. On the other side are public women who proudly use their physical beauty to sell fleeting, base pleasures. The poet states that men who truly value their own virtue will never seek the embrace of such women, as it would destroy their moral standing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who cherish their own well-being will not embrace, proud of their beauty, those who display cheap pleasure, the shoulders.",
+ "translation": "Those who cherish their own virtue and well-being will not embrace the shoulders of women who, proud of their physical charm, display and sell their cheap, worthless pleasures.",
+ "modern": "தங்கள் நன்மையை விரும்புபவர்கள், அழகுச் செருக்குடன் தங்களின் மலிவான இன்பத்தை விற்கும் பொதுமகளிரின் தோள்களைத் தீண்டமாட்டார்கள்.",
+ "explanation": "This couplet warns self-respecting individuals against associating with prostitutes. The author contrasts two groups: those who cherish their own true well-being ('தந்நலம் பாரிப்பார்') and those who merely trade in cheap, superficial pleasure ('புன்னலம் பாரிப்பார்'). The word 'தகைசெருக்கி' highlights how these women are proud of their outward beauty, which they use to lure others. By choosing not to touch their shoulders ('தோயார் தோள்'), wise people protect their character and dignity from being ruined by temporary, commercialized lust.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,15 +6,15 @@
     {
      "text": "பொறு",
      "lemma": "பொறு",
-     "gloss": "to bear"
+     "gloss": "bear/forgive"
     },
     {
-     "text": "த்தல்",
+     "text": "தல்",
      "lemma": "தல்",
      "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "bearing"
+   "gloss": "forbearing / forgiving"
   },
   {
    "surface": "இறப்பினை",
@@ -22,20 +22,20 @@
     {
      "text": "இறப்பு",
      "lemma": "இறப்பு",
-     "gloss": "transgression"
+     "gloss": "transgression/injury"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "transgression (acc.)"
+   "gloss": "transgression / injury"
   },
   {
    "surface": "என்றும்",
@@ -48,7 +48,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "completeness suffix"
+     "gloss": "even/emphasis"
     }
    ],
    "gloss": "always"
@@ -64,15 +64,15 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "that (acc.)"
+   "gloss": "that (transgression)"
   },
   {
    "surface": "மறத்தல்",
@@ -80,10 +80,10 @@
     {
      "text": "மற",
      "lemma": "மற",
-     "gloss": "to forget"
+     "gloss": "forget"
     },
     {
-     "text": "த்தல்",
+     "text": "தல்",
      "lemma": "தல்",
      "gloss": "verbal noun suffix"
     }
@@ -101,37 +101,37 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "comparative suffix"
+     "gloss": "comparative ablative marker"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even/emphasis"
     }
    ],
-   "gloss": "even than that"
+   "gloss": "than that"
   },
   {
    "surface": "நன்று",
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நன்மை",
-     "gloss": "is good"
+     "lemma": "நன்று",
+     "gloss": "good/better"
     }
    ],
-   "gloss": "is good"
+   "gloss": "is good / is better"
   }
  ],
- "literal": "Bearing transgression always, that forgetting even than that is good.",
- "translation": "It is always good to endure a transgression, but forgetting it is even better.",
- "modern": "பிறர் செய்யும் குற்றத்தை எப்போதும் பொறுத்துக்கொள்வது நல்லது. ஆனால் அக்குற்றத்தை மனதிலிருந்து முற்றிலும் மறந்துவிடுவது பொறுத்துக்கொள்வதையும் விட மிகவும் சிறந்தது.",
- "explanation": "This couplet compares two noble responses to someone else's wrongdoing. The word 'iṟappu' can mean death or passing, but here it takes the sense of a transgression or an act that goes beyond acceptable limits. While 'poṟuttal' (bearing or forgiving) such an act is always a virtuous practice, 'maṟattal' (completely forgetting the offense) is praised as even better. This is because merely forgiving might still leave a trace of the wrong in the mind, whereas forgetting removes the memory entirely, ensuring absolute inner peace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Forbearing transgression always, that forgetting than-that is-better.",
+ "translation": "To always forgive an injury is good; to forget it is even better than that.",
+ "modern": "பிறர் செய்யும் வரம்பு மீறிய தீங்கைப் பொறுத்துக் கொள்வது எப்போதும் நல்லது; அத்தீங்கினை மனதிலிருந்து மறந்துவிடுவது அதைக் காட்டிலும் மிகவும் நல்லது.",
+ "explanation": "This couplet outlines a hierarchy of virtues when dealing with wrongs committed by others. The word 'iṟappu' refers to a transgression, excess, or injury that crosses acceptable boundaries. While 'poṟuttal' (forbearing or enduring) such an act is always a noble and necessary practice, the poet asserts that 'maṟatthal' (forgetting) the incident entirely is even better ('naṉṟu'). Forgetting ensures that no trace of resentment or bitterness remains in the mind, elevating the act of forgiveness to its highest state.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

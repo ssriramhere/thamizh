@@ -17,31 +17,26 @@
     {
      "text": "கூறு",
      "lemma": "கூறு",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he speaks not"
+   "gloss": "he does not speak"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not (good)"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "plural suffix"
+     "gloss": "non-virtuous things"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "non-virtuous things"
   },
   {
    "surface": "செயினும்",
@@ -49,7 +44,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "இனும்",
@@ -76,10 +71,10 @@
     {
      "text": "புறம்",
      "lemma": "புறம்",
-     "gloss": "back"
+     "gloss": "behind one's back"
     }
    ],
-   "gloss": "back"
+   "gloss": "behind one's back"
   },
   {
    "surface": "கூறான்",
@@ -87,26 +82,31 @@
     {
      "text": "கூறு",
      "lemma": "கூறு",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he speaks not"
+   "gloss": "he does not speak"
   },
   {
    "surface": "என்றல்",
    "parts": [
     {
-     "text": "என்றல்",
-     "lemma": "என்றல்",
-     "gloss": "saying"
+     "text": "என்",
+     "lemma": "என்",
+     "gloss": "say"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "saying"
+   "gloss": "to say"
   },
   {
    "surface": "இனிது",
@@ -114,16 +114,16 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet/good"
+     "gloss": "sweet"
     }
    ],
-   "gloss": "it is sweet"
+   "gloss": "is sweet"
   }
  ],
- "literal": "Virtue he speaks not, evil things even if he does, a person 'back he speaks not' saying is sweet.",
- "translation": "Even if a person does not speak of virtue and commits evil deeds, it is good to be able to say that he does not backbite.",
- "modern": "ஒருவன் அறத்தைப் பற்றிப் பேசாமல் பாவச் செயல்களைச் செய்தாலும், அவன் மற்றவர்களைப் பற்றிப் புறம் பேசமாட்டான் என்று சொல்லப்படுவது அவனுக்கு நல்லதாகும்.",
- "explanation": "This couplet emphasizes the severe nature of backbiting by comparing it to other moral failings. It states that even if someone completely ignores virtuous speech and actively commits bad deeds, refraining from speaking ill behind others' backs remains a redeeming quality. The word 'புறம்' refers to the back, meaning speaking behind someone's back. The poet suggests that avoiding this specific flaw brings a distinct sweetness or goodness ('இனிது') to a person's character.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Virtue he does not speak, non-virtuous things even if he does, a person, behind one's back he does not speak, to say is sweet.",
+ "translation": "Even if a person does not speak of virtue and commits acts of vice, it is still a redeeming good if it can be said of him, 'he does not speak ill of others behind their backs.'",
+ "modern": "ஒருவன் அறவழிகளைப் பேசாமல், பாவங்களையே செய்தாலும் கூட, அவன் 'பிறரைப் புறங்கூற மாட்டான்' என்று பிறர் சொல்வது அவனுக்கு நன்மையைத் தரும்.",
+ "explanation": "This couplet highlights the extreme gravity of backbiting by comparing it with other vices. Even if a person fails to speak of virtuous things and actively commits sinful deeds, there is still a saving grace if others can say of him that he never speaks ill of anyone behind their back. The word 'இனிது' (sweet or good) indicates that avoiding backbiting is so valuable that it brings a redeeming goodness to an otherwise flawed character. The poet emphasizes that backbiting is a vice so destructive that abstaining from it is a great virtue in itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

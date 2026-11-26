@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "துன்பத்திற்கு",
-     "lemma": "துன்பம்",
-     "gloss": "to sorrow"
+     "lemma": "துன்பத்திற்கு",
+     "gloss": "to the suffering"
     }
    ],
-   "gloss": "to sorrow"
+   "gloss": "to the suffering",
+   "split_unverified": true
   },
   {
    "surface": "யாரே",
@@ -22,7 +23,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
    "gloss": "who indeed"
@@ -43,7 +44,7 @@
    "parts": [
     {
      "text": "ஆ",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "become"
     },
     {
@@ -54,7 +55,7 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (honorific/plural)"
     }
    ],
    "gloss": "will become"
@@ -68,14 +69,14 @@
      "gloss": "oneself"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "one's own"
   },
   {
    "surface": "உடைய",
    "parts": [
     {
      "text": "உடைய",
-     "lemma": "உடைய",
+     "lemma": "உடை",
      "gloss": "possessing"
     }
    ],
@@ -109,10 +110,10 @@
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "not"
+     "gloss": "not being"
     }
    ],
-   "gloss": "not"
+   "gloss": "not being"
   },
   {
    "surface": "வழி",
@@ -126,10 +127,10 @@
    "gloss": "when"
   }
  ],
- "literal": "To sorrow who indeed companion will become, oneself possessing heart companion not when?",
- "translation": "When one's own heart is not a supportive companion, who indeed will be a companion in sorrow?",
- "modern": "தம்முடைய நெஞ்சமே தமக்குத் துணையாகாத போது, வரும் துன்பத்திற்கு வேறு யார் துணையாவார்?",
- "explanation": "The speaker is suffering from love-sickness and feels betrayed by their own heart, which yields to the lover instead of staying firm. When one's very own heart refuses to be a supportive companion, there is no one else who can help bear the sorrow. The word 'வழி' here means 'the time when' or 'the state in which'.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To suffering who indeed companion will become, one's own heart companion not being when?",
+ "translation": "Who indeed will stand as a companion in times of grief, if one's own heart does not act as a support?",
+ "modern": "தம்முடைய நெஞ்சமே தமக்குத் துணையாக இல்லாதபோது, துன்பம் வரும்போது வேறு யார் துணையாக இருப்பார்கள்?",
+ "explanation": "In this couplet, the speaker laments the lack of inner strength and support from their own mind during a period of intense love-sickness. The key phrase 'துணையல் வழி' combines 'துணை' (support), 'அல்' (not), and 'வழி' (when/in the event of), meaning 'when it is not a support'. The poet argues that if one's own 'நெஞ்சம்' (heart/mind) deserts them and refuses to offer comfort, it is completely futile to expect any external companion ('யாரே துணை ஆவார்') to help ease the suffering.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

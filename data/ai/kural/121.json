@@ -31,9 +31,14 @@
    "surface": "உய்க்கும்",
    "parts": [
     {
-     "text": "உய்க்கும்",
-     "lemma": "உய்த்தல்",
-     "gloss": "will lead"
+     "text": "உய்",
+     "lemma": "உய்",
+     "gloss": "lead"
+    },
+    {
+     "text": "க்கும்",
+     "lemma": "க்கும்",
+     "gloss": "will (habitual suffix)"
     }
    ],
    "gloss": "will lead"
@@ -42,9 +47,14 @@
    "surface": "அடங்காமை",
    "parts": [
     {
-     "text": "அடங்காமை",
-     "lemma": "அடங்காமை",
-     "gloss": "lack of self-control"
+     "text": "அடங்கு",
+     "lemma": "அடங்கு",
+     "gloss": "be restrained"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negation suffix"
     }
    ],
    "gloss": "lack of self-control"
@@ -55,7 +65,7 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "dense"
+     "gloss": "deep"
     },
     {
      "text": "இருள்",
@@ -63,14 +73,14 @@
      "gloss": "darkness"
     }
    ],
-   "gloss": "dense darkness"
+   "gloss": "deep darkness"
   },
   {
    "surface": "உய்த்து",
    "parts": [
     {
      "text": "உய்த்து",
-     "lemma": "உய்த்தல்",
+     "lemma": "உய்",
      "gloss": "having led"
     }
    ],
@@ -81,17 +91,17 @@
    "parts": [
     {
      "text": "விடும்",
-     "lemma": "விடுதல்",
-     "gloss": "will leave"
+     "lemma": "விடு",
+     "gloss": "will surely do (auxiliary)"
     }
    ],
-   "gloss": "will leave"
+   "gloss": "will surely leave"
   }
  ],
- "literal": "Self-control among immortals will lead; lack of self-control dense darkness having led will leave.",
- "translation": "Self-control will elevate one to the realm of the immortals. A lack of self-control will plunge one into dense darkness.",
- "modern": "அடக்கம் ஒருவனை தேவர்களுக்கு இணையாக உயர்த்தும். அடக்கமில்லாத தன்மை அவனை மீள முடியாத காரிருளில் தள்ளி அழித்துவிடும்.",
- "explanation": "This couplet contrasts the ultimate destinations of those who possess self-control and those who do not. The word அடக்கம் (self-control) is shown as an elevating force that places a person among the அமரர் (immortals), representing the highest state of being. Conversely, அடங்காமை (lack of restraint) leads one into ஆரிருள் (dense darkness), symbolizing a state of profound ignorance and suffering. The auxiliary verb விடும் emphasizes the absolute certainty and finality of this ruinous outcome.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Self-control among the immortals will lead; lack of self-control into deep darkness having led will leave.",
+ "translation": "Self-control will lead one to the realm of the immortals, while the lack of self-control will lead and plunge one into deep darkness.",
+ "modern": "அடக்கம் ஒருவரைத் தேவர்களுள் கொண்டு சேர்க்கும்; அடக்கமில்லாமை அவரைப் பேரிருளில் கொண்டு சேர்த்துவிடும்.",
+ "explanation": "This couplet contrasts the ultimate destinations of self-control and the lack of it. The word 'அடக்கம்' (self-control) is shown as an active force that elevates a person to the level of 'அமரர்' (immortals or highly respected beings). Conversely, 'அடங்காமை' (the absence of restraint) drags a person down into 'ஆரிருள்' (deep, dense darkness), symbolizing ignorance, misery, and ruin. The poet uses the verb root 'உய்' (to lead or direct) in both lines to emphasize that our inner discipline actively guides our destiny.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

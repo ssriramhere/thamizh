@@ -17,7 +17,7 @@
     {
      "text": "சிதை",
      "lemma": "சிதை",
-     "gloss": "to spoil"
+     "gloss": "ruin"
     },
     {
      "text": "ஆமல்",
@@ -25,18 +25,23 @@
      "gloss": "without"
     }
    ],
-   "gloss": "without spoiling"
+   "gloss": "without ruining"
   },
   {
    "surface": "கண்ணோட",
    "parts": [
     {
-     "text": "கண்ணோட",
-     "lemma": "கண்ணோடு",
-     "gloss": "to show consideration"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஓட",
+     "lemma": "ஓடு",
+     "gloss": "to run"
     }
    ],
-   "gloss": "to show consideration"
+   "gloss": "to show kindness"
   },
   {
    "surface": "வல்லார்க்கு",
@@ -44,15 +49,15 @@
     {
      "text": "வல்லார்",
      "lemma": "வல்லார்",
-     "gloss": "capable ones"
+     "gloss": "those who are capable"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to those who are able"
+   "gloss": "to those who are capable"
   },
   {
    "surface": "உரிமை",
@@ -60,10 +65,10 @@
     {
      "text": "உரிமை",
      "lemma": "உரிமை",
-     "gloss": "right"
+     "gloss": "ownership"
     }
    ],
-   "gloss": "right"
+   "gloss": "ownership"
   },
   {
    "surface": "உடைத்து",
@@ -71,18 +76,23 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "possesses-it"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "possesses it"
+   "gloss": "possesses"
   },
   {
    "surface": "இவ்",
    "parts": [
     {
-     "text": "இவ்",
+     "text": "இ",
      "lemma": "இ",
      "gloss": "this"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "glide consonant"
     }
    ],
    "gloss": "this"
@@ -99,10 +109,10 @@
    "gloss": "world"
   }
  ],
- "literal": "Duty without spoiling to show consideration to those who are able, right possesses this world.",
- "translation": "This world rightfully belongs to those who are able to show consideration without compromising their duty.",
- "modern": "தம்முடைய கடமை கெடாமல் மற்றவர்களிடம் இரக்கம் காட்ட முடிகிறவர்களுக்கு, இந்த உலகம் உரிமை உடையதாகும்.",
- "explanation": "This couplet explores the delicate balance between executing one's responsibilities and maintaining human empathy. The phrase 'கருமம் சிதையாமல்' stresses that a person's primary duty or task must never be compromised. At the same time, 'கண்ணோட வல்லார்க்கு' highlights the rare ability to still show consideration and grace to others. The text concludes that the world rightfully belongs to those who can successfully harmonize strict duty with compassionate understanding.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are capable of showing kindness without ruining their duty, this world possesses ownership.",
+ "translation": "This world belongs as a rightful possession to those who are capable of showing gracious kindness without letting their duties fall apart.",
+ "modern": "தங்கள் கடமை கெடாமல் பிறரிடம் இரக்கம் காட்ட வல்லவர்களுக்கு, இந்த உலகம் சொந்தமாகும் உரிமை உடையது.",
+ "explanation": "This couplet highlights the delicate balance between duty (karumam) and kindness (kannottam). While showing gracious compassion to others is a great virtue, it must not be done at the cost of ruining one's essential duties. Those rare individuals who can successfully balance both—remaining kind and compassionate without compromising their responsibilities—earn the respect of everyone. To such balanced people, this entire world rightfully belongs.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

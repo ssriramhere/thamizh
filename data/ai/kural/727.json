@@ -6,10 +6,10 @@
     {
      "text": "பகை",
      "lemma": "பகை",
-     "gloss": "enemy"
+     "gloss": "battlefield"
     }
    ],
-   "gloss": "enemy"
+   "gloss": "battlefield"
   },
   {
    "surface": "அகத்து",
@@ -28,10 +28,10 @@
     {
      "text": "பேடி",
      "lemma": "பேடி",
-     "gloss": "timid person"
+     "gloss": "coward"
     }
    ],
-   "gloss": "timid person"
+   "gloss": "coward"
   },
   {
    "surface": "கை",
@@ -88,10 +88,10 @@
     {
      "text": "அஞ்சும்",
      "lemma": "அஞ்சு",
-     "gloss": "fearing"
+     "gloss": "fears"
     }
    ],
-   "gloss": "fearing"
+   "gloss": "who fears"
   },
   {
    "surface": "அவன்",
@@ -121,16 +121,16 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "text"
+     "gloss": "book"
     }
    ],
-   "gloss": "text"
+   "gloss": "book"
   }
  ],
- "literal": "enemy inside timid-person hand bright-sword assembly inside fearing he learned text",
- "translation": "The learning of a man who is afraid to speak in an assembly is like a sharp sword in the hands of a coward on the battlefield.",
- "modern": "அவையில் பேசப் பயப்படுகிறவன் கற்ற நூலானது, போர்க்களத்தில் பகைவர் நடுவே ஒரு பேடியின் கையில் இருக்கும் கூர்மையான வாளைப் போன்றது.",
- "explanation": "This couplet uses a vivid simile to illustrate the uselessness of knowledge if one lacks the courage to share it. It compares a learned person who is terrified of speaking in an assembly to a timid person holding a bright, sharp sword on a battlefield. Just as the sword is of no use to someone too frightened to fight, the texts learned by a scholar are worthless if he is too afraid to present his knowledge before a council. The word 'பேடி' (timid person or coward) emphasizes the complete lack of necessary courage in a critical situation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Inside the battlefield, a coward's hand bright sword, inside the assembly, he who fears, his learned book.",
+ "translation": "The learning of one who fears to face an assembly is like a bright sword in the hand of a coward on a battlefield.",
+ "modern": "போர்க்களத்தில் பேடியின் கையில் இருக்கும் கூர்மையான வாளைப் போன்றது, அவைக்கு அஞ்சுகின்றவன் கற்ற நூல் அறிவு.",
+ "explanation": "This couplet uses a vivid analogy to show the uselessness of education without courage. A bright, sharp sword (ஒள்வாள்) is a powerful weapon, but it is completely useless in the hand of a coward (பேடிகை) on a battlefield. Similarly, the books and treatises learned (கற்ற நூல்) by a person are of no value if that person is terrified of speaking before an assembly (அவையகத்து அஞ்சுமவன்). True learning requires the courage of expression to be of any practical use.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

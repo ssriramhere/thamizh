@@ -16,22 +16,22 @@
    "parts": [
     {
      "text": "நீப்பின்",
-     "lemma": "நீக்கு",
-     "gloss": "if removed"
+     "lemma": "நீப்பு",
+     "gloss": "if shedding"
     }
    ],
-   "gloss": "if removed"
+   "gloss": "if losing"
   },
   {
    "surface": "வாழா",
    "parts": [
     {
      "text": "வாழா",
-     "lemma": "வாழ்",
-     "gloss": "does not live"
+     "lemma": "வாழா",
+     "gloss": "not living"
     }
    ],
-   "gloss": "does not live"
+   "gloss": "that does not live"
   },
   {
    "surface": "கவரிமா",
@@ -39,22 +39,22 @@
     {
      "text": "கவரி",
      "lemma": "கவரி",
-     "gloss": "kavari"
+     "gloss": "yak"
     },
     {
      "text": "மா",
      "lemma": "மா",
-     "gloss": "animal"
+     "gloss": "beast"
     }
    ],
-   "gloss": "kavari animal"
+   "gloss": "the yak-beast"
   },
   {
    "surface": "அன்னார்",
    "parts": [
     {
      "text": "அன்னார்",
-     "lemma": "அன்ன",
+     "lemma": "அன்னார்",
      "gloss": "those who are like"
     }
    ],
@@ -76,11 +76,11 @@
    "parts": [
     {
      "text": "நீப்பர்",
-     "lemma": "நீக்கு",
-     "gloss": "will give up"
+     "lemma": "நீத்தல்",
+     "gloss": "they will give up"
     }
    ],
-   "gloss": "will give up"
+   "gloss": "they will give up"
   },
   {
    "surface": "மானம்",
@@ -98,17 +98,17 @@
    "parts": [
     {
      "text": "வரின்",
-     "lemma": "வா",
+     "lemma": "வருதல்",
      "gloss": "if comes"
     }
    ],
-   "gloss": "if comes"
+   "gloss": "if it comes"
   }
  ],
- "literal": "Hair if removed not-living kavari-animal those-who-are-like, life they-will-remove honor if-comes.",
- "translation": "Those who are like the kavari animal, which cannot live if it loses its hair, will give up their lives if an affront to their honor comes.",
- "modern": "தன் உடலிலிருந்து மயிர் நீங்கினால் உயிர் வாழாத கவரிமானைப் போன்றவர்கள், தங்கள் மானத்திற்கு ஒரு குறை வந்தால் உயிரையே விட்டுவிடுவார்கள்.",
- "explanation": "This couplet compares honorable people to the legendary kavari animal (often identified as the yak), which is said to die if it loses its hair. The word 'kavarimā' denotes this specific animal, while 'vāḻā' emphasizes its inability to survive the loss of its defining feature. Similarly, for people of true honor, their dignity is as vital as life itself. If a situation arises where their honor is compromised ('māṉam variṉ'), they will readily give up their life ('uyir nīppar') rather than live in disgrace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If hair is lost, not living yak-beast like those, life will give up, if honor [threatened] comes.",
+ "translation": "Those who value their honor like the yak, which does not survive if it loses its hair, will give up their lives if their self-respect is threatened.",
+ "modern": "தன் உடம்பிலிருந்து மயிர் நீங்கினால் உயிர் வாழாத கவரிமானைப் போன்றவர்கள், தங்களுக்கு மானக் குறைவு வரும்போது உயிரை விட்டுவிடுவார்கள்.",
+ "explanation": "This couplet compares highly self-respecting individuals to the 'kavarimā' (yak), a beast traditionally believed to die of grief if it loses its hair. The word 'māṉam' here represents personal honor, dignity, and self-respect. The phrase 'uyir nīppar' shows that for such noble people, physical existence is worthless if their honor is compromised. The poet emphasizes that preserving one's integrity is far more valuable than preserving one's physical life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

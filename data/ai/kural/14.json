@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "with"
+     "gloss": "with (instrumental suffix)"
     }
    ],
    "gloss": "with the plough"
@@ -20,12 +20,22 @@
    "surface": "உழாஅர்",
    "parts": [
     {
-     "text": "உழாஅர்",
+     "text": "உழு",
      "lemma": "உழு",
-     "gloss": "will not plough"
+     "gloss": "plough"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not (negative marker)"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (third person plural suffix)"
     }
    ],
-   "gloss": "will not plough"
+   "gloss": "they will not plough"
   },
   {
    "surface": "உழவர்",
@@ -44,7 +54,7 @@
     {
      "text": "புயல்",
      "lemma": "புயல்",
-     "gloss": "rain"
+     "gloss": "rain-cloud"
     }
    ],
    "gloss": "rain"
@@ -55,12 +65,12 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "say"
+     "gloss": "say or call"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "which"
+     "gloss": "which (relative participle suffix)"
     }
    ],
    "gloss": "which is called"
@@ -71,10 +81,10 @@
     {
      "text": "வாரி",
      "lemma": "வாரி",
-     "gloss": "income"
+     "gloss": "bounty or water-source"
     }
    ],
-   "gloss": "income"
+   "gloss": "bounty"
   },
   {
    "surface": "வளம்",
@@ -98,7 +108,7 @@
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having (past participle suffix)"
     }
    ],
    "gloss": "having diminished"
@@ -109,16 +119,16 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "if"
+     "gloss": "when or if"
     }
    ],
-   "gloss": "if"
+   "gloss": "when"
   }
  ],
- "literal": "With the plough will not plough farmers, rain called income abundance having diminished if.",
- "translation": "Farmers will not plough with their ploughs if the abundance of the income called rain diminishes.",
- "modern": "மழை என்னும் வருவாய் தன் வளத்தில் குறைந்துவிட்டால், உழவர்கள் ஏரைக் கொண்டு நிலத்தை உழ மாட்டார்கள்.",
- "explanation": "This couplet emphasizes that agriculture relies entirely on rainfall. The word 'வாரி' means income or revenue, portraying rain as the fundamental wealth that sustains the earth. If this natural income diminishes in its abundance, farmers cannot even begin their work with the plough, bringing all food production to a halt.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With the plough, they will not plough, the farmers, if the bounty called rain diminishes in its abundance.",
+ "translation": "Farmers will not plough their fields with oxen if the abundance of the bounty called rain diminishes.",
+ "modern": "மழை என்று சொல்லப்படும் வருவாயின் வளம் குறைந்தால், உழவர்கள் ஏரைக் கொண்டு உழவு செய்ய மாட்டார்கள்.",
+ "explanation": "This couplet highlights the absolute dependency of agriculture on rainfall. The poet states that if the abundance of the bounty known as rain diminishes, even the farmers, whose primary duty is to cultivate, will not be able to plough their fields. The word 'vārī' refers to the bounty or yield of water that rain provides, and 'kāl' functions here as a conditional marker meaning 'when' or 'if'. Without this heavenly resource, all agricultural activity comes to a standstill.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

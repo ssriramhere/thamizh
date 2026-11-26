@@ -4,9 +4,14 @@
    "surface": "வேண்டற்க",
    "parts": [
     {
-     "text": "வேண்டற்க",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "do not desire"
+     "gloss": "desire"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not"
     }
    ],
    "gloss": "do not desire"
@@ -15,20 +20,40 @@
    "surface": "வென்றிடினும்",
    "parts": [
     {
-     "text": "வென்றிடினும்",
+     "text": "வென்று",
      "lemma": "வெல்",
-     "gloss": "even if one wins"
+     "gloss": "having won"
+    },
+    {
+     "text": "இடின்",
+     "lemma": "இடின்",
+     "gloss": "if"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if one wins"
+   "gloss": "even if you win"
   },
   {
    "surface": "சூதினை",
    "parts": [
     {
-     "text": "சூதினை",
+     "text": "சூது",
      "lemma": "சூது",
      "gloss": "gambling"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "gambling"
@@ -39,10 +64,10 @@
     {
      "text": "வென்றதூஉம்",
      "lemma": "வெல்",
-     "gloss": "even that which was won"
+     "gloss": "even that which is won"
     }
    ],
-   "gloss": "even that which was won"
+   "gloss": "even that which is won"
   },
   {
    "surface": "தூண்டில்",
@@ -50,10 +75,10 @@
     {
      "text": "தூண்டில்",
      "lemma": "தூண்டில்",
-     "gloss": "fishing hook"
+     "gloss": "fishhook"
     }
    ],
-   "gloss": "fishing hook"
+   "gloss": "fishhook"
   },
   {
    "surface": "பொன்",
@@ -61,10 +86,10 @@
     {
      "text": "பொன்",
      "lemma": "பொன்",
-     "gloss": "metal"
+     "gloss": "metal bait"
     }
    ],
-   "gloss": "metal"
+   "gloss": "metal bait"
   },
   {
    "surface": "மீன்",
@@ -94,16 +119,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Desire not, even if one wins, gambling; even that which was won is like a fish having swallowed the hook's metal.",
- "translation": "Do not desire gambling even if you can win. Even what is won is like a fish swallowing the metal hook.",
- "modern": "சூதாட்டத்தில் வெற்றி பெற்றாலும் அதனை விரும்பக் கூடாது. அதில் வென்ற பொருளும், மீன் தூண்டிலின் இரும்பை இரை என்று நினைத்து விழுங்குவதைப் போன்றது.",
- "explanation": "The couplet warns against the deceptive nature of gambling. It advises never to desire gambling, even if one happens to win initially. The word 'பொன்' here refers to the metal of the fishing hook, not gold. Just as a fish swallows the hook thinking it is food and gets caught, the initial winnings in gambling trap the gambler into ultimate ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not desire, even if you win, gambling; even that which is won is like a fish swallowing the hook.",
+ "translation": "Do not desire to gamble even if you win; for even what you win is like a fish swallowing the baited hook.",
+ "modern": "வெற்றி பெற்றாலும் சூதாட்டத்தை விரும்பக் கூடாது; அதில் வென்ற பொருளும், தூண்டில் முள்ளை மீன் விழுங்குவதைப் போன்றதே ஆகும்.",
+ "explanation": "This couplet warns against the temptation of gambling, even when one is winning. The poet compares the winnings of gambling to the attractive bait on a fishhook. Just as a fish eagerly swallows the bait only to be trapped and killed by the hidden hook, a gambler is lured by initial gains only to face ultimate ruin. Thus, the apparent gain in gambling is merely a trap that leads to destruction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

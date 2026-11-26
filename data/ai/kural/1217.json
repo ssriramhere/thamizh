@@ -6,47 +6,42 @@
     {
      "text": "நனவு",
      "lemma": "நனவு",
-     "gloss": "wakefulness"
+     "gloss": "waking state"
     },
     {
-     "text": "இன்",
+     "text": "இனால்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "through"
     }
    ],
-   "gloss": "in wakefulness"
+   "gloss": "in the waking state"
   },
   {
    "surface": "நல்கா",
    "parts": [
     {
-     "text": "நல்கு",
+     "text": "நல்கா",
      "lemma": "நல்கு",
-     "gloss": "grant"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not granting"
     }
    ],
-   "gloss": "not granting"
+   "gloss": "who does not grant grace"
   },
   {
    "surface": "கொடியார்",
    "parts": [
     {
-     "text": "கொடியார்",
-     "lemma": "கொடியார்",
-     "gloss": "cruel person"
+     "text": "கொடி",
+     "lemma": "கொடுமை",
+     "gloss": "cruel"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "he (honorific)"
     }
    ],
-   "gloss": "cruel person"
+   "gloss": "the cruel one"
   },
   {
    "surface": "கனவனால்",
@@ -59,15 +54,15 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "euphonic increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "by/through"
     }
    ],
-   "gloss": "in dream"
+   "gloss": "through a dream"
   },
   {
    "surface": "என்",
@@ -86,15 +81,15 @@
     {
      "text": "எம்",
      "lemma": "யாம்",
-     "gloss": "us (oblique)"
+     "gloss": "us"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "us"
+   "gloss": "me"
   },
   {
    "surface": "பீழிப்பது",
@@ -105,28 +100,18 @@
      "gloss": "torment"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "verbal noun suffix"
+     "text": "ப்பது",
+     "lemma": "ப்பது",
+     "gloss": "action of doing"
     }
    ],
    "gloss": "tormenting"
   }
  ],
- "literal": "In wakefulness not-granting cruel-person, in dream why us tormenting?",
- "translation": "Why does the cruel man who grants no favors in my waking hours torment me in my dreams?",
- "modern": "நனவில் வந்து அன்பு செய்யாத கொடியவர், கனவில் வந்து எங்களை ஏன் துன்புறுத்துகிறார்?",
- "explanation": "The speaker questions the behavior of her lover, who is absent during her waking hours. She calls him a cruel person because he does not show her any grace or affection when she is awake. Yet, he appears in her dreams only to cause her distress by his fleeting presence. The contrast between wakefulness and dreams highlights her continuous suffering, as she finds no peace in either state.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the waking state, not granting grace, the cruel one, through a dream, why me tormenting?",
+ "translation": "Why does that cruel man, who does not grant me his grace in my waking hours, still come to torment me in my dreams?",
+ "modern": "நனவில் அன்பு காட்டாத கொடியவர், கனவின் வழியாக என்னை ஏன் துன்புறுத்துகிறார்?",
+ "explanation": "The heroine, separated from her lover, laments her painful state. She calls him 'cruel' because he does not show her any grace or return to her during her waking hours. Yet, he constantly appears in her dreams, which only serves to torment her by reminding her of his absence when she wakes up. She questions the fairness of him afflicting her mind through dreams when he refuses to comfort her in reality.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

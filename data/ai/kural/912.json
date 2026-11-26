@@ -6,26 +6,21 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "profit"
+     "gloss": "gain"
     }
    ],
-   "gloss": "profit"
+   "gloss": "gain"
   },
   {
    "surface": "தூக்கி",
    "parts": [
     {
-     "text": "தூக்கு",
+     "text": "தூக்கி",
      "lemma": "தூக்கு",
-     "gloss": "weigh"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "weighing"
     }
    ],
-   "gloss": "having weighed"
+   "gloss": "weighing"
   },
   {
    "surface": "பண்பு",
@@ -42,51 +37,36 @@
    "surface": "உரைக்கும்",
    "parts": [
     {
-     "text": "உரை",
+     "text": "உரைக்கும்",
      "lemma": "உரை",
-     "gloss": "speak"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "speaking"
     }
    ],
-   "gloss": "who speak"
+   "gloss": "speaking"
   },
   {
    "surface": "பண்பின்",
    "parts": [
     {
-     "text": "பண்பின்",
+     "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "without character"
+     "gloss": "character"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "of"
     }
    ],
-   "gloss": "without character"
+   "gloss": "of the character"
   },
   {
    "surface": "மகளிர்",
    "parts": [
     {
-     "text": "மகள்",
-     "lemma": "மகள்",
-     "gloss": "woman"
-    },
-    {
-     "text": "இர்",
-     "lemma": "இர்",
-     "gloss": "plural suffix"
+     "text": "மகளிர்",
+     "lemma": "மகளிர்",
+     "gloss": "women"
     }
    ],
    "gloss": "women"
@@ -97,64 +77,49 @@
     {
      "text": "நயன்",
      "lemma": "நயம்",
-     "gloss": "motive"
+     "gloss": "benefit"
     }
    ],
-   "gloss": "motive"
+   "gloss": "benefit"
   },
   {
    "surface": "தூக்கி",
    "parts": [
     {
-     "text": "தூக்கு",
+     "text": "தூக்கி",
      "lemma": "தூக்கு",
-     "gloss": "weigh"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "weighing"
     }
    ],
-   "gloss": "having weighed"
+   "gloss": "weighing"
   },
   {
    "surface": "நள்ளா",
    "parts": [
     {
-     "text": "நள்",
+     "text": "நள்ளா",
      "lemma": "நள்",
-     "gloss": "associate"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not befriending"
     }
    ],
-   "gloss": "without associating"
+   "gloss": "without befriending"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடு",
      "gloss": "leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "optative suffix"
     }
    ],
-   "gloss": "abandon"
+   "gloss": "should leave"
   }
  ],
- "literal": "Profit having-weighed affection who-speak character-without women's motive having-weighed without-associating abandon.",
- "translation": "Weigh the true motives of characterless women who speak words of affection only after weighing their profit, and abandon them without associating with them.",
- "modern": "தமக்குக் கிடைக்கும் பொருளைக் கணக்கிட்டு அன்பாகப் பேசும் பண்பில்லாத பெண்களின் உண்மையான நோக்கத்தை ஆராய்ந்து, அவர்களோடு உறவு கொள்ளாமல் விட்டுவிட வேண்டும்.",
- "explanation": "This couplet warns against women who feign affection purely for financial gain. The word 'பயன்' (profit) reveals their primary motivation, while 'பண்பு' (affection or good quality) is what they falsely project to their suitors. The poet uses a clever contrast between the 'பண்பு' they speak and their actual state of being 'பண்பின்' (without character). By weighing ('தூக்கி') their true motives just as carefully as they weigh their profit, one should avoid their company entirely.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Gain weighing, affection speaking, of the character women, benefit weighing, without befriending, should leave.",
+ "translation": "One should evaluate the true worth of women who speak of affection only after calculating their material gain, and leave them without forming any friendship.",
+ "modern": "கிடைக்கும் பயனை ஆராய்ந்து பார்த்துப் பிறகு அன்பாகப் பேசும் குணம் கொண்ட பொதுமகளிரின் உண்மைத் தன்மையை ஆராய்ந்து அறிந்து, அவர்களோடு நட்பு கொள்ளாமல் விலகிவிட வேண்டும்.",
+ "explanation": "This couplet warns against associating with mercenary women who simulate affection solely for material gain. The poet describes them as those who first calculate the profit ('payan tūkki') and only then speak words of love or virtue ('paṇpu uraikkum'). A wise person must carefully evaluate the true nature and consequences of such relationships ('nayan tūkki') and completely avoid befriending them ('naḷḷā viṭal'). The repetition of the verb 'tūkki' (weighing or evaluating) highlights the contrast between their cold calculation of profit and the wise person's careful evaluation of character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

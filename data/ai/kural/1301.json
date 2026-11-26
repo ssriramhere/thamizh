@@ -4,19 +4,14 @@
    "surface": "புல்லாது",
    "parts": [
     {
-     "text": "புல்",
-     "lemma": "புல்",
-     "gloss": "embrace"
-    },
-    {
-     "text": "ல்",
-     "lemma": "ல்",
-     "gloss": "sandhi"
+     "text": "புல்லு",
+     "lemma": "புல்லு",
+     "gloss": "to embrace"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
    "gloss": "without embracing"
@@ -25,12 +20,22 @@
    "surface": "இராஅ",
    "parts": [
     {
-     "text": "இராஅ",
+     "text": "இரு",
      "lemma": "இரு",
-     "gloss": "stay"
+     "gloss": "to remain"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not (negative suffix)"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "measure-stretching particle (alapaṭai)"
     }
    ],
-   "gloss": "stay"
+   "gloss": "without remaining"
   },
   {
    "surface": "புலத்தை",
@@ -38,25 +43,20 @@
     {
      "text": "புல",
      "lemma": "புல",
-     "gloss": "sulk"
+     "gloss": "to feign anger"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "increment/empty morph"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "you"
+     "gloss": "second-person singular suffix"
     }
    ],
-   "gloss": "you sulk"
+   "gloss": "feign anger!"
   },
   {
    "surface": "அவர்",
@@ -64,7 +64,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "he"
+     "gloss": "he (beloved)"
     }
    ],
    "gloss": "he"
@@ -75,15 +75,15 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "experience"
+     "gloss": "to experience"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "will experience"
+   "gloss": "that he experiences"
   },
   {
    "surface": "அல்லல்",
@@ -113,12 +113,12 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "see"
+     "gloss": "to see"
     },
     {
      "text": "கம்",
      "lemma": "கம்",
-     "gloss": "let us"
+     "gloss": "first-person plural suffix (let us)"
     }
    ],
    "gloss": "let us see"
@@ -135,10 +135,10 @@
    "gloss": "a little"
   }
  ],
- "literal": "Without embracing, stay; you sulk! He will experience distress pain, let us see a little.",
- "translation": "Stay without embracing him and keep sulking! Let us watch for a little while the painful distress he suffers.",
- "modern": "அவரைத் தழுவாமல் விலகி இரு; நீ ஊடல் கொள்! அதனால் அவர் அடையும் துன்ப நோயை நாம் சிறிது நேரம் வேடிக்கை பார்ப்போம்.",
- "explanation": "The heroine's friend advises her to prolong her feigned anger. She tells the heroine to stay away without embracing her lover and to keep sulking. The friend playfully suggests that they should watch the sweet distress and pain he experiences when he is denied her affection. The word 'காண்கம்' (let us see) highlights the playful, shared conspiracy between the women.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without embracing, do not remain, feign anger; the distressful pain he experiences, let us see a little.",
+ "translation": "Do not embrace him immediately; feign a little anger instead, so that we may watch for a moment the painful distress he suffers.",
+ "modern": "அவரைத் தழுவாமல் உடனே ஏற்றுக்கொள்ளாமல் சற்றே ஊடுவாயாக; அதனால் அவர் அடையும் துன்ப நோயை நாம் சிறிது நேரம் காண்போம்.",
+ "explanation": "In this couplet, the heroine (or her companion addressing her) speaks of the sweet play of feigned anger in love. Instead of immediately embracing the returning lover, she decides to hold back and feign a lovers' tiff. The key words 'allal nōy' (distressful pain) and 'kāṇkam' (let us see) show that this feigned anger is not out of malice, but a playful test to enjoy seeing how much the lover longs for her embrace. By delaying the union, she intensifies the pleasure of their eventual reunion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

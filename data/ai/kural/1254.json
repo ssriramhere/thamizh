@@ -20,17 +20,12 @@
      "gloss": "possess"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "[glide]"
-    },
-    {
-     "text": "ஏன்",
+     "text": "யேன்",
      "lemma": "ஏன்",
-     "gloss": "I"
+     "gloss": "I (first person singular suffix)"
     }
    ],
-   "gloss": "possess-I"
+   "gloss": "I who possess"
   },
   {
    "surface": "என்பேன்",
@@ -41,17 +36,12 @@
      "gloss": "say"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future]"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I"
+     "text": "பேன்",
+     "lemma": "பேன்",
+     "gloss": "I will (future first person singular)"
     }
    ],
-   "gloss": "say-will-I"
+   "gloss": "I would say"
   },
   {
    "surface": "மன்",
@@ -59,10 +49,10 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "alas"
+     "gloss": "particle of regret or past state"
     }
    ],
-   "gloss": "alas"
+   "gloss": "indeed (formerly)"
   },
   {
    "surface": "யானோ",
@@ -75,10 +65,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[emphasis]"
+     "gloss": "clitic of emphasis or self-pity"
     }
    ],
-   "gloss": "I-[emphasis]"
+   "gloss": "As for me"
   },
   {
    "surface": "என்",
@@ -97,10 +87,10 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "passion"
+     "gloss": "love"
     }
    ],
-   "gloss": "passion"
+   "gloss": "love"
   },
   {
    "surface": "மறை",
@@ -108,10 +98,10 @@
     {
      "text": "மறை",
      "lemma": "மறை",
-     "gloss": "secrecy"
+     "gloss": "secret"
     }
    ],
-   "gloss": "secrecy"
+   "gloss": "secret"
   },
   {
    "surface": "இறந்து",
@@ -119,10 +109,10 @@
     {
      "text": "இறந்து",
      "lemma": "இற",
-     "gloss": "having crossed"
+     "gloss": "transgressing"
     }
    ],
-   "gloss": "having crossed"
+   "gloss": "transgressing"
   },
   {
    "surface": "மன்று",
@@ -130,10 +120,10 @@
     {
      "text": "மன்று",
      "lemma": "மன்று",
-     "gloss": "public assembly"
+     "gloss": "public place"
     }
    ],
-   "gloss": "public assembly"
+   "gloss": "public place"
   },
   {
    "surface": "படும்",
@@ -147,10 +137,10 @@
    "gloss": "will appear"
   }
  ],
- "literal": "Self-control possess-I say-will-I alas I-[emphasis] my passion secrecy having-crossed public-assembly will-appear",
- "translation": "I used to say, 'I possess self-control.' But alas, my passion breaks out of its secrecy and appears in public.",
- "modern": "நான் நிறையுடையவள் என்று சொல்வேன். ஆனால் என் காமமோ, தனக்குரிய மறைவிடத்தை விட்டு வெளியேறி, ஊரார் அறியும்படி மன்றத்தில் வெளிப்பட்டு நிற்கிறது.",
- "explanation": "The speaker laments her inability to hide her love. She used to confidently claim that she had the inner strength and reserve (niṟai) to keep her feelings hidden. However, her passion (kāmam) has grown so strong that it breaks past all secrecy (maṟai) and exposes itself in the public square (maṉṟu). The contrast between her past confidence and her present exposure highlights the overwhelming power of love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Self-control possessor I would say indeed, as for me; my love, secret transgressing, in the public place will appear.",
+ "translation": "I used to boast that I possessed self-control; but my love, breaking past all secrecy, now stands revealed in the public square.",
+ "modern": "நான் மனக்கட்டுப்பாடு உடையவள் என்றுதான் சொல்லிக்கொண்டிருந்தேன்; ஆனால் என் காமமானது இரகசியத்தைக் கடந்து பொதுவெளியில் வெளிப்பட்டு நிற்கிறது.",
+ "explanation": "The heroine laments her inability to conceal her intense love-sickness. She recalls how she once believed she had the strength and self-control (niṟai) to keep her feelings hidden. However, her passion (kāmam) has grown so powerful that it has broken through all boundaries of secrecy (maṟai) and is now visible to everyone in the public square (maṉṟu). The particle 'maṉ' highlights her past confidence, which has now turned into helpless exposure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

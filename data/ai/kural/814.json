@@ -16,11 +16,12 @@
    "parts": [
     {
      "text": "அகத்து",
-     "lemma": "அகம்",
-     "gloss": "inside"
+     "lemma": "அகத்து",
+     "gloss": "in the midst of"
     }
    ],
-   "gloss": "in the midst"
+   "gloss": "in the midst of",
+   "split_unverified": true
   },
   {
    "surface": "ஆற்று",
@@ -28,29 +29,49 @@
     {
      "text": "ஆற்று",
      "lemma": "ஆறு",
-     "gloss": "path"
+     "gloss": "way"
     }
    ],
-   "gloss": "path"
+   "gloss": "on the way"
   },
   {
    "surface": "அறுக்கும்",
    "parts": [
     {
-     "text": "அறுக்கும்",
+     "text": "அறு",
      "lemma": "அறு",
-     "gloss": "will cut off"
+     "gloss": "to cut off"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "will cut off"
+   "gloss": "which abandons"
   },
   {
    "surface": "கல்லா",
    "parts": [
     {
-     "text": "கல்லா",
+     "text": "கல்",
      "lemma": "கல்",
-     "gloss": "unlearned"
+     "gloss": "to learn"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
     }
    ],
    "gloss": "untrained"
@@ -61,7 +82,7 @@
     {
      "text": "மா",
      "lemma": "மா",
-     "gloss": "animal"
+     "gloss": "horse"
     }
    ],
    "gloss": "horse"
@@ -72,10 +93,11 @@
     {
      "text": "அன்னார்",
      "lemma": "அன்னார்",
-     "gloss": "they who are like"
+     "gloss": "those who are like"
     }
    ],
-   "gloss": "those who are like"
+   "gloss": "those who are like",
+   "split_unverified": true
   },
   {
    "surface": "தமரின்",
@@ -83,7 +105,7 @@
     {
      "text": "தமர்",
      "lemma": "தமர்",
-     "gloss": "friends"
+     "gloss": "one's own people"
     },
     {
      "text": "இன்",
@@ -91,15 +113,20 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than the friendship"
+   "gloss": "than the companionship of such associates"
   },
   {
    "surface": "தனிமை",
    "parts": [
     {
-     "text": "தனிமை",
-     "lemma": "தனிமை",
-     "gloss": "solitude"
+     "text": "தனி",
+     "lemma": "தனி",
+     "gloss": "alone"
+    },
+    {
+     "text": "மை",
+     "lemma": "மை",
+     "gloss": "abstract noun suffix"
     }
    ],
    "gloss": "solitude"
@@ -110,16 +137,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "foremost"
     }
    ],
    "gloss": "is best"
   }
  ],
- "literal": "Battle midst path will-cut-off untrained horse those-who-are-like than-friends solitude is-best.",
- "translation": "Solitude is far better than the friendship of those who are like an untrained horse that throws its rider in the midst of battle.",
- "modern": "போர்க்களத்தின் நடுவே கீழே தள்ளிவிட்டு ஓடும் பழக்கப்படாத குதிரையைப் போன்றவர்களின் நட்பை விட, ஒருவன் தனியாக இருப்பதே மிகவும் சிறந்தது.",
- "explanation": "This couplet compares unreliable friends to an untrained horse in battle. Just as a wild horse might panic and throw its rider right when the fighting is fiercest, a bad friend will abandon you in times of crisis. The word 'மா' generally means animal but here specifically refers to a horse used in war. Therefore, the text concludes that facing life's struggles completely alone is much safer and better than relying on such treacherous companions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the midst of battle, on the way, abandoning, like an untrained horse, those who are like—than their companionship, solitude is best.",
+ "translation": "Solitude is far better than the companionship of those who, like an untrained horse, abandon their rider in the midst of battle.",
+ "modern": "போர்க்களத்தின் நடுவே தன் மேல் ஏறியவனைத் தள்ளிவிட்டு ஓடும் பழக்கப்படாத குதிரையைப் போன்றவர்களின் நட்பை விட, தனியாக இருப்பதே மிகச் சிறந்தது.",
+ "explanation": "This couplet warns us against unreliable and harmful friends by comparing them to an untrained horse (கல்லாமா). Just as a wild, untrained horse will panic and throw its rider off in the middle of a battle (அமரகத்து ஆற்றறுக்கும்), bad friends will desert you when you face critical danger or adversity. The poet emphasizes that being completely alone (தனிமை) is far superior (தலை) to having the companionship of such untrustworthy people (தமரின்). The vivid imagery of the battlefield highlights how dangerous it is to rely on false friends during times of crisis.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

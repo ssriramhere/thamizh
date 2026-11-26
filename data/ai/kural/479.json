@@ -6,10 +6,10 @@
     {
      "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "measure"
+     "gloss": "measure or limit of resources"
     }
    ],
-   "gloss": "measure"
+   "gloss": "measure of resources"
   },
   {
    "surface": "அறிந்து",
@@ -20,18 +20,18 @@
      "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "knowing"
   },
   {
    "surface": "வாழாதான்",
    "parts": [
     {
      "text": "வாழாதான்",
-     "lemma": "வாழ்",
-     "gloss": "he who does not live"
+     "lemma": "வாழாதான்",
+     "gloss": "one who does not live"
     }
    ],
-   "gloss": "he who does not live"
+   "gloss": "he who does not live accordingly"
   },
   {
    "surface": "வாழ்க்கை",
@@ -39,7 +39,7 @@
     {
      "text": "வாழ்க்கை",
      "lemma": "வாழ்க்கை",
-     "gloss": "life"
+     "gloss": "life or prosperity"
     }
    ],
    "gloss": "life"
@@ -53,7 +53,7 @@
      "gloss": "existing things"
     }
    ],
-   "gloss": "existing things"
+   "gloss": "as if existing"
   },
   {
    "surface": "போல",
@@ -72,7 +72,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "non-existent"
+     "gloss": "not"
     },
     {
      "text": "ஆகி",
@@ -80,7 +80,7 @@
      "gloss": "having become"
     }
    ],
-   "gloss": "having become nothing"
+   "gloss": "becoming non-existent"
   },
   {
    "surface": "தோன்றா",
@@ -91,7 +91,7 @@
      "gloss": "without appearing"
     }
    ],
-   "gloss": "without appearing"
+   "gloss": "without leaving a trace"
   },
   {
    "surface": "கெடும்",
@@ -102,13 +102,13 @@
      "gloss": "will perish"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will be ruined"
   }
  ],
- "literal": "Measure having known he who does not live's life, existing like, having become nothing, without appearing will perish.",
- "translation": "The life of one who does not live knowing the measure of his resources will seem to exist, but will become nothing and perish without a trace.",
- "modern": "தன் செல்வத்தின் அளவை அறிந்து வாழாதவனின் வாழ்க்கை, இருப்பது போலத் தோன்றி, உண்மையில் இல்லாமல் ஆகி சுவடு தெரியாமல் அழிந்துவிடும்.",
- "explanation": "This couplet warns against living beyond one's means. The word 'aḷavu' refers to the measure or limit of one's wealth and resources. If a person does not understand this limit and live accordingly, their life might look prosperous on the outside. However, their resources will silently drain away, and they will eventually be ruined without leaving a trace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Knowing the measure, he who does not live, his life, as if existing, becoming non-existent, without appearing, will perish.",
+ "translation": "The life of one who does not live knowing the measure of his resources will seem to prosper, but will vanish without a trace and perish.",
+ "modern": "தன் பொருளின் அளவை அறிந்து வாழாதவனுடைய வாழ்க்கை, இருப்பது போலத் தோன்றி, பின் இல்லாமல் போய், சுவடு தெரியாமல் அழிந்துவிடும்.",
+ "explanation": "This couplet warns against living beyond one's means. The word 'அளவு' refers to the limit or measure of one's wealth and resources. If a person does not live ('வாழாதான்') with this awareness, their prosperity ('வாழ்க்கை') might outwardly look abundant and real ('உள போல'). However, this illusion of wealth will quickly turn into nothing ('இல்லாகி') and disappear so completely that even the trace of its former existence will not be seen ('தோன்றாக் கெடும்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -22,7 +22,7 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "he who has"
     }
    ],
    "gloss": "he of words"
@@ -33,10 +33,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "consideration"
+     "gloss": "kindness"
     }
    ],
-   "gloss": "consideration"
+   "gloss": "kindness"
   },
   {
    "surface": "இலன்",
@@ -44,7 +44,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "அன்",
@@ -52,23 +52,18 @@
      "gloss": "he"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "he who does not have"
   },
   {
    "surface": "ஆயின்",
    "parts": [
     {
-     "text": "ஆய்",
-     "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
+     "gloss": "if (he) is"
     }
    ],
-   "gloss": "if he is"
+   "gloss": "if (he) is"
   },
   {
    "surface": "நெடும்",
@@ -76,10 +71,10 @@
     {
      "text": "நெடும்",
      "lemma": "நெடுமை",
-     "gloss": "vast"
+     "gloss": "great"
     }
    ],
-   "gloss": "vast"
+   "gloss": "great"
   },
   {
    "surface": "செல்வம்",
@@ -98,17 +93,17 @@
     {
      "text": "நீடு",
      "lemma": "நீடு",
-     "gloss": "prolonging"
+     "gloss": "to endure"
     }
    ],
-   "gloss": "prolonging"
+   "gloss": "enduring"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
@@ -125,7 +120,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
    "gloss": "right there"
@@ -134,23 +129,18 @@
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடு",
+     "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "perish"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will perish"
     }
    ],
    "gloss": "will perish"
   }
  ],
- "literal": "Harsh he-of-words, consideration he-is-without if-he-is, vast wealth prolonging without right-there will-perish.",
- "translation": "If a leader speaks harsh words and lacks consideration for others, his vast wealth will perish right then and there, without lasting.",
- "modern": "ஒருவன் கடுமையான சொற்களைப் பேசுபவனாகவும், இரக்கம் இல்லாதவனாகவும் இருந்தால், அவனுடைய பெரிய செல்வம் நீடிக்காமல் அப்பொழுதே அழிந்துவிடும்.",
- "explanation": "This couplet warns against the destructive nature of harsh speech and a lack of empathy in a leader. The word 'கண்' (eye) here stands for consideration or graciousness towards others. If a person possesses a harsh tongue and lacks this graciousness, even the most vast and established wealth will not endure. Instead, it will be destroyed immediately without any delay.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If a person is of harsh words and without kindness, his great wealth, without enduring, will perish right there.",
+ "translation": "If a ruler is harsh in speech and devoid of kindness, his vast wealth will perish instantly without enduring.",
+ "modern": "கடுமையான சொற்களைப் பேசுபவனாகவும், இரக்கமற்றவனாகவும் ஒருவன் இருந்தால், அவனுடைய பெரிய செல்வம் நிலைத்து நிற்காமல் அப்பொழுதே அழிந்துவிடும்.",
+ "explanation": "This couplet warns of the swift downfall of a leader who lacks basic virtues of speech and empathy. The word 'கண்' (eye) is used here in the sense of kindness or consideration. A ruler who speaks harshly ('கடுஞ்சொல்லன்') and lacks this kind consideration ('கண்ணிலன்') will find that even vast wealth ('நெடுஞ்செல்வம்') cannot save them. Without lasting long ('நீடின்றி'), their power and prosperity will vanish instantly ('ஆங்கே கெடும்') due to the resentment they foster.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

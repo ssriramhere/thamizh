@@ -6,15 +6,20 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "knowledge or wisdom"
     },
     {
-     "text": "இலான்",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without-he"
+     "gloss": "without"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who"
     }
    ],
-   "gloss": "one without knowledge"
+   "gloss": "the ignorant man"
   },
   {
    "surface": "நெஞ்சுவந்து",
@@ -22,12 +27,12 @@
     {
      "text": "நெஞ்சு",
      "lemma": "நெஞ்சு",
-     "gloss": "heart"
+     "gloss": "heart or mind"
     },
     {
      "text": "உவந்து",
      "lemma": "உவ",
-     "gloss": "having rejoiced"
+     "gloss": "rejoicing or delighting"
     }
    ],
    "gloss": "rejoicing in heart"
@@ -37,8 +42,8 @@
    "parts": [
     {
      "text": "ஈதல்",
-     "lemma": "ஈ",
-     "gloss": "giving"
+     "lemma": "ஈதல்",
+     "gloss": "giving or bestowing"
     }
    ],
    "gloss": "giving"
@@ -49,17 +54,18 @@
     {
      "text": "பிறிதியாதும்",
      "lemma": "பிறிதியாதும்",
-     "gloss": "nothing else"
+     "gloss": "anything else"
     }
    ],
-   "gloss": "nothing else"
+   "gloss": "anything else",
+   "split_unverified": true
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
+     "lemma": "இல்லை",
      "gloss": "is not"
     }
    ],
@@ -74,7 +80,7 @@
      "gloss": "he who receives"
     }
    ],
-   "gloss": "receiver"
+   "gloss": "the receiver"
   },
   {
    "surface": "தவம்",
@@ -82,16 +88,16 @@
     {
      "text": "தவம்",
      "lemma": "தவம்",
-     "gloss": "penance"
+     "gloss": "penance or past merit"
     }
    ],
-   "gloss": "penance"
+   "gloss": "past merit or good fortune"
   }
  ],
- "literal": "One without knowledge heart having rejoiced giving, other anything is not, receiver's penance.",
- "translation": "When a fool gives with a joyful heart, it is due to nothing else but the penance of the receiver.",
- "modern": "அறிவில்லாதவன் மனம் மகிழ்ந்து ஒரு பொருளைக் கொடுத்தால், அதற்குக் காரணம் வேறொன்றும் இல்லை; பொருளைப் பெறுகின்றவன் செய்த தவமே ஆகும்.",
- "explanation": "This couplet explains the rare event of a foolish person giving generously. Since a fool lacks the wisdom to understand the value of charity, their joyful giving is not a result of their own virtue. Instead, it is entirely the result of the good deeds or penance (தவம்) previously performed by the person who receives the gift. The phrase 'பிறிதியாதும் இல்லை' emphasizes that there is absolutely no other reason for this unexpected generosity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "An ignorant man rejoicing in heart giving is not anything else than the receiver's past merit.",
+ "translation": "When an ignorant man gives with a glad heart, it is due to nothing other than the past merit of the receiver.",
+ "modern": "அறிவில்லாதவன் மனமகிழ்ந்து ஒரு கொடையைக் கொடுப்பது, அதனைப் பெறுகின்றவனுடைய தவப்பயனே தவிர வேறு ஒன்றும் இல்லை.",
+ "explanation": "This couplet explains the rare occurrence of an ignorant person performing an act of charity. Since an unwise person lacks the understanding to give purposefully, any instance where they give with a glad heart is not due to their own virtue. Instead, it is attributed entirely to the good fortune or past spiritual merit of the recipient. The word 'tavam' here refers to the accumulated merit or destiny of the receiver that makes the impossible happen.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,7 +9,7 @@
      "gloss": "closing"
     }
    ],
-   "gloss": "closing"
+   "gloss": "closing of the eyes"
   },
   {
    "surface": "ஆற்றா",
@@ -17,10 +17,10 @@
     {
      "text": "ஆற்றா",
      "lemma": "ஆற்று",
-     "gloss": "unable"
+     "gloss": "not enduring"
     }
    ],
-   "gloss": "unable"
+   "gloss": "unable to endure"
   },
   {
    "surface": "பைதல்",
@@ -28,18 +28,18 @@
     {
      "text": "பைதல்",
      "lemma": "பைதல்",
-     "gloss": "sorrow"
+     "gloss": "grief"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "grief"
   },
   {
    "surface": "உழக்கும்",
    "parts": [
     {
      "text": "உழக்கும்",
-     "lemma": "உழக்கு",
-     "gloss": "suffers"
+     "lemma": "உழத்தல்",
+     "gloss": "suffering"
     }
    ],
    "gloss": "suffers"
@@ -50,10 +50,10 @@
     {
      "text": "கடல்",
      "lemma": "கடல்",
-     "gloss": "sea"
+     "gloss": "ocean"
     }
    ],
-   "gloss": "sea"
+   "gloss": "ocean"
   },
   {
    "surface": "ஆற்றா",
@@ -61,10 +61,10 @@
     {
      "text": "ஆற்றா",
      "lemma": "ஆற்று",
-     "gloss": "uncontainable"
+     "gloss": "exceeding"
     }
    ],
-   "gloss": "uncontainable"
+   "gloss": "which exceeds"
   },
   {
    "surface": "காமநோய்",
@@ -75,7 +75,8 @@
      "gloss": "love-sickness"
     }
    ],
-   "gloss": "love-sickness"
+   "gloss": "love-sickness",
+   "split_unverified": true
   },
   {
    "surface": "செய்த",
@@ -86,14 +87,14 @@
      "gloss": "caused"
     }
    ],
-   "gloss": "caused"
+   "gloss": "which caused"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "என்",
+     "lemma": "யான்",
      "gloss": "my"
     }
    ],
@@ -111,10 +112,10 @@
    "gloss": "eyes"
   }
  ],
- "literal": "Unable to close, sorrow suffer, sea uncontainable love-sickness caused my eyes.",
- "translation": "My eyes, which caused this love-sickness vaster than the ocean, now suffer in sorrow, unable to close in sleep.",
- "modern": "கடலை விடப் பெரியதான இந்தக் காதல் நோயை எனக்கு உண்டாக்கிய என் கண்கள், இப்போது தூங்க முடியாமல் துன்பப்படுகின்றன.",
- "explanation": "The speaker blames her own eyes for her immense suffering. It was her eyes that first looked at her lover, bringing upon her a love-sickness that is vaster than the ocean. Now, in a fitting turn of events, those very eyes are unable to close in sleep and are suffering in sorrow. The couplet beautifully captures the irony of the eyes being both the cause of the passion and the victims of its resulting sleeplessness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Unable to endure closing, suffering grief, my eyes, which caused the love-sickness exceeding the ocean.",
+ "translation": "My very eyes, which brought upon me this love-sickness greater than the ocean, are now suffering from grief, unable even to close in sleep.",
+ "modern": "கடலை விடப் பெரிய காம நோயை எனக்கு உண்டாக்கிய என் கண்கள், இப்போது தூங்குவதற்குக் கூட முடியாமல் துன்பத்தை அனுபவிக்கின்றன.",
+ "explanation": "In this couplet, the heroine laments the irony of her situation. It was her own eyes that first gazed upon her lover and created a passion so vast that even the ocean cannot contain it (கடல் ஆற்றா காமநோய்). Now, those very same eyes are unable to close (படல் ஆற்றா) in sleep and must endure the agonizing grief of separation. The poet beautifully contrasts the active role of the eyes in creating the desire with their current passive suffering.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

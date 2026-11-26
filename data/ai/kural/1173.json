@@ -4,30 +4,35 @@
    "surface": "கதுமெனத்",
    "parts": [
     {
-     "text": "கதும்",
-     "lemma": "கதும்",
-     "gloss": "swiftly"
-    },
-    {
-     "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "text": "கதுமென",
+     "lemma": "கதுமென",
+     "gloss": "suddenly"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "suddenly"
   },
   {
    "surface": "தாநோக்கித்",
    "parts": [
     {
-     "text": "தாநோக்கித்",
-     "lemma": "தாநோக்கி",
-     "gloss": "having looked themselves"
+     "text": "தா",
+     "lemma": "தாம்",
+     "gloss": "themselves"
+    },
+    {
+     "text": "நோக்கி",
+     "lemma": "நோக்கு",
+     "gloss": "having looked"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi consonant"
     }
    ],
    "gloss": "having looked themselves"
@@ -43,10 +48,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "they themselves"
+   "gloss": "themselves indeed"
   },
   {
    "surface": "கலுழும்",
@@ -54,7 +59,7 @@
     {
      "text": "கலுழும்",
      "lemma": "கலுழ்",
-     "gloss": "will weep"
+     "gloss": "weeps"
     }
    ],
    "gloss": "weep"
@@ -86,11 +91,11 @@
    "parts": [
     {
      "text": "தக்கது",
-     "lemma": "தக்கது",
-     "gloss": "fit thing"
+     "lemma": "தகு",
+     "gloss": "that which is fit"
     }
    ],
-   "gloss": "fit thing"
+   "gloss": "worthy of"
   },
   {
    "surface": "உடைத்து",
@@ -104,10 +109,10 @@
    "gloss": "possesses"
   }
  ],
- "literal": "Swiftly having looked themselves, they themselves weep; this to laugh fit thing possesses.",
- "translation": "My eyes eagerly looked at him themselves, and now they themselves weep. This situation is truly fit to be laughed at.",
- "modern": "விரைந்து சென்று தாமே அவரைப் பார்த்துவிட்டு, இப்போது தாமே அழுகின்ற என் கண்களின் இந்த நிலைமை சிரிக்கத் தக்கதாக இருக்கிறது.",
- "explanation": "The heroine speaks about her pining eyes, pointing out the irony of their situation. She notes that her eyes eagerly sought out her lover on their own, but now they are the ones weeping because of his absence. The word 'கதுமென' means swiftly or eagerly, highlighting their initial haste. She concludes that this self-inflicted suffering possesses a nature ('உடைத்து') that is fit only to be laughed at ('நகத் தக்கது').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Suddenly themselves having looked, themselves indeed weep; this to laugh worthy of possesses.",
+ "translation": "Having eagerly looked on their own, my eyes now weep by themselves; this is truly something to be laughed at.",
+ "modern": "விரைவாகத் தாமாகவே பார்த்துவிட்டு, இப்பொழுது தாமாகவே அழுகின்ற என் கண்களின் இந்தச் செயல், சிரிப்பிற்குரிய தன்மையைக் கொண்டிருக்கிறது.",
+ "explanation": "In this couplet, the heroine speaks of the irony of her eyes' behavior. The eyes eagerly and hastily rushed to look at her lover when he was near. Now that he is away, those very same eyes weep in deep sorrow and longing. She remarks that this self-inflicted grief is highly amusing and worthy of mockery, as the eyes themselves brought about this pain by looking in the first place.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

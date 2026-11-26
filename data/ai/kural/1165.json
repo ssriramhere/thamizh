@@ -11,10 +11,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "in"
     }
    ],
-   "gloss": "if in enmity"
+   "gloss": "in enmity"
   },
   {
    "surface": "எவன்",
@@ -43,7 +43,7 @@
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "they (third person plural suffix)"
     }
    ],
    "gloss": "will they become"
@@ -54,10 +54,10 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "particle of emphasis"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "indeed (particle)"
   },
   {
    "surface": "கொல்",
@@ -65,10 +65,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "I wonder"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "wonder (particle)"
   },
   {
    "surface": "துயர்",
@@ -87,10 +87,10 @@
     {
      "text": "வரவு",
      "lemma": "வரவு",
-     "gloss": "coming"
+     "gloss": "arrival"
     }
    ],
-   "gloss": "coming"
+   "gloss": "arrival"
   },
   {
    "surface": "நட்பினுள்",
@@ -98,12 +98,12 @@
     {
      "text": "நட்பு",
      "lemma": "நட்பு",
-     "gloss": "friendship"
+     "gloss": "love"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "oblique case marker"
     },
     {
      "text": "உள்",
@@ -111,7 +111,7 @@
      "gloss": "within"
     }
    ],
-   "gloss": "within friendship"
+   "gloss": "within love"
   },
   {
    "surface": "ஆற்றுபவர்",
@@ -122,23 +122,18 @@
      "gloss": "cause"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "they"
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "those who do"
     }
    ],
    "gloss": "those who cause"
   }
  ],
- "literal": "If in enmity what will they become, I wonder, sorrow's coming within friendship those who cause.",
- "translation": "If he brings me such sorrow even while we are in love, what would he do if he became my enemy?",
- "modern": "அன்பாக இருக்கும்போதே எனக்குத் துன்பம் தருபவர், ஒருவேளை பகையானால் என்ன செய்வாரோ?",
- "explanation": "The speaker laments the pain caused by her lover's departure. She wonders how much more she would suffer if he were actually her enemy, since he causes her so much grief even while they are in love. The contrast between friendship and enmity highlights the unbearable nature of her current sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In enmity, what will they become indeed, I wonder, the arrival of sorrow within love who cause?",
+ "translation": "If those who are in a loving relationship cause only the arrival of sorrow, what would they become if they were to turn into enemies?",
+ "modern": "அன்பான உறவிலேயே துன்பம் வருவதற்குக் காரணமாக இருப்பவர்கள், ஒருவேளை பகைமை கொண்டால் என்னவாக மாறுவார்களோ?",
+ "explanation": "The heroine, suffering from the pain of separation, laments the behavior of her lover. She points out that even during their intimate relationship, he brings her immense grief through his absence. She wonders aloud what kind of suffering he would inflict if he were to become an open enemy. The word 'tuppu' is chosen here in its sense of 'enmity' to contrast with 'naṭpu' (love), highlighting the irony of receiving pain from a loved one.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

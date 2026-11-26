@@ -9,12 +9,17 @@
      "gloss": "cow"
     },
     {
-     "text": "இற்கு",
-     "lemma": "இற்கு",
-     "gloss": "to"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative suffix"
     }
    ],
-   "gloss": "to the cow"
+   "gloss": "for the cow"
   },
   {
    "surface": "நீர்",
@@ -42,9 +47,19 @@
    "surface": "இரப்பினும்",
    "parts": [
     {
-     "text": "இரப்பின்",
+     "text": "இர",
      "lemma": "இர",
-     "gloss": "if begging"
+     "gloss": "to beg"
+    },
+    {
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
+     "gloss": "increment"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
     },
     {
      "text": "உம்",
@@ -52,7 +67,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if begging"
+   "gloss": "even if one begs"
   },
   {
    "surface": "நாவிற்கு",
@@ -63,9 +78,14 @@
      "gloss": "tongue"
     },
     {
-     "text": "இற்கு",
-     "lemma": "இற்கு",
-     "gloss": "to"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative suffix"
     }
    ],
    "gloss": "to the tongue"
@@ -81,7 +101,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative)"
     }
    ],
    "gloss": "than begging"
@@ -90,12 +110,17 @@
    "surface": "இளிவந்தது",
    "parts": [
     {
-     "text": "இளிவந்தது",
-     "lemma": "இளிவருதல்",
-     "gloss": "disgraceful thing"
+     "text": "இளி",
+     "lemma": "இளி",
+     "gloss": "disgrace"
+    },
+    {
+     "text": "வந்தது",
+     "lemma": "வா",
+     "gloss": "that which came"
     }
    ],
-   "gloss": "disgraceful thing"
+   "gloss": "that which is disgraceful"
   },
   {
    "surface": "இல்",
@@ -103,16 +128,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is nothing"
   }
  ],
- "literal": "To the cow water saying even if begging, to the tongue than begging a disgraceful thing is not.",
- "translation": "Even if one begs to provide water for a thirsty cow, there is nothing more disgraceful to the tongue than the act of begging.",
- "modern": "ஒரு பசுவிற்கு நீர் வேண்டும் என்று பிறரிடம் இரந்து கேட்டாலும், ஒருவருடைய நாவிற்கு இரப்பதை விட இழிவான செயல் வேறு இல்லை.",
- "explanation": "This couplet emphasizes the absolute disgrace of begging, regardless of how noble the cause might be. The phrase 'ஆவிற்கு நீர்' (water for the cow) represents an extremely virtuous and urgent request, as providing water to a suffering animal is universally seen as a good deed. However, the word 'இரப்பினும்' (even if begging) shows that the act of asking itself taints the speaker. The tongue ('நாவிற்கு') is meant for dignified speech, and uttering words of supplication brings it unparalleled shame ('இளிவந்தது இல்'). Thus, begging is condemned unconditionally.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if one begs saying 'water for a cow', to the tongue, than begging, a disgraceful thing there is not.",
+ "translation": "Even if one begs for water to quench the thirst of a cow, there is nothing more disgraceful to the tongue than that act of begging.",
+ "modern": "பசுவுக்குத் தண்ணீர் கொடுங்கள் என்று இரந்து கேட்டாலும், ஒருவனுடைய நாவிற்கு இரந்து கேட்பதை விட இழிவானது வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet highlights the absolute dread and disgrace of begging, which is the theme of this chapter. Even when begging is done for an extremely noble and selfless cause—such as asking for water to save a thirsty cow—the act of begging itself remains the ultimate disgrace for the tongue that utters the request. The poet uses the example of a cow, traditionally a symbol of virtue and helplessness, to show that no motive, however virtuous, can wash away the inherent indignity of begging. It emphasizes that maintaining one's self-respect and avoiding begging is paramount under all circumstances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

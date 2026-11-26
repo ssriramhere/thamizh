@@ -4,19 +4,9 @@
    "surface": "எல்லார்க்கும்",
    "parts": [
     {
-     "text": "எல்லார்",
+     "text": "எல்லார்க்கும்",
      "lemma": "எல்லார்",
-     "gloss": "all people"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "to all people"
     }
    ],
    "gloss": "to everyone"
@@ -27,10 +17,10 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "good thing"
     }
    ],
-   "gloss": "good"
+   "gloss": "is good"
   },
   {
    "surface": "ஆம்",
@@ -38,10 +28,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "becomes"
+     "gloss": "becomes / is"
     }
    ],
-   "gloss": "is"
+   "gloss": "it is"
   },
   {
    "surface": "பணிதல்",
@@ -49,7 +39,7 @@
     {
      "text": "பணிதல்",
      "lemma": "பணி",
-     "gloss": "bowing"
+     "gloss": "to bow / be humble"
     }
    ],
    "gloss": "humility"
@@ -60,7 +50,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "those people"
+     "gloss": "they / those people"
     }
    ],
    "gloss": "them"
@@ -71,12 +61,12 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "among / inside"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even / also"
     }
    ],
    "gloss": "even among"
@@ -85,22 +75,17 @@
    "surface": "செல்வர்க்கே",
    "parts": [
     {
-     "text": "செல்வர்",
+     "text": "செல்வர்க்கு",
      "lemma": "செல்வர்",
-     "gloss": "wealthy people"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "gloss": "rich people"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed / emphasis"
     }
    ],
-   "gloss": "to the wealthy indeed"
+   "gloss": "especially to the wealthy"
   },
   {
    "surface": "செல்வம்",
@@ -119,16 +104,16 @@
     {
      "text": "தகைத்து",
      "lemma": "தகைமை",
-     "gloss": "has the nature of"
+     "gloss": "nature / quality"
     }
    ],
-   "gloss": "has the nature of"
+   "gloss": "has the quality of"
   }
  ],
- "literal": "To everyone good is humility; even among them, to the wealthy indeed wealth it has the nature of.",
- "translation": "Humility is a good trait for everyone. Even among them, for the wealthy, it is like having an additional wealth.",
- "modern": "அடக்கமாக இருத்தல் எல்லா மக்களுக்கும் நன்மையைத் தரும். அந்த மக்களுள்ளும், செல்வம் உடையவர்களுக்கு அந்த அடக்கமே மற்றொரு செல்வம் போன்ற சிறப்பினை உடையதாகும்.",
- "explanation": "The couplet states that humility or self-restraint is a beneficial quality for all people. The word 'பணிதல்' means bowing down or being humble, which brings goodness ('நன்று') to everyone. However, the poet emphasizes that for those who are already wealthy ('செல்வர்'), this humility acts as an additional, crowning wealth ('செல்வம் தகைத்து'). While wealth can often make people arrogant, a wealthy person who remains humble possesses a virtue that outshines their material riches.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To everyone, good it is, humility; among them, to the wealthy indeed, wealth's quality it has.",
+ "translation": "Humility is good for everyone; yet, among them, for the wealthy, it is a wealth that possesses the true nature of wealth.",
+ "modern": "பணிவுடன் நடப்பது எல்லாருக்கும் நல்லது. ஆனால், அவர்களுள் செல்வந்தர்களுக்கு அந்தப் பணிவே மேலும் ஒரு செல்வமாக விளங்கும் தகைமையைப் பெற்றுள்ளது.",
+ "explanation": "This couplet highlights the universal value of humility (பணிதல்) while emphasizing its special beauty in those who are prosperous. While being humble is a virtue that benefits anyone, it becomes an extraordinary ornament for the rich (செல்வர்). For those who already possess material abundance, practicing humility is considered a supreme wealth in itself (செல்வம் தகைத்து), as it is rare and commands the highest respect.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

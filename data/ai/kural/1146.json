@@ -6,18 +6,18 @@
     {
      "text": "கண்டது",
      "lemma": "காண்",
-     "gloss": "what was seen"
+     "gloss": "that which was seen"
     }
    ],
-   "gloss": "the seeing"
+   "gloss": "that which was seen"
   },
   {
    "surface": "மன்னும்",
    "parts": [
     {
      "text": "மன்னும்",
-     "lemma": "மன்",
-     "gloss": "indeed"
+     "lemma": "மன்னும்",
+     "gloss": "indeed (particle of emphasis)"
     }
    ],
    "gloss": "indeed"
@@ -50,21 +50,21 @@
     {
      "text": "அலர்",
      "lemma": "அலர்",
-     "gloss": "rumour"
+     "gloss": "public rumor / gossip"
     }
    ],
-   "gloss": "rumour"
+   "gloss": "public rumor"
   },
   {
    "surface": "மன்னும்",
    "parts": [
     {
      "text": "மன்னும்",
-     "lemma": "மன்னு",
-     "gloss": "endures"
+     "lemma": "மன்னும்",
+     "gloss": "indeed (particle of emphasis)"
     }
    ],
-   "gloss": "endures"
+   "gloss": "indeed"
   },
   {
    "surface": "திங்களை",
@@ -77,10 +77,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "moon"
+   "gloss": "the moon"
   },
   {
    "surface": "பாம்பு",
@@ -110,16 +110,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "The seeing indeed [was] one day; rumour endures like the moon [being] seized [by] a snake.",
- "translation": "We met for only a single day, but the rumour of it has spread everywhere, just like the news of a snake seizing the moon.",
- "modern": "நாங்கள் ஒரு நாள் மட்டுமே சந்தித்தோம். ஆனால் அந்தச் செய்தி, பாம்பு நிலவை விழுங்கிய செய்தியைப் போல ஊர் முழுவதும் பரவிவிட்டது.",
- "explanation": "The speaker expresses astonishment at how quickly their secret became known. They met for just one day, yet the gossip has spread far and wide. The poet uses the striking image of a lunar eclipse, traditionally described as a snake swallowing the moon, to show how universally and rapidly the rumour has caught everyone's attention.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which was seen was indeed only one day; the public rumor indeed is like the snake seizing the moon.",
+ "translation": "Our meeting was but for a single day; yet the public gossip about it has spread instantly, like the eclipse of the moon seized by the serpent.",
+ "modern": "நாங்கள் ஒருவரை ஒருவர் பார்த்தது ஒரு நாள் மட்டுமே; ஆனால் எங்களைப் பற்றிய வதந்தி, பாம்பானது சந்திரனைப் பிடித்துக் கொண்ட கிரகணத்தைப் போல எங்கும் பரவிவிட்டது.",
+ "explanation": "The heroine laments how quickly and widely the town has begun to gossip about her secret love. She points out that she and her lover met for only a single day ('கண்டது ஒருநாள்'). Yet, the resulting public rumor ('அலர்') has spread instantly to everyone, just like a lunar eclipse ('திங்களைப் பாம்புகொண்டற்று') where a serpent is believed to seize the moon, drawing the attention of the entire world. The contrast between the brief, private meeting and the massive, public gossip highlights her distress.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

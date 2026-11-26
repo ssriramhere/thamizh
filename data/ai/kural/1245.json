@@ -6,28 +6,33 @@
     {
      "text": "செற்றார்",
      "lemma": "செறு",
-     "gloss": "those who hate"
+     "gloss": "those who disliked or hated"
     }
    ],
-   "gloss": "those who hate"
+   "gloss": "those who disliked us"
   },
   {
    "surface": "என",
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "saying or thinking that"
     }
    ],
-   "gloss": "saying"
+   "gloss": "saying that"
   },
   {
    "surface": "கைவிடல்",
    "parts": [
     {
-     "text": "கைவிடல்",
-     "lemma": "கைவிடு",
+     "text": "கை",
+     "lemma": "கை",
+     "gloss": "hand"
+    },
+    {
+     "text": "விடல்",
+     "lemma": "விடுதல்",
      "gloss": "abandoning"
     }
    ],
@@ -38,16 +43,16 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "is there"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "is there?"
+   "gloss": "is it possible?"
   },
   {
    "surface": "நெஞ்சே",
@@ -70,7 +75,7 @@
    "parts": [
     {
      "text": "யாம்",
-     "lemma": "யான்",
+     "lemma": "யாம்",
      "gloss": "we"
     }
    ],
@@ -82,27 +87,27 @@
     {
      "text": "உற்றால்",
      "lemma": "உறு",
-     "gloss": "if loved"
+     "gloss": "if we love or reach"
     }
    ],
-   "gloss": "if loved"
+   "gloss": "if we love"
   },
   {
    "surface": "உறாஅதவர்",
    "parts": [
     {
      "text": "உறாஅதவர்",
-     "lemma": "உறு",
-     "gloss": "those who do not love"
+     "lemma": "உறாதவர்",
+     "gloss": "those who do not love in return"
     }
    ],
-   "gloss": "those who do not love"
+   "gloss": "those who do not love us"
   }
  ],
- "literal": "Those who hate, saying, abandoning is there, O heart, we, if loved, those who do not love.",
- "translation": "O heart, is it possible to abandon him saying 'he hates us', when he does not return our love even as we love him?",
- "modern": "நெஞ்சே! நாம் அன்பு செலுத்தினாலும் நம்மிடம் அன்பு செலுத்தாத அவரை, அவர் நம்மை வெறுக்கிறார் என்று கூறி நாம் கைவிடுவது சாத்தியமா?",
- "explanation": "The heroine addresses her own heart, which is drawn to her lover despite his apparent indifference. She asks if it is truly possible to abandon him just because he seems to shun them. The contrast between 'யாம் உற்றால்' (when we love) and 'உறாஅதவர்' (he who does not love) highlights her unrequited yet unwavering affection. The rhetorical question 'கைவிடல் உண்டோ' implies that letting go is entirely impossible for her.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "O heart! Saying that they disliked us, is there abandoning them, when they are those who do not love us even if we love them?",
+ "translation": "O my heart! Is it possible for us to abandon him saying 'he dislikes us', when he is one who does not love us even when we love him?",
+ "modern": "நெஞ்சே! நாம் அன்பு செய்தாலும் நம்மிடம் அன்பு செய்யாதவராகிய அவரை, 'அவர் நம்மை வெறுத்துவிட்டார்' என்று கூறி நம்மால் கைவிட முடியுமா?",
+ "explanation": "In this couplet, the heroine speaks to her own heart about her inability to let go of her lover. She asks her heart if they can truly abandon him under the excuse that he dislikes or is angry with them (செற்றார்). She points out the bitter truth: he is already someone who does not return their love (உறாஅதவர்) even when they love him deeply (யாம் உற்றால்). Since they could not stop loving him despite his indifference, they cannot easily cast him aside now just because of his apparent hostility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

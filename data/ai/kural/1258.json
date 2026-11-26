@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "பன்மாய",
-     "lemma": "பன்மாயம்",
-     "gloss": "of many tricks"
+     "lemma": "பன்மாய",
+     "gloss": "of many deceits"
     }
    ],
-   "gloss": "of many tricks"
+   "gloss": "of many deceits",
+   "split_unverified": true
   },
   {
    "surface": "கள்வன்",
@@ -33,7 +34,7 @@
     {
      "text": "மொழி",
      "lemma": "மொழி",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
    "gloss": "humble words"
@@ -43,16 +44,16 @@
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
-     "gloss": "is not"
+     "lemma": "அன்று",
+     "gloss": "is it not"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "emphasis marker"
     }
    ],
-   "gloss": "are they not"
+   "gloss": "is it not indeed"
   },
   {
    "surface": "நம்",
@@ -71,10 +72,10 @@
     {
      "text": "பெண்மை",
      "lemma": "பெண்மை",
-     "gloss": "womanhood"
+     "gloss": "feminine reserve"
     }
    ],
-   "gloss": "womanhood"
+   "gloss": "feminine reserve"
   },
   {
    "surface": "உடைக்கும்",
@@ -82,10 +83,10 @@
     {
      "text": "உடைக்கும்",
      "lemma": "உடை",
-     "gloss": "which breaks"
+     "gloss": "that which breaks"
     }
    ],
-   "gloss": "which breaks"
+   "gloss": "that which breaks"
   },
   {
    "surface": "படை",
@@ -99,10 +100,10 @@
    "gloss": "weapon"
   }
  ],
- "literal": "Of many tricks thief's humble words are they not our womanhood breaking weapon",
- "translation": "Are not the submissive words of that rogue of many tricks the very weapon that shatters my feminine reserve?",
- "modern": "பல மாயங்களைச் செய்யும் கள்வனாகிய என் காதலனின் பணிவான வார்த்தைகள் என்னுடைய பெண்மை என்னும் உறுதியை உடைக்கும் ஆயுதமாக இருக்கின்றன அல்லவா?",
- "explanation": "The heroine admits to her friend that she cannot maintain her feminine reserve and stay angry at her lover. She calls him a thief of many tricks because he knows exactly how to deceive her heart. His humble, pleading words act as a powerful weapon that effortlessly shatters her steadfastness and modesty.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The many-deceitful thief's humble words, are they not the weapon that breaks our feminine reserve?",
+ "translation": "Are not the submissive words of that thief of many deceits the very weapon that shatters our feminine reserve?",
+ "modern": "பல ஏமாற்று வேலைகளைச் செய்யும் கள்வனாகிய காதலனின் பணிவான சொற்கள் அல்லவா நம்முடைய பெண்மைத் தன்மையை உடைக்கும் கருவியாக இருக்கின்றன!",
+ "explanation": "The heroine speaks of her lover, whom she calls a thief of many deceits because he easily steals her heart despite her resolve. She realizes that her feminine reserve and self-control are completely shattered not by force, but by his gentle, submissive, and humble words. These soft words act as a powerful weapon that breaks down her defenses. The couplet beautifully contrasts the strength of a weapon with the softness of humble speech, showing how tenderness can conquer firm resolve.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

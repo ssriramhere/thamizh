@@ -6,10 +6,10 @@
     {
      "text": "இன்னாமை",
      "lemma": "இன்னாமை",
-     "gloss": "suffering"
+     "gloss": "pain"
     }
    ],
-   "gloss": "suffering"
+   "gloss": "pain"
   },
   {
    "surface": "இன்பம்",
@@ -17,10 +17,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "என",
@@ -37,14 +37,9 @@
    "surface": "கொளின்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளின்",
      "lemma": "கொள்",
-     "gloss": "take"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one takes"
     }
    ],
    "gloss": "if one takes"
@@ -66,10 +61,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "one's"
+     "gloss": "one's own"
     }
    ],
-   "gloss": "one's"
+   "gloss": "one's own"
   },
   {
    "surface": "ஒன்னார்",
@@ -77,10 +72,10 @@
     {
      "text": "ஒன்னார்",
      "lemma": "ஒன்னார்",
-     "gloss": "foes"
+     "gloss": "enemies"
     }
    ],
-   "gloss": "foes"
+   "gloss": "enemies"
   },
   {
    "surface": "விழையும்",
@@ -105,10 +100,10 @@
    "gloss": "greatness"
   }
  ],
- "literal": "Suffering joy as if one takes, will come to be one's foes desiring greatness.",
- "translation": "If one embraces adversity as joy, one will attain a greatness that even one's enemies admire.",
- "modern": "துன்பத்தையே இன்பமாக ஏற்றுக்கொண்டால், ஒருவனுக்கு அவனுடைய பகைவரும் விரும்பும் பெருமை உண்டாகும்.",
- "explanation": "This couplet teaches the mindset needed to overcome adversity. By choosing to view suffering ('இன்னாமை') as a form of joy ('இன்பம்'), a person demonstrates extraordinary resilience. Such an unshakable attitude elevates their character to a level of greatness ('சிறப்பு') that commands respect and admiration even from their enemies ('ஒன்னார்'). The word 'விழையும்' highlights that this greatness is so compelling that foes themselves wish they possessed it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one takes pain as pleasure, there will become one's own enemies desiring greatness.",
+ "translation": "If a person accepts adversity as pleasure, they will attain a greatness that even their enemies will admire.",
+ "modern": "துன்பத்தை இன்பமாக ஏற்றுக்கொண்டால், ஒருவனுடைய பகைவரும் விரும்பத்தக்க பெருமை அவனுக்கு உண்டாகும்.",
+ "explanation": "This couplet explains how to overcome adversity by changing one's attitude towards it. If a person welcomes difficulties and pain (இன்னாமை) as if they were pleasures (இன்பம்), they develop an unshakeable strength. This attitude leads to a level of greatness and distinction (சிறப்பு) that even their enemies (ஒன்னார்) will look upon with admiration and desire to possess. By not being defeated by suffering, one wins the ultimate respect of all.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,26 +6,26 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "fault or blemish"
     }
    ],
-   "gloss": "fault"
+   "gloss": "fault or blemish"
   },
   {
    "surface": "இலனாய்",
    "parts": [
     {
      "text": "இலன்",
-     "lemma": "இல்",
-     "gloss": "he who is without"
+     "lemma": "இலன்",
+     "gloss": "one who is without"
     },
     {
      "text": "ஆய்",
-     "lemma": "ஆ",
+     "lemma": "ஆய்",
      "gloss": "having become"
     }
    ],
-   "gloss": "being without"
+   "gloss": "being free from"
   },
   {
    "surface": "குடி",
@@ -33,10 +33,10 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "family"
+     "gloss": "family or lineage"
     }
    ],
-   "gloss": "family"
+   "gloss": "family or lineage"
   },
   {
    "surface": "செய்து",
@@ -44,23 +44,23 @@
     {
      "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "having promoted"
+     "gloss": "doing or elevating"
     }
    ],
-   "gloss": "having promoted"
+   "gloss": "elevating or exalting"
   },
   {
    "surface": "வாழ்வானை",
    "parts": [
     {
      "text": "வாழ்வான்",
-     "lemma": "வாழ்",
+     "lemma": "வாழ்வான்",
      "gloss": "he who lives"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[accusative]"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "him who lives"
@@ -71,7 +71,7 @@
     {
      "text": "சுற்றம்",
      "lemma": "சுற்றம்",
-     "gloss": "kindred"
+     "gloss": "kin or relative"
     },
     {
      "text": "ஆ",
@@ -79,7 +79,7 @@
      "gloss": "as"
     }
    ],
-   "gloss": "as kindred"
+   "gloss": "as a kinsman"
   },
   {
    "surface": "சுற்றும்",
@@ -87,7 +87,7 @@
     {
      "text": "சுற்றும்",
      "lemma": "சுற்று",
-     "gloss": "will surround"
+     "gloss": "will surround or embrace"
     }
    ],
    "gloss": "will surround"
@@ -98,16 +98,16 @@
     {
      "text": "உலகு",
      "lemma": "உலகு",
-     "gloss": "world"
+     "gloss": "the world or people of the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "Fault being without, family having promoted, him who lives, as kindred will surround the world.",
- "translation": "The world will surround as its own kindred the man who lives without fault and elevates his family.",
- "modern": "எந்தக் குற்றமும் இல்லாதவனாய், தன் குடியை உயர்த்தி வாழ்கின்றவனை, இந்த உலகத்தார் தங்கள் சுற்றமாக ஏற்றுச் சூழ்ந்து கொள்வார்கள்.",
- "explanation": "This couplet describes the social reward for a person who leads a blameless life while working to uplift their family. The phrase 'குடி செய்து' (kuṭi ceytu) literally means 'having done family', which in this context means acting to build up or promote one's lineage. When a person lives without fault ('குற்றம் இலனாய்') and achieves this, the world ('உலகு') does not merely admire them from afar. Instead, it embraces and surrounds ('சுற்றும்') them as if they were its own kindred ('சுற்றமா'). The poetic repetition of the root 'சுற்று' (meaning both 'kindred' and 'to surround') emphasizes the close, familial bond society forms with such noble individuals.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Him who lives elevating his family, being free from faults, the world will surround as a kinsman.",
+ "translation": "The world will gather around as a close relative to embrace the one who lives free of faults, constantly working to elevate their family.",
+ "modern": "குற்றம் இல்லாதவனாய் தன் குடியை உயரச் செய்து வாழ்கின்றவனை, இவ்வுலகம் தன் உறவினனாகக் கருதிச் சூழ்ந்து கொள்ளும்.",
+ "explanation": "This couplet highlights the universal respect earned by someone who dedicates their life to the upliftment of their family or community through righteous means. The phrase 'kuṟṟam ilaṉāy' emphasizes that this effort must be free of moral blemishes or dishonest deeds. When a person selflessly elevates their lineage ('kuṭi ceytu') with such integrity, they do not remain isolated; instead, the entire world ('ulaku') embraces them. The world treats them not as a stranger, but surrounds them with the warmth and affection reserved for one's own close kin ('cuṟṟamā').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

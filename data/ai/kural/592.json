@@ -6,10 +6,10 @@
     {
      "text": "உள்ளம்",
      "lemma": "உள்ளம்",
-     "gloss": "mind/energy"
+     "gloss": "mind or inner zeal"
     }
    ],
-   "gloss": "energy"
+   "gloss": "inner zeal or motivation"
   },
   {
    "surface": "உடைமை",
@@ -31,7 +31,7 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "(is true) possession"
+   "gloss": "is the true possession"
   },
   {
    "surface": "பொருள்",
@@ -39,10 +39,10 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "wealth"
+     "gloss": "material wealth"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "material wealth"
   },
   {
    "surface": "உடைமை",
@@ -59,14 +59,9 @@
    "surface": "நில்லாது",
    "parts": [
     {
-     "text": "நில்",
+     "text": "நில்லாது",
      "lemma": "நில்",
-     "gloss": "stay"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without staying"
     }
    ],
    "gloss": "without staying"
@@ -75,14 +70,9 @@
    "surface": "நீங்கி",
    "parts": [
     {
-     "text": "நீங்கு",
+     "text": "நீங்கி",
      "lemma": "நீங்கு",
-     "gloss": "depart"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having departed"
     }
    ],
    "gloss": "having departed"
@@ -91,23 +81,18 @@
    "surface": "விடும்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடும்",
      "lemma": "விடு",
-     "gloss": "leave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will leave"
     }
    ],
-   "gloss": "will leave"
+   "gloss": "will go away completely"
   }
  ],
- "literal": "Energy possession (is) possession; wealth possession without staying having departed will leave.",
- "translation": "The possession of inner energy is true possession. The possession of material wealth will not endure and will slip away.",
- "modern": "ஊக்கத்தை உடையவராக இருப்பதே உண்மையான உடைமையாகும். பொருட்செல்வம் நிலைத்து நிற்காமல் ஒருவரை விட்டு நீங்கிப் போய்விடும்.",
- "explanation": "This couplet contrasts inner drive with external wealth. The word 'uḷḷam' generally means the mind, but in the context of this chapter, it specifically refers to the mind's energy or motivation. The poet states that possessing this inner energy is the only real wealth a person can have. Material wealth ('poruḷ'), on the other hand, is temporary; it does not stay fixed and will eventually disappear. Therefore, true security lies in one's own enduring motivation rather than in fleeting possessions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Zeal possession is the true possession; material wealth possession, without staying, departing will go away.",
+ "translation": "The possession of inner motivation is the only true possession; the possession of material wealth does not last, but will slip away.",
+ "modern": "ஊக்கத்தை உடைமையாகக் கொண்டிருப்பதே நிலையான உடைமையாகும்; பொருள் உடைமையாக இருப்பது நிலைத்து நிற்காமல் நம்மை விட்டு நீங்கிவிடும்.",
+ "explanation": "This couplet contrasts internal strength with external riches. The word 'uḷḷam' here refers to the inner energy, zeal, or motivation of a person. The poet asserts that having this inner drive is the only permanent and real possession ('uṭaimai') one can own. On the other hand, material wealth ('poruḷ') is transient; it lacks stability and will eventually depart ('nīṅki viṭum') from a person. Therefore, cultivating a motivated mind is far more valuable than gathering material goods.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

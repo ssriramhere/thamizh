@@ -4,12 +4,17 @@
    "surface": "வருக",
    "parts": [
     {
-     "text": "வருக",
-     "lemma": "வா",
-     "gloss": "let come"
+     "text": "வரு",
+     "lemma": "வரு",
+     "gloss": "come"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix (let)"
     }
    ],
-   "gloss": "let come"
+   "gloss": "let him come"
   },
   {
    "surface": "மன்",
@@ -17,10 +22,10 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "particle of longing/emphasis"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "indeed / oh"
   },
   {
    "surface": "கொண்கன்",
@@ -28,10 +33,10 @@
     {
      "text": "கொண்கன்",
      "lemma": "கொண்கன்",
-     "gloss": "lover"
+     "gloss": "lord of the maritime tract / husband"
     }
    ],
-   "gloss": "lover"
+   "gloss": "my lord / husband"
   },
   {
    "surface": "ஒரு",
@@ -59,12 +64,22 @@
    "surface": "பருகுவன்",
    "parts": [
     {
-     "text": "பருகுவன்",
+     "text": "பருகு",
      "lemma": "பருகு",
-     "gloss": "I will drink"
+     "gloss": "drink / feast upon"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "first-person singular suffix"
     }
    ],
-   "gloss": "I will drink"
+   "gloss": "I will drink / feast upon"
   },
   {
    "surface": "பைதல்",
@@ -72,10 +87,10 @@
     {
      "text": "பைதல்",
      "lemma": "பைதல்",
-     "gloss": "sorrow"
+     "gloss": "affliction / distress"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress / sorrow"
   },
   {
    "surface": "நோய்",
@@ -83,10 +98,10 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "pain / sickness"
     }
    ],
-   "gloss": "pain"
+   "gloss": "pain / sickness"
   },
   {
    "surface": "எல்லாம்",
@@ -103,18 +118,23 @@
    "surface": "கெட",
    "parts": [
     {
-     "text": "கெட",
+     "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "to perish"
+     "gloss": "perish / ruin"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix (so that)"
     }
    ],
-   "gloss": "to perish"
+   "gloss": "to perish / so that it vanishes"
   }
  ],
- "literal": "Let come indeed the lover one day; I will drink [him] for sorrowful pain all to perish.",
- "translation": "If only my lover would return for just one day! I will drink him in, so that all my sorrowful pain perishes.",
- "modern": "என் காதலர் ஒருநாள் வருவாராக! என்னுடைய துன்ப நோய் எல்லாம் அழியும்படி நான் அவரைப் பருகுவேன்.",
- "explanation": "The speaker expresses a deep, consuming longing for her absent lover's return. She wishes for him to come back for just one day. To cure her lovesickness, she uses the striking metaphor of drinking him in ('பருகுவன்'), as if his presence is a healing draught. This intense visual and physical consumption is meant to completely destroy ('கெட') all her sorrow and pain ('பைதல் நோய்'). The word 'மன்' acts as a particle of intense wishing, emphasizing her desperate yearning.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Let come indeed my lord one day; I will drink [his presence] all distress-pain to perish.",
+ "translation": "Let my lord return for just a single day; I shall drink in his presence so that all this painful sorrow of separation vanishes.",
+ "modern": "என் தலைவன் ஒருநாள் மட்டும் வரட்டும்; என் துன்ப நோய் முழுவதும் அழியும்படி நான் அவனைக் கண்டு பருகுவேன்.",
+ "explanation": "In this verse, the heroine expresses her intense longing for her husband's return. She wishes for him to come back for just a single day, which she believes will be enough to cure her. She uses the vivid metaphor of 'drinking' (parukuvaṉ) to describe how eagerly and completely she will consume his presence. This feast of reunion will instantly banish all the painful affliction (paital nōy) caused by their long separation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

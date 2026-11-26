@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "oneself"
+     "lemma": "தான்",
+     "gloss": "themselves"
     },
     {
      "text": "இன்",
@@ -21,7 +21,7 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
+     "lemma": "தான்",
      "gloss": "their"
     }
    ],
@@ -58,33 +58,34 @@
    "surface": "மாநிலத்து",
    "parts": [
     {
-     "text": "மா",
-     "lemma": "மா",
-     "gloss": "great"
-    },
-    {
-     "text": "நிலத்து",
-     "lemma": "நிலம்",
-     "gloss": "earth (locative)"
+     "text": "மாநிலத்து",
+     "lemma": "மாநிலத்து",
+     "gloss": "of the great earth"
     }
    ],
-   "gloss": "on the great earth"
+   "gloss": "of the great earth",
+   "split_unverified": true
   },
   {
    "surface": "மன்னுயிர்க்கு",
    "parts": [
     {
      "text": "மன்",
-     "lemma": "மன்",
-     "gloss": "enduring"
+     "lemma": "மன்னுதல்",
+     "gloss": "to abide"
     },
     {
-     "text": "உயிர்க்கு",
+     "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "to living beings"
+     "gloss": "life"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to enduring living beings"
+   "gloss": "to all abiding lives"
   },
   {
    "surface": "எல்லாம்",
@@ -103,16 +104,16 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "is sweet"
     }
    ],
    "gloss": "is sweet"
   }
  ],
- "literal": "Than themselves, their children's possession of wisdom, on the great earth, to enduring living beings all, is sweet.",
- "translation": "That their children possess wisdom greater than their own is a joy to all living beings on this great earth.",
- "modern": "தம்மை விடத் தம் பிள்ளைகள் அறிவுடையவர்களாக இருப்பது, இந்தப் பெரிய உலகத்தில் உள்ள எல்லா உயிர்களுக்கும் மகிழ்ச்சி தருவதாகும்.",
- "explanation": "This couplet expresses the universal joy of seeing the next generation surpass the current one. The word 'tammin' means 'than themselves', setting up a comparison between the parents and their children. 'Arivudaimai' denotes the possession of wisdom. The poet states that on this great earth, it is a sweet and natural joy for all living beings to see their offspring possess greater wisdom than they do. This highlights that the desire for one's children to excel is a fundamental trait of all life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than themselves, their children's possession of wisdom, to all abiding lives of the great earth, is sweet.",
+ "translation": "That their children possess wisdom is a greater joy to all living beings on this vast earth than it is to the parents themselves.",
+ "modern": "தம்முடைய பிள்ளைகள் அறிவுடையவர்களாக இருப்பது, பெற்றோராகிய தங்களை விடவும் இப்பெரிய உலகத்தில் வாழும் அனைத்து உயிர்களுக்கும் மிகுந்த மகிழ்ச்சி தருவதாகும்.",
+ "explanation": "This couplet highlights the universal benefit of raising wise children. While parents naturally feel proud of their children's wisdom ('அறிவுடைமை'), the poet states that this wisdom brings even greater joy ('இனிது') to the rest of the world. The phrase 'மாநிலத்து மன்னுயிர்க்கு எல்லாம்' emphasizes that a wise person's life and intellect serve and please all living beings on this vast earth, extending the impact of good parenting far beyond the immediate family.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

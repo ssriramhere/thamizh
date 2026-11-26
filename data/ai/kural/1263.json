@@ -6,10 +6,10 @@
     {
      "text": "உரன்",
      "lemma": "உரன்",
-     "gloss": "strength"
+     "gloss": "willpower/strength"
     }
    ],
-   "gloss": "strength"
+   "gloss": "willpower"
   },
   {
    "surface": "நசைஇ",
@@ -17,10 +17,10 @@
     {
      "text": "நசைஇ",
      "lemma": "நசை",
-     "gloss": "having desired"
+     "gloss": "desiring (with poetic lengthening)"
     }
    ],
-   "gloss": "having desired"
+   "gloss": "desiring"
   },
   {
    "surface": "உள்ளம்",
@@ -28,10 +28,10 @@
     {
      "text": "உள்ளம்",
      "lemma": "உள்ளம்",
-     "gloss": "mind"
+     "gloss": "mind/courage"
     }
    ],
-   "gloss": "mind"
+   "gloss": "courage"
   },
   {
    "surface": "துணையாக",
@@ -43,11 +43,11 @@
     },
     {
      "text": "ஆக",
-     "lemma": "ஆகு",
-     "gloss": "to become"
+     "lemma": "ஆக",
+     "gloss": "as"
     }
    ],
-   "gloss": "as companion"
+   "gloss": "as a companion"
   },
   {
    "surface": "சென்றார்",
@@ -65,11 +65,11 @@
    "parts": [
     {
      "text": "வரல்",
-     "lemma": "வா",
-     "gloss": "coming"
+     "lemma": "வருதல்",
+     "gloss": "coming/return"
     }
    ],
-   "gloss": "coming"
+   "gloss": "return"
   },
   {
    "surface": "நசைஇ",
@@ -77,10 +77,10 @@
     {
      "text": "நசைஇ",
      "lemma": "நசை",
-     "gloss": "having desired"
+     "gloss": "desiring (with poetic lengthening)"
     }
    ],
-   "gloss": "having desired"
+   "gloss": "desiring"
   },
   {
    "surface": "இன்னும்",
@@ -88,7 +88,7 @@
     {
      "text": "இன்னும்",
      "lemma": "இன்னும்",
-     "gloss": "still"
+     "gloss": "still/yet"
     }
    ],
    "gloss": "still"
@@ -99,16 +99,16 @@
     {
      "text": "உளேன்",
      "lemma": "உள்",
-     "gloss": "I exist"
+     "gloss": "I exist/I am"
     }
    ],
    "gloss": "I exist"
   }
  ],
- "literal": "Strength having desired, mind as companion, he who went; coming having desired, still I exist.",
- "translation": "He departed, desiring success in his mission, with his own mind as his companion. I am still alive, desiring only his return.",
- "modern": "வெற்றியை விரும்பித் தன் உள்ளத்தையே துணையாகக் கொண்டு சென்றவர், மீண்டும் திரும்பி வருவார் என்று விரும்பி நான் இன்னும் உயிரோடு இருக்கிறேன்.",
- "explanation": "The heroine speaks of the contrasting desires that drive her and her lover. He left her because he desired 'uran' (strength of purpose or success in his mission), taking only his own determined mind as his companion. She, however, manages to stay alive only because she desires his 'varal' (return). The repeated word 'nacaii' (having desired) beautifully highlights how his desire for achievement separated them, while her desire for his return is the only thing keeping her alive.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Willpower desiring, courage as companion, he who went; return desiring, still I exist.",
+ "translation": "Desiring strength of will, he departed with only his courage as a companion; desiring his return, I still cling to life.",
+ "modern": "மனவலிமையை விரும்பி, தன் நெஞ்சத்தையே துணையாகக் கொண்டு சென்ற காதலர் திரும்பி வருவதை விரும்பி, நான் இன்னும் உயிரோடு இருக்கிறேன்.",
+ "explanation": "The heroine speaks of her departed lover who left her to achieve a difficult task, driven by his strong willpower (உரன்) and accompanied only by his own courageous heart (உள்ளம்). Though his absence is painful, she explains that she keeps herself alive solely out of the intense desire (நசைஇ) to see him return (வரல்). The repetition of the word 'நசைஇ' (desiring) contrasts his desire for achievement with her desire for his return, highlighting the emotional tension between duty and love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

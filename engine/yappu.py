@@ -499,5 +499,24 @@ def rejoin(parts: list[str]) -> set[str]:
                 pre, t = {"ல": ("ற", "ற"), "ன": ("ன", "ற"), "ள": ("ட", "ட"), "ண": ("ண", "ட")}[A[-1].consonant]
                 rest = first.text.replace("த", t, 1) + "".join(x.text for x in B[1:])
                 nxt.add(acc[:-2] + pre + PULLI + rest)
+            if A[-1].kind == "o" and A[-1].consonant == "ம" and first.consonant and first.consonant not in HARD:
+                # ம் drops before a soft or medial consonant (ஓதம் + மல்கு -> ஓதமல்கு)
+                nxt.add(acc[:-2] + part)
+            if A[-1].kind == "o" and A[-1].consonant in ("ன", "ண", "ல", "ள") and first.consonant == "ந":
+                # ந takes the nasal before it: என் + நெஞ்சே -> என்னெஞ்சே, முன் + நாணி -> முனாணி,
+                # ல் + ந -> ன்ன, ள் + ந -> ண்ண
+                nas = {"ன": "ன", "ல": "ன", "ண": "ண", "ள": "ண"}[A[-1].consonant]
+                rest = part[1:]
+                nxt.add(acc[:-2] + nas + PULLI + nas + rest)
+                if A[-1].consonant in ("ன", "ண"):
+                    nxt.add(acc[:-2] + nas + rest)
+            if len(A) > 1 and A[-1].text == "மை" and B:
+                # a quality noun drops மை (பண்புத்தொகை): கருமை + கோல் -> கருங்கோல், பெருமை + தேன் -> பெருந்தேன்
+                stem = "".join(x.text for x in A[:-1])
+                nxt.add(stem + part)
+                if first.consonant in HARD:
+                    nasal = {"க": "ங", "ச": "ஞ", "த": "ந", "ப": "ம", "ட": "ண", "ற": "ன"}[first.consonant]
+                    nxt.add(stem + nasal + PULLI + part)
+                    nxt.add(stem + first.consonant + PULLI + part)
         results = nxt
     return results

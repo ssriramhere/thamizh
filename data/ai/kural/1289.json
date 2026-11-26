@@ -25,17 +25,12 @@
    "surface": "மெல்லிது",
    "parts": [
     {
-     "text": "மெல்",
-     "lemma": "மென்மை",
-     "gloss": "soft"
-    },
-    {
-     "text": "இது",
-     "lemma": "இது",
-     "gloss": "it is"
+     "text": "மெல்லிது",
+     "lemma": "மெல்லிது",
+     "gloss": "is more delicate"
     }
    ],
-   "gloss": "it is soft"
+   "gloss": "is more delicate"
   },
   {
    "surface": "காமம்",
@@ -70,7 +65,7 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "oblique suffix"
+     "gloss": "oblique case increment"
     }
    ],
    "gloss": "its"
@@ -81,10 +76,10 @@
     {
      "text": "செவ்வி",
      "lemma": "செவ்வி",
-     "gloss": "perfect state"
+     "gloss": "delicate nature"
     }
    ],
-   "gloss": "perfect state"
+   "gloss": "delicate nature"
   },
   {
    "surface": "தலைப்படுவார்",
@@ -92,26 +87,21 @@
     {
      "text": "தலைப்படு",
      "lemma": "தலைப்படு",
-     "gloss": "attain"
+     "gloss": "to attain"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆர்",
+     "text": "வார்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they who"
     }
    ],
-   "gloss": "will experience"
+   "gloss": "those who attain"
   }
  ],
- "literal": "Even than a flower, it is soft, love; few people its perfect state will experience.",
- "translation": "Love is softer than a flower, but only a few ever experience its perfect state.",
- "modern": "காதல் மலரை விடவும் மிகவும் மென்மையானது. அதன் சரியான பக்குவத்தை அறிந்து அனுபவிப்பவர்கள் உலகில் சிலரே ஆவர்.",
- "explanation": "The couplet compares the nature of love to a flower, stating that love is even softer and more delicate. Because of this extreme delicacy, it requires careful and timely handling to be fully enjoyed. The word cevvi refers to the perfect state or the exact right moment of a flower blooming, which applies here to the delicate timing and understanding needed in love. Only a few people truly grasp this perfect state and experience love completely without bruising it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even than a flower, softer is love; few its delicate nature attain.",
+ "translation": "Love is more delicate than even a flower; yet, only a few are able to truly attain and experience its subtle, tender nature.",
+ "modern": "காமம் மலரை விடவும் மென்மையானது; அதன் நுட்பமான தன்மையை அடைந்து இன்புறுபவர் சிலரே ஆவர்.",
+ "explanation": "This couplet highlights the extreme sensitivity of love by comparing it to a flower. While a flower is known for its softness, love is described as being even more delicate and easily bruised by the slightest insensitivity. The word 'cevvi' refers to this peak, tender state of love that requires perfect timing and gentle handling. The poet observes that only a rare few possess the deep understanding and emotional refinement needed to experience love in its truest, most delicate form.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

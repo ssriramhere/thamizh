@@ -4,9 +4,14 @@
    "surface": "அறத்தின்",
    "parts": [
     {
-     "text": "அறத்தின்",
+     "text": "அறத்து",
      "lemma": "அறம்",
-     "gloss": "than virtue"
+     "gloss": "virtue"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than (comparative suffix)"
     }
    ],
    "gloss": "than virtue"
@@ -17,7 +22,7 @@
     {
      "text": "ஊஉங்கு",
      "lemma": "ஊங்கு",
-     "gloss": "greater"
+     "gloss": "greater than / beyond"
     }
    ],
    "gloss": "greater"
@@ -28,15 +33,15 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "wealth"
+     "gloss": "gain / prosperity"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "and / also"
     }
    ],
-   "gloss": "wealth even"
+   "gloss": "and prosperity"
   },
   {
    "surface": "இல்லை",
@@ -44,21 +49,26 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "அதனை",
    "parts": [
     {
-     "text": "அதனை",
+     "text": "அதன்",
      "lemma": "அது",
-     "gloss": "it (accusative)"
+     "gloss": "that"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "it"
+   "gloss": "that (object)"
   },
   {
    "surface": "மறத்தலின்",
@@ -71,7 +81,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative suffix)"
     }
    ],
    "gloss": "than forgetting"
@@ -82,7 +92,7 @@
     {
      "text": "ஊங்கு",
      "lemma": "ஊங்கு",
-     "gloss": "greater"
+     "gloss": "greater than / beyond"
     }
    ],
    "gloss": "greater"
@@ -93,10 +103,10 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "கேடு",
@@ -104,16 +114,16 @@
     {
      "text": "கேடு",
      "lemma": "கேடு",
-     "gloss": "ruin"
+     "gloss": "ruin / destruction"
     }
    ],
    "gloss": "ruin"
   }
  ],
- "literal": "Than virtue greater wealth is not; it than forgetting greater is not ruin.",
- "translation": "There is no greater wealth than virtue, and no greater ruin than forgetting it.",
- "modern": "அறத்தை விடச் சிறந்த செல்வமும் இல்லை, அந்த அறத்தை மறப்பதை விடப் பெரிய அழிவும் இல்லை.",
- "explanation": "This couplet establishes virtue as the ultimate source of prosperity and its neglect as the ultimate cause of destruction. The word ஆக்கம் means wealth, growth, or prosperity, showing that virtue brings tangible good to one's life. Conversely, கேடு means ruin or destruction, warning that merely forgetting to practice virtue leads directly to one's downfall.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than virtue greater gain is not; than forgetting that, greater is not ruin.",
+ "translation": "There is no greater gain in life than virtue, and there is no greater ruin than forgetting it.",
+ "modern": "அறத்தை விடச் சிறந்த நன்மை வேறு இல்லை; அந்த அறத்தை மறந்துவிடுவதை விடப் பெரிய கேடு வேறு இல்லை.",
+ "explanation": "This couplet establishes virtue (அறம்) as the ultimate measure of success and failure in human life. The word 'ஊங்கு' (and its metrically lengthened form 'ஊஉங்கு') means 'beyond' or 'greater than', used here to set absolute boundaries. The poet asserts that no acquisition or prosperity can surpass the value of living virtuously. Conversely, neglecting or forgetting to practice virtue is described as the absolute worst form of ruin that can befall a person.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

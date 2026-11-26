@@ -6,15 +6,15 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "standing/firm"
+     "gloss": "steadfastness"
     },
     {
      "text": "மக்கள்",
      "lemma": "மக்கள்",
-     "gloss": "people/men"
+     "gloss": "soldiers"
     }
    ],
-   "gloss": "firm soldiers"
+   "gloss": "steadfast soldiers"
   },
   {
    "surface": "சால",
@@ -33,18 +33,18 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   },
   {
    "surface": "எனினும்",
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if said"
+     "lemma": "எனின்",
+     "gloss": "if it is said"
     },
     {
      "text": "உம்",
@@ -52,7 +52,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "தானை",
@@ -71,15 +71,15 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head/chief"
+     "gloss": "chief"
     },
     {
      "text": "மக்கள்",
      "lemma": "மக்கள்",
-     "gloss": "people/men"
+     "gloss": "soldiers"
     }
    ],
-   "gloss": "leaders"
+   "gloss": "commanders"
   },
   {
    "surface": "இல்வழி",
@@ -92,10 +92,10 @@
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "place/when"
+     "gloss": "when"
     }
    ],
-   "gloss": "when absent"
+   "gloss": "in the absence of"
   },
   {
    "surface": "இல்",
@@ -103,16 +103,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not/nothing"
+     "gloss": "does not exist"
     }
    ],
    "gloss": "is nothing"
   }
  ],
- "literal": "Firm soldiers abundantly it possesses even if, an army, head-men when absent, is nothing.",
- "translation": "Even if an army possesses an abundance of steadfast soldiers, it is nothing without capable commanders.",
- "modern": "போர்க்களத்தில் நிலைத்து நிற்கும் வீரர்களைப் பெருமளவில் கொண்டிருந்தாலும், அவர்களை வழிநடத்தும் சிறந்த தலைவர்கள் இல்லாவிட்டால் அந்தப் படை பயனற்றதாகிவிடும்.",
- "explanation": "This couplet highlights the absolute necessity of leadership in warfare. The term 'நிலைமக்கள்' refers to steadfast soldiers who courageously hold their ground in battle. However, even if an army has these brave troops in great abundance, it cannot succeed without 'தலைமக்கள்' or capable commanders to guide them. The final word 'இல்' (is nothing) starkly concludes that without proper leadership, the sheer number of good soldiers amounts to nothing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even though an army possesses an abundance of steadfast soldiers, in the absence of commanders, it is nothing.",
+ "translation": "Even if an army has an abundance of steadfast and loyal soldiers, it will come to nothing in the absence of capable leaders.",
+ "modern": "நிலைத்து நிற்கும் வீரர்களை மிகுதியாகக் கொண்டிருந்தாலும், தகுதியான தலைவர்கள் இல்லாதபோது அந்தப் படை இல்லாமல் போகும்.",
+ "explanation": "This couplet emphasizes that leadership is the most critical element of a military force. Even if an army consists of a vast number of steadfast, permanent, and loyal soldiers (nilaimakkaḷ), it cannot succeed without capable commanders (talaimakkaḷ) to lead them. The term 'nilaimakkaḷ' denotes seasoned, reliable troops who do not flee, while 'talaimakkaḷ' refers to the strategic leaders. Without these leaders to guide and coordinate, the strength of the soldiers is wasted, and the army ultimately fails to exist as an effective force.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

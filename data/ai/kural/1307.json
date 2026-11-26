@@ -6,7 +6,7 @@
     {
      "text": "ஊடல்",
      "lemma": "ஊடல்",
-     "gloss": "feigned anger"
+     "gloss": "sulking"
     },
     {
      "text": "இன்",
@@ -14,14 +14,14 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in feigned anger"
+   "gloss": "in sulking"
   },
   {
    "surface": "உண்டு",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "there is"
     }
    ],
@@ -44,10 +44,10 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "a"
+     "gloss": "a certain"
     }
    ],
-   "gloss": "a"
+   "gloss": "a certain"
   },
   {
    "surface": "துன்பம்",
@@ -55,39 +55,39 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "pain"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "pain"
   },
   {
    "surface": "புணர்வது",
    "parts": [
     {
      "text": "புணர்வது",
-     "lemma": "புணர்",
-     "gloss": "uniting"
+     "lemma": "புணர்வது",
+     "gloss": "reunion"
     }
    ],
-   "gloss": "uniting"
+   "gloss": "the reunion"
   },
   {
    "surface": "நீடுவது",
    "parts": [
     {
      "text": "நீடுவது",
-     "lemma": "நீடு",
-     "gloss": "prolonging"
+     "lemma": "நீடுவது",
+     "gloss": "being prolonged"
     }
    ],
-   "gloss": "prolonging"
+   "gloss": "being prolonged"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is it not"
     }
    ],
@@ -102,24 +102,24 @@
      "gloss": "particle of doubt"
     }
    ],
-   "gloss": "[doubt]"
+   "gloss": "particle of doubt"
   },
   {
    "surface": "என்று",
    "parts": [
     {
      "text": "என்று",
-     "lemma": "என்",
-     "gloss": "thinking that"
+     "lemma": "என்று",
+     "gloss": "thinking"
     }
    ],
-   "gloss": "thinking that"
+   "gloss": "thinking"
   }
  ],
- "literal": "In feigned anger there is there a sorrow, 'uniting prolonging is it not [doubt]?' thinking.",
- "translation": "Even in a lovers' quarrel there is a certain sorrow, born of the anxious thought that their coming together might be delayed.",
- "modern": "ஊடலிலும், மீண்டும் ஒன்று சேருவது தாமதமாகுமோ என்று எண்ணுவதால் ஒரு துன்பம் இருக்கிறது.",
- "explanation": "This couplet captures the delicate psychological state of a lover during a feigned quarrel (ஊடல்). Although such a quarrel is meant to eventually enhance the pleasure of union, it brings its own subtle sorrow (துன்பம்). This pain arises from the anxious thought (என்று) that the time taken to finally reunite (புணர்வது) might be prolonged (நீடுவது). The particles of doubt (அன்று கொல்) perfectly express the lover's hesitation and fear of an extended separation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In sulking, there is a certain pain, thinking, 'Will the reunion not be delayed?'",
+ "translation": "There is a certain pain even in feigned anger, arising from the anxious thought: 'Will it delay our reunion?'",
+ "modern": "ஊடலில் ஒரு துன்பம் இருக்கிறது; 'நமது கூடல் தாமதப்படுமோ?' என்று நினைப்பதால் அது உண்டாகிறது.",
+ "explanation": "This couplet describes the subtle anxiety that accompanies feigned anger (ūṭal) between lovers. While sulking is meant to enhance the pleasure of love, it brings a unique distress of its own. The lover worries that this playful disagreement might prolong their separation and delay their sweet reunion. Thus, even in the midst of playful sulking, the mind is troubled by the fear of delayed intimacy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

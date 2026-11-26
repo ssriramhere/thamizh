@@ -14,14 +14,14 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if digested"
+   "gloss": "if the food eaten is digested"
   },
   {
    "surface": "அற",
    "parts": [
     {
      "text": "அற",
-     "lemma": "அறு",
+     "lemma": "அற",
      "gloss": "completely"
     }
    ],
@@ -36,15 +36,20 @@
      "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "having ascertained"
   },
   {
    "surface": "உண்க",
    "parts": [
     {
-     "text": "உண்க",
+     "text": "உண்",
      "lemma": "உண்",
-     "gloss": "let eat"
+     "gloss": "eat"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix"
     }
    ],
    "gloss": "let one eat"
@@ -80,15 +85,15 @@
      "gloss": "he who obtained"
     }
    ],
-   "gloss": "he who obtained"
+   "gloss": "he who has obtained"
   },
   {
    "surface": "நெடிது",
    "parts": [
     {
      "text": "நெடிது",
-     "lemma": "நெடுமை",
-     "gloss": "long time"
+     "lemma": "நெடிது",
+     "gloss": "for a long time"
     }
    ],
    "gloss": "for a long time"
@@ -99,10 +104,10 @@
     {
      "text": "உய்க்கும்",
      "lemma": "உய்",
-     "gloss": "preserving"
+     "gloss": "will sustain"
     }
    ],
-   "gloss": "preserving"
+   "gloss": "will sustain"
   },
   {
    "surface": "ஆறு",
@@ -113,13 +118,13 @@
      "gloss": "way"
     }
    ],
-   "gloss": "way"
+   "gloss": "the way"
   }
  ],
- "literal": "If digested, completely having known, let one eat; that [is the] body he-who-obtained long-time preserving way.",
- "translation": "Let one eat after knowing fully that the previous meal has been digested. That is the way for one who has obtained a body to preserve it for a long time.",
- "modern": "முன்பு உண்ட உணவு முழுமையாகச் செரித்துவிட்டதை அறிந்து அதன் பிறகு உண்ண வேண்டும். உடம்பைப் பெற்றவன் அதை நெடுங்காலம் வாழச் செய்யும் வழி அதுவே ஆகும்.",
- "explanation": "This couplet advises eating only after ensuring the previous meal is completely digested. The word 'அற்றால்' means 'if it is digested', derived from the root 'அறு' meaning to sever or finish, while 'அற' emphasizes knowing this state 'completely'. 'உய்க்கும் ஆறு' refers to the way of maintaining or prolonging life. By following this simple dietary rule, a person who has been given a physical body can preserve it in good health for a long time.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If digested, completely having known, eat; that is the way for him who obtained a body to sustain it for a long time.",
+ "translation": "Once the food previously eaten is fully digested, assure yourself of it and then eat; that is the way for one who has obtained a body to preserve it for a long time.",
+ "modern": "முன் உண்ட உணவு செரித்ததை முழுமையாக அறிந்து உண்ண வேண்டும்; அதுவே உடம்பைப் பெற்றவன் அதனை நீண்ட காலம் செலுத்தும் வழியாகும்.",
+ "explanation": "This couplet highlights the fundamental rule of health and longevity. One must eat only after ensuring that the previous meal has been completely digested. The phrase 'அற அறிந்து' emphasizes that one must be absolutely certain of this digestion before consuming more. Following this simple discipline is described as the ultimate way ('ஆறு') to sustain the physical body ('உடம்பு') and ensure a long, healthy life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

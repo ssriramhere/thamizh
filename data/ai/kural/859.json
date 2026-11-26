@@ -17,15 +17,15 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "to see"
+     "gloss": "see"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he will not see"
+   "gloss": "he who does not see"
   },
   {
    "surface": "ஆக்கம்",
@@ -43,7 +43,7 @@
    "parts": [
     {
      "text": "வரும்",
-     "lemma": "வா",
+     "lemma": "வரு",
      "gloss": "coming"
     },
     {
@@ -60,52 +60,42 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "it"
+     "gloss": "that"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "it (accusative)"
+   "gloss": "that"
   },
   {
    "surface": "மிகல்",
    "parts": [
     {
-     "text": "மிகு",
-     "lemma": "மிகு",
-     "gloss": "to increase"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "மிகல்",
+     "lemma": "மிகல்",
+     "gloss": "magnifying"
     }
    ],
-   "gloss": "increasing"
+   "gloss": "magnifying"
   },
   {
    "surface": "காணும்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காணும்",
      "lemma": "காண்",
-     "gloss": "to see"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will-he"
+     "gloss": "will see"
     }
    ],
-   "gloss": "he will see"
+   "gloss": "will see"
   },
   {
    "surface": "கேடு",
@@ -123,22 +113,22 @@
    "parts": [
     {
      "text": "தரல்",
-     "lemma": "தா",
+     "lemma": "தருதல்",
      "gloss": "giving"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
-   "gloss": "to bring about"
+   "gloss": "to bring"
   }
  ],
- "literal": "Hostility he-will-not-see prosperity when-coming; it increasing he-will-see ruin to-bring-about.",
- "translation": "When prosperity is on its way, a person will not entertain hostility; but to bring about his own ruin, he will seek to increase it.",
- "modern": "ஒருவனுக்கு நல்வாழ்வு வரும் காலத்தில் அவன் பகைமையை விரும்ப மாட்டான்; அவனுக்கு அழிவு வரப்போகிறது என்றால் அந்தப் பகைமையை மேலும் வளர்த்துக்கொள்வான்.",
- "explanation": "This couplet connects a person's inclination toward conflict with their impending fortune or downfall. The phrase 'ஆக்கம் வருங்கால்' (when prosperity comes) indicates that a mind destined for success naturally avoids enmity. Conversely, when ruin is imminent ('கேடு தரற்கு'), a person is drawn to escalate conflicts, actively seeking the increase of hostility. The poet illustrates that the choice to ignore or amplify discord is the very mechanism that brings about wealth or destruction.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Hostility he does not see, prosperity when coming; that, magnifying he will see, ruin to bring.",
+ "translation": "When prosperity is on its way, a person does not look for hostility; but when ruin is about to be brought upon him, he will seek to magnify that very hostility.",
+ "modern": "செல்வம் வரும்போது ஒருவன் பகைமையை நாடமாட்டான்; ஆனால் அவனுக்குக் கேடு வரும்போது, அவன் அந்தப் பகைமையை வளர்க்கவே விரும்புவான்.",
+ "explanation": "This couplet explains how a person's attitude toward hostility (ikal) indicates their impending fortune or ruin. When prosperity (akkam) is about to arrive, a person naturally avoids or ignores discord. Conversely, when ruin (ketu) is destined to come, the person actively seeks out and magnifies (mikal) that hostility. Thus, one's inclination to foster or avoid conflict serves as a clear sign of their future state.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,8 +4,8 @@
    "surface": "வேண்டுங்கால்",
    "parts": [
     {
-     "text": "வேண்டும்",
-     "lemma": "வேண்டு",
+     "text": "வேண்டுங்",
+     "lemma": "வேண்டுதல்",
      "gloss": "desiring"
     },
     {
@@ -21,11 +21,11 @@
    "parts": [
     {
      "text": "வேண்டும்",
-     "lemma": "வேண்டு",
-     "gloss": "must desire"
+     "lemma": "வேண்டுதல்",
+     "gloss": "one should desire"
     }
    ],
-   "gloss": "one must desire"
+   "gloss": "one should desire"
   },
   {
    "surface": "பிறவாமை",
@@ -36,7 +36,7 @@
      "gloss": "non-birth"
     }
    ],
-   "gloss": "non-birth"
+   "gloss": "the state of not being born again"
   },
   {
    "surface": "மற்று",
@@ -44,10 +44,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "further"
+     "gloss": "and"
     }
    ],
-   "gloss": "further"
+   "gloss": "and / further"
   },
   {
    "surface": "அது",
@@ -58,7 +58,7 @@
      "gloss": "that"
     }
    ],
-   "gloss": "that"
+   "gloss": "that (state of non-birth)"
   },
   {
    "surface": "வேண்டாமை",
@@ -76,8 +76,8 @@
    "parts": [
     {
      "text": "வேண்ட",
-     "lemma": "வேண்டு",
-     "gloss": "to desire"
+     "lemma": "வேண்டுதல்",
+     "gloss": "by desiring"
     }
    ],
    "gloss": "by desiring"
@@ -87,17 +87,17 @@
    "parts": [
     {
      "text": "வரும்",
-     "lemma": "வா",
+     "lemma": "வருதல்",
      "gloss": "will come"
     }
    ],
    "gloss": "will come"
   }
  ],
- "literal": "When desiring, one must desire non-birth; further, that, desirelessness by desiring, will come.",
- "translation": "If one must desire anything, one should desire not to be born again. That state of non-birth will come by seeking to be free from all desires.",
- "modern": "ஒருவர் எதையாவது விரும்பினால், இனி பிறக்காமல் இருப்பதையே விரும்ப வேண்டும். அந்தப் பிறவா நிலை, எந்த ஆசையும் இல்லாமல் இருப்பதையே விரும்புவதால் கிடைக்கும்.",
- "explanation": "This couplet plays on the word 'desire' to show how to overcome it. It states that if a person must wish for something, they should wish for an end to the cycle of birth. The second line explains how to achieve this: the state of non-birth is attained simply by desiring 'desirelessness' itself. By making the absence of desire the only goal, all other worldly attachments are severed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When desiring, one should desire non-birth; and that, by desiring desirelessness, will come.",
+ "translation": "If one must desire anything, let it be the state of not being born again; and that state of non-birth will be attained by desiring desirelessness.",
+ "modern": "ஒருவர் எதையாவது விரும்ப வேண்டும் என்றால், அவர் மீண்டும் பிறக்காமல் இருக்கும் நிலையையே விரும்ப வேண்டும்; அந்தப் பிறவாமை என்னும் நிலை, ஆசையற்ற தன்மையை (வேண்டாமையை) விரும்புவதால் மட்டுமே உண்டாகும்.",
+ "explanation": "This couplet explains that if a person wishes to desire anything at all, the ultimate and only worthy goal is to desire 'non-birth'—the freedom from the cycle of rebirths. The author then reveals how this supreme state is attained: it comes simply by desiring 'desirelessness' itself. By redirecting all our desires toward wanting nothing, we cut off the root cause of rebirth. The clever repetition of the root word 'வேண்டு' (to desire) emphasizes that the path to absolute freedom lies in mastering and redirecting our own desires.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

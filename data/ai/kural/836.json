@@ -15,14 +15,9 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to happen"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will happen"
     }
    ],
    "gloss": "will happen"
@@ -33,15 +28,15 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one thing"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "or"
+     "gloss": "interrogative clitic"
     }
    ],
-   "gloss": "either one"
+   "gloss": "is it only one thing?"
   },
   {
    "surface": "புனை",
@@ -49,23 +44,18 @@
     {
      "text": "புனை",
      "lemma": "புனை",
-     "gloss": "fetter"
+     "gloss": "fetters (ironically called ornaments)"
     }
    ],
-   "gloss": "fetter"
+   "gloss": "fetters"
   },
   {
    "surface": "பூணும்",
    "parts": [
     {
-     "text": "பூண்",
+     "text": "பூணும்",
      "lemma": "பூண்",
-     "gloss": "to wear"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will wear"
     }
    ],
    "gloss": "will wear"
@@ -76,23 +66,18 @@
     {
      "text": "கை",
      "lemma": "கை",
-     "gloss": "method"
+     "gloss": "proper method of action"
     }
    ],
-   "gloss": "method"
+   "gloss": "proper method of action"
   },
   {
    "surface": "அறியா",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறியா",
      "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not knowing"
     }
    ],
    "gloss": "not knowing"
@@ -123,23 +108,23 @@
    "surface": "மேற்கொளின்",
    "parts": [
     {
-     "text": "மேற்கொள்",
-     "lemma": "மேற்கொள்",
-     "gloss": "to undertake"
+     "text": "மேல்",
+     "lemma": "மேல்",
+     "gloss": "upon"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "கொளின்",
+     "lemma": "கொள்",
+     "gloss": "if takes"
     }
    ],
    "gloss": "if undertakes"
   }
  ],
- "literal": "Failure will happen or, fetters will wear, method not-knowing fool task if undertakes.",
- "translation": "If a fool who does not know the proper method undertakes a task, either the task will fail or he will end up in fetters.",
- "modern": "செயல்முறையை அறியாத பேதை ஒரு செயலைச் செய்யத் தொடங்கினால், அச்செயல் பழுதாகும் அல்லது அவன் விலங்கு பூட்டப்படுவான்.",
- "explanation": "This couplet warns of the dangers when an ignorant person takes charge of a task. The word 'kai' here refers to the proper method or conduct required for an action. If a fool attempts a task without knowing how to execute it, two outcomes are possible. Either the task itself will end in failure ('poy'), or his blunders will be so severe that he will be punished and put in fetters. While 'punai' can mean an ornament, in this context of a fool's failure, it is best understood as fetters or chains.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If a fool who does not know the proper method of action undertakes a task, will it only fail? He will also wear fetters.",
+ "translation": "If a fool who does not know the proper way of doing things undertakes a task, not only will the task fail, but he will also end up wearing fetters.",
+ "modern": "செயல் செய்யும் முறையை அறியாத அறிவிலி ஒரு செயலை மேற்கொண்டால், அச்செயல் கெடுவது மட்டுமன்றி, அவன் விலங்கையும் (சிறைத்தண்டனையையும்) பூண நேரிடும்.",
+ "explanation": "This couplet describes the double disaster that occurs when an ignorant person (பேதை) attempts a task without knowing the proper methods (கையறியா). First, the undertaking itself is bound to fail (பொய்படும்). Second, the consequences of his foolish actions will not stop at mere failure; he will also face punishment or imprisonment, metaphorically described as wearing fetters (புனைபூணும்). The word 'ஒன்றோ' (is it only one?) highlights that failure is not the only outcome, emphasizing the compounding nature of a fool's mistakes.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

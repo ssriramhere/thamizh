@@ -4,23 +4,33 @@
    "surface": "சொல்லுக",
    "parts": [
     {
-     "text": "சொல்லுக",
+     "text": "சொல்",
      "lemma": "சொல்",
      "gloss": "speak"
+    },
+    {
+     "text": "உக",
+     "lemma": "உக",
+     "gloss": "optative suffix (let one)"
     }
    ],
-   "gloss": "speak"
+   "gloss": "let one speak"
   },
   {
    "surface": "சொல்லை",
    "parts": [
     {
-     "text": "சொல்லை",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word (object)"
+     "gloss": "word"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "word (object)"
+   "gloss": "the word"
   },
   {
    "surface": "பிறிது",
@@ -39,10 +49,10 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "a"
+     "gloss": "one"
     }
    ],
-   "gloss": "a"
+   "gloss": "one"
   },
   {
    "surface": "சொல்",
@@ -59,9 +69,14 @@
    "surface": "அச்",
    "parts": [
     {
-     "text": "அச்",
+     "text": "அ",
      "lemma": "அ",
      "gloss": "that"
+    },
+    {
+     "text": "ச்",
+     "lemma": "ச்",
+     "gloss": "doubling consonant"
     }
    ],
    "gloss": "that"
@@ -70,23 +85,33 @@
    "surface": "சொல்லை",
    "parts": [
     {
-     "text": "சொல்லை",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word (object)"
+     "gloss": "word"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "word (object)"
+   "gloss": "the word"
   },
   {
    "surface": "வெல்லும்",
    "parts": [
     {
-     "text": "வெல்லும்",
+     "text": "வெல்",
      "lemma": "வெல்",
-     "gloss": "that will defeat"
+     "gloss": "conquer"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "that will defeat"
+   "gloss": "conquering"
   },
   {
    "surface": "சொல்",
@@ -115,17 +140,17 @@
    "parts": [
     {
      "text": "அறிந்து",
-     "lemma": "அறி",
+     "lemma": "அறிந்து",
      "gloss": "having known"
     }
    ],
    "gloss": "having known"
   }
  ],
- "literal": "Speak a word, having known the absence of another word defeating that word.",
- "translation": "Speak a word only after making sure that no other word can defeat it.",
- "modern": "நீங்கள் சொல்லும் சொல்லை வெல்லக்கூடிய வேறு ஒரு சொல் இல்லை என்பதை உறுதியாக அறிந்த பிறகே அச்சொல்லைச் சொல்ல வேண்டும்.",
- "explanation": "This couplet emphasizes the importance of choosing invincible words when speaking. A speaker must carefully evaluate their arguments before uttering them. They should only speak a word after ensuring that no counter-argument or alternative word can defeat it. This highlights the power of precise, unassailable speech in effective communication.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Speak the word, having known the absence of another word that conquers that word.",
+ "translation": "Deliver your speech only after ensuring that no other word can conquer and surpass the words you have chosen.",
+ "modern": "நீங்கள் பேசும் சொல்லை வெல்லக்கூடிய வேறு ஒரு சொல் இல்லை என்பதை அறிந்து, அச்சொல்லைப் பேசுங்கள்.",
+ "explanation": "This couplet highlights the importance of choosing unassailable words when speaking. The author advises us to speak a word only after realizing that there is no other word ('பிறிதோர் சொல்') that can conquer ('வெல்லும்') or refute the word we have chosen. By ensuring the non-existence ('இன்மை') of a superior counter-argument or a better-suited term, our speech becomes powerful, flawless, and persuasive.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

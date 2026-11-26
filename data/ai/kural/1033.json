@@ -6,12 +6,12 @@
     {
      "text": "உழு",
      "lemma": "உழு",
-     "gloss": "to plough"
+     "gloss": "plough"
     },
     {
      "text": "து",
      "lemma": "து",
-     "gloss": "adverbial suffix"
+     "gloss": "past participle suffix"
     }
    ],
    "gloss": "having ploughed"
@@ -22,12 +22,12 @@
     {
      "text": "உண்",
      "lemma": "உண்",
-     "gloss": "to eat"
+     "gloss": "eat"
     },
     {
-     "text": "டு",
-     "lemma": "டு",
-     "gloss": "adverbial suffix"
+     "text": "து",
+     "lemma": "து",
+     "gloss": "past participle suffix"
     }
    ],
    "gloss": "having eaten"
@@ -38,7 +38,7 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "to live"
+     "gloss": "live"
     },
     {
      "text": "வ்",
@@ -48,15 +48,15 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (pronominal suffix)"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphatic particle"
+     "gloss": "emphasis particle"
     }
    ],
-   "gloss": "those who live indeed"
+   "gloss": "they indeed are the ones who live"
   },
   {
    "surface": "வாழ்வார்",
@@ -64,7 +64,7 @@
     {
      "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "to live"
+     "gloss": "live"
     },
     {
      "text": "வ்",
@@ -74,7 +74,7 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (pronominal suffix)"
     }
    ],
    "gloss": "they live"
@@ -107,15 +107,15 @@
     {
      "text": "தொழு",
      "lemma": "தொழு",
-     "gloss": "to bow"
+     "gloss": "worship / bow down"
     },
     {
      "text": "து",
      "lemma": "து",
-     "gloss": "adverbial suffix"
+     "gloss": "past participle suffix"
     }
    ],
-   "gloss": "having bowed"
+   "gloss": "having bowed down"
   },
   {
    "surface": "உண்டு",
@@ -123,12 +123,12 @@
     {
      "text": "உண்",
      "lemma": "உண்",
-     "gloss": "to eat"
+     "gloss": "eat"
     },
     {
-     "text": "டு",
-     "lemma": "டு",
-     "gloss": "adverbial suffix"
+     "text": "து",
+     "lemma": "து",
+     "gloss": "past participle suffix"
     }
    ],
    "gloss": "having eaten"
@@ -139,7 +139,7 @@
     {
      "text": "பின்",
      "lemma": "பின்",
-     "gloss": "behind"
+     "gloss": "behind / after"
     }
    ],
    "gloss": "behind"
@@ -150,26 +150,26 @@
     {
      "text": "செல்",
      "lemma": "செல்",
-     "gloss": "to go"
+     "gloss": "go"
     },
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "future tense marker"
+     "gloss": "future/present marker"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (pronominal suffix)"
     }
    ],
    "gloss": "those who go"
   }
  ],
- "literal": "Having ploughed, having eaten, those who live indeed, they live; other all, having bowed, having eaten, behind those who go.",
- "translation": "Only those who live by ploughing and eating truly live. All others merely bow, eat, and follow behind.",
- "modern": "நிலத்தை உழுது அதன் மூலம் கிடைக்கும் உணவை உண்டு வாழ்பவர்களே உண்மையாக வாழ்பவர்கள். மற்றவர்கள் அனைவரும் பிறரைத் தொழுது உணவு உண்டு அவர்கள் பின்னால் செல்பவர்களே ஆவர்.",
- "explanation": "This couplet emphasizes the supreme independence and dignity of the farming life. The phrase 'உழுது உண்டு வாழ்வாரே' (those who live by ploughing and eating) highlights that farmers are the only ones who are truly self-reliant. The emphatic 'ஏ' in 'வாழ்வாரே' asserts that theirs is the only true life. In contrast, 'மற்று எல்லாம்' (all others) refers to people in other professions. They must bow ('தொழுது') to others for their livelihood, eating only by following behind ('பின் செல்பவர்') those who produce the food. Thus, agriculture is portrayed as the foundational and most honorable way of life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who live by ploughing and eating are indeed those who live; all others, having worshipped and eaten, are those who go behind.",
+ "translation": "Only those who live by tilling the soil and eating their own food truly live; all others must bow down to them, eat, and follow in their wake.",
+ "modern": "உழுது பயிர் செய்து அதனால் வரும் உணவை உண்டு வாழ்பவர்களே உண்மையாக வாழ்பவர்கள் ஆவர்; மற்றவர்கள் அனைவரும் பிறரைத் தொழுது, அவர்கள் தரும் உணவை உண்டு, அவர்களுக்குப் பின்னே செல்பவர்கள் ஆவர்.",
+ "explanation": "This couplet highlights the supreme importance and independence of agriculture. The poet asserts that farmers, who till the soil and feed themselves, are the only ones who lead a truly independent and dignified life. All other people, regardless of their status, depend on the food produced by farmers. Consequently, they must bow to the producers of food, receive sustenance from them, and follow them as dependents.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

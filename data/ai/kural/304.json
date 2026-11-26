@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "smile and"
+   "gloss": "and the smile"
   },
   {
    "surface": "உவகையும்",
@@ -30,18 +30,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "joy and"
+   "gloss": "and the joy"
   },
   {
    "surface": "கொல்லும்",
    "parts": [
     {
      "text": "கொல்லும்",
-     "lemma": "கொல்",
-     "gloss": "destroying"
+     "lemma": "கொல்லுதல்",
+     "gloss": "which destroys"
     }
    ],
-   "gloss": "destroying"
+   "gloss": "which destroys"
   },
   {
    "surface": "சினத்தின்",
@@ -68,15 +68,20 @@
      "gloss": "even"
     }
    ],
-   "gloss": "enemy even"
+   "gloss": "even an enemy"
   },
   {
    "surface": "உளவோ",
    "parts": [
     {
-     "text": "உளவோ",
+     "text": "உள",
      "lemma": "உள்",
      "gloss": "are there"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "interrogative particle"
     }
    ],
    "gloss": "are there?"
@@ -87,16 +92,16 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "other"
+     "gloss": "other things"
     }
    ],
-   "gloss": "other"
+   "gloss": "other things"
   }
  ],
- "literal": "Smile and joy destroying, than anger, enemies are there other?",
- "translation": "Are there any enemies other than anger, which destroys both a person's smile and their joy?",
- "modern": "ஒருவருடைய முகமலர்ச்சியையும் மன மகிழ்ச்சியையும் கொன்றழிக்கின்ற சினத்தை விட வேறு பகையும் உண்டோ?",
- "explanation": "The couplet asks a rhetorical question to emphasize the destructive nature of anger. It identifies a person's outward smile ('நகை') and inward joy ('உவகை') as the first victims of their own anger. Because anger destroys these fundamental sources of human happiness, the text concludes that there is no greater enemy to a person than their own wrath.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Smile and joy which destroys, than anger, enemy are there other?",
+ "translation": "Is there any other enemy greater than anger, which destroys both one's outward smile and inward joy?",
+ "modern": "முகத்தில் தோன்றும் நகையையும் மனதில் தோன்றும் மகிழ்ச்சியையும் அழிக்கும் கோபத்தை விட வேறு கொடிய பகை உண்டோ?",
+ "explanation": "This couplet highlights the destructive nature of anger by comparing it to an enemy. Anger is the ultimate enemy because it destroys two of a person's most precious qualities: their outward smile (நகை) and their inward joy (உவகை). The rhetorical question 'are there other enemies?' emphasizes that no external adversary can cause as much self-harm as one's own anger.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

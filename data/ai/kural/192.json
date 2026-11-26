@@ -6,29 +6,39 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "benefit"
+     "gloss": "utility"
     }
    ],
-   "gloss": "benefit"
+   "gloss": "utility"
   },
   {
    "surface": "இல",
    "parts": [
     {
-     "text": "இல",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without-they"
+     "gloss": "without"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "they (neuter plural)"
     }
    ],
-   "gloss": "without-things"
+   "gloss": "useless things"
   },
   {
    "surface": "பல்லார்",
    "parts": [
     {
-     "text": "பல்லார்",
-     "lemma": "பலர்",
-     "gloss": "many people"
+     "text": "பல்",
+     "lemma": "பல",
+     "gloss": "many"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "people"
     }
    ],
    "gloss": "many people"
@@ -42,15 +52,20 @@
      "gloss": "before"
     }
    ],
-   "gloss": "in front of"
+   "gloss": "before / in front of"
   },
   {
    "surface": "சொல்லல்",
    "parts": [
     {
-     "text": "சொல்லல்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "speaking"
+     "gloss": "speak"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "speaking"
@@ -70,25 +85,30 @@
    "surface": "இல",
    "parts": [
     {
-     "text": "இல",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without-they"
+     "gloss": "without"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "they (neuter plural)"
     }
    ],
-   "gloss": "without-things"
+   "gloss": "things devoid of goodness"
   },
   {
    "surface": "நட்டார்கண்",
    "parts": [
     {
      "text": "நட்டார்",
-     "lemma": "நட்டார்",
+     "lemma": "நண்பர்",
      "gloss": "friends"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at"
+     "gloss": "towards"
     }
    ],
    "gloss": "towards friends"
@@ -110,16 +130,16 @@
     {
      "text": "றீது",
      "lemma": "தீது",
-     "gloss": "bad thing"
+     "gloss": "is evil"
     }
    ],
-   "gloss": "is bad"
+   "gloss": "is worse"
   }
  ],
- "literal": "Benefit without-things many-people before speaking, goodness without-things friends-at than-doing is-bad.",
- "translation": "Speaking useless words in front of a crowd is worse than doing unkind deeds to one's own friends.",
- "modern": "பலருக்கு முன்னே பயனில்லாத சொற்களைச் சொல்வது, நண்பர்களுக்கு இனிமையற்ற செயல்களைச் செய்வதை விடத் தீமையானது.",
- "explanation": "This couplet emphasizes the harm of speaking uselessly in public. The poet compares it to acting unkindly towards close friends, which is already a severe wrong. By stating that public babbling is even worse than such betrayal, the verse strongly warns against wasting words and the time of others. The word 'நயன்' refers to goodness or pleasantness, contrasting with the uselessness of 'பயன் இல'.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Speaking useless things before many people is worse than doing things devoid of goodness towards friends.",
+ "translation": "To speak useless words in the presence of many is worse than doing deeds devoid of kindness to one's friends.",
+ "modern": "பலர் முன்னிலையில் பயனில்லாத சொற்களைப் பேசுவது, நண்பர்களுக்கு நன்மை இல்லாத தீய செயல்களைச் செய்வதை விடக் கொடியதாகும்.",
+ "explanation": "This couplet highlights the severe consequences of speaking useless words in public. The poet compares two wrongdoings: performing unkind or harmful deeds toward one's friends, and speaking empty, profitless words in front of a large gathering. While harming friends is a grave moral failing, the poet declares that uttering useless words in public is even worse. This is because public babbling instantly exposes one's lack of wisdom, ruins one's reputation, and wastes the collective time of many people.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,10 +11,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "through"
+     "gloss": "because of"
     }
    ],
-   "gloss": "through negligence"
+   "gloss": "because of negligence"
   },
   {
    "surface": "கெட்டாரை",
@@ -27,26 +27,21 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who were ruined (acc.)"
+   "gloss": "those who were ruined"
   },
   {
    "surface": "உள்ளுக",
    "parts": [
     {
-     "text": "உள்ளு",
+     "text": "உள்ளுக",
      "lemma": "உள்ளு",
-     "gloss": "think/remember"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "let them think of"
     }
    ],
-   "gloss": "let [one] remember"
+   "gloss": "let them think of"
   },
   {
    "surface": "தாம்",
@@ -54,10 +49,10 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "they"
+     "gloss": "themselves"
     }
    ],
-   "gloss": "they"
+   "gloss": "themselves"
   },
   {
    "surface": "தம்",
@@ -65,10 +60,10 @@
     {
      "text": "தம்",
      "lemma": "தாம்",
-     "gloss": "their own"
+     "gloss": "their"
     }
    ],
-   "gloss": "their own"
+   "gloss": "their"
   },
   {
    "surface": "மகிழ்ச்சியின்",
@@ -81,10 +76,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "through"
+     "gloss": "because of"
     }
    ],
-   "gloss": "through joy"
+   "gloss": "because of joy"
   },
   {
    "surface": "மைந்து",
@@ -101,14 +96,9 @@
    "surface": "உறும்",
    "parts": [
     {
-     "text": "உறு",
+     "text": "உறும்",
      "lemma": "உறு",
-     "gloss": "experience"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "experiencing"
     }
    ],
    "gloss": "experiencing"
@@ -118,17 +108,17 @@
    "parts": [
     {
      "text": "போழ்து",
-     "lemma": "பொழுது",
+     "lemma": "போழ்து",
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "at the time"
   }
  ],
- "literal": "Through negligence those who were ruined let them remember, they [at] their own through joy infatuation experiencing time.",
- "translation": "When overcome by infatuation through their own joy, let them remember those who were ruined by negligence.",
- "modern": "தாம் அடையும் பெருமகிழ்ச்சியால் செருக்குக் கொள்ளும் போது, கவனக்குறைவால் அழிந்தவர்களை நினைத்துப் பார்க்க வேண்டும்.",
- "explanation": "This couplet warns against the danger of becoming careless when experiencing great joy or success. The word 'மகிழ்ச்சி' (joy) here implies an exultation that leads to 'மைந்து' (infatuation or pride), which in turn causes negligence. To guard against this, the poet advises remembering 'கெட்டாரை' (those who were ruined) by 'இகழ்ச்சி' (negligence or forgetfulness). By recalling the downfall of others who let their guard down, one can maintain focus and avoid the same fate.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who were ruined because of negligence, let them think of, when they themselves experience infatuation because of their own joy.",
+ "translation": "Let people think of those who were ruined by negligence, at the very moment they find themselves infatuated with their own joy.",
+ "modern": "தங்கள் மகிழ்ச்சியினால் செருக்குற்று மயங்கும் காலத்தில், மறதியினால் (அலட்சியத்தினால்) அழிந்து போனவர்களை நினைத்துப் பார்க்க வேண்டும்.",
+ "explanation": "This couplet warns against the danger of complacency that arises from excessive happiness or success. When people are overjoyed, they often lose their vigilance and become infatuated or prideful ('மைந்துறும்'). To prevent the ruin that follows such negligence ('இகழ்ச்சி'), the poet advises them to remember those who were once prosperous but got ruined because they let their guard down. Reflecting on the downfall of others serves as a powerful reality check to maintain mindfulness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

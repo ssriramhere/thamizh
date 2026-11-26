@@ -5,33 +5,33 @@
    "parts": [
     {
      "text": "நகல்",
-     "lemma": "நகு",
-     "gloss": "rejoicing"
+     "lemma": "நகல்",
+     "gloss": "smiling or socializing"
     }
    ],
-   "gloss": "rejoicing"
+   "gloss": "smiling/socializing"
   },
   {
    "surface": "வல்லர்",
    "parts": [
     {
      "text": "வல்லர்",
-     "lemma": "வல்",
-     "gloss": "capable ones"
+     "lemma": "வல்லவர்",
+     "gloss": "those who are capable of"
     }
    ],
-   "gloss": "capable ones"
+   "gloss": "those who are capable of"
   },
   {
    "surface": "அல்லார்க்கு",
    "parts": [
     {
      "text": "அல்லார்",
-     "lemma": "அல்",
+     "lemma": "அல்லார்",
      "gloss": "those who are not"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -44,7 +44,7 @@
     {
      "text": "மா",
      "lemma": "மா",
-     "gloss": "great"
+     "gloss": "great/vast"
     }
    ],
    "gloss": "great"
@@ -55,7 +55,7 @@
     {
      "text": "இரு",
      "lemma": "இரு",
-     "gloss": "vast"
+     "gloss": "dark/vast"
     }
    ],
    "gloss": "vast"
@@ -85,7 +85,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even in daytime"
+   "gloss": "even in the daytime"
   },
   {
    "surface": "பால்",
@@ -93,10 +93,10 @@
     {
      "text": "பால்",
      "lemma": "பால்",
-     "gloss": "part"
+     "gloss": "side/part/nature"
     }
    ],
-   "gloss": "part"
+   "gloss": "side/nature"
   },
   {
    "surface": "பட்டன்று",
@@ -104,15 +104,15 @@
     {
      "text": "பட்டு",
      "lemma": "படு",
-     "gloss": "having fallen"
+     "gloss": "having fallen into"
     },
     {
      "text": "அன்று",
      "lemma": "அன்று",
-     "gloss": "it is"
+     "gloss": "it is (neuter singular suffix)"
     }
    ],
-   "gloss": "it has fallen into"
+   "gloss": "is fallen into"
   },
   {
    "surface": "இருள்",
@@ -126,10 +126,10 @@
    "gloss": "darkness"
   }
  ],
- "literal": "Rejoicing capable not-to-those great vast world daytime-even part having-fallen-it-is darkness.",
- "translation": "For those who are unable to rejoice with others, this great vast world is plunged in darkness even during the day.",
- "modern": "மற்றவர்களோடு சேர்ந்து மகிழ முடியாதவர்களுக்கு, இந்தப் பெரிய உலகமானது பகல் நேரத்திலும் இருளில்தான் இருக்கும்.",
- "explanation": "This couplet describes the isolated state of those who lack the good character to mingle and rejoice with others. The phrase 'nakal vallar allārkku' refers to people who cannot smile or share joy. For such people, the 'mā iru ñālam' (great vast world) offers no light. Even in the bright daytime, their world is 'pāl paṭṭaṉṟu iruḷ'—it has fallen into the nature of darkness, reflecting their inner gloom and social isolation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are not capable of smiling and socializing, the great vast world, even in the daytime, is fallen into the side of darkness.",
+ "translation": "To those who cannot smile and be friendly with others, this vast, great world is enveloped in pitch darkness, even during the broad daylight.",
+ "modern": "பிறரோடு கலந்து பழகி மகிழ முடியாதவர்களுக்கு, இந்தப் பெரிய பரந்த உலகம் பகல் நேரத்திலும் இருளில் மூழ்கியதாகவே தோன்றும்.",
+ "explanation": "This couplet highlights the importance of a cheerful, sociable disposition as a key aspect of courtesy. The word 'நகல்' refers to smiling, laughing, and warm social interaction. For those who lack this ability ('வல்லர் அல்லார்க்கு'), the vast world ('மா இரு ஞாலம்') holds no joy or light. Even during the bright day ('பகலும்'), their lives feel as though they are plunged into darkness ('இருள் பால் பட்டன்று') because they isolate themselves from the warmth of human connection.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

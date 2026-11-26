@@ -4,12 +4,17 @@
    "surface": "தொட்டனைத்து",
    "parts": [
     {
-     "text": "தொட்டனைத்து",
-     "lemma": "தொட்டனைத்து",
-     "gloss": "as much as dug"
+     "text": "தொட்டு",
+     "lemma": "தொடு",
+     "gloss": "having dug"
+    },
+    {
+     "text": "அனைத்து",
+     "lemma": "அனைத்து",
+     "gloss": "that extent"
     }
    ],
-   "gloss": "as much as dug"
+   "gloss": "to the extent that it is dug"
   },
   {
    "surface": "ஊறும்",
@@ -17,10 +22,10 @@
     {
      "text": "ஊறும்",
      "lemma": "ஊறு",
-     "gloss": "will spring up"
+     "gloss": "will flow"
     }
    ],
-   "gloss": "will spring up"
+   "gloss": "flows"
   },
   {
    "surface": "மணற்கேணி",
@@ -47,8 +52,8 @@
      "gloss": "people"
     },
     {
-     "text": "க்கு",
-     "lemma": "க்கு",
+     "text": "கு",
+     "lemma": "கு",
      "gloss": "to"
     }
    ],
@@ -58,12 +63,17 @@
    "surface": "கற்றனைத்து",
    "parts": [
     {
-     "text": "கற்றனைத்து",
-     "lemma": "கற்றனைத்து",
-     "gloss": "as much as learned"
+     "text": "கற்று",
+     "lemma": "கல்",
+     "gloss": "having learnt"
+    },
+    {
+     "text": "அனைத்து",
+     "lemma": "அனைத்து",
+     "gloss": "that extent"
     }
    ],
-   "gloss": "as much as learned"
+   "gloss": "to the extent that they learn"
   },
   {
    "surface": "ஊறும்",
@@ -71,10 +81,10 @@
     {
      "text": "ஊறும்",
      "lemma": "ஊறு",
-     "gloss": "will spring up"
+     "gloss": "will flow"
     }
    ],
-   "gloss": "will spring up"
+   "gloss": "flows"
   },
   {
    "surface": "அறிவு",
@@ -88,10 +98,10 @@
    "gloss": "knowledge"
   }
  ],
- "literal": "As much as dug, springs up in a sand well; to people, as much as learned, springs up knowledge.",
- "translation": "In a sandy well, water springs up in proportion to the depth it is dug. For people, knowledge grows in proportion to the extent they learn.",
- "modern": "மணலில் தோண்டிய அளவுக்கு ஏற்பக் கிணற்றில் நீர் ஊறும். அதுபோல, மனிதர்கள் கற்கும் அளவுக்கு ஏற்ப அவர்களின் அறிவு வளரும்.",
- "explanation": "This couplet uses a simple, vivid analogy to explain the nature of learning. A well dug in sandy soil yields water proportionate to how deep one digs. Similarly, human knowledge is not fixed but expands exactly as much as one continues to learn. The words 'தொட்டனைத்து' (as much as dug) and 'கற்றனைத்து' (as much as learned) perfectly balance the physical effort of drawing water with the mental effort of gaining wisdom.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the extent dug, flows the sandy well; to people, to the extent learnt, flows knowledge.",
+ "translation": "As water flows from a sandy well in proportion to the depth it is dug, so does knowledge flow to people in proportion to the depth of their learning.",
+ "modern": "தோண்டும் அளவிற்கு மணற்கேணியில் நீர் சுரக்கும்; அதுபோல, கற்கும் அளவிற்கு மக்களுக்கு அறிவு வளரும்.",
+ "explanation": "This couplet uses a beautiful analogy of a sandy well to explain how learning expands the mind. A well dug in sand yields water only as deep as one digs; the deeper you dig, the more water springs forth. Similarly, for human beings, knowledge springs forth and grows only to the extent that they study and learn. The key words 'தொட்டனைத்து' (as much as dug) and 'கற்றனைத்து' (as much as learnt) are perfectly paired to show the direct, proportional relationship between effort and outcome in education.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

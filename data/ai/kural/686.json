@@ -17,7 +17,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "presence"
+     "gloss": "presence or eyes"
     }
    ],
    "gloss": "presence"
@@ -28,10 +28,10 @@
     {
      "text": "அஞ்சான்",
      "lemma": "அஞ்சு",
-     "gloss": "he fears not"
+     "gloss": "one who does not fear"
     }
    ],
-   "gloss": "he fears not"
+   "gloss": "one who is fearless"
   },
   {
    "surface": "செல",
@@ -39,10 +39,10 @@
     {
      "text": "செல",
      "lemma": "செல்",
-     "gloss": "to be accepted"
+     "gloss": "to penetrate or reach the mind"
     }
    ],
-   "gloss": "to be accepted"
+   "gloss": "so as to penetrate the mind"
   },
   {
    "surface": "சொல்லி",
@@ -53,18 +53,23 @@
      "gloss": "having spoken"
     }
    ],
-   "gloss": "having spoken"
+   "gloss": "speaking"
   },
   {
    "surface": "காலத்தால்",
    "parts": [
     {
-     "text": "காலத்தால்",
+     "text": "காலத்து",
      "lemma": "காலம்",
-     "gloss": "by the time"
+     "gloss": "time"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
     }
    ],
-   "gloss": "by the time"
+   "gloss": "according to the time"
   },
   {
    "surface": "தக்கது",
@@ -72,10 +77,10 @@
     {
      "text": "தக்கது",
      "lemma": "தகு",
-     "gloss": "that which is fit"
+     "gloss": "that which is fitting"
     }
    ],
-   "gloss": "that which is fit"
+   "gloss": "that which is appropriate"
   },
   {
    "surface": "அறிவது",
@@ -108,13 +113,13 @@
      "gloss": "envoy"
     }
    ],
-   "gloss": "envoy"
+   "gloss": "an envoy"
   }
  ],
- "literal": "Having learned, presence fearing not, to be accepted having spoken, by the time that which is fit knowing, is the envoy.",
- "translation": "An envoy is one who has learned well, does not fear the presence of others, speaks persuasively, and knows what is appropriate for the time.",
- "modern": "நூல்களைக் கற்று, பகைவர் அவைக்கு அஞ்சாமல், அவர்கள் ஏற்குமாறு பேசி, காலத்திற்கு ஏற்ற செயலை அறிபவரே சிறந்த தூதுவர் ஆவார்.",
- "explanation": "This couplet defines the essential qualities of a successful envoy. They must be well-educated and fearless when standing in the presence of rival rulers. Furthermore, they must speak persuasively so that their message is accepted, while always knowing the most fitting action to take based on the current time and circumstances.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having learned, not fearing the presence of others, speaking so as to penetrate their minds, and knowing that which is appropriate according to the time, is the role of an envoy.",
+ "translation": "An envoy is one who is highly learned, fearless in the presence of others, speaks so that his words penetrate the listener's mind, and knows what is appropriate for the opportune moment.",
+ "modern": "நன்கு கற்று, எதற்கும் அஞ்சாமல், கேட்பவர் மனதில் பதியுமாறு பேசி, காலத்திற்கு ஏற்றவாறு பொருத்தமானதை அறிந்து செயல்படுவதே சிறந்த தூது ஆகும்.",
+ "explanation": "This couplet outlines the essential qualifications and duties of a successful diplomat or envoy. First, they must be deeply educated ('கற்று') and possess the courage to speak without flinching in the presence of powerful rulers ('கண் அஞ்சான்'). Second, they must communicate persuasively, making their message penetrate and convince the listener's mind ('செலச் சொல்லி'). Finally, they must have the wisdom to discern what is fitting ('தக்கது') and act in accordance with the specific timing and circumstances ('காலத்தால்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

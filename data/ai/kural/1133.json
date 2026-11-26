@@ -33,7 +33,7 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "manliness"
+     "gloss": "manliness or self-control"
     }
    ],
    "gloss": "manliness"
@@ -47,15 +47,20 @@
      "gloss": "formerly"
     }
    ],
-   "gloss": "formerly"
+   "gloss": "in the past"
   },
   {
    "surface": "உடையேன்",
    "parts": [
     {
-     "text": "உடையேன்",
+     "text": "உடை",
      "lemma": "உடை",
-     "gloss": "I possessed"
+     "gloss": "possess"
+    },
+    {
+     "text": "யேன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
     }
    ],
    "gloss": "I possessed"
@@ -75,9 +80,14 @@
    "surface": "உடையேன்",
    "parts": [
     {
-     "text": "உடையேன்",
+     "text": "உடை",
      "lemma": "உடை",
-     "gloss": "I possess"
+     "gloss": "possess"
+    },
+    {
+     "text": "யேன்",
+     "lemma": "ஏன்",
+     "gloss": "I"
     }
    ],
    "gloss": "I possess"
@@ -88,10 +98,10 @@
     {
      "text": "காமுற்றார்",
      "lemma": "காமுறு",
-     "gloss": "those who are infatuated"
+     "gloss": "those who are deeply in love"
     }
    ],
-   "gloss": "those who are infatuated"
+   "gloss": "those who are in love"
   },
   {
    "surface": "ஏறும்",
@@ -99,10 +109,10 @@
     {
      "text": "ஏறும்",
      "lemma": "ஏறு",
-     "gloss": "mounting"
+     "gloss": "riding"
     }
    ],
-   "gloss": "mounting"
+   "gloss": "riding"
   },
   {
    "surface": "மடல்",
@@ -110,16 +120,16 @@
     {
      "text": "மடல்",
      "lemma": "மடல்",
-     "gloss": "palmyra stem"
+     "gloss": "palmyra horse"
     }
    ],
-   "gloss": "palmyra stem"
+   "gloss": "the palmyra horse"
   }
  ],
- "literal": "With modesty, good manliness formerly I possessed; today I possess the palmyra stem mounted by those who are infatuated.",
- "translation": "I once possessed modesty and excellent manly fortitude. Today, I possess only the palmyra-stem chariot ridden by the infatuated.",
- "modern": "முன்பு நான் நாணமும் சிறந்த ஆண்மையும் உடையவனாக இருந்தேன். ஆனால் இன்று காதல் கொண்டவர்கள் ஏறும் மடலையே உடையவனாக இருக்கிறேன்.",
- "explanation": "The speaker contrasts his dignified past with his desperate present state caused by intense love. Formerly, he possessed modesty and manly fortitude, which kept his emotions in check. Now, overwhelmed by infatuation, he has lost those virtues and possesses only the palmyra stem. This refers to the ancient Tamil practice of riding a rough chariot made of jagged palmyra stems to publicly declare unrequited love, showing a complete abandonment of shame.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With modesty, good manliness, formerly I possessed; today I possess, those who are in love ride, the palmyra horse.",
+ "translation": "In the past, I possessed modesty and noble self-control; today, all I possess is the palmyra horse that those consumed by love ride.",
+ "modern": "முன்பு நான் நாணத்தையும் நல்ல ஆண்மையையும் (மனவலிமையையும்) பெற்றிருந்தேன்; ஆனால் இன்று, காதலில் வருந்துவோர் ஏறும் மடல் குதிரையை மட்டுமே நான் பெற்றுள்ளேன்.",
+ "explanation": "The hero, suffering from the intense pain of separation and unfulfilled love, speaks of his desperate state. In the past, he was guided by modesty (நாண்) and strong self-control or manliness (ஆண்மை). However, the overwhelming power of his love has stripped him of these virtues. Now, his only possession and recourse is the 'madal' (மடல்)—a horse made of sharp palmyra stems, which disappointed lovers traditionally ride publicly to proclaim their love and seek sympathy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

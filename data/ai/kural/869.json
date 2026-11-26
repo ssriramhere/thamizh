@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "செறுவார்",
-     "lemma": "செறு",
-     "gloss": "those who destroy"
+     "lemma": "செறுவார்",
+     "gloss": "those who oppose/fight"
     },
     {
      "text": "கு",
@@ -14,7 +14,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to those who destroy"
+   "gloss": "to those who oppose/fight"
   },
   {
    "surface": "சேண்",
@@ -22,23 +22,18 @@
     {
      "text": "சேண்",
      "lemma": "சேண்",
-     "gloss": "distance"
+     "gloss": "distance/far"
     }
    ],
-   "gloss": "far"
+   "gloss": "distance/far"
   },
   {
    "surface": "இகவா",
    "parts": [
     {
-     "text": "இக",
-     "lemma": "இக",
-     "gloss": "to depart"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "இகவா",
+     "lemma": "இகத்தல்",
+     "gloss": "will not depart"
     }
    ],
    "gloss": "will not depart"
@@ -49,10 +44,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "joy/happiness"
     }
    ],
-   "gloss": "joy"
+   "gloss": "joy/happiness"
   },
   {
    "surface": "அறிவு",
@@ -60,42 +55,32 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "wisdom"
+     "gloss": "wisdom/knowledge"
     }
    ],
-   "gloss": "wisdom"
+   "gloss": "wisdom/knowledge"
   },
   {
    "surface": "இலா",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இலா",
      "lemma": "இல்",
-     "gloss": "to not have"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "lacking/without"
     }
    ],
-   "gloss": "without"
+   "gloss": "lacking/without"
   },
   {
    "surface": "அஞ்சும்",
    "parts": [
     {
-     "text": "அஞ்சு",
+     "text": "அஞ்சும்",
      "lemma": "அஞ்சு",
-     "gloss": "to fear"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "fearing/cowardly"
     }
    ],
-   "gloss": "fearing"
+   "gloss": "fearing/cowardly"
   },
   {
    "surface": "பகைவர்",
@@ -112,23 +97,18 @@
    "surface": "பெறின்",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "to get"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if one obtains"
     }
    ],
-   "gloss": "if getting"
+   "gloss": "if one obtains"
   }
  ],
- "literal": "To the destroyers, far will not depart joy, wisdom without, fearing enemies if getting.",
- "translation": "Joy will never depart far from those who conquer, if they gain enemies who lack wisdom and are full of fear.",
- "modern": "அறிவில்லாத, கோழைத்தனமான பகைவர்களைப் பெற்றால், அவர்களை அழிப்பவர்களை விட்டு இன்பம் ஒருபோதும் விலகிச் செல்லாது.",
- "explanation": "This couplet explains the advantage of having weak and foolish enemies. If a leader faces foes who lack wisdom ('அறிவு இலா') and are easily frightened ('அஞ்சும்'), defeating them becomes effortless. Consequently, the joy of victory and prosperity will never leave the conqueror ('செறுவார்க்கு'). The phrase 'சேண் இகவா' emphasizes that this happiness will remain close and enduring.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who fight, far will not depart joy, wisdom lacking, fearing enemies if they obtain.",
+ "translation": "If one obtains enemies who lack wisdom and are easily frightened, joy will never depart far from those who oppose them.",
+ "modern": "அறிவில்லாத, பயப்படுகின்ற பகைவர்களைப் பெற்றால், அவர்களை எதிர்த்துப் போரிடுபவர்களுக்கு மகிழ்ச்சி எப்போதும் நீங்காமல் நிலைத்திருக்கும்.",
+ "explanation": "This couplet explains the strategic advantage of facing weak adversaries. If a person's enemies are both foolish and cowardly, defeating them becomes an effortless task. Consequently, those who oppose such weak enemies will experience constant success and happiness. The phrase 'cēṇ ikavā iṉpam' beautifully conveys that joy will never go far away from them, as victory is guaranteed.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

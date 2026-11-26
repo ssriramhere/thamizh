@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "prosperity and"
+   "gloss": "and prosperity"
   },
   {
    "surface": "கேடும்",
@@ -30,7 +30,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "ruin and"
+   "gloss": "and ruin"
   },
   {
    "surface": "அதனால்",
@@ -43,15 +43,15 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "[link]"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by / through"
     }
    ],
-   "gloss": "by it"
+   "gloss": "by that (speech)"
   },
   {
    "surface": "வருதலால்",
@@ -75,7 +75,7 @@
     {
      "text": "காத்து",
      "lemma": "கா",
-     "gloss": "having guarded"
+     "gloss": "guarding"
     }
    ],
    "gloss": "having guarded"
@@ -85,11 +85,11 @@
    "parts": [
     {
      "text": "ஓம்பல்",
-     "lemma": "ஓம்பு",
-     "gloss": "warding off"
+     "lemma": "ஓம்புதல்",
+     "gloss": "protecting / avoiding"
     }
    ],
-   "gloss": "warding off"
+   "gloss": "protecting / avoiding"
   },
   {
    "surface": "சொல்லின்கண்",
@@ -102,7 +102,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "[link]"
+     "gloss": "inflectional increment"
     },
     {
      "text": "கண்",
@@ -118,16 +118,16 @@
     {
      "text": "சோர்வு",
      "lemma": "சோர்வு",
-     "gloss": "slip"
+     "gloss": "slip / carelessness"
     }
    ],
-   "gloss": "slip"
+   "gloss": "slip / carelessness"
   }
  ],
- "literal": "Prosperity and ruin by it because of arising, having guarded, ward off slip in speech.",
- "translation": "Since both prosperity and ruin arise from it, carefully guard against any slip in your speech.",
- "modern": "ஆக்கமும் அழிவும் ஒருவருடைய சொல்லாலேயே வருவதால், பேசும் சொல்லில் பிழை ஏற்படாமல் விழிப்புடன் காக்க வேண்டும்.",
- "explanation": "This couplet emphasizes the profound impact of one's words. The words 'ākkam' (prosperity or constructive good) and 'kēṭu' (ruin or destructive evil) show that speech has the power to build up or tear down a person's life. Because such significant outcomes arise directly from speech, the speaker is advised to be extremely vigilant. The phrase 'kāttu ōmpal' (guard and protect) stresses the active, continuous effort required to prevent any 'cōrvu' (slip, error, or careless mistake) in what is said.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And prosperity and ruin by that arising, guarding [against it], avoid slip in speech.",
+ "translation": "Since both prosperity and ruin arise from one's words, one must guard against carelessness and slips in speech.",
+ "modern": "ஆக்கமும் அழிவும் ஒருவனுடைய சொல்லினாலேயே உண்டாவதால், தன் சொல்லில் சோர்வு ஏற்படாமல் காத்துக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet emphasizes the immense power of speech, showing how a person's words can lead to either great prosperity or total ruin. Because words carry such high stakes, one must be extremely vigilant to prevent any careless slips of the tongue. The phrase 'காத்தோம்பல்' highlights the active effort required to maintain control over what one says. Thus, mindful speech is presented as a vital shield for safeguarding one's life and well-being.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

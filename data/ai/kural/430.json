@@ -6,7 +6,7 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     },
     {
      "text": "உடையார்",
@@ -14,7 +14,7 @@
      "gloss": "possessors"
     }
    ],
-   "gloss": "those who possess knowledge"
+   "gloss": "those who possess wisdom"
   },
   {
    "surface": "எல்லாம்",
@@ -22,7 +22,7 @@
     {
      "text": "எல்லாம்",
      "lemma": "எல்லாம்",
-     "gloss": "all"
+     "gloss": "everything"
     }
    ],
    "gloss": "everything"
@@ -36,7 +36,7 @@
      "gloss": "possessors"
     }
    ],
-   "gloss": "they possess"
+   "gloss": "are those who possess"
   },
   {
    "surface": "அறிவிலார்",
@@ -44,15 +44,15 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     },
     {
      "text": "இலார்",
      "lemma": "இலார்",
-     "gloss": "those without"
+     "gloss": "those who lack"
     }
    ],
-   "gloss": "those without knowledge"
+   "gloss": "those who lack wisdom"
   },
   {
    "surface": "என்",
@@ -63,7 +63,7 @@
      "gloss": "what"
     }
    ],
-   "gloss": "whatever"
+   "gloss": "what"
   },
   {
    "surface": "உடையர்",
@@ -74,7 +74,7 @@
      "gloss": "possessors"
     }
    ],
-   "gloss": "they possess"
+   "gloss": "possessors"
   },
   {
    "surface": "ஏனும்",
@@ -93,16 +93,16 @@
     {
      "text": "இலர்",
      "lemma": "இலர்",
-     "gloss": "those without"
+     "gloss": "they have nothing"
     }
    ],
    "gloss": "they have nothing"
   }
  ],
- "literal": "Those who possess knowledge everything they possess; those without knowledge whatever they possess even if, they are without.",
- "translation": "Those who possess wisdom possess everything. Those without wisdom possess nothing, no matter what else they may have.",
- "modern": "அறிவுடையவர்கள் உலகத்தில் உள்ள எல்லாவற்றையும் பெற்றவர்கள் ஆவார்கள். அறிவு இல்லாதவர்கள் வேறு எதைப் பெற்றிருந்தாலும், உண்மையில் ஒன்றும் இல்லாதவர்களே ஆவார்கள்.",
- "explanation": "This couplet contrasts the true value of wisdom with material possessions. The word 'அறிவுடையார்' refers to those who have acquired true knowledge, and the poet declares that they effectively possess everything. Conversely, 'அறிவிலார்' are those lacking wisdom; even if they own vast wealth or other worldly goods ('என் உடையரேனும்'), they are considered to have nothing ('இலர்'). The underlying message is that knowledge is the only complete and secure possession, rendering all other acquisitions meaningless without it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who possess wisdom possess everything; those who lack wisdom, what even if they possess, they have nothing.",
+ "translation": "Those who possess wisdom possess everything; those who lack wisdom, whatever else they may possess, possess nothing at all.",
+ "modern": "அறிவு உடையவர்கள் எல்லாவற்றையும் உடையவர்கள் ஆவர்; அறிவு இல்லாதவர்கள் வேறு எதனைப் பெற்று இருந்தாலும் ஒன்றும் இல்லாதவர்களே ஆவர்.",
+ "explanation": "This couplet highlights the supreme value of wisdom over all material possessions. Those who have wisdom are considered to have everything, as wisdom guides them to acquire, protect, and use all other things rightly. Conversely, those who lack wisdom, even if they possess immense wealth or other resources, are deemed to have nothing because they cannot retain or use them properly. The contrast between 'உடையார்' (possessors) and 'இலர்' (those who have nothing) emphasizes that wisdom is the ultimate wealth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

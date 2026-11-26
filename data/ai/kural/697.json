@@ -9,23 +9,18 @@
      "gloss": "pleasing things"
     }
    ],
-   "gloss": "pleasing things"
+   "gloss": "things that are pleasing"
   },
   {
    "surface": "சொல்லி",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லி",
      "lemma": "சொல்",
-     "gloss": "to say"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "speaking"
     }
    ],
-   "gloss": "having said"
+   "gloss": "speaking"
   },
   {
    "surface": "வினை",
@@ -33,26 +28,21 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "use"
+     "gloss": "action"
     }
    ],
-   "gloss": "use/action"
+   "gloss": "actions or matters"
   },
   {
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "they"
+     "text": "இல",
+     "lemma": "இல",
+     "gloss": "those without utility"
     }
    ],
-   "gloss": "things without"
+   "gloss": "things that are unproductive or useless"
   },
   {
    "surface": "எஞ்ஞான்றும்",
@@ -60,7 +50,7 @@
     {
      "text": "எஞ்ஞான்றும்",
      "lemma": "எஞ்ஞான்றும்",
-     "gloss": "always"
+     "gloss": "at all times"
     }
    ],
    "gloss": "always"
@@ -69,14 +59,9 @@
    "surface": "கேட்பினும்",
    "parts": [
     {
-     "text": "கேட்பின்",
+     "text": "கேட்பினும்",
      "lemma": "கேள்",
-     "gloss": "if asked"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if asked"
     }
    ],
    "gloss": "even if asked"
@@ -85,39 +70,29 @@
    "surface": "சொல்லா",
    "parts": [
     {
-     "text": "சொல்",
+     "text": "சொல்லா",
      "lemma": "சொல்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not speaking"
     }
    ],
-   "gloss": "not saying"
+   "gloss": "without speaking"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun"
+     "gloss": "refrain"
     }
    ],
-   "gloss": "leaving"
+   "gloss": "refrain from"
   }
  ],
- "literal": "Pleasing things having said, use without always even if asked not saying leave.",
- "translation": "Speak what is pleasing, but never speak useless words, even if asked.",
- "modern": "அரசனுக்கு விருப்பமான நல்ல செய்திகளை மட்டுமே சொல்ல வேண்டும். பயன்தராத செய்திகளை அவர் கேட்டாலும் எக்காலத்திலும் சொல்லாமல் விட்டுவிட வேண்டும்.",
- "explanation": "This couplet advises on the discipline of speech required when serving a ruler. The phrase 'வேட்பன சொல்லி' means one should speak things that are pleasing and desirable. The word 'வினை' typically means action or deed, but here it takes the sense of usefulness or productive result. Thus, 'வினையில' refers to words that produce no useful outcome. The couplet emphasizes that even if the ruler explicitly asks ('கேட்பினும்'), one must refrain from speaking useless things at all times ('எஞ்ஞான்றும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Pleasing things speaking, useless things at all times, even if asked, not speaking, refrain.",
+ "translation": "Speak only of things that are pleasing to the ruler; even if asked, always refrain from speaking about things that are unproductive or harmful.",
+ "modern": "அரசருக்குப் பிடிக்கும் காரியங்களை மட்டும் பேசி, அவரே கேட்டாலும் பயனில்லாத காரியங்களை எக்காலத்திலும் சொல்லாமல் தவிர்த்துவிட வேண்டும்.",
+ "explanation": "This couplet guides those who serve or advise rulers on the art of safe and effective communication. A courtier should proactively speak of matters that are agreeable and beneficial (வேட்பன சொல்லி). Conversely, matters that are useless, harmful, or lack constructive action (வினையில) must never be spoken of, even if the ruler specifically inquires about them (கேட்பினும் சொல்லா விடல்). This selective silence protects the advisor and maintains the harmony of the court.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,65 +4,63 @@
    "surface": "ஐயப்படாஅது",
    "parts": [
     {
-     "text": "ஐயப்படு",
-     "lemma": "ஐயப்படு",
-     "gloss": "to doubt"
-    },
-    {
-     "text": "ஆஅது",
-     "lemma": "ஆது",
-     "gloss": "without (negative suffix)"
+     "text": "ஐயப்படாஅது",
+     "lemma": "ஐயப்படாஅது",
+     "gloss": "without doubting"
     }
    ],
-   "gloss": "without doubting"
+   "gloss": "without doubting",
+   "split_unverified": true
   },
   {
    "surface": "அகத்தது",
    "parts": [
     {
-     "text": "அகத்து",
-     "lemma": "அகம்",
-     "gloss": "inside"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "that which is"
+     "text": "அகத்தது",
+     "lemma": "அகத்தது",
+     "gloss": "that which is in the mind"
     }
    ],
-   "gloss": "that which is inside"
+   "gloss": "that which is in the mind",
+   "split_unverified": true
   },
   {
    "surface": "உணர்வானை",
    "parts": [
     {
-     "text": "உணர்வான்",
+     "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "he who understands"
+     "gloss": "perceive"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future/present-future marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he (pronominal suffix)"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who understands"
+   "gloss": "him who perceives"
   },
   {
    "surface": "தெய்வத்தோடு",
    "parts": [
     {
-     "text": "தெய்வத்து",
-     "lemma": "தெய்வம்",
-     "gloss": "god"
-    },
-    {
-     "text": "ஓடு",
-     "lemma": "ஓடு",
-     "gloss": "with"
+     "text": "தெய்வத்தோடு",
+     "lemma": "தெய்வத்தோடு",
+     "gloss": "with the deity"
     }
    ],
-   "gloss": "with a god"
+   "gloss": "with the deity",
+   "split_unverified": true
   },
   {
    "surface": "ஒப்ப",
@@ -70,15 +68,15 @@
     {
      "text": "ஒப்பு",
      "lemma": "ஒப்பு",
-     "gloss": "to equal"
+     "gloss": "resemblance"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "infinitive suffix (to be equal)"
     }
    ],
-   "gloss": "equally"
+   "gloss": "as equal"
   },
   {
    "surface": "கொளல்",
@@ -86,21 +84,21 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "to consider"
+     "gloss": "take"
     },
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "optative suffix"
+     "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "one should consider"
+   "gloss": "considering"
   }
  ],
- "literal": "Without doubting, that which is inside, him who understands, with a god equally consider.",
- "translation": "Consider the one who unerringly understands what is in another's mind to be equal to a god.",
- "modern": "பிறர் மனத்திற்குள் இருப்பதைச் சிறிதும் ஐயமில்லாமல் சரியாக உணர்ந்து கொள்பவரைத் தெய்வத்திற்குச் சமமாக மதிக்க வேண்டும்.",
- "explanation": "This couplet highlights the extraordinary ability to read another person's mind. The word 'ஐயப்படாஅது' means doing so unerringly, without any doubt or hesitation. 'அகத்தது' refers to the unexpressed thoughts hidden inside the mind. Because perceiving the unseen is a superhuman trait, the text advises that a person who possesses this profound intuition should be regarded as equal to a god.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without doubting, that which is in the mind, him who perceives, with god, as equal, considering.",
+ "translation": "One who can perceive what is in another's mind without any doubt should be considered equal to a god.",
+ "modern": "மனதில் உள்ளதைச் சந்தேகமின்றி உணர்ந்து கொள்பவனைத் தெய்வத்திற்குச் சமமாகக் கருத வேண்டும்.",
+ "explanation": "This couplet extols the rare and powerful ability to read the unspoken thoughts of others. The poet states that someone who can look at another person and instantly, without any hesitation or doubt, understand what is hidden in their mind (akattatu) possesses a perception that is beyond ordinary human limits. Such an individual is so insightful that they should be treated as equal to a divine being (teyvam). The word 'aiyappaṭāatu' uses a poetic lengthening to emphasize the absolute certainty of this perception.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

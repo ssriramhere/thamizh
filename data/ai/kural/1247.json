@@ -6,10 +6,10 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "desire"
+     "gloss": "love"
     }
    ],
-   "gloss": "desire"
+   "gloss": "love"
   },
   {
    "surface": "விடுஒன்றோ",
@@ -17,20 +17,15 @@
     {
      "text": "விடு",
      "lemma": "விடு",
-     "gloss": "give up"
+     "gloss": "leave"
     },
     {
-     "text": "ஒன்று",
+     "text": "ஒன்றோ",
      "lemma": "ஒன்று",
-     "gloss": "one"
-    },
-    {
-     "text": "ஓ",
-     "lemma": "ஓ",
-     "gloss": "either"
+     "gloss": "either one"
     }
    ],
-   "gloss": "give up either one"
+   "gloss": "abandon either one"
   },
   {
    "surface": "நாண்விடு",
@@ -38,15 +33,15 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "shame"
+     "gloss": "modesty"
     },
     {
      "text": "விடு",
      "lemma": "விடு",
-     "gloss": "give up"
+     "gloss": "leave"
     }
    ],
-   "gloss": "give up shame"
+   "gloss": "abandon modesty"
   },
   {
    "surface": "நன்னெஞ்சே",
@@ -54,10 +49,10 @@
     {
      "text": "நன்னெஞ்சே",
      "lemma": "நன்னெஞ்சே",
-     "gloss": "O good heart!"
+     "gloss": "O good heart"
     }
    ],
-   "gloss": "O good heart!",
+   "gloss": "O good heart",
    "split_unverified": true
   },
   {
@@ -71,7 +66,7 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
    "gloss": "as for me"
@@ -80,14 +75,9 @@
    "surface": "பொறேன்",
    "parts": [
     {
-     "text": "பொறு",
+     "text": "பொறேன்",
      "lemma": "பொறு",
-     "gloss": "bear"
-    },
-    {
-     "text": "ஏன்",
-     "lemma": "ஏன்",
-     "gloss": "I will not"
+     "gloss": "I cannot bear"
     }
    ],
    "gloss": "I cannot bear"
@@ -97,7 +87,7 @@
    "parts": [
     {
      "text": "இவ்",
-     "lemma": "இவ்",
+     "lemma": "இ",
      "gloss": "these"
     }
    ],
@@ -115,10 +105,10 @@
    "gloss": "two"
   }
  ],
- "literal": "Desire give up either one, shame give up, O good heart! As for me, I cannot bear these two.",
- "translation": "O my good heart, give up your desire or give up your shame. As for me, I cannot bear the burden of these two together.",
- "modern": "நல்ல நெஞ்சமே! நீ காமத்தையாவது விட்டுவிடு, அல்லது நாணத்தையாவது விட்டுவிடு. என்னால் இவை இரண்டையும் சேர்த்துத் தாங்கிக்கொள்ள முடியாது.",
- "explanation": "The heroine addresses her heart, which is struggling between two conflicting emotions. On one hand, she feels intense desire for her lover, which urges her to seek him out. On the other hand, she feels modesty or shame, which holds her back. She tells her heart to choose one and abandon the other, because she herself lacks the strength to endure the heavy burden of both at the same time.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Love let go of either one, or modesty let go, O good heart! As for me, I cannot bear these two.",
+ "translation": "O my good heart, either give up desire or give up modesty; as for me, I cannot endure both at the same time.",
+ "modern": "நல்ல நெஞ்சே! காமத்தை விட்டுவிடு அல்லது நாணத்தை விட்டுவிடு. என்னால் இந்த இரண்டையும் ஒன்றாகத் தாங்கிக்கொள்ள முடியாது.",
+ "explanation": "In this couplet, the heroine addresses her own heart, which is caught in a painful conflict. She is torn between her intense love (kāmam) and her sense of modesty (nāṇ), which prevents her from seeking her lover. She tells her heart to choose one and abandon the other, as she cannot bear the burden of holding onto both opposing feelings simultaneously. The word 'poṟēn' highlights her inability to endure this internal struggle any longer.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

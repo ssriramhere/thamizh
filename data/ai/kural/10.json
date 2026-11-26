@@ -20,29 +20,40 @@
      "gloss": "great ocean"
     }
    ],
-   "gloss": "great ocean"
+   "gloss": "great ocean",
+   "split_unverified": true
   },
   {
    "surface": "நீந்துவர்",
    "parts": [
     {
-     "text": "நீந்துவர்",
+     "text": "நீந்து",
      "lemma": "நீந்து",
-     "gloss": "they will swim"
+     "gloss": "swim"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they will swim"
+   "gloss": "they will swim across"
   },
   {
    "surface": "நீந்தார்",
    "parts": [
     {
-     "text": "நீந்தார்",
+     "text": "நீந்து",
      "lemma": "நீந்து",
-     "gloss": "they will not swim"
+     "gloss": "swim"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who do not (negative suffix)"
     }
    ],
-   "gloss": "they will not swim"
+   "gloss": "they will not swim across"
   },
   {
    "surface": "இறைவன்",
@@ -50,10 +61,10 @@
     {
      "text": "இறைவன்",
      "lemma": "இறைவன்",
-     "gloss": "Lord"
+     "gloss": "lord"
     }
    ],
-   "gloss": "Lord"
+   "gloss": "the Lord"
   },
   {
    "surface": "அடி",
@@ -70,18 +81,23 @@
    "surface": "சேராதார்",
    "parts": [
     {
-     "text": "சேராதார்",
+     "text": "சேர்",
      "lemma": "சேர்",
-     "gloss": "those who do not join"
+     "gloss": "reach"
+    },
+    {
+     "text": "ஆதார்",
+     "lemma": "ஆதார்",
+     "gloss": "those who do not"
     }
    ],
-   "gloss": "those who do not join"
+   "gloss": "those who do not reach"
   }
  ],
- "literal": "birth great-ocean they-will-swim they-will-not-swim Lord feet those-who-do-not-join",
- "translation": "They will swim across the great ocean of births; those who do not join the feet of the Lord will not swim across.",
- "modern": "இறைவனின் திருவடிகளைச் சேராதவர்கள் பிறவி என்னும் பெருங்கடலைக் கடக்க மாட்டார்கள்; சேர்ந்தவர்கள் கடப்பார்கள்.",
- "explanation": "The couplet compares the cycle of births to a vast ocean. It states that those who reach the feet of the Lord will successfully swim across this ocean. Conversely, those who do not seek the Lord's feet will remain unable to cross it. The contrast between swimming and not swimming emphasizes the necessity of divine refuge to overcome worldly existence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The great ocean of birth they will swim, they will not swim, the Lord's feet those who do not reach.",
+ "translation": "Those who reach the feet of the Lord will swim across the great ocean of births; those who do not reach His feet will not.",
+ "modern": "இறைவனுடைய திருவடிகளைப் பொருந்தி வணங்குபவர்கள் பிறவியாகிய பெரிய கடலைக் கடப்பார்கள்; அவனுடைய திருவடிகளைப் பொருந்தாதவர்கள் அந்தக் கடலைக் கடக்க மாட்டார்கள்.",
+ "explanation": "This couplet compares the cycle of continuous births and deaths to a vast, formidable ocean (peruṅkaṭal). The poet asserts that the only way to successfully swim across (nīntuvar) this ocean of existence is by seeking refuge at the feet of the Lord (iṟaivan aṭi). Those who fail to reach or surrender to those divine feet (cērātār) will remain trapped, unable to cross (nīntār) the sea of worldly existence. The metaphor of the ocean highlights the difficulty of escaping worldly suffering without spiritual guidance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

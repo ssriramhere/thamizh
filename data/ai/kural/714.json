@@ -6,15 +6,15 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "light"
+     "gloss": "intelligence"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who have"
     }
    ],
-   "gloss": "brilliant ones"
+   "gloss": "those who are intelligent"
   },
   {
    "surface": "முன்",
@@ -22,10 +22,10 @@
     {
      "text": "முன்",
      "lemma": "முன்",
-     "gloss": "in front of"
+     "gloss": "before"
     }
    ],
-   "gloss": "in front of"
+   "gloss": "before"
   },
   {
    "surface": "ஒள்ளியர்",
@@ -38,23 +38,18 @@
     {
      "text": "இயர்",
      "lemma": "இயர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "those who are"
     }
    ],
-   "gloss": "bright ones"
+   "gloss": "bright or intelligent persons"
   },
   {
    "surface": "ஆதல்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "to become"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஆதல்",
+     "lemma": "ஆதல்",
+     "gloss": "becoming"
     }
    ],
    "gloss": "becoming"
@@ -65,15 +60,15 @@
     {
      "text": "வெளி",
      "lemma": "வெளி",
-     "gloss": "blank/white"
+     "gloss": "blankness or ignorance"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they who have"
     }
    ],
-   "gloss": "blank ones"
+   "gloss": "those who are ignorant"
   },
   {
    "surface": "முன்",
@@ -81,10 +76,10 @@
     {
      "text": "முன்",
      "lemma": "முன்",
-     "gloss": "in front of"
+     "gloss": "before"
     }
    ],
-   "gloss": "in front of"
+   "gloss": "before"
   },
   {
    "surface": "வான்",
@@ -92,10 +87,10 @@
     {
      "text": "வான்",
      "lemma": "வான்",
-     "gloss": "pure/white"
+     "gloss": "white or pure"
     }
    ],
-   "gloss": "pure"
+   "gloss": "white"
   },
   {
    "surface": "சுதை",
@@ -103,10 +98,10 @@
     {
      "text": "சுதை",
      "lemma": "சுதை",
-     "gloss": "chalk/lime"
+     "gloss": "lime plaster"
     }
    ],
-   "gloss": "chalk"
+   "gloss": "lime plaster"
   },
   {
    "surface": "வண்ணம்",
@@ -114,7 +109,7 @@
     {
      "text": "வண்ணம்",
      "lemma": "வண்ணம்",
-     "gloss": "color"
+     "gloss": "color or nature"
     }
    ],
    "gloss": "color"
@@ -123,23 +118,18 @@
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "to take"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "assuming"
     }
    ],
-   "gloss": "taking"
+   "gloss": "assuming"
   }
  ],
- "literal": "Brilliant ones before, bright ones becoming; blank ones before, pure chalk color taking.",
- "translation": "Be brilliant before those who are brilliant. Before those who are unlearned, take on the plain color of pure white chalk.",
- "modern": "அறிவுடையோர் முன்னே தாமும் அறிவுடையவராகப் பேசவேண்டும். அறிவில்லாதவர் முன்னே தாமும் வெண்சுதை போல ஒன்றும் அறியாதவராக எளிமையாக இருக்க வேண்டும்.",
- "explanation": "This couplet advises adapting one's discourse to the audience. Before an assembly of brilliant and learned people, a speaker should display their own brilliance. However, before an unlearned or blank audience, the speaker should assume the plainness of pure white chalk, keeping their words simple and unadorned. The contrast between light and blankness emphasizes the need to match the intellectual level of the listeners.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Before the intelligent, becoming intelligent; before the ignorant, assuming the color of white plaster.",
+ "translation": "Be highly intelligent in the presence of the wise; but before the ignorant, assume the blankness of white plaster.",
+ "modern": "அறிவுடையார் முன்னிலையில் தாமும் அறிவுடையவராக விளங்க வேண்டும்; அறிவில்லாதார் முன்னிலையில் வெண்மையான சுண்ணாம்புச் சாந்தின் நிறத்தைப் போலத் தாமும் ஒன்றும் அறியாதவர் போலக் காட்டிக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet guides a speaker on how to adapt to different audiences. When standing before highly learned and intelligent people (ஒளியார்), one must shine with equal brilliance and display one's intellect (ஒள்ளியர் ஆதல்). However, when facing unlearned or ignorant people (வெளியார்), it is wise to blend in and appear completely blank or simple, like plain white plaster (வான்சுதை வண்ணம் கொளல்). Showing off deep wisdom to those who cannot comprehend it is useless and can cause unnecessary conflict, so adopting a simple, non-threatening demeanor is recommended.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

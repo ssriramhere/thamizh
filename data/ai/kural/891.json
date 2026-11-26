@@ -4,12 +4,17 @@
    "surface": "ஆற்றுவார்",
    "parts": [
     {
-     "text": "ஆற்றுவார்",
+     "text": "ஆற்று",
      "lemma": "ஆற்று",
-     "gloss": "those who are capable"
+     "gloss": "to accomplish"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who are capable"
+   "gloss": "those who can accomplish great deeds"
   },
   {
    "surface": "ஆற்றல்",
@@ -17,7 +22,7 @@
     {
      "text": "ஆற்றல்",
      "lemma": "ஆற்றல்",
-     "gloss": "power"
+     "gloss": "power or ability"
     }
    ],
    "gloss": "power"
@@ -28,12 +33,12 @@
     {
      "text": "இகழ்",
      "lemma": "இகழ்",
-     "gloss": "despise"
+     "gloss": "to despise or disregard"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "not doing"
+     "gloss": "negative verbal noun suffix"
     }
    ],
    "gloss": "not despising"
@@ -42,12 +47,17 @@
    "surface": "போற்றுவார்",
    "parts": [
     {
-     "text": "போற்றுவார்",
+     "text": "போற்று",
      "lemma": "போற்று",
-     "gloss": "those who protect"
+     "gloss": "to guard or protect"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who protect"
+   "gloss": "those who protect themselves"
   },
   {
    "surface": "போற்றலுள்",
@@ -63,7 +73,7 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among protections"
+   "gloss": "among all protective measures"
   },
   {
    "surface": "எல்லாம்",
@@ -82,16 +92,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "head or foremost"
     }
    ],
-   "gloss": "chief"
+   "gloss": "foremost"
   }
  ],
- "literal": "Not despising the power of the capable is, among all protections of those who protect, the head.",
- "translation": "Not scorning the power of the capable is the chief of all safeguards for those who guard themselves.",
- "modern": "செயல்களைச் செய்து முடிக்கும் ஆற்றல் உடையவர்களை அவமதிக்காமல் இருப்பது, தம்மைக் காத்துக்கொள்ள விரும்புபவர் செய்யும் காவல்கள் எல்லாவற்றிலும் சிறந்ததாகும்.",
- "explanation": "The couplet emphasizes the importance of respecting powerful and capable people. It states that not scorning their abilities is the most effective way for a person to protect themselves from harm. The word 'ஆற்றுவார்' refers to those who have the power to accomplish things, while 'போற்றுவார்' refers to those who wish to guard their own well-being. By placing this respect as the 'head' (தலை) of all protections, the text highlights that avoiding the enmity of the great is the ultimate safeguard.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not despising the power of those who can accomplish deeds, among all the protections of those who protect themselves, is the foremost.",
+ "translation": "Not disregarding the power of those who can accomplish great deeds is the foremost of all safeguards for those who wish to protect themselves.",
+ "modern": "காரியங்களைச் சாதிக்க வல்லவர்களின் ஆற்றலை இகழாமல் இருப்பது, தம்மைக் காக்க நினைப்பவர்கள் செய்யும் பாதுகாப்புகள் எல்லாவற்றிலும் முதன்மையானது ஆகும்.",
+ "explanation": "This couplet highlights the supreme importance of self-preservation through respect. The word 'ஆற்றுவார்' refers to capable people who have the power to execute great tasks, and 'ஆற்றல்' is their inherent strength. The poet explains that for those who wish to guard themselves ('போற்றுவார்') from ruin, avoiding the disrespect or slighting ('இகழாமை') of such powerful individuals is the most vital ('தலை') of all protective measures ('போற்றலுள் எல்லாம்'). True safety begins not with physical fortresses, but with the wisdom of not provoking those who possess the power to act.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

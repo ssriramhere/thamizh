@@ -6,10 +6,10 @@
     {
      "text": "அரும்",
      "lemma": "அருமை",
-     "gloss": "difficult"
+     "gloss": "difficult / rare"
     }
    ],
-   "gloss": "difficult"
+   "gloss": "difficult / rare"
   },
   {
    "surface": "செவ்வி",
@@ -17,10 +17,10 @@
     {
      "text": "செவ்வி",
      "lemma": "செவ்வி",
-     "gloss": "access"
+     "gloss": "opportunity of access"
     }
    ],
-   "gloss": "access"
+   "gloss": "access / opportunity"
   },
   {
    "surface": "இன்னா",
@@ -28,10 +28,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harsh"
+     "gloss": "unpleasant / harsh"
     }
    ],
-   "gloss": "harsh"
+   "gloss": "unpleasant / harsh"
   },
   {
    "surface": "முகத்தான்",
@@ -39,10 +39,10 @@
     {
      "text": "முகத்தான்",
      "lemma": "முகத்தான்",
-     "gloss": "he who has a face"
+     "gloss": "he of the face"
     }
    ],
-   "gloss": "he of face"
+   "gloss": "one who has a face"
   },
   {
    "surface": "பெரும்",
@@ -50,10 +50,10 @@
     {
      "text": "பெரும்",
      "lemma": "பெருமை",
-     "gloss": "great"
+     "gloss": "great / immense"
     }
    ],
-   "gloss": "great"
+   "gloss": "great / immense"
   },
   {
    "surface": "செல்வம்",
@@ -72,10 +72,10 @@
     {
      "text": "பேஎய்",
      "lemma": "பேய்",
-     "gloss": "ghost"
+     "gloss": "ghost / demon"
     }
    ],
-   "gloss": "ghost"
+   "gloss": "ghost / demon"
   },
   {
    "surface": "கண்டு",
@@ -83,10 +83,10 @@
     {
      "text": "கண்டு",
      "lemma": "காண்",
-     "gloss": "having seen"
+     "gloss": "having seen / found"
     }
    ],
-   "gloss": "having seen"
+   "gloss": "having seen / found"
   },
   {
    "surface": "அன்னது",
@@ -94,10 +94,10 @@
     {
      "text": "அன்னது",
      "lemma": "அன்னது",
-     "gloss": "like that"
+     "gloss": "that which is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is of the nature of being like"
   },
   {
    "surface": "உடைத்து",
@@ -105,16 +105,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses / has"
   }
  ],
- "literal": "Difficult access, harsh he-of-face's great wealth, ghost having-seen like-that it-possesses.",
- "translation": "The vast wealth of a man who is hard to approach and wears a harsh expression is like a treasure guarded by a ghost.",
- "modern": "காண்பதற்கு அரியவனாகவும், கடுமையான முகத்தை உடையவனாகவும் இருக்கும் ஒருவனது பெரிய செல்வம், ஒரு பேயால் பார்க்கப்பட்டு காக்கப்படும் செல்வத்தைப் போன்ற தன்மையை உடையது.",
- "explanation": "This couplet compares the hoarded wealth of an unapproachable, cruel-faced person to a treasure watched over by a ghost. The word 'செவ்வி' here means the opportunity or access to meet someone, which is described as 'அரும்' (difficult). Because he is inaccessible and harsh ('இன்னா முகத்தான்'), his vast wealth ('பெருஞ்செல்வம்') benefits no one, just as a ghost glaring at ('கண்டு') a treasure neither uses it nor lets others approach it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Difficult access and unpleasant face-possessor's great wealth, a ghost having found [wealth], like that, it possesses.",
+ "translation": "The immense wealth of a ruler who is difficult to access and has a harsh countenance is like wealth found by a ghost—utterly useless to anyone.",
+ "modern": "காண்பதற்கு அரியவனாய், கடுகடுத்த முகத்தை உடையவனுடைய பெரிய செல்வமானது, பேய் கண்டு பாதுகாப்பதைப் போன்ற தன்மையுடையது.",
+ "explanation": "This couplet describes the uselessness of wealth held by an inaccessible and ill-tempered person. The key term 'அருஞ்செவ்வி' refers to someone who is extremely difficult to approach or meet, while 'இன்னா முகத்தான்' describes one who always wears a harsh, unpleasant expression. Their vast fortune ('பெருஞ்செல்வம்') is compared to wealth found or guarded by a ghost ('பேஎய்கண்டு அன்னது'). Just as a ghost cannot enjoy the wealth it hoards and prevents others from using it, the riches of a hostile, unapproachable person benefit absolutely no one.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

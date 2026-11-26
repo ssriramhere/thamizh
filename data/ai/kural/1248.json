@@ -4,101 +4,56 @@
    "surface": "பரிந்தவர்",
    "parts": [
     {
-     "text": "பரி",
-     "lemma": "பரி",
-     "gloss": "to love"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "he (honorific)"
+     "text": "பரிந்தவர்",
+     "lemma": "பரிந்தவர்",
+     "gloss": "he who showed love"
     }
    ],
-   "gloss": "he who loved"
+   "gloss": "he who once showed love"
   },
   {
    "surface": "நல்கார்",
    "parts": [
     {
-     "text": "நல்கு",
+     "text": "நல்கார்",
      "lemma": "நல்கு",
-     "gloss": "to grant"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "he (negative)"
+     "gloss": "will not bestow grace"
     }
    ],
-   "gloss": "he will not grant favor"
+   "gloss": "will not bestow grace"
   },
   {
    "surface": "என்று",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்று",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "று",
-     "lemma": "று",
-     "gloss": "adverbial suffix"
+     "gloss": "thinking"
     }
    ],
-   "gloss": "thinking that"
+   "gloss": "thinking"
   },
   {
    "surface": "ஏங்கி",
    "parts": [
     {
-     "text": "ஏங்கு",
+     "text": "ஏங்கி",
      "lemma": "ஏங்கு",
-     "gloss": "to yearn"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "yearning"
     }
    ],
-   "gloss": "having yearned"
+   "gloss": "yearning"
   },
   {
    "surface": "பிரிந்தவர்",
    "parts": [
     {
-     "text": "பிரி",
-     "lemma": "பிரி",
-     "gloss": "to part"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "he (honorific)"
+     "text": "பிரிந்தவர்",
+     "lemma": "பிரிந்தவர்",
+     "gloss": "he who departed"
     }
    ],
-   "gloss": "he who parted"
+   "gloss": "he who departed"
   },
   {
    "surface": "பின்",
@@ -109,28 +64,18 @@
      "gloss": "behind"
     }
    ],
-   "gloss": "after"
+   "gloss": "behind"
   },
   {
    "surface": "செல்வாய்",
    "parts": [
     {
-     "text": "செல்",
+     "text": "செல்வாய்",
      "lemma": "செல்",
-     "gloss": "to go"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense"
-    },
-    {
-     "text": "ஆய்",
-     "lemma": "ஆய்",
-     "gloss": "you"
+     "gloss": "you go"
     }
    ],
-   "gloss": "you will go"
+   "gloss": "you go"
   },
   {
    "surface": "பேதை",
@@ -138,7 +83,7 @@
     {
      "text": "பேதை",
      "lemma": "பேதை",
-     "gloss": "fool"
+     "gloss": "foolish one"
     }
    ],
    "gloss": "foolish"
@@ -148,7 +93,7 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "யான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -166,10 +111,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "He-who-loved will-not-grant-[favor] thinking having-yearned, he-who-parted behind you-will-go, foolish my heart.",
- "translation": "O my foolish heart! Yearning with the thought that he who once loved you will no longer show you grace, you go chasing after the one who departed.",
- "modern": "அன்பு செய்தவர் இனி அருள் செய்ய மாட்டார் என்று ஏங்கி, உன்னை விட்டுப் பிரிந்து சென்றவரின் பின்னால் நீ செல்கிறாய், என் அறிவற்ற நெஞ்சே.",
- "explanation": "The speaker addresses her own heart, calling it foolish. She notes that her heart yearns in fear that her lover, who once showed great affection, will no longer grant his grace. Driven by this sorrowful longing, the heart abandons her and chases after the very person who departed. The word 'pētai' (foolish) highlights the heart's irrationality in pursuing someone who has already chosen to leave.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who once showed love will not bestow grace, thinking thus and yearning, behind him who departed you go, foolish my heart!",
+ "translation": "O my foolish heart! Yearning and thinking, 'He who once showed love will no longer bestow his grace,' you still go running after him who departed.",
+ "modern": "முன்பு அன்பு காட்டியவர் இப்போது அருள் செய்யமாட்டார் என்று ஏங்கி வருந்தியும், நம்மை விட்டுப் பிரிந்து சென்றவரின் பின்னே போகிறாய்; என் நெஞ்சமே, நீ மிகவும் பேதை!",
+ "explanation": "The heroine addresses her own heart, which is longing to go after her departed lover. She calls her heart foolish ('பேதை') because it is caught in a painful contradiction. On one hand, the heart laments and realizes that the lover, who once showed great affection ('பரிந்தவர்'), has now departed and will not return to bestow his grace ('நல்கார்'). On the other hand, despite knowing this painful truth, the heart still desperately wants to follow him ('பின்செல்வாய்'). This internal dialogue highlights the helplessness of love, where the mind's rational understanding of abandonment is overpowered by the heart's uncontrollable yearning.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

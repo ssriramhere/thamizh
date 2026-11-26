@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "பேண்",
-     "lemma": "பேண்",
-     "gloss": "to cherish"
+     "lemma": "பேணு",
+     "gloss": "cherish"
     },
     {
      "text": "ஆது",
@@ -14,7 +14,7 @@
      "gloss": "without"
     }
    ],
-   "gloss": "without caring"
+   "gloss": "without cherishing"
   },
   {
    "surface": "பெட்பவே",
@@ -22,15 +22,15 @@
     {
      "text": "பெட்ப",
      "lemma": "பெட்பு",
-     "gloss": "desired things"
+     "gloss": "desirable things"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "only desired things"
+   "gloss": "only what he desires"
   },
   {
    "surface": "செய்யினும்",
@@ -38,20 +38,15 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "இனும்",
+     "lemma": "இனும்",
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if [he] does"
+   "gloss": "even if he does"
   },
   {
    "surface": "கொண்கனை",
@@ -59,15 +54,15 @@
     {
      "text": "கொண்கன்",
      "lemma": "கொண்கன்",
-     "gloss": "husband"
+     "gloss": "lord of the maritime tract"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "husband (acc.)"
+   "gloss": "the lord of the maritime tract"
   },
   {
    "surface": "காணாது",
@@ -75,7 +70,7 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "to see"
+     "gloss": "see"
     },
     {
      "text": "ஆது",
@@ -91,17 +86,12 @@
     {
      "text": "அமை",
      "lemma": "அமை",
-     "gloss": "to be calm"
+     "gloss": "be satisfied"
     },
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "negative"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural"
+     "text": "அல",
+     "lemma": "அல",
+     "gloss": "they do not"
     }
    ],
    "gloss": "they do not rest"
@@ -112,16 +102,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "the eyes"
   }
  ],
- "literal": "Without caring, only desired things even if he does, the husband without seeing they do not rest, the eyes.",
- "translation": "Even if my lover disregards me and does only what pleases him, my eyes find no rest without seeing him.",
- "modern": "என்னை அன்போடு பேணாமல், தான் விரும்பியவற்றையே என் காதலர் செய்தாலும், அவரைக் காணாமல் என் கண்கள் அமைதி அடைவதில்லை.",
- "explanation": "The heroine expresses her uncontrollable eagerness to reunite with her lover. She notes that even if he neglects her and acts only according to his own desires, she cannot maintain her resentment. Her eyes refuse to find peace or rest until they see him, showing how deep love and physical longing override any rational grievance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without cherishing, even if he does only what he desires, without seeing the lord of the maritime tract, they do not rest, the eyes.",
+ "translation": "Even if my lord acts only as he pleases without cherishing me, my eyes will not rest unless they see him.",
+ "modern": "தலைவன் என்னை மதிக்காமல் தன் விருப்பப்படியே செய்தாலும், அவனைக் காணாமல் என் கண்கள் அமைதியடையா.",
+ "explanation": "In this verse, the heroine describes her uncontrollable longing to her companion. Even when her husband, the lord of the maritime tract (koṇkaṉ), neglects her feelings (pēṇātu) and acts solely according to his own desires (peṭpavē), she cannot remain angry. Her eyes (kaṇ) refuse to find rest or be satisfied (amaiyala) unless they can behold him (kāṇātu). The word 'amaiyala' combines 'amai' (to rest or be content) and the negative plural suffix 'ala', perfectly capturing how her eyes rebel against her own resolve to stay away.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

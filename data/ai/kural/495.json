@@ -25,15 +25,20 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "in the water"
+   "gloss": "inside the water"
   },
   {
    "surface": "வெல்லும்",
    "parts": [
     {
-     "text": "வெல்லும்",
-     "lemma": "வெல்",
-     "gloss": "will conquer"
+     "text": "வெல்",
+     "lemma": "வெல்லுதல்",
+     "gloss": "conquer"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual future suffix"
     }
    ],
    "gloss": "will conquer"
@@ -53,12 +58,17 @@
    "surface": "அடும்",
    "parts": [
     {
-     "text": "அடும்",
-     "lemma": "அடு",
-     "gloss": "will kill"
+     "text": "அடு",
+     "lemma": "அடுதல்",
+     "gloss": "destroy"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual future suffix"
     }
    ],
-   "gloss": "will kill"
+   "gloss": "will destroy"
   },
   {
    "surface": "புனலின்",
@@ -71,7 +81,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "from (ablative suffix)"
     }
    ],
    "gloss": "from the water"
@@ -80,9 +90,14 @@
    "surface": "நீங்கின்",
    "parts": [
     {
-     "text": "நீங்கின்",
-     "lemma": "நீங்கு",
-     "gloss": "if leaves"
+     "text": "நீங்கு",
+     "lemma": "நீங்குதல்",
+     "gloss": "leave"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if (conditional suffix)"
     }
    ],
    "gloss": "if it leaves"
@@ -91,12 +106,22 @@
    "surface": "அதனை",
    "parts": [
     {
-     "text": "அதனை",
+     "text": "அது",
      "lemma": "அது",
-     "gloss": "it (acc.)"
+     "gloss": "it"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "it (acc.)"
+   "gloss": "it"
   },
   {
    "surface": "பிற",
@@ -104,16 +129,16 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "others"
+     "gloss": "other creatures"
     }
    ],
-   "gloss": "others"
+   "gloss": "other creatures"
   }
  ],
- "literal": "deep in water will conquer crocodile will kill from water if leaves it others",
- "translation": "In deep water, a crocodile can conquer anything. But if it leaves the water, other creatures will defeat it.",
- "modern": "ஆழமான நீரில் இருக்கும்போது முதலை மற்ற உயிரினங்களை வெல்லும். ஆனால் அந்த நீரை விட்டு வெளியே வந்தால், மற்ற உயிரினங்கள் அந்த முதலையை வென்றுவிடும்.",
- "explanation": "This couplet illustrates the absolute importance of choosing the right environment for success. In its natural habitat of deep water, a crocodile is invincible and can defeat any opponent. However, if it steps out of the water, it loses its natural advantage and becomes vulnerable to other animals. The imagery emphasizes that even the strongest individuals can be easily defeated if they operate outside their domain of strength.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In deep water, conquers the crocodile; will destroy [it], from the water if [it] departs, other [creatures].",
+ "translation": "In deep water, a crocodile conquers all; but if it leaves the water, other creatures will easily destroy it.",
+ "modern": "ஆழமான நீரில் இருக்கும்போது முதலை மற்ற விலங்குகளை வெல்லும்; ஆனால் அது அந்நீரை விட்டு வெளியேறினால், பிற எளிய விலங்குகளும் அதனை வென்று அழித்துவிடும்.",
+ "explanation": "This couplet highlights the supreme importance of choosing the right place for action. A crocodile is an unmatched predator when it remains in deep water, where its natural environment gives it absolute strength. However, if it leaves its watery domain, it loses its advantage and can be easily defeated even by otherwise weaker creatures. This analogy teaches that even the most powerful individuals can be easily overcome if they step out of their sphere of strength or act in an unfavorable environment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "அன்பு",
      "lemma": "அன்பு",
-     "gloss": "affection"
+     "gloss": "love"
     }
    ],
-   "gloss": "affection"
+   "gloss": "love and loyalty"
   },
   {
    "surface": "அறிவு",
@@ -17,10 +17,10 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     }
    ],
-   "gloss": "knowledge"
+   "gloss": "wisdom or intellect"
   },
   {
    "surface": "ஆராய்ந்த",
@@ -28,10 +28,10 @@
     {
      "text": "ஆராய்ந்த",
      "lemma": "ஆராய்",
-     "gloss": "examined"
+     "gloss": "well-considered"
     }
    ],
-   "gloss": "well-considered"
+   "gloss": "well-considered or refined"
   },
   {
    "surface": "சொல்வன்மை",
@@ -44,10 +44,10 @@
     {
      "text": "வன்மை",
      "lemma": "வன்மை",
-     "gloss": "strength"
+     "gloss": "power"
     }
    ],
-   "gloss": "eloquence"
+   "gloss": "eloquence or power of speech"
   },
   {
    "surface": "தூது",
@@ -55,22 +55,22 @@
     {
      "text": "தூது",
      "lemma": "தூது",
-     "gloss": "message"
+     "gloss": "embassy"
     }
    ],
-   "gloss": "message"
+   "gloss": "message or diplomatic mission"
   },
   {
    "surface": "உரைப்பார்க்கு",
    "parts": [
     {
      "text": "உரைப்பார்",
-     "lemma": "உரைப்பார்",
+     "lemma": "உரை",
      "gloss": "those who speak"
     },
     {
      "text": "க்கு",
-     "lemma": "கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
@@ -93,10 +93,10 @@
     {
      "text": "அமையாத",
      "lemma": "அமை",
-     "gloss": "not forming"
+     "gloss": "indispensable"
     }
    ],
-   "gloss": "indispensable"
+   "gloss": "that cannot be dispensed with"
   },
   {
    "surface": "மூன்று",
@@ -107,13 +107,13 @@
      "gloss": "three"
     }
    ],
-   "gloss": "three"
+   "gloss": "three things"
   }
  ],
- "literal": "Affection, knowledge, examined word-skill: to those who deliver a message, without (these) not forming, (are these) three.",
- "translation": "Affection, knowledge, and well-considered eloquence are the three indispensable qualities for those who deliver an embassy's message.",
- "modern": "அன்பு, அறிவு, ஆராய்ந்து பேசும் சொல்வன்மை ஆகிய மூன்றும் தூது உரைப்பவர்களுக்கு இன்றியமையாத பண்புகளாகும்.",
- "explanation": "This couplet defines the three essential qualities required of an envoy. First is affection or loyalty towards their own king, ensuring they act in the state's best interest. Second is knowledge, which allows them to understand complex political situations. Third is well-considered eloquence, the ability to choose the right words after careful thought. Together, these three are described as indispensable for anyone entrusted with delivering a diplomatic message.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Love, wisdom, and well-considered power of speech—to those who deliver messages, these are the three indispensable things.",
+ "translation": "Loyalty, wisdom, and a well-considered power of speech are the three indispensable qualities for an envoy who delivers a message.",
+ "modern": "அன்பு, அறிவு, ஆராய்ந்து பேசும் சொல்வன்மை ஆகிய மூன்றும் தூது உரைப்பவருக்கு இன்றியமையாத தகுதிகள் ஆகும்.",
+ "explanation": "This couplet outlines the three essential qualities required for a successful diplomat or envoy. First, 'anpu' represents loyalty and affection towards their sovereign, ensuring they act in the state's best interest. Second, 'aṟivu' represents the intellect and wisdom needed to navigate complex political situations. Third, 'colvaṉmai' combined with 'ārāynta' refers to a highly refined, well-considered eloquence that allows them to deliver messages persuasively and tactfully. The poet emphasizes that these three attributes are absolutely indispensable for anyone undertaking a diplomatic mission.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

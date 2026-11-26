@@ -9,33 +9,18 @@
      "gloss": "five"
     }
    ],
-   "gloss": "five"
+   "gloss": "the five senses"
   },
   {
    "surface": "அவித்தான்",
    "parts": [
     {
-     "text": "அவி",
-     "lemma": "அவி",
-     "gloss": "subdue"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "text": "அவித்தான்",
+     "lemma": "அவித்தல்",
+     "gloss": "he who extinguished"
     }
    ],
-   "gloss": "he who subdued"
+   "gloss": "he who has subdued or extinguished the desires of the five senses"
   },
   {
    "surface": "ஆற்றல்",
@@ -46,7 +31,7 @@
      "gloss": "power"
     }
    ],
-   "gloss": "power"
+   "gloss": "spiritual power or strength"
   },
   {
    "surface": "அகல்",
@@ -57,7 +42,7 @@
      "gloss": "wide"
     }
    ],
-   "gloss": "wide"
+   "gloss": "wide or vast"
   },
   {
    "surface": "விசும்பு",
@@ -68,18 +53,23 @@
      "gloss": "sky"
     }
    ],
-   "gloss": "sky"
+   "gloss": "sky or heaven"
   },
   {
    "surface": "உளார்",
    "parts": [
     {
-     "text": "உளார்",
+     "text": "உள்",
      "lemma": "உள்",
-     "gloss": "those who are"
+     "gloss": "inside"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "those who are"
+   "gloss": "those who dwell inside"
   },
   {
    "surface": "கோமான்",
@@ -90,7 +80,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "king or lord"
   },
   {
    "surface": "இந்திரனே",
@@ -103,7 +93,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed"
     }
    ],
    "gloss": "Indra himself"
@@ -112,17 +102,12 @@
    "surface": "சாலும்",
    "parts": [
     {
-     "text": "சால்",
+     "text": "சாலும்",
      "lemma": "சால்",
-     "gloss": "be sufficient"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "is sufficient"
     }
    ],
-   "gloss": "is sufficient"
+   "gloss": "is sufficient or ample"
   },
   {
    "surface": "கரி",
@@ -133,13 +118,13 @@
      "gloss": "witness"
     }
    ],
-   "gloss": "witness"
+   "gloss": "witness or proof"
   }
  ],
- "literal": "Five he-who-subdued power wide sky those-who-are king Indra-himself is-sufficient witness.",
- "translation": "Indra himself, the king of those in the wide heaven, is sufficient witness to the power of one who has subdued the five senses.",
- "modern": "ஐம்புலன்களையும் அடக்கியவனின் வலிமைக்கு, அகன்ற வானத்தில் வாழ்பவர்களின் அரசனான இந்திரனே போதுமான சாட்சி ஆவான்.",
- "explanation": "This couplet illustrates the immense power of an ascetic who has completely mastered their senses. The word 'ஐந்து' (five) implicitly refers to the desires arising from the five senses, and 'அவித்தான்' means one who has extinguished or subdued them. The word 'கரி' has multiple meanings such as elephant or charcoal, but here it takes the specific meaning of 'witness' or 'evidence'. Even Indra, the mighty ruler of the celestial beings in the vast heavens, serves as a sufficient witness ('சாலும் கரி') to the superior strength of a true ascetic, showing that spiritual discipline surpasses celestial authority.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The power of him who extinguished the five, the king of those in the wide heaven, Indra himself, is sufficient proof.",
+ "translation": "Indra, the king of the dwellers of the vast heavens, is himself sufficient proof of the great power of the one who has conquered all five senses.",
+ "modern": "ஐந்து புலன்களையும் அடக்கியவனுடைய ஆற்றலுக்கு, அகன்ற வானுலகில் வாழ்பவர்களின் தலைவனாகிய இந்திரனே போதுமான சான்றாவான்.",
+ "explanation": "This couplet highlights the immense spiritual power of a person who has completely subdued their five senses. The poet uses the word 'அவித்தான்' (one who extinguished) to compare sensory desires to a raging fire that must be put out. To prove the magnitude of this achievement, the poet points to Indra, the king of the gods in the vast heavens, as a sufficient witness ('கரி'). Indra's own traditional stories serve as a testament to the consequences of failing to control the senses, thereby proving the supreme strength of those who successfully do so.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

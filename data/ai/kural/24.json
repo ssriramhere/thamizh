@@ -6,21 +6,21 @@
     {
      "text": "உரன்",
      "lemma": "உரன்",
-     "gloss": "strength"
+     "gloss": "willpower / mental strength"
     }
    ],
-   "gloss": "strength"
+   "gloss": "willpower"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
      "text": "என்னும்",
-     "lemma": "என்",
-     "gloss": "which is called"
+     "lemma": "என்னும்",
+     "gloss": "called / known as"
     }
    ],
-   "gloss": "which is called"
+   "gloss": "called"
   },
   {
    "surface": "தோட்டியான்",
@@ -28,26 +28,26 @@
     {
      "text": "தோட்டி",
      "lemma": "தோட்டி",
-     "gloss": "goad"
+     "gloss": "elephant goad / hook"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "with / by means of"
     }
    ],
-   "gloss": "by the goad"
+   "gloss": "with the elephant goad"
   },
   {
    "surface": "ஓர்",
    "parts": [
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "the"
+     "lemma": "ஒரு",
+     "gloss": "one / unique"
     }
    ],
-   "gloss": "the"
+   "gloss": "one"
   },
   {
    "surface": "ஐந்தும்",
@@ -55,26 +55,36 @@
     {
      "text": "ஐந்து",
      "lemma": "ஐந்து",
-     "gloss": "five"
+     "gloss": "five (senses)"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "all"
+     "gloss": "all / completely"
     }
    ],
-   "gloss": "all five"
+   "gloss": "all the five senses"
   },
   {
    "surface": "காப்பான்",
    "parts": [
     {
-     "text": "காப்பான்",
+     "text": "கா",
      "lemma": "கா",
-     "gloss": "he who guards"
+     "gloss": "to guard / control"
+    },
+    {
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
+     "gloss": "future/habitual marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who"
     }
    ],
-   "gloss": "he who guards"
+   "gloss": "he who controls"
   },
   {
    "surface": "வரன்",
@@ -82,21 +92,21 @@
     {
      "text": "வரன்",
      "lemma": "வரன்",
-     "gloss": "excellence"
+     "gloss": "supreme state / liberation"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "supreme state"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
      "text": "என்னும்",
-     "lemma": "என்",
-     "gloss": "which is called"
+     "lemma": "என்னும்",
+     "gloss": "called / known as"
     }
    ],
-   "gloss": "which is called"
+   "gloss": "called"
   },
   {
    "surface": "வைப்பிற்கு",
@@ -104,12 +114,12 @@
     {
      "text": "வைப்பு",
      "lemma": "வைப்பு",
-     "gloss": "realm"
+     "gloss": "realm / world"
     },
     {
      "text": "இற்கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "lemma": "இற்கு",
+     "gloss": "to the"
     }
    ],
    "gloss": "to the realm"
@@ -119,11 +129,11 @@
    "parts": [
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "a"
+     "lemma": "ஒரு",
+     "gloss": "one / unique"
     }
    ],
-   "gloss": "a"
+   "gloss": "an excellent"
   },
   {
    "surface": "வித்து",
@@ -137,10 +147,10 @@
    "gloss": "seed"
   }
  ],
- "literal": "Strength which-is-called by-the-goad, the five-all he-who-guards, excellence which-is-called to-the-realm a seed.",
- "translation": "He who controls all five senses with the goad of mental strength is a seed for the supreme realm.",
- "modern": "மன உறுதி என்னும் அங்குசத்தைக் கொண்டு ஐம்புலன்களையும் அடக்கிக் காப்பவன், மேலான நிலை என்னும் உலகத்திற்கு ஒரு விதை போன்றவன் ஆவான்.",
- "explanation": "This couplet uses two vivid metaphors to describe the power of self-control. The mind's firmness ('உரன்') is compared to an elephant goad ('தோட்டி') used to master the five senses, which are implicitly likened to wild elephants. A person who guards their senses in this way is described as a seed ('வித்து') planted in the soil or realm of supreme excellence ('வரன் என்னும் வைப்பு'). By calling the ascetic a seed, the poet emphasizes that disciplined self-control is the very origin and potential for ultimate greatness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who, with the elephant goad called willpower, controls all the five senses, is an excellent seed for the realm called the supreme state.",
+ "translation": "He who controls all five senses with the goad of willpower is a seed destined for the supreme realm of liberation.",
+ "modern": "மனவலிமை என்னும் அங்குசத்தைக் கொண்டு ஐந்து புலன்களையும் அடக்கிக் காப்பவன், வீடுபேறு என்னும் உயர் உலகிற்கு ஒரு சிறந்த விதையாவான்.",
+ "explanation": "This couplet uses the metaphor of elephant training to describe self-control. The five senses are like wild elephants that run amok, and 'uran' (willpower) is the sharp goad ('thotti') used to subdue them. A person who successfully restrains all five senses using this mental strength is praised as a 'seed' ('vithu'). This means they carry the potential and serve as the primary cause for reaching the supreme state of liberation ('varan').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

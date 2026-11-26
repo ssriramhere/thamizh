@@ -6,10 +6,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "கடல்",
@@ -17,10 +17,10 @@
     {
      "text": "கடல்",
      "lemma": "கடல்",
-     "gloss": "sea"
+     "gloss": "ocean"
     }
    ],
-   "gloss": "sea"
+   "gloss": "ocean"
   },
   {
    "surface": "மற்று",
@@ -49,7 +49,7 @@
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அது",
+     "lemma": "அஃது",
      "gloss": "that"
     }
    ],
@@ -59,17 +59,13 @@
    "surface": "அடுங்கால்",
    "parts": [
     {
-     "text": "அடும்",
-     "lemma": "அடு",
-     "gloss": "afflicts"
-    },
-    {
-     "text": "கால்",
-     "lemma": "கால்",
-     "gloss": "time"
+     "text": "அடுங்கால்",
+     "lemma": "அடுங்கால்",
+     "gloss": "when it afflicts"
     }
    ],
-   "gloss": "when it afflicts"
+   "gloss": "when it afflicts",
+   "split_unverified": true
   },
   {
    "surface": "துன்பம்",
@@ -77,38 +73,39 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "pain"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "pain"
   },
   {
    "surface": "அதனிற்",
    "parts": [
     {
      "text": "அதனிற்",
-     "lemma": "அது",
+     "lemma": "அதனிற்",
      "gloss": "than that"
     }
    ],
-   "gloss": "than that"
+   "gloss": "than that",
+   "split_unverified": true
   },
   {
    "surface": "பெரிது",
    "parts": [
     {
      "text": "பெரிது",
-     "lemma": "பெரியது",
-     "gloss": "is big"
+     "lemma": "பெரிது",
+     "gloss": "greater"
     }
    ],
-   "gloss": "is big"
+   "gloss": "is greater"
   }
  ],
- "literal": "Joy (is) a sea, but love, when that afflicts, sorrow (is) bigger than that.",
- "translation": "The joy of love is as vast as the sea. But when it afflicts, the sorrow is even greater than the sea.",
- "modern": "காமத்தால் வரும் இன்பம் கடல் அளவு பெரியது; ஆனால் அது துன்புறுத்தும்போது வரும் துன்பம் கடலை விடப் பெரியது.",
- "explanation": "The speaker compares the joy of love to the vastness of the sea. However, when love brings separation and longing, the resulting sorrow is even greater than the sea itself. The word 'அடுங்கால்' (when it afflicts) highlights the intense pain of unfulfilled desire. Thus, the couplet contrasts the immense pleasure of love with its even more overwhelming pain.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Pleasure is an ocean; but love, when that afflicts, the pain is greater than that.",
+ "translation": "The pleasure of love is as vast as an ocean; but when that same love afflicts, its pain is far greater than the ocean.",
+ "modern": "காமத்தின் இன்பம் கடல் போன்றது; ஆனால், அக்காமுற்ற நெஞ்சம் துன்புறுத்தும்போது, அதன் துன்பம் அக்கடலை விடப் பெரியதாகும்.",
+ "explanation": "The heroine compares the dual experiences of love to the vastness of an ocean. She notes that the joy of love is as boundless as the sea. However, when love begins to torment her due to separation, the resulting grief becomes even larger than that immense ocean. The contrast highlights how the intensity of suffering in love can easily overwhelm even its greatest pleasures.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

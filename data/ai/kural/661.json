@@ -4,23 +4,28 @@
    "surface": "வினைத்திட்பம்",
    "parts": [
     {
-     "text": "வினைத்திட்பம்",
-     "lemma": "வினைத்திட்பம்",
-     "gloss": "firmness of action"
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
+    },
+    {
+     "text": "திட்பம்",
+     "lemma": "திட்பம்",
+     "gloss": "firmness"
     }
    ],
-   "gloss": "firmness of action"
+   "gloss": "firmness in action"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
      "text": "என்பது",
-     "lemma": "என்",
+     "lemma": "என்பது",
      "gloss": "that which is called"
     }
    ],
-   "gloss": "that which is called"
+   "gloss": "is called"
   },
   {
    "surface": "ஒருவன்",
@@ -31,7 +36,7 @@
      "gloss": "a person"
     }
    ],
-   "gloss": "a person"
+   "gloss": "a person's"
   },
   {
    "surface": "மனத்திட்பம்",
@@ -42,18 +47,19 @@
      "gloss": "firmness of mind"
     }
    ],
-   "gloss": "firmness of mind"
+   "gloss": "firmness of mind",
+   "split_unverified": true
   },
   {
    "surface": "மற்றைய",
    "parts": [
     {
      "text": "மற்றைய",
-     "lemma": "மற்று",
+     "lemma": "மற்றைய",
      "gloss": "other"
     }
    ],
-   "gloss": "other"
+   "gloss": "other things"
   },
   {
    "surface": "எல்லாம்",
@@ -72,16 +78,16 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "different things"
+     "gloss": "other things"
     }
    ],
-   "gloss": "different things"
+   "gloss": "are different"
   }
  ],
- "literal": "Firmness of action is called a person's firmness of mind; other all are different.",
- "translation": "What is called firmness in action is simply a person's firmness of mind. All other things are secondary.",
- "modern": "ஒரு செயலைச் செய்து முடிக்கும் உறுதி என்பது ஒருவனுடைய மன உறுதியே ஆகும்; மற்றவை எல்லாம் அதற்கு ஈடாகாத வேறுபட்டவைகளே.",
- "explanation": "This couplet defines what it truly means to be resolute in one's actions. The phrase 'வினைத்திட்பம்' (firmness of action) is directly equated to 'மனத்திட்பம்' (firmness of mind), showing that outward success relies entirely on inner conviction. The word 'பிற' (other or different) is used here to mean that all other resources or advantages are secondary and belong to a different, lesser category. Thus, true strength in any undertaking comes from mental resolve rather than external factors.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Firmness in action is called a person's firmness of mind; all other things are different.",
+ "translation": "What is called firmness in action is in truth a person's firmness of mind; all other external assets are of a different, lesser nature.",
+ "modern": "செயல் உறுதி என்று சொல்லப்படுவது ஒருவனுடைய மன உறுதியே ஆகும்; மற்றவை எல்லாம் அதற்கு வேறானவை.",
+ "explanation": "This couplet defines the true source of strength required to accomplish any task. The poet states that 'vinai-t-tiṭpam' (resoluteness in action) is nothing other than 'mana-t-tiṭpam' (resoluteness of mind). Without an unwavering mind, no external resources, wealth, or planning can bring success. All other external aids are secondary and do not constitute true, reliable strength.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

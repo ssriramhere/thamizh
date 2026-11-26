@@ -6,42 +6,32 @@
     {
      "text": "அகன்",
      "lemma": "அகம்",
-     "gloss": "heart"
+     "gloss": "heart/mind"
     }
    ],
-   "gloss": "heart"
+   "gloss": "heart/mind"
   },
   {
    "surface": "அமர்ந்து",
    "parts": [
     {
-     "text": "அமர்",
+     "text": "அமர்ந்து",
      "lemma": "அமர்",
-     "gloss": "to be pleased"
-    },
-    {
-     "text": "ந்து",
-     "lemma": "த்",
-     "gloss": "past participle"
+     "gloss": "having rejoiced"
     }
    ],
-   "gloss": "being pleased"
+   "gloss": "having rejoiced"
   },
   {
    "surface": "செய்யாள்",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செம்மை",
-     "gloss": "redness/prosperity"
-    },
-    {
-     "text": "ஆள்",
-     "lemma": "ஆள்",
-     "gloss": "she who"
+     "text": "செய்யாள்",
+     "lemma": "செய்யாள்",
+     "gloss": "the goddess of wealth"
     }
    ],
-   "gloss": "Prosperity"
+   "gloss": "the goddess of wealth"
   },
   {
    "surface": "உறையும்",
@@ -49,10 +39,10 @@
     {
      "text": "உறை",
      "lemma": "உறை",
-     "gloss": "to dwell"
+     "gloss": "dwell"
     },
     {
-     "text": "யும்",
+     "text": "உம்",
      "lemma": "உம்",
      "gloss": "will"
     }
@@ -74,24 +64,19 @@
    "surface": "அமர்ந்து",
    "parts": [
     {
-     "text": "அமர்",
+     "text": "அமர்ந்து",
      "lemma": "அமர்",
-     "gloss": "to be pleased"
-    },
-    {
-     "text": "ந்து",
-     "lemma": "த்",
-     "gloss": "past participle"
+     "gloss": "having rejoiced"
     }
    ],
-   "gloss": "being pleased"
+   "gloss": "having rejoiced"
   },
   {
    "surface": "நல்விருந்து",
    "parts": [
     {
      "text": "நல்",
-     "lemma": "நன்மை",
+     "lemma": "நல்",
      "gloss": "good"
     },
     {
@@ -100,20 +85,15 @@
      "gloss": "guest"
     }
    ],
-   "gloss": "good guests"
+   "gloss": "good guest"
   },
   {
    "surface": "ஓம்புவான்",
    "parts": [
     {
-     "text": "ஓம்பு",
+     "text": "ஓம்புவான்",
      "lemma": "ஓம்பு",
-     "gloss": "to cherish"
-    },
-    {
-     "text": "வான்",
-     "lemma": "ஆன்",
-     "gloss": "he who"
+     "gloss": "he who cherishes"
     }
    ],
    "gloss": "he who cherishes"
@@ -124,16 +104,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     }
    ],
-   "gloss": "house"
+   "gloss": "home"
   }
  ],
- "literal": "Heart being pleased, Prosperity will dwell, face being pleased, good guests he who cherishes' house.",
- "translation": "Prosperity will dwell with a joyful heart in the home of one who cherishes good guests with a welcoming face.",
- "modern": "முகம் மலர்ந்து நல்ல விருந்தினரை உபசரிப்பவனின் வீட்டில் செல்வம் மனம் மகிழ்ந்து தங்கும்.",
- "explanation": "This couplet explains the reward of welcoming guests warmly. The word 'செய்யாள்' literally means a red-hued woman, representing Prosperity or Wealth. Just as the host welcomes guests with a pleased and smiling face ('முகன் அமர்ந்து'), Prosperity herself will be pleased in her heart ('அகன் அமர்ந்து') to take up permanent residence in that host's home.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With a pleased heart, the Goddess of Wealth will dwell in the home of him who, with a pleased face, cherishes a good guest.",
+ "translation": "The Goddess of Wealth will joyfully make her home with the one who welcomes worthy guests with a cheerful face.",
+ "modern": "முகமலர்ச்சியோடு நல்ல விருந்தினரை வரவேற்று உபசரிப்பவனுடைய வீட்டில், திருமகள் தன் மனம் மகிழ்ந்து வாழ்வாள்.",
+ "explanation": "This couplet highlights the immense reward of hospitality by drawing a beautiful parallel between the host and the goddess of wealth. The words 'அகன்' (heart) and 'முகன்' (face) are variants of 'அகம்' and 'முகம்'. When a host welcomes a guest with a cheerful face ('முகன் அமர்ந்து'), the goddess of wealth ('செய்யாள்') is so pleased that she resides in that home with a joyful heart ('அகன் அமர்ந்து'). The poet shows that outward warmth to guests invites divine, lasting prosperity into one's home.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

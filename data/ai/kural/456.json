@@ -15,17 +15,22 @@
    "surface": "தூயார்க்கு",
    "parts": [
     {
-     "text": "தூயார்",
-     "lemma": "தூயார்",
-     "gloss": "pure ones"
+     "text": "தூய்",
+     "lemma": "தூய்மை",
+     "gloss": "purity"
     },
     {
-     "text": "கு",
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
+    },
+    {
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the pure ones"
+   "gloss": "to those who are pure"
   },
   {
    "surface": "எச்சம்",
@@ -33,10 +38,10 @@
     {
      "text": "எச்சம்",
      "lemma": "எச்சம்",
-     "gloss": "legacy / offspring"
+     "gloss": "offspring or legacy"
     }
    ],
-   "gloss": "legacy"
+   "gloss": "offspring or legacy"
   },
   {
    "surface": "நன்று",
@@ -58,7 +63,7 @@
      "gloss": "will become"
     }
    ],
-   "gloss": "will become"
+   "gloss": "will be"
   },
   {
    "surface": "இனம்",
@@ -66,33 +71,38 @@
     {
      "text": "இனம்",
      "lemma": "இனம்",
-     "gloss": "company"
+     "gloss": "association"
     }
    ],
-   "gloss": "company"
+   "gloss": "association"
   },
   {
    "surface": "தூயார்க்கு",
    "parts": [
     {
-     "text": "தூயார்",
-     "lemma": "தூயார்",
-     "gloss": "pure ones"
+     "text": "தூய்",
+     "lemma": "தூய்மை",
+     "gloss": "purity"
     },
     {
-     "text": "கு",
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
+    },
+    {
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the pure ones"
+   "gloss": "to those who are pure"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
+     "lemma": "இல்லை",
      "gloss": "there is not"
     }
    ],
@@ -118,7 +128,7 @@
      "gloss": "not becoming"
     }
    ],
-   "gloss": "not becoming"
+   "gloss": "that does not become"
   },
   {
    "surface": "வினை",
@@ -132,10 +142,10 @@
    "gloss": "action"
   }
  ],
- "literal": "Mind to the pure ones, legacy good will become; company to the pure ones, there is not good not-becoming action.",
- "translation": "For those of pure mind, their legacy will be good. For those of pure company, there is no deed that does not turn out good.",
- "modern": "மனம் தூய்மையாக உள்ளவர்களுக்கு அவர்கள் விட்டுச்செல்லும் சந்ததியும் நன்மையாக அமையும். சேரும் இனம் தூய்மையாக உள்ளவர்களுக்கு நன்மையாக முடியாத செயல் என்று எதுவும் இல்லை.",
- "explanation": "This couplet compares the benefits of a pure mind with those of pure company. The word 'eccam' literally means 'what is left behind', which in this context refers to one's offspring or legacy; for those with a pure mind, this legacy will be good. However, the couplet emphasizes the greater power of good company by stating that for those whose associations are pure, absolutely no action will fail to produce good results. While mental purity secures what follows in the future, pure company guarantees goodness and success in every present deed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those pure of mind, legacy will become good; to those pure of association, there is no action that does not become good.",
+ "translation": "For those who are pure of mind, their legacy will be good; for those who are pure in their association, there is no action that does not turn out well.",
+ "modern": "மனம் தூய்மையாக இருப்பவர்களுக்கு அவர்களுடைய சந்ததி நன்மையாக அமையும்; நல்லினத்தைச் சேர்ந்தவர்களுக்கு நன்மையாக முடியாத செயல் என்று எதுவும் இல்லை.",
+ "explanation": "This couplet contrasts the benefits of internal purity of mind with external purity of association. A pure mind ensures that one's legacy or offspring (eccam) turns out well, preserving one's goodness for the future. On the other hand, keeping pure company ensures that every action (vinai) one undertakes in the present succeeds and yields good results. Thus, while mental purity secures a lasting legacy, choosing the right association guarantees immediate success in all endeavors.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

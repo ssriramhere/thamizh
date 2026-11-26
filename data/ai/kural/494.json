@@ -5,21 +5,16 @@
    "parts": [
     {
      "text": "எண்ணி",
-     "lemma": "எண்ணு",
-     "gloss": "having planned"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "lemma": "எண்ணுதல்",
+     "gloss": "having thought"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (suffix)"
+     "gloss": "they"
     }
    ],
-   "gloss": "those who planned"
+   "gloss": "those who have planned"
   },
   {
    "surface": "எண்ணம்",
@@ -30,30 +25,15 @@
      "gloss": "plan"
     }
    ],
-   "gloss": "plan"
+   "gloss": "their plans"
   },
   {
    "surface": "இழப்பர்",
    "parts": [
     {
-     "text": "இழ",
-     "lemma": "இழ",
-     "gloss": "to lose"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they (suffix)"
+     "text": "இழப்பர்",
+     "lemma": "இழத்தல்",
+     "gloss": "will lose"
     }
    ],
    "gloss": "will lose"
@@ -67,87 +47,62 @@
      "gloss": "place"
     }
    ],
-   "gloss": "place"
+   "gloss": "the suitable place"
   },
   {
    "surface": "அறிந்து",
    "parts": [
     {
-     "text": "அறி",
-     "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial suffix"
+     "text": "அறிந்து",
+     "lemma": "அறிதல்",
+     "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "having understood"
   },
   {
    "surface": "துன்னியார்",
    "parts": [
     {
      "text": "துன்னி",
-     "lemma": "துன்னு",
+     "lemma": "துன்னுதல்",
      "gloss": "having approached"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (suffix)"
+     "gloss": "they"
     }
    ],
-   "gloss": "those who reached (it)"
+   "gloss": "those who approach to fight"
   },
   {
    "surface": "துன்னி",
    "parts": [
     {
      "text": "துன்னி",
-     "lemma": "துன்னு",
-     "gloss": "having stayed close"
+     "lemma": "துன்னுதல்",
+     "gloss": "having approached closely"
     }
    ],
-   "gloss": "having stayed close"
+   "gloss": "having secured the position"
   },
   {
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if (conditional suffix)"
+     "text": "செயின்",
+     "lemma": "செய்தல்",
+     "gloss": "if they act"
     }
    ],
-   "gloss": "if act"
+   "gloss": "if they act"
   }
  ],
- "literal": "Those who planned, their plan will lose, place having known, those who reached it, having stayed close if they act.",
- "translation": "If defenders know the right place and act while holding it firmly, those who planned against them will lose all hopes of victory.",
- "modern": "தகுந்த இடத்தை அறிந்து, அதைப் பொருந்தி நின்று செயல்பட்டால், பகைவர்கள் தங்களை வெல்ல நினைத்த எண்ணத்தை இழந்து தோற்பார்கள்.",
- "explanation": "This couplet highlights the strategic importance of choosing and holding the right ground. The word 'இடன்' refers to a suitable place, while the root 'துன்னு' means to approach, fit, or stay close. If defenders secure a strong position and act firmly from within it, the attackers ('எண்ணியார்' - those who planned the assault) will see their plans completely fail. The repetition of 'துன்னியார் துன்னி' emphasizes the need to not just reach the right place, but to stay firmly rooted there during the action.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who planned will lose their plans, if those who approach, having known the place and having closely approached, act.",
+ "translation": "Even those who have carefully planned an attack will lose their designs, if their opponents understand the terrain, closely secure their position, and act.",
+ "modern": "பகைவர்கள் தகுந்த இடத்தை அறிந்து, நெருங்கிச் செயல்பட்டால், அவர்களை வெல்ல எண்ணியவர்கள் தங்கள் எண்ணத்தை இழந்து தோற்பார்கள்.",
+ "explanation": "This couplet highlights the supreme importance of choosing the right location in strategic endeavors. Even if an adversary has made elaborate plans to conquer, those plans will fail if the opposing side understands the terrain (இடனறிந்து), positions themselves closely and securely (துன்னி), and executes their actions (செயின்). The word 'துன்னியார்' refers to those who draw near to engage, and 'துன்னி' emphasizes the act of closely securing the strategic spot. Thus, strategic placement and timely action can completely dismantle the pre-planned schemes of any powerful opponent.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

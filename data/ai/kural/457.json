@@ -15,22 +15,17 @@
    "surface": "மன்னுயிர்க்கு",
    "parts": [
     {
-     "text": "மன்",
-     "lemma": "மன்",
-     "gloss": "enduring"
-    },
-    {
-     "text": "உயிர்",
-     "lemma": "உயிர்",
-     "gloss": "life"
+     "text": "மன்னுயிர்",
+     "lemma": "மன்னுயிர்",
+     "gloss": "enduring life"
     },
     {
      "text": "க்கு",
-     "lemma": "கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to enduring lives"
+   "gloss": "to the enduring living beings"
   },
   {
    "surface": "ஆக்கம்",
@@ -49,10 +44,10 @@
     {
      "text": "இனநலம்",
      "lemma": "இனநலம்",
-     "gloss": "goodness of company"
+     "gloss": "goodness of association"
     }
    ],
-   "gloss": "goodness of company"
+   "gloss": "goodness of association"
   },
   {
    "surface": "எல்லா",
@@ -76,7 +71,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive"
+     "gloss": "and"
     }
    ],
    "gloss": "all fame"
@@ -86,17 +81,17 @@
    "parts": [
     {
      "text": "தரும்",
-     "lemma": "தா",
+     "lemma": "தருதல்",
      "gloss": "will give"
     }
    ],
    "gloss": "will give"
   }
  ],
- "literal": "Goodness of mind to enduring lives (is) prosperity; goodness of company all fame will give.",
- "translation": "Goodness of mind brings prosperity to living beings, but goodness of company will bring them every kind of fame.",
- "modern": "ஒருவருக்கு மனத்தின் நலம் செல்வத்தைத் தரும்; ஆனால் அவர் சேர்ந்திருக்கும் இனத்தின் நலம் அவருக்கு எல்லாப் புகழையும் தேடித்தரும்.",
- "explanation": "This couplet contrasts the benefits of a good mind with those of good company. While having a good mind brings personal prosperity and well-being to a person, associating with good company elevates them further. Good company brings universal praise and all kinds of fame. The poet emphasizes that while internal goodness is essential for success, the right social circle is what secures lasting honor and reputation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Goodness of mind [gives] prosperity to enduring living beings; goodness of association will give all fame.",
+ "translation": "Goodness of mind brings prosperity to living beings, but goodness of association brings them all glory.",
+ "modern": "மனதின் நன்மையானது நிலைபெற்ற உயிர்களுக்கு ஆக்கத்தைத் தரும்; நல்லினத்தின் சேர்க்கையானது எல்லாப் புகழையும் தரும்.",
+ "explanation": "This couplet contrasts the internal virtue of a pure mind with the external virtue of good companionship. Goodness of mind (மனநலம்) is essential for an individual's personal growth and brings prosperity (ஆக்கம்) to their life. However, goodness of association (இனநலம்) goes even further by bringing complete glory and recognition (எல்லாப் புகழும்) in the wider world. While a pure mind elevates one's character, the company one keeps determines how one is perceived and praised by society.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

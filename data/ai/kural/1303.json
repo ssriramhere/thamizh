@@ -5,16 +5,16 @@
    "parts": [
     {
      "text": "அலந்தார்",
-     "lemma": "அல",
-     "gloss": "those who suffered"
+     "lemma": "அலத்தல்",
+     "gloss": "those who are distressed"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who are distressed (acc.)"
+   "gloss": "those who are distressed (accusative)"
   },
   {
    "surface": "அல்லல்",
@@ -22,10 +22,10 @@
     {
      "text": "அல்லல்",
      "lemma": "அல்லல்",
-     "gloss": "sorrow"
+     "gloss": "distress"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress"
   },
   {
    "surface": "நோய்",
@@ -43,8 +43,8 @@
    "parts": [
     {
      "text": "செய்து",
-     "lemma": "செய்",
-     "gloss": "having done"
+     "lemma": "செய்தல்",
+     "gloss": "having caused"
     }
    ],
    "gloss": "having caused"
@@ -55,55 +55,50 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "expletive"
+     "gloss": "conditional suffix"
     }
    ],
-   "gloss": "it is like"
+   "gloss": "is like"
   },
   {
    "surface": "தம்மை",
    "parts": [
     {
-     "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "oneself"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "text": "தம்மை",
+     "lemma": "தான்",
+     "gloss": "oneself (accusative)"
     }
    ],
-   "gloss": "oneself (acc.)"
+   "gloss": "oneself (accusative)"
   },
   {
    "surface": "புலந்தாரை",
    "parts": [
     {
      "text": "புலந்தார்",
-     "lemma": "புல",
+     "lemma": "புலத்தல்",
      "gloss": "those who sulked"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who sulked (acc.)"
+   "gloss": "those who have sulked (accusative)"
   },
   {
    "surface": "புல்லா",
    "parts": [
     {
      "text": "புல்லா",
-     "lemma": "புல்",
-     "gloss": "not embracing"
+     "lemma": "புல்லுதல்",
+     "gloss": "without embracing"
     }
    ],
    "gloss": "without embracing"
@@ -112,23 +107,18 @@
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
-     "lemma": "விடு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "விடல்",
+     "lemma": "விடுதல்",
+     "gloss": "leaving"
     }
    ],
    "gloss": "leaving"
   }
  ],
- "literal": "To those who are distressed, sorrow and pain having caused, it is like, oneself, those who sulked, without embracing, leaving.",
- "translation": "Leaving without embracing those who sulk with you is like inflicting further sorrow and pain on those who are already distressed.",
- "modern": "தம்மிடம் ஊடல் கொண்டவரைத் தழுவி சமாதானம் செய்யாமல் அப்படியே விட்டுவிடுவது, ஏற்கனவே துன்பப்படுபவர்களுக்கு மேலும் துன்பத்தையும் வலியையும் தருவதைப் போன்றதாகும்.",
- "explanation": "The couplet illustrates the emotional cruelty of ignoring a lover's affectionate sulking. The word 'புலந்தார்' denotes a partner who feigns anger, expecting to be pacified. Leaving them without an embrace ('புல்லா விடல்') intensifies their longing and hurt. The poet compares this neglect to inflicting additional sorrow and pain ('அல்லல் நோய்') on someone who is already in deep distress ('அலந்தார்'). This vivid analogy emphasizes that a sulking lover is vulnerable and needs immediate comfort, not abandonment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who are distressed, affliction pain causing, is like, oneself, those who have sulked, without embracing, leaving.",
+ "translation": "Leaving those who have sulked with us without embracing them is like inflicting further painful distress upon those who are already suffering.",
+ "modern": "துன்பப்படுபவர்களுக்கு மேலும் துன்பத்தைத் தருவதைப் போன்றது, நம்மிடம் ஊடல் கொண்டவரைத் தழுவிக்கொள்ளாமல் அப்படியே விட்டுவிடுவது.",
+ "explanation": "This couplet compares the act of ignoring a sulking partner to inflicting more pain on someone who is already suffering. When a lover feigns anger, they are already in a state of emotional vulnerability, longing for affection. Failing to embrace and comfort them at this moment only deepens their distress. The word 'pulantārai' refers to the partner who has sulked, and 'pullā viṭal' means leaving them without an embrace, highlighting how crucial physical affection is to resolve lovers' tiffs.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

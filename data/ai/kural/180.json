@@ -6,17 +6,17 @@
     {
      "text": "இறல்",
      "lemma": "இறல்",
-     "gloss": "destruction"
+     "gloss": "ruin"
     }
    ],
-   "gloss": "destruction"
+   "gloss": "ruin"
   },
   {
    "surface": "ஈனும்",
    "parts": [
     {
      "text": "ஈனும்",
-     "lemma": "ஈன்",
+     "lemma": "ஈனு",
      "gloss": "will yield"
     }
    ],
@@ -26,23 +26,33 @@
    "surface": "எண்ணாது",
    "parts": [
     {
-     "text": "எண்ணாது",
-     "lemma": "எண்",
-     "gloss": "without considering"
+     "text": "எண்",
+     "lemma": "எண்ணு",
+     "gloss": "think"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
     }
    ],
-   "gloss": "without considering"
+   "gloss": "without thinking of consequences"
   },
   {
    "surface": "வெஃகின்",
    "parts": [
     {
-     "text": "வெஃகின்",
+     "text": "வெஃகு",
      "lemma": "வெஃகு",
-     "gloss": "if covets"
+     "gloss": "covet"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if covets"
+   "gloss": "if one covets"
   },
   {
    "surface": "விறல்",
@@ -60,7 +70,7 @@
    "parts": [
     {
      "text": "ஈனும்",
-     "lemma": "ஈன்",
+     "lemma": "ஈனு",
      "gloss": "will yield"
     }
    ],
@@ -70,23 +80,33 @@
    "surface": "வேண்டாமை",
    "parts": [
     {
-     "text": "வேண்டாமை",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "not desiring"
+     "gloss": "desire"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "not"
     }
    ],
-   "gloss": "not desiring"
+   "gloss": "non-desiring"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "which is called"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "செருக்கு",
@@ -94,16 +114,16 @@
     {
      "text": "செருக்கு",
      "lemma": "செருக்கு",
-     "gloss": "pride"
+     "gloss": "sublime pride"
     }
    ],
-   "gloss": "pride"
+   "gloss": "sublime pride"
   }
  ],
- "literal": "destruction will-yield without-considering if-covets; victory will-yield not-desiring called pride.",
- "translation": "Coveting others' wealth without considering the consequences will bring destruction. But the noble pride of not desiring what belongs to others will yield triumph.",
- "modern": "பின்விளைவுகளை எண்ணாமல் பிறர் பொருளைக் கவர்ந்துகொள்ள விரும்பினால் அது அழிவைத் தரும். பிறர் பொருளை விரும்பாதிருத்தல் என்னும் பெருமிதம் ஒருவனுக்கு வெற்றியினைத் தரும்.",
- "explanation": "This couplet contrasts the outcomes of covetousness and contentment. If a person covets another's property without thinking of the consequences, that desire will bring about their destruction. On the other hand, the word 'cerukku', which usually means arrogance, is used here to mean a noble pride or self-respect. The dignified pride of not desiring what belongs to others will bring a person true victory and greatness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Ruin will yield, without thinking if one covets; victory will yield, non-desiring which is called sublime pride.",
+ "translation": "Coveting another's wealth without considering the consequences brings ruin; but the sublime pride of not desiring anything brings victory.",
+ "modern": "விளைவுகளை ஆராயாமல் பிறர் பொருளை விரும்பினால் அது அழிவைத் தரும்; வேண்டாமை எனப்படும் பெருமித உணர்வு வெற்றியைக் கொடுக்கும்.",
+ "explanation": "This couplet contrasts the destructive nature of greed with the triumphant power of contentment. If a person blindly covets another's property without thinking of the moral and practical consequences, it will lead to their utter ruin (iṟal). Conversely, cultivating the state of mind that does not desire others' possessions—described here as a sublime pride or loftiness of spirit (cerukku)—brings ultimate victory and greatness (viṟal). The word 'cerukku' usually means pride, but here it beautifully denotes the noble, self-satisfied dignity of a mind that is above greed.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

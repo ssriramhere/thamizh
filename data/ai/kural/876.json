@@ -19,20 +19,15 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if trusted"
+   "gloss": "even if one trusts"
   },
   {
    "surface": "தேறா",
    "parts": [
     {
-     "text": "தேறு",
+     "text": "தேறா",
      "lemma": "தேறு",
-     "gloss": "to trust"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not trusting"
     }
    ],
    "gloss": "not trusting"
@@ -56,7 +51,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if left"
+   "gloss": "even if one leaves (i.e., does not trust)"
   },
   {
    "surface": "அழிவின்கண்",
@@ -69,28 +64,23 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case marker"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix"
+     "gloss": "locative suffix (in/at)"
     }
    ],
-   "gloss": "at the time of ruin"
+   "gloss": "in times of ruin or distress"
   },
   {
    "surface": "தேறான்",
    "parts": [
     {
-     "text": "தேறு",
+     "text": "தேறான்",
      "lemma": "தேறு",
-     "gloss": "to trust"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "negative suffix"
+     "gloss": "without trusting"
     }
    ],
    "gloss": "without trusting"
@@ -99,44 +89,29 @@
    "surface": "பகாஅன்",
    "parts": [
     {
-     "text": "பகு",
+     "text": "பகாஅன்",
      "lemma": "பகு",
-     "gloss": "to separate"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "participial suffix"
+     "gloss": "without splitting"
     }
    ],
-   "gloss": "without alienating"
+   "gloss": "without openly splitting"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடு",
      "gloss": "to leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "optative suffix"
     }
    ],
-   "gloss": "let one leave"
+   "gloss": "should leave or let be"
   }
  ],
- "literal": "Even if trusted, even if left untrusted, at the time of ruin, without trusting, without alienating, let one leave (them).",
- "translation": "Whether you have trusted someone before or not, in times of crisis, simply leave them be—neither placing trust in them nor openly alienating them.",
- "modern": "ஒருவரை முன்பு நம்பியிருந்தாலும் அல்லது நம்பாமல் விட்டிருந்தாலும், நமக்கு ஒரு கேடு வரும் காலத்தில் அவரை மேலும் நம்பாமலும், அதே சமயம் பகைவராகப் பிரிக்காமலும் அப்படியே விட்டுவிட வேண்டும்.",
- "explanation": "This couplet advises on how to handle people of uncertain loyalty during a crisis. The phrase 'தேறினும் தேறா விடினும்' covers all past relationships, meaning whether one had trusted them or not. In times of ruin ('அழிவின்கண்'), the safest course is 'விடல்', which means to simply leave them alone. One must do this 'தேறான்' (without placing new trust in them) and 'பகாஅன்' (without pushing them away to join the enemy).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if one trusts, or even if one does not trust, in times of ruin, without trusting and without openly splitting, one should let them be.",
+ "translation": "Whether you trust them or not, in times of distress, you should let them be—neither fully trusting them nor openly breaking away from them.",
+ "modern": "ஒருவரை நம்பினாலும் அல்லது நம்பாவிட்டாலும், நமக்குத் துன்பம் வரும் காலத்தில், அவரை முழுமையாக நம்பாமலும் அவரிடமிருந்து முற்றிலும் பிரிந்துவிடாமலும் அப்படியே விட்டுவிட வேண்டும்.",
+ "explanation": "This couplet advises how to handle doubtful allies or hidden enemies during times of distress or ruin. Even if you have trusted them in the past, or if you have always doubted them, when you face a crisis, you must exercise extreme caution. You should not place complete trust in them (தேறான்), as they might betray you, nor should you openly break ties or show enmity (பகாஅன்), as that could provoke immediate hostility. The best course of action is to maintain a safe distance and let them be (விடல்) without revealing your true stance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

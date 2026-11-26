@@ -6,10 +6,10 @@
     {
      "text": "இம்மை",
      "lemma": "இம்மை",
-     "gloss": "this birth"
+     "gloss": "this life"
     }
    ],
-   "gloss": "this birth"
+   "gloss": "this life"
   },
   {
    "surface": "பிறப்பில்",
@@ -25,15 +25,20 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in birth"
+   "gloss": "in the birth"
   },
   {
    "surface": "பிரியலம்",
    "parts": [
     {
-     "text": "பிரியலம்",
+     "text": "பிரி",
      "lemma": "பிரி",
-     "gloss": "we will not separate"
+     "gloss": "separate"
+    },
+    {
+     "text": "அலம்",
+     "lemma": "அல்",
+     "gloss": "we will not"
     }
    ],
    "gloss": "we will not separate"
@@ -49,10 +54,10 @@
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "when"
+     "gloss": "as soon as"
     }
    ],
-   "gloss": "when I said"
+   "gloss": "as soon as I said"
   },
   {
    "surface": "கண்",
@@ -63,7 +68,7 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "eye"
+   "gloss": "eyes"
   },
   {
    "surface": "நிறை",
@@ -71,10 +76,10 @@
     {
      "text": "நிறை",
      "lemma": "நிறை",
-     "gloss": "full"
+     "gloss": "fullness"
     }
    ],
-   "gloss": "full"
+   "gloss": "filling"
   },
   {
    "surface": "நீர்",
@@ -85,7 +90,7 @@
      "gloss": "water"
     }
    ],
-   "gloss": "water (tears)"
+   "gloss": "tears"
   },
   {
    "surface": "கொண்டனள்",
@@ -93,16 +98,16 @@
     {
      "text": "கொண்டனள்",
      "lemma": "கொள்",
-     "gloss": "she contained"
+     "gloss": "she held"
     }
    ],
-   "gloss": "she contained"
+   "gloss": "she shed"
   }
  ],
- "literal": "In this birth we will not separate, when I said, eye-full water she took.",
- "translation": "When I said, \"In this birth we shall not part,\" her eyes filled with tears.",
- "modern": "இப்பிறவியில் நாம் பிரிய மாட்டோம் என்று நான் சொன்னவுடன், அடுத்த பிறவியில் பிரிந்து விடுவோம் என்று எண்ணி அவள் கண்களில் நீர் நிறைந்து விட்டது.",
- "explanation": "The husband tries to reassure his wife of his constant love by promising they will never part in this current life. However, the wife's sharp mind catches the limitation in his words. By specifying 'in this birth', she infers that he might leave her in the next birth, causing her eyes to well up with tears. This highlights the extreme sensitivity and subtle overthinking characteristic of lovers' quarrels.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In this birth we will not separate, as soon as I said, her eyes filled with tears.",
+ "translation": "When I said, 'We will not part in this life,' her eyes immediately filled with tears, fearing that we might part in the next.",
+ "modern": "\"இப்பிறப்பில் நாம் பிரிய மாட்டோம்\" என்று நான் சொன்ன உடனே, அவள் கண்கள் நிறையக் கண்ணீர் கொண்டாள்.",
+ "explanation": "This couplet illustrates a delicate nuance of a lovers' tiff. When the hero reassures his beloved by saying they will not separate in this life, she immediately focuses on what he did not say. She interprets his words to mean that they might separate in future births, which fills her with sorrow. Consequently, her eyes instantly well up with tears, showing her longing for an eternal, uninterrupted union across all births.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

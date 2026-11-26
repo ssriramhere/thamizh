@@ -64,7 +64,7 @@
      "gloss": "having known"
     }
    ],
-   "gloss": "having known"
+   "gloss": "knowing"
   },
   {
    "surface": "சான்றாண்மை",
@@ -72,27 +72,32 @@
     {
      "text": "சான்றாண்மை",
      "lemma": "சான்றாண்மை",
-     "gloss": "perfection"
+     "gloss": "perfect character"
     }
    ],
-   "gloss": "perfection"
+   "gloss": "perfect character"
   },
   {
    "surface": "மேற்கொள்பவர்க்கு",
    "parts": [
     {
-     "text": "மேற்கொள்பவர்க்கு",
-     "lemma": "மேற்கொள்",
-     "gloss": "to those who undertake"
+     "text": "மேல்",
+     "lemma": "மேல்",
+     "gloss": "upon"
+    },
+    {
+     "text": "கொள்பவர்க்கு",
+     "lemma": "கொள்",
+     "gloss": "to those who take"
     }
    ],
    "gloss": "to those who undertake"
   }
  ],
- "literal": "Duty, they say, good things all, duty having known, perfection to those who undertake.",
- "translation": "The wise say that all good deeds are a natural duty for those who know their obligations and commit themselves to noble excellence.",
- "modern": "தம் கடமையை அறிந்து சான்றாண்மையை மேற்கொண்டு வாழ்பவர்களுக்கு, நல்ல செயல்கள் அனைத்தும் தாமே செய்ய வேண்டிய கடமை என்று அறிஞர்கள் கூறுவர்.",
- "explanation": "This couplet defines the mindset of those who strive for noble excellence. When a person understands their true responsibilities and commits to a noble life, they do not see good deeds as optional or extraordinary. Instead, they consider every good action as their basic, natural duty. The repetition of the word 'duty' emphasizes that excellence is a constant obligation to do what is right.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Duty they say good things all, duty knowing, perfect character to those who undertake.",
+ "translation": "All good deeds are said to be the natural duty of those who, knowing their obligations, undertake to live a life of perfect character.",
+ "modern": "தங்கள் கடமையை அறிந்து சான்றாண்மை என்னும் நற்பண்பை மேற்கொள்பவர்களுக்கு, நல்ல செயல்கள் யாவும் இயல்பான கடமை என்று கூறுவர்.",
+ "explanation": "This couplet defines the mindset of those who strive for 'சான்றாண்மை' (perfect character or nobility). The word 'கடன்' is used twice with slightly different nuances: first as the general moral duty of doing good, and second as the specific awareness of one's obligations. For noble individuals who consciously choose a life of high character, performing every kind of good deed is not seen as an extraordinary favor to others, but simply as their natural, everyday duty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

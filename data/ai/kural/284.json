@@ -11,15 +11,15 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case suffix"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix"
+     "gloss": "locative case suffix (in/regarding)"
     }
    ],
-   "gloss": "towards theft"
+   "gloss": "in the act of theft"
   },
   {
    "surface": "கன்றிய",
@@ -27,20 +27,15 @@
     {
      "text": "கன்று",
      "lemma": "கன்று",
-     "gloss": "to become intense"
+     "gloss": "to grow intense or hardened"
     },
     {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "adjectival suffix"
+     "text": "இய",
+     "lemma": "இய",
+     "gloss": "past relative participle suffix"
     }
    ],
-   "gloss": "intense"
+   "gloss": "intense / hardened"
   },
   {
    "surface": "காதல்",
@@ -48,10 +43,10 @@
     {
      "text": "காதல்",
      "lemma": "காதல்",
-     "gloss": "desire"
+     "gloss": "desire / passion"
     }
    ],
-   "gloss": "desire"
+   "gloss": "desire / passion"
   },
   {
    "surface": "விளைவின்கண்",
@@ -59,36 +54,31 @@
     {
      "text": "விளைவு",
      "lemma": "விளைவு",
-     "gloss": "result"
+     "gloss": "consequence / result"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case suffix"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix"
+     "gloss": "locative case suffix (at/in)"
     }
    ],
-   "gloss": "in its result"
+   "gloss": "in the consequence"
   },
   {
    "surface": "வீயா",
    "parts": [
     {
-     "text": "வீ",
-     "lemma": "வீ",
-     "gloss": "to perish"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative adjectival suffix"
+     "text": "வீயா",
+     "lemma": "வீதல்",
+     "gloss": "undying / endless"
     }
    ],
-   "gloss": "unending"
+   "gloss": "undying / endless"
   },
   {
    "surface": "விழுமம்",
@@ -96,32 +86,27 @@
     {
      "text": "விழுமம்",
      "lemma": "விழுமம்",
-     "gloss": "sorrow"
+     "gloss": "distress / sorrow"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress / sorrow"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரு",
-     "lemma": "தா",
-     "gloss": "to give"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "text": "தரும்",
+     "lemma": "தருதல்",
+     "gloss": "will give / yield"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will give / yield"
   }
  ],
- "literal": "Towards theft intense desire, in its result, unending sorrow will give.",
- "translation": "An intense desire for theft will bring unending sorrow when it yields its results.",
- "modern": "திருடுவதில் கொண்ட தீவிரமான ஆசை, அதன் முடிவில் அழியாத துன்பத்தைத் தரும்.",
- "explanation": "This couplet warns against the deep-seated urge to steal. The phrase 'களவின்கண் கன்றிய காதல்' describes a desire for theft that has grown intense and deeply rooted in a person's mind. While the act might seem appealing initially, 'விளைவின்கண்' points to the inevitable consequences that follow. The result is 'வீயா விழுமம்', which means a sorrow that never perishes or fades away. Thus, the desire to steal ultimately rewards the thief with endless suffering.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The intense desire in theft, in its consequence, will give endless distress.",
+ "translation": "An intense passion for stealing will, in its ultimate consequence, yield endless distress.",
+ "modern": "களவு செய்வதில் கொண்டுள்ள மிகுந்த ஆசை, அதன் முடிவில் அழியாத பெரும் துன்பத்தைத் தரும்.",
+ "explanation": "This couplet warns against harboring a deep-seated passion for stealing. The word 'கன்றிய' describes a desire that has grown intense, hardened, or obsessive. While theft might promise immediate gain, its ultimate consequence ('விளைவின்கண்') is 'வீயா விழுமம்'—undying, endless misery. The poet emphasizes that the mental inclination towards dishonesty inevitably leads to inescapable ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

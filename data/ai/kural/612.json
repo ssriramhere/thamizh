@@ -14,7 +14,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in action"
+   "gloss": "In the midst of an action"
   },
   {
    "surface": "வினை",
@@ -22,42 +22,32 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "effort"
+     "gloss": "action"
     }
    ],
-   "gloss": "effort"
+   "gloss": "action"
   },
   {
    "surface": "கெடல்",
    "parts": [
     {
-     "text": "கெடு",
-     "lemma": "கெடு",
-     "gloss": "fail"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "கெடல்",
+     "lemma": "கெடுதல்",
+     "gloss": "ruining / slacking"
     }
    ],
-   "gloss": "failing"
+   "gloss": "ruining / slacking"
   },
   {
    "surface": "ஓம்பல்",
    "parts": [
     {
-     "text": "ஓம்பு",
-     "lemma": "ஓம்பு",
-     "gloss": "guard against"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "imperative suffix"
+     "text": "ஓம்பல்",
+     "lemma": "ஓம்புதல்",
+     "gloss": "avoiding / guarding against"
     }
    ],
-   "gloss": "guard against"
+   "gloss": "avoiding / guarding against"
   },
   {
    "surface": "வினைக்குறை",
@@ -70,37 +60,37 @@
     {
      "text": "குறை",
      "lemma": "குறை",
-     "gloss": "remainder"
+     "gloss": "deficiency / incomplete part"
     }
    ],
-   "gloss": "unfinished action"
+   "gloss": "unfinished work"
   },
   {
    "surface": "தீர்ந்தாரின்",
    "parts": [
     {
      "text": "தீர்ந்தார்",
-     "lemma": "தீர்",
-     "gloss": "those who abandoned"
+     "lemma": "தீர்ந்தார்",
+     "gloss": "those who have abandoned / failed"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "than / like"
     }
    ],
-   "gloss": "from those who abandoned"
+   "gloss": "like those who have completely failed"
   },
   {
    "surface": "தீர்ந்தன்று",
    "parts": [
     {
      "text": "தீர்ந்தன்று",
-     "lemma": "தீர்",
-     "gloss": "it has departed"
+     "lemma": "தீருதல்",
+     "gloss": "has abandoned"
     }
    ],
-   "gloss": "it has departed"
+   "gloss": "has abandoned"
   },
   {
    "surface": "உலகு",
@@ -111,13 +101,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   }
  ],
- "literal": "In action, effort failing guard against; unfinished action from those who abandoned, it has departed, the world.",
- "translation": "Guard against your effort failing in the midst of a task. The world abandons those who abandon a task unfinished.",
- "modern": "ஒரு செயலைச் செய்யும்போது இடையில் முயற்சி குறைந்துவிடாமல் காக்க வேண்டும். செய்து முடிப்பதற்கு முன்பே செயலை விட்டு விலகியவர்களை விட்டு உலகமும் விலகிவிடும்.",
- "explanation": "This couplet warns against losing momentum or giving up while a task is underway. The phrase 'வினைக்கண் வினை கெடல் ஓம்பல்' urges one to guard against the failure of effort in the middle of an action. The word 'தீர்ந்தாரின்' means 'from those who have abandoned', referring to people who leave a task incomplete ('வினைக்குறை'). Just as they abandon their work, the world ('உலகு') will abandon them, denying them success and recognition.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In action, avoid ruining the action; the world has abandoned those who leave their work unfinished, just like those who have completely failed.",
+ "translation": "Avoid slacking or ruining an undertaking while in the midst of it; the world will abandon those who leave their work incomplete, just as it abandons those who are completely ruined.",
+ "modern": "ஒரு செயலைச் செய்யும்போது சோர்வடைந்து அச்செயலைக் கெடுத்துவிடுவதைத் தவிர்க்க வேண்டும். அவ்வாறு செய்யாமல் வேலையை அரைகுறையாக விட்டுவிடுபவர்களை, முற்றிலும் அழிந்துபோனவர்களை உலகம் கைவிடுவது போல, உலகமும் கைவிட்டுவிடும்.",
+ "explanation": "This couplet emphasizes the importance of completing any undertaken task without slacking or leaving it unfinished. The poet advises that once an action is started ('வினைக்கண்'), one must guard against ('ஓம்பல்') ruining it ('வினைகெடல்') through laziness or loss of enthusiasm. If a person leaves their work incomplete ('வினைக்குறை'), the world will abandon them ('தீர்ந்தன்று உலகு') just as it completely ignores and abandons those who have already failed or lost everything ('தீர்ந்தாரின்'). Success lies not just in starting, but in carrying a task through to its absolute completion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

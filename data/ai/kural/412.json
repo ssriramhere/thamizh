@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "செவுக்கு",
-     "lemma": "செவி",
+     "lemma": "செவிக்கு",
      "gloss": "to the ear"
     }
    ],
@@ -28,22 +28,22 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not"
+     "gloss": "not have"
     },
     {
      "text": "ஆத",
      "lemma": "ஆத",
-     "gloss": "having (relative participle)"
+     "gloss": "which is not"
     }
    ],
-   "gloss": "not having"
+   "gloss": "when there is no"
   },
   {
    "surface": "போழ்து",
    "parts": [
     {
      "text": "போழ்து",
-     "lemma": "பொழுது",
+     "lemma": "போழ்து",
      "gloss": "time"
     }
    ],
@@ -54,7 +54,7 @@
    "parts": [
     {
      "text": "சிறிது",
-     "lemma": "சிறுமை",
+     "lemma": "சிறிது",
      "gloss": "a little"
     }
    ],
@@ -64,23 +64,33 @@
    "surface": "வயிற்றுக்கும்",
    "parts": [
     {
-     "text": "வயிற்றுக்கும்",
+     "text": "வயிற்றுக்கு",
      "lemma": "வயிறு",
-     "gloss": "to the stomach also"
+     "gloss": "to the stomach"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "also"
     }
    ],
-   "gloss": "to the stomach also"
+   "gloss": "even to the stomach"
   },
   {
    "surface": "ஈய",
    "parts": [
     {
-     "text": "ஈய",
+     "text": "ஈ",
      "lemma": "ஈ",
-     "gloss": "to give"
+     "gloss": "give"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to give"
+   "gloss": "to offer"
   },
   {
    "surface": "படும்",
@@ -88,16 +98,16 @@
     {
      "text": "படும்",
      "lemma": "படு",
-     "gloss": "will be (passive auxiliary)"
+     "gloss": "will be done"
     }
    ],
-   "gloss": "will be given"
+   "gloss": "should be done"
   }
  ],
- "literal": "To the ear food not having time, a little to the stomach also will be given.",
- "translation": "When there is no food for the ear, a little may be given to the stomach as well.",
- "modern": "செவிக்கு அறிவாகிய உணவு கிடைக்காத போது, உடலை வளர்க்கும் வயிற்றுக்கும் சிறிது உணவு தரப்படும்.",
- "explanation": "This couplet contrasts the nourishment of the mind with the nourishment of the body. The phrase 'food for the ear' refers to learning and listening to wisdom, which is presented as the primary human need. Only when there is no opportunity to feed the ear should one provide a little food to the stomach. The suffix 'um' (also/even) attached to the stomach emphasizes that physical hunger is strictly secondary to intellectual growth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When there is no food for the ear, a little should be offered even to the stomach.",
+ "translation": "When there is no food of wisdom for the ear to feast upon, only then should a little food be offered to the stomach.",
+ "modern": "காதுக்குக் கேட்கும் அறிவு உணவு இல்லாத பொழுது, வயிற்றுக்கும் சிறிதளவு உணவு கொடுக்கப்பட வேண்டும்.",
+ "explanation": "This couplet beautifully contrasts intellectual nourishment with physical sustenance. The poet metaphorically describes listening to wise teachings as 'food for the ear'. Physical food for the stomach is treated as a secondary necessity, to be taken only in small measures when the mind is not actively engaged in learning. By prioritizing the hunger of the ears over the hunger of the stomach, the couplet elevates the pursuit of knowledge above mere physical existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

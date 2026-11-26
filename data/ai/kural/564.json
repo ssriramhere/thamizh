@@ -6,10 +6,10 @@
     {
      "text": "இறை",
      "lemma": "இறை",
-     "gloss": "ruler"
+     "gloss": "king"
     }
    ],
-   "gloss": "ruler"
+   "gloss": "king"
   },
   {
    "surface": "கடியன்",
@@ -17,10 +17,10 @@
     {
      "text": "கடியன்",
      "lemma": "கடியன்",
-     "gloss": "cruel-man"
+     "gloss": "cruel person"
     }
    ],
-   "gloss": "cruel man"
+   "gloss": "is a cruel person"
   },
   {
    "surface": "என்று",
@@ -28,10 +28,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying-that"
+     "gloss": "saying"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "saying"
   },
   {
    "surface": "உரைக்கும்",
@@ -39,10 +39,10 @@
     {
      "text": "உரைக்கும்",
      "lemma": "உரை",
-     "gloss": "which-is-spoken"
+     "gloss": "spoken"
     }
    ],
-   "gloss": "which is spoken"
+   "gloss": "spoken"
   },
   {
    "surface": "இன்னா",
@@ -64,7 +64,7 @@
      "gloss": "word"
     }
    ],
-   "gloss": "word"
+   "gloss": "reputation"
   },
   {
    "surface": "வேந்தன்",
@@ -83,10 +83,10 @@
     {
      "text": "உறை",
      "lemma": "உறை",
-     "gloss": "lifespan"
+     "gloss": "lifetime"
     }
    ],
-   "gloss": "lifespan"
+   "gloss": "lifetime"
   },
   {
    "surface": "கடுகி",
@@ -94,10 +94,10 @@
     {
      "text": "கடுகி",
      "lemma": "கடுகு",
-     "gloss": "having-hastened"
+     "gloss": "having hastened"
     }
    ],
-   "gloss": "having hastened"
+   "gloss": "having shortened"
   },
   {
    "surface": "ஒல்லை",
@@ -105,10 +105,10 @@
     {
      "text": "ஒல்லை",
      "lemma": "ஒல்லை",
-     "gloss": "swiftly"
+     "gloss": "quickly"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "quickly"
   },
   {
    "surface": "கெடும்",
@@ -116,16 +116,16 @@
     {
      "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "will-perish"
+     "gloss": "will perish"
     }
    ],
    "gloss": "will perish"
   }
  ],
- "literal": "\"The ruler is a cruel man\" saying-that which-is-spoken painful word king, lifespan having-hastened swiftly will-perish.",
- "translation": "A king who draws the painful words \"Our ruler is cruel\" will see his lifespan rapidly shrink and will swiftly perish.",
- "modern": "நம் அரசன் கொடுமையானவன் என்று மக்களால் சொல்லப்படும் துன்பமான சொற்களைப் பெறும் அரசன், தன் ஆயுள் குறைந்து விரைவில் அழிவான்.",
- "explanation": "This couplet warns against ruling by terror and oppression. If a king's actions cause his people to speak the painful words 'Our ruler is cruel,' he brings about his own downfall. The word 'uṟai' has multiple meanings including dwelling, drop, and lifespan; here, lifespan or duration of rule fits best, as it 'hastens' (kaṭuki) to an end, meaning his time in power and life will swiftly perish.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The king who has the painful reputation spoken of him saying 'the ruler is cruel', his lifetime having shortened, will quickly perish.",
+ "translation": "A king who earns the painful reputation of being called a cruel ruler will find his lifetime shortened and will quickly perish.",
+ "modern": "நம் அரசன் கொடியவன் என்று மக்களால் பேசப்படும் துன்பகரமான சொல்லைப் பெற்ற அரசன், தன் ஆயுள் காலம் குறைந்து விரைந்து அழிவான்.",
+ "explanation": "This couplet warns rulers against the dangers of being perceived as tyrannical. When subjects speak of their king as harsh or cruel ('இறைகடியன்'), this painful reputation ('இன்னாச்சொல்') acts as a destructive force. The word 'உறை' in this context refers to the king's span of life or reign. The couplet explains that such a ruler's lifetime is hastened ('கடுகி') to an end, leading to his swift ('ஒல்லை') ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

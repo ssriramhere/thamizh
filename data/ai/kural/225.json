@@ -4,22 +4,12 @@
    "surface": "ஆற்றுவார்",
    "parts": [
     {
-     "text": "ஆற்று",
-     "lemma": "ஆற்று",
-     "gloss": "to endure"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future suffix"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "text": "ஆற்றுவார்",
+     "lemma": "ஆற்றுவார்",
+     "gloss": "those who perform penance"
     }
    ],
-   "gloss": "those who endure"
+   "gloss": "those who perform penance"
   },
   {
    "surface": "ஆற்றல்",
@@ -27,10 +17,10 @@
     {
      "text": "ஆற்றல்",
      "lemma": "ஆற்றல்",
-     "gloss": "strength"
+     "gloss": "power"
     }
    ],
-   "gloss": "strength"
+   "gloss": "power"
   },
   {
    "surface": "பசி",
@@ -47,14 +37,9 @@
    "surface": "ஆற்றல்",
    "parts": [
     {
-     "text": "ஆற்று",
+     "text": "ஆற்றல்",
      "lemma": "ஆற்று",
-     "gloss": "to endure"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "enduring"
     }
    ],
    "gloss": "enduring"
@@ -68,19 +53,9 @@
      "gloss": "that"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "பசி",
+     "text": "பசியை",
      "lemma": "பசி",
-     "gloss": "hunger"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "hunger (accusative)"
     }
    ],
    "gloss": "that hunger"
@@ -89,38 +64,23 @@
    "surface": "மாற்றுவார்",
    "parts": [
     {
-     "text": "மாற்று",
+     "text": "மாற்றுவார்",
      "lemma": "மாற்று",
-     "gloss": "to relieve"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future suffix"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "those who remove"
     }
    ],
-   "gloss": "those who relieve"
+   "gloss": "those who remove"
   },
   {
    "surface": "ஆற்றலின்",
    "parts": [
     {
-     "text": "ஆற்றல்",
+     "text": "ஆற்றலின்",
      "lemma": "ஆற்றல்",
-     "gloss": "strength"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "comparative suffix"
+     "gloss": "than the power"
     }
    ],
-   "gloss": "than the strength"
+   "gloss": "than the power"
   },
   {
    "surface": "பின்",
@@ -134,10 +94,10 @@
    "gloss": "behind"
   }
  ],
- "literal": "The strength of those who endure is the enduring of hunger; (it is) behind the strength of those who relieve that hunger.",
- "translation": "The strength of the strong is their ability to endure hunger, but it comes second to the strength of those who relieve the hunger of others.",
- "modern": "பசியைப் பொறுத்துக்கொள்ளும் ஆற்றல் பெரியதுதான்; ஆனால் அது, மற்றவர்களின் பசியைப் போக்கும் கொடையாளர்களின் ஆற்றலுக்குப் பின்னால் தான் நிற்கும்.",
- "explanation": "This couplet compares two kinds of strength: the personal discipline to endure hunger, and the generosity to feed the hungry. The word 'ஆற்றுவார்' refers to those who have the power to withstand hardships. While enduring one's own hunger ('பசி ஆற்றல்') is a great strength, the poet places it 'behind' ('பின்') the strength of those who relieve ('மாற்றுவார்') the hunger of others. In this chapter on giving, this highlights that the act of sharing food is a far greater virtue than personal self-denial.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The power of those who perform penance is enduring hunger; (but) that is behind the power of those who remove that hunger.",
+ "translation": "The power of those who perform penance lies in enduring their own hunger; yet, that power is only secondary to the power of those who alleviate the hunger of others.",
+ "modern": "தவம் செய்வோரின் வலிமை என்பது பசியைப் பொறுத்துக் கொள்வதாகும்; ஆனால், அந்த வலிமையானது பிறருடைய பசியைப் போக்குபவர்களின் வலிமைக்கு அடுத்ததாகவே மதிக்கப்படும்.",
+ "explanation": "This couplet compares two kinds of strength: the strength of ascetics who perform penance by enduring hunger, and the strength of givers who remove the hunger of others. The author states that while enduring hunger is a great feat of self-control, it is subordinate to the noble act of giving food to satisfy another's hunger. The word 'ஆற்றல்' is used in two senses: first as 'power' or 'strength' and second as 'enduring' (from the verb 'ஆற்று'). The word 'பின்' (behind or after) establishes a clear hierarchy, placing the altruistic act of giving above the self-focused act of ascetic endurance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

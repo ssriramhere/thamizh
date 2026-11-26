@@ -16,8 +16,8 @@
    "parts": [
     {
      "text": "ஆகும்",
-     "lemma": "ஆகு",
-     "gloss": "becomes"
+     "lemma": "ஆ",
+     "gloss": "is"
     }
    ],
    "gloss": "is"
@@ -28,15 +28,20 @@
     {
      "text": "நோன்பு",
      "lemma": "நோன்பு",
-     "gloss": "asceticism"
+     "gloss": "ascetic practice"
     },
     {
-     "text": "இற்கு",
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "கு",
      "lemma": "கு",
-     "gloss": "for"
+     "gloss": "to"
     }
    ],
-   "gloss": "for asceticism"
+   "gloss": "for ascetic practice"
   },
   {
    "surface": "ஒன்று",
@@ -47,7 +52,7 @@
      "gloss": "one thing"
     }
    ],
-   "gloss": "anything"
+   "gloss": "even one thing"
   },
   {
    "surface": "இன்மை",
@@ -58,7 +63,7 @@
      "gloss": "absence"
     }
    ],
-   "gloss": "not having"
+   "gloss": "absence"
   },
   {
    "surface": "உடைமை",
@@ -87,7 +92,7 @@
    "parts": [
     {
      "text": "ஆகும்",
-     "lemma": "ஆகு",
+     "lemma": "ஆ",
      "gloss": "becomes"
     }
    ],
@@ -99,7 +104,7 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "again"
+     "gloss": "other"
     },
     {
      "text": "உம்",
@@ -107,7 +112,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "again"
+   "gloss": "and further"
   },
   {
    "surface": "பெயர்த்து",
@@ -115,16 +120,16 @@
     {
      "text": "பெயர்த்து",
      "lemma": "பெயர்",
-     "gloss": "having brought back"
+     "gloss": "turning back"
     }
    ],
-   "gloss": "having brought back"
+   "gloss": "turning back"
   }
  ],
- "literal": "Nature is for asceticism one-thing not-having; possession delusion becomes again having-brought-back.",
- "translation": "The true nature of asceticism is to possess absolutely nothing. Owning anything will bring back delusion once again.",
- "modern": "ஒரு பொருளும் இல்லாமல் இருப்பதே துறவுக்கு இயல்பாகும். ஒரு பொருளை உடைமையாகக் கொண்டாலும் அது மீண்டும் மயக்கத்தைக் கொண்டுவரும்.",
- "explanation": "This couplet defines the core requirement of renunciation ('நோன்பு') as the complete absence of possessions ('ஒன்று இன்மை'). It contrasts this state of having nothing with ownership ('உடைமை'). The word 'மயல்' refers to the delusion or confusion of worldly attachments. The text warns that retaining even a single possession will bring back ('பெயர்த்து') this delusion once again ('மற்றும்'), thereby undoing the ascetic's progress.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The nature is for ascetic practice even one thing's absence; possession delusion becomes and further turning back.",
+ "translation": "The true nature of ascetic renunciation is to possess absolutely nothing; to possess even a single thing will lead one back into delusion.",
+ "modern": "ஒரு பொருளும் இல்லாமல் இருப்பதே தவத்தின் இயல்பான நிலையாகும்; ஏதேனும் ஒன்றை வைத்திருப்பது மீண்டும் மயக்கத்தை உண்டாக்கிப் பிறவிச் சுழற்சிக்குத் திருப்பிவிடும்.",
+ "explanation": "This couplet defines the absolute nature of renunciation. The natural state of true asceticism is the complete absence of any possession, even a single object. If an ascetic retains or desires even one possession, it acts as a seed of attachment, leading them back into the delusion of worldly life and rebirth. Thus, complete detachment is essential for spiritual liberation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

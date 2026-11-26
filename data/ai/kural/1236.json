@@ -9,17 +9,12 @@
      "gloss": "bracelet"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "ஒடு",
      "lemma": "ஒடு",
      "gloss": "with"
     }
    ],
-   "gloss": "with bracelets"
+   "gloss": "along with the bracelets"
   },
   {
    "surface": "தோள்",
@@ -27,26 +22,21 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulder"
+     "gloss": "shoulders"
     }
    ],
-   "gloss": "shoulder"
+   "gloss": "shoulders"
   },
   {
    "surface": "நெகிழ",
    "parts": [
     {
-     "text": "நெகிழ்",
+     "text": "நெகிழ",
      "lemma": "நெகிழ்",
-     "gloss": "to become loose"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to grow thin or slip"
     }
    ],
-   "gloss": "to become loose"
+   "gloss": "to grow thin and waste away"
   },
   {
    "surface": "நோவல்",
@@ -57,14 +47,9 @@
      "gloss": "to suffer"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "1st person singular suffix"
+     "gloss": "first-person singular suffix"
     }
    ],
    "gloss": "I suffer"
@@ -80,7 +65,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "him"
@@ -94,61 +79,46 @@
      "gloss": "cruel person"
     }
    ],
-   "gloss": "cruel one"
+   "gloss": "as a cruel person"
   },
   {
    "surface": "என",
    "parts": [
     {
-     "text": "என்",
+     "text": "என",
      "lemma": "என்",
      "gloss": "to say"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "saying that"
+   "gloss": "that"
   },
   {
    "surface": "கூறல்",
    "parts": [
     {
-     "text": "கூறு",
+     "text": "கூறல்",
      "lemma": "கூறு",
-     "gloss": "to say"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "saying"
     }
    ],
-   "gloss": "saying"
+   "gloss": "calling or speaking of"
   },
   {
    "surface": "நொந்து",
    "parts": [
     {
-     "text": "நொ",
-     "lemma": "நொ",
-     "gloss": "to feel pain"
-    },
-    {
-     "text": "ந்து",
-     "lemma": "த்து",
-     "gloss": "past adverbial suffix"
+     "text": "நொந்து",
+     "lemma": "நோ",
+     "gloss": "having grieved"
     }
    ],
    "gloss": "feeling pained"
   }
  ],
- "literal": "With bracelets shoulder to become loose I suffer; him cruel one saying that saying feeling pained.",
- "translation": "I suffer as my arms grow thin and my bracelets slip off, but I am pained even more when people call him cruel.",
- "modern": "என் தோள்கள் மெலிந்து வளையல்கள் கழன்று விழுவதற்காக நான் துன்பப்படுகிறேன். ஆனால் மற்றவர்கள் அவரை கொடியவர் என்று பழித்துச் சொல்வதைக் கேட்டு நான் அதைவிட அதிகமாக மனம் வருந்துகிறேன்.",
- "explanation": "The speaker contrasts her physical wasting with her emotional distress. She suffers because her arms have grown so thin from longing that her bracelets slip off. However, she feels an even deeper pain when she hears others blaming her lover and calling him cruel for causing her condition. The word 'நோவல்' expresses her physical suffering, while 'நொந்து' captures her deeper emotional ache at his reputation being tarnished.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Along with bracelets shoulders to grow thin I suffer; him cruel that calling feeling pained.",
+ "translation": "I suffer as my shoulders waste away and my bracelets slip off; yet, it pains me even more to call him cruel.",
+ "modern": "வளையல்களுடன் தோள்களும் மெலிந்து போவதால் நான் வருந்துகிறேன்; ஆனால், அதற்காக அவரை இரக்கமற்றவர் என்று சொல்வதற்கும் என் மனம் நொந்து தயங்குகிறது.",
+ "explanation": "In this couplet, the heroine expresses her deep conflict during separation. Her grief has caused her to lose so much weight that her shoulders have shrunk, causing her bracelets to slip off. While she suffers from this physical decline, she finds it even more painful to blame her lover and call him cruel for leaving her. Her love is so profound that she would rather bear the physical wasting of her body than speak ill of her beloved.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

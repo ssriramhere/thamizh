@@ -11,10 +11,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "with"
+     "gloss": "with/by (instrumental suffix)"
     }
    ],
-   "gloss": "with eyes"
+   "gloss": "with her eyes"
   },
   {
    "surface": "துனித்தே",
@@ -22,12 +22,12 @@
     {
      "text": "துனித்து",
      "lemma": "துனி",
-     "gloss": "having sulked"
+     "gloss": "having feigned anger / sulked"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphatic)"
     }
    ],
    "gloss": "having sulked indeed"
@@ -38,17 +38,17 @@
     {
      "text": "கலங்கினாள்",
      "lemma": "கலங்கு",
-     "gloss": "she became troubled"
+     "gloss": "she became confused / distressed"
     }
    ],
-   "gloss": "she became troubled"
+   "gloss": "she became confused"
   },
   {
    "surface": "புல்லுதல்",
    "parts": [
     {
      "text": "புல்லுதல்",
-     "lemma": "புல்லு",
+     "lemma": "புல்லுதல்",
      "gloss": "embracing"
     }
    ],
@@ -63,17 +63,12 @@
      "gloss": "me"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "than"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "இனும்",
+     "lemma": "இனும்",
+     "gloss": "than (comparative suffix)"
     }
    ],
-   "gloss": "even more than me"
+   "gloss": "more than me"
   },
   {
    "surface": "தான்",
@@ -92,7 +87,7 @@
     {
      "text": "விதுப்பு",
      "lemma": "விதுப்பு",
-     "gloss": "eagerness"
+     "gloss": "eagerness / haste"
     }
    ],
    "gloss": "eagerness"
@@ -103,16 +98,16 @@
     {
      "text": "உற்று",
      "lemma": "உறு",
-     "gloss": "having felt"
+     "gloss": "having experienced / attained"
     }
    ],
-   "gloss": "having felt"
+   "gloss": "having experienced"
   }
  ],
- "literal": "With eyes having sulked indeed, she became troubled; embracing, even more than me, she herself eagerness having felt.",
- "translation": "She feigned a sulk with her eyes, but quickly became distressed; feeling an eagerness to embrace even greater than mine, she hurried to me.",
- "modern": "அவள் தன் கண்களால் மட்டுமே ஊடல் கொண்டு சினந்தாள்; ஆனால் உடனே கலக்கமடைந்து, என்னை விடவும் அதிகமாகத் தழுவிக்கொள்ளும் விருப்பம் கொண்டு விரைந்தாள்.",
- "explanation": "This couplet captures a fleeting moment of a lovers' quarrel where the woman attempts to feign anger ('tuṉittē'). However, her anger is entirely superficial, restricted only to her eyes ('kaṇṇiṉ'), and she quickly becomes distressed ('kalaṅkiṉāḷ') at the thought of maintaining the distance. Overcome by an eagerness ('vituppu') for reunion that surpasses even the speaker's own desire ('eṉṉiṉum'), she abandons her pretense and hurries to embrace him. The contrast between her brief, visual sulk and her deep, urgent desire highlights the overpowering nature of their affection.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With her eyes having sulked indeed, she became confused, [for] embracing, more than me, she herself eagerness having experienced.",
+ "translation": "She feigned anger only with her eyes and immediately lost her resolve; for she herself was far more eager for our embrace than I was.",
+ "modern": "அவள் தன் கண்களால் மட்டும் ஊடல் காட்டி உடனே கலங்கினாள்; ஏனெனில், என்னை விட அவளே தழுவிக்கொள்வதில் அதிக அவசரம் கொண்டிருந்தாள்.",
+ "explanation": "The heroine attempts to feign anger (sulk) to playfully delay their union, but she can only manage to show it through her eyes. She immediately loses her resolve and becomes confused because her own desire to embrace her lover is far greater than his. Her intense eagerness (vituppu) to embrace overcomes her attempt at sulking (tuni). This couplet beautifully captures the conflict between a lover's desire to play-act anger and her overwhelming passion that defeats her own game.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

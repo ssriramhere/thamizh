@@ -37,12 +37,27 @@
    "surface": "மேற்கொளீஇ",
    "parts": [
     {
-     "text": "மேற்கொளீஇ",
-     "lemma": "மேற்கொள்",
-     "gloss": "having made to undertake"
+     "text": "மேல்",
+     "lemma": "மேல்",
+     "gloss": "upon"
+    },
+    {
+     "text": "கொள்",
+     "lemma": "கொள்",
+     "gloss": "take"
+    },
+    {
+     "text": "ஈ",
+     "lemma": "இ",
+     "gloss": "having (verbal participle suffix)"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "measure-lengthening vowel"
     }
    ],
-   "gloss": "having made to undertake"
+   "gloss": "having adopted"
   },
   {
    "surface": "அருள்",
@@ -50,10 +65,10 @@
     {
      "text": "அருள்",
      "lemma": "அருள்",
-     "gloss": "compassion"
+     "gloss": "grace"
     }
    ],
-   "gloss": "compassion"
+   "gloss": "grace"
   },
   {
    "surface": "கெடுத்து",
@@ -81,9 +96,19 @@
    "surface": "உழப்பிக்கும்",
    "parts": [
     {
-     "text": "உழப்பிக்கும்",
+     "text": "உழப்பு",
      "lemma": "உழப்பு",
-     "gloss": "will cause to suffer"
+     "gloss": "suffer"
+    },
+    {
+     "text": "இக்கு",
+     "lemma": "இக்கு",
+     "gloss": "causative marker"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will/habitual suffix"
     }
    ],
    "gloss": "will cause to suffer"
@@ -100,10 +125,10 @@
    "gloss": "gambling"
   }
  ],
- "literal": "Wealth having destroyed, falsehood having made to undertake, compassion having destroyed, misery will cause to suffer, gambling.",
- "translation": "Gambling destroys one's wealth, forces one to embrace falsehood, ruins one's compassion, and inflicts misery.",
- "modern": "சூதாட்டம் ஒருவனின் செல்வத்தை அழித்து, அவனைப் பொய் பேசும்படி செய்து, அவனது இரக்க குணத்தையும் கெடுத்து, அவனுக்குத் துன்பத்தை உண்டாக்கும்.",
- "explanation": "This couplet describes the sequential ruin caused by gambling. It begins by destroying a person's wealth, which in turn forces them to embrace falsehood to survive or to keep playing. This deceitful life then destroys their natural compassion for others. The causative verbs emphasize that gambling is an active force that ultimately plunges the gambler into inescapable misery.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Wealth having destroyed, falsehood having adopted, grace having destroyed, misery causing to suffer, gambling.",
+ "translation": "Gambling destroys one's wealth, drives them to adopt falsehood, ruins their compassion, and plunges them into endless misery.",
+ "modern": "சூதாட்டம் ஒருவனுடைய செல்வத்தை அழித்து, அவனைப் பொய் சொல்ல வைத்து, அவனுடைய இரக்க குணத்தையும் அழித்து, துன்பத்தில் உழலச் செய்யும்.",
+ "explanation": "This couplet outlines the destructive path of gambling on a person's life and character. First, it ruins their material wealth (poruḷ). To sustain the habit or cover losses, the gambler is forced to adopt falsehood (poy) and deceit. This moral decline eventually destroys their innate sense of grace and compassion (aruḷ) for others. Ultimately, the vice of gambling (cūtu) leaves the individual trapped in a state of perpetual suffering and misery (allal).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

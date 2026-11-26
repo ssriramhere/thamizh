@@ -5,24 +5,29 @@
    "parts": [
     {
      "text": "வீழ்வார்",
-     "lemma": "வீழ்",
+     "lemma": "வீழ்வார்",
      "gloss": "those who love"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "than"
     }
    ],
-   "gloss": "from the lover"
+   "gloss": "than those who love"
   },
   {
    "surface": "இன்சொல்",
    "parts": [
     {
-     "text": "இன்சொல்",
-     "lemma": "இன்சொல்",
-     "gloss": "sweet words"
+     "text": "இன்",
+     "lemma": "இனிமை",
+     "gloss": "sweet"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "words"
     }
    ],
    "gloss": "sweet words"
@@ -33,10 +38,10 @@
     {
      "text": "பெறாஅது",
      "lemma": "பெறு",
-     "gloss": "not receiving"
+     "gloss": "without receiving"
     }
    ],
-   "gloss": "not receiving"
+   "gloss": "without receiving"
   },
   {
    "surface": "உலகத்து",
@@ -54,7 +59,7 @@
    "parts": [
     {
      "text": "வாழ்வார்",
-     "lemma": "வாழ்",
+     "lemma": "வாழ்வார்",
      "gloss": "those who live"
     },
     {
@@ -70,13 +75,13 @@
    "parts": [
     {
      "text": "வன்கண்",
-     "lemma": "வன்கண்",
-     "gloss": "hard heart"
+     "lemma": "வன்கண்மை",
+     "gloss": "hard-heartedness"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "people with (suffix)"
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "hard-hearted people"
@@ -87,16 +92,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "are not"
+     "gloss": "there is none"
     }
    ],
-   "gloss": "are not"
+   "gloss": "there is none"
   }
  ],
- "literal": "From the lover / sweet words / not receiving / in the world / than those who live / hard-hearted people / are not.",
- "translation": "There is no one more hard-hearted than those who continue to live in this world without receiving sweet words from their lover.",
- "modern": "தம்மை விரும்பும் காதலரிடமிருந்து இனிய சொற்களைப் பெறாமலேயே இந்த உலகத்தில் உயிர்வாழ்கின்றவர்களை விடக் கல்நெஞ்சம் கொண்டவர்கள் வேறு யாரும் இல்லை.",
- "explanation": "The speaker, suffering from separation, reflects on her own endurance. She states that surviving in this world without hearing sweet, comforting words from her lover requires an incredibly hard heart. By saying there is no one more hard-hearted than such survivors, she is actually lamenting her own painful ability to stay alive despite the agony of his absence and silence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than those who love sweet words without receiving, in the world, than those who live, hard-hearted people there is none.",
+ "translation": "There are no people in this world more hard-hearted than those who continue to live even without receiving sweet words of comfort from their beloved.",
+ "modern": "தங்களை விரும்புபவரிடமிருந்து இனிய சொற்களைப் பெறாமல், இந்த உலகத்தில் உயிர் வாழ்கின்றவர்களைப் போல வன்நெஞ்சம் உடையவர்கள் வேறு யாரும் இல்லை.",
+ "explanation": "In this couplet, the pining heroine speaks of her own state of survival during separation. She laments that she is still alive despite not hearing any sweet, comforting words from her beloved. By calling those who survive such grief 'வன்கணார்' (hard-hearted or stubborn ones), she mockingly accuses herself of having an incredibly tough, unyielding heart that refuses to break and let her die, highlighting the sheer intensity of her solitary suffering.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

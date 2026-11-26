@@ -11,18 +11,23 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "and"
     }
    ],
-   "gloss": "other even"
+   "gloss": "and further"
   },
   {
    "surface": "தொடர்ப்பாடு",
    "parts": [
     {
-     "text": "தொடர்ப்பாடு",
-     "lemma": "தொடர்ப்பாடு",
-     "gloss": "attachment"
+     "text": "தொடர்",
+     "lemma": "தொடர்",
+     "gloss": "connect"
+    },
+    {
+     "text": "பாடு",
+     "lemma": "பாடு",
+     "gloss": "state"
     }
    ],
    "gloss": "attachment"
@@ -36,7 +41,7 @@
      "gloss": "what"
     }
    ],
-   "gloss": "what"
+   "gloss": "of what use"
   },
   {
    "surface": "கொல்",
@@ -44,7 +49,7 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "particle of emphasis"
     }
    ],
    "gloss": "indeed"
@@ -76,11 +81,11 @@
    "parts": [
     {
      "text": "உற்றார்",
-     "lemma": "உற்றார்",
+     "lemma": "உறு",
      "gloss": "those who have undertaken"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -112,13 +117,13 @@
      "gloss": "excess"
     }
    ],
-   "gloss": "excess"
+   "gloss": "a burden"
   }
  ],
- "literal": "Other attachment what indeed, birth severing to those who have undertaken, even the body is excess.",
- "translation": "To those who have undertaken the severing of births, even their own body is a burden. What then is the purpose of other attachments?",
- "modern": "பிறப்பை அறுக்க முயல்பவர்களுக்குத் தம் உடம்பே ஒரு சுமையாகும். அப்படியிருக்க, அவர்களுக்கு வேறு பற்றுதல்களால் என்ன பயன்?",
- "explanation": "This couplet questions the logic of holding onto worldly attachments when the ultimate goal is renunciation. For those who have committed to ending the cycle of birth, even their own physical body is considered an excess. The word 'mikai' can mean excess, fault, or burden, and here it best means an unnecessary excess or burden. If the body itself is more than what is necessary, any other external connection or possession is entirely pointless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And further, attachment of what use indeed, for those who have undertaken the severing of birth, even the body is an excess.",
+ "translation": "For those who have resolved to sever the cycle of birth, even their own body is a superfluous burden; what use, then, are any other attachments?",
+ "modern": "பிறவிச் சுழற்சியை அறுக்க முயன்றவர்களுக்குத் தமது உடம்பே ஒரு சுமையாகும் போது, வேறு பிற பற்றுகள் எதற்காக?",
+ "explanation": "This couplet highlights the absolute nature of renunciation. For those who have committed to ending the cycle of birth and death, even their own physical body is seen as an extra, unnecessary burden. If the very body they inhabit is considered superfluous to their spiritual goal, then any other worldly attachments are completely useless. The author uses this stark comparison to show that true renunciation requires letting go of all external bonds, as even the physical self is ultimately a temporary vessel to be transcended.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "path"
+     "gloss": "path / consequence"
     }
    ],
-   "gloss": "path"
+   "gloss": "path / consequence"
   },
   {
    "surface": "நோக்கான்",
@@ -17,15 +17,15 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "to consider"
+     "gloss": "look at / consider"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he considers not"
+   "gloss": "he does not consider"
   },
   {
    "surface": "வாய்ப்பன",
@@ -33,10 +33,10 @@
     {
      "text": "வாய்ப்பன",
      "lemma": "வாய்ப்பன",
-     "gloss": "fitting things"
+     "gloss": "proper things / favorable actions"
     }
    ],
-   "gloss": "fitting things"
+   "gloss": "proper things / favorable actions"
   },
   {
    "surface": "செய்யான்",
@@ -44,15 +44,15 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he does not"
+   "gloss": "he does not do"
   },
   {
    "surface": "பழி",
@@ -60,10 +60,10 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "blame / disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "blame / disgrace"
   },
   {
    "surface": "நோக்கான்",
@@ -71,15 +71,15 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "to consider"
+     "gloss": "look at / consider"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he considers not"
+   "gloss": "he does not consider"
   },
   {
    "surface": "பண்பு",
@@ -98,7 +98,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "அன்",
@@ -106,28 +106,23 @@
      "gloss": "he"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "he who lacks"
   },
   {
    "surface": "பற்றார்க்கு",
    "parts": [
     {
-     "text": "பற்று",
-     "lemma": "பற்று",
-     "gloss": "attachment"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (negative)"
+     "text": "பற்றார்",
+     "lemma": "பற்றார்",
+     "gloss": "enemies (those without attachment)"
     },
     {
      "text": "க்கு",
-     "lemma": "க்கு",
+     "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to foes"
+   "gloss": "to enemies"
   },
   {
    "surface": "இனிது",
@@ -135,16 +130,16 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "easy / pleasant"
     }
    ],
-   "gloss": "sweet"
+   "gloss": "easy / pleasant"
   }
  ],
- "literal": "Path he considers not, fitting things he does not, blame he considers not, good character he is without; to foes (he is) sweet.",
- "translation": "He who does not consider the right path, does not do what is fitting, ignores disgrace, and lacks good character is a sweet prize for his enemies.",
- "modern": "சரியான வழியை ஆராயாமலும், தகுந்த செயல்களைச் செய்யாமலும், பழிக்கு அஞ்சாமலும், நற்பண்பு இல்லாமலும் இருப்பவனை வெல்வது அவனுடைய பகைவர்களுக்கு மிகவும் எளிதானதாகும்.",
- "explanation": "This couplet describes the kind of person who is easily defeated by their enemies. The word 'vaḻi' refers to the proper path or the future consequences of one's actions, which this person fails to consider. They also neglect to do 'vāyppaṉa', the fitting or beneficial deeds that secure their position. Because they ignore the 'paḻi' (blame or disgrace) of their actions and lack 'paṇpu' (good character), they isolate themselves. To their foes, such a flawed and friendless person is 'iṉitu'—a sweet and effortless target to conquer.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The consequence he does not consider, proper things he does not do, disgrace he does not consider, good character he lacks—to enemies (he is) easy.",
+ "translation": "One who does not consider the consequences of his actions, does not do what is proper, does not fear disgrace, and lacks good character is an easy prey for his enemies.",
+ "modern": "செயலின் விளைவை ஆராயாதவன், நன்மையானவற்றைச் செய்யாதவன், பழிக்கு அஞ்சாதவன், நற்பண்புகள் இல்லாதவன் ஆகிய இவன் தன் பகைவர்களுக்கு மிக எளியவன் ஆவான்.",
+ "explanation": "This couplet outlines the flaws that make a person highly vulnerable to their adversaries. First, such a person does not look ahead to the consequences of their actions ('வழி நோக்கான்'). Second, they fail to perform deeds that are proper or beneficial ('வாய்ப்பன செய்யான்'). Third, they are indifferent to the disgrace or blame their actions might bring ('பழி நோக்கான்'). Finally, they lack basic good character ('பண்பிலன்'). A person with these four defects becomes an effortless target ('இனிது') for their enemies ('பற்றார்க்கு') to overcome.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

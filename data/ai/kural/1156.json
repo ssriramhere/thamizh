@@ -15,45 +15,60 @@
    "surface": "உரைக்கும்",
    "parts": [
     {
-     "text": "உரைக்கும்",
+     "text": "உரை",
      "lemma": "உரை",
-     "gloss": "who speak"
+     "gloss": "speak"
+    },
+    {
+     "text": "க்கும்",
+     "lemma": "உம்",
+     "gloss": "that does"
     }
    ],
-   "gloss": "who speak"
+   "gloss": "that speaks of"
   },
   {
    "surface": "வன்கண்ணர்",
    "parts": [
     {
-     "text": "வன்கண்ணர்",
-     "lemma": "வன்கண்ணர்",
-     "gloss": "hard-hearted persons"
+     "text": "வன்",
+     "lemma": "வல்",
+     "gloss": "hard/cruel"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "compassion"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "he (honorific)"
     }
    ],
-   "gloss": "hard-hearted persons"
+   "gloss": "hard-hearted person"
   },
   {
    "surface": "ஆயின்",
    "parts": [
     {
      "text": "ஆயின்",
-     "lemma": "ஆகு",
-     "gloss": "if they are"
+     "lemma": "ஆயின்",
+     "gloss": "if he is"
     }
    ],
-   "gloss": "if they are"
+   "gloss": "if he is"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "is impossible"
+     "lemma": "அரிது",
+     "gloss": "impossible"
     }
    ],
-   "gloss": "is impossible"
+   "gloss": "impossible"
   },
   {
    "surface": "அவர்",
@@ -61,21 +76,31 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "he (honorific)"
+     "gloss": "he"
     }
    ],
-   "gloss": "he (honorific)"
+   "gloss": "he"
   },
   {
    "surface": "நல்குவர்",
    "parts": [
     {
-     "text": "நல்குவர்",
+     "text": "நல்கு",
      "lemma": "நல்கு",
-     "gloss": "will bestow love"
+     "gloss": "bestow love"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "he"
     }
    ],
-   "gloss": "will bestow love"
+   "gloss": "he will bestow love"
   },
   {
    "surface": "என்னும்",
@@ -94,16 +119,16 @@
     {
      "text": "நசை",
      "lemma": "நசை",
-     "gloss": "hope"
+     "gloss": "hope/desire"
     }
    ],
    "gloss": "hope"
   }
  ],
- "literal": "Separation who speak hard-hearted persons if they are, impossible [is] they will bestow love that says hope.",
- "translation": "If he is hard-hearted enough to speak of separation, the hope that he will stay and show love is in vain.",
- "modern": "அவர் என்னைப் பிரிந்து செல்வதைப் பற்றிச் சொல்லும் அளவுக்குக் கடினமான மனம் கொண்டவர் என்றால், அவர் எனக்கு அன்பு காட்டுவார் என்று நம்புவது வீண்.",
- "explanation": "The heroine expresses her despair upon hearing her lover's plan to depart. She reasons that if he possesses the hard-heartedness to even speak of leaving her, he lacks true compassion. Therefore, any lingering hope that he might change his mind and show her love is completely unfounded. The word 'நசை' highlights her desperate desire, which is crushed by his cruel resolve.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If he is a hard-hearted person who speaks of separation, the hope that says 'he will bestow love' is impossible.",
+ "translation": "If he is so hard-hearted as to speak of parting from me, any hope that he will return to bestow his love is completely futile.",
+ "modern": "அவர் பிரிவைப் பற்றிப் பேசும் இரக்கமற்றவர் என்றால், அவர் மீண்டும் வந்து அன்பைச் சொரிவார் என்று நம்பும் நம்பிக்கை வீணானதாகும்.",
+ "explanation": "In this couplet, the heroine expresses her despair to her companion upon hearing her lover talk of leaving. She describes him as 'van-kaṇṇar' (hard-hearted or cruel) because he is able to speak of separation without feeling her pain. She reasons that if he possesses such a cold heart, the hope ('nasai') that he will return to shower her with love ('nalguvar') is entirely futile ('aridu'). The verse highlights how the mere mention of parting shatters the heroine's trust in her lover's affection.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

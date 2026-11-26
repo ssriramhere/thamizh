@@ -6,31 +6,26 @@
     {
      "text": "செயல்",
      "lemma": "செயல்",
-     "gloss": "doing"
+     "gloss": "doing/action"
     },
     {
      "text": "பாலது",
-     "lemma": "பால்",
-     "gloss": "that which is of the nature"
+     "lemma": "பாலது",
+     "gloss": "that which is of the nature of"
     }
    ],
-   "gloss": "that which is to be done"
+   "gloss": "that which is fit to be done"
   },
   {
    "surface": "ஓரும்",
    "parts": [
     {
-     "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "to examine"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "suffix"
+     "text": "ஓரும்",
+     "lemma": "ஓர்தல்",
+     "gloss": "considering/surely"
     }
    ],
-   "gloss": "examining"
+   "gloss": "surely / after consideration"
   },
   {
    "surface": "அறனே",
@@ -43,10 +38,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "emphasis marker"
     }
    ],
-   "gloss": "virtue alone"
+   "gloss": "virtue indeed"
   },
   {
    "surface": "ஒருவற்கு",
@@ -54,47 +49,42 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one person"
+     "gloss": "a person"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
-   "gloss": "for a person"
+   "gloss": "to a person"
   },
   {
    "surface": "உயற்பாலது",
    "parts": [
     {
      "text": "உயல்",
-     "lemma": "உயல்",
-     "gloss": "escaping"
+     "lemma": "உய்தல்",
+     "gloss": "escaping/avoiding"
     },
     {
      "text": "பாலது",
-     "lemma": "பால்",
-     "gloss": "that which is of the nature"
+     "lemma": "பாலது",
+     "gloss": "that which is of the nature of"
     }
    ],
-   "gloss": "that which is to be avoided"
+   "gloss": "that which is fit to be avoided"
   },
   {
    "surface": "ஓரும்",
    "parts": [
     {
-     "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "to examine"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "suffix"
+     "text": "ஓரும்",
+     "lemma": "ஓர்தல்",
+     "gloss": "considering/surely"
     }
    ],
-   "gloss": "examining"
+   "gloss": "surely / after consideration"
   },
   {
    "surface": "பழி",
@@ -102,16 +92,16 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame/vice"
+     "gloss": "blame/disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "blame/disgrace"
   }
  ],
- "literal": "That which is to be done, examining, is virtue alone for one; that which is to be escaped, examining, is blame.",
- "translation": "If one examines what a person ought to do, it is virtue alone; if one examines what must be avoided, it is vice.",
- "modern": "ஒருவன் தன் வாழ்வில் செய்யத் தகுந்தது அறம் மட்டுமே; அவன் தப்பித்துத் தவிர்க்க வேண்டியது பழி தரும் செயல்களே ஆகும்.",
- "explanation": "This couplet defines the fundamental choice in human action. The word 'ceyal' refers to doing, while 'uyal' refers to escaping or avoiding; both are joined with 'palatu' to mean 'that which is of the nature of'. The repeated word 'orum' implies that careful examination will always lead to this conclusion. By using the emphatic suffix 'e' in 'arane', the text stresses that virtue is the only true course of action, dividing all deeds simply into virtue to be practiced and blame to be shunned.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which is fit to be done, after considering, is virtue indeed to a person; that which is fit to be avoided, after considering, is blame.",
+ "translation": "Virtue is that which a person ought to perform, and disgrace is that which one ought to avoid, after careful consideration.",
+ "modern": "ஒருவன் ஆராய்ந்து செய்யத்தக்கது அறமே ஆகும்; அவன் ஆராய்ந்து விலக்கத்தக்கது பழியே ஆகும்.",
+ "explanation": "This couplet summarizes the essence of a righteous life by defining what must be embraced and what must be shunned. The word 'செயற்பாலது' refers to actions that are duty-bound and proper to perform, which the poet identifies solely as virtue ('அறனே'). Conversely, 'உயற்பாலது' refers to things from which one must escape or avoid, identified here as blame or disgrace ('பழி'). The recurring word 'ஓரும்' suggests careful contemplation or investigation, emphasizing that these choices should not be made blindly but through deliberate discernment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -15,14 +15,9 @@
    "surface": "அற்றார்",
    "parts": [
     {
-     "text": "அற்று",
+     "text": "அற்றார்",
      "lemma": "அறு",
-     "gloss": "having lacked"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "those who lack"
     }
    ],
    "gloss": "those who lack"
@@ -31,24 +26,9 @@
    "surface": "பூப்பர்",
    "parts": [
     {
-     "text": "பூ",
+     "text": "பூப்பர்",
      "lemma": "பூ",
-     "gloss": "to flower"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "will flourish"
     }
    ],
    "gloss": "will flourish"
@@ -67,7 +47,7 @@
      "gloss": "time"
     }
    ],
-   "gloss": "one day"
+   "gloss": "at some time"
   },
   {
    "surface": "அருள்",
@@ -75,23 +55,18 @@
     {
      "text": "அருள்",
      "lemma": "அருள்",
-     "gloss": "compassion"
+     "gloss": "grace"
     }
    ],
-   "gloss": "compassion"
+   "gloss": "grace"
   },
   {
    "surface": "அற்றார்",
    "parts": [
     {
-     "text": "அற்று",
+     "text": "அற்றார்",
      "lemma": "அறு",
-     "gloss": "having lacked"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "those who lack"
     }
    ],
    "gloss": "those who lack"
@@ -100,17 +75,12 @@
    "surface": "அற்றார்",
    "parts": [
     {
-     "text": "அற்று",
+     "text": "அற்றார்",
      "lemma": "அறு",
-     "gloss": "having been ruined"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "those who are ruined"
     }
    ],
-   "gloss": "are ruined"
+   "gloss": "are utterly ruined"
   },
   {
    "surface": "மற்று",
@@ -127,34 +97,29 @@
    "surface": "ஆதல்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "to become"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "ஆதல்",
+     "lemma": "ஆதல்",
+     "gloss": "recovering"
     }
    ],
-   "gloss": "becoming"
+   "gloss": "recovering"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
+     "lemma": "அரிது",
      "gloss": "is rare"
     }
    ],
    "gloss": "is rare"
   }
  ],
- "literal": "Wealth-lacking-people will-flourish one-time; grace-lacking-people are-ruined, again becoming is-rare.",
- "translation": "Those without wealth may flourish one day, but those without compassion are utterly ruined; for them to prosper again is impossible.",
- "modern": "பொருள் இல்லாதவர்கள் ஒரு காலத்தில் வளம் பெறலாம்; ஆனால் அருள் இல்லாதவர்கள் முற்றிலும் அழிந்தவர்களே, அவர்கள் மீண்டும் சிறப்படைவது கடினம்.",
- "explanation": "The couplet contrasts the loss of material wealth with the loss of compassion. Those who lose their wealth ('பொருளற்றார்') might regain it and flourish ('பூப்பர்') at some point ('ஒருகால்'). However, those who lack compassion ('அருளற்றார்') are truly ruined ('அற்றார்'). For them to recover or prosper again ('மற்று ஆதல்') is exceedingly rare or impossible ('அரிது'). The repetition of 'அற்றார்' emphasizes the finality of the spiritual ruin caused by a lack of grace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who lack wealth will flourish at some time; those who lack grace are ruined, rising up again is rare.",
+ "translation": "Those who lack material wealth may flourish at some point; but those who lack grace are utterly ruined, and for them to rise up again is impossible.",
+ "modern": "பொருள் இல்லாதவர்கள் ஒரு காலத்தில் வளம் பெற்றுச் செழிக்கக்கூடும்; ஆனால் அருள் இல்லாதவர்கள் முற்றிலும் அழிந்தவர்கள் ஆவர், அவர்கள் மீண்டும் வாழ்வு பெறுவது அரிது.",
+ "explanation": "This couplet contrasts the loss of material wealth with the loss of compassion or grace. Those who are poor in material wealth can still hope to prosper and bloom at some point in the future through effort. In contrast, those who lack compassion are truly destitute and ruined. For them, to recover their humanity and rise up again is extremely difficult, as grace is the essential foundation of life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

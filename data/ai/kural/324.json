@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "நல்",
-     "lemma": "நன்மை",
+     "lemma": "நல்",
      "gloss": "good"
     },
     {
@@ -14,20 +14,20 @@
      "gloss": "path"
     }
    ],
-   "gloss": "good path"
+   "gloss": "the good path"
   },
   {
    "surface": "எனப்படுவது",
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "to say (infinitive)"
+     "lemma": "என",
+     "gloss": "to say"
     },
     {
      "text": "படுவது",
-     "lemma": "படு",
-     "gloss": "that which is experienced"
+     "lemma": "படுதல்",
+     "gloss": "that which is subjected to"
     }
    ],
    "gloss": "that which is called"
@@ -47,17 +47,12 @@
    "surface": "எனின்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "எனின்",
+     "lemma": "எனின்",
+     "gloss": "if you ask"
     }
    ],
-   "gloss": "if asked"
+   "gloss": "if you ask"
   },
   {
    "surface": "யாது",
@@ -65,10 +60,10 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "what"
+     "gloss": "any"
     }
    ],
-   "gloss": "what"
+   "gloss": "any"
   },
   {
    "surface": "ஒன்றும்",
@@ -76,7 +71,7 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one thing"
     },
     {
      "text": "உம்",
@@ -84,7 +79,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even one"
+   "gloss": "even one thing"
   },
   {
    "surface": "கொல்லாமை",
@@ -97,7 +92,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "non- (negative verbal noun)"
+     "gloss": "not doing (negative suffix)"
     }
    ],
    "gloss": "non-killing"
@@ -106,17 +101,12 @@
    "surface": "சூழும்",
    "parts": [
     {
-     "text": "சூழ்",
-     "lemma": "சூழ்",
-     "gloss": "consider"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which (relative participle)"
+     "text": "சூழும்",
+     "lemma": "சூழ்தல்",
+     "gloss": "which embraces"
     }
    ],
-   "gloss": "considering"
+   "gloss": "which embraces"
   },
   {
    "surface": "நெறி",
@@ -124,16 +114,16 @@
     {
      "text": "நெறி",
      "lemma": "நெறி",
-     "gloss": "way"
+     "gloss": "path"
     }
    ],
-   "gloss": "way"
+   "gloss": "path"
   }
  ],
- "literal": "Good path that which is called what if asked, whatever even one non-killing considering way.",
- "translation": "If asked what is called the good path, it is the way that resolves to avoid killing any creature whatsoever.",
- "modern": "நல்ல வழி என்று சொல்லப்படுவது எது என்றால், எந்தவோர் உயிரையும் கொல்லாதிருப்பதை எண்ணிச் செயல்படும் நெறியாகும்.",
- "explanation": "This couplet defines the ultimate righteous path in life. The phrase 'நல்லாறு' (good path) refers to the ideal way of living. When asked what this path is, the text answers that it is the way ('நெறி') that actively considers ('சூழும்') not killing ('கொல்லாமை') any living being whatsoever ('யாதொன்றும்'). The word 'சூழும்' implies a deliberate, encompassing intention to protect life in all one's actions, rather than just a passive avoidance of harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The good path that which is called if you ask what, it is the path that embraces the non-killing of any single thing.",
+ "translation": "If you ask what is called the good path, it is the path that embraces the non-killing of any living thing whatsoever.",
+ "modern": "நல்ல வழி என்று சொல்லப்படுவது எதுவென்றால், எந்த ஒரு உயிரையும் கொல்லாத அறவழியைப் பின்பற்றுவதாகும்.",
+ "explanation": "This couplet defines the ultimate path of virtue by posing a direct question and answering it. The 'good path' (nallāṟu) is identified as the path of non-killing (kollāmai). The phrase 'yātonṟum' emphasizes that this applies to absolutely any living creature, without exception. The word 'sūḻum' suggests actively embracing, protecting, or constantly pursuing this principle, showing that true virtue lies in the conscious preservation of all life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,7 +6,7 @@
     {
      "text": "விழு",
      "lemma": "விழு",
-     "gloss": "excellent"
+     "gloss": "glorious"
     },
     {
      "text": "புண்",
@@ -14,23 +14,18 @@
      "gloss": "wound"
     }
    ],
-   "gloss": "glorious wound"
+   "gloss": "glorious wound received in battle"
   },
   {
    "surface": "படாத",
    "parts": [
     {
-     "text": "படு",
+     "text": "படாத",
      "lemma": "படு",
-     "gloss": "to receive"
-    },
-    {
-     "text": "ஆத",
-     "lemma": "ஆத",
-     "gloss": "not (negative relative suffix)"
+     "gloss": "not received"
     }
    ],
-   "gloss": "not received"
+   "gloss": "not sustained"
   },
   {
    "surface": "நாள்",
@@ -60,43 +55,28 @@
     {
      "text": "வழுக்கு",
      "lemma": "வழுக்கு",
-     "gloss": "slip/waste"
+     "gloss": "slip or wasted day"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic suffix"
+     "gloss": "oblique case marker"
     },
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "within"
     }
    ],
-   "gloss": "among the wasted"
+   "gloss": "among the wasted days"
   },
   {
    "surface": "வைக்கும்",
    "parts": [
     {
-     "text": "வை",
+     "text": "வைக்கும்",
      "lemma": "வை",
-     "gloss": "to place"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will (future suffix)"
+     "gloss": "will place"
     }
    ],
    "gloss": "will place"
@@ -107,7 +87,7 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "one's own"
+     "gloss": "his own"
     }
    ],
    "gloss": "his own"
@@ -123,42 +103,27 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "days (acc.)"
+   "gloss": "the days"
   },
   {
    "surface": "எடுத்து",
    "parts": [
     {
-     "text": "எடு",
+     "text": "எடுத்து",
      "lemma": "எடு",
-     "gloss": "to take"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "having (adverbial suffix)"
+     "gloss": "taking or counting"
     }
    ],
-   "gloss": "having taken stock"
+   "gloss": "taking and counting"
   }
  ],
- "literal": "Glorious-wound not-received days all, among-the-wasted he-will-place, his-own days having-taken.",
- "translation": "Taking stock of his past, a warrior will count all the days he did not receive a glorious wound as wasted.",
- "modern": "ஒரு வீரன் தன் வாழ்நாட்களைக் கணக்கிட்டுப் பார்த்து, அவற்றில் போர்க்களத்தில் விழுப்புண் படாத நாட்களை எல்லாம் வீணான நாட்கள் என்று கருதுவான்.",
- "explanation": "This couplet describes the mindset of a true warrior. The word 'விழுப்புண்' refers to a glorious wound, specifically one received bravely on the front of the body in battle. The hero reviews his past ('தன் நாளை எடுத்து') to evaluate his life's worth. He considers any day that passed without earning such a noble wound as a day that slipped away uselessly ('வழுக்கினுள் வைக்கும்'). It highlights that for a warrior, a life of passive safety is a wasted life, while physical sacrifice in battle is the true measure of a day well lived.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Glorious wound not-received days all, among wasted days, he will place, his own days taking and counting.",
+ "translation": "When a warrior counts the days of his life, he will reckon all those days on which he did not receive a glorious wound in battle as wasted days.",
+ "modern": "ஒரு வீரன் தன் வாழ்நாட்களைக் கணக்கிட்டுப் பார்க்கும் போது, தன் மார்பில் சிறந்த வீரப்புண் படாத நாட்களை எல்லாம் வீணான நாட்களின் பட்டியலில் சேர்ப்பான்.",
+ "explanation": "This couplet illustrates the extreme valor and pride of a warrior. A true hero measures the value of his life not by its length, but by the battles fought and the honorable wounds sustained. When he reviews his past, taking and counting his days, he considers any day without a glorious wound on his chest as a wasted day or a failure. The word 'vazhukku' refers to a slip or fault, here used to mean a day spent in vain without heroic action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

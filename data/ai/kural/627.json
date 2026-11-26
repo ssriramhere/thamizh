@@ -26,9 +26,14 @@
    "surface": "இடும்பைக்கு",
    "parts": [
     {
-     "text": "இடும்பைக்கு",
+     "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "to suffering"
+     "gloss": "suffering"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "dative suffix"
     }
    ],
    "gloss": "to suffering"
@@ -39,29 +44,35 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "knowing that"
+     "gloss": "saying or knowing thus"
     }
    ],
-   "gloss": "knowing that"
+   "gloss": "knowing thus"
   },
   {
    "surface": "கலக்கத்தை",
    "parts": [
     {
      "text": "கலக்கத்தை",
-     "lemma": "கலக்கம்",
-     "gloss": "trouble (accusative)"
+     "lemma": "கலக்கத்தை",
+     "gloss": "distress"
     }
    ],
-   "gloss": "trouble"
+   "gloss": "distress",
+   "split_unverified": true
   },
   {
    "surface": "கையாறா",
    "parts": [
     {
-     "text": "கையாறா",
+     "text": "கையாறு",
      "lemma": "கையாறு",
-     "gloss": "as helplessness"
+     "gloss": "helplessness"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆக",
+     "gloss": "as"
     }
    ],
    "gloss": "as helplessness"
@@ -70,12 +81,17 @@
    "surface": "கொள்ளாதாம்",
    "parts": [
     {
-     "text": "கொள்ளாதாம்",
-     "lemma": "கொள்",
-     "gloss": "will not consider indeed"
+     "text": "கொள்ளாது",
+     "lemma": "கொள்ளாது",
+     "gloss": "will not adopt"
+    },
+    {
+     "text": "ஆம்",
+     "lemma": "ஆம்",
+     "gloss": "indeed"
     }
    ],
-   "gloss": "will not consider indeed"
+   "gloss": "will indeed not adopt"
   },
   {
    "surface": "மேல்",
@@ -83,16 +99,16 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "the great"
+     "gloss": "noble ones"
     }
    ],
-   "gloss": "the great"
+   "gloss": "the noble ones"
   }
  ],
- "literal": "Target body to suffering knowing that, trouble as helplessness will not consider indeed the great.",
- "translation": "Knowing that the body is a natural target for suffering, great people will not consider trouble as a state of helplessness.",
- "modern": "உடம்பு துன்பத்திற்கு ஓர் இலக்கு என்பதை உணர்ந்து, சிறந்த மனிதர்கள் தமக்கு வரும் துன்பத்தைக் கண்டு கலங்கிச் செயலற்றுப் போக மாட்டார்கள்.",
- "explanation": "This couplet explains the mindset of great people when facing adversity. They understand that the physical body is naturally a target for pain and suffering. Because they accept this fundamental truth, they do not view sudden troubles as a source of helpless confusion. Instead, they remain steadfast and unfaltering in the face of hardship.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The target the body is for suffering, knowing this, distress as helplessness will indeed not adopt the noble.",
+ "translation": "Knowing that the body is but a target for suffering, the noble will not succumb to distress as if they are helpless.",
+ "modern": "உடம்பு துன்பத்திற்கு இலக்கு என்று உணர்ந்து, உயர்ந்த குணமுடையவர்கள் துன்பம் வரும்போது கலக்கத்தை ஒரு வழியாகக் கொள்ள மாட்டார்கள்.",
+ "explanation": "This couplet explains how wise and noble people handle adversity. The body is naturally prone to physical and mental suffering; it is the very target ('இலக்கம்') at which suffering ('இடும்பை') aims. Knowing this fundamental truth, noble minds ('மேல்') do not allow distress ('கலக்கம்') to paralyze them or treat it as a state of helplessness ('கையாறு'). Instead of being overwhelmed, they accept adversity as a natural part of existence and maintain their composure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

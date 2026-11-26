@@ -4,9 +4,14 @@
    "surface": "தெரிதலும்",
    "parts": [
     {
-     "text": "தெரிதல்",
-     "lemma": "தெரிதல்",
-     "gloss": "examining"
+     "text": "தெரி",
+     "lemma": "தெரி",
+     "gloss": "to discern or examine"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     },
     {
      "text": "உம்",
@@ -14,26 +19,31 @@
      "gloss": "and"
     }
    ],
-   "gloss": "examining and"
+   "gloss": "and discerning or examining options"
   },
   {
    "surface": "தேர்ந்து",
    "parts": [
     {
      "text": "தேர்ந்து",
-     "lemma": "தேர்தல்",
-     "gloss": "having deliberated"
+     "lemma": "தேர்",
+     "gloss": "having deliberated or chosen"
     }
    ],
-   "gloss": "having deliberated"
+   "gloss": "having deliberated and chosen"
   },
   {
    "surface": "செயலும்",
    "parts": [
     {
-     "text": "செயல்",
-     "lemma": "செயல்",
-     "gloss": "doing"
+     "text": "செய்",
+     "lemma": "செய்",
+     "gloss": "to do or execute"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     },
     {
      "text": "உம்",
@@ -41,7 +51,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "doing and"
+   "gloss": "and executing the action"
   },
   {
    "surface": "ஒருதலையா",
@@ -49,7 +59,7 @@
     {
      "text": "ஒருதலை",
      "lemma": "ஒருதலை",
-     "gloss": "certainty"
+     "gloss": "certainty or decisiveness"
     },
     {
      "text": "ஆ",
@@ -57,15 +67,20 @@
      "gloss": "adverbial suffix"
     }
    ],
-   "gloss": "decisively"
+   "gloss": "decisively or with absolute certainty"
   },
   {
    "surface": "சொல்லலும்",
    "parts": [
     {
-     "text": "சொல்லல்",
-     "lemma": "சொல்லல்",
-     "gloss": "saying"
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "to speak or declare"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     },
     {
      "text": "உம்",
@@ -73,18 +88,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "saying and"
+   "gloss": "and declaring or advising"
   },
   {
    "surface": "வல்லது",
    "parts": [
     {
      "text": "வல்லது",
-     "lemma": "வன்மை",
-     "gloss": "that which is capable"
+     "lemma": "வல்லது",
+     "gloss": "that which is capable of"
     }
    ],
-   "gloss": "that which is capable"
+   "gloss": "one who is capable of"
   },
   {
    "surface": "அமைச்சு",
@@ -92,16 +107,16 @@
     {
      "text": "அமைச்சு",
      "lemma": "அமைச்சு",
-     "gloss": "ministry"
+     "gloss": "minister or ministry"
     }
    ],
-   "gloss": "ministry"
+   "gloss": "the minister"
   }
  ],
- "literal": "Examining and, having deliberated doing and, decisively saying and, that which is capable (is) ministry.",
- "translation": "The ministry is that which is capable of examining a matter, deliberating before acting, and advising decisively.",
- "modern": "ஒரு செயலை நன்கு ஆராய்தலும், ஆராய்ந்த பின் அதனைச் செய்தலும், உறுதியாக ஆலோசனை கூறுதலும் ஆகிய திறன்களை உடையதே அமைச்சாகும்.",
- "explanation": "This couplet defines the core capabilities required of a minister. The word 'terital' refers to examining a situation thoroughly, while 'tērntu ceyal' means executing a task after careful deliberation. The phrase 'orutalaiyā collal' emphasizes the ability to give firm, decisive advice without ambiguity, choosing 'orutalai' in its sense of certainty rather than partiality. Together, these three qualities of analysis, deliberate action, and decisive counsel constitute true ministerial competence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And discerning, having chosen, and executing, and decisively declaring, that which is capable of [these] is the minister.",
+ "translation": "A minister is one who is capable of discerning options, choosing the best course to execute, and declaring it with absolute certainty.",
+ "modern": "ஒரு செயலை ஆராய்ந்து அறிதலும், அவ்வாறு ஆராய்ந்த பின் சிறந்ததை முடிவு செய்து செய்தலும், அதனைத் துணிவாக எடுத்துச் சொல்லுதலும் வல்லவரே அமைச்சர் ஆவார்.",
+ "explanation": "This couplet outlines the three essential duties of an ideal minister. First, they must thoroughly analyze and understand a situation or problem (தெரிதல்). Second, after careful deliberation, they must choose the right course of action and execute it successfully (தேர்ந்து செயல்). Finally, they must possess the communication skills to present and defend their decisions with absolute clarity and conviction (ஒருதலையாச் சொல்லல்). Anyone who is capable of performing these three tasks effectively is fit to be a minister.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,12 +9,12 @@
      "gloss": "disgrace"
     },
     {
-     "text": "தக்க",
-     "lemma": "தகு",
-     "gloss": "fit to"
+     "text": "த்தக்க",
+     "lemma": "தக்க",
+     "gloss": "fitting"
     }
    ],
-   "gloss": "causing disgrace"
+   "gloss": "disgraceful"
   },
   {
    "surface": "இன்னா",
@@ -22,10 +22,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "unpleasant things"
+     "gloss": "painful things"
     }
    ],
-   "gloss": "unpleasant things"
+   "gloss": "painful things"
   },
   {
    "surface": "செயினும்",
@@ -37,27 +37,27 @@
     },
     {
      "text": "இனும்",
-     "lemma": "இனும்",
+     "lemma": "உம்",
      "gloss": "even if"
     }
    ],
-   "gloss": "even if does"
+   "gloss": "even if you do"
   },
   {
    "surface": "களித்தார்க்கு",
    "parts": [
     {
      "text": "களித்தார்",
-     "lemma": "களி",
+     "lemma": "களித்தார்",
      "gloss": "those who are intoxicated"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the intoxicated"
+   "gloss": "to those who are intoxicated"
   },
   {
    "surface": "கள்",
@@ -65,10 +65,10 @@
     {
      "text": "கள்",
      "lemma": "கள்",
-     "gloss": "toddy"
+     "gloss": "liquor"
     }
    ],
-   "gloss": "toddy"
+   "gloss": "liquor"
   },
   {
    "surface": "அற்றே",
@@ -76,7 +76,7 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஏ",
@@ -84,7 +84,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "like indeed"
+   "gloss": "is just like"
   },
   {
    "surface": "கள்வ",
@@ -92,10 +92,10 @@
     {
      "text": "கள்வ",
      "lemma": "கள்வன்",
-     "gloss": "O thief"
+     "gloss": "O deceiver"
     }
    ],
-   "gloss": "O thief"
+   "gloss": "O deceiver"
   },
   {
    "surface": "நின்",
@@ -120,10 +120,10 @@
    "gloss": "chest"
   }
  ],
- "literal": "Disgrace-causing unpleasant things even if does, to the intoxicated toddy-like indeed, O thief, your chest.",
- "translation": "O thief! Your chest is exactly like toddy to those addicted to it: they desire it even if it causes them disgraceful sorrow.",
- "modern": "கள்வா! இழிவான துன்பங்களைச் செய்தாலும், குடித்தவர்களுக்குக் கள் எப்படி விருப்பமானதாக இருக்குமோ, அதுபோலவே உன் மார்பு எனக்கு இருக்கிறது.",
- "explanation": "The speaker addresses her lover as a 'thief' (கள்வ) because he has stolen her heart and caused her distress by his absence. She compares his chest to toddy (கள்). Toddy brings public disgrace and misery (இளித்தக்க இன்னா) to those who consume it, yet those who are intoxicated by it (களித்தார்க்கு) cannot stay away. In the exact same way, even though her lover's actions have caused her shameful suffering, she remains intoxicated by his love and eagerly desires his embrace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if you do disgraceful and painful things, to those who are intoxicated, like liquor indeed is, O deceiver, your chest.",
+ "translation": "O deceiver! Even if you do disgraceful and painful things to me, your chest is like liquor to those who are already intoxicated by it.",
+ "modern": "கள்வனே! நீ அவமானப்படத்தக்க துன்பங்களைச் செய்தாலும், உன்னால் மயங்கியவர்களுக்கு உன்னுடைய மார்பு மதுவைப் போன்றதே ஆகும்.",
+ "explanation": "In this couplet, the heroine addresses her lover as a deceiver or rogue (கள்வ) because of his hurtful behavior. She explains that even when he causes her shameful distress (இளித்தக்க இன்னா செயினும்), she cannot stay away from him. His chest or embrace (மார்பு) acts like liquor (கள்) to an addict (களித்தார்க்கு). Just as a drunkard craves more alcohol despite the harm it causes, she yearns for his embrace despite the pain he inflicts.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

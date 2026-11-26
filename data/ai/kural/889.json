@@ -11,10 +11,10 @@
     {
      "text": "பகவு",
      "lemma": "பகவு",
-     "gloss": "split"
+     "gloss": "split or fraction"
     }
    ],
-   "gloss": "split of a sesame seed"
+   "gloss": "a split fraction of a sesame seed"
   },
   {
    "surface": "அன்ன",
@@ -22,7 +22,7 @@
     {
      "text": "அன்ன",
      "lemma": "அன்ன",
-     "gloss": "like"
+     "gloss": "like or resembling"
     }
    ],
    "gloss": "like"
@@ -33,15 +33,15 @@
     {
      "text": "சிறுமைத்து",
      "lemma": "சிறுமைத்து",
-     "gloss": "it has smallness"
+     "gloss": "of small measure"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "it has smallness indeed"
+   "gloss": "is indeed of very small measure"
   },
   {
    "surface": "ஆயினும்",
@@ -49,10 +49,10 @@
     {
      "text": "ஆயினும்",
      "lemma": "ஆயினும்",
-     "gloss": "even if"
+     "gloss": "even though"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "உட்பகை",
@@ -60,7 +60,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inner"
+     "gloss": "internal"
     },
     {
      "text": "பகை",
@@ -74,17 +74,12 @@
    "surface": "உள்ளது",
    "parts": [
     {
-     "text": "உள்",
+     "text": "உள்ளது",
      "lemma": "உள்",
-     "gloss": "inside"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "gloss": "exists"
     }
    ],
-   "gloss": "it contains"
+   "gloss": "if it exists"
   },
   {
    "surface": "ஆம்",
@@ -92,10 +87,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "will be"
+     "gloss": "will happen"
     }
    ],
-   "gloss": "is"
+   "gloss": "will happen"
   },
   {
    "surface": "கேடு",
@@ -109,10 +104,10 @@
    "gloss": "ruin"
   }
  ],
- "literal": "Sesame-split like smallness it has indeed even if, internal enmity contains is ruin.",
- "translation": "Even if it is as tiny as the split of a sesame seed, internal enmity carries ruin within it.",
- "modern": "எள்ளின் பிளவைப் போல மிகச் சிறிய அளவினதாக இருந்தாலும், உட்பகையானது தனக்குள்ளேயே அழிவைக் கொண்டிருக்கும்.",
- "explanation": "This couplet illustrates the hidden danger of internal enmity by comparing it to the split of a sesame seed. A sesame seed is already tiny, and a split of it represents an almost imperceptible measure. The poet warns that even if discord within a group seems this insignificant, it inherently contains the seeds of total ruin. The word ullatu emphasizes that destruction is not an external threat but is carried within the enmity itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a split fraction of a sesame seed, even though it is of such small measure, if internal enmity exists, ruin will happen.",
+ "translation": "Even if it is as minuscule as a split sesame seed, if internal enmity exists within, ruin is certain to follow.",
+ "modern": "எள்ளின் பிளவைப் போன்ற மிகச் சிறிய அளவு உடையதாக இருந்தாலும், ஒருவரிடம் உட்பகை இருக்குமானால் அழிவு நிச்சயம் உண்டாகும்.",
+ "explanation": "This couplet warns of the devastating power of internal discord. The poet uses the metaphor of a split sesame seed ('எட்பகவு') to represent the smallest possible unit of division. Even if the internal enmity is as tiny and seemingly insignificant as this fraction, its mere presence ('உள்ளது') guarantees complete ruin ('கேடு'). The lesson is that internal division, no matter how small, must never be tolerated as it inevitably leads to destruction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

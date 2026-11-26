@@ -4,9 +4,14 @@
    "surface": "மனத்தான்",
    "parts": [
     {
-     "text": "மனத்தான்",
+     "text": "மனத்து",
      "lemma": "மனம்",
-     "gloss": "by the mind"
+     "gloss": "mind"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "by"
     }
    ],
    "gloss": "by the mind"
@@ -16,19 +21,24 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becomes"
+     "lemma": "ஆகு",
+     "gloss": "arises"
     }
    ],
-   "gloss": "becomes"
+   "gloss": "arises"
   },
   {
    "surface": "மாந்தர்க்கு",
    "parts": [
     {
-     "text": "மாந்தர்க்கு",
+     "text": "மாந்தர்",
      "lemma": "மாந்தர்",
-     "gloss": "to people"
+     "gloss": "people"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to people"
@@ -48,23 +58,28 @@
    "surface": "இனத்தான்",
    "parts": [
     {
-     "text": "இனத்தான்",
+     "text": "இனத்து",
      "lemma": "இனம்",
-     "gloss": "by the company"
+     "gloss": "association"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "by"
     }
    ],
-   "gloss": "by the company"
+   "gloss": "by the association"
   },
   {
    "surface": "ஆம்",
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becomes"
+     "lemma": "ஆகு",
+     "gloss": "arises"
     }
    ],
-   "gloss": "becomes"
+   "gloss": "arises"
   },
   {
    "surface": "இன்னான்",
@@ -72,10 +87,10 @@
     {
      "text": "இன்னான்",
      "lemma": "இன்னான்",
-     "gloss": "such a man"
+     "gloss": "such a person"
     }
    ],
-   "gloss": "such a man"
+   "gloss": "such a person"
   },
   {
    "surface": "எனப்படும்",
@@ -83,10 +98,10 @@
     {
      "text": "எனப்படும்",
      "lemma": "எனப்படு",
-     "gloss": "thus called"
+     "gloss": "is called"
     }
    ],
-   "gloss": "thus called"
+   "gloss": "is called"
   },
   {
    "surface": "சொல்",
@@ -94,16 +109,16 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "reputation"
     }
    ],
-   "gloss": "word"
+   "gloss": "reputation"
   }
  ],
- "literal": "By the mind becomes to people understanding; by the company becomes 'such a man' thus-called word.",
- "translation": "People's natural understanding comes from their own minds, but their reputation as 'such and such a person' comes from the company they keep.",
- "modern": "மனிதர்களுக்கு இயற்கையான அறிவு அவர்களின் மனத்தால் உண்டாகும். ஆனால், இவர் இத்தகையவர் என்று உலகத்தாரால் சொல்லப்படும் சொல் அவர்கள் சேர்ந்திருக்கும் கூட்டத்தால் உண்டாகும்.",
- "explanation": "This couplet draws a clear distinction between a person's innate intellect and their social identity. The word 'உணர்ச்சி' refers to the natural understanding or consciousness that arises from one's own mind ('மனத்தான்'). However, the reputation or public judgment that defines a person as being of a certain character ('இன்னான் எனப்படும் சொல்') is entirely shaped by the company they keep ('இனத்தான்'). This emphasizes that while intelligence is personal, character and reputation are judged by one's associations.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By the mind arises to people understanding; by the association arises 'such a person' is called reputation.",
+ "translation": "A person's internal understanding arises from their own mind, but the reputation that defines them as 'such a person' arises from the company they keep.",
+ "modern": "மனிதர்களுக்கு அறிவு மனத்தினால் உண்டாகும்; ஆனால், 'இவர் இப்படிப்பட்டவர்' என்று சொல்லப்படும் சொல் அவர் சேரும் கூட்டத்தினால் உண்டாகும்.",
+ "explanation": "This couplet contrasts internal character with external reputation. A person's innate wisdom and understanding (unartci) are born of their own mind (manan). However, the world's judgment of them—the reputation (col) that declares them to be 'such a person' (innan)—is determined entirely by the company (inam) they keep. Thus, even a wise person will be judged poorly if they associate with low-minded people.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

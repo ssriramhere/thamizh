@@ -6,33 +6,23 @@
     {
      "text": "பரி",
      "lemma": "பரி",
-     "gloss": "to guard"
+     "gloss": "protect"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "euphonic suffix"
-    },
-    {
-     "text": "உம்",
+     "text": "இனும்",
      "lemma": "உம்",
      "gloss": "even if"
     }
    ],
-   "gloss": "even if guarded"
+   "gloss": "even if protected"
   },
   {
    "surface": "ஆகாவாம்",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகா",
      "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "will not become"
     },
     {
      "text": "ஆம்",
@@ -40,7 +30,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "they will not become (one's own)"
+   "gloss": "they will not become one's own"
   },
   {
    "surface": "பால்",
@@ -48,52 +38,32 @@
     {
      "text": "பால்",
      "lemma": "பால்",
-     "gloss": "portion/destiny"
+     "gloss": "destiny"
     }
    ],
-   "gloss": "portion"
+   "gloss": "destiny"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "plural neuter suffix"
+     "gloss": "those which are not"
     }
    ],
-   "gloss": "things that are not"
+   "gloss": "those which are not"
   },
   {
    "surface": "உய்த்து",
    "parts": [
     {
-     "text": "உய்",
+     "text": "உய்த்து",
      "lemma": "உய்",
-     "gloss": "to send/cast"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "participle suffix"
+     "gloss": "having carried"
     }
    ],
-   "gloss": "having cast out"
+   "gloss": "having carried"
   },
   {
    "surface": "சொரியினும்",
@@ -101,58 +71,43 @@
     {
      "text": "சொரி",
      "lemma": "சொரி",
-     "gloss": "to pour"
+     "gloss": "pour out"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "euphonic suffix"
-    },
-    {
-     "text": "உம்",
+     "text": "இனும்",
      "lemma": "உம்",
      "gloss": "even if"
     }
    ],
-   "gloss": "even if poured away"
+   "gloss": "even if poured out"
   },
   {
    "surface": "போகா",
    "parts": [
     {
-     "text": "போகு",
-     "lemma": "போகு",
-     "gloss": "to go"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "போகா",
+     "lemma": "போ",
+     "gloss": "will not go away"
     }
    ],
-   "gloss": "they will not go"
+   "gloss": "will not go away"
   },
   {
    "surface": "தம",
    "parts": [
     {
-     "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "plural neuter suffix"
+     "text": "தம",
+     "lemma": "தமது",
+     "gloss": "those which are one's own"
     }
    ],
-   "gloss": "one's own things"
+   "gloss": "those which are one's own"
   }
  ],
- "literal": "Even if guarded, they will not become (one's own), things that are not (one's) portion; having driven out and even if poured away, they will not go, one's own things.",
- "translation": "Things not destined for you will not stay, no matter how carefully you guard them. Your own destined things will not leave, even if you cast them away.",
- "modern": "நமக்கு விதியாக விதிக்கப்படாத பொருள்கள், நாம் எவ்வளவுதான் பாதுகாத்தாலும் நம்மிடம் தங்காது. நமக்கு உரிய பொருள்கள், நாமே வெளியே கொண்டுபோய் வீசினாலும் நம்மை விட்டுப் போகாது.",
- "explanation": "This couplet illustrates the inescapable nature of destiny regarding wealth and possessions. The word 'பால்' refers to the portion or lot assigned to a person by fate. If something is not meant to be yours, no amount of guarding ('பரியினும்') will make it stay. Conversely, what is truly yours ('தம') cannot be lost, even if you deliberately throw it away ('உய்த்துச் சொரியினும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if protected, they will not become [one's own], those which are not [one's] destiny; having carried and poured out, they will not go away, those which are one's own.",
+ "translation": "Even if one guards them with care, things that are not destined to be one's own will not remain; even if one carries them away and throws them out, things that are destined to be one's own will not leave.",
+ "modern": "விதிப்படி நமக்கு உரியவை அல்லாத பொருள்களை நாம் போற்றிப் பாதுகாத்தாலும் அவை நம்மிடம் தங்க மாட்டா; நமக்கு உரிய பொருள்களை நாம் கொண்டுபோய்க் கொட்டினாலும் அவை நம்மை விட்டுப் போகாது.",
+ "explanation": "This couplet illustrates the absolute power of destiny over material possessions. The author explains that what is not destined to be ours cannot be retained, no matter how much effort we put into guarding and protecting it. Conversely, what is destined to be ours cannot be lost; even if we actively try to discard or throw it away, it will find its way back to us and will not leave. Through these contrasting actions of guarding and discarding, the couplet emphasizes that human effort is ultimately subordinate to the laws of destiny.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

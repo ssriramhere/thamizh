@@ -11,26 +11,26 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "through"
+     "gloss": "through/by"
     }
    ],
-   "gloss": "through virtue"
+   "gloss": "by virtue"
   },
   {
    "surface": "வருவதே",
    "parts": [
     {
      "text": "வருவது",
-     "lemma": "வா",
+     "lemma": "வருவது",
      "gloss": "that which comes"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed/only"
     }
    ],
-   "gloss": "that which comes indeed"
+   "gloss": "only that which comes"
   },
   {
    "surface": "இன்பம்",
@@ -38,10 +38,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "happiness"
     }
    ],
-   "gloss": "joy"
+   "gloss": "happiness"
   },
   {
    "surface": "மற்று",
@@ -52,7 +52,7 @@
      "gloss": "other"
     }
    ],
-   "gloss": "other"
+   "gloss": "other than that"
   },
   {
    "surface": "எல்லாம்",
@@ -63,7 +63,7 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all"
+   "gloss": "all things"
   },
   {
    "surface": "புறத்த",
@@ -76,10 +76,10 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "they are"
+     "gloss": "are those of"
     }
    ],
-   "gloss": "are on the outside"
+   "gloss": "are external things"
   },
   {
    "surface": "புகழும்",
@@ -92,32 +92,27 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "also/even"
     }
    ],
-   "gloss": "and fame"
+   "gloss": "even fame"
   },
   {
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "they are"
+     "text": "இல",
+     "lemma": "இல",
+     "gloss": "do not have"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "do not have"
   }
  ],
- "literal": "Through virtue that which comes indeed (is) joy; other all are on the outside, and fame they are without.",
- "translation": "Only that which comes through virtue is true joy. All else is extraneous and devoid of fame.",
- "modern": "அறவழியில் வருவதே உண்மையான இன்பமாகும். மற்றவை எல்லாம் இன்பத்திற்குப் புறம்பானவை; அவற்றுக்குப் புகழும் இல்லை.",
- "explanation": "This couplet defines true happiness by stating that only the joy arising from virtuous conduct is genuine. The emphatic particle 'ஏ' in 'வருவதே' stresses that absolutely nothing else qualifies as true joy. Everything else ('மற்று எல்லாம்') falls outside this definition ('புறத்த') and brings neither real happiness nor lasting fame ('புகழும் இல').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By virtue that which comes indeed is happiness; other all are external, fame also do not have.",
+ "translation": "Only that pleasure which flows from a life of virtue is true happiness; all other pleasures are external to it and yield no lasting praise.",
+ "modern": "அறவழியில் வருவதே உண்மையான இன்பம் ஆகும்; மற்ற வழிகளில் வருவன எல்லாம் இன்பத்திற்குப் புறம்பானவை, அவை புகழையும் தராது.",
+ "explanation": "This couplet defines the true source of happiness as virtue. It asserts that only the joy arising from righteous living is genuine and wholesome. Any other form of pleasure obtained through unrighteous means is described as external, meaning it is superficial, fleeting, and disconnected from the soul. Furthermore, such pleasures do not bring any true or lasting glory to a person.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

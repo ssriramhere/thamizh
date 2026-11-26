@@ -6,10 +6,10 @@
     {
      "text": "குலம்",
      "lemma": "குலம்",
-     "gloss": "lineage"
+     "gloss": "family lineage"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "family lineage"
   },
   {
    "surface": "சுடும்",
@@ -28,26 +28,21 @@
     {
      "text": "கொள்கை",
      "lemma": "கொள்கை",
-     "gloss": "principle"
+     "gloss": "conduct"
     }
    ],
-   "gloss": "principle"
+   "gloss": "conduct"
   },
   {
    "surface": "பிழைப்பின்",
    "parts": [
     {
-     "text": "பிழைப்பு",
-     "lemma": "பிழைப்பு",
-     "gloss": "failing"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "பிழைப்பின்",
+     "lemma": "பிழைத்தல்",
+     "gloss": "if one fails in"
     }
    ],
-   "gloss": "if failed"
+   "gloss": "if one fails in"
   },
   {
    "surface": "நலம்",
@@ -77,7 +72,7 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "modesty"
+     "gloss": "shame"
     },
     {
      "text": "இன்மை",
@@ -96,7 +91,7 @@
      "gloss": "stood"
     }
    ],
-   "gloss": "stood"
+   "gloss": "abided"
   },
   {
    "surface": "கடை",
@@ -104,16 +99,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "state"
+     "gloss": "condition"
     }
    ],
-   "gloss": "state"
+   "gloss": "condition"
   }
  ],
- "literal": "Lineage it will burn, principle if failed; goodness it will burn, shamelessness stood state.",
- "translation": "Failing in one's principles will destroy one's lineage. But shamelessness, if it takes root, will destroy every goodness one possesses.",
- "modern": "ஒருவன் தன் கொள்கையிலிருந்து தவறினால் அது அவனது குலத்தின் பெருமையை அழிக்கும். ஆனால் அவனிடம் நாணமற்ற தன்மை நிலைத்து நின்றால், அது அவனது நற்பண்புகள் அனைத்தையும் அழித்துவிடும்.",
- "explanation": "This couplet contrasts the damage caused by a lapse in principles with the devastation caused by a lack of modesty. If a person fails to uphold their ideals, it brings ruin to their family's reputation. However, if shamelessness takes permanent hold of a person, it burns away every other virtue and goodness they might have. The word 'nāṇ' here specifically means a noble sense of shame or modesty, fitting the chapter's theme. The repetition of the word 'cuṭum' (will burn) emphasizes the destructive power of both flaws, showing that shamelessness is the ultimate destroyer of personal character.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Family lineage will burn if conduct is slipped; goodness will burn if shamelessness abides.",
+ "translation": "A slip in right conduct will destroy one's lineage; but if shamelessness takes root, it will destroy every good quality one possesses.",
+ "modern": "ஒருவர் தன் ஒழுக்கத்திலிருந்து தவறினால் அது அவருடைய குலத்தை அழிக்கும்; ஆனால் அவரிடம் வெட்கமின்மை நிலைத்து நின்றால், அது அவருடைய எல்லா நன்மைகளையும் அழித்துவிடும்.",
+ "explanation": "This couplet contrasts the consequences of failing in one's conduct with the far more devastating consequences of losing one's sense of shame. If a person slips from their principles of conduct, that failure destroys the reputation of their lineage. However, if shamelessness becomes a permanent state in them, it burns away and destroys all their inherent goodness and virtues. The poet uses the metaphor of burning to show how both failures act like a destructive fire, but shamelessness is the ultimate destroyer of a person's entire character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

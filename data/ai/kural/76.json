@@ -11,7 +11,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "only"
+     "gloss": "only (emphatic)"
     }
    ],
    "gloss": "only to virtue"
@@ -42,14 +42,9 @@
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they say"
     }
    ],
    "gloss": "they say"
@@ -58,17 +53,12 @@
    "surface": "அறியார்",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறியார்",
      "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (who do not)"
+     "gloss": "those who do not know"
     }
    ],
-   "gloss": "the ignorant"
+   "gloss": "those who do not know"
   },
   {
    "surface": "மறத்திற்கும்",
@@ -76,15 +66,15 @@
     {
      "text": "மறத்திற்கு",
      "lemma": "மறம்",
-     "gloss": "to valor"
+     "gloss": "to valor/hostility"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "also"
+     "gloss": "even/also"
     }
    ],
-   "gloss": "even to valor"
+   "gloss": "even to valor/hostility"
   },
   {
    "surface": "அஃதே",
@@ -97,7 +87,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "itself"
+     "gloss": "indeed (emphatic)"
     }
    ],
    "gloss": "that itself"
@@ -108,16 +98,16 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "help"
+     "gloss": "support/help"
     }
    ],
-   "gloss": "help"
+   "gloss": "support"
   }
  ],
- "literal": "Only to virtue love is a support, say the ignorant; to valor also that itself is help.",
- "translation": "The ignorant say that love is an ally only to virtue; it is also a help to valor.",
- "modern": "அன்பு அறத்திற்கு மட்டுமே துணையாகும் என்று அறியாதவர்கள் கூறுவார்கள்; வீரத்திற்கும் அந்த அன்பே துணையாகும்.",
- "explanation": "This couplet addresses a common misconception that love is only useful for gentle, righteous deeds. The poet states that those who say this are ignorant, as love is equally the driving force behind valor and bravery. The word 'maṟam' here means valor or fierce courage, which often stems from the love and desire to protect one's family or country. Thus, love is the foundational support for both peaceful virtue and fierce bravery.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Only to virtue love is a support, they say, those who do not know; even to valor, that itself is the support.",
+ "translation": "The ignorant say that love is a support only for virtue; but indeed, it is also the driving support for valor and overcoming hostility.",
+ "modern": "அன்பு அறத்திற்கு மட்டுமே சார்பு என்று அறிவில்லாதவர்கள் கூறுவார்கள்; வீரத்திற்கும் தீமையை எதிர்ப்பதற்கும் கூட அதுவே துணையாக இருக்கிறது.",
+ "explanation": "This couplet corrects a common misconception about the scope of love. Ignorant people believe that love is only useful for gentle, virtuous deeds. However, love is also the driving force behind valor or hostility, as one fights fiercely or opposes evil out of deep love for their family, country, or ideals. Thus, love serves as the ultimate foundation for both peaceful virtue and courageous action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,17 +11,17 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "with"
+     "gloss": "by"
     }
    ],
-   "gloss": "with the mind"
+   "gloss": "by the mind"
   },
   {
    "surface": "உள்ளலும்",
    "parts": [
     {
      "text": "உள்ளல்",
-     "lemma": "உள்ளல்",
+     "lemma": "உள்ளுதல்",
      "gloss": "thinking"
     },
     {
@@ -46,7 +46,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "is evil indeed"
+   "gloss": "is indeed evil"
   },
   {
    "surface": "பிறன்",
@@ -54,7 +54,7 @@
     {
      "text": "பிறன்",
      "lemma": "பிறன்",
-     "gloss": "another man"
+     "gloss": "another person"
     }
    ],
    "gloss": "another's"
@@ -70,10 +70,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[accusative]"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "property"
+   "gloss": "the property"
   },
   {
    "surface": "கள்ளத்தால்",
@@ -95,9 +95,19 @@
    "surface": "கள்வேம்",
    "parts": [
     {
-     "text": "கள்வேம்",
+     "text": "கள்",
      "lemma": "கள்",
-     "gloss": "we will steal"
+     "gloss": "steal"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஏம்",
+     "lemma": "ஏம்",
+     "gloss": "we"
     }
    ],
    "gloss": "we will steal"
@@ -107,17 +117,17 @@
    "parts": [
     {
      "text": "எனல்",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "எனல்",
+     "gloss": "thinking or saying"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking"
   }
  ],
- "literal": "With the mind even thinking is evil indeed, another's property by deceit we will steal saying.",
- "translation": "Even the mere thought of stealing another's property by deceit is an evil act.",
- "modern": "மற்றொருவனுடைய பொருளை வஞ்சனையால் திருடுவோம் என்று மனத்தால் நினைப்பது கூடத் தீமையானதாகும்.",
- "explanation": "This couplet emphasizes that the intention to commit a wrong is as bad as the act itself. The word 'உள்ளலும்' (even thinking) combined with 'உள்ளத்தால்' (with the mind) stresses that mental purity is essential. To say to oneself 'கள்வேம்' (we will steal) regarding another's property through deceit is declared to be 'தீதே' (evil indeed). Thus, true non-stealing begins in the mind, not just in physical actions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even thinking by the mind is indeed evil, thinking 'we will steal another's property by deceit'.",
+ "translation": "Even to think in one's mind, 'We will steal another's property by deceit,' is evil.",
+ "modern": "பிறருடைய பொருளை வஞ்சனையால் திருடுவோம் என்று மனதால் நினைப்பது கூடத் தீமையானதே ஆகும்.",
+ "explanation": "This couplet emphasizes that the virtue of non-stealing begins in the mind. The author states that even the mere thought of taking another person's property through deceitful means is itself a sinful act. The word 'uḷḷattāl' refers to the mind, and 'uḷḷalum' means even thinking, highlighting that mental intent is as significant as the physical act of theft. True virtue requires keeping one's thoughts entirely free from dishonest desires.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

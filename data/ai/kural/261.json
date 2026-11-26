@@ -6,10 +6,10 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "that came upon"
+     "gloss": "that which happened"
     }
    ],
-   "gloss": "experienced"
+   "gloss": "that has come (upon oneself)"
   },
   {
    "surface": "நோய்",
@@ -17,7 +17,7 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "pain / suffering"
     }
    ],
    "gloss": "pain"
@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "நோன்றல்",
-     "lemma": "நோல்",
+     "lemma": "நோன்றல்",
      "gloss": "enduring"
     }
    ],
@@ -47,7 +47,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to living beings"
+   "gloss": "to other living beings"
   },
   {
    "surface": "உறுகண்",
@@ -55,7 +55,7 @@
     {
      "text": "உறுகண்",
      "lemma": "உறுகண்",
-     "gloss": "harm"
+     "gloss": "harm / distress"
     }
    ],
    "gloss": "harm"
@@ -64,13 +64,8 @@
    "surface": "செய்யாமை",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
+     "text": "செய்யாமை",
+     "lemma": "செய்யாமை",
      "gloss": "not doing"
     }
    ],
@@ -82,26 +77,27 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "that nature"
+     "gloss": "of that nature"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "just that nature"
+   "gloss": "is indeed of that nature"
   },
   {
    "surface": "தவத்திற்கு",
    "parts": [
     {
      "text": "தவத்திற்கு",
-     "lemma": "தவம்",
-     "gloss": "to penance"
+     "lemma": "தவத்திற்கு",
+     "gloss": "for penance"
     }
    ],
-   "gloss": "to penance"
+   "gloss": "for penance",
+   "split_unverified": true
   },
   {
    "surface": "உரு",
@@ -109,16 +105,16 @@
     {
      "text": "உரு",
      "lemma": "உரு",
-     "gloss": "form"
+     "gloss": "form / essence"
     }
    ],
-   "gloss": "form"
+   "gloss": "the true form"
   }
  ],
- "literal": "Experienced pain enduring, to living beings harm not doing, that nature indeed to penance form.",
- "translation": "Enduring the pain that comes upon oneself and doing no harm to other living beings is the true form of penance.",
- "modern": "தமக்கு வரும் துன்பங்களைப் பொறுத்துக்கொள்வதும், மற்ற உயிர்களுக்குத் துன்பம் செய்யாமல் இருப்பதும் ஆகிய அதுவே தவத்தின் வடிவமாகும்.",
- "explanation": "This couplet defines the core nature of penance. It consists of two main actions: enduring the suffering that naturally comes to oneself, and refraining from causing harm to any other living being. The word 'uru' means form or shape, indicating that these two qualities together constitute the very embodiment of ascetic practice. True penance is thus shown as both internal endurance and external non-violence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Enduring the pain that comes upon oneself, and not doing harm to other lives, is indeed of that nature which is the true form of penance.",
+ "translation": "To endure the suffering that comes upon oneself and to refrain from causing harm to any living being—this is the true form of penance.",
+ "modern": "தனக்கு வரும் துன்பங்களைப் பொறுத்துக் கொள்வதும், பிற உயிர்களுக்குத் துன்பம் செய்யாமல் இருப்பதுமே தவத்தின் உண்மையான வடிவமாகும்.",
+ "explanation": "This couplet defines the true nature and form of penance (தவம்). It consists of two essential aspects: first, 'நோன்றல்' (enduring) the 'உற்றநோய்' (pain or hardships that come upon oneself), and second, 'செய்யாமை' (not doing) 'உறுகண்' (harm or distress) to any 'உயிர்க்கு' (living being). The word 'உரு' here means the true form or essence, indicating that penance is not merely an external ritual but an internal discipline of patience and non-violence. Together, these two practices constitute the complete definition of ascetic virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

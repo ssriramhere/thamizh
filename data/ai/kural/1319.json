@@ -6,23 +6,28 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "oneself"
+     "gloss": "self"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "ACC"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "herself"
+   "gloss": "himself"
   },
   {
    "surface": "உணர்த்தினும்",
    "parts": [
     {
-     "text": "உணர்த்தின்",
+     "text": "உணர்த்து",
      "lemma": "உணர்த்து",
-     "gloss": "if pacified"
+     "gloss": "to appease"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional marker"
     },
     {
      "text": "உம்",
@@ -30,26 +35,36 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if pacified"
+   "gloss": "even if he tries to appease"
   },
   {
    "surface": "காயும்",
    "parts": [
     {
-     "text": "காயும்",
-     "lemma": "காய்",
-     "gloss": "will be angry"
+     "text": "காய்",
+     "lemma": "காய்தல்",
+     "gloss": "to grow angry"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual aspect marker"
     }
    ],
-   "gloss": "she gets angry"
+   "gloss": "she will grow angry"
   },
   {
    "surface": "பிறர்க்கும்",
    "parts": [
     {
-     "text": "பிறர்க்கு",
+     "text": "பிறர்",
      "lemma": "பிறர்",
-     "gloss": "to others"
+     "gloss": "others"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "dative case marker"
     },
     {
      "text": "உம்",
@@ -57,7 +72,7 @@
      "gloss": "also"
     }
    ],
-   "gloss": "to others also"
+   "gloss": "to other women also"
   },
   {
    "surface": "நீர்",
@@ -76,38 +91,44 @@
     {
      "text": "இந்நீரர்",
      "lemma": "இந்நீரர்",
-     "gloss": "of this nature"
+     "gloss": "one of this nature"
     }
    ],
-   "gloss": "of this nature"
+   "gloss": "one of this nature",
+   "split_unverified": true
   },
   {
    "surface": "ஆகுதிர்",
    "parts": [
     {
-     "text": "ஆகுதிர்",
+     "text": "ஆகு",
      "lemma": "ஆகு",
-     "gloss": "you become"
+     "gloss": "to become"
+    },
+    {
+     "text": "திர்",
+     "lemma": "திர்",
+     "gloss": "second-person plural suffix"
     }
    ],
-   "gloss": "you become"
+   "gloss": "you behave"
   },
   {
    "surface": "என்று",
    "parts": [
     {
      "text": "என்று",
-     "lemma": "என்",
+     "lemma": "என்று",
      "gloss": "saying"
     }
    ],
    "gloss": "saying"
   }
  ],
- "literal": "Herself even if pacified she gets angry, to others also you of this nature become saying.",
- "translation": "Even when I try to pacify her, she gets angry, saying, \"You must be acting this sweet to other women too!\"",
- "modern": "நான் அவளை சமாதானப்படுத்த முயன்றாலும், நீங்கள் மற்ற பெண்களிடமும் இப்படித்தான் அன்பாக நடந்துகொள்வீர்கள் என்று கூறி அவள் என்மீது கோபப்படுவாள்.",
- "explanation": "The husband laments the subtle and inescapable nature of his wife's feigned anger. When he tries to comfort and pacify her, instead of calming down, she finds a new reason to be upset. She accuses him of being just as sweet and comforting to other women, turning his very act of affection into a cause for jealousy. Thus, every attempt to end the sulking only fuels it further.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if he appeases her, she will grow angry, saying, 'To other women also, you behave with this same nature!'",
+ "translation": "Even when he tries to appease and reassure her of his love, she grows angry, saying, 'This is exactly how you must behave with other women too!'",
+ "modern": "தலைவன் தன் அன்பை வெளிப்படுத்தித் தலைவியைச் சமாதானப்படுத்த முயன்றாலும், 'மற்றப் பெண்களிடமும் நீங்கள் இப்படித்தான் நடந்து கொள்வீர்கள்' என்று கூறி அவள் கோபப்படுகிறாள்.",
+ "explanation": "This couplet portrays a delicate moment of lovers' tiff where the heroine's intense love manifests as playful jealousy. When the hero tries to comfort and appease her, she becomes angry instead of being pacified. She suspects his gentle, loving behavior is not unique to her, accusing him of using the same charming manners to win over other women. Her anger is a reflection of her deep desire for his exclusive affection, turning even his attempts at reconciliation into a source of sweet dispute.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

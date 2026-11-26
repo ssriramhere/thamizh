@@ -4,30 +4,20 @@
    "surface": "ஒன்றா",
    "parts": [
     {
-     "text": "ஒன்று",
+     "text": "ஒன்றா",
      "lemma": "ஒன்று",
-     "gloss": "to equal"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "peerless"
     }
    ],
-   "gloss": "matchless"
+   "gloss": "peerless"
   },
   {
    "surface": "உலகத்து",
    "parts": [
     {
-     "text": "உலகு",
-     "lemma": "உலகு",
-     "gloss": "world"
-    },
-    {
-     "text": "அத்து",
-     "lemma": "அத்து",
-     "gloss": "locative suffix"
+     "text": "உலகத்து",
+     "lemma": "உலகம்",
+     "gloss": "of the world"
     }
    ],
    "gloss": "in the world"
@@ -36,19 +26,9 @@
    "surface": "உயர்ந்த",
    "parts": [
     {
-     "text": "உயர்",
+     "text": "உயர்ந்த",
      "lemma": "உயர்",
-     "gloss": "to rise"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "த",
-     "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "exalted"
     }
    ],
    "gloss": "exalted"
@@ -68,14 +48,9 @@
    "surface": "அல்லால்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லால்",
      "lemma": "அல்",
-     "gloss": "not so"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "except suffix"
+     "gloss": "except"
     }
    ],
    "gloss": "except"
@@ -84,14 +59,9 @@
    "surface": "பொன்றாது",
    "parts": [
     {
-     "text": "பொன்று",
+     "text": "பொன்றாது",
      "lemma": "பொன்று",
-     "gloss": "to perish"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative adverbial suffix"
+     "gloss": "without perishing"
     }
    ],
    "gloss": "without perishing"
@@ -100,19 +70,9 @@
    "surface": "நிற்பது",
    "parts": [
     {
-     "text": "நில்",
+     "text": "நிற்பது",
      "lemma": "நில்",
-     "gloss": "to stand"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "gloss": "that which stands"
     }
    ],
    "gloss": "that which stands"
@@ -134,16 +94,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "does not exist"
+     "gloss": "is not"
     }
    ],
    "gloss": "is not"
   }
  ],
- "literal": "Matchless in the world exalted fame except, without perishing that which stands one thing is not.",
- "translation": "Except for exalted, matchless fame, there is not a single thing in the world that stands without perishing.",
- "modern": "ஒப்பற்ற உயர்ந்த புகழைத் தவிர, இவ்வுலகில் அழியாமல் நிலைத்து நிற்கும் பொருள் வேறு ஒன்றும் இல்லை.",
- "explanation": "This couplet emphasizes the impermanence of all worldly things compared to the enduring nature of true fame. The word 'oṉṟā' describes fame as matchless or without equal. Everything else in the world eventually perishes, as indicated by 'poṉṟātu' (without perishing). Therefore, achieving exalted fame is the only way to leave a lasting legacy that stands forever.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Other than the exalted fame that is peerless in the world, there is not one thing that stands without perishing.",
+ "translation": "Except for the exalted, peerless fame earned in this world, there is nothing else that remains imperishable.",
+ "modern": "ஒப்பற்ற இவ்வுலகத்தில் உயர்ந்த புகழைத் தவிர, அழியாமல் நிலைத்து நிற்கக்கூடிய வேறு ஒன்றும் இல்லை.",
+ "explanation": "This couplet highlights the eternal nature of true fame. In this transient world, everything eventually decays and perishes. The only exception is 'புகழ்' (fame) arising from noble deeds, described here as 'ஒன்றா' (peerless or unequaled). This exalted fame is the sole entity that stands 'பொன்றாது' (undying), outlasting the physical existence of the individual.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "வரும்",
-     "lemma": "வா",
+     "lemma": "வரு",
      "gloss": "coming"
     },
     {
@@ -31,33 +31,23 @@
    "surface": "நகுக",
    "parts": [
     {
-     "text": "நகு",
+     "text": "நகுக",
      "lemma": "நகு",
      "gloss": "laugh"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative suffix"
     }
    ],
-   "gloss": "let one laugh"
+   "gloss": "laugh"
   },
   {
    "surface": "அதனை",
    "parts": [
     {
-     "text": "அதன்",
+     "text": "அதனை",
      "lemma": "அது",
-     "gloss": "that"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "it (accusative)"
     }
    ],
-   "gloss": "it (accusative)"
+   "gloss": "it"
   },
   {
    "surface": "அடுத்து",
@@ -65,10 +55,10 @@
     {
      "text": "அடுத்து",
      "lemma": "அடு",
-     "gloss": "having approached"
+     "gloss": "pressing closely"
     }
    ],
-   "gloss": "having approached"
+   "gloss": "pressing closely"
   },
   {
    "surface": "ஊர்வது",
@@ -76,17 +66,17 @@
     {
      "text": "ஊர்வது",
      "lemma": "ஊர்",
-     "gloss": "that which overcomes"
+     "gloss": "overcoming"
     }
    ],
-   "gloss": "that which overcomes"
+   "gloss": "overcoming"
   },
   {
    "surface": "அஃது",
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அது",
+     "lemma": "அஃது",
      "gloss": "that"
     }
    ],
@@ -97,11 +87,11 @@
    "parts": [
     {
      "text": "ஒப்பது",
-     "lemma": "ஒ",
-     "gloss": "that which equals"
+     "lemma": "ஒப்பு",
+     "gloss": "equal thing"
     }
    ],
-   "gloss": "that which equals"
+   "gloss": "equal thing"
   },
   {
    "surface": "இல்",
@@ -112,13 +102,13 @@
      "gloss": "is not"
     }
    ],
-   "gloss": "there is not"
+   "gloss": "is not"
   }
  ],
- "literal": "Distress coming-time let-laugh; it (acc.) having-approached overcoming that equaling is-not.",
- "translation": "When adversity comes, laugh. To confront and overcome it, there is nothing equal to that.",
- "modern": "துன்பம் வரும்போது அதனைப் பார்த்துச் சிரிக்கவும். அந்தத் துன்பத்தை எதிர்த்து வெல்வதற்கு அந்தச் சிரிப்பை விடச் சிறந்தது வேறு எதுவும் இல்லை.",
- "explanation": "This couplet advises a counter-intuitive response to trouble: laughter. The word 'இடுக்கண்' means distress or adversity. When it arrives, one should laugh or smile ('நகுக'). To confront and ride over that distress ('அடுத்து ஊர்வது'), there is nothing equal to that cheerful, unshrinking attitude. Laughter here signifies courage and a clear mind, which are the best tools to overcome difficulties.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Distress when-comes, laugh; it pressing-and-overcoming, that equal-thing is-not.",
+ "translation": "When distress comes, laugh; there is nothing like that laughter to press on and overcome it.",
+ "modern": "துன்பம் வரும்போது சிரிக்க வேண்டும்; அந்தத் துன்பத்தைத் தொடர்ந்து சென்று வெல்வதற்கு அந்தச் சிரிப்பை விடச் சிறந்த வழி வேறு எதுவும் இல்லை.",
+ "explanation": "This couplet advises how to face adversity with courage and a positive attitude. When distress (இடுக்கண்) arrives, the poet instructs us to laugh (நகுக) rather than despair. Laughter here represents a state of mental strength, resilience, and unshakeable calm. The second line explains why: there is no weapon equal to that cheerful defiance (அஃது ஒப்பது இல்) to press on and overcome (அடுத்தூர்வது) the trouble itself. By meeting sorrow with a smile, one disarms the adversity and gains the strength to conquer it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

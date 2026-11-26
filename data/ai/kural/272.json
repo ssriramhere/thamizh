@@ -41,18 +41,19 @@
      "gloss": "will do"
     }
    ],
-   "gloss": "what will (it) do"
+   "gloss": "what use will it do"
   },
   {
    "surface": "தன்னெஞ்சம்",
    "parts": [
     {
      "text": "தன்னெஞ்சம்",
-     "lemma": "நெஞ்சம்",
-     "gloss": "one's own heart"
+     "lemma": "தன்னெஞ்சம்",
+     "gloss": "one's own mind"
     }
    ],
-   "gloss": "one's own heart"
+   "gloss": "one's own mind",
+   "split_unverified": true
   },
   {
    "surface": "தான்அறி",
@@ -65,10 +66,10 @@
     {
      "text": "அறி",
      "lemma": "அறி",
-     "gloss": "knowing"
+     "gloss": "know"
     }
    ],
-   "gloss": "oneself knowing"
+   "gloss": "known to oneself"
   },
   {
    "surface": "குற்றப்",
@@ -79,7 +80,7 @@
      "gloss": "fault"
     }
    ],
-   "gloss": "fault"
+   "gloss": "guilt"
   },
   {
    "surface": "படின்",
@@ -87,16 +88,16 @@
     {
      "text": "படின்",
      "lemma": "படு",
-     "gloss": "if incurs"
+     "gloss": "if fall into"
     }
    ],
-   "gloss": "if incurs"
+   "gloss": "if one commits"
   }
  ],
- "literal": "Sky-high appearance what will do, one's own heart oneself knowing fault if incurs.",
- "translation": "What good is a sky-high appearance of holiness, if one's own heart secretly commits a fault it knows to be wrong?",
- "modern": "தன் நெஞ்சம் தவறு என்று அறிந்த ஒரு குற்றத்தை ஒருவன் செய்தால், அவனது வானளாவிய உயர்ந்த தோற்றத்தால் என்ன பயன்?",
- "explanation": "This couplet questions the value of outward displays of greatness or asceticism when contradicted by inner guilt. The phrase 'sky-high appearance' refers to a grand, saintly exterior that commands respect. However, if a person commits a fault that their own conscience recognizes as wrong, that outward show becomes completely worthless. True conduct requires the mind to be as pure as the outward appearance suggests.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sky-high appearance what will it do, if one's own mind falls into guilt known to oneself?",
+ "translation": "Of what use is an imposing, sky-high appearance of holiness if one's own mind is conscious of a sin committed?",
+ "modern": "தன் நெஞ்சம் அறிய ஒருவன் தவறு செய்வானானால், அவனுடைய வானளவு உயர்ந்த தவக்கோலம் அவனுக்கு என்ன நன்மையைச் செய்யும்?",
+ "explanation": "This couplet exposes the emptiness of external religious or ascetic posturing when unaccompanied by inner purity. The poet asks what benefit a 'sky-high appearance' (வானுயர் தோற்றம்)—referring to the grand outward garb or posture of an ascetic—can possibly bring if the person's own conscience (தன்னெஞ்சம்) is fully aware of a hidden sin (தான்அறி குற்றம்) they have committed. True virtue is defined by the purity of the mind, and outward displays cannot mask or cure a guilty conscience.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

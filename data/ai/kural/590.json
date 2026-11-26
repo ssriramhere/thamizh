@@ -6,31 +6,21 @@
     {
      "text": "சிறப்பு",
      "lemma": "சிறப்பு",
-     "gloss": "special honor"
+     "gloss": "honor or reward"
     }
    ],
-   "gloss": "special honor"
+   "gloss": "honor or reward"
   },
   {
    "surface": "அறிய",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறிய",
      "lemma": "அறி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "glide"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to be known publicly"
     }
    ],
-   "gloss": "to be known"
+   "gloss": "to be known publicly"
   },
   {
    "surface": "ஒற்றின்கண்",
@@ -43,23 +33,28 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic suffix"
+     "gloss": "inflectional increment"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix"
+     "gloss": "locative suffix (towards)"
     }
    ],
-   "gloss": "towards a spy"
+   "gloss": "towards the spy"
   },
   {
    "surface": "செய்யற்க",
    "parts": [
     {
-     "text": "செய்யற்க",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "do not do"
+     "gloss": "do"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "negative optative suffix (do not)"
     }
    ],
    "gloss": "do not do"
@@ -70,15 +65,15 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "conditional suffix (if)"
     }
    ],
-   "gloss": "if done"
+   "gloss": "if one does"
   },
   {
    "surface": "புறப்படுத்தான்",
@@ -86,28 +81,23 @@
     {
      "text": "புறப்படுத்து",
      "lemma": "புறப்படுத்து",
-     "gloss": "to reveal (put outside)"
+     "gloss": "reveal or make public"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (pronominal suffix)"
+     "gloss": "he who did"
     }
    ],
-   "gloss": "one who revealed"
+   "gloss": "he who revealed"
   },
   {
    "surface": "ஆகும்",
    "parts": [
     {
-     "text": "ஆகு",
-     "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future tense suffix"
+     "text": "ஆகும்",
+     "lemma": "ஆ",
+     "gloss": "will become"
     }
    ],
    "gloss": "will become"
@@ -121,13 +111,13 @@
      "gloss": "secret"
     }
    ],
-   "gloss": "secret"
+   "gloss": "the secret"
   }
  ],
- "literal": "Special honor to be known, towards a spy do not do; if done, one who revealed outside he becomes, [of the] secret.",
- "translation": "Do not bestow special honors upon a spy in public. If you do, you will become the one who exposed your own secret.",
- "modern": "ஒரு ஒற்றனுக்குப் பிறர் அறியும்படி சிறப்புகளைச் செய்யக்கூடாது. அப்படிச் செய்தால், அரசன் தன் ரகசியத்தைத் தானே வெளிப்படுத்தியவன் ஆவான்.",
- "explanation": "This couplet warns a ruler against publicly rewarding a spy. The word 'சிறப்பு' refers to special honors or gifts, and 'அறிய' means doing so in a way that others notice. If a king openly honors a spy, he inadvertently exposes the spy's identity and mission. Thus, the phrase 'புறப்படுத்தான் ஆகும் மறை' indicates that the king himself becomes the one who revealed his own secret.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not bestow honors on a spy in a way that others know; if you do, you become the one who revealed the secret.",
+ "translation": "Do not honor a spy in a manner that others may know. If you do, you will have revealed your own secret.",
+ "modern": "ஒற்றனுக்குச் செய்யும் சிறப்புகளைப் பிறர் அறியும்படி செய்யக் கூடாது; அப்படிச் செய்தால், தன் இரகசியத்தைத் தானே வெளிப்படுத்தியவன் ஆவான்.",
+ "explanation": "This couplet emphasizes the absolute necessity of maintaining a spy's anonymity. A ruler must never reward or praise a spy in public or in a way that others can observe. If the ruler fails to keep these honors secret, the spy's identity is compromised. Consequently, the ruler himself becomes responsible for exposing his own confidential plans and state secrets to his adversaries.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

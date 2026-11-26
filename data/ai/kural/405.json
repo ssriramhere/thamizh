@@ -6,12 +6,12 @@
     {
      "text": "கல்",
      "lemma": "கல்",
-     "gloss": "to learn"
+     "gloss": "learn"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "negative relative participle suffix"
     }
    ],
    "gloss": "unlearned"
@@ -20,9 +20,14 @@
    "surface": "ஒருவன்",
    "parts": [
     {
-     "text": "ஒருவன்",
-     "lemma": "ஒருவன்",
-     "gloss": "one man"
+     "text": "ஒரு",
+     "lemma": "ஒரு",
+     "gloss": "one"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "masculine singular suffix"
     }
    ],
    "gloss": "a person"
@@ -31,12 +36,17 @@
    "surface": "தகைமை",
    "parts": [
     {
-     "text": "தகைமை",
-     "lemma": "தகைமை",
-     "gloss": "worth"
+     "text": "தகை",
+     "lemma": "தகை",
+     "gloss": "fitness or quality"
+    },
+    {
+     "text": "மை",
+     "lemma": "மை",
+     "gloss": "abstract noun suffix"
     }
    ],
-   "gloss": "dignity"
+   "gloss": "pretended worth or dignity"
   },
   {
    "surface": "தலைப்பெய்து",
@@ -44,15 +54,15 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "place/head"
+     "gloss": "head or place"
     },
     {
      "text": "பெய்து",
-     "lemma": "பெய்",
-     "gloss": "having joined"
+     "lemma": "பெய்தல்",
+     "gloss": "having placed or joined"
     }
    ],
-   "gloss": "having joined"
+   "gloss": "having met face-to-face"
   },
   {
    "surface": "சொல்லாட",
@@ -64,39 +74,49 @@
     },
     {
      "text": "ஆட",
-     "lemma": "ஆடு",
-     "gloss": "to speak"
+     "lemma": "ஆடுதல்",
+     "gloss": "to play or engage in"
     }
    ],
-   "gloss": "to converse"
+   "gloss": "to speak"
   },
   {
    "surface": "சோர்வு",
    "parts": [
     {
-     "text": "சோர்வு",
-     "lemma": "சோர்வு",
-     "gloss": "failing"
+     "text": "சோர்",
+     "lemma": "சோர்",
+     "gloss": "to slip or fail"
+    },
+    {
+     "text": "வு",
+     "lemma": "வு",
+     "gloss": "noun suffix"
     }
    ],
-   "gloss": "failure"
+   "gloss": "ruin or failure"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படும்",
-     "lemma": "படு",
-     "gloss": "will suffer"
+     "text": "படு",
+     "lemma": "படுதல்",
+     "gloss": "to happen or suffer"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "future or habitual suffix"
     }
    ],
-   "gloss": "will suffer"
+   "gloss": "will occur"
   }
  ],
- "literal": "Unlearned a person's dignity, having joined to speak, failure will suffer.",
- "translation": "The apparent dignity of an unlearned person will shatter the moment he joins a gathering and begins to speak.",
- "modern": "படிக்காத ஒருவனுடைய பெருமையானது, மற்றவர்களோடு சேர்ந்து பேசத் தொடங்கும் போது அழிந்துவிடும்.",
- "explanation": "This couplet illustrates how ignorance cannot be hidden by mere appearance. The word 'தகைமை' refers to the dignity or apparent worth a person might project. 'தலைப்பெய்து சொல்லாட' means joining a gathering of people to converse. As long as the unlearned person remains silent, their lack of knowledge is concealed. However, the moment they speak, their 'சோர்வு' (failure or slipping) occurs, exposing their true ignorance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The pretended worth of an unlearned person, when meeting others and speaking, ruin will occur to it.",
+ "translation": "The apparent dignity of an unlearned person will instantly collapse the moment they meet others and begin to speak.",
+ "modern": "கல்லாத ஒருவனுடைய தகைமையானது (மதிப்பு), அவன் பிறரைச் சந்தித்துப் பேசத் தொடங்கும்போது கெட்டுப் போய்விடும்.",
+ "explanation": "This couplet highlights how silence can mask ignorance, but only temporarily. An unlearned person might carry themselves with an air of dignity and worth ('தகைமை') that deceives others at first glance. However, the moment they come face-to-face ('தலைப்பெய்து') with others and engage in intellectual discourse ('சொல்லாட'), their lack of knowledge is exposed. Their superficial reputation immediately suffers a ruinous collapse ('சோர்வு படும்') because speech inevitably reveals the depth of one's mind.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

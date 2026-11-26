@@ -6,15 +6,15 @@
     {
      "text": "அறி",
      "lemma": "அறி",
-     "gloss": "to know"
+     "gloss": "know or learn"
     },
     {
      "text": "தோறு",
-     "lemma": "தோறும்",
-     "gloss": "every time"
+     "lemma": "தோறு",
+     "gloss": "each time or as much as"
     }
    ],
-   "gloss": "every time one learns"
+   "gloss": "each time one learns"
   },
   {
    "surface": "அறியாமை",
@@ -25,7 +25,7 @@
      "gloss": "ignorance"
     }
    ],
-   "gloss": "ignorance"
+   "gloss": "one's own ignorance"
   },
   {
    "surface": "கண்டு",
@@ -33,10 +33,10 @@
     {
      "text": "கண்டு",
      "lemma": "காண்",
-     "gloss": "having seen"
+     "gloss": "having seen or realized"
     }
    ],
-   "gloss": "having seen"
+   "gloss": "seeing or realizing"
   },
   {
    "surface": "அற்றால்",
@@ -49,10 +49,10 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "it is like that indeed"
+   "gloss": "is like"
   },
   {
    "surface": "காமம்",
@@ -60,10 +60,10 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "passion"
+     "gloss": "love or desire"
     }
    ],
-   "gloss": "passion"
+   "gloss": "love"
   },
   {
    "surface": "செறிதோறும்",
@@ -71,48 +71,48 @@
     {
      "text": "செறி",
      "lemma": "செறி",
-     "gloss": "to embrace"
+     "gloss": "unite or draw close"
     },
     {
      "text": "தோறும்",
      "lemma": "தோறும்",
-     "gloss": "every time"
+     "gloss": "each time or as much as"
     }
    ],
-   "gloss": "every time embracing"
+   "gloss": "each time one unites closely"
   },
   {
    "surface": "சேயிழை",
    "parts": [
     {
      "text": "சே",
-     "lemma": "செம்",
-     "gloss": "fine/red"
+     "lemma": "சே",
+     "gloss": "beautiful or red"
     },
     {
      "text": "இழை",
      "lemma": "இழை",
-     "gloss": "jewel"
+     "gloss": "jewels"
     }
    ],
-   "gloss": "woman with fine jewels"
+   "gloss": "the woman wearing beautiful jewels"
   },
   {
    "surface": "மாட்டு",
    "parts": [
     {
      "text": "மாட்டு",
-     "lemma": "மாடு",
-     "gloss": "with"
+     "lemma": "மாட்டு",
+     "gloss": "with or towards"
     }
    ],
    "gloss": "with"
   }
  ],
- "literal": "Every time knowing, ignorance having seen, it is like that indeed, passion, every time embracing, fine-jewel-woman with.",
- "translation": "Just as learning more only reveals the vastness of one's own ignorance, passion feels entirely new every time I embrace this woman with fine jewels.",
- "modern": "அறிவு வளர வளர நம் அறியாமை நமக்குத் தெரிவது போல, சிறந்த அணிகலன்களை அணிந்த இவளைத் தழுவும்போதெல்லாம் காமம் புதிதாகத் தோன்றுகிறது.",
- "explanation": "This couplet draws a striking parallel between the pursuit of knowledge and the experience of physical love. As a person learns more ('அறிதோறு'), they begin to realize the immense scale of what they still do not know ('அறியாமை'). In the exact same way, every time the lover embraces the woman ('செறிதோறும்'), he discovers new, unfathomable depths of passion ('காமம்'). The word 'சேயிழை' literally means 'red or fine jewels', but here it is used as a metonymy to refer to the beautiful woman wearing them. The comparison beautifully illustrates how true love, like true knowledge, is inexhaustible and always feels fresh.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like seeing one's ignorance each time one learns, is love with the woman wearing beautiful jewels each time one unites closely.",
+ "translation": "Just as learning more and more only reveals one's previous ignorance, so does drawing closer to this beautifully jeweled woman only reveal new, deeper dimensions of love.",
+ "modern": "நூல்களைக் கற்கக் கற்க நம்முடைய அறியாமை விளங்குவது போல, சிறந்த அணிகலன்களை அணிந்த பெண்ணுடன் நெருங்கிப் பழகப் பழகக் காதல் இன்பம் மேலும் மேலும் புதியதாகத் தோன்றுகிறது.",
+ "explanation": "This couplet compares the pursuit of knowledge with the experience of love. As a person learns more, they do not feel complete; instead, they realize how much they did not know before, exposing their own ignorance. Similarly, as the lover unites more closely with his beloved, he does not find satiation. Instead, each intimate union reveals new, previously unimagined depths of joy and desire, making him feel that his previous experience of love was incomplete.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

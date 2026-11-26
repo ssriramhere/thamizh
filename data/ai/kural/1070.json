@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "கரப்பவர்",
-     "lemma": "கரப்பவர்",
-     "gloss": "those who withhold"
+     "lemma": "கர",
+     "gloss": "those who hide (their wealth)"
     },
     {
      "text": "கு",
@@ -14,7 +14,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to those who withhold"
+   "gloss": "to those who hide (their wealth)"
   },
   {
    "surface": "யாங்கு",
@@ -44,22 +44,22 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "particle of wonder"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "(particle of wonder)"
+     "gloss": "clitic of emphasis"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "indeed / I wonder"
   },
   {
    "surface": "இரப்பவர்",
    "parts": [
     {
      "text": "இரப்பவர்",
-     "lemma": "இரப்பவர்",
+     "lemma": "இர",
      "gloss": "those who beg"
     }
    ],
@@ -69,17 +69,12 @@
    "surface": "சொல்லாட",
    "parts": [
     {
-     "text": "சொல்",
-     "lemma": "சொல்",
-     "gloss": "word"
-    },
-    {
-     "text": "ஆட",
-     "lemma": "ஆடு",
-     "gloss": "to speak"
+     "text": "சொல்லாட",
+     "lemma": "சொல்லாடு",
+     "gloss": "as they speak"
     }
    ],
-   "gloss": "when speaking"
+   "gloss": "as they speak (their request)"
   },
   {
    "surface": "போஒம்",
@@ -87,7 +82,7 @@
     {
      "text": "போஒம்",
      "lemma": "போ",
-     "gloss": "departs"
+     "gloss": "departs (poetic elongation)"
     }
    ],
    "gloss": "departs"
@@ -104,10 +99,10 @@
    "gloss": "life"
   }
  ],
- "literal": "To those who withhold, where will hide, I wonder? Of those who beg, when speaking, departs life.",
- "translation": "The life of those who beg departs the moment they utter their request. Where, I wonder, will the life of those who withhold their wealth hide?",
- "modern": "இரப்பவர்கள் தம் தேவையைச் சொல்லும்போதே நாணத்தால் அவர்கள் உயிர் போய்விடுகிறது. அப்படியிருக்க, பொருளைத் தர மறுத்து மறைப்பவர்களின் உயிர் எங்கே சென்று ஒளிந்துகொள்ளுமோ?",
- "explanation": "This couplet contrasts the deep shame of the beggar with the callousness of the miser. When a person is forced to beg, the sheer humiliation of uttering the request causes their life or spirit to drain away. The poet then wonders where the life of the miser will hide when they selfishly withhold their wealth. If merely asking for help is enough to destroy a person's spirit, the act of denying that help must be an even greater burden on the soul.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who hide their wealth, where will hide, I wonder, the life of those who beg, which departs as they speak?",
+ "translation": "When those who beg merely speak their need, their life departs from them out of shame. Where, then, does the life of those who hide their wealth go and hide?",
+ "modern": "இரப்பவர்கள் தம் தேவையைச் சொல்லும்போதே அவமானம் தாங்காமல் அவர்களுடைய உயிர் போய்விடுகிறது; அப்படியிருக்க, இல்லை என்று ஒளித்து வைப்பவர்களுடைய உயிர் எங்கே போய் ஒளிந்து கொள்ளுமோ?",
+ "explanation": "This couplet highlights the intense shame associated with begging and withholding. The poet observes that when a needy person merely utters a request for help, the sheer humiliation is so painful that their life-force (uyir) departs from them. If the act of asking is so fatal to the beggar's soul, the poet wonders where the soul of the hoarder (karappavar) goes to hide. Since refusing to give is a far more shameful act than begging, the hoarder's soul should logically flee in even greater disgrace, yet they continue to live unaffected.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

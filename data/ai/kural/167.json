@@ -6,17 +6,17 @@
     {
      "text": "அவ்வி",
      "lemma": "அவ்வி",
-     "gloss": "envy"
+     "gloss": "to envy"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "consonant increment"
     },
     {
      "text": "து",
      "lemma": "து",
-     "gloss": "adverbial suffix"
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "having envied"
@@ -38,15 +38,15 @@
     {
      "text": "உடையான்",
      "lemma": "உடையான்",
-     "gloss": "possessor"
+     "gloss": "one who has"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who possesses (acc.)"
+   "gloss": "him who has"
   },
   {
    "surface": "செய்யவள்",
@@ -54,10 +54,10 @@
     {
      "text": "செய்யவள்",
      "lemma": "செய்யவள்",
-     "gloss": "goddess of wealth"
+     "gloss": "the red goddess of prosperity"
     }
    ],
-   "gloss": "goddess of wealth"
+   "gloss": "the Goddess of Prosperity"
   },
   {
    "surface": "தவ்வையை",
@@ -65,20 +65,15 @@
     {
      "text": "தவ்வை",
      "lemma": "தவ்வை",
-     "gloss": "elder sister"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "elder sister (goddess of misfortune)"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "elder sister (acc.)"
+   "gloss": "her elder sister (the Goddess of Misfortune)"
   },
   {
    "surface": "காட்டி",
@@ -91,7 +86,7 @@
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "having shown"
@@ -107,16 +102,16 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "habitual future suffix"
     }
    ],
    "gloss": "will leave"
   }
  ],
- "literal": "Having envied, him who possesses envy, the goddess of wealth, her elder sister, having shown, will leave.",
- "translation": "The goddess of wealth will introduce the envious man to her elder sister, the goddess of misfortune, and then abandon him.",
- "modern": "பொறாமை குணம் கொண்டவனைச் செல்வமகள் தன் தமக்கையான வறுமையிடம் காட்டிவிட்டு, அவனை விட்டு விலகிப் போய்விடுவாள்.",
- "explanation": "This couplet personifies prosperity and adversity as two sisters. 'Ceyyavaḷ' (the red or prosperous woman) represents prosperity, while her elder sister 'Tavvai' represents misfortune. The poet warns that if a person harbors envy ('aḻukkāṟu'), prosperity will refuse to stay with him. Instead, she will introduce him to her elder sister, adversity, and abandon him to a life of ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having envied, him who has jealousy, the Goddess of Prosperity, her elder sister having shown, will leave.",
+ "translation": "The Goddess of Prosperity will turn away from a person who harbors envy, and pointing him out to her elder sister, the Goddess of Misfortune, she will abandon him.",
+ "modern": "பொறாமை கொண்டு அழுக்காறு உடையவனாக வாழ்பவனை, திருமகள் தன் மூத்தவளாகிய மூதேவிக்குக் காட்டிவிட்டு அவனிடமிருந்து நீங்கிவிடுவாள்.",
+ "explanation": "This couplet warns against the destructive nature of envy by using the personified deities of wealth and poverty. The Goddess of Prosperity (Seyyavaḷ) cannot tolerate a person who harbors jealousy and grudges others' success. Instead of staying with such a person, she will point him out to her elder sister, the Goddess of Misfortune (Tavvai), and leave him in her hands. The contrast between 'Seyyavaḷ' and 'Tavvai' illustrates the complete reversal of fortune that awaits an envious person.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

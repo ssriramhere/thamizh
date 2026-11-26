@@ -28,10 +28,10 @@
     {
      "text": "அமையாது",
      "lemma": "அமை",
-     "gloss": "does not exist"
+     "gloss": "cannot exist"
     }
    ],
-   "gloss": "does not exist"
+   "gloss": "cannot exist"
   },
   {
    "surface": "உலகு",
@@ -50,10 +50,10 @@
     {
      "text": "எனின்",
      "lemma": "என்",
-     "gloss": "if said"
+     "gloss": "if"
     }
    ],
-   "gloss": "if said"
+   "gloss": "if"
   },
   {
    "surface": "யார்",
@@ -70,9 +70,14 @@
    "surface": "யார்க்கும்",
    "parts": [
     {
-     "text": "யார்க்கும்",
+     "text": "யார்க்கு",
      "lemma": "யார்",
-     "gloss": "to anyone"
+     "gloss": "to whom"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
    "gloss": "to anyone"
@@ -83,10 +88,10 @@
     {
      "text": "வான்",
      "lemma": "வான்",
-     "gloss": "sky"
+     "gloss": "rain"
     }
    ],
-   "gloss": "sky (rain)"
+   "gloss": "rain"
   },
   {
    "surface": "இன்று",
@@ -105,27 +110,27 @@
     {
      "text": "அமையாது",
      "lemma": "அமை",
-     "gloss": "does not exist"
+     "gloss": "cannot exist"
     }
    ],
-   "gloss": "does not exist"
+   "gloss": "cannot exist"
   },
   {
    "surface": "ஒழுக்கு",
    "parts": [
     {
      "text": "ஒழுக்கு",
-     "lemma": "ஒழுக்கு",
-     "gloss": "conduct"
+     "lemma": "ஒழுக்கம்",
+     "gloss": "righteous conduct"
     }
    ],
-   "gloss": "conduct"
+   "gloss": "righteous conduct"
   }
  ],
- "literal": "Water without does not exist world if said, who to anyone sky without does not exist conduct.",
- "translation": "If it is said that the world cannot exist without water, then for anyone at all, proper conduct cannot exist without the rain.",
- "modern": "நீர் இல்லாமல் இந்த உலகம் அமையாது என்றால், மழை இல்லாமல் எவருக்கும் நல்லொழுக்கம் அமையாது.",
- "explanation": "This couplet establishes the absolute necessity of rain for both physical survival and moral order. The word 'நீர்' (water) represents the basic element required for the world ('உலகு') to function. Just as the physical world cannot exist without water, the poet argues that 'ஒழுக்கு' (proper conduct or moral order) cannot be maintained by anyone ('யார் யார்க்கும்') without 'வான்' (the sky, meaning rain). Thus, rain is shown as the foundation of both life and virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If the world cannot exist without water, for anyone, righteous conduct cannot exist without rain.",
+ "translation": "If the world cannot exist without water, then righteous conduct cannot exist for anyone without rain.",
+ "modern": "நீர் இல்லாமல் உலகம் இயங்காது என்றால், மழை இல்லாமல் எவருக்கும் ஒழுக்கமான வாழ்க்கை அமையாது.",
+ "explanation": "This couplet concludes the chapter on the importance of rain by linking physical survival with moral order. The poet argues that just as the physical world cannot function without water, human society cannot maintain its moral and righteous conduct without rain. Rain brings the prosperity and sustenance required for people to practice virtues and duties. Without the life-giving rain, the very foundation of human ethics and orderly life collapses.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

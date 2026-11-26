@@ -4,17 +4,12 @@
    "surface": "இலம்",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அம்",
-     "lemma": "அம்",
-     "gloss": "we"
+     "text": "இலம்",
+     "lemma": "இலம்",
+     "gloss": "we are poor"
     }
    ],
-   "gloss": "we are destitute"
+   "gloss": "we are poor"
   },
   {
    "surface": "என்று",
@@ -31,14 +26,9 @@
    "surface": "வெஃகுதல்",
    "parts": [
     {
-     "text": "வெஃகு",
+     "text": "வெஃகுதல்",
      "lemma": "வெஃகு",
-     "gloss": "covet"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "coveting"
     }
    ],
    "gloss": "coveting"
@@ -47,14 +37,9 @@
    "surface": "செய்யார்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யார்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "not-they"
+     "gloss": "they will not do"
     }
    ],
    "gloss": "they will not do"
@@ -65,7 +50,7 @@
     {
      "text": "புலம்",
      "lemma": "புலம்",
-     "gloss": "sense"
+     "gloss": "senses"
     }
    ],
    "gloss": "senses"
@@ -87,10 +72,10 @@
     {
      "text": "புன்மை",
      "lemma": "புன்மை",
-     "gloss": "baseness"
+     "gloss": "meanness"
     }
    ],
-   "gloss": "baseness"
+   "gloss": "meanness"
   },
   {
    "surface": "இல்",
@@ -108,7 +93,7 @@
    "parts": [
     {
      "text": "காட்சி",
-     "lemma": "காண்",
+     "lemma": "காட்சி",
      "gloss": "vision"
     }
    ],
@@ -126,10 +111,10 @@
    "gloss": "they"
   }
  ],
- "literal": "\"we are destitute\" saying, coveting they will not do, senses conquered, baseness without vision they.",
- "translation": "Those of flawless vision who have conquered their senses will not covet others' wealth, thinking \"we are destitute.\"",
- "modern": "ஐம்புலன்களையும் வென்ற குற்றமற்ற அறிவினை உடையவர்கள், தமக்கு வறுமை வந்துவிட்டது என்று நினைத்து பிறர் பொருளை விரும்ப மாட்டார்கள்.",
- "explanation": "The couplet describes the steadfastness of those who have mastered their five senses and possess a clear, flawless understanding. Even when faced with severe poverty, they will not use their destitution as an excuse to covet what belongs to others. The word 'புலம்' refers to the senses, whose conquest ensures that material desires do not cloud their 'காட்சி' (vision or understanding). Thus, true wisdom prevents the base act of coveting, regardless of one's circumstances.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "\"We are poor,\" saying, coveting they will not do, the senses conquered, meanness-without vision having they.",
+ "translation": "Those who have conquered their senses and possess a vision free from meanness will not covet others' wealth, even when thinking, \"We are destitute.\"",
+ "modern": "\"நாம் வறியவர்\" என்று நினைத்து, பிறர் பொருளை விரும்பும் செயலைச் செய்ய மாட்டார்கள், ஐம்புலன்களையும் வென்ற குற்றமற்ற அறிவுடையவர்கள்.",
+ "explanation": "This couplet explains that people of pure, flawless wisdom who have mastered their five senses will never resort to coveting others' property, even in times of extreme poverty. The word 'புலம்' refers to the five senses, and 'வென்ற' means conquered, indicating self-control. 'புன்மை இல் காட்சி' refers to a perception or vision that is free from the blemish of ignorance or meanness. Such individuals do not let temporary material deprivation ('இலம்') compromise their integrity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

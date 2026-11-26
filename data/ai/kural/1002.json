@@ -11,7 +11,7 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
    "gloss": "by wealth"
@@ -22,10 +22,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆ",
-     "gloss": "will happen"
+     "gloss": "will happen / is possible"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "is possible"
   },
   {
    "surface": "எல்லாம்",
@@ -44,21 +44,26 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "thinking that"
+     "gloss": "thinking"
     }
    ],
-   "gloss": "thinking that"
+   "gloss": "thinking"
   },
   {
    "surface": "ஈயாது",
    "parts": [
     {
-     "text": "ஈயாது",
+     "text": "ஈ",
      "lemma": "ஈ",
-     "gloss": "not giving"
+     "gloss": "give"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without (negative suffix)"
     }
    ],
-   "gloss": "not giving"
+   "gloss": "without giving"
   },
   {
    "surface": "இவறும்",
@@ -66,10 +71,10 @@
     {
      "text": "இவறும்",
      "lemma": "இவறு",
-     "gloss": "hoarding"
+     "gloss": "hoards / is stingy"
     }
    ],
-   "gloss": "hoarding"
+   "gloss": "who hoards"
   },
   {
    "surface": "மருளான்",
@@ -77,15 +82,15 @@
     {
      "text": "மருள்",
      "lemma": "மருள்",
-     "gloss": "delusion"
+     "gloss": "delusion / ignorance"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "from"
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "from delusion"
+   "gloss": "by delusion"
   },
   {
    "surface": "ஆம்",
@@ -93,10 +98,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆ",
-     "gloss": "results"
+     "gloss": "will happen / arises"
     }
    ],
-   "gloss": "results"
+   "gloss": "arises"
   },
   {
    "surface": "மாணா",
@@ -104,10 +109,10 @@
     {
      "text": "மாணா",
      "lemma": "மாண்",
-     "gloss": "unexcellent"
+     "gloss": "glorious / worthy (negated)"
     }
    ],
-   "gloss": "unexcellent"
+   "gloss": "inglorious / ignoble"
   },
   {
    "surface": "பிறப்பு",
@@ -121,10 +126,10 @@
    "gloss": "birth"
   }
  ],
- "literal": "by wealth / will happen / everything / thinking that / not giving / hoarding / from delusion / results / unexcellent / birth",
- "translation": "From the delusion of hoarding wealth without giving, thinking that everything is achieved through it, results a wretched birth.",
- "modern": "பொருளால் எல்லாம் நடக்கும் என்று நினைத்து, யாருக்கும் எதையும் கொடுக்காமல் சேர்த்து வைக்கும் மயக்கத்தால், ஒருவனுக்குச் சிறப்பற்ற பிறவி உண்டாகும்.",
- "explanation": "The couplet warns against the obsessive accumulation of wealth. It describes a person who believes that money can accomplish absolutely everything, leading them to hoard it without giving anything to others. This mindset is termed a 'delusion' (மருள்). The consequence of such a deluded, miserly life is an 'inglorious birth' (மாணாப் பிறப்பு), meaning a wretched and miserable existence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By wealth is possible everything, thinking thus, without giving, he who hoards, by that delusion, arises an ignoble birth.",
+ "translation": "For the miser who hoards without giving, thinking that everything can be achieved through wealth, an ignoble birth will arise from that very delusion.",
+ "modern": "செல்வத்தினால் எல்லாம் முடியும் என்று எண்ணி, பிறருக்குக் கொடுக்காமல் சேர்த்து வைக்கும் பேராசைக்காரனுக்கு, அந்த அறியாமையினால் பெருமையற்ற பிறவி உண்டாகும்.",
+ "explanation": "This couplet warns against the delusion of hoarding wealth without sharing it. The miser falsely believes that money alone can secure everything in life, leading them to withhold charity. This mental blindness or delusion (maruḷ) is what ultimately causes them to be reborn into an ignoble, unworthy state (māṇāp piṟappu). The poet highlights that wealth is useless if not given to those in need, and the obsession with hoarding only degrades one's character and future.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

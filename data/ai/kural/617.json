@@ -14,7 +14,7 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "in laziness"
+   "gloss": "within laziness"
   },
   {
    "surface": "ஆள்",
@@ -22,10 +22,10 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "she dwells"
+     "gloss": "she"
     }
    ],
-   "gloss": "she dwells"
+   "gloss": "she (who resides)"
   },
   {
    "surface": "மா",
@@ -33,10 +33,10 @@
     {
      "text": "மா",
      "lemma": "மா",
-     "gloss": "great"
+     "gloss": "dark"
     }
    ],
-   "gloss": "great"
+   "gloss": "dark / black"
   },
   {
    "surface": "முகடி",
@@ -53,14 +53,9 @@
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they say"
     }
    ],
    "gloss": "they say"
@@ -82,15 +77,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he who is"
+     "gloss": "he"
     }
    ],
-   "gloss": "he who is without"
+   "gloss": "he who does not have"
   },
   {
    "surface": "தாளுள்",
@@ -103,10 +98,10 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "within"
     }
    ],
-   "gloss": "in effort"
+   "gloss": "within the effort"
   },
   {
    "surface": "ஆன்",
@@ -114,10 +109,10 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he who is"
+     "gloss": "he"
     }
    ],
-   "gloss": "he who is"
+   "gloss": "he (who resides)"
   },
   {
    "surface": "தாமரையினாள்",
@@ -135,16 +130,16 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "she who is"
+     "gloss": "she"
     }
    ],
    "gloss": "she of the lotus"
   }
  ],
- "literal": "In laziness she dwells, the great goddess of misfortune, they say; laziness he who is without, in effort he who is, [his is] she of the lotus.",
- "translation": "They say the great goddess of misfortune dwells in laziness. The goddess of the lotus belongs to the man who is free from laziness and steadfast in effort.",
- "modern": "சோம்பலில் மூதேவி குடியிருப்பாள் என்று சான்றோர் கூறுவர். ஆனால், சோம்பல் இன்றி முயற்சியில் நிலைத்திருப்பவனிடம் தாமரையில் வீற்றிருக்கும் திருமகள் தங்கியிருப்பாள்.",
- "explanation": "This couplet contrasts the outcomes of laziness and industriousness using personified imagery. The poet states that the goddess of misfortune ('முகடி') resides in laziness, bringing ruin to the idle. In contrast, the goddess of prosperity, who sits on a lotus ('தாமரையினாள்'), favors the one who is free from laziness and actively engaged in effort. The parallel structure emphasizes that wealth and success are naturally drawn to continuous hard work.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In laziness, she, the dark goddess of misfortune, they say; of him who has no laziness, in the effort, he, she of the lotus.",
+ "translation": "They say the dark goddess of misfortune dwells in laziness, while the Goddess of the lotus resides in the active effort of the one who is free from laziness.",
+ "modern": "சோம்பல் உடையவரிடத்தில் கரிய மூதேவி தங்குவாள் என்றும், சோம்பல் இல்லாதவனுடைய முயற்சியிடத்தில் தாமரையில் வீற்றிருக்கும் திருமகள் தங்குவாள் என்றும் கூறுவர்.",
+ "explanation": "This couplet contrasts the consequences of laziness and active effort using powerful symbolic figures. The poet states that 'மாமுகடி' (the dark goddess of misfortune and poverty) makes her home within laziness ('மடியுள்'). Conversely, 'தாமரையினாள்' (the goddess of the lotus, representing wealth and prosperity) resides within the persistent effort ('தாளுள்') of a person who is free from laziness ('மடியிலான்'). Through this imagery, the couplet teaches that sloth brings ruin, while hard work naturally attracts prosperity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

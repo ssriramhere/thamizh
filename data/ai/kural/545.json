@@ -6,15 +6,15 @@
     {
      "text": "இயல்பு",
      "lemma": "இயல்பு",
-     "gloss": "proper nature"
+     "gloss": "justice / right path"
     },
     {
      "text": "உளி",
      "lemma": "உளி",
-     "gloss": "in the manner of"
+     "gloss": "according to / in"
     }
    ],
-   "gloss": "according to rule"
+   "gloss": "according to the path of justice"
   },
   {
    "surface": "கோல்",
@@ -22,10 +22,10 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "scepter"
+     "gloss": "sceptre"
     }
    ],
-   "gloss": "scepter"
+   "gloss": "sceptre / rod of justice"
   },
   {
    "surface": "ஓச்சும்",
@@ -33,7 +33,7 @@
     {
      "text": "ஓச்சு",
      "lemma": "ஓச்சு",
-     "gloss": "to wield"
+     "gloss": "wield"
     },
     {
      "text": "உம்",
@@ -58,17 +58,13 @@
    "surface": "நாட்ட",
    "parts": [
     {
-     "text": "நாட்டு",
-     "lemma": "நாடு",
-     "gloss": "country"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "locative/genitive suffix"
+     "text": "நாட்ட",
+     "lemma": "நாட்ட",
+     "gloss": "in the country of"
     }
    ],
-   "gloss": "in the country"
+   "gloss": "in the country of",
+   "split_unverified": true
   },
   {
    "surface": "பெயலும்",
@@ -84,7 +80,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "rain and"
+   "gloss": "and rain"
   },
   {
    "surface": "விளையுளும்",
@@ -100,7 +96,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "harvest and"
+   "gloss": "and harvest"
   },
   {
    "surface": "தொக்கு",
@@ -111,13 +107,13 @@
      "gloss": "having gathered"
     }
    ],
-   "gloss": "having gathered"
+   "gloss": "gathering together / abounding"
   }
  ],
- "literal": "According to rule scepter wielding king in the country, rain and harvest having gathered [will be].",
- "translation": "In the land of a king who wields his scepter justly, rain and harvest will gather together.",
- "modern": "நீதியின்படி செங்கோல் செலுத்தி ஆட்சி செய்யும் மன்னவனது நாட்டில், மழையும் விளைச்சலும் ஒருசேரக் கூடியிருக்கும்.",
- "explanation": "This couplet connects the justice of a ruler with the natural prosperity of his land. The phrase 'இயல்புளி கோல் ஓச்சும்' describes a king who wields his scepter according to the proper nature of justice. In such a king's country, the natural elements respond favorably. Rain ('பெயல்') and agricultural yield ('விளையுள்') will gather together ('தொக்கு'), meaning they will be abundant and timely. The poem suggests that righteous governance brings about ecological and economic harmony.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the country of the king who wields the sceptre according to justice, rain and harvest will gather together.",
+ "translation": "In the land of a king who wields his sceptre in accordance with justice, both timely rain and abundant harvests will always come together.",
+ "modern": "நீதிநெறிப்படி செங்கோல் செலுத்தும் அரசனுடைய நாட்டில், மழையும் விளைச்சலும் ஒருங்கே கூடி நிலைபெறும்.",
+ "explanation": "This couplet highlights the direct connection between a ruler's just governance and the prosperity of the natural world. The term 'இயல்புளி' means 'according to the established path of justice', and 'கோலோச்சும்' refers to wielding the sceptre of authority. In the country ('நாட்ட') of such a righteous king, both rain ('பெயலும்') and agricultural yield ('விளையுளும்') will gather together ('தொக்கு') in abundance. The poet suggests that nature itself responds harmoniously to a just administration, ensuring that the land never suffers from drought or famine.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

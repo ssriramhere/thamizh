@@ -17,10 +17,10 @@
     {
      "text": "களவு",
      "lemma": "களவு",
-     "gloss": "stealth"
+     "gloss": "theft"
     }
    ],
-   "gloss": "stealth"
+   "gloss": "theft"
   },
   {
    "surface": "கொள்ளும்",
@@ -39,10 +39,10 @@
     {
      "text": "சிறு",
      "lemma": "சிறு",
-     "gloss": "little"
+     "gloss": "small"
     }
    ],
-   "gloss": "little"
+   "gloss": "small"
   },
   {
    "surface": "நோக்கம்",
@@ -59,9 +59,14 @@
    "surface": "காமத்தில்",
    "parts": [
     {
-     "text": "காமத்தில்",
+     "text": "காமத்து",
      "lemma": "காமம்",
-     "gloss": "in love"
+     "gloss": "love"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "in"
     }
    ],
    "gloss": "in love"
@@ -70,12 +75,17 @@
    "surface": "செம்பாகம்",
    "parts": [
     {
-     "text": "செம்பாகம்",
-     "lemma": "செம்பாகம்",
-     "gloss": "exact half"
+     "text": "செம்",
+     "lemma": "செம்மை",
+     "gloss": "perfect"
+    },
+    {
+     "text": "பாகம்",
+     "lemma": "பாகம்",
+     "gloss": "half"
     }
    ],
-   "gloss": "exact half"
+   "gloss": "equal half"
   },
   {
    "surface": "அன்று",
@@ -100,10 +110,10 @@
    "gloss": "is greater"
   }
  ],
- "literal": "Eye stealth taking little glance, in love exact-half is not, it is greater.",
- "translation": "The brief, stealthy glance from her eyes is not just half of love's delight; it is far greater.",
- "modern": "கண்கள் திருட்டுத்தனமாகப் பார்க்கும் சிறு பார்வை, காதலின் சரிபாதி மட்டும் அல்ல, அதைவிடப் பெரியது.",
- "explanation": "The speaker observes the brief, stolen glances of the beloved. He declares that this subtle, stealthy look is not merely half the joy of love, but something much greater. The phrase 'கண்களவு கொள்ளும் சிறுநோக்கம்' captures the fleeting and secretive nature of her glance. By stating it is greater than 'செம்பாகம்' (an exact half), the couplet emphasizes the immense power and thrill of unspoken, mutual attraction.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The eye theft taking small glance, in love, equal half is not, [it is] greater.",
+ "translation": "The brief, stolen glance that her eyes take is not merely half the pleasure of love; it is far greater.",
+ "modern": "கண்கள் திருட்டுத்தனமாகப் பார்க்கும் அந்தச் சிறிய பார்வை, காமத்தின் இன்பத்தில் பாதி அளவு மட்டும் அன்று; அதைவிடப் பெரியதாகும்.",
+ "explanation": "This couplet describes the intense pleasure of a secret, stolen glance between lovers. The phrase 'கண்களவு கொள்ளும் சிறுநோக்கம்' refers to the brief look that the eyes steal when the other is not looking directly. The poet states that this subtle, unspoken connection is not just a 'செம்பாகம்' (equal half) of the joy of love, but is actually 'பெரிது' (much greater) than the physical union itself. It highlights how anticipation and silent mutual understanding form the core of romantic pleasure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

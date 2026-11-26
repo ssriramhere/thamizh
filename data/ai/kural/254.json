@@ -9,23 +9,18 @@
      "gloss": "grace"
     }
    ],
-   "gloss": "grace"
+   "gloss": "grace (elided form of அருள்)"
   },
   {
    "surface": "அல்லது",
    "parts": [
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "text": "அல்லது",
+     "lemma": "அல்லது",
+     "gloss": "other than"
     }
    ],
-   "gloss": "that which is not"
+   "gloss": "other than"
   },
   {
    "surface": "யாது",
@@ -42,30 +37,20 @@
    "surface": "எனின்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "எனின்",
+     "lemma": "எனின்",
+     "gloss": "if you ask"
     }
    ],
-   "gloss": "if asked"
+   "gloss": "if you ask"
   },
   {
    "surface": "கொல்லாமை",
    "parts": [
     {
-     "text": "கொல்",
-     "lemma": "கொல்",
-     "gloss": "kill"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "text": "கொல்லாமை",
+     "lemma": "கொல்லாமை",
+     "gloss": "non-killing"
     }
    ],
    "gloss": "non-killing"
@@ -75,7 +60,7 @@
    "parts": [
     {
      "text": "கோறல்",
-     "lemma": "கொல்",
+     "lemma": "கொல்லுதல்",
      "gloss": "killing"
     }
    ],
@@ -87,39 +72,29 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "value"
+     "gloss": "virtue"
     }
    ],
-   "gloss": "value"
+   "gloss": "virtue"
   },
   {
    "surface": "அல்லது",
    "parts": [
     {
-     "text": "அல்",
-     "lemma": "அல்",
+     "text": "அல்லது",
+     "lemma": "அல்லது",
      "gloss": "not"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
     }
    ],
-   "gloss": "that which is not"
+   "gloss": "not"
   },
   {
    "surface": "அவ்",
    "parts": [
     {
-     "text": "அ",
+     "text": "அவ்",
      "lemma": "அ",
      "gloss": "that"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
     }
    ],
    "gloss": "that"
@@ -139,23 +114,18 @@
    "surface": "தினல்",
    "parts": [
     {
-     "text": "தின்",
-     "lemma": "தின்",
-     "gloss": "eat"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "தினல்",
+     "lemma": "தின்னல்",
+     "gloss": "eating"
     }
    ],
    "gloss": "eating"
   }
  ],
- "literal": "Grace and that which is not, what are they, if asked: non-killing and killing; value, that which is not, is eating that flesh.",
- "translation": "If asked what is grace and what is not, they are non-killing and killing. Eating that flesh is an act of no value.",
- "modern": "அருள் என்பது எது, அருள் அல்லாதது எது என்று கேட்டால், அவை முறையே ஓர் உயிரைக் கொல்லாமையும் கொல்லுதலும் ஆகும். அப்படிப் பெற்ற ஊனை உண்பது அறம் அல்லாத செயலாகும்.",
- "explanation": "The couplet defines grace and its opposite through the acts of non-killing and killing. It establishes that true compassion lies in not harming any life, while taking a life is the absence of compassion. Consequently, eating the flesh of a killed creature is condemned as an act devoid of any moral value or virtue. The word 'பொருள்' (poruḷ) here means a thing of value or virtue, emphasizing that eating meat brings no spiritual or moral worth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If you ask what is grace, it is non-killing; killing is the lack of virtue, and eating that flesh is also not a virtuous thing.",
+ "translation": "If you ask what compassion is, it is the practice of non-killing; killing is the absence of compassion, and eating that flesh is devoid of any virtue.",
+ "modern": "அருள் என்பது எது என்றால் அது கொல்லாமை ஆகும்; உயிரைக் கொல்லுதல் அருள் இல்லாத தன்மை ஆகும்; அந்த உடலை (ஊனை) உண்பதும் அறம் அல்லாதது ஆகும்.",
+ "explanation": "This couplet defines the essence of compassion as the practice of non-killing. It explains that if one asks what compassion is, the answer is simply not taking any life. Conversely, killing is the very opposite of compassion, and consuming the meat of a killed creature is completely devoid of virtue. The poet emphasizes that one cannot claim to have compassion while participating in the consumption of meat obtained through killing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,36 +6,26 @@
     {
      "text": "அற்று",
      "lemma": "அறு",
-     "gloss": "having severed"
+     "gloss": "having ceased"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who have severed"
+   "gloss": "those who are detached"
   },
   {
    "surface": "என்பார்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்பார்",
      "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who are called"
     }
    ],
-   "gloss": "they will say"
+   "gloss": "are those who are called"
   },
   {
    "surface": "அவா",
@@ -54,15 +44,15 @@
     {
      "text": "அற்று",
      "lemma": "அறு",
-     "gloss": "having severed"
+     "gloss": "having ceased"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who have severed"
+   "gloss": "those who are free from"
   },
   {
    "surface": "மற்றையார்",
@@ -71,11 +61,6 @@
      "text": "மற்றை",
      "lemma": "மற்றை",
      "gloss": "other"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "glide"
     },
     {
      "text": "ஆர்",
@@ -90,27 +75,22 @@
    "parts": [
     {
      "text": "அற்று",
-     "lemma": "அற்று",
-     "gloss": "thus"
+     "lemma": "அறு",
+     "gloss": "having ceased"
     }
    ],
-   "gloss": "like that"
+   "gloss": "having ceased"
   },
   {
    "surface": "ஆக",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive"
+     "gloss": "to be"
     }
    ],
-   "gloss": "to be"
+   "gloss": "in that manner"
   },
   {
    "surface": "அற்றது",
@@ -118,37 +98,32 @@
     {
      "text": "அற்று",
      "lemma": "அறு",
-     "gloss": "having severed"
+     "gloss": "having ceased"
     },
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "it"
+     "gloss": "that which"
     }
    ],
-   "gloss": "that which is severed"
+   "gloss": "detachment"
   },
   {
    "surface": "இலர்",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இலர்",
      "lemma": "இல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "they do not have"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "they do not have"
   }
  ],
- "literal": "Those who have severed, they will say, are those who have severed desire; others, like that, have not severed.",
- "translation": "The wise say that only those who have severed desire have truly severed their bonds. Others have not completely severed them.",
- "modern": "ஆசையை முழுமையாக விட்டவர்களையே பற்றற்றவர்கள் என்று அறிஞர் கூறுவர். மற்றவர்கள் வெளிவேடத்திற்காகத் துறந்தாலும், அவர்கள் பற்றுகளை முழுமையாக விட்டவர்கள் அல்லர்.",
- "explanation": "This couplet defines true renunciation by focusing on the root cause of attachment. It states that only those who have completely severed 'அவா' (desire) can be called 'அற்றவர்' (those who have severed their bonds). Others, who may have given up external possessions but still harbor desires, have not truly achieved the state of renunciation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who are detached, they say, are those who are free from desire; others, in that manner, do not have detachment.",
+ "translation": "Those who are truly detached are those who have freed themselves from desire; all others, though they may have renounced other things, are not truly detached.",
+ "modern": "பற்றுகளை அறுத்தவர் என்று சொல்லப்படுபவர் ஆசைகளை அறுத்தவரே ஆவர்; மற்றவர்கள் வேறு எவற்றைத் துறந்திருந்தாலும், முழுமையாகத் துறந்தவர்கள் ஆக மாட்டார்கள்.",
+ "explanation": "This couplet defines the ultimate nature of true renunciation. The poet states that only those who have completely eradicated desire (அவா) can be called truly detached (அற்றவர்). Others (மற்றையார்) might have given up their wealth, family, or worldly possessions, but if they still harbor desire in their minds, they have not achieved complete detachment (அற்றது இலர்). The core message is that desire is the root of all attachment, and renouncing everything else is meaningless if desire itself remains.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

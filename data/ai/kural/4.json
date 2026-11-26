@@ -6,7 +6,7 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "desire"
+     "gloss": "to desire"
     },
     {
      "text": "தல்",
@@ -14,7 +14,7 @@
      "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "desiring"
+   "gloss": "desire"
   },
   {
    "surface": "வேண்டாமை",
@@ -22,7 +22,7 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "desire"
+     "gloss": "to desire"
     },
     {
      "text": "ஆமை",
@@ -30,7 +30,7 @@
      "gloss": "negative verbal noun suffix"
     }
    ],
-   "gloss": "not desiring"
+   "gloss": "aversion or lack of desire"
   },
   {
    "surface": "இலான்",
@@ -38,12 +38,12 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "he who (masculine singular suffix)"
     }
    ],
    "gloss": "he who is without"
@@ -54,7 +54,7 @@
     {
      "text": "அடி",
      "lemma": "அடி",
-     "gloss": "foot"
+     "gloss": "feet"
     }
    ],
    "gloss": "feet"
@@ -64,21 +64,16 @@
    "parts": [
     {
      "text": "சேர்ந்தார்",
-     "lemma": "சேர்",
-     "gloss": "those who joined"
+     "lemma": "சேர்தல்",
+     "gloss": "those who reached"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to (dative suffix)"
     }
    ],
-   "gloss": "to those who joined"
+   "gloss": "to those who have reached"
   },
   {
    "surface": "யாண்டும்",
@@ -86,15 +81,15 @@
     {
      "text": "யாண்டு",
      "lemma": "யாண்டு",
-     "gloss": "anywhere/anytime"
+     "gloss": "any time or place"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "even or also (completeness particle)"
     }
    ],
-   "gloss": "ever"
+   "gloss": "at any time or always"
   },
   {
    "surface": "இடும்பை",
@@ -102,7 +97,7 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "suffering"
+     "gloss": "suffering or distress"
     }
    ],
    "gloss": "suffering"
@@ -118,16 +113,16 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "they (neuter)"
+     "gloss": "neuter plural ending"
     }
    ],
-   "gloss": "are not"
+   "gloss": "do not exist"
   }
  ],
- "literal": "Desiring not-desiring he-who-is-without foot to-those-who-joined anywhere suffering they-are-not.",
- "translation": "For those who have reached the feet of the one who has neither desire nor aversion, there is never any suffering.",
- "modern": "விருப்பு வெறுப்பு இல்லாதவனுடைய அடிகளைச் சேர்ந்தவர்களுக்கு எக்காலத்திலும் எவ்விடத்திலும் துன்பங்கள் இல்லை.",
- "explanation": "This couplet explains the benefit of attaching oneself to the one who is free from worldly attachments. The phrase 'வேண்டுதல் வேண்டாமை இலான்' refers to one who is completely free from both desire and aversion. 'அடி சேர்ந்தார்க்கு' means those who have reached or taken refuge in his feet. 'யாண்டும்' means at any time or in any place, emphasizing absolute protection. Therefore, those who align themselves with this state of desirelessness will never experience 'இடும்பை' or suffering.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who have reached the feet of Him who is without desire and aversion, at any time, sufferings do not exist.",
+ "translation": "To those who surrender to the feet of the One who has neither desire nor aversion, suffering never comes at any time.",
+ "modern": "விருப்பு வெறுப்பு இல்லாத இறைவனுடைய திருவடிகளைப் பொருந்தி வாழ்பவர்களுக்கு எக்காலத்திலும் துன்பங்கள் இல்லை.",
+ "explanation": "This couplet describes the Supreme Being as one who is completely free from the dualities of desire (liking) and aversion (disliking). Human suffering stems from these two opposing forces of attraction and repulsion. By aligning oneself with and meditating upon the feet of such a balanced being, a person transcends these dualities. Consequently, they are liberated from all forms of distress and mental affliction at all times.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

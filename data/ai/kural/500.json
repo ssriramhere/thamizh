@@ -17,7 +17,7 @@
     {
      "text": "ஆழ்",
      "lemma": "ஆழ்",
-     "gloss": "sinking"
+     "gloss": "to sink"
     }
    ],
    "gloss": "sinking"
@@ -28,7 +28,7 @@
     {
      "text": "களர்",
      "lemma": "களர்",
-     "gloss": "marsh"
+     "gloss": "muddy ground"
     },
     {
      "text": "இல்",
@@ -36,7 +36,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in the marsh"
+   "gloss": "in the muddy ground"
   },
   {
    "surface": "நரி",
@@ -53,9 +53,14 @@
    "surface": "அடும்",
    "parts": [
     {
-     "text": "அடும்",
+     "text": "அடு",
      "lemma": "அடு",
-     "gloss": "will kill"
+     "gloss": "to kill"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (habitual suffix)"
     }
    ],
    "gloss": "will kill"
@@ -75,12 +80,17 @@
    "surface": "அஞ்சா",
    "parts": [
     {
-     "text": "அஞ்சா",
+     "text": "அஞ்சு",
      "lemma": "அஞ்சு",
-     "gloss": "not fearing"
+     "gloss": "to fear"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not (negative relative participle suffix)"
     }
    ],
-   "gloss": "not fearing"
+   "gloss": "fearless"
   },
   {
    "surface": "வேல்",
@@ -108,12 +118,17 @@
    "surface": "முகத்த",
    "parts": [
     {
-     "text": "முகத்த",
+     "text": "முகத்து",
      "lemma": "முகம்",
-     "gloss": "facing"
+     "gloss": "face"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "having (adjectival suffix)"
     }
    ],
-   "gloss": "facing"
+   "gloss": "having on its face"
   },
   {
    "surface": "களிறு",
@@ -121,16 +136,16 @@
     {
      "text": "களிறு",
      "lemma": "களிறு",
-     "gloss": "bull elephant"
+     "gloss": "male elephant"
     }
    ],
-   "gloss": "bull elephant"
+   "gloss": "male elephant"
   }
  ],
- "literal": "Leg sinking in marsh, jackal will kill eye not-fearing spear warrior facing elephant.",
- "translation": "In a marsh where its legs sink, even a jackal can kill a mighty elephant that fearlessly faces spear-bearing warriors.",
- "modern": "கால்கள் ஆழமாகப் புதையும் சேற்று நிலத்தில் அகப்பட்டால், வேல் ஏந்திய வீரர்களைக் கண்டும் அஞ்சாத வலிமையான யானையை ஒரு சிறிய நரி கூடக் கொன்றுவிடும்.",
- "explanation": "This couplet illustrates the absolute importance of choosing the right battleground. A mighty elephant that fearlessly charges at warriors armed with spears becomes completely helpless if it gets stuck in a deep marsh. In such an unsuitable place, even a lowly, weak jackal can easily kill the great beast. The contrast between the fearless elephant and the weak jackal emphasizes that strength is useless in the wrong environment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In muddy ground where its legs sink, a jackal will kill a male elephant that has faced fearless spear-wielding warriors.",
+ "translation": "Even a jackal can kill a mighty male elephant, which has faced fearless spear-wielding warriors on the battlefield, if it gets trapped in deep muddy ground where its legs sink.",
+ "modern": "அஞ்சாத வேல் ஏந்திய வீரர்களைத் தன் முகத்தால் எதிர்த்து நின்ற ஆண் யானையை, அதன் கால் ஆழப் புதையும் சேற்று நிலத்தில் மாட்டித் தவிக்கும்போது, ஒரு நரியும் கொன்றுவிடும்.",
+ "explanation": "This couplet illustrates the supreme importance of choosing the right place for action. A mighty male elephant is incredibly powerful and can easily face brave warriors armed with spears on a dry battlefield. However, if that same elephant enters a swamp or muddy ground where its heavy legs sink, its immense strength becomes useless. In such a helpless position, even a weak animal like a jackal can easily overpower and kill it. Thus, the couplet teaches that even the most powerful person will be defeated if they fight in an unfavorable location.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

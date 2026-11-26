@@ -6,26 +6,31 @@
     {
      "text": "புன்கண்",
      "lemma": "புன்கண்",
-     "gloss": "sorrow / sad eye"
+     "gloss": "sorrow"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[2nd person singular suffix]"
+     "gloss": "second person singular suffix"
     }
    ],
-   "gloss": "you have sad eyes"
+   "gloss": "you are sorrowful"
   },
   {
    "surface": "வாழி",
    "parts": [
     {
-     "text": "வாழி",
-     "lemma": "வாழி",
-     "gloss": "may you live"
+     "text": "வாழ்",
+     "lemma": "வாழ்",
+     "gloss": "live"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "optative suffix"
     }
    ],
-   "gloss": "hail!"
+   "gloss": "may you live"
   },
   {
    "surface": "மருள்",
@@ -33,10 +38,10 @@
     {
      "text": "மருள்",
      "lemma": "மருள்",
-     "gloss": "bewilderment"
+     "gloss": "bewildering"
     }
    ],
-   "gloss": "bewildered"
+   "gloss": "bewildering"
   },
   {
    "surface": "மாலை",
@@ -55,10 +60,10 @@
     {
      "text": "எம்",
      "lemma": "யாம்",
-     "gloss": "our"
+     "gloss": "my"
     }
    ],
-   "gloss": "our"
+   "gloss": "my"
   },
   {
    "surface": "கேள்",
@@ -93,12 +98,12 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "[neuter singular suffix]"
+     "gloss": "it"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[question particle]"
+     "gloss": "interrogative particle"
     }
    ],
    "gloss": "is it hard-hearted?"
@@ -126,10 +131,10 @@
    "gloss": "companion"
   }
  ],
- "literal": "Sad-eyed-you-are, hail, bewildered evening! Our lover like, hard-hearted-is-it your companion?",
- "translation": "Hail, bewildered evening! You have sad, dim eyes. Is your companion as hard-hearted as my lover?",
- "modern": "மயக்கத்தைத் தரும் மாலையே! நீயும் துன்பம் நிறைந்த கண்களை உடையவளாக இருக்கிறாய். என் காதலரைப் போலவே உன்னுடைய துணையும் இரக்கமற்றதோ?",
- "explanation": "The heroine addresses the evening, projecting her own sorrow onto the time of day. She calls the evening 'bewildered' (மருள்) and notes its 'sad eyes' (புன்கண்ணை), referring to the dimming, gloomy light of dusk. Seeing the evening's sorrowful state, she wonders if its companion has abandoned it and is as hard-hearted (வன்கண்ணது) as her own lover. This personification beautifully captures her intense loneliness and longing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "You are sorrowful, may you live, bewildering evening! Like my lover, is it hard-hearted, your companion?",
+ "translation": "May you live long, O bewildering evening! You look so sorrowful. Is your companion too as hard-hearted as my lover?",
+ "modern": "மயக்கம் தரும் மாலையே! நீ வாழ்க! நீ துன்பத்துடன் காணப்படுகிறாய். என் காதலனைப் போல உன்னுடைய துணையும் இரக்கமற்ற நெஞ்சத்தைக் கொண்டிருக்கிறதா?",
+ "explanation": "The heroine, suffering from the pain of separation, addresses the evening twilight. She notices that the evening seems dim and sorrowful, just like her. She asks the evening if its own companion, the sun which has departed, is as cruel and hard-hearted as her own lover who has left her. The word 'puṉkaṇ' (sorrow) denotes the sad appearance of the evening, while 'vaṉkaṇ' (hard-heartedness) highlights the perceived cruelty of the departing companion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

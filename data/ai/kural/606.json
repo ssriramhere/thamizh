@@ -15,12 +15,17 @@
    "surface": "உடையார்",
    "parts": [
     {
-     "text": "உடையார்",
-     "lemma": "உடைமை",
-     "gloss": "those who possess"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (who)"
     }
    ],
-   "gloss": "possessors"
+   "gloss": "those who possess"
   },
   {
    "surface": "பற்று",
@@ -39,10 +44,10 @@
     {
      "text": "அமைந்த",
      "lemma": "அமை",
-     "gloss": "secured"
+     "gloss": "obtained"
     }
    ],
-   "gloss": "secured"
+   "gloss": "obtained"
   },
   {
    "surface": "கண்ணும்",
@@ -50,7 +55,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/time"
+     "gloss": "when"
     },
     {
      "text": "உம்",
@@ -75,23 +80,28 @@
    "surface": "உடையார்",
    "parts": [
     {
-     "text": "உடையார்",
-     "lemma": "உடைமை",
-     "gloss": "those who possess"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (who)"
     }
    ],
-   "gloss": "possessors"
+   "gloss": "those who possess"
   },
   {
    "surface": "மாண்",
    "parts": [
     {
      "text": "மாண்",
-     "lemma": "மாண்பு",
-     "gloss": "excellent"
+     "lemma": "மாண்",
+     "gloss": "great"
     }
    ],
-   "gloss": "excellent"
+   "gloss": "great"
   },
   {
    "surface": "பயன்",
@@ -120,17 +130,17 @@
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "is difficult"
+     "lemma": "அரிது",
+     "gloss": "rare"
     }
    ],
-   "gloss": "is difficult"
+   "gloss": "is rare"
   }
  ],
- "literal": "Earth possessors' support secured even when, laziness possessors excellent benefit attaining is difficult.",
- "translation": "Even if they secure the support of kings who rule the earth, it is difficult for the lazy to attain any glorious benefits.",
- "modern": "உலகத்தை ஆளும் அரசர்களின் ஆதரவு கிடைத்தாலும், சோம்பல் உடையவர்கள் சிறந்த பயன்களை அடைவது கடினம்.",
- "explanation": "This couplet emphasizes that external advantages cannot compensate for internal flaws like laziness. The word 'paṭi' means the earth, and 'paṭiyuṭaiyār' refers to kings or powerful rulers who possess it. Even if a person secures the strong support ('paṟṟu') of such powerful figures, their own laziness ('maṭi') will prevent them from achieving any excellent results ('māṇ payan'). True success requires personal effort, regardless of how much backing one has.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when the support of those who possess the earth is obtained, for those who possess laziness, attaining great benefits is rare.",
+ "translation": "Even if they secure the support of the rulers of the earth, those who are lazy will find it impossible to attain great benefits.",
+ "modern": "உலகத்தை ஆளுபவர்களின் ஆதரவைப் பெற்றிருந்தாலும், சோம்பல் உடையவர்கள் சிறந்த நன்மைகளை அடைவது அரிது.",
+ "explanation": "This couplet highlights how laziness completely neutralizes even the greatest external advantages. The word 'படி' refers to the earth, and 'படியுடையார்' means the rulers of the earth, representing the highest possible source of power and support. 'பற்று' denotes support or alliance. The poet argues that even if a person secures the backing of such powerful rulers, they cannot achieve any great or lasting benefits ('மாண்பயன்') if they are plagued by laziness ('மடி'). Ultimately, personal effort and activity are indispensable, and no amount of external patronage can compensate for sloth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

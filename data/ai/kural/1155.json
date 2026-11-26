@@ -6,7 +6,7 @@
     {
      "text": "ஓம்பு",
      "lemma": "ஓம்பு",
-     "gloss": "to protect"
+     "gloss": "prevent"
     },
     {
      "text": "இன்",
@@ -14,25 +14,25 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if (you) protect"
+   "gloss": "if you would prevent"
   },
   {
    "surface": "அமைந்தார்",
    "parts": [
     {
      "text": "அமைந்தார்",
-     "lemma": "அமை",
-     "gloss": "the excellent one"
+     "lemma": "அமைந்தார்",
+     "gloss": "he who is intimate"
     }
    ],
-   "gloss": "the excellent one"
+   "gloss": "the beloved one"
   },
   {
    "surface": "பிரிவு",
    "parts": [
     {
      "text": "பிரிவு",
-     "lemma": "பிரி",
+     "lemma": "பிரிவு",
      "gloss": "separation"
     }
    ],
@@ -43,11 +43,11 @@
    "parts": [
     {
      "text": "ஓம்பல்",
-     "lemma": "ஓம்பு",
+     "lemma": "ஓம்பல்",
      "gloss": "preventing"
     }
    ],
-   "gloss": "prevent"
+   "gloss": "preventing"
   },
   {
    "surface": "மற்று",
@@ -77,7 +77,7 @@
     {
      "text": "நீங்கு",
      "lemma": "நீங்கு",
-     "gloss": "to depart"
+     "gloss": "depart"
     },
     {
      "text": "இன்",
@@ -85,14 +85,14 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if (he) departs"
+   "gloss": "if he departs"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
+     "lemma": "அரிது",
      "gloss": "difficult"
     }
    ],
@@ -114,17 +114,17 @@
    "parts": [
     {
      "text": "புணர்வு",
-     "lemma": "புணர்",
-     "gloss": "union"
+     "lemma": "புணர்வு",
+     "gloss": "reunion"
     }
    ],
-   "gloss": "union"
+   "gloss": "reunion"
   }
  ],
- "literal": "If protecting, prevent the separation of the excellent one; otherwise, if he departs, difficult indeed is union.",
- "translation": "If you wish to save my life, prevent my beloved from leaving. If he departs, our reunion will be impossible.",
- "modern": "என் உயிரைக் காக்க விரும்பினால், என் காதலர் என்னைப் பிரிந்து செல்வதைத் தடுத்து நிறுத்துங்கள். அவர் என்னைப் பிரிந்து சென்றால், மீண்டும் நாங்கள் ஒன்று சேர்வது கடினம்.",
- "explanation": "The speaker addresses her friend, expressing the unbearable nature of her lover's impending departure. She says that if her friend truly wants to protect her life, she must stop him from leaving. The root word 'ōmpu' is used twice: first meaning to protect her life, and second meaning to prevent his departure. She concludes that if he does leave, a future reunion will be impossible because she will not survive the separation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [you would] prevent, prevent the separation of the beloved; otherwise, if he departs, reunion indeed [is] difficult.",
+ "translation": "If you would prevent anything, prevent the departure of my beloved; for if he leaves, a reunion will indeed be impossible.",
+ "modern": "தடுக்க நினைத்தால், அன்பானவரின் பிரிவைத் தடுத்து நிறுத்துங்கள்; இல்லையென்றால், அவர் பிரிந்து சென்றால் மீண்டும் இணைவது அரிது.",
+ "explanation": "In this verse, the heroine expresses the depth of her distress over her lover's impending departure. She urges her companion that if there is anything to be prevented, it must be his separation ('pirivu'). The word 'amaintār' refers to the lover who is perfectly suited and deeply intimate with her. She warns that if he departs ('nīṅkiṉ'), a future reunion ('puṇarvu') will be impossible ('aritu'), implying that she will not survive the grief of his absence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

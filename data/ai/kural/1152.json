@@ -4,12 +4,17 @@
    "surface": "இன்கண்",
    "parts": [
     {
-     "text": "இன்கண்",
-     "lemma": "இன்கண்",
-     "gloss": "joy"
+     "text": "இன்",
+     "lemma": "இனிமை",
+     "gloss": "sweetness"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "state"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "உடைத்து",
@@ -17,10 +22,10 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "possesses-it"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "has-it"
+   "gloss": "possesses"
   },
   {
    "surface": "அவர்",
@@ -28,7 +33,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "his"
+     "gloss": "he (beloved)"
     }
    ],
    "gloss": "his"
@@ -39,10 +44,10 @@
     {
      "text": "பார்வல்",
      "lemma": "பார்வல்",
-     "gloss": "look"
+     "gloss": "gaze"
     }
    ],
-   "gloss": "look"
+   "gloss": "gaze"
   },
   {
    "surface": "பிரிவு",
@@ -70,9 +75,14 @@
    "surface": "புன்கண்",
    "parts": [
     {
-     "text": "புன்கண்",
-     "lemma": "புன்கண்",
-     "gloss": "sorrow"
+     "text": "புன்",
+     "lemma": "புன்மை",
+     "gloss": "sorrowful"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "state"
     }
    ],
    "gloss": "sorrow"
@@ -83,10 +93,10 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "possesses-it"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "has-it"
+   "gloss": "possesses"
   },
   {
    "surface": "ஆல்",
@@ -111,10 +121,10 @@
    "gloss": "union"
   }
  ],
- "literal": "joy has-it his look separation fearing sorrow has-it indeed union",
- "translation": "His look brings me joy, but our union brings me sorrow, for it makes me fear our inevitable separation.",
- "modern": "அவருடைய பார்வை எனக்கு மகிழ்ச்சியைத் தருகிறது. ஆனால், அவருடனான கூடுதல், இனி வரப்போகும் பிரிவை நினைத்து அஞ்சும் துன்பத்தை எனக்குத் தருகிறது.",
- "explanation": "The speaker contrasts the joy of her lover's gaze with the sorrow of their physical union. While his look brings pure happiness, being united with him brings distress. This is because the very act of being together makes her dread the inevitable moment he will leave again. The words 'இன்கண்' (joy) and 'புன்கண்' (sorrow) beautifully highlight the paradox of love, where the height of intimacy is shadowed by the fear of separation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Pleasure possesses his gaze; separation-fearing sorrow possesses indeed union.",
+ "translation": "The gaze of my beloved brings pure pleasure; but our very union is filled with the sorrow of fearing a future separation.",
+ "modern": "அவருடைய பார்வை இன்பம் தருவதாக இருக்கிறது; ஆனால் எங்களது சேர்க்கையோ, பிரிவை நினைத்து அஞ்சுகின்ற துன்பத்தைக் கொண்டதாக இருக்கிறது.",
+ "explanation": "This couplet portrays the bittersweet anxiety of a lover. The heroine explains that merely looking at her beloved ('பார்வல்') brings her pure joy ('இன்கண்'). However, the actual physical union ('புணர்வு') is shadowed by 'புன்கண்' (sorrow), because the moment they are together, she is gripped by the fear of their next inevitable separation ('பிரிவஞ்சும்'). The contrast between the simple joy of his gaze and the complex anxiety of their embrace highlights the intensity of her attachment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

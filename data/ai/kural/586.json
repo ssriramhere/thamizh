@@ -5,35 +5,30 @@
    "parts": [
     {
      "text": "துறந்தார்",
-     "lemma": "துற",
-     "gloss": "those who renounced"
+     "lemma": "துறந்தார்",
+     "gloss": "those who have renounced"
     }
    ],
-   "gloss": "ascetics"
+   "gloss": "those who have renounced"
   },
   {
    "surface": "படிவத்தர்",
    "parts": [
     {
      "text": "படிவத்தர்",
-     "lemma": "படிவம்",
-     "gloss": "those of the appearance"
+     "lemma": "படிவத்தர்",
+     "gloss": "those who have the guise or appearance"
     }
    ],
-   "gloss": "having the appearance"
+   "gloss": "those who have the guise or appearance"
   },
   {
    "surface": "ஆகி",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having become"
     }
    ],
    "gloss": "having become"
@@ -43,18 +38,18 @@
    "parts": [
     {
      "text": "இறந்து",
-     "lemma": "இற",
-     "gloss": "having gone beyond"
+     "lemma": "இறந்து",
+     "gloss": "having entered or gone beyond"
     }
    ],
-   "gloss": "having penetrated"
+   "gloss": "having entered or gone beyond"
   },
   {
    "surface": "ஆராய்ந்து",
    "parts": [
     {
      "text": "ஆராய்ந்து",
-     "lemma": "ஆராய்",
+     "lemma": "ஆராய்ந்து",
      "gloss": "having investigated"
     }
    ],
@@ -66,26 +61,21 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "what"
+     "gloss": "what / whatever"
     }
    ],
-   "gloss": "whatever"
+   "gloss": "what / whatever"
   },
   {
    "surface": "செயினும்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயினும்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "gloss": "even if they do"
     }
    ],
-   "gloss": "even if done"
+   "gloss": "even if they do"
   },
   {
    "surface": "சோர்வு",
@@ -93,21 +83,21 @@
     {
      "text": "சோர்வு",
      "lemma": "சோர்வு",
-     "gloss": "faltering"
+     "gloss": "slip / forgetfulness / revealing oneself"
     }
    ],
-   "gloss": "faltering"
+   "gloss": "slip / forgetfulness / revealing oneself"
   },
   {
    "surface": "இலது",
    "parts": [
     {
      "text": "இலது",
-     "lemma": "இல்",
-     "gloss": "that which is without"
+     "lemma": "இலது",
+     "gloss": "that which does not have"
     }
    ],
-   "gloss": "without"
+   "gloss": "that which does not have"
   },
   {
    "surface": "ஒற்று",
@@ -115,16 +105,16 @@
     {
      "text": "ஒற்று",
      "lemma": "ஒற்று",
-     "gloss": "spy"
+     "gloss": "espionage / the spy"
     }
    ],
-   "gloss": "spy"
+   "gloss": "espionage / the spy"
   }
  ],
- "literal": "Having become those of the appearance of those who renounced, having penetrated and investigated, whatever is done, that which is without faltering is a spy.",
- "translation": "A true spy takes on the appearance of an ascetic to penetrate restricted places and gather information, never faltering or revealing their identity no matter what is done to them.",
- "modern": "துறவிகளின் வேடத்தை அணிந்து, செல்ல முடியாத இடங்களுக்கும் சென்று ஆராய்ந்து, மற்றவர்கள் தமக்கு என்ன துன்பம் செய்தாலும் தம் உண்மையான அடையாளத்தை வெளிப்படுத்தாதவரே சிறந்த ஒற்றர் ஆவார்.",
- "explanation": "This couplet defines the resilience and disguise required of a spy. The spy must assume an unimpeachable disguise, such as that of an ascetic, to gain access to heavily guarded or private areas. Once inside, they must thoroughly investigate and gather intelligence. Most importantly, even if they are suspected and subjected to torture or hardship, they must never falter or reveal their true mission.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having become those who have the guise of those who have renounced, having entered and investigated, whatever is done to them, a spy is one without slip.",
+ "translation": "Assuming the guise of holy ascetics, entering everywhere to investigate secrets, a true spy is one who never slips up or reveals their identity, no matter what is done to them.",
+ "modern": "துறவிகளின் வேடத்தை ஏற்றுக்கொண்டு, பிறர் அறியாதவாறு புகுந்து உண்மைகளை ஆராய்ந்து, தமக்கு என்ன நேர்ந்தாலும் தன் மெய்ம்மையை வெளிப்படுத்தாத சோர்வில்லாத தன்மையைக் கொண்டிருப்பதே ஒற்றாகும்.",
+ "explanation": "This couplet outlines the extreme operational methods and resilience required of a spy. A spy should adopt the disguise of ascetics ('துறந்தார் படிவத்தர்') because holy men have free access to all places without raising suspicion. They must enter deep into enemy territory ('இறந்து') to gather intelligence. Most importantly, even if they are caught, tortured, or interrogated ('என் செயினும்'), they must never lose their composure or slip up ('சோர்வு இலது') to betray their mission.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

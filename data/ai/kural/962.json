@@ -6,15 +6,20 @@
     {
      "text": "சீர்",
      "lemma": "சீர்",
-     "gloss": "greatness"
+     "gloss": "wealth or greatness"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even in greatness"
+   "gloss": "even if it brings wealth or greatness"
   },
   {
    "surface": "சீர்",
@@ -22,10 +27,10 @@
     {
      "text": "சீர்",
      "lemma": "சீர்",
-     "gloss": "greatness"
+     "gloss": "honorable or fitting"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "honorable deeds"
   },
   {
    "surface": "அல்ல",
@@ -33,10 +38,10 @@
     {
      "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not-things"
+     "gloss": "not those"
     }
    ],
-   "gloss": "things that are not"
+   "gloss": "those that are not"
   },
   {
    "surface": "செய்யாரே",
@@ -52,7 +57,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "they will not do indeed"
+   "gloss": "they will indeed not do"
   },
   {
    "surface": "சீரொடு",
@@ -60,7 +65,7 @@
     {
      "text": "சீர்",
      "lemma": "சீர்",
-     "gloss": "greatness"
+     "gloss": "honor or dignity"
     },
     {
      "text": "ஒடு",
@@ -68,7 +73,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with greatness"
+   "gloss": "along with honor"
   },
   {
    "surface": "பேராண்மை",
@@ -81,27 +86,32 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "manliness"
+     "gloss": "fortitude or manliness"
     }
    ],
-   "gloss": "great manliness"
+   "gloss": "great fortitude"
   },
   {
    "surface": "வேண்டுபவர்",
    "parts": [
     {
-     "text": "வேண்டுபவர்",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "those who desire"
+     "gloss": "desire"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "those who"
     }
    ],
    "gloss": "those who desire"
   }
  ],
- "literal": "Even in greatness, greatness-not-things they will not do indeed, with greatness great-manliness those who desire.",
- "translation": "Those who desire great honor along with lasting glory will not do inglorious deeds, even if it brings them greatness.",
- "modern": "புகழோடு கூடிய சிறந்த மானத்தை விரும்புபவர்கள், தமக்கு பெரும் புகழ் கிடைப்பதாக இருந்தாலும், புகழுக்கு ஒவ்வாத இழிவான செயல்களைச் செய்ய மாட்டார்கள்.",
- "explanation": "This couplet emphasizes that true honor cannot be compromised for the sake of temporary success or glory. The word பேராண்மை (great manliness) here refers to the supreme strength of character that upholds dignity. Those who seek such noble character along with true greatness will never commit degrading acts, even if those acts promise to elevate their status.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if it brings wealth, deeds that are not honorable they will indeed not do, those who desire great fortitude along with honor.",
+ "translation": "Those who desire great fortitude along with honor will never do deeds that are unworthy of their dignity, even if such deeds would bring them immense wealth or greatness.",
+ "modern": "புகழுடன் கூடிய சிறந்த ஆண்மைத் தன்மையை விரும்புகின்றவர்கள், தமக்கு மிகுந்த செல்வம் தருவதாக இருந்தாலும், தமது பெருமைக்குத் தகாத செயல்களைச் செய்யவே மாட்டார்கள்.",
+ "explanation": "This couplet highlights the uncompromising nature of self-respect and honor. The poet explains that individuals who aspire to possess true strength of character and fortitude (pērāṇmai) alongside their honor (cīroṭu) will never stoop to doing things that are beneath their dignity (cīralla ceyyārē). Even if an action promises to bring them immense wealth, power, or external greatness (cīriṉum), they will reject it if it compromises their integrity. The word 'cīr' is used beautifully with different shades of meaning: first as material prosperity, then as fitting or honorable conduct, and finally as dignity itself. Thus, true honor is shown to be far more valuable than any material gain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

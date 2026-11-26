@@ -4,12 +4,22 @@
    "surface": "மறவற்க",
    "parts": [
     {
-     "text": "மறவற்க",
+     "text": "மற",
      "lemma": "மற",
-     "gloss": "do not forget"
+     "gloss": "forget"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix"
     }
    ],
-   "gloss": "do not forget"
+   "gloss": "Do not forget"
   },
   {
    "surface": "மாசு",
@@ -31,7 +41,7 @@
      "gloss": "those who are without"
     }
    ],
-   "gloss": "those who are without"
+   "gloss": "those who are free from"
   },
   {
    "surface": "கேண்மை",
@@ -48,12 +58,22 @@
    "surface": "துறவற்க",
    "parts": [
     {
-     "text": "துறவற்க",
+     "text": "துற",
      "lemma": "துற",
-     "gloss": "do not forsake"
+     "gloss": "abandon"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "not"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix"
     }
    ],
-   "gloss": "do not forsake"
+   "gloss": "Do not abandon"
   },
   {
    "surface": "துன்பத்துள்",
@@ -61,7 +81,7 @@
     {
      "text": "துன்பத்து",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "distress"
     },
     {
      "text": "உள்",
@@ -69,7 +89,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in sorrow"
+   "gloss": "in times of distress"
   },
   {
    "surface": "துப்பு",
@@ -87,7 +107,7 @@
    "parts": [
     {
      "text": "ஆயார்",
-     "lemma": "ஆகு",
+     "lemma": "ஆ",
      "gloss": "those who became"
     }
    ],
@@ -105,10 +125,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "Do not forget blemish-without-they friendship; do not forsake sorrow-in support became-they friendship.",
- "translation": "Do not forget the friendship of the flawless. Do not forsake the friendship of those who were your support in times of sorrow.",
- "modern": "குற்றமற்றவர்களின் உறவை மறக்கக் கூடாது. துன்பம் வந்த காலத்தில் துணையாக இருந்தவர்களின் நட்பைக் கைவிடக் கூடாது.",
- "explanation": "This couplet emphasizes the lasting value of pure relationships and timely help. The word 'மாசற்றார்' refers to people of flawless character, whose friendship should always be cherished in one's memory. 'துப்பு' means strength or support, highlighting how true friends act as a pillar during times of affliction ('துன்பத்துள்'). By placing 'மறவற்க' (do not forget) and 'துறவற்க' (do not forsake) in parallel, the verse teaches that gratitude requires both remembering the good and never abandoning those who stood by us.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not forget the friendship of those free from blemish; do not abandon the friendship of those who became a support in distress.",
+ "translation": "Never forget the friendship of those who are pure and free from blemish; never abandon the friendship of those who stood as your support in times of distress.",
+ "modern": "குற்றமற்றவர்களுடைய நட்பை மறக்கக் கூடாது; துன்பம் வந்த காலத்தில் நமக்குத் துணையாக நின்றவர்களுடைய நட்பைக் கைவிடக் கூடாது.",
+ "explanation": "This couplet highlights two kinds of friendships that must be preserved at all costs. First, one must never forget the friendship of pure-hearted people who are free from faults (மாசற்றார் கேண்மை). Second, one must never forsake the friendship of those who acted as a pillar of support (துப்பு ஆயார்) during times of suffering (துன்பத்துள்). The word 'துப்பு' is used here in the sense of strength or support, which perfectly fits the context of receiving help during adversity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

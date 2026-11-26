@@ -6,10 +6,10 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "benefit"
+     "gloss": "usefulness"
     }
    ],
-   "gloss": "benefit"
+   "gloss": "usefulness"
   },
   {
    "surface": "இல்",
@@ -28,26 +28,26 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   },
   {
    "surface": "பாராட்டுவானை",
    "parts": [
     {
      "text": "பாராட்டுவான்",
-     "lemma": "பாராட்டு",
-     "gloss": "he who dwells upon"
+     "lemma": "பாராட்டுவான்",
+     "gloss": "one who speaks repeatedly"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who dwells upon"
+   "gloss": "him who speaks useless words repeatedly"
   },
   {
    "surface": "மகன்",
@@ -58,23 +58,18 @@
      "gloss": "man"
     }
    ],
-   "gloss": "man"
+   "gloss": "a man"
   },
   {
    "surface": "எனல்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "எனல்",
+     "lemma": "எனல்",
+     "gloss": "calling"
     }
    ],
-   "gloss": "saying / calling"
+   "gloss": "calling"
   },
   {
    "surface": "மக்கள்",
@@ -82,10 +77,10 @@
     {
      "text": "மக்கள்",
      "lemma": "மக்கள்",
-     "gloss": "people"
+     "gloss": "humanity"
     }
    ],
-   "gloss": "people"
+   "gloss": "of humanity"
   },
   {
    "surface": "பதடி",
@@ -102,23 +97,18 @@
    "surface": "எனல்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "எனல்",
+     "lemma": "எனல்",
+     "gloss": "calling"
     }
    ],
-   "gloss": "saying / calling"
+   "gloss": "calling"
   }
  ],
- "literal": "Him who dwells upon words without benefit, calling a man [is wrong]; calling the chaff of people [is right].",
- "translation": "Do not call a person a man if he dwells upon useless words; call him the chaff among human beings.",
- "modern": "பயனில்லாத சொற்களைத் திரும்பத் திரும்பப் பேசுபவனை ஒரு மனிதன் என்று சொல்லக்கூடாது; அவனை மனிதர்களுள் பதர் என்றுதான் சொல்ல வேண்டும்.",
- "explanation": "The couplet strongly condemns the habit of speaking useless words. The word 'பாராட்டுவானை' refers to someone who repeatedly dwells upon or celebrates empty talk. The poet uses the word 'எனல்' (a verbal noun meaning saying or calling) twice to create a sharp contrast, functioning as an injunction. Calling such a person a 'மகன்' (a true human being) is wrong; instead, one should call him 'பதடி' (chaff), the empty husk of grain that has no substance or value among people.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Calling him who speaks words without usefulness a man is calling him the chaff of humanity.",
+ "translation": "To call a person who repeatedly utters useless words a human being is like calling empty chaff a grain.",
+ "modern": "பயனற்ற சொற்களைப் பேசித் திரிகிறவனை மனிதன் என்று சொல்லக் கூடாது; அவனை மனிதர்களுள் பதர் (பயனற்ற உமி) என்றுதான் சொல்ல வேண்டும்.",
+ "explanation": "This couplet uses a powerful agricultural metaphor to describe someone who speaks useless words. Just as chaff (பதடி) looks like grain from the outside but contains no substance inside, a person who speaks without purpose or utility may look like a human being (மகன்) but lacks any real human worth. The word 'பாராட்டுவான்' here refers to one who repeatedly utters or dwells on useless talk. The author emphasizes that such a person should not be counted among true human beings, but rather dismissed as empty chaff.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,21 +17,26 @@
     {
      "text": "ஆற்றின்",
      "lemma": "ஆறு",
-     "gloss": "in the path"
+     "gloss": "path"
     }
    ],
-   "gloss": "in the path"
+   "gloss": "in the path of"
   },
   {
    "surface": "இல்வாழ்க்கை",
    "parts": [
     {
-     "text": "இல்வாழ்க்கை",
-     "lemma": "இல்வாழ்க்கை",
-     "gloss": "family life"
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "home"
+    },
+    {
+     "text": "வாழ்க்கை",
+     "lemma": "வாழ்க்கை",
+     "gloss": "life"
     }
    ],
-   "gloss": "family life"
+   "gloss": "domestic life"
   },
   {
    "surface": "ஆற்றின்",
@@ -39,7 +44,7 @@
     {
      "text": "ஆற்றின்",
      "lemma": "ஆற்று",
-     "gloss": "if one conducts"
+     "gloss": "conduct"
     }
    ],
    "gloss": "if one conducts"
@@ -53,7 +58,7 @@
      "gloss": "outside"
     }
    ],
-   "gloss": "outside"
+   "gloss": "on the outside"
   },
   {
    "surface": "ஆற்றில்",
@@ -61,10 +66,10 @@
     {
      "text": "ஆற்றில்",
      "lemma": "ஆறு",
-     "gloss": "in the path"
+     "gloss": "path"
     }
    ],
-   "gloss": "in a path"
+   "gloss": "in the path"
   },
   {
    "surface": "போஒய்",
@@ -72,7 +77,7 @@
     {
      "text": "போஒய்",
      "lemma": "போ",
-     "gloss": "having gone"
+     "gloss": "go"
     }
    ],
    "gloss": "having gone"
@@ -83,10 +88,10 @@
     {
      "text": "பெறுவது",
      "lemma": "பெறு",
-     "gloss": "that which is gained"
+     "gloss": "obtain"
     }
    ],
-   "gloss": "what is gained"
+   "gloss": "what is to be gained"
   },
   {
    "surface": "எவன்",
@@ -100,10 +105,10 @@
    "gloss": "what"
   }
  ],
- "literal": "Of virtue in the path family life if one conducts, outside in a path having gone that which is gained what?",
- "translation": "If one conducts family life in the path of virtue, what is to be gained by going in any outside path?",
- "modern": "ஒருவன் இல்வாழ்க்கையை அறத்தின் வழியில் நடத்துவானானால், அவன் வேறு வழிகளில் சென்று பெறக்கூடிய பயன் என்ன இருக்கிறது?",
- "explanation": "This couplet emphasizes the completeness of a virtuous family life. The phrase 'அறத்து ஆற்றின்' means 'in the path of virtue', and the second 'ஆற்றின்' means 'if one conducts'. If a person lives their domestic life righteously, there is no greater spiritual or moral benefit to be found by abandoning it for an 'outside path' (புறத்து ஆற்றில்), such as asceticism. The rhetorical question 'பெறுவது எவன்' (what is gained?) implies that nothing more can be achieved elsewhere.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Of virtue in the path domestic life if one conducts, on the outside path having gone, what is to be gained?",
+ "translation": "If one conducts domestic life in the path of virtue, what is there to be gained by leaving it and entering other paths?",
+ "modern": "அறநெறியில் இல்லற வாழ்க்கையை நடத்தினால், அதை விட்டுவிட்டு வேறு நெறிகளில் சென்று பெறுவது என்ன இருக்கிறது?",
+ "explanation": "This couplet emphasizes that a righteous domestic life is the highest path of virtue. If a householder conducts their family life according to moral principles, there is no need to wander away in search of other spiritual or ascetic paths. The word 'போஒய்' is a poetic elongation of 'போய்' (having gone), highlighting the unnecessary effort of seeking external paths. The rhetorical question 'பெறுவது எவன்' (what is to be gained?) shows that true fulfillment is already fully realized within a virtuous home.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

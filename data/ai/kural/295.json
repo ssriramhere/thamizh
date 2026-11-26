@@ -6,7 +6,7 @@
     {
      "text": "மனத்து",
      "lemma": "மனம்",
-     "gloss": "mind"
+     "gloss": "mind (oblique form)"
     },
     {
      "text": "ஒடு",
@@ -14,7 +14,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with the mind"
+   "gloss": "with one's mind (sincerely)"
   },
   {
    "surface": "வாய்மை",
@@ -25,7 +25,7 @@
      "gloss": "truthfulness"
     }
    ],
-   "gloss": "truthfulness"
+   "gloss": "truth"
   },
   {
    "surface": "மொழியின்",
@@ -41,7 +41,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if speaks"
+   "gloss": "if one speaks"
   },
   {
    "surface": "தவத்தொடு",
@@ -49,7 +49,7 @@
     {
      "text": "தவத்து",
      "lemma": "தவம்",
-     "gloss": "penance"
+     "gloss": "penance (oblique form)"
     },
     {
      "text": "ஒடு",
@@ -81,10 +81,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative)"
     }
    ],
-   "gloss": "than those who do"
+   "gloss": "than those who perform"
   },
   {
    "surface": "தலை",
@@ -92,16 +92,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "head or superior"
     }
    ],
-   "gloss": "chief"
+   "gloss": "superior"
   }
  ],
- "literal": "With the mind truthfulness if speaks, penance with charity than those who do, chief.",
- "translation": "If one speaks the truth from the heart, one is superior to those who perform penance and give to charity.",
- "modern": "ஒருவன் தன் மனத்தோடு பொருந்திய உண்மையைச் சொல்வானானால், அவன் தவமும் தானமும் செய்பவர்களை விடச் சிறந்தவன் ஆவான்.",
- "explanation": "This couplet compares the virtue of truthfulness to the traditional virtues of penance and charity. The phrase 'maṉattoṭu' emphasizes that truth must be spoken from the heart, aligning one's words completely with one's inner thoughts. If a person achieves this sincere truthfulness, the text states they are 'talai' (the head or superior) compared to those who merely perform outward acts of asceticism and charity. Thus, inner honesty is elevated above all other righteous deeds.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With mind truth if [one] speaks, with penance charity those who do than, superior.",
+ "translation": "If one speaks the truth with all one's heart, they are superior to those who perform both penance and charity.",
+ "modern": "ஒருவர் தன் மனப்பூர்வமாக உண்மையைச் சொன்னால், அவர் தவமும் தானமும் செய்பவர்களை விடச் சிறந்தவர் ஆவார்.",
+ "explanation": "This couplet compares the virtue of speaking the truth with the traditional religious practices of penance and charity. The phrase 'மனத்தொடு வாய்மை மொழியின்' highlights that truthfulness must come from a sincere and pure mind, not just as a superficial utterance. The poet declares that a person who practices such heartfelt truthfulness is superior ('தலை') to those who perform rigorous austerities ('தவத்தொடு') and give away wealth ('தானம்'). Thus, inner truthfulness is elevated above even the most celebrated external spiritual and moral acts.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

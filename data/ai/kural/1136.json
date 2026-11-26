@@ -6,17 +6,17 @@
     {
      "text": "மடல்",
      "lemma": "மடல்",
-     "gloss": "palmyra chariot"
+     "gloss": "palmyra stem"
     }
    ],
-   "gloss": "palmyra chariot"
+   "gloss": "palmyra stem"
   },
   {
    "surface": "ஊர்தல்",
    "parts": [
     {
      "text": "ஊர்தல்",
-     "lemma": "ஊர்",
+     "lemma": "ஊர்தல்",
      "gloss": "riding"
     }
    ],
@@ -48,11 +48,11 @@
     },
     {
      "text": "வேன்",
-     "lemma": "வேன்",
+     "lemma": "ஏன்",
      "gloss": "I will"
     }
    ],
-   "gloss": "I will think"
+   "gloss": "I will think of"
   },
   {
    "surface": "மன்ற",
@@ -69,14 +69,9 @@
    "surface": "படல்",
    "parts": [
     {
-     "text": "படு",
-     "lemma": "படு",
-     "gloss": "close"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "படல்",
+     "lemma": "படல்",
+     "gloss": "closing"
     }
    ],
    "gloss": "closing"
@@ -85,17 +80,12 @@
    "surface": "ஒல்லா",
    "parts": [
     {
-     "text": "ஒல்",
-     "lemma": "ஒல்",
-     "gloss": "agree"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not (neuter plural)"
+     "text": "ஒல்லா",
+     "lemma": "ஒல்லு",
+     "gloss": "not agreeing"
     }
    ],
-   "gloss": "they do not agree"
+   "gloss": "which refuse to"
   },
   {
    "surface": "பேதைக்கு",
@@ -103,15 +93,15 @@
     {
      "text": "பேதை",
      "lemma": "பேதை",
-     "gloss": "simple girl"
+     "gloss": "beloved"
     },
     {
-     "text": "க்கு",
+     "text": "கு",
      "lemma": "கு",
-     "gloss": "for"
+     "gloss": "because of"
     }
    ],
-   "gloss": "for the simple girl"
+   "gloss": "because of my beloved"
   },
   {
    "surface": "என்",
@@ -136,10 +126,10 @@
    "gloss": "eyes"
   }
  ],
- "literal": "Palmyra chariot riding, even at midnight I will think of, surely; closing they do not agree, for the simple girl, my eyes.",
- "translation": "My eyes refuse to close in sleep for the sake of this simple girl. Surely, even at midnight, I think of riding the palmyra chariot.",
- "modern": "இந்தப் பேதைப் பெண்ணின் நினைவால் என் கண்கள் மூட மறுக்கின்றன; அதனால் நள்ளிரவிலும் நான் மடல் ஏறுவதைப் பற்றியே உறுதியாக நினைக்கிறேன்.",
- "explanation": "The speaker is a lover suffering from intense longing, expressing his desperation. He states that his eyes refuse to close in sleep ('படல் ஒல்லா') because of his love for the simple girl ('பேதை'). Kept awake by this torment even in the dead of night ('யாமத்தும்'), he contemplates riding the 'madal' ('மடல் ஊர்தல்'). Riding the madal is an extreme ancient Tamil custom where a frustrated lover publicly rides a rough chariot of palmyra stems to win his love. The particle 'மன்ற' emphasizes his absolute certainty and resolve in this desperate act.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Riding the palmyra horse, even at midnight, I will think of, surely; closing not agreeing, because of the beloved, my eyes.",
+ "translation": "My eyes refuse to close in sleep because of my beloved; surely, even in the dead of night, I think only of riding the palmyra horse.",
+ "modern": "என் கண்கள் அந்தப் பேதைக்காகத் தூங்குவதற்கு உடன்படவில்லை; அதனால், நள்ளிரவிலும் நான் மடல் ஊர்வதைப் பற்றியே நிச்சயமாக நினைப்பேன்.",
+ "explanation": "The lover is suffering from sleeplessness because of his beloved, whom he refers to as 'pētai' (the innocent or simple girl). Since his eyes refuse to close (paṭal ollā) in sleep, he lies awake even during the dead of night (yāmattum). In this quiet, sleepless state, his mind is entirely and surely (maṉṟa) occupied with the thought of riding the palmyra horse (maṭalūrtal) to publicly declare his love and end his torment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

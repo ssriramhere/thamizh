@@ -4,20 +4,30 @@
    "surface": "அற்றது",
    "parts": [
     {
-     "text": "அற்றது",
+     "text": "அற்று",
      "lemma": "அறு",
-     "gloss": "that which is digested"
+     "gloss": "having digested"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
     }
    ],
-   "gloss": "what is digested"
+   "gloss": "that which was digested"
   },
   {
    "surface": "அறிந்து",
    "parts": [
     {
-     "text": "அறிந்து",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "having known"
+     "gloss": "know"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "து",
+     "gloss": "having"
     }
    ],
    "gloss": "having known"
@@ -26,12 +36,17 @@
    "surface": "கடைப்பிடித்து",
    "parts": [
     {
-     "text": "கடைப்பிடித்து",
+     "text": "கடைப்பிடி",
      "lemma": "கடைப்பிடி",
-     "gloss": "having adhered firmly"
+     "gloss": "observe firmly"
+    },
+    {
+     "text": "த்து",
+     "lemma": "து",
+     "gloss": "having"
     }
    ],
-   "gloss": "having adhered firmly"
+   "gloss": "having firmly observed"
   },
   {
    "surface": "மாறு",
@@ -39,18 +54,23 @@
     {
      "text": "மாறு",
      "lemma": "மாறு",
-     "gloss": "contrary"
+     "gloss": "disagreement"
     }
    ],
-   "gloss": "contrary"
+   "gloss": "disagreeable (food)"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்ல",
+     "text": "அல்",
      "lemma": "அல்",
-     "gloss": "things that are not"
+     "gloss": "not"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "they (neuter)"
     }
    ],
    "gloss": "things that are not"
@@ -59,9 +79,14 @@
    "surface": "துய்க்க",
    "parts": [
     {
-     "text": "துய்க்க",
+     "text": "துய்",
      "lemma": "துய்",
-     "gloss": "let one eat"
+     "gloss": "eat"
+    },
+    {
+     "text": "க்க",
+     "lemma": "க",
+     "gloss": "let"
     }
    ],
    "gloss": "let one eat"
@@ -71,7 +96,7 @@
    "parts": [
     {
      "text": "துவர",
-     "lemma": "துவர்",
+     "lemma": "துவர",
      "gloss": "completely"
     }
    ],
@@ -81,18 +106,23 @@
    "surface": "பசித்து",
    "parts": [
     {
-     "text": "பசித்து",
+     "text": "பசி",
      "lemma": "பசி",
-     "gloss": "having hungered"
+     "gloss": "be hungry"
+    },
+    {
+     "text": "த்து",
+     "lemma": "து",
+     "gloss": "having"
     }
    ],
-   "gloss": "having hungered"
+   "gloss": "having become hungry"
   }
  ],
- "literal": "what is digested having known, having adhered firmly, contrary things that are not, let one eat, completely having hungered.",
- "translation": "Knowing that the previous meal has been digested and firmly adhering to that rule, let one eat foods that are not contrary to health, only after getting completely hungry.",
- "modern": "முன்பு உண்ட உணவு செரித்ததை அறிந்து, அந்த முறையை உறுதியாகப் பின்பற்றி, உடலுக்கு மாறுபடாத உணவுகளை நன்கு பசித்த பிறகு உண்ண வேண்டும்.",
- "explanation": "This couplet outlines the fundamental rules for a healthy diet. The word 'அற்றது' (what is digested) emphasizes that one must wait until the previous meal is fully processed by the body. 'கடைப்பிடித்து' (adhering firmly) stresses the importance of making this a strict, unwavering habit. Finally, 'மாறு அல்ல' (things that are not contrary) and 'துவரப் பசித்து' (having hungered completely) advise eating only agreeable foods and only when true hunger sets in, ensuring optimal health.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which was digested having known, holding fast (to this rule), things that are not disagreeable let one eat, thoroughly having become hungry.",
+ "translation": "Ascertaining that the previous meal is fully digested, and holding fast to this rule, eat only compatible foods after becoming thoroughly hungry.",
+ "modern": "முன்பு உண்ட உணவு செரித்ததை அறிந்து, அதனை உறுதியாகக் கடைப்பிடித்து, உடலுக்கு மாறுபாடு இல்லாத உணவுகளை நன்கு பசித்த பிறகு உண்ண வேண்டும்.",
+ "explanation": "This couplet outlines the fundamental rules of eating for maintaining good health. First, one must ensure that the previously consumed food is completely digested ('அற்றது அறிந்து'). Second, one must wait until a clear, strong hunger is felt ('துவரப் பசித்து'). Third, one must eat only those foods that are compatible with one's body and do not conflict with each other ('மாறு அல்ல'). Adhering firmly to these guidelines ('கடைப்பிடித்து') prevents disease and eliminates the need for medicine.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

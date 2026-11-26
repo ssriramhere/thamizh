@@ -6,21 +6,26 @@
     {
      "text": "காணா",
      "lemma": "காண்",
-     "gloss": "not seeing"
+     "gloss": "not seeing / blind"
     }
    ],
-   "gloss": "blind"
+   "gloss": "blind / unseeing"
   },
   {
    "surface": "சினத்தான்",
    "parts": [
     {
-     "text": "சினத்தான்",
+     "text": "சினத்து",
      "lemma": "சினம்",
-     "gloss": "he of anger"
+     "gloss": "anger"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who has"
     }
    ],
-   "gloss": "he of anger"
+   "gloss": "he who has anger"
   },
   {
    "surface": "கழி",
@@ -48,51 +53,61 @@
    "surface": "காமத்தான்",
    "parts": [
     {
-     "text": "காமத்தான்",
+     "text": "காமத்து",
      "lemma": "காமம்",
-     "gloss": "he of desire"
+     "gloss": "desire / lust"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who has"
     }
    ],
-   "gloss": "he of desire"
+   "gloss": "he who has desire"
   },
   {
    "surface": "பேணாமை",
    "parts": [
     {
-     "text": "பேணாமை",
-     "lemma": "பேணாமை",
-     "gloss": "enmity"
+     "text": "பேண்",
+     "lemma": "பேணுதல்",
+     "gloss": "cherish / protect"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominal suffix"
     }
    ],
-   "gloss": "enmity"
+   "gloss": "hostility / non-cherishing"
   },
   {
    "surface": "பேண",
    "parts": [
     {
      "text": "பேண",
-     "lemma": "பேண்",
-     "gloss": "to desire"
+     "lemma": "பேணுதல்",
+     "gloss": "to cherish / desire"
     }
    ],
-   "gloss": "to desire"
+   "gloss": "to cherish / welcome"
   },
   {
    "surface": "படும்",
    "parts": [
     {
      "text": "படும்",
-     "lemma": "படு",
-     "gloss": "will be"
+     "lemma": "படுதல்",
+     "gloss": "is fit to be / will be"
     }
    ],
-   "gloss": "will be"
+   "gloss": "is fit to be"
   }
  ],
- "literal": "Not-seeing he-of-anger, excessive great he-of-desire; enmity to-desire will-be.",
- "translation": "The enmity of a man with blind anger and excessive desire is something to be eagerly sought.",
- "modern": "எதையும் சீர்தூக்கிப் பார்க்காத கோபமும், அளவுகடந்த ஆசையும் உடையவனின் பகையை நாம் விரும்பி ஏற்கலாம்.",
- "explanation": "This couplet identifies the type of enemy whose opposition is actually advantageous. A person blinded by anger cannot think rationally or strategize well. Furthermore, someone consumed by excessive desire is easily manipulated and prone to ruinous mistakes. Because these deep character flaws will naturally lead to their own downfall, one should gladly welcome the enmity of such a person.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The enmity of him who has blind anger and him who has excessively great lust is fit to be desired.",
+ "translation": "The hostility of one who has blind, unreasoning anger and excessive, uncontrolled lust is a state to be welcomed and desired by his adversaries.",
+ "modern": "ஆராய்ந்து பார்க்காத குருட்டுத்தனமான கோபத்தை உடையவன், அளவற்ற பேராசை உடையவன் ஆகியோரது பகையானது (அவர்களை எளிதில் வெல்லலாம் என்பதால்) விரும்பத்தக்கதாகும்.",
+ "explanation": "This couplet explains whose enmity is advantageous to seek or welcome. A person who is blinded by anger ('காணாச் சினத்தான்') cannot think rationally or assess situations. Similarly, one driven by excessive lust or desire ('கழிபெருங் காமத்தான்') is easily distracted and weakened by his passions. Their hostility ('பேணாமை') is to be welcomed ('பேணப் படும்') because their inherent flaws make them easy to defeat, turning their enmity into an opportunity for their rivals.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

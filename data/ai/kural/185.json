@@ -15,9 +15,14 @@
    "surface": "சொல்லும்",
    "parts": [
     {
-     "text": "சொல்லும்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "speaking"
+     "gloss": "speak"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
    "gloss": "speaking"
@@ -28,10 +33,11 @@
     {
      "text": "நெஞ்சத்தான்",
      "lemma": "நெஞ்சத்தான்",
-     "gloss": "he of the heart"
+     "gloss": "of him who has a heart"
     }
    ],
-   "gloss": "he of the heart"
+   "gloss": "of him who has a heart",
+   "split_unverified": true
   },
   {
    "surface": "அன்மை",
@@ -39,10 +45,11 @@
     {
      "text": "அன்மை",
      "lemma": "அன்மை",
-     "gloss": "absence"
+     "gloss": "the state of not being"
     }
    ],
-   "gloss": "absence"
+   "gloss": "the state of not being",
+   "split_unverified": true
   },
   {
    "surface": "புறம்",
@@ -50,18 +57,23 @@
     {
      "text": "புறம்",
      "lemma": "புறம்",
-     "gloss": "back"
+     "gloss": "back/slander"
     }
    ],
-   "gloss": "back"
+   "gloss": "backbiting"
   },
   {
    "surface": "சொல்லும்",
    "parts": [
     {
-     "text": "சொல்லும்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "speaking"
+     "gloss": "speak"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
    "gloss": "speaking"
@@ -70,9 +82,14 @@
    "surface": "புன்மையால்",
    "parts": [
     {
-     "text": "புன்மையால்",
+     "text": "புன்மை",
      "lemma": "புன்மை",
-     "gloss": "by the meanness"
+     "gloss": "meanness"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "instrumental suffix"
     }
    ],
    "gloss": "by the meanness"
@@ -81,29 +98,39 @@
    "surface": "காண",
    "parts": [
     {
-     "text": "காண",
+     "text": "காண்",
      "lemma": "காண்",
-     "gloss": "to see"
+     "gloss": "see"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to see"
+   "gloss": "to be seen"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படும்",
+     "text": "படு",
      "lemma": "படு",
-     "gloss": "will be"
+     "gloss": "passive auxiliary verb"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual future suffix"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "Virtue speaking he-of-the-heart absence back speaking by-meanness to-see will-be.",
- "translation": "A person's lack of a truly virtuous heart is clearly revealed by the meanness of their backbiting.",
- "modern": "ஒருவன் அறத்தைப் பற்றிப் பேசினாலும், அவனது நெஞ்சத்தில் உண்மையில் அறம் இல்லை என்பது அவன் மற்றவர்களைப் பற்றிப் புறங்கூறும் சிறுமைக் குணத்தால் வெளிப்படும்.",
- "explanation": "This couplet explains how the habit of backbiting exposes a person's true character. Even if someone constantly speaks about virtue, their inner lack of a virtuous heart (அன்மை) is betrayed by their actions. The meanness of slandering others behind their backs serves as visible proof of their inner emptiness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The state of not having a heart that speaks virtue will be seen by the meanness of speaking behind others' backs.",
+ "translation": "That a person does not truly possess a heart that speaks of virtue will be revealed by the meanness of their backbiting.",
+ "modern": "அறத்தைப் பேசுகின்ற நெஞ்சத்தை உடையவனாக ஒருவன் இல்லாத தன்மை, அவன் பிறரைப் பற்றிப் புறங்கூறும் இழிவான செயலால் அறியப்படும்.",
+ "explanation": "This couplet exposes the hypocrisy of those who speak of virtue but slander others in secret. Even if a person outwardly preaches righteousness, their lack of a truly virtuous heart (அன்மை) is clearly revealed by the meanness (புன்மை) of their backbiting. The poet shows that one's private speech behind others' backs is the true test of their inner character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

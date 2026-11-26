@@ -4,9 +4,14 @@
    "surface": "மறைப்பேன்",
    "parts": [
     {
-     "text": "மறைப்பேன்",
+     "text": "மறை",
      "lemma": "மறை",
-     "gloss": "I will hide"
+     "gloss": "to hide"
+    },
+    {
+     "text": "ப்பேன்",
+     "lemma": "ப்பேன்",
+     "gloss": "I will (future tense suffix)"
     }
    ],
    "gloss": "I will hide"
@@ -17,21 +22,22 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed/alas"
+     "gloss": "indeed (expletive particle)"
     }
    ],
-   "gloss": "indeed/alas"
+   "gloss": "indeed"
   },
   {
    "surface": "காமத்தை",
    "parts": [
     {
      "text": "காமத்தை",
-     "lemma": "காமம்",
-     "gloss": "desire (accusative)"
+     "lemma": "காமத்தை",
+     "gloss": "love (accusative)"
     }
    ],
-   "gloss": "desire"
+   "gloss": "love (accusative)",
+   "split_unverified": true
   },
   {
    "surface": "யானோ",
@@ -44,10 +50,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[particle of sorrow]"
+     "gloss": "clitic of emphasis"
     }
    ],
-   "gloss": "I (alas)"
+   "gloss": "I indeed?"
   },
   {
    "surface": "குறிப்பு",
@@ -55,7 +61,7 @@
     {
      "text": "குறிப்பு",
      "lemma": "குறிப்பு",
-     "gloss": "warning/sign"
+     "gloss": "warning/intention"
     }
    ],
    "gloss": "warning"
@@ -65,7 +71,7 @@
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
@@ -110,16 +116,16 @@
     {
      "text": "விடும்",
      "lemma": "விடு",
-     "gloss": "it will (auxiliary)"
+     "gloss": "will escape (auxiliary indicating certainty)"
     }
    ],
-   "gloss": "it will"
+   "gloss": "will escape"
   }
  ],
- "literal": "I will hide, indeed, the desire, I (alas)! Warning without, sneeze like, having appeared it will.",
- "translation": "I try to hide my desire, but alas! Like a sneeze, it bursts forth without any warning.",
- "modern": "நான் என் காமத்தை மறைக்கவே முயல்கிறேன்; ஆனால் அது எந்த முன்னறிவிப்பும் இல்லாமல் ஒரு தும்மலைப் போலத் தானாகவே வெளிப்பட்டு விடுகிறது.",
- "explanation": "The speaker laments her inability to conceal her love and desire. She compares her passion to a sneeze, which is a sudden, involuntary reflex that cannot be suppressed. The word 'குறிப்பு' here means a warning or prior indication, showing that her emotions reveal themselves without giving her a chance to hold them back. The particle 'மன்' expresses her frustration and helplessness in trying to maintain her modesty.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "I will indeed hide my love, I? Without warning, like a sneeze, appearing it will escape.",
+ "translation": "I try indeed to hide my love, but like a sneeze, it bursts forth suddenly without warning.",
+ "modern": "நான் என் காமத்தை மறைக்கவே நினைக்கிறேன்; ஆனால் அது, ஒரு தும்மலைப் போல, எந்தவித முன்னறிவிப்பும் இல்லாமல் திடீரென்று வெளிப்பட்டு விடுகிறது.",
+ "explanation": "The heroine laments her inability to conceal her intense love-sickness. She asserts that she tries her best to hide her feelings ('மறைப்பேன்'). However, love is not something that can be suppressed by willpower. It is compared to a sneeze ('தும்மல்'), which cannot be stopped or anticipated; it bursts out suddenly without warning ('குறிப்பின்றி'). Just as a sneeze reveals itself despite one's efforts to hold it back, her love reveals itself to others, rendering her attempts at secrecy futile.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

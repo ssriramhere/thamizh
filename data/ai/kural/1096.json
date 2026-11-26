@@ -4,12 +4,17 @@
    "surface": "உறாஅதவர்",
    "parts": [
     {
-     "text": "உறாஅதவர்",
-     "lemma": "உறு",
-     "gloss": "those who are unattached"
+     "text": "உறாஅ",
+     "lemma": "உறாத",
+     "gloss": "not attached"
+    },
+    {
+     "text": "தவர்",
+     "lemma": "அவர்",
+     "gloss": "those people"
     }
    ],
-   "gloss": "those who are unattached"
+   "gloss": "those who are not attached (strangers)"
   },
   {
    "surface": "போல்",
@@ -26,9 +31,14 @@
    "surface": "சொலினும்",
    "parts": [
     {
-     "text": "சொலின்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "if spoken"
+     "gloss": "speak"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if"
     },
     {
      "text": "உம்",
@@ -36,18 +46,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if spoken"
+   "gloss": "even if they speak"
   },
   {
    "surface": "செறாஅர்",
    "parts": [
     {
      "text": "செறாஅர்",
-     "lemma": "செறு",
+     "lemma": "செறார்",
      "gloss": "those who do not hate"
     }
    ],
-   "gloss": "those who do not hate"
+   "gloss": "of those who do not hate (loving ones)"
   },
   {
    "surface": "சொல்",
@@ -58,7 +68,7 @@
      "gloss": "word"
     }
    ],
-   "gloss": "words"
+   "gloss": "the words"
   },
   {
    "surface": "ஒல்லை",
@@ -77,21 +87,21 @@
     {
      "text": "உணர",
      "lemma": "உணர்",
-     "gloss": "to perceive"
+     "gloss": "to understand"
     },
     {
      "text": "படும்",
      "lemma": "படு",
-     "gloss": "will be"
+     "gloss": "will be (passive)"
     }
    ],
-   "gloss": "will be perceived"
+   "gloss": "will be understood"
   }
  ],
- "literal": "Even if spoken like those who are unattached, the words of those who do not hate will be quickly perceived.",
- "translation": "Even if they speak distantly like strangers, the true words of those who harbor no enmity will be quickly understood.",
- "modern": "அன்பில்லாத அயலாரைப் போலப் பேசினாலும், உள்ளத்தில் பகை இல்லாதவர்களின் உண்மையான குறிப்புச் சொற்கள் விரைவில் அறிந்துகொள்ளப்படும்.",
- "explanation": "This couplet explains how true affection can be recognized despite outward appearances. Sometimes lovers or friends may speak harshly or distantly, as if they have no attachment. However, because they do not actually harbor any hatred in their hearts, the underlying love in their words will be quickly perceived by the listener. The contrast between feigned detachment and genuine lack of enmity highlights the power of reading true intentions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they speak like those who are not attached, the words of those who do not hate will be quickly understood.",
+ "translation": "Even if they speak like strangers who care nothing for us, the words of those who harbor no anger are quickly understood in their true sense.",
+ "modern": "நம்மிடம் அன்பு இல்லாத அந்நியரைப் போலப் பேசினாலும், நம்மிடம் வெறுப்பு இல்லாத காதலரின் சொற்களின் உண்மையான குறிப்பு விரைவாகப் புரிந்து கொள்ளப்படும்.",
+ "explanation": "This couplet from the chapter 'Reading the Signs' describes the deep, unspoken understanding between lovers. Sometimes, a lover might speak cold or distant words, acting like an unattached stranger (uṟāatavar). However, because they do not actually harbor any anger or hatred (ceṟāar), their true loving intent behind those words is quickly (ollai) perceived (uṇarappaṭum) by the partner. The couplet highlights how true affection cannot be masked by superficial coldness, as the heart's real intention is easily read.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

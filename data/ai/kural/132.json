@@ -6,10 +6,10 @@
     {
      "text": "பரிந்து",
      "lemma": "பரி",
-     "gloss": "having striven"
+     "gloss": "yearningly / taking pains"
     }
    ],
-   "gloss": "having striven"
+   "gloss": "yearningly or with great effort"
   },
   {
    "surface": "ஓம்பி",
@@ -17,10 +17,10 @@
     {
      "text": "ஓம்பி",
      "lemma": "ஓம்பு",
-     "gloss": "having guarded"
+     "gloss": "cherishing / guarding"
     }
    ],
-   "gloss": "having guarded"
+   "gloss": "cherishing or guarding"
   },
   {
    "surface": "காக்க",
@@ -28,10 +28,10 @@
     {
      "text": "காக்க",
      "lemma": "கா",
-     "gloss": "let protect"
+     "gloss": "let one protect"
     }
    ],
-   "gloss": "let protect"
+   "gloss": "let one protect"
   },
   {
    "surface": "ஒழுக்கம்",
@@ -39,10 +39,10 @@
     {
      "text": "ஒழுக்கம்",
      "lemma": "ஒழுக்கம்",
-     "gloss": "decorum"
+     "gloss": "right conduct"
     }
    ],
-   "gloss": "decorum"
+   "gloss": "right conduct"
   },
   {
    "surface": "தெரிந்து",
@@ -50,10 +50,10 @@
     {
      "text": "தெரிந்து",
      "lemma": "தெரி",
-     "gloss": "having examined"
+     "gloss": "examining / knowing"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "examining or knowing"
   },
   {
    "surface": "ஓம்பி",
@@ -61,26 +61,26 @@
     {
      "text": "ஓம்பி",
      "lemma": "ஓம்பு",
-     "gloss": "having guarded"
+     "gloss": "carefully / guarding"
     }
    ],
-   "gloss": "having guarded"
+   "gloss": "carefully guarding"
   },
   {
    "surface": "தேரினும்",
    "parts": [
     {
-     "text": "தேர்",
+     "text": "தேரின்",
      "lemma": "தேர்",
-     "gloss": "research"
+     "gloss": "if one investigates"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if researched"
+   "gloss": "even if one investigates"
   },
   {
    "surface": "அஃதே",
@@ -93,7 +93,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed / alone"
     }
    ],
    "gloss": "that indeed"
@@ -104,16 +104,16 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "support"
+     "gloss": "support / companion"
     }
    ],
-   "gloss": "support"
+   "gloss": "support or companion"
   }
  ],
- "literal": "Having striven, having guarded, let one protect decorum; having examined, having guarded, even if researched, that indeed is the support.",
- "translation": "Strive hard and guard your good conduct. Even if you examine and carefully research all other virtues, good conduct alone is your true support.",
- "modern": "வருந்தியும் போற்றியும் நல்லொழுக்கத்தைக் காக்க வேண்டும்; பல அறங்களை ஆராய்ந்து போற்றித் தெளிந்தாலும், அந்த நல்லொழுக்கமே ஒருவனுக்குச் சிறந்த துணையாகும்.",
- "explanation": "This couplet emphasizes the supreme importance of good conduct or decorum ('ஒழுக்கம்'). The word 'பரிந்து' implies that one must protect their character even if it requires great effort or hardship. The second line states that even if one examines and practices many other virtues ('தெரிந்து ஓம்பி தேரினும்'), good conduct remains the ultimate and most reliable support ('அஃதே துணை') in life. The repetition of 'ஓம்பி' (having guarded) underscores the constant vigilance needed to maintain one's moral integrity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Yearningly guarding, let one protect right conduct; even if one examines and carefully investigates, that indeed is the support.",
+ "translation": "One should protect right conduct with great effort and care; for even if one thoroughly investigates and searches all paths, that alone is the ultimate support.",
+ "modern": "வருந்தியும் போற்றியும் ஒழுக்கத்தைக் காக்க வேண்டும்; ஆராய்ந்து பார்த்துத் தெளிந்தாலும், அந்த ஒழுக்கமே நமக்குச் சிறந்த துணையாகும்.",
+ "explanation": "This couplet emphasizes the supreme importance of maintaining right conduct (ஒழுக்கம்). The author advises that one must protect their conduct with earnest effort (பரிந்து) and constant vigilance (ஓம்பி). Even if one thoroughly investigates and analyzes various philosophies or means of life (தெரிந்து தேரினும்), they will find that right conduct is the only true and reliable support (துணை) in life. The repetition of protective terms highlights the intense care required to preserve one's character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -14,7 +14,7 @@
      "gloss": "having greatness"
     }
    ],
-   "gloss": "of whatever greatness"
+   "gloss": "of whatever greatness it may be"
   },
   {
    "surface": "ஆகிய",
@@ -22,10 +22,10 @@
     {
      "text": "ஆகிய",
      "lemma": "ஆகு",
-     "gloss": "that became"
+     "gloss": "having become"
     }
    ],
-   "gloss": "being"
+   "gloss": "which has become"
   },
   {
    "surface": "கண்ணும்",
@@ -33,7 +33,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/if"
+     "gloss": "place"
     },
     {
      "text": "உம்",
@@ -41,7 +41,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even in the case of"
   },
   {
    "surface": "வினைமாட்சி",
@@ -57,7 +57,7 @@
      "gloss": "excellence"
     }
    ],
-   "gloss": "excellence in action"
+   "gloss": "excellence of action"
   },
   {
    "surface": "இல்லார்கண்",
@@ -73,23 +73,18 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with those who lack"
+   "gloss": "in those who lack"
   },
   {
    "surface": "இல்லது",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல்லது",
      "lemma": "இல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "gloss": "that which is not"
     }
    ],
-   "gloss": "it is nothing"
+   "gloss": "is non-existent"
   },
   {
    "surface": "அரண்",
@@ -103,10 +98,10 @@
    "gloss": "fortress"
   }
  ],
- "literal": "Of whatever greatness it is, even if, action-excellence those-who-lack-with, not-it-is, fortress.",
- "translation": "Even if a fortress possesses every kind of greatness, it is nothing to those who lack excellence in action.",
- "modern": "ஒரு கோட்டை எவ்வளவு பெருமைகளை உடையதாக இருந்தாலும், சிறந்த செயல் திறன் இல்லாதவர்களிடம் அது பயனில்லாதது ஆகும்.",
- "explanation": "This couplet emphasizes that the physical strength of a fortress is secondary to the capability of its defenders. The phrase 'எனைமாட்சித்து' (of whatever greatness) covers all the physical attributes a fortress might have, such as height, thickness, and provisions. 'வினைமாட்சி' means excellence in action or tactical execution. The word 'இல்லது' (it is not) strongly declares that without capable defenders, the fortress effectively ceases to exist as a defense. Thus, human effort and skill are the true foundation of any defense.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Of whatever greatness having become even in the case of, excellence of action in those who lack, non-existent is the fortress.",
+ "translation": "Even if a fortress possesses every kind of greatness, it is as good as non-existent for those who lack excellence in action.",
+ "modern": "எவ்வளவு பெருமைகளைக் கொண்டதாக ஒரு கோட்டை இருந்தாலும், செயலில் சிறந்த திறமை இல்லாதவர்களிடம் அது இல்லாததற்குச் சமம் ஆகும்.",
+ "explanation": "This couplet emphasizes that physical defenses are only as good as the people who man them. A fortress may have every imaginable greatness, such as high walls, deep moats, and ample resources. However, if the defenders lack excellence of action, the fort becomes completely useless. Ultimately, the true strength of a defense lies in the skill and bravery of its defenders, not just its physical structure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

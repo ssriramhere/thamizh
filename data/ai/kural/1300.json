@@ -6,10 +6,10 @@
     {
      "text": "தஞ்சம்",
      "lemma": "தஞ்சம்",
-     "gloss": "natural"
+     "gloss": "easy / natural"
     }
    ],
-   "gloss": "natural"
+   "gloss": "naturally / easily"
   },
   {
    "surface": "தமர்",
@@ -26,17 +26,12 @@
    "surface": "அல்லர்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லர்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "are not (they)"
     }
    ],
-   "gloss": "they are not"
+   "gloss": "are not"
   },
   {
    "surface": "ஏதிலார்",
@@ -58,14 +53,14 @@
      "gloss": "oneself"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "one's own"
   },
   {
    "surface": "உடைய",
    "parts": [
     {
      "text": "உடைய",
-     "lemma": "உடைய",
+     "lemma": "உடை",
      "gloss": "possessing"
     }
    ],
@@ -77,7 +72,7 @@
     {
      "text": "நெஞ்சம்",
      "lemma": "நெஞ்சம்",
-     "gloss": "heart"
+     "gloss": "heart / mind"
     }
    ],
    "gloss": "heart"
@@ -88,10 +83,10 @@
     {
      "text": "தமர்",
      "lemma": "தமர்",
-     "gloss": "one's own people"
+     "gloss": "one's own people / friendly"
     }
    ],
-   "gloss": "one's own people"
+   "gloss": "friendly"
   },
   {
    "surface": "அல்",
@@ -99,10 +94,10 @@
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "not"
+     "gloss": "not being"
     }
    ],
-   "gloss": "not"
+   "gloss": "not being"
   },
   {
    "surface": "வழி",
@@ -110,16 +105,16 @@
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "when"
+     "gloss": "when / in the event of"
     }
    ],
    "gloss": "when"
   }
  ],
- "literal": "Natural one's-own-people they-are-not strangers, oneself possessing heart one's-own-people not when.",
- "translation": "When one's own heart does not act as an ally, it is only natural that strangers do not act as friends.",
- "modern": "தம்முடைய நெஞ்சமே தமக்கு உறவாக இல்லாத போது, அயலார் உறவாக இல்லாதிருப்பது இயற்கையானதே.",
- "explanation": "The speaker is frustrated with her own heart for betraying her resolve and yielding to her lover. She reflects that if her very own heart does not act as her ally, she cannot expect strangers to be supportive. The word 'tañcam' here takes the classical meaning of 'easy' or 'natural consequence', emphasizing that the lack of support from others is entirely expected when one is betrayed by one's own mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Naturally, strangers are not one's own people, when one's own possessing heart is not friendly.",
+ "translation": "It is only natural that strangers do not act as our friends, when our very own heart does not stand by us.",
+ "modern": "நம்முடைய சொந்த நெஞ்சமே நமக்குத் துணையாக இல்லாதபோது, அயலார் நமக்கு உறவினராக இல்லாமல் இருப்பது இயல்பானதே.",
+ "explanation": "In this couplet, the heroine laments the behavior of her own heart, which constantly sides with her lover instead of supporting her. She reasons that when one's own heart (neñcam) does not act as a loyal friend (tamar al vaḻi), it is completely natural (tañcam) that strangers (ētilār) do not show any friendliness (tamar allar) either. The word 'tañcam' is used here in the sense of 'easy' or 'no wonder', emphasizing that internal betrayal makes external indifference entirely expected. This poignant observation highlights the deep internal conflict of a lover whose mind refuses to cooperate with her resolve.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

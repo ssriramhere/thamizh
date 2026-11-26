@@ -17,32 +17,37 @@
     {
      "text": "ஆட்சி",
      "lemma": "ஆட்சி",
-     "gloss": "possession"
+     "gloss": "possession or governance"
     }
    ],
-   "gloss": "possession"
+   "gloss": "possession or governance"
   },
   {
    "surface": "போற்றாதார்க்கு",
    "parts": [
     {
-     "text": "போற்றாதார்க்கு",
+     "text": "போற்றாதார்",
      "lemma": "போற்று",
-     "gloss": "to those who do not guard"
+     "gloss": "those who do not protect"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who do not guard"
+   "gloss": "to those who do not protect"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்லை",
-     "gloss": "is not"
+     "lemma": "இல்",
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   },
   {
    "surface": "அருள்",
@@ -50,10 +55,10 @@
     {
      "text": "அருள்",
      "lemma": "அருள்",
-     "gloss": "compassion"
+     "gloss": "grace or compassion"
     }
    ],
-   "gloss": "compassion"
+   "gloss": "grace or compassion"
   },
   {
    "surface": "ஆட்சி",
@@ -61,10 +66,10 @@
     {
      "text": "ஆட்சி",
      "lemma": "ஆட்சி",
-     "gloss": "possession"
+     "gloss": "possession or governance"
     }
    ],
-   "gloss": "possession"
+   "gloss": "possession or governance"
   },
   {
    "surface": "ஆங்கு",
@@ -72,21 +77,21 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "similarly"
+     "gloss": "there or likewise"
     }
    ],
-   "gloss": "similarly"
+   "gloss": "there or likewise"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்லை",
-     "gloss": "is not"
+     "lemma": "இல்",
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   },
   {
    "surface": "ஊன்",
@@ -94,27 +99,32 @@
     {
      "text": "ஊன்",
      "lemma": "ஊன்",
-     "gloss": "meat"
+     "gloss": "flesh or meat"
     }
    ],
-   "gloss": "meat"
+   "gloss": "flesh or meat"
   },
   {
    "surface": "தின்பவர்க்கு",
    "parts": [
     {
-     "text": "தின்பவர்க்கு",
+     "text": "தின்பவர்",
      "lemma": "தின்",
-     "gloss": "to those who eat"
+     "gloss": "those who eat"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to those who eat"
   }
  ],
- "literal": "Wealth possession to those who do not guard is not; compassion possession similarly is not to those who eat meat.",
- "translation": "The possession of wealth is not for those who fail to guard it; similarly, the possession of compassion is not for those who eat meat.",
- "modern": "பொருளைப் பாதுகாத்து வைக்காதவர்களுக்குச் செல்வம் சொந்தமாகாது; அதுபோலவே, மாமிசத்தை உண்பவர்களுக்கு அருளுடைமை சொந்தமாகாது.",
- "explanation": "This couplet draws a direct parallel between material wealth and spiritual compassion. Just as wealth slips away from those who do not actively protect and cherish it, the quality of compassion cannot exist in those who consume the flesh of animals. The word 'ஆட்சி' (possession or rule) is used in both halves to emphasize that neither wealth nor grace can be truly held without the right actions. Eating meat is presented as fundamentally incompatible with possessing a compassionate heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The possession of wealth does not exist for those who do not protect it; likewise, the possession of grace does not exist for those who eat flesh.",
+ "translation": "Just as the possession of wealth is impossible for those who do not guard it, the possession of grace is impossible for those who eat meat.",
+ "modern": "செல்வத்தைப் பாதுகாத்து ஆளாதவர்களுக்குச் செல்வத்தின் பயன் இல்லை; அதுபோல, பிற உயிர்களின் ஊனைத் தின்பவர்களுக்கு அருளின் ஆட்சி இல்லை.",
+ "explanation": "This couplet uses a clear analogy to show that compassion cannot coexist with meat-eating. Just as those who do not guard and manage their material wealth (poruḷāṭci) cannot enjoy its benefits, those who consume the flesh of other living beings (ūṉtiṉpavar) cannot possess the reign of grace or compassion (aruḷāṭci). The poet emphasizes that compassion is a treasure that must be actively nurtured, and eating meat is fundamentally incompatible with it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

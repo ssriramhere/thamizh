@@ -16,8 +16,8 @@
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "called"
     }
    ],
    "gloss": "called"
@@ -28,7 +28,7 @@
     {
      "text": "ஒரு",
      "lemma": "ஒரு",
-     "gloss": "one"
+     "gloss": "a"
     }
    ],
    "gloss": "a"
@@ -50,7 +50,7 @@
     {
      "text": "மறுமை",
      "lemma": "மறுமை",
-     "gloss": "next birth"
+     "gloss": "next life"
     },
     {
      "text": "உம்",
@@ -58,7 +58,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "the next birth too"
+   "gloss": "and the next life"
   },
   {
    "surface": "இம்மையும்",
@@ -66,7 +66,7 @@
     {
      "text": "இம்மை",
      "lemma": "இம்மை",
-     "gloss": "this birth"
+     "gloss": "this life"
     },
     {
      "text": "உம்",
@@ -74,35 +74,35 @@
      "gloss": "and"
     }
    ],
-   "gloss": "this birth too"
+   "gloss": "and this life"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
-   "gloss": "depriving"
+   "gloss": "without"
   },
   {
    "surface": "வரும்",
    "parts": [
     {
      "text": "வரும்",
-     "lemma": "வா",
+     "lemma": "வரு",
      "gloss": "will come"
     }
    ],
    "gloss": "will come"
   }
  ],
- "literal": "Poverty called a sinner, the next birth and this birth without, will come.",
- "translation": "The wretch called poverty comes to deprive a person of the joys of both this world and the next.",
- "modern": "வறுமை என்று சொல்லப்படும் பாவி, ஒருவனுக்கு இப்பிறப்பின் இன்பமும் மறுபிறப்பின் பயனும் இல்லாமல் செய்துவிடும்.",
- "explanation": "The couplet personifies poverty as a wretched sinner (paavi). It states that when poverty comes, it deprives a person of happiness in this current life (immai) and prevents them from doing good deeds that would secure a good life in the next (marumai). The word 'inri' (without) shows how poverty completely strips away the benefits of both states of existence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Poverty called a sinner, next life and this life without, will come.",
+ "translation": "The wretched sinner called poverty comes, depriving a person of the blessings of both this life and the next.",
+ "modern": "வறுமை என்று சொல்லப்படும் ஒரு பாவி, ஒருவருக்கு இப்பிறப்பின் இன்பத்தையும் மறுபிறப்பின் இன்பத்தையும் இல்லாமல் செய்து வந்து சேரும்.",
+ "explanation": "In this couplet, poverty is personified as a wretched sinner ('பாவி'). The author explains that when poverty comes, it completely strips a person of the joys and virtues of both this present life ('இம்மை') and the next life ('மறுமை'). In this world, a poor person lacks the means to live with dignity and comfort, and because they cannot afford to perform acts of charity, they are also deprived of merit for the next world. Thus, poverty is depicted as an all-consuming affliction that ruins a person's existence across both realms.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

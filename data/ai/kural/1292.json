@@ -5,21 +5,16 @@
    "parts": [
     {
      "text": "உறாஅ",
-     "lemma": "உறு",
+     "lemma": "உறாத",
      "gloss": "not loving"
     },
     {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அவர்",
+     "text": "தவர்",
      "lemma": "அவர்",
-     "gloss": "he"
+     "gloss": "those who"
     }
    ],
-   "gloss": "him who does not love"
+   "gloss": "those who do not love"
   },
   {
    "surface": "கண்ட",
@@ -27,10 +22,10 @@
     {
      "text": "கண்ட",
      "lemma": "காண்",
-     "gloss": "seen"
+     "gloss": "having seen"
     }
    ],
-   "gloss": "seen"
+   "gloss": "having seen"
   },
   {
    "surface": "கண்ணும்",
@@ -38,12 +33,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "time"
-    },
-    {
-     "text": "ண்",
-     "lemma": "ண்",
-     "gloss": "sandhi"
+     "gloss": "moment"
     },
     {
      "text": "உம்",
@@ -51,20 +41,15 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even at the time"
+   "gloss": "even at the moment of"
   },
   {
    "surface": "அவரை",
    "parts": [
     {
-     "text": "அவர்",
+     "text": "அவரை",
      "lemma": "அவர்",
-     "gloss": "he"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative"
+     "gloss": "him"
     }
    ],
    "gloss": "him"
@@ -74,7 +59,7 @@
    "parts": [
     {
      "text": "செறாஅர்",
-     "lemma": "செறு",
+     "lemma": "செறார்",
      "gloss": "he will not be angry"
     }
    ],
@@ -84,17 +69,12 @@
    "surface": "என",
    "parts": [
     {
-     "text": "என்",
+     "text": "என",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive"
+     "gloss": "thinking that"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking that"
   },
   {
    "surface": "சேறி",
@@ -112,7 +92,7 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "யான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -130,10 +110,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "Him who does not love seen even at the time, him 'he will not be angry' saying you go, my heart.",
- "translation": "O my heart! Even when you see that he does not love us, you go to him thinking, 'He will not be angry.'",
- "modern": "என் நெஞ்சே! நம்மிடம் அன்பு இல்லாதவரைக் கண்டபோதும், அவர் நம்மை வெறுக்க மாட்டார் என்று நினைத்து அவரிடமே நீ செல்கிறாய்.",
- "explanation": "The speaker chides her own heart for its weakness in love. Even when she clearly sees that her lover is not attached to her (உறாஅதவர்), her heart still rushes to him. It justifies this surrender by naively thinking that he will at least not be angry or reject her (செறாஅர்). The couplet captures the helplessness of a heart that refuses to hold a grudge.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even at the moment of seeing him who does not love, thinking 'he will not be angry', you go, my heart.",
+ "translation": "O my heart! Even when you see him who does not show love, you still go to him, thinking that he will not be angry with you.",
+ "modern": "என்னிடம் அன்பு காட்டாதவரைப் பார்த்த போதிலும், 'அவர் கோபப்பட மாட்டார்' என்று நினைத்து அவரிடம் செல்கிறாயே, என் நெஞ்சமே!",
+ "explanation": "In this couplet, the heroine addresses her own heart, which is eager to reunite with her distant lover. She points out the irony that even though he does not show affection ('uṟāatavar'), her heart immediately rushes to him the moment he is seen ('kaṇṭa kaṇṇum'). The heart foolishly reassures itself that he will not be angry or cold ('ceṟāar ena'). This portrays the helpless nature of love, where the heart ignores past indifference and remains ever-optimistic about the beloved.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

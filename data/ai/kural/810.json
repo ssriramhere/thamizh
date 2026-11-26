@@ -6,20 +6,15 @@
     {
      "text": "விழை",
      "lemma": "விழை",
-     "gloss": "to desire"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "desire or love"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "negative epicene plural suffix"
+     "gloss": "they who do not (negative personal suffix)"
     }
    ],
-   "gloss": "those who do not desire"
+   "gloss": "those who do not love (strangers or enemies)"
   },
   {
    "surface": "விழைய",
@@ -27,20 +22,15 @@
     {
      "text": "விழை",
      "lemma": "விழை",
-     "gloss": "to desire"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
+     "gloss": "desire or love"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "infinitive suffix (to)"
     }
    ],
-   "gloss": "to desire"
+   "gloss": "to desire or love"
   },
   {
    "surface": "படுப",
@@ -48,15 +38,15 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "to happen/be"
+     "gloss": "experience or undergo"
     },
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "epicene plural suffix"
+     "gloss": "suffix indicating passive or future state"
     }
    ],
-   "gloss": "they will be subjected to"
+   "gloss": "they will be (desired or loved)"
   },
   {
    "surface": "பழையார்கண்",
@@ -69,7 +59,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "towards/locative suffix"
+     "gloss": "locative suffix (towards)"
     }
    ],
    "gloss": "towards old friends"
@@ -80,15 +70,15 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "good nature"
+     "gloss": "courtesy or proper behavior"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "ablative suffix"
+     "gloss": "ablative suffix (from)"
     }
    ],
-   "gloss": "from good nature"
+   "gloss": "from proper behavior"
   },
   {
    "surface": "தலைப்பிரியாதார்",
@@ -96,7 +86,7 @@
     {
      "text": "தலைப்பிரி",
      "lemma": "தலைப்பிரி",
-     "gloss": "to separate"
+     "gloss": "separate or deviate"
     },
     {
      "text": "ஆதார்",
@@ -104,13 +94,13 @@
      "gloss": "those who do not"
     }
    ],
-   "gloss": "those who do not separate"
+   "gloss": "those who do not deviate"
   }
  ],
- "literal": "Those who do not desire, to desire they will be subjected to, towards old friends from good nature those who do not separate.",
- "translation": "Those who never depart from their good nature towards old friends will be desired even by their enemies.",
- "modern": "பழைய நண்பர்களிடத்தில் தமது நல்ல பண்பிலிருந்து மாறுபடாதவர்களை, அவர்களை விரும்பாத பகைவரும் விரும்புவார்கள்.",
- "explanation": "This couplet highlights the supreme value of unwavering loyalty to old friends. The phrase 'தலைப்பிரியாதார்' refers to those who never abandon their good nature ('பண்பு') when dealing with long-standing companions. Such steadfast character is so admirable that even 'விழையார்'—those who do not naturally like them, such as enemies—will be drawn to desire their friendship.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who do not love, to love they will be subjected, those who from proper behavior towards old friends do not deviate.",
+ "translation": "Those who never deviate from proper courtesy towards long-standing friends will be loved and cherished even by those who do not love them.",
+ "modern": "பழைய நண்பர்களிடம் காட்டும் அன்பான பண்பிலிருந்து விலகாமல் நடப்பவர்களை, அவர்களை விரும்பாத பகைவர்களும் விரும்பும் நிலை ஏற்படும்.",
+ "explanation": "This couplet highlights the power of maintaining long-standing relationships with courtesy and loyalty. The poet states that those who do not deviate from the proper code of conduct towards their old friends earn universal respect. Their steadfastness is so admirable that even strangers or enemies who previously did not care for them will come to love and desire their friendship. The key lies in preserving the intimacy of old friendships without overstepping boundaries or losing respect.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

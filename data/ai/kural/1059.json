@@ -11,10 +11,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with"
+     "gloss": "among (locative case marker)"
     }
    ],
-   "gloss": "with those who give"
+   "gloss": "among those who give"
   },
   {
    "surface": "என்",
@@ -32,16 +32,16 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
-     "gloss": "is"
+     "lemma": "உண்டு",
+     "gloss": "exists"
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
+     "lemma": "ஆம்",
      "gloss": "will be"
     }
    ],
-   "gloss": "will exist"
+   "gloss": "will there be"
   },
   {
    "surface": "தோற்றம்",
@@ -49,10 +49,10 @@
     {
      "text": "தோற்றம்",
      "lemma": "தோற்றம்",
-     "gloss": "glory"
+     "gloss": "glory or renown"
     }
    ],
-   "gloss": "glory"
+   "gloss": "glory or renown"
   },
   {
    "surface": "இரந்துகோள்",
@@ -60,7 +60,7 @@
     {
      "text": "இரந்து",
      "lemma": "இர",
-     "gloss": "having begged"
+     "gloss": "asking"
     },
     {
      "text": "கோள்",
@@ -68,7 +68,7 @@
      "gloss": "receiving"
     }
    ],
-   "gloss": "receiving by begging"
+   "gloss": "receiving by asking"
   },
   {
    "surface": "மேவார்",
@@ -87,10 +87,10 @@
     {
      "text": "இலாஅ",
      "lemma": "இல்",
-     "gloss": "not having"
+     "gloss": "not existing"
     }
    ],
-   "gloss": "not having"
+   "gloss": "not existing"
   },
   {
    "surface": "கடை",
@@ -98,16 +98,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "in the state"
+     "gloss": "if or in the absence of"
     }
    ],
-   "gloss": "in the state"
+   "gloss": "if or in the absence of"
   }
  ],
- "literal": "With those who give, what glory will exist, in the state of not having those who desire receiving by begging?",
- "translation": "What glory would there be for givers, if there were no people willing to ask and receive?",
- "modern": "இரந்து பெறுதலை விரும்புபவர்கள் இல்லாத நிலையில், கொடுப்பவர்களுக்கு என்ன பெருமை இருக்கும்?",
- "explanation": "This couplet highlights the mutual relationship between the giver and the receiver. The word 'தோற்றம்' (appearance or glory) refers to the distinction and honor that philanthropists enjoy in society. However, this glory is entirely dependent on the existence of people who are in need and willing to beg ('இரந்துகோள் மேவார்'). Without receivers, the act of giving cannot happen, and thus the givers would have no opportunity to attain greatness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among those who give, what will be the glory, if those who desire receiving by asking do not exist?",
+ "translation": "What glory can there be for those who give, if there are no people who desire to receive by asking?",
+ "modern": "இரந்து கேட்பதை விரும்புகின்றவர்கள் இல்லாதபோது, கொடுப்பவர்களிடம் என்ன பெருமை உண்டாகும்?",
+ "explanation": "This couplet highlights the codependent relationship between the giver and the receiver. The author asks what renown or glory can exist for generous givers if there are no people who wish to ask for and receive alms. The word 'தோற்றம்' refers to the visible glory or renown of being a benefactor, while 'மேவார்' refers to those who desire or undertake the act of asking. Without the receiver, the virtue of giving cannot manifest, showing that the asker plays an essential role in the cycle of charity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

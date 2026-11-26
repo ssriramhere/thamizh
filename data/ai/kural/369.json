@@ -6,10 +6,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "happiness"
     }
    ],
-   "gloss": "joy"
+   "gloss": "happiness"
   },
   {
    "surface": "இடையறாது",
@@ -22,10 +22,10 @@
     {
      "text": "அறாது",
      "lemma": "அறு",
-     "gloss": "without breaking"
+     "gloss": "without ceasing"
     }
    ],
-   "gloss": "ceaselessly"
+   "gloss": "without interruption"
   },
   {
    "surface": "ஈண்டும்",
@@ -33,10 +33,10 @@
     {
      "text": "ஈண்டும்",
      "lemma": "ஈண்டு",
-     "gloss": "will gather"
+     "gloss": "will accumulate"
     }
    ],
-   "gloss": "will gather"
+   "gloss": "will accumulate"
   },
   {
    "surface": "அவா",
@@ -53,17 +53,12 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which"
+     "gloss": "which is called"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "துன்பத்துள்",
@@ -71,15 +66,15 @@
     {
      "text": "துன்பத்து",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "suffering (oblique)"
     },
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "inside"
     }
    ],
-   "gloss": "among sorrows"
+   "gloss": "among the sufferings"
   },
   {
    "surface": "துன்பம்",
@@ -87,10 +82,10 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "suffering"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "the suffering"
   },
   {
    "surface": "கெடின்",
@@ -109,10 +104,10 @@
    "gloss": "if destroyed"
   }
  ],
- "literal": "Joy ceaselessly will-gather, desire called among-sorrow sorrow if-perishes.",
- "translation": "If the sorrow of all sorrows called desire is destroyed, joy will gather ceaselessly.",
- "modern": "அவா என்று சொல்லப்படும் துன்பங்களிலேயே மிகப்பெரிய துன்பம் அழிந்துவிட்டால், ஒருவருக்கு இன்பம் இடைவிடாமல் வந்து சேரும்.",
- "explanation": "The couplet identifies desire as the ultimate source of suffering, calling it the 'sorrow among sorrows' (துன்பத்துள் துன்பம்). It states that if this root cause of misery is completely destroyed, a person will experience uninterrupted joy. The word 'ஈண்டும்' (will gather) implies that true happiness naturally accrues and stays with someone once the destructive force of desire is removed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Happiness without interruption will accumulate, desire which is called among sufferings the suffering if destroyed.",
+ "translation": "If desire, which is the greatest suffering of all sufferings, is destroyed, uninterrupted happiness will crowd in.",
+ "modern": "துன்பங்கள் எல்லாவற்றிலும் பெரும் துன்பம் என்று சொல்லப்படும் ஆசை அழிந்துவிட்டால், இடைவிடாத இன்பம் வந்து பெருகும்.",
+ "explanation": "This couplet explains that desire is not just one of many problems, but the ultimate source of misery, described here as the 'suffering of sufferings' (துன்பத்துள் துன்பம்). When this root cause of pain is completely eliminated, true happiness (இன்பம்) naturally rushes in without any gap or interruption (இடையறாது). The word 'ஈண்டும்' beautifully suggests that joy will crowd in and fill the space once occupied by craving. Thus, the eradication of desire is presented as the single key to experiencing continuous, everlasting peace.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

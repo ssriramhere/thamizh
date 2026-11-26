@@ -5,19 +5,19 @@
    "parts": [
     {
      "text": "உள்ள",
-     "lemma": "உள்",
-     "gloss": "to think"
+     "lemma": "உள்ளு",
+     "gloss": "to think of"
     }
    ],
-   "gloss": "to think"
+   "gloss": "thinking of"
   },
   {
    "surface": "களித்தலும்",
    "parts": [
     {
      "text": "களித்தல்",
-     "lemma": "களி",
-     "gloss": "rejoicing"
+     "lemma": "களித்தல்",
+     "gloss": "intoxication"
     },
     {
      "text": "உம்",
@@ -25,7 +25,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "rejoicing and"
+   "gloss": "and the intoxication"
   },
   {
    "surface": "காண",
@@ -36,15 +36,15 @@
      "gloss": "to see"
     }
    ],
-   "gloss": "to see"
+   "gloss": "seeing"
   },
   {
    "surface": "மகிழ்தலும்",
    "parts": [
     {
      "text": "மகிழ்தல்",
-     "lemma": "மகிழ்",
-     "gloss": "gladdening"
+     "lemma": "மகிழ்தல்",
+     "gloss": "delight"
     },
     {
      "text": "உம்",
@@ -52,15 +52,20 @@
      "gloss": "and"
     }
    ],
-   "gloss": "gladdening and"
+   "gloss": "and the delight"
   },
   {
    "surface": "கள்ளுக்கு",
    "parts": [
     {
-     "text": "கள்ளுக்கு",
+     "text": "கள்",
      "lemma": "கள்",
-     "gloss": "to liquor"
+     "gloss": "liquor"
+    },
+    {
+     "text": "உக்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to liquor"
@@ -71,21 +76,22 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not"
+     "gloss": "not there"
     }
    ],
-   "gloss": "is not"
+   "gloss": "is not there"
   },
   {
    "surface": "காமத்திற்கு",
    "parts": [
     {
      "text": "காமத்திற்கு",
-     "lemma": "காமம்",
+     "lemma": "காமத்திற்கு",
      "gloss": "to love"
     }
    ],
-   "gloss": "to love"
+   "gloss": "to love",
+   "split_unverified": true
   },
   {
    "surface": "உண்டு",
@@ -93,16 +99,16 @@
     {
      "text": "உண்டு",
      "lemma": "உண்டு",
-     "gloss": "exists"
+     "gloss": "is there"
     }
    ],
-   "gloss": "exists"
+   "gloss": "is there"
   }
  ],
- "literal": "To think rejoicing and to see gladdening to liquor is not, to love exists.",
- "translation": "Merely thinking of it brings intoxication, and seeing it brings joy; this is true of love, but not of liquor.",
- "modern": "நினைத்தாலேயே போதை தருவதும், பார்த்தாலேயே மகிழ்ச்சி தருவதும் காதலுக்கு மட்டுமே உண்டு; மதுவுக்கு அந்த இயல்பு இல்லை.",
- "explanation": "The couplet contrasts the effects of love with those of intoxicating liquor. Liquor can only intoxicate when it is actually consumed. Love, however, is so powerful that merely thinking about the beloved brings a rush of intoxication, and simply seeing them brings immense joy. The words 'உள்ள' (to think) and 'காண' (to see) highlight how love affects the mind and senses even without physical union.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking of [it] the intoxication, and seeing [it] the delight, to liquor is not there, to love is there.",
+ "translation": "To feel intoxicated just by thinking of it, and to feel delighted just by seeing it—these belong not to liquor, but only to love.",
+ "modern": "நினைத்த உடனே களிப்பு அடைதலும், நேரில் கண்ட உடனே மகிழ்ச்சி அடைதலும் ஆகிய இவ்விரண்டும் மதுவுக்கு இல்லை; ஆனால் காமத்திற்கு உண்டு.",
+ "explanation": "This couplet compares the effects of liquor and love. While liquor can only intoxicate after it is consumed, love has the unique power to intoxicate the mind the very moment one thinks of the beloved. Similarly, merely seeing the beloved brings immediate delight. The poet contrasts these two experiences to show that the joy of love is far superior and more immediate than any physical stimulant.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,19 +4,24 @@
    "surface": "இன்னாது",
    "parts": [
     {
-     "text": "இன்னாது",
-     "lemma": "இன்னாது",
-     "gloss": "is painful"
+     "text": "இன்னா",
+     "lemma": "இன்னா",
+     "gloss": "painful"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it"
     }
    ],
-   "gloss": "is painful"
+   "gloss": "it is painful"
   },
   {
    "surface": "இரக்க",
    "parts": [
     {
      "text": "இரக்க",
-     "lemma": "இர",
+     "lemma": "இரத்தல்",
      "gloss": "to beg"
     }
    ],
@@ -27,18 +32,18 @@
    "parts": [
     {
      "text": "படுதல்",
-     "lemma": "படு",
-     "gloss": "experiencing"
+     "lemma": "படுதல்",
+     "gloss": "undergoing"
     }
    ],
-   "gloss": "experiencing (passive)"
+   "gloss": "undergoing (being begged of)"
   },
   {
    "surface": "இரந்தவர்",
    "parts": [
     {
      "text": "இரந்தவர்",
-     "lemma": "இர",
+     "lemma": "இரந்தவர்",
      "gloss": "those who begged"
     }
    ],
@@ -50,7 +55,7 @@
     {
      "text": "இன்",
      "lemma": "இனிமை",
-     "gloss": "sweet"
+     "gloss": "pleasant"
     },
     {
      "text": "முகம்",
@@ -58,14 +63,14 @@
      "gloss": "face"
     }
    ],
-   "gloss": "sweet face"
+   "gloss": "pleasant face"
   },
   {
    "surface": "காணும்",
    "parts": [
     {
      "text": "காணும்",
-     "lemma": "காண்",
+     "lemma": "காணுதல்",
      "gloss": "seeing"
     }
    ],
@@ -77,16 +82,16 @@
     {
      "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "until"
+     "gloss": "until / limit"
     }
    ],
-   "gloss": "until"
+   "gloss": "until / limit"
   }
  ],
- "literal": "Painful is being begged, until of those who begged the sweet face is seen.",
- "translation": "Being asked for charity is painful only until you see the sweet, relieved face of the person who asked.",
- "modern": "தன்னிடம் வந்து யாசித்தவரின் மகிழ்ச்சியான முகத்தைக் காணும் வரைக்கும், ஒருவரால் யாசிக்கப்படுவது துன்பமானதே ஆகும்.",
- "explanation": "This couplet captures the emotional journey of giving. Initially, being approached by someone in need causes distress, as it highlights their suffering and places a burden on the giver. However, this pain lasts only until the giver provides what is needed. Once the giver sees the sweet, relieved face of the receiver, the initial distress transforms into joy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Being begged of is painful, until the moment of seeing the pleasant face of those who begged.",
+ "translation": "Being begged for alms is painful, but only until one sees the joyful, pleasant face of those who receive the gift.",
+ "modern": "பிறர் நம்மிடம் வந்து இரந்து கேட்பது துன்பமானதுதான்; ஆனால், இரந்து கேட்டவரின் மகிழ்ச்சியான முகத்தைக் காணும் வரை மட்டுமே அத்துன்பம் நீடிக்கும்.",
+ "explanation": "This couplet explores the psychological experience of giving charity. The act of being asked for help (irakka-patutal) can initially feel unpleasant or painful (innatu) to a giver, perhaps due to the burden of giving or witnessing another's distress. However, this discomfort lasts only until (alavu) the giver beholds the sweet, joyful face (inmukam) of the recipient upon receiving the aid. The sight of the beggar's happiness instantly transforms the giver's pain into profound joy, highlighting the ultimate reward of charity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

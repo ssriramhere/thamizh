@@ -4,17 +4,13 @@
    "surface": "எண்பதத்தால்",
    "parts": [
     {
-     "text": "எண்பதத்து",
-     "lemma": "எண்பதம்",
-     "gloss": "easy access"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "by"
+     "text": "எண்பதத்தால்",
+     "lemma": "எண்பதத்தால்",
+     "gloss": "through an easy and gentle demeanor"
     }
    ],
-   "gloss": "by easy approachability"
+   "gloss": "through an easy and gentle demeanor",
+   "split_unverified": true
   },
   {
    "surface": "எய்தல்",
@@ -33,7 +29,7 @@
     {
      "text": "எளிது",
      "lemma": "எளிது",
-     "gloss": "is easy"
+     "gloss": "easy thing"
     }
    ],
    "gloss": "is easy"
@@ -55,7 +51,7 @@
     {
      "text": "யார்",
      "lemma": "யார்",
-     "gloss": "who"
+     "gloss": "anyone"
     },
     {
      "text": "மாட்டு",
@@ -68,7 +64,7 @@
      "gloss": "even/all"
     }
    ],
-   "gloss": "towards anyone"
+   "gloss": "towards everyone"
   },
   {
    "surface": "பண்புடைமை",
@@ -76,7 +72,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "good quality"
+     "gloss": "courtesy"
     },
     {
      "text": "உடைமை",
@@ -84,18 +80,23 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possessing courtesy"
+   "gloss": "the possession of noble character"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "say/call"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "வழக்கு",
@@ -103,16 +104,16 @@
     {
      "text": "வழக்கு",
      "lemma": "வழக்கு",
-     "gloss": "proper conduct"
+     "gloss": "path/practice"
     }
    ],
-   "gloss": "proper conduct"
+   "gloss": "the path"
   }
  ],
- "literal": "By easy approachability attaining is easy they say towards anyone possessing courtesy called proper conduct",
- "translation": "The wise say that the proper conduct called courtesy towards everyone is easily attained by being easily approachable.",
- "modern": "யாவரிடத்தும் எளிமையாகப் பழகும் தன்மையால், பண்புடைமை என்னும் நல்வழியை அடைவது எளிது என்று அறிஞர் கூறுவர்.",
- "explanation": "This couplet explains the foundation of developing good character and courtesy. The key word 'eṇpatam' refers to being easily accessible and approachable to people without arrogance. By maintaining this openness and simplicity towards everyone, the noble path of courtesy is naturally and easily attained.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Through easy approachability, to attain is easy, they say, towards anyone, the practice called courtesy.",
+ "translation": "They say that the path of courtesy is easy to attain for those who maintain an easily approachable demeanor towards everyone.",
+ "modern": "யாரிடத்தும் எளிமையாகப் பழகும் தன்மையைக் கொண்டிருப்பதன் மூலம், பண்புடைமை என்று சொல்லப்படும் நல்வழியை அடைவது எளிது என்று கூறுவர்.",
+ "explanation": "This couplet highlights the importance of being easily approachable to everyone, regardless of their status. The author explains that possessing a gentle, accessible demeanor is the key to mastering the virtue of courtesy or noble character. When a person is humble and easy to interact with, practicing goodness and maintaining harmonious relationships becomes natural and effortless. Thus, accessibility is presented not just as a polite trait, but as the very gateway to true nobility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

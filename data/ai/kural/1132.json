@@ -4,17 +4,12 @@
    "surface": "நோனா",
    "parts": [
     {
-     "text": "நோன்",
-     "lemma": "நோன்",
-     "gloss": "to endure"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "நோனா",
+     "lemma": "நோ",
+     "gloss": "not enduring"
     }
    ],
-   "gloss": "not enduring"
+   "gloss": "unable to bear the pain"
   },
   {
    "surface": "உடம்பும்",
@@ -30,7 +25,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "body-and"
+   "gloss": "and the body"
   },
   {
    "surface": "உயிரும்",
@@ -38,7 +33,7 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "soul"
+     "gloss": "life"
     },
     {
      "text": "உம்",
@@ -46,7 +41,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "soul-and"
+   "gloss": "and the life"
   },
   {
    "surface": "மடல்",
@@ -57,23 +52,18 @@
      "gloss": "palmyra stem"
     }
    ],
-   "gloss": "palmyra stem"
+   "gloss": "the palmyra horse"
   },
   {
    "surface": "ஏறும்",
    "parts": [
     {
-     "text": "ஏறு",
+     "text": "ஏறும்",
      "lemma": "ஏறு",
-     "gloss": "to mount"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will mount"
     }
    ],
-   "gloss": "will mount"
+   "gloss": "will ride"
   },
   {
    "surface": "நாணினை",
@@ -81,68 +71,48 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "shame"
+     "gloss": "modesty"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "shame (acc.)"
+   "gloss": "modesty"
   },
   {
    "surface": "நீக்கி",
    "parts": [
     {
-     "text": "நீக்கு",
+     "text": "நீக்கி",
      "lemma": "நீக்கு",
-     "gloss": "to remove"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "having removed"
     }
    ],
-   "gloss": "having removed"
+   "gloss": "having cast aside"
   },
   {
    "surface": "நிறுத்து",
    "parts": [
     {
-     "text": "நிறு",
-     "lemma": "நிறு",
-     "gloss": "to weigh"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial suffix"
+     "text": "நிறுத்து",
+     "lemma": "நிறுத்து",
+     "gloss": "having set aside"
     }
    ],
-   "gloss": "having weighed"
+   "gloss": "having put away"
   }
  ],
- "literal": "Not-enduring body-and soul-and palmyra-stem will-mount, shame having-removed having-weighed.",
- "translation": "Having weighed the pain, my body and soul can endure no more; they will cast aside reserve and ride the palm-stem horse.",
- "modern": "துன்பத்தை அளவிட்டுப் பார்த்து, அதனைத் தாங்க முடியாத என் உடம்பும் உயிரும் நாணத்தை நீக்கிவிட்டு மடல் ஏறத் துணிகின்றன.",
- "explanation": "The speaker expresses the extreme agony of unfulfilled love, stating that their body and soul can no longer bear the suffering. The word 'நிறுத்து' indicates having weighed this unbearable pain against their natural sense of shame, leading to the decision to abandon reserve. They resolve to ride the 'maṭal' (a horse made of rough palmyra stems), a traditional extreme public declaration of love meant to force the union.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not enduring body and life will ride the palmyra horse, modesty having cast aside and put away.",
+ "translation": "My body and life, unable to bear this suffering, will ride the palmyra horse, having completely cast aside and put away all modesty.",
+ "modern": "துன்பத்தைப் பொறுக்க முடியாத என் உடலும் உயிரும், நாணத்தை நீக்கித் தூரத்தே வைத்துவிட்டு, மடலேறும்.",
+ "explanation": "The lover expresses the extremity of his grief caused by separation from his beloved. He declares that his body and life can no longer endure the pain, forcing him to resort to 'madalēṟutal'—the public act of riding a horse made of rough palmyra stems to proclaim his love. To take this desperate step, he must completely cast aside ('nīkki') and put away ('niṟuttu') his sense of shame and modesty ('nāṇ'). The couplet illustrates how overwhelming love-sickness overpowers a person's natural restraint and social decorum.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

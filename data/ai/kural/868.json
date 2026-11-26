@@ -5,24 +5,24 @@
    "parts": [
     {
      "text": "குணன்",
-     "lemma": "குணன்",
-     "gloss": "virtue"
+     "lemma": "குணம்",
+     "gloss": "good qualities"
     }
    ],
-   "gloss": "virtue"
+   "gloss": "good qualities"
   },
   {
    "surface": "இலனாய்",
    "parts": [
     {
      "text": "இலன்",
-     "lemma": "இல்",
-     "gloss": "he is without"
+     "lemma": "இலன்",
+     "gloss": "one who is without"
     },
     {
      "text": "ஆய்",
-     "lemma": "ஆகு",
-     "gloss": "having become"
+     "lemma": "ஆய்",
+     "gloss": "being"
     }
    ],
    "gloss": "being without"
@@ -33,10 +33,10 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "faults"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults"
   },
   {
    "surface": "பல",
@@ -54,8 +54,8 @@
    "parts": [
     {
      "text": "ஆயின்",
-     "lemma": "ஆகு",
-     "gloss": "if"
+     "lemma": "ஆயின்",
+     "gloss": "if they are"
     }
    ],
    "gloss": "if they are"
@@ -69,35 +69,35 @@
      "gloss": "enemies"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the enemies"
+   "gloss": "to enemies"
   },
   {
    "surface": "இனன்",
    "parts": [
     {
      "text": "இனன்",
-     "lemma": "இனன்",
-     "gloss": "ally"
+     "lemma": "இனம்",
+     "gloss": "allies"
     }
    ],
-   "gloss": "ally"
+   "gloss": "allies"
   },
   {
    "surface": "இலனாம்",
    "parts": [
     {
      "text": "இலன்",
-     "lemma": "இல்",
-     "gloss": "he is without"
+     "lemma": "இலன்",
+     "gloss": "one who is without"
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆகு",
+     "lemma": "ஆம்",
      "gloss": "becomes"
     }
    ],
@@ -109,10 +109,10 @@
     {
      "text": "ஏமாப்பு",
      "lemma": "ஏமாப்பு",
-     "gloss": "advantage"
+     "gloss": "security or easy advantage"
     }
    ],
-   "gloss": "advantage"
+   "gloss": "security or easy advantage"
   },
   {
    "surface": "உடைத்து",
@@ -120,16 +120,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it has"
+     "gloss": "it possesses"
     }
    ],
-   "gloss": "it has"
+   "gloss": "it possesses"
   }
  ],
- "literal": "Virtue being without, faults many if they are, to the enemies ally he becomes without, an advantage it has.",
- "translation": "If a ruler lacks virtue and has many faults, he will be left without allies. This condition gives a great advantage to his enemies.",
- "modern": "ஒருவன் நற்குணங்கள் இல்லாதவனாகவும், பல குற்றங்கள் உடையவனாகவும் இருந்தால், அவனுக்குத் துணையாக யாரும் இருக்க மாட்டார்கள். இந்த நிலை அவனுடைய பகைவர்களுக்குப் பெரிய நன்மையைத் தரும்.",
- "explanation": "This couplet explains how a ruler's own flaws become his enemy's greatest asset. The word 'குணன்' refers to good qualities, while 'குற்றம்' denotes flaws or misdeeds. When a person lacks virtue and commits many errors, he naturally loses the support of his allies ('இனன் இலனாம்'). This isolation is described as 'ஏமாப்பு உடைத்து' for the enemies, meaning it provides them with a distinct advantage or security, making him an easy target.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one is without good qualities, has many faults, and becomes without allies, it possesses great security for his enemies.",
+ "translation": "If a person has no good qualities, possesses many faults, and lacks any allies, he becomes an easy target, offering a great advantage and security to his enemies.",
+ "modern": "ஒருவன் நற்குணங்கள் இல்லாதவனாய், பல குற்றங்களை உடையவனாய், துணையாக இருக்கும் சுற்றத்தாரும் இல்லாதவனாய் இருந்தால், அது அவனுடைய பகைவர்களுக்குப் பெரும் பாதுகாப்பாக அமைந்துவிடும்.",
+ "explanation": "This couplet outlines the traits that make an opponent extremely vulnerable and easy to conquer. When a person lacks virtuous qualities and is burdened with numerous flaws, they naturally fail to win the trust of others. Consequently, they end up completely isolated without any allies or supporters to defend them. This state of utter weakness and friendlessness provides a great sense of security and an effortless victory to their enemies.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

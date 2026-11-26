@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "தவறு",
@@ -28,12 +28,12 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "he (honorific)"
+     "gloss": "he"
     },
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
    "gloss": "to him"
@@ -42,19 +42,24 @@
    "surface": "ஆயினும்",
    "parts": [
     {
-     "text": "ஆயினும்",
-     "lemma": "ஆயினும்",
-     "gloss": "even if"
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
+     "gloss": "if it is"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "ஊடுதல்",
    "parts": [
     {
      "text": "ஊடுதல்",
-     "lemma": "ஊடு",
+     "lemma": "ஊடுதல்",
      "gloss": "sulking"
     }
    ],
@@ -65,8 +70,8 @@
    "parts": [
     {
      "text": "வல்லது",
-     "lemma": "வல்",
-     "gloss": "is capable of"
+     "lemma": "வல்லது",
+     "gloss": "that which is capable"
     }
    ],
    "gloss": "is capable of"
@@ -77,21 +82,21 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "he (honorific)"
+     "gloss": "his"
     }
    ],
-   "gloss": "he"
+   "gloss": "his"
   },
   {
    "surface": "அள஧க்கு",
    "parts": [
     {
      "text": "அள஧க்கு",
-     "lemma": "அளி",
+     "lemma": "அளிக்கு",
      "gloss": "bestowing"
     }
    ],
-   "gloss": "bestowing"
+   "gloss": "of bestowing love"
   },
   {
    "surface": "மாறு",
@@ -99,16 +104,16 @@
     {
      "text": "மாறு",
      "lemma": "மாறு",
-     "gloss": "way"
+     "gloss": "manner"
     }
    ],
-   "gloss": "way"
+   "gloss": "manner"
   }
  ],
- "literal": "Is not fault to him even if, sulking is capable of his bestowing way.",
- "translation": "Even when he is entirely without fault, feigning a quarrel has the power to draw out his sweet affection.",
- "modern": "அவரிடம் எந்தத் தவறும் இல்லை என்றாலும், அவர் அன்பை வெளிப்படுத்தும் விதத்தைக் காண ஊடுதல் வல்லமை உடையது.",
- "explanation": "The speaker notes that her lover has committed no actual fault to justify her anger. However, she still engages in a feigned quarrel because it prompts him to soothe her. This playful sulking is powerful because it reveals the beautiful and tender way he shows his love to win her back.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "There is no fault in him, even though, sulking is capable of (increasing) the manner of his bestowing love.",
+ "translation": "Even though he has committed no fault, a lover's tiff has the power to increase the warmth of his affection.",
+ "modern": "அவரிடம் எந்தத் தவறும் இல்லை என்றாலும், அவரோடு ஊடல் கொள்வது அவர் தன் அன்பை வெளிப்படுத்தும் வழியை மேலும் சிறக்கச் செய்யும் ஆற்றல் கொண்டது.",
+ "explanation": "This couplet highlights the playful nature of a lovers' tiff in classical love poetry. The heroine explains that even when her partner is completely faultless, feigning anger or sulking is highly effective. It has the unique power to enhance and sweeten the manner in which he showers his love and affection upon her during reconciliation. Thus, temporary sulking is portrayed not as a sign of discord, but as a delightful means to deepen their mutual intimacy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

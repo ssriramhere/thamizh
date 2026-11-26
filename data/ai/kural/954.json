@@ -9,17 +9,12 @@
      "gloss": "to stack"
     },
     {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "adjectival suffix"
+     "text": "இய",
+     "lemma": "இய",
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "stacked"
+   "gloss": "piled up"
   },
   {
    "surface": "கோடி",
@@ -30,20 +25,15 @@
      "gloss": "ten million"
     }
    ],
-   "gloss": "ten million"
+   "gloss": "ten million (crore)"
   },
   {
    "surface": "பெறினும்",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "to obtain"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if they obtain"
     },
     {
      "text": "உம்",
@@ -51,7 +41,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if obtained"
+   "gloss": "even if they obtain"
   },
   {
    "surface": "குடி",
@@ -59,10 +49,10 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "lineage"
+     "gloss": "noble family"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "noble family"
   },
   {
    "surface": "பிறந்தார்",
@@ -75,7 +65,7 @@
     {
      "text": "ந்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "past tense marker (nasalized)"
     },
     {
      "text": "த்",
@@ -85,10 +75,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "third person plural suffix"
     }
    ],
-   "gloss": "those born"
+   "gloss": "those who are born"
   },
   {
    "surface": "குன்றுவ",
@@ -100,11 +90,11 @@
     },
     {
      "text": "வ",
-     "lemma": "வ",
+     "lemma": "அ",
      "gloss": "neuter plural suffix"
     }
    ],
-   "gloss": "things that diminish"
+   "gloss": "things that diminish character"
   },
   {
    "surface": "செய்தல்",
@@ -128,21 +118,21 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not/without"
+     "gloss": "not"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "third person plural suffix"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "they will not do"
   }
  ],
- "literal": "Stacked ten-millions even if obtained, those born in a lineage are without the doing of things that diminish.",
- "translation": "Even if they were to gain wealth stacked in tens of millions, those born of a good lineage will not do things that diminish their honor.",
- "modern": "கோடிக்கணக்கான செல்வத்தை அடுக்கிக் கொடுத்தாலும், நல்ல குடியில் பிறந்தவர்கள் தம் பெருமை குறையும்படியான இழிவான செயல்களைச் செய்ய மாட்டார்கள்.",
- "explanation": "This couplet emphasizes the unshakeable integrity of those who come from a noble lineage. The phrase 'அடுக்கிய கோடி' (stacked ten millions) vividly represents unimaginable wealth offered as a temptation. Even if such immense riches are to be gained, people of good birth ('குடிப்பிறந்தார்') will never commit acts that diminish their honor ('குன்றுவ'). Their character is defined by the absolute refusal to do degrading deeds, showing that true nobility values honor far above material gain.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Piled up ten-millions even if they obtain, those born of noble family, things that diminish character, doing, they will not.",
+ "translation": "Even if they were to obtain millions upon millions piled high, those born of noble lineage will never do things that diminish their character.",
+ "modern": "அடுக்கடுக்கான பல கோடிகளைப் பெற்றாலும், நல்ல குடியில் பிறந்தவர்கள் தம் பெருமையைக் குறைக்கும் செயல்களைச் செய்ய மாட்டார்கள்.",
+ "explanation": "This couplet highlights the unyielding integrity of those born into noble families. The phrase 'அடுக்கிய கோடி' refers to stacked millions, representing immense wealth. Even when tempted with or offered such vast riches, those of noble birth will never commit actions that diminish ('குன்றுவ') their high character or family honor. Their commitment to virtue and dignity is absolute and cannot be bought at any price.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

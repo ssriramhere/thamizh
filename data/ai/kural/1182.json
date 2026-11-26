@@ -6,7 +6,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "he"
+     "gloss": "he (the lover)"
     }
    ],
    "gloss": "he"
@@ -17,7 +17,7 @@
     {
      "text": "தந்தார்",
      "lemma": "தா",
-     "gloss": "gave-he"
+     "gloss": "gave"
     }
    ],
    "gloss": "gave"
@@ -39,15 +39,15 @@
     {
      "text": "தகை",
      "lemma": "தகை",
-     "gloss": "pride"
+     "gloss": "right / privilege"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by / with"
     }
    ],
-   "gloss": "by the pride"
+   "gloss": "with the right"
   },
   {
    "surface": "இவர்",
@@ -55,28 +55,28 @@
     {
      "text": "இவர்",
      "lemma": "இவர்",
-     "gloss": "to spread"
+     "gloss": "this person (the pallor)"
     }
    ],
-   "gloss": "spreading"
+   "gloss": "this"
   },
   {
    "surface": "தந்து",
    "parts": [
     {
      "text": "தந்து",
-     "lemma": "தரு",
-     "gloss": "having given"
+     "lemma": "தா",
+     "gloss": "having given / presented"
     }
    ],
-   "gloss": "having done"
+   "gloss": "having presented itself"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -88,7 +88,7 @@
     {
      "text": "மேனி",
      "lemma": "மேனி",
-     "gloss": "body"
+     "gloss": "body / skin"
     }
    ],
    "gloss": "body"
@@ -99,7 +99,7 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "upon"
+     "gloss": "upon / over"
     }
    ],
    "gloss": "upon"
@@ -110,10 +110,10 @@
     {
      "text": "ஊரும்",
      "lemma": "ஊர்",
-     "gloss": "crawls"
+     "gloss": "spreads / crawls"
     }
    ],
-   "gloss": "crawls"
+   "gloss": "spreads"
   },
   {
    "surface": "பசப்பு",
@@ -121,16 +121,16 @@
     {
      "text": "பசப்பு",
      "lemma": "பசப்பு",
-     "gloss": "pallor"
+     "gloss": "pallor / sallowness"
     }
    ],
    "gloss": "pallor"
   }
  ],
- "literal": "He gave, saying, by the pride, spreading having done, my body upon crawls pallor.",
- "translation": "With the proud thought that 'He gave me,' the pallor spreads and crawls all over my body.",
- "modern": "தலைவர் எனக்கு இதைக் கொடுத்தார் என்னும் பெருமையால், பசப்பு என் உடம்பின் மேல் ஏறிப் பரவுகிறது.",
- "explanation": "The heroine playfully personifies her pallor, the yellowing of her skin caused by lovesickness. She imagines that the pallor is proud because it was given to her directly by her lover when he departed. Swelling with this pride, the pallor eagerly climbs and spreads all over her body. The word 'தகை' here means pride or boastfulness, capturing the poetic conceit of the spreading color.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With the proud right saying 'He gave (it)', this pallor, having presented itself, spreads upon my body.",
+ "translation": "With the proud claim that 'He gave me to her,' this pallor has presented itself and spreads all over my body.",
+ "modern": "அவர் (என் காதலர்) தான் என்னைத் தந்தார் என்ற உரிமையோடு, இந்தப் பசப்பு என் உடம்பின் மேல் வந்து பரவுகிறது.",
+ "explanation": "The heroine is suffering from the pain of separation, which manifests as a sickly yellow-green pallor on her skin. She personifies this pallor as an uninvited guest who behaves with absolute authority. The pallor spreads boldly across her body, acting as if it has a legitimate right to be there because it was given to her as a parting gift by her lover himself. By using the words 'avar' (he) and 'ivar' (this person), she highlights the intimate connection between her lover's departure and the arrival of her physical grief.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

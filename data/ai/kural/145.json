@@ -6,21 +6,21 @@
     {
      "text": "எளிது",
      "lemma": "எளிது",
-     "gloss": "easy"
+     "gloss": "easy thing"
     }
    ],
-   "gloss": "easy"
+   "gloss": "easy thing"
   },
   {
    "surface": "என",
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
+     "lemma": "என",
      "gloss": "thinking"
     }
    ],
-   "gloss": "thinking"
+   "gloss": "thinking that"
   },
   {
    "surface": "இல்",
@@ -28,29 +28,34 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     }
    ],
-   "gloss": "house"
+   "gloss": "home (another's wife)"
   },
   {
    "surface": "இறப்பான்",
    "parts": [
     {
      "text": "இறப்பான்",
-     "lemma": "இற",
-     "gloss": "he who trespasses"
+     "lemma": "இறத்தல்",
+     "gloss": "he who transgresses"
     }
    ],
-   "gloss": "he who trespasses"
+   "gloss": "he who transgresses"
   },
   {
    "surface": "எய்தும்",
    "parts": [
     {
-     "text": "எய்தும்",
+     "text": "எய்து",
      "lemma": "எய்து",
-     "gloss": "will attain"
+     "gloss": "attain"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
    "gloss": "will attain"
@@ -70,12 +75,17 @@
    "surface": "விளியாது",
    "parts": [
     {
-     "text": "விளியாது",
+     "text": "விளி",
      "lemma": "விளி",
-     "gloss": "without perishing"
+     "gloss": "ruin"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
     }
    ],
-   "gloss": "without perishing"
+   "gloss": "without dying"
   },
   {
    "surface": "நிற்கும்",
@@ -83,10 +93,10 @@
     {
      "text": "நிற்கும்",
      "lemma": "நில்",
-     "gloss": "will stand"
+     "gloss": "that will stand"
     }
    ],
-   "gloss": "will stand"
+   "gloss": "that will stand"
   },
   {
    "surface": "பழி",
@@ -100,10 +110,10 @@
    "gloss": "disgrace"
   }
  ],
- "literal": "Easy thinking, house he-who-trespasses will-attain always without-perishing will-stand disgrace.",
- "translation": "He who trespasses into another's house thinking it is easy will attain a disgrace that stands forever without fading.",
- "modern": "இது எளிது என்று நினைத்து அடுத்தவர் வீட்டிற்குள் எல்லை மீறிச் செல்பவன், எக்காலத்திலும் அழியாமல் நிலைத்து நிற்கும் பழியை அடைவான்.",
- "explanation": "The couplet warns against the temptation of illicit affairs by highlighting the permanent damage to one's reputation. The word 'il' has multiple meanings including 'not', but here it means 'house', specifically referring to trespassing into a neighbor's home. A person might think such a transgression is easy to commit and hide. However, the resulting disgrace will never perish and will stand against him forever.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking it is easy, he who transgresses another's home, will always attain a disgrace that stands without dying.",
+ "translation": "He who enters another's home coveting his wife, thinking it is an easy deed, will acquire a disgrace that stands forever without dying.",
+ "modern": "இது எளிய செயல் என்று நினைத்துப் பிறனுடைய வீட்டிற்குள் நுழைந்து தவறு செய்பவன், எப்போதும் அழியாமல் நிலைத்து நிற்கும் பழியை அடைவான்.",
+ "explanation": "This couplet warns against the grave error of desiring another's wife. A person might trespass into another's home ('இல்') thinking it is an easy ('எளிது') or trivial matter to escape caught. However, the consequence of this transgression ('இறப்பான்') is a permanent, undying disgrace ('விளியாது நிற்கும் பழி') that will follow them for all time ('எஞ்ஞான்றும்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

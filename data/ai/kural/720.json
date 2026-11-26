@@ -6,7 +6,7 @@
     {
      "text": "அங்கணத்து",
      "lemma": "அங்கணம்",
-     "gloss": "drain (oblique)"
+     "gloss": "dirty place or drain"
     },
     {
      "text": "உள்",
@@ -14,7 +14,7 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "inside the drain"
+   "gloss": "inside a dirty drain"
   },
   {
    "surface": "உக்க",
@@ -33,10 +33,10 @@
     {
      "text": "அமிழ்து",
      "lemma": "அமிழ்து",
-     "gloss": "ambrosia"
+     "gloss": "nectar"
     }
    ],
-   "gloss": "ambrosia"
+   "gloss": "nectar"
   },
   {
    "surface": "அற்றால்",
@@ -44,7 +44,7 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஆல்",
@@ -52,14 +52,14 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "it is like that"
+   "gloss": "is like"
   },
   {
    "surface": "தம்",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
+     "lemma": "தம்",
      "gloss": "one's own"
     }
    ],
@@ -70,11 +70,11 @@
    "parts": [
     {
      "text": "கணத்தார்",
-     "lemma": "கணம்",
-     "gloss": "group-members"
+     "lemma": "கணத்தார்",
+     "gloss": "those of the group"
     }
    ],
-   "gloss": "group-members"
+   "gloss": "peers or equals"
   },
   {
    "surface": "அல்லார்",
@@ -82,7 +82,7 @@
     {
      "text": "அல்லார்",
      "lemma": "அல்",
-     "gloss": "not-they"
+     "gloss": "those who are not"
     }
    ],
    "gloss": "those who are not"
@@ -93,10 +93,10 @@
     {
      "text": "முன்",
      "lemma": "முன்",
-     "gloss": "in front of"
+     "gloss": "before"
     }
    ],
-   "gloss": "in front of"
+   "gloss": "before"
   },
   {
    "surface": "கோட்டி",
@@ -104,32 +104,27 @@
     {
      "text": "கோட்டி",
      "lemma": "கோட்டி",
-     "gloss": "discourse"
+     "gloss": "assembly or discourse"
     }
    ],
-   "gloss": "discourse"
+   "gloss": "learned discourse"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "to hold"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "holding or conducting"
     }
    ],
    "gloss": "holding"
   }
  ],
- "literal": "Inside the drain spilled ambrosia it is like, one's own group-members those who are not in front of discourse holding.",
- "translation": "Holding a discourse before those who are not of one's own kind is like spilling ambrosia into a dirty drain.",
- "modern": "தமது தகுதியைப் போன்ற தகுதி இல்லாதவர்கள் முன்னே ஒரு பொருளைப் பற்றிப் பேசுவது, சாக்கடையில் சிந்திய அமிழ்தத்தைப் போன்றது.",
- "explanation": "The couplet warns against sharing valuable knowledge with an unreceptive or unsuited audience. 'கோட்டி கொளல்' means holding a discourse or sharing profound words. Doing this before people who are not of one's own kind ('தம் கணத்தார் அல்லார் முன்')—meaning those who lack the refinement or understanding to appreciate it—is a waste. The poet compares this to 'அமிழ்து' (ambrosia), the most precious and life-giving substance, being spilled into an 'அங்கணம்' (a dirty drain), where it is completely ruined and useless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Holding a learned discourse before those who are not one's own peers is like nectar spilled inside a dirty drain.",
+ "translation": "Holding a learned discourse before those who are not one's peers is like spilling divine nectar into a dirty drain.",
+ "modern": "தம்முடைய அறிவுத் தரத்திற்குச் சமமில்லாதவர்கள் முன்னிலையில் அறிவார்ந்த சொற்பொழிவு ஆற்றுவது, சாக்கடையில் அமுதத்தைக் கொட்டுவதற்கு ஒப்பானதாகும்.",
+ "explanation": "This couplet highlights the importance of choosing the right audience for sharing high wisdom. The poet compares precious, refined knowledge to 'அமிழ்து' (divine nectar). Speaking such profound truths before 'தங்கணத்தார் அல்லார்' (those who are not one's intellectual peers) is a waste of effort. It is compared to spilling nectar into an 'அங்கணம்' (a dirty drain or sewer), where its purity and value are instantly ruined. Therefore, a wise person must only hold a discourse ('கோட்டி கொளல்') in an assembly of equals who can appreciate it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

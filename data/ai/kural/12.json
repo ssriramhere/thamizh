@@ -4,12 +4,22 @@
    "surface": "துப்பார்க்கு",
    "parts": [
     {
-     "text": "துப்பார்க்கு",
-     "lemma": "துப்பார்",
-     "gloss": "to the eaters"
+     "text": "துப்பு",
+     "lemma": "துப்பு",
+     "gloss": "food"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who eat"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the eaters"
+   "gloss": "to those who eat"
   },
   {
    "surface": "துப்பாய",
@@ -21,11 +31,11 @@
     },
     {
      "text": "ஆய",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "which became"
     }
    ],
-   "gloss": "which became food"
+   "gloss": "which are food"
   },
   {
    "surface": "துப்பாக்கி",
@@ -38,21 +48,31 @@
     {
      "text": "ஆக்கி",
      "lemma": "ஆக்கு",
-     "gloss": "having made"
+     "gloss": "having produced"
     }
    ],
-   "gloss": "having made as food"
+   "gloss": "producing food"
   },
   {
    "surface": "துப்பார்க்கு",
    "parts": [
     {
-     "text": "துப்பார்க்கு",
-     "lemma": "துப்பார்",
-     "gloss": "to the eaters"
+     "text": "துப்பு",
+     "lemma": "துப்பு",
+     "gloss": "food"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who eat"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the eaters"
+   "gloss": "to those who eat"
   },
   {
    "surface": "துப்பாய",
@@ -64,22 +84,27 @@
     },
     {
      "text": "ஆய",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "which became"
     }
    ],
-   "gloss": "which became food"
+   "gloss": "which is food"
   },
   {
    "surface": "தூஉம்",
    "parts": [
     {
-     "text": "தூஉம்",
-     "lemma": "தூஉம்",
-     "gloss": "also itself"
+     "text": "தூ",
+     "lemma": "தூ",
+     "gloss": "food"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "also"
     }
    ],
-   "gloss": "also itself"
+   "gloss": "food also"
   },
   {
    "surface": "மழை",
@@ -93,10 +118,10 @@
    "gloss": "rain"
   }
  ],
- "literal": "To the eaters, having made food which became food, to the eaters, which became food also itself is rain.",
- "translation": "Rain grows food for those who eat, and it also serves as food itself for those who eat.",
- "modern": "உண்பவர்களுக்கு நல்ல உணவுகளை விளைவித்துத் தந்து, உண்பவர்களுக்குத் தானும் ஒரு உணவாக அமைவது மழையாகும்.",
- "explanation": "This couplet highlights the dual role of rain in sustaining life. The word துப்பு is used repeatedly here to mean food or that which is consumed. Rain first acts as the agent that grows crops, creating food for eaters. Then, as drinking water, rain becomes food itself, directly nourishing those who consume it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who eat, producing foods that are food, and to those who eat, itself becoming food, is rain.",
+ "translation": "Rain produces good food for those who eat, and itself becomes food for them as well.",
+ "modern": "உண்பவர்களுக்கு நல்ல உணவுகளை உண்டாக்கித் தருவதோடு, உண்பவர்களுக்குத் தானும் ஓர் உணவாக இருப்பது மழையாகும்.",
+ "explanation": "This couplet highlights the dual role of rain in sustaining life through a masterful play on the word 'tuppu' (meaning food or enjoyment). First, rain acts as the source that enables agriculture and produces various foods for living beings to consume. Second, water itself is an essential, direct food (drink) without which life cannot survive. By repeating variations of 'tuppu', the poet emphasizes that rain is both the creator of sustenance and sustenance itself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

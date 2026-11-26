@@ -25,7 +25,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with eyes"
+   "gloss": "with our eyes"
   },
   {
    "surface": "காண",
@@ -36,7 +36,7 @@
      "gloss": "to see"
     }
    ],
-   "gloss": "to see"
+   "gloss": "while seeing"
   },
   {
    "surface": "நகுப",
@@ -54,22 +54,22 @@
    "parts": [
     {
      "text": "அறிவு",
-     "lemma": "அறி",
-     "gloss": "understanding"
+     "lemma": "அறிவு",
+     "gloss": "knowledge"
     }
    ],
-   "gloss": "understanding"
+   "gloss": "knowledge"
   },
   {
    "surface": "இல்லார்",
    "parts": [
     {
      "text": "இல்லார்",
-     "lemma": "இல்",
-     "gloss": "those without"
+     "lemma": "இல்லார்",
+     "gloss": "those who lack"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "யாம்",
@@ -88,10 +88,10 @@
     {
      "text": "பட்ட",
      "lemma": "படு",
-     "gloss": "experienced"
+     "gloss": "suffered"
     }
    ],
-   "gloss": "experienced"
+   "gloss": "suffered"
   },
   {
    "surface": "தாம்",
@@ -110,10 +110,10 @@
     {
      "text": "படா",
      "lemma": "படு",
-     "gloss": "not experiencing"
+     "gloss": "not suffering"
     }
    ],
-   "gloss": "not experiencing"
+   "gloss": "not suffering"
   },
   {
    "surface": "ஆறு",
@@ -127,10 +127,10 @@
    "gloss": "because"
   }
  ],
- "literal": "we with eyes to see they laugh those without understanding, we experienced they not experiencing because",
- "translation": "Those without understanding laugh right before my eyes, because they have not suffered what I have suffered.",
- "modern": "நான் பட்ட துன்பத்தை அவர்கள் படாத காரணத்தால், அறிவில்லாதவர்கள் என் கண்ணெதிரிலேயே என்னைப் பார்த்துச் சிரிக்கிறார்கள்.",
- "explanation": "The speaker laments the mockery of the townspeople who do not understand the torment of love. The phrase 'யாம் கண்ணின் காண' means they laugh right in front of the speaker's eyes, showing a complete lack of empathy. They are called 'அறிவில்லார்' (those without understanding) because they judge without knowing the speaker's plight. The reason for their mockery is 'யாம் பட்ட தாம் படா ஆறு'—they have simply not experienced the suffering that the speaker is enduring. The poetic 'யாம்' (we) is used here by the speaker to refer to themselves.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "While we see with our eyes, those who lack understanding laugh, because they themselves have not suffered what we have suffered.",
+ "translation": "Those who lack understanding laugh at me right before my eyes, only because they themselves have never suffered the pain that I have suffered.",
+ "modern": "நாங்கள் எங்கள் கண்களால் பார்க்கும்படி, அறிவு இல்லாதவர்கள் எங்களைப் பார்த்துச் சிரிக்கிறார்கள்; நாங்கள் அனுபவித்த துன்பங்களை அவர்கள் அனுபவிக்காத காரணத்தால் தான்.",
+ "explanation": "In this couplet, the lover laments the mockery of the townspeople who do not comprehend the agony of love-sickness. The phrase 'arivillār' refers to these onlookers, whom the lover calls 'lacking in understanding' because they lack empathy. They laugh openly right in front of the lover's eyes ('kaṇṇiṉ kāṇa nakupa'). The lover explains that this ridicule happens only because these people have never themselves experienced ('tām paṭā') the intense suffering ('yām paṭṭa') that the lover is going through.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

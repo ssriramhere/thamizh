@@ -11,7 +11,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "in (locative suffix)"
     }
    ],
    "gloss": "in one birth"
@@ -53,14 +53,9 @@
    "surface": "ஒருவற்கு",
    "parts": [
     {
-     "text": "ஒருவன்",
+     "text": "ஒருவற்கு",
      "lemma": "ஒருவன்",
-     "gloss": "a person"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to a person"
     }
    ],
    "gloss": "to a person"
@@ -71,15 +66,15 @@
     {
      "text": "எழுமை",
      "lemma": "எழுமை",
-     "gloss": "seven births"
+     "gloss": "sevenfold births"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "also"
+     "gloss": "even / through"
     }
    ],
-   "gloss": "through seven births also"
+   "gloss": "even through seven births"
   },
   {
    "surface": "ஏமாப்பு",
@@ -104,10 +99,10 @@
    "gloss": "it possesses"
   }
  ],
- "literal": "In one birth oneself learned learning, to a person seven births also protection it possesses.",
- "translation": "The learning one acquires in a single birth will serve as their protection through seven births.",
- "modern": "ஒருவன் ஒரு பிறவியில் தான் கற்ற கல்வியானது, அவனுக்கு ஏழு பிறவிகளிலும் பாதுகாப்பாக அமையும் தன்மையுடையது.",
- "explanation": "This couplet emphasizes the enduring value of education. The phrase 'ஒருமைக்கண்' refers to a single lifetime, while 'எழுமையும்' signifies a continuous sequence of future lives, contrasting the short time it takes to learn with its long-lasting benefits. The word 'ஏமாப்பு' means protection or security, showing that knowledge acts as a safeguard against ignorance and hardship. Thus, the learning acquired now becomes an inseparable asset that protects a person far beyond their present existence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The learning that oneself learned in one birth, to a person, even through seven births, protection it possesses.",
+ "translation": "The learning that a person acquires in one birth will serve as a protective shield for them throughout all seven of their future births.",
+ "modern": "ஒருவன் ஒரு பிறவியில் கற்ற கல்வியானது, அவனுக்கு ஏழு பிறவிகளிலும் பாதுகாப்பாக விளங்கும் தன்மை உடையது.",
+ "explanation": "This couplet highlights the permanent and transcendent value of education. The word 'ஒருமை' refers to a single lifetime, while 'எழுமை' denotes the concept of seven successive births. The poet explains that the knowledge one acquires ('கற்ற கல்வி') is never lost; instead, it accompanies the soul as a constant source of strength and protection ('ஏமாப்பு') across all future existences. Thus, education is described as the only true wealth that remains with a person eternally.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

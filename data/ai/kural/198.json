@@ -9,23 +9,23 @@
      "gloss": "rare benefit"
     }
    ],
-   "gloss": "rare benefit"
+   "gloss": "rare and precious benefit"
   },
   {
    "surface": "ஆயும்",
    "parts": [
     {
      "text": "ஆய்",
-     "lemma": "ஆய்",
-     "gloss": "to analyze"
+     "lemma": "ஆய்தல்",
+     "gloss": "examine"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "habitual suffix"
+     "gloss": "who (relative participle suffix)"
     }
    ],
-   "gloss": "who analyze"
+   "gloss": "who examine or seek"
   },
   {
    "surface": "அறிவினார்",
@@ -33,31 +33,36 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "wisdom"
+     "gloss": "knowledge"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "of (inflectional increment)"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (honorific/plural suffix)"
     }
    ],
-   "gloss": "those of wisdom"
+   "gloss": "those who possess wisdom"
   },
   {
    "surface": "சொல்லார்",
    "parts": [
     {
-     "text": "சொல்லார்",
-     "lemma": "சொல்",
-     "gloss": "will not say"
+     "text": "சொல்",
+     "lemma": "சொல்லுதல்",
+     "gloss": "speak"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they will not (negative suffix)"
     }
    ],
-   "gloss": "will not say"
+   "gloss": "will not speak"
   },
   {
    "surface": "பெரும்பயன்",
@@ -74,12 +79,17 @@
    "surface": "இல்லாத",
    "parts": [
     {
-     "text": "இல்லாத",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "lacking"
+     "gloss": "not having"
+    },
+    {
+     "text": "ஆத",
+     "lemma": "ஆத",
+     "gloss": "which is not (relative participle suffix)"
     }
    ],
-   "gloss": "lacking"
+   "gloss": "that does not have"
   },
   {
    "surface": "சொல்",
@@ -90,13 +100,13 @@
      "gloss": "word"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   }
  ],
- "literal": "Rare benefit analyzing those of wisdom will not say great benefit lacking word.",
- "translation": "The wise, who seek out rare and meaningful benefits, will not speak words that lack great purpose.",
- "modern": "அரிய பயன்களை ஆராய்ந்து அறியும் அறிஞர்கள், மிகுந்த பயன் தராத சொற்களைச் சொல்ல மாட்டார்கள்.",
- "explanation": "This couplet emphasizes the careful speech of the truly wise. The word 'அரும்பயன்' refers to rare, profound benefits that wise people constantly seek and analyze. Because their minds are focused on such valuable pursuits, they naturally avoid trivialities. Therefore, they will never utter words that do not yield a substantial, great benefit.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those of wisdom who examine rare benefits will not speak words that do not have great benefit.",
+ "translation": "Those who possess the wisdom to seek rare and precious benefits will never utter words that are devoid of great utility.",
+ "modern": "அரிய நன்மைகளை ஆராய்ந்து அறியும் அறிவுடையவர்கள், பெரிய பயன் தராத வீணான சொற்களைப் பேச மாட்டார்கள்.",
+ "explanation": "This couplet highlights the connection between wisdom and purposeful speech. Wise individuals are described as those who analyze and seek rare, valuable benefits (arumpayan āyum aṟiviṉār). Because they value substance and truth, they naturally refrain from speaking words that lack any significant utility or great benefit (perumpayan illātha sol). The contrast between seeking 'rare benefits' and avoiding 'useless words' teaches us that true intellect is reflected in the fruitfulness of one's speech.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

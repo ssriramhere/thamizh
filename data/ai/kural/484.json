@@ -9,23 +9,23 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "கருதினும்",
    "parts": [
     {
-     "text": "கருதின்",
+     "text": "கருது",
      "lemma": "கருது",
-     "gloss": "if desired"
+     "gloss": "desire or think of"
     },
     {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "இனும்",
+     "lemma": "இனும்",
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if desired"
+   "gloss": "even if one desires"
   },
   {
    "surface": "கைகூடும்",
@@ -52,7 +52,7 @@
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "the right time"
   },
   {
    "surface": "கருதி",
@@ -71,7 +71,7 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "place (oblique)"
+     "gloss": "place"
     },
     {
      "text": "ஆல்",
@@ -79,7 +79,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with the place"
+   "gloss": "with the right place"
   },
   {
    "surface": "செயின்",
@@ -87,16 +87,16 @@
     {
      "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "if done"
+     "gloss": "if one acts"
     }
    ],
-   "gloss": "if done"
+   "gloss": "if one acts"
   }
  ],
- "literal": "World even if desired will be achieved, time having considered with place if done.",
- "translation": "Even the whole world can be won if one acts after considering the right time and choosing the right place.",
- "modern": "தகுந்த காலத்தை அறிந்து, ஏற்ற இடத்தோடு பொருந்துமாறு ஒரு செயலைச் செய்தால், உலகத்தையே அடைய நினைத்தாலும் அது கைகூடும்.",
- "explanation": "This couplet explains the power of combining the right time with the right place. The verb 'கருது' appears twice with slightly different senses: 'கருதினும்' means 'even if desired or intended', while 'கருதி' means 'having considered or calculated'. The word 'ஞாலம்' means the entire world, representing the highest possible ambition. 'கைகூடும்' literally means 'will join the hand', signifying successful achievement. By carefully calculating the fitting time and acting in the proper location, even the greatest of goals becomes attainable.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if the world is desired, it will come to hand, if one acts having considered the right time and with the right place.",
+ "translation": "Even the entire world can be successfully acquired if one acts at the right time and chooses the right place.",
+ "modern": "தகுந்த காலத்தை ஆராய்ந்து, ஏற்ற இடத்தோடு பொருந்துமாறு ஒரு செயலைச் செய்தால், உலகத்தையே அடைய விரும்பினாலும் அது கைகூடும்.",
+ "explanation": "This couplet highlights the supreme power of choosing the right time and place for any action. Even an ambition as massive as conquering the entire world (ஞாலம்) is achievable (கைகூடும்) if one acts. The two essential conditions for this success are carefully choosing the opportune moment (காலம் கருதி) and operating from the most advantageous location (இடத்தால்). Success is presented not as a matter of mere strength, but as a result of perfect alignment with time and space.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

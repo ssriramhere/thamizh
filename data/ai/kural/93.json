@@ -5,55 +5,67 @@
    "parts": [
     {
      "text": "முகத்தான்",
-     "lemma": "முகம்",
-     "gloss": "with the face"
+     "lemma": "முகத்தான்",
+     "gloss": "with a [cheerful] face"
     }
    ],
-   "gloss": "with the face"
+   "gloss": "with a [cheerful] face",
+   "split_unverified": true
   },
   {
    "surface": "அமர்ந்து",
    "parts": [
     {
-     "text": "அமர்ந்து",
+     "text": "அமர்",
      "lemma": "அமர்",
-     "gloss": "having settled"
+     "gloss": "to desire/be pleased"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "ந்து",
+     "gloss": "having (verbal participle suffix)"
     }
    ],
-   "gloss": "having settled (into a smile)"
+   "gloss": "being pleased / welcoming"
   },
   {
    "surface": "இனிது",
    "parts": [
     {
      "text": "இனிது",
-     "lemma": "இனிமை",
-     "gloss": "sweetly"
+     "lemma": "இனிது",
+     "gloss": "sweetly/kindly"
     }
    ],
-   "gloss": "sweetly"
+   "gloss": "sweetly / kindly"
   },
   {
    "surface": "நோக்கி",
    "parts": [
     {
-     "text": "நோக்கி",
+     "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "having looked"
+     "gloss": "to look"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having (verbal participle suffix)"
     }
    ],
-   "gloss": "having looked"
+   "gloss": "looking at"
   },
   {
    "surface": "அகத்தான்",
    "parts": [
     {
      "text": "அகத்தான்",
-     "lemma": "அகம்",
-     "gloss": "from the heart"
+     "lemma": "அகத்தான்",
+     "gloss": "with the heart/mind"
     }
    ],
-   "gloss": "from the heart"
+   "gloss": "with the heart/mind",
+   "split_unverified": true
   },
   {
    "surface": "ஆம்",
@@ -61,18 +73,23 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "which arises"
+     "gloss": "that arises/is"
     }
    ],
-   "gloss": "which arises"
+   "gloss": "that arises"
   },
   {
    "surface": "இன்சொல்",
    "parts": [
     {
-     "text": "இன்சொல்",
-     "lemma": "இன்சொல்",
-     "gloss": "sweet word"
+     "text": "இன்",
+     "lemma": "இனிமை",
+     "gloss": "sweet"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
     }
    ],
    "gloss": "sweet words"
@@ -88,10 +105,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "of such nature indeed"
+   "gloss": "is indeed of such a nature"
   },
   {
    "surface": "அறம்",
@@ -105,10 +122,10 @@
    "gloss": "virtue"
   }
  ],
- "literal": "With the face having settled, sweetly having looked, from the heart arising sweet word - of such nature indeed is virtue.",
- "translation": "Virtue is simply this: looking sweetly with a welcoming face and speaking sweet words that arise genuinely from the heart.",
- "modern": "முகம் மலர்ந்து இனிமையாகப் பார்த்து, உள்ளத்திலிருந்து எழும் இனிய சொற்களைச் சொல்வதே அறமாகும்.",
- "explanation": "This couplet defines virtue in the context of daily human interaction. It states that true virtue consists of a welcoming face, a sweet look, and pleasant words. Crucially, these sweet words must arise genuinely from the heart, as indicated by the word 'அகத்தான்' (from the inside/heart). The combination of a joyful face and sincere, kind words embodies the essence of moral goodness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With a face being pleased, sweetly looking, with the heart arising sweet words, of such a nature indeed is virtue.",
+ "translation": "To look at others with a cheerful, welcoming face, and to speak sweet words that flow sincerely from the heart—this indeed is the nature of true virtue.",
+ "modern": "மகிழ்ச்சியான முகத்தோடு அன்புடன் நோக்கி, உள்ளத்திலிருந்து வரும் இனிய சொற்களைக் கூறுவதே உண்மையான அறமாகும்.",
+ "explanation": "This couplet defines the essence of virtue not as grand, difficult deeds, but as simple, everyday interpersonal warmth. It highlights two essential components: the external expression and the internal sincerity. First, one must look at others with a pleased, welcoming face and a sweet gaze. Second, the sweet words spoken must genuinely arise from the heart, rather than being mere empty flattery. The poet concludes that this combination of a warm look and sincere, sweet speech is itself the very nature of virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

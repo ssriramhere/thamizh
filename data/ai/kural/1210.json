@@ -6,10 +6,10 @@
     {
      "text": "விடாஅது",
      "lemma": "விடு",
-     "gloss": "without leaving"
+     "gloss": "without leaving (constantly remaining in the mind)"
     }
    ],
-   "gloss": "without leaving"
+   "gloss": "without leaving (my thoughts)"
   },
   {
    "surface": "சென்றாரை",
@@ -22,10 +22,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who went"
+   "gloss": "him who departed"
   },
   {
    "surface": "கண்ணினால்",
@@ -38,15 +38,15 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "with"
+     "gloss": "instrumental case marker (with)"
     }
    ],
-   "gloss": "with eyes"
+   "gloss": "with the eyes"
   },
   {
    "surface": "காண",
@@ -69,8 +69,8 @@
    "parts": [
     {
      "text": "படாஅதி",
-     "lemma": "படு",
-     "gloss": "do not set"
+     "lemma": "படுதல்",
+     "gloss": "do not set / do not disappear"
     }
    ],
    "gloss": "do not set"
@@ -89,7 +89,7 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "may you live"
+   "gloss": "may you live long"
   },
   {
    "surface": "மதி",
@@ -100,13 +100,13 @@
      "gloss": "moon"
     }
    ],
-   "gloss": "moon"
+   "gloss": "O Moon"
   }
  ],
- "literal": "Without leaving, him who went, with eyes to see, do not set, may you live, moon.",
- "translation": "O moon, may you live long! Do not set, so that I may see with my own eyes him who departed without ever leaving my heart.",
- "modern": "நிலவே, நீ நீடூழி வாழ்வாயாக! என் நெஞ்சை விட்டு அகலாமல் பிரிந்து சென்ற என் காதலரை நான் என் கண்களால் காணும் பொருட்டு நீ மறையாமல் இருப்பாயாக.",
- "explanation": "In this couplet, the heroine speaks directly to the moon (மதி), wishing it a long life (வாழி) as she begs it not to set (படாஅதி). She relies on the moonlight to search for her lover, who has physically journeyed away (சென்றாரை) yet remains constantly in her thoughts without leaving (விடாஅது). The poetic elongation of sounds (alapeṭai) in the words for 'without leaving' and 'do not set' beautifully mirrors her drawn-out yearning and her desire to stretch the night.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without leaving him who departed, with my eyes to see, do not set, live long, O Moon!",
+ "translation": "May you live long, O Moon! Do not set yet, so that I may behold with my own eyes him who departed from me but has never left my heart.",
+ "modern": "என் நெஞ்சை விட்டு நீங்காமல் பிரிந்து சென்றவரை என் கண்களால் காணும் வரை, நிலவே! நீ மறையாமல் இருப்பாயாக; நீ வாழ்க!",
+ "explanation": "In this verse, the pining heroine addresses the moon. She speaks of her lover as one who has departed physically but has never left her thoughts. She pleads with the moon not to set just yet, wishing it a long life, so that she may have enough light to see him with her own eyes. The use of the lengthened phonetic forms 'விடாஅது' and 'படாஅதி' emphasizes her deep, lingering distress and her urgent plea to the moon.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

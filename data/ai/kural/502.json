@@ -6,17 +6,17 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "family"
+     "gloss": "noble family"
     }
    ],
-   "gloss": "family"
+   "gloss": "noble family"
   },
   {
    "surface": "பிறந்து",
    "parts": [
     {
      "text": "பிறந்து",
-     "lemma": "பிறத்தல்",
+     "lemma": "பிற",
      "gloss": "having been born"
     }
    ],
@@ -28,21 +28,21 @@
     {
      "text": "குற்றத்தின்",
      "lemma": "குற்றம்",
-     "gloss": "from fault"
+     "gloss": "from faults"
     }
    ],
-   "gloss": "from fault"
+   "gloss": "from faults"
   },
   {
    "surface": "நீங்கி",
    "parts": [
     {
      "text": "நீங்கி",
-     "lemma": "நீங்குதல்",
-     "gloss": "having been freed"
+     "lemma": "நீங்கு",
+     "gloss": "having freed oneself"
     }
    ],
-   "gloss": "having been freed"
+   "gloss": "having freed oneself"
   },
   {
    "surface": "வடு",
@@ -50,21 +50,21 @@
     {
      "text": "வடு",
      "lemma": "வடு",
-     "gloss": "blemish"
+     "gloss": "blame"
     }
    ],
-   "gloss": "blemish"
+   "gloss": "blame"
   },
   {
    "surface": "பரியும்",
    "parts": [
     {
      "text": "பரியும்",
-     "lemma": "பரிதல்",
-     "gloss": "shrinking from"
+     "lemma": "பரி",
+     "gloss": "fearing"
     }
    ],
-   "gloss": "shrinking from"
+   "gloss": "fearing"
   },
   {
    "surface": "நாண்",
@@ -82,7 +82,7 @@
    "parts": [
     {
      "text": "உடையான்",
-     "lemma": "உடைமை",
+     "lemma": "உடையான்",
      "gloss": "he who possesses"
     }
    ],
@@ -94,15 +94,15 @@
     {
      "text": "சுட்டு",
      "lemma": "சுட்டு",
-     "gloss": "pointing"
+     "gloss": "pointing to"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "pointing indeed"
+   "gloss": "specifically pointing to"
   },
   {
    "surface": "தெளிவு",
@@ -116,10 +116,10 @@
    "gloss": "trust"
   }
  ],
- "literal": "Family having-been-born, from-fault having-been-freed, blemish shrinking-from sense-of-shame he-who-possesses pointing-indeed trust.",
- "translation": "Trust should be placed in a man born of a good family, free from faults, and possessing a sense of shame that shrinks from any blemish.",
- "modern": "நல்ல குடியில் பிறந்து, குற்றங்களிலிருந்து நீங்கி, பழிக்கு அஞ்சும் நாணத்தை உடையவனையே தேர்ந்தெடுத்து நம்ப வேண்டும்.",
- "explanation": "This couplet defines the qualities of a person worthy of trust and responsibility. The person must come from a respectable family ('குடி') and be free from flaws ('குற்றத்தின் நீங்கி'). Furthermore, they must possess a deep sense of shame ('நாண்') that makes them shrink from any moral blemish ('வடு'). The word 'சுட்டு' indicates that the choice or direction of one's trust ('தெளிவு') should point exclusively to such an individual.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Born in a noble family, having freed oneself from faults, fearing blame, he who possesses a sense of shame—specifically pointing to him is trust.",
+ "translation": "Trust should be placed only in one who is born of a noble family, remains free from faults, fears disgrace, and possesses a strong sense of shame.",
+ "modern": "நல்ல குடியில் பிறந்து, குற்றங்களிலிருந்து விலகி, பழிச்சொல்லுக்கு அஞ்சி, நாணமுடையவனாக இருக்கும் ஒருவனையே ஆராய்ந்து தேர்வு செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the essential qualities of a person who can be trusted and selected for a position of responsibility. First, they must come from a noble lineage (kuṭi), which instills a natural inclination toward virtue. Second, they must have freed themselves from faults (kuṟṟam). Third, they must fear blame or disgrace (vaṭu). Finally, they must possess a strong sense of shame (nāṇ) regarding wrong actions. Selecting such a person ensures reliability and integrity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

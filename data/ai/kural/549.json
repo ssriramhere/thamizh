@@ -6,15 +6,15 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "subjects"
+     "gloss": "subjects or citizens"
     },
     {
      "text": "புறம்",
      "lemma": "புறம்",
-     "gloss": "protection"
+     "gloss": "protection or welfare"
     }
    ],
-   "gloss": "subjects' protection"
+   "gloss": "protecting the welfare of the subjects"
   },
   {
    "surface": "காத்து",
@@ -22,10 +22,10 @@
     {
      "text": "காத்து",
      "lemma": "கா",
-     "gloss": "having guarded"
+     "gloss": "having guarded or protected"
     }
    ],
-   "gloss": "having guarded"
+   "gloss": "guarding"
   },
   {
    "surface": "ஓம்பி",
@@ -33,10 +33,10 @@
     {
      "text": "ஓம்பி",
      "lemma": "ஓம்பு",
-     "gloss": "having cherished"
+     "gloss": "having cherished or nurtured"
     }
    ],
-   "gloss": "having cherished"
+   "gloss": "cherishing"
   },
   {
    "surface": "குற்றம்",
@@ -44,23 +44,18 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "crime or fault"
     }
    ],
-   "gloss": "fault"
+   "gloss": "crime"
   },
   {
    "surface": "கடிதல்",
    "parts": [
     {
-     "text": "கடி",
+     "text": "கடிதல்",
      "lemma": "கடி",
-     "gloss": "to punish"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "punishing or removing"
     }
    ],
    "gloss": "punishing"
@@ -71,7 +66,7 @@
     {
      "text": "வடு",
      "lemma": "வடு",
-     "gloss": "blemish"
+     "gloss": "blemish or blame"
     }
    ],
    "gloss": "blemish"
@@ -93,10 +88,10 @@
     {
      "text": "வேந்தன்",
      "lemma": "வேந்தன்",
-     "gloss": "king"
+     "gloss": "king or ruler"
     }
    ],
-   "gloss": "king's"
+   "gloss": "the king's"
   },
   {
    "surface": "தொழில்",
@@ -104,16 +99,16 @@
     {
      "text": "தொழில்",
      "lemma": "தொழில்",
-     "gloss": "duty"
+     "gloss": "duty or task"
     }
    ],
    "gloss": "duty"
   }
  ],
- "literal": "Subjects' protection having guarded, having cherished, fault punishing, blemish is not, king's duty.",
- "translation": "Guarding and cherishing the subjects, and punishing their faults, is not a blemish but the duty of a king.",
- "modern": "குடிமக்களைக் காப்பாற்றிப் பேணி, அவர்கள் செய்யும் குற்றங்களைத் தண்டிப்பது அரசனுக்குப் பழியாகாது; அது அவனுடைய கடமையாகும்.",
- "explanation": "This couplet defines the core responsibility of a ruler regarding justice. The words 'காத்து' (guarding) and 'ஓம்பி' (cherishing) emphasize that a king must first protect and care for his subjects. When subjects commit crimes, 'கடிதல்' (punishing or removing the fault) becomes necessary. The text clarifies that such punishment is not a 'வடு' (blemish or cruelty) but rather the essential 'தொழில்' (duty) of a just king.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Protecting the subjects' welfare, guarding and cherishing them, punishing crime is not a blemish; it is the king's duty.",
+ "translation": "To guard and cherish the welfare of his subjects, and to punish crimes, is not a blemish on a ruler; it is his duty.",
+ "modern": "மக்களைப் பாதுகாத்து, அவர்களைப் பேணி வளர்த்து, குற்றங்களைத் தண்டிப்பது அரசனுக்குப் பழி ஆகாது; அது அவனுடைய கடமையாகும்.",
+ "explanation": "This couplet defines the core responsibility of a just ruler. A king must actively protect his citizens (காத்து) and nurture their well-being (ஓம்பி). When he administers justice by punishing crimes (குற்றம் கடிதல்), it should not be viewed as an act of cruelty or a moral blemish (வடு அன்று). Instead, punishing wrongdoers is an essential duty (தொழில்) required to maintain order and safeguard the innocent.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

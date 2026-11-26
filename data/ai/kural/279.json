@@ -17,7 +17,7 @@
     {
      "text": "கொடிது",
      "lemma": "கொடிது",
-     "gloss": "is-cruel"
+     "gloss": "is cruel or crooked"
     }
    ],
    "gloss": "is cruel"
@@ -39,10 +39,10 @@
     {
      "text": "கோடு",
      "lemma": "கோடு",
-     "gloss": "curve"
+     "gloss": "curved neck"
     }
    ],
-   "gloss": "curved part"
+   "gloss": "curved neck"
   },
   {
    "surface": "செவ்விது",
@@ -50,10 +50,10 @@
     {
      "text": "செவ்விது",
      "lemma": "செவ்விது",
-     "gloss": "is-good"
+     "gloss": "is straight or righteous"
     }
    ],
-   "gloss": "is good"
+   "gloss": "is straight"
   },
   {
    "surface": "ஆங்கு",
@@ -61,10 +61,10 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "thus"
+     "gloss": "in that manner"
     }
    ],
-   "gloss": "thus"
+   "gloss": "in that manner"
   },
   {
    "surface": "அன்ன",
@@ -72,10 +72,10 @@
     {
      "text": "அன்ன",
      "lemma": "அன்ன",
-     "gloss": "like-that"
+     "gloss": "like or similar"
     }
    ],
-   "gloss": "like that"
+   "gloss": "like"
   },
   {
    "surface": "வினை",
@@ -83,7 +83,7 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "action or deed"
     }
    ],
    "gloss": "action"
@@ -94,7 +94,7 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "occur"
+     "gloss": "occurring or resulting"
     }
    ],
    "gloss": "resulting"
@@ -105,12 +105,12 @@
     {
      "text": "பால்",
      "lemma": "பால்",
-     "gloss": "nature"
+     "gloss": "nature or manner"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
    "gloss": "by the nature"
@@ -119,23 +119,18 @@
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "understand"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal-noun"
+     "gloss": "to judge or take"
     }
    ],
-   "gloss": "understand"
+   "gloss": "judging"
   }
  ],
- "literal": "Arrow is cruel, lute curve is good; thus like that, by the nature resulting from action, understand.",
- "translation": "An arrow is straight but cruel, while a lute is curved but sweet. In the same way, judge people by the nature of their deeds, not their appearance.",
- "modern": "கணை நேராக இருந்தாலும் கொடியது, யாழின் வளைவு கோணலாக இருந்தாலும் இனிமையானது. அதுபோலவே மக்களின் தோற்றத்தை வைத்து அல்லாமல் அவர்கள் செய்யும் செயல்களின் தன்மையை வைத்து அவர்களைப் புரிந்துகொள்ள வேண்டும்.",
- "explanation": "This couplet teaches that outward appearance does not reveal true character. An arrow is perfectly straight but brings harm, whereas the curved neck of a lute produces sweet music. Therefore, one must judge people by the nature of their actions rather than their physical form or outward guise. The word 'koṭitu' means cruel or crooked, contrasting with 'cevvitu' which means upright or good. The poet plays on the visual straightness of the arrow and the physical curve of the lute to show that true straightness lies in good deeds.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The arrow is cruel (though straight); the lute's neck is righteous (though curved); in that same manner, judge people by the nature of their actions.",
+ "translation": "An arrow is straight but deadly, while the lute's neck is curved but produces sweet music. Likewise, judge people by the nature of their actions, not by their outward appearance.",
+ "modern": "அம்பு நேராக இருந்தாலும் கொடியது; யாழின் தண்டு வளைந்திருந்தாலும் நன்மையானது. அதுபோலவே, மனிதர்களை அவர்களுடைய தோற்றத்தை வைத்து மதிப்பிடாமல், அவர்கள் செய்யும் செயல்களின் தன்மையைக் கொண்டு மதிப்பிட வேண்டும்.",
+ "explanation": "This couplet warns against judging people solely by their outward appearance or behavior. The poet uses two vivid analogies: an arrow, which is perfectly straight but is used to kill, and a lute (yāḻ), whose neck is bent but produces beautiful, harmonious music. Just as straightness does not guarantee goodness and crookedness does not imply evil in objects, a person's external form or feigned righteousness can be deceptive. Therefore, one must evaluate others based on the actual quality and consequences of their actions ('viṉaipaṭu pālāl').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

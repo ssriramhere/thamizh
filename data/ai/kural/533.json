@@ -4,28 +4,33 @@
    "surface": "பொச்சாப்பார்க்கு",
    "parts": [
     {
-     "text": "பொச்சாப்பார்",
-     "lemma": "பொச்சாப்பார்",
-     "gloss": "negligent people"
+     "text": "பொச்சாப்பு",
+     "lemma": "பொச்சாப்பு",
+     "gloss": "negligence"
     },
     {
-     "text": "கு",
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "those who"
+    },
+    {
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the negligent"
+   "gloss": "to those who are negligent"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is not"
     }
    ],
-   "gloss": "there is no"
+   "gloss": "there is not"
   },
   {
    "surface": "புகழ்மை",
@@ -53,17 +58,13 @@
    "surface": "உலகத்து",
    "parts": [
     {
-     "text": "உலகு",
-     "lemma": "உலகு",
-     "gloss": "world"
-    },
-    {
-     "text": "அத்து",
-     "lemma": "அத்து",
-     "gloss": "in"
+     "text": "உலகத்து",
+     "lemma": "உலகத்து",
+     "gloss": "of the world"
     }
    ],
-   "gloss": "in the world"
+   "gloss": "of the world",
+   "split_unverified": true
   },
   {
    "surface": "எப்பால்",
@@ -76,31 +77,36 @@
     {
      "text": "பால்",
      "lemma": "பால்",
-     "gloss": "side/classification"
+     "gloss": "category"
     }
    ],
-   "gloss": "of any kind"
+   "gloss": "of whatever category"
   },
   {
    "surface": "நூலோர்க்கும்",
    "parts": [
     {
-     "text": "நூலோர்",
-     "lemma": "நூலோர்",
-     "gloss": "scholars"
+     "text": "நூல்",
+     "lemma": "நூல்",
+     "gloss": "treatise"
     },
     {
-     "text": "கு",
+     "text": "ஓர்",
+     "lemma": "ஓர்",
+     "gloss": "those who"
+    },
+    {
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "also"
     }
    ],
-   "gloss": "even to scholars"
+   "gloss": "even to the authors of treatises"
   },
   {
    "surface": "துணிவு",
@@ -114,10 +120,10 @@
    "gloss": "conclusion"
   }
  ],
- "literal": "To the negligent, there is no fame; that, in the world, of any kind even to scholars, is the conclusion.",
- "translation": "There is no fame for those who are negligent. That is the firm conclusion of scholars of every kind in the world.",
- "modern": "மறதி உடையவர்களுக்குப் புகழ் கிடையாது. இதுவே உலகத்தில் உள்ள எவ்வகை நூல்களைக் கற்ற அறிஞர்களுக்கும் முடிவான கருத்தாகும்.",
- "explanation": "This couplet states that people who are forgetful or negligent can never achieve lasting fame. The word 'பொச்சாப்பார்' refers to those who let their guard down through negligence or carelessness. The poet emphasizes that this is not merely a personal opinion, but the universal consensus ('துணிவு') of all learned people ('நூலோர்') across the world, regardless of what discipline or school of thought ('எப்பால்') they belong to. The structure firmly links the absence of fame to negligence as an undeniable, universally accepted truth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are negligent there is no fame; that is the conclusion of the authors of treatises of whatever category in this world.",
+ "translation": "There is no greatness or fame for those who are negligent; this is the unanimous conclusion of the scholars of every kind of treatise in the world.",
+ "modern": "மறதி அல்லது சோம்பல் உடையவர்களுக்குப் புகழ் உண்டாவது இல்லை; அது உலகத்தில் உள்ள எந்த வகையான நூல்களை எழுதியவர்களுக்கும் துணிவான முடிவாகும்.",
+ "explanation": "This couplet emphasizes the absolute incompatibility of negligence (பொச்சாப்பு) and fame (புகழ்மை). The author states that those who act with forgetfulness or lack of vigilance can never acquire greatness. To reinforce this truth, the couplet asserts that this is not just a personal opinion, but the settled conclusion (துணிவு) of scholars of all kinds of treatises (எப்பால் நூலோர்க்கும்) across the world. The word 'பொச்சாப்பு' refers to a state of self-forgetful carelessness, which destroys any chance of lasting achievement.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

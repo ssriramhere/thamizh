@@ -6,10 +6,10 @@
     {
      "text": "அடல்",
      "lemma": "அடல்",
-     "gloss": "fighting"
+     "gloss": "fighting spirit/conquering power"
     }
    ],
-   "gloss": "fighting"
+   "gloss": "fighting spirit"
   },
   {
    "surface": "தகையும்",
@@ -17,7 +17,7 @@
     {
      "text": "தகை",
      "lemma": "தகை",
-     "gloss": "quality"
+     "gloss": "excellence/quality"
     },
     {
      "text": "உம்",
@@ -25,7 +25,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "and quality"
+   "gloss": "and the quality"
   },
   {
    "surface": "ஆற்றலும்",
@@ -33,7 +33,7 @@
     {
      "text": "ஆற்றல்",
      "lemma": "ஆற்றல்",
-     "gloss": "strength"
+     "gloss": "strength/power"
     },
     {
      "text": "உம்",
@@ -41,7 +41,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "and strength"
+   "gloss": "and the strength"
   },
   {
    "surface": "இல்",
@@ -49,18 +49,18 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not"
+     "gloss": "not/absent"
     }
    ],
-   "gloss": "not"
+   "gloss": "is absent"
   },
   {
    "surface": "எனினும்",
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if said"
+     "lemma": "எனின்",
+     "gloss": "even if"
     },
     {
      "text": "உம்",
@@ -68,7 +68,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "தானை",
@@ -79,7 +79,7 @@
      "gloss": "army"
     }
    ],
-   "gloss": "army"
+   "gloss": "an army"
   },
   {
    "surface": "படை",
@@ -87,7 +87,7 @@
     {
      "text": "படை",
      "lemma": "படை",
-     "gloss": "military"
+     "gloss": "army/battle"
     }
    ],
    "gloss": "military"
@@ -98,15 +98,15 @@
     {
      "text": "தகை",
      "lemma": "தகை",
-     "gloss": "appearance"
+     "gloss": "imposing appearance/orderly array"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by/through"
     }
    ],
-   "gloss": "by appearance"
+   "gloss": "by its imposing appearance"
   },
   {
    "surface": "பாடு",
@@ -114,7 +114,7 @@
     {
      "text": "பாடு",
      "lemma": "பாடு",
-     "gloss": "greatness"
+     "gloss": "greatness/glory"
     }
    ],
    "gloss": "greatness"
@@ -125,16 +125,16 @@
     {
      "text": "பெறும்",
      "lemma": "பெறு",
-     "gloss": "will get"
+     "gloss": "will obtain"
     }
    ],
-   "gloss": "will get"
+   "gloss": "will obtain"
   }
  ],
- "literal": "Fighting quality and strength not even if, army by military appearance greatness will get.",
- "translation": "Even if it lacks fighting quality and strength, an army will command respect through its splendid martial appearance.",
- "modern": "போரிடும் திறனும் வலிமையும் இல்லை என்றாலும், ஒரு படை தனது அணிவகுப்புத் தோற்றத்தால் பெருமையைப் பெறும்.",
- "explanation": "This couplet highlights the psychological impact of a well-arrayed army. The words 'அடல் தகை' (fighting quality) and 'ஆற்றல்' (strength) refer to the actual combat capabilities of the troops. Even if an army is deficient in these real martial skills, it can still achieve 'பாடு' (greatness or respect) simply through its 'படைத்தகை' (splendid martial appearance or formation). The visual grandeur and disciplined array of an army can intimidate enemies and earn glory on its own.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even though fighting spirit and strength are absent, an army will obtain greatness by its imposing military appearance.",
+ "translation": "Even if it lacks active fighting spirit and physical strength, an army can still win glory through its imposing appearance and orderly array.",
+ "modern": "போரிடும் தன்மையும் வலிமையும் இல்லை என்றாலும், ஒரு படை தனது அணிவகுப்பின் கம்பீரத்தினால் பெருமை பெறும்.",
+ "explanation": "This couplet highlights the psychological value of a disciplined and well-organized military force. Even if the soldiers temporarily lack active fighting spirit (அடல்தகை) or physical strength (ஆற்றல்), the sheer sight of a grand, orderly battle-array (படைத்தகை) can command respect and deter enemies. The word 'தகை' in 'படைத்தகை' refers to the imposing appearance, dignity, and traditional prestige of the army. Thus, structure, discipline, and visual majesty alone can sometimes win the day and bring glory (பாடு) to the state.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

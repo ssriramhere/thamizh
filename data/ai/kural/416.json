@@ -6,15 +6,20 @@
     {
      "text": "எனைத்து",
      "lemma": "எனைத்து",
-     "gloss": "however small"
+     "gloss": "how much soever"
     },
     {
-     "text": "ஆனும்",
-     "lemma": "ஆனும்",
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
      "gloss": "even"
     }
    ],
-   "gloss": "even however small"
+   "gloss": "even a tiny bit"
   },
   {
    "surface": "நல்லவை",
@@ -38,15 +43,15 @@
     {
      "text": "கேள்",
      "lemma": "கேள்",
-     "gloss": "listen"
+     "gloss": "hear"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "let one (optative)"
     }
    ],
-   "gloss": "let one listen"
+   "gloss": "let one listen to"
   },
   {
    "surface": "அனைத்தானும்",
@@ -57,23 +62,28 @@
      "gloss": "that much"
     },
     {
-     "text": "ஆனும்",
-     "lemma": "ஆனும்",
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
      "gloss": "even"
     }
    ],
-   "gloss": "even that much"
+   "gloss": "to that same extent"
   },
   {
    "surface": "ஆன்ற",
    "parts": [
     {
      "text": "ஆன்ற",
-     "lemma": "ஆல்",
-     "gloss": "excellent"
+     "lemma": "ஆன்ற",
+     "gloss": "abundant"
     }
    ],
-   "gloss": "excellent"
+   "gloss": "abundant"
   },
   {
    "surface": "பெருமை",
@@ -90,18 +100,23 @@
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரும்",
+     "text": "தரு",
      "lemma": "தா",
-     "gloss": "will give"
+     "gloss": "give"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will yield"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will yield"
   }
  ],
- "literal": "However small even, good things let one listen; that much even, excellent greatness it will give.",
- "translation": "Let one listen to good things, however small they may be; even that much will bring them excellent greatness.",
- "modern": "எவ்வளவு சிறியதாக இருந்தாலும் நல்ல விஷயங்களைக் கேட்க வேண்டும்; அது அந்த அளவிற்கு நிறைந்த பெருமையைத் தரும்.",
- "explanation": "This couplet emphasizes the value of listening to good and virtuous teachings. The word 'எனைத்தானும்' suggests that no piece of good advice is too insignificant to hear. 'அனைத்தானும்' promises a proportional reward, showing that every little bit of wisdom accumulates. Ultimately, such listening yields 'ஆன்ற பெருமை', elevating the listener's character and dignity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even a tiny bit good things let one listen to, to that same extent abundant greatness it will yield.",
+ "translation": "Let a person listen to good things, however small they may be; even to that small extent, it will yield abundant greatness.",
+ "modern": "எவ்வளவு சிறிதளவாக இருந்தாலும் நல்ல விஷயங்களைக் கேட்க வேண்டும்; அந்தக் கேட்ட அளவிற்கு அது நிறைந்த பெருமையைத் தரும்.",
+ "explanation": "This couplet highlights the immense value of listening to wise and virtuous words, regardless of how brief or small the instruction might be. The poet uses the correlative terms 'எனைத்தானும்' (however small) and 'அனைத்தானும்' (to that very extent) to show a direct proportion between listening and gaining dignity. Even a tiny drop of good advice, when heard and absorbed, translates into a corresponding measure of deep, abundant greatness for the listener. Therefore, one should never dismiss good words as insignificant, for every bit of listening contributes to one's character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

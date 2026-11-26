@@ -25,14 +25,9 @@
      "gloss": "to do"
     },
     {
-     "text": "கல்",
-     "lemma": "கல்",
-     "gloss": "negative particle"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "text": "கலான்",
+     "lemma": "கலான்",
+     "gloss": "he will not"
     }
    ],
    "gloss": "he does not do"
@@ -52,14 +47,9 @@
    "surface": "தேறான்",
    "parts": [
     {
-     "text": "தேறு",
+     "text": "தேறான்",
      "lemma": "தேறு",
-     "gloss": "to understand"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he does not"
+     "gloss": "does not understand"
     }
    ],
    "gloss": "he does not understand"
@@ -68,14 +58,9 @@
    "surface": "அவ்",
    "parts": [
     {
-     "text": "அ",
+     "text": "அவ்",
      "lemma": "அ",
      "gloss": "that"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "[sandhi]"
     }
    ],
    "gloss": "that"
@@ -97,10 +82,10 @@
     {
      "text": "போஒம்",
      "lemma": "போ",
-     "gloss": "goes"
+     "gloss": "departing"
     }
    ],
-   "gloss": "goes"
+   "gloss": "departing"
   },
   {
    "surface": "அளவும்",
@@ -108,23 +93,23 @@
     {
      "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "extent"
+     "gloss": "limit"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "up to"
+     "gloss": "until"
     }
    ],
-   "gloss": "until"
+   "gloss": "until the limit"
   },
   {
    "surface": "ஓர்",
    "parts": [
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "a"
+     "lemma": "ஒன்று",
+     "gloss": "one"
     }
    ],
    "gloss": "a"
@@ -141,10 +126,10 @@
    "gloss": "disease"
   }
  ],
- "literal": "Even when commanded he does not do, himself he does not understand; that life until it goes is a disease.",
- "translation": "A person who neither does what he is told nor understands what to do himself is a disease until his life departs.",
- "modern": "சொன்னாலும் செய்யமாட்டான், தானாகவும் எதையும் சிந்தித்து அறியமாட்டான்; அப்படிப்பட்டவனுடைய உயிர் அவன் உடலை விட்டுப் போகும் வரைக்கும் உலகத்திற்கு ஒரு நோயாகும்.",
- "explanation": "This couplet describes the ultimate frustration of dealing with a foolish person. The word 'ஏவவும்' means even when explicitly instructed, while 'தான் தேறான்' means he lacks the capacity to figure things out on his own. The poet concludes that such a 'life' (உயிர்) is merely a 'disease' (நோய்) to society, offering no value until the day it finally departs (போஒம் அளவும்).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when commanded he does not do, himself he does not understand; that life, until the limit it departs, is a disease.",
+ "translation": "He will not do what he is instructed to do, nor does he know what to do on his own. Such a life is a disease to the world until the moment it departs.",
+ "modern": "ஒருவர் அறிவுறுத்தினாலும் செய்யமாட்டான்; தானாகவும் உணர்ந்து கொள்ளமாட்டான்; அவனுடைய உயிர் உடம்பை விட்டுப் போகும் வரை உலகிற்கு ஒரு நோயாகும்.",
+ "explanation": "This couplet describes the height of ignorance (புல்லறிவாண்மை). A foolish person is one who neither listens to the wise advice of others nor possesses the self-awareness to act correctly on their own. The poet compares such an individual's very existence to a lingering disease. Until the day that person's life departs from their body, they remain a constant affliction and burden to those around them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

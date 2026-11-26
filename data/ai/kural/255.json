@@ -4,17 +4,12 @@
    "surface": "உண்ணாமை",
    "parts": [
     {
-     "text": "உண்",
-     "lemma": "உண்",
-     "gloss": "eat"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "உண்ணாமை",
+     "lemma": "உண்ணாமை",
+     "gloss": "abstaining from eating"
     }
    ],
-   "gloss": "non-eating"
+   "gloss": "abstaining from eating flesh"
   },
   {
    "surface": "உள்ளது",
@@ -27,10 +22,10 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "gloss": "it"
     }
    ],
-   "gloss": "it is in"
+   "gloss": "is that which sustains"
   },
   {
    "surface": "உயிர்நிலை",
@@ -43,10 +38,10 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "state"
+     "gloss": "maintenance"
     }
    ],
-   "gloss": "preservation of life"
+   "gloss": "the maintenance of life"
   },
   {
    "surface": "ஊன்",
@@ -54,10 +49,10 @@
     {
      "text": "ஊன்",
      "lemma": "ஊன்",
-     "gloss": "meat"
+     "gloss": "flesh"
     }
    ],
-   "gloss": "meat"
+   "gloss": "flesh"
   },
   {
    "surface": "உண்ண",
@@ -70,31 +65,21 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "if"
     }
    ],
-   "gloss": "to eat"
+   "gloss": "if one eats"
   },
   {
    "surface": "அண்ணாத்தல்",
    "parts": [
     {
-     "text": "அண்ணா",
-     "lemma": "அண்ணா",
-     "gloss": "open mouth"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "அண்ணாத்தல்",
+     "lemma": "அண்ணாத்தல்",
+     "gloss": "opening the mouth to release"
     }
    ],
-   "gloss": "opening the mouth"
+   "gloss": "opening the mouth to let escape"
   },
   {
    "surface": "செய்யாது",
@@ -105,14 +90,9 @@
      "gloss": "do"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "negative suffix"
+     "gloss": "not"
     }
    ],
    "gloss": "will not do"
@@ -129,10 +109,10 @@
    "gloss": "hell"
   }
  ],
- "literal": "Non-eating has the preservation of life; meat to eat, opening the mouth will not do hell.",
- "translation": "The preservation of life lies in not eating meat. If one eats flesh, hell will swallow them and never open its mouth to let them out.",
- "modern": "உயிர்கள் நிலைபெற்று வாழ்வது ஊன் உண்ணாமை என்னும் அறத்தில்தான் உள்ளது. ஒருவன் ஊனை உண்டால், அவனை விழுங்கிய நரகம் பின் அவனை வெளியே விடத் தன் வாயைத் திறக்காது.",
- "explanation": "The couplet declares that the very preservation of life depends on the principle of not eating meat. The word 'uyirnilai' refers to the continued existence or standing of living beings. The second line uses a vivid image: if someone eats flesh, 'aḷaṟu' (hell) will swallow them and never 'aṇṇāttal' (open its mouth) to release them. This emphasizes the severe and irreversible consequence of consuming meat.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Abstaining from eating flesh is that which sustains the maintenance of life; if one eats flesh, hell will not do opening of its mouth to let them escape.",
+ "translation": "The preservation of life is sustained by abstaining from eating flesh; if one eats flesh, hell will swallow them and never open its mouth to let them escape.",
+ "modern": "புலால் உண்ணாமல் இருப்பதே உயிர்கள் நிலைபெற்று வாழ்வதற்குக் காரணமாகும்; ஒருவன் புலால் உண்டால், நரகம் அவனை விழுங்கிவிட்டு மீண்டும் வெளியேற வழிவிடாது.",
+ "explanation": "This couplet emphasizes the spiritual and moral consequences of eating meat. The first part states that the preservation of life is rooted in abstaining from eating flesh. The second part warns that if a person eats meat, hell will swallow them and will not open its mouth to let them escape. The word 'aṇṇāttal' refers to opening the mouth or looking up, suggesting that hell holds the meat-eater so tightly that there is no hope of rising or escaping from its depths.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

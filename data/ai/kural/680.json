@@ -6,10 +6,10 @@
     {
      "text": "உறை",
      "lemma": "உறை",
-     "gloss": "strength"
+     "gloss": "refuge"
     }
    ],
-   "gloss": "strength"
+   "gloss": "refuge"
   },
   {
    "surface": "சிறியார்",
@@ -17,10 +17,10 @@
     {
      "text": "சிறியார்",
      "lemma": "சிறியார்",
-     "gloss": "small people"
+     "gloss": "those who are weak"
     }
    ],
-   "gloss": "those who are small"
+   "gloss": "those who are weak"
   },
   {
    "surface": "உள்",
@@ -28,23 +28,18 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "inside / heart"
     }
    ],
-   "gloss": "inside"
+   "gloss": "inside / heart"
   },
   {
    "surface": "நடுங்கல்",
    "parts": [
     {
-     "text": "நடுங்கு",
-     "lemma": "நடுங்கு",
-     "gloss": "to tremble"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "நடுங்கல்",
+     "lemma": "நடுங்கல்",
+     "gloss": "trembling"
     }
    ],
    "gloss": "trembling"
@@ -53,17 +48,12 @@
    "surface": "அஞ்சி",
    "parts": [
     {
-     "text": "அஞ்சு",
+     "text": "அஞ்சி",
      "lemma": "அஞ்சு",
-     "gloss": "to fear"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "participle suffix"
+     "gloss": "fearing"
     }
    ],
-   "gloss": "having feared"
+   "gloss": "fearing"
   },
   {
    "surface": "குறை",
@@ -71,23 +61,18 @@
     {
      "text": "குறை",
      "lemma": "குறை",
-     "gloss": "need/task"
+     "gloss": "objective / request"
     }
    ],
-   "gloss": "task"
+   "gloss": "objective"
   },
   {
    "surface": "பெறின்",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "to obtain"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if obtained"
     }
    ],
    "gloss": "if obtained"
@@ -96,22 +81,12 @@
    "surface": "கொள்வர்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொள்வர்",
      "lemma": "கொள்",
-     "gloss": "to take"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they will accept"
     }
    ],
-   "gloss": "they will secure"
+   "gloss": "they will accept"
   },
   {
    "surface": "பெரியார்",
@@ -119,10 +94,10 @@
     {
      "text": "பெரியார்",
      "lemma": "பெரியார்",
-     "gloss": "great people"
+     "gloss": "the great"
     }
    ],
-   "gloss": "great people"
+   "gloss": "the great"
   },
   {
    "surface": "பணிந்து",
@@ -130,16 +105,16 @@
     {
      "text": "பணிந்து",
      "lemma": "பணி",
-     "gloss": "having bowed"
+     "gloss": "bowing / behaving humbly"
     }
    ],
-   "gloss": "having bowed"
+   "gloss": "bowing humbly"
   }
  ],
- "literal": "strength small-people inside trembling having-feared task if-obtained they-will-secure great-people having-bowed",
- "translation": "Those of little strength, fearing the trembling in their own hearts, will submit to the great and secure the completion of their tasks.",
- "modern": "குறைந்த வலிமை உடையவர்கள், தமக்கு உள்ளே ஏற்படும் நடுக்கத்திற்குப் பயந்து, தம்மிலும் பெரியவர்களைப் பணிந்து தங்கள் காரியத்தை முடித்துக்கொள்வார்கள்.",
- "explanation": "This couplet explains how those with limited resources should act when facing a difficult task. 'உறை சிறியார்' refers to people of little strength or resources. Fearing the inner trembling ('உள் நடுங்கல்') that comes from taking on too much risk, they choose a safer path. By submitting to those who are greater and more powerful ('பெரியார் பணிந்து'), they successfully accomplish what they need ('குறை பெறின் கொள்வர்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Fearing the inner trembling of those whose refuge is small, if their objective is obtained, the great will accept it, bowing humbly.",
+ "translation": "Fearing the inner terror of those with weak defenses, great leaders will accept their objective and make peace, even by acting with humility.",
+ "modern": "பாதுகாப்பு குறைந்த எளியவர்கள் மனநடுங்குவதை அஞ்சி, தங்களுக்கு வேண்டிய காரியம் நிறைவேறினால், பெரியவர்கள் பணிவுடன் நடந்து அதை ஏற்றுக் கொள்வார்கள்.",
+ "explanation": "This couplet explains the strategic humility of great leaders when dealing with weaker adversaries. Great statesmen do not seek to utterly terrify or destroy those who have weak defenses ('uṟai ciṟiyār'). Fearing the inner trembling ('uḷ naṭuṅkal añci') that extreme terror might cause in the weak—which could drive them to desperate, unpredictable actions—the great will gladly accept their objective ('kuṟai peṟiṉ') and conclude the matter, even by humbling themselves ('paṇintu koḷvar') to ensure a peaceful resolution.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

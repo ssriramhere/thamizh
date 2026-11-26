@@ -9,7 +9,7 @@
      "gloss": "assembly"
     }
    ],
-   "gloss": "assembly"
+   "gloss": "the assembly"
   },
   {
    "surface": "அறிநது",
@@ -28,10 +28,10 @@
     {
      "text": "ஆராய்ந்து",
      "lemma": "ஆராய்",
-     "gloss": "having examined"
+     "gloss": "having analyzed"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having analyzed"
   },
   {
    "surface": "சொல்லுக",
@@ -42,15 +42,20 @@
      "gloss": "let speak"
     }
    ],
-   "gloss": "let speak"
+   "gloss": "let them speak"
   },
   {
    "surface": "சொல்லின்",
    "parts": [
     {
-     "text": "சொல்லின்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "of words"
+     "gloss": "word"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "of"
     }
    ],
    "gloss": "of words"
@@ -64,7 +69,7 @@
      "gloss": "collection"
     }
    ],
-   "gloss": "collection"
+   "gloss": "the range or classification"
   },
   {
    "surface": "அறிந்த",
@@ -72,10 +77,10 @@
     {
      "text": "அறிந்த",
      "lemma": "அறி",
-     "gloss": "who knew"
+     "gloss": "known"
     }
    ],
-   "gloss": "who knew"
+   "gloss": "who have known"
   },
   {
    "surface": "தூய்மை",
@@ -97,13 +102,13 @@
      "gloss": "they"
     }
    ],
-   "gloss": "they"
+   "gloss": "those who possess"
   }
  ],
- "literal": "assembly having-known having-examined let-speak of-words collection who-knew purity they",
- "translation": "Let the pure who know the rich multitude of words examine their speech and deliver it with a clear understanding of the assembly.",
- "modern": "சொற்களின் வகைகளை அறிந்த தூய்மையானவர்கள், அவையின் தன்மையை அறிந்து ஆராய்ந்து பேச வேண்டும்.",
- "explanation": "This couplet emphasizes the importance of understanding one's audience before speaking. The phrase 'சொல்லின் தொகை' refers to a rich vocabulary or the full range of words available to a speaker. The poet states that even those who possess this pure and vast knowledge of words must carefully examine what they are going to say. They must tailor their speech to suit the nature and capacity of the assembly they are addressing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having known the assembly and having analyzed, let them speak, those of purity who have known the range of words.",
+ "translation": "Let those of pure character, who know the power and classification of words, speak only after assessing the nature of the assembly and analyzing their audience.",
+ "modern": "சொற்களின் தொகுதியை நன்கு அறிந்த தூய்மையான பண்புடையவர்கள், தாங்கள் பேசும் அவையின் தன்மையை அறிந்து, ஆராய்ந்து அதற்குப் பிறகு பேச வேண்டும்.",
+ "explanation": "This couplet outlines the prerequisite for effective public speaking. It addresses those of 'purity' (தூய்மையவர்), meaning people of flawless character and intellect who have mastered the vast range and classification of words (சொல்லின் தொகை அறிந்த). Even such experts must not speak hastily; they are advised to first understand the nature of the gathering (அவை அறிந்து) and carefully analyze the context (ஆராய்ந்து) before delivering their speech (சொல்லுக).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

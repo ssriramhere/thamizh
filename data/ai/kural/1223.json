@@ -6,10 +6,10 @@
     {
      "text": "பனி",
      "lemma": "பனி",
-     "gloss": "dew"
+     "gloss": "cold dew"
     }
    ],
-   "gloss": "dew"
+   "gloss": "cold dew"
   },
   {
    "surface": "அரும்பி",
@@ -17,15 +17,15 @@
     {
      "text": "அரும்பு",
      "lemma": "அரும்பு",
-     "gloss": "to bud"
+     "gloss": "bud or sprout"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "past participle suffix"
     }
    ],
-   "gloss": "budding"
+   "gloss": "budding or shedding"
   },
   {
    "surface": "பைதல்",
@@ -33,10 +33,10 @@
     {
      "text": "பைதல்",
      "lemma": "பைதல்",
-     "gloss": "sorrow"
+     "gloss": "distress or sorrow"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress"
   },
   {
    "surface": "கொள்",
@@ -44,10 +44,10 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "to take"
+     "gloss": "having or possessing"
     }
    ],
-   "gloss": "taking"
+   "gloss": "having"
   },
   {
    "surface": "மாலை",
@@ -66,10 +66,10 @@
     {
      "text": "துனி",
      "lemma": "துனி",
-     "gloss": "anguish"
+     "gloss": "intense grief or resentment"
     }
    ],
-   "gloss": "anguish"
+   "gloss": "intense grief"
   },
   {
    "surface": "அரும்பி",
@@ -77,15 +77,15 @@
     {
      "text": "அரும்பு",
      "lemma": "அரும்பு",
-     "gloss": "to bud"
+     "gloss": "bud or sprout"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "past participle suffix"
     }
    ],
-   "gloss": "budding"
+   "gloss": "budding or sprouting"
   },
   {
    "surface": "துன்பம்",
@@ -93,10 +93,10 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "pain"
+     "gloss": "suffering or pain"
     }
    ],
-   "gloss": "pain"
+   "gloss": "suffering"
   },
   {
    "surface": "வளர",
@@ -104,7 +104,7 @@
     {
      "text": "வளர்",
      "lemma": "வளர்",
-     "gloss": "to grow"
+     "gloss": "grow"
     },
     {
      "text": "அ",
@@ -120,21 +120,21 @@
     {
      "text": "வரு",
      "lemma": "வா",
-     "gloss": "to come"
+     "gloss": "come"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "habitual future suffix"
     }
    ],
    "gloss": "comes"
   }
  ],
- "literal": "Dew budding, sorrow taking evening, anguish budding, pain to grow comes.",
- "translation": "The evening, bringing dew and sorrow, arrives causing anguish to bud and pain to grow.",
- "modern": "பனி துளிர்த்துத் துன்பத்தைக் கொண்டுள்ள மாலைப்பொழுதானது, என் துயரம் துளிர்த்துத் துன்பம் மேலும் வளரும்படியாக வருகின்றது.",
- "explanation": "The speaker laments the arrival of evening, a time that worsens the pain of separation. The word 'pani' can mean dew, chill, or tears; here 'dew' fits best as it naturally buds in the evening. Similarly, 'tuni' can mean disgust or sulking, but in this context of separation, it means deep anguish. She describes the evening as bringing dew and carrying sorrow. As this evening arrives, it causes her own deep anguish to bud and her pain to grow even larger, linking the natural formation of evening dew with the sprouting of her inner grief.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Cold dew budding, distress having evening, intense grief budding, suffering to grow, comes.",
+ "translation": "The evening, which arrives shedding cold dew and bringing distress, comes budding with intense grief to make my suffering grow.",
+ "modern": "குளிர்ச்சியான பனித்துளிகளைச் சிந்தி, துன்பத்தைத் தரும் மாலைப் பொழுது, என் நெஞ்சில் வெறுப்பைத் தோற்றுவித்துத் துயரத்தை வளர்க்கும் வகையில் வருகிறது.",
+ "explanation": "This couplet describes the painful arrival of evening for a heroine separated from her lover. The poet beautifully uses the word 'அரும்பி' (budding) twice to draw a parallel between nature and emotion. First, the evening arrives 'budding' with cold dew (பனி அரும்பி), which physically chills the environment and brings distress (பைதல்). Second, as this evening advances, it causes intense grief or resentment (துனி) to 'bud' (அரும்பி) within her heart, causing her overall suffering (துன்பம்) to grow even larger.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

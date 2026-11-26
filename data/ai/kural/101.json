@@ -14,15 +14,25 @@
      "gloss": "without"
     }
    ],
-   "gloss": "without doing"
+   "gloss": "without having done (any prior favor)"
   },
   {
    "surface": "செய்த",
    "parts": [
     {
-     "text": "செய்த",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "done"
+     "gloss": "do"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival participle suffix"
     }
    ],
    "gloss": "done"
@@ -37,11 +47,11 @@
     },
     {
      "text": "க்கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "lemma": "க்கு",
+     "gloss": "dative case suffix"
     }
    ],
-   "gloss": "to the help"
+   "gloss": "for the help"
   },
   {
    "surface": "வையகமும்",
@@ -54,10 +64,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "even / and"
     }
    ],
-   "gloss": "earth and"
+   "gloss": "even the earth"
   },
   {
    "surface": "வானகமும்",
@@ -70,38 +80,38 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "even / and"
     }
    ],
-   "gloss": "heaven and"
+   "gloss": "even the heaven"
   },
   {
    "surface": "ஆற்றல்",
    "parts": [
     {
      "text": "ஆற்றல்",
-     "lemma": "ஆற்று",
-     "gloss": "equaling"
+     "lemma": "ஆற்றல்",
+     "gloss": "equaling / matching"
     }
    ],
-   "gloss": "equaling"
+   "gloss": "to equal / to match"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "is difficult"
+     "lemma": "அரிது",
+     "gloss": "is rare / is difficult"
     }
    ],
-   "gloss": "is difficult"
+   "gloss": "is rare / is impossible"
   }
  ],
- "literal": "Without doing, to the help done, earth and heaven and equaling is difficult.",
- "translation": "For a help done without any prior favor, giving the earth and the heavens is hardly an equal return.",
- "modern": "நாம் முன்பு எந்த உதவியும் செய்யாமல் இருக்கும்போது, நமக்கு ஒருவன் செய்த உதவிக்கு, இந்த உலகத்தையும் வானுலகத்தையும் கைமாறாகக் கொடுத்தாலும் அது ஈடாகாது.",
- "explanation": "This couplet highlights the immense value of unprompted, spontaneous help. The phrase 'ceyyāmal ceyta' refers to assistance given without the receiver having done any prior favor to the giver. To compensate for such pure generosity, the poet states that even offering the entire earth and the heavens would not be an equal return. It teaches that true gratitude recognizes the incomparable worth of unsolicited kindness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For the help done without [the receiver] having done [any prior help], even the earth and even the heaven, matching [it], is rare.",
+ "translation": "For a help rendered to one who has done no prior favor, even the earth and the heaven are not an equivalent recompense.",
+ "modern": "முன்பு தான் எந்த உதவியும் செய்யாதிருந்தும் தனக்குச் செய்யப்பட்ட உதவிக்கு, மண்ணுலகத்தையும் விண்ணுலகத்தையும் கைம்மாறாகக் கொடுத்தாலும் ஈடாகாது.",
+ "explanation": "This couplet highlights the supreme value of unsolicited or initial help. When someone assists us without us having done any prior favor to them, that act of kindness is priceless because it is born out of pure goodwill rather than obligation. The poet states that even gifting the entire earth and the heavens would not be a sufficient return to match such selfless help. The contrast between 'செய்யாமல்' (without doing) and 'செய்த' (done) emphasizes that the absence of a prior debt makes the received help infinitely valuable.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

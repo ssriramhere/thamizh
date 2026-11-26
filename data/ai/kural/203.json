@@ -6,20 +6,20 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "wisdom"
+     "gloss": "knowledge"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic suffix"
+     "gloss": "oblique case suffix"
     },
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "within or among"
     }
    ],
-   "gloss": "among wisdom"
+   "gloss": "among all kinds of knowledge"
   },
   {
    "surface": "எல்லாம்",
@@ -38,23 +38,18 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "chief"
+     "gloss": "head or foremost"
     }
    ],
-   "gloss": "chief"
+   "gloss": "the foremost"
   },
   {
    "surface": "என்ப",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்ப",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they say"
     }
    ],
    "gloss": "they say"
@@ -64,11 +59,11 @@
    "parts": [
     {
      "text": "தீய",
-     "lemma": "தீமை",
+     "lemma": "தீது",
      "gloss": "evil things"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "evil deeds"
   },
   {
    "surface": "செறுவார்க்கும்",
@@ -76,7 +71,7 @@
     {
      "text": "செறுவார்",
      "lemma": "செறு",
-     "gloss": "those who harm"
+     "gloss": "those who hate or harm"
     },
     {
      "text": "க்கு",
@@ -89,50 +84,35 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even to those who harm"
+   "gloss": "even to those who harm us"
   },
   {
    "surface": "செய்யா",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யா",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "without doing"
     }
    ],
-   "gloss": "not doing"
+   "gloss": "without doing"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "refraining or leaving"
     }
    ],
    "gloss": "refraining"
   }
  ],
- "literal": "Among wisdom all chief they say, evil things even to those who harm not doing refraining.",
- "translation": "They say the foremost of all wisdom is to refrain from doing evil, even to those who harm you.",
- "modern": "தமக்குத் தீங்கு செய்பவர்க்கும் தீமையான செயல்களைச் செய்யாமல் இருப்பதே எல்லா அறிவுகளிலும் சிறந்த அறிவு என்று கூறுவர்.",
- "explanation": "This couplet defines the highest form of wisdom in the context of fearing evil deeds. The phrase 'அறிவினுள் எல்லாம் தலை' establishes a hierarchy of knowledge, placing moral restraint at the very top as the 'head' or chief wisdom. The word 'செறுவார்க்கும்' means 'even to those who harm or hate', emphasizing that retaliation is never justified. Finally, 'செய்யா விடல்' highlights that true wisdom is not merely theoretical, but the active, disciplined choice to refrain from committing evil regardless of the provocation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among all knowledge, the foremost they say is, evil deeds, even to those who harm us, without doing, refraining.",
+ "translation": "They say the supreme wisdom among all forms of knowledge is to refrain from doing evil, even to those who cause us harm.",
+ "modern": "அறிவுகள் எல்லாவற்றிலும் முதன்மையானது என்று அறிஞர்கள் கூறுவது, நமக்குத் தீங்கு செய்பவர்களுக்கும் நாம் திரும்பத் தீமை செய்யாமல் தவிர்ப்பதே ஆகும்.",
+ "explanation": "This couplet defines the highest peak of human wisdom. While there are many forms of worldly knowledge, the foremost (தலை) is the moral strength to refrain (விடல்) from doing evil deeds (தீய செய்யா). Crucially, this restraint must be maintained even toward those who actively hate or harm us (செறுவார்க்கும்). True wisdom is not merely intellectual; it is the practical, ethical choice to break the cycle of retaliation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

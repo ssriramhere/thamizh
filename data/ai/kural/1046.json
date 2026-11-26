@@ -11,10 +11,10 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "meaning"
+     "gloss": "subject"
     }
    ],
-   "gloss": "good meaning"
+   "gloss": "a noble subject"
   },
   {
    "surface": "நன்கு",
@@ -44,7 +44,7 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "say"
+     "gloss": "speak"
     },
     {
      "text": "இன்",
@@ -57,7 +57,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if said"
+   "gloss": "even if they speak"
   },
   {
    "surface": "நல்கூர்ந்தார்",
@@ -68,7 +68,7 @@
      "gloss": "those who are poor"
     }
    ],
-   "gloss": "the poor"
+   "gloss": "those who are poor"
   },
   {
    "surface": "சொற்பொருள்",
@@ -84,18 +84,18 @@
      "gloss": "meaning"
     }
    ],
-   "gloss": "meaning of words"
+   "gloss": "the meaning of the words"
   },
   {
    "surface": "சோர்வு",
    "parts": [
     {
      "text": "சோர்வு",
-     "lemma": "சோர்",
-     "gloss": "failing"
+     "lemma": "சோர்வு",
+     "gloss": "decline"
     }
    ],
-   "gloss": "failing"
+   "gloss": "decline"
   },
   {
    "surface": "படும்",
@@ -109,10 +109,10 @@
    "gloss": "will suffer"
   }
  ],
- "literal": "Good meaning well having understood even if they say, the poor's words' meaning failing will suffer.",
- "translation": "Even if the poor understand profound truths well and speak them, the meaning of their words will fail to carry weight.",
- "modern": "நல்ல கருத்துகளைத் தெளிவாக உணர்ந்து சொன்னாலும், வறுமையுற்றவர்களின் சொற்கள் மற்றவர்களால் ஏற்கப்படாமல் வீணாகும்.",
- "explanation": "This couplet highlights how poverty undermines a person's voice in society. The phrase 'நற்பொருள் நன்குணர்ந்து சொல்லினும்' means that even if a poor person grasps good, profound ideas and articulates them well. 'நல்கூர்ந்தார் சொற்பொருள் சோர்வு படும்' concludes that the substance of their words will still fall flat or be ignored. The word 'சோர்வு' (failing or slipping) effectively captures how their wisdom loses its impact simply because of their impoverished state.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A noble subject well having understood even if they speak, of those who are poor, the meaning of the words decline will suffer.",
+ "translation": "Even if the poor speak with a deep and thorough understanding of a noble subject, the meaning of their words will lose its value.",
+ "modern": "வறுமையுற்றவர் ஒரு நல்ல கருத்தை நன்கு ஆராய்ந்து உணர்ந்து சொன்னாலும், அவருடைய சொற்களின் பொருள் மதிப்பற்றதாகிப் போகும்.",
+ "explanation": "This couplet highlights the harsh social reality of poverty, where a person's financial status dictates how their intellect is received. Even if a poor person speaks on a noble and valuable subject with profound understanding, society fails to appreciate it. The words they utter lose their weight and value simply because of the speaker's impoverished state. Thus, poverty robs a person not just of material wealth, but also of the intellectual respect they deserve.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

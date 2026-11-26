@@ -11,7 +11,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "oneself"
@@ -22,37 +22,37 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "oneself"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "indeed"
   },
   {
    "surface": "காதலன்",
    "parts": [
     {
-     "text": "காதலன்",
-     "lemma": "காதலன்",
-     "gloss": "lover"
+     "text": "காதல்",
+     "lemma": "காதல்",
+     "gloss": "love"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "masculine pronominal suffix"
     }
    ],
-   "gloss": "lover"
+   "gloss": "one who loves"
   },
   {
    "surface": "ஆயின்",
    "parts": [
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "to be"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "ஆயின்",
+     "lemma": "ஆகு",
+     "gloss": "if one is"
     }
    ],
-   "gloss": "if is"
+   "gloss": "if one is"
   },
   {
    "surface": "எனைத்து",
@@ -60,10 +60,10 @@
     {
      "text": "எனைத்து",
      "lemma": "எனைத்து",
-     "gloss": "whatever measure"
+     "gloss": "of whatever measure"
     }
    ],
-   "gloss": "whatever measure"
+   "gloss": "of whatever measure"
   },
   {
    "surface": "ஒன்றும்",
@@ -79,7 +79,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even one"
+   "gloss": "even a single thing"
   },
   {
    "surface": "துன்னற்க",
@@ -87,20 +87,15 @@
     {
      "text": "துன்னு",
      "lemma": "துன்னு",
-     "gloss": "to approach"
+     "gloss": "approach"
     },
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative suffix"
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "negative optative suffix"
     }
    ],
-   "gloss": "let not approach"
+   "gloss": "should not approach"
   },
   {
    "surface": "தீவினை",
@@ -124,16 +119,16 @@
     {
      "text": "பால்",
      "lemma": "பால்",
-     "gloss": "side"
+     "gloss": "side or category"
     }
    ],
-   "gloss": "side"
+   "gloss": "side or category"
   }
  ],
- "literal": "Oneself oneself lover if-is, whatever-measure even-one let-not-approach evil-deed's side.",
- "translation": "If a man truly loves himself, let him not approach even the smallest measure of evil deeds.",
- "modern": "ஒருவன் தன்னைத் தான் விரும்புபவனாக இருந்தால், அவன் எந்த அளவிலும் தீய செயல்களின் பக்கம் செல்லக் கூடாது.",
- "explanation": "The couplet establishes a direct link between self-love and moral behavior. The phrase 'தன்னைத் தான் காதலன் ஆயின்' means 'if one is a lover of oneself,' implying a genuine desire for one's own safety and happiness. Because evil deeds inevitably bring suffering back to the doer, true self-interest requires avoiding them completely. Therefore, the text commands 'துன்னற்க' (do not approach) even the slightest association with the side of evil.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one is indeed a lover of oneself, let one not approach the side of evil deeds, even in the slightest measure.",
+ "translation": "If a person truly loves themselves, let them not approach the path of evil deeds, even in the slightest degree.",
+ "modern": "ஒருவன் தன்னைத்தானே நேசிப்பவனாக இருந்தால், எவ்வளவும் சிறியதான தீய செயல்களின் பக்கமும் அவன் நெருங்காமல் இருக்க வேண்டும்.",
+ "explanation": "This couplet explains that true self-love lies in protecting oneself from harm, which can only be achieved by avoiding bad deeds. The word 'kātalaṉ' refers to one who loves, here meaning someone who desires their own true well-being. If a person has this genuine love for themselves, they must not commit any 'tīviṉai' (evil deed), even a tiny fraction ('eṉaittu oṉṟum'). Avoiding the path of evil is presented as the ultimate act of self-preservation, as evil deeds inevitably bring ruin to the doer.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

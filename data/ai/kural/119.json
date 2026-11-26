@@ -6,15 +6,15 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "speech"
+     "gloss": "word/speech"
     },
     {
      "text": "கோட்டம்",
      "lemma": "கோட்டம்",
-     "gloss": "crookedness"
+     "gloss": "crookedness/bias"
     }
    ],
-   "gloss": "crookedness in speech"
+   "gloss": "crookedness of speech"
   },
   {
    "surface": "இல்லது",
@@ -27,7 +27,7 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that which is"
+     "gloss": "that which"
     }
    ],
    "gloss": "that which is without"
@@ -38,10 +38,10 @@
     {
      "text": "செப்பம்",
      "lemma": "செப்பம்",
-     "gloss": "uprightness"
+     "gloss": "rectitude/impartiality"
     }
    ],
-   "gloss": "uprightness"
+   "gloss": "rectitude"
   },
   {
    "surface": "ஒருதலையா",
@@ -49,15 +49,15 @@
     {
      "text": "ஒருதலை",
      "lemma": "ஒருதலை",
-     "gloss": "firmness"
+     "gloss": "certainty/firmness"
     },
     {
      "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "adverbial suffix"
+     "lemma": "ஆக",
+     "gloss": "as/fully"
     }
    ],
-   "gloss": "firmly"
+   "gloss": "assuredly"
   },
   {
    "surface": "உட்கோட்டம்",
@@ -65,15 +65,15 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "mind"
+     "gloss": "inside/mind"
     },
     {
      "text": "கோட்டம்",
      "lemma": "கோட்டம்",
-     "gloss": "crookedness"
+     "gloss": "crookedness/bias"
     }
    ],
-   "gloss": "crookedness in mind"
+   "gloss": "crookedness of the mind"
   },
   {
    "surface": "இன்மை",
@@ -81,7 +81,7 @@
     {
      "text": "இன்மை",
      "lemma": "இன்மை",
-     "gloss": "absence"
+     "gloss": "absence/lack"
     }
    ],
    "gloss": "absence"
@@ -103,10 +103,10 @@
    "gloss": "if obtained"
   }
  ],
- "literal": "Speech-crookedness that-which-is-without (is) uprightness, firmly inner-crookedness absence if-obtained.",
- "translation": "Uprightness is speech without bias, provided one has firmly attained the absence of bias in the mind.",
- "modern": "உள்ளத்தில் உறுதியாக எந்த ஒரு சார்பும் இல்லாத தன்மையைப் பெற்றிருந்தால், சொல்லிலும் சார்பு இல்லாமல் இருப்பதே உண்மையான நடுவுநிலைமை ஆகும்.",
- "explanation": "This couplet defines true impartiality (செப்பம்). It states that uprightness is the absence of bias or crookedness in one's speech (சொற்கோட்டம் இல்லது). However, this is only valid if one has firmly secured the absence of bias in one's mind (உட்கோட்டம் இன்மை பெறின்). The contrasting words 'சொற்கோட்டம்' (crookedness in speech) and 'உட்கோட்டம்' (crookedness in mind) emphasize that fair speech must stem from a genuinely fair mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Crookedness of speech that which is without is rectitude assuredly, crookedness of the mind absence if obtained.",
+ "translation": "If one achieves complete freedom from bias in the mind, then the absence of bias in speech is assuredly true rectitude.",
+ "modern": "மனதில் கோணல் இல்லாத தன்மையை ஒருவன் பெற்றால், அவனது சொல்லில் கோணல் இல்லாமல் இருப்பதுவே உறுதியாக நடுவுநிலைமை ஆகும்.",
+ "explanation": "This couplet explains the relationship between inner thoughts and outer speech in practicing impartiality. The poet uses the word 'kōṭṭam' (crookedness or slant) to represent bias or favoritism. True rectitude ('ceppam') is not just speaking neutrally; it is assuredly ('orutalaiyā') achieved only when there is a complete absence of bias in the mind ('uṭkōṭṭam iṉmai'). When the mind is perfectly straight, the words ('coṟkōṭṭam illatu') will naturally reflect that true impartiality.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

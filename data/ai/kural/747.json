@@ -14,7 +14,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having besieged"
+   "gloss": "even by besieging"
   },
   {
    "surface": "முற்றாது",
@@ -22,7 +22,7 @@
     {
      "text": "முற்றாது",
      "lemma": "முற்று",
-     "gloss": "without besieging"
+     "gloss": "without besieging (by sudden assault)"
     }
    ],
    "gloss": "without besieging"
@@ -41,23 +41,23 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having attacked"
+   "gloss": "even by attacking"
   },
   {
    "surface": "அறைப்படுத்தும்",
    "parts": [
     {
-     "text": "அறை",
-     "lemma": "அறை",
-     "gloss": "treachery"
+     "text": "அறைப்படுத்து",
+     "lemma": "அறைப்படுத்து",
+     "gloss": "having undermined from within"
     },
     {
-     "text": "படுத்தும்",
-     "lemma": "படுத்து",
-     "gloss": "even causing"
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even causing treachery"
+   "gloss": "even by undermining from within"
   },
   {
    "surface": "பற்றற்கு",
@@ -70,21 +70,21 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "for"
     }
    ],
-   "gloss": "to capture"
+   "gloss": "for capturing"
   },
   {
    "surface": "அரியது",
    "parts": [
     {
      "text": "அரியது",
-     "lemma": "அருமை",
+     "lemma": "அரிது",
      "gloss": "that which is difficult"
     }
    ],
-   "gloss": "that which is difficult"
+   "gloss": "is difficult"
   },
   {
    "surface": "அரண்",
@@ -95,13 +95,13 @@
      "gloss": "fortress"
     }
    ],
-   "gloss": "fortress"
+   "gloss": "a fortress"
   }
  ],
- "literal": "Even having besieged, without besieging even having attacked, even causing treachery, to capture it is difficult, a fortress.",
- "translation": "A true fortress is one that is difficult to capture whether the enemy lays a complete siege, storms it directly, or attempts to breach it through treachery.",
- "modern": "பகைவர்கள் முற்றுகையிட்டாலும், முற்றுகையிடாமல் நேரடியாகத் தாக்கினாலும், உள்ளிருப்போரை வஞ்சித்துச் சதி செய்தாலும், கைப்பற்றுவதற்கு அரியதே சிறந்த அரணாகும்.",
- "explanation": "This couplet defines the ultimate resilience of a good fortress against various military tactics. It states that a fort must withstand a prolonged siege, a sudden direct assault, and internal treachery or breaches. The words 'முற்றியும்' (besieging), 'எறிந்தும்' (storming), and 'அறைப்படுத்தும்' (causing treachery) cover the three main ways an enemy might try to take a fort. A true fortress remains impenetrable and difficult to capture despite all these threats.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even by besieging, or without besieging by attacking, or even by undermining from within, to capture difficult is a fortress.",
+ "translation": "A true fortress is one that is impossible to capture, whether by laying a long siege, by launching a sudden direct assault, or by attempting to undermine it through internal treachery.",
+ "modern": "முற்றுகையிட்டோ, முற்றுகையிடாமல் திடீரென்று தாக்கியோ, அல்லது உள்ளிருப்பவர்களை வஞ்சனையால் வசப்படுத்தியோ கைப்பற்றுவதற்கு அரியதே சிறந்த அரணாகும்.",
+ "explanation": "This couplet defines the ultimate strength of a fortress by listing the three primary methods used to capture one. 'Muṟṟiyum' refers to surrounding the fort in a prolonged siege to starve the defenders. 'Muṟṟātu eṟintum' refers to bypassing a siege and launching an immediate, aggressive storming of the walls. 'Aṟaippaṭuttum' refers to the act of bribing or deceiving those inside to betray the fort from within. A perfect fortress (araṇ) is one that remains impregnable (paṟṟaṟku ariyatu) against all three of these tactics.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

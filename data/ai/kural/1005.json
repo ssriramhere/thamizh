@@ -5,30 +5,30 @@
    "parts": [
     {
      "text": "கொடுப்பதூஉம்",
-     "lemma": "கொடு",
-     "gloss": "giving-and"
+     "lemma": "கொடுப்பது",
+     "gloss": "giving and"
     }
    ],
-   "gloss": "giving and"
+   "gloss": "both giving to others and"
   },
   {
    "surface": "துய்ப்பதூஉம்",
    "parts": [
     {
      "text": "துய்ப்பதூஉம்",
-     "lemma": "துய்",
-     "gloss": "enjoying-and"
+     "lemma": "துய்ப்பது",
+     "gloss": "enjoying and"
     }
    ],
-   "gloss": "enjoying and"
+   "gloss": "enjoying by oneself and"
   },
   {
    "surface": "இல்லார்க்கு",
    "parts": [
     {
      "text": "இல்லார்",
-     "lemma": "இல்",
-     "gloss": "those without"
+     "lemma": "இல்லார்",
+     "gloss": "those who do not have"
     },
     {
      "text": "கு",
@@ -47,7 +47,7 @@
      "gloss": "piled up"
     }
    ],
-   "gloss": "piled up"
+   "gloss": "piled up in abundance"
   },
   {
    "surface": "கோடி",
@@ -55,17 +55,17 @@
     {
      "text": "கோடி",
      "lemma": "கோடி",
-     "gloss": "ten million"
+     "gloss": "crore (ten million)"
     }
    ],
-   "gloss": "ten million"
+   "gloss": "crores of wealth"
   },
   {
    "surface": "உண்டு",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "exists"
     }
    ],
@@ -75,17 +75,12 @@
    "surface": "ஆயினும்",
    "parts": [
     {
-     "text": "ஆயின்",
-     "lemma": "ஆகு",
-     "gloss": "if it becomes"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "ஆயினும்",
+     "lemma": "ஆயினும்",
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "இல்",
@@ -93,16 +88,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "nothing"
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "nothing"
+   "gloss": "it is as if they have nothing"
   }
  ],
- "literal": "Giving and enjoying, to those who do not have, piled up ten million exists even if, nothing.",
- "translation": "For those who neither give to others nor enjoy it themselves, even if they possess ten million piled up, it is nothing.",
- "modern": "பிறருக்குக் கொடுப்பதும் தான் அனுபவிப்பதும் இல்லாதவர்களுக்கு, பல கோடிகள் சேர்ந்திருந்தாலும் அதனால் ஒரு பயனும் இல்லை.",
- "explanation": "This couplet highlights the true purpose of wealth, which is to be shared with others and enjoyed by oneself. The elongated words 'கொடுப்பதூஉம்' (giving) and 'துய்ப்பதூஉம்' (enjoying) emphasize these two essential actions. If a person lacks the heart to do either, their wealth is entirely useless, even if they have amassed millions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Giving and enjoying to those who do not have, piled-up crores though there are, nothing.",
+ "translation": "To those who neither give to others nor enjoy their wealth themselves, even if they possess piled-up crores of riches, they actually have nothing.",
+ "modern": "பிறருக்குக் கொடுப்பதும் தாம் அனுபவிப்பதும் இல்லாதவர்க்கு, அடுக்கடுக்கான கோடிப் பொருள்கள் இருந்தாலும் அதனால் ஒரு பயனும் இல்லை.",
+ "explanation": "This couplet highlights the futility of hoarded wealth that is neither shared nor enjoyed. The poet uses the words 'கொடுப்பதூஉம்' (giving) and 'துய்ப்பதூஉம்' (enjoying) with poetic elongation to emphasize these two essential purposes of wealth. For those who lack both these actions, having even piled-up crores ('அடுக்கிய கோடி') of riches is equivalent to having nothing ('இல்'). True wealth is defined by its utility and generosity, not by its mere accumulation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

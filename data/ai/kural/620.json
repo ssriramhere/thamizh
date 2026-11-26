@@ -11,7 +11,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     },
     {
      "text": "உம்",
@@ -19,7 +19,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even fate (acc.)"
+   "gloss": "even fate"
   },
   {
    "surface": "உப்பக்கம்",
@@ -30,25 +30,15 @@
      "gloss": "back"
     }
    ],
-   "gloss": "the back"
+   "gloss": "the back (defeat)"
   },
   {
    "surface": "காண்பர்",
    "parts": [
     {
-     "text": "காண்",
+     "text": "காண்பர்",
      "lemma": "காண்",
-     "gloss": "to see"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they will see"
     }
    ],
    "gloss": "they will see"
@@ -59,17 +49,17 @@
     {
      "text": "உலைவு",
      "lemma": "உலைவு",
-     "gloss": "weariness"
+     "gloss": "discouragement"
     }
    ],
-   "gloss": "weariness"
+   "gloss": "discouragement"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
@@ -79,44 +69,29 @@
    "surface": "தாழாது",
    "parts": [
     {
-     "text": "தாழ்",
+     "text": "தாழாது",
      "lemma": "தாழ்",
-     "gloss": "to slacken"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative participle suffix"
+     "gloss": "without delaying"
     }
    ],
-   "gloss": "without slackening"
+   "gloss": "without delaying"
   },
   {
    "surface": "உஞற்றுபவர்",
    "parts": [
     {
-     "text": "உஞற்று",
+     "text": "உஞற்றுபவர்",
      "lemma": "உஞற்று",
-     "gloss": "to strive"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "those who"
+     "gloss": "those who strive"
     }
    ],
    "gloss": "those who strive"
   }
  ],
- "literal": "Even fate, the back they will see, weariness without, without slackening, those who strive.",
- "translation": "Those who strive tirelessly and without slackening will see the back of even fate.",
- "modern": "சோர்வில்லாமலும் தாமதிக்காமலும் தொடர்ந்து முயற்சி செய்பவர்கள், விதியையும் தோற்றுப் புறமுதுகு காட்டி ஓடச் செய்வார்கள்.",
- "explanation": "This couplet emphasizes the supreme power of relentless human effort. The word 'உஞற்றுபவர்' refers to those who strive continuously, doing so 'உலைவு இன்றி' (without weariness) and 'தாழாது' (without slackening or delaying). The striking image here is 'உப்பக்கம் காண்பர்', which literally means seeing the back of an opponent in retreat. Thus, the text asserts that unwavering perseverance can make even 'ஊழ்' (fate or destiny) turn its back and flee.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even fate, the back they will see, discouragement without, without delaying, those who strive.",
+ "translation": "Those who strive unremittingly without discouragement will see even fate turn its back and retreat.",
+ "modern": "மனச்சோர்வு இல்லாமல், காலம் தாழ்த்தாமல் முயற்சி செய்பவர்கள், விதியையும் புறமுதுகு காட்டி ஓடச் செய்வர்.",
+ "explanation": "This couplet highlights the power of relentless human effort over destiny. The poet asserts that even fate, which is often considered insurmountable, can be defeated and made to turn its back in retreat. This victory is achieved by those who labor without discouragement and without delaying or slacking. The key term 'உப்பக்கம்' literally means 'the back', symbolizing defeat, showing that persistent effort can overcome even the most adverse preordained circumstances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

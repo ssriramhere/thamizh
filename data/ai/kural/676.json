@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "the completion and"
+   "gloss": "and the completion"
   },
   {
    "surface": "இடையூறும்",
@@ -30,7 +30,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "the obstacles and"
+   "gloss": "and the obstacles"
   },
   {
    "surface": "முற்றி",
@@ -49,10 +49,10 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "then"
+     "gloss": "there"
     }
    ],
-   "gloss": "then"
+   "gloss": "there"
   },
   {
    "surface": "எய்தும்",
@@ -60,10 +60,10 @@
     {
      "text": "எய்தும்",
      "lemma": "எய்து",
-     "gloss": "which will be obtained"
+     "gloss": "will accrue"
     }
    ],
-   "gloss": "which will be obtained"
+   "gloss": "that will accrue"
   },
   {
    "surface": "படுபயனும்",
@@ -71,7 +71,7 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "arising"
+     "gloss": "resulting"
     },
     {
      "text": "பயன்",
@@ -92,10 +92,10 @@
     {
      "text": "பார்த்து",
      "lemma": "பார்",
-     "gloss": "having considered"
+     "gloss": "having examined"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having examined"
   },
   {
    "surface": "செயல்",
@@ -106,13 +106,13 @@
      "gloss": "doing"
     }
    ],
-   "gloss": "act"
+   "gloss": "should be done"
   }
  ],
- "literal": "The completion and, the obstacles and, having completed then which will be obtained arising benefit and, having considered, act.",
- "translation": "Consider the effort needed for completion, the obstacles along the way, and the resulting benefit once finished, and then act.",
- "modern": "ஒரு செயலை முடிக்கும் விதத்தையும், இடையில் வரும் தடைகளையும், முடித்த பின் கிடைக்கும் பயனையும் நன்கு ஆராய்ந்த பிறகே அச்செயலைச் செய்ய வேண்டும்.",
- "explanation": "This couplet outlines the three essential factors to evaluate before undertaking any action. The word 'முடிவு' refers to the completion of the task and the effort it requires. 'இடையூறு' points to the potential obstacles that might arise during execution. Finally, 'படுபயன்' signifies the actual benefit that will be gained once the task is successfully completed ('முற்றியாங்கு'). By carefully weighing the end, the hurdles, and the reward, one ensures that the action is worth doing and is prepared for success.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And the completion, and the obstacles, and the resulting benefit that will accrue there upon completion, having examined, one should do.",
+ "translation": "An action should be undertaken only after carefully considering the effort required for its completion, the obstacles that may arise, and the ultimate benefit that will be gained.",
+ "modern": "ஒரு செயலை முடிப்பதற்கு ஆகும் முயற்சியையும், இடையில் வரும் இடையூறுகளையும், அது முடிந்த பிறகு கிடைக்கும் பயனையும் ஆராய்ந்து பார்த்து அச்செயலைச் செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines three essential factors that must be analyzed before starting any undertaking. First, 'mutivu' refers to the final completion of the task and the resources or effort required to achieve it. Second, 'itaiyuru' represents the potential hindrances or difficulties that might arise along the way. Third, 'patupayan' is the actual profit or utility that will be realized once the task is finished. A wise person weighs all three aspects thoroughly before acting.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

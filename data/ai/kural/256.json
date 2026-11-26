@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "தினல்",
-     "lemma": "தின்",
+     "lemma": "தின்னல்",
      "gloss": "eating"
     }
    ],
@@ -17,12 +17,12 @@
     {
      "text": "பொருட்டு",
      "lemma": "பொருட்டு",
-     "gloss": "for the sake of"
+     "gloss": "sake"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "(instrumental suffix)"
+     "gloss": "instrumental suffix"
     }
    ],
    "gloss": "for the sake of"
@@ -32,11 +32,11 @@
    "parts": [
     {
      "text": "கொல்லாது",
-     "lemma": "கொல்",
-     "gloss": "does not kill"
+     "lemma": "கொல்லுதல்",
+     "gloss": "without killing"
     }
    ],
-   "gloss": "does not kill"
+   "gloss": "without killing"
   },
   {
    "surface": "உலகு",
@@ -47,14 +47,14 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "எனின்",
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
+     "lemma": "எனின்",
      "gloss": "if"
     }
    ],
@@ -71,10 +71,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "(inclusive suffix)"
+     "gloss": "even"
     }
    ],
-   "gloss": "anyone"
+   "gloss": "no one"
   },
   {
    "surface": "விலைப்பொருட்டால்",
@@ -85,50 +85,55 @@
      "gloss": "price"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "(sandhi)"
-    },
-    {
      "text": "பொருட்டு",
      "lemma": "பொருட்டு",
-     "gloss": "for the sake of"
+     "gloss": "sake"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "(instrumental suffix)"
+     "gloss": "instrumental suffix"
     }
    ],
-   "gloss": "for the sake of price"
+   "gloss": "for the sake of money"
   },
   {
    "surface": "ஊன்றருவா",
    "parts": [
     {
-     "text": "ஊன்றருவா",
-     "lemma": "ஊன்றருவா",
-     "gloss": "meat-providers"
+     "text": "ஊன்",
+     "lemma": "ஊன்",
+     "gloss": "meat"
+    },
+    {
+     "text": "தருவா",
+     "lemma": "தருவார்",
+     "gloss": "givers (incomplete)"
     }
    ],
-   "gloss": "meat-providers"
+   "gloss": "meat-givers (incomplete)"
   },
   {
    "surface": "ரில்",
    "parts": [
     {
-     "text": "ரில்",
+     "text": "ர்",
+     "lemma": "அர்",
+     "gloss": "plural suffix"
+    },
+    {
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "there are not"
+     "gloss": "not exist"
     }
    ],
-   "gloss": "there are not"
+   "gloss": "do not exist"
   }
  ],
- "literal": "Eating for the sake of, does not kill the world if, anyone for the sake of price meat-providers there are not.",
- "translation": "If the world does not kill animals for the sake of eating them, there will be no one offering meat for the sake of selling it.",
- "modern": "மக்கள் உண்பதற்காக உயிர்களைக் கொல்ல மாட்டார்கள் என்றால், விலைக்கு விற்பதற்காக இறைச்சியைத் தருபவர் எவரும் இருக்க மாட்டார்கள்.",
- "explanation": "This couplet addresses the argument that eating meat is acceptable if one does not do the killing oneself. The poet points out the direct economic link between the consumer and the butcher. If the world stops demanding meat for food, no one will kill animals to supply meat for a price. Thus, the eater is ultimately responsible for the killing, making abstinence from meat a moral necessity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If the world does not kill for the sake of eating, no one will give meat for the sake of price.",
+ "translation": "If the world does not slaughter animals for the sake of eating, no one will offer meat for sale.",
+ "modern": "உலக மக்கள் சாப்பிடுவதற்காகக் கொலை செய்ய மாட்டார்கள் என்றால், விலைப் பொருளுக்காக இறைச்சி விற்பவர் யாரும் இருக்க மாட்டார்கள்.",
+ "explanation": "This couplet highlights the direct link between demand and supply in the meat trade. It argues that the slaughter of animals happens only because people want to consume meat. If the public refrains from eating meat for their food, the commercial incentive to kill animals for profit will cease to exist. Thus, those who consume meat share the responsibility for the killing alongside those who sell it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

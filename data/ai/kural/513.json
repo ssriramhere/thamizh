@@ -6,10 +6,10 @@
     {
      "text": "அன்பு",
      "lemma": "அன்பு",
-     "gloss": "affection"
+     "gloss": "love"
     }
    ],
-   "gloss": "affection"
+   "gloss": "love/affection"
   },
   {
    "surface": "அறிவு",
@@ -20,7 +20,7 @@
      "gloss": "knowledge"
     }
    ],
-   "gloss": "knowledge"
+   "gloss": "knowledge/wisdom"
   },
   {
    "surface": "தேற்றம்",
@@ -28,10 +28,10 @@
     {
      "text": "தேற்றம்",
      "lemma": "தேற்றம்",
-     "gloss": "clarity"
+     "gloss": "clarity of mind"
     }
    ],
-   "gloss": "clarity"
+   "gloss": "clarity of mind/decisiveness"
   },
   {
    "surface": "அவா",
@@ -42,7 +42,7 @@
      "gloss": "desire"
     }
    ],
-   "gloss": "desire"
+   "gloss": "desire/greed"
   },
   {
    "surface": "இன்மை",
@@ -53,23 +53,18 @@
      "gloss": "absence"
     }
    ],
-   "gloss": "absence"
+   "gloss": "absence/lack"
   },
   {
    "surface": "இந்",
    "parts": [
     {
-     "text": "இ",
+     "text": "இந்",
      "lemma": "இ",
-     "gloss": "this"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
+     "gloss": "these"
     }
    ],
-   "gloss": "this"
+   "gloss": "these"
   },
   {
    "surface": "நான்கும்",
@@ -82,7 +77,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "all"
+     "gloss": "all/and"
     }
    ],
    "gloss": "all four"
@@ -96,15 +91,20 @@
      "gloss": "well"
     }
    ],
-   "gloss": "well"
+   "gloss": "fully/well"
   },
   {
    "surface": "உடையான்",
    "parts": [
     {
-     "text": "உடையான்",
-     "lemma": "உடையான்",
-     "gloss": "he who possesses"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who"
     }
    ],
    "gloss": "he who possesses"
@@ -115,15 +115,15 @@
     {
      "text": "கட்டு",
      "lemma": "கட்டு",
-     "gloss": "with"
+     "gloss": "place/with"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "with him alone"
+   "gloss": "only with him"
   },
   {
    "surface": "தெளிவு",
@@ -134,13 +134,13 @@
      "gloss": "trust"
     }
    ],
-   "gloss": "trust"
+   "gloss": "trust/confidence"
   }
  ],
- "literal": "Affection, knowledge, clarity, desire-absence, these four-all, well he-who-possesses with-indeed trust.",
- "translation": "Trust should be placed only in someone who fully possesses all these four qualities: loyalty, knowledge, clear judgment, and freedom from greed.",
- "modern": "அன்பு, அறிவு, தெளிந்த சிந்தனை, பேராசை இல்லாமை ஆகிய இந்த நான்கு பண்புகளையும் தன்னிடம் முழுமையாகக் கொண்டிருப்பவரிடமே ஒரு செயலை ஒப்படைக்கும் நம்பிக்கையை வைக்க வேண்டும்.",
- "explanation": "This couplet lists the four essential qualities a leader must look for before trusting someone with a responsibility. The person must have 'அன்பு' (loyalty or affection) towards the leader or the cause, and 'அறிவு' (knowledge) to understand and execute the tasks. They must also possess 'தேற்றம்' (clarity of mind or clear judgment) and 'அவாவின்மை' (the absence of greed), ensuring they will not be confused or corrupted. The word 'தெளிவு' signifies the clear decision to trust and delegate, which should rest solely ('கட்டே') with one who has all four traits fully ('நன்கு').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Love, knowledge, clarity of mind, absence of desire—these four, only with him who fully possesses them, lies trust.",
+ "translation": "Trust should be placed only in that person who fully possesses these four qualities: love, knowledge, clarity of mind, and freedom from greed.",
+ "modern": "அன்பு, அறிவு, தெளிந்த சிந்தனை, பேராசை இல்லாமை ஆகிய இந்த நான்கையும் நன்றாகப் பெற்றிருப்பவனிடமே நம்பிக்கை வைக்க வேண்டும்.",
+ "explanation": "This couplet outlines the four essential qualities a leader must look for when choosing an officer. These are: affection (அன்பு) towards others, wisdom (அறிவு) to make right choices, clarity of mind (தேற்றம்) to act without doubt, and freedom from greed (அவாவின்மை) to prevent corruption. Only in a person who possesses all four of these virtues fully (நன்குடையான்) should one place absolute trust (தெளிவு). The word 'தேற்றம்' specifically denotes a clear, unwavering mind that is free from confusion, which is crucial for executive action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

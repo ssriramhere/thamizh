@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "மனைக்தக்க",
-     "lemma": "மனைத்தக்க",
-     "gloss": "worthy of the home"
+     "lemma": "மனைக்தக்க",
+     "gloss": "fitting for the household"
     }
    ],
-   "gloss": "worthy of the home"
+   "gloss": "fitting for the household",
+   "split_unverified": true
   },
   {
    "surface": "மாண்பு",
@@ -20,15 +21,20 @@
      "gloss": "excellence"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "virtue"
   },
   {
    "surface": "உடையள்",
    "parts": [
     {
-     "text": "உடையள்",
-     "lemma": "உடையள்",
-     "gloss": "she who possesses"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possess"
+    },
+    {
+     "text": "அள்",
+     "lemma": "அள்",
+     "gloss": "she"
     }
    ],
    "gloss": "she who possesses"
@@ -37,9 +43,14 @@
    "surface": "ஆகி",
    "parts": [
     {
-     "text": "ஆகி",
+     "text": "ஆகு",
      "lemma": "ஆகு",
-     "gloss": "having become"
+     "gloss": "become"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
     }
    ],
    "gloss": "having become"
@@ -49,22 +60,24 @@
    "parts": [
     {
      "text": "தற்",
-     "lemma": "தான்",
-     "gloss": "her own"
+     "lemma": "தற்",
+     "gloss": "her"
     }
    ],
-   "gloss": "her own"
+   "gloss": "her",
+   "split_unverified": true
   },
   {
    "surface": "கொண்டான்",
    "parts": [
     {
      "text": "கொண்டான்",
-     "lemma": "கொள்",
-     "gloss": "he who took"
+     "lemma": "கொண்டான்",
+     "gloss": "husband who married her"
     }
    ],
-   "gloss": "he who took"
+   "gloss": "husband who married her",
+   "split_unverified": true
   },
   {
    "surface": "வளத்தக்காள்",
@@ -72,10 +85,11 @@
     {
      "text": "வளத்தக்காள்",
      "lemma": "வளத்தக்காள்",
-     "gloss": "she who is suited to the wealth"
+     "gloss": "she who is suitable to the resources"
     }
    ],
-   "gloss": "she who is suited to the wealth"
+   "gloss": "she who is suitable to the resources",
+   "split_unverified": true
   },
   {
    "surface": "வாழ்க்கை",
@@ -86,7 +100,7 @@
      "gloss": "life"
     }
    ],
-   "gloss": "life"
+   "gloss": "domestic life"
   },
   {
    "surface": "துணை",
@@ -97,13 +111,13 @@
      "gloss": "companion"
     }
    ],
-   "gloss": "companion"
+   "gloss": "partner"
   }
  ],
- "literal": "Worthy of the home, excellence she who possesses having become, her own he who took's wealth she who is suited to, is life's companion.",
- "translation": "A true life companion is one who possesses the excellence worthy of family life and adapts herself to her husband's means.",
- "modern": "குடும்ப வாழ்விற்கு ஏற்ற நற்பண்புகளை உடையவளாகி, தன்னை மனைவியாக ஏற்ற கணவனின் வருவாய்க்கு ஏற்ப வாழ்பவளே சிறந்த வாழ்க்கைத்துணை ஆவாள்.",
- "explanation": "This couplet defines the ideal qualities of a life companion. The phrase 'மனைத்தக்க மாண்பு' refers to the moral excellence and virtues required to maintain a harmonious household. Furthermore, 'வளத்தக்காள்' emphasizes the practical wisdom of managing the home according to the husband's financial resources. Together, these traits of virtuous character and financial prudence make a spouse a true partner in life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "She who possesses virtues fitting for the home, and who lives within the resources of her husband who married her, is the companion of life.",
+ "translation": "She who possesses the virtues fitting for a home and lives within the means of her husband is the true partner in life.",
+ "modern": "இல்லறத்திற்கு ஏற்ற நற்பண்புகளை உடையவளாகி, தன்னை மணந்த கணவனுடைய வருவாய்க்கு ஏற்ப வாழ்பவளே வாழ்க்கைத் துணை ஆவாள்.",
+ "explanation": "This couplet defines the essential qualities of an ideal life partner. First, she must possess the noble virtues that are fitting for running a household smoothly. Second, she must manage domestic life wisely, keeping expenses in proportion to her husband's financial resources. A woman who combines domestic excellence with financial prudence is celebrated as the true companion of life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

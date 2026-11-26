@@ -6,20 +6,20 @@
     {
      "text": "உள்ளு",
      "lemma": "உள்ளு",
-     "gloss": "to think"
+     "gloss": "to think of"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "conditional suffix"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "concessive suffix 'even'"
     }
    ],
-   "gloss": "even if thought of"
+   "gloss": "even when thinking of"
   },
   {
    "surface": "தீரா",
@@ -47,7 +47,7 @@
     },
     {
      "text": "மகிழ்",
-     "lemma": "மகிழ்",
+     "lemma": "மகிழ்ச்சி",
      "gloss": "joy"
     }
    ],
@@ -59,7 +59,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "to make"
     },
     {
      "text": "தல்",
@@ -69,10 +69,10 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "because of"
+     "gloss": "causal suffix 'because of'"
     }
    ],
-   "gloss": "because of causing"
+   "gloss": "because of creating"
   },
   {
    "surface": "கள்ளினும்",
@@ -80,20 +80,20 @@
     {
      "text": "கள்",
      "lemma": "கள்",
-     "gloss": "toddy"
+     "gloss": "liquor"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "comparative suffix 'than'"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "intensive suffix"
     }
    ],
-   "gloss": "even more than toddy"
+   "gloss": "even more than liquor"
   },
   {
    "surface": "காமம்",
@@ -111,17 +111,17 @@
    "parts": [
     {
      "text": "இனிது",
-     "lemma": "இனிமை",
-     "gloss": "is sweet"
+     "lemma": "இனிது",
+     "gloss": "sweet"
     }
    ],
    "gloss": "is sweet"
   }
  ],
- "literal": "Even if thought of, unceasing great joy because of causing, even more than toddy, love is sweet.",
- "translation": "Love is sweeter than wine, for it brings great and unceasing joy even when merely thought of.",
- "modern": "நினைத்தாலே நீங்காத பெருமகிழ்ச்சியைத் தருவதால், காதலின் இன்பம் கள்ளை விட இனிமையானது.",
- "explanation": "This couplet compares the sweetness of love to that of intoxicating liquor. While liquor gives pleasure only when consumed, love brings great and unceasing joy ('தீராப் பெருமகிழ்') even when one merely thinks of the beloved ('உள்ளினும்'). Therefore, the speaker concludes that love is far sweeter than wine ('கள்ளினும் காமம் இனிது'). The contrast highlights the enduring and mental nature of romantic love compared to physical intoxication.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when thinking of, because it creates unceasing great joy, love is sweeter than liquor.",
+ "translation": "Because it yields an endless, great joy even when one merely thinks of it, love is sweeter than wine.",
+ "modern": "மனதால் நினைத்துப் பார்த்தாலும் நீங்காத பெருமகிழ்ச்சியைத் தருவதால், கள்ளைக் குடிப்பதை விடக் காமம் இனிமையானது.",
+ "explanation": "In this couplet, the pining lover compares the pleasure of love to the intoxication of liquor. While liquor only gives pleasure when it is physically consumed, love has the unique power to give immense, unceasing joy through mere memory and contemplation. The word 'uḷḷiṉum' (even when thinking) highlights that physical presence is not required to experience this bliss. Therefore, love is declared to be far sweeter and superior to liquor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

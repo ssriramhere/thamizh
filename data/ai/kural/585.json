@@ -6,10 +6,10 @@
     {
      "text": "கடாஅ",
      "lemma": "கடா",
-     "gloss": "unquestioned"
+     "gloss": "unquestioned or unsuspected"
     }
    ],
-   "gloss": "unquestioned"
+   "gloss": "with an unquestioned or unsuspected disguise"
   },
   {
    "surface": "உருவொடு",
@@ -33,18 +33,23 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eye or presence"
     }
    ],
-   "gloss": "eye"
+   "gloss": "eye or presence"
   },
   {
    "surface": "அஞ்சாது",
    "parts": [
     {
-     "text": "அஞ்சாது",
+     "text": "அஞ்சு",
      "lemma": "அஞ்சு",
-     "gloss": "without fearing"
+     "gloss": "to fear"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without"
     }
    ],
    "gloss": "without fearing"
@@ -53,12 +58,17 @@
    "surface": "யாண்டும்",
    "parts": [
     {
-     "text": "யாண்டும்",
-     "lemma": "யாண்டும்",
-     "gloss": "anywhere"
+     "text": "யாண்டு",
+     "lemma": "யாண்டு",
+     "gloss": "anywhere or anytime"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "always or completely"
     }
    ],
-   "gloss": "anywhere"
+   "gloss": "at any time or place"
   },
   {
    "surface": "உகாஅமை",
@@ -66,18 +76,18 @@
     {
      "text": "உகாஅமை",
      "lemma": "உகு",
-     "gloss": "not spilling"
+     "gloss": "not spilling or revealing"
     }
    ],
-   "gloss": "not revealing"
+   "gloss": "not revealing secrets"
   },
   {
    "surface": "வல்லதே",
    "parts": [
     {
      "text": "வல்லது",
-     "lemma": "வல்",
-     "gloss": "capable one"
+     "lemma": "வல்லது",
+     "gloss": "that which is capable"
     },
     {
      "text": "ஏ",
@@ -96,13 +106,13 @@
      "gloss": "spy"
     }
    ],
-   "gloss": "spy"
+   "gloss": "a spy"
   }
  ],
- "literal": "Unsuspected with appearance, without fearing the eye, anywhere not spilling is indeed capable spy.",
- "translation": "A true spy is one who assumes an unsuspected appearance, looks without fear, and never lets secrets slip anywhere.",
- "modern": "யாராலும் சந்தேகிக்கப்படாத உருவத்துடன், யாருடைய பார்வைக்கும் அஞ்சாமல், எவ்விடத்திலும் ரகசியங்களை வெளிப்படுத்தாமல் இருக்க வல்லவனே சிறந்த ஒற்றன் ஆவான்.",
- "explanation": "This couplet defines the essential qualities of a capable spy. The word 'கடாஅ' (unquestioned) combined with 'உருவொடு' (with an appearance) means the spy must adopt a disguise that arouses no suspicion. 'கண்ணஞ்சாது' indicates that they must not show fear in their eyes or shrink from the gaze of others. Finally, 'உகாஅமை' (not spilling) emphasizes their ability to keep secrets from leaking out, no matter where they are ('யாண்டும்'). Together, these traits make a spy truly effective.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With an unquestioned appearance, not fearing any eye, and never spilling secrets anywhere, is indeed a capable spy.",
+ "translation": "A capable spy is one who adopts a disguise that raises no suspicion, shows no fear when stared at, and never reveals secrets under any circumstances.",
+ "modern": "சந்தேகப்படாத தோற்றத்துடன், யாருடைய பார்வைக்கும் அஞ்சாமல், எவ்விடத்திலும் தன் ரகசியங்களை வெளிப்படுத்தாமல் இருக்க வல்லவனே ஒற்றன் ஆவான்.",
+ "explanation": "This couplet outlines the three core attributes of a successful spy. First, they must adopt an appearance or disguise ('கடாஅ உரு') that is so natural it raises no questions or suspicion. Second, even when subjected to intense scrutiny or confronted directly, their eyes must show no fear ('கண்ணஞ்சாது'). Finally, they must have the absolute self-control to never let slip ('உகாஅமை') any secrets or their true identity under any circumstances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

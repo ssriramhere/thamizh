@@ -6,15 +6,15 @@
     {
      "text": "குறிப்பு",
      "lemma": "குறிப்பு",
-     "gloss": "indication"
+     "gloss": "sign or hint"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "by"
+     "gloss": "through or by means of"
     }
    ],
-   "gloss": "by indication"
+   "gloss": "by a mere sign"
   },
   {
    "surface": "குறிப்பு",
@@ -22,10 +22,10 @@
     {
      "text": "குறிப்பு",
      "lemma": "குறிப்பு",
-     "gloss": "intention"
+     "gloss": "intention or thought"
     }
    ],
-   "gloss": "intention"
+   "gloss": "the inner intention"
   },
   {
    "surface": "உணர்வாரை",
@@ -33,25 +33,25 @@
     {
      "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "to understand"
+     "gloss": "perceive or understand"
     },
     {
      "text": "வ்",
      "lemma": "வ்",
-     "gloss": "future tense marker"
+     "gloss": "future/present tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they (pronominal suffix)"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who understand (acc.)"
+   "gloss": "those who understand"
   },
   {
    "surface": "உறுப்பினுள்",
@@ -59,20 +59,20 @@
     {
      "text": "உறுப்பு",
      "lemma": "உறுப்பு",
-     "gloss": "limb/possession"
+     "gloss": "limb or bodily organ"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "inflectional increment"
+     "gloss": "oblique marker"
     },
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "among or within"
     }
    ],
-   "gloss": "among limbs/possessions"
+   "gloss": "among one's own limbs"
   },
   {
    "surface": "யாது",
@@ -80,7 +80,7 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "whatever"
+     "gloss": "whichever or whatever"
     }
    ],
    "gloss": "whatever"
@@ -99,29 +99,24 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having given"
+   "gloss": "even giving"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
+     "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "to secure"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "optative suffix"
+     "gloss": "to secure or obtain"
     }
    ],
-   "gloss": "one should secure"
+   "gloss": "should be secured"
   }
  ],
- "literal": "By indication, intention those who understand, among limbs whatever even having given, one should secure.",
- "translation": "Secure the service of those who can read another's intention through mere indication, even if it means giving up any of your own limbs or possessions.",
- "modern": "ஒருவருடைய முகக் குறிப்பைக் கொண்டே அவருடைய உள்ளக் குறிப்பை அறியும் ஆற்றல் உடையவரை, தம்முடைய உறுப்புகளுள் எதைக் கொடுத்தாவது தமக்குத் துணையாகச் சேர்த்துக் கொள்ள வேண்டும்.",
- "explanation": "This couplet emphasizes the immense value of people who can read minds through subtle non-verbal cues. The phrase 'குறிப்பின் குறிப்பு உணர்வாரை' refers to those who can deduce another's hidden intention simply by observing their outward indications. To secure such a person's service, the text advises giving up 'உறுப்பினுள் யாது' (whatever among one's limbs or possessions). Here, 'உறுப்பு' can mean a physical limb or a vital part of one's wealth, serving as a hyperbole to show that no price is too high for such an advisor.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By a mere sign, the inner intention of another those who understand, among one's own limbs whatever even giving, one should secure them.",
+ "translation": "One should secure the companionship of those who can read another's mind by a mere sign, even if it means giving away any of one's own limbs to obtain them.",
+ "modern": "ஒரு குறிப்பைக் கொண்டே மற்றவரின் மனக்குறிப்பை உணர்ந்து கொள்ளும் ஆற்றல் உடையவர்களை, நம் உடலின் உறுப்புகளில் எதனைக் கொடுத்தாவது துணையாகப் பெற்றுக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet highlights the extraordinary value of advisors or companions who possess the intuitive ability to read thoughts. The phrase 'குறிப்பின் குறிப்பு உணர்வாரை' refers to those rare individuals who can perceive another person's hidden intentions ('குறிப்பு') simply by observing a subtle outward sign ('குறிப்பின்') like a facial expression or gesture. The poet uses a powerful hyperbole, stating that one should secure ('கொளல்') such people at any cost. Even if one has to part with any of one's own bodily organs ('உறுப்பினுள் யாது கொடுத்தும்'), the trade is worth it because an insightful companion is far more valuable than a physical limb.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

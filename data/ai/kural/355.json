@@ -6,7 +6,7 @@
     {
      "text": "எ",
      "lemma": "எ",
-     "gloss": "whatever"
+     "gloss": "whichever"
     },
     {
      "text": "பொருள்",
@@ -22,26 +22,36 @@
     {
      "text": "எ",
      "lemma": "எ",
-     "gloss": "whatever"
+     "gloss": "what"
     },
     {
-     "text": "தன்மைத்து",
+     "text": "தன்மை",
      "lemma": "தன்மை",
-     "gloss": "nature-it-has"
+     "gloss": "nature"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it"
     }
    ],
-   "gloss": "of whatever nature"
+   "gloss": "of whatever nature it may be"
   },
   {
    "surface": "ஆயினும்",
    "parts": [
     {
-     "text": "ஆயினும்",
-     "lemma": "ஆ",
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
      "gloss": "even if it is"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if it is"
+   "gloss": "even though it is"
   },
   {
    "surface": "அப்பொருள்",
@@ -57,7 +67,7 @@
      "gloss": "thing"
     }
    ],
-   "gloss": "of that thing"
+   "gloss": "that thing"
   },
   {
    "surface": "மெய்ப்பொருள்",
@@ -65,43 +75,58 @@
     {
      "text": "மெய்",
      "lemma": "மெய்",
-     "gloss": "true"
+     "gloss": "truth"
     },
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "substance"
+     "gloss": "thing"
     }
    ],
-   "gloss": "true substance"
+   "gloss": "the true essence"
   },
   {
    "surface": "காண்பது",
    "parts": [
     {
-     "text": "காண்பது",
+     "text": "காண்",
      "lemma": "காண்",
-     "gloss": "seeing"
+     "gloss": "to see"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
-   "gloss": "seeing"
+   "gloss": "discerning"
   },
   {
    "surface": "அறிவு",
    "parts": [
     {
-     "text": "அறிவு",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "wisdom"
+     "gloss": "to know"
+    },
+    {
+     "text": "வு",
+     "lemma": "வு",
+     "gloss": "suffix"
     }
    ],
    "gloss": "wisdom"
   }
  ],
- "literal": "Whatever thing, of whatever nature even if it is, of that thing the true substance seeing is wisdom.",
- "translation": "Whatever the thing may be and whatever its nature, wisdom is seeing the true substance of that thing.",
- "modern": "எந்தப் பொருள் எந்தத் தன்மையைக் கொண்டிருந்தாலும், அந்தப் பொருளின் உண்மையான தன்மையைக் காண்பதே மெய்யறிவாகும்.",
- "explanation": "This couplet defines true wisdom as the ability to see past the surface of things. The phrase 'epporul ettanmaittu ayinum' acknowledges that things in the world present themselves in countless forms and appearances. However, 'meypporul' refers to the underlying truth or reality of those things. True knowledge, therefore, is not distracted by outward characteristics but penetrates to the core reality of whatever it encounters.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Whatever thing, of whatever nature it may be, that thing's true essence to discern is wisdom.",
+ "translation": "To discern the true essence of any thing, whatever its apparent nature may be, is wisdom.",
+ "modern": "எந்த ஒரு பொருளும் எத்தகைய தன்மையைக் கொண்டதாக இருந்தாலும், அப்பொருளின் உண்மையான இயல்பைக் காண்பதே அறிவாகும்.",
+ "explanation": "This couplet defines true wisdom as the ability to look beyond superficial appearances to find the ultimate truth. Things in the world present themselves in various forms and natures, which can often be deceptive or temporary. True knowledge does not stop at these outward characteristics but penetrates to the core reality of the object. The word 'meypporuḷ' (true essence) contrasts with 'ettanmaittu' (whatever nature), emphasizing the difference between transient qualities and permanent truth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

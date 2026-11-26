@@ -6,10 +6,10 @@
     {
      "text": "ஆக்கம்",
      "lemma": "ஆக்கம்",
-     "gloss": "wealth"
+     "gloss": "prosperity"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "prosperity"
   },
   {
    "surface": "அதர்",
@@ -26,30 +26,20 @@
    "surface": "வினாய்",
    "parts": [
     {
-     "text": "வினா",
-     "lemma": "வினா",
-     "gloss": "to ask"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "adverbial participle suffix"
+     "text": "வினாய்",
+     "lemma": "வினவு",
+     "gloss": "having inquired"
     }
    ],
-   "gloss": "having asked"
+   "gloss": "having inquired"
   },
   {
    "surface": "செல்லும்",
    "parts": [
     {
-     "text": "செல்",
+     "text": "செல்லும்",
      "lemma": "செல்",
-     "gloss": "to go"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will go"
     }
    ],
    "gloss": "will go"
@@ -58,30 +48,20 @@
    "surface": "அசைவு",
    "parts": [
     {
-     "text": "அசை",
-     "lemma": "அசை",
-     "gloss": "to falter"
-    },
-    {
-     "text": "வு",
-     "lemma": "வு",
-     "gloss": "verbal noun suffix"
+     "text": "அசைவு",
+     "lemma": "அசைவு",
+     "gloss": "wavering"
     }
    ],
-   "gloss": "faltering"
+   "gloss": "wavering"
   },
   {
    "surface": "இலா",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இலா",
      "lemma": "இல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative relative participle suffix"
+     "gloss": "without"
     }
    ],
    "gloss": "without"
@@ -101,17 +81,12 @@
    "surface": "உடையான்",
    "parts": [
     {
-     "text": "உடை",
-     "lemma": "உடை",
-     "gloss": "to possess"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "masculine singular suffix"
+     "text": "உடையான்",
+     "lemma": "உடையான்",
+     "gloss": "he who has"
     }
    ],
-   "gloss": "he who possesses"
+   "gloss": "he who has"
   },
   {
    "surface": "உழை",
@@ -119,16 +94,16 @@
     {
      "text": "உழை",
      "lemma": "உழை",
-     "gloss": "near"
+     "gloss": "presence"
     }
    ],
-   "gloss": "to the place of"
+   "gloss": "presence"
   }
  ],
- "literal": "Wealth, path having asked, will go unfaltering energy he-who-possesses near.",
- "translation": "Wealth will ask the way and go to the person who possesses unfaltering energy.",
- "modern": "தளர்வில்லாத ஊக்கத்தை உடையவனிடம், செல்வமானது தானே வழிகேட்டுக் கொண்டு செல்லும்.",
- "explanation": "This couplet personifies wealth as a traveler seeking a specific destination. The phrase 'அதர் வினாய்' means asking for the path, showing that prosperity actively searches for the right person. That person is described as having 'அசைவு இலா ஊக்கம்', which is energy or enthusiasm that never falters. Ultimately, it means that a tirelessly motivated person does not need to chase wealth, because wealth will find its way to them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Prosperity, inquiring the path, will go to the presence of him who has wavering-less energy.",
+ "translation": "Prosperity will ask for the way and go on its own to the presence of one who possesses unwavering energy.",
+ "modern": "தளர்ச்சி இல்லாத ஊக்கத்தை உடையவனிடம், செல்வமானது தானே வழியைக் கேட்டுக்கொண்டு போய்ச் சேரும்.",
+ "explanation": "This couplet emphasizes the magnetic power of persistent, unwavering energy (ūkkam). Instead of a person having to struggle and search for wealth, the poet personifies prosperity (ākkam) as an active seeker. Prosperity itself will ask for directions ('atar viṉāy') to find the path that leads directly to the side ('uḻai') of the person who never wavers or gives up ('acaivilā'). The word 'acaivu' here refers to slackness, hesitation, or discouragement, making 'acaivilā' the quality of being steadfast and resolute.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

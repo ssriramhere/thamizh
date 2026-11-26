@@ -11,7 +11,7 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "when"
     }
    ],
    "gloss": "when seeing"
@@ -36,7 +36,7 @@
      "gloss": "fault"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults"
   },
   {
    "surface": "ஆய",
@@ -44,10 +44,10 @@
     {
      "text": "ஆய",
      "lemma": "ஆகு",
-     "gloss": "that became"
+     "gloss": "which are"
     }
    ],
-   "gloss": "that are"
+   "gloss": "which are"
   },
   {
    "surface": "காணாக்கால்",
@@ -60,7 +60,7 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "time"
+     "gloss": "when"
     }
    ],
    "gloss": "when not seeing"
@@ -85,7 +85,7 @@
      "gloss": "fault"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults"
   },
   {
    "surface": "அல்லவை",
@@ -93,16 +93,16 @@
     {
      "text": "அல்லவை",
      "lemma": "அல்",
-     "gloss": "things that are not"
+     "gloss": "those that are not"
     }
    ],
-   "gloss": "things other than"
+   "gloss": "those that are not"
   }
  ],
- "literal": "When seeing, I see not faults that are; when not seeing, I see not things other than fault.",
- "translation": "When I see him, I cannot see any of his faults. When I do not see him, I cannot see anything but his faults.",
- "modern": "அவரை நேரில் காணும்போது அவருடைய தவறுகள் எதையும் நான் காண்பதில்லை. அவரைக் காணாதபோதோ அவருடைய தவறுகளைத் தவிர வேறு எதையும் நான் காண்பதில்லை.",
- "explanation": "The speaker describes the overwhelming nature of her affection and longing. When her lover is present, her joy blinds her to any of his flaws, making him appear perfect. However, when he is away, the pain of separation makes her dwell entirely on his faults, such as his failure to return. The sharp contrast between 'when seeing' (காணுங்கால்) and 'when not seeing' (காணாக்கால்) highlights how her perception is completely dictated by his presence or absence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When seeing, I do not see faults that are; when not seeing, I do not see other than faults.",
+ "translation": "When I look at my lover, I do not see any of his faults; but when I do not see him, I see nothing but his faults.",
+ "modern": "நான் என் காதலரைப் பார்க்கும்போது அவருடைய தவறுகளைக் காண்பதில்லை; அவரைப் பார்க்காதபோதோ, அவருடைய தவறுகளைத் தவிர வேறு எதையும் காண்பதில்லை.",
+ "explanation": "This couplet beautifully captures the psychological state of a longing heroine. When she is in the presence of her lover, her immense love blinds her to all his flaws, and she sees him as perfect. However, when he is away, her longing and grievance make her dwell only on his mistakes, and she cannot recall any of his good qualities. The contrast between 'seeing' and 'not seeing' highlights how love alters perception based on presence and absence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

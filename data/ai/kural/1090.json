@@ -11,18 +11,18 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at/with"
+     "gloss": "locative suffix (in/with)"
     }
    ],
-   "gloss": "with those who drank"
+   "gloss": "in those who drank"
   },
   {
    "surface": "அல்லது",
    "parts": [
     {
      "text": "அல்லது",
-     "lemma": "அல்",
-     "gloss": "except"
+     "lemma": "அல்லது",
+     "gloss": "except / other than"
     }
    ],
    "gloss": "except"
@@ -33,12 +33,12 @@
     {
      "text": "அடு",
      "lemma": "அடு",
-     "gloss": "brewed"
+     "gloss": "brewed / distilled"
     },
     {
      "text": "நறா",
      "lemma": "நறா",
-     "gloss": "liquor"
+     "gloss": "liquor / toddy"
     }
    ],
    "gloss": "brewed liquor"
@@ -49,7 +49,7 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "love"
+     "gloss": "love / passion"
     }
    ],
    "gloss": "love"
@@ -82,7 +82,7 @@
     {
      "text": "மகிழ்",
      "lemma": "மகிழ்",
-     "gloss": "joy"
+     "gloss": "joy / intoxication"
     }
    ],
    "gloss": "joy"
@@ -91,14 +91,9 @@
    "surface": "செய்தல்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்தல்",
      "lemma": "செய்",
-     "gloss": "doing"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "making / causing"
     }
    ],
    "gloss": "causing"
@@ -108,17 +103,17 @@
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இன்று",
+     "gloss": "is not / does not have"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not do"
   }
  ],
- "literal": "With those who drank except, brewed liquor, love like, those who saw joy causing is not.",
- "translation": "Brewed liquor brings joy only to those who drink it. Unlike love, it cannot intoxicate those who merely look at it.",
- "modern": "காய்ச்சப்பட்ட மது தன்னை உண்டவர்களுக்கு மட்டுமே மகிழ்ச்சி தரும். ஆனால் காதல், மதுவைப் போலன்றி, பார்த்த அளவிலேயே மகிழ்ச்சியைத் தரக்கூடியது.",
- "explanation": "This couplet contrasts the intoxicating effects of liquor with the power of love. The phrase 'அடுநறா' refers to strong, brewed liquor, which only affects the person who actually consumes it. Love, however, is far more potent. Unlike liquor, love can intoxicate and bring immense joy to a person just by the mere sight of the beloved.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Except in those who drank, brewed liquor, like love, to those who see, causing joy, does not do.",
+ "translation": "Brewed liquor does not, like love, cause delight to those who merely look at it; it only intoxicates those who actually drink it.",
+ "modern": "காய்ச்சிய மதுவானது, காமத்தைப் போலத் தன்னை வெறும் கண்ணால் பார்த்தவர்களுக்கெல்லாம் மகிழ்ச்சியைத் தருவதில்லை; குடித்தவர்களுக்கு மட்டுமே அது மகிழ்ச்சியைத் தரும்.",
+ "explanation": "This couplet compares the intoxicating power of brewed liquor (அடுநறா) with that of love (காமம்). Liquor is limited because it can only bring pleasure and intoxication to those who physically consume it. Love, however, is far more powerful as it brings instant joy and intoxication to those who merely look upon their beloved. Through this comparison, the poet highlights how the sight of the beloved alone is enough to induce a state of blissful intoxication.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

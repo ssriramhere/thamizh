@@ -6,10 +6,10 @@
     {
      "text": "தீ",
      "lemma": "தீ",
-     "gloss": "fire"
+     "gloss": "digestive fire"
     }
    ],
-   "gloss": "fire (digestive)"
+   "gloss": "digestive fire"
   },
   {
    "surface": "அளவு",
@@ -28,26 +28,21 @@
     {
      "text": "அன்றி",
      "lemma": "அன்றி",
-     "gloss": "without"
+     "gloss": "disregarding"
     }
    ],
-   "gloss": "without"
+   "gloss": "disregarding"
   },
   {
    "surface": "தெரியான்",
    "parts": [
     {
-     "text": "தெரி",
+     "text": "தெரியான்",
      "lemma": "தெரி",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "one who does not discern"
     }
    ],
-   "gloss": "he who knows not"
+   "gloss": "without discerning"
   },
   {
    "surface": "பெரிது",
@@ -66,15 +61,15 @@
     {
      "text": "உண்",
      "lemma": "உண்",
-     "gloss": "to eat"
+     "gloss": "eat"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "if"
     }
    ],
-   "gloss": "if eats"
+   "gloss": "if one eats"
   },
   {
    "surface": "நோய்",
@@ -113,23 +108,18 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to happen"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will arise"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "will arise"
   }
  ],
- "literal": "Fire measure without, he who knows not, excessively if eats, disease measure without will happen.",
- "translation": "If one who does not know the measure of his digestive fire eats excessively, diseases will afflict him without measure.",
- "modern": "ஒருவன் தன் பசியின் அளவை அறியாமல் அதிகமாக உண்டால், அவனுக்கு நோய்கள் அளவில்லாமல் ஏற்படும்.",
- "explanation": "This couplet uses the word 'fire' (தீ) to represent hunger and the body's digestive power. It warns that a person must understand the limits of their digestion before consuming food. If one ignores this limit and eats excessively, the resulting diseases will also multiply without any limit. The parallel between eating beyond measure and suffering diseases beyond measure emphasizes the direct consequence of gluttony.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one, disregarding the measure of their digestive fire, without discerning, eats excessively, disease will arise without limit.",
+ "translation": "If a person eats excessively without discerning and disregarding the measure of their digestive fire, diseases will arise without limit.",
+ "modern": "தன் பசித் தீயின் அளவை ஆராய்ந்து அறியாமல், ஒருவன் மிகுதியாக உண்டால், அவனுக்கு நோய்கள் எல்லையின்றி உண்டாகும்.",
+ "explanation": "This couplet emphasizes the importance of eating according to one's digestive capacity, referred to metaphorically as 'tī' (fire). The word 'teriyāṉ' refers to a person who does not analyze or understand this capacity. When such a person eats excessively ('perituṇṇiṉ'), ignoring the limits of their digestive fire, it leads to severe consequences. The result is that diseases ('nōy') will arise in them without any limit ('aḷaviṉṟi'). Thus, moderation based on personal digestive strength is key to preventing endless illnesses.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

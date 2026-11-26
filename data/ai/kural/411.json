@@ -4,9 +4,14 @@
    "surface": "செல்வத்துள்",
    "parts": [
     {
-     "text": "செல்வத்துள்",
+     "text": "செல்வத்து",
      "lemma": "செல்வம்",
-     "gloss": "among wealth"
+     "gloss": "wealth (oblique form)"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "among"
     }
    ],
    "gloss": "among wealth"
@@ -36,7 +41,7 @@
      "gloss": "wealth"
     }
    ],
-   "gloss": "ear-wealth"
+   "gloss": "the wealth of the ear (gained by listening)"
   },
   {
    "surface": "அச்செல்வம்",
@@ -58,9 +63,14 @@
    "surface": "செல்வத்துள்",
    "parts": [
     {
-     "text": "செல்வத்துள்",
+     "text": "செல்வத்து",
      "lemma": "செல்வம்",
-     "gloss": "among wealth"
+     "gloss": "wealth (oblique form)"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "among"
     }
    ],
    "gloss": "among wealth"
@@ -82,16 +92,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "foremost / supreme"
     }
    ],
-   "gloss": "head"
+   "gloss": "foremost / supreme"
   }
  ],
- "literal": "Among wealth, wealth is ear-wealth; that wealth among wealth all is head.",
- "translation": "The finest wealth among all wealth is the wealth of hearing. That wealth is the chief of all riches.",
- "modern": "செல்வங்களில் சிறந்த செல்வம் செவியால் கேட்டுப் பெறும் செல்வமே ஆகும். அந்தச் செல்வம் மற்ற எல்லாச் செல்வங்களிலும் முதன்மையானதாகும்.",
- "explanation": "This couplet emphasizes the supreme value of listening and learning. It calls the knowledge gained through the ear the greatest of all riches. While material wealth can be lost or stolen, the wealth of hearing remains secure and enriches the mind. Therefore, it stands as the head or chief among all types of wealth a person can possess.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among wealth, the wealth is the wealth of the ear; that wealth, among all wealth, is supreme.",
+ "translation": "The wealth of the ear, gained by listening to the wise, is the greatest of all wealth; that wealth is supreme among every other kind of treasure.",
+ "modern": "செல்வங்களுள் சிறந்த செல்வம் காதால் கேட்டுப் பெறும் செல்வமே ஆகும்; அந்தச் செல்வம் மற்ற எல்லாச் செல்வங்களுள்ளும் முதன்மையானதாகும்.",
+ "explanation": "This couplet introduces the chapter on listening (hearing) by elevating it above all material possessions. The compound 'செவிச்செல்வம்' (wealth of the ear) refers to the wisdom and knowledge acquired by listening to learned people. The poet repeats the word 'செல்வம்' (wealth) multiple times to emphasize that listening is not merely a sensory act but the most valuable asset a person can acquire. Among all forms of worldly riches, this intellectual wealth is declared to be 'தலை' (supreme or foremost) because it cannot be stolen and guides one's life safely.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

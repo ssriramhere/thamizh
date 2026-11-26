@@ -4,9 +4,14 @@
    "surface": "வேண்டற்க",
    "parts": [
     {
-     "text": "வேண்டற்க",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "do not desire"
+     "gloss": "desire"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "negative optative suffix (do not)"
     }
    ],
    "gloss": "do not desire"
@@ -15,12 +20,17 @@
    "surface": "வெஃகி",
    "parts": [
     {
-     "text": "வெஃகி",
+     "text": "வெஃகு",
      "lemma": "வெஃகு",
-     "gloss": "having coveted"
+     "gloss": "covet"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past participle suffix"
     }
    ],
-   "gloss": "having coveted"
+   "gloss": "by coveting"
   },
   {
    "surface": "ஆம்",
@@ -28,10 +38,10 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "becoming"
+     "gloss": "that is obtained"
     }
    ],
-   "gloss": "becoming"
+   "gloss": "that is obtained"
   },
   {
    "surface": "ஆக்கம்",
@@ -48,34 +58,44 @@
    "surface": "விளைவயின்",
    "parts": [
     {
-     "text": "விளைவயின்",
-     "lemma": "விளைவு",
-     "gloss": "at the time of yielding"
+     "text": "விளை",
+     "lemma": "விளை",
+     "gloss": "to result"
+    },
+    {
+     "text": "வயின்",
+     "lemma": "வயின்",
+     "gloss": "at the time of"
     }
    ],
-   "gloss": "at the time of yielding"
+   "gloss": "at the time of yielding results"
   },
   {
    "surface": "மாண்டற்கு",
    "parts": [
     {
-     "text": "மாண்டற்கு",
+     "text": "மாண்டல்",
      "lemma": "மாண்பு",
-     "gloss": "for greatness"
+     "gloss": "being excellent"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative suffix (for)"
     }
    ],
-   "gloss": "for greatness"
+   "gloss": "for being excellent"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "difficult"
+     "lemma": "அரிது",
+     "gloss": "rare"
     }
    ],
-   "gloss": "difficult"
+   "gloss": "is rare"
   },
   {
    "surface": "ஆம்",
@@ -94,16 +114,16 @@
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "result"
+     "gloss": "fruit"
     }
    ],
-   "gloss": "result"
+   "gloss": "the fruit"
   }
  ],
- "literal": "Do not desire wealth becoming yours by having coveted; at the time of yielding, difficult for greatness will be the result.",
- "translation": "Do not desire the wealth that comes from coveting the property of others. When it finally yields its result, that fruit will be entirely devoid of greatness.",
- "modern": "பிறர் பொருளை விரும்பிப் பெறும் செல்வத்தை ஒருவன் விரும்பக் கூடாது. அச்செல்வம் பயன் தரும் காலத்தில், அப்பயன் நன்மையைத் தருவது அரிதாகிவிடும்.",
- "explanation": "The couplet warns against desiring wealth acquired through coveting what belongs to others. Although such wealth might seem like a gain initially, the word 'விளைவயின்' (at the time of yielding) points to its ultimate consequences. When the time comes to reap the fruits of that ill-gotten wealth, the result ('பயன்') will be entirely devoid of greatness or true benefit ('மாண்டற்கு அரிதாம்'). Thus, the initial desire for wrongful accumulation leads only to a worthless and harmful end.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not desire coveting-obtained wealth; at the time of yielding results, for being excellent rare will be the fruit.",
+ "translation": "Do not desire the wealth acquired by coveting others' goods; for when it yields its final results, its fruit will be devoid of any goodness.",
+ "modern": "பிறர் பொருளைக் கவர்ந்து பெறும் செல்வத்தை விரும்பாதீர்; அது தன் பயனைத் தரும் போது, அதன் விளைவு நன்மையாக இருக்காது.",
+ "explanation": "This couplet warns against seeking wealth through covetousness. The phrase 'வெஃகி ஆம் ஆக்கம்' refers to wealth acquired by desiring and taking what belongs to others. Although such wealth might seem beneficial at first, the poet warns that 'விளைவயின்' (at the time of yielding its ultimate consequences), the actual benefit or 'பயன்' will be 'மாண்டற்கு அரிது' (extremely rare to have any goodness or dignity). In short, ill-gotten gains bring only ruin and misery in the end.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,23 +9,18 @@
      "gloss": "goodness"
     }
    ],
-   "gloss": "goodness"
+   "gloss": "goodness or moral excellence"
   },
   {
    "surface": "வேண்டின்",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டின்",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one desires"
     }
    ],
-   "gloss": "if desiring"
+   "gloss": "if one desires"
   },
   {
    "surface": "நாண்",
@@ -33,10 +28,10 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "modesty"
+     "gloss": "sense of shame"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "sense of shame or modesty"
   },
   {
    "surface": "உடைமை",
@@ -47,23 +42,18 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possessing"
+   "gloss": "possession"
   },
   {
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "to be necessary"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "suffix"
+     "gloss": "is required"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is required"
   },
   {
    "surface": "குலம்",
@@ -71,63 +61,48 @@
     {
      "text": "குலம்",
      "lemma": "குலம்",
-     "gloss": "lineage"
+     "gloss": "noble lineage"
     }
    ],
-   "gloss": "lineage"
+   "gloss": "noble lineage"
   },
   {
    "surface": "வேண்டின்",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டின்",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one desires"
     }
    ],
-   "gloss": "if desiring"
+   "gloss": "if one desires"
   },
   {
    "surface": "வேண்டுக",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டுக",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "let"
+     "gloss": "let one desire"
     }
    ],
-   "gloss": "let desire"
+   "gloss": "let one desire or practice"
   },
   {
    "surface": "யார்க்கும்",
    "parts": [
     {
-     "text": "யார்",
+     "text": "யார்க்கு",
      "lemma": "யார்",
-     "gloss": "who"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to anyone"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "all"
+     "gloss": "even"
     }
    ],
-   "gloss": "to everyone"
+   "gloss": "towards everyone"
   },
   {
    "surface": "பணிவு",
@@ -141,10 +116,10 @@
    "gloss": "humility"
   }
  ],
- "literal": "Goodness if desiring, modesty possessing is needed; lineage if desiring, let desire to everyone humility.",
- "translation": "If you desire goodness, you must possess a sense of shame; if you desire family greatness, you must seek humility toward all.",
- "modern": "ஒருவன் தனக்கு நன்மையை விரும்பினால் பழிக்கு நாணும் பண்பை உடையவனாக இருக்க வேண்டும்; தன் குடியின் பெருமையை நிலைநிறுத்த விரும்பினால் எல்லாரிடமும் பணிவாக நடந்துகொள்ள வேண்டும்.",
- "explanation": "This couplet outlines the essential qualities needed for personal and familial greatness. If one desires 'நலம்' (personal goodness or virtue), they must possess 'நாண்' (a sense of shame that makes one shrink from evil). If one desires to uphold 'குலம்' (noble lineage or family honor), they must practice 'பணிவு' (humility). The phrase 'யார்க்கும் பணிவு' stresses that this humility should be extended to everyone, showing that true nobility is grounded in universal respect rather than pride.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If goodness is desired, possession of shame is required; if noble lineage is desired, let one desire humility towards everyone.",
+ "translation": "If one desires moral excellence, one must possess a sense of shame; if one desires to preserve a noble lineage, one must practice humility towards everyone.",
+ "modern": "ஒருவர் தனக்கு நன்மையை விரும்பினால் நாணத்தைக் கொண்டிருக்க வேண்டும்; தன் குலத்தின் பெருமையை விரும்பினால் எல்லாரிடமும் பணிவைக் கொண்டிருக்க வேண்டும்.",
+ "explanation": "This couplet explains the essential qualities needed for personal virtue and family honor. To achieve moral goodness (நலம்), a person must have a sense of shame (நாண்) that holds them back from doing wrong. To maintain the dignity of a noble lineage (குலம்), one must cultivate humility (பணிவு) towards all people. True nobility is thus defined not by pride or birth, but by the practice of modesty and respectful humility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

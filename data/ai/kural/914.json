@@ -6,10 +6,10 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "wealth"
+     "gloss": "substance/true value"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "true value"
   },
   {
    "surface": "பொருளார்",
@@ -17,15 +17,15 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "object/goal"
+     "gloss": "value/esteem"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they (who have)"
+     "gloss": "they who (personal suffix)"
     }
    ],
-   "gloss": "those who have as their goal"
+   "gloss": "those who value"
   },
   {
    "surface": "புன்னலம்",
@@ -33,10 +33,11 @@
     {
      "text": "புன்னலம்",
      "lemma": "புன்னலம்",
-     "gloss": "base charm"
+     "gloss": "mean pleasure"
     }
    ],
-   "gloss": "base charm"
+   "gloss": "mean pleasure",
+   "split_unverified": true
   },
   {
    "surface": "தோயார்",
@@ -44,12 +45,12 @@
     {
      "text": "தோய்",
      "lemma": "தோய்",
-     "gloss": "to touch/embrace"
+     "gloss": "touch/embrace"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they will not"
+     "gloss": "they will not (negative suffix)"
     }
    ],
    "gloss": "will not embrace"
@@ -60,7 +61,7 @@
     {
      "text": "அருள்",
      "lemma": "அருள்",
-     "gloss": "grace"
+     "gloss": "grace/compassion"
     }
    ],
    "gloss": "grace"
@@ -71,7 +72,7 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "wealth"
+     "gloss": "wealth/value"
     }
    ],
    "gloss": "wealth"
@@ -82,15 +83,15 @@
     {
      "text": "ஆய்",
      "lemma": "ஆய்",
-     "gloss": "to examine/seek"
+     "gloss": "examine/seek"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "who (adjectival suffix)"
     }
    ],
-   "gloss": "seeking"
+   "gloss": "who seek"
   },
   {
    "surface": "அறிவினவர்",
@@ -103,21 +104,21 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "of (oblique suffix)"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who possess"
     }
    ],
    "gloss": "those of wisdom"
   }
  ],
- "literal": "Wealth as their goal those who have, their base charm will not embrace, grace as wealth seeking those of wisdom.",
- "translation": "The wise who seek the higher wealth of grace will not embrace the base charms of women who care only for material wealth.",
- "modern": "அருளாகிய செல்வத்தை நாடும் அறிஞர்கள், பணத்தையே குறியாகக் கொண்ட விலைமகளிரின் அற்பமான இன்பத்தைத் தீண்ட மாட்டார்கள்.",
- "explanation": "This couplet contrasts two types of wealth: material money and spiritual grace. Women who sell their affection care only for material wealth, offering a base and meaningless physical charm in return. Men of true wisdom, who seek the higher wealth of grace and compassion, recognize this emptiness and will never touch such superficial pleasures.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who value the true substance will not embrace the mean pleasure, [as do] those of wisdom who seek the wealth of grace.",
+ "translation": "Those who value the true substance of life and those of wisdom who seek the wealth of grace will never embrace the mean pleasure of prostitutes.",
+ "modern": "உண்மையான நற்பண்புகளை மதிப்போரும், அருளாகிய உயர்ந்த செல்வத்தை ஆராயும் அறிவுடையோரும், விலைமகளிரின் இழிவான இன்பத்தைப் பொருந்த மாட்டார்கள்.",
+ "explanation": "This couplet explains that individuals with true wisdom and moral clarity will not fall for the mercenary affection of prostitutes. The poet uses the term 'punnalam' (mean or worthless pleasure) to describe the superficial intimacy bought with money, which lacks genuine love. Those who value 'poruḷ' (the true substance or virtue of life) and those who seek 'aruṭporuḷ' (the wealth of grace) possess a refined understanding that naturally guards them against such degrading traps. True intellectual and spiritual maturity elevates a person above base, commercialized lust.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

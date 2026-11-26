@@ -6,7 +6,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "goodness"
+     "gloss": "noble character"
     },
     {
      "text": "உடையார்",
@@ -14,7 +14,7 @@
      "gloss": "those who possess"
     }
    ],
-   "gloss": "those who possess goodness"
+   "gloss": "those who possess noble character"
   },
   {
    "surface": "பட்டு",
@@ -32,7 +32,7 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உள்",
+     "lemma": "உண்டு",
      "gloss": "exists"
     }
    ],
@@ -44,10 +44,10 @@
     {
      "text": "உலகம்",
      "lemma": "உலகம்",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "அது",
@@ -65,7 +65,7 @@
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
+     "lemma": "இன்று",
      "gloss": "without"
     },
     {
@@ -74,7 +74,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if not"
+   "gloss": "if that is not there"
   },
   {
    "surface": "மண்",
@@ -104,20 +104,15 @@
     {
      "text": "மாய்",
      "lemma": "மாய்",
-     "gloss": "to perish"
+     "gloss": "perish"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "that which does"
     }
    ],
-   "gloss": "it will perish"
+   "gloss": "would perish"
   },
   {
    "surface": "மன்",
@@ -125,16 +120,16 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "surely"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "surely"
   }
  ],
- "literal": "Resting upon those who possess goodness, the world exists; if that is not so, having entered the earth, it will perish indeed.",
- "translation": "The world endures because it rests upon people of noble character. If it did not, it would crumble into the dust and perish.",
- "modern": "பண்புடைய மனிதர்களைப் பொருத்தே இவ்வுலகம் நிலைபெற்று இயங்குகிறது. அந்தப் பண்பு மட்டும் இல்லாவிட்டால், உலகம் மண்ணுக்குள் புதைந்து அழிந்துவிடும்.",
- "explanation": "This couplet emphasizes that the survival and functioning of the world depend entirely on people of noble character. The word 'பட்டு' indicates that the world's existence rests upon or is anchored by these good individuals. Without their sustaining virtue, the text vividly states that the world would simply sink into the dirt and cease to exist. The particle 'மன்' at the end adds a tone of absolute certainty to this inevitable ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Because of those who possess noble character, the world exists; if that is not there, entering the earth, it would surely perish.",
+ "translation": "The world continues to exist because it rests upon those who possess noble character; if not for them, it would sink into the dust and perish.",
+ "modern": "நற்பண்பு உடையவர்களால் தான் இந்த உலகம் இயங்கிக் கொண்டிருக்கிறது; அது இல்லாவிட்டால், இவ்வுலகம் மண்ணுக்குள் புகுந்து அழிந்துபோகும்.",
+ "explanation": "This couplet highlights how essential virtuous and courteous people are to the survival of human society. The word 'pattu' here means 'resting upon' or 'sustained by', indicating that the orderly existence of the world depends entirely on the presence of those with noble character. If such character ('atu') is absent, the poet warns that the world would 'pukku' (enter) the 'man' (earth/dust) and 'mayvatu' (perish). The emphatic particle 'man' underscores the absolute certainty of this social collapse and ruin in the absence of goodness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -39,10 +39,10 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "disgrace"
+     "gloss": "blame"
     }
    ],
-   "gloss": "disgrace"
+   "gloss": "blame"
   },
   {
    "surface": "என",
@@ -50,10 +50,10 @@
     {
      "text": "என",
      "lemma": "என்",
-     "gloss": "say-INF"
+     "gloss": "called"
     }
    ],
-   "gloss": "thus"
+   "gloss": "called"
   },
   {
    "surface": "நான்கும்",
@@ -76,8 +76,8 @@
    "parts": [
     {
      "text": "இகவா",
-     "lemma": "இக",
-     "gloss": "depart-NEG.3PN"
+     "lemma": "இகத்தல்",
+     "gloss": "will not depart"
     }
    ],
    "gloss": "will not depart"
@@ -87,8 +87,8 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "become-FUT.3SN"
+     "lemma": "ஆதல்",
+     "gloss": "indeed"
     }
    ],
    "gloss": "indeed"
@@ -99,18 +99,18 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     }
    ],
-   "gloss": "house"
+   "gloss": "home"
   },
   {
    "surface": "இறப்பான்",
    "parts": [
     {
      "text": "இறப்பான்",
-     "lemma": "இற",
-     "gloss": "transgress-FUT.3SM"
+     "lemma": "இறத்தல்",
+     "gloss": "he who transgresses"
     }
    ],
    "gloss": "he who transgresses"
@@ -121,16 +121,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative"
+     "gloss": "with"
     }
    ],
    "gloss": "with"
   }
  ],
- "literal": "Enmity, sin, fear, disgrace, thus all four, depart-not indeed, house transgressor with.",
- "translation": "Enmity, sin, fear, and disgrace—these four will never depart from the man who transgresses into another's home.",
- "modern": "பகை, பாவம், அச்சம், பழி ஆகிய இந்த நான்கு தீமைகளும் பிறன் மனைவியிடம் வரம்பு மீறிச் செல்பவனை விட்டு ஒருபோதும் நீங்காது.",
- "explanation": "This couplet outlines the inevitable consequences of coveting another man's wife, symbolized by crossing the threshold of his house ('இல் இறப்பான்'). The poet lists four distinct burdens: enmity from the aggrieved family, moral sin, constant fear of discovery, and public disgrace. The phrase 'இகவாவாம்' emphasizes that these four destructive forces will permanently attach themselves to the transgressor and never leave him.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Enmity, sin, fear, and blame—these four indeed will not depart from him who transgresses another's home.",
+ "translation": "Enmity, sin, fear, and disgrace—these four things will never leave the man who trespasses into another's home.",
+ "modern": "பிறனுடைய இல்லற எல்லையைக் கடந்து தவறு செய்பவனிடமிருந்து பகை, பாவம், அச்சம், பழி ஆகிய நான்கு குணங்களும் நீங்கவே மாட்டா.",
+ "explanation": "This couplet outlines the severe consequences of violating the sanctity of another person's home. The poet uses the compound 'ill-iṟappāṉ' to describe one who transgresses or trespasses into another's household. Such a person is permanently accompanied by four evils: enmity from others, the spiritual burden of sin, constant fear of discovery, and public disgrace. The word 'ikavā' emphasizes that these four consequences are inseparable and will never leave the wrongdoer.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

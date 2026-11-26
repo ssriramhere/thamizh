@@ -4,12 +4,17 @@
    "surface": "வியவற்க",
    "parts": [
     {
-     "text": "வியவற்க",
+     "text": "விய",
      "lemma": "விய",
-     "gloss": "let not praise"
+     "gloss": "admire"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அல்",
+     "gloss": "do not"
     }
    ],
-   "gloss": "let not praise"
+   "gloss": "do not admire"
   },
   {
    "surface": "எஞ்ஞான்றும்",
@@ -20,29 +25,36 @@
      "gloss": "at any time"
     }
    ],
-   "gloss": "at any time"
+   "gloss": "at any time",
+   "split_unverified": true
   },
   {
    "surface": "தன்னை",
    "parts": [
     {
      "text": "தன்னை",
-     "lemma": "தான்",
+     "lemma": "தன்னை",
      "gloss": "oneself"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "oneself",
+   "split_unverified": true
   },
   {
    "surface": "நயவற்க",
    "parts": [
     {
-     "text": "நயவற்க",
+     "text": "நய",
      "lemma": "நய",
-     "gloss": "let not desire"
+     "gloss": "desire"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அல்",
+     "gloss": "do not"
     }
    ],
-   "gloss": "let not desire"
+   "gloss": "do not desire"
   },
   {
    "surface": "நன்றி",
@@ -50,21 +62,26 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "good"
+     "gloss": "goodness"
     }
    ],
-   "gloss": "good"
+   "gloss": "goodness"
   },
   {
    "surface": "பயவா",
    "parts": [
     {
-     "text": "பயவா",
+     "text": "பய",
      "lemma": "பய",
-     "gloss": "not yielding"
+     "gloss": "yield"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not (negative relative participle suffix)"
     }
    ],
-   "gloss": "not yielding"
+   "gloss": "that does not yield"
   },
   {
    "surface": "வினை",
@@ -78,10 +95,10 @@
    "gloss": "action"
   }
  ],
- "literal": "Let not praise at any time oneself; let not desire good not yielding action.",
- "translation": "Never praise yourself at any time, and never desire to do deeds that yield no good.",
- "modern": "எந்தக் காலத்திலும் தன்னைத் தானே புகழ்ந்து கொள்ளக் கூடாது; நன்மை தராத செயல்களைச் செய்ய விரும்பவும் கூடாது.",
- "explanation": "This couplet advises against two major faults: self-praise and engaging in useless deeds. The word 'வியவற்க' means 'do not marvel at or praise', warning a person never to boast about themselves ('தன்னை') at any time ('எஞ்ஞான்றும்'). Furthermore, 'நயவற்க' means 'do not desire', instructing them to avoid any action ('வினை') that does not yield ('பயவா') a good outcome ('நன்றி'). By avoiding arrogance and fruitless actions, one maintains clear judgment and effectiveness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not admire at any time oneself; do not desire goodness-not-yielding action.",
+ "translation": "Never indulge in self-admiration, and never desire to perform actions that do not yield any good.",
+ "modern": "எக்காலத்திலும் தன்னைத்தானே வியந்து பாராட்டக் கூடாது; நன்மையைத் தராத செயல்களைச் செய்ய விரும்பக் கூடாது.",
+ "explanation": "This couplet warns against two major self-destructive tendencies: vanity and unproductive action. The word 'வியவற்க' commands us not to praise or be conceited about ourselves, while 'எஞ்ஞான்றும்' emphasizes that this rule of humility applies at all times without exception. The second part uses 'நயவற்க' to warn against desiring or choosing to do 'நன்றி பயவா வினை', which refers to deeds that fail to produce any real benefit or goodness. Together, these instructions guide a person to remain humble and focus only on meaningful, ethical actions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

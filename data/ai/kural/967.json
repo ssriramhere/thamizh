@@ -6,10 +6,10 @@
     {
      "text": "ஒட்டார்",
      "lemma": "ஒட்டார்",
-     "gloss": "foes"
+     "gloss": "those who do not agree/adversaries"
     }
    ],
-   "gloss": "foes"
+   "gloss": "those who do not agree or associate with one"
   },
   {
    "surface": "பின்",
@@ -17,7 +17,7 @@
     {
      "text": "பின்",
      "lemma": "பின்",
-     "gloss": "behind"
+     "gloss": "behind/after"
     }
    ],
    "gloss": "behind"
@@ -55,10 +55,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative)"
     }
    ],
-   "gloss": "than living"
+   "gloss": "rather than living"
   },
   {
    "surface": "அந்நிலையே",
@@ -66,15 +66,15 @@
     {
      "text": "அந்நிலை",
      "lemma": "அந்நிலை",
-     "gloss": "that state"
+     "gloss": "that very state/instant"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "in that state indeed"
+   "gloss": "at that very instant"
   },
   {
    "surface": "கெட்டான்",
@@ -82,7 +82,7 @@
     {
      "text": "கெட்டான்",
      "lemma": "கெடு",
-     "gloss": "he perished"
+     "gloss": "he perished/died"
     }
    ],
    "gloss": "he perished"
@@ -93,15 +93,15 @@
     {
      "text": "என",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "to say"
     },
     {
      "text": "படுதல்",
-     "lemma": "படு",
-     "gloss": "experiencing"
+     "lemma": "படுதல்",
+     "gloss": "to be (passive)"
     }
    ],
-   "gloss": "being said"
+   "gloss": "being said to be"
   },
   {
    "surface": "நன்று",
@@ -109,16 +109,16 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "is good/better"
     }
    ],
-   "gloss": "good"
+   "gloss": "is better"
   }
  ],
- "literal": "foes behind having-gone a-person than-living that-state-indeed he-perished being-said (is) good.",
- "translation": "It is better to be known as one who perished right where he stood, than to live by following behind one's foes.",
- "modern": "பகைவர்களின் பின்னே சென்று ஒருவன் உயிர்வாழ்வதை விட, தன் மானம் அழியும் நிலை வந்தபோதே அவன் இறந்துவிட்டான் என்று சொல்லப்படுவது அவனுக்கு மிகவும் நல்லதாகும்.",
- "explanation": "This couplet emphasizes the supreme value of honor over mere survival. It states that living a life of humiliation by trailing behind one's enemies is worse than death. The phrase 'அந்நிலையே கெட்டான்' highlights that perishing in one's current honorable state, without compromising dignity, is far superior. Thus, true life is defined by self-respect, and losing it makes physical survival meaningless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than a person living by going behind those who do not agree, being said to have perished at that very instant is better.",
+ "translation": "Rather than living by following behind those who do not respect or agree with them, it is far better for a person to be spoken of as having perished at that very moment.",
+ "modern": "தம்மை மதிக்காத பகைவர்களின் பின்னே சென்று ஒருவன் உயிர்வாழ்வதை விட, அவன் அப்போதே அழிந்துவிட்டான் என்று பிறரால் சொல்லப்படுவது நல்லது.",
+ "explanation": "This couplet highlights the supreme importance of self-respect over a compromised life. The poet compares two choices: living subserviently by following those who are hostile or disrespectful ('ஒட்டார் பின் சென்று வாழ்தல்'), and dying or being ruined at that very moment ('அந்நிலையே கெட்டான் எனப்படுதல்'). The word 'ஒட்டார்' refers to adversaries or those who do not align with one's dignity. The couplet declares that it is far better ('நன்று') to be known as having perished instantly with honor intact than to survive by begging or serving those who look down upon you.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

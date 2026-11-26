@@ -6,10 +6,10 @@
     {
      "text": "இனத்து",
      "lemma": "இனம்",
-     "gloss": "with the group"
+     "gloss": "associates/ministers (oblique)"
     }
    ],
-   "gloss": "with the group"
+   "gloss": "with his ministers/associates"
   },
   {
    "surface": "ஆற்றி",
@@ -17,10 +17,10 @@
     {
      "text": "ஆற்றி",
      "lemma": "ஆற்று",
-     "gloss": "having acted"
+     "gloss": "having acted/guided"
     }
    ],
-   "gloss": "having acted"
+   "gloss": "having acted/guided"
   },
   {
    "surface": "எண்ணாத",
@@ -28,10 +28,10 @@
     {
      "text": "எண்ணாத",
      "lemma": "எண்ணு",
-     "gloss": "not considering"
+     "gloss": "not deliberating/planning"
     }
    ],
-   "gloss": "not considering"
+   "gloss": "who does not deliberate"
   },
   {
    "surface": "வேந்தன்",
@@ -42,7 +42,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "சினத்து",
@@ -50,10 +50,10 @@
     {
      "text": "சினத்து",
      "lemma": "சினம்",
-     "gloss": "in anger"
+     "gloss": "anger (oblique)"
     }
    ],
-   "gloss": "in anger"
+   "gloss": "with anger"
   },
   {
    "surface": "ஆற்றி",
@@ -61,10 +61,10 @@
     {
      "text": "ஆற்றி",
      "lemma": "ஆற்று",
-     "gloss": "having acted"
+     "gloss": "having acted/guided"
     }
    ],
-   "gloss": "having acted"
+   "gloss": "having acted/guided"
   },
   {
    "surface": "சீறின்",
@@ -72,10 +72,10 @@
     {
      "text": "சீறின்",
      "lemma": "சீறு",
-     "gloss": "if rages"
+     "gloss": "if (he) rages"
     }
    ],
-   "gloss": "if rages"
+   "gloss": "if (he) rages"
   },
   {
    "surface": "சிறுகும்",
@@ -83,10 +83,10 @@
     {
      "text": "சிறுகும்",
      "lemma": "சிறுகு",
-     "gloss": "will shrink"
+     "gloss": "will diminish"
     }
    ],
-   "gloss": "will shrink"
+   "gloss": "will diminish"
   },
   {
    "surface": "திரு",
@@ -94,16 +94,16 @@
     {
      "text": "திரு",
      "lemma": "திரு",
-     "gloss": "wealth"
+     "gloss": "wealth/fortune"
     }
    ],
    "gloss": "wealth"
   }
  ],
- "literal": "With the group having acted, not considering, the king, in anger having acted, if he rages, will shrink wealth.",
- "translation": "If a king fails to deliberate with his council of ministers and instead lashes out in blind anger, his wealth and prosperity will shrink.",
- "modern": "தன் அமைச்சர்களோடு சேர்ந்து ஆலோசிக்காமல், கோபத்திற்கு ஆளாகிச் சீறும் அரசனின் செல்வம் சுருங்கி அழியும்.",
- "explanation": "This couplet warns against the destructive combination of isolation and anger in a leader. The phrase 'இனத்து ஆற்றி எண்ணாத' describes a king who fails to deliberate with his council of ministers before acting. When such an isolated ruler gives way to anger ('சினத்து ஆற்றி') and lashes out, his poor judgment drives away support. Consequently, his wealth and prosperity ('திரு') will inevitably diminish ('சிறுகும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A king who does not deliberate with the guidance of his associates, if he rages with anger guiding him, his wealth will diminish.",
+ "translation": "The fortune of a king who does not deliberate with the counsel of his ministers, but instead rages and acts out of anger, will surely diminish.",
+ "modern": "தன் அமைச்சர்களுடன் ஆராய்ந்து செயல்படாத அரசன், கோபத்தின் வழியே சென்று சீறினால், அவனுடைய செல்வம் சுருங்கிவிடும்.",
+ "explanation": "This couplet warns rulers against acting without counsel and letting anger dictate their behavior. A wise king must deliberate on matters of state with his trusted ministers and associates. If he fails to do so and instead acts impulsively under the influence of anger, he will alienate his supporters and make poor decisions. Consequently, his prosperity and royal fortune will rapidly decline and diminish.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

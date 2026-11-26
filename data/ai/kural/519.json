@@ -6,15 +6,15 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "work"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "LOC"
+     "gloss": "in/at (locative suffix)"
     }
    ],
-   "gloss": "in action"
+   "gloss": "in the execution of a task"
   },
   {
    "surface": "வினை",
@@ -22,10 +22,10 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "work/action"
     }
    ],
-   "gloss": "action"
+   "gloss": "work"
   },
   {
    "surface": "உடையான்",
@@ -33,10 +33,10 @@
     {
      "text": "உடையான்",
      "lemma": "உடையான்",
-     "gloss": "he who possesses"
+     "gloss": "he who possesses (the capability)"
     }
    ],
-   "gloss": "he who possesses"
+   "gloss": "he who possesses (the capability)"
   },
   {
    "surface": "கேண்மை",
@@ -44,10 +44,10 @@
     {
      "text": "கேண்மை",
      "lemma": "கேண்மை",
-     "gloss": "friendship"
+     "gloss": "friendship/loyalty"
     }
    ],
-   "gloss": "friendship"
+   "gloss": "friendship/loyalty"
   },
   {
    "surface": "வேறு",
@@ -55,10 +55,10 @@
     {
      "text": "வேறு",
      "lemma": "வேறு",
-     "gloss": "different"
+     "gloss": "different/otherwise"
     }
    ],
-   "gloss": "different"
+   "gloss": "differently"
   },
   {
    "surface": "ஆக",
@@ -66,42 +66,37 @@
     {
      "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "to become"
+     "gloss": "to become/as"
     }
    ],
-   "gloss": "to become"
+   "gloss": "as"
   },
   {
    "surface": "நினைப்பானை",
    "parts": [
     {
      "text": "நினைப்பான்",
-     "lemma": "நினை",
+     "lemma": "நினைப்பான்",
      "gloss": "he who thinks"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "ACC"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who considers"
+   "gloss": "him who thinks (of)"
   },
   {
    "surface": "நீங்கும்",
    "parts": [
     {
-     "text": "நீங்கு",
+     "text": "நீங்கும்",
      "lemma": "நீங்கு",
-     "gloss": "leave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "FUT"
+     "gloss": "will depart/leave"
     }
    ],
-   "gloss": "will depart"
+   "gloss": "will depart from"
   },
   {
    "surface": "திரு",
@@ -109,16 +104,16 @@
     {
      "text": "திரு",
      "lemma": "திரு",
-     "gloss": "prosperity"
+     "gloss": "Goddess of Fortune/wealth"
     }
    ],
-   "gloss": "prosperity"
+   "gloss": "Fortune"
   }
  ],
- "literal": "In action, action he who possesses - friendship different to become - him who considers, will depart prosperity.",
- "translation": "Prosperity will abandon the leader who thinks of altering his friendship with a man capable of executing the work.",
- "modern": "ஒரு செயலைச் செய்து முடிக்கும் திறமை உடையவனின் நட்பை வேறுவிதமாக (சந்தேகத்துடன்) நினைப்பவனை விட்டுச் செல்வம் நீங்கிவிடும்.",
- "explanation": "This couplet warns against mistrusting a capable worker once a task has been entrusted to them. The phrase 'வினைக்கண் வினையுடையான்' refers to a person who possesses the practical ability to accomplish a given task. 'கேண்மை வேறாக நினைப்பானை' describes a leader who alters his friendly relationship with such a worker, often out of unwarranted suspicion. If a leader alienates their most competent people through mistrust, 'திரு' or prosperity will naturally leave them, as success depends on capable execution.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the execution of a task, him who thinks differently of the friendship of the one who has the capability for that task, Fortune will depart from.",
+ "translation": "Fortune will depart from a leader who doubts the loyalty of an efficient worker who is fully dedicated to his task.",
+ "modern": "ஒரு தொழிலைச் செய்வதில் வல்லமை உடையவனுடைய நட்பை, வேறுபட்டு (சந்தேகப்பட்டு) நினைக்கும் தலைவனை விட்டுச் செல்வம் நீங்கும்.",
+ "explanation": "This couplet emphasizes the danger of harboring suspicion against capable and dedicated workers. 'Vinaiyutaiyan' refers to a person who has the skill and drive to execute a task. If a leader doubts ('veraka ninaippan') the loyalty or friendship ('kenmai') of such a worker while they are engaged in their work ('vinaikkan'), the Goddess of Fortune ('Thiru') will abandon that leader. Trust is essential for successful delegation, and groundless suspicion only drives away prosperity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

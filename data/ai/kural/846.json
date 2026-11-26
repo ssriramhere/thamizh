@@ -16,24 +16,24 @@
    "parts": [
     {
      "text": "மறைத்தல்",
-     "lemma": "மறை",
+     "lemma": "மறைத்தல்",
      "gloss": "covering"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[question]"
+     "gloss": "emphasis particle"
     }
    ],
-   "gloss": "covering?"
+   "gloss": "indeed covering"
   },
   {
    "surface": "புல்லறிவு",
    "parts": [
     {
      "text": "புல்",
-     "lemma": "புன்மை",
-     "gloss": "petty"
+     "lemma": "புல்",
+     "gloss": "mean"
     },
     {
      "text": "அறிவு",
@@ -41,23 +41,23 @@
      "gloss": "knowledge"
     }
    ],
-   "gloss": "folly"
+   "gloss": "foolishness"
   },
   {
    "surface": "தம்வயின்",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தான்",
+     "gloss": "their own"
     },
     {
      "text": "வயின்",
      "lemma": "வயின்",
-     "gloss": "place"
+     "gloss": "within"
     }
    ],
-   "gloss": "in oneself"
+   "gloss": "within themselves"
   },
   {
    "surface": "குற்றம்",
@@ -65,10 +65,10 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "faults"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults"
   },
   {
    "surface": "மறையா",
@@ -76,7 +76,7 @@
     {
      "text": "மறையா",
      "lemma": "மறை",
-     "gloss": "not-covering"
+     "gloss": "not covering"
     }
    ],
    "gloss": "not covering"
@@ -93,10 +93,10 @@
    "gloss": "when"
   }
  ],
- "literal": "Nakedness covering? Folly, in oneself fault not-covering when.",
- "translation": "What is the use of covering one's physical nakedness? It is mere folly, when one fails to cover the faults within oneself.",
- "modern": "தன்னிடம் உள்ள குற்றங்களை நீக்கி மறைக்காத போது, உடலின் மறைவிடங்களை மட்டும் ஆடையால் மறைப்பது அறியாமையாகும்.",
- "explanation": "The couplet contrasts physical modesty with moral modesty. The word 'அற்றம்' refers to physical nakedness, while 'குற்றம்' refers to moral flaws. The poet points out the hypocrisy of covering one's body with clothes while leaving one's inner faults exposed and uncorrected. Maintaining outward decency without hiding and curing one's own flaws is sheer folly.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Indeed covering one's nakedness is foolishness, when the faults within themselves are not covered.",
+ "translation": "To cover one's physical nakedness is sheer foolishness when one does not cover or correct the moral faults within oneself.",
+ "modern": "தங்களிடம் உள்ள குற்றங்களை மறைக்காதபோது, உடலின் ஆடையற்ற தன்மையை மட்டும் மறைப்பது அறிவீனமாகும்.",
+ "explanation": "This couplet contrasts physical nakedness with moral flaws. The word 'அற்றம்' refers to physical nakedness, which society expects one to cover with clothes. The poet argues that if a person does not cover or rectify the 'குற்றம்' (faults) within themselves ('தம்வயின்'), merely covering their physical body is 'புல்லறிவு' (petty knowledge or foolishness). True decency and wisdom lie in concealing or overcoming one's inner flaws rather than just wearing clothes to hide physical nakedness while leaving moral defects completely exposed.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

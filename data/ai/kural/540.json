@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "உள்ளியது",
-     "lemma": "உள்ளு",
-     "gloss": "that which was intended"
+     "lemma": "உள்ளியது",
+     "gloss": "that which was thought"
     }
    ],
    "gloss": "that which was intended"
@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "எய்தல்",
-     "lemma": "எய்து",
+     "lemma": "எய்தல்",
      "gloss": "attaining"
     }
    ],
@@ -27,8 +27,8 @@
    "parts": [
     {
      "text": "எளிது",
-     "lemma": "எளிமை",
-     "gloss": "is easy"
+     "lemma": "எளிது",
+     "gloss": "easy"
     }
    ],
    "gloss": "is easy"
@@ -58,7 +58,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "again"
+   "gloss": "and further"
   },
   {
    "surface": "தான்",
@@ -66,18 +66,18 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "oneself"
+     "gloss": "itself"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "itself"
   },
   {
    "surface": "உள்ளியது",
    "parts": [
     {
      "text": "உள்ளியது",
-     "lemma": "உள்ளு",
-     "gloss": "that which was intended"
+     "lemma": "உள்ளியது",
+     "gloss": "that which was thought"
     }
    ],
    "gloss": "that which was intended"
@@ -87,28 +87,28 @@
    "parts": [
     {
      "text": "உள்ள",
-     "lemma": "உள்ளு",
-     "gloss": "to remember"
+     "lemma": "உள்ளுதல்",
+     "gloss": "to think of"
     }
    ],
-   "gloss": "to remember"
+   "gloss": "to keep in mind"
   },
   {
    "surface": "பெறின்",
    "parts": [
     {
      "text": "பெறின்",
-     "lemma": "பெறு",
-     "gloss": "if one gets"
+     "lemma": "பெறுதல்",
+     "gloss": "if one is able to"
     }
    ],
-   "gloss": "if one gets"
+   "gloss": "if one is able to"
   }
  ],
- "literal": "That which was intended attaining is easy indeed, again oneself that which was intended to remember if gets.",
- "translation": "It is easy to attain what one intended, if one can only keep that intention constantly in mind.",
- "modern": "ஒருவர் தான் எண்ணியதை மறக்காமல் மீண்டும் மீண்டும் நினைவில் கொள்ள முடியுமானால், அவர் எண்ணியதை அடைவது மிகவும் எளிது.",
- "explanation": "This couplet states that achieving one's goals is remarkably easy, provided one does not lose sight of them. The word 'உள்ளியது' refers to what is thought of or intended as a goal. By repeating this word and pairing it with 'உள்ளப் பெறின்' (if one manages to remember), the poet emphasizes that constant mindfulness and freedom from negligence are the true keys to success.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which was intended to attain is easy indeed, if one is able to keep in mind that very thing which was intended.",
+ "translation": "It is easy to attain what one has planned, if one can keep that very plan constantly in mind without forgetfulness.",
+ "modern": "நினைத்ததை அடைவது மிகவும் எளிது, நினைத்த காரியத்தையே எப்போதும் மறவாமல் நினைவில் வைத்திருக்க முடிந்தால்.",
+ "explanation": "This couplet highlights the power of constant focus and mindfulness in achieving success. The poet asserts that achieving a goal is highly feasible, provided one does not lose sight of the initial intention. The repetition of the word 'உள்ளியது' (that which was thought) emphasizes that the key to success lies in keeping the original objective continuously in one's thoughts. By avoiding forgetfulness and maintaining unwavering attention, any intended outcome becomes easily attainable.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

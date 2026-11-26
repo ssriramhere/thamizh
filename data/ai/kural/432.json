@@ -6,7 +6,7 @@
     {
      "text": "இவறல்",
      "lemma": "இவறல்",
-     "gloss": "miserliness"
+     "gloss": "stinginess"
     },
     {
      "text": "உம்",
@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "miserliness and"
+   "gloss": "and stinginess"
   },
   {
    "surface": "மாண்பு",
@@ -22,21 +22,21 @@
     {
      "text": "மாண்பு",
      "lemma": "மாண்பு",
-     "gloss": "excellence"
+     "gloss": "dignity"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "dignity"
   },
   {
    "surface": "இறந்த",
    "parts": [
     {
      "text": "இறந்த",
-     "lemma": "இற",
-     "gloss": "which has lost"
+     "lemma": "இறத்தல்",
+     "gloss": "exceeded"
     }
    ],
-   "gloss": "which has lost"
+   "gloss": "exceeded"
   },
   {
    "surface": "மானமும்",
@@ -52,23 +52,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "pride and"
+   "gloss": "and pride"
   },
   {
    "surface": "மாணா",
    "parts": [
     {
-     "text": "மாண்",
-     "lemma": "மாண்",
-     "gloss": "to be excellent"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative relative participle suffix"
+     "text": "மாணா",
+     "lemma": "மாணாத",
+     "gloss": "improper"
     }
    ],
-   "gloss": "unbecoming"
+   "gloss": "improper"
   },
   {
    "surface": "உவகையும்",
@@ -84,7 +79,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "joy and"
+   "gloss": "and joy"
   },
   {
    "surface": "ஏதம்",
@@ -103,7 +98,7 @@
     {
      "text": "இறை",
      "lemma": "இறை",
-     "gloss": "king"
+     "gloss": "ruler"
     },
     {
      "text": "க்கு",
@@ -111,13 +106,13 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to a king"
+   "gloss": "to a ruler"
   }
  ],
- "literal": "Miserliness and, excellence lost pride and, unbecoming joy and, (are) faults to a king.",
- "translation": "Miserliness, pride devoid of dignity, and unbecoming joy are flaws in a ruler.",
- "modern": "கஞ்சத்தனம், பெருமை இல்லாத வீண் மானம், தகுதியற்ற மகிழ்ச்சி ஆகிய மூன்றும் ஒரு தலைவனுக்குக் குற்றங்களாகும்.",
- "explanation": "This couplet identifies three specific flaws that a ruler must eradicate. The first is ivaṟal, which means extreme miserliness or greed that prevents proper generosity. The second is māṇpu iṟanta mānam, a false pride or arrogance that has lost true dignity and excellence. The third is māṇā uvakai, an unbecoming or inappropriate joy, such as gloating or indulging in petty pleasures. Together, these three traits are declared as ētam (faults or harms) that will ruin a leader.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And stinginess, pride that has exceeded dignity, and improper joy, are faults to a ruler.",
+ "translation": "Stinginess, excessive pride that goes beyond dignity, and improper joy are ruinous faults in a leader.",
+ "modern": "கஞ்சத்தனமும், பெருந்தன்மை கடந்த வீண் பெருமிதமும், தகுதியற்ற மகிழ்ச்சியும் ஒரு தலைவனுக்குக் குற்றங்கள் ஆகும்.",
+ "explanation": "This couplet identifies three major flaws that can ruin a leader. First is 'ivaṟal' (stinginess), which prevents a ruler from being generous to those in need. Second is 'māṉam' (pride) that has exceeded 'māṇpu' (dignity), meaning an arrogant, excessive pride that goes beyond honorable self-respect. Third is 'māṇā uvakai' (improper joy), which refers to taking pleasure in unworthy, unethical, or trivial things. The poet warns that these three traits are 'ētam' (ruinous faults) for anyone in authority.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

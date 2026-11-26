@@ -6,26 +6,21 @@
     {
      "text": "ஆற்றின்",
      "lemma": "ஆறு",
-     "gloss": "in the proper way"
+     "gloss": "by the proper method"
     }
    ],
-   "gloss": "in the proper way"
+   "gloss": "by the proper method"
   },
   {
    "surface": "வருந்தா",
    "parts": [
     {
-     "text": "வருந்து",
+     "text": "வருந்தா",
      "lemma": "வருந்து",
-     "gloss": "to strive"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not strived for"
     }
    ],
-   "gloss": "not striving"
+   "gloss": "not strived for (properly)"
   },
   {
    "surface": "வருத்தம்",
@@ -33,10 +28,10 @@
     {
      "text": "வருத்தம்",
      "lemma": "வருத்தம்",
-     "gloss": "effort"
+     "gloss": "effort or undertaking"
     }
    ],
-   "gloss": "effort"
+   "gloss": "undertaking"
   },
   {
    "surface": "பலர்",
@@ -58,23 +53,18 @@
      "gloss": "standing"
     }
    ],
-   "gloss": "standing"
+   "gloss": "standing together"
   },
   {
    "surface": "போற்றினும்",
    "parts": [
     {
-     "text": "போற்று",
+     "text": "போற்றினும்",
      "lemma": "போற்று",
-     "gloss": "to protect"
-    },
-    {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "gloss": "even if they guard"
     }
    ],
-   "gloss": "even if protected"
+   "gloss": "even if they guard"
   },
   {
    "surface": "பொத்து",
@@ -82,32 +72,27 @@
     {
      "text": "பொத்து",
      "lemma": "பொத்து",
-     "gloss": "flaw"
+     "gloss": "hole or defect"
     }
    ],
-   "gloss": "flaw"
+   "gloss": "ruined with holes"
   },
   {
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to incur"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will become"
     }
    ],
-   "gloss": "will incur"
+   "gloss": "will become"
   }
  ],
- "literal": "In the proper way not striving effort, many people standing even if protected, flaw will incur.",
- "translation": "An effort that is not exerted using the proper method will fail, even if many people stand together to protect it.",
- "modern": "சரியான வழிமுறையில் முயற்சி செய்து தொடங்கப்படாத ஒரு செயல், பலரும் துணையாக நின்று காப்பாற்றினாலும் தோல்வியையே தழுவும்.",
- "explanation": "This couplet emphasizes the importance of using the correct method for any undertaking. If an action is not performed with the proper approach, it is fundamentally unsound and bound to fail. Even if many people gather to support and protect the endeavor, their collective strength cannot save it. The word 'பொத்து' meaning a hole or flaw vividly illustrates how a poorly planned project will inevitably leak and collapse.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By the proper method not strived-for undertaking, many standing even if they guard, ruined with holes will become.",
+ "translation": "An undertaking that is not carried out through the proper method will fail and fall to pieces, even if many people stand together to guard and support it.",
+ "modern": "முறையான வழியில் முயற்சி செய்யாத ஒரு செயலை, பலர் ஒன்று கூடிப் பாதுகாத்தாலும் அது தோல்வியடைந்து அழியும்.",
+ "explanation": "This couplet emphasizes that the correct method (ஆறு) is essential for the success of any undertaking. An effort (வருத்தம்) that is not executed through the right systematic path (ஆற்றின் வருந்தா) is fundamentally flawed. Even if a large group of people stand together (பலர் நின்று) to protect and support it (போற்றினும்), the project will eventually develop leaks and collapse (பொத்துப்படும்). Success depends entirely on the soundness of the plan and method, not on the sheer number of supporters trying to save a flawed execution.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

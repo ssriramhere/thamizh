@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
+     "lemma": "இன்று",
      "gloss": "is not"
     }
    ],
@@ -39,10 +39,10 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "if"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "if"
+   "gloss": "indeed"
   },
   {
    "surface": "பகை",
@@ -50,10 +50,10 @@
     {
      "text": "பகை",
      "lemma": "பகை",
-     "gloss": "enemy"
+     "gloss": "enmity"
     }
    ],
-   "gloss": "enemy"
+   "gloss": "enmity"
   },
   {
    "surface": "இரண்டால்",
@@ -66,10 +66,10 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "if"
+     "gloss": "because of"
     }
    ],
-   "gloss": "if two"
+   "gloss": "is twofold"
   },
   {
    "surface": "தான்",
@@ -77,10 +77,10 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "oneself"
+     "gloss": "himself"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "himself"
   },
   {
    "surface": "ஒருவன்",
@@ -99,10 +99,10 @@
     {
      "text": "இன்துணையாக்",
      "lemma": "இன்துணையாக்",
-     "gloss": "as a good ally"
+     "gloss": "as a pleasant ally"
     }
    ],
-   "gloss": "as a good ally",
+   "gloss": "as a pleasant ally",
    "split_unverified": true
   },
   {
@@ -111,10 +111,10 @@
     {
      "text": "கொள்கவற்றின்",
      "lemma": "கொள்கவற்றின்",
-     "gloss": "let take of them"
+     "gloss": "let him take of them"
     }
    ],
-   "gloss": "let take of them",
+   "gloss": "let him take of them",
    "split_unverified": true
   },
   {
@@ -129,10 +129,10 @@
    "gloss": "one"
   }
  ],
- "literal": "One's own ally is not if, enemy two if, oneself one person; as sweet ally let take of them one.",
- "translation": "If you stand alone without allies and face two enemies, make one of them a friendly ally.",
- "modern": "தனக்கு ஒரு துணையும் இல்லாத நிலையில் பகைவர்கள் இருவராக இருந்தால், தனியாக இருக்கும் ஒருவன் அந்த இருவரில் ஒருவனைத் தனக்கு இனிய துணையாக ஆக்கிக் கொள்ள வேண்டும்.",
- "explanation": "This couplet advises on strategic diplomacy when facing overwhelming odds. If a leader is completely isolated and confronted by two separate enemies, fighting both simultaneously is disastrous. The wise course of action is to temporarily befriend one of the enemies, turning them into an ally to divide the opposition and survive.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "One's own ally is not, indeed; enmity is twofold; himself is one person; let him take as a pleasant ally one of them.",
+ "translation": "When a person stands alone without any allies and faces two enemies, let him win over one of those two and make them a pleasant ally.",
+ "modern": "தனக்குத் துணையாக யாரும் இல்லாதபோது, பகைவர்கள் இருவராக இருக்க, தான் மட்டும் தனியாக இருக்கும் ஒருவன், அந்த இரு பகைவர்களில் ஒருவனைத் தனக்கு இனிய துணையாக ஆக்கிக்கொள்ள வேண்டும்.",
+ "explanation": "This couplet provides a practical strategy for survival and success when facing overwhelming odds. If a person has no supporting allies ('தன்துணை இன்று') and is confronted by two distinct enemies ('பகை இரண்டால்') while being entirely alone ('தான் ஒருவன்'), fighting both simultaneously is disastrous. The wise course of action is to win over one of those two adversaries and turn them into a helpful, pleasant ally ('இன்துணையாக் கொள்க அவற்றின் ஒன்று'). By neutralizing one threat and gaining their support, the individual can successfully manage the remaining opponent.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

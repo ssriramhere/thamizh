@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
+     "lemma": "தம்",
      "gloss": "one's own"
     }
    ],
@@ -28,26 +28,21 @@
     {
      "text": "இருந்து",
      "lemma": "இரு",
-     "gloss": "having stayed"
+     "gloss": "staying"
     }
    ],
-   "gloss": "having stayed"
+   "gloss": "staying"
   },
   {
    "surface": "தமது",
    "parts": [
     {
-     "text": "தம்",
-     "lemma": "தாம்",
+     "text": "தமது",
+     "lemma": "தமது",
      "gloss": "one's own"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "thing"
     }
    ],
-   "gloss": "one's own things"
+   "gloss": "one's own"
   },
   {
    "surface": "பாத்து",
@@ -55,10 +50,10 @@
     {
      "text": "பாத்து",
      "lemma": "பகு",
-     "gloss": "having shared"
+     "gloss": "sharing"
     }
    ],
-   "gloss": "having shared"
+   "gloss": "sharing"
   },
   {
    "surface": "உண்டு",
@@ -66,10 +61,10 @@
     {
      "text": "உண்டு",
      "lemma": "உண்",
-     "gloss": "having eaten"
+     "gloss": "eating"
     }
    ],
-   "gloss": "having eaten"
+   "gloss": "eating"
   },
   {
    "surface": "அற்றால்",
@@ -77,7 +72,7 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஆல்",
@@ -85,7 +80,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "it is like that"
+   "gloss": "is like"
   },
   {
    "surface": "அம்",
@@ -104,10 +99,10 @@
     {
      "text": "மா",
      "lemma": "மா",
-     "gloss": "dark"
+     "gloss": "golden-complexioned"
     }
    ],
-   "gloss": "dark"
+   "gloss": "golden-complexioned"
   },
   {
    "surface": "அரிவை",
@@ -115,10 +110,10 @@
     {
      "text": "அரிவை",
      "lemma": "அரிவை",
-     "gloss": "woman"
+     "gloss": "young woman"
     }
    ],
-   "gloss": "woman"
+   "gloss": "young woman"
   },
   {
    "surface": "முயக்கு",
@@ -132,10 +127,10 @@
    "gloss": "embrace"
   }
  ],
- "literal": "In one's own home having stayed, having shared and eaten one's own things, it is like that indeed, the beautiful dark woman's embrace.",
- "translation": "The embrace of this beautiful, dark woman brings a joy as sweet as staying in one's own home and sharing one's food with others.",
- "modern": "தமது சொந்த வீட்டில் தங்கியிருந்து, தமது உணவை மற்றவர்களுடன் பகிர்ந்து உண்பதால் வரும் இன்பத்தைப் போன்றது, அழகிய மாமை நிறம் கொண்ட இந்தப் பெண்ணின் தழுவல்.",
- "explanation": "The poet compares the joy of a romantic embrace to the profound satisfaction of hospitality. Staying in one's own home and sharing one's food with guests is considered one of the highest virtues and joys in classical Tamil culture. By equating the embrace of the beautiful woman to this specific joy, the couplet highlights that love provides a deep, fulfilling, and righteous happiness. The word 'பாத்து' is a poetic alteration of 'பகுத்து', meaning to divide and share.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Staying in one's own home, sharing one's own food and eating, is like the embrace of this beautiful, golden-complexioned young woman.",
+ "translation": "The embrace of this beautiful, golden-complexioned young woman is like staying in one's own home and eating one's food after sharing it with others.",
+ "modern": "தன் சொந்த வீட்டில் இருந்து, தன் உணவைப் பிறருடன் பகிர்ந்து உண்பதைப் போன்றது, அழகிய மாமை நிறமுடைய இப்பெண்ணின் தழுவல்.",
+ "explanation": "This couplet compares the joy of the beloved's embrace to the ultimate domestic happiness. Living in one's own home and sharing one's food with others before eating represents the pinnacle of virtuous householder life. The poet suggests that the embrace of the beautiful, golden-complexioned young woman yields the same deep, wholesome, and guilt-free satisfaction. The word 'மா' refers to the beautiful mango-shoot-like golden complexion of the woman, which is highly praised in classical Tamil poetry.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

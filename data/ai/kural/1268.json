@@ -6,10 +6,10 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "battle"
+     "gloss": "task"
     }
    ],
-   "gloss": "battle"
+   "gloss": "task"
   },
   {
    "surface": "கலந்து",
@@ -17,10 +17,10 @@
     {
      "text": "கலந்து",
      "lemma": "கல",
-     "gloss": "having joined"
+     "gloss": "having engaged in"
     }
    ],
-   "gloss": "having joined"
+   "gloss": "having engaged in"
   },
   {
    "surface": "வென்று",
@@ -37,33 +37,23 @@
    "surface": "ஈக",
    "parts": [
     {
-     "text": "ஈ",
+     "text": "ஈக",
      "lemma": "ஈ",
-     "gloss": "give"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative"
+     "gloss": "may he grant"
     }
    ],
-   "gloss": "let grant"
+   "gloss": "may he grant"
   },
   {
    "surface": "வேந்தன்",
    "parts": [
     {
-     "text": "வேந்து",
-     "lemma": "வேந்து",
-     "gloss": "king"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "3m.sg"
+     "text": "வேந்தன்",
+     "lemma": "வேந்தன்",
+     "gloss": "the king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "மனை",
@@ -82,10 +72,10 @@
     {
      "text": "கலந்து",
      "lemma": "கல",
-     "gloss": "having joined"
+     "gloss": "having united"
     }
    ],
-   "gloss": "having joined"
+   "gloss": "having united"
   },
   {
    "surface": "மாலை",
@@ -104,15 +94,15 @@
     {
      "text": "அயர்",
      "lemma": "அயர்",
-     "gloss": "perform"
+     "gloss": "celebrate"
     },
     {
      "text": "கம்",
      "lemma": "கம்",
-     "gloss": "1pl.hortative"
+     "gloss": "we shall"
     }
    ],
-   "gloss": "let us celebrate"
+   "gloss": "we shall celebrate"
   },
   {
    "surface": "விருந்து",
@@ -126,10 +116,10 @@
    "gloss": "feast"
   }
  ],
- "literal": "Battle having joined, having won, let grant king; home having joined, evening let us perform feast.",
- "translation": "Let the king engage in battle, win, and grant me leave. Then I shall return home and celebrate a feast this evening.",
- "modern": "அரசன் போரில் கலந்து கொண்டு வென்று எனக்கு விடை தரட்டும்; நான் என் மனைவியோடு சேர்ந்து இந்த மாலைப் பொழுதில் விருந்து கொண்டாடுவேன்.",
- "explanation": "The speaker, a soldier away on a military campaign, expresses his eager desire to return home. He wishes for the king to quickly engage in battle, secure victory, and grant him permission to leave. Once released, he anticipates reuniting with his wife at home and joyfully celebrating a feast together in the evening. The repetition of 'கலந்து' (having joined) elegantly contrasts the harsh joining of battle with the joyful joining of husband and wife.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Engaging in the task, may the king win and grant us release; uniting at home, we shall celebrate the evening as a feast.",
+ "translation": "May the king engage in his task and win, so that we may unite at home and celebrate the evening as a feast.",
+ "modern": "அரசன் தன் கடமையில் ஈடுபட்டு வெற்றி பெறட்டும்; நாம் நம் வீட்டில் ஒன்று கூடி, இந்த மாலைப் பொழுதை ஒரு விருந்தாகக் கொண்டாடுவோம்.",
+ "explanation": "The hero, who is away on a royal military campaign, eagerly wishes for the king to complete his task and achieve victory quickly. He longs to return to his wife so they can be reunited. In classical love poetry, the evening is usually a time of intense sorrow for separated lovers. However, the hero anticipates that once they unite at home, they will transform this dreaded evening into a joyous feast of reunion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

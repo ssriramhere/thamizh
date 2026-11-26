@@ -6,54 +6,66 @@
     {
      "text": "ஓஒ",
      "lemma": "ஓ",
-     "gloss": "Oh!"
+     "gloss": "oh (exclamation of irony)"
     }
    ],
-   "gloss": "Oh!"
+   "gloss": "Oh (ironic exclamation)"
   },
   {
    "surface": "இனிதே",
    "parts": [
     {
-     "text": "இனிதே",
+     "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet indeed"
+     "gloss": "pleasant/sweet thing"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "sweet indeed"
+   "gloss": "is indeed sweet"
   },
   {
    "surface": "எமக்கு",
    "parts": [
     {
      "text": "எமக்கு",
-     "lemma": "யாம்",
-     "gloss": "to us"
+     "lemma": "எமக்கு",
+     "gloss": "to me"
     }
    ],
-   "gloss": "to us"
+   "gloss": "to me",
+   "split_unverified": true
   },
   {
    "surface": "இந்நோய்",
    "parts": [
     {
      "text": "இந்நோய்",
-     "lemma": "நோய்",
+     "lemma": "இந்நோய்",
      "gloss": "this pain"
     }
    ],
-   "gloss": "this pain"
+   "gloss": "this pain",
+   "split_unverified": true
   },
   {
    "surface": "செய்த",
    "parts": [
     {
-     "text": "செய்த",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "caused"
+     "gloss": "do/make"
+    },
+    {
+     "text": "த",
+     "lemma": "அ",
+     "gloss": "past relative participle suffix"
     }
    ],
-   "gloss": "caused"
+   "gloss": "that caused"
   },
   {
    "surface": "கண்",
@@ -64,7 +76,7 @@
      "gloss": "eyes"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "the eyes"
   },
   {
    "surface": "தாஅம்",
@@ -72,27 +84,32 @@
     {
      "text": "தாஅம்",
      "lemma": "தாம்",
-     "gloss": "they themselves"
+     "gloss": "themselves (with poetic elongation)"
     }
    ],
-   "gloss": "they themselves"
+   "gloss": "themselves"
   },
   {
    "surface": "இதற்பட்டது",
    "parts": [
     {
-     "text": "இதற்பட்டது",
+     "text": "இதன்",
+     "lemma": "இது",
+     "gloss": "this (oblique form)"
+    },
+    {
+     "text": "பட்டது",
      "lemma": "படு",
-     "gloss": "suffered this"
+     "gloss": "suffered/experienced"
     }
    ],
-   "gloss": "suffered this"
+   "gloss": "have fallen into this same suffering"
   }
  ],
- "literal": "Oh! Sweet indeed to us, the eyes which caused this pain, they themselves have suffered this.",
- "translation": "Oh, it is so sweet! The very eyes that caused me this pain of love are now suffering it themselves.",
- "modern": "எனக்கு இந்தக் காதல் நோயை உண்டாக்கிய கண்கள், இப்போது தாமும் உறங்காமல் துன்பப்படுவது எனக்கு மிகவும் இனிமையாக இருக்கிறது.",
- "explanation": "The speaker is suffering from the pain of lovesickness and is unable to sleep. She realizes that her eyes are the ones that first looked at her lover and brought this affliction upon her. Seeing her eyes now continuously weeping and sharing in the suffering, she feels a sense of poetic justice. The exclamation 'Oh!' and the word 'sweet' highlight her playful satisfaction that the culprits are facing the consequences of their own action.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Oh, sweet indeed to me, this pain caused eyes themselves into this have fallen.",
+ "translation": "Oh, how delightful! The very eyes that brought this painful longing upon me have now fallen into this same suffering.",
+ "modern": "எனக்கு இந்தத் துன்பத்தை உண்டாக்கிய கண்கள், தாமும் இப்போது அதே துன்பத்தில் சிக்கிக் கொண்டிருப்பது மிகவும் மகிழ்ச்சி அளிக்கிறது!",
+ "explanation": "The heroine speaks with bitter irony about her own eyes. They were the ones that first eagerly looked at her lover and brought this painful sickness of longing upon her. Now, because they cannot see him, they are weeping and suffering sleeplessly. She mockingly remarks that it is 'sweet' (இனிதே) to see the instigators of her pain suffering the very same fate they brought upon her.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

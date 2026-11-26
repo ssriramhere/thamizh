@@ -4,45 +4,60 @@
    "surface": "ஒண்பொருள்",
    "parts": [
     {
-     "text": "ஒண்பொருள்",
-     "lemma": "ஒண்பொருள்",
-     "gloss": "bright wealth"
+     "text": "ஒண்",
+     "lemma": "ஒண்மை",
+     "gloss": "bright/excellent"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "wealth"
     }
    ],
-   "gloss": "bright wealth"
+   "gloss": "excellent wealth"
   },
   {
    "surface": "காழ்ப்ப",
    "parts": [
     {
      "text": "காழ்ப்ப",
-     "lemma": "காழ்",
-     "gloss": "to grow firm"
+     "lemma": "காழ்த்தல்",
+     "gloss": "to accumulate abundantly"
     }
    ],
-   "gloss": "to grow firm"
+   "gloss": "abundantly"
   },
   {
    "surface": "இயற்றியார்க்கு",
    "parts": [
     {
-     "text": "இயற்றியார்க்கு",
-     "lemma": "இயற்று",
-     "gloss": "to those who have made"
+     "text": "இயற்றியார்",
+     "lemma": "இயற்றுதல்",
+     "gloss": "those who acquired"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who have made"
+   "gloss": "to those who have acquired"
   },
   {
    "surface": "எண்பொருள்",
    "parts": [
     {
-     "text": "எண்பொருள்",
-     "lemma": "எண்பொருள்",
-     "gloss": "easy thing"
+     "text": "எண்",
+     "lemma": "எளிமை",
+     "gloss": "easy"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "things"
     }
    ],
-   "gloss": "easy thing"
+   "gloss": "easy things"
   },
   {
    "surface": "ஏனை",
@@ -50,7 +65,7 @@
     {
      "text": "ஏனை",
      "lemma": "ஏனை",
-     "gloss": "the other"
+     "gloss": "other"
     }
    ],
    "gloss": "the other"
@@ -66,10 +81,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "also"
+     "gloss": "both"
     }
    ],
-   "gloss": "the two also"
+   "gloss": "both of the other two"
   },
   {
    "surface": "ஒருங்கு",
@@ -83,10 +98,10 @@
    "gloss": "together"
   }
  ],
- "literal": "Bright wealth to grow firm to those who have made, easy thing the other two also together.",
- "translation": "To those who have firmly accumulated excellent wealth, the other two goals of life are easy to attain together.",
- "modern": "சிறந்த பொருளை மிகுதியாகச் சேர்த்தவர்களுக்கு, மற்ற இரண்டுமாகிய அறமும் இன்பமும் எளிதில் ஒருசேரக் கிடைக்கும்.",
- "explanation": "The couplet states that acquiring wealth makes the other two goals of life, virtue and pleasure, easily attainable. 'ஒண்பொருள்' refers to excellent or rightfully earned wealth. 'காழ்ப்ப' means to grow firm or abundant, emphasizing the solid accumulation of this wealth. When wealth is secured, 'ஏனை இரண்டும்' (the other two) naturally follow 'ஒருங்கு' (together) without much difficulty.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who have acquired excellent wealth abundantly, the other two are easy things together.",
+ "translation": "To those who have abundantly acquired glorious wealth, the other two values of life (virtue and pleasure) become easily attainable together.",
+ "modern": "சிறந்த செல்வத்தை மிகுதியாக ஈட்டியவர்களுக்கு, மற்ற இரு உறுதிகளாகிய அறமும் இன்பமும் எளிதாகக் கிடைக்கக்கூடிய பொருள்களாக ஒருசேர அமைந்துவிடும்.",
+ "explanation": "This couplet highlights the supreme practical utility of wealth in achieving the other goals of life. 'ஒண்பொருள்' refers to glorious, rightfully earned wealth, and 'காழ்ப்ப' means to accumulate it in solid abundance. For those who possess such wealth, the other two aspects of human life—virtue (அறம்) and pleasure (இன்பம்)—become 'எண்பொருள்' (easy things) that can be attained together ('ஒருங்கு') without arduous effort. Wealth serves as the enabling instrument that naturally brings righteous deeds and worldly happiness within one's reach.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

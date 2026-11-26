@@ -15,33 +15,23 @@
    "surface": "நோக்கி",
    "parts": [
     {
-     "text": "நோக்கு",
+     "text": "நோக்கி",
      "lemma": "நோக்கு",
-     "gloss": "to consider"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "considering"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "considering"
   },
   {
    "surface": "ஆற்றும்",
    "parts": [
     {
-     "text": "ஆற்று",
+     "text": "ஆற்றும்",
      "lemma": "ஆற்று",
-     "gloss": "to bear"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "bears"
     }
    ],
-   "gloss": "will bear"
+   "gloss": "bears"
   },
   {
    "surface": "கொல்",
@@ -49,10 +39,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed (particle of wonder)"
+     "gloss": "particle of wonder"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "indeed (expressing wonder)"
   },
   {
    "surface": "வையம்",
@@ -63,7 +53,7 @@
      "gloss": "earth"
     }
    ],
-   "gloss": "earth"
+   "gloss": "the earth"
   },
   {
    "surface": "புறன்",
@@ -71,34 +61,34 @@
     {
      "text": "புறன்",
      "lemma": "புறம்",
-     "gloss": "back/absence"
+     "gloss": "behind one's back"
     }
    ],
-   "gloss": "back"
+   "gloss": "behind one's back"
   },
   {
    "surface": "நோக்கி",
    "parts": [
     {
-     "text": "நோக்கு",
+     "text": "நோக்கி",
      "lemma": "நோக்கு",
-     "gloss": "to look"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "watching for"
     }
    ],
-   "gloss": "having looked"
+   "gloss": "watching for"
   },
   {
    "surface": "புன்சொல்",
    "parts": [
     {
-     "text": "புன்சொல்",
-     "lemma": "புன்சொல்",
-     "gloss": "mean word"
+     "text": "புன்",
+     "lemma": "புல்",
+     "gloss": "mean"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
     }
    ],
    "gloss": "mean words"
@@ -107,27 +97,12 @@
    "surface": "உரைப்பான்",
    "parts": [
     {
-     "text": "உரை",
+     "text": "உரைப்பான்",
      "lemma": "உரை",
-     "gloss": "to speak"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "(sandhi)"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "(future tense)"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "gloss": "one who speaks"
     }
    ],
-   "gloss": "he who speaks"
+   "gloss": "of one who speaks"
   },
   {
    "surface": "பொறை",
@@ -138,13 +113,13 @@
      "gloss": "burden"
     }
    ],
-   "gloss": "burden"
+   "gloss": "the burden"
   }
  ],
- "literal": "Virtue having considered, will bear I wonder the earth, back having looked mean words he who speaks' burden.",
- "translation": "I wonder if it is only out of a sense of duty to virtue that the earth bears the burden of a man who waits behind someone's back to speak mean words.",
- "modern": "ஒருவர் இல்லாத நேரம் பார்த்து அவரைப் பற்றி இழிவான சொற்களைப் பேசுபவனுடைய உடல் பாரத்தை, இதுவும் ஒரு தர்மம் என்று கருதித்தான் இந்தப் பூமி சுமக்கிறதோ?",
- "explanation": "This couplet marvels at the earth's patience in supporting the weight of a backbiter. The earth is traditionally praised for bearing all burdens, but the poet wonders if it only tolerates the backbiter out of a strict adherence to its duty (அறன்). The phrase 'புறன் நோக்கி' (looking at the back) vividly captures the cowardice of waiting for someone's absence to speak ill of them. By calling the backbiter a 'பொறை' (burden), the couplet emphasizes that such a person is nothing but dead weight on the world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Virtue considering, bears indeed the earth, behind-the-back watching-for, mean words of-one-who-speaks the-burden.",
+ "translation": "Does the earth bear the heavy burden of one who watches for another's absence to speak mean words, only because she considers it her virtue to endure?",
+ "modern": "அறத்தைக் கருதித்தான் இந்த பூமி, பிறர் இல்லாத சமயம் பார்த்துப் புறங்கூறிப் பேசுகின்றவனுடைய உடலாகிய பாரத்தைச் சுமக்கிறதோ?",
+ "explanation": "The poet wonders why the earth continues to bear the weight of a person who slanders others behind their back. He suggests that the earth does not do this out of any respect for the slanderer, but solely because she considers it her own virtue to endure all burdens patiently. The word 'வையம்' (earth) is personified as a patient mother, and 'அறன் நோக்கி' (considering virtue) explains her motivation. This highlights how despicable backbiting is, as even the earth finds the slanderer to be an unbearable burden, carrying them only out of a sense of duty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

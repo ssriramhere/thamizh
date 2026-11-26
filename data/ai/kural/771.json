@@ -32,22 +32,28 @@
    "parts": [
     {
      "text": "நில்லன்மின்",
-     "lemma": "நில்",
+     "lemma": "நில்லன்மின்",
      "gloss": "do not stand"
     }
    ],
-   "gloss": "do not stand (pl.)"
+   "gloss": "do not stand",
+   "split_unverified": true
   },
   {
    "surface": "தெவ்விர்",
    "parts": [
     {
-     "text": "தெவ்விர்",
+     "text": "தெவ்",
      "lemma": "தெவ்",
-     "gloss": "O enemies"
+     "gloss": "enemy"
+    },
+    {
+     "text": "இர்",
+     "lemma": "இர்",
+     "gloss": "you (plural)"
     }
    ],
-   "gloss": "O enemies!"
+   "gloss": "O enemies"
   },
   {
    "surface": "பலர்",
@@ -121,10 +127,10 @@
    "gloss": "those who stood"
   }
  ],
- "literal": "My lord before do not stand, O enemies! Many, my lord before having stood, [are] those who stood [as] stone.",
- "translation": "O enemies, do not stand against my lord! Many who stood before him are now standing as memorial stones.",
- "modern": "பகைவர்களே! என் தலைவனுக்கு முன்னே போரிட நிற்காதீர்கள். அவனுக்கு முன் எதிர்த்து நின்ற பலர் இப்போது நடுகல்லாக நிற்கிறார்கள்.",
- "explanation": "This couplet is spoken by a warrior warning the enemy forces about his commander's fierce prowess in battle. The word 'என்னை' (eṉṉai) here is formed from 'என்' (my) and 'ஐ' (lord or master), meaning 'my commander', rather than the accusative pronoun 'me'. The warrior warns that many who previously dared to stand against his lord are now standing as 'கல்' (kal), referring to the hero stones erected for the dead. It vividly conveys the lethal certainty of facing this great warrior.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "My lord before do not stand, O enemies! Many, my lord before having stood, stone stood.",
+ "translation": "O enemies, do not stand before my lord! Many who stood before him now stand only as hero-stones.",
+ "modern": "பகைவர்களே! என் தலைவனுக்கு முன்னால் வந்து நிற்காதீர்கள். என் தலைவனுக்கு முன்னால் வந்து எதிர்த்து நின்ற பலர், இன்று நடுகல்லாகத்தான் நிற்கிறார்கள்.",
+ "explanation": "This couplet expresses the fierce pride of a warrior boasting about his leader's might. He warns the enemies not to stand in battle against his lord ('என்னை'). The word 'ஐ' here means leader or lord. He reminds them that many brave men who previously dared to stand against his lord were slain and now exist only as 'hero-stones' (நடுகல்) erected in their memory. The play on the word 'stand' (நின்று, நின்றவர்) contrasts standing in battle with standing eternally as a stone monument.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

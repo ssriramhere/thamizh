@@ -4,14 +4,14 @@
    "surface": "உண்ணற்க",
    "parts": [
     {
-     "text": "உண்",
-     "lemma": "உண்",
-     "gloss": "to drink"
+     "text": "உண்ணு",
+     "lemma": "உண்ணு",
+     "gloss": "drink"
     },
     {
      "text": "அற்க",
      "lemma": "அற்க",
-     "gloss": "do not (negative optative)"
+     "gloss": "negative optative suffix"
     }
    ],
    "gloss": "do not drink"
@@ -27,18 +27,18 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "liquor (acc.)"
+   "gloss": "liquor"
   },
   {
    "surface": "உணில்",
    "parts": [
     {
      "text": "உண்",
-     "lemma": "உண்",
-     "gloss": "to drink"
+     "lemma": "உண்ணு",
+     "gloss": "drink"
     },
     {
      "text": "இல்",
@@ -46,23 +46,23 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if drinking"
+   "gloss": "if one drinks"
   },
   {
    "surface": "உண்க",
    "parts": [
     {
      "text": "உண்",
-     "lemma": "உண்",
-     "gloss": "to drink"
+     "lemma": "உண்ணு",
+     "gloss": "drink"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "let (optative)"
+     "gloss": "optative suffix"
     }
    ],
-   "gloss": "let drink"
+   "gloss": "let them drink"
   },
   {
    "surface": "சான்றோரான்",
@@ -70,15 +70,15 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "noble people"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by (instrumental)"
+     "gloss": "by (instrumental case marker)"
     }
    ],
-   "gloss": "by the noble"
+   "gloss": "by noble people"
   },
   {
    "surface": "எண்ணப்பட",
@@ -86,12 +86,12 @@
     {
      "text": "எண்ண",
      "lemma": "எண்ணு",
-     "gloss": "to esteem"
+     "gloss": "to think/esteem"
     },
     {
      "text": "பட",
      "lemma": "படு",
-     "gloss": "to be (passive)"
+     "gloss": "to be (passive auxiliary)"
     }
    ],
    "gloss": "to be esteemed"
@@ -100,23 +100,18 @@
    "surface": "வேண்டாதார்",
    "parts": [
     {
-     "text": "வேண்டு",
-     "lemma": "வேண்டு",
-     "gloss": "to desire"
-    },
-    {
-     "text": "ஆதார்",
-     "lemma": "ஆதார்",
-     "gloss": "those who do not"
+     "text": "வேண்டாதார்",
+     "lemma": "வேண்டாதார்",
+     "gloss": "those who do not wish/need"
     }
    ],
-   "gloss": "those who do not desire"
+   "gloss": "those who do not wish/need"
   }
  ],
- "literal": "Do not drink liquor; if drinking, let drink by the noble to be esteemed those who do not desire.",
- "translation": "Do not drink liquor. If it must be drunk, let it be drunk only by those who do not care to be esteemed by the noble.",
- "modern": "கள்ளை குடிக்கக் கூடாது; குடிப்பதாக இருந்தால், சான்றோர்களால் மதிக்கப்படுவதை விரும்பாதவர்கள் மட்டும் குடிக்கட்டும்.",
- "explanation": "The couplet issues a strict command against consuming intoxicating liquor. It then uses a rhetorical concession, stating that if someone insists on drinking, it should only be those who do not care about their reputation. The phrase 'சான்றோரான் எண்ணப்பட வேண்டாதார்' refers to people who have no desire to be respected among the wise and noble. By framing it this way, the poet emphasizes that drinking liquor completely destroys one's standing among virtuous people.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not drink liquor; if drinking, let them drink, those who do not wish to be esteemed by noble people.",
+ "translation": "Do not drink liquor. If one must drink, let it be only those who do not care to be held in esteem by noble minds.",
+ "modern": "கள்ளைக் குடிக்கக் கூடாது. ஒருவேளை குடிக்க வேண்டும் என்றால், சான்றோர்களால் மதிக்கப்படுவதை விரும்பாதவர்கள் மட்டும் குடிக்கட்டும்.",
+ "explanation": "This couplet advises against the consumption of alcohol by highlighting its social consequences. It states that if anyone wishes to drink liquor, it should only be those who have no desire to be respected or thought highly of by wise and noble people. The word 'சான்றோரான்' refers to the noble and virtuous, whose esteem is highly valued in society. The term 'எண்ணப்பட' means to be thought of or esteemed. Thus, the poet emphasizes that drinking liquor completely destroys one's reputation among the wise.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,12 +4,17 @@
    "surface": "அடுத்தது",
    "parts": [
     {
-     "text": "அடுத்தது",
-     "lemma": "அடுத்தது",
-     "gloss": "that which is near"
+     "text": "அடுத்த",
+     "lemma": "அடு",
+     "gloss": "which is near"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it"
     }
    ],
-   "gloss": "what is near"
+   "gloss": "that which is near"
   },
   {
    "surface": "காட்டும்",
@@ -17,12 +22,12 @@
     {
      "text": "காட்டு",
      "lemma": "காட்டு",
-     "gloss": "show"
+     "gloss": "to show"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "habitual suffix"
     }
    ],
    "gloss": "will show"
@@ -58,18 +63,23 @@
      "gloss": "mind"
     }
    ],
-   "gloss": "mind"
+   "gloss": "the mind"
   },
   {
    "surface": "கடுத்தது",
    "parts": [
     {
-     "text": "கடுத்தது",
-     "lemma": "கடுத்தது",
-     "gloss": "that which is felt"
+     "text": "கடுத்த",
+     "lemma": "கடு",
+     "gloss": "which is intensely felt"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "it"
     }
    ],
-   "gloss": "what is felt"
+   "gloss": "that which is intensely felt"
   },
   {
    "surface": "காட்டும்",
@@ -77,12 +87,12 @@
     {
      "text": "காட்டு",
      "lemma": "காட்டு",
-     "gloss": "show"
+     "gloss": "to show"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "habitual suffix"
     }
    ],
    "gloss": "will show"
@@ -96,13 +106,13 @@
      "gloss": "face"
     }
    ],
-   "gloss": "face"
+   "gloss": "the face"
   }
  ],
- "literal": "What is near will show crystal like; mind what is felt will show face.",
- "translation": "Just as a crystal reflects the color of whatever is near it, the face reflects the emotions harbored in the mind.",
- "modern": "தன்னை அடுத்துள்ள பொருளின் நிறத்தைக் காட்டும் பளிங்கைப் போல, ஒருவருடைய நெஞ்சத்தில் உள்ள உணர்வை அவருடைய முகம் காட்டிவிடும்.",
- "explanation": "This couplet uses a simple simile to explain how inner thoughts are revealed outwardly. A clear crystal naturally takes on and reflects the color of any object placed next to it. In the exact same way, a person's face acts as a mirror for their mind. The word 'kaṭuttatu' can mean anger, but in this chapter about reading intentions, it refers broadly to any strong emotion or thought harbored inside. Whatever is deeply felt in the heart is unmistakably displayed on the face.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a crystal that shows that which is near, the face will show that which is intensely felt in the mind.",
+ "translation": "Just as a crystal reflects whatever is placed near it, the face reveals what is intensely felt within the mind.",
+ "modern": "அருகில் உள்ள பொருளைக் காட்டும் பளிங்கைப் போல, மனதில் உள்ளதை முகம் காட்டும்.",
+ "explanation": "This couplet uses a vivid simile to explain how the face acts as a mirror to the mind. The word 'பளிங்கு' refers to a clear crystal, which has no color of its own but instantly reflects the color and form of whatever object is placed next to it. Similarly, the human face immediately reveals whatever intense emotion or thought arises in the mind. A skilled observer can therefore read a person's inner thoughts and feelings simply by looking at their face.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

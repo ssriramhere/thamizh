@@ -4,22 +4,17 @@
    "surface": "இல்லாரை",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "not having"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (suffix)"
+     "text": "இல்லார்",
+     "lemma": "இல்லார்",
+     "gloss": "those who have nothing"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those without (wealth) - accusative"
+   "gloss": "those who have nothing (accusative)"
   },
   {
    "surface": "எல்லாரும்",
@@ -32,7 +27,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "inclusive particle"
     }
    ],
    "gloss": "everyone"
@@ -43,17 +38,17 @@
     {
      "text": "எள்ளு",
      "lemma": "எள்ளு",
-     "gloss": "to despise"
+     "gloss": "despise"
     },
     {
      "text": "வ்",
      "lemma": "வ்",
-     "gloss": "future tense marker"
+     "gloss": "future/habitual marker"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they (suffix)"
+     "gloss": "third-person plural suffix"
     }
    ],
    "gloss": "will despise"
@@ -64,15 +59,15 @@
     {
      "text": "செல்வர்",
      "lemma": "செல்வர்",
-     "gloss": "wealthy people"
+     "gloss": "the wealthy"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "the wealthy - accusative"
+   "gloss": "the wealthy (accusative)"
   },
   {
    "surface": "எல்லாரும்",
@@ -85,7 +80,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "inclusive particle"
     }
    ],
    "gloss": "everyone"
@@ -96,17 +91,17 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "வ்",
      "lemma": "வ்",
-     "gloss": "future tense marker"
+     "gloss": "future/habitual marker"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they (suffix)"
+     "gloss": "third-person plural suffix"
     }
    ],
    "gloss": "will do"
@@ -123,10 +118,10 @@
    "gloss": "honor"
   }
  ],
- "literal": "Those without, everyone will despise; the wealthy, everyone will do honor.",
- "translation": "Everyone despises those without wealth, but everyone honors the wealthy.",
- "modern": "பொருள் இல்லாதவரை உலகத்தார் அனைவரும் இகழ்வார்கள். ஆனால் செல்வம் உடையவரை அனைவரும் மதித்துச் சிறப்பு செய்வார்கள்.",
- "explanation": "This couplet contrasts the societal treatment of the poor and the wealthy. The word illārai literally means those who do not have, which in this chapter's context specifically refers to those without wealth. The verb eḷḷuvar indicates mockery or contempt, showing how society looks down upon poverty. Conversely, ciṟappu means special honor or greatness, which everyone readily offers to celvarai, the wealthy. The repetition of ellārum, meaning everyone, emphasizes that this is a universal human tendency.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who have nothing, everyone will despise; the wealthy, everyone will do honor.",
+ "translation": "Everyone despises those who have nothing, while everyone shows honor and respect to the wealthy.",
+ "modern": "பொருள் இல்லாதவர்களை எல்லாரும் இகழ்ந்து பேசுவார்கள்; செல்வம் உடையவர்களை எல்லாரும் மதித்துச் சிறப்பு செய்வார்கள்.",
+ "explanation": "This couplet highlights a stark social reality regarding how wealth dictates human relationships and societal respect. The author observes that those who lack material wealth (illārai) are universally looked down upon or despised (eḷḷuvar) by everyone. Conversely, those who possess wealth (celvarai) are universally honored and treated with high regard (ciṟappu ceyvar). By contrasting the verbs 'eḷḷuvar' (despise) and 'ceyvar ciṟappu' (will do honor), the verse emphasizes that wealth is a primary driver of social standing and influence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

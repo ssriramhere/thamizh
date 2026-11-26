@@ -6,10 +6,10 @@
     {
      "text": "மனத்து",
      "lemma": "மனம்",
-     "gloss": "in the mind"
+     "gloss": "mind (oblique form)"
     }
    ],
-   "gloss": "in the mind"
+   "gloss": "of the mind"
   },
   {
    "surface": "உளது",
@@ -17,10 +17,10 @@
     {
      "text": "உளது",
      "lemma": "உள்",
-     "gloss": "that which exists"
+     "gloss": "existing"
     }
    ],
-   "gloss": "that which exists"
+   "gloss": "existing"
   },
   {
    "surface": "போல",
@@ -31,7 +31,7 @@
      "gloss": "like"
     }
    ],
-   "gloss": "like"
+   "gloss": "appearing like"
   },
   {
    "surface": "காட்டி",
@@ -39,10 +39,10 @@
     {
      "text": "காட்டி",
      "lemma": "காட்டு",
-     "gloss": "having shown"
+     "gloss": "showing"
     }
    ],
-   "gloss": "having shown"
+   "gloss": "showing"
   },
   {
    "surface": "ஒருவற்கு",
@@ -61,10 +61,10 @@
     {
      "text": "இனத்து",
      "lemma": "இனம்",
-     "gloss": "in the company"
+     "gloss": "association (oblique form)"
     }
    ],
-   "gloss": "in the company"
+   "gloss": "of the association"
   },
   {
    "surface": "உளது",
@@ -72,10 +72,10 @@
     {
      "text": "உளது",
      "lemma": "உள்",
-     "gloss": "that which exists"
+     "gloss": "existing"
     }
    ],
-   "gloss": "that which exists"
+   "gloss": "existing"
   },
   {
    "surface": "ஆகும்",
@@ -83,27 +83,27 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "will become"
+     "gloss": "becomes"
     }
    ],
-   "gloss": "will become"
+   "gloss": "becomes"
   },
   {
    "surface": "அறிவு",
    "parts": [
     {
      "text": "அறிவு",
-     "lemma": "அறி",
+     "lemma": "அறிவு",
      "gloss": "wisdom"
     }
    ],
    "gloss": "wisdom"
   }
  ],
- "literal": "Showing as if it exists in the mind, to a person, wisdom becomes that which exists in the company.",
- "translation": "Though a person's wisdom appears to originate from their own mind, it actually takes the nature of the company they keep.",
- "modern": "ஒருவருடைய அறிவு அவருடைய மனத்திலேயே இயல்பாக இருப்பது போலத் தோன்றினாலும், உண்மையில் அது அவர் சேர்ந்திருக்கும் கூட்டத்தின் தன்மையைப் பொறுத்தே அமையும்.",
- "explanation": "This couplet explains the profound influence of one's associates on their intellect. While a person's wisdom might appear to be an independent quality originating from their own mind, it is fundamentally shaped by their social circle. The word 'இனத்து' (in the company) contrasts with 'மனத்து' (in the mind) to emphasize that external associations override internal disposition. Therefore, keeping good company is essential for cultivating true wisdom.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Showing itself as if existing in the mind, to a person, wisdom becomes that which exists in their association.",
+ "translation": "Though wisdom appears to reside in a person's own mind, it actually arises from the company they keep.",
+ "modern": "ஒருவனுடைய அறிவு அவனது மனத்தில் இருப்பது போலத் தோன்றினாலும், அது அவன் சேரும் இனத்தைப் பொறுத்தே அமையும்.",
+ "explanation": "This couplet highlights the powerful influence of association on a person's intellect and character. While it might seem that wisdom is an inherent quality originating from within one's own mind, the poet explains that it is actually shaped by and reflects the nature of the group or company one keeps. The word 'இனம்' refers to the circle of friends or associates. Thus, even if a person is naturally intelligent, their actual wisdom and behavior will ultimately align with the character of their companions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

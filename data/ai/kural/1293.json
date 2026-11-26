@@ -6,7 +6,7 @@
     {
      "text": "கெட்டார்",
      "lemma": "கெடு",
-     "gloss": "ruined ones"
+     "gloss": "those who are ruined"
     },
     {
      "text": "கு",
@@ -14,14 +14,14 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to the ruined"
+   "gloss": "to those who are ruined"
   },
   {
    "surface": "நட்டார்",
    "parts": [
     {
      "text": "நட்டார்",
-     "lemma": "நள்",
+     "lemma": "நட்டார்",
      "gloss": "friends"
     }
    ],
@@ -33,26 +33,26 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "are not"
+     "gloss": "do not exist"
     }
    ],
-   "gloss": "are not"
+   "gloss": "do not exist"
   },
   {
    "surface": "என்பதோ",
    "parts": [
     {
      "text": "என்பது",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என்பது",
+     "gloss": "the saying that"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[question]"
+     "gloss": "is it because of?"
     }
    ],
-   "gloss": "is it the saying?"
+   "gloss": "is it because of the saying?"
   },
   {
    "surface": "நெஞ்சே",
@@ -65,7 +65,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "[vocative]"
+     "gloss": "O"
     }
    ],
    "gloss": "O heart!"
@@ -86,16 +86,16 @@
    "parts": [
     {
      "text": "பெட்டு",
-     "lemma": "பெள்",
-     "gloss": "having desired"
+     "lemma": "பெட்டு",
+     "gloss": "desire"
     },
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "as"
+     "gloss": "in that manner"
     }
    ],
-   "gloss": "as desired"
+   "gloss": "according to your desire"
   },
   {
    "surface": "அவர்",
@@ -106,7 +106,7 @@
      "gloss": "he"
     }
    ],
-   "gloss": "his"
+   "gloss": "him"
   },
   {
    "surface": "பின்",
@@ -124,17 +124,17 @@
    "parts": [
     {
      "text": "செலல்",
-     "lemma": "செல்",
+     "lemma": "செல்லுதல்",
      "gloss": "going"
     }
    ],
    "gloss": "going"
   }
  ],
- "literal": "To the ruined, friends are not, is that the saying, O heart, you, as desired, his behind going?",
- "translation": "O heart, is it because of the saying 'the ruined have no friends' that you abandon me to follow him as you please?",
- "modern": "நெஞ்சே! கெட்டுப்போனவர்களுக்கு நண்பர்கள் இல்லை என்ற பழமொழியை நினைத்துத்தானோ, நீ உனக்கு விருப்பமானபடி அவர் பின்னால் செல்கிறாய்?",
- "explanation": "The heroine addresses her own heart, which seems to have abandoned her to go after her lover. She wonders if her heart is acting on the old proverb that those who are ruined have no friends. Since she is ruined by lovesickness, her heart has deserted her to follow its own desire, leaving her completely alone. The word 'பெட்டாங்கு' means acting exactly as one desires, highlighting the heart's betrayal.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are ruined, friends do not exist, is it because of that saying, O heart, you, as desired, after him go?",
+ "translation": "O my heart! Is it because of the saying that those who are ruined have no friends, that you follow him as you please, leaving me behind?",
+ "modern": "நெஞ்சே! கெட்டவர்களுக்கு நண்பர்கள் இல்லை என்ற பழமொழி உண்மையோ? நீ உன் விருப்பப்படி என்னை விட்டுவிட்டு அவரிடமே செல்கிறாயே.",
+ "explanation": "In this couplet, the heroine addresses her own heart, which is eager to return to her lover despite his neglect. She asks if her heart is abandoning her because of the common proverb that 'those who are ruined have no friends' (கெட்டார்க்கு நட்டார் இல்). Here, 'கெட்டார்' (the ruined) refers to the heroine herself, who is wasted by the pain of separation. Her heart, which should act as her loyal friend ('நட்டார்'), is instead deserting her to go ('செலல்') after her lover according to its own desire ('பெட்டாங்கு'). This playful accusation highlights her helplessness and the conflict between her dignity and her desire.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

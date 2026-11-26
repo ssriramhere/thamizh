@@ -6,10 +6,10 @@
     {
      "text": "ஊழி",
      "lemma": "ஊழி",
-     "gloss": "aeon"
+     "gloss": "cosmic aeon"
     }
    ],
-   "gloss": "aeon"
+   "gloss": "the cosmic aeon"
   },
   {
    "surface": "பெயரினும்",
@@ -17,20 +17,15 @@
     {
      "text": "பெயர்",
      "lemma": "பெயர்",
-     "gloss": "change"
+     "gloss": "to shift"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "இனும்",
+     "lemma": "இனும்",
+     "gloss": "even if"
     }
    ],
-   "gloss": "even if changes"
+   "gloss": "even if it shifts"
   },
   {
    "surface": "தாம்",
@@ -41,23 +36,18 @@
      "gloss": "they"
     }
    ],
-   "gloss": "they"
+   "gloss": "they themselves"
   },
   {
    "surface": "பெயரார்",
    "parts": [
     {
-     "text": "பெயர்",
+     "text": "பெயரார்",
      "lemma": "பெயர்",
-     "gloss": "change"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (negative)"
+     "gloss": "will not swerve"
     }
    ],
-   "gloss": "will not change"
+   "gloss": "will not swerve"
   },
   {
    "surface": "சான்றாண்மைக்கு",
@@ -65,15 +55,15 @@
     {
      "text": "சான்றாண்மை",
      "lemma": "சான்றாண்மை",
-     "gloss": "perfection"
+     "gloss": "perfect character"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "for"
     }
    ],
-   "gloss": "to perfection"
+   "gloss": "for perfect character"
   },
   {
    "surface": "ஆழி",
@@ -91,22 +81,22 @@
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "to say"
+     "lemma": "என",
+     "gloss": "as"
     },
     {
      "text": "படுவார்",
-     "lemma": "படு",
-     "gloss": "those who undergo"
+     "lemma": "படுவார்",
+     "gloss": "those who are considered"
     }
    ],
    "gloss": "those who are called"
   }
  ],
- "literal": "Even if the aeon changes, they will not change, those who are called the ocean to perfection.",
- "translation": "Those who are called the ocean of perfection will not change, even if the aeons themselves change.",
- "modern": "உலகம் அழியும் ஊழிக்காலம் வந்து மாறினாலும், சான்றாண்மைக்குக் கடல் என்று சிறப்பிக்கப்படுபவர்கள் தம் நற்குணங்களிலிருந்து மாற மாட்டார்கள்.",
- "explanation": "The couplet compares people of perfect character to an ocean, emphasizing their vastness and stability. The word 'ஊழி' refers to an aeon or the end of the world, a time of ultimate upheaval. Even if the entire world undergoes such a cataclysmic change, these noble individuals will not waver from their virtues. They are thus called the ocean ('ஆழி') of perfection ('சான்றாண்மைக்கு'), remaining steadfast and uncontainable in their goodness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if the cosmic aeon shifts, they themselves will not swerve, those who are called the ocean for perfect character.",
+ "translation": "Those who are hailed as the ocean of perfect character will never swerve from their virtue, even if the cosmic aeon itself should change.",
+ "modern": "உலகம் அழியும் ஊழிக்காலம் மாறினாலும், சான்றாண்மைக்குக் கடல் போன்றவர் என்று சொல்லப்படுபவர்கள் தம் நற்பண்பிலிருந்து மாற மாட்டார்கள்.",
+ "explanation": "This couplet highlights the unshakeable integrity of truly noble individuals. The poet compares them to the ocean (ஆழி), which is traditionally seen as a symbol of stability that never transgresses its boundaries. Even during the cataclysmic end of an aeon (ஊழி) when the entire universe undergoes drastic shifts, these exemplary people will not swerve from their high moral standards. Their character remains constant regardless of how much the world around them changes.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -27,7 +27,7 @@
    "parts": [
     {
      "text": "தீண்டல்",
-     "lemma": "தீண்டு",
+     "lemma": "தீண்டல்",
      "gloss": "touching"
     }
    ],
@@ -37,9 +37,14 @@
    "surface": "உடற்கு",
    "parts": [
     {
-     "text": "உடற்கு",
+     "text": "உடல்",
      "lemma": "உடல்",
-     "gloss": "to the body"
+     "gloss": "body"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to the body"
@@ -50,10 +55,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "மற்று",
@@ -61,10 +66,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "moreover"
+     "gloss": "and / further"
     }
    ],
-   "gloss": "moreover"
+   "gloss": "and / further"
   },
   {
    "surface": "அவர்",
@@ -83,17 +88,17 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   },
   {
    "surface": "கேட்டல்",
    "parts": [
     {
      "text": "கேட்டல்",
-     "lemma": "கேள்",
+     "lemma": "கேட்டல்",
      "gloss": "hearing"
     }
    ],
@@ -105,27 +110,32 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "செவிக்கு",
    "parts": [
     {
-     "text": "செவிக்கு",
+     "text": "செவி",
      "lemma": "செவி",
-     "gloss": "to the ear"
+     "gloss": "ear"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to the ear"
   }
  ],
- "literal": "Children's body touching is joy to the body; moreover their word hearing is joy to the ear.",
- "translation": "The touch of one's children brings joy to the body, and hearing their words brings joy to the ear.",
- "modern": "தம் குழந்தைகளின் உடலைத் தழுவுவது உடலுக்கு இன்பம் தரும்; அவர்களின் மழலைச் சொற்களைக் கேட்பது காதுக்கு இன்பம் தரும்.",
- "explanation": "This couplet beautifully captures the physical and emotional joys of parenthood. It states that embracing one's children provides the greatest tactile pleasure for the body. Similarly, listening to their innocent words offers the sweetest music to the ears, highlighting how children delight the senses of their parents.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Children's body touching is pleasure to the body; and hearing their words is pleasure to the ear.",
+ "translation": "Touching the bodies of one's children is a delight to the body; hearing their words is a delight to the ear.",
+ "modern": "பிள்ளைகளின் உடலைத் தொடுவது உடலுக்கு இன்பம் தரும்; அவர்களின் சொற்களைக் கேட்பது காதுக்கு இன்பம் தரும்.",
+ "explanation": "This couplet beautifully captures the sensory delights of parenthood. The physical contact of holding or touching one's children brings a deep sense of comfort and pleasure to the parent's own body. Similarly, listening to the sweet, innocent words spoken by them brings immense joy to the ears. Through these simple daily interactions, children become a source of pure happiness for their parents.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

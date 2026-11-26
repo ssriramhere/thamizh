@@ -20,28 +20,18 @@
      "gloss": "without"
     }
    ],
-   "gloss": "without"
+   "gloss": "lacking"
   },
   {
    "surface": "அதனை",
    "parts": [
     {
-     "text": "அது",
+     "text": "அதனை",
      "lemma": "அது",
-     "gloss": "that"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "empty morpheme"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "that (accusative)"
     }
    ],
-   "gloss": "that (action)"
+   "gloss": "that action"
   },
   {
    "surface": "தொடங்கார்",
@@ -49,7 +39,7 @@
     {
      "text": "தொடங்கு",
      "lemma": "தொடங்கு",
-     "gloss": "begin"
+     "gloss": "start"
     },
     {
      "text": "ஆர்",
@@ -74,14 +64,9 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "which is called"
     }
    ],
    "gloss": "which is called"
@@ -92,10 +77,10 @@
     {
      "text": "ஏதப்பாடு",
      "lemma": "ஏதப்பாடு",
-     "gloss": "affliction"
+     "gloss": "ruin or affliction"
     }
    ],
-   "gloss": "affliction"
+   "gloss": "ruin"
   },
   {
    "surface": "அஞ்சுபவர்",
@@ -107,17 +92,17 @@
     },
     {
      "text": "பவர்",
-     "lemma": "பவர்",
-     "gloss": "those who"
+     "lemma": "அவர்",
+     "gloss": "they who"
     }
    ],
    "gloss": "those who fear"
   }
  ],
- "literal": "Clarity without that-which-is they-will-not-begin disgrace called affliction those-who-fear.",
- "translation": "Those who fear the affliction called disgrace will not begin an action that lacks clarity.",
- "modern": "இழிவு என்னும் துன்பத்திற்குப் பயப்படுகின்றவர்கள், தெளிவு இல்லாத எந்த ஒரு செயலையும் தொடங்க மாட்டார்கள்.",
- "explanation": "This couplet warns against undertaking actions without a clear understanding of the methods and consequences. The word 'தெளிவு' refers to a clear, well-thought-out plan. Those who dread the sorrow and shame that come from failure will never start a poorly understood task. Thus, careful deliberation is the only shield against disgrace.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Clarity lacking that [action] they will not begin, disgrace which is called ruin fearing-those.",
+ "translation": "Those who fear the ruin called disgrace will not embark on any action that lacks clarity.",
+ "modern": "அவமானம் என்னும் துன்பத்திற்கு அஞ்சுகின்றவர்கள், தெளிவில்லாத செயலைத் தொடங்க மாட்டார்கள்.",
+ "explanation": "This couplet emphasizes the importance of clarity and foresight before initiating any task. Those who are deeply concerned about their reputation and dread the ruin brought by disgrace (இளிவு) will never start an action without complete certainty (தெளிவு). The word 'ஏதப்பாடு' refers to the state of affliction or ruin that results from failure. By ensuring thorough clarity beforehand, one guards against the shame of an unsuccessful venture.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

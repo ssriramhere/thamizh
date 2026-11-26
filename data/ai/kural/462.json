@@ -6,51 +6,72 @@
     {
      "text": "தெரிந்த",
      "lemma": "தெரி",
-     "gloss": "selected"
+     "gloss": "chosen"
     }
    ],
-   "gloss": "selected"
+   "gloss": "chosen"
   },
   {
    "surface": "இனத்தொடு",
    "parts": [
     {
      "text": "இனத்தொடு",
-     "lemma": "இனம்",
-     "gloss": "with the group"
+     "lemma": "இனத்தொடு",
+     "gloss": "with the associates"
     }
    ],
-   "gloss": "with the group"
+   "gloss": "with the associates",
+   "split_unverified": true
   },
   {
    "surface": "தேர்ந்து",
    "parts": [
     {
-     "text": "தேர்ந்து",
+     "text": "தேர்",
      "lemma": "தேர்",
-     "gloss": "having considered"
+     "gloss": "deliberate"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "ந்து",
+     "gloss": "having"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having deliberated"
   },
   {
    "surface": "எண்ணி",
    "parts": [
     {
-     "text": "எண்ணி",
-     "lemma": "எண்ணு",
-     "gloss": "having thought"
+     "text": "எண்",
+     "lemma": "எண்",
+     "gloss": "plan"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having"
     }
    ],
-   "gloss": "having thought"
+   "gloss": "having planned"
   },
   {
    "surface": "செய்வார்க்கு",
    "parts": [
     {
-     "text": "செய்வார்க்கு",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to those who do"
+     "gloss": "do"
+    },
+    {
+     "text": "வார்",
+     "lemma": "அவர்",
+     "gloss": "those who"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to those who do"
@@ -60,11 +81,12 @@
    "parts": [
     {
      "text": "அரும்பொருள்",
-     "lemma": "அருமை",
-     "gloss": "rare thing"
+     "lemma": "அரும்பொருள்",
+     "gloss": "difficult task"
     }
    ],
-   "gloss": "rare thing"
+   "gloss": "difficult task",
+   "split_unverified": true
   },
   {
    "surface": "யாது",
@@ -72,18 +94,23 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "whatever"
+     "gloss": "what"
     }
    ],
-   "gloss": "whatever"
+   "gloss": "any"
   },
   {
    "surface": "ஒன்றும்",
    "parts": [
     {
-     "text": "ஒன்றும்",
+     "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "even one"
+     "gloss": "one"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
    "gloss": "even one"
@@ -97,13 +124,13 @@
      "gloss": "is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is none"
   }
  ],
- "literal": "To those who do having thought having considered with a selected group, rare thing whatever even one is not.",
- "translation": "For those who deliberate thoroughly and act in the company of chosen associates, there is no achievement too difficult to attain.",
- "modern": "தக்க அறிஞர்கள் கூட்டத்தோடு சேர்ந்து, ஒரு செயலை நன்கு ஆராய்ந்து திட்டமிட்டுச் செய்பவர்களுக்கு, செய்வதற்கு அரிய செயல் என்று எதுவும் இல்லை.",
- "explanation": "This couplet emphasizes the importance of careful planning and good counsel. The phrase 'terinta inattotu' refers to a well-chosen group of knowledgeable associates. When a person deliberates deeply with such a group before acting, no goal or achievement ('arumporul') remains out of reach.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who do [things] after deliberating with chosen associates and planning [carefully], there is not even one difficult matter.",
+ "translation": "For those who act after consulting with chosen associates and deliberating deeply, there is no task too difficult to achieve.",
+ "modern": "ஆராய்ந்து தேர்ந்தெடுக்கப்பட்ட நண்பர்களுடன் ஆலோசித்து, செயலைப்பற்றி நன்கு சிந்தித்துச் செயல்படுபவர்களுக்கு, செய்வதற்கு அரிய செயல் என்று ஒன்றுமே இல்லை.",
+ "explanation": "This couplet emphasizes the power of collective deliberation and thorough planning before undertaking any action. The phrase 'தெரிந்த இனத்தொடு' refers to wise, reliable associates who have been carefully chosen for their counsel. 'தேர்ந்து எண்ணி' highlights the process of analyzing and planning the course of action in consultation with them. For those who proceed with such meticulous preparation, the poet declares that there is no 'அரும்பொருள்' (difficult task or rare achievement) that remains impossible ('யாதொன்றும் இல்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

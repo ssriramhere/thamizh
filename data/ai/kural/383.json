@@ -6,15 +6,15 @@
     {
      "text": "தூங்கு",
      "lemma": "தூங்கு",
-     "gloss": "to delay/sleep"
+     "gloss": "to delay or be sluggish"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "negative nominal suffix"
     }
    ],
-   "gloss": "vigilance"
+   "gloss": "promptness (avoiding delay or sloth)"
   },
   {
    "surface": "கல்வி",
@@ -27,10 +27,10 @@
     {
      "text": "வி",
      "lemma": "வி",
-     "gloss": "noun suffix"
+     "gloss": "nominal suffix"
     }
    ],
-   "gloss": "learning"
+   "gloss": "learning or education"
   },
   {
    "surface": "துணிவுடைமை",
@@ -38,7 +38,7 @@
     {
      "text": "துணிவு",
      "lemma": "துணிவு",
-     "gloss": "boldness"
+     "gloss": "courage or determination"
     },
     {
      "text": "உடைமை",
@@ -46,7 +46,7 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possessing decisiveness"
+   "gloss": "possession of courage or decisiveness"
   },
   {
    "surface": "இம்மூன்றும்",
@@ -54,10 +54,10 @@
     {
      "text": "இம்மூன்றும்",
      "lemma": "இம்மூன்றும்",
-     "gloss": "these three"
+     "gloss": "these three things"
     }
    ],
-   "gloss": "these three",
+   "gloss": "these three things",
    "split_unverified": true
   },
   {
@@ -66,43 +66,53 @@
     {
      "text": "நீங்கு",
      "lemma": "நீங்கு",
-     "gloss": "to depart"
+     "gloss": "to depart or leave"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "negative adjectival suffix"
     }
    ],
-   "gloss": "depart not"
+   "gloss": "never leaving or inseparable"
   },
   {
    "surface": "நிலனான்",
    "parts": [
     {
-     "text": "நிலனான்",
+     "text": "நிலன்",
      "lemma": "நிலன்",
-     "gloss": "earth"
+     "gloss": "land or earth"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "pronominal suffix (he who has)"
     }
    ],
-   "gloss": "earth"
+   "gloss": "he of the land (part of split phrase)"
   },
   {
    "surface": "பவர்க்கு",
    "parts": [
     {
-     "text": "பவர்க்கு",
-     "lemma": "ஆள்பவர்",
-     "gloss": "to those who rule"
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "those who (bound suffix)"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who rule"
+   "gloss": "to those who (part of split phrase)"
   }
  ],
- "literal": "Vigilance, learning, possessing decisiveness, these three depart not from those who rule the earth.",
- "translation": "Vigilance, learning, and decisiveness—these three qualities never depart from those who rule the earth.",
- "modern": "காலம் தாழ்த்தாத சுறுசுறுப்பு, சிறந்த கல்வி, முடிவெடுக்கும் துணிவு ஆகிய இந்த மூன்றும் நாட்டை ஆளும் தலைவர்களிடம் இருந்து விலகாமல் இருக்க வேண்டும்.",
- "explanation": "This couplet outlines three essential qualities for a successful ruler. 'தூங்காமை' means vigilance or acting without delay, 'கல்வி' is continuous learning, and 'துணிவுடைமை' is the boldness to make firm decisions. The poet states that these three traits must never depart ('நீங்கா') from those who govern the land, as they are the foundation of effective leadership.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Promptness, learning, and possession of courage—these three should never depart from those who rule the land.",
+ "translation": "Promptness in action, learning, and decisiveness—these three qualities must never depart from those who rule the land.",
+ "modern": "சுறுசுறுப்பு, கல்வி, துணிவு ஆகிய இந்த மூன்றும் நாட்டை ஆளுபவர்களிடமிருந்து நீங்காமல் இருக்க வேண்டும்.",
+ "explanation": "This couplet outlines the three indispensable qualities of a successful ruler. 'தூங்காமை' literally means 'non-sleeping' or 'not delaying', representing promptness and the avoidance of sloth. 'கல்வி' denotes the acquisition of knowledge and wisdom, while 'துணிவுடைமை' is the possession of courage and decisiveness in taking action. The poet emphasizes that these three traits must never depart ('நீங்கா') from those who govern the earth ('நிலன் ஆள்பவர்க்கு', split metrically here as 'நிலனான் பவர்க்கு').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

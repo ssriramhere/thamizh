@@ -66,6 +66,20 @@
           const [pre, t] = { 'ல': ['ற', 'ற'], 'ன': ['ன', 'ற'], 'ள': ['ட', 'ட'], 'ண': ['ண', 'ட'] }[last.c];
           nxt.add(acc.slice(0, -2) + pre + PULLI + first.text.replace('த', t) + restB);
         }
+        if (last.kind === 'o' && last.c === 'ம' && first.c && !HARD.has(first.c)) nxt.add(acc.slice(0, -2) + part);
+        if (last.kind === 'o' && 'னணலள'.includes(last.c) && first.c === 'ந') {
+          const nas = { 'ன': 'ன', 'ல': 'ன', 'ண': 'ண', 'ள': 'ண' }[last.c];
+          nxt.add(acc.slice(0, -2) + nas + PULLI + nas + part.slice(1));
+          if ('னண'.includes(last.c)) nxt.add(acc.slice(0, -2) + nas + part.slice(1));
+        }
+        if (A.length > 1 && last.text === 'மை') {
+          // a quality noun drops மை: கருமை + கோல் -> கருங்கோல்
+          nxt.add(headA + part);
+          if (HARD.has(first.c)) {
+            nxt.add(headA + { 'க': 'ங', 'ச': 'ஞ', 'த': 'ந', 'ப': 'ம', 'ட': 'ண', 'ற': 'ன' }[first.c] + PULLI + part);
+            nxt.add(headA + first.c + PULLI + part);
+          }
+        }
       }
       results = nxt;
     }

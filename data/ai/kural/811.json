@@ -4,12 +4,17 @@
    "surface": "பருகுவார்",
    "parts": [
     {
-     "text": "பருகுவார்",
+     "text": "பருகு",
      "lemma": "பருகு",
-     "gloss": "those who drink"
+     "gloss": "drink eagerly"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those who drink"
+   "gloss": "those who would drink eagerly (out of feigned love)"
   },
   {
    "surface": "போலினும்",
@@ -17,15 +22,20 @@
     {
      "text": "போல்",
      "lemma": "போல்",
-     "gloss": "to seem"
+     "gloss": "resemble"
     },
     {
-     "text": "இனும்",
-     "lemma": "இனும்",
-     "gloss": "even if"
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "conditional suffix"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
-   "gloss": "even if they seem"
+   "gloss": "even if they resemble"
   },
   {
    "surface": "பண்பு",
@@ -33,7 +43,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "character"
+     "gloss": "good character"
     }
    ],
    "gloss": "good character"
@@ -42,12 +52,17 @@
    "surface": "இலார்",
    "parts": [
     {
-     "text": "இலார்",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "those without"
+     "gloss": "without"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "கேண்மை",
@@ -66,23 +81,28 @@
     {
      "text": "பெருகல்",
      "lemma": "பெருகு",
-     "gloss": "growing"
+     "gloss": "increasing"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative suffix)"
     }
    ],
-   "gloss": "than growing"
+   "gloss": "than increasing"
   },
   {
    "surface": "குன்றல்",
    "parts": [
     {
-     "text": "குன்றல்",
+     "text": "குன்று",
      "lemma": "குன்று",
-     "gloss": "decreasing"
+     "gloss": "dwindle"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "decreasing"
@@ -92,17 +112,17 @@
    "parts": [
     {
      "text": "இனிது",
-     "lemma": "இனிமை",
-     "gloss": "is sweet"
+     "lemma": "இனிது",
+     "gloss": "pleasant/good"
     }
    ],
-   "gloss": "is sweet"
+   "gloss": "is pleasant"
   }
  ],
- "literal": "Those who drink even if they seem like, character those-without friendship, than growing decreasing is sweet.",
- "translation": "Even if they show an affection so intense that they seem to drink you up, it is better for friendship with people of no character to shrink rather than grow.",
- "modern": "அன்பால் உங்களை குடிப்பவர்கள் போல நடித்தாலும், நல்ல பண்பு இல்லாதவர்களின் நட்பு வளர்வதை விட குறைவதே நல்லது.",
- "explanation": "This couplet warns against the deceptive affection of people lacking good character. The word 'parukuvār' evokes the image of someone looking at you with such intense, consuming love that they could drink you up. However, if such people have no true moral character, their friendship is dangerous. Therefore, it is much better and safer for such a friendship to dwindle away rather than to grow stronger.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they resemble those who would drink eagerly, the friendship of those who lack good character, rather than increasing, decreasing is pleasant.",
+ "translation": "Even if they appear so affectionate that they could drink you up, the friendship of those devoid of character is better off dwindling than growing.",
+ "modern": "நம்மை விழுங்குவது போல் அன்பு காட்டுபவர்களாக இருந்தாலும், நற்பண்பு இல்லாதவர்களின் நட்பு வளர்வதை விடத் தேய்ந்து போவதே நல்லது.",
+ "explanation": "This couplet warns us about the superficial affection of unprincipled people. The phrase 'பருகுவார் போலினும்' vividly describes those who act so intensely loving that they seem ready to 'drink you up' or consume you with affection. However, if these people lack basic moral character (பண்பிலார்), their friendship (கேண்மை) is dangerous. The poet advises that it is far better (இனிது) for such a relationship to gradually fade away (குன்றல்) rather than to grow and strengthen (பெருகலின்).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

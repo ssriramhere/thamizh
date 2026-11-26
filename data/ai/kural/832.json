@@ -11,7 +11,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "among"
+     "gloss": "within"
     }
    ],
    "gloss": "among follies"
@@ -44,10 +44,11 @@
     {
      "text": "காதன்மை",
      "lemma": "காதன்மை",
-     "gloss": "desire"
+     "gloss": "excessive desire"
     }
    ],
-   "gloss": "desire"
+   "gloss": "excessive desire",
+   "split_unverified": true
   },
   {
    "surface": "கை",
@@ -58,7 +59,7 @@
      "gloss": "proper conduct"
     }
    ],
-   "gloss": "proper"
+   "gloss": "proper conduct"
   },
   {
    "surface": "அல்ல",
@@ -66,38 +67,39 @@
     {
      "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not-they"
+     "gloss": "which are not"
     }
    ],
-   "gloss": "things that are not"
+   "gloss": "which are not"
   },
   {
    "surface": "தன்கட்",
    "parts": [
     {
      "text": "தன்கட்",
-     "lemma": "தன்கண்",
-     "gloss": "in oneself"
+     "lemma": "தன்கட்",
+     "gloss": "upon oneself"
     }
    ],
-   "gloss": "in oneself"
+   "gloss": "upon oneself",
+   "split_unverified": true
   },
   {
    "surface": "செயல்",
    "parts": [
     {
      "text": "செயல்",
-     "lemma": "செயல்",
+     "lemma": "செய்",
      "gloss": "doing"
     }
    ],
    "gloss": "doing"
   }
  ],
- "literal": "Among follies all, folly is desire for proper-not in-oneself doing.",
- "translation": "The greatest folly among all follies is to love doing things that are unfitting for oneself.",
- "modern": "எல்லாப் பேதைமைகளிலும் பெரிய பேதைமை, தனக்குப் பொருந்தாத செயல்களைச் செய்வதில் விருப்பம் கொள்வதாகும்.",
- "explanation": "This couplet defines the ultimate form of foolishness. While there are many kinds of folly, the worst is having a desire to engage in actions that are improper or unfitting for one's position. The word 'kai' here means proper conduct or fitness, and 'kai alla' refers to things that are not proper. By loving and doing such unfitting things, a person brings about their own ruin, making it the greatest folly.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among all follies, the folly is excessive desire towards that which is not proper, doing it upon oneself.",
+ "translation": "The greatest folly of all follies is the obsessive desire to perform actions that are not worthy of oneself.",
+ "modern": "அறிவீனங்கள் எல்லாவற்றிலும் மிகப்பெரிய அறிவீனம் என்பது, தனக்குத் தகுதி இல்லாத செயல்களின் மேல் ஆசைப்பட்டு அவற்றைச் செய்வதாகும்.",
+ "explanation": "This couplet defines the ultimate form of folly. Among all foolish acts, the most foolish is having a strong desire (காதன்மை) for things that are not proper or suitable (கையல்ல) for one's character or capability, and attempting to perform them (தன்கட் செயல்). Here, 'கை' refers to proper conduct or capability, and 'கையல்ல' means actions that are inappropriate or beyond one's capacity. True wisdom lies in knowing one's limits and duties, whereas folly drives a person to obsess over and pursue what is unfit for them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

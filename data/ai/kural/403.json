@@ -14,7 +14,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even the unlearned"
+   "gloss": "even those who are unlearned"
   },
   {
    "surface": "நனி",
@@ -22,10 +22,10 @@
     {
      "text": "நனி",
      "lemma": "நனி",
-     "gloss": "very"
+     "gloss": "very / greatly"
     }
    ],
-   "gloss": "very"
+   "gloss": "very much"
   },
   {
    "surface": "நல்லர்",
@@ -33,10 +33,10 @@
     {
      "text": "நல்லர்",
      "lemma": "நல்லர்",
-     "gloss": "good people"
+     "gloss": "good / excellent"
     }
    ],
-   "gloss": "good people (they are)"
+   "gloss": "are excellent"
   },
   {
    "surface": "கற்றார்",
@@ -44,7 +44,7 @@
     {
      "text": "கற்றார்",
      "lemma": "கற்றார்",
-     "gloss": "learned people"
+     "gloss": "those who have learned"
     }
    ],
    "gloss": "learned people"
@@ -55,17 +55,17 @@
     {
      "text": "முன்",
      "lemma": "முன்",
-     "gloss": "in front of"
+     "gloss": "before / in front of"
     }
    ],
-   "gloss": "in front of"
+   "gloss": "before"
   },
   {
    "surface": "சொல்லாது",
    "parts": [
     {
      "text": "சொல்லாது",
-     "lemma": "சொல்",
+     "lemma": "சொல்லுதல்",
      "gloss": "without speaking"
     }
    ],
@@ -76,8 +76,8 @@
    "parts": [
     {
      "text": "இருக்க",
-     "lemma": "இரு",
-     "gloss": "to remain"
+     "lemma": "இருத்தல்",
+     "gloss": "to remain / to be"
     }
    ],
    "gloss": "to remain"
@@ -87,17 +87,17 @@
    "parts": [
     {
      "text": "பெறின்",
-     "lemma": "பெறு",
-     "gloss": "if they manage"
+     "lemma": "பெறுதல்",
+     "gloss": "if they obtain / if they can"
     }
    ],
-   "gloss": "if they manage"
+   "gloss": "if they can manage"
   }
  ],
- "literal": "Even the unlearned are very good, learned people in front of, without speaking to remain if they manage.",
- "translation": "Even the unlearned are considered very good, if they can manage to remain silent in the presence of the learned.",
- "modern": "கற்றவர்களுக்கு முன்னால் எதுவும் பேசாமல் அமைதியாக இருக்க முடிந்தால், கல்லாதவர்களும் மிகவும் நல்லவர்களே ஆவார்கள்.",
- "explanation": "This couplet highlights the value of silence for those who lack education. The phrase kallatavarum nani nallar states that even the unlearned are considered exceedingly good. The condition for this goodness is karrar mun collatu irukka perin, meaning if they manage to stay without speaking in the presence of the learned. By remaining silent, they hide their ignorance and show respect, which earns them the reputation of being good people.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even those who are unlearned are very excellent, if they can manage to remain without speaking before the learned.",
+ "translation": "Even those who are unlearned are highly excellent, if they can manage to remain silent in the presence of the learned.",
+ "modern": "கற்றவர்களின் முன்னிலையில் பேசாமல் அமைதியாக இருக்க முடிந்தால், கல்வி கற்காதவர்களும் மிகவும் நல்லவர்களே ஆவர்.",
+ "explanation": "This couplet highlights the value of silence for those who lack education. It states that even unlearned individuals can be considered highly excellent if they possess the self-restraint to remain silent in the presence of scholars. By not speaking, they prevent their lack of knowledge from being exposed, thereby preserving their dignity. The phrase 'நனிநல்லர்' (highly excellent) shows how silence can elevate their worth, while 'சொல்லாதிருக்கப் பெறின்' (if they can manage to remain silent) emphasizes the self-control required to do so.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

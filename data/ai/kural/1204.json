@@ -6,12 +6,12 @@
     {
      "text": "யாம்",
      "lemma": "யாம்",
-     "gloss": "we/I"
+     "gloss": "I"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "too"
+     "gloss": "also"
     }
    ],
    "gloss": "I too"
@@ -20,17 +20,13 @@
    "surface": "உளேங்கொல்",
    "parts": [
     {
-     "text": "உளேம்",
-     "lemma": "உள்",
-     "gloss": "are we (inside)"
-    },
-    {
-     "text": "கொல்",
-     "lemma": "கொல்",
-     "gloss": "I wonder"
+     "text": "உளேங்கொல்",
+     "lemma": "உளேங்கொல்",
+     "gloss": "do I exist?"
     }
    ],
-   "gloss": "am I (there) I wonder"
+   "gloss": "do I exist?",
+   "split_unverified": true
   },
   {
    "surface": "அவர்நெஞ்சத்து",
@@ -66,7 +62,7 @@
     {
      "text": "ஓஒ",
      "lemma": "ஓ",
-     "gloss": "oh!"
+     "gloss": "oh (exclamation of sigh)"
     }
    ],
    "gloss": "oh!"
@@ -77,7 +73,7 @@
     {
      "text": "உளர்",
      "lemma": "உள்",
-     "gloss": "he is (inside)"
+     "gloss": "he exists"
     },
     {
      "text": "ஏ",
@@ -85,7 +81,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "he is indeed"
+   "gloss": "he indeed exists"
   },
   {
    "surface": "அவர்",
@@ -99,10 +95,10 @@
    "gloss": "he"
   }
  ],
- "literal": "I too - am I (there) I wonder - in his heart? In my heart - oh! - is indeed - he.",
- "translation": "I wonder if I am still there in his heart? Oh, he is always here in mine!",
- "modern": "அவர் நெஞ்சத்தில் நாமும் இருக்கிறோமா? என் நெஞ்சத்திலோ அவர் எப்போதும் இருக்கிறாரே!",
- "explanation": "The speaker, pining for her absent lover, wonders if he thinks of her as much as she thinks of him. She asks if she still exists in his heart ('அவர்நெஞ்சத்து யாமும் உளேங்கொல்'). The exclamation 'ஓஒ' (oh!) expresses her deep sigh of longing and realization. She contrasts his possible forgetfulness with her own constant devotion, noting that he is always present in her heart ('எந்நெஞ்சத்து உளரே அவர்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "I too exist-perhaps in his heart? In my heart, oh, exists-indeed he!",
+ "translation": "Do I even exist in his heart? In my heart, oh, he constantly dwells!",
+ "modern": "அவருடைய நெஞ்சத்தில் நானும் இருக்கிறேனா? ஆனால், என் நெஞ்சத்தில் அவரோ எப்போதும் இருக்கிறார்!",
+ "explanation": "The heroine, suffering from the pain of separation, wonders if she occupies any place at all in her lover's thoughts. She uses the doubtful particle 'கொல்' to question if she exists in his heart. In contrast, she uses the emphatic 'ஏ' and an exclamatory sigh 'ஓஒ' to state that he is permanently and vividly present in her own heart. This contrast beautifully highlights the vulnerability and one-sided intensity of her longing during separation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

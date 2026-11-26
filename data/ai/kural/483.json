@@ -4,12 +4,17 @@
    "surface": "அருவினை",
    "parts": [
     {
-     "text": "அருவினை",
-     "lemma": "அருவினை",
-     "gloss": "difficult action"
+     "text": "அரு",
+     "lemma": "அருமை",
+     "gloss": "rare or difficult"
+    },
+    {
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "task or action"
     }
    ],
-   "gloss": "difficult action"
+   "gloss": "difficult tasks"
   },
   {
    "surface": "என்ப",
@@ -20,7 +25,7 @@
      "gloss": "they say"
     }
    ],
-   "gloss": "they say"
+   "gloss": "so they say"
   },
   {
    "surface": "உளவோ",
@@ -33,10 +38,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "do they exist?"
+   "gloss": "are there any?"
   },
   {
    "surface": "கருவியான்",
@@ -44,7 +49,7 @@
     {
      "text": "கருவி",
      "lemma": "கருவி",
-     "gloss": "instrument"
+     "gloss": "instrument or means"
     },
     {
      "text": "ஆன்",
@@ -52,7 +57,7 @@
      "gloss": "with"
     }
    ],
-   "gloss": "with instruments"
+   "gloss": "with the proper means"
   },
   {
    "surface": "காலம்",
@@ -63,7 +68,7 @@
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "the right time"
   },
   {
    "surface": "அற஧ந்து",
@@ -80,23 +85,18 @@
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one does"
     }
    ],
-   "gloss": "if done"
+   "gloss": "if one performs"
   }
  ],
- "literal": "Difficult actions they say exist-do? with instruments time having known if one does.",
- "translation": "Are there any actions said to be impossible? Not if one acts with the right instruments and knows the right time.",
- "modern": "தகுந்த கருவிகளுடன் ஏற்ற காலத்தை அறிந்து ஒரு செயலைச் செய்தால், செய்வதற்கு அரிய செயல் என்று சொல்லப்படுவது எதுவும் இல்லை.",
- "explanation": "This couplet emphasizes the importance of combining the right tools with the right timing. The word 'கருவியான்' refers to the necessary instruments or means, while 'காலம்' refers to the appropriate moment. When an action is performed with both, even tasks considered impossible ('அருவினை') become achievable. The rhetorical question 'உளவோ' implies that no such impossible tasks exist under these conditions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Difficult tasks, they say, are there any? If one acts with the proper means, having known the right time.",
+ "translation": "Are there any tasks said to be impossible, if one acts with the proper means after choosing the right time?",
+ "modern": "தகுந்த கருவிகளுடன், ஏற்ற காலத்தை அறிந்து ஒரு செயலைச் செய்தால், செய்ய முடியாத அருமையான செயல்கள் என்று ஏதேனும் உண்டோ?",
+ "explanation": "This couplet emphasizes the power of timing and preparation in achieving difficult goals. The author asks rhetorically if there is any task too difficult to accomplish in this world. The answer is no, provided two conditions are met: one must act with the appropriate resources or instruments and perform the action at the most opportune moment. When correct timing and proper means come together, even the most challenging endeavors become easily achievable.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

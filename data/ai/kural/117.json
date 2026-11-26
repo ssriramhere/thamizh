@@ -10,11 +10,11 @@
     },
     {
      "text": "ஆக",
-     "lemma": "ஆ",
+     "lemma": "ஆக",
      "gloss": "as"
     }
    ],
-   "gloss": "as ruin"
+   "gloss": "as a ruin"
   },
   {
    "surface": "வையாது",
@@ -22,7 +22,7 @@
     {
      "text": "வை",
      "lemma": "வை",
-     "gloss": "consider"
+     "gloss": "to consider"
     },
     {
      "text": "ஆது",
@@ -38,10 +38,10 @@
     {
      "text": "உலகம்",
      "lemma": "உலகம்",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "நடுவாக",
@@ -53,7 +53,7 @@
     },
     {
      "text": "ஆக",
-     "lemma": "ஆ",
+     "lemma": "ஆக",
      "gloss": "being"
     }
    ],
@@ -65,7 +65,7 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "goodness"
+     "gloss": "virtue"
     },
     {
      "text": "கண்",
@@ -73,18 +73,28 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in goodness"
+   "gloss": "in virtue"
   },
   {
    "surface": "தங்கியான்",
    "parts": [
     {
-     "text": "தங்கியான்",
+     "text": "தங்கு",
      "lemma": "தங்கு",
-     "gloss": "he who abides"
+     "gloss": "to abide"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who"
     }
    ],
-   "gloss": "he who abides"
+   "gloss": "he who abided"
   },
   {
    "surface": "தாழ்வு",
@@ -98,10 +108,10 @@
    "gloss": "decline"
   }
  ],
- "literal": "as ruin will not consider the world being impartial in goodness he who abides decline",
- "translation": "The world will not consider as ruin the decline of a person who abides in goodness and maintains impartiality.",
- "modern": "நடுவுநிலைமையோடு அறத்தில் நிலைத்து நிற்கும் ஒருவருக்கு ஏற்படும் வறுமையை உலகம் ஒரு கேடாகக் கருதாது.",
- "explanation": "This couplet explains how society views the material decline of a truly just person. The word 'தாழ்வு' means a lowering of status or wealth, while 'கெடு' means absolute ruin or destruction. The world does not see the poverty of someone who remains impartial and rooted in goodness as a true loss. Instead, their enduring virtue is recognized as their true wealth, making their material decline insignificant.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "As a ruin will not consider the world, being impartial in virtue he who abided, his decline.",
+ "translation": "The world will not regard as a ruin or downfall the material decline of one who stands firm in impartiality and virtue.",
+ "modern": "நடுவுநிலையோடு அறவழியில் நிலைத்து நிற்பவனுடைய வறுமையை, உலகம் ஒரு தாழ்வாகக் கருதாது.",
+ "explanation": "This couplet highlights how society values moral integrity over material wealth. When a person chooses to remain strictly impartial and righteous, they might face financial decline or poverty. However, the wise people of the world do not look down upon this loss as a true failure or ruin. Instead, such a decline is respected as a badge of honor, because the individual did not compromise their values for personal gain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

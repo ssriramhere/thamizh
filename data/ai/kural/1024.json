@@ -6,12 +6,12 @@
     {
      "text": "சூழ்",
      "lemma": "சூழ்",
-     "gloss": "to plan"
+     "gloss": "deliberate or plan"
     },
     {
      "text": "ஆமல்",
      "lemma": "ஆமல்",
-     "gloss": "without"
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
    "gloss": "without planning"
@@ -27,10 +27,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed (emphatic)"
+     "gloss": "indeed (emphatic particle)"
     }
    ],
-   "gloss": "by itself"
+   "gloss": "spontaneously or of its own accord"
   },
   {
    "surface": "முடிவு",
@@ -38,10 +38,10 @@
     {
      "text": "முடிவு",
      "lemma": "முடிவு",
-     "gloss": "completion"
+     "gloss": "completion or success"
     }
    ],
-   "gloss": "success"
+   "gloss": "completion or success"
   },
   {
    "surface": "எய்தும்",
@@ -49,23 +49,23 @@
     {
      "text": "எய்து",
      "lemma": "எய்து",
-     "gloss": "to attain"
+     "gloss": "reach or attain"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will (habitual/future suffix)"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "will reach"
   },
   {
    "surface": "தம்",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "one's own"
+     "lemma": "தம்",
+     "gloss": "their own"
     }
    ],
    "gloss": "their own"
@@ -76,15 +76,15 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "family"
+     "gloss": "family or clan"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "(accusative suffix)"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "family (obj.)"
+   "gloss": "family or clan"
   },
   {
    "surface": "தாழாது",
@@ -92,37 +92,42 @@
     {
      "text": "தாழ்",
      "lemma": "தாழ்",
-     "gloss": "to slacken"
+     "gloss": "delay or decline"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
-   "gloss": "without slackening"
+   "gloss": "without delaying"
   },
   {
    "surface": "உஞற்றுபவர்க்கு",
    "parts": [
     {
-     "text": "உஞற்றுபவர்",
-     "lemma": "உஞற்றுபவர்",
-     "gloss": "those who strive"
+     "text": "உஞற்று",
+     "lemma": "உஞற்று",
+     "gloss": "strive or exert"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "to"
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "those who do"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to (dative suffix)"
     }
    ],
    "gloss": "to those who strive"
   }
  ],
- "literal": "Without planning, by itself completion will happen, their own family (obj.) without slackening to those who strive.",
- "translation": "Success will come on its own, even without prior planning, to those who strive tirelessly to uplift their family.",
- "modern": "தம் குடியை உயர்த்துவதற்குச் சோர்வில்லாமல் தொடர்ந்து முயற்சி செய்பவர்களுக்கு, அவர்கள் முன்கூட்டியே திட்டமிடாமலேயே வெற்றி தானாகவே வந்து சேரும்.",
- "explanation": "This couplet highlights the power of relentless effort in elevating one's family or lineage. The phrase 'தாழாது உஞற்றுபவர்க்கு' refers to those who strive continuously without any slackening or delay. For such dedicated individuals, the text says that 'முடிவு' (completion or success) will happen 'தானே' (by itself). Even if they proceed 'சூழாமல்' (without extensive deliberation or planning), their sheer persistent effort will naturally bring about the desired successful outcome.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without planning, of its own accord, completion will reach, for those who strive without delay for their own family.",
+ "translation": "For those who strive without delay to elevate their family, success will come spontaneously, even without deliberate planning.",
+ "modern": "தன் குடும்பத்தை உயர்த்தத் தாமதிக்காமல் உழைப்பவர்களுக்கு, அவர்கள் செய்ய நினைக்கும் காரியங்கள் திட்டமிடாமலேயே தானாகவே வெற்றியை அடையும்.",
+ "explanation": "This couplet emphasizes the power of prompt and dedicated action in uplifting one's family. For those who work tirelessly and without procrastination ('தாழாது உஞற்றுபவர்க்கு') to improve their clan, success comes naturally. The poet suggests that such sincere efforts bear fruit spontaneously ('தானே முடிவு எய்தும்'), even without the need for elaborate or anxious planning ('சூழாமல்'). The momentum of immediate, selfless action itself clears obstacles and ensures success.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

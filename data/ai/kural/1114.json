@@ -6,15 +6,15 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "see"
+     "gloss": "to see"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if (they) see"
+   "gloss": "if it sees"
   },
   {
    "surface": "குவளை",
@@ -22,21 +22,26 @@
     {
      "text": "குவளை",
      "lemma": "குவளை",
-     "gloss": "water-lily"
+     "gloss": "blue water-lily"
     }
    ],
-   "gloss": "water-lilies"
+   "gloss": "blue water-lily"
   },
   {
    "surface": "கவிழ்ந்து",
    "parts": [
     {
-     "text": "கவிழ்ந்து",
+     "text": "கவிழ்",
      "lemma": "கவிழ்",
-     "gloss": "having bowed down"
+     "gloss": "to bend down/droop"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "ந்து",
+     "gloss": "having (past participle suffix)"
     }
    ],
-   "gloss": "having bowed down"
+   "gloss": "having drooped"
   },
   {
    "surface": "நிலன்",
@@ -44,21 +49,26 @@
     {
      "text": "நிலன்",
      "lemma": "நிலம்",
-     "gloss": "ground"
+     "gloss": "ground/earth"
     }
    ],
-   "gloss": "ground"
+   "gloss": "the ground"
   },
   {
    "surface": "நோக்கும்",
    "parts": [
     {
-     "text": "நோக்கும்",
+     "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "will look"
+     "gloss": "to look"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (habitual/future suffix)"
     }
    ],
-   "gloss": "will look"
+   "gloss": "will look at"
   },
   {
    "surface": "மாணிழை",
@@ -66,15 +76,15 @@
     {
      "text": "மாண்",
      "lemma": "மாண்",
-     "gloss": "excellent"
+     "gloss": "excellent/glorious"
     },
     {
      "text": "இழை",
      "lemma": "இழை",
-     "gloss": "jewel"
+     "gloss": "jeweled ornament"
     }
    ],
-   "gloss": "woman with excellent jewels"
+   "gloss": "she who wears excellent ornaments"
   },
   {
    "surface": "கண்",
@@ -82,7 +92,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
    "gloss": "eyes"
@@ -91,9 +101,14 @@
    "surface": "ஒவ்வேம்",
    "parts": [
     {
-     "text": "ஒவ்வேம்",
+     "text": "ஒவ்வு",
      "lemma": "ஒவ்வு",
-     "gloss": "we do not equal"
+     "gloss": "to equal/resemble"
+    },
+    {
+     "text": "ஏம்",
+     "lemma": "ஏம்",
+     "gloss": "we will not (negative first-person plural suffix)"
     }
    ],
    "gloss": "we do not equal"
@@ -110,10 +125,10 @@
    "gloss": "saying"
   }
  ],
- "literal": "If they see, water-lilies having bowed down ground will look, \"excellent-jewels' eyes we do not equal\" saying.",
- "translation": "If water-lilies could see, they would bow their heads and look at the ground, saying, \"We cannot equal the eyes of this woman wearing excellent jewels.\"",
- "modern": "குவளை மலர்கள் காணும் திறன் பெற்றிருந்தால், \"இந்தச் சிறந்த அணிகலன்களை அணிந்தவளின் கண்களுக்கு நாங்கள் ஒப்பாக மாட்டோம்\" என்று நாணிக் தலைகவிழ்ந்து நிலத்தைப் பார்க்கும்.",
- "explanation": "The speaker praises the beauty of the woman's eyes by comparing them to water-lilies, a classic poetic standard for beautiful eyes. He imagines that if the flowers were granted the power of sight, they would realize their own inferiority. Overcome with modesty and shame at the realization that they cannot match the beauty of the woman's eyes, the water-lilies would bow their heads and stare at the ground. The word 'மாணிழை' (excellent jewels) is used as a metonymy to refer to the woman herself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If it sees, the blue water-lily, having drooped, the ground will look at, 'the eyes of her who wears excellent ornaments we do not equal' saying.",
+ "translation": "If the blue water-lily could see, it would droop its head and look down at the ground, saying, 'We can never equal the eyes of this beautifully adorned woman.'",
+ "modern": "நீலக் குவளை மலர் பார்க்கக் கூடுமானால், 'சிறந்த அணிகலன்களை அணிந்த இவளுடைய கண்களுக்கு நாம் இணையாக மாட்டோம்' என்று கூறி, தலைகவிழ்ந்து தரையைப் பார்க்கும்.",
+ "explanation": "In this verse, the lover praises the extraordinary beauty of his beloved's eyes. He personifies the blue water-lily, a flower traditionally compared to beautiful eyes in classical poetry. He suggests that if the flower possessed the power of sight, it would realize its own inferiority to her eyes. Overcome with shame, the lily would droop its head and stare at the ground in defeat.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

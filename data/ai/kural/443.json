@@ -4,12 +4,22 @@
    "surface": "அரியவற்றுள்",
    "parts": [
     {
-     "text": "அரியவற்றுள்",
-     "lemma": "அரியவை",
-     "gloss": "among rare things"
+     "text": "அரிய",
+     "lemma": "அரிய",
+     "gloss": "rare things"
+    },
+    {
+     "text": "அற்று",
+     "lemma": "அற்று",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "உள்",
+     "lemma": "உள்",
+     "gloss": "among"
     }
    ],
-   "gloss": "among rare things"
+   "gloss": "Among all rare things"
   },
   {
    "surface": "எல்லாம்",
@@ -28,15 +38,15 @@
     {
      "text": "அரிது",
      "lemma": "அரிது",
-     "gloss": "rare"
+     "gloss": "rare thing"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "rare indeed"
+   "gloss": "is indeed the rarest"
   },
   {
    "surface": "பெரியாரை",
@@ -49,7 +59,7 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "great people"
@@ -60,26 +70,27 @@
     {
      "text": "பேணி",
      "lemma": "பேணு",
-     "gloss": "having cherished"
+     "gloss": "cherishing"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "having cherished"
+   "gloss": "cherishing"
   },
   {
    "surface": "தமராக்",
    "parts": [
     {
      "text": "தமராக்",
-     "lemma": "தமர்",
+     "lemma": "தமராக்",
      "gloss": "as one's own"
     }
    ],
-   "gloss": "as one's own"
+   "gloss": "as one's own",
+   "split_unverified": true
   },
   {
    "surface": "கொளல்",
@@ -93,10 +104,10 @@
    "gloss": "securing"
   }
  ],
- "literal": "among rare things / all / rare indeed / great people / having cherished / as one's own / securing",
- "translation": "Among all rare things, the rarest is to cherish great people and secure them as one's own.",
- "modern": "கிடைப்பதற்கு அரிய பேறுகள் எல்லாவற்றிலும் மிகவும் அரியது, பெரியவர்களைப் போற்றி அவர்களைத் தமது சுற்றத்தாராக ஆக்கிக் கொள்வதாகும்.",
- "explanation": "This couplet emphasizes the supreme value of associating with great and wise people. The phrase 'அரியவற்றுள் எல்லாம் அரிதே' highlights that among all the rare and precious things one could acquire in life, this is the most valuable. By using 'பேணித் தமராக் கொளல்', the poet advises not just to respect great people from a distance, but to actively cherish them and make them one's own close allies. This close bond with the wise provides unparalleled guidance and strength.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among all rare things, the rarest indeed is, great people, cherishing, as one's own, securing.",
+ "translation": "Of all rare blessings, the rarest of all is to cherish great people and secure them as one's own kin.",
+ "modern": "அடைவதற்கரிய நன்மைகள் எல்லாவற்றிலும் மிகவும் அரிய நன்மை, பெரியவர்களைப் போற்றி அவர்களைத் நமக்குச் சுற்றத்தாராக ஆக்கிக் கொள்வதாகும்.",
+ "explanation": "This couplet emphasizes the supreme value of securing the guidance of wise elders. The author compares this to all other rare achievements in life and declares it to be the most difficult and valuable of all. The key words 'பேணி' (cherishing) and 'தமராக் கொளல்' (making them one's own) show that this is not a casual association; it requires active respect, honor, and cultivation to turn wise mentors into close allies.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

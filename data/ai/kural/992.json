@@ -14,15 +14,15 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possession of love"
+   "gloss": "possessing love"
   },
   {
    "surface": "ஆன்ற",
    "parts": [
     {
      "text": "ஆன்ற",
-     "lemma": "ஆன்ற",
-     "gloss": "noble"
+     "lemma": "ஆல்",
+     "gloss": "noble or abundant"
     }
    ],
    "gloss": "noble"
@@ -33,7 +33,7 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "family"
+     "gloss": "family or lineage"
     }
    ],
    "gloss": "family"
@@ -43,7 +43,7 @@
    "parts": [
     {
      "text": "பிறத்தல்",
-     "lemma": "பிற",
+     "lemma": "பிறத்தல்",
      "gloss": "being born"
     }
    ],
@@ -53,14 +53,9 @@
    "surface": "இவ்",
    "parts": [
     {
-     "text": "இ",
+     "text": "இவ்",
      "lemma": "இ",
-     "gloss": "this"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
+     "gloss": "these"
     }
    ],
    "gloss": "these"
@@ -76,10 +71,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "both"
     }
    ],
-   "gloss": "both"
+   "gloss": "both of these two"
   },
   {
    "surface": "பண்புடைமை",
@@ -87,7 +82,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "good quality"
+     "gloss": "good character or courtesy"
     },
     {
      "text": "உடைமை",
@@ -95,7 +90,7 @@
      "gloss": "possession"
     }
    ],
-   "gloss": "possession of good qualities"
+   "gloss": "possessing good character"
   },
   {
    "surface": "என்னும்",
@@ -103,15 +98,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say or call"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "which is"
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "வழக்கு",
@@ -119,16 +114,16 @@
     {
      "text": "வழக்கு",
      "lemma": "வழக்கு",
-     "gloss": "way"
+     "gloss": "proper path or practice"
     }
    ],
-   "gloss": "path"
+   "gloss": "the proper path"
   }
  ],
- "literal": "Possession of love, being born in a noble family, these two are the path called possession of good qualities.",
- "translation": "Possessing affection and being born into a noble family—these two constitute the path known as true courtesy.",
- "modern": "அன்பு உடையவராக இருப்பதும், சிறந்த குடியில் பிறந்திருப்பதும் ஆகிய இந்த இரண்டுமே பண்புடைமை என்று சொல்லப்படும் நல்வழியாகும்.",
- "explanation": "This couplet defines the foundation of good character or courtesy. The first requirement is 'anpudaimai', which means possessing genuine love and affection for others. The second is 'aanra kudi pirathal', which means being born into a noble or excellent family, implying an upbringing rooted in good values. The word 'vazhakku' refers to the established path or proper nature of things. Together, these two traits form the path that is called true courtesy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Possessing love, being born in a noble family, these two, possessing good character which is called the proper path.",
+ "translation": "Possessing a loving nature and being born into a noble family—these two constitute the path called good character.",
+ "modern": "அன்புடையவராக இருப்பதும், உயர்ந்த குடியில் பிறப்பதும் ஆகிய இவ்விரண்டும் தான் 'பண்புடைமை' என்று சொல்லப்படும் நல்வழியாகும்.",
+ "explanation": "This couplet defines the foundation of 'paṇpuṭaimai' (courtesy or good character). It states that having a loving heart (anpuṭaimai) and being born into a noble, well-mannered family (āṉṟa kuṭippiṟattal) are the two essential elements. Together, these two qualities constitute the path or practice known as courtesy. The word 'vaḻakku' here refers to the established right path or proper way of living.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

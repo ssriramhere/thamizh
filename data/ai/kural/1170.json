@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "போன்று",
-     "lemma": "போல்",
-     "gloss": "resembling"
+     "lemma": "போன்று",
+     "gloss": "like"
     }
    ],
-   "gloss": "resembling"
+   "gloss": "like"
   },
   {
    "surface": "உள்வழி",
@@ -28,12 +28,12 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "being"
+     "gloss": "existence / presence"
     },
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "place"
+     "gloss": "place / path"
     }
    ],
    "gloss": "to the place where he is"
@@ -42,12 +42,17 @@
    "surface": "செல்கிற்பின்",
    "parts": [
     {
-     "text": "செல்கிற்பின்",
+     "text": "செல்",
      "lemma": "செல்",
-     "gloss": "if able to go"
+     "gloss": "go"
+    },
+    {
+     "text": "கிற்பின்",
+     "lemma": "கிற்பின்",
+     "gloss": "if able to"
     }
    ],
-   "gloss": "if able to go"
+   "gloss": "if they could go"
   },
   {
    "surface": "வெள்ள",
@@ -58,7 +63,7 @@
      "gloss": "flood"
     }
    ],
-   "gloss": "flood"
+   "gloss": "flood of"
   },
   {
    "surface": "நீர்",
@@ -66,21 +71,21 @@
     {
      "text": "நீர்",
      "lemma": "நீர்",
-     "gloss": "water"
+     "gloss": "water / tears"
     }
    ],
-   "gloss": "water (tears)"
+   "gloss": "water"
   },
   {
    "surface": "நீந்தல",
    "parts": [
     {
      "text": "நீந்தல",
-     "lemma": "நீந்து",
-     "gloss": "they would not swim"
+     "lemma": "நீந்துதல்",
+     "gloss": "would not swim"
     }
    ],
-   "gloss": "they would not swim"
+   "gloss": "would not swim"
   },
   {
    "surface": "மன்னோ",
@@ -88,12 +93,12 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "particle of emphasis"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "alas"
+     "gloss": "particle of regret"
     }
    ],
    "gloss": "alas"
@@ -115,16 +120,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
    "gloss": "eyes"
   }
  ],
- "literal": "Mind resembling, to the place where he is, if able to go, flood water, swim-not-they alas, my eyes.",
- "translation": "If my eyes could travel to where my lover is, just as my mind does, they would not be swimming in this flood of tears.",
- "modern": "என் மனத்தைப் போல என் கண்களும் அவர் உள்ள இடத்திற்குச் செல்ல முடியுமானால், அவை இப்படி வெள்ளம் போன்ற கண்ணீரில் நீந்திக் கொண்டிருக்க மாட்டா.",
- "explanation": "The heroine laments her physical separation from her lover while her mind is already with him. She wishes her eyes had the same ability as her mind to instantly travel to where he is. If they could, they would be looking at him instead of swimming in a flood of tears. The contrast between the swift, unbound mind and the physically bound, weeping eyes highlights her deep sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like the mind, to the place where he is, if they could go, in a flood of water, swim they would not, alas, my eyes.",
+ "translation": "If my eyes could only travel to the place where my beloved is, just as my mind does, they would not have to swim in this flood of tears.",
+ "modern": "என் நெஞ்சத்தைப் போல, என் காதலர் இருக்கும் இடத்திற்கு என் கண்களும் செல்ல முடியுமானால், அவை இந்த வெள்ளப் பெருக்கான கண்ணீரில் நீந்த வேண்டியிருக்காது.",
+ "explanation": "The heroine laments her state of separation, where her eyes constantly weep. She notes that her mind has the ability to instantly travel to where her beloved resides. If only her eyes could do the same and go to that place, they would be gazing upon him instead of crying. Consequently, they would not have to swim in a flood of their own tears. The particles 'மன்னோ' express her deep regret and longing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

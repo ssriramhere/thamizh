@@ -11,10 +11,10 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "by an action"
+   "gloss": "by one action"
   },
   {
    "surface": "வினை",
@@ -25,34 +25,29 @@
      "gloss": "action"
     }
    ],
-   "gloss": "action"
+   "gloss": "another action"
   },
   {
    "surface": "ஆக்கி",
    "parts": [
     {
-     "text": "ஆக்கு",
+     "text": "ஆக்கி",
      "lemma": "ஆக்கு",
-     "gloss": "make"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having accomplished"
     }
    ],
-   "gloss": "having made"
+   "gloss": "accomplishing"
   },
   {
    "surface": "கோடல்",
    "parts": [
     {
      "text": "கோடல்",
-     "lemma": "கொள்",
-     "gloss": "taking"
+     "lemma": "கோடல்",
+     "gloss": "securing (verbal noun)"
     }
    ],
-   "gloss": "accomplishing"
+   "gloss": "securing"
   },
   {
    "surface": "நனை",
@@ -60,7 +55,7 @@
     {
      "text": "நனை",
      "lemma": "நனை",
-     "gloss": "wet"
+     "gloss": "wet / moist"
     }
    ],
    "gloss": "wet"
@@ -71,10 +66,10 @@
     {
      "text": "கவுள்",
      "lemma": "கவுள்",
-     "gloss": "cheek"
+     "gloss": "temple / cheek"
     }
    ],
-   "gloss": "cheek"
+   "gloss": "temple (of an elephant)"
   },
   {
    "surface": "யானையால்",
@@ -87,7 +82,7 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
    "gloss": "by an elephant"
@@ -101,7 +96,7 @@
      "gloss": "elephant"
     }
    ],
-   "gloss": "elephant"
+   "gloss": "another elephant"
   },
   {
    "surface": "யாத்து",
@@ -109,10 +104,10 @@
     {
      "text": "யாத்து",
      "lemma": "யா",
-     "gloss": "having bound"
+     "gloss": "having bound / tethered"
     }
    ],
-   "gloss": "having bound"
+   "gloss": "binding"
   },
   {
    "surface": "அற்று",
@@ -120,16 +115,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like / is of that nature"
     }
    ],
-   "gloss": "it is like"
+   "gloss": "is like"
   }
  ],
- "literal": "By an action, an action having made, accomplishing (is) wet cheek by an elephant an elephant having bound like.",
- "translation": "Accomplishing one task through another is like using a rutting elephant to capture another wild elephant.",
- "modern": "ஒரு செயலைச் செய்யும்போதே அதைப் பயன்படுத்தி மற்றொரு செயலையும் முடித்துக்கொள்வது, மதநீர் ஒழுகும் ஒரு யானையை வைத்து மற்றொரு யானையைப் பிடிப்பதைப் போன்றதாகும்.",
- "explanation": "This couplet explains the strategy of achieving multiple goals efficiently. It compares the process of using one ongoing action to accomplish another to the traditional method of capturing wild elephants. Just as a trained elephant with wet cheeks (indicating rut or maturity) is used to lure and bind a wild elephant, a wise person uses the momentum and resources of one task to complete another. The words 'வினையான் வினை' (action by action) and 'யானையால் யானை' (elephant by elephant) create a strong parallel that emphasizes leveraging existing efforts.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By one action, accomplishing another action and securing it, is like binding an elephant with a wet-templed elephant.",
+ "translation": "Accomplishing one task by means of another is like tethering a wild elephant using a strong, tame elephant.",
+ "modern": "ஒரு செயலைக் கொண்டு மற்றொரு செயலையும் செய்து முடித்துக் கொள்வது, மதநீர் ஒழுகும் கன்னத்தை உடைய ஒரு யானையைக் கொண்டு மற்றொரு யானையைக் கட்டுவதைப் போன்றது ஆகும்.",
+ "explanation": "This couplet explains the art of multitasking and efficiency using a vivid simile. In ancient times, a strong, trained elephant (often in musth, indicated by its wet temples) was used to lure and capture wild elephants. Similarly, a wise person uses the momentum, resources, or execution of one ongoing action to accomplish another related task. This saves effort and doubles efficiency, turning one endeavor into a tool for another.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

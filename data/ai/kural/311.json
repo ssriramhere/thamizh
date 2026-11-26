@@ -9,23 +9,18 @@
      "gloss": "greatness"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "greatness or glory"
   },
   {
    "surface": "ஈனும்",
    "parts": [
     {
-     "text": "ஈன்",
-     "lemma": "ஈன்",
-     "gloss": "to yield"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future relative participle suffix"
+     "text": "ஈனும்",
+     "lemma": "ஈனு",
+     "gloss": "which yields"
     }
    ],
-   "gloss": "yielding"
+   "gloss": "which yields"
   },
   {
    "surface": "செல்வம்",
@@ -44,7 +39,7 @@
     {
      "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "if obtained"
+     "gloss": "if obtaining"
     },
     {
      "text": "உம்",
@@ -52,7 +47,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if obtained"
+   "gloss": "even if obtaining"
   },
   {
    "surface": "பிறர்க்கு",
@@ -79,19 +74,14 @@
      "gloss": "harmful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "harmful things"
   },
   {
    "surface": "செய்யாமை",
    "parts": [
     {
-     "text": "செய்",
-     "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
+     "text": "செய்யாமை",
+     "lemma": "செய்யாமை",
      "gloss": "not doing"
     }
    ],
@@ -112,29 +102,34 @@
    "surface": "அற்றார்",
    "parts": [
     {
-     "text": "அற்றார்",
+     "text": "அற்று",
      "lemma": "அறு",
-     "gloss": "those who are without"
+     "gloss": "devoid of"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who are devoid of"
   },
   {
    "surface": "கோள்",
    "parts": [
     {
      "text": "கோள்",
-     "lemma": "கொள்",
+     "lemma": "கோள்",
      "gloss": "principle"
     }
    ],
    "gloss": "principle"
   }
  ],
- "literal": "Greatness-yielding wealth even if obtained, to others harm not doing [is] blemish-without-those's principle.",
- "translation": "Even if it brings wealth that yields greatness, not doing harm to others is the firm principle of the flawless.",
+ "literal": "Greatness-yielding wealth even if obtaining, to others harmful things not doing is the blemishless people's principle.",
+ "translation": "Even if one were to obtain wealth that yields great glory, refraining from doing harmful things to others is the firm principle of those who are stainless.",
  "modern": "சிறப்பைத் தரும் செல்வத்தைப் பெறுவதாக இருந்தாலும், மற்றவர்களுக்குத் துன்பம் செய்யாமல் இருப்பதே குற்றமற்றவர்களின் கொள்கையாகும்.",
- "explanation": "This couplet defines the core principle of those who are free from moral blemishes. It states that they will never cause harm to others, even if doing so would bring them immense wealth and greatness. The phrase 'மாசற்றார் கோள்' (the resolve of the flawless) emphasizes that true purity lies in the absolute refusal to do harm. The contrast between 'சிறப்பீனும் செல்வம்' (wealth yielding greatness) and 'இன்னா செய்யாமை' (not doing harm) highlights that no material or social gain can ever justify inflicting pain on others.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "explanation": "This couplet defines the core principle of pure, faultless individuals. Even if they are offered immense wealth that brings supreme glory, they will not commit harmful deeds against others to acquire it. The word 'மாசற்றார்' refers to those free from the blemishes of the mind, and 'கோள்' represents their unshakeable vow or doctrine. Thus, harmlessness is placed above all worldly success and glory.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

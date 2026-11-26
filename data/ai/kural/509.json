@@ -27,12 +27,12 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "even/also"
     }
    ],
    "gloss": "anyone"
@@ -48,7 +48,7 @@
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "negative verbal participle suffix"
+     "gloss": "without (negative adverbial participle suffix)"
     }
    ],
    "gloss": "without examining"
@@ -62,19 +62,9 @@
      "gloss": "to examine"
     },
     {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "text": "ந்த",
+     "lemma": "ந்த",
+     "gloss": "past relative participle suffix"
     }
    ],
    "gloss": "examined"
@@ -104,7 +94,7 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "let (one) trust"
+   "gloss": "let one trust"
   },
   {
    "surface": "தேறும்",
@@ -117,10 +107,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future relative participle suffix"
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "to be entrusted"
+   "gloss": "that is trustworthy"
   },
   {
    "surface": "பொருள்",
@@ -128,16 +118,16 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "task"
+     "gloss": "thing/person"
     }
    ],
-   "gloss": "task"
+   "gloss": "thing or person"
   }
  ],
- "literal": "Do not trust anyone without examining; after having examined, entrust the task to be entrusted.",
- "translation": "Do not place your trust in anyone without testing them first. Once you have tested them, entrust them with the tasks they are fit to handle.",
- "modern": "யாரையும் ஆராய்ந்து பார்க்காமல் நம்பிவிடக் கூடாது; நன்றாக ஆராய்ந்த பிறகு, அவர் செய்வதற்கு ஏற்ற செயலை அவரிடம் ஒப்படைக்க வேண்டும்.",
- "explanation": "This couplet emphasizes the importance of careful evaluation before delegating responsibilities. The word 'தேராது' means without examining, and 'தேறற்க' means do not trust, setting a strict rule against blind faith in anyone. Once a person is thoroughly tested ('தேர்ந்த பின்'), one should confidently entrust ('தேறுக') them with the specific tasks ('தேறும் பொருள்') they are qualified to perform. The repetition of the roots 'தேர்' (to examine) and 'தேறு' (to trust) creates a strong contrast between the process of selection and the act of delegation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not trust anyone without examining; after examining, trust the trustworthy thing.",
+ "translation": "Do not place trust in anyone without first testing them; once you have tested them, trust that which is found to be trustworthy.",
+ "modern": "யாரையும் ஆராய்ந்து பார்க்காமல் தெளிந்து நம்பக் கூடாது; அவ்வாறு ஆராய்ந்த பிறகு, நம்பத்தகுந்தவரை நம்ப வேண்டும்.",
+ "explanation": "This couplet highlights the crucial sequence of testing before trusting. The poet uses two distinct but related verbs: 'தேர்' (to examine or test) and 'தேறு' (to trust or become clear). We are warned never to trust anyone blindly without a thorough prior examination. Once that careful testing is complete, we must confidently rely on the person or course of action that has proven to be genuinely trustworthy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

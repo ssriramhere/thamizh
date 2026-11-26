@@ -6,7 +6,7 @@
     {
      "text": "தினை",
      "lemma": "தினை",
-     "gloss": "millet"
+     "gloss": "millet seed"
     },
     {
      "text": "துணை",
@@ -19,34 +19,29 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even millet-measure"
+   "gloss": "even to the size of a millet seed"
   },
   {
    "surface": "ஊடாமை",
    "parts": [
     {
-     "text": "ஊடு",
-     "lemma": "ஊடு",
-     "gloss": "sulk"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "ஊடாமை",
+     "lemma": "ஊடாமை",
+     "gloss": "abstaining from feigned anger"
     }
    ],
-   "gloss": "not sulking"
+   "gloss": "abstaining from feigned anger"
   },
   {
    "surface": "வேண்டும்",
    "parts": [
     {
      "text": "வேண்டும்",
-     "lemma": "வேண்டும்",
-     "gloss": "is needed"
+     "lemma": "வேண்டு",
+     "gloss": "is necessary"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is necessary"
   },
   {
    "surface": "பனைத்துணையும்",
@@ -54,7 +49,7 @@
     {
      "text": "பனை",
      "lemma": "பனை",
-     "gloss": "palmyra"
+     "gloss": "palmyra tree"
     },
     {
      "text": "துணை",
@@ -67,7 +62,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even palmyra-measure"
+   "gloss": "even to the size of a palmyra tree"
   },
   {
    "surface": "காமம்",
@@ -75,23 +70,18 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "desire"
+     "gloss": "love"
     }
    ],
-   "gloss": "desire"
+   "gloss": "love"
   },
   {
    "surface": "நிறைய",
    "parts": [
     {
-     "text": "நிறை",
+     "text": "நிறைய",
      "lemma": "நிறை",
-     "gloss": "be full"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "adverbial suffix"
+     "gloss": "abundantly"
     }
    ],
    "gloss": "abundantly"
@@ -100,23 +90,18 @@
    "surface": "வரின்",
    "parts": [
     {
-     "text": "வரு",
-     "lemma": "வரு",
-     "gloss": "come"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "வரின்",
+     "lemma": "வா",
+     "gloss": "if it comes"
     }
    ],
-   "gloss": "if comes"
+   "gloss": "if it comes"
   }
  ],
- "literal": "Even millet-measure not-sulking is needed, even palmyra-measure desire abundantly if comes.",
- "translation": "When desire swells as vast as a palmyra tree, one must not sulk even as much as a tiny millet seed.",
- "modern": "காமம் பனை மரத்தின் அளவாக நிறைந்து வரும்போது, தினை அளவுகூட ஊடல் கொள்ளாமல் இருக்க வேண்டும்.",
- "explanation": "This couplet contrasts two traditional measures of size: the tiny millet seed (தினை) and the massive palmyra tree (பனை). The speaker reflects on the overwhelming nature of her desire for reunion with her lover. When love and desire swell to the immense size of a palmyra tree, there is no room left for feigned anger or lovers' quarrels (ஊடல்). Therefore, she resolves that she must not sulk even a tiny millet's worth, as her vast affection completely overpowers any minor grievances.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even to the size of a millet seed, not sulking is necessary, when love, even to the size of a palmyra tree, comes abundantly.",
+ "translation": "One must avoid feigned anger even to the tiny measure of a millet seed, when love arises in abundance, swelling to the vast size of a palmyra tree.",
+ "modern": "பனைமரம் போன்ற பெரிய அளவில் காம உணர்வு நிறைந்து வரும்போது, தினை அளவு கூட ஊடல் கொள்ளாமல் இருக்க வேண்டும்.",
+ "explanation": "This couplet describes the urgency of lovers who are eager to reunite. The speaker explains that when love and desire swell to a massive size, symbolized by the tall palmyra tree, one must not indulge in even the tiniest bit of feigned anger, symbolized by the tiny millet seed. Any delay caused by sulking, however brief or small, becomes unbearable when passion is overwhelming. The contrast between the tiny millet seed and the large palmyra tree beautifully illustrates the disproportionate pain that even a minor lovers' tiff can cause when desire is at its peak.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

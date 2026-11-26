@@ -6,7 +6,7 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "accruing"
+     "gloss": "accrued / ownerless"
     },
     {
      "text": "பொருள்",
@@ -19,7 +19,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "accrued wealth and"
+   "gloss": "And ownerless wealth that accrues to the state"
   },
   {
    "surface": "உல்கு",
@@ -27,10 +27,10 @@
     {
      "text": "உல்கு",
      "lemma": "உல்கு",
-     "gloss": "toll"
+     "gloss": "customs duty / toll"
     }
    ],
-   "gloss": "toll"
+   "gloss": "customs duty"
   },
   {
    "surface": "பொருளும்",
@@ -38,7 +38,7 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "wealth"
+     "gloss": "wealth / revenue"
     },
     {
      "text": "உம்",
@@ -46,7 +46,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "wealth and"
+   "gloss": "and the revenue"
   },
   {
    "surface": "தன்",
@@ -54,10 +54,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "his"
+     "gloss": "his own"
     }
    ],
-   "gloss": "his"
+   "gloss": "his own"
   },
   {
    "surface": "ஒன்னார்",
@@ -65,10 +65,10 @@
     {
      "text": "ஒன்னார்",
      "lemma": "ஒன்னார்",
-     "gloss": "foes"
+     "gloss": "enemies"
     }
    ],
-   "gloss": "foes"
+   "gloss": "enemies"
   },
   {
    "surface": "தெறுபொருளும்",
@@ -76,7 +76,7 @@
     {
      "text": "தெறு",
      "lemma": "தெறு",
-     "gloss": "conquering"
+     "gloss": "defeat / destroy"
     },
     {
      "text": "பொருள்",
@@ -89,7 +89,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "conquered wealth and"
+   "gloss": "and the wealth seized by defeating"
   },
   {
    "surface": "வேந்தன்",
@@ -100,7 +100,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king's"
+   "gloss": "the king's"
   },
   {
    "surface": "பொருள்",
@@ -108,16 +108,16 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "wealth"
+     "gloss": "wealth / property"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "rightful wealth"
   }
  ],
- "literal": "Accrued wealth and toll wealth and his foes' conquered wealth are the king's wealth.",
- "translation": "Wealth that accrues on its own, wealth collected as tolls, and wealth captured by defeating foes constitute the king's treasury.",
- "modern": "தானாக வந்து சேரும் பொருளும், சுங்க வரியாக வரும் பொருளும், தன் பகைவரை வென்று பெறும் பொருளும் அரசனுக்கு உரிய பொருள்களாகும்.",
- "explanation": "This couplet lists the three legitimate sources of revenue for a state. The first is wealth that accrues naturally, such as ownerless property or natural resources. The second is wealth collected through tolls and customs duties. The third is wealth acquired by defeating enemies in battle. Together, these form the treasury of a king.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Unclaimed wealth and, customs duty revenue and, his enemies defeating wealth and, are the king's wealth.",
+ "translation": "Unclaimed property that accrues to the state, customs duties, and the tribute captured from defeated enemies are all the rightful revenues of a king.",
+ "modern": "வாரிசு இல்லாததால் அரசுக்குச் சேரும் பொருளும், சுங்க வரியாக வரும் பொருளும், தன் பகைவரை வென்று பெறும் பொருளும் அரசனுக்குரிய செல்வங்கள் ஆகும்.",
+ "explanation": "This couplet outlines the three legitimate sources of revenue that fill a state's treasury. The first is 'uṟuporuḷ', which refers to ownerless or unclaimed wealth, such as escheats, that naturally falls to the state. The second is 'ulku poruḷ', which represents customs duties and tolls collected on trade. The third is 'teṟuporuḷ', which is the tribute or booty acquired by defeating hostile enemies. Together, these three form the ethical and legal basis of a king's wealth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

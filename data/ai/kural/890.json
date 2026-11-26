@@ -9,29 +9,39 @@
      "gloss": "agreement"
     }
    ],
-   "gloss": "agreement"
+   "gloss": "agreement / harmony"
   },
   {
    "surface": "இலாதவர்",
    "parts": [
     {
-     "text": "இலாதவர்",
-     "lemma": "இலாதவர்",
-     "gloss": "those without"
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "without"
+    },
+    {
+     "text": "ஆதவர்",
+     "lemma": "ஆதவர்",
+     "gloss": "those who are"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who do not have"
   },
   {
    "surface": "வாழ்க்கை",
    "parts": [
     {
-     "text": "வாழ்க்கை",
-     "lemma": "வாழ்க்கை",
-     "gloss": "life"
+     "text": "வாழ்",
+     "lemma": "வாழ்",
+     "gloss": "live"
+    },
+    {
+     "text": "க்கை",
+     "lemma": "கை",
+     "gloss": "nominal suffix"
     }
    ],
-   "gloss": "life"
+   "gloss": "life / living"
   },
   {
    "surface": "குடங்கர்",
@@ -39,10 +49,10 @@
     {
      "text": "குடங்கர்",
      "lemma": "குடங்கர்",
-     "gloss": "hut"
+     "gloss": "small hut"
     }
    ],
-   "gloss": "hut"
+   "gloss": "a small hut"
   },
   {
    "surface": "உள்",
@@ -86,12 +96,17 @@
    "surface": "உறைந்து",
    "parts": [
     {
-     "text": "உறைந்து",
+     "text": "உறை",
      "lemma": "உறை",
-     "gloss": "having dwelt"
+     "gloss": "dwell"
+    },
+    {
+     "text": "ந்து",
+     "lemma": "த்து",
+     "gloss": "verbal participle suffix"
     }
    ],
-   "gloss": "having dwelt"
+   "gloss": "dwelling"
   },
   {
    "surface": "அற்று",
@@ -99,16 +114,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Agreement those-without life hut inside snake-with together having-dwelt like-that.",
- "translation": "The life of those who live with people lacking inner harmony is like dwelling together with a snake inside a small hut.",
- "modern": "மனப்பொருத்தம் இல்லாதவர்களுடன் சேர்ந்து வாழும் வாழ்க்கை, ஒரு சிறிய குடிசைக்குள் பாம்போடு சேர்ந்து வாழ்வதைப் போன்றது.",
- "explanation": "This couplet vividly illustrates the danger of internal enmity. The word 'உடம்பாடு' refers to mutual agreement or harmony of minds. Living with people who lack this harmony is compared to sharing a 'குடங்கர்' (a small hut) with a venomous snake. Just as one can never sleep peacefully or feel safe in a confined space with a snake, one can never be secure living with those who harbor secret hostility.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Agreement those-who-do-not-have life small-hut inside snake-with together dwelling is-like.",
+ "translation": "Living with those who have no inner harmony is like dwelling together with a snake inside a small hut.",
+ "modern": "மன ஒற்றுமை இல்லாதவர்களுடன் கூடி வாழும் வாழ்க்கை, ஒரு சிறிய குடிலுக்குள் பாம்போடு சேர்ந்து வாழ்வதைப் போன்றது.",
+ "explanation": "This couplet warns against the extreme danger of internal enmity or living with people who lack genuine agreement and harmony. The poet compares this situation to living inside a tiny, confined hut (kuṭaṅkar) with a venomous snake (pāmpu). In such a small space, there is no escape, and one is in constant, mortal danger of a sudden, fatal bite. Similarly, living with insincere people who harbor secret enmity means living in perpetual, unavoidable peril.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

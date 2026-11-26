@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இனிமை",
      "gloss": "sweet"
     },
     {
@@ -16,7 +16,7 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "with"
+     "gloss": "by (instrumental suffix)"
     }
    ],
    "gloss": "with sweet words"
@@ -30,7 +30,7 @@
      "gloss": "having given"
     }
    ],
-   "gloss": "having given"
+   "gloss": "giving generously"
   },
   {
    "surface": "அளிக்க",
@@ -47,12 +47,17 @@
    "surface": "வல்லார்க்கு",
    "parts": [
     {
-     "text": "வல்லார்க்கு",
+     "text": "வல்லார்",
      "lemma": "வல்லார்",
-     "gloss": "to those who are able"
+     "gloss": "those who are capable"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to (dative suffix)"
     }
    ],
-   "gloss": "to those who are able"
+   "gloss": "to those who are capable"
   },
   {
    "surface": "தன்சொலால்",
@@ -60,7 +65,7 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "own"
+     "gloss": "his own"
     },
     {
      "text": "சொல்",
@@ -70,7 +75,7 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
    "gloss": "by his own word"
@@ -81,21 +86,26 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "he"
+     "gloss": "himself"
     }
    ],
-   "gloss": "he"
+   "gloss": "himself"
   },
   {
    "surface": "கண்டனைத்து",
    "parts": [
     {
-     "text": "கண்டனைத்து",
-     "lemma": "கண்டனைத்து",
-     "gloss": "is all that is envisioned"
+     "text": "கண்டு",
+     "lemma": "காண்",
+     "gloss": "having seen"
+    },
+    {
+     "text": "அனைத்து",
+     "lemma": "அனைத்து",
+     "gloss": "of that measure"
     }
    ],
-   "gloss": "is all that is envisioned"
+   "gloss": "is of the measure seen (under his sway)"
   },
   {
    "surface": "இவ்",
@@ -120,10 +130,10 @@
    "gloss": "world"
   }
  ],
- "literal": "With sweet words having given to protect to those who are able, by his own word he envisioned-all-that this world.",
- "translation": "For a leader who can give generously and protect with sweet words, this world becomes exactly what they envision through their command.",
- "modern": "இனிய சொற்களைப் பேசி, தானும் கொடுத்து, பிறரைக் காப்பாற்ற வல்லவருக்கு, இந்த உலகம் அவர் தன் சொல்லால் நினைத்தபடியே அமையும்.",
- "explanation": "This couplet explains the profound influence of a benevolent leader. When a ruler gives generously and protects the people while speaking sweet words ('இன்சொலால்'), they earn absolute loyalty. Because of this willing devotion, the entire world ('இவ்வுலகு') will shape itself exactly as the leader envisions ('கண்டனைத்து') simply through their command ('தன்சொலால்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are capable of protecting by giving with sweet words, this world is of the measure seen by their own word.",
+ "translation": "For a ruler who is able to give with sweet words and protect his subjects, this entire world will abide by his own command.",
+ "modern": "இனிய சொற்களைக் கூறி, கொடை கொடுத்துக் காக்கவல்ல அரசனுக்கு, இவ்வுலகம் அவனது சொல்லின்படி நடக்கும்.",
+ "explanation": "This couplet outlines the qualities of a truly powerful and beloved ruler. A leader who speaks kindly, gives generously, and protects his people wins their complete devotion. For such a capable ruler, the entire world will willingly follow and obey his command. True authority and influence are shown to arise from benevolence and gentle speech rather than force.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

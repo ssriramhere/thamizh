@@ -48,9 +48,14 @@
    "surface": "ஆள்வார்க்கு",
    "parts": [
     {
-     "text": "ஆள்வார்க்கு",
+     "text": "ஆள்வார்",
      "lemma": "ஆள்",
-     "gloss": "to those who practice"
+     "gloss": "those who practice"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to those who practice"
@@ -61,10 +66,10 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   },
   {
    "surface": "என்ப",
@@ -105,10 +110,10 @@
     {
      "text": "அஞ்சும்",
      "lemma": "அஞ்சு",
-     "gloss": "fearing"
+     "gloss": "which fears"
     }
    ],
-   "gloss": "fearing"
+   "gloss": "which fears"
   },
   {
    "surface": "வினை",
@@ -116,16 +121,16 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "deed"
+     "gloss": "action or its painful consequence"
     }
    ],
-   "gloss": "deed"
+   "gloss": "action or its painful consequence"
   }
  ],
- "literal": "enduring life having protected compassion to those who practice is not they say one's own life fearing deed",
- "translation": "They say there are no fearful consequences for the lives of those who protect other living beings and practice compassion.",
- "modern": "நிலைபெற்ற பிற உயிர்களைப் பாதுகாத்து அருள் உள்ளத்தோடு வாழ்பவர்களுக்கு, தம்முடைய உயிர் அஞ்சும்படியான துன்பச் செயல்கள் இல்லை என்று அறிஞர் கூறுவர்.",
- "explanation": "This couplet states that practicing compassion towards others is the ultimate protection for oneself. The phrase 'man uyir ompi' means protecting the enduring lives of all beings, while 'arul alvarkku' refers to those who actively practice compassion. The text asserts that such people will never encounter deeds ('vinai') that cause their own lives to fear ('tan uyir ancum'). By shielding others from harm, a compassionate person naturally shields their own life from fearful consequences.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Enduring life protecting, to those who practice compassion, there is not, they say, one's own life fearing action.",
+ "translation": "They say that for those who protect all enduring life and practice compassion, there are no deeds or consequences that their own life need fear.",
+ "modern": "நிலைபெற்ற உயிர்களைக் காப்பாற்றி அருளை ஆள்பவர்களுக்கு, தன் உயிர் அஞ்சும்படியான துன்பம் தரும் வினைகள் இல்லை என்று கூறுவர்.",
+ "explanation": "This couplet highlights the protective power of compassion. The poet states that those who cherish and protect the enduring lives of other creatures (மன் உயிர்) and practice compassion (அருள்) will never experience terrifying consequences. The word 'வினை' here refers to harmful deeds or the painful karmic consequences that cause dread to one's own soul. The wise assert (என்ப) that such fear-inducing distress does not exist (இல்) for a compassionate person, as their benevolence acts as an ultimate shield.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

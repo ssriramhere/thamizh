@@ -10,11 +10,11 @@
     },
     {
      "text": "கொட்க",
-     "lemma": "கொட்கு",
-     "gloss": "to become known"
+     "lemma": "கொட்குதல்",
+     "gloss": "to be revealed"
     }
    ],
-   "gloss": "to become known at the end"
+   "gloss": "so as to be revealed only at the end"
   },
   {
    "surface": "செய்தக்கது",
@@ -22,7 +22,7 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "தக்கது",
@@ -30,7 +30,7 @@
      "gloss": "that which is fit"
     }
    ],
-   "gloss": "fit thing to do"
+   "gloss": "that which is fit to be done"
   },
   {
    "surface": "ஆண்மை",
@@ -38,10 +38,10 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "capability / manliness"
+     "gloss": "strength of character"
     }
    ],
-   "gloss": "capability"
+   "gloss": "manly determination"
   },
   {
    "surface": "இடைக்கொட்கின்",
@@ -53,27 +53,22 @@
     },
     {
      "text": "கொட்கின்",
-     "lemma": "கொட்கு",
-     "gloss": "if it becomes known"
+     "lemma": "கொட்குதல்",
+     "gloss": "if revealed"
     }
    ],
-   "gloss": "if it becomes known in the middle"
+   "gloss": "if it is revealed in the middle"
   },
   {
    "surface": "எற்றா",
    "parts": [
     {
-     "text": "எற்று",
-     "lemma": "எற்று",
-     "gloss": "to remove / destroy"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "text": "எற்றா",
+     "lemma": "எற்றா",
+     "gloss": "irreparable"
     }
    ],
-   "gloss": "unremovable"
+   "gloss": "irreparable"
   },
   {
    "surface": "விழுமம்",
@@ -81,32 +76,27 @@
     {
      "text": "விழுமம்",
      "lemma": "விழுமம்",
-     "gloss": "sorrow"
+     "gloss": "distress"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "great distress"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரு",
-     "lemma": "தா",
-     "gloss": "to give"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "text": "தரும்",
+     "lemma": "தருதல்",
+     "gloss": "will bring"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "To become known at the end, doing what is fit, is capability; if it becomes known in the middle, unremovable sorrow it will give.",
- "translation": "True capability is executing a fitting task so that it becomes known only upon its completion. If it is revealed midway, it will cause inescapable sorrow.",
- "modern": "ஒரு செயலை அதன் முடிவில் வெளிப்படும்படியாகச் செய்து முடிப்பதே திறமையாகும். இடையில் அச்செயல் வெளிப்பட்டால் அது நீங்காத துன்பத்தைத் தரும்.",
- "explanation": "This couplet emphasizes the importance of secrecy and timing in executing a plan. The word 'ஆண்மை' (manliness or capability) here refers to the strength of character required to keep a plan concealed until it is successfully completed. The verb 'கொட்க' means to become known or revealed. If a fitting action is exposed in the middle ('இடைக்கொட்கின்') before completion, obstacles can easily thwart it. Such a premature revelation will result in 'எற்றா விழுமம்', meaning an inescapable or unremovable sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To do that which is fit to be done so as to be revealed only at the end is strength of character; if it is revealed in the middle, it will bring irreparable distress.",
+ "translation": "True determination lies in performing an action so that it is revealed only upon completion; if the secret leaks out midway, it will bring irreparable ruin.",
+ "modern": "ஒரு செயலை அது முடியும் வரை வெளியே தெரியாமல் செய்து முடிப்பதே ஆண்மையாகும்; அது நடுவிலேயே வெளிப்பட்டுவிட்டால், அது நீக்க முடியாத பெரும் துன்பத்தைத் தரும்.",
+ "explanation": "This couplet emphasizes the importance of maintaining secrecy and focus when executing a plan. True strength of character, or 'āṇmai', is shown when a person carries out a necessary task in such a way that it is only made public at the very end. If the plans or actions are revealed prematurely in the middle of execution, it will lead to failure and bring about irreparable ruin. Thus, confidentiality and quiet execution are vital components of resolute action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

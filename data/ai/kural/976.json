@@ -6,10 +6,10 @@
     {
      "text": "சிறியார்",
      "lemma": "சிறியார்",
-     "gloss": "small people"
+     "gloss": "those who are small-minded"
     }
    ],
-   "gloss": "small people"
+   "gloss": "the small-minded people"
   },
   {
    "surface": "உணர்ச்சியுள்",
@@ -17,15 +17,15 @@
     {
      "text": "உணர்ச்சி",
      "lemma": "உணர்ச்சி",
-     "gloss": "feeling/mind"
+     "gloss": "perception or mind"
     },
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "in"
+     "gloss": "within"
     }
    ],
-   "gloss": "in the mind"
+   "gloss": "within the mind"
   },
   {
    "surface": "இல்லை",
@@ -33,10 +33,10 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "is not there"
   },
   {
    "surface": "பெரியாரை",
@@ -49,26 +49,21 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "great people (acc.)"
+   "gloss": "the great people"
   },
   {
    "surface": "பேணி",
    "parts": [
     {
-     "text": "பேண்",
+     "text": "பேணி",
      "lemma": "பேணு",
-     "gloss": "cherish"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "cherishing or honoring"
     }
    ],
-   "gloss": "having cherished"
+   "gloss": "cherishing"
   },
   {
    "surface": "கொள்வேம்",
@@ -76,36 +71,26 @@
     {
      "text": "கொள்",
      "lemma": "கொள்",
-     "gloss": "take/keep"
+     "gloss": "to take or adopt"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஏம்",
-     "lemma": "ஏம்",
-     "gloss": "1st person plural suffix"
+     "text": "வேம்",
+     "lemma": "வேம்",
+     "gloss": "we will"
     }
    ],
-   "gloss": "we will keep"
+   "gloss": "we will adopt"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "that says"
     }
    ],
-   "gloss": "saying"
+   "gloss": "which says"
   },
   {
    "surface": "நோக்கு",
@@ -113,16 +98,16 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "intention"
+     "gloss": "outlook or attitude"
     }
    ],
-   "gloss": "intention"
+   "gloss": "outlook"
   }
  ],
- "literal": "Small people's mind-in is not, great people having cherished we will keep saying intention.",
- "translation": "The intention to cherish and keep the company of the great does not exist in the minds of the small.",
- "modern": "பெரியவர்களைப் போற்றிப் பாதுகாப்போம் என்ற எண்ணம் சிறியவர்களின் மனதில் இல்லை.",
- "explanation": "This couplet contrasts the mindset of the small-minded with the respect owed to the great. The phrase 'பேணிக் கொள்வேம்' means to cherish and keep close. The word 'நோக்கு' here means intention or perspective, rather than just a physical look. The text states that such an intention simply does not exist within the consciousness ('உணர்ச்சியுள்') of petty individuals.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Within the mind of the small-minded, there is not the outlook that says, 'We will cherish and adopt the great'.",
+ "translation": "The attitude of wanting to cherish and align oneself with great minds does not exist within the consciousness of the small-minded.",
+ "modern": "சிறிய குணம் உடையவர்களின் மனத்தில், பெரியவர்களைப் போற்றிப் பாராட்டிக் கொள்வோம் என்னும் நோக்கம் இருப்பதில்லை.",
+ "explanation": "This couplet contrasts the small-minded (சிறியார்) with the truly great (பெரியார்). It states that those of low character lack the mental capacity or attitude (நோக்கு) to appreciate and cherish the great. The word 'உணர்ச்சி' refers to their inner consciousness or perception, which is too narrow to harbor the noble aspiration of seeking the company and guidance of the wise. Because of their limited vision, they never think of honoring or learning from those who are superior in character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

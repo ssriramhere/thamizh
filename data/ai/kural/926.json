@@ -4,9 +4,19 @@
    "surface": "துஞ்சினார்",
    "parts": [
     {
-     "text": "துஞ்சினார்",
+     "text": "துஞ்சு",
      "lemma": "துஞ்சு",
-     "gloss": "those who sleep"
+     "gloss": "sleep"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "pronominal suffix (they)"
     }
    ],
    "gloss": "those who sleep"
@@ -16,16 +26,16 @@
    "parts": [
     {
      "text": "செத்தார்",
-     "lemma": "சா",
-     "gloss": "those who died"
+     "lemma": "செத்தார்",
+     "gloss": "those who are dead"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "comparative case marker (than)"
     }
    ],
-   "gloss": "than the dead"
+   "gloss": "than those who are dead"
   },
   {
    "surface": "வேறு",
@@ -42,9 +52,14 @@
    "surface": "அல்லர்",
    "parts": [
     {
-     "text": "அல்லர்",
+     "text": "அல்",
      "lemma": "அல்",
-     "gloss": "they are not"
+     "gloss": "not"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "pronominal suffix (they)"
     }
    ],
    "gloss": "they are not"
@@ -55,10 +70,11 @@
     {
      "text": "எஞ்ஞான்றும்",
      "lemma": "எஞ்ஞான்றும்",
-     "gloss": "always"
+     "gloss": "always / at all times"
     }
    ],
-   "gloss": "always"
+   "gloss": "always / at all times",
+   "split_unverified": true
   },
   {
    "surface": "நஞ்சு",
@@ -75,12 +91,22 @@
    "surface": "உண்பார்",
    "parts": [
     {
-     "text": "உண்பார்",
+     "text": "உண்",
      "lemma": "உண்",
-     "gloss": "those who eat"
+     "gloss": "drink/consume"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "pronominal suffix (they)"
     }
    ],
-   "gloss": "those who eat"
+   "gloss": "those who drink"
   },
   {
    "surface": "கள்",
@@ -88,27 +114,37 @@
     {
      "text": "கள்",
      "lemma": "கள்",
-     "gloss": "liquor"
+     "gloss": "toddy/liquor"
     }
    ],
-   "gloss": "liquor"
+   "gloss": "toddy / liquor"
   },
   {
    "surface": "உண்பவர்",
    "parts": [
     {
-     "text": "உண்பவர்",
+     "text": "உண்",
      "lemma": "உண்",
-     "gloss": "those who consume"
+     "gloss": "drink/consume"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "pronominal suffix (they)"
     }
    ],
-   "gloss": "those who consume"
+   "gloss": "those who drink"
   }
  ],
- "literal": "Those who sleep than the dead different are not; always poison those who eat [are] liquor those who consume.",
- "translation": "Those who sleep are no different from the dead. Those who drink liquor are, at all times, simply drinking poison.",
- "modern": "தூங்குபவர்கள் இறந்தவர்களை விட வேறுபட்டவர்கள் அல்லர். அதுபோலவே, கள் குடிப்பவர்கள் எப்போதும் நஞ்சு உண்பவர்களே ஆவர்.",
- "explanation": "The couplet compares sleep to death, noting that a sleeping person is temporarily unaware like a corpse. It then draws a parallel to drinking liquor, stating that those who consume alcohol are essentially consuming poison. The word 'எஞ்ஞான்றும்' (always) emphasizes that drinking is inherently destructive at all times.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who sleep than those who are dead different are not; at all times, poison those who drink are those who drink liquor.",
+ "translation": "Those who sleep are no different from the dead; likewise, those who drink liquor are, at all times, no different from those who drink poison.",
+ "modern": "உறங்குபவர்கள் இறந்தவர்களை விட வேறுபட்டவர்கள் அல்லர்; அதுபோல, கள் குடிப்பவர்கள் எப்போதும் நஞ்சு குடிப்பவர்களே ஆவர்.",
+ "explanation": "This couplet uses a powerful double analogy to warn against the consumption of alcohol. First, it equates sleep with death, noting that a sleeping person is temporarily as inactive and unaware as a dead person. Second, it equates drinking liquor with drinking poison, showing that those who consume alcohol are effectively destroying their own lives. By comparing the drunkard to a poison-drinker and the sleeper to the dead, the poet emphasizes that alcohol consumption is a form of slow, self-inflicted destruction of consciousness and life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

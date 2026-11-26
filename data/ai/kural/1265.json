@@ -6,7 +6,7 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "to see"
+     "gloss": "see"
     },
     {
      "text": "க",
@@ -14,7 +14,7 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "let see"
+   "gloss": "may I see"
   },
   {
    "surface": "மன்",
@@ -22,10 +22,10 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "particle of wish"
+     "gloss": "particle of longing or emphasis"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "indeed / oh"
   },
   {
    "surface": "கொண்கனை",
@@ -33,15 +33,15 @@
     {
      "text": "கொண்கன்",
      "lemma": "கொண்கன்",
-     "gloss": "lover"
+     "gloss": "lord of the maritime tract / husband"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "lover (acc.)"
+   "gloss": "the husband"
   },
   {
    "surface": "கண்",
@@ -58,38 +58,23 @@
    "surface": "ஆர",
    "parts": [
     {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "to become full"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "ஆர",
+     "lemma": "ஆருதல்",
+     "gloss": "to be filled or satisfied"
     }
    ],
-   "gloss": "to be full"
+   "gloss": "to be filled / to satisfaction"
   },
   {
    "surface": "கண்ட",
    "parts": [
     {
-     "text": "கண்",
+     "text": "கண்ட",
      "lemma": "காண்",
-     "gloss": "to see"
-    },
-    {
-     "text": "ட்",
-     "lemma": "ட்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "having seen"
     }
    ],
-   "gloss": "seen"
+   "gloss": "having seen"
   },
   {
    "surface": "பின்",
@@ -106,24 +91,19 @@
    "surface": "நீங்கும்",
    "parts": [
     {
-     "text": "நீங்கு",
+     "text": "நீங்கும்",
      "lemma": "நீங்கு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will leave / will depart"
     }
    ],
-   "gloss": "will leave"
+   "gloss": "will depart"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "என்",
+     "lemma": "யான்",
      "gloss": "my"
     }
    ],
@@ -134,7 +114,7 @@
    "parts": [
     {
      "text": "மென்",
-     "lemma": "மென்மை",
+     "lemma": "மெல்",
      "gloss": "soft"
     }
    ],
@@ -149,7 +129,7 @@
      "gloss": "shoulder"
     }
    ],
-   "gloss": "shoulder"
+   "gloss": "shoulders"
   },
   {
    "surface": "பசப்பு",
@@ -157,16 +137,16 @@
     {
      "text": "பசப்பு",
      "lemma": "பசப்பு",
-     "gloss": "pallor"
+     "gloss": "pallor of separation"
     }
    ],
-   "gloss": "pallor"
+   "gloss": "pallor / sallow complexion"
   }
  ],
- "literal": "Let see indeed lover (acc.) eyes to be full; seen after, will leave my soft shoulders' pallor.",
- "translation": "Let me just see my lover until my eyes are full. After I see him, the pallor on my soft shoulders will vanish.",
- "modern": "என் கண்கள் குளிரும்படி என் காதலனை நான் காண்பேனாக. அவனைக் கண்ட பிறகு, என் மென்மையான தோள்களில் படர்ந்துள்ள பசலை நிறம் நீங்கிவிடும்.",
- "explanation": "The speaker expresses a deep yearning to see her lover, wishing to feast her eyes upon him until they are completely satisfied. She is confident that the lovesick pallor ('pacappu') that has spread over her soft shoulders during his absence is only temporary. The phrase 'kaṇ āra' (eyes to be full) highlights the intensity of her longing, while the certainty that the pallor 'will leave' (nīṅkum) shows her belief in the healing power of his presence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "May I see indeed the husband, eyes to be filled; having seen after, will depart my soft shoulders' pallor.",
+ "translation": "May I but behold my lord so that my eyes are filled with his sight; once I have seen him, the sallow pallor of separation will vanish from my soft shoulders.",
+ "modern": "என் கண்கள் குளிரும் வரை என் தலைவனை நான் காண்பேனாக! அவனைக் கண்ட பிறகு, என் மென்மையான தோள்களில் படர்ந்துள்ள பசலை நிறம் நீங்கிவிடும்.",
+ "explanation": "The heroine expresses her intense longing to gaze upon her lover, whom she addresses as the lord of the shore (கொண்கன்). She wishes to look at him until her eyes are completely satisfied (கண்ணார). She is certain that once she beholds him, the sickly yellow-green pallor (பசப்பு) that has spread over her soft shoulders (மென்தோள்) due to the pain of separation will instantly disappear.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "இனிய",
-     "lemma": "இனிமை",
-     "gloss": "sweet things"
+     "lemma": "இனிது",
+     "gloss": "pleasant things"
     }
    ],
-   "gloss": "sweet things"
+   "gloss": "pleasant words"
   },
   {
    "surface": "உளவாக",
@@ -17,12 +17,12 @@
     {
      "text": "உள",
      "lemma": "உள்",
-     "gloss": "existing things"
+     "gloss": "exist"
     },
     {
      "text": "ஆக",
-     "lemma": "ஆ",
-     "gloss": "while being"
+     "lemma": "ஆகு",
+     "gloss": "while becoming"
     }
    ],
    "gloss": "while existing"
@@ -32,27 +32,22 @@
    "parts": [
     {
      "text": "இன்னாத",
-     "lemma": "இன்னா",
+     "lemma": "இன்னாது",
      "gloss": "unpleasant things"
     }
    ],
-   "gloss": "unpleasant things"
+   "gloss": "harsh words"
   },
   {
    "surface": "கூறல்",
    "parts": [
     {
-     "text": "கூறு",
+     "text": "கூறல்",
      "lemma": "கூறு",
-     "gloss": "speak"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "speaking"
     }
    ],
-   "gloss": "saying"
+   "gloss": "speaking"
   },
   {
    "surface": "கனி",
@@ -71,10 +66,10 @@
     {
      "text": "இருப்ப",
      "lemma": "இரு",
-     "gloss": "while being"
+     "gloss": "while being present"
     }
    ],
-   "gloss": "while being"
+   "gloss": "while being present"
   },
   {
    "surface": "காய்",
@@ -93,10 +88,10 @@
     {
      "text": "கவர்ந்து",
      "lemma": "கவர்",
-     "gloss": "having grasped"
+     "gloss": "choosing"
     }
    ],
-   "gloss": "having grasped"
+   "gloss": "choosing"
   },
   {
    "surface": "அற்று",
@@ -104,16 +99,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Sweet things while existing, unpleasant things saying, ripe fruit while being, unripe fruit having grasped like that.",
- "translation": "Speaking harsh words when sweet words are available is like choosing to eat unripe fruit when ripe fruit is at hand.",
- "modern": "இனிமையான சொற்கள் இருக்கும்போது கடுமையான சொற்களைப் பேசுவது, உண்ணுவதற்கு இனிமையான கனி இருக்கும்போது காயை விரும்பி உண்பதற்குச் சமமாகும்.",
- "explanation": "This couplet uses a simple and powerful analogy to contrast sweet and harsh speech. The word 'இனிய' refers to pleasant, kind words, while 'இன்னாத' refers to harsh, hurtful ones. The poet compares choosing harsh words over kind ones to picking an unripe, bitter fruit ('காய்') when a sweet, ripe fruit ('கனி') is readily available. By using the word 'கவர்ந்து' (grasping or desiring), the couplet highlights the foolishness of actively choosing something unpleasant when something delightful is already at hand.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Pleasant words while existing, speaking harsh words is like choosing unripe fruit while ripe fruit is present.",
+ "translation": "Speaking harsh words when pleasant words are available is like choosing to eat unripe fruit when ripe fruit is at hand.",
+ "modern": "இனிய சொற்கள் இருக்கும்போது கடுமையான சொற்களைப் பேசுவது, பழுத்த பழங்கள் இருக்கும்போது பச்சைக் காய்களைத் தேர்ந்தெடுத்து உண்பதற்கு ஒப்பானது ஆகும்.",
+ "explanation": "This couplet uses a simple yet powerful analogy to highlight the foolishness of using harsh language. The poet compares pleasant words to sweet, ripe fruits and harsh words to bitter, unripe fruits. When both options are available, choosing to speak harshly is as senseless as choosing to eat sour, unripe fruit when delicious ripe fruit is readily available. The word 'kavarntu' here means choosing or taking with desire, emphasizing the active, foolish choice of the speaker.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

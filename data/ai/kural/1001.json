@@ -17,10 +17,10 @@
     {
      "text": "வாய்",
      "lemma": "வாய்",
-     "gloss": "at the place of"
+     "gloss": "place or limit"
     }
    ],
-   "gloss": "at the place of"
+   "gloss": "limit or abundance"
   },
   {
    "surface": "சான்ற",
@@ -37,9 +37,14 @@
    "surface": "பெரும்பொருள்",
    "parts": [
     {
-     "text": "பெரும்பொருள்",
-     "lemma": "பெரும்பொருள்",
-     "gloss": "great wealth"
+     "text": "பெரும்",
+     "lemma": "பெருமை",
+     "gloss": "great"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "wealth"
     }
    ],
    "gloss": "great wealth"
@@ -49,7 +54,7 @@
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அஃது",
+     "lemma": "அது",
      "gloss": "that"
     }
    ],
@@ -61,10 +66,10 @@
     {
      "text": "உண்ணான்",
      "lemma": "உண்",
-     "gloss": "he does not enjoy"
+     "gloss": "he who does not enjoy"
     }
    ],
-   "gloss": "he does not enjoy"
+   "gloss": "he who does not enjoy"
   },
   {
    "surface": "செத்தான்",
@@ -72,10 +77,10 @@
     {
      "text": "செத்தான்",
      "lemma": "சா",
-     "gloss": "he is dead"
+     "gloss": "dead man"
     }
    ],
-   "gloss": "he is dead"
+   "gloss": "he is a dead man"
   },
   {
    "surface": "செய",
@@ -94,10 +99,10 @@
     {
      "text": "கிடந்தது",
      "lemma": "கிட",
-     "gloss": "remained"
+     "gloss": "that which remains"
     }
    ],
-   "gloss": "remained"
+   "gloss": "that which remains"
   },
   {
    "surface": "இல்",
@@ -105,16 +110,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "nothing"
+     "gloss": "there is nothing"
     }
    ],
-   "gloss": "nothing"
+   "gloss": "there is nothing"
   }
  ],
- "literal": "He hoarded - at the place of - abundant - great wealth - that - he does not enjoy - he is dead - to do - remained - nothing.",
- "translation": "He who hoards vast wealth but does not enjoy it is as good as dead. There is nothing left for him to do.",
- "modern": "தன்னிடம் நிறைய செல்வத்தை சேர்த்து வைத்தும் அதனை அனுபவிக்காதவன் இறந்தவனுக்குச் சமமாவான். அவனால் செய்யக்கூடியது வேறு ஒன்றும் இல்லை.",
- "explanation": "This couplet describes the ultimate uselessness of wealth when it is merely hoarded. The word 'வைத்தான்' refers to one who just keeps or hoards wealth, while 'உண்ணான்' means he does not consume or enjoy it. The poet boldly declares such a person 'செத்தான்' (dead), because without using his wealth for himself or others, his existence has no purpose or remaining potential ('செயக்கிடந்தது இல்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He hoarded abundant great wealth; he who does not enjoy that is a dead man; there is nothing remaining for him to do.",
+ "translation": "He who hoards vast, abundant wealth but does not enjoy it is as good as dead; there is nothing else left for him to do.",
+ "modern": "எல்லையைக் கடந்த பெரும் செல்வத்தைச் சேர்த்து வைத்து, அதனை அனுபவிக்காமல் வாழ்கின்றவன் இறந்தவனுக்கு ஒப்பாவான்; அவனால் செய்யக்கூடிய பயன் வேறு ஒன்றும் இல்லை.",
+ "explanation": "This couplet highlights the absolute uselessness of hoarded wealth that is never put to use. The phrase 'வாய் சான்ற பெரும்பொருள்' describes a massive fortune that exceeds all normal limits. The poet argues that a person who hoards such wealth but does not consume or enjoy it ('அஃதுண்ணான்') is functionally equivalent to a dead person ('செத்தான்'). Just as a corpse cannot utilize worldly goods, the miser derives no benefit from his riches, leaving him with no active purpose or utility ('செயக்கிடந்தது இல்') in life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

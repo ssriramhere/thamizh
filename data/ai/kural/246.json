@@ -15,43 +15,28 @@
    "surface": "நீங்கி",
    "parts": [
     {
-     "text": "நீங்கு",
+     "text": "நீங்கி",
      "lemma": "நீங்கு",
-     "gloss": "depart"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having lost"
     }
    ],
-   "gloss": "having departed"
+   "gloss": "having lost"
   },
   {
    "surface": "பொச்சாந்தார்",
    "parts": [
     {
-     "text": "பொச்சா",
-     "lemma": "பொச்சா",
-     "gloss": "forget"
-    },
-    {
-     "text": "ந்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
+     "text": "பொச்சாந்து",
+     "lemma": "பொச்சாத்தல்",
+     "gloss": "having forgotten"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they who"
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they who forgot"
+   "gloss": "those who have forgotten themselves"
   },
   {
    "surface": "என்பர்",
@@ -62,17 +47,12 @@
      "gloss": "say"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "text": "பர்",
+     "lemma": "பர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "they will say"
+   "gloss": "they say"
   },
   {
    "surface": "அருள்",
@@ -89,17 +69,12 @@
    "surface": "நீங்கி",
    "parts": [
     {
-     "text": "நீங்கு",
+     "text": "நீங்கி",
      "lemma": "நீங்கு",
-     "gloss": "depart"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having abandoned"
     }
    ],
-   "gloss": "having departed"
+   "gloss": "having abandoned"
   },
   {
    "surface": "அல்லவை",
@@ -107,12 +82,12 @@
     {
      "text": "அல்",
      "lemma": "அல்",
-     "gloss": "not good"
+     "gloss": "not"
     },
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "things"
+     "gloss": "those things"
     }
    ],
    "gloss": "evil deeds"
@@ -121,22 +96,12 @@
    "surface": "செய்து",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "having"
+     "gloss": "doing"
     }
    ],
-   "gloss": "having done"
+   "gloss": "doing"
   },
   {
    "surface": "ஒழுகுவார்",
@@ -144,26 +109,21 @@
     {
      "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "conduct oneself"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense"
+     "gloss": "conduct"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they who"
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "those who conduct themselves"
   }
  ],
- "literal": "Wealth having-departed they-who-forgot, they-will-say, compassion having-departed evil-deeds having-done those-who-conduct-themselves.",
- "translation": "The wise say that those who abandon compassion and live doing evil are like those who have lost their wealth and forgotten themselves.",
- "modern": "அருளை விட்டு விலகித் தீய செயல்களைச் செய்து வாழ்பவர்களை, தம் செல்வத்தை இழந்து அறிவை மறந்தவர்கள் என்று சான்றோர் கூறுவார்கள்.",
- "explanation": "This couplet compares the loss of compassion to the loss of wealth and awareness. Those who abandon compassion ('அருள்') and commit evil deeds ('அல்லவை') are described as people who have lost their wealth ('பொருள்') and fallen into forgetfulness ('பொச்சாந்தார்'). By using the same word 'நீங்கி' (having departed) for both compassion and wealth, the poet emphasizes that a life without compassion is as destitute and confused as a life ruined by the loss of all material security. Thus, doing evil is a sign of having forgotten one's true human nature.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Wealth having lost, those who have forgotten themselves, they say, compassion having abandoned, evil deeds doing, those who conduct themselves.",
+ "translation": "Those who abandon compassion and live committing evil deeds are like those who have lost their wealth and fallen into mindless ruin, say the wise.",
+ "modern": "அருள் இல்லாமல் தீமைகளைச் செய்து வாழ்பவர்களை, செல்வத்தை இழந்து தம்மை மறந்தவர்கள் என்று அறிஞர்கள் கூறுவர்.",
+ "explanation": "This couplet compares the spiritual loss of compassion to the worldly loss of wealth. Those who live without compassion and commit harmful deeds are equated to people who have lost all their wealth and are living in a state of mindless negligence. The word 'பொச்சாந்தார்' highlights how a lack of grace makes one forgetful of virtue and human dignity. Thus, compassion is presented as the essential wealth that keeps a person mindful and righteous.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

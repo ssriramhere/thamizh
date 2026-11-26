@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "ஆற்றின்",
-     "lemma": "ஆறு",
-     "gloss": "in the path"
+     "lemma": "ஆற்றின்",
+     "gloss": "in the proper path"
     }
    ],
-   "gloss": "in the path"
+   "gloss": "in the proper path",
+   "split_unverified": true
   },
   {
    "surface": "ஒழுக்கி",
@@ -17,15 +18,15 @@
     {
      "text": "ஒழுக்கு",
      "lemma": "ஒழுக்கு",
-     "gloss": "to make walk"
+     "gloss": "to guide/direct"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "having (verbal participle suffix)"
     }
    ],
-   "gloss": "making walk"
+   "gloss": "guiding [others]"
   },
   {
    "surface": "அறன்",
@@ -36,7 +37,7 @@
      "gloss": "virtue"
     }
    ],
-   "gloss": "virtue"
+   "gloss": "from virtue"
   },
   {
    "surface": "இழுக்கா",
@@ -44,15 +45,15 @@
     {
      "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "to slip"
+     "gloss": "to slip/deviate"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not (negative relative participle suffix)"
     }
    ],
-   "gloss": "not slipping"
+   "gloss": "not deviating"
   },
   {
    "surface": "இல்வாழ்க்கை",
@@ -60,7 +61,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home"
     },
     {
      "text": "வாழ்க்கை",
@@ -75,16 +76,16 @@
    "parts": [
     {
      "text": "நோற்பார்",
-     "lemma": "நோ",
-     "gloss": "those who do penance"
+     "lemma": "நோற்பார்",
+     "gloss": "those who perform penance"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative suffix)"
     }
    ],
-   "gloss": "than those who do penance"
+   "gloss": "than those who perform penance"
   },
   {
    "surface": "நோன்மை",
@@ -92,10 +93,10 @@
     {
      "text": "நோன்மை",
      "lemma": "நோன்மை",
-     "gloss": "endurance"
+     "gloss": "strength/endurance"
     }
    ],
-   "gloss": "endurance"
+   "gloss": "strength of endurance"
   },
   {
    "surface": "உடைத்து",
@@ -103,16 +104,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   }
  ],
- "literal": "In the path making walk, from virtue not slipping domestic life, than those who do penance endurance it possesses.",
- "translation": "A domestic life that guides others on the right path and does not slip from virtue possesses greater endurance than the life of those who perform penance.",
- "modern": "மற்றவர்களை நல்வழியில் நடக்கச் செய்து, தானும் அறத்திலிருந்து தவறாமல் வாழும் இல்வாழ்க்கையானது, தவம் செய்பவர்களை விட அதிக வலிமை உடையது.",
- "explanation": "This couplet compares the strength of a householder with that of an ascetic. The word 'ஆற்றின்' refers to the proper path of virtue, and 'ஒழுக்கி' means guiding others along it. A householder who supports others on the right path while never slipping from virtue ('அறன் இழுக்கா') demonstrates greater endurance ('நோன்மை') than those who renounce the world to perform penance. Thus, domestic life is shown to be a more demanding and powerful discipline.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Guiding others in the proper path, not deviating from virtue, domestic life possesses greater strength of endurance than those who perform penance.",
+ "translation": "A domestic life that guides others in the right path and does not itself deviate from virtue possesses greater strength than the endurance of ascetics.",
+ "modern": "மற்றவர்களை நல்வழியில் செலுத்தி, தானும் அறநெறியிலிருந்து தவறாமல் வாழ்கின்ற இல்லற வாழ்க்கை, தவம் செய்வோரின் பொறுமைத் திறத்தை விடவும் மிகுந்த வலிமை உடையதாகும்.",
+ "explanation": "This couplet highlights the supreme value of a righteous domestic life. The householder's duty is twofold: first, to guide others along the proper path, and second, to personally remain steadfast in virtue without slipping. The poet asserts that such a life possesses a strength of endurance that surpasses even that of ascetics who perform severe penance. While ascetics endure personal hardships for their own spiritual goals, the householder bears the responsibility of sustaining society while maintaining personal integrity, making their endurance far greater.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

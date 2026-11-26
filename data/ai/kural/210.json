@@ -4,25 +4,25 @@
    "surface": "அருங்கேடன்",
    "parts": [
     {
-     "text": "அருங்கேடன்",
-     "lemma": "அருங்கேடன்",
-     "gloss": "one who is hard to ruin"
+     "text": "அருங்கேடு",
+     "lemma": "அருங்கேடு",
+     "gloss": "rare ruin"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "he (masculine singular suffix)"
     }
    ],
-   "gloss": "one who is hard to ruin"
+   "gloss": "one who is free from ruin"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "பது",
-     "lemma": "பது",
-     "gloss": "verbal noun suffix"
+     "text": "என்பது",
+     "lemma": "என்பது",
+     "gloss": "that which is said"
     }
    ],
    "gloss": "that"
@@ -33,7 +33,7 @@
     {
      "text": "அறி",
      "lemma": "அறி",
-     "gloss": "to know"
+     "gloss": "know"
     },
     {
      "text": "க",
@@ -41,7 +41,7 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "let one know"
+   "gloss": "let it be known"
   },
   {
    "surface": "மருங்கு",
@@ -49,10 +49,10 @@
     {
      "text": "மருங்கு",
      "lemma": "மருங்கு",
-     "gloss": "side"
+     "gloss": "side / deviant path"
     }
    ],
-   "gloss": "side"
+   "gloss": "deviant path"
   },
   {
    "surface": "ஓடி",
@@ -60,15 +60,15 @@
     {
      "text": "ஓடு",
      "lemma": "ஓடு",
-     "gloss": "to run"
+     "gloss": "run"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "adverbial suffix"
+     "gloss": "verbal participle suffix"
     }
    ],
-   "gloss": "having run"
+   "gloss": "having strayed"
   },
   {
    "surface": "தீவினை",
@@ -84,7 +84,7 @@
      "gloss": "deed"
     }
    ],
-   "gloss": "evil deed"
+   "gloss": "evil deeds"
   },
   {
    "surface": "செய்யான்",
@@ -92,15 +92,15 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "negative suffix (he)"
+     "gloss": "he who does not (negative suffix)"
     }
    ],
-   "gloss": "he will not do"
+   "gloss": "he who does not do"
   },
   {
    "surface": "எனின்",
@@ -108,21 +108,21 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if (conditional suffix)"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "One who is hard to ruin that let one know, side having run evil deed he does not do if.",
- "translation": "Know that a man is safe from ruin if he does not go astray to commit evil deeds.",
- "modern": "ஒருவன் தவறான வழியில் சென்று தீய செயல்களைச் செய்யமாட்டான் என்றால், அவனுக்கு அழிவு வராது என்பதை அறிந்துகொள்க.",
- "explanation": "This couplet explains that avoiding evil deeds is the surest way to protect oneself from destruction. The phrase 'மருங்கு ஓடி' means running to the side or going astray from the righteous path. If a person refuses to deviate from virtue to commit evil, they become 'அருங்கேடன்', meaning someone whose ruin is highly unlikely. Thus, moral integrity is presented as the ultimate shield against downfall.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "One who is free from ruin, that, let it be known, if he does not do evil deeds by straying into deviant paths.",
+ "translation": "Know that a person is secure from ruin if they do not stray into deviant paths to commit evil deeds.",
+ "modern": "ஒருவன் நெறிதவறிச் சென்று தீய செயல்களைச் செய்யமாட்டான் என்றால், அவன் அழிவில்லாதவன் என்பதை அறிந்து கொள்க.",
+ "explanation": "This couplet explains how one can remain secure from personal downfall. The key word 'அருங்கேடன்' refers to a person whose ruin is extremely rare or impossible, meaning they are indestructible. The poet states that this security is guaranteed if ('எனின்') a person does not stray ('மருங்கோடி') into wrong paths to commit harmful actions ('தீவினை செய்யான்'). Here, 'மருங்கு' literally means 'side' or 'slope', representing a deviation from the straight path of virtue. Thus, avoiding harmful actions is the ultimate shield against ruin.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

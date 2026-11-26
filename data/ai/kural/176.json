@@ -15,34 +15,41 @@
    "surface": "வெஃகி",
    "parts": [
     {
-     "text": "வெஃகி",
+     "text": "வெஃகு",
      "lemma": "வெஃகு",
-     "gloss": "desiring"
+     "gloss": "to desire"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having (verbal participle suffix)"
     }
    ],
-   "gloss": "desiring"
+   "gloss": "having desired"
   },
   {
    "surface": "ஆற்றின்கண்",
    "parts": [
     {
      "text": "ஆற்றின்கண்",
-     "lemma": "ஆறு",
+     "lemma": "ஆற்றின்கண்",
      "gloss": "in the path"
     }
    ],
-   "gloss": "in the path"
+   "gloss": "in the path",
+   "split_unverified": true
   },
   {
    "surface": "நின்றான்",
    "parts": [
     {
      "text": "நின்றான்",
-     "lemma": "நில்",
+     "lemma": "நின்றான்",
      "gloss": "he who stood"
     }
    ],
-   "gloss": "he who stood"
+   "gloss": "he who stood",
+   "split_unverified": true
   },
   {
    "surface": "பொருள்",
@@ -59,12 +66,17 @@
    "surface": "வெஃகி",
    "parts": [
     {
-     "text": "வெஃகி",
+     "text": "வெஃகு",
      "lemma": "வெஃகு",
-     "gloss": "desiring"
+     "gloss": "to desire"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having (verbal participle suffix)"
     }
    ],
-   "gloss": "desiring"
+   "gloss": "having desired"
   },
   {
    "surface": "பொல்லாத",
@@ -72,38 +84,48 @@
     {
      "text": "பொல்லாத",
      "lemma": "பொல்லாத",
-     "gloss": "evil things"
+     "gloss": "evil"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "evil"
   },
   {
    "surface": "சூழ",
    "parts": [
     {
-     "text": "சூழ",
+     "text": "சூழ்",
      "lemma": "சூழ்",
-     "gloss": "to plot"
+     "gloss": "to scheme"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to plot"
+   "gloss": "to scheme"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடும்",
+     "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "will perish"
+     "gloss": "to perish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (habitual future suffix)"
     }
    ],
    "gloss": "will perish"
   }
  ],
- "literal": "grace desiring in-the-path he-who-stood wealth desiring evil-things to-plot will-perish",
- "translation": "Even one who stands in the path of virtue desiring grace will perish if he covets another's wealth and plots evil.",
- "modern": "அருளை விரும்பி அறவழியில் நின்றவனும், பிறர் பொருளை விரும்பி அவருக்குத் தீங்கு செய்ய நினைத்தால் அழிந்து போவான்.",
- "explanation": "The couplet warns that even a person who has committed to a virtuous life seeking grace can be destroyed by greed. 'அருள்' (grace) and 'ஆறு' (the path of virtue) represent the highest moral standing. However, if such a person yields to 'பொருள் வெஃகி' (coveting wealth) and begins to plot 'பொல்லாத' (evil things) to acquire it, their previous virtue will not save them, and they will perish ('கெடும்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Desiring grace, he who stood in the path, if he desires wealth and schemes evil, will perish.",
+ "translation": "He who stands in the path of virtue, desiring grace, will be ruined if he covets another's wealth and schemes evil deeds.",
+ "modern": "அருளை விரும்பி அறவழியில் நிற்பவன், பிறர் பொருளை விரும்பித் தீயவற்றை எண்ணினால் கெட்டுப்போவான்.",
+ "explanation": "This couplet warns against the destructive nature of covetousness. A person who has committed themselves to a life of virtue and grace (அருள்) must maintain consistency in their thoughts. If such a person, driven by greed, covets another's property (பொருள்) and begins to plot evil schemes (பொல்லாத சூழ) to acquire it, they will lose their moral standing and be completely ruined (கெடும்). The contrast between desiring grace (அருள்வெஃகி) and desiring material wealth (பொருள்வெஃகி) shows that spiritual progress is instantly destroyed by the rise of greed.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

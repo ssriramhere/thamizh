@@ -4,12 +4,17 @@
    "surface": "நசைஇயார்",
    "parts": [
     {
-     "text": "நசைஇயார்",
+     "text": "நசைஇ",
      "lemma": "நசை",
-     "gloss": "the desired one"
+     "gloss": "desiring"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "he who"
     }
    ],
-   "gloss": "the desired one"
+   "gloss": "the beloved one"
   },
   {
    "surface": "நல்கார்",
@@ -17,15 +22,15 @@
     {
      "text": "நல்கு",
      "lemma": "நல்கு",
-     "gloss": "to bestow"
+     "gloss": "to bestow love"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "he will not (honorific)"
+     "gloss": "does not"
     }
    ],
-   "gloss": "will not bestow"
+   "gloss": "does not bestow love"
   },
   {
    "surface": "எனினும்",
@@ -33,7 +38,7 @@
     {
      "text": "எனின்",
      "lemma": "என்",
-     "gloss": "if said"
+     "gloss": "if say"
     },
     {
      "text": "உம்",
@@ -41,7 +46,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even though"
   },
   {
    "surface": "அவர்மாட்டு",
@@ -49,15 +54,15 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "he (honorific)"
+     "gloss": "he"
     },
     {
      "text": "மாட்டு",
-     "lemma": "மாட்டு",
-     "gloss": "regarding / from"
+     "lemma": "மாடு",
+     "gloss": "concerning/from"
     }
    ],
-   "gloss": "regarding him"
+   "gloss": "concerning him"
   },
   {
    "surface": "இசையும்",
@@ -65,7 +70,7 @@
     {
      "text": "இசை",
      "lemma": "இசை",
-     "gloss": "sound / news"
+     "gloss": "sound/news"
     },
     {
      "text": "உம்",
@@ -73,15 +78,20 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even the news"
+   "gloss": "even the sound"
   },
   {
    "surface": "இனிய",
    "parts": [
     {
-     "text": "இனிய",
+     "text": "இனி",
      "lemma": "இனிமை",
-     "gloss": "are sweet"
+     "gloss": "sweet"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "they"
     }
    ],
    "gloss": "are sweet"
@@ -103,10 +113,10 @@
    "gloss": "to the ear"
   }
  ],
- "literal": "The desired one will not bestow grace, even if, regarding him even the news is sweet to the ear.",
- "translation": "Even if my beloved will not return to bestow his grace, any news of him is sweet to my ears.",
- "modern": "நான் விரும்பும் காதலர் எனக்கு அன்பு செய்யமாட்டார் என்றாலும், அவரைப் பற்றிய செய்திகளைக் கேட்பது என் காதுகளுக்கு இனிமையாக இருக்கிறது.",
- "explanation": "The speaker in this couplet expresses the depth of her longing for her absent lover. She acknowledges that the one she desires ('நசைஇயார்') might not return to bestow his love or grace ('நல்கார்'). Even in the face of this painful realization, any sound or news ('இசை') concerning him remains profoundly sweet to her ears. The word 'இசை' here is best understood as news or words about him, highlighting how even distant echoes of the beloved bring comfort in solitary anguish.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The beloved one does not bestow love, even though, concerning him, even the sound is sweet to the ear.",
+ "translation": "Even though my beloved does not bestow his grace upon me, any word or news concerning him is sweet to my ears.",
+ "modern": "என் அன்பிற்குரியவர் எனக்கு அருள் செய்யவில்லை என்றாலும், அவரைப் பற்றிய செய்தியும் பேச்சும் என் காதுகளுக்கு இனிமையாக இருக்கின்றன.",
+ "explanation": "The heroine, suffering from the pain of separation, expresses her deep love. Even though her beloved does not return to show his grace (nalkār), any sound, word, or news (icai) coming from him or concerning him is sweet to her ears. The word 'icai' here refers to the sound of his name or news about him. This shows that for a true lover, even the mere mention of the beloved brings comfort, despite their painful absence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

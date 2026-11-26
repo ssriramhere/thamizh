@@ -11,7 +11,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis marker"
     }
    ],
    "gloss": "fear indeed"
@@ -20,19 +20,14 @@
    "surface": "கீழ்களது",
    "parts": [
     {
-     "text": "கீழ்",
+     "text": "கீழ்கள்",
      "lemma": "கீழ்",
-     "gloss": "base"
-    },
-    {
-     "text": "கள்",
-     "lemma": "கள்",
-     "gloss": "plural suffix"
+     "gloss": "base people"
     },
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "of"
+     "gloss": "genitive case suffix (of)"
     }
    ],
    "gloss": "of the base people"
@@ -43,7 +38,7 @@
     {
      "text": "ஆசாரம்",
      "lemma": "ஆசாரம்",
-     "gloss": "conduct"
+     "gloss": "conduct or discipline"
     }
    ],
    "gloss": "conduct"
@@ -54,10 +49,10 @@
     {
      "text": "எச்சம்",
      "lemma": "எச்சம்",
-     "gloss": "remainder"
+     "gloss": "remnant or the rest"
     }
    ],
-   "gloss": "remainder"
+   "gloss": "the rest"
   },
   {
    "surface": "அவா",
@@ -65,7 +60,7 @@
     {
      "text": "அவா",
      "lemma": "அவா",
-     "gloss": "desire"
+     "gloss": "desire or greed"
     }
    ],
    "gloss": "desire"
@@ -75,8 +70,8 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உண்டு",
-     "gloss": "is"
+     "lemma": "உள்",
+     "gloss": "exists"
     },
     {
      "text": "ஏல்",
@@ -91,16 +86,16 @@
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உண்டு",
-     "gloss": "is"
+     "lemma": "உள்",
+     "gloss": "exists"
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆகுதல்",
-     "gloss": "will be"
+     "lemma": "ஆம்",
+     "gloss": "will arise"
     }
    ],
-   "gloss": "there will be"
+   "gloss": "will arise"
   },
   {
    "surface": "சிறிது",
@@ -114,10 +109,10 @@
    "gloss": "a little"
   }
  ],
- "literal": "Fear indeed of the base people conduct; remainder, desire if there is, there will be a little.",
- "translation": "Fear alone dictates the good conduct of the base. Otherwise, they might show a little good behavior if they desire some gain.",
- "modern": "கீழானவர்களின் நல்லொழுக்கம் என்பது அச்சத்தினால் மட்டுமே ஏற்படும். அது தவிர, அவர்களுக்கு ஏதாவது ஒன்றின் மேல் ஆசை இருந்தால் மட்டுமே சிறிது நல்லொழுக்கம் உண்டாகும்.",
- "explanation": "This couplet explains the motivations behind any good behavior seen in base individuals. The word 'ācāram' refers to proper conduct or good behavior, which in their case is driven entirely by 'accam' (fear) of punishment or authority. The word 'eccam' means remainder or exception; the only other time they might show a little good conduct is if they have an 'avā' (desire or craving) for some personal gain. Thus, their actions are never guided by inherent virtue, but only by fear or greed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Fear indeed of the base people is the conduct; the rest, if desire exists, will arise a little.",
+ "translation": "Fear alone is the rule of conduct for the base; other than that, a little good behavior may arise only if they desire some gain.",
+ "modern": "அச்சம் மட்டுமே கீழ்மக்களின் ஒழுக்கத்திற்குக் காரணம்; அது தவிர, ஏதேனும் நன்மை பெற வேண்டும் என்ற ஆசை இருந்தால் மட்டுமே அவர்களிடம் சிறிதளவு நல்லொழுக்கம் உண்டாகும்.",
+ "explanation": "This couplet analyzes the motivation of base or low-minded individuals. It states that fear (அச்சம்) is the primary force that drives them to maintain any discipline or proper conduct (ஆசாரம்). If they ever exhibit any other decent behavior (எச்சம்), it is not out of a sense of duty or virtue, but only when they have a selfish desire (அவா) for personal gain, and even then, such behavior is shown only in a very small measure (சிறிது).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "மிக",
-     "lemma": "மிகு",
-     "gloss": "to be much"
+     "lemma": "மிக",
+     "gloss": "excessively"
     }
    ],
-   "gloss": "abundantly"
+   "gloss": "excessively"
   },
   {
    "surface": "செய்து",
@@ -20,31 +20,31 @@
      "gloss": "having done"
     }
    ],
-   "gloss": "having done"
+   "gloss": "doing"
   },
   {
    "surface": "தம்",
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "oneself"
+     "lemma": "தான்",
+     "gloss": "themselves"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "themselves"
   },
   {
    "surface": "எள்ளுவாரை",
    "parts": [
     {
      "text": "எள்ளுவார்",
-     "lemma": "எள்",
+     "lemma": "எள்ளு",
      "gloss": "those who despise"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
    "gloss": "those who despise"
@@ -66,10 +66,10 @@
     {
      "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "having made"
+     "gloss": "having done"
     }
    ],
-   "gloss": "having made"
+   "gloss": "making"
   },
   {
    "surface": "நட்பினுள்",
@@ -82,12 +82,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic suffix"
+     "gloss": "inflectional increment"
     },
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "within"
     }
    ],
    "gloss": "within friendship"
@@ -97,11 +97,11 @@
    "parts": [
     {
      "text": "சா",
-     "lemma": "சா",
-     "gloss": "to die"
+     "lemma": "சாகு",
+     "gloss": "death or ruin"
     }
    ],
-   "gloss": "to die"
+   "gloss": "death or ruin"
   },
   {
    "surface": "புல்லல்",
@@ -118,19 +118,23 @@
    "surface": "பாற்று",
    "parts": [
     {
-     "text": "பாற்று",
-     "lemma": "பாற்று",
-     "gloss": "is the nature"
+     "text": "பால்",
+     "lemma": "பால்",
+     "gloss": "nature"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "neuter singular suffix"
     }
    ],
-   "gloss": "is the nature",
-   "split_unverified": true
+   "gloss": "is of the nature of"
   }
  ],
- "literal": "abundantly having done, oneself those who despise, to smile having made, within friendship to die embracing is the nature.",
- "translation": "When dealing with those who show exaggerated affection but secretly despise you, it is wise to make them smile outwardly while letting the friendship die in your embrace.",
- "modern": "வெளியில் மிகவும் அன்பாக நடந்துகொண்டு உள்ளத்தில் தம்மை இகழ்பவர்களை, வெளியிலும் சிரித்து மகிழும்படி செய்து, ஆனால் அகத்தில் அந்த நட்பு சாகும்படி பழகுவதே அறிவுடையோர் இயல்பாகும்.",
- "explanation": "This couplet advises on how to handle false friends who show exaggerated affection outwardly but mock you inwardly. Instead of confronting them, one should match their outward behavior by making them smile and acting friendly. However, internally, one should let the friendship wither and die, maintaining only a superficial embrace. The word 'சா' (to die) powerfully contrasts with 'புல்லல்' (embracing), showing that the relationship should be allowed to perish even while maintaining outward pleasantries.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Making excessively (outwardly), those who despise themselves (inwardly), making (them) smile, within friendship, to embrace (them) to death is the proper way.",
+ "translation": "With those who outwardly display excessive affection but inwardly despise you, it is fitting to make them smile with outward friendliness, yet embrace them to their ruin within that very friendship.",
+ "modern": "வெளிப்படையாகப் பெரிதும் அன்பு காட்டி, மனத்திற்குள் நம்மை இகழ்பவர்களை, நாமும் முகமலர்ச்சி அடையச் செய்து, அந்த நட்பிற்குள்ளேயே அவர்களை அழிப்பதே தகுதியானது.",
+ "explanation": "This couplet advises on how to deal with deceitful, feigned friends. The poet describes enemies who pretend to be highly affectionate ('mika ceytu') but secretly hold contempt ('tam eḷḷuvārai'). The strategy to counter them is to reciprocate their behavior: make them smile outwardly ('naka ceytu') while maintaining the guise of friendship ('naṭpiṉuḷ'), but ultimately deliver a fatal blow or neutralize them ('cā pullal' - embracing to death or ruin). It emphasizes that deceit must be met with strategic, protective deceit to ensure one's own survival.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

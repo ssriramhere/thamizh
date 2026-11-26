@@ -6,7 +6,7 @@
     {
      "text": "ஊடு",
      "lemma": "ஊடு",
-     "gloss": "to sulk"
+     "gloss": "sulk"
     },
     {
      "text": "க",
@@ -14,7 +14,7 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "let sulk"
+   "gloss": "let her sulk"
   },
   {
    "surface": "மன்னோ",
@@ -22,15 +22,15 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "expletive"
+     "gloss": "particle of desire"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "particle of wish"
+     "gloss": "particle of emphasis"
     }
    ],
-   "gloss": "oh that"
+   "gloss": "indeed"
   },
   {
    "surface": "ஒளி",
@@ -38,7 +38,7 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "bright"
+     "gloss": "brightness"
     }
    ],
    "gloss": "bright"
@@ -49,10 +49,10 @@
     {
      "text": "இழை",
      "lemma": "இழை",
-     "gloss": "jewel"
+     "gloss": "jewels"
     }
    ],
-   "gloss": "jewel (woman)"
+   "gloss": "jeweled woman"
   },
   {
    "surface": "யாம்",
@@ -63,18 +63,18 @@
      "gloss": "we"
     }
    ],
-   "gloss": "we"
+   "gloss": "I"
   },
   {
    "surface": "இரப்ப",
    "parts": [
     {
      "text": "இரப்ப",
-     "lemma": "இர",
+     "lemma": "இரத்தல்",
      "gloss": "to beg"
     }
    ],
-   "gloss": "to beg"
+   "gloss": "while I entreat"
   },
   {
    "surface": "நீடுக",
@@ -82,7 +82,7 @@
     {
      "text": "நீடு",
      "lemma": "நீடு",
-     "gloss": "to lengthen"
+     "gloss": "prolong"
     },
     {
      "text": "க",
@@ -90,7 +90,7 @@
      "gloss": "optative suffix"
     }
    ],
-   "gloss": "let lengthen"
+   "gloss": "let it lengthen"
   },
   {
    "surface": "மன்னோ",
@@ -98,15 +98,15 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "expletive"
+     "gloss": "particle of desire"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "particle of wish"
+     "gloss": "particle of emphasis"
     }
    ],
-   "gloss": "oh that"
+   "gloss": "indeed"
   },
   {
    "surface": "இரா",
@@ -117,13 +117,13 @@
      "gloss": "night"
     }
    ],
-   "gloss": "night"
+   "gloss": "the night"
   }
  ],
- "literal": "Let sulk oh that, bright jewel, we to beg; let lengthen oh that, night.",
- "translation": "Let the brightly jeweled woman feign anger so I may plead with her, and let the night stretch on to give us time.",
- "modern": "ஒளிரும் அணிகலன்களை அணிந்தவள் என்னோடு ஊடல் கொள்வாளாக; அவளிடம் நான் கெஞ்சி இரந்து நிற்பதற்காக இந்த இரவு இன்னும் நீள்வதாக.",
- "explanation": "The speaker expresses a deep delight in the lover's feigned quarrel. He wishes that the woman, described metonymically by her bright jewels, would continue to sulk so that he can have the pleasure of pleading with her. To fully enjoy this sweet process of appeasing her, he wishes for the night to stretch on and last longer. The optative verbs 'ūṭuka' (let her sulk) and 'nīṭuka' (let it lengthen) highlight his active desire for this playful conflict and the time to resolve it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Let her sulk indeed, she of bright ornaments, while I entreat; let it lengthen indeed, the night.",
+ "translation": "Let my beloved of bright ornaments prolong her feigned anger so that I may go on entreating her; and let the night also lengthen so that this sweet state may endure.",
+ "modern": "ஒளிரும் ஆபரணங்களை அணிந்த என் காதலி ஊடல் கொள்ளட்டும், அவளை நான் கெஞ்சி இரந்து சமாதானம் செய்யட்டும்; அதற்கு ஏதுவாக இந்த இரவும் நீளட்டும்.",
+ "explanation": "The speaker finds immense pleasure in the act of appeasing his beloved when she is feigning anger. He wishes for her to continue her sulking so that he can enjoy the sweet pleasure of begging for her grace. To allow this intimate play of love to continue without interruption, he also wishes for the night to stretch out and become longer. The particle 'manno' expresses a strong desire or wish, highlighting the intensity of his love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

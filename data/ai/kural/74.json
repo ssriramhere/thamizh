@@ -15,17 +15,12 @@
    "surface": "ஈனும்",
    "parts": [
     {
-     "text": "ஈன்",
-     "lemma": "ஈன்",
-     "gloss": "to yield"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "text": "ஈனும்",
+     "lemma": "ஈனு",
+     "gloss": "will yield"
     }
    ],
-   "gloss": "yields"
+   "gloss": "will yield"
   },
   {
    "surface": "ஆர்வம்",
@@ -33,10 +28,10 @@
     {
      "text": "ஆர்வம்",
      "lemma": "ஆர்வம்",
-     "gloss": "eagerness"
+     "gloss": "yearning"
     }
    ],
-   "gloss": "eagerness"
+   "gloss": "yearning"
   },
   {
    "surface": "உடைமை",
@@ -64,17 +59,12 @@
    "surface": "ஈனும்",
    "parts": [
     {
-     "text": "ஈன்",
-     "lemma": "ஈன்",
-     "gloss": "to yield"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "text": "ஈனும்",
+     "lemma": "ஈனு",
+     "gloss": "will yield"
     }
    ],
-   "gloss": "yields"
+   "gloss": "will yield"
   },
   {
    "surface": "நண்பு",
@@ -91,33 +81,23 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "called"
     }
    ],
-   "gloss": "which is called"
+   "gloss": "called"
   },
   {
    "surface": "நாடா",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடா",
      "lemma": "நாடு",
-     "gloss": "to seek/measure"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "unsought"
     }
    ],
-   "gloss": "immeasurable"
+   "gloss": "unsought"
   },
   {
    "surface": "சிறப்பு",
@@ -131,10 +111,10 @@
    "gloss": "excellence"
   }
  ],
- "literal": "Love yields the possession of eagerness; that yields the immeasurable excellence called friendship.",
- "translation": "Love yields a deep eagerness to connect with others, and that eagerness yields the boundless excellence called friendship.",
- "modern": "அன்பு மற்றவர்களிடம் பழகும் ஆர்வத்தை உருவாக்கும்; அந்த ஆர்வம் நட்பு என்று சொல்லப்படும் அளவற்ற சிறப்பை உருவாக்கும்.",
- "explanation": "This couplet describes a chain reaction that begins with love. Love produces an eagerness or deep interest in connecting with others. That eagerness, in turn, yields the boundless excellence known as friendship. The word 'நாடா' literally means 'unmeasured' or 'unsought', indicating that the greatness of such friendship is beyond calculation and comes naturally. Through this progression, the text shows how inner affection expands outward into universal bonds.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Love yields the possession of yearning; that yields the unsought excellence called friendship.",
+ "translation": "Love produces a yearning for connection with others, and that yearning yields the priceless, effortless excellence called friendship.",
+ "modern": "அன்பு பிறரிடம் விருப்பம் கொள்ளும் தன்மையைத் தரும்; அந்த விருப்பம் நட்பு என்று சொல்லப்படும் தேடாமலே கிடைக்கும் சிறந்த சிறப்பைத் தரும்.",
+ "explanation": "This couplet explains the beautiful progression of human relationships starting from love. Love (அன்பு) naturally gives rise to a deep yearning or desire (ஆர்வம்) to connect and be with others. This yearning, in turn, effortlessly yields the supreme excellence of friendship (நண்பு). The word 'நாடா' (unsought) highlights that true friendship is not something one has to laboriously search for; rather, it comes naturally and effortlessly to those who possess a loving heart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

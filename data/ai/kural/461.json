@@ -6,10 +6,10 @@
     {
      "text": "அழிவதூஉம்",
      "lemma": "அழிவது",
-     "gloss": "that which will be lost-and"
+     "gloss": "that which will be lost, and"
     }
    ],
-   "gloss": "that which will be lost and"
+   "gloss": "that which will be lost, and"
   },
   {
    "surface": "ஆவதூஉம்",
@@ -17,10 +17,10 @@
     {
      "text": "ஆவதூஉம்",
      "lemma": "ஆவது",
-     "gloss": "that which will be produced-and"
+     "gloss": "that which will be gained, and"
     }
    ],
-   "gloss": "that which will be produced and"
+   "gloss": "that which will be gained, and"
   },
   {
    "surface": "ஆகி",
@@ -39,10 +39,10 @@
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "afterwards"
+     "gloss": "in the future"
     }
    ],
-   "gloss": "afterwards"
+   "gloss": "in the future"
   },
   {
    "surface": "பயக்கும்",
@@ -69,7 +69,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "profit and"
+   "gloss": "and the profit"
   },
   {
    "surface": "சூழ்ந்து",
@@ -77,10 +77,10 @@
     {
      "text": "சூழ்ந்து",
      "lemma": "சூழ்",
-     "gloss": "having considered"
+     "gloss": "having pondered"
     }
    ],
-   "gloss": "having considered"
+   "gloss": "having pondered"
   },
   {
    "surface": "செயல்",
@@ -88,16 +88,16 @@
     {
      "text": "செயல்",
      "lemma": "செய்",
-     "gloss": "act"
+     "gloss": "to do"
     }
    ],
-   "gloss": "act"
+   "gloss": "one should act"
   }
  ],
- "literal": "That which will be lost and, that which will be produced and, having become, afterwards will yield profit and, having considered, act.",
- "translation": "Weigh what will be lost, what will be gained, and the ultimate profit that will result, before undertaking an action.",
- "modern": "ஒரு செயலைத் தொடங்கும் முன், அதனால் அழியும் பொருளையும், ஆகும் பொருளையும், முடிவில் அது தரும் ஊதியத்தையும் ஆராய்ந்து செய்ய வேண்டும்.",
- "explanation": "This couplet advises careful calculation before starting any enterprise. The words 'aḻivatūum' and 'āvatūum' refer to the initial capital or effort expended and the immediate returns generated, both lengthened for musical emphasis. One must weigh these against the ultimate, long-term profit ('ūtiyam') that will result ('āki vaḻi payakkum'). Only after thoroughly considering all three factors should one proceed with the action.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which will be lost, and that which will be gained, and the profit that will yield in the future, having pondered, one should act.",
+ "translation": "Weigh the loss, the gain, and the ultimate profit that will follow in the future, and then undertake the action.",
+ "modern": "ஒரு செயலைச் செய்யும்போது அதனால் அழியும் பொருள், உண்டாகும் பொருள், பின்னர் அது தரும் லாபம் ஆகியவற்றை ஆராய்ந்து செய்ய வேண்டும்.",
+ "explanation": "Before undertaking any action, one must carefully calculate three things: the immediate loss or expenditure involved (அழிவதூஉம்), the immediate gain or result (ஆவதூஉம்), and the lasting benefit or profit that will accrue in the long run (வழிபயக்கும் ஊதியமும்). Only after thoroughly deliberating on these three aspects should one proceed with the task. This ensures that the effort is not wasted and leads to sustainable success.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "எற்று",
      "lemma": "எற்று",
-     "gloss": "what"
+     "gloss": "alas (exclamation of regret)"
     }
    ],
-   "gloss": "what (have I done)"
+   "gloss": "alas (exclamation of regret)"
   },
   {
    "surface": "என்று",
@@ -28,10 +28,10 @@
     {
      "text": "இரங்குவ",
      "lemma": "இரங்கு",
-     "gloss": "things to regret"
+     "gloss": "things that cause regret"
     }
    ],
-   "gloss": "things to regret"
+   "gloss": "things that cause regret"
   },
   {
    "surface": "செய்யற்க",
@@ -43,8 +43,8 @@
     },
     {
      "text": "அற்க",
-     "lemma": "அல்",
-     "gloss": "not"
+     "lemma": "அற்க",
+     "gloss": "negative optative suffix (do not)"
     }
    ],
    "gloss": "do not do"
@@ -54,7 +54,7 @@
    "parts": [
     {
      "text": "செய்வான்",
-     "lemma": "செய்",
+     "lemma": "செய்வான்",
      "gloss": "he who does"
     },
     {
@@ -71,10 +71,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "again"
+     "gloss": "then / again"
     }
    ],
-   "gloss": "again"
+   "gloss": "then / again"
   },
   {
    "surface": "அன்ன",
@@ -98,7 +98,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "non-action suffix"
+     "gloss": "negative verbal noun suffix (not doing)"
     }
    ],
    "gloss": "not doing"
@@ -108,17 +108,17 @@
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நல்",
-     "gloss": "good"
+     "lemma": "நன்று",
+     "gloss": "is good"
     }
    ],
    "gloss": "is good"
   }
  ],
- "literal": "'What!' saying, things to regret do not do; if one does, again such things not doing is good.",
- "translation": "Do not commit acts that will make you cry out, 'What have I done!' If you have made such a mistake, it is good to never repeat it.",
- "modern": "'இப்படிச் செய்துவிட்டேனே!' என்று வருந்தும்படியான செயல்களைச் செய்யக்கூடாது. ஒருவேளை தவறுதலாகச் செய்துவிட்டாலும், மீண்டும் அத்தகைய செயல்களைச் செய்யாமல் இருப்பதே நல்லது.",
- "explanation": "This couplet advises against actions that lead to future remorse. The phrase 'எற்று என்று' captures the exclamation of a person regretting their own deed, wondering what they have done. The word 'இரங்குவ' refers to actions that bring such grief. The couplet adds a practical concession: if one happens to make such a mistake, the best course of action is to ensure it is never repeated. This emphasizes that purity of action involves both avoiding regrettable deeds and learning from mistakes.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "'Alas!' saying, things that cause regret, do not do; if one does, then, such things not doing again is good.",
+ "translation": "Do not perform deeds that will make you cry out in regret, 'Alas, what have I done!' If you happen to commit such a mistake, it is best never to repeat it again.",
+ "modern": "'ஐயோ! என்ன காரியம் செய்தேன்!' என்று வருந்தக்கூடிய செயல்களைச் செய்யக்கூடாது. ஒருவேளை அப்படிச் செய்துவிட்டால், மீண்டும் அத்தகைய செயல்களைச் செய்யாமல் இருப்பது நல்லது.",
+ "explanation": "This couplet from the chapter on Purity of Action advises against performing deeds that lead to remorse. The word 'eṟṟu' is an exclamation of grief or regret, used when one realizes a mistake. The poet warns that one should not do things that cause such regret ('iraṅkuva'). However, if a person does commit such an act ('ceyvāṉēl'), the best course of action is to ensure they never repeat ('ceyyāmai') such deeds ('aṉṉa') again ('maṟṟu').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

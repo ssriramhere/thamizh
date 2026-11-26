@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "enmity-and"
+   "gloss": "and enmity"
   },
   {
    "surface": "கேண்மையும்",
@@ -30,7 +30,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "friendship-and"
+   "gloss": "and friendship"
   },
   {
    "surface": "கண்",
@@ -41,23 +41,18 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "eye"
+   "gloss": "the eye"
   },
   {
    "surface": "உரைக்கும்",
    "parts": [
     {
-     "text": "உரை",
-     "lemma": "உரை",
-     "gloss": "tell"
-    },
-    {
-     "text": "க்கும்",
-     "lemma": "க்கும்",
-     "gloss": "will"
+     "text": "உரைக்கும்",
+     "lemma": "உரைத்தல்",
+     "gloss": "will reveal"
     }
    ],
-   "gloss": "will tell"
+   "gloss": "will reveal"
   },
   {
    "surface": "கண்ணின்",
@@ -81,28 +76,18 @@
     {
      "text": "வகைமை",
      "lemma": "வகைமை",
-     "gloss": "variety"
+     "gloss": "variations"
     }
    ],
-   "gloss": "variety"
+   "gloss": "the variations"
   },
   {
    "surface": "உணர்வார்",
    "parts": [
     {
-     "text": "உணர்",
-     "lemma": "உணர்",
-     "gloss": "understand"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they-who"
+     "text": "உணர்வார்",
+     "lemma": "உணர்தல்",
+     "gloss": "those who understand"
     }
    ],
    "gloss": "those who understand"
@@ -111,23 +96,18 @@
    "surface": "பெறின்",
    "parts": [
     {
-     "text": "பெறு",
-     "lemma": "பெறு",
-     "gloss": "obtain"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "பெறின்",
+     "lemma": "பெறுதல்",
+     "gloss": "if [one] finds"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "if [one] finds"
   }
  ],
- "literal": "Enmity and friendship the eye will tell, of the eye the variety those who understand if obtained.",
- "translation": "The eye will reveal both enmity and friendship, if one secures the help of those who understand its varied expressions.",
- "modern": "கண்களின் குறிப்புகளை அறியும் ஆற்றல் உடையவர்களைத் துணையாகப் பெற்றால், ஒருவரின் பகைமையையும் நட்பையும் அவர் கண்களே காட்டிக் கொடுத்துவிடும்.",
- "explanation": "This couplet highlights the communicative power of the eyes in revealing a person's true feelings. The words pagaimaiyum and kenmaiyum represent the two extremes of human relationships: enmity and friendship. The phrase kannin vagaimai refers to the subtle varieties of expressions the eye can take. If a leader secures the counsel of those who can read these expressions, as indicated by unarvar perin, the eyes of others will openly declare their hidden intentions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Both enmity and friendship the eye will reveal, if one finds those who understand the variations of the eye.",
+ "translation": "Both enmity and friendship will be revealed by the eyes, if one can find those who are skilled at reading the varying expressions of the eye.",
+ "modern": "கண்ணின் வேறுபட்ட குறிப்புகளைப் புரிந்து கொள்ளக்கூடியவர்களைப் பெற்றால், ஒருவருடைய பகைமையையும் நட்பையும் அவருடைய கண்களே காட்டிவிடும்.",
+ "explanation": "This couplet explains how the eyes serve as a powerful medium of unspoken communication. It asserts that both hostility (பகைமை) and friendship (கேண்மை) are clearly expressed through a person's eyes. However, this silent message can only be understood if one finds observers who are capable of reading the subtle variations (வகைமை) in eye expressions. The eyes act as a mirror to the inner mind, but they require a perceptive reader to decode their true meaning.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,10 +6,10 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "harmful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "harmful things"
   },
   {
    "surface": "செய்தாரை",
@@ -22,20 +22,20 @@
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "past tense"
+     "gloss": "past tense marker"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (pronominal suffix)"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who did"
+   "gloss": "those who did (harm)"
   },
   {
    "surface": "ஒறுத்தல்",
@@ -46,14 +46,9 @@
      "gloss": "punish"
     },
     {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun"
+     "text": "த்தல்",
+     "lemma": "த்தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "punishing"
@@ -73,17 +68,12 @@
    "surface": "நாண",
    "parts": [
     {
-     "text": "நாண்",
-     "lemma": "நாண்",
-     "gloss": "feel ashamed"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive"
+     "text": "நாண",
+     "lemma": "நாணு",
+     "gloss": "to feel ashamed"
     }
    ],
-   "gloss": "to feel ashamed"
+   "gloss": "so that they feel ashamed"
   },
   {
    "surface": "நன்னயம்",
@@ -106,14 +96,9 @@
      "gloss": "do"
     },
     {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense"
-    },
-    {
-     "text": "உ",
-     "lemma": "உ",
-     "gloss": "adverbial participle"
+     "text": "து",
+     "lemma": "து",
+     "gloss": "having done (absolutive)"
     }
    ],
    "gloss": "having done"
@@ -122,23 +107,18 @@
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun"
+     "gloss": "leave / let go"
     }
    ],
-   "gloss": "leaving"
+   "gloss": "to leave it at that"
   }
  ],
- "literal": "Harm those-who-did punishing they to-feel-ashamed good-kindness having-done leaving.",
- "translation": "The true way to punish those who have harmed you is to do them a good deed that makes them feel ashamed, and then let it go.",
- "modern": "தமக்குத் துன்பம் செய்தவரைத் தண்டிக்கும் சிறந்த வழி, அவர் வெட்கப்படும்படி அவருக்கு ஒரு நன்மையைச் செய்து அந்தப் பகையை மறந்துவிடுவதே ஆகும்.",
- "explanation": "This couplet redefines the concept of punishment for a wrongdoer. Instead of seeking revenge, the victim is advised to respond with unexpected kindness. This good deed will make the offender feel deep shame for their actions, which serves as the true punishment. Finally, the victim must let go of the incident entirely, freeing themselves from the cycle of harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Harmful things those who did, punishing them is, they to feel ashamed, good kindness having done, to leave it.",
+ "translation": "The way to punish those who have done harm to you is to make them feel ashamed by doing them a good turn and forgetting it.",
+ "modern": "நமக்குத் துன்பம் செய்தவரைத் தண்டிப்பது என்பது, அவர் வெட்கப்படும்படியாக அவருக்கு நல்ல நன்மைகளைச் செய்துவிட்டு அதனை மறந்துவிடுவது ஆகும்.",
+ "explanation": "This couplet explains the ultimate way to respond to those who cause us harm. Instead of seeking revenge or retaliating with violence, the poet suggests that the best punishment is to do them an act of pure goodness (நன்னயம்). When they receive kindness in return for their malice, they will feel deeply ashamed (நாண) of their actions. Finally, one must simply let the matter go (விடல்) without harboring any lingering resentment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,23 +4,33 @@
    "surface": "கண்ணின்",
    "parts": [
     {
-     "text": "கண்ணின்",
+     "text": "கண்",
      "lemma": "கண்",
-     "gloss": "of the eye"
+     "gloss": "eye"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "of"
     }
    ],
-   "gloss": "of the eye"
+   "gloss": "of the eyes"
   },
   {
    "surface": "பசப்போ",
    "parts": [
     {
-     "text": "பசப்போ",
+     "text": "பசப்பு",
      "lemma": "பசப்பு",
-     "gloss": "pallor?"
+     "gloss": "pallor"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "indeed"
     }
    ],
-   "gloss": "pallor?"
+   "gloss": "the pallor indeed"
   },
   {
    "surface": "பருவரல்",
@@ -28,21 +38,22 @@
     {
      "text": "பருவரல்",
      "lemma": "பருவரல்",
-     "gloss": "sorrow"
+     "gloss": "distress"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress"
   },
   {
    "surface": "எய்தின்றே",
    "parts": [
     {
      "text": "எய்தின்றே",
-     "lemma": "எய்து",
-     "gloss": "has attained indeed"
+     "lemma": "எய்தின்றே",
+     "gloss": "has indeed attained"
     }
    ],
-   "gloss": "has attained indeed"
+   "gloss": "has indeed attained",
+   "split_unverified": true
   },
   {
    "surface": "ஒண்ணுதல்",
@@ -50,10 +61,11 @@
     {
      "text": "ஒண்ணுதல்",
      "lemma": "ஒண்ணுதல்",
-     "gloss": "bright forehead"
+     "gloss": "the bright-foreheaded lady"
     }
    ],
-   "gloss": "bright forehead"
+   "gloss": "the bright-foreheaded lady",
+   "split_unverified": true
   },
   {
    "surface": "செய்தது",
@@ -61,10 +73,10 @@
     {
      "text": "செய்தது",
      "lemma": "செய்",
-     "gloss": "what was done"
+     "gloss": "that which was done"
     }
    ],
-   "gloss": "what was done"
+   "gloss": "what she did"
   },
   {
    "surface": "கண்டு",
@@ -78,10 +90,10 @@
    "gloss": "having seen"
   }
  ],
- "literal": "of the eye pallor? sorrow has attained indeed bright forehead what was done having seen",
- "translation": "Has the pallor of my eyes grown sorrowful upon seeing what my bright forehead has done?",
- "modern": "ஒளிபொருந்திய நெற்றி பசலையடைந்து செய்ததைக் கண்டு, என் கண்களின் பசலையும் துன்பம் அடைந்துவிட்டதோ?",
- "explanation": "The heroine laments the physical toll of her separation from her lover. She notices that her bright forehead has lost its beauty and turned pale. Seeing this, she wonders if the pallor in her eyes has also grown sorrowful out of sympathy for her forehead. The poet uses the personification of the eyes' pallor feeling sorrow to emphasize the spreading nature of her grief and physical wasting.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The pallor of the eyes has indeed attained distress, having seen what the bright-foreheaded lady did.",
+ "translation": "Seeing the self-afflicting grief of this bright-foreheaded lady, even the pallor of her eyes seems to have fallen into deep distress.",
+ "modern": "ஒளிபொருந்திய நெற்றியை உடையவள் தனக்குத்தானே செய்து கொண்ட துன்பத்தைக் கண்டு, அவளுடைய கண்களில் படர்ந்த பசலை நிறமும் கூடத் துன்பத்தை அடைந்துவிட்டது.",
+ "explanation": "This couplet describes the extreme state of the heroine's grief during separation from her lover. Her eyes have developed 'pasappu', a pale, sallow discoloration that signifies deep yearning. The poet beautifully personifies this pallor, suggesting that even the pallor itself has become distressed upon witnessing how much the bright-foreheaded lady ('ஒண்ணுதல்') is suffering. Instead of merely being a symptom of her pain, the pallor is depicted as a sympathetic observer that is overwhelmed by her sorrow.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

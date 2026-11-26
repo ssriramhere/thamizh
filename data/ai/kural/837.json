@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "ஆர",
-     "lemma": "ஆர்",
-     "gloss": "to become full"
+     "lemma": "ஆர",
+     "gloss": "to be satisfied"
     }
    ],
-   "gloss": "to eat fully"
+   "gloss": "to eat to their satisfaction"
   },
   {
    "surface": "தமர்",
@@ -28,7 +28,7 @@
     {
      "text": "தமர்",
      "lemma": "தமர்",
-     "gloss": "relatives"
+     "gloss": "one's own people"
     }
    ],
    "gloss": "relatives"
@@ -39,10 +39,10 @@
     {
      "text": "பசிப்பர்",
      "lemma": "பசி",
-     "gloss": "will hunger"
+     "gloss": "will starve"
     }
    ],
-   "gloss": "will starve"
+   "gloss": "will suffer hunger"
   },
   {
    "surface": "பேதை",
@@ -53,7 +53,7 @@
      "gloss": "fool"
     }
    ],
-   "gloss": "fool"
+   "gloss": "a fool"
   },
   {
    "surface": "பெருஞ்செல்வம்",
@@ -64,7 +64,7 @@
      "gloss": "great wealth"
     }
    ],
-   "gloss": "great wealth"
+   "gloss": "immense wealth"
   },
   {
    "surface": "உற்ற",
@@ -72,10 +72,10 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "attained"
+     "gloss": "acquired"
     }
    ],
-   "gloss": "attained"
+   "gloss": "when acquired"
   },
   {
    "surface": "கடை",
@@ -83,16 +83,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "time"
+     "gloss": "time / when"
     }
    ],
-   "gloss": "when"
+   "gloss": "at the time of"
   }
  ],
- "literal": "Strangers to eat fully, relatives will starve, a fool great wealth when attained.",
- "translation": "When a fool attains great wealth, strangers will eat their fill while his own relatives starve.",
- "modern": "ஒரு அறிவிலி பெருஞ்செல்வத்தை அடைந்தால், அவனுக்குத் தொடர்பில்லாத அயலார் வயிறார உண்பார்கள்; ஆனால் அவனுடைய உறவினர்கள் பசியால் வாடுவார்கள்.",
- "explanation": "This couplet illustrates the misplaced priorities of a foolish person who acquires wealth. Instead of supporting their own family and relatives, a fool squanders their resources on strangers who might simply flatter them. The sharp contrast between strangers eating fully and relatives starving highlights the fool's complete lack of judgment and moral responsibility.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Strangers to be satisfied, one's own people will starve, when a fool great wealth acquires.",
+ "translation": "When a fool acquires great wealth, strangers will feast to their heart's content while his own relatives starve.",
+ "modern": "ஒரு அறிவிலி பெரும் செல்வத்தை அடையும் போது, அவனுடைய உறவினர்கள் பசியால் வாட, அந்நியர்கள் அந்தச் செல்வத்தை முழுமையாக அனுபவிப்பார்கள்.",
+ "explanation": "This couplet highlights the tragic misdirection of resources when a fool gains wealth. The word 'தமர்' refers to one's own family and relatives, who naturally deserve support, while 'ஏதிலார்' refers to strangers or outsiders. Instead of helping those close to him, the fool squanders his fortune on outsiders who flatter him, leaving his own kin to starve ('பசிப்பர்'). The term 'கடை' is used here in a temporal sense to mean 'when' or 'at the time of' acquiring wealth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

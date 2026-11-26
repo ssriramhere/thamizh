@@ -17,10 +17,10 @@
     {
      "text": "சொல்ல",
      "lemma": "சொல்",
-     "gloss": "to say"
+     "gloss": "to speak"
     }
    ],
-   "gloss": "to say"
+   "gloss": "to speak"
   },
   {
    "surface": "காமுறுவர்",
@@ -28,17 +28,12 @@
     {
      "text": "காமுறு",
      "lemma": "காமுறு",
-     "gloss": "to desire"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
+     "gloss": "desire"
     },
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they (epicene plural suffix)"
+     "gloss": "they (suffix)"
     }
    ],
    "gloss": "they will desire"
@@ -49,10 +44,10 @@
     {
      "text": "மன்ற",
      "lemma": "மன்ற",
-     "gloss": "indeed"
+     "gloss": "surely"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "surely"
   },
   {
    "surface": "மாசு",
@@ -60,7 +55,7 @@
     {
      "text": "மாசு",
      "lemma": "மாசு",
-     "gloss": "flaw"
+     "gloss": "flaw or blemish"
     }
    ],
    "gloss": "flaw"
@@ -71,10 +66,10 @@
     {
      "text": "அற்ற",
      "lemma": "அறு",
-     "gloss": "without"
+     "gloss": "free from"
     }
    ],
-   "gloss": "without"
+   "gloss": "free from"
   },
   {
    "surface": "சில",
@@ -91,44 +86,35 @@
    "surface": "சொல்லல்",
    "parts": [
     {
-     "text": "சொல்லல்",
+     "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "saying"
+     "gloss": "speak"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "saying"
+   "gloss": "speaking"
   },
   {
    "surface": "தேற்றாதவர்",
    "parts": [
     {
-     "text": "தேற்று",
-     "lemma": "தேற்று",
-     "gloss": "to know"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "they"
+     "text": "தேற்றாதவர்",
+     "lemma": "தேற்றாதவர்",
+     "gloss": "those who have not mastered"
     }
    ],
-   "gloss": "those who do not know"
+   "gloss": "those who have not mastered",
+   "split_unverified": true
   }
  ],
- "literal": "many things / to say / they will desire / indeed / flaw / without / few things / saying / those who do not know",
- "translation": "Those who do not know how to speak a few flawless words will indeed desire to speak at length.",
- "modern": "குற்றமில்லாத சில வார்த்தைகளைச் சுருக்கமாகச் சொல்லத் தெரியாதவர்கள், பல வார்த்தைகளை நீட்டிப் பேசவே விரும்புவார்கள்.",
- "explanation": "This couplet contrasts the ability to speak concisely with the tendency to talk too much. People who lack the skill to express themselves in a few, flawless words ('மாசு அற்ற சில சொல்லல் தேற்றாதவர்') often try to compensate by saying many things ('பல சொல்லக் காமுறுவர்'). The word 'மன்ற' emphasizes that this is a certain truth. True eloquence lies in clarity and brevity, not in the sheer volume of words.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To speak many things they will desire, surely, those who have not mastered speaking a few flawless words.",
+ "translation": "Those who do not know how to speak a few flawless words will surely desire to speak many words.",
+ "modern": "குற்றமற்ற சில சொற்களைச் சொல்லத் தெரியாதவர்கள், பல சொற்களைப் பேச விரும்புவார்கள்.",
+ "explanation": "This couplet contrasts the beauty of concise, flawless speech with the tendency of untrained speakers to babble. The phrase 'மாசற்ற சில சொல்லல்' refers to the art of speaking a few words that are completely free of errors or blemishes. Those who have not mastered this art ('தேற்றாதவர்') will surely ('மன்ற') desire ('காமுறுவர்') to speak at great length ('பல சொல்ல'), mistakenly believing that quantity can compensate for a lack of quality.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

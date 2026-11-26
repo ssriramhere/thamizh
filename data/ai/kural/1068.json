@@ -15,17 +15,12 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "which is called"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "ஏமாப்பு",
@@ -33,7 +28,7 @@
     {
      "text": "ஏமாப்பு",
      "lemma": "ஏமாப்பு",
-     "gloss": "safety"
+     "gloss": "safety or protection"
     }
    ],
    "gloss": "safety"
@@ -44,7 +39,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "without or lacking"
     }
    ],
    "gloss": "without"
@@ -66,26 +61,21 @@
     {
      "text": "கரவு",
      "lemma": "கரவு",
-     "gloss": "concealment"
+     "gloss": "withholding or hiding wealth"
     }
    ],
-   "gloss": "concealment"
+   "gloss": "withholding"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "which is called"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "பார்",
@@ -93,7 +83,7 @@
     {
      "text": "பார்",
      "lemma": "பார்",
-     "gloss": "rock"
+     "gloss": "rock or reef"
     }
    ],
    "gloss": "rock"
@@ -102,14 +92,9 @@
    "surface": "தாக்க",
    "parts": [
     {
-     "text": "தாக்கு",
+     "text": "தாக்க",
      "lemma": "தாக்கு",
-     "gloss": "to strike"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to strike or collide"
     }
    ],
    "gloss": "to strike"
@@ -119,33 +104,28 @@
    "parts": [
     {
      "text": "பக்கு",
-     "lemma": "பக்கு",
-     "gloss": "splitting"
+     "lemma": "பகு",
+     "gloss": "split or broken state"
     }
    ],
-   "gloss": "splitting"
+   "gloss": "split"
   },
   {
    "surface": "விடும்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடும்",
      "lemma": "விடு",
-     "gloss": "to leave (auxiliary)"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will certainly happen"
     }
    ],
-   "gloss": "will (do completely)"
+   "gloss": "will happen"
   }
  ],
- "literal": "Begging called safety without boat, concealment called rock to strike, split it will.",
- "translation": "The unsafe boat called begging will split apart when it strikes the rock called refusal.",
- "modern": "இரத்தல் என்னும் பாதுகாப்பற்ற படகு, இல்லை என்று மறைத்தல் என்னும் பாறை மோதினால் உடைந்து சிதறிவிடும்.",
- "explanation": "The couplet uses a vivid metaphor to describe the precarious nature of begging. Begging is compared to a fragile boat that offers no real safety ('ஏமாப்பு இல் தோணி'). When a beggar asks for help and faces refusal, compared here to a hard rock of concealment ('கரவு என்னும் பார்'), the fragile boat shatters ('பக்கு விடும்'). This illustrates how the humiliation of being denied destroys the beggar's already fragile livelihood and self-worth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The boat called begging, which is without safety, when the rock called withholding strikes, will split apart.",
+ "translation": "The unsafe boat called begging will split wide open the moment it strikes the hidden reef called refusal.",
+ "modern": "பாதுகாப்பு இல்லாத இரத்தல் என்னும் தோணி, கொடுப்பதற்கு மனமில்லாமல் ஒளித்தல் என்னும் பாறை மோதும்போது உடைந்து போய்விடும்.",
+ "explanation": "This couplet uses a vivid nautical metaphor to warn against the dangers of begging. The act of begging (இரவு) is compared to a fragile boat that lacks any safety features (ஏமாப்பு இல்). The act of withholding or refusing to give (கரவு) is compared to a hard, hidden underwater rock (பார்). When a person attempts to navigate life using the fragile boat of begging, it will inevitably shatter into pieces (பக்கு விடும்) the moment it collides with the cold refusal of a miser.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

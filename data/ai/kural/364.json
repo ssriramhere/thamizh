@@ -15,12 +15,17 @@
    "surface": "என்பது",
    "parts": [
     {
-     "text": "என்பது",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "that which is called"
+     "gloss": "say"
+    },
+    {
+     "text": "பது",
+     "lemma": "பது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "that which is called"
+   "gloss": "is that which is called"
   },
   {
    "surface": "அவா",
@@ -72,10 +77,10 @@
     {
      "text": "வாஅய்மை",
      "lemma": "வாய்மை",
-     "gloss": "truth"
+     "gloss": "truthfulness"
     }
    ],
-   "gloss": "truth"
+   "gloss": "truthfulness"
   },
   {
    "surface": "வேண்ட",
@@ -83,10 +88,10 @@
     {
      "text": "வேண்ட",
      "lemma": "வேண்டு",
-     "gloss": "if desired"
+     "gloss": "desire"
     }
    ],
-   "gloss": "if desired"
+   "gloss": "by desiring"
   },
   {
    "surface": "வரும்",
@@ -94,16 +99,16 @@
     {
      "text": "வரும்",
      "lemma": "வா",
-     "gloss": "will come"
+     "gloss": "come"
     }
    ],
    "gloss": "will come"
   }
  ],
- "literal": "Purity that-which-is-called desire absence; and that truth if-desired will-come.",
- "translation": "What is called purity is the absence of desire. That absence of desire will come if one desires truth.",
- "modern": "தூய்மை என்று சொல்லப்படுவது ஆசை இல்லாமல் இருப்பதே ஆகும். அந்த ஆசையற்ற நிலை, உண்மையை நாடினால் தானாகவே வரும்.",
- "explanation": "The couplet defines true purity as the complete absence of desire. It then explains how to achieve this pure state. The word 'வாய்மை' here is best understood as truth or reality. By seeking the truth of existence, one naturally sheds false attachments, allowing the absence of desire to follow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Purity is that which is called desire's absence; and that, truthfulness if desired, will come.",
+ "translation": "Purity is said to be the absence of desire; and that state will come to those who desire the ultimate truth.",
+ "modern": "தூய்மை என்பது ஆசைகள் இல்லாமல் இருப்பது ஆகும்; அந்த ஆசையற்ற நிலை மெய்ம்மையை விரும்பினால் உண்டாகும்.",
+ "explanation": "This couplet defines true purity not as physical cleanliness, but as the complete absence of desire. It then explains how this state of desirelessness can be achieved: it comes naturally when one desires and seeks the ultimate truth. By shifting one's focus from transient worldly desires to the eternal truth, all other limiting desires fade away. The poet uses phonetic elongation in the words for purity and truth to emphasize their supreme importance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

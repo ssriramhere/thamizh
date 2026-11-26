@@ -6,25 +6,15 @@
     {
      "text": "கல்",
      "lemma": "கல்",
-     "gloss": "to learn"
+     "gloss": "learn"
     },
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "3sg.m. suffix"
+     "text": "ஆதான்",
+     "lemma": "ஆதான்",
+     "gloss": "he who did not"
     }
    ],
-   "gloss": "unlearned man"
+   "gloss": "an unlearned man"
   },
   {
    "surface": "சொல்",
@@ -32,7 +22,7 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word/speech"
+     "gloss": "word or speech"
     }
    ],
    "gloss": "speech"
@@ -41,14 +31,14 @@
    "surface": "காமுறுதல்",
    "parts": [
     {
-     "text": "காமுறு",
-     "lemma": "காமுறு",
-     "gloss": "to desire"
+     "text": "காம்",
+     "lemma": "காமம்",
+     "gloss": "desire"
     },
     {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "verbal noun suffix"
+     "text": "உறுதல்",
+     "lemma": "உறுதல்",
+     "gloss": "to experience"
     }
    ],
    "gloss": "desiring"
@@ -62,7 +52,7 @@
      "gloss": "breast"
     }
    ],
-   "gloss": "breast"
+   "gloss": "breasts"
   },
   {
    "surface": "இரண்டும்",
@@ -75,7 +65,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and/both"
+     "gloss": "both"
     }
    ],
    "gloss": "both"
@@ -86,25 +76,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "to not have"
+     "gloss": "without"
     },
     {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ஆள்",
-     "lemma": "ஆள்",
-     "gloss": "3sg.f. suffix"
+     "text": "ஆதாள்",
+     "lemma": "ஆதாள்",
+     "gloss": "she who is"
     }
    ],
-   "gloss": "woman who lacks"
+   "gloss": "she who lacks"
   },
   {
    "surface": "பெண்",
@@ -112,7 +92,7 @@
     {
      "text": "பெண்",
      "lemma": "பெண்",
-     "gloss": "woman/womanhood"
+     "gloss": "womanhood"
     }
    ],
    "gloss": "womanhood"
@@ -121,9 +101,14 @@
    "surface": "காமுற்று",
    "parts": [
     {
-     "text": "காமுற்று",
-     "lemma": "காமுறு",
-     "gloss": "having desired"
+     "text": "காம்",
+     "lemma": "காமம்",
+     "gloss": "desire"
+    },
+    {
+     "text": "உற்று",
+     "lemma": "உறு",
+     "gloss": "having experienced"
     }
    ],
    "gloss": "having desired"
@@ -134,16 +119,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "Unlearned man speech desiring, breasts both lacking woman womanhood having desired like that.",
- "translation": "An unlearned man desiring to speak is like a woman lacking both breasts desiring womanhood.",
- "modern": "கல்வி கற்காதவன் அவையில் பேச விரும்புவது, இரண்டு மார்பகங்களும் இல்லாத ஒருத்தி பெண்மையை விரும்பியதைப் போன்றது.",
- "explanation": "This couplet uses a striking physical analogy to illustrate the futility of an unlearned person trying to participate in scholarly discourse. The phrase 'கல்லாதான் சொல் காமுறுதல்' describes an uneducated man's desire to speak or give an address. The poet compares this to a woman lacking both breasts ('முலை இரண்டும் இல்லாதாள்') who still desires to experience or display womanhood ('பெண் காமுற்று'). Just as the physical attribute is considered essential for the latter in this imagery, learning is the indispensable foundation for speaking with authority.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "An unlearned man desiring speech is like she who lacks both breasts desiring womanhood.",
+ "translation": "An unlearned person's desire to speak in an assembly is like a woman lacking both breasts desiring to exhibit womanly charms.",
+ "modern": "கல்வி கற்காதவன் அவையில் பேச விரும்புவது, இரு மார்பகங்களும் இல்லாத ஒரு பெண் பெண்மையை விரும்பியதைப் போன்றது.",
+ "explanation": "This couplet uses a sharp, vivid analogy to illustrate the futility of an uneducated person attempting to speak in public. The word 'காமுறுதல்' means desiring or longing for something. Just as a woman who lacks breasts cannot successfully embody or express physical womanly beauty, an unlearned person cannot command respect or deliver a meaningful speech in an assembly. The comparison highlights that without the essential underlying quality, the desire to perform the associated role is entirely in vain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,17 +4,12 @@
    "surface": "சொல்ல",
    "parts": [
     {
-     "text": "சொல்",
-     "lemma": "சொல்",
-     "gloss": "to say"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "சொல்ல",
+     "lemma": "சொல்லுதல்",
+     "gloss": "upon merely being told"
     }
    ],
-   "gloss": "when told"
+   "gloss": "upon merely being told (of one's need)"
   },
   {
    "surface": "பயன்படுவர்",
@@ -25,19 +20,9 @@
      "gloss": "benefit"
     },
     {
-     "text": "படு",
-     "lemma": "படு",
-     "gloss": "to occur"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "text": "படுவர்",
+     "lemma": "படுதல்",
+     "gloss": "they will yield"
     }
    ],
    "gloss": "they will be of use"
@@ -48,10 +33,10 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "the noble people"
     }
    ],
-   "gloss": "the noble"
+   "gloss": "the noble people"
   },
   {
    "surface": "கரும்பு",
@@ -79,17 +64,12 @@
    "surface": "கொல்ல",
    "parts": [
     {
-     "text": "கொல்",
-     "lemma": "கொல்",
-     "gloss": "to crush"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "text": "கொல்ல",
+     "lemma": "கொல்லுதல்",
+     "gloss": "upon crushing or squeezing"
     }
    ],
-   "gloss": "when crushed"
+   "gloss": "upon being crushed or squeezed"
   },
   {
    "surface": "பயன்படும்",
@@ -100,17 +80,12 @@
      "gloss": "benefit"
     },
     {
-     "text": "படு",
-     "lemma": "படு",
-     "gloss": "to occur"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "text": "படும்",
+     "lemma": "படுதல்",
+     "gloss": "it/he will yield"
     }
    ],
-   "gloss": "it will be of use"
+   "gloss": "will yield benefit"
   },
   {
    "surface": "கீழ்",
@@ -118,16 +93,16 @@
     {
      "text": "கீழ்",
      "lemma": "கீழ்",
-     "gloss": "base person"
+     "gloss": "the base person"
     }
    ],
-   "gloss": "the base"
+   "gloss": "the base person"
   }
  ],
- "literal": "When told, will be of use the noble; sugarcane-like, when crushed, will be of use the base.",
- "translation": "The noble will be of help as soon as they are told of a need. The base, like sugarcane, will yield their benefit only when crushed.",
- "modern": "சான்றோர்கள் ஒரு குறையைச் சொன்னவுடனேயே உதவி செய்வார்கள். ஆனால் கயவர்கள், கரும்பைப் போல நசுக்கிப் பிழிந்தால்தான் மற்றவர்களுக்குப் பயன்படுவார்கள்.",
- "explanation": "This couplet contrasts how noble and base people offer help. The word 'சொல்ல' indicates that noble people readily provide assistance the moment a need is spoken. In contrast, base people are compared to sugarcane. Just as sugarcane yields its sweet juice only when it is physically crushed ('கொல்ல'), base people will only be of use when they are forced or pressured.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Upon merely being told, the noble will be of use; like sugarcane, upon being crushed, the base will yield benefit.",
+ "translation": "Noble people will help as soon as they are told of one's need; but the base, like sugarcane, will yield only when they are crushed and squeezed.",
+ "modern": "தங்கள் குறையைச் சொன்னவுடனேயே சான்றோர் உதவி செய்வர்; ஆனால் கரும்பைப் பிழிவது போல நசுக்கிப் பிழிந்தால்தான் கீழ்மக்கள் உதவுவார்கள்.",
+ "explanation": "This couplet contrasts the generous nature of noble people with the stubbornness of the base. Noble people (சான்றோர்) require only a simple request (சொல்ல) to motivate them to help. In contrast, a base person (கீழ்) is compared to sugarcane (கரும்பு), which does not give up its sweetness easily. Just as sugarcane must be crushed and squeezed (கொல்ல) in a mill to yield its juice, the base person will only be of use when subjected to force, pressure, or harsh treatment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

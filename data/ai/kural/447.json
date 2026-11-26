@@ -10,8 +10,8 @@
     },
     {
      "text": "க்கும்",
-     "lemma": "க்கும்",
-     "gloss": "future relative participle suffix"
+     "lemma": "உம்",
+     "gloss": "who (adjectival participle suffix)"
     }
    ],
    "gloss": "who reprove"
@@ -25,11 +25,6 @@
      "gloss": "companion"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "glide"
-    },
-    {
      "text": "ஆர்",
      "lemma": "ஆர்",
      "gloss": "honorific suffix"
@@ -37,10 +32,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "companions (acc.)"
+   "gloss": "those who are supportive companions"
   },
   {
    "surface": "ஆள்வரை",
@@ -48,25 +43,15 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "to employ"
+     "gloss": "to secure/employ"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "epicene plural suffix"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "text": "வரை",
+     "lemma": "அவர்",
+     "gloss": "those who (accusative)"
     }
    ],
-   "gloss": "those who employ (acc.)"
+   "gloss": "those who secure"
   },
   {
    "surface": "யாரே",
@@ -79,7 +64,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphatic suffix"
+     "gloss": "indeed (emphasis)"
     }
    ],
    "gloss": "who indeed"
@@ -90,15 +75,15 @@
     {
      "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "to destroy"
+     "gloss": "to ruin"
     },
     {
      "text": "க்கும்",
-     "lemma": "க்கும்",
-     "gloss": "future relative participle suffix"
+     "lemma": "உம்",
+     "gloss": "who (adjectival participle suffix)"
     }
    ],
-   "gloss": "who destroy"
+   "gloss": "ruining"
   },
   {
    "surface": "தகைமை",
@@ -106,10 +91,10 @@
     {
      "text": "தகைமை",
      "lemma": "தகைமை",
-     "gloss": "ability"
+     "gloss": "capability/nature"
     }
    ],
-   "gloss": "ability"
+   "gloss": "the capability"
   },
   {
    "surface": "அவர்",
@@ -123,10 +108,10 @@
    "gloss": "they"
   }
  ],
- "literal": "reproving companions (acc.) those who employ (acc.) who indeed destroying ability they",
- "translation": "Who has the power to ruin those who employ companions that boldly reprove them?",
- "modern": "தவறுகளைக் கண்டிக்கின்ற துணைவர்களைக் கொண்டிருப்பவர்களைக் கெடுக்கும் ஆற்றல் உடையவர்கள் யார்?",
- "explanation": "This couplet emphasizes the protective value of critical advisors. The word 'இடிக்கும்' literally means 'to strike' but here takes the accepted sense of 'to reprove' or 'to point out faults forcefully'. When a leader employs ('ஆள்வரை') companions who act as such a corrective force, they become invincible. The rhetorical question asks who could possibly possess the ability ('கெடுக்கும் தகைமை') to destroy such a well-advised person, implying that absolutely no one can.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who secure the supportive companions who reprove, who indeed are they with the capability of ruining them?",
+ "translation": "Who indeed has the power to ruin those who secure the guidance of companions who have the courage to reprove them when they err?",
+ "modern": "தவறு செய்யும்போது கடிந்து அறிவுரை கூறும் பெரியோர்களைத் துணையாகக் கொண்டு வாழ்பவர்களை அழிக்கும் ஆற்றல் உடையவர் யார் இருக்கிறார்கள்?",
+ "explanation": "This couplet highlights the supreme protection gained by keeping wise and honest companions. The word 'இடிக்கும்' means to sharply reprove or admonish, describing friends who do not hesitate to point out one's faults. Those who 'secure' (ஆள்வரை) such companions are shielded from moral and political downfall. The rhetorical question asks who could possibly have the power to ruin such a person, emphasizing that sincere, critical guidance makes one invincible.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

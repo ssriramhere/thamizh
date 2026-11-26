@@ -6,7 +6,7 @@
     {
      "text": "வரு",
      "lemma": "வரு",
-     "gloss": "to come"
+     "gloss": "coming"
     },
     {
      "text": "விருந்து",
@@ -14,7 +14,7 @@
      "gloss": "guest"
     }
    ],
-   "gloss": "coming guests"
+   "gloss": "the arriving guest"
   },
   {
    "surface": "வைகலும்",
@@ -27,7 +27,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "every"
+     "gloss": "every/always"
     }
    ],
    "gloss": "every day"
@@ -38,7 +38,7 @@
     {
      "text": "ஓம்பு",
      "lemma": "ஓம்பு",
-     "gloss": "to care for"
+     "gloss": "cherish"
     },
     {
      "text": "வான்",
@@ -46,15 +46,20 @@
      "gloss": "he who"
     }
    ],
-   "gloss": "he who cares for"
+   "gloss": "he who cherishes"
   },
   {
    "surface": "வாழ்க்கை",
    "parts": [
     {
-     "text": "வாழ்க்கை",
-     "lemma": "வாழ்க்கை",
-     "gloss": "life"
+     "text": "வாழ்",
+     "lemma": "வாழ்",
+     "gloss": "live"
+    },
+    {
+     "text": "க்கை",
+     "lemma": "கை",
+     "gloss": "noun suffix"
     }
    ],
    "gloss": "life"
@@ -65,10 +70,10 @@
     {
      "text": "பருவந்து",
      "lemma": "பருவரு",
-     "gloss": "having suffered"
+     "gloss": "having suffered distress"
     }
    ],
-   "gloss": "having suffered"
+   "gloss": "having suffered distress"
   },
   {
    "surface": "பாழ்படுதல்",
@@ -80,28 +85,28 @@
     },
     {
      "text": "படுதல்",
-     "lemma": "படு",
-     "gloss": "falling into"
+     "lemma": "படுதல்",
+     "gloss": "undergoing"
     }
    ],
-   "gloss": "falling into ruin"
+   "gloss": "going to ruin"
   },
   {
    "surface": "இன்று",
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
+     "lemma": "இன்று",
      "gloss": "is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   }
  ],
- "literal": "Coming guests every day he who cares for life having suffered falling into ruin is not.",
- "translation": "The life of one who cares for arriving guests every day will never suffer and fall into ruin.",
- "modern": "நாள்தோறும் வரும் விருந்தினர்களைப் போற்றி உபசரிப்பவனின் வாழ்க்கை, துன்பப்பட்டுப் பாழாவது இல்லை.",
- "explanation": "This couplet emphasizes the continuous practice of hospitality. The phrase 'வருவிருந்து வைகலும் ஓம்புவான்' describes a householder who welcomes and cares for guests every single day. The word 'பருவந்து' means experiencing distress or suffering. The couplet assures that such a generous person's domestic life will never face the sorrow of falling into ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The life of him who cherishes the arriving guest every day, suffering distress and going to ruin, does not exist.",
+ "translation": "The life of one who daily cherishes every guest that arrives will never suffer distress and fall into ruin.",
+ "modern": "தினமும் வரும் விருந்தினர்களை உபசரிப்பவனுடைய வாழ்க்கை, வறுமையால் துன்பப்பட்டு அழிந்துபோவது இல்லை.",
+ "explanation": "This couplet highlights the material and spiritual security that comes from practicing hospitality. The poet asserts that a person who makes it a daily habit (வைகலும்) to welcome and care for guests will never experience poverty or ruin that causes them distress. The word 'பருவந்து' indicates the painful suffering that usually accompanies financial or personal downfall, which such a generous host is spared from. Thus, hospitality acts as a protective shield for one's livelihood.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

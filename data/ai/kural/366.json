@@ -6,20 +6,15 @@
     {
      "text": "அஞ்சு",
      "lemma": "அஞ்சு",
-     "gloss": "to fear"
+     "gloss": "fear"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future/habitual marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "verbal noun suffix"
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "fearing"
+   "gloss": "fearing (what should be feared)"
   },
   {
    "surface": "ஓரும்",
@@ -27,22 +22,22 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "to consider"
+     "gloss": "consider"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "habitual/conditional marker"
+     "gloss": "particle of emphasis"
     }
    ],
-   "gloss": "if one considers"
+   "gloss": "indeed"
   },
   {
    "surface": "அறனே",
    "parts": [
     {
      "text": "அறன்",
-     "lemma": "அறம்",
+     "lemma": "அறன்",
      "gloss": "virtue"
     },
     {
@@ -51,7 +46,7 @@
      "gloss": "emphasis"
     }
    ],
-   "gloss": "is virtue indeed"
+   "gloss": "virtue indeed"
   },
   {
    "surface": "ஒருவனை",
@@ -59,7 +54,7 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one person"
+     "gloss": "a person"
     },
     {
      "text": "ஐ",
@@ -75,22 +70,12 @@
     {
      "text": "வஞ்சி",
      "lemma": "வஞ்சி",
-     "gloss": "to deceive"
+     "gloss": "deceive"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future/habitual marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "verbal noun suffix"
+     "text": "ப்பது",
+     "lemma": "ப்பது",
+     "gloss": "nominalizing suffix"
     }
    ],
    "gloss": "that which deceives"
@@ -101,15 +86,15 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "to consider"
+     "gloss": "consider"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "habitual/conditional marker"
+     "gloss": "particle of emphasis"
     }
    ],
-   "gloss": "if one considers"
+   "gloss": "indeed"
   },
   {
    "surface": "அவா",
@@ -123,10 +108,10 @@
    "gloss": "desire"
   }
  ],
- "literal": "Fearing, if one considers, is virtue indeed; a person, that which deceives, if one considers, is desire.",
- "translation": "If one considers what deceives a person, it is desire; and if one considers true virtue, it is to fear that desire.",
- "modern": "ஒருவனை வஞ்சிப்பது எதுவென்று ஆராய்ந்தால் அது ஆசையே ஆகும்; எனவே அந்த ஆசையைக் கண்டு அஞ்சுவதே உண்மையான அறமாகும்.",
- "explanation": "The couplet identifies desire as the ultimate deceiver of human beings. The word 'வஞ்சிப்பது' (that which deceives) highlights how desire tricks the mind into endless, destructive pursuits. Because of this inherent danger, the text declares that 'அஞ்சுவது' (fearing desire) is 'அறன்' (virtue itself). The repeated use of 'ஓரும்' (if one considers or examines) invites the reader to reflect deeply on the deceptive nature of desire and the moral necessity of avoiding it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Fearing [what is to be feared], indeed, is virtue; that which deceives a person, indeed, is desire.",
+ "translation": "Fearing what ought to be feared is indeed virtue; that which utterly deceives a person is desire.",
+ "modern": "அஞ்ச வேண்டிய தீமைகளுக்கு அஞ்சுவதே ஒருவருக்கு அறமாகும்; ஒருவனை ஏமாற்றி அழிப்பது பேராசையே ஆகும்.",
+ "explanation": "This couplet contrasts the protective nature of healthy fear with the destructive nature of desire. The poet states that fearing things that should be feared, such as vice or moral transgression, is actually a form of virtue because it keeps a person on the right path. In contrast, desire is identified as the ultimate deceiver, which secretly misleads a person and brings about their ruin. By using the particle 'ōrum' (meaning 'if one considers' or 'surely') with both concepts, the couplet invites deep reflection on what truly protects us versus what secretly betrays us.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

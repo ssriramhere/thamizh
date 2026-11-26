@@ -38,11 +38,11 @@
    "parts": [
     {
      "text": "உயிர்த்து",
-     "lemma": "உயிர்",
-     "gloss": "having smelled"
+     "lemma": "உயிர்த்தல்",
+     "gloss": "having smelt"
     }
    ],
-   "gloss": "having smelled"
+   "gloss": "having smelt"
   },
   {
    "surface": "உற்று",
@@ -59,20 +59,30 @@
    "surface": "அறியும்",
    "parts": [
     {
-     "text": "அறியும்",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "which knows"
+     "gloss": "perceive"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "which knows"
+   "gloss": "perceiving"
   },
   {
    "surface": "ஐம்புலனும்",
    "parts": [
     {
-     "text": "ஐம்புலன்",
-     "lemma": "ஐம்புலன்",
-     "gloss": "five senses"
+     "text": "ஐம்",
+     "lemma": "ஐந்து",
+     "gloss": "five"
+    },
+    {
+     "text": "புலன்",
+     "lemma": "புலன்",
+     "gloss": "sense"
     },
     {
      "text": "உம்",
@@ -88,21 +98,27 @@
     {
      "text": "ஒண்தொடி",
      "lemma": "ஒண்தொடி",
-     "gloss": "bright-braceleted woman"
+     "gloss": "she who wears bright bracelets"
     }
    ],
-   "gloss": "bright-braceleted woman"
+   "gloss": "she who wears bright bracelets",
+   "split_unverified": true
   },
   {
    "surface": "கண்ணே",
    "parts": [
     {
-     "text": "கண்ணே",
+     "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with indeed"
+     "gloss": "with/in"
+    },
+    {
+     "text": "ஏ",
+     "lemma": "ஏ",
+     "gloss": "indeed"
     }
    ],
-   "gloss": "with indeed"
+   "gloss": "indeed within her"
   },
   {
    "surface": "உள",
@@ -110,16 +126,16 @@
     {
      "text": "உள",
      "lemma": "உள்",
-     "gloss": "they exist"
+     "gloss": "are present"
     }
    ],
-   "gloss": "they exist"
+   "gloss": "are present"
   }
  ],
- "literal": "Having seen, having heard, having tasted, having smelled, having touched, which knows, all five senses, with the bright-braceleted woman, they exist.",
- "translation": "The delights of all five senses—sight, hearing, taste, smell, and touch—are found together in this woman with bright bracelets.",
- "modern": "கண்டு, கேட்டு, உண்டு, முகர்ந்து, தொட்டு அறியப்படுகின்ற ஐந்து புலன்களின் இன்பங்களும் இந்த ஒளிமிக்க வளையல்களை அணிந்த பெண்ணிடமே ஒருங்கே உள்ளன.",
- "explanation": "The poet describes the completeness of the lover's embrace. While the five senses usually find pleasure in five different things, here all five sensory delights are experienced at once in the presence of the beloved. The word 'ஒண்தொடி' (bright bracelet) is used as a metonymy for the beautiful woman herself, emphasizing her allure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having seen, heard, tasted, smelt, and touched, all five perceiving senses are present indeed within this bright-braceleted woman.",
+ "translation": "The pleasures of all five senses—sight, hearing, taste, smell, and touch—are found together in this woman adorned with bright bracelets.",
+ "modern": "பார்த்தல், கேட்டல், உண்ணல், மோத்தல், தொடுதல் ஆகிய ஐந்து புலன்களாலும் அறியப்படும் இன்பங்கள் அனைத்தும் ஒளி பொருந்திய வளையல்களை அணிந்த இவளிடத்தே மட்டுமே உள்ளன.",
+ "explanation": "This couplet celebrates the ultimate sensory fulfillment found in the beloved. The poet lists the five modes of perception: seeing (kaṇṭu), hearing (kēṭṭu), tasting (uṇṭu), smelling (uyirttu), and touching (uṟṟu). While these five senses (aimpulanum) usually seek gratification from different sources, the lover experiences them all simultaneously in the presence of his beloved, referred to metonymically as the one wearing bright bracelets (oṇtoṭi). The sandhi of 'oḷ' (bright) and 'toṭi' (bracelet) naturally yields 'oṇtoṭi' through standard Tamil sound-merging rules.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

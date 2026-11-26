@@ -17,10 +17,10 @@
     {
      "text": "நின்று",
      "lemma": "நில்",
-     "gloss": "enduring"
+     "gloss": "persisting"
     }
    ],
-   "gloss": "enduring"
+   "gloss": "persisting"
   },
   {
    "surface": "உலகம்",
@@ -31,7 +31,7 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world"
   },
   {
    "surface": "வழங்கி",
@@ -39,18 +39,18 @@
     {
      "text": "வழங்கி",
      "lemma": "வழங்கு",
-     "gloss": "functioning"
+     "gloss": "sustaining"
     }
    ],
-   "gloss": "functioning"
+   "gloss": "sustaining"
   },
   {
    "surface": "வருதலால்",
    "parts": [
     {
      "text": "வருதல்",
-     "lemma": "வா",
-     "gloss": "continuing"
+     "lemma": "வரு",
+     "gloss": "coming"
     },
     {
      "text": "ஆல்",
@@ -58,7 +58,7 @@
      "gloss": "because of"
     }
    ],
-   "gloss": "because of continuing"
+   "gloss": "because of its coming"
   },
   {
    "surface": "தான்",
@@ -77,10 +77,10 @@
     {
      "text": "அமிழ்தம்",
      "lemma": "அமிழ்தம்",
-     "gloss": "ambrosia"
+     "gloss": "nectar"
     }
    ],
-   "gloss": "ambrosia"
+   "gloss": "nectar"
   },
   {
    "surface": "என்று",
@@ -88,10 +88,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "that"
+     "gloss": "as"
     }
    ],
-   "gloss": "that"
+   "gloss": "as"
   },
   {
    "surface": "உணரற்பாற்று",
@@ -104,16 +104,16 @@
     {
      "text": "பாற்று",
      "lemma": "பால்",
-     "gloss": "nature-it-has"
+     "gloss": "is of the nature of"
     }
    ],
-   "gloss": "is to be understood"
+   "gloss": "is fit to be understood"
   }
  ],
- "literal": "Rain enduring, world functioning because of continuing, itself ambrosia that is to be understood.",
- "translation": "Because the world continues to function only through the endurance of rain, rain itself is to be understood as the nectar of immortality.",
- "modern": "மழை நிலைபெற்று பெய்வதால்தான் இந்த உலகம் தொடர்ந்து இயங்கி வருகிறது; ஆகையால் மழையே அமிழ்தம் என்று உணரத்தக்கது.",
- "explanation": "This couplet establishes rain as the life-sustaining force of the earth. The word 'வான்' literally means sky, but in this context it stands for the rain that falls from it. The phrase 'நின்று வழங்கி வருதலால்' describes how the world continues to function and thrive because the rain endures and reliably provides for it. Because all earthly life depends entirely on this continuous cycle, rain itself ('தான்') is equated to 'அமிழ்தம்' (ambrosia), the mythical nectar of immortality. The concluding word 'உணரற்பாற்று' indicates that this is a fundamental truth of nature that one must realize.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Because rain, persisting, sustains the world by coming, it is fit to be understood as nectar itself.",
+ "translation": "Since rain pours down continuously and sustains the world, it should be understood as the very nectar of life.",
+ "modern": "மழை தொடர்ந்து பெய்து உலகத்தைக் காத்து வருவதால், அதுவே அமிழ்தம் என்று உணரத்தக்கது.",
+ "explanation": "This couplet highlights the supreme importance of rain by comparing it to 'amiḻtam', the mythical nectar of immortality. The word 'vān' refers to the sky, but here it specifically denotes the rain that falls from it. Because rain falls regularly and sustains all living beings, it acts as the ultimate life-giver. The poet suggests that we must realize ('uṇaraṟ pāṟṟu') that rain is not just water, but the very source of existence that keeps the world alive.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

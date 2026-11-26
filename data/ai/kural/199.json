@@ -6,18 +6,23 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "meaning"
+     "gloss": "meaning or substance"
     }
    ],
-   "gloss": "meaning"
+   "gloss": "meaning or substance"
   },
   {
    "surface": "தீர்ந்த",
    "parts": [
     {
-     "text": "தீர்ந்த",
+     "text": "தீர்",
      "lemma": "தீர்",
-     "gloss": "devoid of"
+     "gloss": "be free from"
+    },
+    {
+     "text": "ந்த",
+     "lemma": "அ",
+     "gloss": "past relative participle suffix"
     }
    ],
    "gloss": "devoid of"
@@ -27,8 +32,8 @@
    "parts": [
     {
      "text": "பொச்சாந்து",
-     "lemma": "பொச்சா",
-     "gloss": "having forgotten"
+     "lemma": "பொச்சாப்பு",
+     "gloss": "forgetfulness"
     },
     {
      "text": "உம்",
@@ -36,7 +41,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even forgetting"
+   "gloss": "even by forgetfulness"
   },
   {
    "surface": "சொல்லார்",
@@ -60,21 +65,26 @@
     {
      "text": "மருள்",
      "lemma": "மருள்",
-     "gloss": "delusion"
+     "gloss": "delusion or confusion"
     }
    ],
-   "gloss": "delusion"
+   "gloss": "delusion or confusion"
   },
   {
    "surface": "தீர்ந்த",
    "parts": [
     {
-     "text": "தீர்ந்த",
+     "text": "தீர்",
      "lemma": "தீர்",
-     "gloss": "freed from"
+     "gloss": "be free from"
+    },
+    {
+     "text": "ந்த",
+     "lemma": "அ",
+     "gloss": "past relative participle suffix"
     }
    ],
-   "gloss": "freed from"
+   "gloss": "devoid of"
   },
   {
    "surface": "மாசு",
@@ -82,10 +92,10 @@
     {
      "text": "மாசு",
      "lemma": "மாசு",
-     "gloss": "blemish"
+     "gloss": "blemish or fault"
     }
    ],
-   "gloss": "blemish"
+   "gloss": "blemish or fault"
   },
   {
    "surface": "அறு",
@@ -93,10 +103,10 @@
     {
      "text": "அறு",
      "lemma": "அறு",
-     "gloss": "without"
+     "gloss": "without or free from"
     }
    ],
-   "gloss": "without"
+   "gloss": "without or free from"
   },
   {
    "surface": "காட்சியவர்",
@@ -104,21 +114,21 @@
     {
      "text": "காட்சி",
      "lemma": "காட்சி",
-     "gloss": "vision"
+     "gloss": "vision or knowledge"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who have"
     }
    ],
-   "gloss": "those of vision"
+   "gloss": "those who have vision or knowledge"
   }
  ],
- "literal": "Meaning devoid-of, even forgetting they will not speak, delusion freed-from, blemish without vision-they.",
- "translation": "Those of flawless vision, freed from delusion, will not speak meaningless words even in a moment of forgetfulness.",
- "modern": "மயக்கம் நீங்கிய குற்றமற்ற அறிவை உடையவர்கள், மறந்துபோய்க்கூடப் பயனில்லாத சொற்களைச் சொல்ல மாட்டார்கள்.",
- "explanation": "This couplet highlights the deep discipline of the wise regarding their speech. The phrase 'மருள் தீர்ந்த மாசறு காட்சியவர்' describes individuals whose understanding is perfectly clear, completely free from confusion and flaws. Because their minds are so pure, they will not utter words devoid of substance ('பொருள் தீர்ந்த'), even in a careless moment of forgetfulness ('பொச்சாந்தும்'). It shows that speaking purposefully is an unbreakable habit for those with true clarity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Meaning-devoid [words], even by forgetfulness, will not speak, delusion-devoid, blemish-free vision-having-people.",
+ "translation": "Those who possess flawless vision, free from delusion, will not speak words devoid of meaning, even by a slip of the mind.",
+ "modern": "மயக்கம் நீங்கிய, குற்றமற்ற அறிவை உடையவர்கள், மறந்தும் கூடப் பயனில்லாத சொற்களைச் சொல்ல மாட்டார்கள்.",
+ "explanation": "This couplet explains that wise people with clear, flawless understanding (மாசறு காட்சியவர்) who are free from delusion (மருள்தீர்ந்த) will never utter useless or meaningless words (பொருள்தீர்ந்த). The word 'பொச்சாந்தும்' (even by forgetfulness) is crucial here; it emphasizes that their self-control and clarity of mind are so deep-rooted that they will not let a useless word slip out even accidentally or in a moment of inattention. Their speech is a direct reflection of their pure, unblemished wisdom.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

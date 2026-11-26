@@ -6,7 +6,7 @@
     {
      "text": "ஒழுக்கத்து",
      "lemma": "ஒழுக்கம்",
-     "gloss": "good conduct"
+     "gloss": "right conduct (oblique form)"
     },
     {
      "text": "இன்",
@@ -14,44 +14,34 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from good conduct"
+   "gloss": "from right conduct"
   },
   {
    "surface": "ஒல்கார்",
    "parts": [
     {
      "text": "ஒல்கு",
-     "lemma": "ஒல்கு",
-     "gloss": "to swerve"
+     "lemma": "ஒல்குதல்",
+     "gloss": "waver / shrink"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they will not"
+     "gloss": "they (will) not (negative suffix)"
     }
    ],
-   "gloss": "they will not swerve"
+   "gloss": "they will not waver"
   },
   {
    "surface": "உரவோர்",
    "parts": [
     {
-     "text": "உர",
-     "lemma": "உரம்",
-     "gloss": "strength of mind"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "glide"
-    },
-    {
-     "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "epicene plural suffix"
+     "text": "உரவோர்",
+     "lemma": "உரவோர்",
+     "gloss": "the strong-minded / wise ones"
     }
    ],
-   "gloss": "the strong-minded"
+   "gloss": "the strong-minded ones"
   },
   {
    "surface": "இழுக்கத்தின்",
@@ -59,15 +49,15 @@
     {
      "text": "இழுக்கத்து",
      "lemma": "இழுக்கம்",
-     "gloss": "slipping"
+     "gloss": "slipping / misconduct (oblique form)"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "by / because of"
     }
    ],
-   "gloss": "from slipping"
+   "gloss": "because of misconduct"
   },
   {
    "surface": "ஏதம்",
@@ -75,43 +65,43 @@
     {
      "text": "ஏதம்",
      "lemma": "ஏதம்",
-     "gloss": "harm"
+     "gloss": "ruin / suffering"
     }
    ],
-   "gloss": "harm"
+   "gloss": "ruin / suffering"
   },
   {
    "surface": "படுபாக்கு",
    "parts": [
     {
      "text": "படு",
-     "lemma": "படு",
-     "gloss": "to happen"
+     "lemma": "படுதல்",
+     "gloss": "befall / happen"
     },
     {
      "text": "பாக்கு",
      "lemma": "பாக்கு",
-     "gloss": "occurrence"
+     "gloss": "the certainty of happening (suffix)"
     }
    ],
-   "gloss": "the happening"
+   "gloss": "the certainty of befalling"
   },
   {
    "surface": "அறிந்து",
    "parts": [
     {
      "text": "அறிந்து",
-     "lemma": "அறி",
-     "gloss": "having known"
+     "lemma": "அறிதல்",
+     "gloss": "having known / realizing"
     }
    ],
-   "gloss": "having known"
+   "gloss": "knowing / realizing"
   }
  ],
- "literal": "From good conduct they will not swerve, the strong-minded, from slipping harm happening having known.",
- "translation": "Knowing the harm that comes from slipping into bad conduct, the strong-minded will not swerve from good conduct.",
- "modern": "தீய ஒழுக்கத்தால் துன்பம் வரும் என்பதை அறிந்து, மன உறுதி உடையவர்கள் நல்ல ஒழுக்கத்திலிருந்து விலக மாட்டார்கள்.",
- "explanation": "The couplet emphasizes that people with true mental strength will never deviate from proper conduct. The word 'உரவோர்' refers to those who possess 'உரம்', meaning firmness or strength of mind. Such individuals will not shrink or swerve ('ஒல்கார்') from good behavior because they fully understand the consequences. They know the inevitable harm ('ஏதம்') that occurs ('படுபாக்கு') from 'இழுக்கம்', which means slipping or falling into bad conduct. Thus, unwavering moral discipline is presented as the hallmark of a strong mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "From right conduct will not waver the strong-minded ones, because of misconduct ruin befalling knowing.",
+ "translation": "The strong-minded will not waver from right conduct, knowing the ruin that inevitably results from slipping into misconduct.",
+ "modern": "ஒழுக்கத்திலிருந்து மனவலிமை உடையவர்கள் தளர மாட்டார்கள்; ஒழுக்கம் தவறுவதால் உண்டாகும் துன்பத்தை அவர்கள் அறிந்து வைத்திருப்பதால்.",
+ "explanation": "This couplet highlights the steadfastness of wise and strong-minded individuals in maintaining right conduct. The key word 'உரவோர்' refers to those with mental strength and wisdom. They do not deviate or shrink ('ஒல்கார்') from the path of virtue ('ஒழுக்கம்') because they clearly understand ('அறிந்து') the severe ruin and suffering ('ஏதம்') that inevitably befalls ('படுபாக்கு') anyone who slips into misconduct ('இழுக்கம்'). Their adherence to virtue is not blind; it is rooted in a clear, rational comprehension of the destructive consequences of moral degradation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

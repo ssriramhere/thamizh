@@ -14,7 +14,7 @@
      "gloss": "that which is"
     }
    ],
-   "gloss": "that of the mind"
+   "gloss": "that which is in the mind"
   },
   {
    "surface": "மாசு",
@@ -31,38 +31,23 @@
    "surface": "ஆக",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "become"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "to be"
     }
    ],
-   "gloss": "being"
+   "gloss": "while being"
   },
   {
    "surface": "மாண்டார்",
    "parts": [
     {
-     "text": "மாண்",
-     "lemma": "மாண்",
-     "gloss": "be glorious"
-    },
-    {
-     "text": "ட்",
-     "lemma": "ட்",
-     "gloss": "past tense suffix"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "text": "மாண்டார்",
+     "lemma": "மாண்டார்",
+     "gloss": "great people"
     }
    ],
-   "gloss": "glorious people"
+   "gloss": "great people"
   },
   {
    "surface": "நீர்",
@@ -79,14 +64,9 @@
    "surface": "ஆடி",
    "parts": [
     {
-     "text": "ஆடு",
+     "text": "ஆடி",
      "lemma": "ஆடு",
-     "gloss": "bathe"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "past participle suffix"
+     "gloss": "having bathed"
     }
    ],
    "gloss": "having bathed"
@@ -95,14 +75,9 @@
    "surface": "மறைந்து",
    "parts": [
     {
-     "text": "மறை",
+     "text": "மறைந்து",
      "lemma": "மறை",
-     "gloss": "hide"
-    },
-    {
-     "text": "ந்து",
-     "lemma": "ந்து",
-     "gloss": "past participle suffix"
+     "gloss": "having hidden"
     }
    ],
    "gloss": "having hidden"
@@ -113,10 +88,10 @@
     {
      "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "behave"
+     "gloss": "to conduct oneself"
     }
    ],
-   "gloss": "behaving"
+   "gloss": "conducting oneself"
   },
   {
    "surface": "மாந்தர்",
@@ -135,16 +110,16 @@
     {
      "text": "பலர்",
      "lemma": "பலர்",
-     "gloss": "many"
+     "gloss": "many people"
     }
    ],
-   "gloss": "are many"
+   "gloss": "many"
   }
  ],
- "literal": "That of the mind impurity being, glorious people water having bathed, having hidden behaving people are many.",
- "translation": "There are many people who harbor impurity in their minds, yet bathe in water to appear like the pure, hiding their true conduct.",
- "modern": "தங்கள் மனத்திற்குள் அழுக்கை வைத்துக்கொண்டு, வெளியில் சிறந்தவர்களைப் போல நீரில் குளித்துத் தங்கள் உண்மையான இயல்பை மறைத்து வாழும் மனிதர்கள் உலகில் பலர் உள்ளனர்.",
- "explanation": "This couplet exposes the hypocrisy of those who focus on outward purity while remaining inwardly corrupt. The phrase 'manattatu macu aka' describes the mind retaining its stain or impurity. Meanwhile, 'mantar nir ati' shows them bathing in water to imitate truly glorious or pure people. By doing so, they hide their true nature ('maraintu oluku'), and the poet notes that such deceitful people are numerous ('mantar palar').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "That which is in the mind being impurity, bathing in water like great people, hiding themselves and conducting themselves, people are many.",
+ "translation": "There are many who, while their minds are filled with impurity, bathe in water like noble ascetics, hiding their true nature and conducting themselves falsely.",
+ "modern": "மனதில் உள்ளவை குற்றமாக இருக்க, உயர்ந்தவர்களைப் போல நீரில் மூழ்கி நீராடி, தம் தீய ஒழுக்கத்தை மறைத்து வாழும் மனிதர்கள் பலர் உள்ளனர்.",
+ "explanation": "This couplet exposes the hypocrisy of false ascetics who pretend to be pure. While their minds remain filled with impurities and evil thoughts, they perform external rituals like bathing in sacred waters to mimic the behavior of truly noble souls. Under this guise of holiness, they hide their true character and conduct themselves deceitfully. The poet emphasizes that external purification is meaningless without internal purity, and warns that many such impostors exist in society.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

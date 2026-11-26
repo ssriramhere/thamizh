@@ -27,11 +27,11 @@
    "parts": [
     {
      "text": "இலர்",
-     "lemma": "இல்",
-     "gloss": "is-without-he"
+     "lemma": "இலர்",
+     "gloss": "does not have"
     }
    ],
-   "gloss": "is without"
+   "gloss": "does not have"
   },
   {
    "surface": "ஆக",
@@ -39,10 +39,10 @@
     {
      "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "to-be"
+     "gloss": "since it is so"
     }
    ],
-   "gloss": "as it is"
+   "gloss": "since it is so"
   },
   {
    "surface": "நீ",
@@ -61,10 +61,10 @@
     {
      "text": "நோவது",
      "lemma": "நோ",
-     "gloss": "aching"
+     "gloss": "suffering"
     }
    ],
-   "gloss": "aching"
+   "gloss": "suffering"
   },
   {
    "surface": "பேதைமை",
@@ -83,7 +83,7 @@
     {
      "text": "வாழி",
      "lemma": "வாழி",
-     "gloss": "may-you-live"
+     "gloss": "may you live"
     }
    ],
    "gloss": "may you live"
@@ -93,7 +93,7 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "யான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -111,10 +111,10 @@
    "gloss": "heart"
   }
  ],
- "literal": "Love he is without as it is, you aching is foolishness, may you live, my heart!",
- "translation": "My heart, may you live! Since he has no love for us, it is foolishness for you to suffer.",
- "modern": "என் நெஞ்சே, நீ வாழ்வாயாக! அவர் நம்மிடம் காதல் இல்லாதவராக இருக்க, நீ மட்டும் அவருக்காகத் துன்பப்படுவது அறியாமையாகும்.",
- "explanation": "The heroine addresses her own heart, pointing out the one-sided nature of her affection. She notes that her lover does not possess the same love for her. Therefore, she tells her heart that its continued aching and suffering for him is pure foolishness. The blessing 'may you live' is a gentle, pitying address to her own distressed mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Love he does not have, since it is so, you suffering is foolishness; may you live, my heart!",
+ "translation": "Since he has no love for us, your grieving for him is sheer foolishness, my heart! May you live long.",
+ "modern": "அவர் நம்மிடம் அன்பு இல்லாதவராக இருக்க, என் நெஞ்சமே! நீ அவருக்காக வருந்துவது அறியாமையாகும்; நீ வாழ்க!",
+ "explanation": "In this couplet, the heroine speaks to her own heart, which is deeply pining for her absent lover. She reasons that since he has shown no love by staying away, it is foolish for her heart to continue to suffer and ache for him. The phrase 'வாழி என் நெஞ்சு' (may you live, my heart) is a gentle, slightly ironic blessing used to address her own mind while pointing out its irrational behavior. The word 'பேதைமை' highlights the lack of wisdom in loving someone who does not return that love with equal intensity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

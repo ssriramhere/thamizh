@@ -6,10 +6,10 @@
     {
      "text": "நாடோறும்",
      "lemma": "நாடோறும்",
-     "gloss": "every day"
+     "gloss": "daily / every day"
     }
    ],
-   "gloss": "every day",
+   "gloss": "daily / every day",
    "split_unverified": true
   },
   {
@@ -18,12 +18,12 @@
     {
      "text": "நாடு",
      "lemma": "நாடு",
-     "gloss": "examine"
+     "gloss": "examine / investigate"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "optative suffix (let one do)"
     }
    ],
    "gloss": "let him examine"
@@ -37,7 +37,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "வினைசெய்வான்",
@@ -45,47 +45,37 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "work"
+     "gloss": "work / duty"
     },
     {
      "text": "செய்வான்",
-     "lemma": "செய்",
+     "lemma": "செய்வான்",
      "gloss": "he who does"
     }
    ],
-   "gloss": "the worker"
+   "gloss": "the employee / one who performs the work"
   },
   {
    "surface": "கோடாமை",
    "parts": [
     {
-     "text": "கோடு",
-     "lemma": "கோடு",
-     "gloss": "deviate"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "கோடாமை",
+     "lemma": "கோடாமை",
+     "gloss": "unswerving conduct / uprightness"
     }
    ],
-   "gloss": "non-deviation"
+   "gloss": "unswerving conduct / integrity"
   },
   {
    "surface": "கோடாது",
    "parts": [
     {
-     "text": "கோடு",
+     "text": "கோடாது",
      "lemma": "கோடு",
-     "gloss": "deviate"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "negative suffix"
+     "gloss": "will not swerve / will not go astray"
     }
    ],
-   "gloss": "does not deviate"
+   "gloss": "will not swerve"
   },
   {
    "surface": "உலகு",
@@ -96,13 +86,13 @@
      "gloss": "world"
     }
    ],
-   "gloss": "world"
+   "gloss": "the world / the subjects"
   }
  ],
- "literal": "Every day let examine the king, the worker's non-deviation; (if he) does not deviate, the world (will not deviate).",
- "translation": "Let the king daily examine the uprightness of his officials. If they do not deviate from their duty, the world will not deviate from its course.",
- "modern": "மன்னன் தன் காரியங்களைச் செய்யும் அதிகாரியின் நேர்மையை நாள்தோறும் ஆராய வேண்டும். அவன் நேர்மை தவறாமல் இருந்தால், உலகமும் தன் நிலையில் தவறாது.",
- "explanation": "This couplet emphasizes the king's duty to constantly monitor his officials. The word 'நாடோறும்' (daily) stresses that this vigilance must be continuous, not occasional. 'வினைசெய்வான்' refers to the official executing the king's tasks. The repetition of the root 'கோடு' (to bend or deviate) connects the official's integrity directly to the stability of the state: if the official remains upright, the entire world under the king's rule will remain upright and just.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Daily let examine the king the worker's unswerving conduct; [if so,] will not swerve the world.",
+ "translation": "Let the king daily examine the conduct of his officers; as long as they do not swerve from their duty, the world will not swerve from its path.",
+ "modern": "அரசன் தன் தொழிலைச் செய்பவனுடைய நேர்மையை நாள்தோறும் ஆராய வேண்டும்; அவன் கோணாமல் கடமை ஆற்றினால், உலகமும் தன் நல்ல நிலையிலிருந்து கோணாது.",
+ "explanation": "This couplet highlights the importance of constant supervision in governance. The king (மன்னன்) must daily (நாடோறும்) watch and evaluate (நாடுக) the integrity and unswerving nature (கோடாமை) of his officers (வினைசெய்வான்). If the administrators perform their duties uprightly without bending the rules, the subjects of the world (உலகு) will also remain orderly and will not go astray (கோடாது). The stability of the entire society depends on this daily vigilance over those who hold executive power.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

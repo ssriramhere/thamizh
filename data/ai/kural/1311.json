@@ -22,10 +22,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they (pronominal suffix)"
     }
    ],
-   "gloss": "women-natured"
+   "gloss": "those who have the nature of"
   },
   {
    "surface": "எல்லாரும்",
@@ -33,15 +33,15 @@
     {
      "text": "எல்லார்",
      "lemma": "எல்லார்",
-     "gloss": "all persons"
+     "gloss": "all people"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "including"
+     "gloss": "fully/even"
     }
    ],
-   "gloss": "all"
+   "gloss": "everyone"
   },
   {
    "surface": "கண்ணின்",
@@ -54,10 +54,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "with"
+     "gloss": "with/through (instrumental suffix)"
     }
    ],
-   "gloss": "with eyes"
+   "gloss": "with their eyes"
   },
   {
    "surface": "பொது",
@@ -65,10 +65,10 @@
     {
      "text": "பொது",
      "lemma": "பொது",
-     "gloss": "common"
+     "gloss": "common/shared"
     }
    ],
-   "gloss": "common"
+   "gloss": "commonly / as a shared thing"
   },
   {
    "surface": "உண்பர்",
@@ -76,12 +76,12 @@
     {
      "text": "உண்",
      "lemma": "உண்",
-     "gloss": "eat"
+     "gloss": "consume/enjoy"
     },
     {
      "text": "ப்",
      "lemma": "ப்",
-     "gloss": "future marker"
+     "gloss": "future/habitual marker"
     },
     {
      "text": "அர்",
@@ -89,23 +89,23 @@
      "gloss": "they"
     }
    ],
-   "gloss": "they consume"
+   "gloss": "they will consume/enjoy"
   },
   {
    "surface": "நண்ணேன்",
    "parts": [
     {
-     "text": "நண்ணு",
+     "text": "நண்",
      "lemma": "நண்ணு",
-     "gloss": "approach"
+     "gloss": "approach/embrace"
     },
     {
      "text": "ஏன்",
      "lemma": "ஏன்",
-     "gloss": "I will not"
+     "gloss": "I will not (negative first-person singular suffix)"
     }
    ],
-   "gloss": "I will not approach"
+   "gloss": "I will not approach/embrace"
   },
   {
    "surface": "பரத்த",
@@ -113,10 +113,10 @@
     {
      "text": "பரத்த",
      "lemma": "பரத்தன்",
-     "gloss": "O unfaithful man"
+     "gloss": "O playboy/libertine (vocative)"
     }
    ],
-   "gloss": "O unfaithful one"
+   "gloss": "O playboy"
   },
   {
    "surface": "நின்",
@@ -124,7 +124,7 @@
     {
      "text": "நின்",
      "lemma": "நீ",
-     "gloss": "your"
+     "gloss": "your (oblique form)"
     }
    ],
    "gloss": "your"
@@ -141,10 +141,10 @@
    "gloss": "chest"
   }
  ],
- "literal": "Women-natured all with eyes common consume; I approach not, O unfaithful one, your chest.",
- "translation": "All women feast on your chest with their eyes as if it were public property. I will not embrace it, O unfaithful man!",
- "modern": "பெண்கள் எல்லாரும் தங்கள் கண்களால் உனது மார்பினைப் பொதுவாகப் பார்த்து அனுபவிக்கிறார்கள். அதனால் பரத்தனே, நான் உன் மார்பை நெருங்கித் தழுவ மாட்டேன்.",
- "explanation": "In this couplet, the wife expresses feigned anger towards her husband by refusing to embrace him. She calls him an unfaithful man and claims that she will not approach his chest. Her playful reasoning is that all women look at his handsome chest with desire, making it a public good rather than her private possession. The word 'uṇpar' (consume) vividly captures how the gaze of other women feels like a physical appropriation, while 'potu' (common) highlights her refusal to share what she feels should be hers alone.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Women of feminine nature all with eyes in common will consume; I will not approach, O playboy, your chest.",
+ "translation": "All women feast upon your chest with their eyes as if it were common property; therefore, O playboy, I will not embrace your chest.",
+ "modern": "பெண் தன்மை உடையவர்கள் எல்லாரும் உன்னுடைய மார்பைத் தங்கள் கண்களால் பொதுவானதாக நுகர்கிறார்கள்; பரத்தனே, அதனால் நான் உன்னுடைய மார்பைத் தழுவ மாட்டேன்.",
+ "explanation": "In this couplet, the heroine expresses her feigned anger towards her lover by calling him a playboy ('paratta'). She accuses him of being so attractive that all women feast upon his chest with their eyes, making his chest a 'common property' shared by everyone. Because his chest is thus 'consumed' by the gaze of other women, she proudly refuses to touch or embrace it, claiming she does not want something that is shared publicly. This playful jealousy highlights the intimacy and the subtle, teasing conflicts between lovers.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

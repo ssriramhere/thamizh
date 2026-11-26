@@ -5,22 +5,27 @@
    "parts": [
     {
      "text": "குறித்தது",
-     "lemma": "குறி",
-     "gloss": "that which was intended"
+     "lemma": "குறித்தல்",
+     "gloss": "that which is intended"
     }
    ],
-   "gloss": "that which was intended"
+   "gloss": "that which is intended"
   },
   {
    "surface": "கூறாமை",
    "parts": [
     {
-     "text": "கூறாமை",
+     "text": "கூறு",
      "lemma": "கூறு",
-     "gloss": "without saying"
+     "gloss": "speak"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "without"
     }
    ],
-   "gloss": "without saying"
+   "gloss": "without speaking"
   },
   {
    "surface": "கொள்வாரோடு",
@@ -44,10 +49,10 @@
     {
      "text": "ஏனை",
      "lemma": "ஏனை",
-     "gloss": "others"
+     "gloss": "the other"
     }
    ],
-   "gloss": "others"
+   "gloss": "the other"
   },
   {
    "surface": "உறுப்பு",
@@ -55,10 +60,10 @@
     {
      "text": "உறுப்பு",
      "lemma": "உறுப்பு",
-     "gloss": "limbs"
+     "gloss": "limb"
     }
    ],
-   "gloss": "limbs"
+   "gloss": "limb"
   },
   {
    "surface": "ஓர்",
@@ -66,10 +71,10 @@
     {
      "text": "ஓர்",
      "lemma": "ஓர்",
-     "gloss": "one"
+     "gloss": "alike"
     }
    ],
-   "gloss": "one"
+   "gloss": "alike"
   },
   {
    "surface": "அனையர்",
@@ -105,10 +110,10 @@
    "gloss": "different"
   }
  ],
- "literal": "What was intended / without saying / with those who grasp / others / limbs / one / they are like / indeed / different.",
- "translation": "Those who grasp what is intended without it being spoken, and those who cannot, may look alike in their physical limbs, but they are entirely different.",
- "modern": "சொல்லாமலேயே குறிப்பினை அறிந்து கொள்பவர்களோடு மற்றவர்கள் உறுப்புகளால் ஒரே மாதிரியாக இருந்தாலும், அறிவால் முற்றிலும் வேறுபட்டவர்கள் ஆவர்.",
- "explanation": "This couplet contrasts those who can read intentions without words and those who cannot. The phrase 'குறித்தது கூறாமைக் கொள்வார்' refers to people who intuitively grasp what is in another's mind. The word 'ஏனை' refers to the others who lack this ability. Though both groups share the same physical form ('உறுப்பு ஓர் அனையர்'), the poet declares they are fundamentally different ('வேறு') in their inner capacity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With those who grasp that which is intended without speaking, the others are alike in limbs indeed, but different.",
+ "translation": "Compared to those who can grasp another's thoughts without them being spoken, other people are similar only in their physical limbs, but are entirely different in their inner capacity.",
+ "modern": "மனதில் நினைத்ததை வாயால் சொல்லாமலேயே புரிந்து கொள்பவர்களோடு ஒப்பிடும்போது, மற்றவர்கள் உடலமைப்பால் மட்டுமே அவர்களைப் போன்றவர்கள்; அறிவால் வேறுபட்டவர்கள்.",
+ "explanation": "This couplet praises the rare and valuable skill of reading another person's mind or intentions without needing explicit words. The poet compares those who possess this sharp perception with ordinary people who lack it. He states that although ordinary people look physically identical to these perceptive individuals, having the same human limbs (uruppu), they are fundamentally different (veru) in their mental capacity. The physical resemblance is merely superficial, while the true distinction lies in the power of the mind.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

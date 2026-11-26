@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "சூழ்வார்",
-     "lemma": "சூழ்",
-     "gloss": "those who deliberate"
+     "lemma": "சூழ்வார்",
+     "gloss": "counselors / those who deliberate"
     }
    ],
-   "gloss": "advisors"
+   "gloss": "counselors / those who deliberate"
   },
   {
    "surface": "கண்",
@@ -20,7 +20,7 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "eye"
   },
   {
    "surface": "ஆக",
@@ -31,7 +31,7 @@
      "gloss": "to become"
     }
    ],
-   "gloss": "as"
+   "gloss": "as / having become"
   },
   {
    "surface": "ஒழுகலான்",
@@ -39,15 +39,15 @@
     {
      "text": "ஒழுகல்",
      "lemma": "ஒழுகு",
-     "gloss": "conducting oneself"
+     "gloss": "acting / conducting oneself"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "because of"
+     "gloss": "because of / by means of"
     }
    ],
-   "gloss": "because of ruling"
+   "gloss": "because of acting / conducting oneself"
   },
   {
    "surface": "மன்னவன்",
@@ -58,23 +58,23 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "சூழ்வாரைக்",
    "parts": [
     {
      "text": "சூழ்வாரை",
-     "lemma": "சூழ்",
-     "gloss": "those who deliberate (accusative)"
+     "lemma": "சூழ்வார்",
+     "gloss": "counselors (accusative)"
     },
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "advisors (accusative)"
+   "gloss": "counselors (accusative)"
   },
   {
    "surface": "சூழ்ந்து",
@@ -82,10 +82,10 @@
     {
      "text": "சூழ்ந்து",
      "lemma": "சூழ்",
-     "gloss": "having considered"
+     "gloss": "having deliberated / examined"
     }
    ],
-   "gloss": "having evaluated"
+   "gloss": "having deliberated / examined"
   },
   {
    "surface": "கொளல்",
@@ -93,16 +93,16 @@
     {
      "text": "கொளல்",
      "lemma": "கொள்",
-     "gloss": "taking"
+     "gloss": "to secure / acquire"
     }
    ],
-   "gloss": "should secure"
+   "gloss": "securing / acquiring"
   }
  ],
- "literal": "Deliberators eyes as because-of-conducting king, deliberators having-considered should-take.",
- "translation": "Since a king conducts his rule with his advisors as his very eyes, he must carefully evaluate and secure such men.",
- "modern": "அரசன் ஆராய்ந்து அறிவுரை கூறும் அறிஞர்களைத் தன் கண்களாகக் கொண்டு ஆட்சி செய்வதால், அத்தகைய அறிஞர்களை நன்கு ஆராய்ந்து தனக்குத் துணையாகச் சேர்த்துக்கொள்ள வேண்டும்.",
- "explanation": "This couplet emphasizes the vital role of wise counselors in a ruler's life. The word 'சூழ்வார்' (from the root 'சூழ்', meaning to deliberate or consider) refers to advisors who carefully analyze situations. Because a king relies on these advisors to act as his own eyes to guide his rule ('ஒழுகலான்'), he must first thoroughly evaluate ('சூழ்ந்து') and secure them. The repetition of the root 'சூழ்' elegantly highlights both the analytical nature of the advisors and the careful scrutiny the king must apply in choosing them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Because of conducting oneself with those who deliberate as eyes, the king, those who deliberate, having examined, should secure.",
+ "translation": "Since a king must conduct his affairs with wise counselors acting as his eyes, he should carefully examine and secure such advisors for himself.",
+ "modern": "ஆலோசிப்பவர்களைத் தன் கண்களாகக் கொண்டு அரசன் செயல்பட வேண்டும் என்பதால், அவன் அத்தகைய ஆலோசிப்பவர்களை ஆராய்ந்து தன் துணையாகக் கொள்ள வேண்டும்.",
+ "explanation": "This couplet highlights the indispensable role of wise advisors in governance. The poet uses the metaphor of 'eyes' (கண்) for counselors (சூழ்வார்), showing that a ruler cannot navigate statecraft blindly. Since a king must act based on the vision provided by these 'eyes', he must put great effort into choosing them. Therefore, the ruler is urged to carefully examine (சூழ்ந்து) and secure (கொளல்) the companionship of truly wise and deliberative people.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

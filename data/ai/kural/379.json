@@ -5,35 +5,35 @@
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நன்மை",
-     "gloss": "good"
+     "lemma": "நன்று",
+     "gloss": "good fortune or prosperity"
     }
    ],
-   "gloss": "good"
+   "gloss": "good fortune or prosperity"
   },
   {
    "surface": "ஆங்கால்",
    "parts": [
     {
-     "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becomes"
-    },
-    {
-     "text": "கால்",
-     "lemma": "கால்",
-     "gloss": "when"
+     "text": "ஆங்கால்",
+     "lemma": "ஆங்கால்",
+     "gloss": "when it occurs"
     }
    ],
-   "gloss": "when becoming"
+   "gloss": "when it occurs"
   },
   {
    "surface": "நல்லவா",
    "parts": [
     {
-     "text": "நல்லவா",
-     "lemma": "நல்லவை",
-     "gloss": "as good things"
+     "text": "நல்ல",
+     "lemma": "நல்ல",
+     "gloss": "good things"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "as"
     }
    ],
    "gloss": "as good things"
@@ -42,39 +42,39 @@
    "surface": "காண்பவர்",
    "parts": [
     {
-     "text": "காண்பவர்",
+     "text": "காண்",
      "lemma": "காண்",
-     "gloss": "those who see"
+     "gloss": "see or experience"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "they who"
     }
    ],
-   "gloss": "those who see"
+   "gloss": "those who experience"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அன்மை",
-     "gloss": "bad"
+     "lemma": "அன்று",
+     "gloss": "adversity or the opposite of good"
     }
    ],
-   "gloss": "bad"
+   "gloss": "adversity or the opposite of good"
   },
   {
    "surface": "ஆங்கால்",
    "parts": [
     {
-     "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becomes"
-    },
-    {
-     "text": "கால்",
-     "lemma": "கால்",
-     "gloss": "when"
+     "text": "ஆங்கால்",
+     "lemma": "ஆங்கால்",
+     "gloss": "when it occurs"
     }
    ],
-   "gloss": "when becoming"
+   "gloss": "when it occurs"
   },
   {
    "surface": "அல்லல்",
@@ -82,18 +82,23 @@
     {
      "text": "அல்லல்",
      "lemma": "அல்லல்",
-     "gloss": "sorrow"
+     "gloss": "distress or suffering"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress or suffering"
   },
   {
    "surface": "படுவது",
    "parts": [
     {
-     "text": "படுவது",
+     "text": "படு",
      "lemma": "படு",
-     "gloss": "experiencing"
+     "gloss": "experience"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "nominalizing suffix"
     }
    ],
    "gloss": "experiencing"
@@ -104,16 +109,16 @@
     {
      "text": "எவன்",
      "lemma": "எவன்",
-     "gloss": "why"
+     "gloss": "why or what for"
     }
    ],
    "gloss": "why"
   }
  ],
- "literal": "Good when becoming as good things those who see, bad when becoming sorrow experiencing why?",
- "translation": "Those who gladly accept good fortune as a natural occurrence, why should they suffer sorrow when bad fortune strikes?",
- "modern": "நன்மைகள் நடக்கும்போது அவற்றை இயல்பான நல்லவையாக ஏற்றுக்கொள்பவர்கள், தீமைகள் நடக்கும்போது மட்டும் துன்பப்பட்டு கலங்குவது ஏன்?",
- "explanation": "This couplet questions the inconsistency in human behavior regarding fate. When destiny brings good things, people readily accept them as natural and positive. Therefore, the poet asks why the same people feel sorrowful and distressed when destiny inevitably brings misfortune. The word அன்று usually means 'not that', but here it is used as the direct opposite of நன்று (good) to mean bad or evil fortune. Recognizing that both good and bad are part of the same natural order helps one maintain equanimity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When good fortune occurs, those who experience it as good things; when adversity occurs, experiencing distress, why?",
+ "translation": "Why should those who gladly accept prosperity as a good thing when it comes, grieve and suffer distress when adversity comes?",
+ "modern": "நன்மை வரும்போது அதனை நல்லதாக ஏற்றுக்கொள்பவர்கள், தீமை வரும்போது மட்டும் துன்பப்பட்டு வருந்துவது ஏன்?",
+ "explanation": "This couplet points out the inconsistency in how people respond to the inevitable cycles of destiny. When good fortune (நன்று) arrives, people readily welcome and enjoy it as something natural and good (நல்லவா காண்பவர்). However, when the opposite—misfortune or adversity (அன்று)—strikes, they fall into deep grief and distress (அல்லல் படுவது). The poet asks 'why' (எவன்) they do this, suggesting that since both joy and sorrow are governed by the same law of destiny, one should maintain equanimity and accept both with an equal mind.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

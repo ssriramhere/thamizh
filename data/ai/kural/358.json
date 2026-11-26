@@ -20,7 +20,7 @@
      "gloss": "called"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "பேதைமை",
@@ -50,10 +50,10 @@
     {
      "text": "சிறப்பு",
      "lemma": "சிறப்பு",
-     "gloss": "excellence"
+     "gloss": "liberation"
     }
    ],
-   "gloss": "excellence"
+   "gloss": "liberation"
   },
   {
    "surface": "என்னும்",
@@ -64,18 +64,23 @@
      "gloss": "called"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "செம்பொருள்",
    "parts": [
     {
-     "text": "செம்பொருள்",
-     "lemma": "செம்பொருள்",
-     "gloss": "perfect truth"
+     "text": "செம்",
+     "lemma": "செம்மை",
+     "gloss": "perfect"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "reality"
     }
    ],
-   "gloss": "perfect truth"
+   "gloss": "the Ultimate Reality"
   },
   {
    "surface": "காண்பது",
@@ -86,7 +91,7 @@
      "gloss": "seeing"
     }
    ],
-   "gloss": "seeing"
+   "gloss": "perceiving"
   },
   {
    "surface": "அறிவு",
@@ -94,16 +99,16 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "knowledge"
+     "gloss": "wisdom"
     }
    ],
-   "gloss": "knowledge"
+   "gloss": "wisdom"
   }
  ],
- "literal": "Birth called ignorance to depart, excellence called perfect truth seeing is knowledge.",
- "translation": "True knowledge is seeing the perfect truth called excellence, so that the ignorance called birth departs.",
- "modern": "பிறப்பு என்னும் அறியாமை நீங்குமாறு சிறப்பு என்னும் உண்மையான பொருளைக் காண்பதே மெய்யறிவாகும்.",
- "explanation": "This couplet defines true knowledge as the realization of ultimate reality. It contrasts the cycle of birth, which it equates with ignorance, against the supreme excellence of truth. By perceiving this perfect truth, the delusion that causes rebirth is dispelled. The word செம்பொருள் refers to the flawless, ultimate reality that stands in opposition to the transient nature of worldly existence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Birth-called ignorance to depart, liberation-called Ultimate Reality perceiving is wisdom.",
+ "translation": "True wisdom is to perceive the Ultimate Reality, which is called liberation, so that the ignorance called birth may depart.",
+ "modern": "பிறப்பு என்று சொல்லப்படும் அறியாமை நீங்குவதற்காக, வீடுபேறு என்று சொல்லப்படும் செம்பொருளைக் காண்பதே உண்மையான அறிவாகும்.",
+ "explanation": "This couplet defines true wisdom as the direct perception of the Ultimate Reality (செம்பொருள்). The poet equates the cycle of birth (பிறப்பு) with ignorance (பேதைமை), suggesting that physical existence is a state of delusion. To remove this ignorance, one must perceive the supreme truth, which is identified with liberation or excellence (சிறப்பு). Therefore, true knowledge is not academic learning, but the spiritual insight that dissolves delusion and ends the cycle of rebirth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

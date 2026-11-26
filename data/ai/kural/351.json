@@ -15,12 +15,17 @@
    "surface": "அல்லவற்றை",
    "parts": [
     {
-     "text": "அல்லவற்றை",
-     "lemma": "அல்லவை",
-     "gloss": "things that are not"
+     "text": "அல்ல",
+     "lemma": "அல்",
+     "gloss": "not being"
+    },
+    {
+     "text": "வற்றை",
+     "lemma": "அவை",
+     "gloss": "those things (accusative)"
     }
    ],
-   "gloss": "things that are not"
+   "gloss": "those things which are not real"
   },
   {
    "surface": "பொருள்",
@@ -39,10 +44,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "as"
     }
    ],
-   "gloss": "saying"
+   "gloss": "as"
   },
   {
    "surface": "உணரும்",
@@ -66,7 +71,7 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "by (instrumental)"
     }
    ],
    "gloss": "by delusion"
@@ -76,27 +81,22 @@
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆகு",
-     "gloss": "becomes"
+     "lemma": "ஆ",
+     "gloss": "arises"
     }
    ],
-   "gloss": "becomes"
+   "gloss": "arises"
   },
   {
    "surface": "மாணா",
    "parts": [
     {
-     "text": "மாண்",
+     "text": "மாணா",
      "lemma": "மாண்",
-     "gloss": "excellence"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "ignoble (not excellent)"
     }
    ],
-   "gloss": "inglorious"
+   "gloss": "ignoble"
   },
   {
    "surface": "பிறப்பு",
@@ -110,10 +110,10 @@
    "gloss": "birth"
   }
  ],
- "literal": "Reality things that are not reality saying perceiving by delusion becomes inglorious birth.",
- "translation": "Wretched birth comes from the delusion of perceiving things that are unreal as reality.",
- "modern": "உண்மையான பொருள் அல்லாதவைகளை உண்மையான பொருள் என்று தவறாக உணரும் மயக்கத்தால், சிறப்பற்ற பிறப்பு உண்டாகும்.",
- "explanation": "This couplet explains the root cause of the cycle of birth and suffering. It states that taking unreal or impermanent things to be the ultimate reality is a delusion. From this fundamental misunderstanding arises a wretched, endless cycle of birth. The word porul here denotes true substance or ultimate reality, contrasting with the illusion of worldly attachments.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Reality not-being-those-things as reality thus perceiving by-delusion arises ignoble birth.",
+ "translation": "From the delusion that perceives things which are not real as real, arises the ignoble cycle of birth.",
+ "modern": "மெய்ப்பொருள் அல்லாதவற்றை மெய்ப்பொருள் என்று தவறாக உணர்கின்ற அறியாமையினால், சிறப்பற்ற பிறவித் துன்பம் உண்டாகும்.",
+ "explanation": "This couplet explains the root cause of the cycle of rebirth and suffering. The key word 'maruḷ' (delusion) refers to the mental darkness that mistakes transient, unreal things ('poruḷ allavaṟṟai') for the eternal, ultimate truth ('poruḷ'). When a person perceives the illusory world as the ultimate reality, they develop attachments. This delusion leads to 'māṇā piṟappu' (ignoble or worthless birth), which represents the continuous cycle of rebirths filled with suffering.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

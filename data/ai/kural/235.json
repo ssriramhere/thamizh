@@ -33,26 +33,21 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "also"
+     "gloss": "and"
     }
    ],
-   "gloss": "ruin also"
+   "gloss": "and ruin"
   },
   {
    "surface": "உளது",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "existence"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "text": "உளது",
+     "lemma": "உளது",
+     "gloss": "exists"
     }
    ],
-   "gloss": "it exists"
+   "gloss": "exists"
   },
   {
    "surface": "ஆகும்",
@@ -76,21 +71,26 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "also"
+     "gloss": "and"
     }
    ],
-   "gloss": "death also"
+   "gloss": "and death"
   },
   {
    "surface": "வித்தகர்க்கு",
    "parts": [
     {
-     "text": "வித்தகர்க்கு",
+     "text": "வித்தகர்",
      "lemma": "வித்தகர்",
-     "gloss": "to the wise"
+     "gloss": "the eminent"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the wise"
+   "gloss": "to the eminent"
   },
   {
    "surface": "அல்லால்",
@@ -108,17 +108,17 @@
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
+     "lemma": "அரிது",
      "gloss": "rare"
     }
    ],
-   "gloss": "rare"
+   "gloss": "is rare"
   }
  ],
- "literal": "Prosperity-like ruin and existence-becoming death, to the wise except, is rare.",
- "translation": "A ruin that resembles prosperity and a death that becomes an enduring existence are rare to achieve, except for the truly wise.",
- "modern": "வளர்ச்சியைப் போன்ற ஒரு வீழ்ச்சியும், நிலைத்து வாழ்தலைத் தரும் ஒரு மரணமும் சிறந்த அறிஞர்களுக்கு அல்லாமல் மற்றவர்களுக்குக் கிடைப்பது அரிது.",
- "explanation": "This couplet highlights the unique nature of fame achieved by the truly great. It speaks of a 'ruin' (loss of wealth or life) that acts like 'prosperity' because it brings lasting glory. Similarly, it describes a 'death' that becomes an 'existence' because the person lives on forever in memory. Such paradoxical achievements are impossible except for the wise who know how to live and die for a noble cause.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Ruin that is like prosperity, and death that becomes continued existence, are rare for any except the eminent.",
+ "translation": "A ruin that yields prosperity and a death that becomes eternal living are impossible for any but the truly eminent.",
+ "modern": "புகழைத் தரும் வறுமையும், என்றும் நிலைத்திருக்கும் தன்மையுடைய சாவும் அறிவுடைய மேலோர்க்கு அல்லாமல் மற்றவர்களுக்குக் கிடைப்பது அரிது.",
+ "explanation": "The couplet explains how the eminent or wise (vittakar) transcend the physical limitations of loss and death through their fame. A loss or ruin (kēṭu) suffered by them in the path of virtue is actually like prosperity (nattam) because it enhances their glory. Similarly, their physical death (cākkāṭu) is not an end but becomes a form of eternal existence (uḷatākum) because their fame lives on forever. Such noble transformations of adversity and mortality are impossible for ordinary people and belong only to the truly accomplished.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

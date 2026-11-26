@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "இரு",
-     "lemma": "இரண்டு",
+     "lemma": "இரு",
      "gloss": "two"
     },
     {
@@ -20,9 +20,14 @@
    "surface": "உலகத்து",
    "parts": [
     {
-     "text": "உலகத்து",
-     "lemma": "உலகம்",
-     "gloss": "of the world"
+     "text": "உலகு",
+     "lemma": "உலகு",
+     "gloss": "world"
+    },
+    {
+     "text": "அத்து",
+     "lemma": "அத்து",
+     "gloss": "inflectional increment"
     }
    ],
    "gloss": "of the world"
@@ -64,12 +69,17 @@
    "surface": "தெள்ளியர்",
    "parts": [
     {
-     "text": "தெள்ளியர்",
-     "lemma": "தெள்ளியர்",
-     "gloss": "clear-minded ones"
+     "text": "தெள்",
+     "lemma": "தெள்",
+     "gloss": "clear"
+    },
+    {
+     "text": "இயர்",
+     "lemma": "இயர்",
+     "gloss": "they who are"
     }
    ],
-   "gloss": "clear-minded ones"
+   "gloss": "those of clear mind"
   },
   {
    "surface": "ஆதலும்",
@@ -82,10 +92,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "also"
+     "gloss": "and"
     }
    ],
-   "gloss": "becoming also"
+   "gloss": "and becoming"
   },
   {
    "surface": "வேறு",
@@ -99,10 +109,10 @@
    "gloss": "different"
   }
  ],
- "literal": "Two different [are] the world's nature: wealth [is] different, clear-minded ones becoming also [is] different.",
- "translation": "The nature of the world takes two different forms: the amassing of wealth is one thing, and the attainment of clear wisdom is another.",
- "modern": "உலகத்தின் இயற்கை இரண்டு வேறுபட்ட நிலைகளைக் கொண்டது: செல்வம் உடையவராக இருப்பது வேறு, தெளிந்த அறிவுடையவராக இருப்பது வேறு.",
- "explanation": "This couplet observes the fundamental disconnect between material wealth and intellectual clarity in the world. The phrase 'இருவேறு இயற்கை' (two different natures) establishes that the world operates on divergent paths. 'திரு' (wealth) and 'தெள்ளியர் ஆதல்' (becoming clear-minded) are explicitly contrasted as 'வேறு... வேறு' (different... different). It implies that the forces of destiny distribute riches and wisdom independently, so that the wealthy are not necessarily wise, and the wise are not necessarily wealthy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Two different are the world's nature: wealth is different, and becoming clear-minded is different.",
+ "translation": "The way of the world is of two different kinds: acquiring wealth is one thing, and becoming wise and clear-minded is quite another.",
+ "modern": "உலகத்தின் இயல்பு இரு வேறுபட்ட தன்மைகளைக் கொண்டது; செல்வம் பெறுவது ஒரு வகை, அறிவுத் தெளிவு உடையவர் ஆவது மற்றொரு வகை.",
+ "explanation": "This couplet explains the dual nature of worldly fortune, which separates material wealth from intellectual clarity. The word 'திரு' refers to wealth or prosperity, while 'தெள்ளியர்' refers to those who possess clear, wise minds. The poet points out that these two qualities do not naturally go together in this world. One may have immense wealth but lack wisdom, or possess great wisdom but remain poor. The repetition of 'வேறு' emphasizes that these two states are governed by entirely different laws of destiny.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

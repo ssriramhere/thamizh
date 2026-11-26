@@ -19,55 +19,40 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even for one moment"
+   "gloss": "even for a single moment"
   },
   {
    "surface": "வாழ்வது",
    "parts": [
     {
-     "text": "வாழ்",
-     "lemma": "வாழ்",
-     "gloss": "live"
-    },
-    {
-     "text": "வது",
-     "lemma": "அது",
-     "gloss": "that which"
+     "text": "வாழ்வது",
+     "lemma": "வாழ்தல்",
+     "gloss": "living"
     }
    ],
-   "gloss": "living"
+   "gloss": "their continued living"
   },
   {
    "surface": "அறியார்",
    "parts": [
     {
-     "text": "அறி",
+     "text": "அறியார்",
      "lemma": "அறி",
-     "gloss": "know"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (negative)"
+     "gloss": "do not know"
     }
    ],
-   "gloss": "they know not"
+   "gloss": "they do not know"
   },
   {
    "surface": "கருதுப",
    "parts": [
     {
-     "text": "கருது",
+     "text": "கருதுப",
      "lemma": "கருது",
-     "gloss": "think/plan"
-    },
-    {
-     "text": "ப",
-     "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they think of"
     }
    ],
-   "gloss": "they plan"
+   "gloss": "they think of"
   },
   {
    "surface": "கோடியும்",
@@ -75,7 +60,7 @@
     {
      "text": "கோடி",
      "lemma": "கோடி",
-     "gloss": "crore (ten million)"
+     "gloss": "ten million"
     },
     {
      "text": "உம்",
@@ -83,23 +68,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even a crore"
+   "gloss": "even ten million"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "plural suffix"
+     "gloss": "not / other than"
     }
    ],
-   "gloss": "are not"
+   "gloss": "not just / more than"
   },
   {
    "surface": "பல",
@@ -110,13 +90,13 @@
      "gloss": "many"
     }
    ],
-   "gloss": "many"
+   "gloss": "many things"
   }
  ],
- "literal": "Even one moment living they know not; they plan even a crore are not, many.",
- "translation": "People do not know if they will live for even another moment, yet the plans they make are not just ten million, but many more.",
- "modern": "ஒரு கண நேரம் கூடத் தாங்கள் உயிரோடு வாழ்வோம் என்பதை மனிதர்கள் உறுதியாக அறிய மாட்டார்கள்; ஆனால் அவர்கள் மனதிற்குள் நினைத்துத் திட்டமிடும் காரியங்களோ ஒரு கோடி மட்டுமல்ல, அதற்கும் மேலான பலவாகும்.",
- "explanation": "This couplet highlights the stark contrast between the fragility of human life and the boundlessness of human ambition. The phrase 'ஒருபொழுதும் வாழ்வது அறியார்' points out that people cannot guarantee their survival for even a single moment. Despite this profound uncertainty, 'கருதுப கோடியும் அல்ல பல' shows that they constantly make countless plans for the future, numbering not just in the millions but far beyond. The poem uses this irony to emphasize the transient nature of life, urging an awareness of mortality over endless worldly planning.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even for a single moment, their living, they do not know; (yet) they think of ten million and more other many things.",
+ "translation": "Those who do not even know if they will live for another moment plan for ten million things and more.",
+ "modern": "ஒரு நிமிடம் கூடத் தாங்கள் உயிர் வாழ்வதை உறுதி செய்யத் தெரியாதவர்கள், கோடிக்கும் மேலான பல எண்ணங்களை எண்ணித் திட்டமிடுகிறார்கள்.",
+ "explanation": "This couplet highlights the profound ignorance of human beings regarding the impermanence of life. The poet points out that people cannot guarantee their own survival even for a single moment (orupozhutu). Yet, despite this extreme uncertainty, their minds are constantly occupied with planning and desiring millions of things (kotiyum alla pala) for the future. The contrast between the fragility of a single moment of life and the vastness of human desires emphasizes the theme of impermanence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

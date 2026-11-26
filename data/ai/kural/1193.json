@@ -6,10 +6,10 @@
     {
      "text": "வீழுநர்",
      "lemma": "வீழுநர்",
-     "gloss": "lovers"
+     "gloss": "those who love"
     }
    ],
-   "gloss": "by lovers"
+   "gloss": "those who love"
   },
   {
    "surface": "வீழ",
@@ -28,15 +28,15 @@
     {
      "text": "படுவார்",
      "lemma": "படு",
-     "gloss": "those who experience"
+     "gloss": "those who undergo (passive marker)"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to those who experience"
+   "gloss": "to those who are loved"
   },
   {
    "surface": "அமையுமே",
@@ -44,7 +44,7 @@
     {
      "text": "அமையும்",
      "lemma": "அமை",
-     "gloss": "will belong"
+     "gloss": "is appropriate"
     },
     {
      "text": "ஏ",
@@ -52,18 +52,18 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "belongs indeed"
+   "gloss": "is indeed appropriate"
   },
   {
    "surface": "வாழுநம்",
    "parts": [
     {
      "text": "வாழுநம்",
-     "lemma": "வாழுநம்",
-     "gloss": "we will live"
+     "lemma": "வாழ்",
+     "gloss": "we shall live"
     }
    ],
-   "gloss": "we will live"
+   "gloss": "we shall live"
   },
   {
    "surface": "என்னும்",
@@ -71,10 +71,10 @@
     {
      "text": "என்னும்",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "that says"
     }
    ],
-   "gloss": "saying"
+   "gloss": "that says"
   },
   {
    "surface": "செருக்கு",
@@ -88,10 +88,10 @@
    "gloss": "pride"
   }
  ],
- "literal": "By lovers to be loved to those who experience belongs indeed 'we will live' saying pride.",
- "translation": "The proud confidence of saying 'we shall live' belongs only to those who are loved in return by the ones they love.",
- "modern": "தாம் விரும்பும் காதலரால் திரும்பவும் விரும்பப்படுபவர்களுக்கே, 'நாங்கள் இனிது வாழ்வோம்' என்று சொல்லிக்கொள்ளும் பெருமிதம் பொருந்தும்.",
- "explanation": "This couplet highlights the joy and security of mutual love. The phrase 'வீழுநர் வீழப் படுவார்க்கு' refers to those who are loved in return by the ones they deeply desire. Only such fortunate people can possess the proud certainty ('செருக்கு') of declaring 'we shall live' ('வாழுநம்'). Here, the word 'செருக்கு' denotes a joyful, life-affirming pride in their shared bond, contrasting sharply with the despair of unrequited love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are loved by those who love them, is indeed fitting the pride of saying 'we shall live'.",
+ "translation": "Only to those who are loved in return by those they love does the proud confidence of saying 'we shall live' belong.",
+ "modern": "தம்மை விரும்புபவர்களால் தாமும் விரும்பப்படும் பேறு பெற்றவர்களுக்கே, 'நாம் இன்பமாக வாழ்வோம்' என்னும் பெருமிதம் பொருந்தும்.",
+ "explanation": "This couplet highlights the necessity of mutual affection in love. The speaker observes that the proud confidence of declaring 'we shall live happily' (வாழுநம் என்னும் செருக்கு) belongs only to those who are loved back by their partners (வீழப் படுவார்க்கு). The word 'செருக்கு' here represents the joyful security and self-assurance born of reciprocal love. Without this mutual bond, the separation becomes unbearable, and the hope of life fades away.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

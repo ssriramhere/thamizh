@@ -4,17 +4,22 @@
    "surface": "இன்சொலால்",
    "parts": [
     {
-     "text": "இன்சொல்",
-     "lemma": "இன்சொல்",
-     "gloss": "sweet word"
+     "text": "இன்",
+     "lemma": "இனிமை",
+     "gloss": "sweet"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "indeed (expletive)"
+     "gloss": "by/with"
     }
    ],
-   "gloss": "sweet words"
+   "gloss": "by sweet words"
   },
   {
    "surface": "ஈரம்",
@@ -22,21 +27,21 @@
     {
      "text": "ஈரம்",
      "lemma": "ஈரம்",
-     "gloss": "love"
+     "gloss": "affection/love"
     }
    ],
-   "gloss": "love"
+   "gloss": "affection/love"
   },
   {
    "surface": "அளைஇ",
    "parts": [
     {
      "text": "அளைஇ",
-     "lemma": "அளைதல்",
-     "gloss": "having mixed"
+     "lemma": "அளை",
+     "gloss": "having mingled"
     }
    ],
-   "gloss": "having mixed"
+   "gloss": "having mingled"
   },
   {
    "surface": "படிறு",
@@ -44,37 +49,42 @@
     {
      "text": "படிறு",
      "lemma": "படிறு",
-     "gloss": "deceit"
+     "gloss": "deceit/guile"
     }
    ],
-   "gloss": "deceit"
+   "gloss": "deceit/guile"
   },
   {
    "surface": "இலவாம்",
    "parts": [
     {
      "text": "இல",
-     "lemma": "இல்",
-     "gloss": "without"
+     "lemma": "இல",
+     "gloss": "not having"
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆதல்",
-     "gloss": "they are"
+     "lemma": "ஆகு",
+     "gloss": "being/which are"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "which are free from"
   },
   {
    "surface": "செம்பொருள்",
    "parts": [
     {
-     "text": "செம்பொருள்",
-     "lemma": "செம்பொருள்",
-     "gloss": "righteousness"
+     "text": "செம்",
+     "lemma": "செம்மை",
+     "gloss": "true/upright"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "truth/reality"
     }
    ],
-   "gloss": "righteousness"
+   "gloss": "the ultimate truth"
   },
   {
    "surface": "கண்டார்",
@@ -82,10 +92,10 @@
     {
      "text": "கண்டார்",
      "lemma": "காண்",
-     "gloss": "those who saw"
+     "gloss": "those who have realized"
     }
    ],
-   "gloss": "those who have seen"
+   "gloss": "those who have realized"
   },
   {
    "surface": "வாய்",
@@ -104,16 +114,16 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "word/speech"
     }
    ],
-   "gloss": "word"
+   "gloss": "word/speech"
   }
  ],
- "literal": "Sweet words, love having mixed, deceit they are without; righteousness those who have seen - of their mouth, the word.",
- "translation": "The words from the mouths of those who have grasped true righteousness are sweet, filled with love, and free from deceit.",
- "modern": "உண்மையான அறத்தை உணர்ந்தவர்களின் வாயிலிருந்து வரும் சொற்கள், அன்பு கலந்ததாகவும் வஞ்சனை இல்லாததாகவும் இருக்கும்.",
- "explanation": "This couplet defines what constitutes truly sweet speech. It is not merely pleasant sounding, but must be mixed with genuine love ('ஈரம்') and be completely free from deceit ('படிறு'). Such pure and kind words naturally flow from the mouths of those who have understood true righteousness ('செம்பொருள்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By sweet words, affection having mingled, deceit free from being, [is] the word from the mouth of those who have realized the ultimate truth.",
+ "translation": "A sweet word is speech from the mouth of those who have realized the ultimate truth, mingled with love and free from all deceit.",
+ "modern": "மெய்ப்பொருளை உணர்ந்தவர்களின் வாயிலிருந்து வரும் சொற்கள், அன்போடு கலந்து, வஞ்சனை இல்லாத இனிய சொற்களாக இருக்கும்.",
+ "explanation": "This couplet defines the true nature of sweet speech. It states that genuine sweet words are those spoken by people who have realized the ultimate truth of life. Their speech is naturally infused with sincere love and affection, and is completely free from any form of deceit or hypocrisy. Thus, true sweetness in language is not mere flattery, but a reflection of inner realization and heartfelt compassion.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

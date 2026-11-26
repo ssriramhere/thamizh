@@ -20,7 +20,7 @@
      "gloss": "end"
     }
    ],
-   "gloss": "end"
+   "gloss": "the end"
   },
   {
    "surface": "துணிவு",
@@ -28,17 +28,17 @@
     {
      "text": "துணிவு",
      "lemma": "துணிவு",
-     "gloss": "decision"
+     "gloss": "resolution"
     }
    ],
-   "gloss": "decision"
+   "gloss": "resolution"
   },
   {
    "surface": "எய்தல்",
    "parts": [
     {
      "text": "எய்தல்",
-     "lemma": "எய்து",
+     "lemma": "எய்தல்",
      "gloss": "attaining"
     }
    ],
@@ -55,10 +55,10 @@
     {
      "text": "துணிவு",
      "lemma": "துணிவு",
-     "gloss": "decision"
+     "gloss": "resolution"
     }
    ],
-   "gloss": "that decision"
+   "gloss": "that resolution"
   },
   {
    "surface": "தாழ்ச்சியுள்",
@@ -71,7 +71,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "in"
+     "gloss": "within"
     }
    ],
    "gloss": "in delay"
@@ -81,11 +81,11 @@
    "parts": [
     {
      "text": "தங்குதல்",
-     "lemma": "தங்கு",
-     "gloss": "staying"
+     "lemma": "தங்குதல்",
+     "gloss": "lingering"
     }
    ],
-   "gloss": "staying"
+   "gloss": "lingering"
   },
   {
    "surface": "தீது",
@@ -93,16 +93,16 @@
     {
      "text": "தீது",
      "lemma": "தீது",
-     "gloss": "evil"
+     "gloss": "harmful"
     }
    ],
-   "gloss": "evil"
+   "gloss": "is harmful"
   }
  ],
- "literal": "Deliberation's end is decision attaining; that decision in delay staying is evil.",
- "translation": "The proper end of deliberation is reaching a firm decision. It is harmful to let that decision linger in delay.",
- "modern": "ஒரு செயலைப்பற்றி ஆராய்வதன் முடிவு ஒரு தெளிவான முடிவை அடைவதாகும். அப்படி எடுத்த முடிவைச் செயல்படுத்தாமல் தாமதத்தில் தங்கிவிடும்படி செய்வது தீமையானதாகும்.",
- "explanation": "This couplet defines the proper lifecycle of planning and execution. The word 'சூழ்ச்சி' refers to careful deliberation or planning, and its natural conclusion ('முடிவு') is 'துணிவு', which means a firm decision or resolve. Once this resolve is attained ('எய்தல்'), the action must follow immediately. If 'அத்துணிவு' (that decision) is allowed to rest ('தங்குதல்') in 'தாழ்ச்சி' (delay or procrastination), it becomes harmful ('தீது'). The verse emphasizes that while thorough planning is necessary, delaying the execution of a finalized plan is detrimental.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The end of deliberation is attaining resolution; that resolution lingering in delay is harmful.",
+ "translation": "The end of deliberation is to arrive at a firm resolution; but for that resolution to linger in delay is harmful.",
+ "modern": "ஆராய்ச்சியின் முடிவு ஒரு தெளிவான முடிவை அடைவதாகும்; அவ்வாறு எடுத்த முடிவு செயலில் இறங்காமல் காலதாமதத்தில் தங்கிவிடுவது தீமையாகும்.",
+ "explanation": "This couplet emphasizes the transition from planning to action. The ultimate goal of any deliberation (சூழ்ச்சி) is to arrive at a firm, unwavering decision (துணிவு). However, once a decision has been reached, allowing that resolution to linger in procrastination or delay (தாழ்ச்சி) is highly detrimental. Hesitation after planning defeats the purpose of the initial analysis and leads to failure.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

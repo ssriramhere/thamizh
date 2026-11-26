@@ -6,10 +6,10 @@
     {
      "text": "ஒருமை",
      "lemma": "ஒருமை",
-     "gloss": "singleness"
+     "gloss": "singleness of mind (chastity)"
     }
    ],
-   "gloss": "singleness"
+   "gloss": "singleness of mind or chastity"
   },
   {
    "surface": "மகளிரே",
@@ -22,7 +22,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
    "gloss": "women indeed"
@@ -49,23 +49,18 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "too"
+     "gloss": "also"
     }
    ],
-   "gloss": "greatness too"
+   "gloss": "greatness also"
   },
   {
    "surface": "தன்னை",
    "parts": [
     {
-     "text": "தன்",
+     "text": "தன்னை",
      "lemma": "தான்",
-     "gloss": "oneself"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "oneself (accusative)"
     }
    ],
    "gloss": "oneself"
@@ -76,10 +71,10 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "oneself"
+     "gloss": "itself (emphasis)"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "itself"
   },
   {
    "surface": "கொண்டு",
@@ -87,43 +82,38 @@
     {
      "text": "கொண்டு",
      "lemma": "கொள்",
-     "gloss": "having guarded"
+     "gloss": "having or maintaining"
     }
    ],
-   "gloss": "having guarded"
+   "gloss": "having or maintaining"
   },
   {
    "surface": "ஒழுகின்",
    "parts": [
     {
-     "text": "ஒழுகு",
+     "text": "ஒழுகின்",
      "lemma": "ஒழுகு",
-     "gloss": "conduct oneself"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one conducts oneself"
     }
    ],
-   "gloss": "if conducts"
+   "gloss": "if one conducts oneself"
   },
   {
    "surface": "உண்டு",
    "parts": [
     {
      "text": "உண்டு",
-     "lemma": "உண்டு",
+     "lemma": "உள்",
      "gloss": "exists"
     }
    ],
    "gloss": "exists"
   }
  ],
- "literal": "Like women of singleness indeed, greatness too exists if oneself having guarded oneself conducts oneself.",
- "translation": "Just like women of single-minded devotion, true greatness exists only if one guards oneself and behaves with discipline.",
- "modern": "கற்புடைய பெண்களைப் போல, ஒருவன் தன்னைத் தானே காத்துக்கொண்டு நல்வழியில் நடந்தால் மட்டுமே அவனுக்குப் பெருமை நிலைத்திருக்கும்.",
- "explanation": "This couplet compares the preservation of greatness to the single-minded devotion of chaste women. The word 'ஒருமை' (singleness) here refers to unwavering moral focus or chastity. Just as such women protect their own virtue, a person must actively guard their own character to maintain their greatness. Greatness is not a permanent given; it exists only as long as one conducts oneself with disciplined self-restraint.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like women of single-minded chastity, greatness also, if one conducts oneself maintaining oneself, exists.",
+ "translation": "Just like women of single-minded chastity, greatness exists only when a person guards and conducts themselves with self-discipline.",
+ "modern": "ஒருமைப்பாடு உடைய கற்புடைய பெண்களைப் போல, பெருமை என்னும் பண்பும் ஒருவன் தன்னைத் தானே காத்துக் கொண்டு ஒழுக்கத்தோடு வாழ்ந்தால் தான் நிலைபெற்று இருக்கும்.",
+ "explanation": "This couplet compares the preservation of personal greatness to the single-minded chastity of virtuous women. The word 'orumaic' refers to singleness of mind, which represents unwavering fidelity and self-control. The poet explains that greatness is not a permanent birthright; it only exists if a person actively guards their own character and conducts themselves with discipline. Just as a chaste woman protects her virtue, an individual must constantly guard their integrity to maintain true greatness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

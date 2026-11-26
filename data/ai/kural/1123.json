@@ -5,19 +5,20 @@
    "parts": [
     {
      "text": "கருமணியிற்",
-     "lemma": "கருமணி",
-     "gloss": "in the dark pupil"
+     "lemma": "கருமணியிற்",
+     "gloss": "in the black pupil"
     }
    ],
-   "gloss": "in the dark pupil"
+   "gloss": "in the black pupil",
+   "split_unverified": true
   },
   {
    "surface": "பாவாய்நீ",
    "parts": [
     {
      "text": "பாவாய்",
-     "lemma": "பாவை",
-     "gloss": "O image!"
+     "lemma": "பாவாய்",
+     "gloss": "O image"
     },
     {
      "text": "நீ",
@@ -25,18 +26,19 @@
      "gloss": "you"
     }
    ],
-   "gloss": "O image! you"
+   "gloss": "O image, you"
   },
   {
    "surface": "போதாயாம்",
    "parts": [
     {
      "text": "போதாயாம்",
-     "lemma": "போதாய்",
-     "gloss": "go away, we"
+     "lemma": "போதாயாம்",
+     "gloss": "go away, [so that] I"
     }
    ],
-   "gloss": "go away, we"
+   "gloss": "go away, [so that] I",
+   "split_unverified": true
   },
   {
    "surface": "வீழும்",
@@ -44,10 +46,10 @@
     {
      "text": "வீழும்",
      "lemma": "வீழ்",
-     "gloss": "love"
+     "gloss": "desiring"
     }
    ],
-   "gloss": "love"
+   "gloss": "desiring"
   },
   {
    "surface": "திருநுதற்கு",
@@ -58,23 +60,28 @@
      "gloss": "beautiful"
     },
     {
-     "text": "நுதற்கு",
+     "text": "நுதல்",
      "lemma": "நுதல்",
-     "gloss": "to the forehead"
+     "gloss": "forehead"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the beautiful forehead"
+   "gloss": "for the one with a beautiful forehead"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இல்லை",
+     "gloss": "there is no"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is no"
   },
   {
    "surface": "இடம்",
@@ -88,10 +95,10 @@
    "gloss": "space"
   }
  ],
- "literal": "In the dark pupil / O image! you / go away, we / love / to the beautiful forehead / is not / space.",
- "translation": "O image in the dark pupil of my eye, please leave! There is no room for my beloved with the beautiful forehead whom I love.",
- "modern": "என் கண்ணின் கருமணியில் உள்ள பாவாய், நீ வெளியே போ! நான் விரும்பும் அழகிய நெற்றியை உடைய என் காதலி அங்கே இருக்க இடம் இல்லை.",
- "explanation": "The speaker playfully addresses the tiny reflection, or 'image', naturally seen in the dark pupil of the eye. He asks this image to step aside and leave to make space for his beloved. By claiming there is no room for both the reflection and the woman he loves, he poetically expresses the depth of his affection. His beloved occupies his entire vision and mind, leaving no space for anything else.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the black pupil, O image, you go away; for the one with a beautiful forehead whom I desire, there is no space.",
+ "translation": "O image in the pupil of my eye, please leave! There is no room here for my beloved of the beautiful forehead whom I adore.",
+ "modern": "என் கண்ணின் கருமணியில் இருக்கும் பாவையே! நீ வெளியேறிவிடு. நான் விரும்பும் அழகிய நெற்றியை உடைய என் காதலி அமர்வதற்கு இங்கே இடமில்லை.",
+ "explanation": "The lover playfully addresses the tiny reflection or pupil-image (pāvāi) in his own eye. He asks this image to leave (pōthāy) because he wants his beloved, who has a beautiful forehead (tirunutal), to enter and reside in his eyes. Since the pupil is already occupied by the reflection, he claims there is no room (illai iṭam) for her. This poetic conceit beautifully illustrates how the lover wishes to keep his beloved constantly in his sight and heart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

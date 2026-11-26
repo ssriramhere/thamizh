@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "கரத்தல்",
-     "lemma": "கர",
-     "gloss": "hiding"
+     "lemma": "கரத்தல்",
+     "gloss": "concealing"
     },
     {
      "text": "உம்",
@@ -14,7 +14,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even hiding"
+   "gloss": "even concealing"
   },
   {
    "surface": "ஆற்றேன்",
@@ -22,10 +22,10 @@
     {
      "text": "ஆற்றேன்",
      "lemma": "ஆற்று",
-     "gloss": "I am unable"
+     "gloss": "I cannot bear"
     }
    ],
-   "gloss": "I am unable"
+   "gloss": "I cannot bear"
   },
   {
    "surface": "இந்",
@@ -44,15 +44,15 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "affliction"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "pain (acc.)"
+   "gloss": "affliction"
   },
   {
    "surface": "நோய்",
@@ -60,37 +60,42 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "affliction"
     }
    ],
-   "gloss": "pain"
+   "gloss": "affliction"
   },
   {
    "surface": "செய்தார்க்கு",
    "parts": [
     {
-     "text": "செய்தார்க்கு",
+     "text": "செய்தார்",
      "lemma": "செய்",
-     "gloss": "to the one who caused"
+     "gloss": "he who caused"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the one who caused"
+   "gloss": "to him who caused"
   },
   {
    "surface": "உரைத்தலும்",
    "parts": [
     {
      "text": "உரைத்தல்",
-     "lemma": "உரை",
+     "lemma": "உரைத்தல்",
      "gloss": "telling"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "also"
     }
    ],
-   "gloss": "even telling"
+   "gloss": "also telling"
   },
   {
    "surface": "நாணு",
@@ -109,16 +114,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will give"
+     "gloss": "brings"
     }
    ],
-   "gloss": "will give"
+   "gloss": "brings"
   }
  ],
- "literal": "Hiding even I am unable; this pain, to the one who caused the pain, telling even gives shame.",
- "translation": "I cannot bear to hide this pain. Yet, telling of it to the one who caused it brings me shame.",
- "modern": "இந்தத் துன்பத்தை என்னால் மறைத்து வைக்கவும் முடியவில்லை. இதை எனக்குத் தந்தவரிடமே சொல்வதற்கும் எனக்கு வெட்கமாக இருக்கிறது.",
- "explanation": "The speaker is caught in a painful dilemma regarding her lovesickness. She is unable to conceal the intense suffering she feels inside. At the same time, her natural modesty prevents her from openly declaring her pain to her lover, who is the very cause of it. The repetition of the word 'நோய்' (pain or disease) emphasizes the inescapable nature of her affliction.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even concealing I cannot bear this affliction; telling to him who caused the affliction also brings shame.",
+ "translation": "I cannot bear to conceal this painful affliction, yet telling it to the one who caused it only brings me shame.",
+ "modern": "இந்தத் துன்பத்தை என்னால் மறைக்கவும் முடியவில்லை; இந்தத் துன்பத்தைத் தந்தவரிடம் இதைச் சொல்வதும் எனக்கு வெட்கத்தைத் தருகிறது.",
+ "explanation": "The heroine expresses her deep inner conflict of love-sickness. She is unable to hide the pain of separation any longer as it overwhelms her. However, revealing her suffering to her lover, who is the very cause of her pain, feels deeply embarrassing and brings her shame. The couplet beautifully captures the delicate struggle between unbearable emotional pain and the preservation of one's modesty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,30 +4,20 @@
    "surface": "துன்புறூஉம்",
    "parts": [
     {
-     "text": "துன்பு",
-     "lemma": "துன்பு",
-     "gloss": "sorrow"
-    },
-    {
-     "text": "உறூஉம்",
-     "lemma": "உறு",
-     "gloss": "causing"
+     "text": "துன்புறூஉம்",
+     "lemma": "துன்புறு",
+     "gloss": "causing suffering"
     }
    ],
-   "gloss": "sorrow-causing"
+   "gloss": "misery-causing"
   },
   {
    "surface": "துவ்வாமை",
    "parts": [
     {
-     "text": "துவ்",
-     "lemma": "துவ்",
-     "gloss": "to enjoy"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "text": "துவ்வாமை",
+     "lemma": "துவ்வாமை",
+     "gloss": "poverty"
     }
    ],
    "gloss": "poverty"
@@ -41,20 +31,15 @@
      "gloss": "not"
     }
    ],
-   "gloss": "non-existent"
+   "gloss": "not"
   },
   {
    "surface": "ஆகும்",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will become"
     }
    ],
    "gloss": "will become"
@@ -65,36 +50,26 @@
     {
      "text": "யார்",
      "lemma": "யார்",
-     "gloss": "who"
+     "gloss": "anyone"
     },
     {
-     "text": "மாட்டு",
-     "lemma": "மாட்டு",
+     "text": "மாட்டும்",
+     "lemma": "மாடு",
      "gloss": "towards"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even/all"
     }
    ],
-   "gloss": "towards everyone"
+   "gloss": "towards anyone"
   },
   {
    "surface": "இன்புறூஉம்",
    "parts": [
     {
-     "text": "இன்பு",
-     "lemma": "இன்பு",
-     "gloss": "joy"
-    },
-    {
-     "text": "உறூஉம்",
-     "lemma": "உறு",
-     "gloss": "causing"
+     "text": "இன்புறூஉம்",
+     "lemma": "இன்புறு",
+     "gloss": "causing pleasure"
     }
    ],
-   "gloss": "joy-causing"
+   "gloss": "pleasure-giving"
   },
   {
    "surface": "இன்சொல்",
@@ -118,21 +93,21 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those people"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to them"
+   "gloss": "to those"
   }
  ],
- "literal": "Sorrow-causing poverty non-existent will become, towards everyone joy-causing sweet words to them.",
- "translation": "Sorrowful poverty will not exist for those who speak sweet words that bring joy to everyone.",
- "modern": "யாரிடத்திலும் மகிழ்ச்சியைத் தரும் இனிய சொற்களைப் பேசுபவர்களுக்கு, துன்பத்தைத் தரும் வறுமை இல்லாமல் போகும்.",
- "explanation": "This couplet states that those who habitually speak sweet words that bring joy to everyone they meet will never suffer from the pain of poverty. The word 'துவ்வாமை' literally means the inability to enjoy or consume, which signifies destitution. By contrasting 'துன்புறூஉம்' (sorrow-causing) with 'இன்புறூஉம்' (joy-causing), the poet emphasizes that giving joy through words naturally dispels one's own sorrowful lack.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Misery-causing poverty will not exist for those who speak pleasure-giving sweet words towards anyone.",
+ "translation": "Poverty, which brings misery, will never come to those who speak sweet words that bring joy to everyone.",
+ "modern": "எல்லாரிடமும் இன்பம் தரும் இனிய சொற்களைப் பேசுபவர்களிடம், துன்பத்தைத் தரும் வறுமை அணுகாது.",
+ "explanation": "This couplet links pleasant speech with the removal of life's hardships. The word 'துவ்வாமை' refers to poverty or destitution, which is described as 'துன்புறூஉம்' (that which causes misery). Conversely, 'இன்சொல்' (sweet words) are described as 'இன்புறூஉம்' (that which brings joy) to 'யார்மாட்டும்' (everyone). The poet asserts that those who consistently speak kindly to all will be spared from the suffering of poverty, as their pleasant nature naturally attracts goodwill, support, and prosperity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

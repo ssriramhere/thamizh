@@ -6,15 +6,15 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "resulting"
+     "gloss": "accruing"
     },
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "profit"
+     "gloss": "benefit"
     }
    ],
-   "gloss": "resulting profit"
+   "gloss": "the accruing benefit"
   },
   {
    "surface": "வெஃகி",
@@ -25,7 +25,7 @@
      "gloss": "having coveted"
     }
    ],
-   "gloss": "having coveted"
+   "gloss": "coveting"
   },
   {
    "surface": "பழிப்படுவ",
@@ -33,28 +33,23 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "disgrace"
     },
     {
      "text": "படுவ",
      "lemma": "படு",
-     "gloss": "things that incur"
+     "gloss": "those which cause"
     }
    ],
-   "gloss": "blameworthy deeds"
+   "gloss": "disgraceful deeds"
   },
   {
    "surface": "செய்யார்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யார்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "not-they"
+     "gloss": "they will not do"
     }
    ],
    "gloss": "they will not do"
@@ -65,32 +60,37 @@
     {
      "text": "நடுவு",
      "lemma": "நடுவு",
-     "gloss": "impartiality"
+     "gloss": "equity"
     },
     {
      "text": "அன்மை",
-     "lemma": "அல்",
+     "lemma": "அன்மை",
      "gloss": "absence"
     }
    ],
-   "gloss": "lack of impartiality"
+   "gloss": "lack of equity"
   },
   {
    "surface": "நாணுபவர்",
    "parts": [
     {
-     "text": "நாணுபவர்",
-     "lemma": "நாண்",
-     "gloss": "those who are ashamed"
+     "text": "நாணு",
+     "lemma": "நாணு",
+     "gloss": "shrink in shame"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "பவர்",
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who are ashamed"
+   "gloss": "those who shrink in shame from"
   }
  ],
- "literal": "Resulting profit having coveted, blameworthy deeds they will not do, lack of impartiality those who are ashamed of.",
- "translation": "Those who are ashamed of being unjust will not commit blameworthy deeds out of a desire for the resulting profit.",
- "modern": "நடுவுநிலைமை தவறுவதற்கு வெட்கப்படுகின்றவர்கள், அதனால் கிடைக்கும் பெரும் பயனை விரும்பிப் பழியான செயல்களைச் செய்ய மாட்டார்கள்.",
- "explanation": "The couplet states that people who value fairness will never act unjustly, even if it brings them great wealth. The word 'நடுவன்மை' means the absence of impartiality or fairness. 'நாணுபவர்' refers to those who feel a deep sense of shame at the thought of losing their integrity. Therefore, they will not covet any 'படுபயன்' (resulting profit) that comes from doing 'பழிப்படுவ' (blameworthy deeds).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who shrink in shame from lack of equity will not do disgraceful deeds, coveting the accruing benefit.",
+ "translation": "Those who shrink in shame from unfairness will not commit disgraceful deeds, even for the sake of gaining some benefit.",
+ "modern": "நடுவுநிலைமை இல்லாத தன்மையைக் கண்டு வெட்கப்படுபவர்கள், தமக்குக் கிடைக்கும் பயனை விரும்பிப் பழி தரும் செயல்களைச் செய்ய மாட்டார்கள்.",
+ "explanation": "This couplet highlights the integrity of those who value justice. People who feel a deep sense of shame at the very thought of being unfair or inequitable (natuvanmai nanupavar) will never commit disgraceful acts (palippatuva ceyyar). Even when they desire the potential gains or benefits (patupayan vehki) that could arise from an action, their moral conscience prevents them from choosing a path of dishonor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

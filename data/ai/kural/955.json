@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "வழங்குவது",
-     "lemma": "வழங்கு",
-     "gloss": "that which is given"
+     "lemma": "வழங்குவது",
+     "gloss": "that which is given or shared"
     }
    ],
-   "gloss": "giving"
+   "gloss": "the capacity to give or share"
   },
   {
    "surface": "உள்வீழ்ந்த",
@@ -22,10 +22,10 @@
     {
      "text": "வீழ்ந்த",
      "lemma": "வீழ்",
-     "gloss": "fallen"
+     "gloss": "collapsed or shrunk"
     }
    ],
-   "gloss": "diminished"
+   "gloss": "having collapsed within or diminished"
   },
   {
    "surface": "கண்ணும்",
@@ -33,7 +33,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "place/time"
+     "gloss": "condition or time"
     },
     {
      "text": "உம்",
@@ -41,18 +41,23 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even when"
+   "gloss": "even in the condition of"
   },
   {
    "surface": "பழங்குடி",
    "parts": [
     {
-     "text": "பழங்குடி",
-     "lemma": "பழங்குடி",
-     "gloss": "ancient family"
+     "text": "பழம்",
+     "lemma": "பழமை",
+     "gloss": "ancient"
+    },
+    {
+     "text": "குடி",
+     "lemma": "குடி",
+     "gloss": "lineage or family"
     }
    ],
-   "gloss": "ancient family"
+   "gloss": "people of ancient noble lineage"
   },
   {
    "surface": "பண்பில்",
@@ -60,7 +65,7 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "good character"
+     "gloss": "noble character"
     },
     {
      "text": "இல்",
@@ -68,35 +73,35 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from character"
+   "gloss": "from their noble character"
   },
   {
    "surface": "தலைப்பிரிதல்",
    "parts": [
     {
      "text": "தலைப்பிரிதல்",
-     "lemma": "தலைப்பிரி",
-     "gloss": "separating completely"
+     "lemma": "தலைப்பிரிதல்",
+     "gloss": "separating or departing"
     }
    ],
-   "gloss": "separating completely"
+   "gloss": "departing or swerving"
   },
   {
    "surface": "இன்று",
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
-     "gloss": "is not"
+     "lemma": "இன்று",
+     "gloss": "is not or does not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not happen"
   }
  ],
- "literal": "That which is given having fallen inward even at the time, an ancient family from good character separating completely is not.",
- "translation": "Even when their wealth for giving diminishes, an ancient noble family will never depart from its good character.",
- "modern": "பிறருக்குக் கொடுக்கும் அளவுக்கான செல்வம் குறைந்து வறுமை வந்த காலத்திலும், பழமையான குடிமக்கள் தம் நல்ல பண்புகளிலிருந்து விலக மாட்டார்கள்.",
- "explanation": "This couplet explains the enduring nature of true nobility. The phrase 'வழங்குவது உள்வீழ்ந்த' refers to a state where the wealth available for giving to others has diminished, indicating poverty. Even in such difficult times, those born into an ancient, noble family will not abandon their inherent good qualities. Their character remains steadfast regardless of their financial situation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even when [their] capacity to give is collapsed within, [those of] ancient lineage departing from [their] noble character is not.",
+ "translation": "Even when their means to give have utterly diminished, those of ancient noble lineage never depart from their noble character.",
+ "modern": "பிறருக்குக் கொடுக்கும் கொடைத்தன்மை வறுமையினால் சுருங்கிப் போன காலத்திலும், பழமையான குடியில் பிறந்தவர்கள் தம்முடைய நற்பண்பிலிருந்து விலக மாட்டார்கள்.",
+ "explanation": "This couplet highlights the enduring nature of noble character in people of ancient lineage. The phrase 'valanguvathu ulveelntha' refers to a state where one's wealth and ability to practice charity have completely collapsed or shrunk. Even in such extreme adversity and poverty, those from a long line of noble ancestors ('palangudi') do not swerve ('talaippirital indru') from their innate noble qualities ('panpu'). Their nobility is defined not by their material wealth, but by their steadfast adherence to their values even when they have nothing left to give.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

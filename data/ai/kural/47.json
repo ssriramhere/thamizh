@@ -6,20 +6,20 @@
     {
      "text": "இயல்பு",
      "lemma": "இயல்பு",
-     "gloss": "nature"
+     "gloss": "natural duty/virtue"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic link"
+     "gloss": "oblique case marker"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "by"
+     "gloss": "instrumental suffix (by/with)"
     }
    ],
-   "gloss": "by the proper nature"
+   "gloss": "by/according to the natural duty"
   },
   {
    "surface": "இல்வாழ்க்கை",
@@ -27,7 +27,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "house"
+     "gloss": "home/domestic"
     },
     {
      "text": "வாழ்க்கை",
@@ -46,14 +46,9 @@
      "gloss": "live"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future/habitual marker"
-    },
-    {
-     "text": "அவன்",
+     "text": "பவன்",
      "lemma": "அவன்",
-     "gloss": "he"
+     "gloss": "he who"
     }
    ],
    "gloss": "he who lives"
@@ -62,19 +57,9 @@
    "surface": "என்பான்",
    "parts": [
     {
-     "text": "என்",
-     "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future/habitual marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he"
+     "text": "என்பான்",
+     "lemma": "என்பான்",
+     "gloss": "he who is spoken of/called"
     }
    ],
    "gloss": "he who is called"
@@ -83,19 +68,9 @@
    "surface": "முயல்வாருள்",
    "parts": [
     {
-     "text": "முயல்",
-     "lemma": "முயல்",
-     "gloss": "strive"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future/habitual marker"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "those who"
+     "text": "முயல்வார்",
+     "lemma": "முயல்வார்",
+     "gloss": "those who strive"
     },
     {
      "text": "உள்",
@@ -122,16 +97,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "head/foremost"
     }
    ],
-   "gloss": "foremost"
+   "gloss": "foremost/supreme"
   }
  ],
- "literal": "By the proper nature domestic life he who lives he who is called among those who strive all foremost.",
- "translation": "He who is called one who lives the domestic life by its proper nature is the foremost among all who strive.",
- "modern": "அறத்தின் இயல்போடு இல்வாழ்க்கையை வாழ்பவன், நல்வாழ்வுக்காக முயலும் எல்லாரிலும் முதன்மையானவன் ஆவான்.",
- "explanation": "This couplet establishes the supremacy of a well-lived domestic life over other paths of effort. The phrase 'இயல்பினான் இல்வாழ்க்கை வாழ்பவன்' refers to a householder who lives according to the natural, proper virtues of family life. The word 'முயல்வார்' points to people undertaking various disciplines or ascetic practices to achieve greatness. By calling the true householder 'தலை', the poet emphasizes that fulfilling one's everyday domestic duties righteously is the highest form of human endeavor.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who lives the domestic life by its natural duty is called the foremost among all those who strive.",
+ "translation": "He who lives the domestic life in accordance with its natural virtue is the foremost among all those who strive for spiritual liberation.",
+ "modern": "அறநெறியின் இயல்போடு இல்லற வாழ்க்கை வாழ்பவன், நற்கதிக்காக முயலும் மற்ற எல்லோரையும் விட முதன்மையானவன் ஆவான்.",
+ "explanation": "This couplet highlights the supreme value of a righteous householder. The word 'இயல்பு' refers to the natural, virtuous duties of a householder, which include supporting others and living selflessly. The poet compares this householder to 'முயல்வார்', those who perform intense spiritual penance or strive for liberation. By declaring the householder as 'தலை' (the foremost), the couplet teaches that fulfilling one's domestic duties virtuously is superior to escaping the world through asceticism.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

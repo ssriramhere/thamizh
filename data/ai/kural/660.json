@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "சலத்தால்",
-     "lemma": "சலம்",
-     "gloss": "by deceit"
+     "lemma": "சலத்தால்",
+     "gloss": "by deceit/dishonesty"
     }
    ],
-   "gloss": "by deceit"
+   "gloss": "by deceit/dishonesty",
+   "split_unverified": true
   },
   {
    "surface": "பொருள்",
@@ -28,21 +29,22 @@
     {
      "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "having accumulated"
+     "gloss": "having acquired/made"
     }
    ],
-   "gloss": "having accumulated"
+   "gloss": "having acquired"
   },
   {
    "surface": "ஏமார்த்தல்",
    "parts": [
     {
      "text": "ஏமார்த்தல்",
-     "lemma": "ஏமார்",
-     "gloss": "feeling secure"
+     "lemma": "ஏமார்த்தல்",
+     "gloss": "securing/guarding"
     }
    ],
-   "gloss": "feeling secure"
+   "gloss": "securing/guarding",
+   "split_unverified": true
   },
   {
    "surface": "பசுமண்",
@@ -53,18 +55,20 @@
      "gloss": "unbaked clay"
     }
    ],
-   "gloss": "unbaked clay"
+   "gloss": "unbaked clay",
+   "split_unverified": true
   },
   {
    "surface": "கலத்துள்",
    "parts": [
     {
      "text": "கலத்துள்",
-     "lemma": "கலம்",
-     "gloss": "inside a vessel"
+     "lemma": "கலத்துள்",
+     "gloss": "inside the vessel"
     }
    ],
-   "gloss": "inside a vessel"
+   "gloss": "inside the vessel",
+   "split_unverified": true
   },
   {
    "surface": "நீர்",
@@ -94,10 +98,10 @@
     {
      "text": "இரீஇ",
      "lemma": "இரு",
-     "gloss": "having kept"
+     "gloss": "having kept/stored"
     }
    ],
-   "gloss": "having kept"
+   "gloss": "having kept/stored"
   },
   {
    "surface": "அற்று",
@@ -105,16 +109,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like/similar to"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like/similar to"
   }
  ],
- "literal": "By deceit wealth having accumulated feeling secure [is] unbaked clay inside vessel water having poured having kept like.",
- "translation": "Feeling secure after accumulating wealth by deceitful means is like pouring and storing water in a vessel of unbaked clay.",
- "modern": "வஞ்சனையான வழிகளில் பொருளைச் சேர்த்து வைத்துப் பாதுகாப்பாக உணர்வது, சுடப்படாத பச்சை மண்ணால் செய்த பானையில் நீரை ஊற்றி வைப்பதைப் போன்றது.",
- "explanation": "This couplet warns against accumulating wealth through unethical or deceitful means. The word 'சலம்' refers to deceit or falseness. The poet compares such ill-gotten wealth to water poured into a vessel made of unbaked clay ('பசுமண் கலம்'). Just as the unbaked clay will dissolve and both the vessel and the water will be lost, wealth gained by deceit will inevitably destroy itself and its possessor.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By deceit wealth having acquired, securing [it] is like having poured water inside an unbaked clay vessel and keeping [it].",
+ "translation": "Acquiring wealth through deceitful means and trying to secure it is like trying to store water in a vessel of unbaked clay.",
+ "modern": "வஞ்சக வழியால் செல்வத்தைச் சேர்த்து அதைப் பாதுகாக்க நினைப்பது, சுடப்படாத பச்சை மண் பாத்திரத்தில் நீரை ஊற்றி வைக்க முயற்சிப்பது போன்றதாகும்.",
+ "explanation": "This couplet warns against using dishonest means to acquire wealth. The word 'சலம்' here refers to deceit or dishonesty, which compromises the purity of action. Trying to protect or secure ('ஏமார்த்தல்') such ill-gotten gains is compared to pouring water into a pot made of unbaked clay ('பசுமண் கலம்'). Just as the raw clay pot will dissolve and lose the water, dishonest wealth will quickly disintegrate, destroying itself and its owner.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

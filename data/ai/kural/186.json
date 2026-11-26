@@ -6,10 +6,10 @@
     {
      "text": "பிறன்",
      "lemma": "பிறன்",
-     "gloss": "another man"
+     "gloss": "another person"
     }
    ],
-   "gloss": "another's"
+   "gloss": "another person's"
   },
   {
    "surface": "பழி",
@@ -20,7 +20,7 @@
      "gloss": "fault"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults"
   },
   {
    "surface": "கூறுவான்",
@@ -28,17 +28,12 @@
     {
      "text": "கூறு",
      "lemma": "கூறு",
-     "gloss": "to speak"
+     "gloss": "speak"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
+     "text": "வான்",
      "lemma": "ஆன்",
-     "gloss": "he (3rd person singular suffix)"
+     "gloss": "he who"
     }
    ],
    "gloss": "he who speaks"
@@ -49,7 +44,7 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "oneself (oblique)"
+     "gloss": "one's own"
     }
    ],
    "gloss": "his own"
@@ -71,12 +66,12 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside/among"
+     "gloss": "among"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even/also"
+     "gloss": "even"
     }
    ],
    "gloss": "even among"
@@ -87,10 +82,10 @@
     {
      "text": "திறன்",
      "lemma": "திறன்",
-     "gloss": "nature/severity"
+     "gloss": "nature or worst kind"
     }
    ],
-   "gloss": "the worst kind"
+   "gloss": "the most hurtful kind"
   },
   {
    "surface": "தெரிந்து",
@@ -107,14 +102,9 @@
    "surface": "கூற",
    "parts": [
     {
-     "text": "கூறு",
+     "text": "கூற",
      "lemma": "கூறு",
      "gloss": "to speak"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
     }
    ],
    "gloss": "to be spoken"
@@ -123,23 +113,18 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படு",
+     "text": "படும்",
      "lemma": "படு",
-     "gloss": "to suffer/passive marker"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future tense suffix"
+     "gloss": "will be"
     }
    ],
-   "gloss": "will happen"
+   "gloss": "will be"
   }
  ],
- "literal": "Another's fault he-who-speaks, his-own fault even-among, the-worst-kind having-selected to-be-spoken will-happen.",
- "translation": "If a man speaks of another's faults, his own faults will be sifted through and the worst of them will be exposed.",
- "modern": "மற்றொருவனுடைய பழியைப் பற்றிப் பேசுபவனுடைய சொந்தப் பழிகளுக்குள்ளும், மிகவும் கடுமையானவற்றை ஆராய்ந்து தேர்ந்தெடுத்து மற்றவர்கள் பேசுவார்கள்.",
- "explanation": "This couplet warns of the inevitable retaliation that comes from backbiting. The word 'கூறுவான்' refers to one who habitually points out the faults of others. In response, others will not merely point out his faults, but will examine them ('தெரிந்து') to find the most severe or damaging ones ('திறன்') among all his flaws ('தன்பழி உள்ளும்'). Thus, speaking ill of others guarantees that one's own worst flaws will be exposed to the world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Another's fault he who speaks, his own faults even among, the most hurtful kind having selected, to be spoken will be.",
+ "translation": "He who speaks of another's faults will have his own faults searched out and spoken of, especially those that are most hurtful.",
+ "modern": "பிறருடைய குற்றங்களைப் பற்றிப் புறங்கூறிப் பேசுபவனுடைய சொந்தக் குற்றங்களுக்குள்ளும் மிகக் கொடிய குற்றங்களைத் தேடித் தேர்ந்தெடுத்துப் பிறரால் பேசப்படும்.",
+ "explanation": "This couplet warns against the consequences of backbiting and exposing the flaws of others. If a person gossips about another's faults, society will retaliate by exposing their own flaws. Crucially, people will not just speak of any minor flaw; they will search out and select (தெரிந்து) the most sensitive, hurtful, and damaging secrets (திறன்) to expose. Thus, speaking ill of others ultimately invites the most painful exposure of one's own character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

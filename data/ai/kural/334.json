@@ -15,17 +15,12 @@
    "surface": "என",
    "parts": [
     {
-     "text": "என்",
+     "text": "என",
      "lemma": "என்",
-     "gloss": "to say"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
+     "gloss": "called / as"
     }
    ],
-   "gloss": "as"
+   "gloss": "called / as"
   },
   {
    "surface": "ஒன்று",
@@ -44,7 +39,7 @@
     {
      "text": "போல்",
      "lemma": "போல்",
-     "gloss": "like"
+     "gloss": "like / resembling"
     }
    ],
    "gloss": "like"
@@ -53,17 +48,12 @@
    "surface": "காட்டி",
    "parts": [
     {
-     "text": "காட்டு",
+     "text": "காட்டி",
      "lemma": "காட்டு",
-     "gloss": "show"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "adverbial participle suffix"
+     "gloss": "showing"
     }
    ],
-   "gloss": "having shown"
+   "gloss": "showing"
   },
   {
    "surface": "உயிர்",
@@ -80,17 +70,12 @@
    "surface": "ஈரும்",
    "parts": [
     {
-     "text": "ஈர்",
+     "text": "ஈரும்",
      "lemma": "ஈர்",
-     "gloss": "saw"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "sawing / cutting"
     }
    ],
-   "gloss": "sawing"
+   "gloss": "that saws / cuts"
   },
   {
    "surface": "வாள்",
@@ -98,10 +83,10 @@
     {
      "text": "வாள்",
      "lemma": "வாள்",
-     "gloss": "sword"
+     "gloss": "saw / sword"
     }
    ],
-   "gloss": "sword"
+   "gloss": "saw / sword"
   },
   {
    "surface": "அது",
@@ -109,28 +94,18 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that"
+     "gloss": "it / that"
     }
    ],
-   "gloss": "that"
+   "gloss": "it"
   },
   {
    "surface": "உணர்வார்",
    "parts": [
     {
-     "text": "உணர்",
+     "text": "உணர்வார்",
      "lemma": "உணர்",
-     "gloss": "understand"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "those who understand"
     }
    ],
    "gloss": "those who understand"
@@ -139,23 +114,18 @@
    "surface": "பெறின்",
    "parts": [
     {
-     "text": "பெறு",
+     "text": "பெறின்",
      "lemma": "பெறு",
-     "gloss": "obtain"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if obtained"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "if there are"
   }
  ],
- "literal": "Day as one thing like having shown, life sawing sword that, those who understand if obtained.",
- "translation": "To those who have the wisdom to understand, what presents itself as a harmless thing called a 'day' is actually a sword that saws away life.",
- "modern": "நாள் என்று ஒரு சாதாரணப் பொருளைப் போலத் தன்னைக் காட்டி, உண்மையில் உயிரை அறுக்கும் வாளாகவே காலம் இருக்கிறது என்பதை அறிவுடையவர்கள் உணர்வார்கள்.",
- "explanation": "The couplet exposes the illusion of time. A 'day' (நாள்) appears to be a harmless, ordinary measure of time that we experience one by one. But the poet compares it to a sword (வாள்) that continuously saws (ஈரும்) away at one's life (உயிர்). Only those who deeply understand the transience of the world realize that every passing day is actively cutting their lifespan shorter.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A day, showing itself like a mere unit of time, is actually a saw that cuts away life, if there are those who understand it.",
+ "translation": "To those who have the wisdom to understand, a day is a saw that, while appearing to be just a measure of time, continuously cuts away at their life.",
+ "modern": "நாள் என்று சொல்லப்படும் ஒரு எளிய கால அளவு போலத் தன்னைக் காட்டி, உயிரை அறுத்துக் கொண்டிருக்கும் வாள் ஆகும் அது, அதனை ஆராய்ந்து உணர்வாரைப் பெற்றால்.",
+ "explanation": "This couplet uses a powerful metaphor to illustrate the impermanence of life. To an ordinary person, a day seems like a harmless unit of time passing by. However, to those who possess deep understanding, each passing day is actually a saw ('வாள்') that is steadily cutting away ('ஈரும்') at their lifespan ('உயிர்'). The word 'ஈரும்' specifically refers to the action of sawing or slicing, emphasizing the gradual but relentless reduction of our remaining time on earth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

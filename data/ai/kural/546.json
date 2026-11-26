@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is not"
     }
    ],
@@ -38,7 +38,7 @@
    "parts": [
     {
      "text": "தருவது",
-     "lemma": "தா",
+     "lemma": "தருதல்",
      "gloss": "that which gives"
     }
    ],
@@ -49,11 +49,11 @@
    "parts": [
     {
      "text": "மன்னவன்",
-     "lemma": "மன்னவன்",
+     "lemma": "மன்னன்",
      "gloss": "king"
     }
    ],
-   "gloss": "king's"
+   "gloss": "the king's"
   },
   {
    "surface": "கோல்",
@@ -61,10 +61,10 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "scepter"
+     "gloss": "sceptre"
     }
    ],
-   "gloss": "scepter"
+   "gloss": "sceptre"
   },
   {
    "surface": "அதூஉம்",
@@ -72,38 +72,38 @@
     {
      "text": "அதூஉம்",
      "lemma": "அதுவும்",
-     "gloss": "and that"
+     "gloss": "and that / even that"
     }
    ],
-   "gloss": "and that"
+   "gloss": "and that / even that"
   },
   {
    "surface": "கோடாது",
    "parts": [
     {
      "text": "கோடாது",
-     "lemma": "கோடு",
-     "gloss": "does not bend"
+     "lemma": "கோடுதல்",
+     "gloss": "without bending"
     }
    ],
-   "gloss": "does not bend"
+   "gloss": "without bending"
   },
   {
    "surface": "எனின்",
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
+     "lemma": "எனின்",
      "gloss": "if"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "Spear is not victory that which gives king's; scepter, and that does not bend if.",
- "translation": "It is not the spear that brings victory to a king, but his scepter, provided it does not bend.",
- "modern": "ஒரு மன்னனுக்கு வெற்றியைத் தருவது அவனுடைய வேல் அல்ல; அவனது செங்கோல்தான், அதுவும் வளையாமல் நேராக இருந்தால் மட்டுமே.",
- "explanation": "This couplet contrasts military might with just governance. The word 'வேல்' (spear) represents the king's weapons and army, while 'கோல்' (scepter) symbolizes his rule and justice. The text states that true victory comes not from armed force but from the scepter. The crucial condition is 'கோடாது எனின்' (if it does not bend), meaning the rule must remain strictly impartial and just. Thus, a king's ultimate success rests on his unwavering commitment to fairness rather than his capacity for violence.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Spear is not victory giving-thing; king's sceptre, and that, bends not if.",
+ "translation": "It is not the spear that brings victory to a king, but his sceptre of justice, provided it does not bend.",
+ "modern": "மன்னனுக்கு வெற்றியைத் தருவது அவனுடைய வேல் அல்ல; அவனுடைய செங்கோல் கோணாமல் நேர்மையாக இருக்குமானால், அந்தச் செங்கோலே வெற்றியைத் தரும்.",
+ "explanation": "This couplet highlights that a ruler's true strength lies in justice rather than military might. The spear represents physical weapons and army strength, which are declared insufficient on their own to secure victory. Instead, it is the sceptre, representing the administration of justice, that brings true and lasting victory. The crucial condition is that this sceptre must not bend, meaning the ruler must remain completely unbiased, fair, and unswerving in upholding the law.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -14,7 +14,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "if they obtain (a worthy husband)"
   },
   {
    "surface": "பெறின்",
@@ -22,7 +22,7 @@
     {
      "text": "பெறு",
      "lemma": "பெறு",
-     "gloss": "to obtain"
+     "gloss": "to receive"
     },
     {
      "text": "இன்",
@@ -30,7 +30,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if they obtain"
+   "gloss": "if they act accordingly"
   },
   {
    "surface": "பெறுவர்",
@@ -38,7 +38,7 @@
     {
      "text": "பெறு",
      "lemma": "பெறு",
-     "gloss": "to obtain"
+     "gloss": "to receive"
     },
     {
      "text": "வ்",
@@ -48,10 +48,10 @@
     {
      "text": "அர்",
      "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "third person plural suffix"
     }
    ],
-   "gloss": "they will obtain"
+   "gloss": "they will attain"
   },
   {
    "surface": "பெண்டிர்",
@@ -59,10 +59,10 @@
     {
      "text": "பெண்டிர்",
      "lemma": "பெண்டிர்",
-     "gloss": "women"
+     "gloss": "wives"
     }
    ],
-   "gloss": "women"
+   "gloss": "wives"
   },
   {
    "surface": "பெருஞ்சிறப்பு",
@@ -73,20 +73,16 @@
      "gloss": "great glory"
     }
    ],
-   "gloss": "great glory"
+   "gloss": "great glory",
+   "split_unverified": true
   },
   {
    "surface": "புத்தேளிர்",
    "parts": [
     {
-     "text": "புத்தேள்",
+     "text": "புத்தேளிர்",
      "lemma": "புத்தேள்",
-     "gloss": "god"
-    },
-    {
-     "text": "இர்",
-     "lemma": "இர்",
-     "gloss": "plural suffix"
+     "gloss": "gods"
     }
    ],
    "gloss": "gods"
@@ -95,17 +91,12 @@
    "surface": "வாழும்",
    "parts": [
     {
-     "text": "வாழ்",
+     "text": "வாழும்",
      "lemma": "வாழ்",
-     "gloss": "to live"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "dwelling"
     }
    ],
-   "gloss": "living"
+   "gloss": "dwelling"
   },
   {
    "surface": "உலகு",
@@ -119,10 +110,10 @@
    "gloss": "world"
   }
  ],
- "literal": "If obtained, if they obtain, they will obtain, women, great glory, gods living world.",
- "translation": "If women obtain the blessing of a devoted family life, they will attain great glory in the world where the gods live.",
- "modern": "கணவனைப் போற்றும் சிறப்பினைப் பெண்கள் பெற்றால், அவர்கள் தேவர்கள் வாழும் உலகிலும் பெருஞ்சிறப்பைப் பெறுவார்கள்.",
- "explanation": "This couplet speaks of the ultimate reward for a devoted wife. The repeated conditional phrase 'பெற்றால் பெறின்' (if obtained, if they obtain) emphasizes fully embracing and fulfilling the role of a life partner. By doing so, women earn profound respect not just on earth, but great glory in the celestial world where the gods live.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If they obtain a worthy husband, and if they act accordingly, wives will attain great glory in the world where the gods dwell.",
+ "translation": "If wives obtain a worthy husband and live in true devotion to him, they will win great glory in the world where the gods dwell.",
+ "modern": "பெண்கள் தகுதியான கணவனைப் பெற்று, அவனுக்கு ஏற்றவாறு அன்போடு வாழ்ந்தால், தேவர்கள் வாழும் மேலுலகத்தில் பெரும் சிறப்பினை அடைவார்கள்.",
+ "explanation": "This couplet describes the ultimate spiritual reward of a devoted wife. The word 'பெற்றால்' refers to obtaining a virtuous husband, while 'பெறின்' means living in a manner that honors and cherishes that relationship. If a woman achieves this harmonious domestic life, she is promised 'பெருஞ்சிறப்பு' (great glory) in 'புத்தேளிர் வாழும் உலகு' (the world where celestial beings dwell). The poet suggests that the quiet virtues of a dedicated household life elevate a woman to a status celebrated even in the divine realms.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

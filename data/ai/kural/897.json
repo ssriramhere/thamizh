@@ -6,10 +6,10 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "arrangement"
+     "gloss": "ways/means"
     }
    ],
-   "gloss": "arrangement"
+   "gloss": "ways or means"
   },
   {
    "surface": "மாண்ட",
@@ -17,7 +17,7 @@
     {
      "text": "மாண்ட",
      "lemma": "மாண்",
-     "gloss": "which is excellent"
+     "gloss": "excellent"
     }
    ],
    "gloss": "excellent"
@@ -36,7 +36,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "life and"
+   "gloss": "and life"
   },
   {
    "surface": "வான்",
@@ -44,10 +44,10 @@
     {
      "text": "வான்",
      "lemma": "வான்",
-     "gloss": "vast"
+     "gloss": "great/abundant"
     }
    ],
-   "gloss": "vast"
+   "gloss": "great or abundant"
   },
   {
    "surface": "பொருளும்",
@@ -63,7 +63,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "wealth and"
+   "gloss": "and wealth"
   },
   {
    "surface": "என்",
@@ -93,10 +93,10 @@
     {
      "text": "தகை",
      "lemma": "தகை",
-     "gloss": "dignity"
+     "gloss": "virtue/dignity"
     }
    ],
-   "gloss": "dignity"
+   "gloss": "virtue or dignity"
   },
   {
    "surface": "மாண்ட",
@@ -104,7 +104,7 @@
     {
      "text": "மாண்ட",
      "lemma": "மாண்",
-     "gloss": "which is excellent"
+     "gloss": "excellent"
     }
    ],
    "gloss": "excellent"
@@ -114,33 +114,28 @@
    "parts": [
     {
      "text": "தக்கார்",
-     "lemma": "தகு",
-     "gloss": "worthy persons"
+     "lemma": "தக்கார்",
+     "gloss": "worthy ones"
     }
    ],
-   "gloss": "worthy persons"
+   "gloss": "worthy ones"
   },
   {
    "surface": "செறின்",
    "parts": [
     {
-     "text": "செறு",
+     "text": "செறின்",
      "lemma": "செறு",
-     "gloss": "to be angry"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (they) become angry"
     }
    ],
-   "gloss": "if they are angry"
+   "gloss": "if they become angry"
   }
  ],
- "literal": "arrangement excellent life-and vast wealth-and what will-become, dignity excellent worthy-persons if-they-are-angry?",
- "translation": "What is the use of an excellently arranged life and vast wealth, if worthy men of excellent dignity grow angry?",
- "modern": "தகுதியால் சிறந்த பெரியவர்கள் சினங்கொண்டால், ஒருவனுடைய பலவகையிலும் சிறந்த வாழ்க்கையும் பெரும் செல்வமும் என்ன பயனைத் தரும்?",
- "explanation": "This couplet warns against incurring the wrath of great and worthy people. It asks what good a perfectly arranged life and immense wealth can do if one angers those of excellent character. The word 'செறின்' means 'if they become angry', showing that the displeasure of the great can destroy even the most secure and prosperous life. The repetition of 'மாண்ட' (excellent) contrasts the material excellence of one's life with the moral excellence of the worthy people.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Of what use will a life excellent in its ways and great wealth become, if worthy ones of excellent virtue become angry?",
+ "translation": "Of what avail are a life of excellent means and vast wealth, if worthy people of great virtue are provoked to anger?",
+ "modern": "தகைமை சிறந்த தகுதியுடைய பெரியோர்கள் கோபித்துக் கொண்டால், எல்லா வழிகளிலும் சிறப்புற்ற வாழ்க்கையும், மிகப்பெரிய செல்வமும் இருந்தும் என்ன பயன் தரும்?",
+ "explanation": "This couplet warns against incurring the wrath of great and worthy people. The word 'takkār' refers to those who are worthy and fit, possessing great virtue ('takai māṇṭa'). If such noble persons are provoked to anger ('ceṟiṉ'), then all the excellent ways of one's life ('vakaimāṇṭa vāḻkkai') and all one's vast wealth ('vāṉporuḷ') will become completely useless ('eṉṉām'). The repetition of 'māṇṭa' (excellent) emphasizes that even the most excellent worldly achievements and possessions cannot save a person from the ruin caused by offending the truly great.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

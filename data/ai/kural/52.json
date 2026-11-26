@@ -6,7 +6,7 @@
     {
      "text": "மனை",
      "lemma": "மனை",
-     "gloss": "household"
+     "gloss": "home"
     },
     {
      "text": "மாட்சி",
@@ -14,7 +14,7 @@
      "gloss": "excellence"
     }
    ],
-   "gloss": "household excellence"
+   "gloss": "excellence of the household"
   },
   {
    "surface": "இல்லாள்கண்",
@@ -27,7 +27,7 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "locative suffix (in/with)"
+     "gloss": "with"
     }
    ],
    "gloss": "with the wife"
@@ -42,11 +42,11 @@
     },
     {
      "text": "ஆயின்",
-     "lemma": "ஆ",
+     "lemma": "ஆயின்",
      "gloss": "if it is"
     }
    ],
-   "gloss": "if it is not"
+   "gloss": "if it is absent"
   },
   {
    "surface": "வாழ்க்கை",
@@ -54,10 +54,10 @@
     {
      "text": "வாழ்க்கை",
      "lemma": "வாழ்க்கை",
-     "gloss": "life"
+     "gloss": "domestic life"
     }
    ],
-   "gloss": "life"
+   "gloss": "domestic life"
   },
   {
    "surface": "எனைமாட்சித்து",
@@ -70,21 +70,21 @@
     {
      "text": "மாட்சித்து",
      "lemma": "மாட்சித்து",
-     "gloss": "possessing greatness"
+     "gloss": "having excellence"
     }
    ],
-   "gloss": "of whatever greatness"
+   "gloss": "of whatever excellence"
   },
   {
    "surface": "ஆயினும்",
    "parts": [
     {
      "text": "ஆயினும்",
-     "lemma": "ஆ",
-     "gloss": "even if it is"
+     "lemma": "ஆயினும்",
+     "gloss": "even if it be"
     }
    ],
-   "gloss": "even if it is"
+   "gloss": "even if it be"
   },
   {
    "surface": "இல்",
@@ -92,16 +92,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "nothing"
+     "gloss": "not/nothing"
     }
    ],
    "gloss": "is nothing"
   }
  ],
- "literal": "Household excellence with the wife if it is not, life, of whatever greatness even if it is, is nothing.",
- "translation": "If a wife lacks the excellence needed to manage a household, domestic life is nothing, no matter how great it may be in other ways.",
- "modern": "மனைவியிடம் குடும்பத்திற்குத் தேவையான நற்பண்புகள் இல்லாவிட்டால், அந்த இல்வாழ்க்கை வேறு எவ்வளவு சிறப்புகளைப் பெற்றிருந்தாலும் ஒரு பயனும் இல்லை.",
- "explanation": "This couplet emphasizes that the core of a successful domestic life lies in the character and capability of the wife. The phrase 'மனைமாட்சி' refers to the specific virtues and skills required to manage a household excellently. If these qualities are absent in the wife, the family's life loses its meaning. Even if the household possesses every other kind of greatness or wealth, it ultimately amounts to nothing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If household excellence is absent in the wife, domestic life, of whatever other excellence it may be, is nothing.",
+ "translation": "If a wife lacks the virtues that dignify a home, domestic life is nothing, no matter what other greatness it may possess.",
+ "modern": "மனைவியிடம் இல்லறத்திற்குரிய நற்பண்புகள் இல்லையென்றால், அந்த வாழ்க்கை எவ்வளவு பெருமைகளை உடையதாக இருந்தாலும் ஒரு பயனும் இல்லாததாகும்.",
+ "explanation": "This couplet highlights that the true value of a home depends entirely on the wife's character. The term 'manaimāṭci' refers to the virtues and qualities necessary for running a household. If the wife ('illāḷ') lacks these qualities, the poet asserts that the domestic life ('vāḻkkai') is empty or non-existent ('il'). This remains true regardless of whatever other wealth, status, or greatness ('eṉaimāṭcittu āyiṉum') the family might possess.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

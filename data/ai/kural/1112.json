@@ -25,18 +25,23 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if (you) see"
+   "gloss": "if you see"
   },
   {
    "surface": "மையாத்தி",
    "parts": [
     {
-     "text": "மையாத்தி",
-     "lemma": "மையாத்தல்",
-     "gloss": "you are confused"
+     "text": "மையாத்து",
+     "lemma": "மையாத்து",
+     "gloss": "to be bewildered"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "you (second person singular)"
     }
    ],
-   "gloss": "you are confused"
+   "gloss": "you become bewildered"
   },
   {
    "surface": "நெஞ்சே",
@@ -49,7 +54,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "vocative suffix"
+     "gloss": "O (vocative)"
     }
    ],
    "gloss": "O heart!"
@@ -98,10 +103,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "relative participle suffix"
+     "gloss": "which is seen"
     }
    ],
-   "gloss": "seeing"
+   "gloss": "which is seen by"
   },
   {
    "surface": "பூ",
@@ -119,11 +124,11 @@
    "parts": [
     {
      "text": "ஒக்கும்",
-     "lemma": "ஒத்தல்",
-     "gloss": "will equal"
+     "lemma": "ஒப்பு",
+     "gloss": "resembles"
     }
    ],
-   "gloss": "will equal"
+   "gloss": "resembles"
   },
   {
    "surface": "என்று",
@@ -131,16 +136,16 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying/thinking"
+     "gloss": "thinking that"
     }
    ],
    "gloss": "thinking that"
   }
  ],
- "literal": "Flower if-see you-are-confused O-heart! her eyes many-people seeing flower will-equal thinking.",
- "translation": "O heart, whenever you see a flower, you become confused, thinking that her eyes resemble a flower seen by everyone.",
- "modern": "நெஞ்சே! நீ ஒரு மலரைப் பார்த்தால், இவளுடைய கண்கள் பலரும் பார்க்கின்ற அந்தப் பூவிற்கு ஒப்பாகும் என்று நினைத்து மயங்குகிறாய்.",
- "explanation": "The speaker addresses his own heart, gently mocking it for its foolishness. Whenever the heart sees a beautiful flower, it becomes bewildered and compares the beloved's eyes to it. The speaker points out the flaw in this comparison: a flower is a common thing seen by many people, whereas his beloved's eyes are uniquely beautiful and private. The word 'மையாத்தி' (you are confused) highlights the heart's delusion in equating something common with something incomparably precious.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Flower if seen, you become bewildered, O heart, her eyes, many people see, flower resembles, thinking that.",
+ "translation": "O my heart! Whenever you see a flower, you become bewildered, thinking that her eyes resemble a common flower that is seen by everyone.",
+ "modern": "நெஞ்சமே! மலரைப் பார்க்கும்போதெல்லாம், 'இவளுடைய கண்கள் பலரும் பார்க்கின்ற இந்த மலரைப் போன்றதுதான்' என்று நினைத்து நீ மயங்குகிறாயே!",
+ "explanation": "In this couplet, the lover addresses his own heart, which gets excited and confused upon seeing a flower. The heart mistakenly compares the beloved's eyes to a common flower. The lover gently chides his heart, pointing out that the flower is something 'seen by many', whereas her eyes are unique and exclusive to him. By highlighting this contrast, the poet elevates the beauty and singularity of the beloved's eyes above ordinary nature.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,7 +9,7 @@
      "gloss": "division"
     }
    ],
-   "gloss": "division"
+   "gloss": "division or discord"
   },
   {
    "surface": "கருதி",
@@ -17,26 +17,21 @@
     {
      "text": "கருதி",
      "lemma": "கருது",
-     "gloss": "having intended"
+     "gloss": "intending"
     }
    ],
-   "gloss": "having intended"
+   "gloss": "intending"
   },
   {
    "surface": "பற்றா",
    "parts": [
     {
-     "text": "பற்று",
+     "text": "பற்றா",
      "lemma": "பற்று",
-     "gloss": "attachment"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "unfriendly"
     }
    ],
-   "gloss": "unloving things"
+   "gloss": "unfriendly acts"
   },
   {
    "surface": "செயினும்",
@@ -52,7 +47,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if done"
+   "gloss": "even if they do"
   },
   {
    "surface": "இகல்",
@@ -71,10 +66,10 @@
     {
      "text": "கருதி",
      "lemma": "கருது",
-     "gloss": "having intended"
+     "gloss": "intending"
     }
    ],
-   "gloss": "having intended"
+   "gloss": "intending"
   },
   {
    "surface": "இன்னா",
@@ -91,14 +86,9 @@
    "surface": "செய்யாமை",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யாமை",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not doing"
     }
    ],
    "gloss": "not doing"
@@ -109,16 +99,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "foremost"
     }
    ],
-   "gloss": "best"
+   "gloss": "the best course"
   }
  ],
- "literal": "Division intending, unloving things even if done, hostility intending, harmful things not doing is best.",
- "translation": "Even if others commit unloving acts with the intent to cause division, it is best not to do them harm with the intent of hostility.",
- "modern": "மற்றவர்கள் நம்மைப் பிரிக்க எண்ணி அன்பற்ற செயல்களைச் செய்தாலும், நாம் அவர்கள் மேல் பகை கொண்டு துன்பம் தரும் செயல்களைச் செய்யாமல் இருப்பதே சிறந்ததாகும்.",
- "explanation": "This couplet advises against retaliating to divisive and unloving acts. The word pakal refers to division or separation, while paṟṟā denotes actions lacking attachment or affection. Even when subjected to such deliberate attempts to divide, the best course of action is to refrain from doing harm out of hostility. True greatness lies in breaking the cycle of enmity rather than returning harm for harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they do unfriendly things intending division, not doing harmful things intending hostility is the best.",
+ "translation": "Even if others perform disagreeable acts to cause division, it is best to refrain from doing harmful deeds out of hostility.",
+ "modern": "பிரிவை விரும்பிப் பிறர் நமக்கு வெறுக்கத்தக்கவற்றைச் செய்தாலும், நாம் மாறுபாட்டைக் கருதி அவர்களுக்குத் துன்பம் செய்யாமல் இருப்பதே மிகச் சிறந்தது.",
+ "explanation": "This couplet advises on how to respond to provocation and attempts at division. Even when others commit unfriendly acts with the explicit intention of causing a split or discord, one must not retaliate. Refraining from doing harmful deeds out of a spirit of hostility is described as the foremost or best path. By choosing not to return harm for harm, one rises above enmity and prevents further conflict.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

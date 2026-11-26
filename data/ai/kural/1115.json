@@ -6,10 +6,10 @@
     {
      "text": "அனிச்சப்பூ",
      "lemma": "அனிச்சப்பூ",
-     "gloss": "Aniccam flower"
+     "gloss": "Anicha flower (a highly delicate flower)"
     }
    ],
-   "gloss": "Aniccam flower"
+   "gloss": "Anicha flower"
   },
   {
    "surface": "கால்",
@@ -17,29 +17,39 @@
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "stem"
+     "gloss": "stem / stalk"
     }
    ],
-   "gloss": "stem"
+   "gloss": "stem / stalk"
   },
   {
    "surface": "களையாள்",
    "parts": [
     {
      "text": "களையாள்",
-     "lemma": "களை",
-     "gloss": "she did not remove"
+     "lemma": "களையாள்",
+     "gloss": "she who did not remove"
     }
    ],
-   "gloss": "she did not remove"
+   "gloss": "she who did not remove"
   },
   {
    "surface": "பெய்தாள்",
    "parts": [
     {
-     "text": "பெய்தாள்",
+     "text": "பெய்",
      "lemma": "பெய்",
-     "gloss": "she wore"
+     "gloss": "to wear / place"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she"
     }
    ],
    "gloss": "she wore"
@@ -48,9 +58,19 @@
    "surface": "நுகப்பிற்கு",
    "parts": [
     {
-     "text": "நுகப்பிற்கு",
+     "text": "நுகப்பு",
      "lemma": "நுகப்பு",
-     "gloss": "to the waist"
+     "gloss": "waist (variant of nusuppu)"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "inflectional increment"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to (dative)"
     }
    ],
    "gloss": "to the waist"
@@ -60,11 +80,11 @@
    "parts": [
     {
      "text": "நல்ல",
-     "lemma": "நல்",
-     "gloss": "good"
+     "lemma": "நல்ல",
+     "gloss": "good / auspicious"
     }
    ],
-   "gloss": "good"
+   "gloss": "good / auspicious"
   },
   {
    "surface": "படாஅ",
@@ -72,7 +92,7 @@
     {
      "text": "படாஅ",
      "lemma": "படு",
-     "gloss": "will not sound"
+     "gloss": "will not sound (poetic elongation)"
     }
    ],
    "gloss": "will not sound"
@@ -89,10 +109,10 @@
    "gloss": "drum"
   }
  ],
- "literal": "Aniccam flower / stem / she removed not / she wore / to the waist / good / will not sound / drums",
- "translation": "She wore Aniccam flowers without removing their stems; for her delicate waist, auspicious drums will no longer sound.",
- "modern": "அனிச்ச மலர்களின் காம்புகளை நீக்காமல் அவள் சூடிக்கொண்டாள்; அந்த பாரத்தால் ஒடியப் போகும் அவளது இடைக்காக இனி மங்கலமான பறைகள் ஒலிக்கமாட்டா.",
- "explanation": "The lover exaggerates the extreme delicacy of his beloved's waist. He notes that she has worn delicate Aniccam flowers without first pinching off their stems. Because her waist is so fragile, even the minuscule added weight of the stems will cause it to snap, meaning she will not survive and only inauspicious funeral drums will be beaten for her.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Anicha flower, stalk without removing, she wore; for [her] waist, good will not sound drums.",
+ "translation": "She wore the delicate Anicha flower without removing its stem; now, only ominous drums, and not auspicious ones, will sound for her fragile waist.",
+ "modern": "அவள் அனிச்ச மலரின் காம்பைக் கிள்ளாமல் அப்படியே தலையில் சூடிக்கொண்டாள்; அதனால், அவளது மெல்லிய இடைக்கு நல்ல மங்கல ஒலிகள் ஒலிக்காது (இடை முறிந்துவிடும் என்பதால் சாவுப் பறையே ஒலிக்கும்).",
+ "explanation": "This couplet uses playful exaggeration to praise the extreme delicacy of the heroine's waist. The Anicha flower is famous in classical Tamil poetry for being so delicate that it wilts when merely smelled. The heroine has worn this flower in her hair, but she neglected to remove its tiny stem (kāl). The poet humorously suggests that even this microscopic extra weight is too heavy for her incredibly slender waist (nugappu, a variant of nusuppu), causing it to be on the verge of breaking. Consequently, instead of joyful, auspicious drums (nalla paṟai), only the solemn drums of ruin will sound for her waist.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

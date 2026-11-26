@@ -6,21 +6,21 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "love"
+     "gloss": "passion"
     }
    ],
-   "gloss": "love"
+   "gloss": "passion"
   },
   {
    "surface": "என",
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "called"
     }
    ],
-   "gloss": "saying"
+   "gloss": "called"
   },
   {
    "surface": "ஒன்றோ",
@@ -33,10 +33,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "alas"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "one thing alas"
+   "gloss": "indeed a thing"
   },
   {
    "surface": "கண்",
@@ -44,28 +44,28 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "mercy"
+     "gloss": "compassion"
     }
    ],
-   "gloss": "mercy"
+   "gloss": "compassion"
   },
   {
    "surface": "இன்று",
    "parts": [
     {
      "text": "இன்று",
-     "lemma": "இல்",
-     "gloss": "is without"
+     "lemma": "இன்று",
+     "gloss": "without"
     }
    ],
-   "gloss": "is without"
+   "gloss": "without"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "யான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -76,22 +76,24 @@
    "parts": [
     {
      "text": "நெஞ்சத்தை",
-     "lemma": "நெஞ்சம்",
-     "gloss": "heart (accusative)"
+     "lemma": "நெஞ்சத்தை",
+     "gloss": "heart"
     }
    ],
-   "gloss": "heart"
+   "gloss": "heart",
+   "split_unverified": true
   },
   {
    "surface": "யாமத்தும்",
    "parts": [
     {
      "text": "யாமத்தும்",
-     "lemma": "யாமம்",
+     "lemma": "யாமத்தும்",
      "gloss": "even at midnight"
     }
    ],
-   "gloss": "even at midnight"
+   "gloss": "even at midnight",
+   "split_unverified": true
   },
   {
    "surface": "ஆளும்",
@@ -110,16 +112,16 @@
     {
      "text": "தொழில்",
      "lemma": "தொழில்",
-     "gloss": "action"
+     "gloss": "task"
     }
    ],
-   "gloss": "action"
+   "gloss": "task"
   }
  ],
- "literal": "Love saying one-thing-alas mercy is-without; my heart at-midnight-even ruling action.",
- "translation": "This thing called love has no mercy; its only work is to rule my heart even at midnight.",
- "modern": "காமம் என்று சொல்லப்படும் ஒன்றுக்குக் கருணையே இல்லை; நள்ளிரவிலும் அது என் நெஞ்சத்தை ஆளும் செயலைக் கொண்டுள்ளது.",
- "explanation": "The speaker laments the relentless nature of her love and longing. She notes that the affliction called love lacks any mercy or consideration for her suffering. Its sole occupation is to dominate and torment her heart unceasingly, keeping her awake and restless even during the dead of night when all else rests.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Passion called one thing, compassion without, my heart, even at midnight, ruling task.",
+ "translation": "This thing called passion has no compassion; its only task is to rule over my heart even at the dead of night.",
+ "modern": "காமம் என்று சொல்லப்படும் ஒன்று இரக்கமே இல்லாமல், நள்ளிரவிலும் என் நெஞ்சத்தை ஆளுகின்ற தொழிலைச் செய்கிறது.",
+ "explanation": "The heroine laments her helplessness against her overwhelming desire. She describes passion (காமம்) as a merciless entity that lacks 'கண்' (which here means regard or compassion) for her suffering. Even during 'யாமம்' (midnight), when the rest of the world is asleep and she ought to rest, passion continues its relentless task ('தொழில்') of dominating her mind ('நெஞ்சத்தை').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

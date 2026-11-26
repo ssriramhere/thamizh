@@ -6,7 +6,7 @@
     {
      "text": "புல்",
      "lemma": "புல்",
-     "gloss": "mean"
+     "gloss": "low/ignorant"
     },
     {
      "text": "அவை",
@@ -19,14 +19,14 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in a mean assembly"
+   "gloss": "in the assembly of the ignorant"
   },
   {
    "surface": "பொச்சாந்தும்",
    "parts": [
     {
      "text": "பொச்சாந்து",
-     "lemma": "பொச்சா",
+     "lemma": "பொச்சாத்தல்",
      "gloss": "having forgotten"
     },
     {
@@ -35,28 +35,18 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even forgetfully"
+   "gloss": "even by forgetfulness"
   },
   {
    "surface": "சொல்லற்க",
    "parts": [
     {
-     "text": "சொல்",
-     "lemma": "சொல்",
-     "gloss": "speak"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "negative"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative"
+     "text": "சொல்லற்க",
+     "lemma": "சொல்லுதல்",
+     "gloss": "do not speak"
     }
    ],
-   "gloss": "let them not speak"
+   "gloss": "do not speak"
   },
   {
    "surface": "நல்லவையுள்",
@@ -64,7 +54,7 @@
     {
      "text": "நல்",
      "lemma": "நல்",
-     "gloss": "good"
+     "gloss": "good/wise"
     },
     {
      "text": "அவை",
@@ -77,7 +67,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in a good assembly"
+   "gloss": "in the assembly of the wise"
   },
   {
    "surface": "நன்கு",
@@ -95,38 +85,28 @@
    "parts": [
     {
      "text": "சல",
-     "lemma": "செல்",
-     "gloss": "to reach"
+     "lemma": "செல",
+     "gloss": "to penetrate or be received"
     }
    ],
-   "gloss": "to reach (be accepted)"
+   "gloss": "so as to be received"
   },
   {
    "surface": "சொல்லுவார்",
    "parts": [
     {
-     "text": "சொல்லு",
-     "lemma": "சொல்",
-     "gloss": "speak"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "text": "சொல்லுவார்",
+     "lemma": "சொல்லுவார்",
+     "gloss": "those who speak"
     }
    ],
    "gloss": "those who speak"
   }
  ],
- "literal": "In a mean assembly, even forgetfully, let them not speak, in a good assembly well to reach those who speak.",
- "translation": "Those who can speak well and convincingly in an assembly of the good should never, even forgetfully, speak in an assembly of the ignorant.",
- "modern": "நல்லோர் அவையில் கருத்துக்கள் நன்றாகப் பதியும்படி பேசும் திறமையுடையவர்கள், அறிவில்லாதவர்களின் அவையில் மறந்தும் பேசக்கூடாது.",
- "explanation": "This couplet advises wise speakers to avoid sharing their knowledge with an unworthy audience. The phrase 'நல்லவையுள் நன்கு சலச் சொல்லுவார்' refers to those who have the skill to speak effectively and be well-received among the learned (note: 'சல' here functions as a variant of 'செல', meaning to go, reach, or be accepted). Such capable people are warned not to speak 'புல்லவையுள்' (in a mean or ignorant assembly) even by mistake ('பொச்சாந்தும்'). Speaking to those who cannot appreciate the message is a waste of wisdom and diminishes the speaker's dignity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the assembly of the ignorant, even by forgetfulness, do not speak, those who speak well so as to be received in the assembly of the wise.",
+ "translation": "Those who are capable of speaking in a wise assembly so that their words are well received should not, even by forgetfulness, speak in an assembly of the ignorant.",
+ "modern": "அறிவுடையோர் கூடியிருக்கும் நல்ல அவையில், கேட்பவர் மனதில் பதியும்படி நன்றாகப் பேச வல்லவர்கள், அறிவில்லாதவர்களின் புல்லவையில் மறந்தும் பேசக் கூடாது.",
+ "explanation": "This couplet advises skilled speakers on where to avoid speaking. Those who possess the rare talent of speaking effectively in an assembly of wise and noble people (நல்லவை) should never speak in an assembly of the ignorant or low-minded (புல்லவை), even by a slip of the mind or forgetfulness (பொச்சாந்தும்). The word 'சல' (often read as 'செல') means 'to go into' or 'to be received/understood' by the audience. Speaking to an audience that cannot appreciate or comprehend wisdom is futile and diminishes the speaker's value.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

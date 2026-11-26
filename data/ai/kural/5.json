@@ -6,7 +6,7 @@
     {
      "text": "இருள்",
      "lemma": "இருள்",
-     "gloss": "darkness"
+     "gloss": "darkness or ignorance"
     }
    ],
    "gloss": "darkness"
@@ -17,23 +17,23 @@
     {
      "text": "சேர்",
      "lemma": "சேர்",
-     "gloss": "joining"
+     "gloss": "to join or associate"
     }
    ],
-   "gloss": "joining"
+   "gloss": "associated with"
   },
   {
    "surface": "இருவினையும்",
    "parts": [
     {
      "text": "இரு",
-     "lemma": "இரு",
+     "lemma": "இரண்டு",
      "gloss": "two"
     },
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "deeds or karma"
     },
     {
      "text": "உம்",
@@ -41,7 +41,7 @@
      "gloss": "both"
     }
    ],
-   "gloss": "both actions"
+   "gloss": "both kinds of deeds (good and bad)"
   },
   {
    "surface": "சேரா",
@@ -54,10 +54,10 @@
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not (negative suffix)"
     }
    ],
-   "gloss": "will not join"
+   "gloss": "will not cling to"
   },
   {
    "surface": "இறைவன்",
@@ -65,10 +65,10 @@
     {
      "text": "இறைவன்",
      "lemma": "இறைவன்",
-     "gloss": "God"
+     "gloss": "the Lord or supreme being"
     }
    ],
-   "gloss": "God"
+   "gloss": "the Lord"
   },
   {
    "surface": "பொருள்",
@@ -76,10 +76,10 @@
     {
      "text": "பொருள்",
      "lemma": "பொருள்",
-     "gloss": "reality"
+     "gloss": "truth or reality"
     }
    ],
-   "gloss": "reality"
+   "gloss": "truth"
   },
   {
    "surface": "சேர்",
@@ -87,10 +87,10 @@
     {
      "text": "சேர்",
      "lemma": "சேர்",
-     "gloss": "joining"
+     "gloss": "to join or associate"
     }
    ],
-   "gloss": "joining"
+   "gloss": "associated with"
   },
   {
    "surface": "புகழ்",
@@ -98,21 +98,26 @@
     {
      "text": "புகழ்",
      "lemma": "புகழ்",
-     "gloss": "glory"
+     "gloss": "praise or glory"
     }
    ],
-   "gloss": "glory"
+   "gloss": "praise"
   },
   {
    "surface": "புரிந்தார்",
    "parts": [
     {
-     "text": "புரிந்தார்",
+     "text": "புரி",
      "lemma": "புரி",
-     "gloss": "those who desired"
+     "gloss": "to desire or cherish"
+    },
+    {
+     "text": "ந்தார்",
+     "lemma": "அர்",
+     "gloss": "those who did (past third-person plural)"
     }
    ],
-   "gloss": "those who desired"
+   "gloss": "those who cherished"
   },
   {
    "surface": "மாட்டு",
@@ -120,16 +125,16 @@
     {
      "text": "மாட்டு",
      "lemma": "மாட்டு",
-     "gloss": "with"
+     "gloss": "with or towards (locative marker)"
     }
    ],
    "gloss": "with"
   }
  ],
- "literal": "Darkness-joining two-actions-both will-not-join God's reality-joining glory those-who-desired with.",
- "translation": "The two kinds of actions born of darkness will not touch those who love the true glory of God.",
- "modern": "இறைவனின் உண்மையான புகழை விரும்பிப் போற்றுபவர்களிடம், அறியாமை என்னும் இருளால் வரும் நல்வினை, தீவினை ஆகிய இரண்டு வினைகளும் சேராது.",
- "explanation": "This couplet explains how devotion frees a person from the cycle of karma. The phrase iruḷ cēr iruviṉai refers to the two types of actions, good and bad, that stem from the darkness of delusion or ignorance. These actions bind the soul to the cycle of birth and death. However, these actions will not attach themselves to those who love and meditate upon the true, meaningful glory of God. By focusing on the ultimate reality, the devotee transcends the ignorance that causes worldly karma.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Darkness-associated both-deeds will-not-cling, the Lord's truth-associated praise those-who-cherished with.",
+ "translation": "The two-fold deeds born of dark ignorance will never cling to those who sincerely cherish the true praise of the Lord.",
+ "modern": "இறைவனுடைய மெய்யான புகழை விரும்பிப் போற்றுபவர்களிடம், அறியாமை என்னும் இருளினால் உண்டாகும் நல்வினை தீவினை ஆகிய இருவினைகளும் சேரமாட்டா.",
+ "explanation": "This couplet explains how devotion frees a person from the cycle of action and consequence. The word 'இருள்' (darkness) represents spiritual ignorance, which is the root cause of all human actions. The 'இருவினை' (two-fold deeds) refer to both good and bad deeds, both of which bind the soul to worldly existence. By focusing on the 'பொருள்சேர் புகழ்' (true praise) of the supreme being, a person overcomes this ignorance. Consequently, they are freed from the binding nature of karma, as actions no longer cling to them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,54 +11,39 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "instrumental case suffix"
     }
    ],
-   "gloss": "in reality"
+   "gloss": "in the waking state"
   },
   {
    "surface": "நல்காரை",
    "parts": [
     {
-     "text": "நல்கு",
-     "lemma": "நல்கு",
-     "gloss": "to show love"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they who do not"
+     "text": "நல்கார்",
+     "lemma": "நல்கார்",
+     "gloss": "those who do not bestow love"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who do not show love (acc.)"
+   "gloss": "those who do not bestow love"
   },
   {
    "surface": "நோவர்",
    "parts": [
     {
-     "text": "நோ",
+     "text": "நோவர்",
      "lemma": "நோ",
-     "gloss": "to blame"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "they will blame"
     }
    ],
    "gloss": "they will blame"
@@ -74,15 +59,15 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "in"
+     "gloss": "instrumental case suffix"
     }
    ],
-   "gloss": "in dreams"
+   "gloss": "in dream"
   },
   {
    "surface": "காதலர்",
@@ -99,33 +84,18 @@
    "surface": "காணாதவர்",
    "parts": [
     {
-     "text": "காண்",
-     "lemma": "காண்",
-     "gloss": "to see"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அவர்",
-     "lemma": "அவர்",
-     "gloss": "those who"
+     "text": "காணாதவர்",
+     "lemma": "காணாதவர்",
+     "gloss": "those who do not see"
     }
    ],
    "gloss": "those who do not see"
   }
  ],
- "literal": "In reality, those who do not show love, they will blame - in dreams, the lover, those who do not see.",
- "translation": "Only those who do not see their lover in dreams will blame him for not showing love in reality.",
- "modern": "கனவில் தம் காதலரைக் காணாதவர்கள் மட்டுமே, நனவில் வந்து அன்பு செய்யாத அவரை நொந்துகொள்வார்கள்.",
- "explanation": "The heroine speaks of how dreams help her endure her lover's absence. She declares that only women who fail to see their lover in dreams will blame him for not showing love in the waking state. Since her dreams grant her the illusion of his presence and affection, she is spared from resenting his actual absence. The word 'நோவர்' (they will blame or suffer) emphasizes the bitterness of total separation, which she avoids through the comfort of her dreams.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the waking state, those who do not bestow love, they will blame; in dream, their lover, those who do not see.",
+ "translation": "Only those who do not see their lover in their dreams will blame him for not showing love in the waking state.",
+ "modern": "கனவில் தன் காதலரைக் காணப் பெறாதவர்களே, நனவில் தமக்கு அன்பு செய்யாத காதலரை நொந்து கொள்வார்கள்.",
+ "explanation": "The heroine explains that she has no reason to complain about her lover's absence or lack of affection during the day. She asserts that only women who are unable to meet their lovers in their dreams (கனவினால் காதலர்க் காணாதவர்) will feel pained and blame them (நோவர்) for not showing love in the waking state (நனவினால் நல்காரை). Since her lover constantly visits and unites with her in her dreams, she remains content and free from resentment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,26 +6,21 @@
     {
      "text": "திறன்",
      "lemma": "திறன்",
-     "gloss": "proper thing"
+     "gloss": "proper conduct"
     }
    ],
-   "gloss": "proper things"
+   "gloss": "proper conduct"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "things that are not"
     }
    ],
-   "gloss": "are not"
+   "gloss": "improper things"
   },
   {
    "surface": "தன்",
@@ -33,7 +28,7 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "oneself"
+     "gloss": "to oneself"
     }
    ],
    "gloss": "to oneself"
@@ -58,14 +53,9 @@
      "gloss": "do"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
+     "text": "இனும்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if"
     }
    ],
    "gloss": "even if they do"
@@ -76,7 +66,7 @@
     {
      "text": "நோ",
      "lemma": "நோ",
-     "gloss": "pain"
+     "gloss": "pain or suffering"
     }
    ],
    "gloss": "pain"
@@ -87,10 +77,10 @@
     {
      "text": "நொந்து",
      "lemma": "நோ",
-     "gloss": "having grieved"
+     "gloss": "having felt pain"
     }
    ],
-   "gloss": "having grieved"
+   "gloss": "feeling pain"
   },
   {
    "surface": "அறன்",
@@ -107,17 +97,12 @@
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "things that are not"
     }
    ],
-   "gloss": "are not"
+   "gloss": "unvirtuous things"
   },
   {
    "surface": "செய்யாமை",
@@ -130,7 +115,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not (nominal suffix)"
     }
    ],
    "gloss": "not doing"
@@ -140,17 +125,17 @@
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நல்",
-     "gloss": "good-it"
+     "lemma": "நன்று",
+     "gloss": "is good"
     }
    ],
    "gloss": "is good"
   }
  ],
- "literal": "Proper things not-they to oneself others even if do, pain having grieved, virtue not-they non-doing is good.",
- "translation": "Even if others do improper things to you, it is good to grieve for the pain it causes and refrain from doing unvirtuous things in return.",
- "modern": "பிறர் தனக்குத் தகுதியற்ற தீமைகளைச் செய்தாலும், அதனால் வரும் துன்பத்திற்காக வருந்தி, அறமல்லாத செயல்களைத் தான் செய்யாதிருத்தல் நல்லது.",
- "explanation": "The couplet teaches that one should not retaliate against those who do wrong. The word 'திறனல்ல' refers to actions that are improper or unjust. When others commit such acts against us, we should feel sorrow ('நோ நொந்து') for the pain that evil inevitably brings, rather than seeking revenge. True forbearance is choosing not to commit unvirtuous acts ('அறனல்ல செய்யாமை'), thereby breaking the cycle of harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if others do improper things to oneself, feeling pain and not doing unvirtuous things is good.",
+ "translation": "Even if others do improper and harmful things to you, it is best to feel pity for the pain they might suffer and refrain from doing anything unvirtuous in return.",
+ "modern": "தமக்குத் தகுதியில்லாத தீமைகளைப் பிறர் செய்தாலும், அதனால் வரும் துன்பத்திற்கு வருந்தி, அறமல்லாத செயல்களை அவர்களுக்குச் செய்யாமல் இருப்பதே நல்லது.",
+ "explanation": "This couplet highlights the peak of patience and forbearance. When others do improper or harmful things (tiṟaṉalla) to us, our natural reaction might be revenge. However, the poet advises us to feel pity or sorrow (nō nōntu) for the pain or consequences that the wrongdoer might face, and to absolutely refrain from returning unvirtuous deeds (aṟaṉalla ceyyāmai). By choosing not to retaliate, we preserve our own virtue and demonstrate true strength of character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

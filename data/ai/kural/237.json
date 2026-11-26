@@ -11,7 +11,7 @@
     {
      "text": "பட",
      "lemma": "படு",
-     "gloss": "to arise"
+     "gloss": "to accrue or arise"
     }
    ],
    "gloss": "so that fame arises"
@@ -20,9 +20,14 @@
    "surface": "வாழாதார்",
    "parts": [
     {
-     "text": "வாழாதார்",
+     "text": "வாழ்",
      "lemma": "வாழ்",
-     "gloss": "those who do not live"
+     "gloss": "live"
+    },
+    {
+     "text": "ஆதார்",
+     "lemma": "ஆதார்",
+     "gloss": "they who do not"
     }
    ],
    "gloss": "those who do not live"
@@ -33,45 +38,61 @@
     {
      "text": "தந்நோவார்",
      "lemma": "தந்நோவார்",
-     "gloss": "they will not blame themselves"
+     "gloss": "they do not blame themselves"
     }
    ],
-   "gloss": "they will not blame themselves"
+   "gloss": "they do not blame themselves",
+   "split_unverified": true
   },
   {
    "surface": "தம்மை",
    "parts": [
     {
-     "text": "தம்மை",
-     "lemma": "தாம்",
+     "text": "தம்",
+     "lemma": "தம்",
      "gloss": "themselves"
+    },
+    {
+     "text": "ஐ",
+     "lemma": "ஐ",
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "themselves (accusative)"
+   "gloss": "themselves"
   },
   {
    "surface": "இகழ்வாரை",
    "parts": [
     {
-     "text": "இகழ்வார்",
+     "text": "இகழ்",
      "lemma": "இகழ்",
-     "gloss": "those who despise"
+     "gloss": "despise"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "they who"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "those who despise (accusative)"
+   "gloss": "those who despise them"
   },
   {
    "surface": "நோவது",
    "parts": [
     {
-     "text": "நோவது",
+     "text": "நோ",
      "lemma": "நோ",
-     "gloss": "blaming"
+     "gloss": "grieve or blame"
+    },
+    {
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "blaming"
@@ -82,16 +103,16 @@
     {
      "text": "எவன்",
      "lemma": "எவன்",
-     "gloss": "what"
+     "gloss": "what or why"
     }
    ],
-   "gloss": "what (is the use)"
+   "gloss": "what is the use"
   }
  ],
- "literal": "Fame-arising those-who-live-not themselves-blame-not; themselves those-who-despise blaming what?",
- "translation": "Those who do not live a life worthy of fame do not blame themselves. What is the point of them blaming those who despise them?",
- "modern": "புகழ் உண்டாகும்படி வாழாதவர்கள் தங்கள் குறையை எண்ணித் தங்களை நொந்துகொள்ள மாட்டார்கள். ஆனால், தங்களை இகழ்ந்து பேசுபவர்களை அவர்கள் நொந்துகொள்வதால் என்ன பயன்?",
- "explanation": "The couplet addresses those who fail to live a life worthy of fame. Instead of recognizing their own flaws and blaming themselves, they often get angry at others who mock them. The poet asks what purpose it serves to blame their critics. The word 'தந்நோவார்' means they will not blame themselves, highlighting their lack of self-reflection. 'நோவது' refers to the act of blaming or feeling pain, emphasizing the misdirected resentment towards their detractors.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who do not live so that fame arises do not blame themselves; what is the use of blaming those who despise them?",
+ "translation": "What is the point of blaming those who despise them, when those who fail to live a life of fame do not blame themselves?",
+ "modern": "புகழ் உண்டாகும்படி வாழாதவர்கள் தம்மைத் தாமே நொந்து கொள்ளாமல், தம்மை இகழ்ந்து பேசுபவர்களை நொந்து கொள்வதால் என்ன பயன்?",
+ "explanation": "This couplet explains that a person who does not live a life worthy of earning fame has only themselves to blame. The word 'tannōvār' (from 'tam' and 'nōvār') shows that such people fail to self-reflect or hold themselves accountable for their lack of reputation. Instead of correcting their own path, they get upset at others who mock or look down on them. The poet asks what possible use there is in blaming others when the root of the problem lies entirely within oneself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

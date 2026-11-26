@@ -4,45 +4,65 @@
    "surface": "நோவற்க",
    "parts": [
     {
-     "text": "நோவற்க",
+     "text": "நோ",
      "lemma": "நோ",
-     "gloss": "do not express pain"
+     "gloss": "suffer"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not"
     }
    ],
-   "gloss": "do not express pain"
+   "gloss": "do not complain of suffering"
   },
   {
    "surface": "நொந்தது",
    "parts": [
     {
-     "text": "நொந்தது",
-     "lemma": "நொ",
-     "gloss": "that which pained"
+     "text": "நொந்து",
+     "lemma": "நோ",
+     "gloss": "having suffered"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that"
     }
    ],
-   "gloss": "that which pained"
+   "gloss": "the pain suffered"
   },
   {
    "surface": "அறியார்க்கு",
    "parts": [
     {
-     "text": "அறியார்க்கு",
-     "lemma": "அறி",
-     "gloss": "to those who do not know"
+     "text": "அறியார்",
+     "lemma": "அறியார்",
+     "gloss": "those who do not know"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who do not know"
+   "gloss": "to those who do not understand"
   },
   {
    "surface": "மேவற்க",
    "parts": [
     {
-     "text": "மேவற்க",
+     "text": "மேவு",
      "lemma": "மேவு",
-     "gloss": "do not display"
+     "gloss": "show"
+    },
+    {
+     "text": "அற்க",
+     "lemma": "அற்க",
+     "gloss": "do not"
     }
    ],
-   "gloss": "do not display"
+   "gloss": "do not show"
   },
   {
    "surface": "மென்மை",
@@ -78,10 +98,10 @@
    "gloss": "in the presence of"
   }
  ],
- "literal": "Do not express pain, that which pained, to those who do not know; do not display weakness enemies in the presence of.",
- "translation": "Do not express your pain to those who cannot understand it. Do not display your weakness in the presence of your enemies.",
- "modern": "உங்கள் துன்பத்தை அதனைப் புரிந்து கொள்ளாதவர்களிடம் சொல்லாதீர்கள். உங்கள் பலவீனத்தை பகைவர்களிடத்தில் வெளிப்படுத்தாதீர்கள்.",
- "explanation": "The couplet advises caution in revealing one's vulnerabilities to the wrong people. It warns against sharing grief with those who lack the empathy to understand it, as it brings no comfort. Similarly, it counsels against showing any sign of weakness to enemies, as they will exploit it to their advantage. The parallel commands 'நோவற்க' (do not express pain) and 'மேவற்க' (do not display) emphasize guarding one's inner state.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Do not complain of the pain suffered to those who do not understand; do not show weakness in the presence of enemies.",
+ "translation": "Do not complain of your suffering to those who cannot understand it, and do not reveal your weakness in the presence of your enemies.",
+ "modern": "தன் துன்பத்தை உணராதவர்களிடம் அதற்காக வருந்திப் பேசக் கூடாது; பகைவர்களிடத்தில் தன் பலவீனத்தைக் காட்டிக் கொள்ளக் கூடாது.",
+ "explanation": "This couplet offers practical wisdom on maintaining personal strength and strategic caution. First, it advises against sharing one's pain (நொந்தது) with people who lack the empathy or capacity to understand it (அறியார்க்கு), as doing so is futile and only invites pity or contempt. Second, it warns against showing any vulnerability or weakness (மென்மை) in front of enemies (பகைவர் அகத்து). By keeping one's suffering private and maintaining a strong front, one prevents adversaries from finding a point of vulnerability to exploit.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

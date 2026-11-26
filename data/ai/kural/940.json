@@ -4,23 +4,43 @@
    "surface": "இழத்தொறூஉம்",
    "parts": [
     {
-     "text": "இழத்தொறூஉம்",
-     "lemma": "இழத்தொறும்",
-     "gloss": "every time one loses"
+     "text": "இழ",
+     "lemma": "இழ",
+     "gloss": "to lose"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi consonant"
+    },
+    {
+     "text": "தொறூஉம்",
+     "lemma": "தொறும்",
+     "gloss": "every time / as often as"
     }
    ],
-   "gloss": "every time one loses"
+   "gloss": "as often as one loses"
   },
   {
    "surface": "காதலிக்கும்",
    "parts": [
     {
-     "text": "காதலிக்கும்",
+     "text": "காதலி",
      "lemma": "காதலி",
-     "gloss": "will desire"
+     "gloss": "to desire / love"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "sandhi"
+    },
+    {
+     "text": "கும்",
+     "lemma": "கும்",
+     "gloss": "habitual future suffix"
     }
    ],
-   "gloss": "will desire"
+   "gloss": "desires / loves"
   },
   {
    "surface": "சூதே",
@@ -33,7 +53,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis particle"
     }
    ],
    "gloss": "gambling indeed"
@@ -44,7 +64,7 @@
     {
      "text": "போல்",
      "lemma": "போல்",
-     "gloss": "like"
+     "gloss": "like / similar to"
     }
    ],
    "gloss": "like"
@@ -55,32 +75,47 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "suffering / pain"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "suffering"
   },
   {
    "surface": "உழத்தொறூஉம்",
    "parts": [
     {
-     "text": "உழத்தொறூஉம்",
-     "lemma": "உழத்தொறும்",
-     "gloss": "every time one suffers"
+     "text": "உழ",
+     "lemma": "உழ",
+     "gloss": "to suffer / endure"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "sandhi consonant"
+    },
+    {
+     "text": "தொறூஉம்",
+     "lemma": "தொறும்",
+     "gloss": "every time / as often as"
     }
    ],
-   "gloss": "every time one suffers"
+   "gloss": "as often as it suffers"
   },
   {
    "surface": "காதற்று",
    "parts": [
     {
-     "text": "காதற்று",
-     "lemma": "காதற்று",
-     "gloss": "it has desire"
+     "text": "காதல்",
+     "lemma": "காதல்",
+     "gloss": "love / attachment"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "has / is of the nature of"
     }
    ],
-   "gloss": "it has desire"
+   "gloss": "has love / attachment"
   },
   {
    "surface": "உயிர்",
@@ -88,16 +123,16 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "life / soul"
     }
    ],
-   "gloss": "life"
+   "gloss": "the soul / life"
   }
  ],
- "literal": "every time one loses, will desire, gambling indeed, like, sorrow, every time one suffers, it has desire, life",
- "translation": "Just as a gambler desires the game even more every time he loses, the soul clings to life with desire every time it suffers sorrow.",
- "modern": "சூதாட்டத்தில் பொருளை இழக்க இழக்க அதன்மேல் ஆசை பெருகுவது போல, துன்பத்தை அனுபவிக்க அனுபவிக்க உயிரானது வாழ்வின் மேல் ஆசை கொள்கிறது.",
- "explanation": "This couplet compares the soul's attachment to life with a gambler's addiction to the game. Even when a gambler loses everything, his desire to play only increases. Similarly, even when a person experiences continuous sorrow and suffering, the soul does not want to let go, but clings to life with even greater desire. The rhyming words 'இழத்தொறூஉம்' (every time one loses) and 'உழத்தொறூஉம்' (every time one suffers) beautifully parallel this addictive attachment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "As often as losing, desires, gambling-indeed like, suffering as often as, has love, the soul.",
+ "translation": "Just as a gambler loves play all the more as he loses, so does the soul love life all the more as it suffers pain.",
+ "modern": "சூதாட்டத்தில் இழக்க இழக்க மேலும் அதன் மேல் ஆசை கொள்ளும் சூதனைப் போல, துன்பங்களை அனுபவிக்க அனுபவிக்க இவ்வுயிர் உடலின் மேல் மேலும் பற்று வைக்கிறது.",
+ "explanation": "This couplet uses a striking analogy to describe the persistent nature of attachment. The word 'இழத்தொறூஉம்' (as often as one loses) is paired with 'உழத்தொறூஉம்' (as often as one suffers) to show parallel behaviors. Just as a gambler cannot walk away and desires the game even more with every loss, the soul ('உயிர்') develops an even stronger attachment ('காதற்று') to worldly life the more it undergoes suffering ('துன்பம்'). The poet highlights the irrationality of human attachment through the self-destructive obsession of gambling.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

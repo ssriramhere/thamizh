@@ -17,15 +17,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not-being"
+     "gloss": "not being"
     },
     {
      "text": "வழி",
      "lemma": "வழி",
-     "gloss": "time"
+     "gloss": "when"
     }
    ],
-   "gloss": "when absent"
+   "gloss": "when [he] is absent"
   },
   {
    "surface": "மாலை",
@@ -49,10 +49,10 @@
     {
      "text": "களத்து",
      "lemma": "களம்",
-     "gloss": "at the field"
+     "gloss": "on the field"
     }
    ],
-   "gloss": "at the execution ground"
+   "gloss": "on the execution ground"
   },
   {
    "surface": "ஏதிலர்",
@@ -60,10 +60,10 @@
     {
      "text": "ஏதிலர்",
      "lemma": "ஏதிலர்",
-     "gloss": "strangers/enemies"
+     "gloss": "enemies"
     }
    ],
-   "gloss": "enemies"
+   "gloss": "hostile strangers"
   },
   {
    "surface": "போல",
@@ -71,7 +71,7 @@
     {
      "text": "போல",
      "lemma": "போல்",
-     "gloss": "to resemble"
+     "gloss": "like"
     }
    ],
    "gloss": "like"
@@ -82,16 +82,16 @@
     {
      "text": "வரும்",
      "lemma": "வா",
-     "gloss": "will come"
+     "gloss": "comes"
     }
    ],
    "gloss": "comes"
   }
  ],
- "literal": "Lover when absent, evening, at the execution ground enemies like, comes.",
- "translation": "When my lover is absent, the evening approaches like ruthless enemies at the execution ground.",
- "modern": "காதலர் அருகில் இல்லாத போது, இந்த மாலைப் பொழுது கொலைக்களத்தில் நிற்கும் பகைவர்களைப் போல என்னை வதைக்க வருகிறது.",
- "explanation": "The speaker expresses the unbearable agony of twilight when separated from her lover. The evening, which normally brings lovers together, is personified as a deadly threat. The word 'ஏதிலர்' generally means strangers, but placed in a 'கொலைக்களம்' (execution ground), it takes the specific sense of merciless executioners or enemies. This stark image conveys how the loneliness of the evening feels like an impending, inescapable death.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "When the lover is absent, evening, like hostile strangers on an execution ground, comes.",
+ "translation": "In the absence of my lover, the evening arrives like ruthless executioners entering a killing ground.",
+ "modern": "காதலர் இல்லாதபோது, மாலைப் பொழுது கொலைக்களத்தில் வரும் பகைவர்களைப் போலக் கொடியதாக வருகிறது.",
+ "explanation": "This couplet captures the deep anguish of a woman separated from her partner as night falls. The evening, which would normally be a time of joyful reunion, becomes a source of immense torment in his absence. The poet compares the arrival of evening to the arrival of hostile executioners (ஏதிலர்) on a killing field (கொலைக்களம்). Just as executioners bring swift and merciless death to those on the scaffold, the onset of evening ruthlessly assaults the lonely heroine's heart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

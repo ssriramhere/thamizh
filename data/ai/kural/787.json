@@ -6,15 +6,15 @@
     {
      "text": "அழிவு",
      "lemma": "அழிவு",
-     "gloss": "ruin"
+     "gloss": "ruin or wrong path"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "from"
+     "gloss": "from (ablative case marker)"
     }
    ],
-   "gloss": "from ruin"
+   "gloss": "from ruin or wrong path"
   },
   {
    "surface": "அவை",
@@ -22,10 +22,10 @@
     {
      "text": "அவை",
      "lemma": "அவை",
-     "gloss": "those"
+     "gloss": "those things"
     }
    ],
-   "gloss": "those (bad things)"
+   "gloss": "those (evil things)"
   },
   {
    "surface": "நீக்கி",
@@ -33,10 +33,10 @@
     {
      "text": "நீக்கி",
      "lemma": "நீக்கு",
-     "gloss": "having removed"
+     "gloss": "having removed or diverted"
     }
    ],
-   "gloss": "having removed"
+   "gloss": "having diverted"
   },
   {
    "surface": "ஆறு",
@@ -44,10 +44,10 @@
     {
      "text": "ஆறு",
      "lemma": "ஆறு",
-     "gloss": "path"
+     "gloss": "right path or way of virtue"
     }
    ],
-   "gloss": "path"
+   "gloss": "in the right path"
   },
   {
    "surface": "உய்த்து",
@@ -55,10 +55,10 @@
     {
      "text": "உய்த்து",
      "lemma": "உய்",
-     "gloss": "having led"
+     "gloss": "having guided or led"
     }
    ],
-   "gloss": "having led"
+   "gloss": "having guided"
   },
   {
    "surface": "அழிவின்கண்",
@@ -66,17 +66,17 @@
     {
      "text": "அழிவு",
      "lemma": "அழிவு",
-     "gloss": "ruin"
+     "gloss": "ruin or distress"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case marker"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "at"
+     "gloss": "at or during (locative case marker)"
     }
    ],
    "gloss": "at the time of ruin"
@@ -87,21 +87,21 @@
     {
      "text": "அல்லல்",
      "lemma": "அல்லல்",
-     "gloss": "sorrow"
+     "gloss": "suffering or grief"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "suffering"
   },
   {
    "surface": "உழப்பது",
    "parts": [
     {
      "text": "உழப்பது",
-     "lemma": "உழ",
-     "gloss": "the act of suffering"
+     "lemma": "உழத்தல்",
+     "gloss": "enduring or sharing"
     }
    ],
-   "gloss": "suffering"
+   "gloss": "enduring or sharing"
   },
   {
    "surface": "ஆம்",
@@ -109,7 +109,7 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "is"
+     "gloss": "is or becomes"
     }
    ],
    "gloss": "is"
@@ -126,10 +126,10 @@
    "gloss": "friendship"
   }
  ],
- "literal": "From ruin having removed those (bad things), having led on the path, at the time of ruin suffering sorrow is friendship.",
- "translation": "True friendship removes a friend from ruinous ways, guides them onto the right path, and shares their sorrow in times of unavoidable ruin.",
- "modern": "அழிவைத் தரும் செயல்களிலிருந்து நண்பனை விலக்கி, அவனை நல்ல வழியில் செலுத்தி, அவனுக்கு ஒரு துன்பம் வரும்போது அவனுடன் சேர்ந்து அத்துன்பத்தைப் பகிர்ந்துகொள்வதே உண்மையான நட்பாகும்.",
- "explanation": "This couplet defines the active and supportive nature of true friendship. The first half emphasizes moral guidance: a friend removes one from ruinous paths and steers them toward the right way. The second half highlights unwavering support during unavoidable hardships: if ruin still strikes, true friendship means sharing and enduring that sorrow together. The word 'உழப்பது' conveys a deep, shared toiling or suffering, showing that a friend does not abandon one in distress.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Diverting from ruinous things, guiding in the right path, and sharing the suffering at the time of ruin is friendship.",
+ "translation": "True friendship is that which diverts one from ruinous paths, guides them along the path of virtue, and shares in their suffering when misfortune strikes.",
+ "modern": "தீய வழியிலிருந்து விலக்கி, நல்வழியில் செலுத்தி, துன்பம் வரும்போது உடன் இருந்து அந்தத் துன்பத்தைப் பகிர்ந்துகொள்வதே நட்பாகும்.",
+ "explanation": "This couplet defines the active duties of a true friend. A real friend does not stand by idly; they actively steer one away from harmful paths and actions that lead to ruin. They then direct and guide one toward the path of virtue and goodness. Finally, if misfortune or ruin does strike, a true friend does not abandon them but stays to endure and share the grief and suffering.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

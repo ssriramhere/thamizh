@@ -4,27 +4,12 @@
    "surface": "விழித்த",
    "parts": [
     {
-     "text": "விழி",
+     "text": "விழித்த",
      "lemma": "விழி",
-     "gloss": "to glare"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "relative participle marker"
+     "gloss": "stared"
     }
    ],
-   "gloss": "glared"
+   "gloss": "staring wide"
   },
   {
    "surface": "கண்",
@@ -35,7 +20,7 @@
      "gloss": "eye"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "eye"
   },
   {
    "surface": "வேல்",
@@ -53,29 +38,19 @@
    "parts": [
     {
      "text": "கொணடு",
-     "lemma": "கொள்",
+     "lemma": "கொண்டு",
      "gloss": "having taken"
     }
    ],
-   "gloss": "having taken"
+   "gloss": "having taken / wielding"
   },
   {
    "surface": "எறிய",
    "parts": [
     {
-     "text": "எறி",
+     "text": "எறிய",
      "lemma": "எறி",
      "gloss": "to throw"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive marker"
     }
    ],
    "gloss": "to throw"
@@ -84,48 +59,23 @@
    "surface": "அழித்து",
    "parts": [
     {
-     "text": "அழி",
+     "text": "அழித்து",
      "lemma": "அழி",
-     "gloss": "to destroy"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "adverbial participle marker"
+     "gloss": "having yielded"
     }
    ],
-   "gloss": "destroying"
+   "gloss": "losing focus / yielding"
   },
   {
    "surface": "இமைப்பின்",
    "parts": [
     {
-     "text": "இமை",
+     "text": "இமைப்பின்",
      "lemma": "இமை",
-     "gloss": "to blink"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "conditional marker"
+     "gloss": "if blinks"
     }
    ],
-   "gloss": "if blinked"
+   "gloss": "if one blinks"
   },
   {
    "surface": "ஒட்டு",
@@ -136,50 +86,40 @@
      "gloss": "defeat"
     }
    ],
-   "gloss": "defeat"
+   "gloss": "defeat / retreat"
   },
   {
    "surface": "அன்றோ",
    "parts": [
     {
-     "text": "அன்று",
+     "text": "அன்றோ",
      "lemma": "அன்று",
      "gloss": "is it not"
-    },
-    {
-     "text": "ஓ",
-     "lemma": "ஓ",
-     "gloss": "question marker"
     }
    ],
-   "gloss": "is it not"
+   "gloss": "is it not?"
   },
   {
    "surface": "வன்கணவர்க்கு",
    "parts": [
     {
-     "text": "வன்கணவர்",
-     "lemma": "வன்கணவர்",
-     "gloss": "brave ones"
+     "text": "வன்கண்",
+     "lemma": "வன்கண்",
+     "gloss": "bravery"
     },
     {
-     "text": "க்",
-     "lemma": "க்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "dative marker"
+     "text": "அவர்க்கு",
+     "lemma": "அவர்",
+     "gloss": "to those who have"
     }
    ],
-   "gloss": "to the brave ones"
+   "gloss": "to the brave warriors"
   }
  ],
- "literal": "Glared eyes, spear having taken to throw, destroying if blinked, defeat is it not to the brave ones?",
- "translation": "If the eyes that glared fearlessly blink when a spear is hurled at them, is it not a defeat for the brave?",
- "modern": "பகைவர் வேலைக் கொண்டு வீசும்போது, அவரைச் சினந்து பார்த்த கண்கள் நிலைமாறி இமைத்தால், அது வீரர்களுக்கு ஒரு தோல்வி அல்லவா?",
- "explanation": "This couplet defines the absolute steadfastness expected of a true warrior. The phrase 'விழித்த கண்' refers to eyes opened wide in a fearless glare at the enemy. If those eyes blink when a spear is hurled at them, the word 'அழித்து' implies that the blink destroys their courageous stance. For the truly brave, even such an involuntary flinch is considered a retreat or defeat ('ஒட்டு').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If the wide-staring eye, when a spear is taken to be thrown, yields and blinks, is that not a defeat to the brave warriors?",
+ "translation": "If a warrior blinks his wide-staring eyes when an enemy hurls a spear at him, is that momentary blink not a retreat and defeat for his valor?",
+ "modern": "பகைவன் தன் மேல் வேலை வீசி எறியும்போது, அவனை உற்று நோக்கிய கண்கள் அஞ்சி இமைக்குமானால், அதுவே அந்த வீரனுக்குப் தோல்வி அல்லவா?",
+ "explanation": "This couplet defines the ultimate standard of military pride and valor. A true warrior keeps his eyes wide open, staring defiantly at the enemy. If he blinks (இமைப்பின்) even for a split second when a spear is thrown at him, that reflex is considered a defeat (ஒட்டு) to his heroic spirit. The word 'அழித்து' here refers to breaking or yielding the steady, fearless gaze of the eye. To the truly brave, even a natural physical reflex of self-defense is seen as a shameful retreat.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

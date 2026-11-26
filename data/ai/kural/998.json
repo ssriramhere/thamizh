@@ -15,30 +15,20 @@
    "surface": "ஆற்றார்",
    "parts": [
     {
-     "text": "ஆற்று",
+     "text": "ஆற்றார்",
      "lemma": "ஆற்று",
-     "gloss": "to do"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (neg.)"
+     "gloss": "not practicing"
     }
    ],
-   "gloss": "they do not do"
+   "gloss": "those who do not practice"
   },
   {
    "surface": "ஆகி",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having become"
     }
    ],
    "gloss": "having become"
@@ -58,24 +48,19 @@
    "surface": "இல",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இல",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "things"
+     "gloss": "devoid of"
     }
    ],
-   "gloss": "things without"
+   "gloss": "things devoid of goodness"
   },
   {
    "surface": "செய்வார்க்கும்",
    "parts": [
     {
      "text": "செய்வார்க்கு",
-     "lemma": "செய்",
+     "lemma": "செய்வார்",
      "gloss": "to those who do"
     },
     {
@@ -92,26 +77,21 @@
     {
      "text": "பண்பு",
      "lemma": "பண்பு",
-     "gloss": "good character"
+     "gloss": "courtesy"
     }
    ],
-   "gloss": "good character"
+   "gloss": "courtesy"
   },
   {
    "surface": "ஆற்றார்",
    "parts": [
     {
-     "text": "ஆற்று",
+     "text": "ஆற்றார்",
      "lemma": "ஆற்று",
-     "gloss": "to maintain"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (neg.)"
+     "gloss": "not practicing"
     }
    ],
-   "gloss": "they do not maintain"
+   "gloss": "those who do not practice"
   },
   {
    "surface": "ஆதல்",
@@ -130,16 +110,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "lowest"
+     "gloss": "the lowest"
     }
    ],
-   "gloss": "lowest"
+   "gloss": "the lowest state"
   }
  ],
- "literal": "Friendship not-doing having-become goodness without-things even-to-those-who-do, good-character not-doing becoming lowest.",
- "translation": "It is the lowest of flaws to fail to maintain good character, even towards those who act with no friendship and do unpleasant things.",
- "modern": "தன்னிடம் நட்பு கொள்ளாமல் இனிமையற்ற செயல்களைச் செய்பவரிடத்திலும், தான் பண்புடையவனாக நடந்து கொள்ளாமல் இருப்பது மிகத் தாழ்ந்த செயலாகும்.",
- "explanation": "The couplet defines the true test of good character (பண்பு). It states that even when facing people who show no friendship and commit unpleasant acts, one must not abandon one's own courteous nature. Failing to maintain good character towards such hostile people is considered the lowest form of behavior (கடை). True courtesy remains steadfast regardless of how others behave.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Friendship not practicing, having become, goodness devoid of things, even to those who do, courtesy not practicing, becoming, is the lowest.",
+ "translation": "Even towards those who do not maintain friendship and do things devoid of goodness, failing to show courtesy is the lowest of states.",
+ "modern": "நட்பு கொள்ளாமல் தீமையானவற்றைச் செய்பவர்களிடமும் நற்பண்பு இல்லாமல் நடந்து கொள்வது மிக இழிவான செயலாகும்.",
+ "explanation": "This couplet emphasizes that true courtesy or noble character (paṇpu) must be unconditional. Even when dealing with people who refuse to be friendly (naṇpāṟṟār) and actively do harmful or unpleasant things (nayamila ceyvārkkum), failing to maintain one's own courtesy (paṇpāṟṟār ātal) is considered the lowest, most ignoble state (kaṭai). A person of high character does not let the bad behavior of others dictate their own virtues. Thus, maintaining courtesy is paramount, regardless of how hostile or unjust the other party may be.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

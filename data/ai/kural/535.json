@@ -6,7 +6,7 @@
     {
      "text": "முன்",
      "lemma": "முன்",
-     "gloss": "before"
+     "gloss": "beforehand"
     },
     {
      "text": "உற",
@@ -38,7 +38,7 @@
     {
      "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "to err"
+     "gloss": "to fail through negligence"
     },
     {
      "text": "இ",
@@ -51,7 +51,7 @@
      "gloss": "he who"
     }
    ],
-   "gloss": "he who erred"
+   "gloss": "one who failed through negligence"
   },
   {
    "surface": "தன்",
@@ -59,10 +59,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "his"
+     "gloss": "his own"
     }
    ],
-   "gloss": "his"
+   "gloss": "his own"
   },
   {
    "surface": "பிழை",
@@ -70,10 +70,10 @@
     {
      "text": "பிழை",
      "lemma": "பிழை",
-     "gloss": "fault"
+     "gloss": "fault or mistake"
     }
    ],
-   "gloss": "fault"
+   "gloss": "mistake"
   },
   {
    "surface": "பின்",
@@ -81,10 +81,10 @@
     {
      "text": "பின்",
      "lemma": "பின்",
-     "gloss": "later"
+     "gloss": "afterwards"
     }
    ],
-   "gloss": "later"
+   "gloss": "afterwards"
   },
   {
    "surface": "ஊறு",
@@ -92,10 +92,10 @@
     {
      "text": "ஊறு",
      "lemma": "ஊறு",
-     "gloss": "disaster"
+     "gloss": "harm or affliction"
     }
    ],
-   "gloss": "disaster"
+   "gloss": "harm"
   },
   {
    "surface": "இரங்கி",
@@ -103,15 +103,15 @@
     {
      "text": "இரங்கு",
      "lemma": "இரங்கு",
-     "gloss": "to grieve"
+     "gloss": "to regret or lament"
     },
     {
      "text": "இ",
      "lemma": "இ",
-     "gloss": "having"
+     "gloss": "verbal participle suffix"
     }
    ],
-   "gloss": "grieving"
+   "gloss": "having regretted"
   },
   {
    "surface": "விடும்",
@@ -119,21 +119,21 @@
     {
      "text": "விடு",
      "lemma": "விடு",
-     "gloss": "to end up"
+     "gloss": "to leave or auxiliary of certainty"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "future/habitual marker"
     }
    ],
-   "gloss": "will end up"
+   "gloss": "will surely end up"
   }
  ],
- "literal": "Beforehand without-guarding he-who-erred, his fault, later disaster, grieving will-end-up.",
- "translation": "He who carelessly fails to guard against faults beforehand will end up grieving when disaster strikes later.",
- "modern": "முன்கூட்டியே பிழைகள் வராமல் காக்காமல் கவனக்குறைவாக இருந்தவன், பின்னர் துன்பம் வரும்போது தன் பிழையை நினைத்து வருந்துவான்.",
- "explanation": "This couplet warns against the dangers of negligence and lack of foresight. The word 'இழுக்கியான்' refers to someone who acts carelessly, failing to anticipate and prevent mistakes. When the inevitable consequences of this negligence manifest as disaster ('ஊறு') later on, the person is left with nothing but regret. The verse emphasizes that vigilance must be proactive, not reactive.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Beforehand without guarding, he who neglected, his own mistake, afterwards [when] harm [comes], having regretted, will end up.",
+ "translation": "One who fails to guard himself beforehand and acts with negligence will surely end up lamenting his mistake later when ruin strikes.",
+ "modern": "முன்கூட்டியே தன்னைக் காத்துக் கொள்ளாமல் சோம்பலால் தவறியவன், பின்னர் துன்பம் வரும்போது தன் பிழையை நினைத்து வருந்துவான்.",
+ "explanation": "This couplet highlights the danger of negligence and the importance of foresight. The word 'முன்னுற' means 'beforehand', emphasizing that precautions must be taken before danger arrives. 'இழுக்கியான்' refers to a person who slips or fails due to forgetfulness or carelessness. When such a person does not guard themselves in advance, they will inevitably face harm ('ஊறு') later. At that point, they can only lament their own mistake ('தன்பிழை'), but it will be too late to avert the consequences.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

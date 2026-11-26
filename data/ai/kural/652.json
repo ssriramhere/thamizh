@@ -11,7 +11,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "even/and"
     }
    ],
    "gloss": "always"
@@ -22,7 +22,7 @@
     {
      "text": "ஒருவு",
      "lemma": "ஒருவு",
-     "gloss": "to abandon"
+     "gloss": "shun"
     },
     {
      "text": "தல்",
@@ -30,20 +30,15 @@
      "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "abandoning"
+   "gloss": "shunning"
   },
   {
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டு",
+     "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "to need"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "gloss": "is necessary"
     }
    ],
    "gloss": "is necessary"
@@ -59,10 +54,10 @@
     {
      "text": "ஒடு",
      "lemma": "ஒடு",
-     "gloss": "sociative suffix"
+     "gloss": "with"
     }
    ],
-   "gloss": "with fame"
+   "gloss": "along with fame"
   },
   {
    "surface": "நன்றி",
@@ -70,26 +65,21 @@
     {
      "text": "நன்றி",
      "lemma": "நன்றி",
-     "gloss": "good"
+     "gloss": "goodness"
     }
    ],
-   "gloss": "good"
+   "gloss": "goodness"
   },
   {
    "surface": "பயவா",
    "parts": [
     {
-     "text": "பய",
+     "text": "பயவா",
      "lemma": "பய",
-     "gloss": "to yield"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative relative participle suffix"
+     "gloss": "not yielding"
     }
    ],
-   "gloss": "not yielding"
+   "gloss": "that do not yield"
   },
   {
    "surface": "வினை",
@@ -103,10 +93,10 @@
    "gloss": "action"
   }
  ],
- "literal": "Always abandoning is necessary, with fame good not-yielding action.",
- "translation": "One must always abandon actions that do not yield goodness and fame.",
- "modern": "புகழையும் நன்மையையும் தராத செயல்களை ஒருவன் எப்போதும் தவிர்த்தல் வேண்டும்.",
- "explanation": "This couplet sets a clear standard for choosing one's actions. It states that any deed failing to produce both moral goodness and a good reputation must be strictly avoided. The word 'என்றும்' (always) emphasizes that there are no exceptions to this rule, regardless of the situation or potential short-term gains. By commanding 'ஒருவுதல் வேண்டும்' (must be abandoned), the text insists that pure conduct requires rejecting anything that compromises one's honor or virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Always shunning is necessary, along with fame, goodness not-yielding action.",
+ "translation": "One must always avoid those actions that do not yield both virtue and fame.",
+ "modern": "புகழையும் நன்மையையும் தராத செயல்களை எக்காலத்திலும் தவிர்த்தல் வேண்டும்.",
+ "explanation": "This couplet outlines the criteria for pure action. A person must completely avoid any action that fails to bring both moral goodness (virtue) and public esteem (fame). The word 'nanri' refers to the spiritual or moral benefit of an action, while 'pukazh' refers to the honorable reputation it earns in society. If an action does not produce these two positive outcomes, it is deemed unworthy and must be shunned at all times.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

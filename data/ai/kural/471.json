@@ -6,10 +6,10 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "action"
+     "gloss": "action or undertaking"
     }
    ],
-   "gloss": "action's"
+   "gloss": "the action"
   },
   {
    "surface": "வலியும்",
@@ -25,7 +25,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "strength and"
+   "gloss": "and the strength"
   },
   {
    "surface": "தன்",
@@ -52,7 +52,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "strength and"
+   "gloss": "and the strength"
   },
   {
    "surface": "மாற்றான்",
@@ -60,10 +60,10 @@
     {
      "text": "மாற்றான்",
      "lemma": "மாற்றான்",
-     "gloss": "enemy"
+     "gloss": "adversary or enemy"
     }
    ],
-   "gloss": "enemy's"
+   "gloss": "of the adversary"
   },
   {
    "surface": "வலியும்",
@@ -79,7 +79,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "strength and"
+   "gloss": "and the strength"
   },
   {
    "surface": "துணை",
@@ -87,10 +87,10 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "ally"
+     "gloss": "ally or support"
     }
    ],
-   "gloss": "ally's"
+   "gloss": "of the ally"
   },
   {
    "surface": "வலியும்",
@@ -106,7 +106,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "strength and"
+   "gloss": "and the strength"
   },
   {
    "surface": "தூக்கி",
@@ -114,7 +114,7 @@
     {
      "text": "தூக்கி",
      "lemma": "தூக்கு",
-     "gloss": "having weighed"
+     "gloss": "having weighed or assessed"
     }
    ],
    "gloss": "having weighed"
@@ -125,16 +125,16 @@
     {
      "text": "செயல்",
      "lemma": "செய்",
-     "gloss": "act"
+     "gloss": "to do or act"
     }
    ],
-   "gloss": "act"
+   "gloss": "one should act"
   }
  ],
- "literal": "Action's strength and, one's own strength and, enemy's strength and, ally's strength and, having weighed, act.",
- "translation": "Weigh the strength of the deed, your own strength, the enemy's strength, and the strength of your allies, and then act.",
- "modern": "செய்யப்போகும் செயலின் வலிமையையும், தன் வலிமையையும், பகைவனின் வலிமையையும், இரு தரப்பிற்கும் உள்ள துணையின் வலிமையையும் சீர்தூக்கிப் பார்த்து ஒரு செயலைச் செய்ய வேண்டும்.",
- "explanation": "This couplet outlines the four crucial assessments required before undertaking any action. The word 'வலி' (strength) is repeated four times to emphasize that power is multifaceted. One must evaluate the difficulty of the task itself ('வினை'), one's own capacity ('தன்'), the opponent's power ('மாற்றான்'), and the support available from allies ('துணை'). The verb 'தூக்கி' literally means 'having weighed' like on a balance scale, instructing the leader to carefully balance these four factors before acting ('செயல்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The strength of the action, and one's own strength, and the strength of the adversary, and the strength of the ally, having weighed, act.",
+ "translation": "Weigh well the strength of the deed, your own strength, the strength of your adversary, and the strength of your allies, and then act.",
+ "modern": "ஒரு செயலைச் செய்வதற்கு முன், அச்செயலின் வலிமை, தன் வலிமை, பகைவனின் வலிமை, மற்றும் துணையாக இருப்பவரின் வலிமை ஆகியவற்றை ஆராய்ந்து பார்த்து அச்செயலைச் செய்ய வேண்டும்.",
+ "explanation": "This couplet outlines the four essential types of strength that must be evaluated before embarking on any major undertaking. First, one must understand the difficulty of the task itself (vinai vali). Second, one must assess their own capabilities and resources (tan vali). Third, the power of the opponent or obstacles must be gauged (māṟṟāṉ vali). Fourth, the strength of one's supporters or allies must be factored in (tuṇai vali). Only after carefully weighing (tūkki) these four elements should one proceed to act (ceyal).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

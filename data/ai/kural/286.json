@@ -6,20 +6,20 @@
     {
      "text": "அளவு",
      "lemma": "அளவு",
-     "gloss": "measure"
+     "gloss": "measure or moderation"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "oblique case marker"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "locative suffix meaning in or within"
     }
    ],
-   "gloss": "in the proper measure"
+   "gloss": "within the limits of moderation"
   },
   {
    "surface": "நின்று",
@@ -27,10 +27,10 @@
     {
      "text": "நின்று",
      "lemma": "நில்",
-     "gloss": "having stood"
+     "gloss": "having stood or abided"
     }
    ],
-   "gloss": "having stood"
+   "gloss": "abiding"
   },
   {
    "surface": "ஒழுகல்",
@@ -38,10 +38,10 @@
     {
      "text": "ஒழுகல்",
      "lemma": "ஒழுகு",
-     "gloss": "behaving"
+     "gloss": "conducting oneself or living"
     }
    ],
-   "gloss": "behaving"
+   "gloss": "living or behaving"
   },
   {
    "surface": "ஆற்றார்",
@@ -49,10 +49,10 @@
     {
      "text": "ஆற்றார்",
      "lemma": "ஆற்று",
-     "gloss": "they are unable"
+     "gloss": "they are unable to do"
     }
    ],
-   "gloss": "they are unable"
+   "gloss": "they are incapable of"
   },
   {
    "surface": "களவின்கண்",
@@ -60,20 +60,20 @@
     {
      "text": "களவு",
      "lemma": "களவு",
-     "gloss": "theft"
+     "gloss": "theft or stealing"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "empty morpheme"
+     "gloss": "oblique case marker"
     },
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "in"
+     "gloss": "locative suffix meaning in or towards"
     }
    ],
-   "gloss": "in theft"
+   "gloss": "towards theft"
   },
   {
    "surface": "கன்றிய",
@@ -81,10 +81,10 @@
     {
      "text": "கன்றிய",
      "lemma": "கன்று",
-     "gloss": "intense"
+     "gloss": "grown intense or excessive"
     }
    ],
-   "gloss": "intense"
+   "gloss": "intense or deep-seated"
   },
   {
    "surface": "காதலவர்",
@@ -92,21 +92,21 @@
     {
      "text": "காதல்",
      "lemma": "காதல்",
-     "gloss": "desire"
+     "gloss": "desire or love"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who have"
     }
    ],
-   "gloss": "those with desire"
+   "gloss": "those who have desire"
   }
  ],
- "literal": "In the proper measure having stood behaving they are unable, in theft those with intense desire.",
- "translation": "Those who have an intense desire for theft cannot stand firm and conduct themselves within proper bounds.",
- "modern": "திருடுவதில் மிகுந்த ஆசை கொண்டவர்கள், சரியான நெறிமுறையின் எல்லையில் நின்று வாழும் திறனற்றவர்கள் ஆவர்.",
- "explanation": "This couplet explains how the desire to steal corrupts a person's overall conduct. The word 'அளவு' refers to the proper limits or boundaries of righteous behavior. Those described as having an intense, deep-rooted craving for theft are consumed by this desire. Consequently, they lose the ability to stand firm and live within the bounds of a measured, ethical life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Within the limits of moderation abiding and living they are incapable of, towards theft intense desire those who have.",
+ "translation": "Those who harbor an intense desire for stealing are incapable of living their lives within the bounds of moderation and righteousness.",
+ "modern": "திருடுவதில் மிகுந்த ஆசை கொண்டவர்கள், நேர்மையான அளவுமுறைக்குள் நின்று வாழ இயலாதவர் ஆவர்.",
+ "explanation": "This couplet highlights how the desire to steal corrupts a person's ability to live an ethical life. The word 'அளவு' refers to the moral limit or moderation that guides a righteous life, while 'களவு' represents the act of taking what is not given. Those who possess an intense, deep-seated desire ('கன்றிய காதல்') for theft lose their self-restraint. Consequently, they find themselves completely unable ('ஆற்றார்') to conduct their lives ('ஒழுகல்') within the boundaries of honesty and discipline.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

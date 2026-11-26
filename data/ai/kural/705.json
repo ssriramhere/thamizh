@@ -6,15 +6,15 @@
     {
      "text": "குறிப்பு",
      "lemma": "குறிப்பு",
-     "gloss": "intention"
+     "gloss": "sign or hint"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "by intention"
+   "gloss": "by a sign or hint"
   },
   {
    "surface": "குறிப்பு",
@@ -22,10 +22,10 @@
     {
      "text": "குறிப்பு",
      "lemma": "குறிப்பு",
-     "gloss": "intention"
+     "gloss": "intention or thought"
     }
    ],
-   "gloss": "intention"
+   "gloss": "the inner intention"
   },
   {
    "surface": "உணரா",
@@ -33,28 +33,23 @@
     {
      "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "perceive"
+     "gloss": "perceive or understand"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not (negative suffix)"
     }
    ],
-   "gloss": "perceive not"
+   "gloss": "not perceiving"
   },
   {
    "surface": "ஆயின்",
    "parts": [
     {
-     "text": "ஆய்",
-     "lemma": "ஆ",
-     "gloss": "become"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "ஆயின்",
+     "lemma": "ஆயின்",
+     "gloss": "if it is so"
     }
    ],
    "gloss": "if"
@@ -65,12 +60,12 @@
     {
      "text": "உறுப்பு",
      "lemma": "உறுப்பு",
-     "gloss": "organ"
+     "gloss": "limb or organ"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "உள்",
@@ -78,7 +73,7 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among organs"
+   "gloss": "among the limbs of the body"
   },
   {
    "surface": "என்ன",
@@ -96,16 +91,16 @@
    "parts": [
     {
      "text": "பயத்த",
-     "lemma": "பய",
-     "gloss": "yielding things"
+     "lemma": "பயன்",
+     "gloss": "things of utility or benefit"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "do they yield"
+   "gloss": "of what use are they?"
   },
   {
    "surface": "கண்",
@@ -113,16 +108,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eye or eyes"
     }
    ],
-   "gloss": "eyes"
+   "gloss": "the eyes"
   }
  ],
- "literal": "By intention intention perceive-not if, among organs what yielding [are] eyes?",
- "translation": "If they cannot perceive another's intention through their own, what use are the eyes among the body's organs?",
- "modern": "ஒருவருடைய முகக் குறிப்பைக் கொண்டு அவருடைய உள்ளக் குறிப்பை அறிய முடியாவிட்டால், உடலில் உள்ள உறுப்புகளில் கண்களால் என்ன பயன்?",
- "explanation": "This couplet questions the true purpose of sight if it lacks insight. The word 'குறிப்பு' (intention or sign) appears twice, contrasting the observer's perceptive focus with the unspoken thoughts of the other person. If the eyes cannot read these subtle signs, they are merely physical organs that yield no real benefit.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If [they] do not understand the intention [of another] by [their] sign, among the limbs, of what use are the eyes?",
+ "translation": "If one's eyes cannot perceive the inner thoughts of another from their outward signs, of what use are those eyes among the limbs of the body?",
+ "modern": "ஒருவருடைய முகக்குறிப்பைக் கொண்டு அவருடைய மனக்குறிப்பை உணர்ந்துகொள்ள முடியாவிட்டால், உடலின் உறுப்புகளுள் கண்களால் என்ன பயன் விளையும்?",
+ "explanation": "This couplet highlights the true purpose of sight in social and intellectual life. The word 'kuṟippu' is used in two senses here: first as the outward physical sign or expression, and second as the inward intention or feeling. The poet argues that the eyes are not merely for seeing physical objects, but for reading the unspoken thoughts of others. If a person's eyes lack this deeper perception and empathy, they are useless ornaments that serve no greater purpose than any other limb.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

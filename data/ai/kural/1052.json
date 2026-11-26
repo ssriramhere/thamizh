@@ -6,10 +6,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "ஒருவற்கு",
@@ -22,7 +22,7 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "to (dative)"
     }
    ],
    "gloss": "to a person"
@@ -42,12 +42,27 @@
    "surface": "இரந்தவை",
    "parts": [
     {
-     "text": "இரந்தவை",
-     "lemma": "இரந்தவை",
-     "gloss": "things begged for"
+     "text": "இர",
+     "lemma": "இர",
+     "gloss": "to beg"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "past tense marker (nasalized)"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "those things"
     }
    ],
-   "gloss": "things begged for"
+   "gloss": "the things begged for"
   },
   {
    "surface": "துன்பம்",
@@ -55,28 +70,33 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "pain"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "pain"
   },
   {
    "surface": "உறாஅ",
    "parts": [
     {
-     "text": "உறாஅ",
-     "lemma": "உறுதல்",
-     "gloss": "without experiencing"
+     "text": "உறு",
+     "lemma": "உறு",
+     "gloss": "to experience or cause"
+    },
+    {
+     "text": "ஆஅ",
+     "lemma": "ஆ",
+     "gloss": "negative suffix with vowel lengthening"
     }
    ],
-   "gloss": "without experiencing"
+   "gloss": "without causing"
   },
   {
    "surface": "வரின்",
    "parts": [
     {
      "text": "வரு",
-     "lemma": "வருதல்",
+     "lemma": "வரு",
      "gloss": "to come"
     },
     {
@@ -88,10 +108,10 @@
    "gloss": "if they come"
   }
  ],
- "literal": "joy to a person begging things begged for sorrow without experiencing if they come",
- "translation": "Asking for help is a joy to a person, if the things asked for come without causing any sorrow.",
- "modern": "ஒருவர் கேட்டுப் பெறும் பொருள்கள் அவருக்கு எந்தத் துன்பத்தையும் தராமல் மனமுவந்து அளிக்கப்படுமானால், அப்படிப் பிறரிடம் கேட்பது கூட அவருக்கு இன்பமானதே ஆகும்.",
- "explanation": "This couplet explores the rare condition under which asking for help can be considered pleasant. Generally, begging is seen as a source of humiliation and pain. However, if the things requested are given willingly and graciously, without causing any distress or loss of dignity to the receiver, then the very act of asking becomes a joy. The word 'உறாஅ' emphasizes that the transaction must be completely free of emotional or moral suffering.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Pleasure to a person begging, those things begged, pain without causing, if they come.",
+ "translation": "Even begging becomes a pleasure to a person if the things they ask for are given without causing any pain or distress.",
+ "modern": "ஒருவருக்குப் பிறரிடம் இரந்து கேட்பது இன்பமாகும், அவ்வாறு இரந்து கேட்ட பொருள்கள் துன்பம் தராமல் கிடைக்குமானால்.",
+ "explanation": "This couplet explains that the act of begging, which is usually painful and humiliating, can actually bring joy under a specific condition. That condition is when the requested items (இரந்தவை) are given freely and gracefully, without causing any distress (துன்பம் உறாஅ) or humiliation to the seeker. The key phrase 'துன்பம் உறாஅ வரின்' highlights that the manner of giving determines the emotional outcome of the request. When met with immediate and painless generosity, the act of asking becomes a source of happiness rather than shame.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

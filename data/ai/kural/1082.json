@@ -4,9 +4,19 @@
    "surface": "நோக்கினாள்",
    "parts": [
     {
-     "text": "நோக்கினாள்",
+     "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "she looked"
+     "gloss": "to look"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she"
     }
    ],
    "gloss": "she looked"
@@ -17,10 +27,10 @@
     {
      "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "glance"
+     "gloss": "look"
     }
    ],
-   "gloss": "glance"
+   "gloss": "look / gaze"
   },
   {
    "surface": "எதிர்",
@@ -28,18 +38,23 @@
     {
      "text": "எதிர்",
      "lemma": "எதிர்",
-     "gloss": "opposite"
+     "gloss": "opposite / in return"
     }
    ],
-   "gloss": "opposite"
+   "gloss": "in return"
   },
   {
    "surface": "நோக்குதல்",
    "parts": [
     {
-     "text": "நோக்குதல்",
+     "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "looking"
+     "gloss": "to look"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "looking"
@@ -50,7 +65,7 @@
     {
      "text": "தாக்கு",
      "lemma": "தாக்கு",
-     "gloss": "attacking"
+     "gloss": "to attack / strike"
     }
    ],
    "gloss": "attacking"
@@ -61,10 +76,10 @@
     {
      "text": "அணங்கு",
      "lemma": "அணங்கு",
-     "gloss": "spirit"
+     "gloss": "celestial maiden / tormenting deity"
     }
    ],
-   "gloss": "spirit"
+   "gloss": "celestial maiden"
   },
   {
    "surface": "தானை",
@@ -83,10 +98,10 @@
     {
      "text": "கொண்டு",
      "lemma": "கொள்",
-     "gloss": "having taken"
+     "gloss": "having / with"
     }
    ],
-   "gloss": "having taken"
+   "gloss": "bringing / having"
   },
   {
    "surface": "அன்னது",
@@ -94,10 +109,10 @@
     {
      "text": "அன்னது",
      "lemma": "அன்னது",
-     "gloss": "like that"
+     "gloss": "that which is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like that"
   },
   {
    "surface": "உடைத்து",
@@ -105,16 +120,16 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it has"
+     "gloss": "it possesses"
     }
    ],
    "gloss": "it has"
   }
  ],
- "literal": "she looked glance opposite looking attacking spirit army having taken like that it has",
- "translation": "When she returns my look with a glance of her own, it is like an attacking spirit bringing an army with it.",
- "modern": "அவள் என் பார்வையை எதிர்கொண்டு பார்ப்பது, உயிரைத் தாக்கும் ஒரு தெய்வம் ஒரு படையையும் கூட்டிக்கொண்டு வந்ததைப் போன்ற தன்மையை உடையது.",
- "explanation": "The speaker describes the overwhelming effect of the woman returning his gaze. He compares her natural beauty to a spirit that already has the power to attack and afflict him. When she actively looks back at him, it multiplies her power, as if that attacking spirit has now armed itself with an entire army.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "She looked; looking in return to [her] look has [the quality] like a striking celestial maiden bringing an army.",
+ "translation": "She looked at me; and her looking back in response to my gaze was like a tormenting celestial maiden attacking with an army.",
+ "modern": "அவள் என்னைப் பார்த்தாள்; அந்தப் பார்வைக்கு எதிராக அவள் திரும்பப் பார்த்த பார்வை, ஒரு வருத்தும் தெய்வம் தன் படையைக் கொண்டு வந்து தாக்குவதைப் போன்ற தன்மையைக் கொண்டுள்ளது.",
+ "explanation": "The hero describes the overwhelming power of the heroine's gaze. When she returns his look, it is not a gentle glance but a force that completely conquers him. He compares her reciprocal look to a celestial maiden (அணங்கு) who attacks (தாக்கு) with the support of an army (தானை). The imagery of an army highlights how her eyes wage a beautiful but devastating war on his heart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

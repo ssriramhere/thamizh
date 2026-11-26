@@ -4,14 +4,9 @@
    "surface": "தொல்வரவும்",
    "parts": [
     {
-     "text": "தொல்",
-     "lemma": "தொன்மை",
-     "gloss": "ancient"
-    },
-    {
-     "text": "வரவு",
-     "lemma": "வரவு",
-     "gloss": "lineage"
+     "text": "தொல்வரவு",
+     "lemma": "தொல்வரவு",
+     "gloss": "ancient lineage"
     },
     {
      "text": "உம்",
@@ -19,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "ancient lineage as well"
+   "gloss": "ancient lineage and"
   },
   {
    "surface": "தோலும்",
@@ -27,7 +22,7 @@
     {
      "text": "தோல்",
      "lemma": "தோல்",
-     "gloss": "honor"
+     "gloss": "dignity"
     },
     {
      "text": "உம்",
@@ -35,7 +30,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "honor as well"
+   "gloss": "dignity and"
   },
   {
    "surface": "கெடுக்கும்",
@@ -54,15 +49,15 @@
     {
      "text": "தொகை",
      "lemma": "தொகை",
-     "gloss": "whole"
+     "gloss": "totality"
     },
     {
      "text": "ஆக",
-     "lemma": "ஆகு",
+     "lemma": "ஆ",
      "gloss": "as"
     }
    ],
-   "gloss": "altogether"
+   "gloss": "completely"
   },
   {
    "surface": "நல்குரவு",
@@ -98,10 +93,10 @@
    "gloss": "craving"
   }
  ],
- "literal": "Ancient lineage and honor and, will destroy altogether, poverty called craving.",
- "translation": "The craving called poverty will completely destroy both one's ancient lineage and honor.",
- "modern": "வறுமை என்று சொல்லப்படும் ஆசையானது, ஒருவருடைய பழமையான குடிப் பெருமையையும் அவருடைய மானத்தையும் ஒட்டுமொத்தமாக அழித்துவிடும்.",
- "explanation": "The couplet states that poverty is essentially a state of constant craving or desire. This relentless longing completely destroys a person's noble ancestry and their personal honor. The word 'தோல்' literally means skin, but here it is chosen to represent one's outward dignity or honor. The word 'நசை' highlights that poverty is fundamentally an affliction of unfulfilled desire. Together, poverty strips away everything that gives a person their social standing and self-respect.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Ancient lineage and dignity will destroy completely, the craving called poverty.",
+ "translation": "The craving called poverty will completely destroy both one's ancient lineage and dignity.",
+ "modern": "வறுமை என்று சொல்லப்படும் பேராசை, ஒருவருடைய பழமையான குடிப்பெருமையையும் அவரது நற்பண்புகளையும் ஒருசேர அழித்துவிடும்.",
+ "explanation": "This couplet highlights the destructive nature of poverty by describing it as a 'craving' (நசை), because extreme want forces a person to beg and desire things constantly. This desperate state of poverty completely (தொகையாக) ruins two of a person's most valuable possessions: their ancient family lineage (தொல்வரவு) and their personal dignity or lustre (தோல்). The word 'தோல்' here refers to the natural dignity, beauty, or self-respect of an individual, which is lost when one is reduced to begging. The term 'தொகையாக' emphasizes that these noble qualities are not lost gradually, but are wiped out all at once by the onset of poverty.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

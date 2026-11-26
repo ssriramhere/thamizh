@@ -11,7 +11,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they (people)"
+     "gloss": "people"
     }
    ],
    "gloss": "townspeople"
@@ -37,11 +37,11 @@
     },
     {
      "text": "ஆக",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "to become"
     }
    ],
-   "gloss": "as manure"
+   "gloss": "becoming manure"
   },
   {
    "surface": "அன்னை",
@@ -63,7 +63,7 @@
      "gloss": "word"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   },
   {
    "surface": "நீராக",
@@ -75,11 +75,11 @@
     },
     {
      "text": "ஆக",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "to become"
     }
    ],
-   "gloss": "as water"
+   "gloss": "becoming water"
   },
   {
    "surface": "நீளும்",
@@ -87,7 +87,7 @@
     {
      "text": "நீளும்",
      "lemma": "நீள்",
-     "gloss": "will grow"
+     "gloss": "grows"
     }
    ],
    "gloss": "grows"
@@ -96,14 +96,9 @@
    "surface": "இந்",
    "parts": [
     {
-     "text": "இ",
+     "text": "இந்",
      "lemma": "இ",
      "gloss": "this"
-    },
-    {
-     "text": "ந்",
-     "lemma": "ந்",
-     "gloss": "sandhi"
     }
    ],
    "gloss": "this"
@@ -117,13 +112,13 @@
      "gloss": "disease"
     }
    ],
-   "gloss": "disease"
+   "gloss": "disease of love"
   }
  ],
- "literal": "townspeople's gossip as manure, mother's word as water, grows this disease.",
- "translation": "With the townspeople's gossip as manure and my mother's harsh words as water, this disease of love only grows.",
- "modern": "ஊராரின் பழிச்சொல் எருவாகவும், அன்னையின் கடுஞ்சொல் நீராகவும் கொண்டு இந்த காதல் நோய் மேலும் வளர்கிறது.",
- "explanation": "The speaker compares her lovesickness to a growing plant. The public gossip of the townspeople acts as the manure that feeds it. Her mother's scolding words act as the water that nourishes it. Instead of suppressing her feelings, the opposition from her family and society only makes her love grow stronger.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Townspeople's gossip becoming manure, mother's words becoming water, grows this disease.",
+ "translation": "With the townspeople's gossip serving as manure and my mother's harsh words as water, this disease of love only continues to grow.",
+ "modern": "ஊராரின் அலர் பேச்சு எருவாகவும், அன்னையின் கடிந்துரைக்கும் சொல் நீராகவும் அமைய, இந்த காதல் நோய் மேலும் வளர்கிறது.",
+ "explanation": "In this couplet, the heroine uses a vivid agricultural metaphor to describe her love-sickness. The public gossip (கௌவை) of the townspeople acts as fertilizer or manure (எரு), while her mother's scolding words (அன்னை சொல்) act as water (நீர்). Instead of extinguishing or suppressing her passion, these external attempts to stop her love only nourish it, causing this affliction (நோய்) to grow even taller and stronger.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

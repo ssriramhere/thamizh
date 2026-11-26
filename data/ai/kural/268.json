@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "தன்",
-     "lemma": "தான்",
+     "lemma": "தன்",
      "gloss": "one's own"
     }
    ],
@@ -17,10 +17,10 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "soul"
     }
    ],
-   "gloss": "life"
+   "gloss": "soul"
   },
   {
    "surface": "தான்",
@@ -28,26 +28,21 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "self (ego)"
+     "gloss": "ego or self-identity"
     }
    ],
-   "gloss": "self (ego)"
+   "gloss": "ego"
   },
   {
    "surface": "அற",
    "parts": [
     {
-     "text": "அறு",
+     "text": "அற",
      "lemma": "அறு",
      "gloss": "to be severed"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to cease"
+   "gloss": "to be completely severed"
   },
   {
    "surface": "பெற்றானை",
@@ -55,37 +50,37 @@
     {
      "text": "பெற்றான்",
      "lemma": "பெறு",
-     "gloss": "he who attained"
+     "gloss": "he who obtained"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who attained"
+   "gloss": "him who has attained"
   },
   {
    "surface": "ஏனைய",
    "parts": [
     {
      "text": "ஏனைய",
-     "lemma": "ஏனை",
+     "lemma": "ஏனைய",
      "gloss": "other"
     }
    ],
-   "gloss": "other"
+   "gloss": "the other"
   },
   {
    "surface": "மன்",
    "parts": [
     {
      "text": "மன்",
-     "lemma": "மன்",
-     "gloss": "enduring"
+     "lemma": "மன்னு",
+     "gloss": "abiding or enduring"
     }
    ],
-   "gloss": "enduring"
+   "gloss": "abiding"
   },
   {
    "surface": "உயிர்",
@@ -96,7 +91,7 @@
      "gloss": "lives"
     }
    ],
-   "gloss": "lives"
+   "gloss": "living beings"
   },
   {
    "surface": "எல்லாம்",
@@ -113,23 +108,18 @@
    "surface": "தொழும்",
    "parts": [
     {
-     "text": "தொழு",
+     "text": "தொழும்",
      "lemma": "தொழு",
-     "gloss": "to worship"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will worship"
     }
    ],
    "gloss": "will worship"
   }
  ],
- "literal": "one's own life's self to cease him who attained, other enduring lives all will worship.",
- "translation": "All other enduring lives will worship him who has attained the state where his own ego has ceased.",
- "modern": "தன்னுடைய உயிரில் உள்ள 'நான்' என்னும் அகந்தை முழுமையாக அழியப் பெற்றவனை, உலகில் உள்ள மற்ற நிலைத்த உயிர்கள் அனைத்தும் வணங்கும்.",
- "explanation": "This couplet describes the ultimate reverence commanded by a true ascetic. The phrase 'தான் அற' (ego to be severed) is key, referring to the complete destruction of the sense of 'I' or self-conceit within one's own life ('தன் உயிர்'). When a person attains this egoless state through penance, all other enduring lives ('மன் உயிர் எல்லாம்') naturally bow down to and worship them.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Him who has attained the state where his own soul is severed from ego, all other abiding living beings will worship.",
+ "translation": "All other living beings will worship him who has attained complete mastery over his own soul by severing it from egoistic attachment.",
+ "modern": "தன் உயிரை தன் முனைப்பு அல்லது அகந்தை நீங்குமாறு ஆளப் பெற்றவனை, உலகில் நிலைபெற்றுள்ள மற்ற எல்லா உயிர்களும் வணங்கும்.",
+ "explanation": "This couplet describes the spiritual power and universal reverence achieved through true penance. The phrase 'tannuyir tān aṟa' refers to severing the ego or the false sense of 'I' (tāṉ) from one's own soul (uyir). When an ascetic achieves this state of complete self-mastery and detachment, they transcend ordinary human limitations. Consequently, all other living beings ('maṉṉuyir ellām') in the world will naturally revere and bow down to them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

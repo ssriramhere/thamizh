@@ -6,15 +6,15 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "shame"
+     "gloss": "honor"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "because of"
+     "gloss": "for the sake of"
     }
    ],
-   "gloss": "because of modesty"
+   "gloss": "for the sake of honor"
   },
   {
    "surface": "உயிரை",
@@ -27,10 +27,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "[accusative]"
+     "gloss": "accusative marker"
     }
    ],
-   "gloss": "life"
+   "gloss": "life (object)"
   },
   {
    "surface": "துறப்பர்",
@@ -38,25 +38,15 @@
     {
      "text": "துற",
      "lemma": "துற",
-     "gloss": "to renounce"
+     "gloss": "renounce"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future]"
-    },
-    {
-     "text": "அர்",
+     "text": "ப்பர்",
      "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "they will"
     }
    ],
-   "gloss": "they will renounce"
+   "gloss": "they will give up"
   },
   {
    "surface": "உயிர்",
@@ -75,12 +65,12 @@
     {
      "text": "பொருட்டு",
      "lemma": "பொருட்டு",
-     "gloss": "sake"
+     "gloss": "for the sake of"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "for"
+     "gloss": "instrumental suffix"
     }
    ],
    "gloss": "for the sake of"
@@ -91,10 +81,10 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "shame"
+     "gloss": "honor"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "honor"
   },
   {
    "surface": "துறவார்",
@@ -102,20 +92,15 @@
     {
      "text": "துற",
      "lemma": "துற",
-     "gloss": "to renounce"
+     "gloss": "renounce"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "[sandhi]"
-    },
-    {
-     "text": "ஆர்",
+     "text": "வார்",
      "lemma": "ஆர்",
      "gloss": "they will not"
     }
    ],
-   "gloss": "they will not renounce"
+   "gloss": "they will not give up"
   },
   {
    "surface": "நாண்",
@@ -123,10 +108,10 @@
     {
      "text": "நாண்",
      "lemma": "நாண்",
-     "gloss": "shame"
+     "gloss": "honor"
     }
    ],
-   "gloss": "modesty"
+   "gloss": "honor"
   },
   {
    "surface": "ஆள்பவர்",
@@ -134,26 +119,21 @@
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "to possess"
+     "gloss": "cherish"
     },
     {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "[future]"
-    },
-    {
-     "text": "அவர்",
+     "text": "பவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who possess"
+   "gloss": "those who cherish"
   }
  ],
- "literal": "Because of modesty life they will renounce; for the sake of life modesty they will not renounce, those who possess modesty.",
- "translation": "Those who truly possess modesty will give up their lives for its sake, but they will never give up their modesty for the sake of their lives.",
- "modern": "நாணத்தை ஒரு சிறந்த பண்பாகக் கொண்டவர்கள், அந்த நாணத்தைக் காப்பதற்காகத் தங்கள் உயிரையும் விடுவார்கள். ஆனால், உயிரைக் காப்பதற்காக ஒருபோதும் நாணத்தை விடமாட்டார்கள்.",
- "explanation": "This couplet highlights the supreme value of modesty or moral dignity. The phrase 'நாண் ஆள்பவர்' refers to those who have mastered and truly possess this virtue. For them, modesty is far more precious than life itself. Consequently, they would willingly sacrifice their lives to preserve their sense of shame, but they would never abandon their modesty merely to survive.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For the sake of honor, life they will give up; for the sake of life, honor they will not give up, those who cherish honor.",
+ "translation": "Those who cherish a sense of honor will give up their life for the sake of honor; they will never give up their honor for the sake of life.",
+ "modern": "நாண உணர்வைப் போற்றி வாழ்பவர்கள், மானத்தைக் காப்பதற்காகத் தம் உயிரையும் விட்டுவிடுவார்கள்; ஆனால், உயிரைக் காப்பதற்காகத் தம் மானத்தை விட்டுவிட மாட்டார்கள்.",
+ "explanation": "This couplet highlights the supreme value of a sense of honor (nāṇ) over physical life itself. Those who truly cherish and practice honor will readily sacrifice their lives to preserve their integrity. Conversely, they will never compromise or abandon their honor just to save their own lives. The repetition of the words for honor (nāṇ) and life (uyir) emphasizes the stark choice between the two, showing that for noble minds, honor is far more precious than mere existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

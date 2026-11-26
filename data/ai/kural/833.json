@@ -4,9 +4,14 @@
    "surface": "நாணாமை",
    "parts": [
     {
-     "text": "நாணாமை",
-     "lemma": "நாணாமை",
-     "gloss": "shamelessness"
+     "text": "நாண்",
+     "lemma": "நாண்",
+     "gloss": "shame"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominal suffix"
     }
    ],
    "gloss": "shamelessness"
@@ -15,12 +20,17 @@
    "surface": "நாடாமை",
    "parts": [
     {
-     "text": "நாடாமை",
-     "lemma": "நாடாமை",
-     "gloss": "not investigating"
+     "text": "நாடு",
+     "lemma": "நாடு",
+     "gloss": "seek or inquire"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominal suffix"
     }
    ],
-   "gloss": "not investigating"
+   "gloss": "not seeking or inquiring"
   },
   {
    "surface": "நார்",
@@ -28,7 +38,7 @@
     {
      "text": "நார்",
      "lemma": "நார்",
-     "gloss": "affection"
+     "gloss": "affection or love"
     }
    ],
    "gloss": "affection"
@@ -39,7 +49,7 @@
     {
      "text": "இன்மை",
      "lemma": "இன்மை",
-     "gloss": "absence"
+     "gloss": "absence or lack"
     }
    ],
    "gloss": "absence"
@@ -50,10 +60,10 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "anything"
+     "gloss": "any"
     }
    ],
-   "gloss": "anything"
+   "gloss": "any"
   },
   {
    "surface": "ஒன்றும்",
@@ -75,9 +85,14 @@
    "surface": "பேணாமை",
    "parts": [
     {
-     "text": "பேணாமை",
-     "lemma": "பேணாமை",
-     "gloss": "not cherishing"
+     "text": "பேண்",
+     "lemma": "பேண்",
+     "gloss": "cherish or protect"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominal suffix"
     }
    ],
    "gloss": "not cherishing"
@@ -99,16 +114,16 @@
     {
      "text": "தொழில்",
      "lemma": "தொழில்",
-     "gloss": "deed"
+     "gloss": "conduct or action"
     }
    ],
-   "gloss": "deed"
+   "gloss": "conduct"
   }
  ],
- "literal": "Shamelessness, not investigating, affection's absence, anything even one not cherishing: fool's deed.",
- "translation": "Shamelessness, lack of inquiry, absence of affection, and failing to cherish anything whatsoever are the defining actions of a fool.",
- "modern": "வெட்கப்பட வேண்டியதற்கு வெட்கப்படாமை, ஆராய வேண்டியதை ஆராயாமை, யார் மாட்டும் அன்பு இல்லாமை, எதையும் பாதுகாக்காமை ஆகியவையே அறிவிலியின் செயல்களாகும்.",
- "explanation": "This couplet lists four negative traits that characterize a foolish person. First is shamelessness, meaning they do not feel ashamed of disgraceful acts. Second is the failure to investigate or seek out what is good. Third is a complete lack of affection or human connection. Finally, they fail to cherish or protect anything of value, making these destructive habits the true mark of ignorance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Shamelessness, not seeking, absence of affection, not cherishing even one of anything, is the conduct of a fool.",
+ "translation": "Shamelessness, lack of inquiry, absence of affection, and neglecting to cherish anything of value are the characteristics of a fool.",
+ "modern": "வெட்கப்பட வேண்டியவற்றிற்கு வெட்கப்படாமல் இருத்தல், நன்மைகளை ஆராய்ந்து நாடாமல் இருத்தல், அன்பு இல்லாமல் இருத்தல், எதனையும் போற்றிப் பாதுகாக்காமல் இருத்தல் ஆகியவையே அறிவிலியின் செயல்களாகும்.",
+ "explanation": "This couplet defines the core behaviors that characterize a fool. The poet lists four distinct traits: shamelessness for wrong actions, a failure to seek or inquire into what is beneficial, a complete lack of affection towards others, and the failure to cherish or protect anything of value. The word 'nār' literally means fiber, but in classical Tamil, it is a well-known metaphor for the binding force of love or affection, which fits perfectly in this context of human relationships. By combining these four negative traits, the couplet provides a comprehensive definition of folly in action.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

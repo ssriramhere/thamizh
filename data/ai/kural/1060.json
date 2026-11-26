@@ -4,24 +4,9 @@
    "surface": "இரப்பான்",
    "parts": [
     {
-     "text": "இர",
-     "lemma": "இர",
-     "gloss": "to beg"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "he (masculine singular suffix)"
+     "text": "இரப்பான்",
+     "lemma": "இரப்பான்",
+     "gloss": "he who begs"
     }
    ],
    "gloss": "he who begs"
@@ -30,33 +15,23 @@
    "surface": "வெகுளாமை",
    "parts": [
     {
-     "text": "வெகுள்",
-     "lemma": "வெகுள்",
-     "gloss": "to be angry"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "text": "வெகுளாமை",
+     "lemma": "வெகுளாமை",
+     "gloss": "not getting angry"
     }
    ],
-   "gloss": "not being angry"
+   "gloss": "not getting angry"
   },
   {
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டு",
-     "lemma": "வேண்டு",
-     "gloss": "to be necessary"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "text": "வேண்டும்",
+     "lemma": "வேண்டுதல்",
+     "gloss": "is required"
     }
    ],
-   "gloss": "is necessary"
+   "gloss": "is required"
   },
   {
    "surface": "நிரப்பு",
@@ -75,10 +50,10 @@
     {
      "text": "இடும்பை",
      "lemma": "இடும்பை",
-     "gloss": "sorrow"
+     "gloss": "distress"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distress"
   },
   {
    "surface": "தானேயும்",
@@ -91,7 +66,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed"
     },
     {
      "text": "உம்",
@@ -99,20 +74,15 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even itself"
+   "gloss": "even itself indeed"
   },
   {
    "surface": "சாலும்",
    "parts": [
     {
-     "text": "சால்",
-     "lemma": "சால்",
-     "gloss": "to be sufficient"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future/habitual suffix"
+     "text": "சாலும்",
+     "lemma": "சாலுதல்",
+     "gloss": "is sufficient"
     }
    ],
    "gloss": "is sufficient"
@@ -129,10 +99,10 @@
    "gloss": "witness"
   }
  ],
- "literal": "He who begs not being angry is necessary; poverty's sorrow even itself is sufficient witness.",
- "translation": "One who begs must not grow angry when refused. The sorrow of poverty itself is sufficient witness to the harshness of the world.",
- "modern": "யாசிப்பவர் பிறர் பொருள் தர மறுக்கும்போது கோபப்படாமல் இருக்க வேண்டும். வறுமையால் வரும் துன்பமே அதற்குப் போதுமான சாட்சியாகும்.",
- "explanation": "This couplet instructs those who ask for help to refrain from anger when they are refused. The phrase 'vekuḷāmai vēṇṭum' clearly states that not getting angry is a necessity for a beggar. The second line explains that the sorrow of poverty ('nirappu iṭumpai') is itself a sufficient witness ('cālum kari'). This implies that the harsh suffering caused by poverty is proof enough of why others might cling to their wealth, making the beggar's anger both unjustified and futile.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who begs, not getting angry is required; the distress of poverty, even itself indeed, is sufficient witness.",
+ "translation": "One who begs must not get angry when refused; the distress of his own poverty is itself a sufficient witness to his helpless state.",
+ "modern": "இரப்பவர் பிறர் தமக்குக் கொடாவிட்டாலும் கோபிக்காமல் இருக்க வேண்டும்; அவருடைய வறுமைத் துன்பமே அதற்குப் போதுமான சான்றாகும்.",
+ "explanation": "This couplet advises those who are forced to beg to maintain patience and avoid anger when they are turned away. The poet explains that the beggar's own state of poverty and the suffering it brings ('nirappu iṭumpai') serve as a sufficient witness ('kari') to their helplessness. Getting angry at others who do not give is pointless, as the beggar's own destitute condition already proves their lack of power or standing to demand anything. Thus, accepting one's situation without resentment is the only dignified path left.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

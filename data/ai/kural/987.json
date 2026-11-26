@@ -6,18 +6,23 @@
     {
      "text": "இன்னா",
      "lemma": "இன்னா",
-     "gloss": "harm"
+     "gloss": "harmful things"
     }
    ],
-   "gloss": "harm"
+   "gloss": "harmful things"
   },
   {
    "surface": "செய்தார்க்கும்",
    "parts": [
     {
-     "text": "செய்தார்க்கு",
+     "text": "செய்தார்",
      "lemma": "செய்",
-     "gloss": "to those who did"
+     "gloss": "those who did"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     },
     {
      "text": "உம்",
@@ -32,8 +37,8 @@
    "parts": [
     {
      "text": "இனிய",
-     "lemma": "இனிமை",
-     "gloss": "sweet things"
+     "lemma": "இனிது",
+     "gloss": "pleasant things"
     },
     {
      "text": "ஏ",
@@ -41,7 +46,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "only sweet things"
+   "gloss": "pleasant things indeed"
   },
   {
    "surface": "செய்யாக்கால்",
@@ -57,7 +62,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if not done"
+   "gloss": "if one does not do"
   },
   {
    "surface": "என்ன",
@@ -76,15 +81,15 @@
     {
      "text": "பயத்தது",
      "lemma": "பயன்",
-     "gloss": "that which has the use"
+     "gloss": "of value"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[question]"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "is the use of it?"
+   "gloss": "of what value is it"
   },
   {
    "surface": "சால்பு",
@@ -92,16 +97,16 @@
     {
      "text": "சால்பு",
      "lemma": "சால்பு",
-     "gloss": "nobility"
+     "gloss": "nobility of character"
     }
    ],
-   "gloss": "nobility"
+   "gloss": "nobility of character"
   }
  ],
- "literal": "Harm - even to those who did - sweet things indeed - if not done - what - use is it - nobility?",
- "translation": "If one does not do good even to those who have done them harm, what is the use of nobility?",
- "modern": "தமக்குத் துன்பம் செய்தவர்க்கும் இனிய நன்மைகளைச் செய்யாவிட்டால், ஒருவருடைய சால்பினால் என்ன பயன்?",
- "explanation": "This couplet questions the very purpose of nobility or perfection of character (சால்பு). It states that the true test of such greatness is responding to harm (இன்னா) with kindness. If a noble person cannot do good even to those who have wronged them, their nobility yields no real fruit (என்ன பயத்ததோ). The emphasis marker in இனியவே stresses that only sweet or good deeds should be returned for evil.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Harmful things to those who did, pleasant things indeed if not done, what value is nobility of character?",
+ "translation": "If one does not do pleasant things even to those who have done harm, of what use is one's nobility of character?",
+ "modern": "நமக்குத் துன்பம் செய்தவர்களுக்கும் நாம் நன்மையே செய்யாவிட்டால், நம்முடைய சான்றாண்மை என்னும் பண்பினால் என்ன பயன்?",
+ "explanation": "This couplet defines the ultimate test of 'சால்பு' (nobility or perfect character). It states that true nobility is not just being good to those who are good to us, but doing good ('இனியவே') even to those who have caused us harm ('இன்னாசெய்தார்'). If a person cannot rise to this level of benevolence, their claim to a noble character holds no real value or purpose.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

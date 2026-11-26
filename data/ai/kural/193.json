@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "நயன்",
-     "lemma": "நயன்",
+     "lemma": "நயம்",
      "gloss": "goodness"
     }
    ],
@@ -16,18 +16,18 @@
    "parts": [
     {
      "text": "இலன்",
-     "lemma": "இல்",
-     "gloss": "he is without"
+     "lemma": "இலன்",
+     "gloss": "one who lacks"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "one who lacks"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
      "text": "என்பது",
-     "lemma": "என்",
+     "lemma": "என்பது",
      "gloss": "the fact that"
     }
    ],
@@ -39,7 +39,7 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "say"
+     "gloss": "speak"
     },
     {
      "text": "உம்",
@@ -47,7 +47,7 @@
      "gloss": "will"
     }
    ],
-   "gloss": "will declare"
+   "gloss": "will reveal"
   },
   {
    "surface": "பயன்",
@@ -65,11 +65,11 @@
    "parts": [
     {
      "text": "இல",
-     "lemma": "இல்",
+     "lemma": "இல",
      "gloss": "things without"
     }
    ],
-   "gloss": "things without"
+   "gloss": "useless things"
   },
   {
    "surface": "பாரித்து",
@@ -77,21 +77,26 @@
     {
      "text": "பாரித்து",
      "lemma": "பாரி",
-     "gloss": "having elaborated"
+     "gloss": "expanding"
     }
    ],
-   "gloss": "having elaborated"
+   "gloss": "elaborating"
   },
   {
    "surface": "உரைக்கும்",
    "parts": [
     {
-     "text": "உரைக்கும்",
+     "text": "உரை",
      "lemma": "உரை",
-     "gloss": "which speaks"
+     "gloss": "speak"
+    },
+    {
+     "text": "க்கும்",
+     "lemma": "க்கும்",
+     "gloss": "that speaks"
     }
    ],
-   "gloss": "which speaks"
+   "gloss": "that speaks"
   },
   {
    "surface": "உரை",
@@ -105,10 +110,10 @@
    "gloss": "speech"
   }
  ],
- "literal": "goodness he-is-without the-fact-that will-declare use things-without having-elaborated which-speaks speech",
- "translation": "A speech that elaborately dwells on useless things will declare that the speaker is a man without goodness.",
- "modern": "பயனில்லாத சொற்களை விரிவாகப் பேசும் ஒருவனது பேச்சே, அவன் அறம் இல்லாதவன் என்பதை உலகிற்குச் சொல்லிவிடும்.",
- "explanation": "This couplet explains how useless speech exposes a person's true character. When someone speaks at length about things that have no purpose or benefit, their own words act as a witness against them. The very act of elaborating on useless topics clearly declares to others that the speaker lacks inner goodness and virtue.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "\"He lacks goodness\" that fact will reveal, the useless, elaborately spoken words.",
+ "translation": "The useless words spoken at great length by a person will themselves proclaim that he is devoid of all goodness.",
+ "modern": "பயனற்ற சொற்களை விரிவாகப் பேசும் பேச்சு, ஒருவன் நற்பண்பு இல்லாதவன் என்பதை வெளிப்படுத்தும்.",
+ "explanation": "This couplet explains how speaking useless words exposes a person's character. When someone speaks at great length about trivial and useless matters, their own speech acts as a giveaway. It reveals to everyone that the speaker lacks goodness and virtue. Thus, empty talk not only wastes time but also ruins one's reputation by exposing a lack of inner worth.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

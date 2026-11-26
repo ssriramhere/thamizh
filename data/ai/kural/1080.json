@@ -11,23 +11,33 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "oblique case marker"
     },
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to/for"
     }
    ],
-   "gloss": "for what"
+   "gloss": "for what purpose"
   },
   {
    "surface": "உரியர்",
    "parts": [
     {
-     "text": "உரியர்",
-     "lemma": "உரியர்",
-     "gloss": "fit-they"
+     "text": "உரி",
+     "lemma": "உரிமை",
+     "gloss": "fit"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "glide"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
    "gloss": "are they fit"
@@ -41,7 +51,7 @@
      "gloss": "base people"
     }
    ],
-   "gloss": "the base"
+   "gloss": "the base people"
   },
   {
    "surface": "ஒன்று",
@@ -49,10 +59,10 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one (trouble)"
+     "gloss": "one thing / a crisis"
     }
    ],
-   "gloss": "a trouble"
+   "gloss": "a crisis / a difficulty"
   },
   {
    "surface": "உற்றக்கால்",
@@ -60,15 +70,20 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "befell"
+     "gloss": "having experienced"
+    },
+    {
+     "text": "க்",
+     "lemma": "க்",
+     "gloss": "increment"
     },
     {
      "text": "கால்",
      "lemma": "கால்",
-     "gloss": "when"
+     "gloss": "when/if"
     }
    ],
-   "gloss": "when befalls"
+   "gloss": "when it occurs"
   },
   {
    "surface": "விற்றற்கு",
@@ -81,21 +96,31 @@
     {
      "text": "கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to/for"
     }
    ],
-   "gloss": "for selling"
+   "gloss": "to sell themselves"
   },
   {
    "surface": "உரியர்",
    "parts": [
     {
-     "text": "உரியர்",
-     "lemma": "உரியர்",
-     "gloss": "fit-they"
+     "text": "உரி",
+     "lemma": "உரிமை",
+     "gloss": "fit"
+    },
+    {
+     "text": "ய்",
+     "lemma": "ய்",
+     "gloss": "glide"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "they are fit"
+   "gloss": "are they fit"
   },
   {
    "surface": "விரைந்து",
@@ -109,10 +134,10 @@
    "gloss": "quickly"
   }
  ],
- "literal": "For what are they fit, the base? One (trouble) when befalls, for selling are they fit, having hastened.",
- "translation": "What are the base actually good for? When trouble strikes, they are only fit to quickly sell themselves.",
- "modern": "கயவர்கள் எதற்குத்தான் பயன்படுவார்கள்? ஒரு சிறு துன்பம் வந்தாலும், தங்களை விரைவாக விற்றுக்கொள்ளவே அவர்கள் பயன்படுவார்கள்.",
- "explanation": "The couplet asks a rhetorical question: what purpose do base people serve? The word 'எற்றிற்கு' (for what) sets up this inquiry into their usefulness. The answer is that when 'ஒன்று' (one thing, implying a hardship or crisis) happens to them, they will immediately sell themselves out. 'விற்றற்கு' (for selling) means they will compromise their dignity, betray others, or literally sell themselves into servitude to escape trouble. Thus, their only predictable utility is their swift readiness to abandon their principles when pressured.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For what are they fit, the base people? If a crisis occurs, to sell themselves they are fit, quickly.",
+ "translation": "For what indeed are base people fit? If a crisis occurs, they are fit only to sell themselves in haste.",
+ "modern": "கீழ்மக்கள் எதற்குப் பயன்படுவார்கள்? ஒரு துன்பம் வந்தால், தங்களை விரைந்து விற்றுவிடுவதற்கு மட்டுமே அவர்கள் தகுதியானவர்கள்.",
+ "explanation": "This couplet satirizes the absolute worthlessness and lack of integrity of base people. The poet asks a rhetorical question: what are these low-minded people actually useful for? He answers with sharp irony: if any crisis or difficulty occurs, they will not stand by anyone or maintain their self-respect. Instead, they are only fit to quickly sell themselves out for personal gain or survival. The contrast between 'for what are they fit' and 'fit to sell themselves' highlights their complete lack of character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

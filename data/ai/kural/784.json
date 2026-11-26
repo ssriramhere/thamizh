@@ -9,7 +9,7 @@
      "gloss": "laughing"
     }
    ],
-   "gloss": "laughing"
+   "gloss": "laughing and making merry"
   },
   {
    "surface": "பொருட்டு",
@@ -27,11 +27,11 @@
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
-     "gloss": "is not"
+     "lemma": "அன்று",
+     "gloss": "it is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "it is not"
   },
   {
    "surface": "நட்டல்",
@@ -39,21 +39,26 @@
     {
      "text": "நட்டல்",
      "lemma": "நட்டல்",
-     "gloss": "befriending"
+     "gloss": "making friendship"
     }
    ],
-   "gloss": "befriending"
+   "gloss": "making friendship"
   },
   {
    "surface": "மிகுதிக்கண்",
    "parts": [
     {
-     "text": "மிகுதிக்கண்",
-     "lemma": "மிகுதிக்கண்",
-     "gloss": "at the time of excess"
+     "text": "மிகுதி",
+     "lemma": "மிகுதி",
+     "gloss": "excess or transgression"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "locative suffix meaning 'when' or 'in'"
     }
    ],
-   "gloss": "at the time of excess"
+   "gloss": "when there is excess or transgression"
   },
   {
    "surface": "மேல்",
@@ -83,10 +88,10 @@
     {
      "text": "இடித்தல்",
      "lemma": "இடித்தல்",
-     "gloss": "rebuking"
+     "gloss": "reproving or rebuking"
     }
    ],
-   "gloss": "rebuking"
+   "gloss": "reproving or correcting sharply"
   },
   {
    "surface": "பொருட்டு",
@@ -100,10 +105,10 @@
    "gloss": "for the purpose of"
   }
  ],
- "literal": "Laughing purpose-of is-not befriending, excess-at forward having-gone rebuking purpose-of.",
- "translation": "Friendship is not made just for the purpose of laughing together; it is for the purpose of stepping forward to rebuke when a friend goes astray.",
- "modern": "நட்பு கொள்வது ஒருவரோடு ஒருவர் சிரித்து மகிழ்வதற்காக மட்டும் அல்ல; நண்பர் தவறு செய்யும் போது, முந்திச் சென்று அவரைத் திருத்துவதற்காகவே ஆகும்.",
- "explanation": "This couplet defines the true purpose of friendship. It clarifies that making friends is not merely for sharing jokes and enjoying each other's company. Rather, the core value of friendship lies in taking the initiative to intervene and correct a friend when they overstep boundaries or make mistakes. The word 'இடித்தல்' (rebuking or striking) powerfully conveys the firm, corrective action a true friend must take.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Laughing for the purpose is not making friendship; when there is excess, going forward and reproving is the purpose.",
+ "translation": "Friendship is not made merely for the purpose of laughing and making merry; its true purpose is to go forward and sharply reprove a friend when they overstep bounds.",
+ "modern": "நட்புச் செய்தல் என்பது கூடிச் சிரித்து மகிழ்வதற்காக மட்டும் அன்று; நண்பர் தவறு செய்யும்போது அவரிடம் சென்று கடிந்து அறிவுரை கூறுவதற்காகவே ஆகும்.",
+ "explanation": "This couplet defines the true purpose of friendship. It states that friendship is not meant merely for pleasant socializing, laughter, and amusement (நகுதல்). Instead, when a friend exceeds proper bounds or commits a wrong (மிகுதி), the true duty of a friend is to step forward (மேற்சென்று) and boldly reprove or correct them (இடித்தல்). The word 'இடித்தல்' literally means crushing or pounding, which metaphorically signifies sharp, uncompromising correction rather than gentle, ineffective advice. Thus, true friendship involves the courage to correct a friend for their own good.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,10 +11,10 @@
     {
      "text": "பட்டேம்",
      "lemma": "படு",
-     "gloss": "we were"
+     "gloss": "we were (passive marker)"
     }
    ],
-   "gloss": "we are accepted"
+   "gloss": "we are highly esteemed and accepted"
   },
   {
    "surface": "என்று",
@@ -22,10 +22,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "thus"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking thus"
   },
   {
    "surface": "எண்ணி",
@@ -36,26 +36,31 @@
      "gloss": "having thought"
     }
    ],
-   "gloss": "having thought"
+   "gloss": "having considered"
   },
   {
    "surface": "கொள்ளாத",
    "parts": [
     {
      "text": "கொள்ளாத",
-     "lemma": "கொள்",
+     "lemma": "கொள்ளாத",
      "gloss": "unacceptable"
     }
    ],
-   "gloss": "unacceptable things"
+   "gloss": "unacceptable or improper deeds"
   },
   {
    "surface": "செய்யார்",
    "parts": [
     {
-     "text": "செய்யார்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "they will not do"
+     "gloss": "do"
+    },
+    {
+     "text": "யார்",
+     "lemma": "ஆர்",
+     "gloss": "they will not (negative suffix)"
     }
    ],
    "gloss": "they will not do"
@@ -66,7 +71,7 @@
     {
      "text": "துளக்கு",
      "lemma": "துளக்கு",
-     "gloss": "wavering"
+     "gloss": "wavering or confusion"
     }
    ],
    "gloss": "wavering"
@@ -77,10 +82,10 @@
     {
      "text": "அற்ற",
      "lemma": "அறு",
-     "gloss": "without"
+     "gloss": "devoid of"
     }
    ],
-   "gloss": "without"
+   "gloss": "free from"
   },
   {
    "surface": "காட்சியவர்",
@@ -88,21 +93,21 @@
     {
      "text": "காட்சி",
      "lemma": "காட்சி",
-     "gloss": "vision"
+     "gloss": "vision or wisdom"
     },
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "those of vision"
+   "gloss": "those who possess clear understanding"
   }
  ],
- "literal": "\"We are accepted\" thus having thought, unacceptable things they will not do, those of vision without wavering.",
- "translation": "Those of unwavering clear vision will not commit unacceptable acts, simply presuming \"We are highly esteemed.\"",
- "modern": "'நாம் அரசரால் பெரிதும் மதிக்கப்படுகிறோம்' என்று எண்ணி, தகாத செயல்களைத் தெளிவான அறிவை உடையவர்கள் செய்ய மாட்டார்கள்.",
- "explanation": "This couplet warns against the arrogance that can come from being close to power. Even if one thinks \"We are highly esteemed by the ruler\" (கொளப்பட்டேம் என்று எண்ணி), one must not commit inappropriate or unacceptable acts (கொள்ளாத). People of unwavering, clear judgment (துளக்கு அற்ற காட்சியவர்) understand this and never let their privileged position compromise their proper conduct.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "\"We are highly accepted,\" thinking thus, unacceptable deeds they will not do, those of unwavering clear understanding.",
+ "translation": "Those of unwavering, clear wisdom will not perform unacceptable deeds, presuming, \"We have been highly favored and accepted by the ruler.\"",
+ "modern": "\"நாம் அரசரால் ஏற்றுக்கொள்ளப்பட்டுவிட்டோம்\" என்று எண்ணிக் கொண்டு, செய்யத்தகாத செயல்களைத் தெளிவான அறிவுடையவர்கள் செய்யமாட்டார்கள்.",
+ "explanation": "This couplet advises ministers and courtiers on how to behave when they enjoy the ruler's favor. People of unwavering clarity and wisdom ('துளக்கற்ற காட்சியவர்') never let their privileged position get to their heads. They do not presume upon their closeness to the ruler ('கொளப்பட்டேம் என்று எண்ணி') to commit improper or forbidden acts ('கொள்ளாத செய்யார்'). Their steady intellect keeps them mindful that royal favor is no license for transgression.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

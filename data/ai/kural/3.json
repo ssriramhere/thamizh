@@ -21,11 +21,11 @@
    "parts": [
     {
      "text": "ஏகினான்",
-     "lemma": "ஏகு",
-     "gloss": "he who went"
+     "lemma": "ஏகுதல்",
+     "gloss": "he who passed"
     }
    ],
-   "gloss": "he who went"
+   "gloss": "he who passed"
   },
   {
    "surface": "மாண்",
@@ -54,11 +54,11 @@
    "parts": [
     {
      "text": "சேர்ந்தார்",
-     "lemma": "சேர்",
-     "gloss": "they who reached"
+     "lemma": "சேர்தல்",
+     "gloss": "those who reached"
     }
    ],
-   "gloss": "they who reached"
+   "gloss": "those who reached"
   },
   {
    "surface": "நிலமிசை",
@@ -69,7 +69,8 @@
      "gloss": "upon the earth"
     }
    ],
-   "gloss": "upon the earth"
+   "gloss": "upon the earth",
+   "split_unverified": true
   },
   {
    "surface": "நீடு",
@@ -87,17 +88,17 @@
    "parts": [
     {
      "text": "வாழ்வார்",
-     "lemma": "வாழ்",
+     "lemma": "வாழ்தல்",
      "gloss": "they will live"
     }
    ],
    "gloss": "they will live"
   }
  ],
- "literal": "Flower-upon he-who-went glorious feet they-who-reached earth-upon long they-will-live.",
- "translation": "Those who reach the glorious feet of the one who walked upon the flower will live long upon the earth.",
- "modern": "மலரின் மீது நடந்தவனின் மாண்புமிக்க திருவடிகளைச் சேர்ந்தவர்கள், இந்த உலகின் மீது நெடுங்காலம் வாழ்வார்கள்.",
- "explanation": "This couplet states that those who reach the glorious feet of the divine will live a long and enduring life on earth. The phrase 'மலர்மிசை ஏகினான்' literally means 'he who went upon the flower', presenting a vivid and gentle image of the divine. By uniting with ('சேர்ந்தார்') these excellent feet ('மாண் அடி'), a person secures a lasting and prosperous life ('நீடு வாழ்வார்') in this world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Upon the flower he who went, his glorious feet those who reached, upon the earth long they will live.",
+ "translation": "Those who seek refuge at the glorious feet of the One who passed over the lotus of the heart will live long and well upon this earth.",
+ "modern": "அன்பர்களின் மனமாகிய மலரின் மேல் வீற்றிருப்பவனுடைய சிறந்த திருவடிகளைப் பற்றி நின்றவர்கள், இவ்வுலகில் நெடுங்காலம் இன்புற்று வாழ்வார்கள்.",
+ "explanation": "This couplet describes the fruit of devotion. The phrase 'மலர்மிசை ஏகினான்' refers to the Divine who passes over or dwells within the lotus-like hearts of devotees, where 'மிசை' means 'upon'. Those who reach and hold onto the glorious feet ('மாணடி') of this Divine Being will find stability. The poet promises that such devotees will live a long, meaningful, and prosperous life ('நீடுவாழ்வார்') right here on this earth ('நிலமிசை').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

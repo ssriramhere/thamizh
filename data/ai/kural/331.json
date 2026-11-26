@@ -11,36 +11,26 @@
     {
      "text": "வற்று",
      "lemma": "வற்று",
-     "gloss": "inflectional increment"
+     "gloss": "neuter plural increment"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "transient things (accusative)"
+   "gloss": "those things which do not last (accusative)"
   },
   {
    "surface": "நிலையின",
    "parts": [
     {
-     "text": "நிலை",
-     "lemma": "நிலை",
-     "gloss": "stability"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "euphonic suffix"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "text": "நிலையின",
+     "lemma": "நிலையின",
+     "gloss": "permanent things"
     }
    ],
-   "gloss": "stable things"
+   "gloss": "as permanent things"
   },
   {
    "surface": "என்று",
@@ -48,10 +38,10 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "thus"
     }
    ],
-   "gloss": "saying (that)"
+   "gloss": "thus"
   },
   {
    "surface": "உணரும்",
@@ -59,18 +49,18 @@
     {
      "text": "உணரும்",
      "lemma": "உணர்",
-     "gloss": "understanding"
+     "gloss": "believing"
     }
    ],
-   "gloss": "understanding"
+   "gloss": "believing"
   },
   {
    "surface": "புல்லறிவாண்மை",
    "parts": [
     {
      "text": "புல்",
-     "lemma": "புன்மை",
-     "gloss": "petty"
+     "lemma": "புல்",
+     "gloss": "mean or low"
     },
     {
      "text": "அறிவு",
@@ -80,10 +70,10 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "quality"
+     "gloss": "possession"
     }
    ],
-   "gloss": "nature of petty knowledge"
+   "gloss": "the possession of low wisdom"
   },
   {
    "surface": "கடை",
@@ -91,16 +81,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "lowest"
+     "gloss": "lowest state"
     }
    ],
-   "gloss": "lowest"
+   "gloss": "the lowest state"
   }
  ],
- "literal": "transient things / stable things / that / understanding / petty knowledge quality / lowest",
- "translation": "To perceive things that do not last as permanent is the lowest form of ignorance.",
- "modern": "நிலைத்து நிற்காத பொருள்களை என்றென்றும் நிலைத்திருப்பவை என்று நம்புகின்ற அற்ப அறிவு மிகவும் கீழானதாகும்.",
- "explanation": "This couplet defines the worst kind of ignorance as the inability to recognize impermanence. The word நில்லாதவற்றை refers to worldly things like wealth and youth that do not last. Believing them to be நிலையின or permanent shows a petty or shallow understanding, which the poet condemns as the lowest state of mind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those things which do not stand, as permanent things, thus believing, that possession of low wisdom, is the lowest state.",
+ "translation": "To mistake transient things for permanent realities is the lowest form of ignorance.",
+ "modern": "நிலைத்து நிற்காத பொருள்களை நிலையானவை என்று நம்புகின்ற சிற்றறிவுடைமை மிக இழிவானதாகும்.",
+ "explanation": "This couplet defines the lowest level of ignorance, termed 'pullarivanmai' (poor understanding). It occurs when a person mistakes transient, fleeting things (nillathavatrai) for eternal, permanent realities (nilaiyina). The author calls this delusion the lowest state (kadai) of human intellect. Recognizing the impermanent nature of worldly things is the first step toward true wisdom.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

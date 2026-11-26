@@ -4,17 +4,12 @@
    "surface": "கான",
    "parts": [
     {
-     "text": "கான்",
-     "lemma": "கான்",
+     "text": "கான",
+     "lemma": "கானம்",
      "gloss": "forest"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "forest"
+   "gloss": "of the forest"
   },
   {
    "surface": "முயல்",
@@ -36,17 +31,12 @@
      "gloss": "shoot"
     },
     {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
+     "text": "த",
      "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "shot"
+   "gloss": "that shot"
   },
   {
    "surface": "அம்பினில்",
@@ -59,12 +49,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "inflectional increment"
+     "gloss": "oblique suffix"
     },
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "than (ablative)"
+     "gloss": "than (comparative)"
     }
    ],
    "gloss": "than the arrow"
@@ -89,22 +79,12 @@
      "gloss": "miss"
     },
     {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "அ",
+     "text": "த்த",
      "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "past adjectival participle suffix"
     }
    ],
-   "gloss": "missed"
+   "gloss": "that missed"
   },
   {
    "surface": "வேல்",
@@ -138,17 +118,17 @@
    "parts": [
     {
      "text": "இனிது",
-     "lemma": "இனிமை",
-     "gloss": "is sweet"
+     "lemma": "இனிது",
+     "gloss": "sweet/pleasant"
     }
    ],
-   "gloss": "is sweeter"
+   "gloss": "is honorable/sweet"
   }
  ],
- "literal": "Forest hare shot than-arrow elephant missed spear holding is-sweeter.",
- "translation": "Holding a spear that missed an elephant is sweeter than holding an arrow that successfully hit a forest hare.",
- "modern": "காட்டில் உள்ள முயலை எய்து வீழ்த்திய அம்பினை ஏந்துவதை விட, பெரிய யானை மீது எறிந்து குறி தவறிய வேலை ஏந்துவது பெருமையாகும்.",
- "explanation": "This couplet contrasts a successful but small achievement with a failed but grand ambition. Hitting a timid forest hare with an arrow requires little courage, so the success brings no real glory. In contrast, daring to attack a massive elephant with a spear shows immense bravery, making even a missed strike a mark of honor. The word 'iṉitu' (sweet or pleasant) emphasizes that true satisfaction and pride come from the magnitude of the attempt, not just the outcome.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than the arrow that shot a forest hare, holding a spear that missed an elephant is sweet.",
+ "translation": "Holding a spear that missed a mighty elephant is far more honorable than holding an arrow that successfully struck down a forest hare.",
+ "modern": "காட்டு முயலை எய்த அம்பை ஏந்துவதை விட, யானையின் மேல் எறிந்து தவறிய வேலை ஏந்துவது பெருமை தருவதாகும்.",
+ "explanation": "This couplet highlights the virtue of high ambition and courage. The poet contrasts two scenarios: a hunter who successfully shoots a small forest hare with an arrow, and a warrior who hurls a spear at a mighty elephant but misses. Wielding the spear that missed the elephant is considered far more honorable and 'sweet' (இனிது) because it represents a brave attempt at a grand challenge. The contrast between the small 'முயல்' (hare) and the giant 'யானை' (elephant) teaches that aiming high and failing is far more glorious than aiming low and succeeding.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

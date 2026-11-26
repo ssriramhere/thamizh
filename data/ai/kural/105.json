@@ -9,7 +9,7 @@
      "gloss": "help"
     }
    ],
-   "gloss": "help"
+   "gloss": "The help rendered"
   },
   {
    "surface": "வரைத்து",
@@ -17,21 +17,21 @@
     {
      "text": "வரைத்து",
      "lemma": "வரைத்து",
-     "gloss": "extent-it-is"
+     "gloss": "of the measure"
     }
    ],
-   "gloss": "extent-it-is"
+   "gloss": "is of the measure"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
-     "gloss": "is-not"
+     "lemma": "அன்று",
+     "gloss": "is not"
     }
    ],
-   "gloss": "is-not"
+   "gloss": "not"
   },
   {
    "surface": "உதவி",
@@ -42,7 +42,7 @@
      "gloss": "help"
     }
    ],
-   "gloss": "help"
+   "gloss": "of the help itself"
   },
   {
    "surface": "உதவி",
@@ -53,23 +53,18 @@
      "gloss": "help"
     }
    ],
-   "gloss": "help"
+   "gloss": "the true value of the help"
   },
   {
    "surface": "செயப்பட்டார்",
    "parts": [
     {
-     "text": "செய",
-     "lemma": "செய்",
-     "gloss": "to-do"
-    },
-    {
-     "text": "பட்டார்",
-     "lemma": "படு",
-     "gloss": "experienced-they"
+     "text": "செயப்பட்டார்",
+     "lemma": "செயப்பட்டார்",
+     "gloss": "those who received"
     }
    ],
-   "gloss": "those-who-received"
+   "gloss": "of those who received it"
   },
   {
    "surface": "சால்பின்",
@@ -85,7 +80,7 @@
      "gloss": "of"
     }
    ],
-   "gloss": "of-nobility"
+   "gloss": "of the nobility or worth"
   },
   {
    "surface": "வரைத்து",
@@ -93,16 +88,16 @@
     {
      "text": "வரைத்து",
      "lemma": "வரைத்து",
-     "gloss": "extent-it-is"
+     "gloss": "of the measure"
     }
    ],
-   "gloss": "extent-it-is"
+   "gloss": "is of the measure"
   }
  ],
- "literal": "Help extent-it-is is-not help; help done-they-who-received of-nobility extent-it-is.",
- "translation": "The value of a help is not measured by the extent of the help itself. It is measured by the nobility of those who received it.",
- "modern": "ஒருவருக்குச் செய்யும் உதவியின் மதிப்பு, அந்த உதவியின் அளவைப் பொறுத்தது அன்று. அது அந்த உதவியைப் பெற்றவர்களின் நற்பண்பின் அளவைப் பொறுத்தது.",
- "explanation": "This couplet explains how to measure the true worth of a good deed. The word 'உதவி' (help) is repeated to contrast the physical act of helping with its ultimate value. The extent ('வரைத்து') of a benefit is not determined by the material size of the help given. Instead, its true measure corresponds to the 'சால்பு' (nobility or worthiness) of the person who receives it, as a noble person will value even a small help immensely.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The help's measure is not the help itself; the help's value is of the measure of the nobility of those who received it.",
+ "translation": "The value of a help is not determined by the assistance itself; it is measured by the noble character of those who receive it.",
+ "modern": "ஒருவர் செய்த உதவியின் அளவு, அந்த உதவியின் தன்மையைப் பொறுத்தது அன்று; உதவி பெற்றவருடைய தகுதியின் அளவைப் பொறுத்தது ஆகும்.",
+ "explanation": "This couplet explains how the true value of a helpful act is determined. The poet states that the worth of a favor does not lie in its material size or effort. Instead, the true measure of the help is defined by the noble character and gratitude of the person who receives it. A small act of kindness done to a highly virtuous person becomes immense, while a large favor done to an ungrateful person loses its value.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

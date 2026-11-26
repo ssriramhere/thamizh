@@ -6,21 +6,21 @@
     {
      "text": "கூற்று",
      "lemma": "கூற்று",
-     "gloss": "Death"
+     "gloss": "god of death"
     }
    ],
-   "gloss": "Death"
+   "gloss": "the god of death"
   },
   {
    "surface": "உடன்று",
    "parts": [
     {
      "text": "உடன்று",
-     "lemma": "உடல்",
+     "lemma": "உடலுதல்",
      "gloss": "having raged"
     }
    ],
-   "gloss": "having raged"
+   "gloss": "having become angry"
   },
   {
    "surface": "மேல்",
@@ -28,7 +28,7 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "against"
+     "gloss": "upon"
     }
    ],
    "gloss": "against"
@@ -38,7 +38,7 @@
    "parts": [
     {
      "text": "வரின்",
-     "lemma": "வா",
+     "lemma": "வரு",
      "gloss": "if comes"
     },
     {
@@ -58,7 +58,7 @@
      "gloss": "having united"
     }
    ],
-   "gloss": "having united"
+   "gloss": "having gathered together"
   },
   {
    "surface": "எதிர்",
@@ -66,10 +66,10 @@
     {
      "text": "எதிர்",
      "lemma": "எதிர்",
-     "gloss": "facing"
+     "gloss": "against"
     }
    ],
-   "gloss": "facing"
+   "gloss": "in opposition"
   },
   {
    "surface": "நிற்கும்",
@@ -77,10 +77,10 @@
     {
      "text": "நிற்கும்",
      "lemma": "நில்",
-     "gloss": "which stands"
+     "gloss": "that stands"
     }
    ],
-   "gloss": "which stands"
+   "gloss": "standing"
   },
   {
    "surface": "ஆற்றல்",
@@ -121,10 +121,10 @@
    "gloss": "army"
   }
  ],
- "literal": "Death having raged against even if comes, having united facing which stands strength, that indeed [is an] army.",
- "translation": "A true army is that which has the strength to stand united and face even Death, should it advance upon them in a rage.",
- "modern": "எமன் சினந்து தன் மேல் வந்தாலும், சிதறாமல் ஒன்றாகச் சேர்ந்து எதிர்த்து நிற்கும் வலிமை உடையதே சிறந்த படையாகும்.",
- "explanation": "This couplet defines the ultimate courage and solidarity of a true army. The word 'கூற்று' (Death) represents the most terrifying and invincible foe imaginable. Even if Death itself were to advance upon them in fury, a great army will not scatter in fear. Instead, they will unite ('கூடி') and stand their ground ('எதிர் நிற்கும்'). The true mark of an army is this collective strength ('ஆற்றல்') to face certain doom without breaking ranks.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if the god of death, having raged, comes against [them], standing united in opposition—that strength indeed is an army.",
+ "translation": "Even if the God of Death himself should advance in a rage, a true army is that which stands united and resists him.",
+ "modern": "எமனே சினந்து எதிர்த்து வந்தாலும், ஒன்று கூடி எதிர்த்து நிற்கும் வலிமையைப் பெற்றிருப்பதே உண்மையான படையாகும்.",
+ "explanation": "This couplet defines the ultimate courage and solidarity of a true army. Even if the god of death (கூற்று) rages (உடன்று) and marches against them, the soldiers must not scatter in panic. Instead, they must band together (கூடி) and stand firm in resistance (எதிர் நிற்கும்). The collective strength (ஆற்றல்) to face even the absolute certainty of death is what truly constitutes an army (படை).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

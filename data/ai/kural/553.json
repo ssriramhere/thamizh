@@ -9,23 +9,19 @@
      "gloss": "every day"
     }
    ],
-   "gloss": "every day"
+   "gloss": "every day",
+   "split_unverified": true
   },
   {
    "surface": "நாடி",
    "parts": [
     {
-     "text": "நாடு",
+     "text": "நாடி",
      "lemma": "நாடு",
-     "gloss": "to examine"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having investigated"
     }
    ],
-   "gloss": "having examined"
+   "gloss": "having investigated"
   },
   {
    "surface": "முறை",
@@ -42,28 +38,23 @@
    "surface": "செய்யா",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்யா",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
+     "gloss": "not doing"
     }
    ],
-   "gloss": "who does not do"
+   "gloss": "who does not administer"
   },
   {
    "surface": "மன்னவன்",
    "parts": [
     {
      "text": "மன்னவன்",
-     "lemma": "மன்னவன்",
+     "lemma": "மன்னன்",
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "the king"
   },
   {
    "surface": "நாடொறும்",
@@ -74,7 +65,8 @@
      "gloss": "every day"
     }
    ],
-   "gloss": "every day"
+   "gloss": "every day",
+   "split_unverified": true
   },
   {
    "surface": "நாடு",
@@ -85,29 +77,24 @@
      "gloss": "country"
     }
    ],
-   "gloss": "country"
+   "gloss": "the country"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடு",
+     "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "to be ruined"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will be ruined"
     }
    ],
    "gloss": "will be ruined"
   }
  ],
- "literal": "Every day having examined justice who does not do king every day country will be ruined.",
- "translation": "The country of a king who does not examine affairs and administer justice every day will fall into ruin day by day.",
- "modern": "ஒவ்வொரு நாளும் குற்றங்களை ஆராய்ந்து நீதி வழங்காத அரசனது நாடு, நாளுக்கு நாள் அழிந்து போகும்.",
- "explanation": "A king's primary duty is to actively oversee his administration and ensure justice is delivered continuously. If he fails to examine the daily affairs and correct wrongs, the foundation of his rule weakens. Consequently, his country will face steady and inevitable destruction day after day. The repetition of the word for 'every day' emphasizes that justice requires constant vigilance, not just occasional attention.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Every day, having investigated, justice not-administering king's, every day the country will be ruined.",
+ "translation": "The country of a king who does not investigate and administer justice daily will ruin itself day by day.",
+ "modern": "நாள்தோறும் ஆராய்ந்து நீதி வழங்காத அரசனுடைய நாடானது, நாள்தோறும் அழிவை நோக்கிச் செல்லும்.",
+ "explanation": "This couplet highlights the immediate and continuous consequences of negligent governance. The poet uses the word 'நாடொறும்' (every day) twice to establish a direct cause-and-effect relationship. If a ruler fails to investigate grievances ('நாடி') and deliver justice ('முறைசெய்யா') on a daily basis, the decline of the nation is not a distant event but a daily process of decay ('நாடு கெடும்'). Good governance requires constant vigilance, and its absence leads to the steady, day-by-day ruin of the state.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

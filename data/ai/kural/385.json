@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "இயற்றல்",
-     "lemma": "இயற்று",
+     "lemma": "இயற்றல்",
      "gloss": "producing"
     },
     {
@@ -14,15 +14,15 @@
      "gloss": "and"
     }
    ],
-   "gloss": "producing and"
+   "gloss": "and producing"
   },
   {
    "surface": "ஈட்டலும்",
    "parts": [
     {
      "text": "ஈட்டல்",
-     "lemma": "ஈட்டு",
-     "gloss": "collecting"
+     "lemma": "ஈட்டல்",
+     "gloss": "gathering"
     },
     {
      "text": "உம்",
@@ -30,15 +30,15 @@
      "gloss": "and"
     }
    ],
-   "gloss": "collecting and"
+   "gloss": "and gathering"
   },
   {
    "surface": "காத்தலும்",
    "parts": [
     {
      "text": "காத்தல்",
-     "lemma": "கா",
-     "gloss": "protecting"
+     "lemma": "காத்தல்",
+     "gloss": "guarding"
     },
     {
      "text": "உம்",
@@ -46,25 +46,25 @@
      "gloss": "and"
     }
    ],
-   "gloss": "protecting and"
+   "gloss": "and guarding"
   },
   {
    "surface": "காத்த",
    "parts": [
     {
      "text": "காத்த",
-     "lemma": "கா",
-     "gloss": "protected"
+     "lemma": "காத்தல்",
+     "gloss": "guarded"
     }
    ],
-   "gloss": "what is protected"
+   "gloss": "guarded"
   },
   {
    "surface": "வகுத்தலும்",
    "parts": [
     {
      "text": "வகுத்தல்",
-     "lemma": "வகு",
+     "lemma": "வகுத்தல்",
      "gloss": "distributing"
     },
     {
@@ -73,23 +73,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "distributing and"
+   "gloss": "and distributing"
   },
   {
    "surface": "வல்லது",
    "parts": [
     {
-     "text": "வல்",
+     "text": "வல்லது",
      "lemma": "வல்",
-     "gloss": "capable"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "gloss": "that which is capable"
     }
    ],
-   "gloss": "that which is capable"
+   "gloss": "is capable of"
   },
   {
    "surface": "அரசு",
@@ -97,16 +92,16 @@
     {
      "text": "அரசு",
      "lemma": "அரசு",
-     "gloss": "king"
+     "gloss": "government"
     }
    ],
-   "gloss": "king"
+   "gloss": "a government"
   }
  ],
- "literal": "Producing and, collecting and, protecting and, the protected distributing and, capable is the king.",
- "translation": "A true king is capable of creating sources of wealth, collecting it, protecting it, and properly distributing what has been protected.",
- "modern": "பொருள் வரும் வழிகளை உருவாக்குவதும், பொருளைச் சேர்ப்பதும், சேர்த்ததைக் காப்பதும், காத்த பொருளைப் பிரித்துச் செலவிடுவதும் ஆகிய செயல்களில் வல்லதே சிறந்த அரசாகும்.",
- "explanation": "This couplet outlines the four essential economic duties of a ruler. First, 'இயற்றல்' means creating or facilitating sources of wealth. Second, 'ஈட்டல்' is the collection and accumulation of that wealth into the treasury. Third, 'காத்தல்' involves guarding the gathered wealth from loss, while 'வகுத்தல்' means properly distributing the protected wealth for the public good. A state is defined by its capability to perform all four of these sequential tasks effectively.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And producing, and gathering, and guarding, and distributing the guarded (wealth), is what a capable government does.",
+ "translation": "An able government is one that can generate wealth, gather it, safeguard it, and distribute what has been safeguarded.",
+ "modern": "பொருளை உருவாக்கும் வழிகளை அறிதலும், அவ்வாறு வரும் பொருளைச் சேர்த்தலும், சேர்த்த பொருளைக் காத்தலும், காத்த பொருளைத் திட்டமிட்டுப் பகிர்ந்தளித்தலும் வல்லதே சிறந்த அரசு ஆகும்.",
+ "explanation": "This couplet outlines the four essential economic duties of an effective state or ruler. First, 'iyaṟṟal' refers to creating or identifying new sources of revenue. Second, 'īṭṭal' is the actual collection and accumulation of these resources into the treasury. Third, 'kāttal' is safeguarding the collected wealth from external threats, waste, or corruption. Finally, 'vakuttal' is the wise allocation and distribution of the protected wealth for public welfare, defense, and development. A state that excels in all four of these functions is deemed capable and successful.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

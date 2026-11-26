@@ -17,10 +17,10 @@
     {
      "text": "ஒழிய",
      "lemma": "ஒழி",
-     "gloss": "to cease"
+     "gloss": "to be excluded"
     }
    ],
-   "gloss": "ceasing"
+   "gloss": "being excluded"
   },
   {
    "surface": "வாழ்வாரே",
@@ -44,10 +44,10 @@
     {
      "text": "வாழ்வார்",
      "lemma": "வாழ்",
-     "gloss": "they live"
+     "gloss": "those who live"
     }
    ],
-   "gloss": "they live"
+   "gloss": "are those who truly live"
   },
   {
    "surface": "இசை",
@@ -66,10 +66,10 @@
     {
      "text": "ஒழிய",
      "lemma": "ஒழி",
-     "gloss": "to cease"
+     "gloss": "to be excluded"
     }
    ],
-   "gloss": "ceasing"
+   "gloss": "being excluded"
   },
   {
    "surface": "வாழ்வாரே",
@@ -92,17 +92,17 @@
    "parts": [
     {
      "text": "வாழாதவர்",
-     "lemma": "வாழ்",
+     "lemma": "வாழாதவர்",
      "gloss": "those who do not live"
     }
    ],
-   "gloss": "those who do not live"
+   "gloss": "are those who do not live"
   }
  ],
- "literal": "Blame ceasing those who live indeed they live; fame ceasing those who live indeed those who do not live.",
- "translation": "Only those who live without blame truly live. Those who live without fame are as good as dead.",
- "modern": "பழி இல்லாமல் வாழ்பவர்களே உண்மையாக வாழ்பவர்கள். புகழ் இல்லாமல் வாழ்பவர்கள் உயிருடன் இருந்தாலும் வாழாதவர்களே ஆவர்.",
- "explanation": "This couplet contrasts a life of blame with a life of fame. The word vasai means blame or reproach, and living without it is the mark of true life. Conversely, isai means fame or good reputation. The poet asserts that those who exist without earning a good reputation do not truly live at all, equating a fameless existence to not being alive.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Blame being excluded, those who live indeed are those who live; fame being excluded, those who live indeed are those who do not live.",
+ "translation": "Those who live free from blame are the ones who truly live; those who live without earning fame are those who do not live at all.",
+ "modern": "பழி இல்லாமல் வாழ்பவர்களே உண்மையாக வாழ்பவர்கள்; புகழ் இல்லாமல் வாழ்பவர்கள் உயிரோடு இருந்தாலும் வாழாதவர்களே ஆவர்.",
+ "explanation": "This couplet contrasts a meaningful life of honor with a meaningless existence. The poet defines true living through two conditions: the absence of blame (வசை) and the presence of fame (இசை). Those who live in such a way that they avoid reproach are celebrated as the truly living. On the other hand, those who exist without achieving any good reputation or fame are considered as good as dead, merely passing through life without truly living.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

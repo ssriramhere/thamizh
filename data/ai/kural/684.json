@@ -6,10 +6,10 @@
     {
      "text": "அறிவு",
      "lemma": "அறிவு",
-     "gloss": "intelligence"
+     "gloss": "intellect"
     }
    ],
-   "gloss": "intelligence"
+   "gloss": "natural intellect"
   },
   {
    "surface": "உரு",
@@ -20,7 +20,7 @@
      "gloss": "appearance"
     }
    ],
-   "gloss": "appearance"
+   "gloss": "dignified appearance"
   },
   {
    "surface": "ஆராய்ந்த",
@@ -28,10 +28,10 @@
     {
      "text": "ஆராய்ந்த",
      "lemma": "ஆராய்",
-     "gloss": "well-examined"
+     "gloss": "deeply studied"
     }
    ],
-   "gloss": "well-examined"
+   "gloss": "well-examined / deeply studied"
   },
   {
    "surface": "கல்வி",
@@ -42,7 +42,7 @@
      "gloss": "learning"
     }
    ],
-   "gloss": "learning"
+   "gloss": "education / learning"
   },
   {
    "surface": "இம்",
@@ -66,7 +66,7 @@
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "of"
+     "gloss": "oblique suffix"
     }
    ],
    "gloss": "of the three"
@@ -80,20 +80,20 @@
      "gloss": "fullness"
     }
    ],
-   "gloss": "fullness"
+   "gloss": "fullness / abundance"
   },
   {
    "surface": "உடையான்",
    "parts": [
     {
      "text": "உடை",
-     "lemma": "உடை",
-     "gloss": "possess"
+     "lemma": "உடைமை",
+     "gloss": "possession"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he who"
+     "gloss": "he who has"
     }
    ],
    "gloss": "he who possesses"
@@ -109,7 +109,7 @@
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "let him"
+     "gloss": "optative suffix"
     }
    ],
    "gloss": "let him go"
@@ -120,21 +120,21 @@
     {
      "text": "வினை",
      "lemma": "வினை",
-     "gloss": "task"
+     "gloss": "mission"
     },
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to the"
+     "gloss": "dative suffix"
     }
    ],
-   "gloss": "to the task"
+   "gloss": "for the mission"
   }
  ],
- "literal": "Intelligence, appearance, well-examined learning: of these three, fullness he who possesses, let him go to the task.",
- "translation": "Let the man who possesses the fullness of these three traits—intelligence, a commanding appearance, and deeply researched learning—go forth on the mission.",
- "modern": "இயற்கையான அறிவு, நல்ல தோற்றம், ஆராய்ந்து கற்ற கல்வி ஆகிய இம்மூன்றின் நிறைவையும் உடையவனே தூதுப் பணிக்குச் செல்ல வேண்டும்.",
- "explanation": "This couplet defines the essential qualifications for an envoy sent on a diplomatic mission. The word 'அறிவு' (intelligence) refers to natural sharpness of mind, while 'உரு' (appearance) indicates a commanding and respectable physical presence. 'ஆராய்ந்த கல்வி' (well-examined learning) emphasizes that the envoy's education must be deep and thoroughly analyzed, not superficial. Only a person who possesses the 'செறிவு' (fullness or dense combination) of all three traits is fit to be dispatched for a state task ('வினை').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Intellect, appearance, deeply studied learning—he who has the fullness of these three, let him go for the mission.",
+ "translation": "Let him who possesses the perfect combination of these three qualities—natural intellect, a dignified appearance, and deeply studied learning—go forth on an envoy's mission.",
+ "modern": "இயற்கை அறிவு, தோற்றப் பொலிவு, ஆராய்ந்து கற்ற கல்வி ஆகிய இம்மூன்றின் செறிவை உடையவன் தூதுச் செயலுக்குச் செல்லட்டும்.",
+ "explanation": "This couplet outlines the three essential personal qualities required for an envoy before they are sent on a diplomatic mission. First is natural intellect (அறிவு), which allows them to think critically and respond wisely. Second is a dignified or pleasing appearance (உரு), which commands immediate respect and creates a favorable impression. Third is deeply studied learning (கல்வி), ensuring they are well-versed in statecraft and history. One who possesses the fullness (செறிவு) of these three attributes is the ideal candidate to represent a state.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

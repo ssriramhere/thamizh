@@ -6,7 +6,7 @@
     {
      "text": "வசை",
      "lemma": "வசை",
-     "gloss": "blame"
+     "gloss": "blame/reproach"
     }
    ],
    "gloss": "blame"
@@ -28,26 +28,31 @@
     {
      "text": "வண்",
      "lemma": "வண்மை",
-     "gloss": "abundant"
+     "gloss": "abundance/fertility"
     },
     {
      "text": "பயன்",
      "lemma": "பயன்",
-     "gloss": "yield"
+     "gloss": "yield/fruit"
     }
    ],
-   "gloss": "abundant yield"
+   "gloss": "bountiful yield"
   },
   {
    "surface": "குன்றும்",
    "parts": [
     {
-     "text": "குன்றும்",
+     "text": "குன்று",
      "lemma": "குன்று",
-     "gloss": "will decrease"
+     "gloss": "diminish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (habitual future marker)"
     }
    ],
-   "gloss": "will decrease"
+   "gloss": "will diminish"
   },
   {
    "surface": "இசை",
@@ -55,7 +60,7 @@
     {
      "text": "இசை",
      "lemma": "இசை",
-     "gloss": "fame"
+     "gloss": "fame/renown"
     }
    ],
    "gloss": "fame"
@@ -88,7 +93,7 @@
     {
      "text": "பொறுத்த",
      "lemma": "பொறு",
-     "gloss": "that bore"
+     "gloss": "that bore/supported"
     }
    ],
    "gloss": "that bore"
@@ -99,16 +104,16 @@
     {
      "text": "நிலம்",
      "lemma": "நிலம்",
-     "gloss": "earth"
+     "gloss": "land/earth"
     }
    ],
-   "gloss": "earth"
+   "gloss": "land"
   }
  ],
- "literal": "blame without abundant yield will decrease fame without body that bore earth",
- "translation": "The earth that bears a body destitute of fame will shrink in its flawless, abundant yield.",
- "modern": "புகழ் இல்லாத மனிதர்களின் உடம்பைச் சுமந்த நிலமானது, தன்னுடைய குற்றமற்ற வளமான விளைச்சலில் குறைந்துவிடும்.",
- "explanation": "This couplet connects human renown with the fertility of the earth. It states that if the earth has to bear the weight of a person who lives without fame, it will suffer a loss in its own natural abundance. The phrase 'வசை இலா வண்பயன்' refers to the flawless, rich yield of the land. By contrasting a blameless harvest with a fameless existence, the poet suggests that a life lived without earning good repute is a burden so unnatural that it blights the very ground it walks upon.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The faultless bountiful yield will diminish of the land that bore the body without fame.",
+ "translation": "The rich, faultless yield of the earth will diminish if it must bear the burden of bodies that have achieved no fame.",
+ "modern": "புகழ் இல்லாத உடம்பைத் தாங்கிய நிலத்தின் குற்றமில்லாத வளமான விளைச்சல் குறைந்துபோகும்.",
+ "explanation": "This couplet highlights the burden that people who live without earning fame place upon the earth. The poet states that the otherwise faultless and highly fertile land (வண்பயன்) will see its natural abundance diminish (குன்றும்) when it is forced to support the physical bodies (யாக்கை) of those who lack renown (இசையிலா). By linking the earth's fertility to the worthiness of its inhabitants, the verse poetically emphasizes that a life lived without leaving a good name is a drain on the world's resources.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -14,18 +14,23 @@
      "gloss": "wife"
     }
    ],
-   "gloss": "another's wife"
+   "gloss": "another man's wife"
   },
   {
    "surface": "நோக்காத",
    "parts": [
     {
-     "text": "நோக்காத",
+     "text": "நோக்கு",
      "lemma": "நோக்கு",
-     "gloss": "not looking at"
+     "gloss": "look at with desire"
+    },
+    {
+     "text": "ஆத",
+     "lemma": "ஆத",
+     "gloss": "not doing"
     }
    ],
-   "gloss": "not looking at"
+   "gloss": "not looking at with desire"
   },
   {
    "surface": "பேராண்மை",
@@ -38,10 +43,10 @@
     {
      "text": "ஆண்மை",
      "lemma": "ஆண்மை",
-     "gloss": "manliness"
+     "gloss": "strength of character"
     }
    ],
-   "gloss": "great manliness"
+   "gloss": "great strength of character"
   },
   {
    "surface": "சான்றோர்க்கு",
@@ -49,15 +54,15 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "the noble"
     },
     {
-     "text": "க்கு",
+     "text": "கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the noble ones"
+   "gloss": "to the noble"
   },
   {
    "surface": "அறன்",
@@ -76,43 +81,43 @@
     {
      "text": "ஒன்று",
      "lemma": "ஒன்று",
-     "gloss": "one"
+     "gloss": "one thing"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "indeed"
+     "gloss": "is it only"
     }
    ],
-   "gloss": "not only"
+   "gloss": "is it only one virtue?"
   },
   {
    "surface": "ஆன்ற",
    "parts": [
     {
      "text": "ஆன்ற",
-     "lemma": "ஆல்",
-     "gloss": "excellent"
+     "lemma": "ஆன்ற",
+     "gloss": "noble / abundant"
     }
    ],
-   "gloss": "excellent"
+   "gloss": "noble / exemplary"
   },
   {
    "surface": "ஒழுக்கு",
    "parts": [
     {
      "text": "ஒழுக்கு",
-     "lemma": "ஒழுக்கு",
+     "lemma": "ஒழுக்கம்",
      "gloss": "conduct"
     }
    ],
    "gloss": "conduct"
   }
  ],
- "literal": "Another's wife not looking at great manliness, to the noble ones virtue not only excellent conduct.",
- "translation": "The great manliness that does not look at another's wife is, to the noble, not just a virtue but the most excellent conduct.",
- "modern": "பிறருடைய மனைவியை ஆசையுடன் நோக்காத பெரிய ஆண்மையே, சான்றோர்களுக்கு அறம் மட்டுமன்றி சிறந்த ஒழுக்கமும் ஆகும்.",
- "explanation": "This couplet defines true manliness not as physical strength, but as the moral discipline to refrain from coveting another man's wife. The phrase 'pērāṇmai' (great manliness) highlights the immense self-control required for this restraint. For the noble ones, such behavior is not merely a basic virtue ('aṟaṉ') but stands as the highest standard of excellent conduct ('āṉṟa oḻukku'). The poet elevates this specific restraint to the pinnacle of ethical living.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not looking at another's wife is great strength of character; to the noble, is it only virtue? It is also exemplary conduct.",
+ "translation": "Not looking with desire at another's wife is a great strength of character; for the noble, it is not only a virtue but also exemplary conduct.",
+ "modern": "பிறனுடைய மனைவியை விரும்பாத பேராண்மையானது, சான்றோர்களுக்கு அறம் மட்டும் அன்று; அதுவே நிறைந்த ஒழுக்கமும் ஆகும்.",
+ "explanation": "This couplet highlights the supreme quality of not desiring another man's wife. It states that such restraint is not just a basic moral virtue (அறன்) for the noble, but it represents the highest form of strength of character (பேராண்மை) and exemplary conduct (ஒழுக்கு). The word 'பேராண்மை' (great manliness) is used here not as physical strength, but as the mental fortitude to control one's desires. For those of high character, this self-control is the very definition of noble conduct.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,22 +5,23 @@
    "parts": [
     {
      "text": "ஊடுதல்",
-     "lemma": "ஊடு",
-     "gloss": "feigning anger"
+     "lemma": "ஊடுதல்",
+     "gloss": "feigned anger"
     }
    ],
-   "gloss": "feigning anger"
+   "gloss": "feigned anger"
   },
   {
    "surface": "காமத்திற்கு",
    "parts": [
     {
      "text": "காமத்திற்கு",
-     "lemma": "காமம்",
-     "gloss": "to passion"
+     "lemma": "காமத்திற்கு",
+     "gloss": "to love"
     }
    ],
-   "gloss": "to passion"
+   "gloss": "to love",
+   "split_unverified": true
   },
   {
    "surface": "இன்பம்",
@@ -28,18 +29,28 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "அதற்கு",
    "parts": [
     {
-     "text": "அதற்கு",
+     "text": "அது",
      "lemma": "அது",
-     "gloss": "to that"
+     "gloss": "that"
+    },
+    {
+     "text": "அன்",
+     "lemma": "அன்",
+     "gloss": "oblique increment"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "dative suffix (to)"
     }
    ],
    "gloss": "to that"
@@ -50,10 +61,10 @@
     {
      "text": "இன்பம்",
      "lemma": "இன்பம்",
-     "gloss": "joy"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "joy"
+   "gloss": "pleasure"
   },
   {
    "surface": "கூடி",
@@ -89,10 +100,10 @@
    "gloss": "if obtained"
   }
  ],
- "literal": "Feigning anger to passion is joy; to that is joy, having united to embrace if obtained.",
- "translation": "A lovers' quarrel is the joy of love, and the joy of that quarrel is the close embrace when they reunite.",
- "modern": "காதலுக்கு இன்பம் தருவது ஊடல் ஆகும். அந்த ஊடலுக்கு இன்பம் தருவது, ஊடல் தீர்ந்து இருவரும் கூடித் தழுவுவதைப் பெறுவதாகும்.",
- "explanation": "This couplet concludes the Tirukkural by celebrating the playful conflicts between lovers. It states that feigning anger adds delight to romantic passion. Furthermore, the true joy of such a quarrel is realized only when it ends in a warm, reconciling embrace. The progression from passion to quarrel and finally to embrace highlights how temporary separation heightens the pleasure of reunion.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Feigned anger to love [is] pleasure; to that, pleasure [is] if [one] gets to embrace having united.",
+ "translation": "Feigned anger gives pleasure to love; and the pleasure of that anger is to be united in a close embrace.",
+ "modern": "ஊடல் கொள்வது காமத்திற்கு இன்பம் தருகிறது; அந்த ஊடலுக்கு இன்பமாவது, மீண்டும் கூடித் தழுவப் பெறுவதாகும்.",
+ "explanation": "This final couplet of the Tirukkuṟaḷ celebrates the sweet cycle of love. It states that a lover's feigned anger (ஊடுதல்) adds a unique pleasure to love (காமம்). However, that anger itself finds its ultimate pleasure (இன்பம்) only when the lovers reunite (கூடி) and embrace (முயங்க) each other. The word 'ஊடுதல்' refers to the playful sulking or tiff between lovers, which is not a real conflict but a prelude to deeper intimacy. Thus, the poet beautifully shows how temporary separation enhances the joy of union.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

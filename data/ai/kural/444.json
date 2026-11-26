@@ -5,16 +5,16 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
-     "gloss": "themselves"
+     "lemma": "தான்",
+     "gloss": "themselves (oblique)"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative case suffix)"
     }
    ],
-   "gloss": "than themselves"
+   "gloss": "than oneself"
   },
   {
    "surface": "பெரியார்",
@@ -22,10 +22,10 @@
     {
      "text": "பெரியார்",
      "lemma": "பெரியார்",
-     "gloss": "great people"
+     "gloss": "those who are greater"
     }
    ],
-   "gloss": "those who are greater"
+   "gloss": "those who are greater in wisdom and virtue"
   },
   {
    "surface": "தமரா",
@@ -37,22 +37,22 @@
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகுதல்",
-     "gloss": "becoming"
+     "lemma": "ஆகு",
+     "gloss": "as / becoming"
     }
    ],
-   "gloss": "as one's own people"
+   "gloss": "as one's own close associates"
   },
   {
    "surface": "ஒழுகுதல்",
    "parts": [
     {
      "text": "ஒழுகுதல்",
-     "lemma": "ஒழுகுதல்",
-     "gloss": "conducting oneself"
+     "lemma": "ஒழுகு",
+     "gloss": "behaving / living in association"
     }
    ],
-   "gloss": "conducting oneself"
+   "gloss": "living in association with"
   },
   {
    "surface": "வன்மையுள்",
@@ -60,7 +60,7 @@
     {
      "text": "வன்மை",
      "lemma": "வன்மை",
-     "gloss": "strength"
+     "gloss": "strength / power"
     },
     {
      "text": "உள்",
@@ -68,7 +68,7 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among strengths"
+   "gloss": "among all strengths"
   },
   {
    "surface": "எல்லாம்",
@@ -87,16 +87,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "head"
+     "gloss": "head / foremost"
     }
    ],
-   "gloss": "the chief"
+   "gloss": "the foremost / supreme"
   }
  ],
- "literal": "Than themselves / those who are greater / as one's own / conducting oneself / among strengths / all / the head.",
- "translation": "To conduct oneself by making those greater than oneself into one's own people is the foremost of all strengths.",
- "modern": "தன்னை விடச் சிறந்த பெரியவர்களைத் தன் சுற்றத்தாராகக் கொண்டு நடப்பது, ஒருவனுக்கு உள்ள வலிமைகள் எல்லாவற்றிலும் முதன்மையானதாகும்.",
- "explanation": "This couplet emphasizes the importance of surrounding oneself with wise and capable individuals. The phrase 'தம்மின் பெரியார்' refers to those who are greater in wisdom, virtue, or experience than oneself. 'தமரா ஒழுகுதல்' means treating them as one's own people or close allies and living in accordance with their guidance. The poet declares that securing such relationships is the foremost ('தலை') of all forms of strength, showing that true power comes from the support and counsel of great people.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Behaving with those who are greater than oneself as one's own people is, among all strengths, the foremost.",
+ "translation": "To live in close association with those who are greater than oneself, making them one's own allies, is the supreme power among all powers.",
+ "modern": "தன்னைவிட அறிவு ஒழுக்கங்களில் பெரியவர்களைத் தன் உறவினராகக் கொண்டு அவரோடு கூடி வாழ்வது, ஒருவனுக்கு உள்ள எல்லா வலிமைகளுள்ளும் முதன்மையான வலிமையாகும்.",
+ "explanation": "This couplet emphasizes the immense value of securing the friendship of wise and virtuous elders. The term 'tammiṉ periyār' refers to people who excel in wisdom, character, and experience. By treating them as 'tamar' (one's own close kin or allies) and acting according to their guidance, a person gains a protective shield. The poet declares that this social and moral alliance is 'vaṉmaiyuḷ ellām talai'—the greatest of all strengths, far exceeding physical force, wealth, or military power.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போல்",
-     "gloss": "like"
+     "lemma": "போலும்",
+     "gloss": "resembling"
     }
    ],
-   "gloss": "like"
+   "gloss": "resembling"
   },
   {
    "surface": "மாலைக்கு",
@@ -31,12 +31,12 @@
      "gloss": "evening"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "dative case suffix"
     }
    ],
-   "gloss": "to evening"
+   "gloss": "to the evening"
   },
   {
    "surface": "தூது",
@@ -53,14 +53,9 @@
    "surface": "ஆகி",
    "parts": [
     {
-     "text": "ஆகு",
+     "text": "ஆகி",
      "lemma": "ஆகு",
-     "gloss": "to become"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having become"
     }
    ],
    "gloss": "having become"
@@ -71,10 +66,10 @@
     {
      "text": "ஆயன்",
      "lemma": "ஆயன்",
-     "gloss": "cowherd"
+     "gloss": "shepherd"
     }
    ],
-   "gloss": "cowherd"
+   "gloss": "shepherd"
   },
   {
    "surface": "குழல்",
@@ -92,24 +87,19 @@
    "parts": [
     {
      "text": "போலும்",
-     "lemma": "போல்",
-     "gloss": "like"
+     "lemma": "போலும்",
+     "gloss": "indeed"
     }
    ],
-   "gloss": "like"
+   "gloss": "indeed"
   },
   {
    "surface": "கொல்லும்",
    "parts": [
     {
-     "text": "கொல்",
+     "text": "கொல்லும்",
      "lemma": "கொல்",
-     "gloss": "to kill"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which"
+     "gloss": "killing"
     }
    ],
    "gloss": "killing"
@@ -126,10 +116,10 @@
    "gloss": "weapon"
   }
  ],
- "literal": "Fire like to evening messenger having become cowherd's flute like killing weapon.",
- "translation": "Acting as a messenger for the fire-like evening, the cowherd's flute is like a deadly weapon.",
- "modern": "நெருப்பைப் போலச் சுடும் மாலைப் பொழுதிற்குத் தூதனாக வந்து, இந்த ஆயனின் புல்லாங்குழல் என்னைக் கொல்லும் ஆயுதமாகி விட்டது.",
- "explanation": "The speaker, suffering in the absence of her lover, feels the approaching evening like a burning fire. The sound of the cowherd's flute announces the arrival of this painful time. To her, the sweet music of the flute no longer brings joy, but resembles a deadly weapon that has come as a messenger of the fiery evening to take her life. The word 'போலும்' (like) is used twice, comparing the evening to fire and the flute to a weapon.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Becoming a messenger to the fire-resembling evening, the shepherd's flute indeed is a killing weapon.",
+ "translation": "Serving as a messenger to the evening that burns like fire, the shepherd's flute has become a weapon that kills me.",
+ "modern": "நெருப்பைப் போன்ற மாலைப் பொழுதுக்குத் தூதாக வந்து, ஆயனுடைய புல்லாங்குழல் ஓசை என்னைக் கொல்லும் ஆயுதமாக மாறுகிறது.",
+ "explanation": "In this verse, the heroine laments her state of separation during the evening. She describes the evening as a burning fire ('அழல்') because of the intense pain of loneliness it brings. The sound of the shepherd's flute ('ஆயன் குழல்'), which traditionally signals the return of herds at dusk, now sounds to her like a herald or messenger ('தூது') announcing the arrival of this painful evening. Consequently, the sweet music of the flute is transformed in her mind into a lethal weapon ('கொல்லும் படை') that destroys her life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -10,11 +10,11 @@
     },
     {
      "text": "த்தல்",
-     "lemma": "தல்",
+     "lemma": "த்தல்",
      "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "forgetting"
+   "gloss": "forgetting (or abandoning)"
   },
   {
    "surface": "வெகுளியை",
@@ -27,10 +27,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "anger (acc.)"
+   "gloss": "anger"
   },
   {
    "surface": "யார்மாட்டும்",
@@ -38,20 +38,20 @@
     {
      "text": "யார்",
      "lemma": "யார்",
-     "gloss": "who"
+     "gloss": "anyone"
     },
     {
      "text": "மாட்டு",
-     "lemma": "மாட்டு",
-     "gloss": "towards"
+     "lemma": "மாடு",
+     "gloss": "place/towards"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "inclusive suffix"
+     "gloss": "even/also"
     }
    ],
-   "gloss": "towards anyone"
+   "gloss": "towards anyone whomsoever"
   },
   {
    "surface": "தீய",
@@ -64,7 +64,7 @@
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "plural suffix"
+     "gloss": "plural appellative suffix"
     }
    ],
    "gloss": "evil things"
@@ -75,11 +75,11 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "be born"
+     "gloss": "arise"
     },
     {
      "text": "த்தல்",
-     "lemma": "தல்",
+     "lemma": "த்தல்",
      "gloss": "verbal noun suffix"
     }
    ],
@@ -89,22 +89,17 @@
    "surface": "அதனான்",
    "parts": [
     {
-     "text": "அது",
+     "text": "அதன்",
      "lemma": "அது",
-     "gloss": "it"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "euphonic tie"
+     "gloss": "that"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "instrumental suffix"
+     "gloss": "by/because of"
     }
    ],
-   "gloss": "from it"
+   "gloss": "because of that"
   },
   {
    "surface": "வரும்",
@@ -115,18 +110,18 @@
      "gloss": "come"
     },
     {
-     "text": "உம்",
+     "text": "ம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "habitual future suffix"
     }
    ],
    "gloss": "will come"
   }
  ],
- "literal": "Forgetting anger towards anyone; evil things arising from it will come.",
- "translation": "Forget anger towards anyone, for all evil things arise from it.",
- "modern": "யாரிடத்திலும் கோபம் கொள்வதை மறந்துவிட வேண்டும்; ஏனெனில் தீமையான செயல்கள் அனைத்தும் அந்தக் கோபத்தாலேயே உண்டாகும்.",
- "explanation": "This couplet advises completely abandoning anger, regardless of who the target might be. The word 'மறத்தல்' literally means 'forgetting', but here it functions as a strong injunction to let go of anger entirely. 'யார்மாட்டும்' emphasizes that anger is destructive whether directed at the strong or the weak. The reason given is that 'தீய' (evil things) naturally arise and come from anger itself. Therefore, avoiding anger is the only way to prevent the birth of further evils.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Forgetting anger towards anyone; evil things arising because of that will come.",
+ "translation": "One should forget anger towards anyone whomsoever, for all evil things arise because of it.",
+ "modern": "யாரிடத்திலும் கோபம் கொள்வதை மறந்துவிட வேண்டும்; ஏனென்றால், தீமைகள் அனைத்தும் அந்தக் கோபத்தினாலேயே உண்டாகும்.",
+ "explanation": "This couplet explains why we must completely avoid anger. The word 'மறத்தல்' literally means forgetting, but here it carries the sense of completely letting go or abandoning. We must do this 'யார்மாட்டும்'—towards anyone, regardless of their status or how they treat us. The second line warns that 'தீய' (evil consequences and pain) will 'பிறத்தல்' (arise) 'அதனான்' (because of that anger). Thus, by showing that anger is the sole source of harmful outcomes, the poet urges us to eliminate it entirely.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,26 +6,21 @@
     {
      "text": "இருந்து",
      "lemma": "இரு",
-     "gloss": "having sat"
+     "gloss": "having stayed"
     }
    ],
-   "gloss": "having sat"
+   "gloss": "staying here"
   },
   {
    "surface": "உள்ளி",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "to think"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "[adverbial suffix]"
+     "text": "உள்ளி",
+     "lemma": "உள்ளு",
+     "gloss": "having thought of"
     }
    ],
-   "gloss": "having thought"
+   "gloss": "thinking of him"
   },
   {
    "surface": "என்",
@@ -33,23 +28,18 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "why"
+     "gloss": "what"
     }
    ],
-   "gloss": "why"
+   "gloss": "what is the use of"
   },
   {
    "surface": "பரிதல்",
    "parts": [
     {
-     "text": "பரி",
+     "text": "பரிதல்",
      "lemma": "பரி",
-     "gloss": "to suffer"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
-     "gloss": "[verbal noun suffix]"
+     "gloss": "grieving"
     }
    ],
    "gloss": "grieving"
@@ -65,7 +55,7 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "[vocative suffix]"
+     "gloss": "O (vocative particle)"
     }
    ],
    "gloss": "O heart!"
@@ -76,26 +66,21 @@
     {
      "text": "பரிந்து",
      "lemma": "பரி",
-     "gloss": "having pitied"
+     "gloss": "with love or pity"
     }
    ],
-   "gloss": "having pitied"
+   "gloss": "lovingly"
   },
   {
    "surface": "உள்ளல்",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "to think"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "[verbal noun suffix]"
+     "text": "உள்ளல்",
+     "lemma": "உள்ளு",
+     "gloss": "thinking of"
     }
    ],
-   "gloss": "thinking"
+   "gloss": "thinking of us"
   },
   {
    "surface": "பைதல்",
@@ -103,10 +88,10 @@
     {
      "text": "பைதல்",
      "lemma": "பைதல்",
-     "gloss": "sorrow"
+     "gloss": "distress or affliction"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "distressing"
   },
   {
    "surface": "நோய்",
@@ -114,10 +99,10 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "disease or pain"
     }
    ],
-   "gloss": "pain"
+   "gloss": "pain of love-sickness"
   },
   {
    "surface": "செய்தார்கண்",
@@ -130,10 +115,10 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "with"
+     "gloss": "with or in (locative case marker)"
     }
    ],
-   "gloss": "with those who caused"
+   "gloss": "with the one who caused"
   },
   {
    "surface": "இல்",
@@ -141,16 +126,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "does not exist"
     }
    ],
-   "gloss": "is not"
+   "gloss": "does not exist"
   }
  ],
- "literal": "Sitting and thinking, why grieve, O heart? Thinking with pity is not with those who caused sorrowful pain.",
- "translation": "O my heart, why sit and grieve, constantly thinking of him? The one who caused this sorrowful pain has no pitying thought for us.",
- "modern": "நெஞ்சே! அவர் நினைவாகவே இருந்து ஏன் வருந்துகிறாய்? இந்தத் துன்ப நோயை நமக்குத் தந்தவரிடம், நம்மீது இரக்கப்பட்டு நினைக்கும் குணம் இல்லை.",
- "explanation": "The speaker addresses her own heart, questioning its constant sorrow. She asks why it sits and grieves, constantly thinking of her lover. She reminds her heart that the lover, who caused her this distressing pain of separation, does not have the compassion to think of her in return. The contrast is between her constant, painful remembering ('இருந்து உள்ளி') and his complete lack of sympathetic thought ('பரிந்து உள்ளல் இல்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Staying here and thinking of him, what is the use of grieving, O heart? Lovingly thinking of us does not exist with the one who caused this distressing pain.",
+ "translation": "O my heart, what is the use of staying here, thinking of him and grieving? Any loving thought for us does not exist in the one who caused this distressing affliction.",
+ "modern": "நெஞ்சே! இங்கேயே இருந்து அவரை நினைத்து வருந்துவதால் என்ன பயன்? நமக்கு இந்தத் துன்ப நோயைத் தந்தவரிடத்தில் நம்மைப் பற்றி அன்போடு நினைக்கும் குணம் இல்லை.",
+ "explanation": "The heroine addresses her own heart, which is constantly dwelling on the memory of her departed lover and suffering from the pain of separation. She asks her heart what the point is of staying in one place, thinking of him, and grieving. She points out that the lover, who caused this distressing affliction of love-sickness by leaving her, does not possess any loving or compassionate thoughts ('parintu uḷḷal') toward her. The contrast between her heart's constant yearning ('uḷḷi parital') and the lover's lack of reciprocal concern highlights the painful asymmetry of her grief.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

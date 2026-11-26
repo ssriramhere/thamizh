@@ -6,12 +6,12 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "whatever"
+     "gloss": "whatever thing"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic increment"
+     "gloss": "inflectional increment"
     },
     {
      "text": "இன்",
@@ -19,7 +19,7 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from whatever"
+   "gloss": "from whatever thing"
   },
   {
    "surface": "யாதனின்",
@@ -27,12 +27,12 @@
     {
      "text": "யாது",
      "lemma": "யாது",
-     "gloss": "whatever"
+     "gloss": "whatever thing"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic increment"
+     "gloss": "inflectional increment"
     },
     {
      "text": "இன்",
@@ -40,7 +40,7 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from whatever"
+   "gloss": "from whatever thing"
   },
   {
    "surface": "நீங்கியான்",
@@ -48,7 +48,7 @@
     {
      "text": "நீங்கு",
      "lemma": "நீங்கு",
-     "gloss": "separate"
+     "gloss": "to renounce"
     },
     {
      "text": "இ",
@@ -61,7 +61,7 @@
      "gloss": "he who"
     }
    ],
-   "gloss": "he who has separated"
+   "gloss": "he who has renounced"
   },
   {
    "surface": "நோதல்",
@@ -69,7 +69,7 @@
     {
      "text": "நோ",
      "lemma": "நோ",
-     "gloss": "suffer"
+     "gloss": "to suffer"
     },
     {
      "text": "தல்",
@@ -85,12 +85,12 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that"
+     "gloss": "that thing"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic increment"
+     "gloss": "inflectional increment"
     },
     {
      "text": "இன்",
@@ -98,7 +98,7 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from that"
+   "gloss": "from that thing"
   },
   {
    "surface": "அதனின்",
@@ -106,12 +106,12 @@
     {
      "text": "அது",
      "lemma": "அது",
-     "gloss": "that"
+     "gloss": "that thing"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "euphonic increment"
+     "gloss": "inflectional increment"
     },
     {
      "text": "இன்",
@@ -119,7 +119,7 @@
      "gloss": "from"
     }
    ],
-   "gloss": "from that"
+   "gloss": "from that thing"
   },
   {
    "surface": "இலன்",
@@ -127,7 +127,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "அன்",
@@ -135,13 +135,13 @@
      "gloss": "he"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "he does not have"
   }
  ],
- "literal": "From whatever, from whatever he has separated, suffering from that, from that he is without.",
- "translation": "From whatever things a person frees himself, from those very things he experiences no suffering.",
- "modern": "ஒருவன் எந்தெந்தப் பொருள்களின் மீதுள்ள பற்றிலிருந்து விலகுகிறானோ, அந்தந்தப் பொருள்களால் அவனுக்குத் துன்பம் இல்லை.",
- "explanation": "This couplet explains the direct relationship between renunciation and freedom from suffering. The repeated phrase 'யாதனின் யாதனின்' (from whatever, from whatever) emphasizes that the rule applies to absolutely anything a person might be attached to. 'நீங்கியான்' refers to one who has separated himself from such attachments. By letting go of a specific thing, a person ensures that they will not experience 'நோதல்' (suffering) caused by that very thing ('அதனின் அதனின்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "From whatever thing, from whatever thing, he who has renounced, suffering from that thing, from that thing, he does not have.",
+ "translation": "From whatever thing a person detaches themselves, from that very thing they are free from suffering.",
+ "modern": "ஒருவன் எந்தெந்தப் பொருள்களிலிருந்து விலகிப் பற்றற்றவனாக இருக்கிறானோ, அந்தந்தப் பொருள்களால் அவனுக்குத் துன்பம் இல்லை.",
+ "explanation": "This couplet explains the direct relationship between renunciation and the cessation of suffering. The repetition of 'யாதனின்' (from whatever) and 'அதனின்' (from that) emphasizes that every single object or desire we let go of represents a specific source of pain that is eliminated. By systematically detaching ourselves from worldly things, we systematically insulate ourselves from the grief they inevitably bring. Thus, true freedom from sorrow is achieved not all at once, but progressively through gradual detachment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,10 +17,10 @@
     {
      "text": "புரிந்த",
      "lemma": "புரி",
-     "gloss": "who secured"
+     "gloss": "cherished"
     }
    ],
-   "gloss": "who secured"
+   "gloss": "cherished"
   },
   {
    "surface": "இல்",
@@ -31,28 +31,23 @@
      "gloss": "wife"
     }
    ],
-   "gloss": "wife"
+   "gloss": "wife (or home)"
   },
   {
    "surface": "இலோர்க்கு",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
+     "text": "இலோர்",
+     "lemma": "இலர்",
+     "gloss": "those who do not have"
     },
     {
-     "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "those"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
+     "text": "க்கு",
+     "lemma": "க்கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to those without"
+   "gloss": "to those who do not have"
   },
   {
    "surface": "இல்லை",
@@ -60,7 +55,7 @@
     {
      "text": "இல்லை",
      "lemma": "இல்லை",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
    "gloss": "there is not"
@@ -69,22 +64,12 @@
    "surface": "இகழ்வார்",
    "parts": [
     {
-     "text": "இகழ்",
+     "text": "இகழ்வார்",
      "lemma": "இகழ்",
-     "gloss": "despise"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "habitual marker"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who despise"
     }
    ],
-   "gloss": "scorners"
+   "gloss": "those who despise"
   },
   {
    "surface": "முன்",
@@ -95,7 +80,7 @@
      "gloss": "before"
     }
    ],
-   "gloss": "in front of"
+   "gloss": "before"
   },
   {
    "surface": "ஏறு",
@@ -125,10 +110,10 @@
     {
      "text": "பீடு",
      "lemma": "பீடு",
-     "gloss": "pride"
+     "gloss": "majestic"
     }
    ],
-   "gloss": "majesty"
+   "gloss": "majestic"
   },
   {
    "surface": "நடை",
@@ -139,13 +124,13 @@
      "gloss": "walk"
     }
    ],
-   "gloss": "gait"
+   "gloss": "walk"
   }
  ],
- "literal": "Fame-securing wife to those who lack, there is not, scorners before, bull-like proud walk.",
- "translation": "Those who lack a wife who secures a good name cannot walk with the proud, majestic gait of a bull before their detractors.",
- "modern": "புகழைக் காக்கும் மனைவியைப் பெறாதவர்களுக்கு, தங்களை இகழ்ந்து பேசுபவர் முன்னே காளையைப் போலப் பெருமிதத்துடன் நடக்கும் நடை இல்லை.",
- "explanation": "This couplet describes the social confidence a person derives from their partner's good character. The word 'இல்' (il) primarily means house, but here it stands for the wife who manages the household. 'புகழ் புரிந்த' (pukaḻ purinta) refers to securing a good reputation for the family. Without such a partner, a person lacks the inner strength to face detractors. The image of the 'ஏறு' (bull) beautifully captures the proud, fearless bearing that comes from having a blameless and supportive home life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who do not have a wife who cherishes fame, there is no majestic walk like a bull before those who despise them.",
+ "translation": "Those who do not have a wife who cherishes a good reputation cannot walk with the majestic stride of a bull in front of their detractors.",
+ "modern": "புகழை விரும்பும் மனைவியைப் பெறாதவர்களுக்கு, தம்மை இகழ்ந்து பேசுபவர் முன்னால் காளையைப் போலப் பெருமிதத்தோடு நடக்கும் கம்பீர நடை இல்லை.",
+ "explanation": "This couplet emphasizes the social standing a virtuous wife brings to her husband. The word 'இல்' (literally home) here represents the wife who is the soul of the household. If she does not cherish and protect the family's reputation ('புகழ்புரிந்த'), the husband loses his honor in society. Without this domestic strength, he cannot face his mockers ('இகழ்வார்') with confidence, losing the proud, majestic stride ('பீடு நடை') compared here to that of a strong bull ('ஏறு').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

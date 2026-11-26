@@ -22,17 +22,17 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet thing"
+     "gloss": "pleasure"
     }
    ],
-   "gloss": "sweet thing"
+   "gloss": "pleasure"
   },
   {
    "surface": "ஈன்றல்",
    "parts": [
     {
      "text": "ஈன்றல்",
-     "lemma": "ஈன்",
+     "lemma": "ஈனுதல்",
      "gloss": "yielding"
     }
    ],
@@ -44,11 +44,16 @@
     {
      "text": "காண்",
      "lemma": "காண்",
-     "gloss": "to see"
+     "gloss": "see"
     },
     {
-     "text": "பான்",
-     "lemma": "ஆன்",
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "அன்",
      "gloss": "he who"
     }
    ],
@@ -71,15 +76,15 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "wonder"
+     "gloss": "particle of doubt"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "particle of wonder"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "indeed"
   },
   {
    "surface": "வன்சொல்",
@@ -101,23 +106,18 @@
    "surface": "வழங்குவது",
    "parts": [
     {
-     "text": "வழங்கு",
-     "lemma": "வழங்கு",
-     "gloss": "to use"
-    },
-    {
-     "text": "வது",
-     "lemma": "அது",
-     "gloss": "verbal noun suffix"
+     "text": "வழங்குவது",
+     "lemma": "வழங்குதல்",
+     "gloss": "uttering"
     }
    ],
-   "gloss": "using"
+   "gloss": "uttering"
   }
  ],
- "literal": "Sweet word sweet thing yielding he-who-sees, why I-wonder harsh word using?",
- "translation": "When a person sees that sweet words yield sweet results, why would he use harsh words?",
- "modern": "இனிய சொற்கள் இன்பத்தைத் தருவதைக் காணும் ஒருவன், கடுமையான சொற்களைப் பேசுவது ஏனோ?",
- "explanation": "The couplet contrasts the effects of sweet and harsh words. The word 'காண்பான்' (he who sees) emphasizes personal experience: the speaker already knows firsthand that sweet words produce joy ('இனிது ஈன்றல்'). Given this clear evidence, the poet wonders ('எவன்கொலோ') why anyone would choose to speak harsh words ('வன்சொல்'). It highlights the irrationality of choosing harshness when the benefits of kindness are obvious.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Sweet word yielding pleasure he who sees, why indeed harsh word uttering?",
+ "translation": "When one sees that sweet words yield pleasure, why on earth does he still utter harsh words?",
+ "modern": "இனிய சொற்கள் நன்மையைத் தருவதைக் கண்டும் ஒருவன் கடுஞ்சொற்களைப் பேசுவது ஏனோ?",
+ "explanation": "The couplet questions the logic of human behavior regarding speech. A person can clearly observe that speaking sweet words ('இன்சொல்') brings happiness and positive outcomes ('இனிது') to both the speaker and the listener. Knowing this, it is foolish and inexplicable ('எவன்கொலோ') that one would still choose to utter harsh, painful words ('வன்சொல்'). The poet highlights that choosing kind speech is a matter of simple common sense.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

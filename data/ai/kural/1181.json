@@ -4,52 +4,57 @@
    "surface": "நயந்தவர்க்கு",
    "parts": [
     {
-     "text": "நயந்தவர்க்கு",
+     "text": "நயந்தவர்",
      "lemma": "நயந்தவர்",
-     "gloss": "to the lover"
+     "gloss": "he who loved"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to the lover"
+   "gloss": "to the beloved who loved me"
   },
   {
    "surface": "நல்காமை",
    "parts": [
     {
      "text": "நல்காமை",
-     "lemma": "நல்கு",
-     "gloss": "not granting"
+     "lemma": "நல்காமை",
+     "gloss": "withholding of grace/love"
     }
    ],
-   "gloss": "not granting"
+   "gloss": "withholding of love"
   },
   {
    "surface": "நேர்ந்தேன்",
    "parts": [
     {
      "text": "நேர்ந்தேன்",
-     "lemma": "நேர்",
-     "gloss": "I agreed"
+     "lemma": "நேர்தல்",
+     "gloss": "I consented"
     }
    ],
-   "gloss": "I agreed"
+   "gloss": "I consented"
   },
   {
    "surface": "பசந்த",
    "parts": [
     {
      "text": "பசந்த",
-     "lemma": "பச",
-     "gloss": "paled"
+     "lemma": "பசத்தல்",
+     "gloss": "that has turned pale"
     }
    ],
-   "gloss": "paled"
+   "gloss": "that has turned pale"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "யான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -61,21 +66,27 @@
     {
      "text": "பண்பியார்க்கு",
      "lemma": "பண்பியார்க்கு",
-     "gloss": "nature - to whom"
+     "gloss": "to whom [shall I tell] my nature"
     }
    ],
-   "gloss": "nature - to whom"
+   "gloss": "to whom [shall I tell] my nature",
+   "split_unverified": true
   },
   {
    "surface": "உரைக்கோ",
    "parts": [
     {
-     "text": "உரைக்கோ",
+     "text": "உரைக்கு",
      "lemma": "உரை",
      "gloss": "shall I tell"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "shall I tell"
+   "gloss": "shall I tell?"
   },
   {
    "surface": "பிற",
@@ -83,16 +94,16 @@
     {
      "text": "பிற",
      "lemma": "பிற",
-     "gloss": "else"
+     "gloss": "others (here used as an address particle)"
     }
    ],
-   "gloss": "else"
+   "gloss": "O friend / others"
   }
  ],
- "literal": "to the lover / not granting / I agreed / paled / my / nature - to whom / shall I tell / else",
- "translation": "I myself consented to my lover's departure. To whom else can I now complain about my paled state?",
- "modern": "என் காதலர் என்னைப் பிரிந்து செல்வதற்கு நானே சம்மதித்தேன். இப்போது பசலை நோய் அடைந்த என் நிலையை வேறு யாரிடம் சொல்வேன்?",
- "explanation": "The heroine laments her situation, realizing she is the cause of her own suffering. She had agreed to her lover's departure, which is described as 'not granting' his continued presence. Because she consented to the separation, she feels she has no right to complain to anyone else about the pallor that has now afflicted her body. The word 'piṟa' emphasizes her helplessness, asking who else could possibly listen to a self-inflicted sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To the beloved who loved me, his withholding of love I consented to; my nature that has turned pale, to whom shall I tell, O friend?",
+ "translation": "I consented to my beloved withholding his love and departing; now, to whom can I complain about this sallow paleness that has overcome my nature?",
+ "modern": "என்னை விரும்பிய காதலர் எனக்கு அன்பு செய்யாமல் பிரிந்திருப்பதை நான் ஏற்றுக்கொண்டேன்; ஆனால் அதனால் பசலை நிறம் அடைந்துவிட்ட என் உடலின் நிலையை வேறு யாருக்குச் சொல்வேன்?",
+ "explanation": "The heroine laments her physical state of paleness (pasappu) caused by separation. She admits that she willingly consented (nērntēn) to her lover's departure or his withholding of immediate grace, understanding his situation. However, her body has reacted to the separation by turning pale, changing her natural complexion (paṇpu). She helplessly asks her friend to whom she can complain about this physical suffering, since she herself agreed to the very separation that caused it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

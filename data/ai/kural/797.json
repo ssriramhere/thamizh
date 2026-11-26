@@ -6,18 +6,23 @@
     {
      "text": "ஊதியம்",
      "lemma": "ஊதியம்",
-     "gloss": "profit"
+     "gloss": "profit or gain"
     }
    ],
-   "gloss": "profit"
+   "gloss": "profit or gain"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
-     "text": "என்பது",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "that which is called"
+     "gloss": "say"
+    },
+    {
+     "text": "பது",
+     "lemma": "அது",
+     "gloss": "that which"
     }
    ],
    "gloss": "that which is called"
@@ -28,7 +33,7 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one person"
+     "gloss": "a person"
     },
     {
      "text": "கு",
@@ -52,7 +57,7 @@
      "gloss": "plural suffix"
     }
    ],
-   "gloss": "fools"
+   "gloss": "of fools"
   },
   {
    "surface": "கேண்மை",
@@ -70,33 +75,28 @@
    "parts": [
     {
      "text": "ஒரீஇ",
-     "lemma": "ஒரூஉதல்",
-     "gloss": "having abandoned"
+     "lemma": "ஒருவு",
+     "gloss": "having shunned or avoided"
     }
    ],
-   "gloss": "having abandoned"
+   "gloss": "having shunned"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
-     "text": "விடு",
+     "text": "விடல்",
      "lemma": "விடுதல்",
-     "gloss": "to leave"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "gloss": "completely leaving or abandoning"
     }
    ],
-   "gloss": "letting go"
+   "gloss": "completely abandoning"
   }
  ],
- "literal": "Profit that which is called to a person fools' friendship having abandoned letting go.",
- "translation": "The true profit for a person is to abandon and let go of the friendship of fools.",
- "modern": "ஒருவருக்கு உண்மையான லாபம் என்று சொல்லப்படுவது, அறிவற்றவர்களின் நட்பை விட்டு விலகிவிடுவதே ஆகும்.",
- "explanation": "This couplet defines what constitutes a true gain or profit (ஊதியம்) in the context of choosing friends. It states that for any person, the greatest benefit is simply walking away from the friendship of fools (பேதையார் கேண்மை). The word 'ஒரீஇ' (having abandoned) combined with 'விடல்' (letting go) emphasizes a complete and decisive separation. By placing this in the chapter on investigating friendship, the text highlights that avoiding bad company is just as valuable as acquiring good friends.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The profit that is to a person is the friendship of fools having shunned and completely abandoning.",
+ "translation": "The greatest profit a person can acquire is to completely shun and abandon the friendship of fools.",
+ "modern": "ஒருவனுக்குக் கிடைக்கும் மிகப்பெரிய இலாபம் என்பது, அறிவில்லாதவர்களின் நட்பை முற்றிலும் விலக்கி விட்டுவிடுவதுதான்.",
+ "explanation": "This couplet explains that gain is not always about acquiring something new; sometimes, the greatest gain is letting go of what is harmful. The poet defines 'profit' (ஊதியம்) for an individual as the act of completely abandoning (விடல்) and shunning (ஒரீஇ) the friendship (கேண்மை) of foolish or ignorant people (பேதையார்). The word 'ஒரீஇ' is a poetic form that emphasizes the absolute necessity of distancing oneself from such toxic associations. By framing this avoidance as a positive 'profit', the couplet highlights how destructive foolish companions can be to one's life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

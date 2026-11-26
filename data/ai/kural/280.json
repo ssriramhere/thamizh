@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "shaving the head and"
+   "gloss": "and shaving [the head]"
   },
   {
    "surface": "நீட்டலும்",
@@ -22,7 +22,7 @@
     {
      "text": "நீட்டல்",
      "lemma": "நீட்டல்",
-     "gloss": "lengthening"
+     "gloss": "growing long"
     },
     {
      "text": "உம்",
@@ -30,18 +30,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "growing hair long and"
+   "gloss": "and growing [the hair] long"
   },
   {
    "surface": "வேண்டா",
    "parts": [
     {
      "text": "வேண்டா",
-     "lemma": "வேண்டுதல்",
-     "gloss": "are not needed"
+     "lemma": "வேண்டு",
+     "gloss": "are not required"
     }
    ],
-   "gloss": "are not needed"
+   "gloss": "are not required"
   },
   {
    "surface": "உலகம்",
@@ -49,7 +49,7 @@
     {
      "text": "உலகம்",
      "lemma": "உலகம்",
-     "gloss": "world"
+     "gloss": "the world"
     }
    ],
    "gloss": "the world"
@@ -70,28 +70,28 @@
    "parts": [
     {
      "text": "ஒழித்து",
-     "lemma": "ஒழித்தல்",
-     "gloss": "having abandoned"
+     "lemma": "ஒழி",
+     "gloss": "having avoided"
     }
    ],
-   "gloss": "having abandoned"
+   "gloss": "having avoided"
   },
   {
    "surface": "விடின்",
    "parts": [
     {
      "text": "விடின்",
-     "lemma": "விடுதல்",
-     "gloss": "if left"
+     "lemma": "விடு",
+     "gloss": "if"
     }
    ],
-   "gloss": "if one leaves"
+   "gloss": "if"
   }
  ],
- "literal": "Shaving and lengthening are not needed, world that which is condemned having abandoned if one leaves.",
- "translation": "There is no need to shave the head or grow matted hair, if one simply abandons the conduct that the world condemns.",
- "modern": "உலகம் பழிக்கும் தீய செயல்களை ஒருவன் முழுமையாக விட்டுவிட்டால், அவன் துறவியாகத் தலைமுடியை மழிப்பதோ அல்லது சடாமுடியாக நீளமாக வளர்ப்பதோ தேவையில்லை.",
- "explanation": "This couplet addresses the outward signs of asceticism, such as shaving the head bare or growing long, matted hair. It states that these physical transformations are completely unnecessary for true virtue. The only requirement is to abandon behaviors and actions that the world condemns as wrong. By focusing on inner purity and rejecting blameworthy conduct, a person achieves true discipline without needing external costumes or rituals.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Shaving [the head] and growing [the hair] long are not required, if [one] completely avoids that which the world condemns.",
+ "translation": "There is no need for shaving the head or growing the hair long, if one completely avoids those actions that the world condemns.",
+ "modern": "உலகம் பழிக்கும் செயல்களைத் தவிர்த்துவிட்டால், தலையை மழிப்பதோ அல்லது முடியை வளர்ப்பதோ தேவையில்லை.",
+ "explanation": "This couplet concludes the chapter on inconsistent conduct by highlighting that external symbols of asceticism are meaningless without inner discipline. The poet states that shaving one's head or growing one's hair long—common outward signs of renunciation—are entirely unnecessary. What truly matters is the internal restraint to avoid actions that are condemned by wise people in the world. True renunciation lies in the purity of conduct, not in external appearances.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

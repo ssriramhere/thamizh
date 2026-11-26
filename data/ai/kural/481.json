@@ -15,9 +15,14 @@
    "surface": "வெல்லும்",
    "parts": [
     {
-     "text": "வெல்லும்",
+     "text": "வெல்",
      "lemma": "வெல்",
-     "gloss": "conquers"
+     "gloss": "conquer"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual suffix"
     }
    ],
    "gloss": "conquers"
@@ -33,10 +38,10 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "owl (accusative)"
+   "gloss": "the owl"
   },
   {
    "surface": "காக்கை",
@@ -55,34 +60,39 @@
     {
      "text": "இகல்",
      "lemma": "இகல்",
-     "gloss": "enmity"
+     "gloss": "hostility"
     }
    ],
-   "gloss": "enmity"
+   "gloss": "hostility"
   },
   {
    "surface": "வெல்லும்",
    "parts": [
     {
-     "text": "வெல்லும்",
+     "text": "வெல்",
      "lemma": "வெல்",
-     "gloss": "will conquer"
+     "gloss": "conquer"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual suffix"
     }
    ],
-   "gloss": "will conquer"
+   "gloss": "to conquer"
   },
   {
    "surface": "வேந்தர்க்கு",
    "parts": [
     {
      "text": "வேந்தர்",
-     "lemma": "வேந்தர்",
+     "lemma": "வேந்தன்",
      "gloss": "kings"
     },
     {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "dative suffix"
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "dative case marker"
     }
    ],
    "gloss": "to kings"
@@ -91,9 +101,14 @@
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டும்",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "need"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual suffix"
     }
    ],
    "gloss": "is needed"
@@ -107,13 +122,13 @@
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "right time"
   }
  ],
- "literal": "Daytime conquers owl crow enmity will conquer to kings is needed time.",
- "translation": "A crow can defeat an owl during the day. For kings who wish to conquer their enemies, choosing the right time is essential.",
- "modern": "பகல் நேரத்தில் ஒரு காக்கை கூகையை வென்றுவிடும். அதுபோல பகைவர்களை வெல்ல நினைக்கும் அரசர்களுக்கு ஏற்ற காலம் அறிவது மிகவும் தேவை.",
- "explanation": "The couplet uses a simple observation from nature to illustrate the importance of timing. An owl is naturally stronger than a crow, but during the day, the owl is blind and vulnerable, allowing the weaker crow to defeat it. The word 'பொழுது' (time) is the central concept, emphasizing that success depends not just on strength but on choosing the right moment. Therefore, kings who wish to overcome their enemies must wait for the opportune time to strike.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In the daytime, conquers the owl, the crow; hostility to conquer, for kings is needed the right time.",
+ "translation": "A crow can defeat an owl in the daytime; likewise, kings who wish to conquer their enemies must choose the right time for action.",
+ "modern": "பகலில் காகமானது ஆந்தையை வென்றுவிடும்; அதுபோல, பகைவரை வெல்ல விரும்பும் அரசர்களுக்கு ஏற்ற காலம் தேவையாகும்.",
+ "explanation": "This couplet highlights the supreme importance of timing in achieving victory. An owl is naturally stronger than a crow, yet during the day when the owl cannot see, even a simple crow can defeat it. Similarly, even the most powerful rulers cannot overcome their enemies by raw strength alone; they must wait for the opportune moment when their opponents are vulnerable and the circumstances are in their favor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

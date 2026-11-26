@@ -5,22 +5,22 @@
    "parts": [
     {
      "text": "இறந்து",
-     "lemma": "இற",
+     "lemma": "இறத்தல்",
      "gloss": "having exceeded"
     }
    ],
-   "gloss": "exceedingly"
+   "gloss": "having exceeded"
   },
   {
    "surface": "அமைந்த",
    "parts": [
     {
      "text": "அமைந்த",
-     "lemma": "அமை",
-     "gloss": "established"
+     "lemma": "அமைதல்",
+     "gloss": "which is established"
     }
    ],
-   "gloss": "established"
+   "gloss": "which is established"
   },
   {
    "surface": "சார்பு",
@@ -39,10 +39,10 @@
     {
      "text": "உடையர்",
      "lemma": "உடையர்",
-     "gloss": "possessors"
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "possessors"
+   "gloss": "those who possess"
   },
   {
    "surface": "ஆயினும்",
@@ -59,77 +59,62 @@
    "surface": "உய்யார்",
    "parts": [
     {
-     "text": "உய்",
-     "lemma": "உய்",
-     "gloss": "survive"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "not-they"
+     "text": "உய்யார்",
+     "lemma": "உய்தல்",
+     "gloss": "they will not escape"
     }
    ],
-   "gloss": "they will not survive"
+   "gloss": "they will not escape"
   },
   {
    "surface": "சிறந்து",
    "parts": [
     {
      "text": "சிறந்து",
-     "lemma": "சிற",
+     "lemma": "சிறத்தல்",
      "gloss": "having excelled"
     }
    ],
-   "gloss": "excellently"
+   "gloss": "having excelled"
   },
   {
    "surface": "அமைந்த",
    "parts": [
     {
      "text": "அமைந்த",
-     "lemma": "அமை",
-     "gloss": "endowed"
+     "lemma": "அமைதல்",
+     "gloss": "which is established"
     }
    ],
-   "gloss": "endowed"
+   "gloss": "which is established"
   },
   {
    "surface": "சீரார்",
    "parts": [
     {
-     "text": "சீர்",
-     "lemma": "சீர்",
-     "gloss": "excellence"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they who have"
+     "text": "சீரார்",
+     "lemma": "சீரார்",
+     "gloss": "those of great glory"
     }
    ],
-   "gloss": "great ones"
+   "gloss": "those of great glory"
   },
   {
    "surface": "செறின்",
    "parts": [
     {
-     "text": "செறு",
-     "lemma": "செறு",
-     "gloss": "be angry"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "text": "செறின்",
+     "lemma": "செறுதல்",
+     "gloss": "if they become angry"
     }
    ],
-   "gloss": "if they are angry"
+   "gloss": "if they become angry"
   }
  ],
- "literal": "Exceedingly established support possessors even if (they are), they will not survive, excellently endowed great-ones if they are angry.",
- "translation": "Even if they possess overwhelmingly strong support, they will not survive if men of eminent greatness become angry.",
- "modern": "அளவுகடந்த வலிமையான பாதுகாப்பை உடையவராக இருந்தாலும், சிறந்த பெருமைகளை உடைய பெரியவர்கள் சினங்கொண்டால் அவர்கள் தப்ப மாட்டார்கள்.",
- "explanation": "This couplet warns against incurring the wrath of truly great people. The phrase 'இறந்து அமைந்த சார்பு' refers to having overwhelmingly strong support or protection, such as wealth, armies, or fortifications. However, the poet asserts that even such immense power is useless ('உய்யார்') against the anger of those who possess eminent greatness ('சிறந்து அமைந்த சீரார்'). The word 'செறின்' means 'if they become angry' or 'if they decide to destroy', emphasizing that the moral and spiritual power of the great can easily overcome any material defense.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if they possess boundlessly established support, they will not escape, if those of excellently established greatness become angry.",
+ "translation": "Even if they possess boundless and powerful support, they will not escape ruin if those of eminent and established greatness become angry.",
+ "modern": "மிகவும் சிறந்த பாதுகாப்பைப் பெற்றிருந்தாலும், சிறந்த பெருமைகளை உடைய பெரியவர்கள் கோபமடைந்தால், அவர்களிடமிருந்து தப்பிப் பிழைக்க முடியாது.",
+ "explanation": "This couplet warns against provoking the wrath of highly realized, great individuals. Even if a person has immense, seemingly invincible worldly support (சார்பு) from kings, armies, or wealth, it will not save them from ruin. If those who possess eminent and established greatness (சீரார்) are provoked to anger (செறின்), the offender cannot escape (உய்யார்) destruction. The contrast between worldly protection and the spiritual power of the great shows that moral and spiritual force always triumphs over material strength.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

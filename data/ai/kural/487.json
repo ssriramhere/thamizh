@@ -17,10 +17,10 @@
     {
      "text": "என",
      "lemma": "என்",
-     "gloss": "saying"
+     "gloss": "as / like"
     }
    ],
-   "gloss": "so as to say"
+   "gloss": "as"
   },
   {
    "surface": "ஆங்கே",
@@ -28,7 +28,7 @@
     {
      "text": "ஆங்கு",
      "lemma": "ஆங்கு",
-     "gloss": "there/then"
+     "gloss": "then / at that place"
     },
     {
      "text": "ஏ",
@@ -36,7 +36,7 @@
      "gloss": "emphasis"
     }
    ],
-   "gloss": "right then"
+   "gloss": "at that very moment"
   },
   {
    "surface": "புறம்",
@@ -55,15 +55,15 @@
     {
      "text": "வேர்",
      "lemma": "வேர்",
-     "gloss": "to sweat/fume"
+     "gloss": "to sweat / boil with anger"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "negative epicene plural suffix"
+     "gloss": "they will not (negative third-person plural)"
     }
    ],
-   "gloss": "they will not fume"
+   "gloss": "they will not show anger"
   },
   {
    "surface": "காலம்",
@@ -74,18 +74,23 @@
      "gloss": "time"
     }
    ],
-   "gloss": "time"
+   "gloss": "the right time"
   },
   {
    "surface": "பார்த்து",
    "parts": [
     {
-     "text": "பார்த்து",
+     "text": "பார்",
      "lemma": "பார்",
-     "gloss": "having watched"
+     "gloss": "to watch / look"
+    },
+    {
+     "text": "த்து",
+     "lemma": "த்து",
+     "gloss": "having (verbal participle suffix)"
     }
    ],
-   "gloss": "having waited for"
+   "gloss": "having watched"
   },
   {
    "surface": "உள்",
@@ -96,35 +101,45 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "inwardly"
+   "gloss": "internally"
   },
   {
    "surface": "வேர்ப்பர்",
    "parts": [
     {
-     "text": "வேர்ப்பர்",
+     "text": "வேர்",
      "lemma": "வேர்",
-     "gloss": "they will fume"
+     "gloss": "to sweat / boil with anger"
+    },
+    {
+     "text": "ப்பர்",
+     "lemma": "ப்பர்",
+     "gloss": "they will (future third-person plural)"
     }
    ],
-   "gloss": "they will fume"
+   "gloss": "they will boil with anger"
   },
   {
    "surface": "ஒள்ளியவர்",
    "parts": [
     {
-     "text": "ஒள்ளியவர்",
-     "lemma": "ஒள்ளியவர்",
-     "gloss": "wise people"
+     "text": "ஒள்",
+     "lemma": "ஒள்",
+     "gloss": "bright / sharp"
+    },
+    {
+     "text": "இயவர்",
+     "lemma": "இயவர்",
+     "gloss": "those who possess"
     }
    ],
-   "gloss": "the wise"
+   "gloss": "the wise / those of sharp intellect"
   }
  ],
- "literal": "Suddenly right-then outwardly they-will-not-fume; time having-watched, inwardly they-will-fume, the-wise.",
- "translation": "The wise will not suddenly show their anger on the outside right away; waiting for the right time, they will keep their anger burning inside.",
- "modern": "அறிவுடையவர்கள் தமக்கு ஒரு தீங்கு நேர்ந்த உடனே வெளியே தெரியும்படி கோபப்பட மாட்டார்கள்; தக்க காலம் வரும்வரை கோபத்தை மனத்திற்குள்ளேயே அடக்கி வைத்திருப்பார்கள்.",
- "explanation": "This couplet explains how wise people handle provocation. The word 'வேர்த்தல்' literally means to sweat, which is used here as a metaphor for fuming with anger. Instead of bursting out ('பொள்ளென') and showing their anger externally right away, the wise keep their anger burning inside. They wait patiently for the right time to act.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Suddenly at that very moment outwardly they will not boil with anger, the right time having watched, internally they will boil with anger, the wise.",
+ "translation": "The wise will not show their anger outwardly at the very moment of provocation; instead, they keep it boiling within, waiting for the right time to act.",
+ "modern": "அறிவுடையவர்கள் தமக்கு ஒரு தீங்கு நேர்ந்த உடனே வெளியில் கோபத்தைக் காட்ட மாட்டார்கள்; தகுந்த காலத்தை எதிர்பார்த்து, அதுவரை கோபத்தை மனத்திற்குள்ளேயே வைத்திருப்பார்கள்.",
+ "explanation": "This couplet explains how wise and capable people manage their anger when provoked by an enemy. Instead of reacting instantly and showing their anger outwardly, they keep their resolve and anger burning silently within. They patiently wait for the opportune moment to strike back effectively. The word 'வேர்த்தல்' (literally to sweat) is used here metaphorically to mean boiling or simmering with anger, highlighting the intense but controlled nature of their strategy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

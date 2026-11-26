@@ -4,12 +4,17 @@
    "surface": "தென்புலத்தார்",
    "parts": [
     {
-     "text": "தென்புலத்தார்",
-     "lemma": "தென்புலத்தார்",
+     "text": "தென்புலத்து",
+     "lemma": "தென்புலம்",
      "gloss": "ancestors"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "honorific suffix"
     }
    ],
-   "gloss": "ancestors"
+   "gloss": "the ancestors"
   },
   {
    "surface": "தெய்வம்",
@@ -17,10 +22,10 @@
     {
      "text": "தெய்வம்",
      "lemma": "தெய்வம்",
-     "gloss": "deity"
+     "gloss": "gods"
     }
    ],
-   "gloss": "deity"
+   "gloss": "gods"
   },
   {
    "surface": "விருந்து",
@@ -28,10 +33,10 @@
     {
      "text": "விருந்து",
      "lemma": "விருந்து",
-     "gloss": "guest"
+     "gloss": "guests"
     }
    ],
-   "gloss": "guest"
+   "gloss": "guests"
   },
   {
    "surface": "ஒக்கல்",
@@ -39,10 +44,10 @@
     {
      "text": "ஒக்கல்",
      "lemma": "ஒக்கல்",
-     "gloss": "kindred"
+     "gloss": "relatives"
     }
    ],
-   "gloss": "kindred"
+   "gloss": "relatives"
   },
   {
    "surface": "தான்",
@@ -50,10 +55,10 @@
     {
      "text": "தான்",
      "lemma": "தான்",
-     "gloss": "self"
+     "gloss": "oneself"
     }
    ],
-   "gloss": "self"
+   "gloss": "oneself"
   },
   {
    "surface": "என்று",
@@ -83,10 +88,10 @@
     {
      "text": "ஐம்புலத்து",
      "lemma": "ஐம்புலம்",
-     "gloss": "of the five fields"
+     "gloss": "five places"
     }
    ],
-   "gloss": "of the five fields"
+   "gloss": "of the five places"
   },
   {
    "surface": "ஆறு",
@@ -104,11 +109,11 @@
    "parts": [
     {
      "text": "ஓம்பல்",
-     "lemma": "ஓம்பு",
-     "gloss": "protecting"
+     "lemma": "ஓம்பல்",
+     "gloss": "cherishing"
     }
    ],
-   "gloss": "protecting"
+   "gloss": "cherishing"
   },
   {
    "surface": "தலை",
@@ -116,16 +121,16 @@
     {
      "text": "தலை",
      "lemma": "தலை",
-     "gloss": "foremost"
+     "gloss": "foremost duty"
     }
    ],
-   "gloss": "foremost"
+   "gloss": "foremost duty"
   }
  ],
- "literal": "Ancestors, deity, guest, kindred, self, saying thus, of the five fields, the way, protecting, is foremost.",
- "translation": "The foremost duty of a householder is to protect and maintain the fivefold path of duty towards ancestors, deities, guests, relatives, and oneself.",
- "modern": "தென்புலத்தார், தெய்வம், விருந்தினர், சுற்றத்தார், தான் என்னும் இந்த ஐந்து தரப்பினருக்கும் செய்ய வேண்டிய கடமைகளை வழுவாமல் காப்பதே இல்வாழ்வானின் தலையாய அறமாகும்.",
- "explanation": "This couplet defines the primary responsibilities of a person leading a domestic life. It lists five specific groups that a householder must care for: ancestors, deities, guests, relatives, and oneself. The word 'ஆறு' refers to the proper way or path of duty directed towards these five fields ('ஐம்புலத்து'). The couplet emphasizes that maintaining this fivefold duty ('ஓம்பல்') is the foremost ('தலை') virtue of domestic life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Ancestors, gods, guests, relatives, oneself, saying thus, to cherish these five ways is the foremost duty.",
+ "translation": "To cherish the fivefold duties toward ancestors, gods, guests, relatives, and oneself is the householder's foremost duty.",
+ "modern": "தென்புலத்தார் (முன்னோர்), தெய்வம், விருந்தினர், சுற்றத்தார், தான் ஆகிய ஐந்து இடங்களிலும் செய்ய வேண்டிய கடமைகளைப் போற்றிச் செய்தல் இல்லறத்தானுக்கு முதன்மையான கடமையாகும்.",
+ "explanation": "This couplet outlines the five essential duties of a householder. The five categories are tenpulattār (ancestors), teyvam (gods), viruntu (guests), okkal (relatives), and tāṉ (oneself). The word ōmpal means to cherish or protect, indicating that these are active duties of support. The poet concludes that fulfilling these five obligations is the talai (foremost or supreme) duty of domestic life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

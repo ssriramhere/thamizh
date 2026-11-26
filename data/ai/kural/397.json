@@ -11,10 +11,10 @@
     {
      "text": "ஆனும்",
      "lemma": "ஆனும்",
-     "gloss": "any"
+     "gloss": "any/even"
     }
    ],
-   "gloss": "any whatever"
+   "gloss": "any whatsoever"
   },
   {
    "surface": "நாடு",
@@ -33,7 +33,7 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "becomes"
+     "gloss": "will become"
     },
     {
      "text": "ஆல்",
@@ -41,7 +41,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "becomes indeed"
+   "gloss": "will become indeed"
   },
   {
    "surface": "ஊர்",
@@ -60,7 +60,7 @@
     {
      "text": "ஆம்",
      "lemma": "ஆகு",
-     "gloss": "becomes"
+     "gloss": "will become"
     },
     {
      "text": "ஆல்",
@@ -68,7 +68,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "becomes indeed"
+   "gloss": "will become indeed"
   },
   {
    "surface": "என்",
@@ -87,7 +87,7 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one person"
+     "gloss": "a person"
     }
    ],
    "gloss": "a person"
@@ -109,12 +109,12 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "measure"
+     "gloss": "limit/until"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even/up to"
     }
    ],
    "gloss": "until"
@@ -130,10 +130,10 @@
     {
      "text": "ஆத",
      "lemma": "ஆத",
-     "gloss": "not"
+     "gloss": "without"
     }
    ],
-   "gloss": "not learning"
+   "gloss": "without learning"
   },
   {
    "surface": "ஆறு",
@@ -141,16 +141,16 @@
     {
      "text": "ஆறு",
      "lemma": "ஆறு",
-     "gloss": "way"
+     "gloss": "way/manner"
     }
    ],
-   "gloss": "way"
+   "gloss": "the way"
   }
  ],
- "literal": "Any country becomes indeed (his), town becomes indeed (his); why (does) a person, until dying, (act in a) not learning way?",
- "translation": "Since any country and any town becomes their own to the learned, why does a person remain uneducated until the day they die?",
- "modern": "கற்றவருக்கு எந்த நாடும் தம் நாடாகும், எந்த ஊரும் தம் ஊராகும். அப்படி இருக்க, ஒருவன் தான் இறக்கும் வரை கற்காமல் இருப்பது ஏனோ?",
- "explanation": "This couplet marvels at the universal acceptance and belonging that education brings. To a learned person, every country and every town becomes their own, as their knowledge is respected everywhere. The poet asks a rhetorical question: knowing this immense benefit, why would anyone choose to remain uneducated until the day they die? The words 'யாதானும் நாடு' and 'ஊர்' emphasize the boundless nature of a scholar's world.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Any country indeed becomes [his own], any town indeed becomes [his own]; why does a person, until dying, remain without learning?",
+ "translation": "Since every country and every town becomes a learned person's own, why does anyone remain unlearned until their death?",
+ "modern": "கற்றவனுக்கு எந்த நாடும் தன் நாடாகும், எந்த ஊரும் தன் ஊராகும்; அப்படியிருக்க, ஒருவன் தன் இறப்பு வரைக்கும் கற்காமல் இருப்பது ஏன்?",
+ "explanation": "This couplet highlights the universal acceptance and belonging that education brings to a person. A learned person is welcomed and respected everywhere, making any foreign country or town feel like their own home. Given this immense benefit of learning, which removes all geographical barriers, the poet questions why anyone would choose to remain uneducated throughout their entire life until death. The key words 'nāṭāmāl' (becomes one's country) and 'ūrāmāl' (becomes one's town) emphasize that knowledge grants global citizenship, making the refusal to learn ('kallāta āṟu') highly irrational.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

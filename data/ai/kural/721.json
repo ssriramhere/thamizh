@@ -6,10 +6,10 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "nature"
+     "gloss": "nature or type"
     }
    ],
-   "gloss": "nature"
+   "gloss": "nature or type"
   },
   {
    "surface": "அறிந்து",
@@ -28,10 +28,10 @@
     {
      "text": "வல்",
      "lemma": "வல்",
-     "gloss": "strong"
+     "gloss": "strong or capable"
     }
    ],
-   "gloss": "strong"
+   "gloss": "strong or capable"
   },
   {
    "surface": "அவை",
@@ -50,26 +50,21 @@
     {
      "text": "வாய்",
      "lemma": "வாய்",
-     "gloss": "mouth"
+     "gloss": "mouth or speech"
     }
    ],
-   "gloss": "mouth"
+   "gloss": "mouth or speech"
   },
   {
    "surface": "சோரார்",
    "parts": [
     {
-     "text": "சோர்",
+     "text": "சோரார்",
      "lemma": "சோர்",
-     "gloss": "to slip"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they (negative)"
+     "gloss": "will not slip or falter"
     }
    ],
-   "gloss": "they will not slip"
+   "gloss": "will not slip or falter"
   },
   {
    "surface": "சொல்லின்",
@@ -93,10 +88,10 @@
     {
      "text": "தொகை",
      "lemma": "தொகை",
-     "gloss": "collection"
+     "gloss": "collection or group"
     }
    ],
-   "gloss": "collection"
+   "gloss": "collection or group"
   },
   {
    "surface": "அறிந்த",
@@ -104,10 +99,10 @@
     {
      "text": "அறிந்த",
      "lemma": "அறி",
-     "gloss": "who knew"
+     "gloss": "who have known"
     }
    ],
-   "gloss": "who knew"
+   "gloss": "who have known"
   },
   {
    "surface": "தூய்மை",
@@ -126,16 +121,16 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "they"
+     "gloss": "they or those"
     }
    ],
-   "gloss": "they"
+   "gloss": "they or those"
   }
  ],
- "literal": "Nature having-known, [in] strong assembly mouth they-slip-not, of-word collection who-knew purity they.",
- "translation": "Those pure ones who have mastered a multitude of words will not falter in their speech before a formidable assembly, having understood its nature.",
- "modern": "சொற்களின் தொகுதியை அறிந்த தூய்மையானவர்கள், அவையின் தன்மையை நன்கு அறிந்து, வல்லவர்கள் நிறைந்த அவையில் பேசும்போது வாய் தவறிப் பேச மாட்டார்கள்.",
- "explanation": "This couplet describes the confidence of well-prepared speakers in a learned assembly. 'சொல்லின் தொகை' (the collection of words) refers to a deep mastery of vocabulary and rhetoric, while 'தூய்மை' (purity) points to their clarity of mind and flawless speech. By understanding the nature ('வகை') of the powerful council ('வல் அவை'), these pure and knowledgeable individuals will never let a wrong word slip from their mouths ('வாய் சோரார்'). The verse emphasizes that true mastery of language prevents faltering even before the most intimidating audiences.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having known the nature, before a capable assembly, will not slip in speech, those of purity who have known the collection of words.",
+ "translation": "Those of pure mind who know the arrangement of words will not falter in their speech before a powerful assembly, once they have understood its nature.",
+ "modern": "அவையின் தன்மையை அறிந்து, சொற்களின் தொகுதியை உணர்ந்த தூய்மையான அறிவை உடையவர்கள், வல்லமை மிக்க அவையின் முன் பேசும்போது வாய் தவறிப் பிழை செய்ய மாட்டார்கள்.",
+ "explanation": "This couplet explains how a speaker can address an audience without fear or error. Those who possess a pure, flawless intellect and a deep mastery over vocabulary ('colliṉ tokai') will never falter or make slips of the tongue ('vāy cōrār'). By first analyzing and understanding the specific nature of the audience ('vakai aṟintu'), they can confidently deliver their speech even before a highly capable and powerful assembly ('val avai').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

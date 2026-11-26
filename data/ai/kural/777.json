@@ -4,9 +4,14 @@
    "surface": "சுழலும்",
    "parts": [
     {
-     "text": "சுழலும்",
+     "text": "சுழல்",
      "lemma": "சுழல்",
-     "gloss": "spreading"
+     "gloss": "spread"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "spreading"
@@ -26,9 +31,14 @@
    "surface": "வேண்டி",
    "parts": [
     {
-     "text": "வேண்டி",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "desiring"
+     "gloss": "desire"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "verbal participle suffix"
     }
    ],
    "gloss": "desiring"
@@ -37,9 +47,14 @@
    "surface": "வேண்டா",
    "parts": [
     {
-     "text": "வேண்டா",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "not desiring"
+     "gloss": "desire"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
     }
    ],
    "gloss": "not desiring"
@@ -55,10 +70,10 @@
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "those who have"
+     "gloss": "pronominal suffix"
     }
    ],
-   "gloss": "those who have life"
+   "gloss": "those who do not value their lives"
   },
   {
    "surface": "கழல்",
@@ -66,10 +81,10 @@
     {
      "text": "கழல்",
      "lemma": "கழல்",
-     "gloss": "warrior's anklet"
+     "gloss": "hero's anklet"
     }
    ],
-   "gloss": "warrior's anklet"
+   "gloss": "hero's anklet"
   },
   {
    "surface": "யாப்பு",
@@ -97,18 +112,23 @@
    "surface": "நீர்த்து",
    "parts": [
     {
-     "text": "நீர்த்து",
+     "text": "நீர்",
      "lemma": "நீர்மை",
-     "gloss": "has the nature of"
+     "gloss": "nature"
+    },
+    {
+     "text": "து",
+     "lemma": "து",
+     "gloss": "appositive suffix"
     }
    ],
-   "gloss": "has the nature of"
+   "gloss": "is of the nature of"
   }
  ],
- "literal": "Spreading fame desiring, not desiring life those who have, warrior's anklet fastening beauty has the nature of.",
- "translation": "For warriors who desire enduring fame and disregard their own lives, fastening the battle anklet is a true adornment.",
- "modern": "நிலைத்து நிற்கும் புகழை விரும்பித் தம் உயிரைப் பொருட்படுத்தாத வீரர்களுக்கு, காலில் வீரக்கழலைக் கட்டிக்கொள்வது ஒரு சிறந்த அழகாகும்.",
- "explanation": "This couplet describes the mindset of true warriors who value honor over survival. The phrase 'சுழலும் இசை' refers to fame that spreads and endures across the world. Because these warriors desire such glory and disregard their own lives, preparing for battle is a joyous occasion for them. Fastening the warrior's anklet is not seen as a march to death, but rather as a beautiful adornment that highlights their bravery.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Desiring spreading fame, those who do not desire life, their fastening of the hero's anklet is of the nature of beauty.",
+ "translation": "For those who desire resounding fame and disregard their own lives, the fastening of the hero's anklet is a fitting ornament of true beauty.",
+ "modern": "உலகெங்கும் பரவும் புகழை விரும்பி, தம் உயிரைப் பொருட்படுத்தாத வீரர்களுக்கே, காலில் வீரக்கழல் கட்டுவது அழகைத் தரும் தன்மையுடையதாகும்.",
+ "explanation": "This couplet highlights the true meaning of military adornments. The 'kazhal' is a traditional anklet worn by Tamil warriors to symbolize bravery. The poet explains that wearing this anklet is truly beautiful and meaningful only for those brave soldiers who seek resounding fame ('culalum icai') and are willing to sacrifice their lives ('vēṇṭā uyirār') on the battlefield. For anyone else, wearing it would be a hollow gesture without real substance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

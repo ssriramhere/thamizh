@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "துறந்தார்",
-     "lemma": "துற",
+     "lemma": "துறந்தார்",
      "gloss": "those who have renounced"
     }
    ],
-   "gloss": "renouncers"
+   "gloss": "those who have renounced"
   },
   {
    "surface": "பெருமை",
@@ -37,17 +37,12 @@
    "surface": "கூறின்",
    "parts": [
     {
-     "text": "கூறு",
+     "text": "கூறின்",
      "lemma": "கூறு",
-     "gloss": "tell"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if one speaks"
     }
    ],
-   "gloss": "if told"
+   "gloss": "if one speaks"
   },
   {
    "surface": "வையத்து",
@@ -55,7 +50,7 @@
     {
      "text": "வையத்து",
      "lemma": "வையம்",
-     "gloss": "in the world"
+     "gloss": "of the world"
     }
    ],
    "gloss": "of the world"
@@ -64,33 +59,23 @@
    "surface": "இறந்தாரை",
    "parts": [
     {
-     "text": "இறந்தார்",
-     "lemma": "இற",
-     "gloss": "those who died"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "text": "இறந்தாரை",
+     "lemma": "இறந்தார்",
+     "gloss": "those who have died"
     }
    ],
-   "gloss": "the dead"
+   "gloss": "those who have died"
   },
   {
    "surface": "எண்ணி",
    "parts": [
     {
-     "text": "எண்ணு",
+     "text": "எண்ணி",
      "lemma": "எண்ணு",
-     "gloss": "count"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "counting"
     }
    ],
-   "gloss": "having counted"
+   "gloss": "counting"
   },
   {
    "surface": "கொண்டு",
@@ -98,10 +83,10 @@
     {
      "text": "கொண்டு",
      "lemma": "கொள்",
-     "gloss": "having taken"
+     "gloss": "taking"
     }
    ],
-   "gloss": "having taken"
+   "gloss": "taking"
   },
   {
    "surface": "அற்று",
@@ -109,16 +94,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like"
   }
  ],
- "literal": "those who renounced / greatness / measure / if told / of the world / the dead / having counted / having taken / like that",
- "translation": "To measure and state the greatness of those who have renounced is like trying to count the dead of the world.",
- "modern": "ஆசைகளைத் துறந்தவர்களின் பெருமையை அளவிட்டுச் சொல்வது, இந்த உலகத்தில் இதுவரை இறந்துபோனவர்களை எண்ணிக் கணக்கிடுவதற்குச் சமமாகும்.",
- "explanation": "This couplet illustrates the boundless nature of an ascetic's greatness through a striking comparison. The word 'துறந்தார்' refers to those who have renounced worldly attachments, and 'பெருமை' denotes their resulting greatness. The poet says that trying to measure ('துணை கூறின்') this greatness is as impossible as counting ('எண்ணிக்கொண்டு') all the people who have ever died ('இறந்தாரை') in the world ('வையத்து'). Just as the number of the dead is infinite and beyond human calculation, the virtues and spiritual power of true renouncers cannot be quantified.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If one speaks of the measure of the greatness of those who have renounced, it is like counting all those who have died in the world.",
+ "translation": "To measure the greatness of those who have renounced all desires is like trying to count all the people who have ever died on this earth.",
+ "modern": "ஆசைகளைத் துறந்தவர்களுடைய பெருமையின் எல்லையைச் சொல்ல முயல்வது, இவ்வுலகத்தில் இதுவரை பிறந்து இறந்தவர்களை எண்ணிக் கணக்கிடுவதைப் போன்றது.",
+ "explanation": "This couplet highlights the infinite nature of the greatness of sages who have renounced worldly desires. The author uses a striking, impossible task as a comparison: counting every single person who has ever died on earth since the beginning of time. Just as it is impossible to keep a tally of all the deceased throughout human history, it is equally impossible to define or limit the spiritual stature of those who have conquered their desires. The key words 'துறந்தார்' (those who renounced) and 'பெருமை' (greatness) establish the subject, while 'இறந்தாரை எண்ணிக்கொண்டற்று' (like counting the dead) provides the vivid, hyperbolic analogy that emphasizes the boundless nature of their virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

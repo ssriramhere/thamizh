@@ -6,7 +6,7 @@
     {
      "text": "கற்று",
      "lemma": "கல்",
-     "gloss": "having-learned"
+     "gloss": "having learned"
     }
    ],
    "gloss": "having learned"
@@ -17,10 +17,10 @@
     {
      "text": "ஈண்டு",
      "lemma": "ஈண்டு",
-     "gloss": "here"
+     "gloss": "here in this world"
     }
    ],
-   "gloss": "here"
+   "gloss": "here in this world"
   },
   {
    "surface": "மெய்ப்பொருள்",
@@ -28,7 +28,7 @@
     {
      "text": "மெய்",
      "lemma": "மெய்",
-     "gloss": "true"
+     "gloss": "truth"
     },
     {
      "text": "பொருள்",
@@ -36,7 +36,7 @@
      "gloss": "reality"
     }
    ],
-   "gloss": "true reality"
+   "gloss": "the ultimate truth"
   },
   {
    "surface": "கண்டார்",
@@ -44,10 +44,10 @@
     {
      "text": "கண்டார்",
      "lemma": "காண்",
-     "gloss": "saw-they"
+     "gloss": "those who realized"
     }
    ],
-   "gloss": "those who have seen"
+   "gloss": "those who have realized"
   },
   {
    "surface": "தலைப்படுவர்",
@@ -55,7 +55,7 @@
     {
      "text": "தலைப்படுவர்",
      "lemma": "தலைப்படு",
-     "gloss": "will-attain-they"
+     "gloss": "they will attain"
     }
    ],
    "gloss": "they will attain"
@@ -77,21 +77,21 @@
     {
      "text": "ஈண்டு",
      "lemma": "ஈண்டு",
-     "gloss": "here"
+     "gloss": "here to this world"
     }
    ],
-   "gloss": "here"
+   "gloss": "here to this world"
   },
   {
    "surface": "வாரா",
    "parts": [
     {
      "text": "வாரா",
-     "lemma": "வா",
-     "gloss": "not-coming"
+     "lemma": "வரு",
+     "gloss": "non-returning"
     }
    ],
-   "gloss": "not coming"
+   "gloss": "non-returning"
   },
   {
    "surface": "நெறி",
@@ -102,13 +102,13 @@
      "gloss": "path"
     }
    ],
-   "gloss": "path"
+   "gloss": "the path"
   }
  ],
- "literal": "Having learned, here true reality those who saw, will attain again here not-coming path.",
- "translation": "Those who have learned and realized the true reality in this world will attain the path that does not lead back here again.",
- "modern": "கற்க வேண்டியவற்றைக் கற்று, இவ்வுலகில் உண்மையான பொருளைக் கண்டவர்கள், மீண்டும் இவ்வுலகிற்குப் பிறந்து வராத வழியை அடைவார்கள்.",
- "explanation": "This couplet describes the ultimate reward for realizing the truth. The word 'ஈண்டு' can mean 'abundantly' or 'here', but 'here' best fits the context of worldly existence. By learning deeply and seeing the true reality (மெய்ப்பொருள்) while living here, a person achieves the highest goal. They will enter the path (நெறி) that ensures they do not return here again (மற்று ஈண்டு வாரா), signifying freedom from returning to this worldly life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having learned, here, the ultimate truth, those who realized [it] will attain the path of not returning here again.",
+ "translation": "Those who have learned and realized the ultimate truth in this life will attain the path that leads to no return to this world.",
+ "modern": "இவ்வுலகில் மெய்யறிவைக் கற்று, உண்மையான பொருளை உணர்ந்தவர்கள், மீண்டும் இவ்வுலகிற்குத் திரும்பி வராத நல்வழியை அடைவார்கள்.",
+ "explanation": "This couplet highlights the ultimate goal of realizing the truth. Those who study and successfully perceive the true, unchanging reality (மெய்ப்பொருள்) while in this world (ஈண்டு) will reach a state or path (நெறி) from which they do not return (வாரா) to the cycle of birth and death. The repetition of 'ஈண்டு' contrasts the present earthly life of learning with the state of liberation from returning here. The term 'தலைப்படுவர்' signifies firmly reaching or securing this supreme path.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

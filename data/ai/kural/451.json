@@ -4,25 +4,25 @@
    "surface": "சிற்றினம்",
    "parts": [
     {
-     "text": "சிற்றினம்",
-     "lemma": "சிற்றினம்",
-     "gloss": "mean company"
+     "text": "சிற்று",
+     "lemma": "சிறுமை",
+     "gloss": "lowly"
+    },
+    {
+     "text": "இனம்",
+     "lemma": "இனம்",
+     "gloss": "association"
     }
    ],
-   "gloss": "mean company"
+   "gloss": "lowly association"
   },
   {
    "surface": "அஞ்சும்",
    "parts": [
     {
-     "text": "அஞ்சு",
-     "lemma": "அஞ்சு",
-     "gloss": "to fear"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "text": "அஞ்சும்",
+     "lemma": "அஞ்சுதல்",
+     "gloss": "will fear"
     }
    ],
    "gloss": "will fear"
@@ -64,45 +64,45 @@
    "surface": "சுற்றமா",
    "parts": [
     {
-     "text": "சுற்றமா",
-     "lemma": "சுற்றமாக",
-     "gloss": "as kin"
+     "text": "சுற்றம்",
+     "lemma": "சுற்றம்",
+     "gloss": "kinship"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "as"
     }
    ],
-   "gloss": "as kin"
+   "gloss": "as kinsmen"
   },
   {
    "surface": "சூழ்ந்து",
    "parts": [
     {
      "text": "சூழ்ந்து",
-     "lemma": "சூழ்",
-     "gloss": "having surrounded"
+     "lemma": "சூழ்ந்தல்",
+     "gloss": "surrounding"
     }
    ],
-   "gloss": "having surrounded"
+   "gloss": "surrounding"
   },
   {
    "surface": "விடும்",
    "parts": [
     {
-     "text": "விடு",
-     "lemma": "விடு",
-     "gloss": "to leave"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "future suffix"
+     "text": "விடும்",
+     "lemma": "விடுதல்",
+     "gloss": "will end up doing"
     }
    ],
-   "gloss": "will complete"
+   "gloss": "will completely do"
   }
  ],
- "literal": "Mean-company will-fear greatness; meanness indeed as-kin having-surrounded will-complete.",
- "translation": "Greatness fears the company of the mean, but meanness embraces them as its own kin.",
- "modern": "பெருமை குணம் கொண்டவர்கள் சிற்றினத்தாரோடு சேரப் பயப்படுவார்கள். ஆனால் சிறுமை குணம் கொண்டவர்களோ அவர்களைத் தம் உறவினராகக் கருதிச் சூழ்ந்து கொள்வார்கள்.",
- "explanation": "This couplet contrasts how noble and base people view bad company. Greatness naturally fears and avoids the company of the mean, knowing it degrades one's character. In contrast, meanness actively seeks out such company, embracing them as if they were family. The word 'சுற்றமா' (as kin) highlights how deeply base individuals attach themselves to bad influences.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Lowly association will fear greatness; meanness indeed as kinsmen surrounding will end up.",
+ "translation": "Greatness dreads and avoids the company of the base; but baseness embraces such company, treating it as its own kin.",
+ "modern": "பெருமைக் குணம் உடையவர்கள் சிற்றினத்தைக் கண்டு அஞ்சுவார்கள்; ஆனால் சிறுமைக் குணம் உடையவர்களோ அதையே தங்களுக்குச் சுற்றமாக ஏற்றுத் தழுவிக் கொள்வார்கள்.",
+ "explanation": "This couplet contrasts how noble and ignoble minds react to bad company (சிற்றினம்). Greatness of character (பெருமை) instinctively fears and avoids association with low-minded people, knowing its corrupting influence. On the other hand, baseness of character (சிறுமை) naturally welcomes such low association, embracing it closely as if it were its own family (சுற்றமா). The poet uses personification to show that our natural affinities reveal our true character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

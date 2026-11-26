@@ -4,12 +4,22 @@
    "surface": "நினைப்பவர்",
    "parts": [
     {
-     "text": "நினைப்பவர்",
+     "text": "நினை",
      "lemma": "நினை",
-     "gloss": "those who think"
+     "gloss": "think"
+    },
+    {
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
+     "gloss": "future/present tense marker"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "he (honorific)"
     }
    ],
-   "gloss": "those who think"
+   "gloss": "he who thinks"
   },
   {
    "surface": "போன்று",
@@ -17,21 +27,26 @@
     {
      "text": "போன்று",
      "lemma": "போல்",
-     "gloss": "seeming"
+     "gloss": "appearing like"
     }
    ],
-   "gloss": "seeming"
+   "gloss": "appearing like"
   },
   {
    "surface": "நினையார்",
    "parts": [
     {
-     "text": "நினையார்",
+     "text": "நினை",
      "lemma": "நினை",
-     "gloss": "they do not think"
+     "gloss": "think"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "he (honorific negative third person)"
     }
    ],
-   "gloss": "they do not think"
+   "gloss": "he does not think"
   },
   {
    "surface": "கொல்",
@@ -39,18 +54,23 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "I wonder"
+     "gloss": "particle of doubt"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "I wonder / indeed"
   },
   {
    "surface": "தும்மல்",
    "parts": [
     {
-     "text": "தும்மல்",
-     "lemma": "தும்மல்",
-     "gloss": "sneeze"
+     "text": "தும்மு",
+     "lemma": "தும்மு",
+     "gloss": "sneeze (verb)"
+    },
+    {
+     "text": "அல்",
+     "lemma": "அல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "sneeze"
@@ -59,12 +79,22 @@
    "surface": "சினைப்பது",
    "parts": [
     {
-     "text": "சினைப்பது",
+     "text": "சினை",
      "lemma": "சினை",
-     "gloss": "that which swells"
+     "gloss": "bud / form"
+    },
+    {
+     "text": "ப்ப்",
+     "lemma": "ப்ப்",
+     "gloss": "present/future marker"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it (pronominal suffix)"
     }
    ],
-   "gloss": "that which swells"
+   "gloss": "budding / gathering to start"
   },
   {
    "surface": "போன்று",
@@ -72,27 +102,32 @@
     {
      "text": "போன்று",
      "lemma": "போல்",
-     "gloss": "seeming"
+     "gloss": "appearing like"
     }
    ],
-   "gloss": "seeming"
+   "gloss": "appearing like"
   },
   {
    "surface": "கெடும்",
    "parts": [
     {
-     "text": "கெடும்",
+     "text": "கெடு",
      "lemma": "கெடு",
-     "gloss": "it fails"
+     "gloss": "perish / disappear"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual future suffix"
     }
    ],
-   "gloss": "it fails"
+   "gloss": "disappears"
   }
  ],
- "literal": "Those who think - seeming - they do not think - I wonder - sneeze - that which swells - seeming - perishes.",
- "translation": "My sneeze seems to build up, but then it fades away. I wonder, does he seem to think of me, but then not think of me at all?",
- "modern": "தும்மல் வருவது போலத் தோன்றி வராமல் அடங்கிவிடுகிறது. அதுபோலவே அவரும் என்னை நினைப்பவர் போலத் தோன்றி, உண்மையில் நினைக்காமல் விட்டுவிட்டாரோ?",
- "explanation": "This couplet plays on the traditional Tamil belief that a sneeze indicates a loved one is thinking of you. The heroine feels a sneeze building up, but it suddenly subsides ('கெடும்') without happening. She draws a direct parallel between this physical sensation and her lover's thoughts. She wonders if he started to think of her ('நினைப்பவர் போன்று') but then stopped or decided not to ('நினையார்கொல்'). The word 'சினைப்பது' (swelling or forming) perfectly captures the sensation of a sneeze that builds up but fails to release.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like he who thinks, does he not think? I wonder; the sneeze, like budding, disappears.",
+ "translation": "Does my lover seem to think of me, but then stop? For my sneeze, which was about to burst forth, has subsided and disappeared.",
+ "modern": "அவர் என்னை நினைப்பவர் போலத் தொடங்கிப் பின் நினையாமல் விட்டுவிடுகிறாரோ? ஏனெனில், வரவிருந்த தும்மல் அரும்புவது போலத் தோன்றிப் பின் அடங்கிவிடுகிறது.",
+ "explanation": "This couplet draws on the traditional Tamil belief that a sneeze is triggered when a loved one thinks of you. The heroine feels a sneeze beginning to form in her nose, which is described beautifully as 'சினைப்பது' (budding like a flower). However, the sneeze suddenly fades away ('கெடும்') without happening. She wonders if her distant lover started to think of her, but then immediately stopped, causing her physical sneeze to abort mid-way.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

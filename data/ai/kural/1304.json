@@ -5,35 +5,45 @@
    "parts": [
     {
      "text": "ஊடியவர்",
-     "lemma": "ஊடு",
-     "gloss": "those who sulked"
+     "lemma": "ஊடியவர்",
+     "gloss": "those who have sulked"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who sulked (acc.)"
+   "gloss": "those who have sulked"
   },
   {
    "surface": "உணராமை",
    "parts": [
     {
-     "text": "உணராமை",
+     "text": "உணர்",
      "lemma": "உணர்",
-     "gloss": "not appeasing"
+     "gloss": "to appease or comfort"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative verbal noun suffix"
     }
    ],
-   "gloss": "not appeasing"
+   "gloss": "not appeasing or comforting"
   },
   {
    "surface": "வாடிய",
    "parts": [
     {
-     "text": "வாடிய",
+     "text": "வாடு",
      "lemma": "வாடு",
-     "gloss": "withered"
+     "gloss": "to wither"
+    },
+    {
+     "text": "இய",
+     "lemma": "இய",
+     "gloss": "past relative participle suffix"
     }
    ],
    "gloss": "withered"
@@ -44,7 +54,7 @@
     {
      "text": "வள்ளி",
      "lemma": "வள்ளி",
-     "gloss": "creeper"
+     "gloss": "creeper or vine"
     }
    ],
    "gloss": "creeper"
@@ -55,7 +65,7 @@
     {
      "text": "முதல்",
      "lemma": "முதல்",
-     "gloss": "root"
+     "gloss": "root or base"
     }
    ],
    "gloss": "root"
@@ -71,16 +81,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
    "gloss": "is like cutting"
   }
  ],
- "literal": "Those who sulked not appeasing, withered creeper's root having cut is like.",
- "translation": "Failing to appease a sulking partner is like cutting a withered creeper at its root.",
- "modern": "ஊடல் கொண்டவரைச் சமாதானம் செய்யாமல் இருப்பது, ஏற்கனவே வாடிப்போன கொடியை அதன் வேரிலேயே அறுப்பதற்குச் சமமாகும்.",
- "explanation": "This couplet compares a lover's sulking to a withered creeper. When a creeper is already wilting, it needs water and care to revive, not further harm. Similarly, when a partner is sulking, they are emotionally fragile and need to be comforted. Ignoring their feelings and failing to appease them is as destructive as cutting the root of a dying plant, which will kill the relationship completely.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not comforting those who have sulked is like cutting the root of a withered creeper.",
+ "translation": "Failing to appease a partner who has sulked is like cutting the root of a creeper that is already withering.",
+ "modern": "ஊடல் கொண்டவரை சமாதானம் செய்து ஏற்றுக்கொள்ளாமல் இருப்பது, ஏற்கனவே வாடிப் போயிருக்கும் கொடியின் வேரை அறுப்பதற்கு ஒப்பானது ஆகும்.",
+ "explanation": "This couplet uses a vivid botanical metaphor to highlight the delicate nature of love-quarrels. A partner who is sulking is emotionally vulnerable, compared here to a withered creeper. Failing to comfort or appease them in a timely manner acts as a final blow, akin to cutting the very root of that struggling plant. To sustain the relationship, one must nurture it with affection rather than letting the feigned anger harden into permanent estrangement.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

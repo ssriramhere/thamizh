@@ -4,12 +4,17 @@
    "surface": "செல்லாமை",
    "parts": [
     {
-     "text": "செல்லாமை",
-     "lemma": "செல்லாமை",
-     "gloss": "not going"
+     "text": "செல்",
+     "lemma": "செல்",
+     "gloss": "go"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominalizing suffix"
     }
    ],
-   "gloss": "not going"
+   "gloss": "not departing"
   },
   {
    "surface": "உண்டேல்",
@@ -17,7 +22,7 @@
     {
      "text": "உண்டு",
      "lemma": "உண்டு",
-     "gloss": "is"
+     "gloss": "exists"
     },
     {
      "text": "ஏல்",
@@ -91,12 +96,17 @@
    "surface": "வாழ்வார்க்கு",
    "parts": [
     {
-     "text": "வாழ்வார்க்கு",
+     "text": "வாழ்வார்",
      "lemma": "வாழ்வார்",
-     "gloss": "to those who live"
+     "gloss": "those who live"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who live"
+   "gloss": "to those who survive"
   },
   {
    "surface": "உரை",
@@ -110,10 +120,10 @@
    "gloss": "tell"
   }
  ],
- "literal": "not going - if there is - to me - tell - otherwise - your - quick return - to those who will live - tell",
- "translation": "If you are not leaving, tell me. Otherwise, tell of your quick return to those who will still be alive.",
- "modern": "நீங்கள் என்னைப் பிரிந்து செல்லமாட்டீர்கள் என்றால் அதை என்னிடம் சொல்லுங்கள். பிரிந்து சென்று விரைவில் திரும்புவீர்கள் என்றால், அதை நீங்கள் வரும்வரை உயிரோடு இருப்பவர்களிடம் சொல்லுங்கள்.",
- "explanation": "The speaker addresses her departing lover, expressing her inability to bear the separation. She asks him to tell her only if he has decided not to leave. If he is leaving and promises a quick return, she tells him to deliver that promise to those who will survive his absence, implying she will die of grief before he returns. The contrast between 'எனக்கு உரை' (tell me) and 'வாழ்வார்க்கு உரை' (tell those who will live) powerfully conveys her certainty that she cannot survive the separation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not departing if there is, to me tell; otherwise, your quick return, to those who survive, tell.",
+ "translation": "If you are not departing, tell me; but as for your quick return, tell that to those who will survive until then.",
+ "modern": "நீ போகாமல் இருக்கப் போகிறாய் என்றால் அதை என்னிடம் சொல்; மாறாக, நீ சீக்கிரம் திரும்பி வருவதைப் பற்றி, நீ இல்லாத காலத்தில் உயிர் பிழைத்திருப்பவர்களிடம் சொல்.",
+ "explanation": "The heroine speaks to her departing lover, unable to bear the grief of separation. She tells him that if he has decided not to leave, he should tell her that happy news. However, if he is indeed leaving and promises a quick return, he should tell that to those who can survive the grief of separation; she herself will not survive to hear of his return.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

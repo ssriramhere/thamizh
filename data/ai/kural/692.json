@@ -15,12 +15,17 @@
    "surface": "விழைப",
    "parts": [
     {
-     "text": "விழைப",
+     "text": "விழை",
      "lemma": "விழை",
-     "gloss": "things desired"
+     "gloss": "desire"
+    },
+    {
+     "text": "ப",
+     "lemma": "ப",
+     "gloss": "things (neuter plural suffix)"
     }
    ],
-   "gloss": "things desired"
+   "gloss": "the things desired"
   },
   {
    "surface": "விழையாமை",
@@ -28,12 +33,12 @@
     {
      "text": "விழை",
      "lemma": "விழை",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not doing (negative verbal noun suffix)"
     }
    ],
    "gloss": "not desiring"
@@ -49,18 +54,23 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by (instrumental suffix)"
     }
    ],
-   "gloss": "by kings"
+   "gloss": "by the kings"
   },
   {
    "surface": "மன்னிய",
    "parts": [
     {
-     "text": "மன்னிய",
+     "text": "மன்னு",
      "lemma": "மன்னு",
-     "gloss": "enduring"
+     "gloss": "endure"
+    },
+    {
+     "text": "இய",
+     "lemma": "அ",
+     "gloss": "that which (relative participle suffix)"
     }
    ],
    "gloss": "enduring"
@@ -80,18 +90,23 @@
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரும்",
-     "lemma": "தா",
-     "gloss": "will give"
+     "text": "தரு",
+     "lemma": "தரு",
+     "gloss": "give"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will (future/habitual suffix)"
     }
    ],
    "gloss": "will give"
   }
  ],
- "literal": "kings - things desired - not desiring - by kings - enduring - wealth - will give",
- "translation": "Not coveting the things that kings desire will yield enduring wealth through those very kings.",
- "modern": "அரசர்கள் விரும்பும் பொருள்களைத் தான் விரும்பாமல் இருப்பது, அந்த அரசர்களாலேயே ஒருவனுக்கு நிலைபெற்ற செல்வத்தைப் பெற்றுத் தரும்.",
- "explanation": "This couplet advises those who serve or associate with rulers on how to secure lasting prosperity. The phrase 'மன்னர் விழைப' refers to the objects, pleasures, or ambitions that the king himself desires. 'விழையாமை' means refraining from coveting those same things, as competing with a ruler leads to their displeasure and one's own ruin. By avoiding such rivalry, an associate earns the ruler's trust, which 'தரும்' (will yield) 'மன்னிய ஆக்கம்' (enduring wealth) directly 'மன்னரால்' (through the king).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Not desiring the things that kings desire will give enduring wealth by those kings.",
+ "translation": "Abstaining from desiring the very things that rulers desire for themselves will bring enduring prosperity through those same rulers.",
+ "modern": "அரசர்கள் விரும்பும் பொருள்களைத் தான் விரும்பாமல் இருப்பது, அந்த அரசர்களாலேயே ஒருவருக்கு நிலைத்த செல்வத்தைத் தரும்.",
+ "explanation": "This couplet advises courtiers and associates on how to behave safely and successfully around rulers. The word 'viḻaipa' refers to the specific objects, pleasures, or privileges that a king desires or enjoys. By practicing 'viḻaiyāmai' (not desiring those same things), an associate avoids provoking the ruler's jealousy, suspicion, or rivalry. This self-restraint wins the ruler's trust, which ultimately yields 'manniya ākkam' (enduring wealth and position) bestowed by the ruler himself.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,17 +4,12 @@
    "surface": "ஓதி",
    "parts": [
     {
-     "text": "ஓது",
+     "text": "ஓதி",
      "lemma": "ஓது",
-     "gloss": "to read"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "having"
+     "gloss": "having studied"
     }
    ],
-   "gloss": "having read"
+   "gloss": "having studied"
   },
   {
    "surface": "உணர்ந்தும்",
@@ -27,10 +22,10 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "and"
     }
    ],
-   "gloss": "even having understood"
+   "gloss": "and having understood"
   },
   {
    "surface": "பிறர்க்கு",
@@ -41,7 +36,7 @@
      "gloss": "others"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -54,7 +49,7 @@
     {
      "text": "உரைத்து",
      "lemma": "உரை",
-     "gloss": "having taught"
+     "gloss": "having expounded"
     },
     {
      "text": "உம்",
@@ -62,7 +57,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "and having taught"
+   "gloss": "and having expounded"
   },
   {
    "surface": "தான்",
@@ -79,17 +74,12 @@
    "surface": "அடங்கா",
    "parts": [
     {
-     "text": "அடங்கு",
+     "text": "அடங்கா",
      "lemma": "அடங்கு",
-     "gloss": "to submit"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "not"
+     "gloss": "not self-controlled"
     }
    ],
-   "gloss": "not submitting"
+   "gloss": "not self-controlled"
   },
   {
    "surface": "பேதையின்",
@@ -105,23 +95,18 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than the fool"
+   "gloss": "than a fool"
   },
   {
    "surface": "பேதையார்",
    "parts": [
     {
-     "text": "பேதை",
-     "lemma": "பேதை",
-     "gloss": "fool"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "plural suffix"
+     "text": "பேதையார்",
+     "lemma": "பேதையார்",
+     "gloss": "greater fools"
     }
    ],
-   "gloss": "fools"
+   "gloss": "greater fools"
   },
   {
    "surface": "இல்",
@@ -129,16 +114,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not"
+     "gloss": "there is none"
     }
    ],
-   "gloss": "there are not"
+   "gloss": "there is none"
   }
  ],
- "literal": "Having read, even having understood, and having taught to others, oneself not submitting than the fool fools there are not.",
- "translation": "There are no greater fools than the fool who reads, understands, and teaches others, yet fails to control his own conduct.",
- "modern": "நூல்களைப் படித்து, அவற்றின் பொருளை உணர்ந்து, மற்றவர்களுக்கும் எடுத்துச் சொல்லியும், தான் அந்த நெறிப்படி நடக்காத முட்டாளை விடப் பெரிய முட்டாள்கள் யாருமில்லை.",
- "explanation": "This couplet defines the ultimate form of folly. It describes a person who has read widely, understood the meaning of what they read, and even teaches those principles to others. However, if they fail to apply that knowledge to control their own behavior, their learning is useless. The word 'aṭaṅkā' means not submitting or not controlling oneself, showing that true wisdom requires living by what one knows, and lacking this makes one the greatest fool.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having studied, and having understood, and having expounded to others, oneself not self-controlled, than that fool, greater fools there are none.",
+ "translation": "There are no greater fools than those who, despite having studied, understood, and taught others, do not practice self-control themselves.",
+ "modern": "நூல்களைப் படித்து, அவற்றின் பொருளை உணர்ந்து, பிறருக்கும் எடுத்துச் சொல்லியும், தான் அதன்படி அடங்கி நடக்காத பேதையை விடப் பெரிய பேதையர் யாரும் இல்லை.",
+ "explanation": "This couplet defines the ultimate form of foolishness. A person might read many books, grasp their deep meanings, and even teach these values to others. However, if they fail to control their own desires and actions according to that knowledge, their learning is entirely useless. The poet emphasizes that there is no greater fool than someone who possesses knowledge but fails to live by it.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

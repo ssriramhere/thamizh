@@ -17,20 +17,20 @@
     {
      "text": "அமைந்து",
      "lemma": "அமை",
-     "gloss": "having been sufficient"
+     "gloss": "having suited or being in right measure"
     },
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "it is"
+     "gloss": "indeed (emphatic particle)"
     }
    ],
-   "gloss": "is like being sufficient"
+   "gloss": "is like being in the right measure"
   },
   {
    "surface": "புலவி",
@@ -38,10 +38,10 @@
     {
      "text": "புலவி",
      "lemma": "புலவி",
-     "gloss": "sulking"
+     "gloss": "feigned anger or pouting"
     }
    ],
-   "gloss": "sulking"
+   "gloss": "feigned anger"
   },
   {
    "surface": "அது",
@@ -76,22 +76,22 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like"
     },
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "it is"
+     "gloss": "indeed (emphatic particle)"
     }
    ],
-   "gloss": "is like exceeding"
+   "gloss": "is like being excessive"
   },
   {
    "surface": "நீள",
    "parts": [
     {
      "text": "நீள",
-     "lemma": "நீள்",
+     "lemma": "நீள",
      "gloss": "to prolong"
     }
    ],
@@ -103,16 +103,16 @@
     {
      "text": "விடல்",
      "lemma": "விடு",
-     "gloss": "letting"
+     "gloss": "letting go or allowing"
     }
    ],
-   "gloss": "letting"
+   "gloss": "allowing or letting go"
   }
  ],
- "literal": "Sulking is like salt being sufficient; letting that prolong is like exceeding a little.",
- "translation": "A lover's sulking is like adding just enough salt to food. Prolonging it is like adding a little too much.",
- "modern": "உணவில் உப்பு சரியான அளவில் இருப்பது போல காதலில் ஊடல் இருப்பது சுவை தரும். அந்த ஊடலை அளவுக்கு மீறி நீட்டிக்கச் செய்வது, உணவில் உப்பு சிறிது அதிகமாகிவிட்டதைப் போன்றது.",
- "explanation": "This couplet compares a lover's feigned anger to salt in food. Just as the right amount of salt enhances the taste of a dish, a brief period of sulking adds charm to love. However, if the sulking is prolonged, it ruins the joy of the relationship, exactly as adding even a little too much salt makes food inedible. The words 'amaintu' (being optimal) and 'mikku' (exceeding) perfectly capture this delicate balance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Feigned anger is like salt in right measure; allowing that to prolong is like being a little excessive.",
+ "translation": "Feigned anger in love is like salt in food; it is delightful in the right measure, but to prolong it is like adding a little too much.",
+ "modern": "ஊடல் கொள்வது உணவில் உப்பு அளவாக இருப்பதற்கு ஒப்பானது; ஆனால் அந்த ஊடலை நீட்டிக்கச் செய்வது உப்பு சற்றே அதிகமாகிப் போவதற்கு ஒப்பானது.",
+ "explanation": "This couplet uses a simple culinary analogy to explain the role of feigned anger (புலவி) in love. Just as a moderate amount of salt (உப்பு) makes food delicious, a brief period of pouting adds flavor and excitement to a relationship. However, if the lovers prolong this disagreement (நீள விடல்), it becomes like adding too much salt (மிக்கற்றால்), which ruins the entire experience. The words 'அமைந்தற்றால்' (like being in right measure) and 'மிக்கற்றால்' (like being excessive) highlight the importance of moderation in lovers' tiffs.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

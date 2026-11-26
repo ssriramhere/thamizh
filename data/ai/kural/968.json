@@ -6,15 +6,15 @@
     {
      "text": "மருந்து",
      "lemma": "மருந்து",
-     "gloss": "medicine/elixir"
+     "gloss": "medicine or elixir of immortality"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "is it an elixir?"
+   "gloss": "is it an elixir of immortality?"
   },
   {
    "surface": "மற்று",
@@ -22,10 +22,10 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "indeed/otherwise"
+     "gloss": "empty particle"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "and/further"
   },
   {
    "surface": "ஊன்",
@@ -33,10 +33,10 @@
     {
      "text": "ஊன்",
      "lemma": "ஊன்",
-     "gloss": "flesh"
+     "gloss": "flesh or body"
     }
    ],
-   "gloss": "flesh"
+   "gloss": "flesh/body"
   },
   {
    "surface": "ஓம்பும்",
@@ -44,10 +44,10 @@
     {
      "text": "ஓம்பும்",
      "lemma": "ஓம்பு",
-     "gloss": "protecting"
+     "gloss": "preserving"
     }
    ],
-   "gloss": "cherishing"
+   "gloss": "preserving"
   },
   {
    "surface": "வாழ்க்கை",
@@ -64,9 +64,14 @@
    "surface": "பெருந்தகைமை",
    "parts": [
     {
-     "text": "பெருந்தகைமை",
-     "lemma": "பெருந்தகைமை",
-     "gloss": "great dignity"
+     "text": "பெருந்",
+     "lemma": "பெருமை",
+     "gloss": "great"
+    },
+    {
+     "text": "தகைமை",
+     "lemma": "தகைமை",
+     "gloss": "dignity"
     }
    ],
    "gloss": "great dignity"
@@ -77,10 +82,10 @@
     {
      "text": "பீடு",
      "lemma": "பீடு",
-     "gloss": "honor"
+     "gloss": "honour or greatness"
     }
    ],
-   "gloss": "honor"
+   "gloss": "honour/greatness"
   },
   {
    "surface": "அழிய",
@@ -88,10 +93,10 @@
     {
      "text": "அழிய",
      "lemma": "அழி",
-     "gloss": "to be destroyed"
+     "gloss": "to be ruined"
     }
    ],
-   "gloss": "to be destroyed"
+   "gloss": "to be ruined"
   },
   {
    "surface": "வந்த",
@@ -102,7 +107,7 @@
      "gloss": "that came"
     }
    ],
-   "gloss": "that came"
+   "gloss": "that has come"
   },
   {
    "surface": "இடத்து",
@@ -110,16 +115,16 @@
     {
      "text": "இடத்து",
      "lemma": "இடம்",
-     "gloss": "at the time"
+     "gloss": "when/at the time"
     }
    ],
    "gloss": "when"
   }
  ],
- "literal": "Is it an elixir, indeed, flesh-cherishing life, great dignity's honor to be destroyed when it has come?",
- "translation": "When great dignity and honor are destroyed, is a life that merely cherishes the physical body an elixir of immortality?",
- "modern": "தமது பெருமையும் மானமும் அழியும்படியான நிலை வந்தபோது, உடம்பை மட்டும் காப்பாற்றி வாழும் வாழ்க்கை என்ன சாகா வரம் தரும் மருந்தா?",
- "explanation": "This couplet questions the value of clinging to physical survival at the cost of one's honor. The word 'ஊன்' (flesh) emphasizes the mere physical body, contrasting it with 'பெருந்தகைமை பீடு' (the honor of great dignity). The poet asks rhetorically if a life that merely protects the flesh is an elixir of immortality ('மருந்தோ'). It implies that since the body will eventually die anyway, sacrificing one's honor just to prolong physical existence is foolish and unworthy of a noble person.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Is it an elixir of immortality, the life that preserves the flesh, when great dignity and honour are ruined?",
+ "translation": "When one's great dignity and honour are ruined, is the life spent in preserving this fleshly body an elixir of immortality?",
+ "modern": "பெருந்தன்மையும் மானமும் அழியும்படியான நிலைமை வரும்போது, உடம்பைக் காப்பாற்றிக் கொண்டு வாழ்கின்ற வாழ்க்கை என்ன சாகா மருந்தா?",
+ "explanation": "This couplet highlights the supreme value of self-respect over mere physical survival. The poet asks a rhetorical question: when a situation arises where one's great dignity (பெருந்தகைமை) and honour (பீடு) are destroyed, is preserving this physical body (ஊன்) with life (வாழ்க்கை) like consuming an elixir of immortality (மருந்து)? Since physical life is temporary anyway, sacrificing one's honour just to keep the body alive is futile and ignoble.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

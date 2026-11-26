@@ -9,7 +9,7 @@
      "gloss": "friends"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
@@ -48,8 +48,8 @@
    "parts": [
     {
      "text": "விரைந்தது",
-     "lemma": "விரைந்தது",
-     "gloss": "urgent thing"
+     "lemma": "விரை",
+     "gloss": "that which is urgent"
     },
     {
      "text": "ஏ",
@@ -65,15 +65,15 @@
     {
      "text": "ஒட்டார்",
      "lemma": "ஒட்டார்",
-     "gloss": "foes"
+     "gloss": "those who are estranged"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "object marker"
     }
    ],
-   "gloss": "foes"
+   "gloss": "those who are estranged"
   },
   {
    "surface": "ஒட்டி",
@@ -81,10 +81,10 @@
     {
      "text": "ஒட்டி",
      "lemma": "ஒட்டு",
-     "gloss": "having made to adhere"
+     "gloss": "having allied"
     }
    ],
-   "gloss": "having reconciled"
+   "gloss": "having allied with"
   },
   {
    "surface": "கொளல்",
@@ -98,10 +98,10 @@
    "gloss": "securing"
   }
  ],
- "literal": "To friends good things than doing, is indeed more urgent foes having reconciled securing.",
- "translation": "Reconciling with foes and securing their alliance is even more urgent than doing good to friends.",
- "modern": "நண்பர்களுக்கு நல்ல உதவிகளைச் செய்வதை விட, பகைவர்களைத் தம்முடன் சேரும்படி செய்து கொள்வது மிகவும் அவசரமான செயலாகும்.",
- "explanation": "This couplet highlights a crucial priority in the strategy of action: neutralizing threats before rewarding allies. The word 'நட்டார்' refers to friends, while 'ஒட்டார்' refers to foes, literally those who do not adhere or align with you. The comparative suffix in 'செயலின்' (than doing) establishes that while helping friends is good, making enemies adhere to you ('ஒட்டிக் கொளல்') is 'விரைந்தது'—a matter requiring immediate haste. In the context of executing a plan, an unresolved enemy poses a direct risk to success, making their reconciliation the most urgent task.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than doing good things to friends, more urgent indeed is securing by allying those who are estranged.",
+ "translation": "Even more urgent than doing good to one's friends is to win over and ally with those who are estranged.",
+ "modern": "நண்பர்களுக்கு நன்மைகளைச் செய்வதை விட, பகைவர்களை நம்முடன் சேர்த்துக் கொள்வது மிகவும் அவசரமான செயலாகும்.",
+ "explanation": "This couplet outlines a vital strategy in the execution of any major undertaking. While performing helpful deeds for existing friends is valuable, neutralizing opposition is a far more pressing priority. The word 'oṭṭār' refers to those who are estranged, hostile, or unaligned. By winning them over ('oṭṭi koḷal') and turning them into allies, one removes potential obstacles and secures a smoother path to success.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

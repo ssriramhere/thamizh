@@ -20,18 +20,23 @@
      "gloss": "like"
     }
    ],
-   "gloss": "like"
+   "gloss": "resembling"
   },
   {
    "surface": "கண்ணாள்",
    "parts": [
     {
-     "text": "கண்ணாள்",
-     "lemma": "கண்ணாள்",
-     "gloss": "she with eyes"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she who has"
     }
    ],
-   "gloss": "she with eyes"
+   "gloss": "she who has eyes"
   },
   {
    "surface": "அருமை",
@@ -39,10 +44,10 @@
     {
      "text": "அருமை",
      "lemma": "அருமை",
-     "gloss": "rarity"
+     "gloss": "preciousness"
     }
    ],
-   "gloss": "rarity"
+   "gloss": "preciousness or difficulty of attainment"
   },
   {
    "surface": "அறியாது",
@@ -50,10 +55,10 @@
     {
      "text": "அறியாது",
      "lemma": "அறி",
-     "gloss": "not knowing"
+     "gloss": "without knowing"
     }
    ],
-   "gloss": "not knowing"
+   "gloss": "without understanding"
   },
   {
    "surface": "அலர்",
@@ -61,21 +66,21 @@
     {
      "text": "அலர்",
      "lemma": "அலர்",
-     "gloss": "rumour"
+     "gloss": "public gossip"
     }
    ],
-   "gloss": "rumour"
+   "gloss": "public gossip"
   },
   {
    "surface": "எமக்கு",
    "parts": [
     {
      "text": "எமக்கு",
-     "lemma": "யான்",
+     "lemma": "யாம்",
      "gloss": "to us"
     }
    ],
-   "gloss": "to us"
+   "gloss": "to me"
   },
   {
    "surface": "ஈந்தது",
@@ -83,10 +88,10 @@
     {
      "text": "ஈந்தது",
      "lemma": "ஈ",
-     "gloss": "it gave"
+     "gloss": "gave"
     }
    ],
-   "gloss": "it gave"
+   "gloss": "gave"
   },
   {
    "surface": "இவ்",
@@ -111,10 +116,10 @@
    "gloss": "town"
   }
  ],
- "literal": "Flower like eyed-she's rarity not-knowing, rumour to-us gave this town.",
- "translation": "Without realizing the rarity of the girl with flower-like eyes, this town has gifted me with this rumour.",
- "modern": "மலர் போன்ற கண்களை உடையவளின் அருமையை அறியாமல், இந்த ஊர் அவளைப் பற்றிய வதந்தியை எனக்கு அளித்து உதவியது.",
- "explanation": "The lover speaks about the public gossip surrounding his relationship. He notes that the townspeople spread rumours without understanding how precious and hard to attain his flower-eyed lover truly is. Ironically, by linking his name with hers, the town's gossip actually brings him joy and makes him feel closer to her. The word 'alar' refers to the public chatter or scandal that reveals their secret love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Flower resembling eye-she preciousness not-knowing, gossip to-me gave this town.",
+ "translation": "Without understanding how precious and difficult to attain my flower-eyed beloved is, this town has gifted me with public gossip.",
+ "modern": "மலர் போன்ற கண்களை உடையவளின் அருமையை உணராமல், இந்த ஊரார் எங்களுக்கு அலரை (பழிச்சொல்லை) பரிசாகத் தந்துள்ளனர்.",
+ "explanation": "In this couplet, the lover speaks about the rumors spreading in the town regarding his secret love. He notes that the townspeople do not comprehend the preciousness (அருமை) of his beloved, whose eyes are like flowers (மலரன்ன கண்ணாள்), nor do they understand how difficult she is to attain. Instead of being sympathetic, this town (இவ்வூர்) has simply gifted him with public gossip (அலர்). Though spoken with a touch of irony, this gossip ultimately aids the lover by bringing his secret love into the open, paving the way for marriage.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

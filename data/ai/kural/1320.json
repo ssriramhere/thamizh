@@ -17,47 +17,32 @@
     {
      "text": "இருந்து",
      "lemma": "இரு",
-     "gloss": "having been"
+     "gloss": "having remained"
     }
    ],
-   "gloss": "having been"
+   "gloss": "having remained"
   },
   {
    "surface": "நோக்கினும்",
    "parts": [
     {
-     "text": "நோக்கு",
+     "text": "நோக்கினும்",
      "lemma": "நோக்கு",
-     "gloss": "look"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if looking"
     }
    ],
-   "gloss": "even if looked"
+   "gloss": "even if looking"
   },
   {
    "surface": "காயும்",
    "parts": [
     {
-     "text": "காய்",
+     "text": "காயும்",
      "lemma": "காய்",
-     "gloss": "be angry"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "she gets angry"
     }
    ],
-   "gloss": "will be angry"
+   "gloss": "she gets angry"
   },
   {
    "surface": "அனைத்து",
@@ -65,10 +50,10 @@
     {
      "text": "அனைத்து",
      "lemma": "அனைத்து",
-     "gloss": "of that nature"
+     "gloss": "that much"
     }
    ],
-   "gloss": "of that nature"
+   "gloss": "that much"
   },
   {
    "surface": "நீர்",
@@ -87,10 +72,10 @@
     {
      "text": "யார்",
      "lemma": "யார்",
-     "gloss": "who"
+     "gloss": "whom"
     }
    ],
-   "gloss": "who"
+   "gloss": "whom"
   },
   {
    "surface": "உள்ளி",
@@ -107,19 +92,9 @@
    "surface": "நோக்கினீர்",
    "parts": [
     {
-     "text": "நோக்கு",
+     "text": "நோக்கினீர்",
      "lemma": "நோக்கு",
-     "gloss": "look"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "past"
-    },
-    {
-     "text": "ஈர்",
-     "lemma": "ஈர்",
-     "gloss": "you"
+     "gloss": "you looked"
     }
    ],
    "gloss": "you looked"
@@ -130,16 +105,16 @@
     {
      "text": "என்று",
      "lemma": "என்",
-     "gloss": "having said"
+     "gloss": "saying"
     }
    ],
    "gloss": "saying"
   }
  ],
- "literal": "Having thought, having been, even if looked, will be angry of that nature, 'You, who having thought of, you looked?' saying.",
- "translation": "Even if I sit and gaze at her with fond memories, her sulking is such that she gets angry, asking, 'Thinking of whom did you look at me?'",
- "modern": "நான் அவளது அன்பை நினைத்துக்கொண்டு அவளைப் பார்த்தாலும், 'நீர் வேறு யாரையோ நினைத்துக்கொண்டு என்னைப் பார்த்தீர்' என்று அவள் கோபப்படுவாள்; அவளது ஊடல் அத்தன்மையது.",
- "explanation": "The husband describes the extreme sensitivity of his wife's feigned anger (pulavi). Even when he sits quietly and gazes at her, filled with fond memories of their love, she misinterprets his thoughtful look. She immediately gets angry and demands to know which other woman he was thinking about while looking at her. The word 'அனைத்து' (of that nature) highlights how inevitable and delicate her sulking is, finding a reason to quarrel even in his loving gaze.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if I look at her having been thinking of her, she gets angry saying, 'With that much intensity, whom did you think of and look at me?'",
+ "translation": "Even when I gaze at her after thinking of her with deep affection, she gets angry and demands, 'Whom were you thinking of, to look at me with such intense passion?'",
+ "modern": "நான் அவளையே நினைத்துக் கொண்டு அவளைப் பார்த்தாலும், 'நீர் யாரை நினைத்துக் கொண்டு என்னை இப்படிப் பார்க்கிறீர்?' என்று சொல்லி அவள் கோபித்துக் கொள்கிறாள்.",
+ "explanation": "This couplet depicts a subtle lover's tiff where the heroine finds a reason to be angry even in her lover's affectionate gaze. The hero has been thinking of her constantly, and when he looks at her with that deep, lingering love, she misinterprets his intense look. She asks him, 'Whom were you thinking of just now, that you look at me with such a look?' The word 'அனைத்து' refers to the intensity or manner of his gaze, and 'உள்ளி' means remembering or thinking of someone. Her feigned anger shows the playful, delicate nature of their love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "பல்",
-     "lemma": "பல்",
+     "lemma": "பல",
      "gloss": "many"
     }
    ],
@@ -17,7 +17,7 @@
     {
      "text": "குழு",
      "lemma": "குழு",
-     "gloss": "faction"
+     "gloss": "group or faction"
     },
     {
      "text": "உம்",
@@ -25,7 +25,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "factions and"
+   "gloss": "and factions"
   },
   {
    "surface": "பாழ்",
@@ -44,10 +44,10 @@
     {
      "text": "செய்யும்",
      "lemma": "செய்",
-     "gloss": "making"
+     "gloss": "causing"
     }
    ],
-   "gloss": "making"
+   "gloss": "causing"
   },
   {
    "surface": "உட்பகையும்",
@@ -55,7 +55,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inner"
+     "gloss": "internal"
     },
     {
      "text": "பகை",
@@ -68,18 +68,18 @@
      "gloss": "and"
     }
    ],
-   "gloss": "internal enmity and"
+   "gloss": "and internal enmity"
   },
   {
    "surface": "வேந்து",
    "parts": [
     {
      "text": "வேந்து",
-     "lemma": "வேந்து",
-     "gloss": "king"
+     "lemma": "வேந்தன்",
+     "gloss": "king or ruler"
     }
    ],
-   "gloss": "king"
+   "gloss": "ruler"
   },
   {
    "surface": "அலைக்கும்",
@@ -98,10 +98,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "killing"
+     "gloss": "destructive or murderous"
     }
    ],
-   "gloss": "murderous"
+   "gloss": "destructive"
   },
   {
    "surface": "குறும்பும்",
@@ -109,7 +109,7 @@
     {
      "text": "குறும்பு",
      "lemma": "குறும்பு",
-     "gloss": "rebel"
+     "gloss": "rebellious chieftain"
     },
     {
      "text": "உம்",
@@ -117,15 +117,20 @@
      "gloss": "and"
     }
    ],
-   "gloss": "rebels and"
+   "gloss": "and rebellious chieftains"
   },
   {
    "surface": "இல்லது",
    "parts": [
     {
-     "text": "இல்லது",
+     "text": "இல்",
      "lemma": "இல்",
-     "gloss": "that which is without"
+     "gloss": "without"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that which"
     }
    ],
    "gloss": "that which is without"
@@ -142,10 +147,10 @@
    "gloss": "country"
   }
  ],
- "literal": "Many factions and, ruin making inner enmity and, king harassing killing rebels and, that which is without is a country.",
- "translation": "A true country is one that is free from multiple divided factions, destructive internal enemies, and murderous rebels who harass the sovereign.",
- "modern": "பல பிரிவுகளாகப் பிரிந்து கிடக்கும் கூட்டங்களும், நாட்டை அழிக்கும் உட்பகையும், அரசனுக்குத் தொல்லை தரும் கொலைக்குணம் கொண்ட கலகக்காரர்களும் இல்லாததே சிறந்த நாடாகும்.",
- "explanation": "This couplet defines a secure nation by identifying the internal threats it must lack. A good country must be free from multiple divided factions, destructive internal enemies, and violent rebels who constantly trouble the ruling authority. The word 'குறும்பு' refers to rebellious petty chieftains or troublemakers, which perfectly fits the context of harassing the sovereign.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Many factions, ruin-causing internal enmity, and ruler-harassing destructive rebellious chieftains, that which is without is a country.",
+ "translation": "A true country is one that is free from warring factions, ruinous internal enmities, and murderous, rebellious chieftains who harass the ruler.",
+ "modern": "பல பிரிவுகளாகப் பிரிந்து சண்டையிடும் குழுக்களும், நாட்டைப் பாழாக்கும் உட்பகையும், அரசனைத் துன்புறுத்தும் கொலைத்தொழில் புரியும் குறும்நில மன்னர்களும் இல்லாததே சிறந்த நாடாகும்.",
+ "explanation": "This couplet defines a stable nation by identifying three internal threats it must be free from. First, 'palkuḻu' refers to multiple conflicting factions or sects that divide the populace. Second, 'uṭpakai' represents treasonous internal enmity that quietly ruins the state from within. Third, 'koṟumpu' refers to rebellious, lawless chieftains or marauders who harass the sovereign ruler and disrupt governance. A prosperous and secure country is one that remains entirely free from these three destructive forces.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

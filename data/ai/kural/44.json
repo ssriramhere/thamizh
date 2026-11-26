@@ -17,10 +17,10 @@
     {
      "text": "அஞ்சி",
      "lemma": "அஞ்சு",
-     "gloss": "having feared"
+     "gloss": "fearing"
     }
    ],
-   "gloss": "having feared"
+   "gloss": "fearing"
   },
   {
    "surface": "பாத்து",
@@ -28,10 +28,10 @@
     {
      "text": "பாத்து",
      "lemma": "பகு",
-     "gloss": "having shared"
+     "gloss": "sharing"
     }
    ],
-   "gloss": "having shared"
+   "gloss": "sharing"
   },
   {
    "surface": "ஊண்",
@@ -50,21 +50,21 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "possessing"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   },
   {
    "surface": "ஆயின்",
    "parts": [
     {
      "text": "ஆயின்",
-     "lemma": "ஆகு",
-     "gloss": "if it is"
+     "lemma": "ஆயின்",
+     "gloss": "if"
     }
    ],
-   "gloss": "if it is"
+   "gloss": "if"
   },
   {
    "surface": "வாழ்க்கை",
@@ -93,11 +93,11 @@
    "parts": [
     {
      "text": "எஞ்சல்",
-     "lemma": "எஞ்சு",
-     "gloss": "perishing"
+     "lemma": "எஞ்சுதல்",
+     "gloss": "failing"
     }
    ],
-   "gloss": "perishing"
+   "gloss": "failing"
   },
   {
    "surface": "எஞ்ஞான்றும்",
@@ -116,16 +116,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "not"
   }
  ],
- "literal": "Blame fearing, shared food possessing if it is, life's lineage perishing at any time is not.",
- "translation": "If domestic life fears blame and shares its food, its lineage will never perish.",
- "modern": "பழியான செயல்களுக்குப் பயந்து, தன்னிடம் உள்ள உணவை மற்றவர்களுடன் பகிர்ந்து உண்ணும் பண்பை இல்வாழ்க்கை பெற்றிருந்தால், அந்த குடும்பத்தின் பரம்பரை எந்தக் காலத்திலும் அழிவதில்லை.",
- "explanation": "This couplet defines the core duties and the lasting reward of domestic life. The phrase 'பழி அஞ்சி' (fearing blame) means avoiding wrongful deeds to earn wealth or food. 'பாத்து ஊண்' (sharing food) emphasizes the virtue of dividing what one has with others before eating. If a household possesses these two qualities, the text promises that its 'வழி' (lineage or descendants) will never 'எஞ்சல்' (perish or fail). The word 'வழி' can mean path or way, but here it is best understood as lineage, fitting the context of a family's enduring legacy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If life possesses food shared while fearing blame, the failing of lineage at any time is not.",
+ "translation": "If a householder's life consists of sharing food with others while fearing blame, their lineage will never die out.",
+ "modern": "பழிக்கு அஞ்சி, உணவைப் பிறரோடு பகிர்ந்து உண்ணும் தன்மையைக் கொண்டதாக இல்வாழ்க்கை இருக்குமானால், அவருடைய சந்ததி எப்போதும் அழியாது.",
+ "explanation": "This couplet highlights the core virtues of a householder: avoiding blame and sharing food with those in need. The word 'paḻi' refers to the moral dread of acquiring wealth through unjust means, while 'pāttu' emphasizes the duty of hospitality and charity. The poet promises that a household run on these two principles will never see its lineage die out. Thus, ethical living combined with active benevolence ensures the eternal continuity and prosperity of one's family.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

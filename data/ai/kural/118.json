@@ -6,23 +6,18 @@
     {
      "text": "சமன்",
      "lemma": "சமன்",
-     "gloss": "equal"
+     "gloss": "levelness"
     }
    ],
-   "gloss": "equal"
+   "gloss": "being level"
   },
   {
    "surface": "செய்து",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "to make"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "having"
+     "gloss": "having made"
     }
    ],
    "gloss": "having made"
@@ -31,17 +26,17 @@
    "surface": "சீர்தூக்கும்",
    "parts": [
     {
-     "text": "சீர்தூக்கு",
-     "lemma": "சீர்தூக்கு",
-     "gloss": "to weigh"
+     "text": "சீர்",
+     "lemma": "சீர்",
+     "gloss": "weight"
     },
     {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "which"
+     "text": "தூக்கும்",
+     "lemma": "தூக்கு",
+     "gloss": "weighing"
     }
    ],
-   "gloss": "which weighs"
+   "gloss": "weighing the weight"
   },
   {
    "surface": "கோல்",
@@ -49,10 +44,10 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "balance scale"
+     "gloss": "rod"
     }
    ],
-   "gloss": "balance scale"
+   "gloss": "balance rod"
   },
   {
    "surface": "போல்",
@@ -69,17 +64,12 @@
    "surface": "அமைந்து",
    "parts": [
     {
-     "text": "அமை",
+     "text": "அமைந்து",
      "lemma": "அமை",
-     "gloss": "to be set"
-    },
-    {
-     "text": "ந்து",
-     "lemma": "ந்து",
-     "gloss": "having"
+     "gloss": "having become poised"
     }
    ],
-   "gloss": "having been set"
+   "gloss": "remaining poised"
   },
   {
    "surface": "ஒருபால்",
@@ -101,17 +91,12 @@
    "surface": "கோடாமை",
    "parts": [
     {
-     "text": "கோடு",
+     "text": "கோடாமை",
      "lemma": "கோடு",
-     "gloss": "to bend/lean"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not bending"
     }
    ],
-   "gloss": "not leaning"
+   "gloss": "not bending"
   },
   {
    "surface": "சான்றோர்க்கு",
@@ -122,12 +107,12 @@
      "gloss": "noble ones"
     },
     {
-     "text": "கு",
+     "text": "க்கு",
      "lemma": "கு",
      "gloss": "to"
     }
    ],
-   "gloss": "to the noble ones"
+   "gloss": "to the noble"
   },
   {
    "surface": "அணி",
@@ -141,10 +126,10 @@
    "gloss": "ornament"
   }
  ],
- "literal": "Equal having made, which weighs scale like, having been set, to one side not leaning, to the noble ones ornament.",
- "translation": "To rest level and not lean to one side, like a well-calibrated balance scale, is the true ornament of the noble.",
- "modern": "முதலில் தன்னைச் சமமாக நிறுத்திக்கொண்டு, பின்பு பொருளின் எடையைச் சரியாகக் காட்டும் தராசுகோல் போல, நடுவுநிலைமையோடு அமைந்து ஒரு பக்கமாகச் சாயாமல் இருப்பதே சான்றோர்க்கு அழகாகும்.",
- "explanation": "The couplet compares an impartial person to a balance scale. A good scale first rests perfectly level ('சமன் செய்து') and then accurately weighs what is placed on it ('சீர்தூக்கும் கோல்') without leaning unfairly to one side ('ஒருபால் கோடாமை'). In the same way, a noble person must first be grounded in equity and then judge situations without bias. This unwavering impartiality is described as the true ornament ('அணி') that adorns the wise and noble ('சான்றோர்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like a balance rod that, having made itself level, weighs the weight, remaining without bending to one side is the ornament of the noble.",
+ "translation": "To remain unbiased without leaning to any one side, just like a balance scale that first levels itself and then weighs justly, is the true ornament of the wise.",
+ "modern": "முதலில் தன்னைச் சமமாக ஆக்கிக்கொண்டு, பின் பொருள்களின் எடையை அளவிடும் தராசுக்கோல் போல, நடுவுநிலைமையோடு அமைந்து ஒரு பக்கமும் சாயாமல் இருப்பதே சான்றோர்களுக்கு அழகாகும்.",
+ "explanation": "This couplet uses the beautiful metaphor of a balance scale to define the virtue of impartiality. A scale must first be perfectly level before it can accurately weigh objects. Similarly, a noble person must first establish an unbiased mind and then judge matters without leaning to any one side. This steadfast fairness, free from prejudice, is described as their finest ornament.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

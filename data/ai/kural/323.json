@@ -14,15 +14,20 @@
      "gloss": "to become"
     }
    ],
-   "gloss": "as the one"
+   "gloss": "as the single foremost thing"
   },
   {
    "surface": "நல்லது",
    "parts": [
     {
-     "text": "நல்லது",
-     "lemma": "நல்லது",
-     "gloss": "good thing"
+     "text": "நல்",
+     "lemma": "நல்",
+     "gloss": "good"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
    "gloss": "good thing"
@@ -38,7 +43,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "gloss": "negative nominalizer"
     }
    ],
    "gloss": "non-killing"
@@ -68,7 +73,7 @@
      "gloss": "oblique suffix"
     }
    ],
-   "gloss": "its"
+   "gloss": "of that"
   },
   {
    "surface": "பின்",
@@ -87,7 +92,7 @@
     {
      "text": "சார்",
      "lemma": "சார்",
-     "gloss": "follow"
+     "gloss": "approach"
     },
     {
      "text": "அ",
@@ -95,7 +100,7 @@
      "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to follow"
+   "gloss": "to follow closely"
   },
   {
    "surface": "பொய்யாமை",
@@ -108,7 +113,7 @@
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative suffix"
+     "gloss": "negative nominalizer"
     }
    ],
    "gloss": "non-lying"
@@ -125,10 +130,10 @@
    "gloss": "is good"
   }
  ],
- "literal": "As the one good thing is non-killing; next, its behind to follow, non-lying is good.",
- "translation": "Non-killing is the single greatest good. Next to it, closely following, non-lying is good.",
- "modern": "ஒப்பற்ற நல்ல அறம் உயிர்களைக் கொல்லாமையாகும். அதற்கு அடுத்தபடியாகப் பொய் சொல்லாமை நல்ல அறமாகும்.",
- "explanation": "This couplet establishes a hierarchy of virtues, placing non-killing at the absolute top. The phrase 'oṉṟāka nallatu' designates non-killing as the single, unparalleled good. Right behind it, as indicated by 'ataṉ piṉ cāra', comes the virtue of non-lying. By structuring it this way, the poet emphasizes that preserving life is the highest ethical duty, while truthfulness is the second most important virtue that closely follows it.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "As the single foremost good thing is non-killing; next, following behind that, non-lying is good.",
+ "translation": "Non-killing is the single foremost virtue; next to it, following closely behind, is the virtue of truthfulness.",
+ "modern": "ஒப்பற்ற ஒரு நன்மையாக விளங்குவது கொல்லாமை ஆகும்; அதற்கு அடுத்தபடியாக, அதனைச் சார்ந்து விளங்கும் பொய்யாமை நல்லதாகும்.",
+ "explanation": "This couplet compares two of the greatest ethical virtues: non-killing and truthfulness. It establishes non-killing as the absolute, singular foremost virtue in life. Immediately following it, as the next best virtue that supports or accompanies it, is truthfulness. By using the phrase 'pin caara' (to follow behind), the poet shows that while truthfulness is highly virtuous, it stands second to the supreme virtue of preserving life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

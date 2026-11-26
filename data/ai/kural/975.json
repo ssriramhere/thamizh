@@ -15,9 +15,14 @@
    "surface": "உடையவர்",
    "parts": [
     {
-     "text": "உடையவர்",
-     "lemma": "உடையவர்",
-     "gloss": "those who possess"
+     "text": "உடை",
+     "lemma": "உடை",
+     "gloss": "possession"
+    },
+    {
+     "text": "அவர்",
+     "lemma": "அவர்",
+     "gloss": "they"
     }
    ],
    "gloss": "those who possess"
@@ -26,23 +31,29 @@
    "surface": "ஆற்றுவார்",
    "parts": [
     {
-     "text": "ஆற்றுவார்",
+     "text": "ஆற்று",
      "lemma": "ஆற்று",
-     "gloss": "they will perform"
+     "gloss": "perform"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "they will perform"
+   "gloss": "they will accomplish"
   },
   {
    "surface": "ஆற்றின்",
    "parts": [
     {
      "text": "ஆற்றின்",
-     "lemma": "ஆறு",
-     "gloss": "in the proper way"
+     "lemma": "ஆற்றின்",
+     "gloss": "by the proper way"
     }
    ],
-   "gloss": "in the proper way"
+   "gloss": "by the proper way",
+   "split_unverified": true
   },
   {
    "surface": "அருமை",
@@ -50,18 +61,23 @@
     {
      "text": "அருமை",
      "lemma": "அருமை",
-     "gloss": "rarity"
+     "gloss": "difficulty"
     }
    ],
-   "gloss": "rarity"
+   "gloss": "difficulty"
   },
   {
    "surface": "உடைய",
    "parts": [
     {
-     "text": "உடைய",
+     "text": "உடை",
      "lemma": "உடை",
-     "gloss": "possessing"
+     "gloss": "possession"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "adjectival suffix"
     }
    ],
    "gloss": "possessing"
@@ -75,13 +91,13 @@
      "gloss": "deed"
     }
    ],
-   "gloss": "deed"
+   "gloss": "deeds"
   }
  ],
- "literal": "Greatness those-who-possess will-perform in-the-proper-way rarity possessing deed.",
- "translation": "Those who possess greatness will perform difficult deeds in the proper way.",
- "modern": "பெருமை குணம் கொண்டவர்கள், மற்றவர்களால் செய்வதற்கு அரிய செயல்களை உரிய வழியில் செய்து முடிப்பார்கள்.",
- "explanation": "This couplet defines the nature of great people through their actions. While ordinary people might avoid difficult tasks, those with greatness take on rare and challenging deeds. Furthermore, they do not just attempt them, but successfully complete them in the proper way. The word 'ஆற்றின்' emphasizes that they follow the right method to achieve these extraordinary results.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Greatness those-who-possess will-accomplish by-the-proper-way difficulty possessing deeds.",
+ "translation": "Those who possess true greatness will accomplish, by the proper means, deeds of rare difficulty.",
+ "modern": "பெருமைப் பண்பு உடையவர்கள், செய்வதற்கு அரிய செயல்களையும் உரிய நல்வழியில் செய்து முடிப்பார்கள்.",
+ "explanation": "This couplet highlights the capability and methodology of noble individuals. Those who possess greatness of character (பெருமை உடையவர்) do not shy away from difficult tasks; they successfully perform (ஆற்றுவார்) deeds of rare difficulty (அருமை உடைய செயல்). Crucially, they do so 'ஆற்றின்'—meaning by the right path, method, or righteous means. Their greatness is defined not just by the magnitude of their achievements, but by their adherence to proper principles while achieving them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

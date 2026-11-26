@@ -6,10 +6,10 @@
     {
      "text": "தக்கார்",
      "lemma": "தக்கார்",
-     "gloss": "worthy people"
+     "gloss": "those who are righteous"
     }
    ],
-   "gloss": "worthy people"
+   "gloss": "righteous people"
   },
   {
    "surface": "தகவு",
@@ -17,32 +17,37 @@
     {
      "text": "தகவு",
      "lemma": "தகவு",
-     "gloss": "worthiness"
+     "gloss": "equity or rectitude"
     }
    ],
-   "gloss": "worthiness"
+   "gloss": "equity"
   },
   {
    "surface": "இலர்",
    "parts": [
     {
      "text": "இலர்",
-     "lemma": "இல்",
-     "gloss": "without-they"
+     "lemma": "இலர்",
+     "gloss": "they who do not have"
     }
    ],
-   "gloss": "they are without"
+   "gloss": "those who lack"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
-     "text": "என்பது",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "that which is said"
+     "gloss": "say"
+    },
+    {
+     "text": "பது",
+     "lemma": "பது",
+     "gloss": "nominalizing suffix"
     }
    ],
-   "gloss": "that which is said"
+   "gloss": "the fact that"
   },
   {
    "surface": "அவர்",
@@ -50,7 +55,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "that person"
+     "gloss": "he or they"
     }
    ],
    "gloss": "their"
@@ -61,7 +66,7 @@
     {
      "text": "அவர்",
      "lemma": "அவர்",
-     "gloss": "that person"
+     "gloss": "he or they"
     }
    ],
    "gloss": "respective"
@@ -71,19 +76,25 @@
    "parts": [
     {
      "text": "எச்சத்தாற்",
-     "lemma": "எச்சம்",
-     "gloss": "by the remainder"
+     "lemma": "எச்சத்தாற்",
+     "gloss": "by their legacy"
     }
    ],
-   "gloss": "by what is left behind"
+   "gloss": "by their legacy",
+   "split_unverified": true
   },
   {
    "surface": "காணப்ப",
    "parts": [
     {
-     "text": "காணப்ப",
+     "text": "காண",
      "lemma": "காண்",
-     "gloss": "to be seen"
+     "gloss": "to see"
+    },
+    {
+     "text": "ப",
+     "lemma": "படு",
+     "gloss": "passive marker"
     }
    ],
    "gloss": "to be seen"
@@ -94,16 +105,16 @@
     {
      "text": "படும்",
      "lemma": "படு",
-     "gloss": "will be"
+     "gloss": "will happen or will be"
     }
    ],
    "gloss": "will be"
   }
  ],
- "literal": "Worthy people, worthiness they are without, that which is said, by their respective remainders to be seen will be.",
- "translation": "Whether people are just or unjust will be seen by what they leave behind.",
- "modern": "ஒருவர் நடுவுநிலைமை உடையவரா அல்லது இல்லாதவரா என்பது, அவர் தமக்குப்பின் விட்டுச்செல்லும் எச்சத்தால் அறியப்படும்.",
- "explanation": "This couplet explains how to judge a person's true character and impartiality. The word 'தக்கார்' refers to those who are worthy and just, while 'தகவிலர்' refers to those lacking such equity. The key word 'எச்சம்' means 'remainder' or 'what is left behind', which can be understood as their legacy, reputation, or offspring. Ultimately, whether a person was truly impartial is revealed to the world by the lasting impact and legacy they leave after their time.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who are righteous and those who are not, that fact, by their respective legacy, will be seen.",
+ "translation": "Whether a person was righteous or unrighteous will be known by the legacy they leave behind.",
+ "modern": "ஒருவர் நடுவுநிலைமை உடையவரா அல்லது நடுவுநிலைமை இல்லாதவரா என்பது அவருக்குப் பின் எஞ்சியிருக்கும் புகழாலும் பழியாலும் அறியப்படும்.",
+ "explanation": "This couplet explains how to identify a person of true equity and justice. The terms 'takkār' and 'takavilar' refer to those who possess equity and those who lack it, respectively. The poet asserts that their true nature is revealed through their 'eccam', which means that which is left behind, such as their reputation, deeds, or offspring. By observing what remains after them, the world can clearly perceive their true character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

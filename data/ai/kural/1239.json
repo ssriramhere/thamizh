@@ -17,18 +17,18 @@
     {
      "text": "இடை",
      "lemma": "இடை",
-     "gloss": "middle"
+     "gloss": "space between / interval"
     }
    ],
-   "gloss": "between"
+   "gloss": "in between"
   },
   {
    "surface": "தண்",
    "parts": [
     {
      "text": "தண்",
-     "lemma": "தண்",
-     "gloss": "cool"
+     "lemma": "தண்மை",
+     "gloss": "coolness"
     }
    ],
    "gloss": "cool"
@@ -39,7 +39,7 @@
     {
      "text": "வளி",
      "lemma": "வளி",
-     "gloss": "wind"
+     "gloss": "wind / breeze"
     }
    ],
    "gloss": "breeze"
@@ -49,8 +49,8 @@
    "parts": [
     {
      "text": "போழ",
-     "lemma": "போழ்",
-     "gloss": "to pass through"
+     "lemma": "போழ்தல்",
+     "gloss": "to cleave / to pass through"
     }
    ],
    "gloss": "to pass through"
@@ -61,18 +61,18 @@
     {
      "text": "பசப்பு",
      "lemma": "பசப்பு",
-     "gloss": "pallor"
+     "gloss": "sallowness / paleness"
     }
    ],
-   "gloss": "pallor"
+   "gloss": "sallowness"
   },
   {
    "surface": "உற்ற",
    "parts": [
     {
      "text": "உற்ற",
-     "lemma": "உறு",
-     "gloss": "attained"
+     "lemma": "உறுதல்",
+     "gloss": "attained / acquired"
     }
    ],
    "gloss": "attained"
@@ -83,10 +83,10 @@
     {
      "text": "பேதை",
      "lemma": "பேதை",
-     "gloss": "naive woman"
+     "gloss": "simple woman / beloved"
     }
    ],
-   "gloss": "naive woman"
+   "gloss": "simple woman"
   },
   {
    "surface": "பெரு",
@@ -94,10 +94,10 @@
     {
      "text": "பெரு",
      "lemma": "பெருமை",
-     "gloss": "large"
+     "gloss": "great / large"
     }
    ],
-   "gloss": "large"
+   "gloss": "great"
   },
   {
    "surface": "மழை",
@@ -105,10 +105,10 @@
     {
      "text": "மழை",
      "lemma": "மழை",
-     "gloss": "rain"
+     "gloss": "rain / moisture"
     }
    ],
-   "gloss": "rain"
+   "gloss": "rain-like"
   },
   {
    "surface": "கண்",
@@ -116,16 +116,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eye / eyes"
     }
    ],
    "gloss": "eyes"
   }
  ],
- "literal": "Embrace - between - cool - wind - to pass through - pallor - attained - naive woman's - large - rain - eyes.",
- "translation": "When a cool breeze passed between our embrace, the large, rain-cool eyes of this naive girl turned pale.",
- "modern": "எங்கள் தழுவலுக்கு இடையே ஒரு குளிர்ந்த காற்று புகுந்து சென்றதற்கே, இந்தப் பேதைப் பெண்ணின் பெரிய குளிர்ந்த கண்கள் பசலை நிறம் அடைந்துவிட்டன.",
- "explanation": "The hero marvels at the extreme delicacy of his lover's affection. Even during a tight embrace, a momentary gap that allowed a cool breeze to pass between them was enough to make her feel the pain of separation. Instantly, her large, rain-cool eyes turned pale with sorrow. The word 'பேதை' (naive girl) highlights her innocent and overly sensitive nature in love, unable to bear even the slightest physical distance.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Embrace in-between cool breeze to-pass-through, sallowness attained simple-woman's great rain-like eyes.",
+ "translation": "Just because a cool breeze passed through the space between us during our embrace, the large, rain-like eyes of this simple girl have turned sallow.",
+ "modern": "எங்கள் தழுவலுக்கு இடையே குளிர்ந்த காற்று புகுந்து சென்றதற்கே, இந்தப் பேதை பெண்ணின் பெரிய மழை போன்ற கண்கள் பசலை நிறத்தை அடைந்துவிட்டன.",
+ "explanation": "This couplet describes the extreme sensitivity of the heroine's love and her inability to bear even the briefest separation. The hero remarks that during their tight embrace, a tiny gap occurred, allowing a cool breeze to pass between their bodies. This momentary and minute distance was felt so intensely by the naive heroine that her large, moist, rain-like eyes immediately lost their natural luster and turned sallow. The word 'pasappu' refers to the yellowing or paleness of the skin and eyes caused by the grief of separation, highlighting the depth of her attachment.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

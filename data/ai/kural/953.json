@@ -9,7 +9,7 @@
      "gloss": "smile"
     }
    ],
-   "gloss": "smile"
+   "gloss": "a cheerful smile"
   },
   {
    "surface": "ஈகை",
@@ -20,29 +20,39 @@
      "gloss": "giving"
     }
    ],
-   "gloss": "giving"
+   "gloss": "generosity"
   },
   {
    "surface": "இன்சொல்",
    "parts": [
     {
-     "text": "இன்சொல்",
-     "lemma": "இன்சொல்",
-     "gloss": "sweet word"
+     "text": "இன்",
+     "lemma": "இனிமை",
+     "gloss": "sweet"
+    },
+    {
+     "text": "சொல்",
+     "lemma": "சொல்",
+     "gloss": "word"
     }
    ],
-   "gloss": "sweet words"
+   "gloss": "pleasant speech"
   },
   {
    "surface": "இகழாமை",
    "parts": [
     {
-     "text": "இகழாமை",
-     "lemma": "இகழாமை",
-     "gloss": "not despising"
+     "text": "இகழ்",
+     "lemma": "இகழ்",
+     "gloss": "scorn"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "not doing"
     }
    ],
-   "gloss": "not despising"
+   "gloss": "not despising others"
   },
   {
    "surface": "நான்கும்",
@@ -58,7 +68,7 @@
      "gloss": "all"
     }
    ],
-   "gloss": "all four"
+   "gloss": "all these four"
   },
   {
    "surface": "வகை",
@@ -66,10 +76,10 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "attribute"
+     "gloss": "characteristics"
     }
    ],
-   "gloss": "attributes"
+   "gloss": "the defining traits"
   },
   {
    "surface": "என்ப",
@@ -82,7 +92,7 @@
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they (plural suffix)"
     }
    ],
    "gloss": "they say"
@@ -93,27 +103,32 @@
     {
      "text": "வாய்மை",
      "lemma": "வாய்மை",
-     "gloss": "truth"
+     "gloss": "truthfulness"
     }
    ],
-   "gloss": "true"
+   "gloss": "of a truthful"
   },
   {
    "surface": "குடிக்கு",
    "parts": [
     {
-     "text": "குடிக்கு",
+     "text": "குடி",
      "lemma": "குடி",
-     "gloss": "to a family"
+     "gloss": "lineage"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "க்கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to a family"
+   "gloss": "family"
   }
  ],
- "literal": "Smile, giving, sweet words, not despising, all four, attributes they say, to a true family.",
- "translation": "A cheerful smile, generosity, sweet words, and not despising others—these four, they say, are the attributes of a true noble family.",
- "modern": "முகமலர்ச்சி, ஈகை, இனிய சொல், மற்றவரை இகழாதிருத்தல் ஆகிய நான்கும் உண்மையான நற்குடியில் பிறந்தவர்களின் இயல்புகள் என்று கூறுவர்.",
- "explanation": "This couplet lists four essential qualities that characterize people born in a truly noble family. 'நகை' (smile) represents a cheerful and welcoming disposition. 'ஈகை' (giving) and 'இன்சொல்' (sweet words) show their generosity and kindness towards others. 'இகழாமை' (not despising) highlights their humility and respect for everyone. Together, these four traits are said to be the defining attributes ('வகை') of a genuine lineage ('வாய்மைக் குடி').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A smile, generosity, sweet words, and not despising others—these four, they say, are the characteristics of a truthful family.",
+ "translation": "A cheerful smile, generosity, pleasant speech, and freedom from contempt for others—these four are said to be the defining characteristics of a truly noble lineage.",
+ "modern": "மகிழ்ச்சியான முகம், கொடைத்தன்மை, இனிய சொல், பிறரை இகழாமல் இருத்தல் ஆகிய நான்கும் உண்மையான நற்குடிப் பிறந்தவர்க்குரிய இயல்புகள் என்று கூறுவர்.",
+ "explanation": "This couplet outlines the four essential qualities that define a person of noble birth or high lineage. First is a cheerful, smiling countenance that welcomes others. Second is generosity, the willingness to give to those in need. Third is speaking kind and pleasant words. Fourth is refraining from looking down upon or despising anyone. The poet asserts that these four virtues are the defining traits of a family of genuine truthfulness and nobility.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

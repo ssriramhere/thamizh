@@ -5,12 +5,12 @@
    "parts": [
     {
      "text": "உணல்",
-     "lemma": "உண்",
+     "lemma": "உணல்",
      "gloss": "eating"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "than"
     },
     {
@@ -26,29 +26,29 @@
    "parts": [
     {
      "text": "உண்டது",
-     "lemma": "உண்",
+     "lemma": "உண்டது",
      "gloss": "that which was eaten"
     }
    ],
-   "gloss": "what was eaten"
+   "gloss": "that which was eaten"
   },
   {
    "surface": "அறல்",
    "parts": [
     {
      "text": "அறல்",
-     "lemma": "அறு",
+     "lemma": "அறல்",
      "gloss": "digesting"
     }
    ],
-   "gloss": "digesting"
+   "gloss": "digestion"
   },
   {
    "surface": "இனிது",
    "parts": [
     {
      "text": "இனிது",
-     "lemma": "இனிமை",
+     "lemma": "இனிது",
      "gloss": "is sweet"
     }
    ],
@@ -70,44 +70,44 @@
    "parts": [
     {
      "text": "புணர்தல்",
-     "lemma": "புணர்",
-     "gloss": "uniting"
+     "lemma": "புணர்தல்",
+     "gloss": "union"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "than"
     }
    ],
-   "gloss": "than uniting"
+   "gloss": "than union"
   },
   {
    "surface": "ஊடல்",
    "parts": [
     {
      "text": "ஊடல்",
-     "lemma": "ஊடு",
-     "gloss": "sulking"
+     "lemma": "ஊடல்",
+     "gloss": "lover's tiff"
     }
    ],
-   "gloss": "feigned quarrel"
+   "gloss": "lover's tiff"
   },
   {
    "surface": "இனிது",
    "parts": [
     {
      "text": "இனிது",
-     "lemma": "இனிமை",
+     "lemma": "இனிது",
      "gloss": "is sweet"
     }
    ],
    "gloss": "is sweet"
   }
  ],
- "literal": "Even than eating, what was eaten digesting is sweet; in love, than uniting, sulking is sweet.",
- "translation": "Digesting what one has eaten is even more pleasant than the act of eating. Likewise, in love, a feigned quarrel is sweeter than the union itself.",
- "modern": "உண்பதை விட உண்ட உணவு செரிப்பது உடலுக்கு அதிக இன்பம் தரும். அதுபோலவே, காதலில் கூடி மகிழ்வதை விட ஊடல் கொள்வது அதிக இன்பம் தருவதாகும்.",
- "explanation": "This couplet draws a striking parallel between physical digestion and romantic relationships. The poet states that the digestion of food brings more comfort and pleasure to the body than the act of eating itself. Similarly, in romantic love, the playful sulking or feigned quarrel is sweeter than the actual physical union. The comparison suggests that just as digestion prepares the body to enjoy the next meal, a lovers' quarrel renews their desire and makes their subsequent reunion much more delightful.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even than eating, that which was eaten digesting is sweet; in love, than union, lover's tiff is sweet.",
+ "translation": "More delightful than eating is the digestion of what has been eaten; likewise, in love, more delightful than union is a lover's tiff.",
+ "modern": "உண்பதை விட உண்ட உணவு செரிப்பது இன்பமானது; அதுபோல, காதலில் கூடுவதை விட ஊடல் கொள்வது இன்பமானது.",
+ "explanation": "This couplet compares the pleasure of love to the pleasure of eating. While eating is pleasurable, the true comfort and health come from the proper digestion of that food. Similarly, while physical union is pleasurable in love, the temporary feigned anger or lover's tiff (ūṭal) is even more delightful because it intensifies the desire and sweetness of the eventual reunion. The poet uses the physical process of digestion as a perfect analogy for how a tiff processes and enhances the relationship.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

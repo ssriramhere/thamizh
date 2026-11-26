@@ -6,23 +6,28 @@
     {
      "text": "பணியும்",
      "lemma": "பணி",
-     "gloss": "will bow"
+     "gloss": "will bow or be humble"
     },
     {
      "text": "ஆம்",
      "lemma": "ஆம்",
-     "gloss": "indeed"
+     "gloss": "indeed (emphatic particle)"
     }
    ],
-   "gloss": "will be humble indeed"
+   "gloss": "will indeed behave with humility"
   },
   {
    "surface": "என்றும்",
    "parts": [
     {
-     "text": "என்றும்",
-     "lemma": "என்றும்",
+     "text": "என்று",
+     "lemma": "என்று",
      "gloss": "always"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even or and (intensive)"
     }
    ],
    "gloss": "always"
@@ -33,7 +38,7 @@
     {
      "text": "பெருமை",
      "lemma": "பெருமை",
-     "gloss": "greatness"
+     "gloss": "greatness or noble character"
     }
    ],
    "gloss": "greatness"
@@ -44,7 +49,7 @@
     {
      "text": "சிறுமை",
      "lemma": "சிறுமை",
-     "gloss": "smallness"
+     "gloss": "smallness or mean character"
     }
    ],
    "gloss": "smallness"
@@ -55,15 +60,15 @@
     {
      "text": "அணியும்",
      "lemma": "அணி",
-     "gloss": "will adorn"
+     "gloss": "will adorn or dress up"
     },
     {
      "text": "ஆம்",
      "lemma": "ஆம்",
-     "gloss": "indeed"
+     "gloss": "indeed (emphatic particle)"
     }
    ],
-   "gloss": "will adorn indeed"
+   "gloss": "will indeed adorn itself"
   },
   {
    "surface": "தன்னை",
@@ -71,15 +76,15 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "self"
+     "gloss": "oneself"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "oneself"
+   "gloss": "itself"
   },
   {
    "surface": "வியந்து",
@@ -87,16 +92,16 @@
     {
      "text": "வியந்து",
      "lemma": "விய",
-     "gloss": "having admired"
+     "gloss": "having admired or praised"
     }
    ],
-   "gloss": "having admired"
+   "gloss": "admiring itself"
   }
  ],
- "literal": "Will be humble indeed always greatness; smallness will adorn indeed oneself having admired.",
- "translation": "Greatness will always be humble. Smallness will adorn itself with self-admiration.",
- "modern": "பெருமைக்குரியவர்கள் எப்போதும் பணிவாகவே இருப்பார்கள். ஆனால் சிறுமைக்குணம் கொண்டவர்கள் தங்களை நாமே வியந்து புகழ்ந்து கொள்வார்கள்.",
- "explanation": "This couplet contrasts true greatness with smallness of character. The word 'பெருமை' (greatness) is paired with 'பணியும்' (will bow), showing that great people naturally and always exhibit humility. In contrast, 'சிறுமை' (smallness) is described as 'தன்னை வியந்து அணியும்'—admiring oneself and wearing that self-praise as an adornment. The suffix 'ஆம்' attached to both verbs emphasizes that these are the inherent, unchanging habits of such natures.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Greatness will indeed always bow; smallness will indeed adorn itself admiring itself.",
+ "translation": "Greatness always behaves with humility; smallness, however, adorns itself with self-admiration.",
+ "modern": "பெருமைக்குரிய பண்பு எப்போதும் பணிவோடு நடக்கும்; ஆனால் சிறுமையான பண்பு தன்னைத்தானே வியந்து பாராட்டிப் பெருமைப்படுத்திக் கொள்ளும்.",
+ "explanation": "This couplet contrasts the behavior of truly noble minds with that of small-minded people. Greatness (பெருமை) is characterized by constant humility (பணியுமாம் என்றும்); those who are truly great do not boast but remain humble. In contrast, smallness of character (சிறுமை) is marked by self-admiration (தன்னை வியந்து), where such individuals constantly praise themselves and metaphorically 'adorn' themselves with vanity (அணியுமாம்). The particle 'ஆம்' in both verbs emphasizes that these are natural, observable truths of human behavior.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

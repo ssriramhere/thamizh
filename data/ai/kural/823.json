@@ -15,14 +15,9 @@
    "surface": "நல்ல",
    "parts": [
     {
-     "text": "நல்",
-     "lemma": "நன்மை",
+     "text": "நல்ல",
+     "lemma": "நல்",
      "gloss": "good"
-    },
-    {
-     "text": "ல",
-     "lemma": "அ",
-     "gloss": "adjectival suffix"
     }
    ],
    "gloss": "good things"
@@ -31,33 +26,23 @@
    "surface": "கற்ற",
    "parts": [
     {
-     "text": "கற்",
+     "text": "கற்ற",
      "lemma": "கல்",
-     "gloss": "to learn"
-    },
-    {
-     "text": "ற",
-     "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "learned"
     }
    ],
-   "gloss": "learned"
+   "gloss": "having learned"
   },
   {
    "surface": "கடைத்து",
    "parts": [
     {
-     "text": "கடை",
-     "lemma": "கடை",
-     "gloss": "end/time"
-    },
-    {
-     "text": "த்து",
-     "lemma": "த்து",
-     "gloss": "locative suffix"
+     "text": "கடைத்து",
+     "lemma": "கடைத்து",
+     "gloss": "even though"
     }
    ],
-   "gloss": "even after"
+   "gloss": "even though"
   },
   {
    "surface": "மன",
@@ -68,23 +53,23 @@
      "gloss": "mind"
     }
    ],
-   "gloss": "mind"
+   "gloss": "of mind"
   },
   {
    "surface": "நல்லர்",
    "parts": [
     {
      "text": "நல்",
-     "lemma": "நன்மை",
+     "lemma": "நல்",
      "gloss": "good"
     },
     {
-     "text": "லர்",
+     "text": "அர்",
      "lemma": "அர்",
-     "gloss": "epicene plural suffix"
+     "gloss": "they"
     }
    ],
-   "gloss": "good people"
+   "gloss": "good persons"
   },
   {
    "surface": "ஆகுதல்",
@@ -92,7 +77,7 @@
     {
      "text": "ஆகு",
      "lemma": "ஆகு",
-     "gloss": "to become"
+     "gloss": "become"
     },
     {
      "text": "தல்",
@@ -106,44 +91,34 @@
    "surface": "மாணார்க்கு",
    "parts": [
     {
-     "text": "மாண்",
-     "lemma": "மாண்பு",
-     "gloss": "excellence"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "negative suffix"
+     "text": "மாணார்",
+     "lemma": "மாணார்",
+     "gloss": "enemies"
     },
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to"
     }
    ],
-   "gloss": "to those lacking excellence"
+   "gloss": "to enemies"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
-     "text": "அரி",
-     "lemma": "அருமை",
-     "gloss": "difficult"
-    },
-    {
-     "text": "து",
-     "lemma": "து",
-     "gloss": "neuter singular suffix"
+     "text": "அரிது",
+     "lemma": "அரிது",
+     "gloss": "impossible"
     }
    ],
-   "gloss": "is difficult"
+   "gloss": "is impossible"
   }
  ],
- "literal": "Many good things learned even after, mind-good people becoming, to those lacking excellence is difficult.",
- "translation": "Even after learning many good things, it is difficult for those lacking true excellence to become good at heart.",
- "modern": "பல நல்ல நூல்களைக் கற்றாலும், மாண்பு இல்லாதவர்கள் மனத்தால் நல்லவர்களாக மாறுவது கடினம்.",
- "explanation": "This couplet explains that mere education cannot change the fundamental nature of ignoble people. The word 'மாணார்' refers to those who lack true inner excellence or noble character. Even if such people learn many good things, they cannot achieve a good heart. Thus, their friendship remains false and dangerous despite their outward learning.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even though having learned many good things, becoming good of mind is impossible for enemies.",
+ "translation": "Even when they have learned many good and noble things, it is impossible for those who harbor hostility to become pure of heart.",
+ "modern": "பல நல்ல விஷயங்களைக் கற்றறிந்த போதிலும், பகைவர்கள் மனத்தால் நல்லவர்களாக மாறுவது அரிதானது.",
+ "explanation": "This couplet highlights the difficulty of reforming a hostile mind through mere education. The word 'மாணார்' refers to enemies or those who do not align in true friendship. Even if such people have studied many good and noble books ('பலநல்ல கற்றக் கடைத்து'), their inner nature remains unchanged. The poet emphasizes that external learning does not automatically result in a good heart ('மனநல்லர் ஆகுதல்'), making it dangerous to trust them based solely on their education.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -17,32 +17,37 @@
     {
      "text": "உடைத்து",
      "lemma": "உடைத்து",
-     "gloss": "it possesses"
+     "gloss": "it has"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "it has"
   },
   {
    "surface": "என்று",
    "parts": [
     {
      "text": "என்று",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என்று",
+     "gloss": "thinking that"
     }
    ],
-   "gloss": "saying"
+   "gloss": "thinking that"
   },
   {
    "surface": "அசாவாமை",
    "parts": [
     {
-     "text": "அசாவாமை",
-     "lemma": "அசாவாமை",
-     "gloss": "not losing heart"
+     "text": "அசா",
+     "lemma": "அசா",
+     "gloss": "faintness"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negation suffix"
     }
    ],
-   "gloss": "not losing heart"
+   "gloss": "not being discouraged"
   },
   {
    "surface": "வேண்டும்",
@@ -50,10 +55,10 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "is required"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is required"
   },
   {
    "surface": "பெருமை",
@@ -89,10 +94,10 @@
    "gloss": "will give"
   }
  ],
- "literal": "Difficulty it possesses, saying, not losing heart is needed; greatness, effort will give.",
- "translation": "One should not lose heart thinking a task is too difficult. Effort will grant the greatness needed to achieve it.",
- "modern": "ஒரு செயல் செய்வதற்கு கடினமானது என்று எண்ணி மனம் தளராமல் இருக்க வேண்டும். அதைச் செய்து முடிக்கும் பெருமையை ஒருவரது முயற்சியே தந்துவிடும்.",
- "explanation": "This couplet advises against giving up on a task just because it seems too difficult to accomplish. The word 'அசாவாமை' means not growing weary or losing heart when facing a challenge. Instead of feeling inadequate, one must realize that 'முயற்சி' (effort) itself will provide the 'பெருமை' (greatness or capability) required to succeed. The focus is on action and perseverance rather than the initial difficulty of the goal.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking 'it has difficulty', not being discouraged is required; greatness effort will give.",
+ "translation": "One should not lose heart thinking a task is too difficult; for earnest effort will yield the greatness to accomplish it.",
+ "modern": "ஒரு செயலைச் செய்வது கடினம் என்று நினைத்துச் சோர்வடையாமல் இருக்க வேண்டும்; முயற்சி அச்செயலை முடிப்பதற்கான பெருமையைத் தரும்.",
+ "explanation": "This couplet advises learners and doers never to shrink back from a task by assuming it is too difficult or impossible. The word 'அசாவாமை' means not fainting or not losing heart under the weight of a challenge. The poet emphasizes that 'முயற்சி' (effort) is the key driver that brings 'பெருமை' (greatness or the capacity to succeed). By persisting with effort, even the most daunting tasks are rendered achievable, transforming difficulty into triumph.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

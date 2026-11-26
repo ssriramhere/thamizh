@@ -6,7 +6,7 @@
     {
      "text": "தமர்",
      "lemma": "தமர்",
-     "gloss": "kin"
+     "gloss": "relations"
     },
     {
      "text": "ஆகி",
@@ -16,10 +16,10 @@
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "[sandhi]"
+     "gloss": "increment"
     }
    ],
-   "gloss": "having been kin"
+   "gloss": "having been relations"
   },
   {
    "surface": "தற்றுறந்தார்",
@@ -27,10 +27,11 @@
     {
      "text": "தற்றுறந்தார்",
      "lemma": "தற்றுறந்தார்",
-     "gloss": "those who abandoned oneself"
+     "gloss": "those who abandoned their own relations"
     }
    ],
-   "gloss": "those who abandoned oneself"
+   "gloss": "those who abandoned their own relations",
+   "split_unverified": true
   },
   {
    "surface": "சுற்றம்",
@@ -49,15 +50,15 @@
     {
      "text": "அமராமை",
      "lemma": "அமராமை",
-     "gloss": "estrangement"
+     "gloss": "dislike or lack of harmony"
     },
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "[sandhi]"
+     "gloss": "increment"
     }
    ],
-   "gloss": "estrangement"
+   "gloss": "of dislike"
   },
   {
    "surface": "காரணம்",
@@ -65,17 +66,17 @@
     {
      "text": "காரணம்",
      "lemma": "காரணம்",
-     "gloss": "cause"
+     "gloss": "reason"
     }
    ],
-   "gloss": "cause"
+   "gloss": "reason"
   },
   {
    "surface": "இன்றி",
    "parts": [
     {
      "text": "இன்றி",
-     "lemma": "இல்",
+     "lemma": "இன்றி",
      "gloss": "without"
     }
    ],
@@ -90,13 +91,13 @@
      "gloss": "will come"
     }
    ],
-   "gloss": "will come"
+   "gloss": "will return"
   }
  ],
- "literal": "Having been kin those who abandoned oneself kinship estrangement cause without will come.",
- "translation": "Relatives who were once close but left you will return when the cause of their estrangement is removed.",
- "modern": "முன்பு உறவினராக இருந்து பின் பிரிந்து சென்றவர்களின் உறவு, அவர்கள் பிரிந்ததற்கான காரணம் நீங்கியவுடன் தானாகவே திரும்பி வரும்.",
- "explanation": "This couplet explains how to reunite with estranged relatives. Sometimes family members who were once close leave because of a specific disagreement or displeasure. The poet observes that their kinship is not permanently lost; they will naturally return to the fold once the underlying cause of their estrangement is resolved.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who were relations and abandoned their own, their kinship, when the reason for dislike is without, will return.",
+ "translation": "Those who were once relations and abandoned their family will return to that kinship of their own accord when the cause of their dislike is gone.",
+ "modern": "உறவினர்களாக இருந்து பிரிந்து சென்றவர்கள், தங்களுக்குள் இருந்த வெறுப்புக்கான காரணம் நீங்கியவுடன், மீண்டும் உறவினர்களாகத் தேடி வருவார்கள்.",
+ "explanation": "This couplet describes how estranged relatives can be reunited. It explains that when those who were once close kinsmen (தமராகி) abandon their family (தற்றுறந்தார்), they will return (வரும்) to the fold of kinship (சுற்றம்). This reunion happens naturally once the underlying cause (காரணம்) for their dislike or lack of harmony (அமராமை) is removed or ceases to exist (இன்றி). The poet emphasizes that relationships are resilient, and once misunderstandings are cleared, unity is restored.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

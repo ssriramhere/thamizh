@@ -4,19 +4,24 @@
    "surface": "செயற்கு",
    "parts": [
     {
-     "text": "செயற்கு",
+     "text": "செயல்",
      "lemma": "செயல்",
-     "gloss": "to do"
+     "gloss": "doing"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "for"
     }
    ],
-   "gloss": "to do"
+   "gloss": "for doing"
   },
   {
    "surface": "அரிய",
    "parts": [
     {
      "text": "அரிய",
-     "lemma": "அருமை",
+     "lemma": "அரிது",
      "gloss": "difficult things"
     }
    ],
@@ -26,19 +31,24 @@
    "surface": "செய்வார்",
    "parts": [
     {
-     "text": "செய்வார்",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "those who do"
+     "gloss": "do"
+    },
+    {
+     "text": "வார்",
+     "lemma": "ஆர்",
+     "gloss": "they"
     }
    ],
-   "gloss": "those who do"
+   "gloss": "those who will do"
   },
   {
    "surface": "பெரியர்",
    "parts": [
     {
      "text": "பெரியர்",
-     "lemma": "பெருமை",
+     "lemma": "பெரியர்",
      "gloss": "great people"
     }
    ],
@@ -49,7 +59,7 @@
    "parts": [
     {
      "text": "சிறியர்",
-     "lemma": "சிறுமை",
+     "lemma": "சிறியர்",
      "gloss": "small people"
     }
    ],
@@ -59,19 +69,24 @@
    "surface": "செயற்கு",
    "parts": [
     {
-     "text": "செயற்கு",
+     "text": "செயல்",
      "lemma": "செயல்",
-     "gloss": "to do"
+     "gloss": "doing"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "for"
     }
    ],
-   "gloss": "to do"
+   "gloss": "for doing"
   },
   {
    "surface": "அரிய",
    "parts": [
     {
      "text": "அரிய",
-     "lemma": "அருமை",
+     "lemma": "அரிது",
      "gloss": "difficult things"
     }
    ],
@@ -81,18 +96,23 @@
    "surface": "செய்கலாதார்",
    "parts": [
     {
-     "text": "செய்கலாதார்",
+     "text": "செய்",
      "lemma": "செய்",
+     "gloss": "do"
+    },
+    {
+     "text": "கலாதார்",
+     "lemma": "கலாதார்",
      "gloss": "those who cannot do"
     }
    ],
    "gloss": "those who cannot do"
   }
  ],
- "literal": "To do difficult things those who do are great; small ones are those who to do difficult things cannot do.",
- "translation": "The great are those who accomplish things that are difficult to do. The small are those who cannot achieve such difficult things.",
- "modern": "செய்வதற்கு கடினமான செயல்களைச் செய்து முடிப்பவர்களே பெரியோர்கள். அத்தகைய கடினமான செயல்களைச் செய்ய முடியாதவர்கள் சிறியோர்கள் ஆவர்.",
- "explanation": "This couplet defines greatness and smallness based on a person's capacity for action. The word 'periyar' (great ones) refers to those who have the discipline and resolve to accomplish tasks that are exceptionally difficult. In the context of this chapter, this points to the immense difficulty of renouncing worldly attachments and controlling the senses. Conversely, 'ciṟiyar' (small ones) are those who lack this inner strength and fail to perform such challenging deeds.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To do difficult things those who do are great people; small people are those who do not do things difficult to do.",
+ "translation": "Great are those who achieve deeds that are difficult to perform; those who cannot accomplish such difficult deeds are small.",
+ "modern": "செய்வதற்கு அரிய செயல்களைச் செய்பவர்கள் பெரியவர்கள்; செய்ய முடியாதவர்கள் சிறியவர்கள்.",
+ "explanation": "This couplet contrasts great individuals with lesser ones based on their capacity to perform difficult deeds. The author defines greatness not by birth or status, but by the ability to accomplish tasks that seem impossible to ordinary people. Those who shrink from difficult tasks and fail to perform them are deemed small or ordinary. The repetition of the phrase 'செயற்கு அரிய' (difficult to do) emphasizes that the true measure of a person's stature is the magnitude of the challenges they overcome.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

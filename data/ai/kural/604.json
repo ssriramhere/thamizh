@@ -28,10 +28,10 @@
     {
      "text": "குற்றம்",
      "lemma": "குற்றம்",
-     "gloss": "fault"
+     "gloss": "faults"
     }
    ],
-   "gloss": "fault"
+   "gloss": "faults"
   },
   {
    "surface": "பெருகும்",
@@ -61,10 +61,10 @@
     {
      "text": "மடிந்து",
      "lemma": "மடி",
-     "gloss": "having yielded"
+     "gloss": "having immersed"
     }
    ],
-   "gloss": "having yielded"
+   "gloss": "having immersed"
   },
   {
    "surface": "மாண்ட",
@@ -72,10 +72,10 @@
     {
      "text": "மாண்ட",
      "lemma": "மாண்",
-     "gloss": "excellent"
+     "gloss": "noble"
     }
    ],
-   "gloss": "excellent"
+   "gloss": "noble"
   },
   {
    "surface": "உஞற்று",
@@ -92,18 +92,23 @@
    "surface": "இலவர்க்கு",
    "parts": [
     {
-     "text": "இலவர்க்கு",
-     "lemma": "இலவர்",
-     "gloss": "to those without"
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "without"
+    },
+    {
+     "text": "அவர்க்கு",
+     "lemma": "அவர்",
+     "gloss": "to those"
     }
    ],
-   "gloss": "to those without"
+   "gloss": "to those who are without"
   }
  ],
- "literal": "Family having perished fault will increase, laziness having yielded to, excellent effort to those without.",
- "translation": "For those who yield to laziness and lack excellent effort, their family will perish and their faults will multiply.",
- "modern": "சோம்பலில் வீழ்ந்து சிறந்த முயற்சி இல்லாதவர்களுக்கு, அவர்களின் குடி அழிந்து குற்றங்கள் பெருகும்.",
- "explanation": "This couplet warns of the destructive consequences of laziness on one's lineage and character. The word 'மடி' means laziness, and yielding to it prevents a person from making the excellent effort needed to succeed. Consequently, their family's standing is destroyed and their personal flaws and failures multiply.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Family having perished, faults will increase, for those who are immersed in laziness and are without noble effort.",
+ "translation": "For those who are deeply immersed in laziness and lack noble effort, their family lineage will perish and their faults will multiply.",
+ "modern": "சோம்பலில் மூழ்கி, சிறந்த முயற்சி இல்லாதவர்களுடைய குடும்பம் அழிந்து, அவர்களின் குற்றங்கள் பெருகும்.",
+ "explanation": "This couplet highlights the severe consequences of laziness and lack of effort. For individuals who are deeply sunk in sloth ('madi matintu') and do not possess noble exertion ('manda unatru'), two disasters occur: their family lineage ('kuti') falls into ruin, and their personal faults and vices ('kutram') multiply. The poet emphasizes that laziness is not just a passive state but an active force of destruction that ruins both one's heritage and character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -14,7 +14,7 @@
      "gloss": "nature"
     }
    ],
-   "gloss": "wealth-nature"
+   "gloss": "he whose nature is the pursuit of wealth"
   },
   {
    "surface": "ஆளரை",
@@ -22,31 +22,26 @@
     {
      "text": "ஆளர்",
      "lemma": "ஆளர்",
-     "gloss": "possessor"
+     "gloss": "husband"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "ACC"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "possessor (ACC)"
+   "gloss": "the husband"
   },
   {
    "surface": "உள்ளி",
    "parts": [
     {
-     "text": "உள்ளு",
+     "text": "உள்ளி",
      "lemma": "உள்ளு",
-     "gloss": "think"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "ADV"
+     "gloss": "thinking of"
     }
    ],
-   "gloss": "having thought"
+   "gloss": "thinking of"
   },
   {
    "surface": "மருள்மாலை",
@@ -54,7 +49,7 @@
     {
      "text": "மருள்",
      "lemma": "மருள்",
-     "gloss": "confusion"
+     "gloss": "bewildering"
     },
     {
      "text": "மாலை",
@@ -62,23 +57,18 @@
      "gloss": "evening"
     }
    ],
-   "gloss": "confusing evening"
+   "gloss": "the bewildering evening"
   },
   {
    "surface": "மாயும்",
    "parts": [
     {
-     "text": "மாய்",
+     "text": "மாயும்",
      "lemma": "மாய்",
-     "gloss": "perish"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "FUT"
+     "gloss": "perishes"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "perishes"
   },
   {
    "surface": "என்",
@@ -95,17 +85,12 @@
    "surface": "மாயா",
    "parts": [
     {
-     "text": "மாய்",
+     "text": "மாயா",
      "lemma": "மாய்",
-     "gloss": "perish"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "NEG.RP"
+     "gloss": "un-perishing"
     }
    ],
-   "gloss": "unperishing"
+   "gloss": "un-perishing"
   },
   {
    "surface": "உயிர்",
@@ -119,10 +104,10 @@
    "gloss": "life"
   }
  ],
- "literal": "Wealth-nature possessor (ACC) having thought, confusing evening will perish my unperishing life.",
- "translation": "Thinking of him whose nature is to seek wealth, my stubborn life will finally perish in this bewildering evening.",
- "modern": "பொருள் தேடும் இயல்பை உடைய என் தலைவரை நினைத்து, இதுவரை இறக்காத என் உயிர் இந்த மயக்கத்தைத் தரும் மாலைப் பொழுதில் இறந்துவிடும்.",
- "explanation": "The speaker laments the unbearable pain of evening during her lover's absence. She describes him as someone whose nature is tied to wealth, as he left her to seek it. Her life, which has stubbornly refused to end despite her prolonged suffering, will finally be extinguished by the bewildering sorrow brought by the evening.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Thinking of the husband whose nature is the pursuit of wealth, in this bewildering evening, my un-perishing life perishes.",
+ "translation": "Thinking of my beloved whose sole pursuit is wealth, my otherwise un-perishing life now perishes in this bewildering evening.",
+ "modern": "பொருளையே இயல்பாகக் கொண்ட என் தலைவரை நினைத்து, இந்த மயக்கத்தைத் தரும் மாலைப் பொழுதில், அழியாத என் உயிர் அழிகின்றது.",
+ "explanation": "The heroine laments her state of separation as twilight falls. She thinks of her husband, who has left her to pursue wealth, describing him as one whose nature is bound to wealth. As she remembers him, the bewildering and sorrowful evening hour overcomes her. Her life, which had stubbornly survived the pain of separation until now, finally begins to fade away under the weight of this evening grief.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

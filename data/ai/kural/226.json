@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "அற்றார்",
-     "lemma": "அறு",
-     "gloss": "those who are destitute"
+     "lemma": "அற்றார்",
+     "gloss": "the destitute"
     }
    ],
    "gloss": "the destitute"
@@ -17,7 +17,7 @@
     {
      "text": "அழி",
      "lemma": "அழி",
-     "gloss": "destroying"
+     "gloss": "ruining"
     },
     {
      "text": "பசி",
@@ -32,7 +32,7 @@
    "parts": [
     {
      "text": "தீர்த்தல்",
-     "lemma": "தீர்",
+     "lemma": "தீர்த்தல்",
      "gloss": "relieving"
     }
    ],
@@ -55,7 +55,7 @@
     {
      "text": "ஒருவன்",
      "lemma": "ஒருவன்",
-     "gloss": "one man"
+     "gloss": "a man"
     }
    ],
    "gloss": "a man"
@@ -66,10 +66,10 @@
     {
      "text": "பெற்றான்",
      "lemma": "பெறு",
-     "gloss": "he who acquired"
+     "gloss": "one who obtained"
     }
    ],
-   "gloss": "he who acquired"
+   "gloss": "one who has obtained"
   },
   {
    "surface": "பொருள்",
@@ -88,10 +88,10 @@
     {
      "text": "வைப்பு",
      "lemma": "வைப்பு",
-     "gloss": "safe-keeping"
+     "gloss": "storing"
     }
    ],
-   "gloss": "safe-keeping"
+   "gloss": "storing"
   },
   {
    "surface": "உழி",
@@ -102,13 +102,13 @@
      "gloss": "place"
     }
    ],
-   "gloss": "place"
+   "gloss": "the place where"
   }
  ],
- "literal": "The destitute's ruinous hunger relieving, that is a man who acquired wealth's safe-keeping place.",
- "translation": "Relieving the ruinous hunger of the destitute is the true safe-deposit for a man's acquired wealth.",
- "modern": "ஏழைகளின் கொடிய பசியைத் தீர்ப்பதே, ஒருவன் தான் பெற்ற செல்வத்தைப் பாதுகாப்பாக வைக்கும் இடமாகும்.",
- "explanation": "This couplet explains the most secure way to invest one's wealth. It states that relieving the devastating hunger of the destitute is the true safe-deposit for a person's riches. The term 'அழிபசி' highlights the destructive power of starvation, making its relief a vital act of charity. By comparing this act to a 'வைப்புழி' (treasury or safe-keeping place), the poet conveys that wealth given to the needy is never lost, but securely stored as enduring goodness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Relieving the ruinous hunger of the destitute, that is the place where a man who has obtained wealth stores it.",
+ "translation": "Relieving the ruinous hunger of the destitute is the very place where a man who has acquired wealth should store it.",
+ "modern": "வறியவர்களின் அழிக்கும் பசியைத் தீர்ப்பதுதான், செல்வம் பெற்ற ஒருவன் தன் பொருளைச் சேமித்து வைக்கும் இடமாகும்.",
+ "explanation": "This couplet explains the true and secure way to store one's wealth. It states that satisfying the intense, ruinous hunger of the destitute is the ultimate treasury for a wealthy person. Rather than hoarding riches in physical vaults where they can be lost, spending them to feed the needy acts as an imperishable storehouse. The word 'அழிபசி' highlights the devastating nature of hunger, while 'வைப்புழி' metaphorically frames charity as the safest place of deposit.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

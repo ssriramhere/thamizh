@@ -6,10 +6,10 @@
     {
      "text": "பெருக்கத்து",
      "lemma": "பெருக்கம்",
-     "gloss": "in prosperity"
+     "gloss": "in times of prosperity"
     }
    ],
-   "gloss": "in prosperity"
+   "gloss": "in times of prosperity"
   },
   {
    "surface": "வேண்டும்",
@@ -17,18 +17,23 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "is required"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is required"
   },
   {
    "surface": "பணிதல்",
    "parts": [
     {
-     "text": "பணிதல்",
+     "text": "பணி",
      "lemma": "பணி",
-     "gloss": "humility"
+     "gloss": "bow/be humble"
+    },
+    {
+     "text": "தல்",
+     "lemma": "தல்",
+     "gloss": "verbal noun suffix"
     }
    ],
    "gloss": "humility"
@@ -38,11 +43,11 @@
    "parts": [
     {
      "text": "சிறிய",
-     "lemma": "சிறு",
-     "gloss": "small"
+     "lemma": "சிறிய",
+     "gloss": "small/reduced"
     }
    ],
-   "gloss": "small"
+   "gloss": "reduced/lowly"
   },
   {
    "surface": "சுருக்கத்து",
@@ -50,10 +55,10 @@
     {
      "text": "சுருக்கத்து",
      "lemma": "சுருக்கம்",
-     "gloss": "in reduction"
+     "gloss": "in times of adversity/decline"
     }
    ],
-   "gloss": "in reduction"
+   "gloss": "in times of adversity"
   },
   {
    "surface": "வேண்டும்",
@@ -61,27 +66,32 @@
     {
      "text": "வேண்டும்",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "is required"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is required"
   },
   {
    "surface": "உயர்வு",
    "parts": [
     {
-     "text": "உயர்வு",
+     "text": "உயர்",
      "lemma": "உயர்",
-     "gloss": "elevation"
+     "gloss": "rise/be high"
+    },
+    {
+     "text": "வு",
+     "lemma": "வு",
+     "gloss": "noun suffix"
     }
    ],
-   "gloss": "elevation"
+   "gloss": "dignity/loftiness"
   }
  ],
- "literal": "In prosperity is needed humility; in small reduction is needed elevation.",
- "translation": "In times of prosperity, one needs humility. In times of decline, one needs to maintain high dignity.",
- "modern": "செல்வம் பெருகும் காலத்தில் பணிவு வேண்டும்; செல்வம் சுருங்கி வறுமை வரும் காலத்தில் தாழ்ந்து போகாத உயர்வான குணம் வேண்டும்.",
- "explanation": "This couplet contrasts how one should behave in good and bad times. During prosperity, a person should practice humility to avoid arrogance. Conversely, during a reduction in wealth or status, one must maintain elevation and dignity to avoid losing self-respect. True honor lies in balancing modesty when wealthy with unyielding self-worth when poor.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "In prosperity is required humility; in small adversity is required loftiness.",
+ "translation": "In times of great prosperity, humility is required; in times of diminished fortune, maintaining one's dignity and loftiness of mind is required.",
+ "modern": "செல்வம் பெருகிய காலத்தில் பணிவுடன் இருக்க வேண்டும்; வறுமையால் வாழ்வு சுருங்கிய காலத்தில் மானத்தோடு கூடிய உயர்வான எண்ணத்தைக் கொண்டிருக்க வேண்டும்.",
+ "explanation": "This couplet outlines the ideal conduct of a person of high character during the changing tides of fortune. In times of great prosperity, one must practice humility to avoid arrogance and show respect to others. Conversely, when one's circumstances are reduced or diminished, one must maintain high self-esteem and dignity rather than begging or losing self-respect. The contrast between humility in wealth and dignity in poverty highlights the true essence of honour.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

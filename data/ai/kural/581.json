@@ -6,7 +6,7 @@
     {
      "text": "ஒற்று",
      "lemma": "ஒற்று",
-     "gloss": "spy"
+     "gloss": "espionage"
     },
     {
      "text": "உம்",
@@ -14,7 +14,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "spy-and"
+   "gloss": "and espionage"
   },
   {
    "surface": "உரைசான்ற",
@@ -22,15 +22,15 @@
     {
      "text": "உரை",
      "lemma": "உரை",
-     "gloss": "fame"
+     "gloss": "renown"
     },
     {
      "text": "சான்ற",
      "lemma": "சால்",
-     "gloss": "which-are-full-of"
+     "gloss": "abundant in / esteemed"
     }
    ],
-   "gloss": "renowned"
+   "gloss": "highly esteemed"
   },
   {
    "surface": "நூலும்",
@@ -38,7 +38,7 @@
     {
      "text": "நூல்",
      "lemma": "நூல்",
-     "gloss": "treatise"
+     "gloss": "treatise / book of laws"
     },
     {
      "text": "உம்",
@@ -46,7 +46,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "treatise-and"
+   "gloss": "and the treatise"
   },
   {
    "surface": "இவை",
@@ -81,26 +81,21 @@
     {
      "text": "தெற்று",
      "lemma": "தெற்று",
-     "gloss": "clearly"
+     "gloss": "certainty / clarity"
     }
    ],
-   "gloss": "clearly"
+   "gloss": "certainty"
   },
   {
    "surface": "என்க",
    "parts": [
     {
-     "text": "என்",
+     "text": "என்க",
      "lemma": "என்",
-     "gloss": "consider"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "let"
+     "gloss": "let one say / consider"
     }
    ],
-   "gloss": "let consider"
+   "gloss": "let one say"
   },
   {
    "surface": "மன்னவன்",
@@ -111,7 +106,7 @@
      "gloss": "king"
     }
    ],
-   "gloss": "king"
+   "gloss": "of the king"
   },
   {
    "surface": "கண்",
@@ -119,16 +114,16 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "eye"
+     "gloss": "eyes"
     }
    ],
-   "gloss": "eye"
+   "gloss": "eyes"
   }
  ],
- "literal": "Spy and, renowned treatise and, these both, clearly let consider king eye.",
- "translation": "Let a king clearly consider these two as his eyes: the spy and the renowned book of laws.",
- "modern": "ஒற்றனும் புகழ்வாய்ந்த நீதிநூலும் ஆகிய இவை இரண்டையும் அரசன் தன் இரு கண்களாகத் தெளிவாகக் கருதவேண்டும்.",
- "explanation": "This couplet establishes the two primary sources of vision for a ruler. A king must rely on two things to see the world and govern effectively: the intelligence gathered by spies and the wisdom found in authoritative texts. The spy provides real-time knowledge of events, while the treatise provides the moral and practical framework to judge those events. By calling them the king's 'eyes,' the poet emphasizes that without both, a ruler is effectively blind.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "And espionage and the renowned treatise, these both, let one say, are the eyes of the king.",
+ "translation": "Espionage and the renowned books of law—these two, let one say, are the eyes of a king.",
+ "modern": "ஒற்றனும் புகழ்பெற்ற அறநூலும் ஆகிய இவ்விரண்டையும் அரசனது கண்கள் என்று சொல்ல வேண்டும்.",
+ "explanation": "This couplet highlights the two essential tools a ruler needs to govern effectively. The poet states that espionage (the spy system) and the renowned treatises of law and statecraft are the two eyes of a king. While the books of law provide the ethical and theoretical framework for governance, the spies provide real-time, practical information about the kingdom and its enemies. Together, they allow the ruler to see clearly and make informed decisions, acting as his eyes.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

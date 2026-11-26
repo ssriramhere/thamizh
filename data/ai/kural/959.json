@@ -4,23 +4,28 @@
    "surface": "நிலத்தில்",
    "parts": [
     {
-     "text": "நிலத்தில்",
+     "text": "நிலத்து",
      "lemma": "நிலம்",
-     "gloss": "in the ground"
+     "gloss": "soil"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "in"
     }
    ],
-   "gloss": "in the ground"
+   "gloss": "in the soil"
   },
   {
    "surface": "கிடந்தமை",
    "parts": [
     {
      "text": "கிடந்தமை",
-     "lemma": "கிட",
-     "gloss": "nature of what lay"
+     "lemma": "கிடந்தமை",
+     "gloss": "the state of what lies within"
     }
    ],
-   "gloss": "nature of what lay"
+   "gloss": "the nature of what lies buried within"
   },
   {
    "surface": "கால்",
@@ -31,51 +36,66 @@
      "gloss": "sprout"
     }
    ],
-   "gloss": "sprout"
+   "gloss": "the emerging sprout"
   },
   {
    "surface": "காட்டும்",
    "parts": [
     {
-     "text": "காட்டும்",
+     "text": "காட்டு",
      "lemma": "காட்டு",
-     "gloss": "will show"
+     "gloss": "show"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
-   "gloss": "will show"
+   "gloss": "will reveal"
   },
   {
    "surface": "காட்டும்",
    "parts": [
     {
-     "text": "காட்டும்",
+     "text": "காட்டு",
      "lemma": "காட்டு",
-     "gloss": "will show"
+     "gloss": "show"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
-   "gloss": "will show"
+   "gloss": "will reveal"
   },
   {
    "surface": "குலத்தில்",
    "parts": [
     {
-     "text": "குலத்தில்",
+     "text": "குலத்து",
      "lemma": "குலம்",
-     "gloss": "in the lineage"
+     "gloss": "noble family"
+    },
+    {
+     "text": "இல்",
+     "lemma": "இல்",
+     "gloss": "in"
     }
    ],
-   "gloss": "in the lineage"
+   "gloss": "in the noble family"
   },
   {
    "surface": "பிறந்தார்",
    "parts": [
     {
      "text": "பிறந்தார்",
-     "lemma": "பிற",
-     "gloss": "those born"
+     "lemma": "பிறத்தல்",
+     "gloss": "those who were born"
     }
    ],
-   "gloss": "those born"
+   "gloss": "those who were born"
   },
   {
    "surface": "வாய்",
@@ -86,7 +106,7 @@
      "gloss": "mouth"
     }
    ],
-   "gloss": "mouth"
+   "gloss": "from the mouth"
   },
   {
    "surface": "சொல்",
@@ -97,13 +117,13 @@
      "gloss": "word"
     }
    ],
-   "gloss": "word"
+   "gloss": "the words spoken"
   }
  ],
- "literal": "In the ground the nature of what lay the sprout will show; will show in the lineage those born mouth's word.",
- "translation": "Just as a sprout reveals the nature of the soil in which it grew, the words from their mouths reveal the lineage of those born into it.",
- "modern": "ஒரு நிலத்தின் தன்மையை அதில் முளைக்கும் முளை காட்டும். அதுபோல, ஒரு குடியில் பிறந்தவர்களின் தன்மையை அவர்கள் வாயிலிருந்து வரும் சொற்கள் காட்டும்.",
- "explanation": "This couplet uses a simple agricultural analogy to explain how speech reflects one's background. The sprout that emerges from the ground indicates the quality and nature of the soil beneath it. In the exact same way, the words that come out of a person's mouth reveal the nature of the family and lineage in which they were raised. The repetition of the word 'காட்டும்' (will show) emphasizes the certainty of this revelation. The word 'கால்' here takes the specific meaning of a sprout or shoot, fitting the botanical imagery perfectly.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The sprout will reveal what lay hidden in the soil; the words from the mouth will reveal those born in a noble family.",
+ "translation": "Just as an emerging sprout reveals the nature of the soil in which the seed lay, the words spoken from the mouth reveal the noble lineage of those born to it.",
+ "modern": "நிலத்தில் புதைந்து கிடக்கும் விதையின் தன்மையை அதிலிருந்து முளைக்கும் முளை காட்டும்; அதுபோல, உயர்ந்த குலத்தில் பிறந்தவர்களின் தன்மையை அவர்கள் வாயிலிருந்து வெளிப்படும் சொல் காட்டும்.",
+ "explanation": "This couplet uses a beautiful natural analogy to explain how a person's speech reflects their upbringing and lineage. The word 'kāl' here refers to the young sprout or shoot emerging from the earth. Just as the health and type of a sprout reveal the quality of the hidden soil in which the seed lay, the words that come out of a person's mouth instantly reveal the quality and nobility of the family they were born into. The repetition of the verb 'kāṭṭum' (will reveal) emphasizes the direct and inescapable connection between origin and expression.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

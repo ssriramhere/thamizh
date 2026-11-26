@@ -6,10 +6,10 @@
     {
      "text": "புத்தேள்",
      "lemma": "புத்தேள்",
-     "gloss": "god"
+     "gloss": "celestial being"
     }
    ],
-   "gloss": "gods'"
+   "gloss": "celestial being"
   },
   {
    "surface": "உலகத்தும்",
@@ -22,7 +22,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even/also"
     }
    ],
    "gloss": "even in the world"
@@ -33,15 +33,15 @@
     {
      "text": "ஈண்டு",
      "lemma": "ஈண்டு",
-     "gloss": "here"
+     "gloss": "here/this world"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "also"
     }
    ],
-   "gloss": "and here"
+   "gloss": "and in this world too"
   },
   {
    "surface": "பெறல்",
@@ -52,7 +52,7 @@
      "gloss": "obtaining"
     }
    ],
-   "gloss": "obtaining"
+   "gloss": "to obtain"
   },
   {
    "surface": "அரிதே",
@@ -60,15 +60,15 @@
     {
      "text": "அரிது",
      "lemma": "அரிது",
-     "gloss": "rare/difficult"
+     "gloss": "rare"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed (emphatic)"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "is rare indeed"
+   "gloss": "is indeed rare"
   },
   {
    "surface": "ஒப்புரவின்",
@@ -76,7 +76,7 @@
     {
      "text": "ஒப்புரவு",
      "lemma": "ஒப்புரவு",
-     "gloss": "benevolence"
+     "gloss": "benevolence/social duty"
     },
     {
      "text": "இன்",
@@ -91,11 +91,11 @@
    "parts": [
     {
      "text": "நல்ல",
-     "lemma": "நன்மை",
-     "gloss": "good"
+     "lemma": "நல்",
+     "gloss": "good things"
     }
    ],
-   "gloss": "good"
+   "gloss": "good things"
   },
   {
    "surface": "பிற",
@@ -109,10 +109,10 @@
    "gloss": "other things"
   }
  ],
- "literal": "Gods' even in the world and here obtaining is rare indeed than benevolence good other things.",
- "translation": "Even in the world of the gods and in this world, it is rare indeed to obtain other good things better than benevolence.",
- "modern": "தேவர் உலகத்திலும் இவ்வுலகத்திலும், ஒப்புரவை விடச் சிறந்த மற்ற நல்லவைகளைப் பெறுவது மிகவும் கடினமாகும்.",
- "explanation": "This couplet emphasizes the supreme value of 'oppuravu', which means acting with benevolence and fulfilling one's duty to society. The poet states that finding anything better than this virtue is incredibly rare. He compares 'oppuravu' against all other good things ('nalla piṟa') and concludes it is unmatched. To stress its universal greatness, he notes that this holds true not just 'here' ('īṇṭum') in the human world, but even in the world of the gods ('puttēḷ ulakattum'). Thus, living in harmony with and helping society is presented as the highest possible good.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in the world of gods and here in this world, to obtain other good things than benevolence is rare.",
+ "translation": "Both in the world of the gods and in this earthly world, it is difficult to find any other good thing that is better than benevolence.",
+ "modern": "தேவர் உலகத்திலும் இந்த உலகத்திலும் ஒப்புரவை விட (பிறருக்கு உதவி செய்வதை விட) சிறந்த வேறு நன்மைகளைப் பெறுவது அரிது.",
+ "explanation": "This couplet highlights the supreme value of benevolence (oppuravu), which means living in harmony with society and doing one's duty to others. The poet compares this virtue across two realms: the celestial world of the gods (puttēḷ ulakam) and this earthly world (īṇṭu). It asserts that in neither of these worlds can one acquire any good quality or possession that is superior to benevolence. Thus, serving and sharing with society is established as the highest possible good a person can attain.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

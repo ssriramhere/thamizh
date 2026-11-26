@@ -16,19 +16,19 @@
    "parts": [
     {
      "text": "என்னும்",
-     "lemma": "என்",
-     "gloss": "which is called"
+     "lemma": "என்னும்",
+     "gloss": "called"
     }
    ],
-   "gloss": "which is called"
+   "gloss": "called"
   },
   {
    "surface": "பொய்யா",
    "parts": [
     {
      "text": "பொய்யா",
-     "lemma": "பொய்",
-     "gloss": "unfailing"
+     "lemma": "பொய்த்தல்",
+     "gloss": "unfailing / that does not extinguish"
     }
    ],
    "gloss": "unfailing"
@@ -60,8 +60,8 @@
    "parts": [
     {
      "text": "அறுக்கும்",
-     "lemma": "அறு",
-     "gloss": "will destroy"
+     "lemma": "அறுத்தல்",
+     "gloss": "will cut / will destroy"
     }
    ],
    "gloss": "will destroy"
@@ -71,11 +71,11 @@
    "parts": [
     {
      "text": "எண்ணிய",
-     "lemma": "எண்ணு",
-     "gloss": "intended"
+     "lemma": "எண்ணுதல்",
+     "gloss": "thought of / intended"
     }
    ],
-   "gloss": "intended"
+   "gloss": "thought of"
   },
   {
    "surface": "தேயத்து",
@@ -83,27 +83,27 @@
     {
      "text": "தேயத்து",
      "lemma": "தேயம்",
-     "gloss": "to the land"
+     "gloss": "to the country (oblique)"
     }
    ],
-   "gloss": "to the land"
+   "gloss": "to the country"
   },
   {
    "surface": "சென்று",
    "parts": [
     {
      "text": "சென்று",
-     "lemma": "செல்",
+     "lemma": "செல்லுதல்",
      "gloss": "having gone"
     }
    ],
    "gloss": "having gone"
   }
  ],
- "literal": "Wealth which is called unfailing lamp darkness will destroy intended to the land having gone.",
- "translation": "The unfailing lamp called wealth will travel to whatever land one intends and dispel the darkness there.",
- "modern": "பொருள் என்று சொல்லப்படும் அணையாத விளக்கு, ஒருவர் நினைத்த நாட்டிற்குச் சென்று அங்குள்ள இருளைப் போக்கும்.",
- "explanation": "The couplet metaphorically describes wealth as an unfailing lamp. Unlike a physical lamp that stays in one place and can be extinguished, the lamp of wealth can travel to any land its owner desires. Once there, it dispels the darkness of poverty, helplessness, or enmity. The word 'பொய்யா' (unfailing) emphasizes that wealth is a reliable tool that consistently achieves the intended results across borders.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The unfailing lamp called wealth will destroy darkness, having gone to the thought-of country.",
+ "translation": "The unfailing lamp called wealth dispels darkness, reaching even the distant lands one intends to conquer.",
+ "modern": "பொருள் என்று சொல்லப்படும் அணையாத விளக்கு, தான் நினைத்த தேசத்திற்குச் சென்று அங்குள்ள பகையாகிய இருளை ஒழிக்கும்.",
+ "explanation": "This couplet compares wealth to an inextinguishable lamp (பொய்யா விளக்கம்). Just as a physical lamp dispels darkness, wealth dispels the darkness of poverty, hostility, and obstacles. This unique lamp is so powerful that its light can be carried to any foreign land or territory that one intends to reach (எண்ணிய தேயத்துச் சென்று), removing all difficulties there as well.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

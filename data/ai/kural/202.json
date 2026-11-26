@@ -4,12 +4,17 @@
    "surface": "தீயவை",
    "parts": [
     {
-     "text": "தீயவை",
-     "lemma": "தீயவை",
-     "gloss": "evil things"
+     "text": "தீ",
+     "lemma": "தீ",
+     "gloss": "evil"
+    },
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "things"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "evil deeds"
   },
   {
    "surface": "தீய",
@@ -20,7 +25,7 @@
      "gloss": "evil"
     }
    ],
-   "gloss": "evil"
+   "gloss": "evil results"
   },
   {
    "surface": "பயத்தலால்",
@@ -42,12 +47,17 @@
    "surface": "தீயவை",
    "parts": [
     {
-     "text": "தீயவை",
-     "lemma": "தீயவை",
-     "gloss": "evil things"
+     "text": "தீ",
+     "lemma": "தீ",
+     "gloss": "evil"
+    },
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "things"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "evil deeds"
   },
   {
    "surface": "தீயினும்",
@@ -74,9 +84,14 @@
    "surface": "அஞ்ச",
    "parts": [
     {
-     "text": "அஞ்ச",
-     "lemma": "அஞ்சுதல்",
-     "gloss": "to fear"
+     "text": "அஞ்சு",
+     "lemma": "அஞ்சு",
+     "gloss": "fear"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "to"
     }
    ],
    "gloss": "to fear"
@@ -85,18 +100,23 @@
    "surface": "படும்",
    "parts": [
     {
-     "text": "படும்",
-     "lemma": "படுதல்",
-     "gloss": "will be"
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "suffer"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
-   "gloss": "will be"
+   "gloss": "are to be"
   }
  ],
- "literal": "Evil things evil yielding-because, evil things fire-than-even to-fear will-be.",
- "translation": "Because evil deeds yield only evil, they are to be feared even more than fire.",
- "modern": "தீய செயல்கள் தீமையான விளைவுகளையே தருவதால், அத்தீய செயல்களை நெருப்பை விட அதிகமாகப் பயந்து ஒதுக்க வேண்டும்.",
- "explanation": "This couplet explains why one should be terrified of committing evil deeds. The word 'தீயவை' refers to bad actions, which inherently produce 'தீய' or bad outcomes, indicated by 'பயத்தலால்' (because they yield). Because their result is always harmful, the poet compares them to fire ('தீ'). However, evil deeds are said to be feared ('அஞ்சப்படும்') even more than fire, as fire only burns what it touches, while evil deeds bring lasting ruin.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Because evil deeds yield evil results, evil deeds must be feared even more than fire.",
+ "translation": "Since evil deeds produce only evil consequences, one must dread committing evil even more than fire.",
+ "modern": "தீய செயல்கள் தீமையான விளைவுகளையே தருவதால், தீய செயல்களை நெருப்பை விடவும் அதிகமாக அஞ்ச வேண்டும்.",
+ "explanation": "This couplet warns us about the severe consequences of committing evil deeds. The poet compares the danger of evil actions to fire, which is universally feared for its destructive power. While fire can burn a person physically, its damage is immediate and visible. In contrast, evil deeds yield bad consequences that follow a person relentlessly, destroying their inner character and future. Therefore, one must dread committing evil even more than they fear physical fire.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,16 +5,16 @@
    "parts": [
     {
      "text": "களித்தான்",
-     "lemma": "களி",
-     "gloss": "intoxicated man"
+     "lemma": "களித்தான்",
+     "gloss": "he who is drunk"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "intoxicated man (acc.)"
+   "gloss": "him who is drunk"
   },
   {
    "surface": "காரணம்",
@@ -22,21 +22,21 @@
     {
      "text": "காரணம்",
      "lemma": "காரணம்",
-     "gloss": "reason"
+     "gloss": "reason or argument"
     }
    ],
-   "gloss": "reason"
+   "gloss": "reason or argument"
   },
   {
    "surface": "காட்டுதல்",
    "parts": [
     {
      "text": "காட்டுதல்",
-     "lemma": "காட்டு",
-     "gloss": "showing"
+     "lemma": "காட்டுதல்",
+     "gloss": "showing or explaining"
     }
    ],
-   "gloss": "showing"
+   "gloss": "showing or explaining"
   },
   {
    "surface": "கீழ்",
@@ -44,10 +44,10 @@
     {
      "text": "கீழ்",
      "lemma": "கீழ்",
-     "gloss": "under"
+     "gloss": "under or beneath"
     }
    ],
-   "gloss": "under"
+   "gloss": "under or beneath"
   },
   {
    "surface": "நீர்",
@@ -65,16 +65,16 @@
    "parts": [
     {
      "text": "குளித்தான்",
-     "lemma": "குளி",
-     "gloss": "submerged man"
+     "lemma": "குளித்தான்",
+     "gloss": "he who has dived"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "submerged man (acc.)"
+   "gloss": "him who has dived"
   },
   {
    "surface": "தீ",
@@ -82,10 +82,10 @@
     {
      "text": "தீ",
      "lemma": "தீ",
-     "gloss": "fire"
+     "gloss": "fire or torch"
     }
    ],
-   "gloss": "fire"
+   "gloss": "fire or torch"
   },
   {
    "surface": "துரீஇ",
@@ -93,10 +93,10 @@
     {
      "text": "துரீஇ",
      "lemma": "துருவு",
-     "gloss": "having searched"
+     "gloss": "searching or probing"
     }
    ],
-   "gloss": "having searched"
+   "gloss": "searching or probing"
   },
   {
    "surface": "அற்று",
@@ -104,16 +104,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like or is similar to"
     }
    ],
-   "gloss": "like that"
+   "gloss": "is like or is similar to"
   }
  ],
- "literal": "To an intoxicated man reason showing, under water to a submerged man fire having searched like that.",
- "translation": "Trying to reason with a drunkard is like searching with a torch for a man who has sunk underwater.",
- "modern": "குடிபோதையில் இருப்பவனுக்கு நியாயங்களை எடுத்துக் கூறுவது, தண்ணீருக்கு அடியில் மூழ்கியவனைத் தீப்பந்தம் கொண்டு தேடுவதற்குச் சமமாகும்.",
- "explanation": "This couplet uses a striking simile to illustrate the futility of arguing with someone who is drunk. The word 'களித்தானை' refers to an intoxicated person whose mind is completely clouded. Trying to show them 'காரணம்' (reason or logic) is compared to searching for someone who has submerged 'கீழ் நீர்' (under water) using 'தீ' (fire or a torch). Just as a torch is extinguished underwater and cannot illuminate the depths, logic and reason cannot penetrate a mind submerged in intoxication.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Showing reason to him who is drunk is like searching for him who has dived under water with a fire torch.",
+ "translation": "Trying to reason with a drunkard is like taking a burning torch underwater to search for someone who has dived deep.",
+ "modern": "மது அருந்தி மயங்கியவனிடம் அறிவுரை கூறித் திருத்த முயல்வது, தண்ணீருக்குள் மூழ்கிய ஒருவனைத் தீப்பந்தம் கொண்டு தேடுவதைப் போன்றது.",
+ "explanation": "This couplet highlights the absolute futility of trying to reform or reason with someone who is heavily intoxicated. The poet uses a brilliant and humorous analogy: trying to guide a drunkard with logical arguments is like diving underwater with a burning torch to find someone. Just as water instantly extinguishes fire, the state of drunkenness completely drowns out any light of reason. The word 'turīi' refers to searching or probing, specifically with a light source, emphasizing the absurdity of using fire where it cannot survive. Therefore, attempting to counsel an intoxicated person is a completely pointless endeavor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

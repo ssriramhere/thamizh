@@ -6,7 +6,7 @@
     {
      "text": "தொடு",
      "lemma": "தொடு",
-     "gloss": "to touch"
+     "gloss": "touch"
     },
     {
      "text": "இன்",
@@ -22,7 +22,7 @@
     {
      "text": "சுடு",
      "lemma": "சுடு",
-     "gloss": "to burn"
+     "gloss": "burn"
     },
     {
      "text": "இன்",
@@ -36,17 +36,12 @@
    "surface": "அல்லது",
    "parts": [
     {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "text": "அல்லது",
+     "lemma": "அல்லது",
+     "gloss": "other than/except"
     }
    ],
-   "gloss": "except"
+   "gloss": "other than/except"
   },
   {
    "surface": "காமநோய்",
@@ -54,22 +49,18 @@
     {
      "text": "காமநோய்",
      "lemma": "காமநோய்",
-     "gloss": "disease of love"
+     "gloss": "the pain of love"
     }
    ],
-   "gloss": "disease of love"
+   "gloss": "the pain of love",
+   "split_unverified": true
   },
   {
    "surface": "போல",
    "parts": [
     {
-     "text": "போல்",
-     "lemma": "போல்",
-     "gloss": "to resemble"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
+     "text": "போல",
+     "lemma": "போல",
      "gloss": "like"
     }
    ],
@@ -81,7 +72,7 @@
     {
      "text": "விடு",
      "lemma": "விடு",
-     "gloss": "to leave"
+     "gloss": "leave/part"
     },
     {
      "text": "இன்",
@@ -89,7 +80,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if left"
+   "gloss": "if parted/left"
   },
   {
    "surface": "சுடல்",
@@ -97,7 +88,7 @@
     {
      "text": "சுடு",
      "lemma": "சுடு",
-     "gloss": "to burn"
+     "gloss": "burn"
     },
     {
      "text": "அல்",
@@ -111,14 +102,19 @@
    "surface": "ஆற்றுமோ",
    "parts": [
     {
-     "text": "ஆற்றும்",
+     "text": "ஆற்று",
      "lemma": "ஆற்று",
-     "gloss": "will be able"
+     "gloss": "be able to"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
    "gloss": "can it do?"
@@ -135,10 +131,10 @@
    "gloss": "fire"
   }
  ],
- "literal": "If touched, it burns, except that, like the disease of love, if left, burning can it do, fire?",
- "translation": "Fire burns only when touched. Can it burn when one moves away from it, like this disease of love?",
- "modern": "நெருப்பு தன்னைத் தொட்டால் மட்டுமே சுடும். ஆனால் இந்தக் காதல் நோயைப் போல, தன்னை விட்டு விலகினால் நெருப்பால் சுட முடியுமா? முடியாது.",
- "explanation": "The speaker contrasts the pain of love with the heat of ordinary fire. Fire only burns a person when they come into direct physical contact with it. However, the affliction of love burns the lover precisely when they are separated from their beloved. Thus, the fire of love is shown to be far more powerful and paradoxical than actual fire.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If touched, it burns, other than that, like the pain of love, if parted, can it burn, the fire?",
+ "translation": "Fire burns only when it is touched; but unlike that, can fire burn even when one departs from it, as the pain of love does?",
+ "modern": "நெருப்பு தொட்டால் மட்டுமே சுடும்; ஆனால் காமநோய் போல, விலகிச் சென்றால் சுடக்கூடிய வலிமை நெருப்புக்கு உண்டா?",
+ "explanation": "In this couplet, the heroine compares the pain of separation from her beloved to physical fire. She points out that fire only burns a person upon physical contact. However, the affliction of love (காமநோய்) behaves in the opposite manner, burning and causing intense suffering precisely when the lovers are parted (விடின்). By asking if fire can burn from a distance, she emphasizes that the torment of separation is far more powerful and painful than actual fire.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

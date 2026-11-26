@@ -6,10 +6,10 @@
     {
      "text": "உறல்",
      "lemma": "உறல்",
-     "gloss": "associating"
+     "gloss": "relationship"
     }
    ],
-   "gloss": "closeness"
+   "gloss": "relationship"
   },
   {
    "surface": "முறையான்",
@@ -17,7 +17,7 @@
     {
      "text": "முறை",
      "lemma": "முறை",
-     "gloss": "relationship"
+     "gloss": "manner"
     },
     {
      "text": "ஆன்",
@@ -25,7 +25,7 @@
      "gloss": "by"
     }
    ],
-   "gloss": "by the relationship"
+   "gloss": "by way of"
   },
   {
    "surface": "உட்பகை",
@@ -33,7 +33,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "internal"
     },
     {
      "text": "பகை",
@@ -49,7 +49,7 @@
     {
      "text": "தோன்று",
      "lemma": "தோன்று",
-     "gloss": "appear"
+     "gloss": "arise"
     },
     {
      "text": "இன்",
@@ -57,7 +57,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if it appears"
+   "gloss": "if it arises"
   },
   {
    "surface": "இறல்",
@@ -65,7 +65,7 @@
     {
      "text": "இறல்",
      "lemma": "இறல்",
-     "gloss": "destruction"
+     "gloss": "ruin"
     }
    ],
    "gloss": "ruin"
@@ -81,10 +81,10 @@
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "in"
+     "gloss": "by"
     }
    ],
-   "gloss": "in the manner"
+   "gloss": "by way of"
   },
   {
    "surface": "ஏதம்",
@@ -92,10 +92,10 @@
     {
      "text": "ஏதம்",
      "lemma": "ஏதம்",
-     "gloss": "harm"
+     "gloss": "affliction"
     }
    ],
-   "gloss": "harm"
+   "gloss": "affliction"
   },
   {
    "surface": "பலவும்",
@@ -108,27 +108,32 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "entirety"
+     "gloss": "even/all"
     }
    ],
-   "gloss": "many"
+   "gloss": "many things"
   },
   {
    "surface": "தரும்",
    "parts": [
     {
-     "text": "தரும்",
+     "text": "தரு",
      "lemma": "தா",
-     "gloss": "will give"
+     "gloss": "bring"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
-   "gloss": "it will bring"
+   "gloss": "will bring"
   }
  ],
- "literal": "By the relationship of closeness internal enmity if appears, in the manner of destruction harms many it will give.",
- "translation": "If internal enmity arises among those bound by close ties, it will bring many harms that lead to utter destruction.",
- "modern": "நெருங்கிய உறவுடையவர்களிடம் உட்பகை தோன்றினால், அது அழிவைத் தரும் வகையில் பல துன்பங்களையும் கொடுக்கும்.",
- "explanation": "This couplet warns of the devastating consequences of conflict within a close-knit group. The word 'முறை' (muṟai) is used twice with slightly different nuances: first as 'relationship' or 'kinship' in 'உறல்முறையான்' (those connected by close ties), and second as 'manner' or 'way' in 'இறல்முறையான்' (in a manner leading to ruin). If 'உட்பகை' (internal enmity) takes root among close associates, it does not merely cause temporary trouble. Instead, it brings 'ஏதம் பலவும்' (many harms) that inevitably lead to 'இறல்' (destruction).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If internal enmity arises by way of relationship, it will bring many afflictions by way of ruin.",
+ "translation": "If internal enmity arises among those who are closely related, it will bring many fatal afflictions that lead to utter ruin.",
+ "modern": "உறவினர் போன்ற நெருங்கிய முறையில் உட்பகை உண்டானால், அது அழிவை உண்டாக்கும் வழியில் பல துன்பங்களைத் தரும்.",
+ "explanation": "This couplet warns of the extreme danger of secret hatred arising among close associates or relatives. The word 'uṟal-muṟaiyāṉ' refers to the manner of close relationship, indicating that the enemy is disguised as a close ally. The word 'iṟal-muṟaiyāṉ' mirrors this structure, meaning 'by way of ruin or death'. The poet emphasizes that when hatred develops within one's own circle, it does not just cause minor setbacks; instead, it systematically delivers numerous fatal afflictions that inevitably lead to complete destruction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

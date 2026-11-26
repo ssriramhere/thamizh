@@ -5,34 +5,34 @@
    "parts": [
     {
      "text": "நயன்",
-     "lemma": "நயன்",
-     "gloss": "goodness"
+     "lemma": "நயம்",
+     "gloss": "benevolence"
     },
     {
      "text": "உடையான்",
      "lemma": "உடையான்",
-     "gloss": "he who possesses"
+     "gloss": "one who possesses"
     }
    ],
-   "gloss": "he who possesses goodness"
+   "gloss": "one who possesses a benevolent nature"
   },
   {
    "surface": "நல்கூர்ந்தான்",
    "parts": [
     {
      "text": "நல்கூர்ந்தான்",
-     "lemma": "நல்கூர்",
+     "lemma": "நல்கூர்தல்",
      "gloss": "he who became poor"
     }
    ],
-   "gloss": "he who became poor"
+   "gloss": "he who has become poor"
   },
   {
    "surface": "ஆதல்",
    "parts": [
     {
      "text": "ஆதல்",
-     "lemma": "ஆ",
+     "lemma": "ஆதல்",
      "gloss": "becoming"
     }
    ],
@@ -43,11 +43,11 @@
    "parts": [
     {
      "text": "செயும்",
-     "lemma": "செய்",
-     "gloss": "which ought to be done"
+     "lemma": "செய்தல்",
+     "gloss": "doing"
     }
    ],
-   "gloss": "which ought to be done"
+   "gloss": "doing"
   },
   {
    "surface": "நீர",
@@ -55,17 +55,17 @@
     {
      "text": "நீர",
      "lemma": "நீர்மை",
-     "gloss": "things of the nature"
+     "gloss": "things of the nature of"
     }
    ],
-   "gloss": "things of the nature"
+   "gloss": "things of a benevolent nature"
   },
   {
    "surface": "செய்யாது",
    "parts": [
     {
      "text": "செய்யாது",
-     "lemma": "செய்",
+     "lemma": "செய்தல்",
      "gloss": "without doing"
     }
    ],
@@ -76,11 +76,11 @@
    "parts": [
     {
      "text": "அமைகலா",
-     "lemma": "அமை",
-     "gloss": "unable to abide"
+     "lemma": "அமைதல்",
+     "gloss": "unable to rest"
     }
    ],
-   "gloss": "unable to abide"
+   "gloss": "unable to remain quiet"
   },
   {
    "surface": "ஆறு",
@@ -88,16 +88,16 @@
     {
      "text": "ஆறு",
      "lemma": "ஆறு",
-     "gloss": "state"
+     "gloss": "way or state"
     }
    ],
-   "gloss": "state"
+   "gloss": "the state"
   }
  ],
- "literal": "Goodness-possessor poor-man becoming, to-be-done fitting-things without-doing unable-to-abide state.",
- "translation": "For a benevolent man, becoming poor is simply the state of being unable to bear not doing the fitting things he ought to do.",
- "modern": "நற்பண்பு உடையவன் வறியவன் ஆதல் என்பது, தான் செய்யத் தகுந்த உதவிகளைச் செய்யாமல் இருக்க முடியாமல் வருந்தும் நிலையாகும்.",
- "explanation": "This couplet defines what poverty truly means for a benevolent person. The word 'நயனுடையான்' refers to someone who possesses the goodness of helping others. For such a person, becoming poor ('நல்கூர்ந்தான் ஆதல்') is not about the personal lack of wealth. Rather, it is the painful state ('ஆறு') of being unable to rest ('அமைகலா') without doing ('செய்யாது') the fitting duties ('செயும் நீர') they are accustomed to performing for society.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A benevolent person becoming poor is the state of being unable to remain quiet without doing the deeds of his nature.",
+ "translation": "The poverty of a benevolent person is nothing but the painful state of being unable to perform those acts of charity that are natural to him.",
+ "modern": "பிறருக்கு உதவி செய்யும் பண்புடையவன் வறியவன் ஆவது என்பது, தன் தகுதிக்கு ஏற்பச் செய்ய வேண்டிய உதவிகளைச் செய்ய முடியாமல் தவிக்கும் நிலையே ஆகும்.",
+ "explanation": "This couplet beautifully redefines poverty for a generous soul. For a benevolent person (நயனுடையான்), poverty is not the lack of wealth for personal comfort, but rather the inability to perform acts of charity (செயும் நீர செய்யாது). The word 'நீர' refers to deeds that are natural to a kind heart, and 'அமைகலா ஆறு' highlights the restless distress they feel when they are unable to help others. Thus, their true impoverishment is the forced cessation of their benevolence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

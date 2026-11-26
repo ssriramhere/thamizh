@@ -5,22 +5,22 @@
    "parts": [
     {
      "text": "அகலாது",
-     "lemma": "அகல்",
-     "gloss": "without moving away"
+     "lemma": "அகலுதல்",
+     "gloss": "without moving far away"
     }
    ],
-   "gloss": "without moving away"
+   "gloss": "without moving far away"
   },
   {
    "surface": "அணுகாது",
    "parts": [
     {
      "text": "அணுகாது",
-     "lemma": "அணுகு",
-     "gloss": "without approaching"
+     "lemma": "அணுகுதல்",
+     "gloss": "without approaching too close"
     }
    ],
-   "gloss": "without approaching"
+   "gloss": "without approaching too close"
   },
   {
    "surface": "தீ",
@@ -38,7 +38,7 @@
    "parts": [
     {
      "text": "காய்வார்",
-     "lemma": "காய்",
+     "lemma": "காய்தல்",
      "gloss": "those who warm themselves"
     }
    ],
@@ -48,14 +48,9 @@
    "surface": "போல்க",
    "parts": [
     {
-     "text": "போல்",
-     "lemma": "போல்",
-     "gloss": "to be like"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "optative suffix"
+     "text": "போல்க",
+     "lemma": "போலுதல்",
+     "gloss": "let them be like"
     }
    ],
    "gloss": "let them be like"
@@ -66,17 +61,17 @@
     {
      "text": "இகல்",
      "lemma": "இகல்",
-     "gloss": "conflict/strength"
+     "gloss": "mighty"
     }
    ],
-   "gloss": "conflict"
+   "gloss": "mighty"
   },
   {
    "surface": "வேந்தர்",
    "parts": [
     {
      "text": "வேந்தர்",
-     "lemma": "வேந்து",
+     "lemma": "வேந்தன்",
      "gloss": "kings"
     }
    ],
@@ -87,28 +82,28 @@
    "parts": [
     {
      "text": "சேர்ந்து",
-     "lemma": "சேர்",
-     "gloss": "having joined"
+     "lemma": "சேர்தல்",
+     "gloss": "having associated with"
     }
    ],
-   "gloss": "having joined"
+   "gloss": "having associated with"
   },
   {
    "surface": "ஒழுகுவார்",
    "parts": [
     {
      "text": "ஒழுகுவார்",
-     "lemma": "ஒழுகு",
+     "lemma": "ஒழுகுதல்",
      "gloss": "those who conduct themselves"
     }
    ],
    "gloss": "those who conduct themselves"
   }
  ],
- "literal": "Without moving away, without approaching, fire those-who-warm-themselves let-them-be-like, conflict kings having-joined those-who-conduct-themselves.",
- "translation": "Those who associate with powerful kings should act like people warming themselves at a fire, neither moving too far away nor approaching too closely.",
- "modern": "வலிமைமிக்க அரசர்களைச் சார்ந்து வாழ்பவர்கள், குளிருக்காகத் தீக்காய்வாரைப் போல அரசரை விட்டு மிகவும் விலகாமலும், மிகவும் நெருங்காமலும் அளவோடு பழக வேண்டும்.",
- "explanation": "This couplet advises those who serve or associate with kings on the proper distance to maintain. It uses the simile of warming oneself at a fire. If one gets too close to the fire, it burns; if one moves too far away, it does not provide warmth. Similarly, being too intimate with powerful rulers can be dangerous, while being too distant means losing their favor and protection.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without moving far away, without approaching too close, like those who warm themselves by fire, let those who associate with and conduct themselves before mighty kings be.",
+ "translation": "Let those who associate with mighty kings conduct themselves like people warming themselves by a fire—neither staying too far away, nor drawing too close.",
+ "modern": "வலிமைமிக்க அரசர்களுடன் பழகி வாழ்பவர்கள், நெருப்பில் குளிர் காய்வோரைப் போல, மிகத் தூரத்திலும் விலகாமல், மிக அருகிலும் நெருங்காமல் பக்குவமாக நடந்து கொள்ள வேண்டும்.",
+ "explanation": "This couplet advises ministers and courtiers on how to maintain a safe and respectful relationship with powerful rulers. It uses the vivid analogy of warming oneself by a fire. If you stand too far away, you do not receive its warmth; if you get too close, you get burned. Similarly, being too distant from a king leads to neglect, while being too familiar or close can provoke anger and ruin. The word 'ikal' here highlights the formidable power of the king, which must be treated with constant caution.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

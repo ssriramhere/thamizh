@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "என",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என",
+     "gloss": "as"
     }
    ],
-   "gloss": "saying"
+   "gloss": "as"
   },
   {
    "surface": "பேர்",
@@ -38,7 +38,7 @@
    "parts": [
     {
      "text": "பெறுதல்",
-     "lemma": "பெறு",
+     "lemma": "பெறுதல்",
      "gloss": "obtaining"
     }
    ],
@@ -55,60 +55,60 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "emphasis"
     }
    ],
-   "gloss": "is good indeed"
+   "gloss": "is indeed good"
   },
   {
    "surface": "நயப்பித்தார்",
    "parts": [
     {
      "text": "நயப்பித்தார்",
-     "lemma": "நயப்பி",
-     "gloss": "he who caused love"
+     "lemma": "நயப்பித்தார்",
+     "gloss": "he who made me love him"
     }
    ],
-   "gloss": "he who caused love"
+   "gloss": "he who made me love him"
   },
   {
    "surface": "நல்காமை",
    "parts": [
     {
      "text": "நல்காமை",
-     "lemma": "நல்கு",
-     "gloss": "not granting"
+     "lemma": "நல்காமை",
+     "gloss": "lack of grace"
     }
    ],
-   "gloss": "not granting"
+   "gloss": "lack of grace"
   },
   {
    "surface": "தூற்றார்",
    "parts": [
     {
      "text": "தூற்றார்",
-     "lemma": "தூற்று",
-     "gloss": "they slander not"
+     "lemma": "தூற்றுதல்",
+     "gloss": "will not slander"
     }
    ],
-   "gloss": "they slander not"
+   "gloss": "will not slander"
   },
   {
    "surface": "எனின்",
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if said"
+     "lemma": "எனின்",
+     "gloss": "if"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "Pallor saying name obtaining is good indeed, he who caused love's not granting they slander not if.",
- "translation": "It is good indeed to be known merely as \"the pale one\", as long as people do not slander the unkindness of the one who made me love him.",
- "modern": "என் மீது அன்பு கொள்ளச் செய்த காதலர் இப்போது எனக்கு அன்பு காட்டாததை ஊரார் பழித்துத் தூற்றமாட்டார்கள் என்றால், நான் பசலை நோய் கொண்டவள் என்று பெயர் பெறுவது எனக்கு நல்லதே ஆகும்.",
- "explanation": "The heroine is suffering from the physical signs of lovesickness, known as pallor, because her lover is away. She knows that the townspeople will notice her condition and gossip about it. However, she prefers that they simply label her condition as a disease called \"pallor\" rather than blaming her lover for his absence and lack of grace. This shows her deep devotion, as she is willing to bear the physical suffering and the stigma of the illness as long as her lover's reputation remains untarnished.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Obtaining the name as 'pallor' is indeed good, if [people] do not slander the lack of grace of him who made me love.",
+ "translation": "It is indeed good for me to acquire the reputation of being pale with grief, if only townspeople do not gossip about the unkindness of the one who won my love.",
+ "modern": "என்னை விரும்பச் செய்தவருடைய அன்பில்லாத் தன்மையை ஊரார் பழித்துப் பேச மாட்டார்கள் என்றால், எனக்குப் 'பசலை நோய் கொண்டவள்' என்னும் பெயர் கிடைப்பது நல்லதே ஆகும்.",
+ "explanation": "The heroine is suffering from 'pasappu', the sallow, pale complexion that appears on a woman's skin due to the grief of separation. She states that she does not mind being known as pale or lovesick, and is willing to bear that reputation. Her only concern is that the townspeople might blame her lover ('nayappittār') for being cruel and abandoning her. If they refrain from slandering his lack of grace ('nalkāmai'), she is perfectly happy to bear the physical mark of her longing.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -16,7 +16,7 @@
    "parts": [
     {
      "text": "படுக்கும்",
-     "lemma": "படுத்து",
+     "lemma": "படு",
      "gloss": "will cause"
     }
    ],
@@ -71,11 +71,11 @@
    "parts": [
     {
      "text": "ஆகல்",
-     "lemma": "ஆகு",
-     "gloss": "prospering"
+     "lemma": "ஆகல்",
+     "gloss": "gaining"
     }
    ],
-   "gloss": "prospering"
+   "gloss": "gaining"
   },
   {
    "surface": "ஊழ்",
@@ -94,10 +94,10 @@
     {
      "text": "உற்ற",
      "lemma": "உறு",
-     "gloss": "reached"
+     "gloss": "occurred"
     }
    ],
-   "gloss": "reached"
+   "gloss": "occurred"
   },
   {
    "surface": "கடை",
@@ -105,16 +105,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "time"
+     "gloss": "when"
     }
    ],
-   "gloss": "time"
+   "gloss": "when"
   }
  ],
- "literal": "Ignorance will-cause loss fate; knowledge will-expand prospering fate reached time.",
- "translation": "The fate that brings loss will cause a person to become ignorant. The fate that brings prosperity, when it arrives, will expand their knowledge.",
- "modern": "அழிவைத் தரும் ஊழ்வினை வரும்போது அது ஒருவனை அறிவற்றவனாக்குகிறது; ஆக்கத்தைத் தரும் ஊழ்வினை வரும்போது அது அவனது அறிவை விரிவடையச் செய்கிறது.",
- "explanation": "This couplet explains how destiny directly influences human intellect and decision-making. The fate of loss clouds a person's judgment, causing them to act foolishly and bring about their own ruin. Conversely, when the fate of prosperity arrives, it expands their wisdom, guiding them naturally toward success. The word 'அகற்றும்' typically means 'removes' or 'dispels', but in this specific context, it takes the sense of 'widens' or 'expands' to contrast with the ignorance caused by bad fate.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The fate of loss will cause ignorance; the fate of gaining, when occurred, will expand knowledge.",
+ "translation": "The destiny of loss makes one foolish, whereas the destiny of gain, when it arrives, expands one's wisdom.",
+ "modern": "இழப்பைத் தரும் ஊழ்வினை ஒருவனை அறிவற்றவனாக ஆக்கும்; ஆக்கத்தைத் தரும் ஊழ்வினை வந்து சேரும்போது, அது அவனது அறிவை விரிவடையச் செய்யும்.",
+ "explanation": "This couplet explains how destiny influences human intellect. When a person is destined to suffer loss, their mind is clouded by ignorance, leading them to make poor decisions. Conversely, when the destiny of prosperity and gain arrives, it naturally expands their wisdom, enabling them to think clearly and succeed. Thus, the power of destiny shapes even the sharpness of one's intellect.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

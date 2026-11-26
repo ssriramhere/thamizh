@@ -4,12 +4,17 @@
    "surface": "முனைமுகத்து",
    "parts": [
     {
-     "text": "முனைமுகத்து",
-     "lemma": "முனைமுகம்",
-     "gloss": "at the battle front"
+     "text": "முனை",
+     "lemma": "முனை",
+     "gloss": "battlefront"
+    },
+    {
+     "text": "முகத்து",
+     "lemma": "முகம்",
+     "gloss": "at the face of"
     }
    ],
-   "gloss": "at the battle front"
+   "gloss": "at the battlefront"
   },
   {
    "surface": "மாற்றலர்",
@@ -17,32 +22,37 @@
     {
      "text": "மாற்றலர்",
      "lemma": "மாற்றலர்",
-     "gloss": "foes"
+     "gloss": "enemies"
     }
    ],
-   "gloss": "foes"
+   "gloss": "enemies"
   },
   {
    "surface": "சாய",
    "parts": [
     {
      "text": "சாய",
-     "lemma": "சாய்",
-     "gloss": "to fall"
+     "lemma": "சாய்தல்",
+     "gloss": "to perish"
     }
    ],
-   "gloss": "to fall"
+   "gloss": "to perish"
   },
   {
    "surface": "வினைமுகத்து",
    "parts": [
     {
-     "text": "வினைமுகத்து",
-     "lemma": "வினைமுகம்",
-     "gloss": "in the execution of action"
+     "text": "வினை",
+     "lemma": "வினை",
+     "gloss": "action"
+    },
+    {
+     "text": "முகத்து",
+     "lemma": "முகம்",
+     "gloss": "at the execution of"
     }
    ],
-   "gloss": "in the execution of action"
+   "gloss": "in the execution of defensive action"
   },
   {
    "surface": "வீறு",
@@ -50,17 +60,17 @@
     {
      "text": "வீறு",
      "lemma": "வீறு",
-     "gloss": "greatness"
+     "gloss": "triumph"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "triumph"
   },
   {
    "surface": "எய்தி",
    "parts": [
     {
      "text": "எய்தி",
-     "lemma": "எய்து",
+     "lemma": "எய்துதல்",
      "gloss": "having attained"
     }
    ],
@@ -71,11 +81,11 @@
    "parts": [
     {
      "text": "மாண்டது",
-     "lemma": "மாண்",
-     "gloss": "that which is glorious"
+     "lemma": "மாண்பு",
+     "gloss": "that which is excellent"
     }
    ],
-   "gloss": "that which is glorious"
+   "gloss": "that which is excellent"
   },
   {
    "surface": "அரண்",
@@ -89,10 +99,10 @@
    "gloss": "fortress"
   }
  ],
- "literal": "At the battle front / foes / to fall / at the face of action / greatness / having attained / that which is glorious / [is] a fortress.",
- "translation": "A true fortress is glorious, achieving greatness in its defensive actions so that foes fall at the battle front.",
- "modern": "போர் முனையில் பகைவர்கள் அழியும்படி, தான் செய்யும் போர்ச் செயல்களில் சிறப்படைந்து மாட்சிமைப்பட்டிருப்பதே சிறந்த அரணாகும்.",
- "explanation": "This couplet defines the active, combative purpose of a fortress. It is not merely a passive wall, but a strategic base that must facilitate the defeat of enemies ('மாற்றலர் சாய'). The phrase 'வினைமுகத்து வீறு எய்தி' highlights the excellence required in executing defensive and offensive operations from within. Thus, a fortress is deemed truly glorious ('மாண்டது') only when it empowers its defenders to crush a siege at the battle front.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "At the battlefront enemies to perish, in the execution of action triumph having attained, that which is excellent is the fortress.",
+ "translation": "An excellent fortress is one that enables its defenders to achieve triumph in their operations, causing the enemies to perish at the very battlefront.",
+ "modern": "போர்க்களத்தில் பகைவர்கள் அழியும்படி, தன் பாதுகாப்புச் செயல்பாடுகளில் பெருமை பெற்று விளங்குவதே சிறந்த அரண் ஆகும்.",
+ "explanation": "This couplet defines the ultimate purpose and excellence of a fortress. A true fortress is not merely a passive barrier; it must actively facilitate the military operations of its defenders. By enabling the defenders to achieve triumph in their strategic actions, it ensures that the invading enemies perish right at the battlefront. Thus, the greatness of a fort lies in its active contribution to victory.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

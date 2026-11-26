@@ -6,31 +6,31 @@
     {
      "text": "உள்ளத்து",
      "lemma": "உள்ளம்",
-     "gloss": "inside / heart"
+     "gloss": "mind"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "he (honorific)"
+     "gloss": "he who is"
     }
    ],
-   "gloss": "he is in the heart"
+   "gloss": "he who resides within the mind"
   },
   {
    "surface": "காதலவராக",
    "parts": [
     {
      "text": "காதலவர்",
-     "lemma": "காதலர்",
-     "gloss": "lover"
+     "lemma": "காதலவர்",
+     "gloss": "beloved"
     },
     {
      "text": "ஆக",
-     "lemma": "ஆ",
-     "gloss": "being"
+     "lemma": "ஆகு",
+     "gloss": "as"
     }
    ],
-   "gloss": "being the lover"
+   "gloss": "as the beloved"
   },
   {
    "surface": "உள்ளி",
@@ -38,10 +38,10 @@
     {
      "text": "உள்ளி",
      "lemma": "உள்ளு",
-     "gloss": "having thought"
+     "gloss": "thinking of"
     }
    ],
-   "gloss": "thinking"
+   "gloss": "thinking of"
   },
   {
    "surface": "நீ",
@@ -63,7 +63,7 @@
      "gloss": "who"
     }
    ],
-   "gloss": "who"
+   "gloss": "whom"
   },
   {
    "surface": "உழை",
@@ -74,7 +74,7 @@
      "gloss": "near"
     }
    ],
-   "gloss": "near"
+   "gloss": "to / near"
   },
   {
    "surface": "சேறி",
@@ -85,14 +85,14 @@
      "gloss": "you go"
     }
    ],
-   "gloss": "you go"
+   "gloss": "do you go"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -107,13 +107,13 @@
      "gloss": "heart"
     }
    ],
-   "gloss": "heart"
+   "gloss": "O heart"
   }
  ],
- "literal": "In the heart he is, the lover being; thinking, you, who near do you go, my heart?",
- "translation": "My heart, the lover is already inside you. Yet you think of him and go searching. To whose place are you going?",
- "modern": "என் நெஞ்சே! காதலர் உனக்குள்ளேயே இருக்க, அவரை நினைத்து நீ யாரிடம் செல்கிறாய்?",
- "explanation": "The speaker addresses her own heart, which is longing for her lover and seems to wander in search of him. She reminds her heart that the lover is already residing within it. Since he is ever-present inside, she asks her heart where else it could possibly go to find him. The word 'உள்ளத்தார்' (he is inside) contrasts with 'யார் உழைச் சேறி' (to whose place do you go), highlighting the irony of searching outside for what is already within.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who is in the mind, as the beloved, thinking of him, you, to whom, do you go, my heart?",
+ "translation": "O my heart! Since my beloved resides constantly within you, whom are you going in search of, and where?",
+ "modern": "என் நெஞ்சே! காதலரானவர் உனக்குள்ளேயே இருக்க, அவரை நினைத்துக்கொண்டு நீ யாரிடம் போகிறாய்?",
+ "explanation": "The heroine addresses her own heart, which is longing to go to her distant lover. She points out the irony that the lover already dwells constantly within her mind (உள்ளத்தார்). Since he is already inside, there is no need for the heart to travel anywhere else to seek him. By asking 'to whom do you go?' (யாருழைச் சேறி), she highlights that any outward journey of the mind is redundant when the beloved is already fully present within.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

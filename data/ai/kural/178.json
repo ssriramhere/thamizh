@@ -4,23 +4,29 @@
    "surface": "அஃகாமை",
    "parts": [
     {
-     "text": "அஃகாமை",
+     "text": "அஃகு",
      "lemma": "அஃகு",
-     "gloss": "not shrinking"
+     "gloss": "to decrease"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominalizing suffix"
     }
    ],
-   "gloss": "not shrinking"
+   "gloss": "non-diminishing"
   },
   {
    "surface": "செல்வத்திற்கு",
    "parts": [
     {
      "text": "செல்வத்திற்கு",
-     "lemma": "செல்வம்",
-     "gloss": "to wealth"
+     "lemma": "செல்வத்திற்கு",
+     "gloss": "to the wealth"
     }
    ],
-   "gloss": "to wealth"
+   "gloss": "to the wealth",
+   "split_unverified": true
   },
   {
    "surface": "யாது",
@@ -37,34 +43,49 @@
    "surface": "எனின்",
    "parts": [
     {
-     "text": "எனின்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "if said"
+     "gloss": "to say"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if (conditional suffix)"
     }
    ],
-   "gloss": "if said"
+   "gloss": "if asked"
   },
   {
    "surface": "வெஃகாமை",
    "parts": [
     {
-     "text": "வெஃகாமை",
+     "text": "வெஃகு",
      "lemma": "வெஃகு",
-     "gloss": "not coveting"
+     "gloss": "to covet"
+    },
+    {
+     "text": "ஆமை",
+     "lemma": "ஆமை",
+     "gloss": "negative nominalizing suffix"
     }
    ],
-   "gloss": "not coveting"
+   "gloss": "non-coveting"
   },
   {
    "surface": "வேண்டும்",
    "parts": [
     {
-     "text": "வேண்டும்",
+     "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "is needed"
+     "gloss": "to need"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual suffix"
     }
    ],
-   "gloss": "is needed"
+   "gloss": "is required"
   },
   {
    "surface": "பிறன்",
@@ -75,7 +96,7 @@
      "gloss": "another man"
     }
    ],
-   "gloss": "another man's"
+   "gloss": "another's"
   },
   {
    "surface": "கை",
@@ -83,7 +104,7 @@
     {
      "text": "கை",
      "lemma": "கை",
-     "gloss": "hand"
+     "gloss": "hand or possession"
     }
    ],
    "gloss": "hand"
@@ -100,10 +121,10 @@
    "gloss": "property"
   }
  ],
- "literal": "not shrinking to wealth what if said, not coveting is needed another's hand property",
- "translation": "If asked what ensures one's wealth does not shrink, it is the resolve to not covet the property in another's hands.",
- "modern": "ஒருவருடைய செல்வம் குறையாமல் இருப்பதற்கு வழி என்னவென்று கேட்டால், அது மற்றவர் கையில் உள்ள பொருளை விரும்பாமல் இருப்பதே ஆகும்.",
- "explanation": "This couplet explains the surest way to protect one's own wealth from diminishing. If one asks what prevents wealth from shrinking, the answer is the strict refusal to covet what belongs to others. The word 'அஃகாமை' means not shrinking or decreasing, while 'வெஃகாமை' means not coveting. By placing these two rhyming concepts together, the poet emphasizes that contentment and respect for others' property are the true safeguards of one's own prosperity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If asked what is the non-diminishing of wealth, it is requiring the non-coveting of the property in another's hand.",
+ "translation": "If you ask how to prevent your own wealth from diminishing, the answer is: you must not covet the property that belongs to another.",
+ "modern": "ஒருவனுடைய செல்வம் குறையாமல் இருப்பதற்கான வழி யாது என்றால், அவன் பிறனுடைய கையில் உள்ள பொருளை விரும்பாமல் இருக்க வேண்டும்.",
+ "explanation": "This couplet explains the secret to preserving one's own wealth. The author states that if a person wishes for their wealth not to decrease (அஃகாமை), the key is to avoid coveting (வெஃகாமை) the possessions of others (பிறன்கைப்பொருள்). Covetousness leads to ruin and loss of what one already has, whereas contentment and respecting others' property secure one's own prosperity. The wordplay between 'அஃகாமை' (non-diminishing) and 'வெஃகாமை' (non-coveting) beautifully links the action of restraint to the result of preservation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

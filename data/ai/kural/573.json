@@ -21,11 +21,11 @@
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becomes"
+     "lemma": "ஆகு",
+     "gloss": "will be / is the use"
     }
    ],
-   "gloss": "what use is"
+   "gloss": "what is the use?"
   },
   {
    "surface": "பாடற்கு",
@@ -49,7 +49,7 @@
     {
      "text": "இயைபு",
      "lemma": "இயைபு",
-     "gloss": "harmony"
+     "gloss": "harmony / agreement"
     }
    ],
    "gloss": "harmony"
@@ -60,7 +60,7 @@
     {
      "text": "இன்று",
      "lemma": "இன்று",
-     "gloss": "is not"
+     "gloss": "not having"
     },
     {
      "text": "ஏல்",
@@ -91,33 +91,38 @@
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becomes"
+     "lemma": "ஆகு",
+     "gloss": "will be / is the use"
     }
    ],
-   "gloss": "what use is"
+   "gloss": "what is the use?"
   },
   {
    "surface": "கண்ணோட்டம்",
    "parts": [
     {
-     "text": "கண்ணோட்டம்",
-     "lemma": "கண்ணோட்டம்",
-     "gloss": "graciousness"
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "eye"
+    },
+    {
+     "text": "ஓட்டம்",
+     "lemma": "ஓட்டம்",
+     "gloss": "run / flow (kindly look)"
     }
    ],
-   "gloss": "graciousness"
+   "gloss": "benignity / kind consideration"
   },
   {
    "surface": "இல்லாத",
    "parts": [
     {
      "text": "இல்லாத",
-     "lemma": "இல்",
-     "gloss": "without"
+     "lemma": "இல்லாத",
+     "gloss": "lacking / without"
     }
    ],
-   "gloss": "without"
+   "gloss": "lacking"
   },
   {
    "surface": "கண்",
@@ -131,10 +136,10 @@
    "gloss": "eye"
   }
  ],
- "literal": "Melody what becomes, to song harmony if not? Eye what becomes, graciousness without eye?",
- "translation": "What is the use of a melody if it does not harmonize with the song? What is the use of eyes if they lack graciousness?",
- "modern": "பாடலோடு பொருத்தம் இல்லை என்றால் பண்ணால் என்ன பயன்? அதுபோலவே, இரக்க குணம் இல்லை என்றால் கண்ணால் என்ன பயன்?",
- "explanation": "This couplet uses a musical analogy to explain the true purpose of eyes. A melody (\"பண்\") is useless if it does not harmonize (\"இயைபு\") with the song it accompanies. In the exact same way, the physical eyes (\"கண்\") serve no real purpose if they lack a gracious, compassionate look (\"கண்ணோட்டம்\"). The repetition of \"என்னாம்\" (what is the use) emphasizes that just as music needs harmony, human sight requires empathy to be meaningful.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Melody what is the use to the song harmony if there is not? Eye what is the use benignity lacking eye?",
+ "translation": "What is the use of a melody if it has no harmony with the song? Likewise, what is the use of eyes if they lack benignity?",
+ "modern": "பாடலோடு பொருத்தம் இல்லை என்றால் இசையினால் என்ன பயன்? அதுபோல, இரக்கக் குணம் இல்லாத கண்களால் என்ன பயன்?",
+ "explanation": "This couplet uses a beautiful analogy to explain the true purpose of sight. A musical melody is meaningless if it does not harmonize with the song being sung. Similarly, physical eyes are of no real use if they lack 'kaṇṇōṭṭam', which is the quality of benignity, compassion, and looking upon others with kindness. The author suggests that the physical organ of the eye only fulfills its true function when it is accompanied by a sympathetic heart.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

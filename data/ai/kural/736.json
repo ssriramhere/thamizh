@@ -15,12 +15,17 @@
    "surface": "அறியா",
    "parts": [
     {
-     "text": "அறியா",
+     "text": "அறி",
      "lemma": "அறி",
-     "gloss": "knowing-not"
+     "gloss": "know"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
     }
    ],
-   "gloss": "knowing not"
+   "gloss": "not knowing"
   },
   {
    "surface": "கெட்ட",
@@ -37,17 +42,13 @@
    "surface": "இடத்தும்",
    "parts": [
     {
-     "text": "இடத்து",
-     "lemma": "இடம்",
-     "gloss": "in the event"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "இடத்தும்",
+     "lemma": "இடத்தும்",
+     "gloss": "even in a ruined condition"
     }
    ],
-   "gloss": "even in the event"
+   "gloss": "even in a ruined condition",
+   "split_unverified": true
   },
   {
    "surface": "வளம்",
@@ -55,21 +56,26 @@
     {
      "text": "வளம்",
      "lemma": "வளம்",
-     "gloss": "wealth"
+     "gloss": "prosperity"
     }
    ],
-   "gloss": "wealth"
+   "gloss": "prosperity"
   },
   {
    "surface": "குன்றா",
    "parts": [
     {
-     "text": "குன்றா",
+     "text": "குன்று",
      "lemma": "குன்று",
-     "gloss": "diminishing-not"
+     "gloss": "diminish"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "negative relative participle suffix"
     }
    ],
-   "gloss": "diminishing not"
+   "gloss": "undiminishing"
   },
   {
    "surface": "நாடு",
@@ -93,7 +99,7 @@
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "they"
+     "gloss": "they (plural suffix)"
     }
    ],
    "gloss": "they say"
@@ -102,17 +108,13 @@
    "surface": "நாட்டின்",
    "parts": [
     {
-     "text": "நாட்டு",
-     "lemma": "நாடு",
-     "gloss": "country"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "among"
+     "text": "நாட்டின்",
+     "lemma": "நாட்டின்",
+     "gloss": "of countries"
     }
    ],
-   "gloss": "among countries"
+   "gloss": "of countries",
+   "split_unverified": true
   },
   {
    "surface": "தலை",
@@ -123,13 +125,13 @@
      "gloss": "head"
     }
    ],
-   "gloss": "head"
+   "gloss": "foremost"
   }
  ],
- "literal": "Ruin knowing-not, ruined place-at-even, wealth diminishing-not country, say-they, of countries head.",
- "translation": "They say the best of countries is one that knows no ruin, and whose wealth does not diminish even when disaster strikes.",
- "modern": "அழிவைச் சந்திக்காததும், ஒருவேளை அழிவு நேர்ந்தாலும் தன் வளம் குறையாததுமான நாடே நாடுகளுள் தலைசிறந்தது என்று கூறுவர்.",
- "explanation": "This couplet defines the resilience of an ideal nation. The phrase \"கேடு அறியா\" means the country naturally avoids destruction. However, the text adds \"கெட்ட இடத்தும்\" (even when ruined), acknowledging that unforeseen disasters might still strike. In such events, a truly great country is one whose resources (\"வளம்\") do not diminish (\"குன்றா\"). The word \"தலை\" (head) is used metaphorically to mean the chief or the best among all countries.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Ruin not-knowing, even in ruined condition prosperity undiminishing country, they say, of countries the foremost.",
+ "translation": "A country that knows no ruin, and whose prosperity does not diminish even if it suffers a setback, is said to be the foremost among nations.",
+ "modern": "அழிவை அறியாததும், ஒருவேளை அழிவு வந்த காலத்திலும் தன் வளம் குறையாததுமான நாடே நாடுகளுள் தலைசிறந்தது என்று கூறுவர்.",
+ "explanation": "This couplet defines the supreme qualities of an ideal nation. The key phrase 'கேடறியா' (knowing no ruin) highlights a land so secure and well-governed that it is free from external invasions and internal disasters. Even if some misfortune or temporary setback ('கெட்ட இடத்தும்') does occur, its inherent strength ensures that its prosperity ('வளம்') remains undiminished ('குன்றா'). Such a resilient and self-sustaining land is declared by wise people to be the crown or foremost ('தலை') among all countries.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

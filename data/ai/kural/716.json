@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "ஆற்றின்",
-     "lemma": "ஆறு",
+     "lemma": "ஆற்றின்",
      "gloss": "from the path"
     }
    ],
-   "gloss": "from the path"
+   "gloss": "from the path",
+   "split_unverified": true
   },
   {
    "surface": "நிலை",
@@ -17,10 +18,10 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "position"
+     "gloss": "standing/firmness"
     }
    ],
-   "gloss": "position"
+   "gloss": "standing/firmness"
   },
   {
    "surface": "தளர்ந்து",
@@ -28,10 +29,10 @@
     {
      "text": "தளர்ந்து",
      "lemma": "தளர்",
-     "gloss": "having faltered"
+     "gloss": "having slipped"
     }
    ],
-   "gloss": "having faltered"
+   "gloss": "having slipped"
   },
   {
    "surface": "அற்றே",
@@ -39,7 +40,7 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "like/similar to"
     },
     {
      "text": "ஏ",
@@ -47,7 +48,7 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "like that indeed"
+   "gloss": "is indeed like"
   },
   {
    "surface": "வியன்",
@@ -55,10 +56,10 @@
     {
      "text": "வியன்",
      "lemma": "வியன்",
-     "gloss": "vast"
+     "gloss": "wide/vast"
     }
    ],
-   "gloss": "vast"
+   "gloss": "wide/vast"
   },
   {
    "surface": "புலம்",
@@ -66,10 +67,10 @@
     {
      "text": "புலம்",
      "lemma": "புலம்",
-     "gloss": "knowledge"
+     "gloss": "knowledge/learning"
     }
    ],
-   "gloss": "knowledge"
+   "gloss": "knowledge/learning"
   },
   {
    "surface": "ஏற்று",
@@ -77,32 +78,33 @@
     {
      "text": "ஏற்று",
      "lemma": "ஏல்",
-     "gloss": "having accepted"
+     "gloss": "accepting"
     }
    ],
-   "gloss": "having accepted"
+   "gloss": "accepting"
   },
   {
    "surface": "உணர்வார்",
    "parts": [
     {
      "text": "உணர்வார்",
-     "lemma": "உணர்",
+     "lemma": "உணர்வார்",
      "gloss": "those who understand"
     }
    ],
-   "gloss": "those who understand"
+   "gloss": "those who understand",
+   "split_unverified": true
   },
   {
    "surface": "முன்னர்",
    "parts": [
     {
      "text": "முன்னர்",
-     "lemma": "முன்",
-     "gloss": "in front of"
+     "lemma": "முன்னர்",
+     "gloss": "before/in front of"
     }
    ],
-   "gloss": "in front of"
+   "gloss": "before/in front of"
   },
   {
    "surface": "இழுக்கு",
@@ -110,16 +112,16 @@
     {
      "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "slip"
+     "gloss": "slip/mistake"
     }
    ],
-   "gloss": "slip"
+   "gloss": "a slip/mistake"
   }
  ],
- "literal": "From the path / position / having faltered / like that indeed / vast / knowledge / having accepted / those who understand / in front of / slip.",
- "translation": "Making a slip before an audience that grasps vast knowledge is exactly like losing one's footing and falling from the path.",
- "modern": "பரந்த அறிவினை ஏற்று உணரும் அறிஞர்கள் முன்னே பேசும்போது பிழை செய்வது, நடக்கும் வழியில் நிலைதடுமாறி விழுவதற்குச் சமமாகும்.",
- "explanation": "This couplet compares making a mistake while speaking to a learned audience to physically slipping and falling on a path. The word 'ஆறு' means a path or way, and 'நிலை தளர்ந்து' means losing one's balance or footing. The phrase 'வியன் புலம் ஏற்று உணர்வார்' refers to scholars who possess vast knowledge and can readily grasp what is being said. A slip of the tongue or an error in logic in front of such an audience is as dangerous and irreversible as losing one's footing on a journey.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Like slipping from a firm path is a slip of speech before those who accept and understand vast knowledge.",
+ "translation": "Making a slip of speech before those who can receive and understand vast knowledge is like losing one's footing and falling from a safe path.",
+ "modern": "பரந்த அறிவை ஏற்று ஆராயும் வல்லமை உடையவர்கள் முன்னிலையில், ஒருவர் பேசும்போது தவறு செய்வது என்பது, நல்ல வழியில் செல்லும்போது நிலை தடுமாறி விழுவதைப் போன்றதாகும்.",
+ "explanation": "This couplet emphasizes the gravity of making a mistake when speaking before an audience of highly learned and discerning scholars. The poet compares a slip of tongue or an error in argument before such an audience to a traveler losing their footing and falling while walking on a well-established path. Just as a fall on a smooth path is highly embarrassing and damaging, an intellectual slip before those who truly understand vast subjects ruins one's reputation instantly. Therefore, one must be extremely careful and precise when speaking in front of wise people.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

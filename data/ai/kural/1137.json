@@ -6,10 +6,10 @@
     {
      "text": "கடல்",
      "lemma": "கடல்",
-     "gloss": "sea"
+     "gloss": "ocean"
     }
    ],
-   "gloss": "sea"
+   "gloss": "ocean"
   },
   {
    "surface": "அன்ன",
@@ -38,7 +38,7 @@
    "parts": [
     {
      "text": "உழந்து",
-     "lemma": "உழ",
+     "lemma": "உழல்",
      "gloss": "having suffered"
     },
     {
@@ -47,7 +47,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even having suffered"
+   "gloss": "even though suffering"
   },
   {
    "surface": "மடல்",
@@ -55,10 +55,10 @@
     {
      "text": "மடல்",
      "lemma": "மடல்",
-     "gloss": "palmyra stem"
+     "gloss": "palmyra-horse"
     }
    ],
-   "gloss": "palmyra stem"
+   "gloss": "palmyra-horse"
   },
   {
    "surface": "ஏறா",
@@ -85,7 +85,7 @@
      "gloss": "than"
     }
    ],
-   "gloss": "than woman"
+   "gloss": "than a woman"
   },
   {
    "surface": "பெருந்தக்கது",
@@ -93,10 +93,11 @@
     {
      "text": "பெருந்தக்கது",
      "lemma": "பெருந்தக்கது",
-     "gloss": "great thing"
+     "gloss": "greatly worthy thing"
     }
    ],
-   "gloss": "great thing"
+   "gloss": "greatly worthy thing",
+   "split_unverified": true
   },
   {
    "surface": "இல்",
@@ -104,16 +105,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "not"
+   "gloss": "there is not"
   }
  ],
- "literal": "sea like desire even having suffered, palmyra-stem not mounting than woman great thing not",
- "translation": "Even when suffering a desire as vast as the sea, there is nothing greater than a woman who refrains from mounting the palmyra stem.",
- "modern": "கடல் போன்ற காமத் துன்பத்தை அனுபவித்தாலும், மடல் ஏறாத பெண்ணின் பெருமையை விடச் சிறந்த பெருமை வேறு இல்லை.",
- "explanation": "The speaker marvels at the immense self-restraint of women. Though she suffers from a desire as vast as the sea ('கடல் அன்ன காமம்'), she endures it without resorting to the extreme public act of mounting the palmyra stem ('மடல் ஏறா'). Therefore, there is nothing greater than the dignity and modesty of a woman.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Ocean-like desire even though suffering, palmyra-horse not mounting, than woman, greatly worthy thing there is not.",
+ "translation": "There is nothing more greatly worthy than a woman who, even though suffering from a desire as vast as the ocean, does not mount the palmyra-horse.",
+ "modern": "கடல் போன்ற காம நோயால் துன்புற்றாலும், மடலேறாத பெண்ணை விடப் பெருமைக்குரியவர் வேறு யாரும் இல்லை.",
+ "explanation": "In classical Tamil love poetry, a man suffering from intense, unrequited love may threaten to ride a 'maḍal' (a painful horse made of rough palmyra stems) to publicly declare his grief. However, women are expected to maintain their modesty and never resort to this extreme public act. This couplet praises the restraint of women, stating that there is nothing more noble or worthy of respect than a woman who bears a desire as vast as the ocean without ever resorting to mounting the palmyra-horse. Her self-control and adherence to modesty, even under immense emotional suffering, represent the pinnacle of dignity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

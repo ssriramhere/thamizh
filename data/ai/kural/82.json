@@ -15,9 +15,14 @@
    "surface": "புறத்ததா",
    "parts": [
     {
-     "text": "புறத்ததா",
-     "lemma": "புறத்ததா",
-     "gloss": "being outside"
+     "text": "புறத்தது",
+     "lemma": "புறத்தது",
+     "gloss": "that which is outside"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆகு",
+     "gloss": "being"
     }
    ],
    "gloss": "being outside"
@@ -38,7 +43,7 @@
    "parts": [
     {
      "text": "உண்டல்",
-     "lemma": "உண்டல்",
+     "lemma": "உண்ணல்",
      "gloss": "eating"
     }
    ],
@@ -50,10 +55,10 @@
     {
      "text": "சாவா",
      "lemma": "சா",
-     "gloss": "non-dying"
+     "gloss": "not dying"
     }
    ],
-   "gloss": "non-dying"
+   "gloss": "death-preventing"
   },
   {
    "surface": "மருந்து",
@@ -64,20 +69,15 @@
      "gloss": "medicine"
     }
    ],
-   "gloss": "medicine"
+   "gloss": "medicine or nectar of immortality"
   },
   {
    "surface": "எனினும்",
    "parts": [
     {
-     "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if said"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "even"
+     "text": "எனினும்",
+     "lemma": "எனின்",
+     "gloss": "even if it is"
     }
    ],
    "gloss": "even if it is"
@@ -86,29 +86,34 @@
    "surface": "வேண்டற்பாற்று",
    "parts": [
     {
-     "text": "வேண்டற்பாற்று",
-     "lemma": "வேண்டற்பாற்று",
-     "gloss": "of desirable nature"
+     "text": "வேண்டல்",
+     "lemma": "வேண்டு",
+     "gloss": "desiring"
+    },
+    {
+     "text": "பாற்று",
+     "lemma": "பால்",
+     "gloss": "nature"
     }
    ],
-   "gloss": "of desirable nature"
+   "gloss": "of a desirable nature"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
-     "gloss": "is not"
+     "lemma": "அன்று",
+     "gloss": "it is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "it is not"
   }
  ],
- "literal": "guest being outside oneself eating non-dying medicine even if desirable nature it is not.",
- "translation": "Even if it is the medicine of immortality, eating it all by oneself while a guest waits outside is not to be desired.",
- "modern": "விருந்தினர் வீட்டின் வெளியே காத்திருக்க, சாவாமையைத் தரும் அமிழ்தமே ஆனாலும் அதனைத் தான் மட்டும் உண்பது விரும்பத்தக்கது அன்று.",
- "explanation": "This couplet emphasizes the supreme importance of hospitality in classical Tamil culture. The phrase 'சாவா மருந்து' refers to a medicine that prevents death, often understood as the nectar of immortality. The poet declares that even if one possesses such a miraculous substance, consuming it alone while a guest remains unfed outside is entirely undesirable. The words 'தான் உண்டல்' (eating by oneself) contrast sharply with the communal and generous spirit expected of a householder.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "While a guest is outside, eating by oneself, even if it is the medicine of immortality, is not a thing to be desired.",
+ "translation": "Even if it is the nectar of immortality that prevents death, eating it alone while a guest is kept waiting outside is not a worthy thing to do.",
+ "modern": "விருந்தினர் வெளியே இருக்கும்போது, தான் மட்டும் தனியாக உண்பது, அது சாகா வரம் தரும் அமிழ்தமாகவே இருந்தாலும், விரும்பத்தக்கது அன்று.",
+ "explanation": "This couplet highlights the supreme value of hospitality. It argues that even if one possesses 'cāvā maruntu'—the legendary nectar of immortality that prevents death—it is improper to consume it alone while a guest is waiting outside. The key contrast is between 'viruntu' (guest) being outside ('puṟattatā') and 'tāṉ uṇṭal' (eating by oneself). By using the most precious substance imaginable as an example, the poet emphasizes that sharing food with others takes absolute precedence over one's own self-preservation.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

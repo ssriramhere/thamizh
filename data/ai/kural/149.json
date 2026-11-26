@@ -6,21 +6,26 @@
     {
      "text": "நலக்கு",
      "lemma": "நலம்",
-     "gloss": "to goodness"
+     "gloss": "for virtue"
     }
    ],
-   "gloss": "to goodness"
+   "gloss": "for virtue"
   },
   {
    "surface": "உரியார்",
    "parts": [
     {
-     "text": "உரியார்",
-     "lemma": "உரியார்",
-     "gloss": "those who are entitled"
+     "text": "உரி",
+     "lemma": "உரி",
+     "gloss": "right"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they who"
     }
    ],
-   "gloss": "those who are entitled"
+   "gloss": "those who are worthy"
   },
   {
    "surface": "யார்",
@@ -38,11 +43,11 @@
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
-     "gloss": "if asked"
+     "lemma": "எனின்",
+     "gloss": "if you ask"
     }
    ],
-   "gloss": "if asked"
+   "gloss": "if you ask"
   },
   {
    "surface": "நாமநீர்",
@@ -50,18 +55,23 @@
     {
      "text": "நாமநீர்",
      "lemma": "நாமநீர்",
-     "gloss": "fearful water"
+     "gloss": "dreadful ocean"
     }
    ],
-   "gloss": "fearful water"
+   "gloss": "dreadful ocean"
   },
   {
    "surface": "வைப்பின்",
    "parts": [
     {
-     "text": "வைப்பின்",
+     "text": "வைப்பு",
      "lemma": "வைப்பு",
-     "gloss": "in the world"
+     "gloss": "world"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "in"
     }
    ],
    "gloss": "in the world"
@@ -70,9 +80,14 @@
    "surface": "பிறர்க்கு",
    "parts": [
     {
-     "text": "பிறர்க்கு",
+     "text": "பிறர்",
      "lemma": "பிறர்",
-     "gloss": "to others"
+     "gloss": "others"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to others"
@@ -81,9 +96,14 @@
    "surface": "உரியாள்",
    "parts": [
     {
-     "text": "உரியாள்",
-     "lemma": "உரியாள்",
-     "gloss": "she who belongs"
+     "text": "உரி",
+     "lemma": "உரி",
+     "gloss": "belonging"
+    },
+    {
+     "text": "ஆள்",
+     "lemma": "ஆள்",
+     "gloss": "she who"
     }
    ],
    "gloss": "she who belongs"
@@ -94,27 +114,32 @@
     {
      "text": "தோள்",
      "lemma": "தோள்",
-     "gloss": "shoulder"
+     "gloss": "shoulders"
     }
    ],
-   "gloss": "shoulder"
+   "gloss": "shoulders"
   },
   {
    "surface": "தோயாதார்",
    "parts": [
     {
-     "text": "தோயாதார்",
-     "lemma": "தோயாதார்",
-     "gloss": "those who do not touch"
+     "text": "தோய்",
+     "lemma": "தோய்",
+     "gloss": "touch"
+    },
+    {
+     "text": "ஆதார்",
+     "lemma": "ஆதார்",
+     "gloss": "those who do not"
     }
    ],
    "gloss": "those who do not touch"
   }
  ],
- "literal": "To goodness entitled who if asked, fearful water in the world, to others she who belongs shoulder those who do not touch.",
- "translation": "If asked who in this sea-girt world is entitled to true goodness, it is those who do not embrace the shoulders of another man's wife.",
- "modern": "அச்சம் தரும் கடலால் சூழப்பட்ட இவ்வுலகில் நன்மைகளுக்கு உரியவர்கள் யார் என்றால், பிறருக்கு உரியவளின் தோள்களைத் தழுவாதவர்களே ஆவர்.",
- "explanation": "The couplet asks a rhetorical question about who truly deserves goodness and virtue in this vast world. The answer is those who strictly refrain from touching the shoulders of a woman who belongs to another. The phrase 'fearful water' (நாமநீர்) refers to the awe-inspiring ocean that surrounds the earth, emphasizing the vastness of the world in contrast to the strict, intimate moral boundary of not desiring another's wife.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "For virtue those who are worthy who if you ask, in the dread-water world, to others she who belongs shoulders those who do not touch.",
+ "translation": "If you ask, 'Who are those worthy of virtue in this world surrounded by the dread ocean?' They are those who do not embrace the shoulders of a woman who belongs to another.",
+ "modern": "அச்சம் தரும் கடல் சூழ்ந்த இவ்வுலகத்தில், அறத்திற்கு உரியவர் யார் என்று கேட்டால், அவர் பிறனுக்கு உரியவளின் தோள்களைத் தீண்டாதவர் ஆவார்.",
+ "explanation": "This couplet defines the ultimate standard of virtue in the world. The poet uses the phrase 'நாமநீர் வைப்பு' (the world surrounded by the terrifying, vast ocean) to establish a grand, global scale. Within this vast world, the highest moral excellence is attributed to those who possess the self-control to never embrace another man's wife ('பிறர்க்குரியாள் தோள்தோயாதார்'). Their restraint is marked as the defining qualification for true goodness.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

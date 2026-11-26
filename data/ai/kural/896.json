@@ -20,14 +20,19 @@
    "surface": "சுடப்படினும்",
    "parts": [
     {
-     "text": "சுடப்படின்",
-     "lemma": "சுடப்படு",
-     "gloss": "if burnt"
+     "text": "சுட",
+     "lemma": "சுடு",
+     "gloss": "to burn"
     },
     {
-     "text": "உம்",
+     "text": "படு",
+     "lemma": "படு",
+     "gloss": "to undergo"
+    },
+    {
+     "text": "இனும்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even if"
     }
    ],
    "gloss": "even if burnt"
@@ -38,10 +43,10 @@
     {
      "text": "உய்வு",
      "lemma": "உய்வு",
-     "gloss": "survival"
+     "gloss": "escape"
     }
    ],
-   "gloss": "survival"
+   "gloss": "escape"
   },
   {
    "surface": "உண்டாம்",
@@ -49,26 +54,31 @@
     {
      "text": "உண்டு",
      "lemma": "உண்டு",
-     "gloss": "exists"
+     "gloss": "there is"
     },
     {
      "text": "ஆம்",
-     "lemma": "ஆகு",
+     "lemma": "ஆம்",
      "gloss": "will be"
     }
    ],
-   "gloss": "there is"
+   "gloss": "there may be"
   },
   {
    "surface": "உய்யார்",
    "parts": [
     {
-     "text": "உய்யார்",
+     "text": "உய்",
      "lemma": "உய்",
-     "gloss": "they will not survive"
+     "gloss": "to escape"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "they will not"
     }
    ],
-   "gloss": "they will not survive"
+   "gloss": "they will not escape"
   },
   {
    "surface": "பெரியார்",
@@ -87,27 +97,32 @@
     {
      "text": "பிழைத்து",
      "lemma": "பிழை",
-     "gloss": "having wronged"
+     "gloss": "having offended"
     }
    ],
-   "gloss": "having wronged"
+   "gloss": "having offended"
   },
   {
    "surface": "ஒழுகுவார்",
    "parts": [
     {
-     "text": "ஒழுகுவார்",
+     "text": "ஒழுகு",
      "lemma": "ஒழுகு",
-     "gloss": "those who behave"
+     "gloss": "to behave"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "those who"
     }
    ],
    "gloss": "those who behave"
   }
  ],
- "literal": "By fire even if burnt survival there is; they will not survive great ones having wronged those who behave.",
- "translation": "Even those burnt by a fire might find a way to survive, but those who live by wronging the great will not escape.",
- "modern": "நெருப்பால் சுடப்பட்டாலும் ஒருவர் தப்பிப் பிழைத்துக்கொள்ள முடியும்; ஆனால் ஆற்றல் மிக்க பெரியவர்களுக்குத் தீங்கு செய்து வாழ்பவர்கள் தப்பவே மாட்டார்கள்.",
- "explanation": "This couplet contrasts the physical danger of fire with the existential danger of offending great people. Even if someone is caught in a fire and severely burnt, there is still a chance they might escape and survive ('உய்வு உண்டாம்'). However, those who conduct their lives by wronging powerful and great individuals have absolutely no chance of survival ('உய்யார்'). The repetition of the root 'உய்' (to survive or escape) emphasizes that the wrath of the great is far more inescapable and destructive than fire itself.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By fire even if burnt, escape there may be; they will not escape, great ones having offended who behave.",
+ "translation": "Even if one is burnt by fire, there may be a way to survive; but those who behave offensively towards great people will never escape destruction.",
+ "modern": "நெருப்பினால் சுடப்பட்டாலும் தப்பிப் பிழைக்க வழி உண்டு; ஆனால், பெரியவர்களுக்குத் தீங்கு செய்து வாழ்பவர்கள் தப்பிப் பிழைக்க மாட்டார்கள்.",
+ "explanation": "This couplet warns of the absolute ruin that comes from offending great people. The poet uses a powerful contrast with fire: even if a person is physically caught in a fire, there is still a rare chance of survival. However, for those who behave disrespectfully or act against great minds, there is absolutely no escape from ruin. The word 'உய்வு' refers to survival or escape, while 'பிழைத்து' here carries the meaning of committing a wrong or offense. The verse emphasizes that moral and social transgressions against the wise are far more destructive than physical elements.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

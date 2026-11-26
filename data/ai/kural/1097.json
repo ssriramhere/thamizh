@@ -6,10 +6,10 @@
     {
      "text": "செறாஅ",
      "lemma": "செறு",
-     "gloss": "not being angry"
+     "gloss": "without anger"
     }
    ],
-   "gloss": "unangry"
+   "gloss": "without anger"
   },
   {
    "surface": "சிறுசொல்லும்",
@@ -17,20 +17,15 @@
     {
      "text": "சிறு",
      "lemma": "சிறுமை",
-     "gloss": "small"
+     "gloss": "harsh"
     },
     {
-     "text": "சொல்",
+     "text": "சொல்லும்",
      "lemma": "சொல்",
-     "gloss": "word"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "word and"
     }
    ],
-   "gloss": "and petty words"
+   "gloss": "and the harsh words"
   },
   {
    "surface": "செற்றார்",
@@ -38,10 +33,10 @@
     {
      "text": "செற்றார்",
      "lemma": "செறு",
-     "gloss": "angry ones"
+     "gloss": "enemies"
     }
    ],
-   "gloss": "angry people"
+   "gloss": "enemies"
   },
   {
    "surface": "போல்",
@@ -58,14 +53,9 @@
    "surface": "நோக்கும்",
    "parts": [
     {
-     "text": "நோக்கு",
+     "text": "நோக்கும்",
      "lemma": "நோக்கு",
-     "gloss": "look"
-    },
-    {
-     "text": "உம்",
-     "lemma": "உம்",
-     "gloss": "and"
+     "gloss": "look and"
     }
    ],
    "gloss": "and the look"
@@ -76,10 +66,10 @@
     {
      "text": "உறாஅர்",
      "lemma": "உறு",
-     "gloss": "unattached ones"
+     "gloss": "strangers"
     }
    ],
-   "gloss": "unattached people"
+   "gloss": "strangers"
   },
   {
    "surface": "போன்று",
@@ -87,10 +77,10 @@
     {
      "text": "போன்று",
      "lemma": "போல்",
-     "gloss": "acting like"
+     "gloss": "seeming like"
     }
    ],
-   "gloss": "acting like"
+   "gloss": "seeming like"
   },
   {
    "surface": "உற்றார்",
@@ -98,10 +88,10 @@
     {
      "text": "உற்றார்",
      "lemma": "உறு",
-     "gloss": "attached ones"
+     "gloss": "lovers"
     }
    ],
-   "gloss": "attached people"
+   "gloss": "lovers"
   },
   {
    "surface": "குறிப்பு",
@@ -112,13 +102,13 @@
      "gloss": "sign"
     }
    ],
-   "gloss": "sign"
+   "gloss": "the sign"
   }
  ],
- "literal": "Unangry petty words and the look like angry ones, acting like unattached ones, are the attached ones' sign.",
- "translation": "Feigned harsh words spoken without real anger and looks that mimic an enemy are the secret signs of lovers who pretend to be strangers.",
- "modern": "உண்மையில் கோபம் இல்லாமல் சொல்லப்படும் சிறுமையான சொற்களும், பகைவர்களைப் போலப் பார்க்கும் பார்வையும், தமக்குள் எந்த உறவும் இல்லாதவர்கள் போல நடிக்கும் காதலர்களின் குறிப்புகளாகும்.",
- "explanation": "This couplet describes the secret communication between lovers when they are in public. Though they pretend to be strangers who have no connection, their true attachment is revealed through their behavior. They may speak petty, harsh words and cast angry glances, but these are done without any real anger. These feigned negative interactions are actually intimate signs of their deep mutual affection.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without anger, the harsh words and, like enemies, the look, of those who love, seeming like strangers, are the signs.",
+ "translation": "The harsh words spoken without real anger, and the hostile look resembling that of an enemy, are the subtle signs of lovers who pretend to be strangers.",
+ "modern": "கோபம் இல்லாமல் பேசும் கடுமையான சொல்லும், பகைவரைப் போலப் பார்க்கும் பார்வையும், அந்நியரைப் போல நடிக்கும் காதலர்களின் குறிப்புகளாகும்.",
+ "explanation": "This couplet describes the playful behavior of lovers who pretend to be distant or angry in public. The poet explains that the seemingly harsh words spoken without any real anger (செறாஅச் சிறுசொல்) and the cold glance that resembles an enemy's look (செற்றார்போல் நோக்கு) are actually the subtle signs (குறிப்பு) of lovers (உற்றார்) who are only pretending to be strangers (உறாஅர்போன்று). These outward signs of hostility are a facade to hide their deep mutual affection from others. By understanding these signs, one can perceive their true love despite their feigned indifference.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

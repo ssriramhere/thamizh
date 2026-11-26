@@ -16,26 +16,26 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even/all"
+     "gloss": "even"
     }
    ],
-   "gloss": "any matter"
+   "gloss": "any matter whatsoever"
   },
   {
    "surface": "ஓரார்",
    "parts": [
     {
      "text": "ஓர்",
-     "lemma": "ஓர்",
-     "gloss": "to listen"
+     "lemma": "ஓரு",
+     "gloss": "pry into/investigate"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "negative suffix"
+     "gloss": "they will not"
     }
    ],
-   "gloss": "do not eavesdrop"
+   "gloss": "they will not pry into"
   },
   {
    "surface": "தொடரார்",
@@ -43,15 +43,15 @@
     {
      "text": "தொடர்",
      "lemma": "தொடர்",
-     "gloss": "to pursue"
+     "gloss": "pursue/follow up"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "negative suffix"
+     "gloss": "they will not"
     }
    ],
-   "gloss": "do not pursue"
+   "gloss": "they will not pursue"
   },
   {
    "surface": "மற்று",
@@ -59,7 +59,7 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "but"
+     "gloss": "but/then"
     }
    ],
    "gloss": "but"
@@ -73,14 +73,9 @@
      "gloss": "that"
     },
     {
-     "text": "பொருள்",
+     "text": "பொருளை",
      "lemma": "பொருள்",
-     "gloss": "matter"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "matter (accusative)"
     }
    ],
    "gloss": "that matter"
@@ -91,7 +86,7 @@
     {
      "text": "விட்ட",
      "lemma": "விடு",
-     "gloss": "let out"
+     "gloss": "disclosed/let out"
     },
     {
      "text": "கால்",
@@ -99,7 +94,7 @@
      "gloss": "when"
     }
    ],
-   "gloss": "when revealed"
+   "gloss": "when disclosed"
   },
   {
    "surface": "கேட்க",
@@ -107,15 +102,15 @@
     {
      "text": "கேள்",
      "lemma": "கேள்",
-     "gloss": "to listen"
+     "gloss": "hear/listen"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "optative suffix"
+     "gloss": "let one"
     }
    ],
-   "gloss": "let one listen"
+   "gloss": "let them listen to"
   },
   {
    "surface": "மறை",
@@ -126,13 +121,13 @@
      "gloss": "secret"
     }
    ],
-   "gloss": "secret"
+   "gloss": "the secret"
   }
  ],
- "literal": "Any matter, do not eavesdrop, do not pursue; but that matter when revealed, let one listen to the secret.",
- "translation": "Do not eavesdrop or pry into any matter. But when the ruler willingly reveals that matter, then listen to the secret.",
- "modern": "அரசர் பேசும் எந்தவொரு செய்தியையும் ஒட்டுக்கேட்கக் கூடாது; அதைப்பற்றித் துருவிக் கேட்கவும் கூடாது. அவராகவே அந்தச் செய்தியைச் சொல்லும் போது மட்டும் அந்த இரகசியத்தைக் கேட்க வேண்டும்.",
- "explanation": "This couplet advises on how to handle a ruler's confidential matters. The words 'ஓரார்' (do not eavesdrop) and 'தொடரார்' (do not pursue) instruct the courtier never to spy on or pry into private discussions. The couplet concludes that one should only listen to a secret ('மறை') when the ruler willingly shares it ('விட்டக்கால்'), thereby maintaining trust and proper boundaries.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Any matter whatsoever they will not pry into, they will not pursue; but when that matter is disclosed, let them listen to the secret.",
+ "translation": "Those who associate with rulers should never pry into any of their affairs, nor pursue them with questions; but when the ruler himself chooses to disclose a secret, they may listen to it.",
+ "modern": "அரசரோடு பழகுகின்றவர்கள் எந்த ஒரு விஷயத்தையும் ஆராய்ந்து பார்க்க மாட்டார்கள்; அதனைத் தொடர்ந்து கேட்கவும் மாட்டார்கள். ஆனால், அரசர் அந்த ரகசியத்தை அவராகவே வெளியிடும்போது மட்டும் அதனைக் கேட்க வேண்டும்.",
+ "explanation": "This couplet advises courtiers on how to handle confidential matters in the presence of a ruler. A wise associate does not pry into the ruler's affairs or ask probing questions to uncover secrets. They must show restraint and not pursue matters that are not voluntarily shared. However, if the ruler chooses to disclose a secret on their own accord, the associate may then listen to it. The key words 'ஓரார்' (will not pry) and 'தொடரார்' (will not pursue) emphasize the strict boundaries of curiosity one must maintain around authority.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

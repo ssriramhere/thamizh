@@ -5,8 +5,8 @@
    "parts": [
     {
      "text": "ஒல்லும்",
-     "lemma": "ஒல்",
-     "gloss": "which is possible"
+     "lemma": "ஒல்லுதல்",
+     "gloss": "possible"
     }
    ],
    "gloss": "possible"
@@ -17,21 +17,26 @@
     {
      "text": "கருமம்",
      "lemma": "கருமம்",
-     "gloss": "deed"
+     "gloss": "task"
     }
    ],
-   "gloss": "deed"
+   "gloss": "task"
   },
   {
    "surface": "உடற்றுபவர்",
    "parts": [
     {
-     "text": "உடற்றுபவர்",
-     "lemma": "உடற்று",
-     "gloss": "those who ruin"
+     "text": "உடற்று",
+     "lemma": "உடற்றுதல்",
+     "gloss": "to obstruct"
+    },
+    {
+     "text": "பவர்",
+     "lemma": "அவர்",
+     "gloss": "those who"
     }
    ],
-   "gloss": "those who ruin"
+   "gloss": "those who obstruct"
   },
   {
    "surface": "கேண்மை",
@@ -48,9 +53,14 @@
    "surface": "சொல்லாடார்",
    "parts": [
     {
-     "text": "சொல்லாடார்",
-     "lemma": "சொல்லாடு",
-     "gloss": "without speaking"
+     "text": "சொல்லாடு",
+     "lemma": "சொல்லாடுதல்",
+     "gloss": "to speak"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "not (negative suffix)"
     }
    ],
    "gloss": "without speaking"
@@ -60,28 +70,28 @@
    "parts": [
     {
      "text": "சோர",
-     "lemma": "சோர்",
-     "gloss": "to slip"
+     "lemma": "சோர்தல்",
+     "gloss": "to slacken"
     }
    ],
-   "gloss": "to slip away"
+   "gloss": "to slacken"
   },
   {
    "surface": "விடல்",
    "parts": [
     {
      "text": "விடல்",
-     "lemma": "விடு",
-     "gloss": "letting go"
+     "lemma": "விடுதல்",
+     "gloss": "to abandon"
     }
    ],
-   "gloss": "let go"
+   "gloss": "should abandon"
   }
  ],
- "literal": "Possible deed those-who-ruin friendship, without-speaking to-slip let-go.",
- "translation": "Without saying a word, let slip away the friendship of those who ruin deeds that are possible to achieve.",
- "modern": "முடிக்கக்கூடிய செயலையும் கெடுப்பவர்களின் நட்பை, அவர்களிடம் ஒன்றும் சொல்லாமலேயே மெல்ல நழுவ விட்டுவிட வேண்டும்.",
- "explanation": "This couplet advises on how to handle false friends who secretly sabotage one's efforts. When someone ruins a deed that is otherwise perfectly possible to accomplish ('ஒல்லும் கருமம்'), their friendship ('கேண்மை') is dangerous. The author advises not to confront them or make a scene ('சொல்லாடார்'), but simply to let the relationship gradually slip away and fade ('சோர விடல்').",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The friendship of those who obstruct a possible task, without speaking, let it slacken and abandon.",
+ "translation": "One should quietly let go of the friendship of those who obstruct or delay a task that is easily possible, without even speaking or arguing with them.",
+ "modern": "செய்யக்கூடிய செயலைச் செய்யவிடாமல் தடுப்பவர்களுடைய நட்பை, அவர்களிடம் எதுவும் பேசாமல் மெதுவாக நழுவவிட்டு விலக்கிவிட வேண்டும்.",
+ "explanation": "This couplet advises on how to distance oneself from harmful friends who actively hinder or delay tasks that are otherwise easily achievable. The word 'உடற்றுபவர்' refers to those who obstruct or cause distress, while 'கேண்மை' means friendship. Instead of confronting or arguing with such people, which might lead to unnecessary conflict, the poet suggests letting the relationship quietly slip away ('சோர விடல்') without saying a word ('சொல்லாடார்'). This silent and gradual withdrawal is the safest way to end a toxic association.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

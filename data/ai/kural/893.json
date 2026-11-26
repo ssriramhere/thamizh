@@ -4,14 +4,9 @@
    "surface": "கெடல்",
    "parts": [
     {
-     "text": "கெடு",
-     "lemma": "கெடு",
-     "gloss": "to perish"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "கெடல்",
+     "lemma": "கெடல்",
+     "gloss": "ruin"
     }
    ],
    "gloss": "ruin"
@@ -22,7 +17,7 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
      "text": "இன்",
@@ -30,55 +25,40 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if desired"
+   "gloss": "if one desires"
   },
   {
    "surface": "கேளாது",
    "parts": [
     {
-     "text": "கேள்",
-     "lemma": "கேள்",
-     "gloss": "to listen"
-    },
-    {
-     "text": "ஆது",
-     "lemma": "ஆது",
-     "gloss": "without"
+     "text": "கேளாது",
+     "lemma": "கேளாது",
+     "gloss": "without listening"
     }
    ],
-   "gloss": "without listening"
+   "gloss": "without listening to advice"
   },
   {
    "surface": "செய்க",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செய்க",
      "lemma": "செய்",
-     "gloss": "to do"
-    },
-    {
-     "text": "க",
-     "lemma": "க",
-     "gloss": "let"
+     "gloss": "let one do"
     }
    ],
-   "gloss": "let one do"
+   "gloss": "let one act"
   },
   {
    "surface": "அடல்",
    "parts": [
     {
-     "text": "அடு",
-     "lemma": "அடு",
-     "gloss": "to destroy"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "அடல்",
+     "lemma": "அடல்",
+     "gloss": "destruction"
     }
    ],
-   "gloss": "destroying"
+   "gloss": "destruction"
   },
   {
    "surface": "வேண்டின்",
@@ -86,7 +66,7 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "to desire"
+     "gloss": "desire"
     },
     {
      "text": "இன்",
@@ -94,7 +74,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if desired"
+   "gloss": "if one desires"
   },
   {
    "surface": "ஆற்றுபவர்கண்",
@@ -102,7 +82,7 @@
     {
      "text": "ஆற்றுபவர்",
      "lemma": "ஆற்றுபவர்",
-     "gloss": "those who are capable"
+     "gloss": "those who are capable of action"
     },
     {
      "text": "கண்",
@@ -110,7 +90,7 @@
      "gloss": "towards"
     }
    ],
-   "gloss": "towards those who are capable"
+   "gloss": "towards those who are capable of powerful action"
   },
   {
    "surface": "இழுக்கு",
@@ -124,10 +104,10 @@
    "gloss": "offense"
   }
  ],
- "literal": "Ruin if desired, without listening let one do, destroying if desired towards those who are capable, an offense.",
- "translation": "If one desires their own ruin, let them ignore advice and commit an offense against those capable of destroying them at will.",
- "modern": "தான் கெட்டுப்போக விரும்பினால், ஒருவன் அறிவுரைகளைக் கேட்காமல், நினைத்தவுடனே அழிக்க வல்லவர்களிடத்தில் பிழையைச் செய்யட்டும்.",
- "explanation": "This couplet warns of the fatal consequences of offending powerful people. The phrase 'அடல் வேண்டின் ஆற்றுபவர்' refers to those who have the capability to destroy someone the moment they wish to do so. If a person truly wants to be ruined, the surest way is to ignore all good advice ('கேளாது') and commit an offense ('இழுக்கு') against such formidable individuals. The use of the optative 'செய்க' (let them do) acts as a strong, ironic warning against such foolish behavior.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If ruin is desired, act without listening; if destruction is desired, commit offense towards those who are capable of action.",
+ "translation": "If one desires ruin, let them act without listening to advice; if they desire swift destruction, let them commit an offense against those who have the power to act.",
+ "modern": "ஒருவர் தன் அழிவை விரும்பினால், நல்லோர் அறிவுரையைக் கேட்காமல் செயல்படட்டும்; தன் முடிவை விரும்பினால், ஆற்றல் மிக்கவர்களிடம் தவறு செய்யட்டும்.",
+ "explanation": "This couplet uses powerful irony to warn against self-destructive behavior. The poet suggests that if a person is determined to ruin themselves, they can simply act blindly without listening to any wise counsel. However, if they want to guarantee their immediate and complete destruction, they should go a step further and offend those who possess great power and capability. The word 'āṟṟupavar' highlights individuals who have the strength and means to execute actions, while 'iḻukku' refers to the fatal mistake of transgressing against them.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

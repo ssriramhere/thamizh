@@ -4,12 +4,17 @@
    "surface": "விழைதகையான்",
    "parts": [
     {
-     "text": "விழைதகையான்",
-     "lemma": "விழைதகை",
-     "gloss": "with loving nature"
+     "text": "விழைதகை",
+     "lemma": "விழைதகைமை",
+     "gloss": "desirable nature"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "with (instrumental suffix)"
     }
    ],
-   "gloss": "with loving nature"
+   "gloss": "with a pleasing or desirable nature"
   },
   {
    "surface": "வேண்டி",
@@ -17,32 +22,37 @@
     {
      "text": "வேண்டி",
      "lemma": "வேண்டு",
-     "gloss": "desiring"
+     "gloss": "desiring / loving"
     }
    ],
-   "gloss": "desiring"
+   "gloss": "lovingly / desiring"
   },
   {
    "surface": "இருப்பர்",
    "parts": [
     {
-     "text": "இருப்பர்",
+     "text": "இரு",
      "lemma": "இரு",
-     "gloss": "they will be"
+     "gloss": "remain"
+    },
+    {
+     "text": "ப்பர்",
+     "lemma": "ப்பர்",
+     "gloss": "they will (future/habitual plural suffix)"
     }
    ],
-   "gloss": "they will be"
+   "gloss": "they will remain / abide"
   },
   {
    "surface": "கெழுதகையாற்",
    "parts": [
     {
      "text": "கெழுதகையாற்",
-     "lemma": "கெழுதகை",
-     "gloss": "by intimacy"
+     "lemma": "கெழுதகைமை",
+     "gloss": "by the right of intimate friendship"
     }
    ],
-   "gloss": "by intimacy"
+   "gloss": "by the right of intimate friendship"
   },
   {
    "surface": "கேளாது",
@@ -55,17 +65,17 @@
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
-   "gloss": "without asking"
+   "gloss": "without asking / without consulting"
   },
   {
    "surface": "நட்டார்",
    "parts": [
     {
      "text": "நட்டார்",
-     "lemma": "நட்பு",
+     "lemma": "நண்பர்",
      "gloss": "friends"
     }
    ],
@@ -82,16 +92,16 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if (conditional suffix)"
     }
    ],
    "gloss": "if they do"
   }
  ],
- "literal": "with loving nature desiring they will be by intimacy without asking friends if do",
- "translation": "If friends do something without asking out of intimacy, true friends will gladly accept it with a loving heart.",
- "modern": "நண்பர்கள் உரிமையோடு கேட்காமலேயே ஒரு செயலைச் செய்தால், அதனை அன்போடு விரும்பி ஏற்றுக்கொள்வார்கள்.",
- "explanation": "This couplet explains how true friends react when their companions take liberties. If a friend does something on their behalf without asking for permission, relying on their close intimacy, the other will not be offended. Instead, they will gladly accept and appreciate the action because of their deeply loving nature. The word 'கெழுதகை' highlights the rightful familiarity that true friendship grants.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With a pleasing nature, desiringly they will remain, if, by the right of intimate friendship, without asking, friends do something.",
+ "translation": "If friends do something without asking, taking it as their right of intimacy, wise people will accept it lovingly, appreciating their desirable affection.",
+ "modern": "நெருங்கிய நண்பர்கள் நம்மிடம் கேட்காமலேயே ஒரு செயலைச் செய்தாலும், அதைத் தமக்குரிய உரிமையோடு செய்தார்கள் என்று கருதி, அன்புடையவர்கள் அதனை விரும்பி ஏற்றுக்கொள்வார்கள்.",
+ "explanation": "This couplet highlights the beauty of deep, unquestioning friendship. When intimate friends take the liberty to act on our behalf without consulting us, we should not feel offended. Instead, we should view their action as a privilege of close friendship (கெழுதகைமை) and accept it with joy and affection (விழைதகையான் வேண்டி). True friendship transcends formal permissions, and accepting such actions strengthens the bond.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

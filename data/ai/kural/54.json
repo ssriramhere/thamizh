@@ -11,7 +11,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative case suffix)"
     }
    ],
    "gloss": "than a woman"
@@ -22,10 +22,11 @@
     {
      "text": "பெருந்தக்க",
      "lemma": "பெருந்தக்க",
-     "gloss": "greatly worthy things"
+     "gloss": "of greater worth"
     }
    ],
-   "gloss": "greatly worthy things"
+   "gloss": "of greater worth",
+   "split_unverified": true
   },
   {
    "surface": "யா",
@@ -42,14 +43,9 @@
    "surface": "உள",
    "parts": [
     {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "exist"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "they (neuter plural)"
+     "text": "உள",
+     "lemma": "உள",
+     "gloss": "exist / are there"
     }
    ],
    "gloss": "are there"
@@ -60,7 +56,7 @@
     {
      "text": "கற்பு",
      "lemma": "கற்பு",
-     "gloss": "fidelity"
+     "gloss": "fidelity / strength of character"
     }
    ],
    "gloss": "fidelity"
@@ -71,15 +67,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "say"
+     "gloss": "say / call"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "which is called"
+     "gloss": "adjectival participle suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "திண்மை",
@@ -87,7 +83,7 @@
     {
      "text": "திண்மை",
      "lemma": "திண்மை",
-     "gloss": "firmness"
+     "gloss": "firmness / strength"
     }
    ],
    "gloss": "firmness"
@@ -103,10 +99,10 @@
     {
      "text": "ஆக",
      "lemma": "ஆகு",
-     "gloss": "to become"
+     "gloss": "to be / become"
     }
    ],
-   "gloss": "to exist"
+   "gloss": "to be present"
   },
   {
    "surface": "பெறின்",
@@ -114,7 +110,7 @@
     {
      "text": "பெறு",
      "lemma": "பெறு",
-     "gloss": "obtain"
+     "gloss": "obtain / possess"
     },
     {
      "text": "இன்",
@@ -122,13 +118,13 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if obtained"
+   "gloss": "if one possesses"
   }
  ],
- "literal": "Than a woman, greatly worthy things what exist, fidelity called firmness to exist if obtained?",
- "translation": "What is of greater worth than a woman, if she possesses the firmness known as fidelity?",
- "modern": "கற்பு என்னும் மன உறுதி மட்டும் ஒரு பெண்ணிடம் இருக்குமானால், அவளை விடப் பெருமையுடையவை வேறு என்ன இருக்கின்றன?",
- "explanation": "This couplet asks a rhetorical question to emphasize the supreme value of a woman's fidelity. The word 'கற்பு' refers to chastity or unwavering loyalty, which is described here as a form of 'திண்மை' or mental firmness. If a woman possesses this steadfast strength of character, there is nothing in the world more greatly worthy or precious than her.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than a woman, what things of greater worth are there, if the firmness called fidelity is present?",
+ "translation": "What is of greater worth than a woman, if she possesses the firm strength of character called fidelity?",
+ "modern": "கற்பு என்று சொல்லப்படும் மனஉறுதி ஒரு பெண்ணிடம் இருக்குமானால், அவளை விடப் பெருமைக்குரியவை வேறு என்ன இருக்கின்றன?",
+ "explanation": "This couplet highlights the supreme value of a wife's moral integrity and strength of character. The poet uses the word 'திண்மை', which means firmness or unshakeable strength, to define 'கற்பு' (fidelity), showing it is an active power rather than a passive state. If a woman possesses this inner strength, there is absolutely nothing of greater worth or dignity in life than her.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

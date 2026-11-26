@@ -6,15 +6,15 @@
     {
      "text": "ஊடல்",
      "lemma": "ஊடல்",
-     "gloss": "lovers' quarrel"
+     "gloss": "feigned anger"
     },
     {
      "text": "இன்",
-     "lemma": "இன்",
+     "lemma": "இல்",
      "gloss": "from"
     }
    ],
-   "gloss": "from the lovers' quarrel"
+   "gloss": "from feigned anger"
   },
   {
    "surface": "தோன்றும்",
@@ -22,10 +22,10 @@
     {
      "text": "தோன்றும்",
      "lemma": "தோன்று",
-     "gloss": "appearing"
+     "gloss": "arising"
     }
    ],
-   "gloss": "appearing"
+   "gloss": "which arises"
   },
   {
    "surface": "சிறுதுனி",
@@ -38,10 +38,10 @@
     {
      "text": "துனி",
      "lemma": "துனி",
-     "gloss": "distress"
+     "gloss": "resentment"
     }
    ],
-   "gloss": "slight distress"
+   "gloss": "small resentment"
   },
   {
    "surface": "நல்",
@@ -49,10 +49,10 @@
     {
      "text": "நல்",
      "lemma": "நல்",
-     "gloss": "good"
+     "gloss": "great"
     }
    ],
-   "gloss": "good"
+   "gloss": "great"
   },
   {
    "surface": "அளி",
@@ -71,10 +71,10 @@
     {
      "text": "வாடினும்",
      "lemma": "வாடு",
-     "gloss": "even if it fades"
+     "gloss": "even if it withers"
     }
    ],
-   "gloss": "even if it fades"
+   "gloss": "even if it withers"
   },
   {
    "surface": "பாடு",
@@ -93,16 +93,16 @@
     {
      "text": "பெறும்",
      "lemma": "பெறு",
-     "gloss": "will get"
+     "gloss": "will obtain"
     }
    ],
-   "gloss": "will get"
+   "gloss": "will obtain"
   }
  ],
- "literal": "From the lovers' quarrel appearing small distress, good affection even if it fades, greatness will get.",
- "translation": "The slight distress that arises from a lovers' quarrel brings a sweet reward, even if it makes their good affection seem to fade.",
- "modern": "காதலர்களிடையே ஏற்படும் ஊடலால் தோன்றும் சிறிய துன்பம், அவர்களின் நல்ல அன்பினைச் சிறிது நேரம் வாடச் செய்தாலும், முடிவில் இன்பம் என்னும் பெருமையைப் பெறும்.",
- "explanation": "This couplet explores the emotional value of a lovers' quarrel. The word 'ஊடல்' refers to the feigned anger or sulking between lovers, which causes a 'சிறுதுனி' or slight distress. Although this temporary distress might make their deep affection ('அளி') seem to fade ('வாடினும்') for a moment, it ultimately brings a greater sweetness or value ('பாடு') to their relationship when they reunite. The contrast between the temporary fading of affection and the gaining of greatness highlights how such quarrels only serve to strengthen love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The small resentment that arises from feigned anger, even if great affection withers, will obtain greatness.",
+ "translation": "The brief resentment that arises from a lover's tiff, even if it temporarily withers their deep affection, ultimately brings a greater beauty to their love.",
+ "modern": "ஊடலினால் உண்டாகும் சிறிய வருத்தம், நல்ல அன்பு தற்காலிகமாக வாடினாலும், முடிவில் பெருமையையே தரும்.",
+ "explanation": "This couplet explains how a minor misunderstanding or feigned anger enhances love. The small resentment that arises during such a tiff might make their deep affection seem to wither temporarily. However, this brief period of distance actually intensifies their desire for each other. Ultimately, this experience gains greater value by making their reunion and subsequent love much sweeter.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

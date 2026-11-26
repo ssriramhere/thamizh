@@ -9,7 +9,7 @@
      "gloss": "accumulation"
     }
    ],
-   "gloss": "accumulation"
+   "gloss": "accumulation of wealth"
   },
   {
    "surface": "இவறி",
@@ -20,7 +20,7 @@
      "gloss": "having hoarded"
     }
    ],
-   "gloss": "having hoarded"
+   "gloss": "being miserly"
   },
   {
    "surface": "இசை",
@@ -61,21 +61,22 @@
     {
      "text": "தோற்றம்",
      "lemma": "தோற்றம்",
-     "gloss": "appearance"
+     "gloss": "existence"
     }
    ],
-   "gloss": "appearance"
+   "gloss": "existence"
   },
   {
    "surface": "நிலக்கு",
    "parts": [
     {
      "text": "நிலக்கு",
-     "lemma": "நிலம்",
+     "lemma": "நிலக்கு",
      "gloss": "to the earth"
     }
    ],
-   "gloss": "to the earth"
+   "gloss": "to the earth",
+   "split_unverified": true
   },
   {
    "surface": "பொறை",
@@ -89,10 +90,10 @@
    "gloss": "burden"
   }
  ],
- "literal": "accumulation hoarding fame not-desiring men appearance to-earth burden",
- "translation": "The existence of men who hoard their wealth and do not desire fame is a mere burden to the earth.",
- "modern": "பொருளைச் சேர்த்து வைத்து யாருக்கும் கொடுக்காமல் புகழை விரும்பாத மனிதர்களின் பிறப்பு, இந்தப் பூமிக்கு ஒரு சுமையே ஆகும்.",
- "explanation": "This couplet condemns those who accumulate wealth only to hoard it, showing no desire for the good fame that comes from generosity. The word 'இவறி' means holding on tightly or being miserly with one's accumulation ('ஈட்டம்'). The poet declares that the very existence ('தோற்றம்') of such men serves no purpose and is nothing but a dead weight ('பொறை') upon the earth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Accumulation hoarding, fame not-desiring men's existence, to the earth a burden.",
+ "translation": "The very existence of men who hoard accumulated wealth greedily and do not desire good fame is a mere burden to the earth.",
+ "modern": "செல்வத்தைச் சேர்ப்பதிலேயே குறியாய் இருந்து, புகழை விரும்பாத மனிதர்களின் பிறப்பு, இந்த பூமிக்கு ஒரு பாரமே ஆகும்.",
+ "explanation": "This couplet highlights the futility of hoarding wealth without using it for noble deeds. The word 'ஈட்டம்' refers to the accumulation of riches, while 'இவறி' describes the act of hoarding it greedily. Those who hoard in this manner do not seek 'இசை' (fame), which is earned by being generous to others. The poet concludes that the 'தோற்றம்' (existence or birth) of such useless individuals is nothing but a 'பொறை' (heavy burden) to the 'நிலம்' (earth).",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

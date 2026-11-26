@@ -4,12 +4,22 @@
    "surface": "எல்லார்க்கும்",
    "parts": [
     {
-     "text": "எல்லார்க்கும்",
+     "text": "எல்லார்",
      "lemma": "எல்லார்",
-     "gloss": "about everyone"
+     "gloss": "all people"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to (dative)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "and/even (totalizing)"
     }
    ],
-   "gloss": "about everyone"
+   "gloss": "to everyone"
   },
   {
    "surface": "எல்லாம்",
@@ -17,18 +27,28 @@
     {
      "text": "எல்லாம்",
      "lemma": "எல்லாம்",
-     "gloss": "everything"
+     "gloss": "all things"
     }
    ],
-   "gloss": "everything"
+   "gloss": "all things"
   },
   {
    "surface": "நிகழ்பவை",
    "parts": [
     {
-     "text": "நிகழ்பவை",
-     "lemma": "நிகழ்பவை",
-     "gloss": "things that happen"
+     "text": "நிகழ்",
+     "lemma": "நிகழ்",
+     "gloss": "happen"
+    },
+    {
+     "text": "ப்",
+     "lemma": "ப்",
+     "gloss": "future/present marker"
+    },
+    {
+     "text": "அவை",
+     "lemma": "அவை",
+     "gloss": "they (neuter)"
     }
    ],
    "gloss": "things that happen"
@@ -39,10 +59,11 @@
     {
      "text": "எஞ்ஞான்றும்",
      "lemma": "எஞ்ஞான்றும்",
-     "gloss": "always"
+     "gloss": "always / at all times"
     }
    ],
-   "gloss": "always"
+   "gloss": "always / at all times",
+   "split_unverified": true
   },
   {
    "surface": "வல்",
@@ -50,10 +71,10 @@
     {
      "text": "வல்",
      "lemma": "வல்",
-     "gloss": "swiftly"
+     "gloss": "quickly/thoroughly"
     }
    ],
-   "gloss": "swiftly"
+   "gloss": "quickly / thoroughly"
   },
   {
    "surface": "அறிதல்",
@@ -88,16 +109,16 @@
     {
      "text": "தொழில்",
      "lemma": "தொழில்",
-     "gloss": "duty"
+     "gloss": "duty/work"
     }
    ],
    "gloss": "duty"
   }
  ],
- "literal": "About everyone, everything that happens, at all times, swiftly knowing is the king's duty.",
- "translation": "It is the king's duty to swiftly know everything that happens to everyone at all times.",
- "modern": "நாட்டில் உள்ள எல்லாரைப் பற்றியும் நிகழும் எல்லாவற்றையும் எப்போதும் விரைந்து அறிந்துகொள்வதே ஆட்சியாளரின் கடமையாகும்.",
- "explanation": "This couplet defines the core responsibility of a ruler regarding intelligence gathering. The phrase 'எல்லார்க்கும் எல்லாம் நிகழ்பவை' emphasizes that no person or event is exempt from the ruler's awareness. 'எஞ்ஞான்றும்' means at all times, showing that vigilance must be continuous. The word 'வல்' can mean strongly or swiftly; here it means swiftly, stressing that the ruler must know things immediately to act before situations escalate.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To everyone all things that happen always quickly knowing is the king's duty.",
+ "translation": "To know quickly and at all times everything that happens to everyone is the duty of a king.",
+ "modern": "எல்லாருக்கும் நிகழும் எல்லா நிகழ்வுகளையும் எப்போதும் விரைவாகத் தெரிந்து கொள்வது அரசனின் கடமையாகும்.",
+ "explanation": "This couplet defines the core responsibility of a ruler regarding state intelligence. The phrase 'ellārkkum ellām nikaḻpavai' emphasizes that a king must be aware of everything happening to all people, not just a select few. The words 'eññāṉṟum' (always) and 'val' (quickly) highlight that this information gathering must be continuous and rapid. Knowing these events swiftly allows the ruler to make timely decisions and protect the kingdom from internal and external threats.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

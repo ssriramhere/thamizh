@@ -6,10 +6,10 @@
     {
      "text": "சான்றவர்",
      "lemma": "சான்றவர்",
-     "gloss": "noble ones"
+     "gloss": "noble people"
     }
    ],
-   "gloss": "noble ones"
+   "gloss": "noble people"
   },
   {
    "surface": "சான்றாண்மை",
@@ -17,10 +17,10 @@
     {
      "text": "சான்றாண்மை",
      "lemma": "சான்றாண்மை",
-     "gloss": "perfect goodness"
+     "gloss": "nobility of character"
     }
    ],
-   "gloss": "perfect goodness"
+   "gloss": "nobility of character"
   },
   {
    "surface": "குன்றின்",
@@ -28,7 +28,7 @@
     {
      "text": "குன்று",
      "lemma": "குன்று",
-     "gloss": "to decrease"
+     "gloss": "diminish"
     },
     {
      "text": "இன்",
@@ -36,7 +36,7 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if decreases"
+   "gloss": "if it diminishes"
   },
   {
    "surface": "இருநிலம்",
@@ -52,7 +52,7 @@
      "gloss": "earth"
     }
    ],
-   "gloss": "vast earth"
+   "gloss": "the vast earth"
   },
   {
    "surface": "தான்",
@@ -71,12 +71,12 @@
     {
      "text": "தாங்கு",
      "lemma": "தாங்கு",
-     "gloss": "to bear"
+     "gloss": "bear"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "will not"
+     "gloss": "not"
     }
    ],
    "gloss": "will not bear"
@@ -92,10 +92,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "(expletive)"
+     "gloss": "alas"
     }
    ],
-   "gloss": "alas"
+   "gloss": "indeed (particles of emphasis)"
   },
   {
    "surface": "பொறை",
@@ -106,13 +106,13 @@
      "gloss": "burden"
     }
    ],
-   "gloss": "burden"
+   "gloss": "the burden"
   }
  ],
- "literal": "Noble ones' perfect goodness if decreases, vast earth itself will not bear, alas, burden.",
- "translation": "If the perfect goodness of noble people diminishes, the vast earth itself will be unable to bear its burden.",
- "modern": "சான்றோர்களின் சிறந்த பண்பு குறைந்துவிட்டால், இந்தப் பெரிய பூமியும் தன் பாரத்தைத் தாங்க முடியாமல் போகும்.",
- "explanation": "This couplet emphasizes the foundational importance of noble character to the world. The word 'சான்றவர்' refers to those who are full of excellent qualities, and 'சான்றாண்மை' is their perfect goodness. The poet states that if such people lose their noble nature, the vast earth ('இருநிலம்') will no longer be able to bear its burden ('பொறை'). The particle 'மன்னோ' adds a tone of lament or certainty to this cosmic consequence. It implies that the moral weight of good people is what truly sustains the earth.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If the nobility of noble people diminishes, the vast earth itself indeed will not bear its burden.",
+ "translation": "If the exemplary character of noble people should diminish, even this vast earth would be unable to bear its own burden.",
+ "modern": "சான்றோர்களின் நற்பண்பு குறைந்து போனால், இந்தப் பெரிய பூமியானது தன் பாரத்தைத் தாங்க மாட்டாது.",
+ "explanation": "This couplet highlights the supreme importance of virtuous people in sustaining the world. The poet states that the vast earth (இருநிலம்) is able to bear its heavy burden (பொறை) only because of the moral strength of noble individuals. If the nobility of character (சான்றாண்மை) of these exemplary people (சான்றவர்) begins to decline (குன்றின்), the spiritual and moral foundation of the world is lost, and the physical earth itself will no longer be able to sustain its existence.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

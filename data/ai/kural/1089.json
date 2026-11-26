@@ -17,18 +17,23 @@
     {
      "text": "ஏர்",
      "lemma": "ஏர்",
-     "gloss": "resembling"
+     "gloss": "beauty or likeness"
     }
    ],
-   "gloss": "resembling"
+   "gloss": "beautiful or resembling"
   },
   {
    "surface": "மடநோக்கும்",
    "parts": [
     {
-     "text": "மடநோக்கு",
-     "lemma": "மடநோக்கு",
-     "gloss": "innocent look"
+     "text": "மட",
+     "lemma": "மடம்",
+     "gloss": "gentle or innocent"
+    },
+    {
+     "text": "நோக்கு",
+     "lemma": "நோக்கு",
+     "gloss": "look or gaze"
     },
     {
      "text": "உம்",
@@ -36,7 +41,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "innocent look and"
+   "gloss": "and the gentle look"
   },
   {
    "surface": "நாணும்",
@@ -52,7 +57,7 @@
      "gloss": "and"
     }
    ],
-   "gloss": "modesty and"
+   "gloss": "and modesty"
   },
   {
    "surface": "உடையாட்கு",
@@ -60,7 +65,7 @@
     {
      "text": "உடையாள்",
      "lemma": "உடையாள்",
-     "gloss": "she who possesses"
+     "gloss": "she who has"
     },
     {
      "text": "கு",
@@ -92,10 +97,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "wonder"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "what for?"
+   "gloss": "of what use indeed?"
   },
   {
    "surface": "ஏதில",
@@ -103,10 +108,10 @@
     {
      "text": "ஏதில",
      "lemma": "ஏதில",
-     "gloss": "foreign things"
+     "gloss": "external things"
     }
    ],
-   "gloss": "foreign things"
+   "gloss": "external things"
   },
   {
    "surface": "தந்து",
@@ -114,16 +119,16 @@
     {
      "text": "தந்து",
      "lemma": "தா",
-     "gloss": "having put on"
+     "gloss": "having brought"
     }
    ],
-   "gloss": "having put on"
+   "gloss": "having brought"
   }
  ],
- "literal": "Female deer resembling innocent look and modesty to her who possesses, ornament what for, foreign things having put on?",
- "translation": "For her who already possesses the innocent look of a female deer and natural modesty, what is the use of adding foreign ornaments?",
- "modern": "பெண்மானைப் போன்ற மருண்ட பார்வையும் நாணமும் இயல்பாகவே உடைய இவளுக்கு, வேறு அணிகலன்களை அணிவிப்பது எதற்காக?",
- "explanation": "The speaker marvels at the natural beauty of the woman, comparing her innocent, gentle gaze to that of a female deer. He notes that she is already perfectly adorned with this beautiful look and her innate modesty. Therefore, he wonders why she has been dressed in artificial, external ornaments ('foreign things'), as they are completely unnecessary and add nothing to her inherent perfection.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A female deer's beautiful gentle look and modesty to her who possesses, ornament what is it, external things having brought?",
+ "translation": "What is the use of bringing and wearing external ornaments for her who already possesses modesty and a gentle gaze like that of a doe?",
+ "modern": "பெண் மானைப் போன்ற மென்மையான பார்வையும் நாணமும் உடைய அவளுக்கு, வெளியில் இருந்து பிற அணிகலன்களைக் கொண்டு வந்து அணிவிப்பதால் என்ன பயன்?",
+ "explanation": "The lover admires the natural beauty of his beloved and declares that she needs no artificial decoration. He highlights two of her innate qualities as her supreme ornaments: her gentle, innocent gaze ('maṭanōkku') which resembles that of a startled doe ('piṇai'), and her natural modesty ('nāṇum'). The word 'ētila' refers to external, foreign things, meaning artificial jewels. The poet argues that for a woman endowed with such natural grace and character, adding external ornaments is entirely redundant.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

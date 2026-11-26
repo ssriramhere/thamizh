@@ -6,15 +6,15 @@
     {
      "text": "நீங்கு",
      "lemma": "நீங்கு",
-     "gloss": "to leave"
+     "gloss": "to rid oneself of / leave"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "he (negative)"
+     "gloss": "he who does not (negative pronominal suffix)"
     }
    ],
-   "gloss": "he does not leave"
+   "gloss": "he who does not rid himself of"
   },
   {
    "surface": "வெகுளி",
@@ -33,7 +33,7 @@
     {
      "text": "நிறை",
      "lemma": "நிறை",
-     "gloss": "self-control"
+     "gloss": "self-control / moral integrity"
     }
    ],
    "gloss": "self-control"
@@ -44,15 +44,15 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "without"
+     "gloss": "not having"
     },
     {
      "text": "அன்",
      "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "he (masculine suffix)"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "he who does not possess"
   },
   {
    "surface": "எஞ்ஞான்றும்",
@@ -60,10 +60,11 @@
     {
      "text": "எஞ்ஞான்றும்",
      "lemma": "எஞ்ஞான்றும்",
-     "gloss": "always"
+     "gloss": "at all times"
     }
    ],
-   "gloss": "always"
+   "gloss": "at all times",
+   "split_unverified": true
   },
   {
    "surface": "யாங்கணும்",
@@ -71,18 +72,28 @@
     {
      "text": "யாங்கணும்",
      "lemma": "யாங்கணும்",
-     "gloss": "everywhere"
+     "gloss": "everywhere / in all places"
     }
    ],
-   "gloss": "everywhere"
+   "gloss": "in all places"
   },
   {
    "surface": "யார்க்கும்",
    "parts": [
     {
-     "text": "யார்க்கும்",
+     "text": "யார்",
      "lemma": "யார்",
-     "gloss": "to anyone"
+     "gloss": "who"
+    },
+    {
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "to (dative case marker)"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "everyone / anyone (universalizing particle)"
     }
    ],
    "gloss": "to anyone"
@@ -93,16 +104,16 @@
     {
      "text": "எளிது",
      "lemma": "எளிது",
-     "gloss": "easy"
+     "gloss": "easy / vulnerable"
     }
    ],
-   "gloss": "easy"
+   "gloss": "easy (to defeat)"
   }
  ],
- "literal": "He does not leave anger, he is without self-control; always, everywhere, to anyone, he is easy.",
- "translation": "One who never lets go of anger and lacks self-control is an easy target for anyone to defeat, at any time and in any place.",
- "modern": "கோபத்தை விடாதவனும், மனக்கட்டுப்பாடு இல்லாதவனும் ஆகிய ஒருவனை எந்த நேரத்திலும், எந்த இடத்திலும், எவரும் எளிதாக வென்றுவிடலாம்.",
- "explanation": "This couplet describes the extreme vulnerability of a person who is consumed by anger and lacks self-restraint. The words 'எஞ்ஞான்றும்' (always) and 'யாங்கணும்' (everywhere) emphasize that such a person has no safe haven or moment of security. Because their own internal flaws constantly weaken them, they become an easy target ('எளிது') for any enemy to overcome.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who does not rid himself of anger, who has no self-control, at all times, in all places, to anyone, is easy.",
+ "translation": "One who does not rid himself of anger and lacks self-control is easy for anyone to defeat, at any time and in any place.",
+ "modern": "கோபத்தை விடாதவனும், மன அடக்கம் இல்லாதவனுமாகிய ஒருவன், எக்காலத்திலும், எவ்விடத்திலும், யாருக்கும் எளிதில் வெல்லக்கூடியவன் ஆவான்.",
+ "explanation": "This couplet outlines the fatal vulnerabilities of an undisciplined adversary. A person who cannot free themselves from anger (வெகுளி) and lacks the strength of self-control (நிறை) becomes entirely predictable and weak. Because of these internal flaws, they can be easily conquered by any opponent (யார்க்கும்), at any given time (எஞ்ஞான்றும்), and in any location (யாங்கணும்). Their emotional instability deprives them of strategic defense, making them an easy target.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

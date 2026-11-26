@@ -5,11 +5,11 @@
    "parts": [
     {
      "text": "பசந்தாள்",
-     "lemma": "பச",
-     "gloss": "she grew pale"
+     "lemma": "பசத்தல்",
+     "gloss": "she became pale"
     }
    ],
-   "gloss": "she grew pale"
+   "gloss": "she became pale"
   },
   {
    "surface": "இவள்",
@@ -17,45 +17,40 @@
     {
      "text": "இவள்",
      "lemma": "இவள்",
-     "gloss": "she"
+     "gloss": "this woman"
     }
    ],
-   "gloss": "she"
+   "gloss": "this woman"
   },
   {
    "surface": "என்பது",
    "parts": [
     {
      "text": "என்பது",
-     "lemma": "என்",
-     "gloss": "saying"
+     "lemma": "என்பது",
+     "gloss": "saying that"
     }
    ],
-   "gloss": "saying"
+   "gloss": "saying that"
   },
   {
    "surface": "அல்லால்",
    "parts": [
     {
      "text": "அல்லால்",
-     "lemma": "அல்",
-     "gloss": "except"
+     "lemma": "அல்லால்",
+     "gloss": "other than"
     }
    ],
-   "gloss": "except"
+   "gloss": "other than"
   },
   {
    "surface": "இவளை",
    "parts": [
     {
-     "text": "இவள்",
+     "text": "இவளை",
      "lemma": "இவள்",
-     "gloss": "she"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "her"
     }
    ],
    "gloss": "her"
@@ -65,11 +60,11 @@
    "parts": [
     {
      "text": "துறந்தார்",
-     "lemma": "துற",
-     "gloss": "he abandoned"
+     "lemma": "துறத்தல்",
+     "gloss": "he who abandoned"
     }
    ],
-   "gloss": "abandoned (he)"
+   "gloss": "he who abandoned"
   },
   {
    "surface": "அவர்",
@@ -87,7 +82,7 @@
    "parts": [
     {
      "text": "என்பார்",
-     "lemma": "என்",
+     "lemma": "என்பார்",
      "gloss": "those who say"
     }
    ],
@@ -99,16 +94,16 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "are not"
+     "gloss": "there are none"
     }
    ],
-   "gloss": "are not"
+   "gloss": "there are none"
   }
  ],
- "literal": "\"She grew pale\", saying except, her abandoned he, those who say are not.",
- "translation": "People only say, \"She has grown pale,\" but no one says, \"He abandoned her.\"",
- "modern": "\"இவள் பசலை நோய் கொண்டு நிறம் மாறினாள்\" என்று ஊரார் சொல்வார்களே தவிர, \"அவர் இவளை விட்டுப் பிரிந்து சென்றார்\" என்று அவர் மேல் தவறு சொல்வார் யாரும் இல்லை.",
- "explanation": "The heroine laments the unfairness of the townspeople's gossip. They are quick to notice her pallor and blame her for not bearing the separation gracefully. However, no one points out the root cause of her suffering or blames the hero for abandoning her. The contrast between \"என்பது அல்லால்\" (other than saying) and \"என்பார் இல்\" (there is no one who says) highlights her isolation and the one-sided nature of society's judgment.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Other than saying 'This woman became pale', those who say 'He is the one who abandoned her' are none.",
+ "translation": "Except for pointing out, 'This woman has turned pale,' there is no one who says, 'He is the one who abandoned her.'",
+ "modern": "இவள் உடல் பசலை நிறமடைந்துவிட்டாள் என்று சொல்வதைத் தவிர, அவளை விட்டுப் பிரிந்து சென்றவர் அவர்தான் என்று சொல்பவர் யாரும் இல்லை.",
+ "explanation": "In this couplet, the heroine laments the unfairness of public gossip. People around her easily notice her physical change and remark that she has turned pale with grief. However, they fail to point out or blame the lover who departed and caused her this pain. The verse highlights her loneliness, as the world judges her visible suffering without holding the responsible partner accountable.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,9 +4,14 @@
    "surface": "கல்லான்",
    "parts": [
     {
-     "text": "கல்லான்",
+     "text": "கல்",
      "lemma": "கல்",
-     "gloss": "unlearned man"
+     "gloss": "learn"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who (pronominal suffix)"
     }
    ],
    "gloss": "unlearned man"
@@ -15,23 +20,33 @@
    "surface": "வெகுளும்",
    "parts": [
     {
-     "text": "வெகுளும்",
+     "text": "வெகுள்",
      "lemma": "வெகுள்",
-     "gloss": "getting angry"
+     "gloss": "be angry"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "getting angry"
+   "gloss": "which is angered"
   },
   {
    "surface": "சிறுபொருள்",
    "parts": [
     {
-     "text": "சிறுபொருள்",
-     "lemma": "சிறுபொருள்",
-     "gloss": "small matter"
+     "text": "சிறு",
+     "lemma": "சிறு",
+     "gloss": "trivial"
+    },
+    {
+     "text": "பொருள்",
+     "lemma": "பொருள்",
+     "gloss": "matter"
     }
    ],
-   "gloss": "small matter"
+   "gloss": "trivial matter"
   },
   {
    "surface": "எஞ்ஞான்றும்",
@@ -39,37 +54,48 @@
     {
      "text": "எஞ்ஞான்றும்",
      "lemma": "எஞ்ஞான்றும்",
-     "gloss": "always"
+     "gloss": "at all times"
     }
    ],
-   "gloss": "always"
+   "gloss": "at all times",
+   "split_unverified": true
   },
   {
    "surface": "ஒல்லானை",
    "parts": [
     {
-     "text": "ஒல்லான்",
+     "text": "ஒல்",
      "lemma": "ஒல்",
-     "gloss": "he who cannot achieve"
+     "gloss": "yield/agree"
+    },
+    {
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who (pronominal suffix)"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who cannot achieve"
+   "gloss": "him who does not yield"
   },
   {
    "surface": "ஒல்லாது",
    "parts": [
     {
-     "text": "ஒல்லாது",
+     "text": "ஒல்",
      "lemma": "ஒல்",
-     "gloss": "will not reach"
+     "gloss": "join/stay"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "will not (negative suffix)"
     }
    ],
-   "gloss": "will not reach"
+   "gloss": "will not stay"
   },
   {
    "surface": "ஒளி",
@@ -77,16 +103,16 @@
     {
      "text": "ஒளி",
      "lemma": "ஒளி",
-     "gloss": "glory"
+     "gloss": "glory/fame"
     }
    ],
    "gloss": "glory"
   }
  ],
- "literal": "Unlearned man's getting angry small matter always him who cannot achieve will not reach glory.",
- "translation": "Glory will never reach the man who cannot accomplish the small task of overcoming an ignorant man's anger.",
- "modern": "அறிவில்லாதவன் கொள்ளும் சினம் என்னும் சிறிய செயலைக்கூடச் செய்து முடிக்க இயலாதவனை, புகழ் எக்காலத்திலும் சென்றடையாது.",
- "explanation": "This couplet highlights how easy it is to defeat an ignorant enemy. The anger of an unlearned man is called a 'small matter' (சிறுபொருள்) because overcoming it requires very little effort and yields an easy advantage. If a leader is unable to accomplish even this simple task, true glory will never reach them. The word 'ஒளி' literally means light, here symbolizing the radiant fame that eludes the incapable.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The trivial matter of an unlearned man's anger, at all times, him who does not yield to it, will not join, glory.",
+ "translation": "Glory will never abide with one who does not know how to yield to and defuse even the trivial anger of an unlearned man.",
+ "modern": "அறிவில்லாதவன் கோபப்படும் எளிய விஷயத்தைக்கூடத் தவிர்த்துக்கொள்ள உடன்படாதவனிடம், அவனது புகழானது எப்போதும் நிலைத்து நிற்காது.",
+ "explanation": "This couplet explains that the anger of an unlearned or ignorant person is a trivial matter ('சிறுபொருள்'). However, a wise leader must know how to handle or yield ('ஒல்லுதல்') to such situations to avoid unnecessary conflict. If a person is stubborn and does not yield to or defuse even such minor provocations, their glory ('ஒளி') will depart from them forever ('எஞ்ஞான்றும் ஒல்லாது'). True greatness lies in knowing when to overlook the petty anger of the ignorant.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

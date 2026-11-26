@@ -17,41 +17,26 @@
     {
      "text": "வரை",
      "lemma": "வரை",
-     "gloss": "to limit"
+     "gloss": "limit"
     },
     {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "ன்",
-     "lemma": "அன்",
-     "gloss": "he"
+     "text": "ஆன்",
+     "lemma": "ஆன்",
+     "gloss": "he who does not"
     }
    ],
-   "gloss": "he does not limit himself"
+   "gloss": "one who does not abide by the limits of"
   },
   {
    "surface": "அல்ல",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்ல",
      "lemma": "அல்",
-     "gloss": "not (virtuous)"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "neuter plural suffix"
+     "gloss": "vices / deeds other than virtuous"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "vices / deeds other than virtuous"
   },
   {
    "surface": "செயினும்",
@@ -59,12 +44,12 @@
     {
      "text": "செய்",
      "lemma": "செய்",
-     "gloss": "to do"
+     "gloss": "do"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "conditional suffix"
+     "gloss": "if"
     },
     {
      "text": "உம்",
@@ -91,28 +76,23 @@
     {
      "text": "வரை",
      "lemma": "வரை",
-     "gloss": "boundary"
+     "gloss": "marry"
     },
     {
      "text": "ஆள்",
      "lemma": "ஆள்",
-     "gloss": "woman"
+     "gloss": "she who is"
     }
    ],
-   "gloss": "bound woman"
+   "gloss": "wedded wife"
   },
   {
    "surface": "பெண்மை",
    "parts": [
     {
-     "text": "பெண்",
-     "lemma": "பெண்",
-     "gloss": "woman"
-    },
-    {
-     "text": "மை",
-     "lemma": "மை",
-     "gloss": "abstract suffix"
+     "text": "பெண்மை",
+     "lemma": "பெண்மை",
+     "gloss": "womanhood"
     }
    ],
    "gloss": "womanhood"
@@ -123,17 +103,12 @@
     {
      "text": "நய",
      "lemma": "நய",
-     "gloss": "to desire"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "sandhi"
+     "gloss": "desire"
     },
     {
      "text": "ஆமை",
      "lemma": "ஆமை",
-     "gloss": "negative verbal noun suffix"
+     "gloss": "not doing"
     }
    ],
    "gloss": "not desiring"
@@ -143,17 +118,17 @@
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நல்",
-     "gloss": "is good"
+     "lemma": "நன்று",
+     "gloss": "good"
     }
    ],
    "gloss": "is good"
   }
  ],
- "literal": "Virtue he does not limit himself to, evil things even if he does, another man's bound woman's womanhood not desiring is good.",
- "translation": "Even if a man does not confine himself to virtue and commits evil deeds, it is still good if he does not desire the womanhood of another man's wife.",
- "modern": "ஒருவன் அறத்தின் வரம்பிற்குள் நிற்காமல் பாவச் செயல்களைச் செய்தாலும், அவன் மற்றொருவனுடைய மனைவியின் பெண்மையை விரும்பாமல் இருப்பது அவனுக்கு நல்லதாகும்.",
- "explanation": "The couplet contrasts general immorality with the specific sin of desiring another man's wife. The word 'varaiyāṉ' (he who does not limit himself) describes a man who steps outside the boundaries of virtue to commit evil deeds ('alla'). However, the text states that even for such a person, there is goodness ('naṉṟu') if he refrains from desiring ('nayavāmai') the womanhood ('peṇmai') of a woman bound to another man ('piṟaṉ varaiyāḷ'). This emphasizes that respecting the marital boundaries of others is a fundamental good, even when other virtues are absent.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if one who does not abide by the limits of virtue does deeds other than virtuous, not desiring the womanhood of another's wedded wife is good.",
+ "translation": "Even if a man does not walk in the path of virtue and commits other sins, it is still a saving grace if he does not lust after the wife of another.",
+ "modern": "அறநெறியைப் பின்பற்றாமல் ஒருவன் தீமைகளையே செய்து வந்தாலும், பிறனுடைய மனைவியின் பெண்மையை விரும்பாமல் இருப்பது அவனுக்கு நல்லது.",
+ "explanation": "This couplet highlights the gravity of desiring another man's wife by comparing it to other vices. The poet states that even if a person fails to live by the rules of virtue ('அறன் வரையான்') and commits various wrongdoings ('அல்ல செயினும்'), he still retains a fundamental goodness if he refrains from desiring the womanhood of a married woman ('பிறன் வரையாள் பெண்மை நயவாமை'). The word 'வரையான்' refers to one who does not bound himself by moral laws, while 'வரையாள்' refers to a woman bound to another in marriage. By declaring this restraint as 'good' even for an otherwise unrighteous person, the couplet emphasizes that violating the sanctity of another's marriage is the worst of all transgressions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

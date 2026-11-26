@@ -22,10 +22,10 @@
     {
      "text": "துப்புரவு",
      "lemma": "துப்புரவு",
-     "gloss": "provisions"
+     "gloss": "sustenance"
     }
    ],
-   "gloss": "provisions"
+   "gloss": "sustenance"
   },
   {
    "surface": "வேண்டி",
@@ -36,7 +36,7 @@
      "gloss": "desiring"
     }
    ],
-   "gloss": "desiring (to provide)"
+   "gloss": "desiring"
   },
   {
    "surface": "மறந்தார்",
@@ -44,7 +44,7 @@
     {
      "text": "மறந்தார்",
      "lemma": "மற",
-     "gloss": "forgot-they"
+     "gloss": "forgot"
     }
    ],
    "gloss": "they forgot"
@@ -55,10 +55,10 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "I wonder"
+     "gloss": "particle of doubt"
     }
    ],
-   "gloss": "I wonder"
+   "gloss": "perhaps"
   },
   {
    "surface": "மற்றை",
@@ -80,7 +80,7 @@
      "gloss": "they"
     }
    ],
-   "gloss": "people"
+   "gloss": "they"
   },
   {
    "surface": "தவம்",
@@ -94,10 +94,10 @@
    "gloss": "penance"
   }
  ],
- "literal": "To those who have renounced, provisions desiring, forgot-they I-wonder, other people, penance.",
- "translation": "I wonder if other people have forgotten penance because they desire to provide for those who have renounced.",
- "modern": "துறவிகளுக்கு உணவு முதலியவற்றை அளிக்க விரும்பித்தான் மற்றவர்கள் தவம் செய்வதை மறந்துவிட்டார்களோ?",
- "explanation": "The couplet playfully wonders why everyone does not practice asceticism. It suggests that 'other people' (householders) have forgotten to do penance only because they are busy providing 'provisions' (துப்புரவு) to those who have already renounced the world. The particle 'கொல்' adds a tone of gentle wonder or rhetorical questioning. Thus, it highlights the necessary and complementary role of householders in supporting ascetics.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who renounced, sustenance desiring, did they forget, perhaps, the other people, penance?",
+ "translation": "Perhaps other people forgot to perform penance themselves because they needed to provide sustenance to those who have renounced.",
+ "modern": "துறந்தவர்களுக்கு உணவு மற்றும் உதவிகளைச் செய்ய வேண்டியிருப்பதால் தான், மற்றவர்கள் தவம் செய்வதை மறந்துவிட்டார்களோ?",
+ "explanation": "This couplet highlights the essential relationship between householders and ascetics. The poet rhetorically asks if ordinary people forgot to perform penance because they were occupied with providing sustenance to those who have renounced. If everyone abandoned worldly life to perform penance, there would be no one left to support them. Thus, the householder's duty of charity is shown to be as vital as the ascetic's penance.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

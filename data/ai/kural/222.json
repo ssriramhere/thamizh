@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "நல்",
-     "lemma": "நன்மை",
+     "lemma": "நல்",
      "gloss": "good"
     },
     {
@@ -21,7 +21,7 @@
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
+     "lemma": "எனின்",
      "gloss": "if said"
     },
     {
@@ -30,20 +30,15 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even if it is said to be"
   },
   {
    "surface": "கொளல்",
    "parts": [
     {
-     "text": "கொள்",
-     "lemma": "கொள்",
-     "gloss": "to receive"
-    },
-    {
-     "text": "அல்",
-     "lemma": "அல்",
-     "gloss": "verbal noun suffix"
+     "text": "கொளல்",
+     "lemma": "கொளல்",
+     "gloss": "receiving"
     }
    ],
    "gloss": "receiving"
@@ -53,8 +48,8 @@
    "parts": [
     {
      "text": "தீது",
-     "lemma": "தீமை",
-     "gloss": "is bad"
+     "lemma": "தீது",
+     "gloss": "bad"
     }
    ],
    "gloss": "is bad"
@@ -65,10 +60,10 @@
     {
      "text": "மேல்",
      "lemma": "மேல்",
-     "gloss": "higher"
+     "gloss": "upper"
     }
    ],
-   "gloss": "higher"
+   "gloss": "upper"
   },
   {
    "surface": "உலகம்",
@@ -87,7 +82,7 @@
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "not"
+     "gloss": "not existing"
     }
    ],
    "gloss": "does not exist"
@@ -97,7 +92,7 @@
    "parts": [
     {
      "text": "எனின்",
-     "lemma": "என்",
+     "lemma": "எனின்",
      "gloss": "if said"
     },
     {
@@ -106,40 +101,40 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if"
+   "gloss": "even if it is said that"
   },
   {
    "surface": "ஈதலே",
    "parts": [
     {
      "text": "ஈதல்",
-     "lemma": "ஈ",
+     "lemma": "ஈதல்",
      "gloss": "giving"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "giving alone"
+   "gloss": "giving indeed"
   },
   {
    "surface": "நன்று",
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நன்மை",
-     "gloss": "is good"
+     "lemma": "நன்று",
+     "gloss": "good"
     }
    ],
    "gloss": "is good"
   }
  ],
- "literal": "Good path even if, receiving is bad; higher world does not exist even if, giving alone is good.",
- "translation": "Even if receiving is considered a good path, it is bad. Even if there is no higher world, giving alone is good.",
- "modern": "பிறரிடம் இருந்து பொருளைப் பெறுவது நல்ல வழி என்று சொல்லப்பட்டாலும் அது தீமையானது. மேலுலகம் இல்லை என்று சொல்லப்பட்டாலும் பிறருக்குக் கொடுப்பதே நன்மையானது.",
- "explanation": "This couplet contrasts the inherent nature of receiving and giving. The word 'நல்லாறு' (good path) suggests that even if taking from others is justified as a righteous or acceptable way to live, it remains inherently bad. Conversely, even if one believes there is no 'மேலுலகம்' (higher world or heaven) to reward good deeds, the act of giving is still inherently good. The emphasis marker 'ஏ' in 'ஈதலே' stresses that giving is an absolute virtue, independent of any expectation of future rewards.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if it is said to be a good path, receiving is bad; even if it is said that the upper world does not exist, giving indeed is good.",
+ "translation": "Even if receiving gifts is said to be a path to goodness, it is bad. Even if there is no higher world to be gained, giving to others is still the best path.",
+ "modern": "பிறரிடமிருந்து பொருளைப் பெறுவது நல்ல வழி என்று சொன்னாலும் அது தீமையானது; கொடையளிப்பதால் மேலுலகம் கிடைக்காது என்றாலும் பிறருக்குக் கொடுப்பதே நல்லது.",
+ "explanation": "This couplet contrasts the acts of receiving and giving to establish the supreme value of charity. The author states that accepting things from others is inherently degrading and bad, even if someone claims it is a righteous path. On the other hand, giving to those in need is inherently noble and good, even if there is no heavenly reward or higher world awaiting the giver. Virtue in giving lies in the act itself, not in the expectation of spiritual or material returns.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

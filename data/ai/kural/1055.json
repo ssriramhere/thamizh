@@ -6,15 +6,15 @@
     {
      "text": "கரப்பு",
      "lemma": "கரப்பு",
-     "gloss": "concealment"
+     "gloss": "concealing"
     },
     {
      "text": "இலார்",
-     "lemma": "இல்",
-     "gloss": "those without"
+     "lemma": "இலார்",
+     "gloss": "those who do not have"
     }
    ],
-   "gloss": "those without concealment"
+   "gloss": "those who do not hide what they have"
   },
   {
    "surface": "வையகத்து",
@@ -49,17 +49,17 @@
     {
      "text": "கண்ணின்று",
      "lemma": "கண்ணின்று",
-     "gloss": "standing before the eyes"
+     "gloss": "standing in front"
     }
    ],
-   "gloss": "standing before the eyes"
+   "gloss": "standing in front"
   },
   {
    "surface": "இரப்பவர்",
    "parts": [
     {
      "text": "இரப்பவர்",
-     "lemma": "இர",
+     "lemma": "இரப்பவர்",
      "gloss": "those who beg"
     }
    ],
@@ -69,18 +69,23 @@
    "surface": "மேற்கொள்வது",
    "parts": [
     {
-     "text": "மேற்கொள்வது",
-     "lemma": "மேற்கொள்",
+     "text": "மேல்",
+     "lemma": "மேல்",
+     "gloss": "upon"
+    },
+    {
+     "text": "கொள்வது",
+     "lemma": "கொள்ளுதல்",
      "gloss": "undertaking"
     }
    ],
-   "gloss": "undertaking"
+   "gloss": "that which is undertaken"
   }
  ],
- "literal": "those without concealment - in the world - because of the existence - standing before the eyes - those who beg - undertaking",
- "translation": "It is only because there are people in the world who do not conceal their wealth that beggars undertake to stand before their eyes.",
- "modern": "தங்களிடம் உள்ள பொருளை மறைக்காதவர்கள் இவ்வுலகில் இருப்பதால்தான், வறுமையில் உள்ளவர்கள் அவர்கள் கண்முன் நின்று யாசிப்பதை மேற்கொள்கிறார்கள்.",
- "explanation": "This couplet explains what gives people the courage to beg. It is solely because there are generous individuals in the world who do not hide their wealth ('கரப்பிலார்') when asked for help. Knowing that such open-hearted people exist, those in need are able to stand before them and undertake the act of asking for alms.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Because of the existence in the world of those who do not hide, those who beg undertake to stand in front.",
+ "translation": "It is only because there are people in this world who do not hide their wealth that others undertake the act of standing before them to beg.",
+ "modern": "பிறருக்குக் கொடுக்காமல் மறைக்காதவர்கள் இவ்வுலகில் இருப்பதால்தான், இரப்பவர்கள் அவர்களிடம் நேரில் நின்று யாசிப்பதை மேற்கொள்கிறார்கள்.",
+ "explanation": "This couplet explains the social dynamic that keeps the act of asking for charity alive. The poet states that begging is only practiced because there exist generous people ('கரப்பிலார்') in the world ('வையகத்து') who do not hide their resources when asked. It is this existence ('உண்மையால்') that gives the needy the hope and courage to stand face-to-face ('கண்ணின்று') and make their request. Without the presence of such open-handed givers, the act of begging ('இரப்பவர் மேற்கொள்வது') would disappear entirely.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

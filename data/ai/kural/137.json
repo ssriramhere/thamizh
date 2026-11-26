@@ -5,19 +5,25 @@
    "parts": [
     {
      "text": "ஒழுக்கத்தின்",
-     "lemma": "ஒழுக்கம்",
+     "lemma": "ஒழுக்கத்தின்",
      "gloss": "through good conduct"
     }
    ],
-   "gloss": "through good conduct"
+   "gloss": "through good conduct",
+   "split_unverified": true
   },
   {
    "surface": "எய்துவர்",
    "parts": [
     {
-     "text": "எய்துவர்",
+     "text": "எய்து",
      "lemma": "எய்து",
-     "gloss": "they will attain"
+     "gloss": "attain"
+    },
+    {
+     "text": "வர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
    "gloss": "they will attain"
@@ -31,26 +37,33 @@
      "gloss": "greatness"
     }
    ],
-   "gloss": "greatness"
+   "gloss": "greatness",
+   "split_unverified": true
   },
   {
    "surface": "இழுக்கத்தின்",
    "parts": [
     {
      "text": "இழுக்கத்தின்",
-     "lemma": "இழுக்கம்",
-     "gloss": "through lapse in conduct"
+     "lemma": "இழுக்கத்தின்",
+     "gloss": "through misconduct"
     }
    ],
-   "gloss": "through lapse in conduct"
+   "gloss": "through misconduct",
+   "split_unverified": true
   },
   {
    "surface": "எய்துவர்",
    "parts": [
     {
-     "text": "எய்துவர்",
+     "text": "எய்து",
      "lemma": "எய்து",
-     "gloss": "they will attain"
+     "gloss": "attain"
+    },
+    {
+     "text": "வர்",
+     "lemma": "அர்",
+     "gloss": "they"
     }
    ],
    "gloss": "they will attain"
@@ -59,12 +72,17 @@
    "surface": "எய்தா",
    "parts": [
     {
-     "text": "எய்தா",
+     "text": "எய்து",
      "lemma": "எய்து",
-     "gloss": "inescapable"
+     "gloss": "attain"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not"
     }
    ],
-   "gloss": "inescapable"
+   "gloss": "unprecedented"
   },
   {
    "surface": "பழி",
@@ -72,16 +90,16 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "disgrace"
   }
  ],
- "literal": "Through good conduct they will attain greatness; through lapse in conduct they will attain inescapable blame.",
- "translation": "Through good conduct, people attain greatness. Through a lapse in conduct, they attain inescapable disgrace.",
- "modern": "நல்லொழுக்கத்தால் மனிதர்கள் மேன்மையை அடைவார்கள். ஒழுக்கம் தவறுவதால் அவர்கள் நீங்காத பழியை அடைவார்கள்.",
- "explanation": "This couplet contrasts the outcomes of maintaining and losing one's good conduct. The word 'ஒழுக்கம்' (good conduct) leads naturally to 'மேன்மை' (greatness or excellence). Conversely, 'இழுக்கம்' (a lapse or failure in conduct) results in 'எய்தாப் பழி', which means inescapable or unprecedented disgrace. The parallel structure emphasizes that just as surely as discipline brings honor, its absence guarantees lasting blame.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Through good conduct they will attain greatness; through misconduct they will attain unprecedented disgrace.",
+ "translation": "Through right conduct, people attain greatness; through misconduct, they incur unprecedented disgrace.",
+ "modern": "ஒழுக்கத்தினால் மக்கள் மேன்மையை அடைவார்கள்; ஒழுக்கம் தவறுதலால் அவர்கள் அடையக்கூடாத பெரும் பழியை அடைவார்கள்.",
+ "explanation": "This couplet contrasts the consequences of good conduct and misconduct. Those who maintain right conduct naturally rise to greatness. Conversely, those who slip into misconduct will suffer disgrace of an unprecedented or unbefitting nature. The repetition of the verb 'எய்துவர்' emphasizes that both outcomes are certain and directly earned by one's own actions. The phrase 'எய்தாப் பழி' highlights that the resulting blame is so severe that it is normally considered unthinkable.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

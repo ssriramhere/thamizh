@@ -6,7 +6,7 @@
     {
      "text": "அறன்",
      "lemma": "அறம்",
-     "gloss": "virtue"
+     "gloss": "virtue or righteousness"
     }
    ],
    "gloss": "virtue"
@@ -15,12 +15,17 @@
    "surface": "இழுக்காது",
    "parts": [
     {
-     "text": "இழுக்காது",
+     "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "without failing"
+     "gloss": "deviate or fail"
+    },
+    {
+     "text": "ஆது",
+     "lemma": "ஆது",
+     "gloss": "without (negative adverbial suffix)"
     }
    ],
-   "gloss": "without failing"
+   "gloss": "without deviating"
   },
   {
    "surface": "அல்லவை",
@@ -36,15 +41,20 @@
      "gloss": "those things"
     }
    ],
-   "gloss": "evil things"
+   "gloss": "things that are not virtuous (vices or evils)"
   },
   {
    "surface": "நீக்கி",
    "parts": [
     {
-     "text": "நீக்கி",
+     "text": "நீக்கு",
      "lemma": "நீக்கு",
-     "gloss": "having removed"
+     "gloss": "remove"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "having (past participle suffix)"
     }
    ],
    "gloss": "having removed"
@@ -55,7 +65,7 @@
     {
      "text": "மறன்",
      "lemma": "மறம்",
-     "gloss": "valor"
+     "gloss": "valor or courage"
     }
    ],
    "gloss": "valor"
@@ -64,9 +74,14 @@
    "surface": "இழுக்கா",
    "parts": [
     {
-     "text": "இழுக்கா",
+     "text": "இழுக்கு",
      "lemma": "இழுக்கு",
-     "gloss": "unfailing"
+     "gloss": "deviate or fail"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "without (negative adjectival suffix)"
     }
    ],
    "gloss": "unfailing"
@@ -77,7 +92,7 @@
     {
      "text": "மானம்",
      "lemma": "மானம்",
-     "gloss": "honor"
+     "gloss": "honor or dignity"
     }
    ],
    "gloss": "honor"
@@ -86,9 +101,14 @@
    "surface": "உடையது",
    "parts": [
     {
-     "text": "உடையது",
+     "text": "உடை",
      "lemma": "உடை",
-     "gloss": "that which possesses"
+     "gloss": "possess"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "that which (pronominal suffix)"
     }
    ],
    "gloss": "that which possesses"
@@ -99,16 +119,16 @@
     {
      "text": "அரசு",
      "lemma": "அரசு",
-     "gloss": "king"
+     "gloss": "king or government"
     }
    ],
-   "gloss": "king"
+   "gloss": "ruler"
   }
  ],
- "literal": "Virtue without-failing, non-virtuous-things having-removed, valor unfailing honor that-which-possesses [is] king.",
- "translation": "A true king is one who never fails in virtue, eradicates evil, and possesses honor backed by unfailing valor.",
- "modern": "அறத்திலிருந்து தவறாமல், தீயவற்றை நாட்டை விட்டு நீக்கி, வீரத்தில் குறையாத மானத்தை உடையதே சிறந்த அரசாகும்.",
- "explanation": "This couplet defines the essential qualities of a good ruler. A king must steadfastly uphold virtue and actively eradicate evil from his realm. Furthermore, he must possess a deep sense of honor that is backed by unwavering courage. The words for virtue and valor are paired to show that moral righteousness and martial strength must coexist to protect the state.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Virtue without-deviating, non-virtuous-things having-removed, valor unfailing, honor possessing-one, (is) the ruler.",
+ "translation": "A true ruler is one who never deviates from virtue, eliminates all that is evil, and possesses unfailing valor and honor.",
+ "modern": "அறநெறியிலிருந்து தவறாமல், தீமைகளை நீக்கி, வீரத்தில் குறையாத மானத்தைக் கொண்டிருப்பதே சிறந்த அரசாகும்.",
+ "explanation": "This couplet defines the essential qualities of an ideal ruler or government. First, the ruler must steadfastly adhere to righteousness (அறன்) without slipping (இழுக்காது) and actively banish all forms of vice or injustice (அல்லவை நீக்கி). Second, the ruler must possess a sense of honor (மானம்) that never falters in courage or valor (மறன் இழுக்கா). By balancing moral integrity with strength and dignity, a ruler commands true authority.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -11,17 +11,17 @@
     {
      "text": "இலன்",
      "lemma": "இல்",
-     "gloss": "he is without"
+     "gloss": "he who has not"
     }
    ],
-   "gloss": "he has not learned"
+   "gloss": "he who has not learned"
   },
   {
    "surface": "ஆயினும்",
    "parts": [
     {
      "text": "ஆயின்",
-     "lemma": "ஆ",
+     "lemma": "ஆகு",
      "gloss": "if it is"
     },
     {
@@ -38,12 +38,12 @@
     {
      "text": "கேள்",
      "lemma": "கேள்",
-     "gloss": "listen"
+     "gloss": "hear"
     },
     {
      "text": "க",
      "lemma": "க",
-     "gloss": "let (optative)"
+     "gloss": "optative suffix"
     }
    ],
    "gloss": "let him listen"
@@ -57,7 +57,7 @@
      "gloss": "that"
     }
    ],
-   "gloss": "that"
+   "gloss": "that (hearing)"
   },
   {
    "surface": "ஒருவற்கு",
@@ -73,7 +73,7 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to one"
+   "gloss": "to a person"
   },
   {
    "surface": "ஒற்கத்தின்",
@@ -81,15 +81,15 @@
     {
      "text": "ஒற்கத்து",
      "lemma": "ஒற்கம்",
-     "gloss": "weakness (oblique)"
+     "gloss": "weakness/distress"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "in"
+     "gloss": "of"
     }
    ],
-   "gloss": "in weakness"
+   "gloss": "in times of weakness"
   },
   {
    "surface": "ஊற்று",
@@ -97,21 +97,21 @@
     {
      "text": "ஊற்று",
      "lemma": "ஊற்று",
-     "gloss": "prop"
+     "gloss": "supporting staff"
     }
    ],
-   "gloss": "prop"
+   "gloss": "supporting staff"
   },
   {
    "surface": "ஆம்",
    "parts": [
     {
      "text": "ஆம்",
-     "lemma": "ஆ",
-     "gloss": "becoming"
+     "lemma": "ஆகு",
+     "gloss": "that becomes"
     }
    ],
-   "gloss": "becoming"
+   "gloss": "that becomes"
   },
   {
    "surface": "துணை",
@@ -119,16 +119,16 @@
     {
      "text": "துணை",
      "lemma": "துணை",
-     "gloss": "help"
+     "gloss": "support"
     }
    ],
-   "gloss": "help"
+   "gloss": "support"
   }
  ],
- "literal": "He has not learned, even if, let him listen; that, to one, in weakness, a prop becoming help.",
- "translation": "Even if one lacks learning, let him listen to the wise. In times of weakness, that will be a supporting prop.",
- "modern": "ஒருவன் நூல்களைக் கற்கவில்லை என்றாலும், கற்றவரிடம் கேட்டு அறிய வேண்டும். அது அவனுக்குத் தளர்ச்சி வரும் காலத்தில் ஊன்றுகோல் போலத் துணையாக இருக்கும்.",
- "explanation": "This couplet emphasizes the value of listening to the wise, even if one lacks formal education. The word 'ஒற்கம்' refers to a state of weakness, adversity, or faltering. In such difficult times, the knowledge gained through listening acts as an 'ஊற்று' (a prop or walking stick), providing steady support. Thus, auditory learning serves as a reliable guide when one's own understanding might stumble.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if one has not learned, let him listen; that, to a person, in times of weakness, will be a supporting staff.",
+ "translation": "Even if a person has not learned through formal study, let them listen to the wise; in times of weakness and distress, that acquired knowledge will serve as a steadying staff.",
+ "modern": "ஒருவர் நூல்களைக் கற்கவில்லை என்றாலும், கற்றறிந்தவர்களின் சொற்களைக் கேட்க வேண்டும்; அப்படிக் கேட்பது அவருக்குத் தளர்ச்சி வரும் காலத்தில் ஊன்றுகோல் போன்ற துணையாக இருக்கும்.",
+ "explanation": "This couplet emphasizes the immense value of listening as a source of wisdom, especially for those who lack formal education. Even if a person has not studied books, they should actively listen to the words of the wise. In times of mental or physical weakness and vulnerability, the wisdom gathered through listening acts like a sturdy staff that prevents them from falling. The metaphor of the supporting staff beautifully illustrates how oral learning provides stability and guidance during life's difficult moments.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

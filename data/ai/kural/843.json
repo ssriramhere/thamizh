@@ -16,11 +16,11 @@
    "parts": [
     {
      "text": "இலார்",
-     "lemma": "இல்",
-     "gloss": "those without"
+     "lemma": "இலர்",
+     "gloss": "those who lack"
     }
    ],
-   "gloss": "those without"
+   "gloss": "those who lack"
   },
   {
    "surface": "தாம்",
@@ -28,23 +28,18 @@
     {
      "text": "தாம்",
      "lemma": "தாம்",
-     "gloss": "they themselves"
+     "gloss": "themselves"
     }
    ],
-   "gloss": "they themselves"
+   "gloss": "themselves"
   },
   {
    "surface": "தம்மை",
    "parts": [
     {
-     "text": "தம்",
+     "text": "தம்மை",
      "lemma": "தாம்",
-     "gloss": "themselves"
-    },
-    {
-     "text": "ஐ",
-     "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "themselves (accusative)"
     }
    ],
    "gloss": "themselves"
@@ -55,10 +50,10 @@
     {
      "text": "பீழிக்கும்",
      "lemma": "பீழி",
-     "gloss": "which afflicts"
+     "gloss": "inflicting"
     }
    ],
-   "gloss": "which afflicts"
+   "gloss": "inflicting"
   },
   {
    "surface": "பீழை",
@@ -66,23 +61,18 @@
     {
      "text": "பீழை",
      "lemma": "பீழை",
-     "gloss": "suffering"
+     "gloss": "harm"
     }
    ],
-   "gloss": "suffering"
+   "gloss": "harm"
   },
   {
    "surface": "செறுவார்க்கும்",
    "parts": [
     {
-     "text": "செறுவார்",
+     "text": "செறுவார்க்கு",
      "lemma": "செறுவார்",
-     "gloss": "enemies"
-    },
-    {
-     "text": "கு",
-     "lemma": "கு",
-     "gloss": "dative suffix"
+     "gloss": "to enemies"
     },
     {
      "text": "உம்",
@@ -108,17 +98,17 @@
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "is difficult"
+     "lemma": "அரிது",
+     "gloss": "difficult"
     }
    ],
    "gloss": "is difficult"
   }
  ],
- "literal": "Knowledge those-without, they themselves themselves which-afflict suffering, to-enemies-even doing is-difficult.",
- "translation": "The suffering that the ignorant inflict upon themselves is hard even for their enemies to cause.",
- "modern": "அறிவில்லாதவர்கள் தங்களுக்குத் தாங்களே உண்டாக்கிக் கொள்ளும் துன்பத்தை, அவர்களுடைய பகைவர்களாலும் அவர்களுக்குச் செய்வது கடினம்.",
- "explanation": "This couplet highlights the self-destructive nature of ignorance. The phrase 'அறிவு இலார்' refers to those lacking wisdom or proper understanding. Because of their foolish actions, they bring 'பீழை' (suffering) upon themselves. The poet emphasizes the severity of this self-inflicted harm by stating that even their worst enemies ('செறுவார்க்கும்') would find it difficult to cause them such immense pain. Thus, ignorance is portrayed as a person's greatest enemy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who lack knowledge, themselves upon themselves inflicting harm, even for enemies doing is difficult.",
+ "translation": "The harm that those who lack wisdom inflict upon themselves is difficult even for their enemies to do to them.",
+ "modern": "அறிவில்லாதவர்கள் தமக்குத் தாமே செய்து கொள்ளும் துன்பத்தை, அவர்களுடைய பகைவர்களாலும் அவர்களுக்குச் செய்வது கடினம்.",
+ "explanation": "This couplet highlights the self-destructive nature of foolishness. People who lack wisdom constantly make poor decisions that bring suffering upon themselves. The poet emphasizes that the severity of this self-inflicted harm is so great that even their bitterest enemies would find it difficult to cause them such ruin. Ultimately, a foolish person's own ignorance acts as a far more destructive force than any external adversary.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

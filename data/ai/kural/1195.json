@@ -28,10 +28,10 @@
     {
      "text": "கொண்டார்",
      "lemma": "கொள்",
-     "gloss": "had-he"
+     "gloss": "those who held"
     }
    ],
-   "gloss": "he who had"
+   "gloss": "those whom we love"
   },
   {
    "surface": "நமக்கு",
@@ -39,7 +39,7 @@
     {
      "text": "நமக்கு",
      "lemma": "நாம்",
-     "gloss": "to-us"
+     "gloss": "to us"
     }
    ],
    "gloss": "to us"
@@ -53,29 +53,39 @@
      "gloss": "what"
     }
    ],
-   "gloss": "what"
+   "gloss": "what benefit"
   },
   {
    "surface": "செய்பவோ",
    "parts": [
     {
-     "text": "செய்பவோ",
+     "text": "செய்",
      "lemma": "செய்",
-     "gloss": "will-do-he-[question]"
+     "gloss": "do"
+    },
+    {
+     "text": "ப",
+     "lemma": "ப",
+     "gloss": "they (suffix)"
+    },
+    {
+     "text": "ஓ",
+     "lemma": "ஓ",
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "will he do?"
+   "gloss": "will they do?"
   },
   {
    "surface": "தாம்",
    "parts": [
     {
      "text": "தாம்",
-     "lemma": "தாம்",
-     "gloss": "he-himself"
+     "lemma": "தான்",
+     "gloss": "they themselves"
     }
    ],
-   "gloss": "he himself"
+   "gloss": "they themselves"
   },
   {
    "surface": "காதல்",
@@ -94,7 +104,7 @@
     {
      "text": "கொள்ளா",
      "lemma": "கொள்",
-     "gloss": "not-having"
+     "gloss": "not having"
     }
    ],
    "gloss": "not having"
@@ -108,13 +118,13 @@
      "gloss": "when"
     }
    ],
-   "gloss": "when"
+   "gloss": "when / if"
   }
  ],
- "literal": "We love had-he to-us what will-do-he he-himself love not-having when",
- "translation": "What good will he do for me, the one I have loved so much, when he himself feels no love for me?",
- "modern": "நாம் அவர் மேல் காதல் கொண்டுள்ளோம்; ஆனால் அவர் நம் மேல் காதல் கொள்ளாத போது, அவர் நமக்கு என்ன நன்மை செய்வார்?",
- "explanation": "The heroine speaks in her solitary anguish about unrequited love. She wonders what benefit or comfort her lover can possibly bring her if the love is entirely one-sided. The phrase 'நாம் காதல் கொண்டார்' refers to the man she has loved, while 'தாம் காதல் கொள்ளாக் கடை' highlights his failure to reciprocate that love. This contrast emphasizes the pain of loving someone who does not love in return.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "We love those who held, to us what benefit will they do, they themselves love not having when?",
+ "translation": "What can the one whom we love do for us, if he himself does not feel love for us?",
+ "modern": "நாம் அன்பு செலுத்தும் காதலர், அவராக நம்மிடம் அன்பு செலுத்தாதபோது, நமக்கு என்ன செய்ய முடியும்?",
+ "explanation": "In this couplet, the pining lover laments the futility of one-sided love. The phrase 'nām kātal koṇṭār' refers to the beloved whom the speaker loves. The word 'kaṭai' is used here as a conditional term meaning 'when' or 'if'. The speaker asks what help or comfort ('evaṉ') the beloved can possibly offer ('ceypavō') if they themselves ('tām') do not feel any love ('kātal koḷḷā') in return. It beautifully captures the helplessness of loving someone who remains indifferent.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

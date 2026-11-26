@@ -6,36 +6,31 @@
     {
      "text": "நன்று",
      "lemma": "நன்று",
-     "gloss": "good"
+     "gloss": "good thing"
     },
     {
      "text": "என்ற",
      "lemma": "என்",
-     "gloss": "said"
+     "gloss": "that which is said to be"
     }
    ],
-   "gloss": "said to be good"
+   "gloss": "of those said to be good"
   },
   {
    "surface": "வற்றுள்ளும்",
    "parts": [
     {
-     "text": "வற்று",
-     "lemma": "அவை",
-     "gloss": "those"
-    },
-    {
-     "text": "உள்",
-     "lemma": "உள்",
-     "gloss": "among"
+     "text": "வற்றுள்",
+     "lemma": "அவற்றுள்",
+     "gloss": "among those things"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even / also"
     }
    ],
-   "gloss": "even among those"
+   "gloss": "even among those things"
   },
   {
    "surface": "நன்றே",
@@ -48,10 +43,10 @@
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "is good indeed"
+   "gloss": "is indeed the best"
   },
   {
    "surface": "முதுவருள்",
@@ -59,7 +54,7 @@
     {
      "text": "முதுவர்",
      "lemma": "முதுவர்",
-     "gloss": "elders"
+     "gloss": "elders / wise people"
     },
     {
      "text": "உள்",
@@ -67,7 +62,7 @@
      "gloss": "among"
     }
    ],
-   "gloss": "among elders"
+   "gloss": "among the wise elders"
   },
   {
    "surface": "முந்து",
@@ -75,17 +70,17 @@
     {
      "text": "முந்து",
      "lemma": "முந்து",
-     "gloss": "advancing"
+     "gloss": "to go before / forestall"
     }
    ],
-   "gloss": "advancing"
+   "gloss": "stepping forward / forestalling"
   },
   {
    "surface": "கிளவா",
    "parts": [
     {
      "text": "கிளவா",
-     "lemma": "கிள",
+     "lemma": "கிளத்தல்",
      "gloss": "not speaking"
     }
    ],
@@ -97,16 +92,16 @@
     {
      "text": "செறிவு",
      "lemma": "செறிவு",
-     "gloss": "restraint"
+     "gloss": "restraint / self-control"
     }
    ],
-   "gloss": "restraint"
+   "gloss": "the restraint"
   }
  ],
- "literal": "good said those among even good indeed elders among advancing not speaking restraint",
- "translation": "Even among all things considered good, the restraint of not rushing to speak before elders is truly excellent.",
- "modern": "நல்லவை என்று சொல்லப்பட்ட எல்லாவற்றுள்ளும், அறிவில் முதிர்ந்தவர் அவையில் முந்திக்கொண்டு பேசாத அடக்கமே மிகவும் நல்லதாகும்.",
- "explanation": "This couplet emphasizes the virtue of humility and restraint in an assembly. The phrase 'முந்து கிளவாச் செறிவு' refers to the composure of holding back and not speaking out of turn before those who are older and wiser. The poet declares that among all recognized virtues, this specific restraint is exceptionally good.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Among those things said to be good, the best indeed is the restraint of not speaking before elders.",
+ "translation": "Among all things that are considered good, the restraint of not speaking before wise elders is indeed the best.",
+ "modern": "நன்மை என்று சொல்லப்பட்டவற்றுள்ளும் மிகச் சிறந்தது, அறிவு முதிர்ந்த பெரியோர்களுக்கு முன்னால் முந்திக்கொண்டு பேசாமல் அடங்கியிருக்கும் அடக்கமே ஆகும்.",
+ "explanation": "This couplet emphasizes the virtue of respectful silence and restraint in the presence of wise elders. The word 'முதுவர்' refers to those who are mature in both age and wisdom. 'முந்து கிளவாச் செறிவு' describes the self-control of not rushing to speak before these elders have spoken. The author declares that among all virtues considered good, this quiet deference is the most excellent.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

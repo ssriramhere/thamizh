@@ -5,11 +5,12 @@
    "parts": [
     {
      "text": "தினைத்துணையாங்",
-     "lemma": "தினைத்துணையாம்",
-     "gloss": "millet-measure-becoming"
+     "lemma": "தினைத்துணையாங்",
+     "gloss": "millet-sized"
     }
    ],
-   "gloss": "millet-measure-becoming"
+   "gloss": "millet-sized",
+   "split_unverified": true
   },
   {
    "surface": "குற்றம்",
@@ -27,8 +28,8 @@
    "parts": [
     {
      "text": "வரின்",
-     "lemma": "வருதல்",
-     "gloss": "if-comes"
+     "lemma": "வரு",
+     "gloss": "if comes"
     },
     {
      "text": "உம்",
@@ -43,19 +44,25 @@
    "parts": [
     {
      "text": "பனைத்துணையாக்",
-     "lemma": "பனைத்துணையாக",
-     "gloss": "palm-measure-as"
+     "lemma": "பனைத்துணையாக்",
+     "gloss": "as palmyra-sized"
     }
    ],
-   "gloss": "palm-measure-as"
+   "gloss": "as palmyra-sized",
+   "split_unverified": true
   },
   {
    "surface": "கொள்வர்",
    "parts": [
     {
-     "text": "கொள்வர்",
-     "lemma": "கொள்ளுதல்",
-     "gloss": "they-will-consider"
+     "text": "கொள்",
+     "lemma": "கொள்",
+     "gloss": "take"
+    },
+    {
+     "text": "வர்",
+     "lemma": "அவர்",
+     "gloss": "they"
     }
    ],
    "gloss": "they will consider"
@@ -66,27 +73,32 @@
     {
      "text": "பழி",
      "lemma": "பழி",
-     "gloss": "blame"
+     "gloss": "disgrace"
     }
    ],
-   "gloss": "blame"
+   "gloss": "disgrace"
   },
   {
    "surface": "நாணுவார்",
    "parts": [
     {
-     "text": "நாணுவார்",
-     "lemma": "நாணுதல்",
-     "gloss": "those-who-fear"
+     "text": "நாணு",
+     "lemma": "நாணு",
+     "gloss": "shrink from"
+    },
+    {
+     "text": "வார்",
+     "lemma": "அவர்",
+     "gloss": "they who"
     }
    ],
    "gloss": "those who fear"
   }
  ],
- "literal": "Millet-measure-becoming fault even-if-comes palm-measure-as they-will-consider blame those-who-fear.",
- "translation": "Those who shrink from disgrace will consider a fault as big as a palm tree, even if it is only the size of a millet seed.",
- "modern": "பழிக்கு அஞ்சுகின்றவர்கள், தினை அளவு சிறிய குற்றம் வந்தாலும், அதனைப் பனை அளவு பெரியதாகக் கருதுவார்கள்.",
- "explanation": "This couplet contrasts the tiny millet seed with the massive palmyra tree to illustrate how the virtuous view their own mistakes. Those who deeply fear disgrace do not dismiss small errors. Instead, they magnify even the slightest fault to ensure they maintain their moral integrity.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if a fault as small as a millet seed comes, those who fear disgrace will consider it as large as a palmyra palm.",
+ "translation": "Those who shrink from disgrace will regard a fault as huge as a palmyra palm, even if it is as tiny as a millet seed.",
+ "modern": "பழிக்கு அஞ்சுகின்றவர்கள், தினை அளவு சிறிய குற்றம் தமக்கு நேர்ந்தாலும், அதனைப் பனை மர அளவு பெரியதாகக் கருதி எச்சரிக்கையோடு இருப்பார்கள்.",
+ "explanation": "This couplet highlights the extreme vigilance of noble people who dread disgrace. The poet contrasts two well-known objects of vastly different sizes: the tiny millet seed ('தினை') and the massive palmyra palm ('பனை'). Those who fear blame ('பழிநாணுவார்') do not ignore even the smallest slip-up; instead, they treat a minuscule error as a monumental disaster. By magnifying their own minor faults, they actively correct themselves and preserve their flawless character.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

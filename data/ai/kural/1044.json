@@ -17,10 +17,10 @@
     {
      "text": "பிறந்தார்",
      "lemma": "பிற",
-     "gloss": "those born"
+     "gloss": "those who were born"
     }
    ],
-   "gloss": "those born"
+   "gloss": "those who were born"
   },
   {
    "surface": "கண்ணேயும்",
@@ -28,12 +28,12 @@
     {
      "text": "கண்",
      "lemma": "கண்",
-     "gloss": "among"
+     "gloss": "in (locative marker)"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "emphasis"
+     "gloss": "indeed (emphasis)"
     },
     {
      "text": "உம்",
@@ -41,7 +41,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even among"
+   "gloss": "even in"
   },
   {
    "surface": "இன்மை",
@@ -58,17 +58,12 @@
    "surface": "இளிவந்த",
    "parts": [
     {
-     "text": "இளி",
-     "lemma": "இளி",
-     "gloss": "disgrace"
-    },
-    {
-     "text": "வந்த",
-     "lemma": "வா",
-     "gloss": "that came"
+     "text": "இளிவந்த",
+     "lemma": "இளிவரல்",
+     "gloss": "humiliating"
     }
    ],
-   "gloss": "disgraceful"
+   "gloss": "humiliating"
   },
   {
    "surface": "சொல்",
@@ -76,10 +71,10 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "words"
     }
    ],
-   "gloss": "word"
+   "gloss": "words"
   },
   {
    "surface": "பிறக்கும்",
@@ -87,10 +82,10 @@
     {
      "text": "பிறக்கும்",
      "lemma": "பிற",
-     "gloss": "that are born"
+     "gloss": "will arise"
     }
    ],
-   "gloss": "that are born"
+   "gloss": "will arise"
   },
   {
    "surface": "சோர்வு",
@@ -98,10 +93,10 @@
     {
      "text": "சோர்வு",
      "lemma": "சோர்வு",
-     "gloss": "weakness"
+     "gloss": "weariness / mental lapse"
     }
    ],
-   "gloss": "weakness"
+   "gloss": "weariness / mental lapse"
   },
   {
    "surface": "தரும்",
@@ -109,16 +104,16 @@
     {
      "text": "தரும்",
      "lemma": "தா",
-     "gloss": "will give"
+     "gloss": "will bring"
     }
    ],
-   "gloss": "will give"
+   "gloss": "will bring"
   }
  ],
- "literal": "noble family - those born - even among - poverty - disgraceful - word - that are born - weakness - will give",
- "translation": "Poverty brings a weakness that gives rise to disgraceful words, even among those born in noble families.",
- "modern": "நல்ல குடியில் பிறந்தவர்களிடத்திலும், வறுமையானது இழிவான சொற்கள் பிறப்பதற்குக் காரணமான சோர்வினை உண்டாக்கும்.",
- "explanation": "This couplet explains how poverty can degrade even the most refined people. The word 'இல்' (il) here specifically means a noble or good family. 'இன்மை' (iṉmai), meaning poverty, is shown as a destructive force that brings 'சோர்வு' (cōrvu), a mental or moral weakness. Because of this weakness, even those raised with high standards may end up speaking 'இளிவந்த சொல்' (iḷivanda col), which are disgraceful or undignified words.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even in those born of noble family, poverty will bring a weariness that causes humiliating words to arise.",
+ "translation": "Even in those born of noble birth, poverty brings a weariness of mind that gives rise to degrading words.",
+ "modern": "உயர்ந்த குடியில் பிறந்தவர்களிடத்திலும், வறுமையானது இழிவான சொற்கள் தோன்றுவதற்குக் காரணமான சோர்வினை உண்டாக்கும்.",
+ "explanation": "This couplet describes the devastating psychological impact of poverty. Even individuals born into noble families, who are naturally refined in speech and conduct, are not immune to its effects. Poverty causes a deep mental weariness or lapse in self-control (cōrvu). This exhaustion weakens their resolve, leading them to utter humiliating or begging words (iḷivanda col) that they would otherwise never speak.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

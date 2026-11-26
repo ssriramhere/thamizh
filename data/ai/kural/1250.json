@@ -6,7 +6,7 @@
     {
      "text": "துன்னு",
      "lemma": "துன்னு",
-     "gloss": "to approach"
+     "gloss": "to approach or befriend"
     },
     {
      "text": "ஆ",
@@ -14,51 +14,75 @@
      "gloss": "negative suffix"
     }
    ],
-   "gloss": "without approaching"
+   "gloss": "without approaching or loving"
   },
   {
    "surface": "துறந்தாரை",
    "parts": [
     {
-     "text": "துறந்தார்",
+     "text": "துற",
      "lemma": "துற",
-     "gloss": "he who left"
+     "gloss": "to abandon"
+    },
+    {
+     "text": "ந்",
+     "lemma": "த்",
+     "gloss": "euphonic glide"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "he (honorific/pronominal suffix)"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "him who left"
+   "gloss": "him who abandoned us"
   },
   {
    "surface": "நெஞ்சத்து",
    "parts": [
     {
-     "text": "நெஞ்சத்து",
-     "lemma": "நெஞ்சத்து",
-     "gloss": "in the heart"
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "heart or mind"
+    },
+    {
+     "text": "அத்து",
+     "lemma": "அத்து",
+     "gloss": "inflectional increment"
     }
    ],
-   "gloss": "in the heart",
-   "split_unverified": true
+   "gloss": "in the heart"
   },
   {
    "surface": "உடையேமா",
    "parts": [
     {
-     "text": "உடையேம்",
+     "text": "உடை",
      "lemma": "உடை",
-     "gloss": "we possess"
+     "gloss": "to possess"
+    },
+    {
+     "text": "ஏம்",
+     "lemma": "ஏம்",
+     "gloss": "we"
     },
     {
      "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "interrogative suffix"
+     "gloss": "interrogative particle"
     }
    ],
-   "gloss": "do we possess?"
+   "gloss": "do we keep or possess?"
   },
   {
    "surface": "இன்னும்",
@@ -66,18 +90,28 @@
     {
      "text": "இன்னும்",
      "lemma": "இன்னும்",
-     "gloss": "still"
+     "gloss": "still or further"
     }
    ],
-   "gloss": "still"
+   "gloss": "still further"
   },
   {
    "surface": "இழத்தும்",
    "parts": [
     {
-     "text": "இழத்தும்",
+     "text": "இழ",
      "lemma": "இழ",
-     "gloss": "we will lose"
+     "gloss": "to lose"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "future tense marker"
+    },
+    {
+     "text": "தும்",
+     "lemma": "தும்",
+     "gloss": "we"
     }
    ],
    "gloss": "we will lose"
@@ -88,16 +122,16 @@
     {
      "text": "கவின்",
      "lemma": "கவின்",
-     "gloss": "beauty"
+     "gloss": "beauty or physical charm"
     }
    ],
    "gloss": "beauty"
   }
  ],
- "literal": "Without approaching, him who left, in heart do we possess? Still we will lose beauty.",
- "translation": "Do we still hold in our heart the lover who left us without an embrace? If so, we will only lose our beauty even more.",
- "modern": "நம்மை நெருங்காமல் பிரிந்து சென்றவரை நாம் இன்னும் நெஞ்சில் கொண்டிருக்கிறோமா? அப்படியானால் நாம் நமது அழகை இன்னும் இழந்துவிடுவோம்.",
- "explanation": "The heroine addresses her own heart in a moment of deep sorrow over her unrequited longing. She questions why they still hold onto the memory of a lover who abandoned them without showing any closeness or affection. She realizes that keeping him constantly in her thoughts will only cause her to pine away and lose whatever beauty she has left.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without approaching us him who abandoned us, in our heart if we keep, still we will lose our beauty.",
+ "translation": "If we continue to keep him in our heart, who abandoned us without any desire to return, we will only go on losing our beauty.",
+ "modern": "நம்மை நெருங்கி வராமல் கைவிட்டுச் சென்றவரை நம் நெஞ்சில் நினைத்துக் கொண்டிருப்பதால்தான், நாம் இன்னும் நம் அழகை இழந்து கொண்டிருக்கிறோம்.",
+ "explanation": "In this couplet, the heroine addresses her own heart, questioning its stubborn attachment to the departed lover. The word 'tunnā' describes the lover as someone who has abandoned her without any intention of approaching or showing affection. She warns her heart that by harboring him inside ('neñcattu uṭaiyēmā'), they are only prolonging their own grief. This internal sorrow manifests physically, causing her to continuously lose her natural beauty and luster ('kaviṉ').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

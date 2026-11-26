@@ -17,7 +17,7 @@
     {
      "text": "அமைந்து",
      "lemma": "அமை",
-     "gloss": "having formed"
+     "gloss": "having settled"
     },
     {
      "text": "இன்று",
@@ -25,7 +25,7 @@
      "gloss": "is not"
     }
    ],
-   "gloss": "has not been formed"
+   "gloss": "is not established"
   },
   {
    "surface": "கொல்லோ",
@@ -33,15 +33,15 @@
     {
      "text": "கொல்",
      "lemma": "கொல்",
-     "gloss": "indeed"
+     "gloss": "particle of doubt"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "[pity/doubt]"
+     "gloss": "clitic of wonder"
     }
    ],
-   "gloss": "alas!"
+   "gloss": "is it indeed?"
   },
   {
    "surface": "உடம்பினுள்",
@@ -54,7 +54,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "[oblique]"
+     "gloss": "oblique case marker"
     },
     {
      "text": "உள்",
@@ -62,7 +62,7 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "inside the body"
+   "gloss": "within the body"
   },
   {
    "surface": "துச்சில்",
@@ -70,10 +70,10 @@
     {
      "text": "துச்சில்",
      "lemma": "துச்சில்",
-     "gloss": "temporary shelter"
+     "gloss": "temporary lodging"
     }
    ],
-   "gloss": "temporary shelter"
+   "gloss": "temporary lodging"
   },
   {
    "surface": "இருந்த",
@@ -81,10 +81,10 @@
     {
      "text": "இருந்த",
      "lemma": "இரு",
-     "gloss": "which stayed"
+     "gloss": "that resided"
     }
    ],
-   "gloss": "which stayed"
+   "gloss": "that resided"
   },
   {
    "surface": "உயிர்க்கு",
@@ -92,21 +92,21 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "soul"
     },
     {
      "text": "க்கு",
      "lemma": "கு",
-     "gloss": "to"
+     "gloss": "dative case marker"
     }
    ],
-   "gloss": "to the life"
+   "gloss": "to the soul"
   }
  ],
- "literal": "Permanent home has not been formed, alas, inside the body in a temporary shelter which stayed to the life.",
- "translation": "Alas, has the life that resides in the temporary shelter of the body not yet found a permanent home?",
- "modern": "உடம்பாகிய தற்காலிகமான குடிசையில் தங்கியிருக்கும் உயிருக்கு, நிலையான ஒரு வீடு இன்னும் அமையவில்லையோ!",
- "explanation": "This couplet contrasts a temporary shelter ('tuccil') with a permanent home ('pukkil'). The body is described merely as a temporary, rented corner where life resides for a short time. The poet wonders with pity ('kollō') whether life has not yet found a permanent dwelling, since it keeps moving from one temporary body to another. This highlights the transience of physical existence and the inevitability of death.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "A permanent home is not established indeed, for the soul that resided in a temporary lodging within the body.",
+ "translation": "Has a permanent home not been established for the soul, that it has to reside in this temporary lodging of a body?",
+ "modern": "உடம்பாகிய தற்காலிகக் குடிலில் தங்கியிருந்த உயிர்க்கு, நிலையானதொரு புகலிடம் இன்னும் அமையவில்லை போலும்!",
+ "explanation": "This couplet contrasts the temporary nature of the physical body with the journey of the soul. The poet uses two key words: 'tuccil', which refers to a makeshift, temporary shelter or hut, and 'pukkil', which means a secure, permanent home. The body is described as a mere temporary lodging where the soul stays briefly. The poet wonders with a sense of irony ('kollō') whether the soul is forced to live in such a fragile, temporary body only because it has not yet found its true, permanent resting place.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

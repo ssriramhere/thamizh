@@ -11,12 +11,12 @@
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "past tense marker"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "past tense"
+     "gloss": "euphonic"
     },
     {
      "text": "ஆன்",
@@ -37,17 +37,17 @@
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "past tense marker"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "past tense"
+     "gloss": "euphonic"
     },
     {
      "text": "அ",
      "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "adjectival suffix"
     }
    ],
    "gloss": "apportioned"
@@ -58,10 +58,10 @@
     {
      "text": "வகை",
      "lemma": "வகை",
-     "gloss": "way"
+     "gloss": "way / manner"
     }
    ],
-   "gloss": "way"
+   "gloss": "way / manner"
   },
   {
    "surface": "அல்லால்",
@@ -69,10 +69,10 @@
     {
      "text": "அல்லால்",
      "lemma": "அல்லால்",
-     "gloss": "except"
+     "gloss": "except / other than"
     }
    ],
-   "gloss": "except"
+   "gloss": "except / other than"
   },
   {
    "surface": "கோடி",
@@ -80,10 +80,10 @@
     {
      "text": "கோடி",
      "lemma": "கோடி",
-     "gloss": "ten million"
+     "gloss": "ten million (crore)"
     }
    ],
-   "gloss": "ten million"
+   "gloss": "ten million (crore) / immense wealth"
   },
   {
    "surface": "தொகுத்தார்க்கு",
@@ -91,30 +91,30 @@
     {
      "text": "தொகு",
      "lemma": "தொகு",
-     "gloss": "to amass"
+     "gloss": "to gather"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "sandhi"
+     "gloss": "past tense marker"
     },
     {
      "text": "த்",
      "lemma": "த்",
-     "gloss": "past tense"
+     "gloss": "euphonic"
     },
     {
      "text": "ஆர்",
      "lemma": "ஆர்",
-     "gloss": "those who"
+     "gloss": "they who"
     },
     {
      "text": "க்கு",
      "lemma": "க்கு",
-     "gloss": "to"
+     "gloss": "to (dative)"
     }
    ],
-   "gloss": "to those who amassed"
+   "gloss": "to those who have accumulated"
   },
   {
    "surface": "துய்த்தல்",
@@ -125,34 +125,29 @@
      "gloss": "to enjoy"
     },
     {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "தல்",
-     "lemma": "தல்",
+     "text": "த்தல்",
+     "lemma": "த்தல்",
      "gloss": "verbal noun suffix"
     }
    ],
-   "gloss": "enjoying"
+   "gloss": "enjoying / experiencing"
   },
   {
    "surface": "அரிது",
    "parts": [
     {
      "text": "அரிது",
-     "lemma": "அருமை",
-     "gloss": "is rare"
+     "lemma": "அரிது",
+     "gloss": "difficult / rare"
     }
    ],
-   "gloss": "is rare"
+   "gloss": "is difficult"
   }
  ],
- "literal": "He who apportioned - apportioned - way - except - ten million - to those who amassed - enjoying - is rare.",
- "translation": "Even for those who have amassed ten million, it is impossible to enjoy it except in the manner ordained by the Apportioner.",
- "modern": "விதியை வகுத்தவன் வகுத்தபடி அல்லாமல், கோடிப் பொருளைச் சேர்த்தவர்க்கும் அதனை அனுபவிப்பது கடினம்.",
- "explanation": "The couplet states that human enjoyment of wealth is strictly bound by destiny. The word 'vakuttāṉ' refers to the one who apportions or ordains, representing the personification of fate. Even if a person successfully gathers 'kōṭi' (ten million) units of wealth, they cannot simply consume or enjoy it at will. The act of 'tuyttal' (enjoying) is only possible in the exact 'vakai' (manner or measure) that has been pre-ordained.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Other than the way He who apportioned has apportioned, to those who have gathered ten million, enjoying is difficult.",
+ "translation": "Except in the way ordained by the Apportioner, it is difficult even for those who have amassed millions to enjoy their wealth.",
+ "modern": "வகுத்தவன் வகுத்துக் கொடுத்த வழியிலல்லாமல், கோடிக்கணக்கான பொருள்களைச் சேர்த்து வைத்தவர்களுக்கும் அவற்றை அனுபவிப்பது கடினமாகும்.",
+ "explanation": "This couplet highlights the supreme power of destiny over human possession and effort. The word 'வகுத்தான்' refers to the Apportioner, the force that pre-ordains each individual's share of experiences. Even if a person succeeds in accumulating immense wealth, represented here by 'கோடி' (ten million), they cannot enjoy ('துய்த்தல்') it unless it is in the manner ('வகை') allotted to them. Thus, the poet emphasizes that possession does not guarantee enjoyment, as our experiences are ultimately governed by destiny.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

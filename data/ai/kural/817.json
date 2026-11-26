@@ -6,22 +6,22 @@
     {
      "text": "நகை",
      "lemma": "நகை",
-     "gloss": "laugh"
+     "gloss": "laughter"
     },
     {
      "text": "வகையர்",
      "lemma": "வகையர்",
-     "gloss": "people of the sort"
+     "gloss": "those of the nature"
     }
    ],
-   "gloss": "people of the joking sort"
+   "gloss": "those whose nature is only laughter and amusement"
   },
   {
    "surface": "ஆகிய",
    "parts": [
     {
      "text": "ஆகிய",
-     "lemma": "ஆகு",
+     "lemma": "ஆ",
      "gloss": "who are"
     }
    ],
@@ -38,10 +38,10 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "than"
+     "gloss": "than (comparative)"
     }
    ],
-   "gloss": "than the friendship"
+   "gloss": "than the friendship of"
   },
   {
    "surface": "பகைவரால்",
@@ -54,10 +54,10 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "by"
+     "gloss": "by or from"
     }
    ],
-   "gloss": "by enemies"
+   "gloss": "from enemies"
   },
   {
    "surface": "பத்து",
@@ -76,7 +76,7 @@
     {
      "text": "அடுத்த",
      "lemma": "அடு",
-     "gloss": "multiplied"
+     "gloss": "multiplied or successive"
     }
    ],
    "gloss": "multiplied"
@@ -87,7 +87,7 @@
     {
      "text": "கோடி",
      "lemma": "கோடி",
-     "gloss": "crore"
+     "gloss": "crore (ten million)"
     }
    ],
    "gloss": "crore"
@@ -98,16 +98,16 @@
     {
      "text": "உறும்",
      "lemma": "உறு",
-     "gloss": "will result"
+     "gloss": "will accrue or is better"
     }
    ],
-   "gloss": "will result"
+   "gloss": "will accrue as benefit"
   }
  ],
- "literal": "Than the friendship of those who are of the joking sort, by enemies ten multiplied by a crore will result.",
- "translation": "Ten crore times more good comes from enemies than from the friendship of those who only joke around.",
- "modern": "வெறுமனே சிரித்துப் பேசிப் பழகும் தன்மை கொண்டவர்களின் நட்பை விட, பகைவர்களால் பத்து கோடி மடங்கு அதிக நன்மை உண்டாகும்.",
- "explanation": "This couplet contrasts superficial friends with open enemies. The phrase 'நகைவகையர்' refers to people whose friendship consists only of laughing and joking, lacking true support or sincerity. The poet states that having enemies brings 'பத்து அடுத்த கோடி' (ten crore) times more benefit than having such shallow friends. Enemies, by their open hostility, keep one alert and grounded, whereas false friends offer nothing of substance and can cause unexpected harm.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Than the friendship of those who are of the nature of laughter only, from enemies ten multiplied by crore benefits will accrue.",
+ "translation": "Rather than the friendship of those who only make merry with you, ten million times more benefit will come from open enemies.",
+ "modern": "சிரித்துப் பேசிப் பொழுதுபோக்கும் தன்மையுடையவரின் நட்பை விட, பகைவர்களால் பத்து கோடி மடங்கு நன்மைகள் உண்டாகும்.",
+ "explanation": "This couplet contrasts superficial friends with open enemies. The term 'nakai-vakaiyar' refers to people whose association is limited to laughter, jokes, and superficial pleasantries, offering no genuine support in times of adversity. The poet declares that even the hostility of declared enemies is ten crore times more beneficial than such empty friendship. An open enemy allows one to be cautious and prepared, whereas a superficial friend gives a false sense of security and fails when help is most needed.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

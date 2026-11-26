@@ -28,10 +28,10 @@
     {
      "text": "தோய்வு",
      "lemma": "தோய்வு",
-     "gloss": "plunging"
+     "gloss": "touching"
     }
    ],
-   "gloss": "plunging"
+   "gloss": "touching"
   },
   {
    "surface": "அன்ன",
@@ -74,7 +74,7 @@
      "gloss": "even"
     }
    ],
-   "gloss": "even if done"
+   "gloss": "even if one does"
   },
   {
    "surface": "புணரின்",
@@ -90,40 +90,35 @@
      "gloss": "if"
     }
    ],
-   "gloss": "if possible"
+   "gloss": "if it is possible"
   },
   {
    "surface": "வெகுளாமை",
    "parts": [
     {
-     "text": "வெகுள்",
+     "text": "வெகுளாமை",
      "lemma": "வெகுள்",
-     "gloss": "be angry"
-    },
-    {
-     "text": "ஆமை",
-     "lemma": "ஆமை",
-     "gloss": "not doing"
+     "gloss": "not getting angry"
     }
    ],
-   "gloss": "non-anger"
+   "gloss": "not getting angry"
   },
   {
    "surface": "நன்று",
    "parts": [
     {
      "text": "நன்று",
-     "lemma": "நல்",
-     "gloss": "good thing"
+     "lemma": "நன்று",
+     "gloss": "good"
     }
    ],
    "gloss": "is good"
   }
  ],
- "literal": "Cluster fire plunging like painful things even if done, if possible non-anger is good.",
- "translation": "Even if someone inflicts pain as severe as plunging you into a blazing fire, it is good if you can manage not to get angry.",
- "modern": "பல சுடர்களை உடைய நெருப்பில் விழுவது போன்ற துன்பங்களை ஒருவர் செய்தாலும், முடிந்தால் அவர் மேல் கோபம் கொள்ளாமல் இருப்பது நல்லது.",
- "explanation": "The couplet compares severe harm caused by others to being thrown into a blazing, multi-flamed fire (இணர் எரி). Even when facing such extreme and painful provocation (இன்னா செயினும்), the text advises restraint. The word 'புணரின்' means 'if it is possible' or 'if one can manage it', acknowledging how difficult it is to control anger in such situations. Ultimately, maintaining non-anger (வெகுளாமை) under such intense trials is declared to be a true good (நன்று).",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even if one does painful things like the touch of a cluster of fire, if possible, not getting angry is good.",
+ "translation": "Even if someone inflicts painful harms as agonizing as being touched by a blazing fire, it is best, if one can manage it, to refrain from anger.",
+ "modern": "நெருப்புக் கூட்டத்தைத் தொடுவது போன்ற துன்பங்களை ஒருவன் நமக்குச் செய்தாலும், முடிந்தவரை அவனிடம் கோபம் கொள்ளாமல் இருப்பது நல்லது.",
+ "explanation": "The couplet highlights the supreme value of patience and anger management under extreme provocation. The poet compares severe, malicious harm to the physical agony of being touched by a blazing, multi-tongued fire ('இணர் எரி'). Even when subjected to such intense pain, the author advises that if one can possibly summon the strength ('புணரின்'), remaining free from anger ('வெகுளாமை') is the best course of action. This emphasizes that self-control is not just for minor annoyances but is most crucial and noble during the most severe trials.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -9,25 +9,30 @@
      "gloss": "family"
     }
    ],
-   "gloss": "family"
+   "gloss": "family or lineage"
   },
   {
    "surface": "செய்வார்க்கு",
    "parts": [
     {
-     "text": "செய்வார்க்கு",
+     "text": "செய்வார்",
      "lemma": "செய்",
-     "gloss": "to those who uplift"
+     "gloss": "those who make or elevate"
+    },
+    {
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
-   "gloss": "to those who uplift"
+   "gloss": "to those who elevate"
   },
   {
    "surface": "இல்லை",
    "parts": [
     {
      "text": "இல்லை",
-     "lemma": "இல்",
+     "lemma": "இல்லை",
      "gloss": "there is not"
     }
    ],
@@ -39,10 +44,10 @@
     {
      "text": "பருவம்",
      "lemma": "பருவம்",
-     "gloss": "season"
+     "gloss": "season or proper time"
     }
    ],
-   "gloss": "season"
+   "gloss": "proper time"
   },
   {
    "surface": "மடி",
@@ -50,10 +55,10 @@
     {
      "text": "மடி",
      "lemma": "மடி",
-     "gloss": "laziness"
+     "gloss": "sloth or laziness"
     }
    ],
-   "gloss": "laziness"
+   "gloss": "sloth"
   },
   {
    "surface": "செய்து",
@@ -61,10 +66,10 @@
     {
      "text": "செய்து",
      "lemma": "செய்",
-     "gloss": "having done"
+     "gloss": "doing or practicing"
     }
    ],
-   "gloss": "having done"
+   "gloss": "practicing"
   },
   {
    "surface": "மானம்",
@@ -72,10 +77,10 @@
     {
      "text": "மானம்",
      "lemma": "மானம்",
-     "gloss": "honor"
+     "gloss": "pride or dignity"
     }
    ],
-   "gloss": "honor"
+   "gloss": "personal pride"
   },
   {
    "surface": "கருத",
@@ -83,10 +88,10 @@
     {
      "text": "கருத",
      "lemma": "கருது",
-     "gloss": "if considered"
+     "gloss": "if one considers"
     }
    ],
-   "gloss": "if considered"
+   "gloss": "if one considers"
   },
   {
    "surface": "கெடும்",
@@ -94,16 +99,16 @@
     {
      "text": "கெடும்",
      "lemma": "கெடு",
-     "gloss": "will perish"
+     "gloss": "will be ruined"
     }
    ],
-   "gloss": "will perish"
+   "gloss": "will be ruined"
   }
  ],
- "literal": "Family to those who uplift there is not season; laziness having done, honor if considered, it will perish.",
- "translation": "There is no set season for those who strive to uplift their family. If they yield to laziness and worry about their personal honor, their family will perish.",
- "modern": "தம் குடியை உயர்த்த முயல்வோருக்கு அதற்கான காலம் என்று தனியாக ஒன்றில்லை. அவர்கள் சோம்பல்பட்டுத் தம் தனிப்பட்ட கௌரவத்தைப் பார்த்தால், அவர்கள் குடி அழிந்துவிடும்.",
- "explanation": "The couplet emphasizes that uplifting one's family requires constant effort, regardless of the time or season. The word 'பருவம்' (season) signifies that one cannot wait for favorable conditions to act. If a person gives in to 'மடி' (laziness) or hesitates out of a false sense of 'மானம்' (personal honor or prestige, thinking a task is beneath them), the family's welfare will be destroyed.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who elevate their family, there is no proper season; if they practice sloth and consider their pride, it will be ruined.",
+ "translation": "For those who strive to elevate their family, there is no set season for work; if they indulge in laziness and worry about their personal dignity, their family will go to ruin.",
+ "modern": "தங்கள் குடும்பத்தை உயரச் செய்ய உழைப்பவர்களுக்குக் குறிப்பிட்ட காலம் என்று எதுவும் இல்லை; அவர்கள் சோம்பல் பட்டுக்கொண்டு, தங்கள் மானத்தைப் பற்றி கவலைப்பட்டுக் கொண்டிருந்தால் குடும்பம் அழிந்துவிடும்.",
+ "explanation": "This couplet emphasizes that uplifting one's family requires constant, selfless effort. Those who are committed to this task cannot wait for a convenient time or a favorable season (paruvam) to act. If they succumb to laziness (mati) or hesitate out of concern for their personal pride and status (manam), their noble purpose will fail and the family will decline. Therefore, overcoming sloth and ego is essential for the welfare of one's lineage.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

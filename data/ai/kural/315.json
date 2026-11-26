@@ -11,12 +11,12 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "ஆன்",
      "lemma": "ஆன்",
-     "gloss": "instrumental suffix"
+     "gloss": "instrumental case suffix"
     }
    ],
    "gloss": "by knowledge"
@@ -27,20 +27,15 @@
     {
      "text": "ஆகு",
      "lemma": "ஆகு",
-     "gloss": "to become"
+     "gloss": "to accrue"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future suffix"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "neuter singular suffix"
+     "text": "வது",
+     "lemma": "வது",
+     "gloss": "neuter participial noun suffix"
     }
    ],
-   "gloss": "that which results"
+   "gloss": "what benefit accrues"
   },
   {
    "surface": "உண்டோ",
@@ -48,12 +43,12 @@
     {
      "text": "உண்டு",
      "lemma": "உண்டு",
-     "gloss": "is there"
+     "gloss": "there is"
     },
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "question particle"
+     "gloss": "interrogative particle"
     }
    ],
    "gloss": "is there?"
@@ -64,15 +59,15 @@
     {
      "text": "பிறிது",
      "lemma": "பிறிது",
-     "gloss": "other"
+     "gloss": "other thing"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "genitive suffix"
+     "gloss": "genitive case suffix"
     }
    ],
-   "gloss": "of another"
+   "gloss": "of another being"
   },
   {
    "surface": "நோய்",
@@ -80,7 +75,7 @@
     {
      "text": "நோய்",
      "lemma": "நோய்",
-     "gloss": "pain"
+     "gloss": "pain/suffering"
     }
    ],
    "gloss": "pain"
@@ -103,7 +98,7 @@
     {
      "text": "போற்று",
      "lemma": "போற்று",
-     "gloss": "to regard"
+     "gloss": "to protect"
     },
     {
      "text": "ஆ",
@@ -113,10 +108,10 @@
     {
      "text": "க்",
      "lemma": "க்",
-     "gloss": "sandhi"
+     "gloss": "sandhi consonant"
     }
    ],
-   "gloss": "not regarding"
+   "gloss": "not protecting"
   },
   {
    "surface": "கடை",
@@ -124,16 +119,16 @@
     {
      "text": "கடை",
      "lemma": "கடை",
-     "gloss": "state"
+     "gloss": "if not"
     }
    ],
-   "gloss": "in the state (if)"
+   "gloss": "if not"
   }
  ],
- "literal": "Is there a result from knowledge, in the state of not regarding another's pain like one's own pain?",
- "translation": "What is the benefit of knowledge if one does not regard the pain of others as one's own?",
- "modern": "பிறருடைய துன்பத்தைத் தன் துன்பம் போலக் கருதிப் போற்றாவிட்டால், ஒருவன் பெற்ற அறிவினால் ஆகும் பயன் உண்டோ?",
- "explanation": "This couplet questions the ultimate purpose of acquiring knowledge. It asserts that true wisdom must naturally lead to empathy and compassion. If a person cannot recognize and treat the suffering of others just as they would their own, their intelligence yields no meaningful benefit. The word 'கடை' here acts as a conditional, meaning 'in the state where' or 'if'.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By knowledge what benefit is there, if one does not protect another's pain like one's own pain?",
+ "translation": "Of what use is a person's knowledge if they do not shield other living beings from pain as they would protect themselves from their own suffering?",
+ "modern": "மற்ற உயிர்களின் துன்பத்தைத் தன் துன்பத்தைப் போலக் கருதித் தடுத்துக் காப்பாற்றாவிட்டால், ஒருவன் பெற்ற அறிவினால் உண்டாகும் பயன் ஏதேனும் உண்டோ?",
+ "explanation": "This couplet defines the true purpose of human intellect and wisdom. The author asks rhetorically what benefit can possibly come from knowledge if it does not lead to empathy. True wisdom must manifest as the ability to feel another's suffering as if it were one's own. If a person fails to protect others from pain, all their learning and intellect are rendered completely useless.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

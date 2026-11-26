@@ -14,7 +14,7 @@
      "gloss": "every time"
     }
    ],
-   "gloss": "every time intoxicated"
+   "gloss": "with every increasing intoxication"
   },
   {
    "surface": "கள்",
@@ -22,7 +22,7 @@
     {
      "text": "கள்",
      "lemma": "கள்",
-     "gloss": "liquor"
+     "gloss": "toddy / liquor"
     }
    ],
    "gloss": "liquor"
@@ -32,7 +32,7 @@
    "parts": [
     {
      "text": "உண்டல்",
-     "lemma": "உண்",
+     "lemma": "உண்டல்",
      "gloss": "drinking"
     }
    ],
@@ -42,13 +42,17 @@
    "surface": "வேட்டற்று",
    "parts": [
     {
-     "text": "வேட்டற்று",
-     "lemma": "வேட்டற்று",
-     "gloss": "like being desired"
+     "text": "வேட்டு",
+     "lemma": "வேள்",
+     "gloss": "having desired"
+    },
+    {
+     "text": "அற்று",
+     "lemma": "அற்று",
+     "gloss": "like"
     }
    ],
-   "gloss": "like being desired",
-   "split_unverified": true
+   "gloss": "is like desiring"
   },
   {
    "surface": "ஆல்",
@@ -56,7 +60,7 @@
     {
      "text": "ஆல்",
      "lemma": "ஆல்",
-     "gloss": "indeed"
+     "gloss": "indeed (emphatic particle)"
     }
    ],
    "gloss": "indeed"
@@ -76,14 +80,9 @@
    "surface": "வெளிப்படும்",
    "parts": [
     {
-     "text": "வெளி",
-     "lemma": "வெளி",
-     "gloss": "outside"
-    },
-    {
-     "text": "படும்",
-     "lemma": "படு",
-     "gloss": "will happen"
+     "text": "வெளிப்படும்",
+     "lemma": "வெளிப்படு",
+     "gloss": "becomes public"
     }
    ],
    "gloss": "becomes public"
@@ -105,16 +104,16 @@
     {
      "text": "இனிது",
      "lemma": "இனிது",
-     "gloss": "sweet"
+     "gloss": "is sweet"
     }
    ],
-   "gloss": "sweet"
+   "gloss": "is sweet"
   }
  ],
- "literal": "Every time intoxicated liquor drinking is desired like that indeed love becoming public every time is sweet.",
- "translation": "Just as drinking liquor is desired more with every wave of intoxication, love grows sweeter every time it becomes public knowledge.",
- "modern": "கள் குடித்து போதை ஏற ஏற மீண்டும் அதைக் குடிக்க விரும்புவது போல, காதல் ஊருக்குத் தெரிய வரும்போதெல்லாம் அது இனிமையாகவே இருக்கிறது.",
- "explanation": "This couplet compares the public discovery of a secret romance to the drinking of liquor. Just as a person who drinks liquor desires it more with every wave of intoxication, the lovers find their passion growing sweeter every time a new rumor spreads about them. The word 'களித்தொறும்' shows the escalating nature of the joy, while 'வெளிப்படுந்தோறும்' links the sweetness directly to the public exposure of their love.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "With every intoxication, drinking liquor is like desiring; love, every time it becomes public, is sweet.",
+ "translation": "Just as drinking liquor is desired more and more as one's intoxication grows, so does love become sweeter and sweeter each time it is revealed to the public.",
+ "modern": "மதுவினால் மயக்கம் அதிகமாகும் போதெல்லாம் மேலும் மது குடிக்க விரும்புவதைப் போல, காமம் பிறருக்குத் தெரியவரும் போதெல்லாம் மேலும் இன்பம் தருகிறது.",
+ "explanation": "This couplet compares the nature of secret love to the addiction of drinking liquor. Normally, lovers might fear their secret affair being exposed to the town, but here they find that public gossip only intensifies their passion. The key word 'களித்தொறும்' means 'with every increasing intoxication', and 'வெளிப்படுந்தொறும்' means 'with every public revelation'. Just as an intoxicated person craves more alcohol with every sip, the lovers find their mutual desire growing sweeter and more irresistible every time their love is talked about.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -6,15 +6,15 @@
     {
      "text": "குன்று",
      "lemma": "குன்று",
-     "gloss": "mountain"
+     "gloss": "hill"
     },
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "like"
+     "gloss": "than / like (comparative suffix)"
     }
    ],
-   "gloss": "like a mountain"
+   "gloss": "like a hill"
   },
   {
    "surface": "அனையாரும்",
@@ -27,7 +27,7 @@
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even / also"
     }
    ],
    "gloss": "even those who are like"
@@ -36,43 +36,23 @@
    "surface": "குன்றுவர்",
    "parts": [
     {
-     "text": "குன்று",
+     "text": "குன்றுவர்",
      "lemma": "குன்று",
-     "gloss": "shrink"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அர்",
-     "lemma": "அர்",
-     "gloss": "they"
+     "gloss": "they will diminish / fall in stature"
     }
    ],
-   "gloss": "will shrink"
+   "gloss": "they will diminish"
   },
   {
    "surface": "குன்றுவ",
    "parts": [
     {
-     "text": "குன்று",
+     "text": "குன்றுவ",
      "lemma": "குன்று",
-     "gloss": "shrink"
-    },
-    {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future tense marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "things"
+     "gloss": "degrading deeds / actions that diminish one's stature"
     }
    ],
-   "gloss": "degrading things"
+   "gloss": "degrading deeds"
   },
   {
    "surface": "குன்றி",
@@ -80,10 +60,10 @@
     {
      "text": "குன்றி",
      "lemma": "குன்றி",
-     "gloss": "kunri seed"
+     "gloss": "crab's eye seed (a tiny red seed)"
     }
    ],
-   "gloss": "kunri seed"
+   "gloss": "a crab's eye seed"
   },
   {
    "surface": "அனைய",
@@ -91,7 +71,7 @@
     {
      "text": "அனைய",
      "lemma": "அனைய",
-     "gloss": "like"
+     "gloss": "like / as small as"
     }
    ],
    "gloss": "like"
@@ -100,23 +80,18 @@
    "surface": "செயின்",
    "parts": [
     {
-     "text": "செய்",
+     "text": "செயின்",
      "lemma": "செய்",
-     "gloss": "do"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if they do"
     }
    ],
-   "gloss": "if (they) do"
+   "gloss": "if they do"
   }
  ],
- "literal": "Even those who are like a mountain will shrink, if they do degrading things like a kunri seed.",
- "translation": "Even those whose greatness towers like a mountain will be diminished if they commit a degrading act as small as a kunri seed.",
- "modern": "மலை போல உயர்ந்த பெருமை உடையவர்களும், குன்றிமணி அளவு சிறியதான இழிவான செயல்களைச் செய்தால் தமது பெருமையில் தாழ்ந்து போவார்கள்.",
- "explanation": "This couplet contrasts the massive size of a mountain with the tiny size of a kunri seed to illustrate the fragility of honor. Even people of towering, mountain-like greatness will lose their stature if they commit a shameful act. The poet emphasizes that the degrading act does not need to be large; even a flaw as small as a tiny seed is enough to ruin a great reputation.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Even those who are like a hill will diminish, if they do degrading deeds that are like a tiny crab's eye seed.",
+ "translation": "Even those whose stature is as great as a mountain will shrink in esteem if they commit a degrading act as tiny as a crab's eye seed.",
+ "modern": "மலை போன்ற பெருமை உடையவர்களும், குன்றிமணி அளவு சிறியதான இழிவு தரும் செயல்களைச் செய்தால், தம் பெருமை அழிந்து தாழ்ந்து போவார்கள்.",
+ "explanation": "This couplet emphasizes the absolute importance of maintaining one's honor and avoiding even the smallest dishonorable act. The poet uses a striking contrast between a massive hill ('kuṉṟu') and a tiny crab's eye seed ('kuṉṟi') to illustrate this. Even individuals of mountain-like greatness will lose their high standing and shrink in the eyes of the world if they commit a degrading deed, no matter how minuscule it may seem. The wordplay on 'kuṉṟu' (as a hill and as the verb to diminish) and 'kuṉṟi' (the tiny seed) reinforces how easily great honor can be eroded by a single small lapse.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

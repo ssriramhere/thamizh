@@ -4,9 +4,14 @@
    "surface": "விளியும்",
    "parts": [
     {
-     "text": "விளியும்",
+     "text": "விளி",
      "lemma": "விளி",
-     "gloss": "will perish"
+     "gloss": "perish"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "will"
     }
    ],
    "gloss": "will perish"
@@ -16,7 +21,7 @@
    "parts": [
     {
      "text": "என்",
-     "lemma": "நான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -59,9 +64,14 @@
    "surface": "அல்லம்",
    "parts": [
     {
-     "text": "அல்லம்",
+     "text": "அல்",
      "lemma": "அல்",
-     "gloss": "we are not"
+     "gloss": "not"
+    },
+    {
+     "text": "அம்",
+     "lemma": "அம்",
+     "gloss": "we"
     }
    ],
    "gloss": "we are not"
@@ -70,12 +80,17 @@
    "surface": "என்பார்",
    "parts": [
     {
-     "text": "என்பார்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "he who said"
+     "gloss": "say"
+    },
+    {
+     "text": "பார்",
+     "lemma": "பார்",
+     "gloss": "he who"
     }
    ],
-   "gloss": "he who said"
+   "gloss": "he who says"
   },
   {
    "surface": "அளி",
@@ -83,10 +98,10 @@
     {
      "text": "அளி",
      "lemma": "அளி",
-     "gloss": "grace"
+     "gloss": "love"
     }
    ],
-   "gloss": "grace"
+   "gloss": "love"
   },
   {
    "surface": "இன்மை",
@@ -105,10 +120,10 @@
     {
      "text": "ஆற்ற",
      "lemma": "ஆற்ற",
-     "gloss": "exceedingly"
+     "gloss": "greatly"
     }
    ],
-   "gloss": "exceedingly"
+   "gloss": "greatly"
   },
   {
    "surface": "நினைந்து",
@@ -116,16 +131,16 @@
     {
      "text": "நினைந்து",
      "lemma": "நினை",
-     "gloss": "having thought"
+     "gloss": "remembering"
     }
    ],
-   "gloss": "having thought"
+   "gloss": "remembering"
   }
  ],
- "literal": "Will perish my sweet life, 'different we are not' he who said, (his) grace-absence exceedingly having thought.",
- "translation": "My sweet life will perish when I think deeply about the lack of grace in him who once said, 'We are not different.'",
- "modern": "நாம் வேறுபட்டவர்கள் அல்லம் என்று முன்பு கூறிய காதலரின் தற்போதைய அன்பின்மையை மிகுதியாக நினைத்து என் இனிய உயிர் அழிகின்றது.",
- "explanation": "The speaker laments the current coldness of her lover, contrasting it with his past intimacy. She recalls how he used to say they were not two separate beings, but one in spirit. Thinking deeply about his present lack of compassion makes her feel that her sweet life is slipping away. The word 'அளி' means grace or tender love, and its absence is what breaks her heart.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Will perish my sweet life, 'different we are not' he who says, his love's absence greatly remembering.",
+ "translation": "My sweet life will perish as I think intensely of the lack of love shown by him who once said, 'We are not two separate beings'.",
+ "modern": "நாம் இருவரும் வேறு வேறானவர் அல்லர் என்று கூறிய காதலரின் அன்பில்லாத தன்மையை மிகவும் நினைத்து எனது இனிய உயிர் அழிகிறது.",
+ "explanation": "The heroine is suffering deeply in separation from her lover. She recalls his past promises when he used to say they were one soul and not separate individuals ('வேறு அல்லம் என்பார்'). Now, his prolonged absence feels like a complete lack of love and grace ('அளியின்மை'). Constantly and intensely dwelling on this painful contrast ('ஆற்ற நினைந்து') is slowly destroying her very life ('விளியும் என் இன்னுயிர்').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

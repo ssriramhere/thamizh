@@ -6,12 +6,12 @@
     {
      "text": "ஆய்",
      "lemma": "ஆய்",
-     "gloss": "to examine"
+     "gloss": "examine"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "adjectival suffix"
+     "gloss": "relative participle suffix"
     }
    ],
    "gloss": "examining"
@@ -27,7 +27,7 @@
     {
      "text": "இன்",
      "lemma": "இன்",
-     "gloss": "euphonic tie"
+     "gloss": "inflectional increment"
     },
     {
      "text": "அர்",
@@ -35,23 +35,28 @@
      "gloss": "pronominal suffix"
     }
    ],
-   "gloss": "those with wisdom"
+   "gloss": "those who possess wisdom"
   },
   {
    "surface": "அல்லார்க்கு",
    "parts": [
     {
-     "text": "அல்லார்",
+     "text": "அல்",
      "lemma": "அல்",
-     "gloss": "those who are not"
+     "gloss": "not"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "pronominal suffix"
     },
     {
      "text": "க்கு",
-     "lemma": "கு",
-     "gloss": "dative suffix"
+     "lemma": "க்கு",
+     "gloss": "dative case marker"
     }
    ],
-   "gloss": "to those who are not"
+   "gloss": "to those who are not (such)"
   },
   {
    "surface": "அணங்கு",
@@ -70,12 +75,12 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say"
     },
     {
      "text": "ப",
      "lemma": "ப",
-     "gloss": "plural suffix"
+     "gloss": "plural future suffix"
     }
    ],
    "gloss": "they say"
@@ -114,10 +119,10 @@
    "gloss": "embrace"
   }
  ],
- "literal": "Examining wisdom those-who-are-not-to, a tormenting-spirit they-say, deceitful women's embrace.",
- "translation": "They say the embrace of deceitful women is a tormenting spirit to those who lack discerning wisdom.",
- "modern": "ஆராய்ந்து அறியும் அறிவு இல்லாதவர்களுக்கு, வஞ்சனை பொருந்திய பெண்களின் தழுவல் ஒரு துன்பம் தரும் அணங்கு என்று கூறுவார்கள்.",
- "explanation": "This couplet warns against the false affection of deceitful women who sell their love. It states that their embrace is like being possessed by a tormenting spirit (அணங்கு). Only those who lack the wisdom to examine and understand true intentions fall prey to this illusion. The word 'மாய' highlights the deceptive, illusory nature of their affection, which brings ruin rather than joy.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "To those who are not of examining wisdom, a tormenting spirit, they say, is the embrace of deceitful women.",
+ "translation": "The embrace of deceitful women is said to be like a tormenting demoness to those who lack discerning wisdom.",
+ "modern": "ஆராய்ந்து பார்க்கும் அறிவு இல்லாதவர்களுக்கு, வஞ்சக குணமுடைய பொதுமகளிரின் தழுவல் வருத்துகின்ற அணங்கு (பேய்) என்று கூறுவர்.",
+ "explanation": "This couplet warns against the physical allure of deceitful women by comparing their embrace to a tormenting spirit ('அணங்கு'). The word 'அணங்கு' refers to a malevolent deity or demoness that possesses and destroys a person from within. The poet emphasizes that only those who lack discerning wisdom ('ஆயும் அறிவினர் அல்லார்') fall prey to this illusion. For such people, what seems like a pleasurable embrace ('முயக்கு') is actually a destructive force that ruins their life.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

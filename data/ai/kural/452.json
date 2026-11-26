@@ -6,18 +6,23 @@
     {
      "text": "நிலத்து",
      "lemma": "நிலம்",
-     "gloss": "of the land"
+     "gloss": "of the soil"
     }
    ],
-   "gloss": "of the land"
+   "gloss": "of the soil"
   },
   {
    "surface": "இயல்பால்",
    "parts": [
     {
-     "text": "இயல்பால்",
+     "text": "இயல்பு",
      "lemma": "இயல்பு",
-     "gloss": "by the nature"
+     "gloss": "nature"
+    },
+    {
+     "text": "ஆல்",
+     "lemma": "ஆல்",
+     "gloss": "by"
     }
    ],
    "gloss": "by the nature"
@@ -61,10 +66,10 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "it will become"
+     "gloss": "becomes"
     }
    ],
-   "gloss": "it will become"
+   "gloss": "becomes"
   },
   {
    "surface": "மாந்தர்க்கு",
@@ -83,21 +88,26 @@
     {
      "text": "இனத்து",
      "lemma": "இனம்",
-     "gloss": "of the company"
+     "gloss": "of the group"
     }
    ],
-   "gloss": "of the company"
+   "gloss": "of the group"
   },
   {
    "surface": "இயல்பது",
    "parts": [
     {
-     "text": "இயல்பது",
+     "text": "இயல்பு",
      "lemma": "இயல்பு",
-     "gloss": "that which has the nature"
+     "gloss": "nature"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
-   "gloss": "that which has the nature"
+   "gloss": "of that nature"
   },
   {
    "surface": "ஆகும்",
@@ -105,10 +115,10 @@
     {
      "text": "ஆகும்",
      "lemma": "ஆகு",
-     "gloss": "will become"
+     "gloss": "becomes"
     }
    ],
-   "gloss": "will become"
+   "gloss": "becomes"
   },
   {
    "surface": "அறிவு",
@@ -122,10 +132,10 @@
    "gloss": "knowledge"
   }
  ],
- "literal": "of the land by the nature water having changed like that it will become to people of the company that which has the nature will become knowledge",
- "translation": "Water changes and takes on the nature of the soil it flows through. Likewise, the mindset of people takes on the nature of the company they keep.",
- "modern": "நிலத்தின் தன்மைக்கு ஏற்ப நீர் தன் குணம் மாறி அந்த நிலத்தின் தன்மையை அடையும். அதுபோலவே, மனிதர்களின் அறிவும் அவர்கள் சேர்ந்திருக்கும் கூட்டத்தின் தன்மைக்கு ஏற்ப மாறும்.",
- "explanation": "This couplet uses a simple natural analogy to explain how human character is shaped by association. Rainwater is naturally pure, but when it flows over soil, it absorbs the soil's color, taste, and qualities. Similarly, a person's natural intelligence and mindset ('அறிவு') are inevitably altered by the people they choose to associate with ('இனம்'). Therefore, one's character ultimately reflects the nature of their companions.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "By the nature of the soil, water changes and becomes like that; for people, wisdom becomes of the nature of their association.",
+ "translation": "Just as water changes its character depending on the nature of the soil it flows through, so does a person's wisdom take on the character of the company they keep.",
+ "modern": "நிலத்தின் தன்மையால் நீர் தன் குணம் மாறுபடுவதைப் போல, மனிதர்களின் அறிவு அவர்கள் சேரும் கூட்டத்தின் தன்மையைப் பொறுத்து அமையும்.",
+ "explanation": "This couplet uses a beautiful analogy from nature to explain the influence of association on human character. Water is naturally pure and colorless, but it takes on the taste, color, and quality of the soil over which it flows. Similarly, human minds and intellects, though inherently neutral, are deeply shaped by the nature of the people they associate with. Therefore, to maintain good character and wisdom, one must choose virtuous and noble companions.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

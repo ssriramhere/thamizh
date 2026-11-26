@@ -15,36 +15,46 @@
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "சேர்ந்தாரை",
    "parts": [
     {
      "text": "சேர்ந்தார்",
-     "lemma": "சேர்ந்தார்",
-     "gloss": "those who joined"
+     "lemma": "சேர்",
+     "gloss": "those who associated"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "those who harbor (it)"
+   "gloss": "those who associate with it"
   },
   {
    "surface": "கொல்லி",
    "parts": [
     {
-     "text": "கொல்லி",
-     "lemma": "கொல்லி",
-     "gloss": "killer"
+     "text": "கொல்",
+     "lemma": "கொல்",
+     "gloss": "kill"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "agentive suffix"
     }
    ],
    "gloss": "killer"
@@ -55,49 +65,60 @@
     {
      "text": "இனம்",
      "lemma": "இனம்",
-     "gloss": "kin"
+     "gloss": "kinship"
     }
    ],
-   "gloss": "kin"
+   "gloss": "kinship"
   },
   {
    "surface": "என்னும்",
    "parts": [
     {
-     "text": "என்னும்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "called"
+     "gloss": "say"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "adjectival suffix"
     }
    ],
-   "gloss": "called"
+   "gloss": "which is called"
   },
   {
    "surface": "ஏமப்புணையை",
    "parts": [
     {
      "text": "ஏமப்புணையை",
-     "lemma": "ஏமப்புணை",
-     "gloss": "safe raft (accusative)"
+     "lemma": "ஏமப்புணையை",
+     "gloss": "the protective raft"
     }
    ],
-   "gloss": "safe raft"
+   "gloss": "the protective raft",
+   "split_unverified": true
   },
   {
    "surface": "சுடும்",
    "parts": [
     {
-     "text": "சுடும்",
+     "text": "சுடு",
      "lemma": "சுடு",
-     "gloss": "will burn"
+     "gloss": "burn"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "habitual future suffix"
     }
    ],
    "gloss": "will burn"
   }
  ],
- "literal": "The killer of those who joined called anger, will burn the safe raft called kin.",
- "translation": "The killer called anger destroys the very person who harbors it. It will also burn down the safe raft known as one's family and friends.",
- "modern": "சினம் என்னும் தீ தன்னைச் சேர்ந்தவர்களையே அழிப்பதோடு, சுற்றம் என்று சொல்லப்படும் பாதுகாப்பான தெப்பத்தையும் சுட்டழித்துவிடும்.",
- "explanation": "Anger is described as a destructive force that first ruins the person who holds onto it. Beyond destroying the individual, it also burns away their vital support system. The poet uses the metaphor of a safe raft to represent family and friends, showing that anger leaves a person completely isolated and defenseless in the sea of life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Anger, which is called the killer of those who associate with it, will burn the protective raft called kinship.",
+ "translation": "Anger, the fire that destroys those who harbor it, will burn down the protective raft of one's family and friends.",
+ "modern": "தன்னைச் சேர்ந்தவர்களையே அழிக்கும் நெருப்பாகிய சினம், ஒருவருக்குப் பாதுகாப்பாக இருக்கும் சுற்றம் என்னும் தெப்பத்தையும் எரித்துவிடும்.",
+ "explanation": "This couplet uses a powerful metaphor to warn against anger. It describes anger as 'சேர்ந்தாரைக் கொல்லி'—a fire that destroys the very person who harbors it. Furthermore, this destructive fire does not stop there; it spreads to burn down 'இனம் என்னும் ஏமப்புணை', which is the protective raft of one's relatives and friends. Just as a raft saves a person from drowning in a stormy sea, one's kin protect them from life's hardships, but anger completely destroys this vital support system.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

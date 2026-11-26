@@ -14,7 +14,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in pleasure"
+   "gloss": "within pleasure"
   },
   {
    "surface": "இன்பம்",
@@ -31,9 +31,19 @@
    "surface": "விழையாதான்",
    "parts": [
     {
-     "text": "விழையாதான்",
+     "text": "விழை",
      "lemma": "விழை",
-     "gloss": "he who does not desire"
+     "gloss": "desire"
+    },
+    {
+     "text": "ஆ",
+     "lemma": "ஆ",
+     "gloss": "not"
+    },
+    {
+     "text": "தான்",
+     "lemma": "தான்",
+     "gloss": "he who"
     }
    ],
    "gloss": "he who does not desire"
@@ -44,7 +54,7 @@
     {
      "text": "துன்பத்து",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "pain"
     },
     {
      "text": "உள்",
@@ -52,7 +62,7 @@
      "gloss": "in"
     }
    ],
-   "gloss": "in sorrow"
+   "gloss": "within pain"
   },
   {
    "surface": "துன்பம்",
@@ -60,10 +70,10 @@
     {
      "text": "துன்பம்",
      "lemma": "துன்பம்",
-     "gloss": "sorrow"
+     "gloss": "pain"
     }
    ],
-   "gloss": "sorrow"
+   "gloss": "pain"
   },
   {
    "surface": "உறுதல்",
@@ -71,7 +81,7 @@
     {
      "text": "உறு",
      "lemma": "உறு",
-     "gloss": "to experience"
+     "gloss": "experience"
     },
     {
      "text": "தல்",
@@ -85,23 +95,18 @@
    "surface": "இலன்",
    "parts": [
     {
-     "text": "இல்",
+     "text": "இலன்",
      "lemma": "இல்",
-     "gloss": "without"
-    },
-    {
-     "text": "அன்",
-     "lemma": "அன்",
-     "gloss": "he"
+     "gloss": "he does not have"
     }
    ],
-   "gloss": "he is without"
+   "gloss": "he does not have"
   }
  ],
- "literal": "In pleasure pleasure he who does not desire, in sorrow sorrow experiencing he is without.",
- "translation": "He who does not crave pleasure in times of joy will not suffer sorrow in times of trouble.",
- "modern": "இன்பம் வரும் காலத்தில் அதனை விரும்பி மயங்காதவன், துன்பம் வரும் காலத்தில் அதற்காக வருந்த மாட்டான்.",
- "explanation": "This couplet teaches the importance of emotional equanimity. The word 'விழையாதான்' describes a person who does not actively crave or cling to joy when circumstances are favorable. Because this person does not attach themselves to fleeting happiness, they do not experience 'துன்பம்' (sorrow) as a crushing burden when facing difficulties. The parallel structure emphasizes that maintaining balance during good times is the very foundation of resilience during bad times.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "He who does not desire pleasure within pleasure, does not have the experiencing of pain within pain.",
+ "translation": "He who does not crave pleasure when experiencing pleasure, will not suffer from pain when experiencing pain.",
+ "modern": "இன்பம் வந்தபோது அந்த இன்பத்தை விரும்பி ஏங்காதவன், துன்பம் வந்தபோது அந்தத் துன்பத்தை அடைந்து வருந்த மாட்டான்.",
+ "explanation": "This couplet highlights the power of equanimity in overcoming life's hardships. The poet explains that a person who does not get overly attached to or crave pleasure during prosperous times remains emotionally balanced. Because they do not lose themselves in joy, they do not get crushed by sorrow when difficult times arrive. By maintaining a steady mind through both ups and downs, one becomes immune to the suffering caused by adversity.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

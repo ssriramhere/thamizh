@@ -4,12 +4,17 @@
    "surface": "வன்கண்",
    "parts": [
     {
-     "text": "வன்கண்",
-     "lemma": "வன்கண்",
-     "gloss": "courage"
+     "text": "வன்",
+     "lemma": "வல்",
+     "gloss": "firm / strong"
+    },
+    {
+     "text": "கண்",
+     "lemma": "கண்",
+     "gloss": "attribute / mind"
     }
    ],
-   "gloss": "courage"
+   "gloss": "firmness of mind / courage"
   },
   {
    "surface": "குடி",
@@ -17,10 +22,10 @@
     {
      "text": "குடி",
      "lemma": "குடி",
-     "gloss": "subjects"
+     "gloss": "subjects / citizens"
     }
    ],
-   "gloss": "subjects"
+   "gloss": "subjects / citizens"
   },
   {
    "surface": "காத்தல்",
@@ -38,11 +43,11 @@
    "parts": [
     {
      "text": "கற்று",
-     "lemma": "கல்",
-     "gloss": "having learned"
+     "lemma": "கற்றல்",
+     "gloss": "having learnt"
     }
    ],
-   "gloss": "having learned"
+   "gloss": "learning"
   },
   {
    "surface": "அறிதல்",
@@ -53,7 +58,7 @@
      "gloss": "knowing"
     }
    ],
-   "gloss": "knowing"
+   "gloss": "knowing / acquiring wisdom"
   },
   {
    "surface": "ஆள்வினையோடு",
@@ -61,15 +66,15 @@
     {
      "text": "ஆள்வினை",
      "lemma": "ஆள்வினை",
-     "gloss": "effort"
+     "gloss": "persevering effort"
     },
     {
-     "text": "ஓடு",
+     "text": "யோடு",
      "lemma": "ஓடு",
-     "gloss": "with"
+     "gloss": "along with"
     }
    ],
-   "gloss": "with effort"
+   "gloss": "along with persevering effort"
   },
   {
    "surface": "ஐந்து",
@@ -80,7 +85,7 @@
      "gloss": "five"
     }
    ],
-   "gloss": "five"
+   "gloss": "five qualities"
   },
   {
    "surface": "உடன்",
@@ -88,21 +93,21 @@
     {
      "text": "உடன்",
      "lemma": "உடன்",
-     "gloss": "together"
+     "gloss": "together with"
     }
    ],
-   "gloss": "together"
+   "gloss": "together with"
   },
   {
    "surface": "மாண்டது",
    "parts": [
     {
      "text": "மாண்டது",
-     "lemma": "மாண்",
+     "lemma": "மாண்பு",
      "gloss": "that which is excellent"
     }
    ],
-   "gloss": "that which is excellent"
+   "gloss": "is that which is excellent"
   },
   {
    "surface": "அமைச்சு",
@@ -110,16 +115,16 @@
     {
      "text": "அமைச்சு",
      "lemma": "அமைச்சு",
-     "gloss": "ministry"
+     "gloss": "minister / ministry"
     }
    ],
-   "gloss": "ministry"
+   "gloss": "a minister"
   }
  ],
- "literal": "Courage, subjects protecting, having learned knowing, with effort, five together that which is excellent [is] ministry.",
- "translation": "A ministry is that which possesses excellence in these five qualities together: courage, protecting the subjects, learning, understanding, and industriousness.",
- "modern": "அஞ்சாமை, குடிமக்களைக் காத்தல், நூல்களைக் கற்றல், அறிய வேண்டியவற்றை அறிதல், விடாமுயற்சி ஆகிய ஐந்தும் ஒருங்கே சிறப்பாக அமைந்ததே அமைச்சாகும்.",
- "explanation": "This couplet defines the five essential qualities that make up an excellent minister or ministry. The word 'வன்கண்' can sometimes mean harshness or cruelty, but in the context of statecraft here, it means the courage and firm resolve needed to govern and face challenges. The other qualities are protecting the people ('குடி காத்தல்'), acquiring knowledge ('கற்று'), understanding situations clearly ('அறிதல்'), and tireless effort ('ஆள்வினை'). The phrase 'ஐந்துடன் மாண்டது' emphasizes that true ministerial excellence requires all five of these traits to be present together.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Firmness of mind, protecting subjects, learning, knowing, along with persevering effort—together with these five, that which is excellent is a minister.",
+ "translation": "An excellent minister is one who possesses these five qualities: firmness of mind, protection of the citizens, learning, practical wisdom, and persevering effort.",
+ "modern": "மனஉறுதி, குடிகளைக் காத்தல், நூல்களைக் கற்றல், அறிவுடைமை, விடாமுயற்சி ஆகிய இந்த ஐந்து பண்புகளையும் ஒருங்கே சிறப்பாகக் கொண்டிருப்பவரே அமைச்சர் ஆவார்.",
+ "explanation": "This couplet defines the five essential qualities of an ideal minister. The first is 'vaṉkaṇ' (firmness of mind or courage), which is crucial for making tough decisions. The second is 'kuṭi kāttal' (protecting the citizens), ensuring the welfare of the people. The third and fourth are 'kaṟṟu' (learning) and 'ariṯal' (knowing/understanding), which represent theoretical education and its practical, wise application. The fifth is 'āḷviṉai' (persevering effort), without which no plan can succeed. A person who excels in all these five together is fit to be a minister.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

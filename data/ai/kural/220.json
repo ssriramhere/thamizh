@@ -9,13 +9,8 @@
      "gloss": "benevolence"
     },
     {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "euphonic tie"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
+     "text": "இனால்",
+     "lemma": "இனால்",
      "gloss": "by"
     }
    ],
@@ -26,11 +21,11 @@
    "parts": [
     {
      "text": "வரும்",
-     "lemma": "வா",
-     "gloss": "which comes"
+     "lemma": "வரு",
+     "gloss": "coming"
     }
    ],
-   "gloss": "which comes"
+   "gloss": "that comes"
   },
   {
    "surface": "கேடு",
@@ -47,14 +42,9 @@
    "surface": "எனின்",
    "parts": [
     {
-     "text": "என்",
+     "text": "எனின்",
      "lemma": "என்",
-     "gloss": "say"
-    },
-    {
-     "text": "இன்",
-     "lemma": "இன்",
-     "gloss": "if"
+     "gloss": "if said"
     }
    ],
    "gloss": "if it is said"
@@ -64,7 +54,7 @@
    "parts": [
     {
      "text": "அஃது",
-     "lemma": "அஃது",
+     "lemma": "அது",
      "gloss": "that"
     }
    ],
@@ -87,10 +77,10 @@
     {
      "text": "விற்று",
      "lemma": "வில்",
-     "gloss": "having sold"
+     "gloss": "selling"
     }
    ],
-   "gloss": "having sold"
+   "gloss": "selling"
   },
   {
    "surface": "கோள்",
@@ -98,10 +88,10 @@
     {
      "text": "கோள்",
      "lemma": "கொள்",
-     "gloss": "acquiring"
+     "gloss": "buying"
     }
    ],
-   "gloss": "acquiring"
+   "gloss": "buying"
   },
   {
    "surface": "தக்கது",
@@ -109,27 +99,27 @@
     {
      "text": "தக்கது",
      "lemma": "தகு",
-     "gloss": "that which is fit"
+     "gloss": "worthy thing"
     }
    ],
-   "gloss": "worth"
+   "gloss": "worthy thing"
   },
   {
    "surface": "உடைத்து",
    "parts": [
     {
      "text": "உடைத்து",
-     "lemma": "உடை",
-     "gloss": "it possesses"
+     "lemma": "உடைத்து",
+     "gloss": "possesses"
     }
    ],
-   "gloss": "it possesses"
+   "gloss": "possesses"
   }
  ],
- "literal": "By benevolence comes ruin if it is said, that a person having sold acquiring worth it possesses.",
- "translation": "If ruin comes from doing one's duty to others, that ruin is worth a person selling himself to acquire.",
- "modern": "பிறருக்கு உதவுவதால் ஒருவனுக்குக் கேடு வரும் என்றால், அக்கேடு ஒருவன் தன்னை விற்றாவது வாங்கிக்கொள்ளும் தகுதியை உடையது.",
- "explanation": "The couplet explores the ultimate value of benevolence (ஒப்புரவு) by contrasting it with ruin (கேடு). It states that if helping others leads to one's own ruin or poverty, such a loss is actually a noble acquisition. The phrase 'விற்று கோள்' (selling to acquire) suggests that this kind of ruin is so honorable that a person should be willing to sell themselves or all they own just to obtain it. By using the language of commerce, the poet emphasizes that the moral worth of self-sacrifice far outweighs any material loss.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If it is said that ruin comes by benevolence, that ruin is a worthy thing to buy even by a person selling himself.",
+ "translation": "If ruin is said to come from practicing benevolence, such ruin is worth acquiring even by selling oneself.",
+ "modern": "பிறருக்கு உதவி செய்வதனால் ஒருவனுக்கு அழிவு வரும் என்றால், அந்த அழிவை ஒருவன் தன்னை விற்றாவது வாங்கிக் கொள்ளும் தகுதி உடையதாகும்.",
+ "explanation": "This couplet praises the supreme virtue of social benevolence (oppuravu). The poet states that even if helping others leads to one's own financial ruin or destruction, that ruin is not a loss to be feared. Instead, it is so glorious and noble that a person should be willing to sell themselves into slavery to purchase such a ruin. The words 'vittu' (selling) and 'kol' (buying) frame this ultimate sacrifice as a highly profitable moral transaction.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -15,17 +15,12 @@
    "surface": "இன்றால்",
    "parts": [
     {
-     "text": "இன்று",
+     "text": "இன்றால்",
      "lemma": "இல்",
-     "gloss": "is not"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "indeed"
+     "gloss": "since it does not yield"
     }
    ],
-   "gloss": "is not indeed"
+   "gloss": "since it does not yield"
   },
   {
    "surface": "புத்தேள்",
@@ -33,7 +28,7 @@
     {
      "text": "புத்தேள்",
      "lemma": "புத்தேள்",
-     "gloss": "god"
+     "gloss": "gods"
     }
    ],
    "gloss": "gods"
@@ -44,7 +39,7 @@
     {
      "text": "நாட்டு",
      "lemma": "நாடு",
-     "gloss": "world (oblique)"
+     "gloss": "world"
     }
    ],
    "gloss": "in the world"
@@ -53,17 +48,12 @@
    "surface": "உய்யாதால்",
    "parts": [
     {
-     "text": "உய்யாது",
+     "text": "உய்யாதால்",
      "lemma": "உய்",
-     "gloss": "does not save"
-    },
-    {
-     "text": "ஆல்",
-     "lemma": "ஆல்",
-     "gloss": "indeed"
+     "gloss": "will not lead to"
     }
    ],
-   "gloss": "does not save indeed"
+   "gloss": "it will not lead to"
   },
   {
    "surface": "என்",
@@ -74,7 +64,7 @@
      "gloss": "what"
     }
    ],
-   "gloss": "what"
+   "gloss": "what [is the use]"
   },
   {
    "surface": "மற்று",
@@ -93,7 +83,7 @@
     {
      "text": "இகழ்வார்",
      "lemma": "இகழ்",
-     "gloss": "despisers"
+     "gloss": "those who despise"
     }
    ],
    "gloss": "those who despise"
@@ -115,10 +105,10 @@
     {
      "text": "சென்று",
      "lemma": "செல்",
-     "gloss": "having gone"
+     "gloss": "going"
     }
    ],
-   "gloss": "having gone"
+   "gloss": "going"
   },
   {
    "surface": "நிலை",
@@ -126,16 +116,16 @@
     {
      "text": "நிலை",
      "lemma": "நிலை",
-     "gloss": "standing"
+     "gloss": "standing/submitting"
     }
    ],
-   "gloss": "standing"
+   "gloss": "standing/submitting"
   }
  ],
- "literal": "Fame is not indeed; in the gods' world it does not save indeed; what then [is the use of] behind despisers having gone standing?",
- "translation": "Standing as a follower behind those who despise you brings no fame here, nor does it secure a place in the world of the gods. What then is its use?",
- "modern": "தன்னை அவமதிப்பவர்களின் பின்னால் சென்று கைகட்டி நிற்கும் நிலையானது ஒருவனுக்கு இவ்வுலகில் புகழையும் தராது, தேவர் உலகிலும் இடமளிக்காது. அப்படியிருக்க அதனால் வேறு என்ன பயன்?",
- "explanation": "This couplet questions the value of sacrificing one's honor to seek favors from those who show contempt. The phrase 'இகழ்வார் பின் சென்று நிலை' (standing behind those who despise) captures the humiliating act of following scornful people. The poet argues that such behavior yields no worldly 'புகழ்' (fame or respect). Furthermore, it 'உய்யாதால்' (does not save or uplift) one to the 'புத்தேள் நாட்டு' (world of the gods). Since it offers neither earthly glory nor heavenly reward, the couplet concludes by asking 'என் மற்று' (what else is it good for?), emphasizing that abandoning self-respect is utterly pointless.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Fame since it does not yield, to the world of gods it will not lead, what then is the use of going and standing behind those who despise?",
+ "translation": "If it yields no fame on earth and does not lead to the world of the gods, what is the use of going and standing in subservience behind those who despise you?",
+ "modern": "ஒருவருக்குப் புகழையும் தராது, தேவர் உலகத்திற்கும் வழிநடத்தாது என்றால், தம்மை இகழ்ந்து பேசுபவர்களின் பின்னால் சென்று அடங்கி நிற்பதால் என்ன பயன் விளையும்?",
+ "explanation": "This couplet highlights the futility of compromising one's self-respect for material or social gain. The poet argues that bowing down and serving those who hold you in contempt (இகழ்வார் பின் சென்று நிலை) brings absolutely no benefit. It neither earns you honor and fame (புகழ்) in this earthly life, nor does it pave the way to the heavenly realm of the gods (புத்தேள் நாடு) in the afterlife. Since it serves no purpose in either world, maintaining one's dignity is the only honorable path.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -20,14 +20,9 @@
      "gloss": "do"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "ஆர்",
+     "text": "வார்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they who"
     }
    ],
    "gloss": "those who do"
@@ -37,7 +32,7 @@
    "parts": [
     {
      "text": "தம்",
-     "lemma": "தாம்",
+     "lemma": "தான்",
      "gloss": "their own"
     }
    ],
@@ -63,17 +58,12 @@
      "gloss": "do"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "ஆர்",
+     "text": "வார்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they who"
     }
    ],
-   "gloss": "those who do"
+   "gloss": "are those who do"
   },
   {
    "surface": "மற்று",
@@ -90,17 +80,12 @@
    "surface": "அல்லார்",
    "parts": [
     {
-     "text": "அல்",
+     "text": "அல்லார்",
      "lemma": "அல்",
-     "gloss": "not"
-    },
-    {
-     "text": "ஆர்",
-     "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "those who are not"
     }
    ],
-   "gloss": "those who are not"
+   "gloss": "those who do not"
   },
   {
    "surface": "அவம்",
@@ -108,10 +93,10 @@
     {
      "text": "அவம்",
      "lemma": "அவம்",
-     "gloss": "vain"
+     "gloss": "ruin or waste"
     }
    ],
-   "gloss": "vain things"
+   "gloss": "ruin"
   },
   {
    "surface": "செய்வார்",
@@ -122,17 +107,12 @@
      "gloss": "do"
     },
     {
-     "text": "வ்",
-     "lemma": "வ்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "ஆர்",
+     "text": "வார்",
      "lemma": "ஆர்",
-     "gloss": "they"
+     "gloss": "they who"
     }
    ],
-   "gloss": "those who do"
+   "gloss": "are those who do"
   },
   {
    "surface": "ஆசையுள்",
@@ -145,7 +125,7 @@
     {
      "text": "உள்",
      "lemma": "உள்",
-     "gloss": "inside"
+     "gloss": "within"
     }
    ],
    "gloss": "within desire"
@@ -162,10 +142,10 @@
    "gloss": "having fallen"
   }
  ],
- "literal": "Penance those-who-do their-own duty those-who-do; other those-who-are-not vain-things those-who-do desire-within having-fallen.",
- "translation": "Those who perform penance are the ones doing their true duty. All others, caught in the snare of desire, do only vain things.",
- "modern": "தவம் செய்பவர்களே தமக்குரிய உண்மையான கடமையைச் செய்பவர்கள் ஆவார்கள். தவம் செய்யாத மற்றவர்கள் ஆசையில் அகப்பட்டு வீணான செயல்களையே செய்வார்கள்.",
- "explanation": "This couplet contrasts those who practice asceticism with those who do not. The phrase 'tam karumam' refers to one's ultimate or true duty, which is fulfilled through penance. Those who do not undertake this discipline fall prey to worldly desires. Consequently, all their actions become empty and yield no lasting benefit.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Those who do penance do their own duty; others who do not, having fallen within desire, do ruin.",
+ "translation": "Those who perform penance are the ones who truly perform their own duty; all others, caught in the grip of desire, only bring about their own ruin.",
+ "modern": "தவம் செய்கின்றவர்களே தங்களுக்குரிய கடமையைச் செய்கின்றவர்கள் ஆவர்; அவ்வாறு செய்யாத மற்றவர்கள் ஆசையில் சிக்கித் தங்களுக்குக் கேடு விளைவித்துக் கொள்கிறார்கள்.",
+ "explanation": "This couplet defines the true nature of duty and action. It states that those who practice penance (tavam) are the only ones who are actually performing their true duty (karumam), as they master themselves. On the other hand, those who do not practice penance are trapped by worldly desires (ācai) and end up doing things that lead to waste or ruin (avam). The contrast between 'karumam' (meaningful duty/action) and 'avam' (wasteful/harmful action) highlights that self-control is essential for any meaningful life endeavor.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

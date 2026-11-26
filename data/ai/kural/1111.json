@@ -6,10 +6,11 @@
     {
      "text": "நன்னீரை",
      "lemma": "நன்னீரை",
-     "gloss": "you are of good nature"
+     "gloss": "you of good nature"
     }
    ],
-   "gloss": "you are of good nature"
+   "gloss": "you of good nature",
+   "split_unverified": true
   },
   {
    "surface": "வாழி",
@@ -17,10 +18,10 @@
     {
      "text": "வாழி",
      "lemma": "வாழி",
-     "gloss": "may you live long"
+     "gloss": "may you live"
     }
    ],
-   "gloss": "may you live long"
+   "gloss": "may you live"
   },
   {
    "surface": "அனிச்சமே",
@@ -28,23 +29,33 @@
     {
      "text": "அனிச்சம்",
      "lemma": "அனிச்சம்",
-     "gloss": "aniccam flower"
+     "gloss": "Anicha flower"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "[vocative]"
+     "gloss": "O (vocative)"
     }
    ],
-   "gloss": "O aniccam flower!"
+   "gloss": "O Anicha flower"
   },
   {
    "surface": "நின்னினும்",
    "parts": [
     {
-     "text": "நின்னினும்",
-     "lemma": "நின்னினும்",
-     "gloss": "even more than you"
+     "text": "நின்",
+     "lemma": "நீ",
+     "gloss": "you"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "than"
+    },
+    {
+     "text": "உம்",
+     "lemma": "உம்",
+     "gloss": "even"
     }
    ],
    "gloss": "even more than you"
@@ -55,10 +66,11 @@
     {
      "text": "மென்னீரள்",
      "lemma": "மென்னீரள்",
-     "gloss": "she is of soft nature"
+     "gloss": "she of softer nature"
     }
    ],
-   "gloss": "she is of soft nature"
+   "gloss": "she of softer nature",
+   "split_unverified": true
   },
   {
    "surface": "யாம்",
@@ -66,27 +78,32 @@
     {
      "text": "யாம்",
      "lemma": "யாம்",
-     "gloss": "we"
+     "gloss": "I"
     }
    ],
-   "gloss": "we"
+   "gloss": "I"
   },
   {
    "surface": "வீழ்பவள்",
    "parts": [
     {
-     "text": "வீழ்பவள்",
-     "lemma": "வீழ்பவள்",
-     "gloss": "she who is loved"
+     "text": "வீழ்",
+     "lemma": "வீழ்",
+     "gloss": "love"
+    },
+    {
+     "text": "பவள்",
+     "lemma": "பவள்",
+     "gloss": "she who is"
     }
    ],
-   "gloss": "she who is loved"
+   "gloss": "she whom I love"
   }
  ],
- "literal": "You are of good nature, may you live long, O aniccam flower! Even more than you, she is of soft nature, she whom we love.",
- "translation": "May you live long, O aniccam flower, for you are of a gentle nature! But the woman I love is even softer than you.",
- "modern": "அனிச்ச மலரே, நீ மென்மையான தன்மை கொண்டவள்; நீ வாழ்க! ஆனால் நான் விரும்பும் என் காதலி உன்னை விடவும் மென்மையானவள்.",
- "explanation": "The speaker addresses the aniccam flower, which is renowned in classical Tamil poetry for its extreme delicacy, wilting even when merely smelled. He praises the flower's gentle nature and wishes it a long life. However, he declares that the woman he loves is even softer and more delicate than the aniccam itself. By comparing his beloved to the most fragile flower and placing her above it, he emphasizes her unparalleled tenderness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Good natured you are, may you live, O Anicha flower! Than you, of softer nature is she whom I love.",
+ "translation": "May you live long, O Anicha flower, for you are indeed of a delicate nature! Yet, she whom I love is of an even softer nature than you.",
+ "modern": "அனிச்சப் பூவே! நீ நல்ல மென்மையான இயல்பைக் கொண்டிருக்கிறாய், நீ வாழ்க! ஆனால், நான் விரும்பும் என் காதலி உன்னை விடவும் மென்மையான இயல்புடையவள் ஆவாள்.",
+ "explanation": "The poet addresses the delicate Anicha flower, which is famous in classical Tamil literature for being so sensitive that it withers merely upon being smelled. He praises the flower's gentle nature and wishes it well. However, he immediately elevates his beloved above the flower, declaring that she whom he loves possesses a nature that is even softer and more delicate than the flower itself. This comparison beautifully highlights the supreme tenderness and grace of the beloved.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

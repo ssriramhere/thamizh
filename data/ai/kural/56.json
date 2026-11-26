@@ -6,10 +6,10 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "herself"
+     "gloss": "oneself"
     }
    ],
-   "gloss": "herself"
+   "gloss": "oneself"
   },
   {
    "surface": "காத்து",
@@ -17,10 +17,10 @@
     {
      "text": "காத்து",
      "lemma": "கா",
-     "gloss": "having guarded"
+     "gloss": "having protected"
     }
    ],
-   "gloss": "having guarded"
+   "gloss": "protecting"
   },
   {
    "surface": "தன்",
@@ -28,7 +28,7 @@
     {
      "text": "தன்",
      "lemma": "தான்",
-     "gloss": "her"
+     "gloss": "oneself"
     }
    ],
    "gloss": "her"
@@ -39,7 +39,7 @@
     {
      "text": "கொண்டான்",
      "lemma": "கொள்",
-     "gloss": "he who took"
+     "gloss": "he who took in marriage"
     }
    ],
    "gloss": "husband"
@@ -49,11 +49,11 @@
    "parts": [
     {
      "text": "பேணி",
-     "lemma": "பேணு",
+     "lemma": "பேண்",
      "gloss": "having cherished"
     }
    ],
-   "gloss": "having cherished"
+   "gloss": "cherishing"
   },
   {
    "surface": "தகை",
@@ -61,10 +61,10 @@
     {
      "text": "தகை",
      "lemma": "தகை",
-     "gloss": "worthiness"
+     "gloss": "excellence"
     }
    ],
-   "gloss": "worthiness"
+   "gloss": "excellence"
   },
   {
    "surface": "சான்ற",
@@ -72,10 +72,10 @@
     {
      "text": "சான்ற",
      "lemma": "சால்",
-     "gloss": "abounding"
+     "gloss": "abundant"
     }
    ],
-   "gloss": "abounding"
+   "gloss": "filled with"
   },
   {
    "surface": "சொல்",
@@ -83,7 +83,7 @@
     {
      "text": "சொல்",
      "lemma": "சொல்",
-     "gloss": "word"
+     "gloss": "word or reputation"
     }
    ],
    "gloss": "reputation"
@@ -94,21 +94,21 @@
     {
      "text": "காத்து",
      "lemma": "கா",
-     "gloss": "having guarded"
+     "gloss": "having protected"
     }
    ],
-   "gloss": "having guarded"
+   "gloss": "preserving"
   },
   {
    "surface": "சோர்வு",
    "parts": [
     {
      "text": "சோர்வு",
-     "lemma": "சோர்",
-     "gloss": "weariness"
+     "lemma": "சோர்வு",
+     "gloss": "negligence or weariness"
     }
    ],
-   "gloss": "weariness"
+   "gloss": "negligence"
   },
   {
    "surface": "இலாள்",
@@ -127,16 +127,16 @@
     {
      "text": "பெண்",
      "lemma": "பெண்",
-     "gloss": "woman"
+     "gloss": "woman or wife"
     }
    ],
-   "gloss": "woman"
+   "gloss": "wife"
   }
  ],
- "literal": "Herself having guarded, her husband having cherished, worthiness abounding word having guarded, weariness she who is without is a woman.",
- "translation": "A true wife is one who guards herself, cherishes her husband, protects their honorable reputation, and never tires in these duties.",
- "modern": "தன்னைக் காத்துக்கொண்டு, தன் கணவனையும் அன்போடு பேணி, பெருமை நிறைந்த புகழைக் காத்து, இந்த அறங்களில் சோர்வில்லாமல் இருப்பவளே சிறந்த பெண் ஆவாள்.",
- "explanation": "This couplet defines the qualities of an ideal wife. She protects her own moral character and lovingly cares for the husband who married her. Furthermore, she guards the honorable reputation of their family without ever growing weary or slack in these responsibilities. The word 'சொல்' (word) here implies the good name or fame of the household, which she upholds through her steadfastness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Protecting herself, cherishing her husband, preserving the highly excellent reputation, and being without negligence, is a wife.",
+ "translation": "She who guards her own virtue, cherishes her husband, preserves the excellent reputation of the family, and remains unwearied in her duties, is a true wife.",
+ "modern": "தன்னைக் காத்துக்கொண்டு, தன்னை மணந்த கணவனைப் பேணி, தகுதியமைந்த புகழைக் காத்து, கடமைகளில் சோர்வில்லாமல் விளங்குபவளே சிறந்த பெண் ஆவாள்.",
+ "explanation": "This couplet outlines the core virtues of an ideal wife. First, she protects her own character and virtue. Second, she cares for and supports her husband who took her in marriage. Third, she preserves the excellent reputation of their household. Finally, she performs all these duties without any negligence or weariness. A woman who embodies these qualities is celebrated as a true life-partner.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -5,7 +5,7 @@
    "parts": [
     {
      "text": "ஈதல்",
-     "lemma": "ஈ",
+     "lemma": "ஈதல்",
      "gloss": "giving"
     }
    ],
@@ -21,7 +21,7 @@
     },
     {
      "text": "பட",
-     "lemma": "படு",
+     "lemma": "படுதல்",
      "gloss": "to arise"
     }
    ],
@@ -32,7 +32,7 @@
    "parts": [
     {
      "text": "வாழ்தல்",
-     "lemma": "வாழ்",
+     "lemma": "வாழ்தல்",
      "gloss": "living"
     }
    ],
@@ -77,10 +77,10 @@
     {
      "text": "இல்லை",
      "lemma": "இல்",
-     "gloss": "is not"
+     "gloss": "there is not"
     }
    ],
-   "gloss": "is not"
+   "gloss": "there is not"
   },
   {
    "surface": "உயிர்க்கு",
@@ -88,7 +88,7 @@
     {
      "text": "உயிர்",
      "lemma": "உயிர்",
-     "gloss": "life"
+     "gloss": "soul"
     },
     {
      "text": "க்கு",
@@ -96,13 +96,13 @@
      "gloss": "to"
     }
    ],
-   "gloss": "to life"
+   "gloss": "to the soul"
   }
  ],
- "literal": "Giving, fame-arising living; other than that, profit there is not to life.",
- "translation": "Giving to others and living a life of fame: other than this, there is no true profit for a living soul.",
- "modern": "பிறருக்குக் கொடுத்துப் புகழ் உண்டாகும்படி வாழ்வதைத் தவிர, மனித உயிருக்கு வேறு எந்தப் பயனும் இல்லை.",
- "explanation": "This couplet defines the ultimate purpose of human life as generosity and the good reputation it brings. The word 'ītal' means giving to those in need, while 'icaipaṭa' means causing fame to arise. The poet asserts that apart from this noble way of living, there is no other 'ūtiyam' or lasting profit for a living being. Fame earned through giving is presented as the only true wealth one can accumulate in life.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Giving, living so that fame arises, other than that, profit there is not for the soul.",
+ "translation": "To give to those in need and live a life of fame—besides this, there is no true gain for a living soul.",
+ "modern": "ஏழைகளுக்குக் கொடுப்பதும் புகழுடன் வாழ்வதும் ஆகிய அதைத் தவிர, மனித உயிர்க்கு வேறு எந்த இலாபமும் இல்லை.",
+ "explanation": "This couplet highlights the ultimate purpose of human existence. The poet asserts that giving to the needy (ītal) and living in a way that earns lasting fame (icaipaṭa vāḻtal) are the only true achievements. Any other material accumulation or success is not considered a real profit (ūtiyam) for the soul. The word 'icai' specifically denotes fame, emphasizing that a life remembered for its generosity is the only life of true value.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

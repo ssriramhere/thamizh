@@ -4,9 +4,14 @@
    "surface": "பசக்க",
    "parts": [
     {
-     "text": "பசக்க",
+     "text": "பச",
      "lemma": "பச",
-     "gloss": "let it turn pale"
+     "gloss": "to turn pale"
+    },
+    {
+     "text": "க",
+     "lemma": "க",
+     "gloss": "optative suffix"
     }
    ],
    "gloss": "let it turn pale"
@@ -17,7 +22,7 @@
     {
      "text": "மன்",
      "lemma": "மன்",
-     "gloss": "indeed"
+     "gloss": "indeed (particle of emphasis)"
     }
    ],
    "gloss": "indeed"
@@ -26,19 +31,24 @@
    "surface": "பட்டாங்கு",
    "parts": [
     {
-     "text": "பட்டாங்கு",
-     "lemma": "பட்டாங்கு",
-     "gloss": "as it happens"
+     "text": "பட்டு",
+     "lemma": "படு",
+     "gloss": "having happened"
+    },
+    {
+     "text": "ஆங்கு",
+     "lemma": "ஆங்கு",
+     "gloss": "thus / completely"
     }
    ],
-   "gloss": "as it happens"
+   "gloss": "completely / as it happens"
   },
   {
    "surface": "என்",
    "parts": [
     {
      "text": "என்",
-     "lemma": "யான்",
+     "lemma": "என்",
      "gloss": "my"
     }
    ],
@@ -50,7 +60,7 @@
     {
      "text": "மேனி",
      "lemma": "மேனி",
-     "gloss": "body"
+     "gloss": "body / skin"
     }
    ],
    "gloss": "body"
@@ -59,12 +69,22 @@
    "surface": "நயப்பித்தார்",
    "parts": [
     {
-     "text": "நயப்பித்தார்",
+     "text": "நயப்பி",
      "lemma": "நயப்பி",
-     "gloss": "he who caused desire"
+     "gloss": "cause to desire"
+    },
+    {
+     "text": "த்",
+     "lemma": "த்",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "ஆர்",
+     "lemma": "ஆர்",
+     "gloss": "he (honorific)"
     }
    ],
-   "gloss": "he who caused desire"
+   "gloss": "he who made me love him"
   },
   {
    "surface": "நன்னிலையர்",
@@ -72,38 +92,54 @@
     {
      "text": "நன்னிலையர்",
      "lemma": "நன்னிலையர்",
-     "gloss": "he who is in a good state"
+     "gloss": "one in a good state"
     }
    ],
-   "gloss": "he who is in a good state"
+   "gloss": "one in a good state",
+   "split_unverified": true
   },
   {
    "surface": "ஆவர்",
    "parts": [
     {
-     "text": "ஆவர்",
+     "text": "ஆ",
      "lemma": "ஆ",
-     "gloss": "he will be"
+     "gloss": "to become"
+    },
+    {
+     "text": "வ்",
+     "lemma": "வ்",
+     "gloss": "future marker"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they / he (honorific)"
     }
    ],
-   "gloss": "he will be"
+   "gloss": "he will become / remain"
   },
   {
    "surface": "எனின்",
    "parts": [
     {
-     "text": "எனின்",
+     "text": "என்",
      "lemma": "என்",
-     "gloss": "if"
+     "gloss": "to say"
+    },
+    {
+     "text": "இன்",
+     "lemma": "இன்",
+     "gloss": "if (conditional suffix)"
     }
    ],
    "gloss": "if"
   }
  ],
- "literal": "let it turn pale indeed as it happens my body he who caused desire he who is in a good state he will be if",
- "translation": "Let my body turn pale as it naturally would, if the one who made me love him remains in a good state.",
- "modern": "என்னை விரும்பச் செய்த என் காதலர் நல்ல நிலையில் இருப்பார் என்றால், என் உடல் அதன் இயல்புப்படி பசலை நிறம் அடையட்டும்.",
- "explanation": "The heroine speaks to her friend about her pallor, which appears due to her lover's absence. She declares that she does not mind her body turning pale, as long as her lover, who first sparked her desire, is safe and well. The word 'நயப்பித்தார்' highlights that he was the one who initiated their love, making her current suffering a willing sacrifice for his well-being. Her selfless love is shown by her acceptance of physical fading if it means he remains in a good state.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Let turn pale indeed completely my body, he who made me love, of good state will become, if.",
+ "translation": "Let my body turn completely pale, if only he who made me love him can remain in good health and happiness.",
+ "modern": "என்னை விரும்பச் செய்த என் காதலர் நல்ல நிலையில் நலமாக இருப்பார் என்றால், என் உடம்பு முழுவதும் பசலை நிறம் அடைந்து போகட்டும்.",
+ "explanation": "In this couplet, the heroine expresses her selfless love amidst the pain of separation. She is suffering from 'pasappu' (the sallow, pale discoloration of the skin caused by grief), which is spreading over her body. However, she declares that she does not care if her body ('mēni') turns completely pale ('pasakka'), as long as her lover ('nayappittār', the one who made her desire him) is safe and in a good state ('nannilaiyar') wherever he is. Her own physical suffering is secondary to his well-being.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

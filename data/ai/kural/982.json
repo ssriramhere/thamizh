@@ -4,9 +4,14 @@
    "surface": "குணநலம்",
    "parts": [
     {
-     "text": "குணநலம்",
-     "lemma": "குணநலம்",
-     "gloss": "goodness of character"
+     "text": "குண",
+     "lemma": "குணம்",
+     "gloss": "character/virtue"
+    },
+    {
+     "text": "நலம்",
+     "lemma": "நலம்",
+     "gloss": "goodness"
     }
    ],
    "gloss": "goodness of character"
@@ -17,7 +22,7 @@
     {
      "text": "சான்றோர்",
      "lemma": "சான்றோர்",
-     "gloss": "noble ones"
+     "gloss": "the noble/perfect ones"
     }
    ],
    "gloss": "of the noble"
@@ -27,16 +32,16 @@
    "parts": [
     {
      "text": "நலன்",
-     "lemma": "நலன்",
+     "lemma": "நலம்",
      "gloss": "goodness"
     },
     {
      "text": "ஏ",
      "lemma": "ஏ",
-     "gloss": "indeed"
+     "gloss": "indeed (emphasis)"
     }
    ],
-   "gloss": "is goodness indeed"
+   "gloss": "is indeed the true goodness"
   },
   {
    "surface": "பிறநலம்",
@@ -52,46 +57,46 @@
      "gloss": "goodness"
     }
    ],
-   "gloss": "other goodness"
+   "gloss": "other kinds of goodness"
   },
   {
    "surface": "எந்நலத்து",
    "parts": [
     {
      "text": "எந்நலத்து",
-     "lemma": "எந்நலத்து",
-     "gloss": "in any goodness"
+     "lemma": "எந்நலம்",
+     "gloss": "in any kind of goodness"
     }
    ],
-   "gloss": "in any goodness"
+   "gloss": "in any other goodness"
   },
   {
    "surface": "உள்ளதூஉம்",
    "parts": [
     {
      "text": "உள்ளதூஉம்",
-     "lemma": "உள்ளதூஉம்",
+     "lemma": "உள்ளது",
      "gloss": "that which is included"
     }
    ],
-   "gloss": "included"
+   "gloss": "to be included"
   },
   {
    "surface": "அன்று",
    "parts": [
     {
      "text": "அன்று",
-     "lemma": "அல்",
+     "lemma": "அன்று",
      "gloss": "is not"
     }
    ],
    "gloss": "is not"
   }
  ],
- "literal": "Goodness of character of the noble is goodness indeed; other goodness in any goodness included is not.",
- "translation": "The true goodness of the noble is the goodness of their character. Any other kind of goodness is not counted as goodness at all.",
- "modern": "சான்றோர்களின் உண்மையான நலம் என்பது அவர்களின் நற்குணங்களே ஆகும். மற்ற நலன்கள் எந்த வகையான நலத்திலும் சேராதவை ஆகும்.",
- "explanation": "This couplet defines the true wealth or goodness of noble people. It states that the excellence of their character is their only real goodness. Any other kind of advantage, such as physical beauty or material wealth, is not considered true goodness and does not belong in the category of real virtues. The word 'உள்ளதூஉம்' uses poetic lengthening to emphasize that other traits are absolutely not included in true goodness.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Goodness of character is the goodness of the noble; other goodness is not included in any true goodness.",
+ "translation": "The only true goodness of the noble is their goodness of character; any other kind of goodness is not worthy of being counted as goodness at all.",
+ "modern": "நற்பண்புகளே சான்றோரின் சிறந்த நன்மையாகும்; மற்ற நன்மைகள் வேறு எந்த நன்மையிலும் சேர்த்து எண்ணத்தக்கவை அல்ல.",
+ "explanation": "This couplet defines the essence of nobility (சான்றாண்மை) as being rooted solely in moral character. The poet contrasts 'குணநலம்' (goodness of character) with 'பிறநலம்' (other assets like wealth, strength, or beauty). He asserts that without a good character, no other quality can be counted as true goodness. The word 'உள்ளதூஉம்' uses poetic elongation to strongly emphasize that these other attributes do not even deserve to be placed in the category of virtue.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

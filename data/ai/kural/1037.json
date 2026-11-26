@@ -6,10 +6,10 @@
     {
      "text": "தொடி",
      "lemma": "தொடி",
-     "gloss": "a toṭi measure"
+     "gloss": "a measure of weight (one palam)"
     }
    ],
-   "gloss": "a toṭi measure"
+   "gloss": "a measure of weight (one palam)"
   },
   {
    "surface": "புழுதி",
@@ -17,10 +17,10 @@
     {
      "text": "புழுதி",
      "lemma": "புழுதி",
-     "gloss": "dust"
+     "gloss": "ploughed soil / dust"
     }
    ],
-   "gloss": "dust"
+   "gloss": "ploughed soil / dust"
   },
   {
    "surface": "கஃசா",
@@ -28,15 +28,15 @@
     {
      "text": "கஃசு",
      "lemma": "கஃசு",
-     "gloss": "a kaḵcu measure"
+     "gloss": "a quarter-measure of weight"
     },
     {
      "text": "ஆ",
-     "lemma": "ஆகு",
-     "gloss": "to become"
+     "lemma": "ஆக",
+     "gloss": "to become / as"
     }
    ],
-   "gloss": "to become a kaḵcu measure"
+   "gloss": "reduced to a quarter-measure"
   },
   {
    "surface": "உணக்கின்",
@@ -44,7 +44,7 @@
     {
      "text": "உணக்கு",
      "lemma": "உணக்கு",
-     "gloss": "to dry"
+     "gloss": "dry"
     },
     {
      "text": "இன்",
@@ -63,12 +63,12 @@
      "gloss": "handful"
     },
     {
-     "text": "த்து",
-     "lemma": "அத்து",
-     "gloss": "link"
+     "text": "து",
+     "lemma": "து",
+     "gloss": "noun suffix"
     }
    ],
-   "gloss": "handful"
+   "gloss": "a handful"
   },
   {
    "surface": "எருவும்",
@@ -79,9 +79,9 @@
      "gloss": "manure"
     },
     {
-     "text": "வும்",
+     "text": "உம்",
      "lemma": "உம்",
-     "gloss": "even"
+     "gloss": "even / also"
     }
    ],
    "gloss": "even manure"
@@ -92,12 +92,12 @@
     {
      "text": "வேண்டு",
      "lemma": "வேண்டு",
-     "gloss": "to need"
+     "gloss": "need"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative participle)"
     }
    ],
    "gloss": "without needing"
@@ -106,14 +106,9 @@
    "surface": "சால",
    "parts": [
     {
-     "text": "சால்",
-     "lemma": "சால்",
-     "gloss": "to be abundant"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "adverbial suffix"
+     "text": "சால",
+     "lemma": "சால",
+     "gloss": "abundantly"
     }
    ],
    "gloss": "abundantly"
@@ -124,21 +119,21 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "to yield"
+     "gloss": "will yield / happen"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "will"
+     "gloss": "will (future/habitual)"
     }
    ],
    "gloss": "will yield"
   }
  ],
- "literal": "A toṭi measure of dust to become a kaḵcu measure if dried, handful of even manure without needing, abundantly it will yield.",
- "translation": "If plowed soil is left to dry until a full measure of dust shrinks to a quarter, the field will yield abundantly without needing even a handful of manure.",
- "modern": "ஒரு தொடி அளவுள்ள உழுத மண்ணானது கஃசு அளவாகக் குறையும்படி நன்றாகக் காயவிட்டால், ஒரு பிடி எருவும் தேவையில்லாமல் நிலம் மிகுதியாக விளைச்சலைத் தரும்.",
- "explanation": "This couplet emphasizes the importance of properly drying and aerating plowed soil before sowing. The poet uses two traditional weights to illustrate this: 'toṭi' (a larger measure) and 'kaḵcu' (a smaller measure, a quarter of a toṭi). If the soil is turned to dust and dried in the sun until its weight reduces from a toṭi to a kaḵcu, it becomes highly fertile. Under such well-prepared conditions, the field will yield an abundant harvest without requiring even a single handful of manure.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "If a todi of ploughed soil is dried to a quarter-measure, even a handful of manure without needing, abundantly it will yield.",
+ "translation": "If ploughed soil is dried so thoroughly that a measure of one todi shrinks to a quarter-measure, the land will yield abundantly even without a handful of manure.",
+ "modern": "உழுத மண்ணின் ஒரு பலம் எடையுள்ள புழுதி, காய்ந்து கால் பலம் எடையாகக் குறையும் அளவுக்குக் காய வைத்தால், ஒரு கைப்பிடி அளவு எருவும் தேவையில்லாமல் பயிர்கள் மிகச் சிறப்பாக விளையும்.",
+ "explanation": "This couplet highlights the supreme importance of thoroughly drying ploughed soil before sowing. The poet uses precise ancient weights: a 'toṭi' (equivalent to a 'palam') and a 'kaḥcu' (one-fourth of a 'toṭi'). If the wet, ploughed soil is left to dry in the sun so intensely that its moisture evaporates completely, reducing its weight to a quarter of its original wet weight, the soil becomes exceptionally fertile. Such well-dried soil becomes so rich in nutrients and aeration that the farmer does not even need to add a single handful of manure ('piṭittu eruvum vēṇṭātu') to get an abundant harvest ('cālap paṭum').",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

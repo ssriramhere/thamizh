@@ -4,20 +4,30 @@
    "surface": "முகநக",
    "parts": [
     {
-     "text": "முகநக",
-     "lemma": "முகநக",
-     "gloss": "so the face smiles"
+     "text": "முக",
+     "lemma": "முகம்",
+     "gloss": "face"
+    },
+    {
+     "text": "நக",
+     "lemma": "நகு",
+     "gloss": "to smile"
     }
    ],
-   "gloss": "so the face smiles"
+   "gloss": "smiling with the face"
   },
   {
    "surface": "நட்பது",
    "parts": [
     {
-     "text": "நட்பது",
-     "lemma": "நள்",
-     "gloss": "befriending"
+     "text": "நட்பு",
+     "lemma": "நட்பு",
+     "gloss": "friendship"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
    "gloss": "befriending"
@@ -42,31 +52,46 @@
    "surface": "நெஞ்சத்து",
    "parts": [
     {
-     "text": "நெஞ்சத்து",
-     "lemma": "நெஞ்சம்",
-     "gloss": "in the heart"
+     "text": "நெஞ்சு",
+     "lemma": "நெஞ்சு",
+     "gloss": "heart"
+    },
+    {
+     "text": "அத்து",
+     "lemma": "அத்து",
+     "gloss": "oblique case suffix"
     }
    ],
-   "gloss": "in the heart"
+   "gloss": "of the heart"
   },
   {
    "surface": "அகநக",
    "parts": [
     {
-     "text": "அகநக",
-     "lemma": "அகநக",
-     "gloss": "so the inside smiles"
+     "text": "அக",
+     "lemma": "அகம்",
+     "gloss": "heart"
+    },
+    {
+     "text": "நக",
+     "lemma": "நகு",
+     "gloss": "to smile"
     }
    ],
-   "gloss": "so the inside smiles"
+   "gloss": "smiling with the heart"
   },
   {
    "surface": "நட்பது",
    "parts": [
     {
-     "text": "நட்பது",
-     "lemma": "நள்",
-     "gloss": "befriending"
+     "text": "நட்பு",
+     "lemma": "நட்பு",
+     "gloss": "friendship"
+    },
+    {
+     "text": "அது",
+     "lemma": "அது",
+     "gloss": "it"
     }
    ],
    "gloss": "befriending"
@@ -80,13 +105,13 @@
      "gloss": "friendship"
     }
    ],
-   "gloss": "friendship"
+   "gloss": "true friendship"
   }
  ],
- "literal": "face to-smile befriending friendship-is-not heart's inside to-smile befriending friendship",
- "translation": "Friendship is not befriending someone just to bring a smile to the face. True friendship is befriending them so that the heart smiles from within.",
- "modern": "முகம் மட்டும் மலரும்படி நட்பு கொள்வது உண்மையான நட்பு ஆகாது. நெஞ்சத்தின் உள்ளே மகிழ்ச்சி மலரும்படி நட்பு கொள்வதே உண்மையான நட்பு ஆகும்.",
- "explanation": "This couplet defines the depth of true friendship by contrasting outward expressions with inner feelings. The poet explains that merely smiling with the face and showing outward affection does not constitute real friendship. True friendship occurs only when the heart rejoices from within, indicating genuine love and sincere connection. The repetition of the word for smiling emphasizes the difference between superficial acquaintance and deep emotional bonds.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Smiling with the face, befriending is not friendship; of the heart, smiling with the heart, befriending is friendship.",
+ "translation": "A friendship that merely smiles with the face is not true friendship; true friendship is that which smiles from the depths of the heart.",
+ "modern": "முகம் மட்டும் மலரும்படி நட்புச் செய்வது உண்மையான நட்பு அன்று; உள்ளம் மகிழ்ந்து மலரும்படி நட்புச் செய்வதே உண்மையான நட்பாகும்.",
+ "explanation": "This couplet distinguishes between superficial friendship and genuine affection. The poet contrasts the outward appearance of the face with the inner reality of the heart. A smile that is only on the face when meeting someone does not constitute real friendship. True friendship is established only when the heart itself rejoices and smiles with sincere love.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

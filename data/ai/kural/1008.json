@@ -9,33 +9,19 @@
      "gloss": "to desire"
     }
    ],
-   "gloss": "to desire"
+   "gloss": "to be desired"
   },
   {
    "surface": "படாதவன்",
    "parts": [
     {
-     "text": "படு",
-     "lemma": "படு",
-     "gloss": "to experience (passive)"
-    },
-    {
-     "text": "ஆ",
-     "lemma": "ஆ",
-     "gloss": "negative suffix"
-    },
-    {
-     "text": "த்",
-     "lemma": "த்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அவன்",
-     "lemma": "அவன்",
-     "gloss": "he"
+     "text": "படாதவன்",
+     "lemma": "படாதவன்",
+     "gloss": "he who is not desired"
     }
    ],
-   "gloss": "he who is not"
+   "gloss": "he who is not desired",
+   "split_unverified": true
   },
   {
    "surface": "செல்வம்",
@@ -65,7 +51,7 @@
     {
      "text": "ஊர்",
      "lemma": "ஊர்",
-     "gloss": "town"
+     "gloss": "village"
     },
     {
      "text": "உள்",
@@ -73,7 +59,7 @@
      "gloss": "inside"
     }
    ],
-   "gloss": "inside the town"
+   "gloss": "inside the village"
   },
   {
    "surface": "நச்சு",
@@ -84,7 +70,7 @@
      "gloss": "poison"
     }
    ],
-   "gloss": "poison"
+   "gloss": "poisonous"
   },
   {
    "surface": "மரம்",
@@ -103,7 +89,7 @@
     {
      "text": "பழுத்து",
      "lemma": "பழு",
-     "gloss": "having ripened"
+     "gloss": "to ripen"
     }
    ],
    "gloss": "having ripened"
@@ -114,16 +100,16 @@
     {
      "text": "அற்று",
      "lemma": "அற்று",
-     "gloss": "like that"
+     "gloss": "is like"
     }
    ],
-   "gloss": "it is like"
+   "gloss": "is like"
   }
  ],
- "literal": "To desire - he who is not experienced - wealth - middle - inside town - poison - tree - having ripened - it is like.",
- "translation": "The wealth of a man whom no one loves is like a poisonous tree bearing fruit in the middle of a town.",
- "modern": "யாராலும் விரும்பப்படாதவனுடைய செல்வம், ஊரின் நடுவே உள்ள ஒரு நச்சுமரம் பழுத்ததைப் போன்றது.",
- "explanation": "This couplet compares the wealth of an unloved, miserly person to a poisonous tree fruiting in the center of a town. 'நச்சப் படாதவன்' refers to one who is not desired or loved by others, usually because he does not help anyone. Even though his 'செல்வம்' (wealth) is abundant and accessible, like a tree in the 'நடு ஊருள்' (middle of the town), it is utterly useless and even harmful, just as the fruits of a 'நச்சு மரம்' (poisonous tree) cannot be eaten. The wealth benefits no one and only causes sorrow.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "The wealth of he who is not desired is like a poisonous tree having ripened inside the middle of the village.",
+ "translation": "The wealth of a person who is not loved by anyone is like a poisonous tree bearing ripe fruit in the very middle of a village.",
+ "modern": "பிறரால் விரும்பப்படாதவனுடைய செல்வம், ஊரின் நடுவே நச்சு மரம் பழுத்து நிற்பதைப் போன்றது.",
+ "explanation": "This couplet compares the wealth of an unloved or miserly person to a poisonous tree bearing ripe fruit in the center of a village. Although the tree is full of fruit and highly visible to everyone, no one can eat it because it is toxic. Similarly, the wealth of a person who does not share or who is disliked by the community is useless to those around him. The key words 'நச்சப் படாதவன்' (he who is not desired or loved) and 'நச்சு மரம்' (poisonous tree) draw a sharp contrast between abundance and uselessness. The image of the tree in the 'நடுவூருள்' (middle of the village) emphasizes that the wealth is in plain sight but remains entirely out of reach for any beneficial purpose.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

@@ -4,17 +4,12 @@
    "surface": "ஊடி",
    "parts": [
     {
-     "text": "ஊடு",
+     "text": "ஊடி",
      "lemma": "ஊடு",
-     "gloss": "to sulk"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "verbal participle suffix"
+     "gloss": "having feigned anger"
     }
    ],
-   "gloss": "having sulked"
+   "gloss": "by feigning anger"
   },
   {
    "surface": "பெறுகுவம்",
@@ -22,15 +17,20 @@
     {
      "text": "பெறு",
      "lemma": "பெறு",
-     "gloss": "to get"
+     "gloss": "obtain"
     },
     {
-     "text": "குவம்",
-     "lemma": "குவம்",
-     "gloss": "1st person plural future suffix"
+     "text": "கு",
+     "lemma": "கு",
+     "gloss": "future marker"
+    },
+    {
+     "text": "வம்",
+     "lemma": "அம்",
+     "gloss": "we (first-person plural ending)"
     }
    ],
-   "gloss": "we will get"
+   "gloss": "shall we obtain"
   },
   {
    "surface": "கொல்லோ",
@@ -43,10 +43,10 @@
     {
      "text": "ஓ",
      "lemma": "ஓ",
-     "gloss": "interrogative suffix"
+     "gloss": "clitic of wonder"
     }
    ],
-   "gloss": "I wonder!"
+   "gloss": "wondering if"
   },
   {
    "surface": "நுதல்",
@@ -63,27 +63,12 @@
    "surface": "வெயர்ப்ப",
    "parts": [
     {
-     "text": "வெயர்",
+     "text": "வெயர்ப்ப",
      "lemma": "வெயர்",
      "gloss": "to sweat"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "infinitive marker"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "so as to sweat"
+   "gloss": "to perspire"
   },
   {
    "surface": "கூடலில்",
@@ -91,41 +76,26 @@
     {
      "text": "கூடல்",
      "lemma": "கூடல்",
-     "gloss": "union"
+     "gloss": "reunion"
     },
     {
      "text": "இல்",
      "lemma": "இல்",
-     "gloss": "locative suffix"
+     "gloss": "in (locative case)"
     }
    ],
-   "gloss": "in the union"
+   "gloss": "in the reunion"
   },
   {
    "surface": "தோன்றிய",
    "parts": [
     {
-     "text": "தோன்று",
+     "text": "தோன்றிய",
      "lemma": "தோன்று",
-     "gloss": "to appear"
-    },
-    {
-     "text": "இ",
-     "lemma": "இ",
-     "gloss": "past tense marker"
-    },
-    {
-     "text": "ய்",
-     "lemma": "ய்",
-     "gloss": "sandhi"
-    },
-    {
-     "text": "அ",
-     "lemma": "அ",
-     "gloss": "relative participle suffix"
+     "gloss": "that arose"
     }
    ],
-   "gloss": "which appeared"
+   "gloss": "that arose"
   },
   {
    "surface": "உப்பு",
@@ -133,16 +103,16 @@
     {
      "text": "உப்பு",
      "lemma": "உப்பு",
-     "gloss": "delight"
+     "gloss": "salt / relish"
     }
    ],
-   "gloss": "delight"
+   "gloss": "relish"
   }
  ],
- "literal": "Having sulked, will we get, I wonder, forehead to sweat, in union appeared delight?",
- "translation": "I wonder if we can attain by sulking again that sweet delight which arose in our union, making our foreheads sweat.",
- "modern": "நெற்றி வியர்க்கும்படி நாம் கூடியபோது உண்டான அந்த இன்பத்தை, மீண்டும் ஊடல் கொள்வதன் மூலம் நாம் பெறுவோமா?",
- "explanation": "The couplet captures a lover's reflection on the intense joy of physical union following a lovers' tiff. The lover remembers how their recent reconciliation was so passionate that their foreheads broke into a sweat. The word 'உப்பு' literally means salt, but here it signifies the 'flavor' or 'delight' that enhances love. Having experienced this heightened pleasure, the lover wonders if feigning another quarrel will once again yield such a sweet reward.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Having feigned anger, shall we obtain indeed, forehead to perspire, in the reunion that arose relish?",
+ "translation": "Will we ever obtain again, by feigning anger, that exquisite relish that arose during our reunion, which made her forehead perspire?",
+ "modern": "நெற்றியில் வியர்வை அரும்பும்படி நாம் கூடி மகிழ்ந்தபோது உண்டான அந்த இன்பத்தை (சுவையை), மீண்டும் நாம் ஊடல் கொள்வதன் மூலம் பெற முடியுமோ?",
+ "explanation": "This couplet describes the intense pleasure of reunion after a brief period of feigned anger (ūṭal). The word 'உப்பு' (literally salt) is used here in the sense of 'relish' or 'savoury delight', comparing the pleasure of love to the essential flavor that salt adds to food. The lover wonders if they can recreate that passionate moment of reunion—which was so intense that it made the beloved's forehead perspire—simply by starting another playful argument. It highlights how temporary disagreements serve to heighten physical and emotional intimacy.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

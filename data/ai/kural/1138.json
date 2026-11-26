@@ -6,21 +6,26 @@
     {
      "text": "நிறை",
      "lemma": "நிறை",
-     "gloss": "firmness"
+     "gloss": "self-control"
     }
    ],
-   "gloss": "firmness"
+   "gloss": "self-control"
   },
   {
    "surface": "அரியர்",
    "parts": [
     {
-     "text": "அரியர்",
-     "lemma": "அரியர்",
-     "gloss": "rare persons"
+     "text": "அரி",
+     "lemma": "அரி",
+     "gloss": "rare"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "rare persons"
+   "gloss": "they are rare (in self-control)"
   },
   {
    "surface": "மன்",
@@ -31,18 +36,23 @@
      "gloss": "indeed"
     }
    ],
-   "gloss": "indeed"
+   "gloss": "indeed (particle of emphasis)"
   },
   {
    "surface": "அளியர்",
    "parts": [
     {
-     "text": "அளியர்",
-     "lemma": "அளியர்",
-     "gloss": "pitiable persons"
+     "text": "அளி",
+     "lemma": "அளி",
+     "gloss": "pity"
+    },
+    {
+     "text": "அர்",
+     "lemma": "அர்",
+     "gloss": "they (suffix)"
     }
    ],
-   "gloss": "pitiable persons"
+   "gloss": "they are pitiable"
   },
   {
    "surface": "என்னாது",
@@ -50,15 +60,15 @@
     {
      "text": "என்",
      "lemma": "என்",
-     "gloss": "to say"
+     "gloss": "say/think"
     },
     {
      "text": "ஆது",
      "lemma": "ஆது",
-     "gloss": "without"
+     "gloss": "without (negative suffix)"
     }
    ],
-   "gloss": "without considering"
+   "gloss": "without thinking"
   },
   {
    "surface": "காமம்",
@@ -66,10 +76,10 @@
     {
      "text": "காமம்",
      "lemma": "காமம்",
-     "gloss": "passion"
+     "gloss": "love/desire"
     }
    ],
-   "gloss": "passion"
+   "gloss": "love"
   },
   {
    "surface": "மறை",
@@ -80,7 +90,7 @@
      "gloss": "secret"
     }
    ],
-   "gloss": "secret"
+   "gloss": "secrecy"
   },
   {
    "surface": "இறந்து",
@@ -88,10 +98,10 @@
     {
      "text": "இறந்து",
      "lemma": "இற",
-     "gloss": "having crossed"
+     "gloss": "having transgressed"
     }
    ],
-   "gloss": "having crossed"
+   "gloss": "transgressing"
   },
   {
    "surface": "மன்று",
@@ -99,10 +109,10 @@
     {
      "text": "மன்று",
      "lemma": "மன்று",
-     "gloss": "public assembly"
+     "gloss": "public place"
     }
    ],
-   "gloss": "public assembly"
+   "gloss": "public place"
   },
   {
    "surface": "படும்",
@@ -110,21 +120,21 @@
     {
      "text": "படு",
      "lemma": "படு",
-     "gloss": "to appear"
+     "gloss": "happen/appear"
     },
     {
      "text": "உம்",
      "lemma": "உம்",
-     "gloss": "future suffix"
+     "gloss": "will (future suffix)"
     }
    ],
    "gloss": "will appear"
   }
  ],
- "literal": "firmness - rare persons - indeed - pitiable persons - not saying - passion - secret - having crossed - public assembly - will appear",
- "translation": "Passion does not care that one's self-control is hard-won or that one's state is pitiable. It breaks out of secrecy and exposes itself in the public square.",
- "modern": "'இவர்கள் மன உறுதி மிக்கவர்கள், மிகவும் பரிதாபத்திற்கு உரியவர்கள்' என்று பார்க்காமல், காமம் ரகசிய எல்லையைத் தாண்டி பொது மன்றத்தில் வெளிப்பட்டு விடும்.",
- "explanation": "The speaker expresses how overwhelming love cannot be hidden. Passion is personified as a relentless force that does not pity the lover's suffering ('அளியர்') or respect their hard-won self-control ('நிறை அரியர்'). Instead of remaining a private secret ('மறை'), it breaks all boundaries ('இறந்து') and exposes the lover's feelings to the entire public assembly ('மன்று'). This highlights the uncontrollable and public nature of intense romantic longing.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Without thinking, 'They have rare self-control, indeed they are pitiable,' love, transgressing secrecy, will appear in the public place.",
+ "translation": "Without considering, 'These people have rare self-control,' or 'They deserve pity,' love overflows its secrets and exposes itself in public.",
+ "modern": "இவர்கள் மிகுந்த மனவலிமை உடையவர்கள் என்றும், இவர்கள் இரங்கத்தக்கவர்கள் என்றும் எண்ணாமல், காமமானது தன் இரகசியங்களைக் கடந்து பொதுவெளியில் வெளிப்பட்டுவிடும்.",
+ "explanation": "This couplet describes how overwhelming passion cannot be hidden by modesty or self-restraint. The speaker notes that love (kāmam) does not pause to think whether the lovers possess rare self-control (niṟai) or whether they deserve pity (aḷiyar) for their suffering. Instead, it breaks through all barriers of privacy and secrecy (maṟai) and reveals itself openly in public (maṉṟu). The contrast between internal restraint and the unstoppable public manifestation of love highlights the helplessness of the lovers.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }

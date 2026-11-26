@@ -4,12 +4,22 @@
    "surface": "முயங்கிய",
    "parts": [
     {
-     "text": "முயங்கிய",
+     "text": "முயங்கு",
      "lemma": "முயங்கு",
-     "gloss": "embraced"
+     "gloss": "embrace"
+    },
+    {
+     "text": "இ",
+     "lemma": "இ",
+     "gloss": "past tense marker"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "relative participle suffix"
     }
    ],
-   "gloss": "embraced"
+   "gloss": "that embraced"
   },
   {
    "surface": "கைகளை",
@@ -27,32 +37,42 @@
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative suffix"
+     "gloss": "accusative case marker"
     }
    ],
-   "gloss": "hands (acc.)"
+   "gloss": "the hands"
   },
   {
    "surface": "ஊக்க",
    "parts": [
     {
-     "text": "ஊக்க",
+     "text": "ஊக்கு",
      "lemma": "ஊக்கு",
-     "gloss": "to loosen"
+     "gloss": "loosen or relax"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "infinitive suffix"
     }
    ],
-   "gloss": "to loosen"
+   "gloss": "as they relaxed"
   },
   {
    "surface": "பசந்தது",
    "parts": [
     {
-     "text": "பசந்தது",
-     "lemma": "பச",
-     "gloss": "grew pale"
+     "text": "பச",
+     "lemma": "பசத்தல்",
+     "gloss": "turn pale"
+    },
+    {
+     "text": "ந்தது",
+     "lemma": "து",
+     "gloss": "past neuter singular suffix"
     }
    ],
-   "gloss": "grew pale"
+   "gloss": "turned pale"
   },
   {
    "surface": "பைந்தொடி",
@@ -60,7 +80,7 @@
     {
      "text": "பைம்",
      "lemma": "பசுமை",
-     "gloss": "fresh/green"
+     "gloss": "fresh and beautiful"
     },
     {
      "text": "தொடி",
@@ -68,7 +88,7 @@
      "gloss": "bracelet"
     }
    ],
-   "gloss": "fresh bracelet"
+   "gloss": "she who wears beautiful bracelets"
   },
   {
    "surface": "பேதை",
@@ -79,7 +99,7 @@
      "gloss": "innocent woman"
     }
    ],
-   "gloss": "innocent woman"
+   "gloss": "the innocent woman"
   },
   {
    "surface": "நுதல்",
@@ -93,10 +113,10 @@
    "gloss": "forehead"
   }
  ],
- "literal": "Embraced hands to loosen, grew pale (the) fresh-braceleted innocent woman's forehead.",
- "translation": "When I merely loosened my embracing arms, the forehead of this innocent woman with fresh bracelets instantly grew pale.",
- "modern": "நான் தழுவியிருந்த கைகளைச் சற்றே தளர்த்தியவுடனே, பசிய வளையல்களை அணிந்த இந்தப் பேதைப் பெண்ணின் நெற்றி பசலை நிறம் அடைந்தது.",
- "explanation": "The speaker marvels at the extreme sensitivity of his lover. Even a momentary loosening of his embrace causes her forehead to instantly turn pale with the sorrow of separation. The word 'pētai' (innocent woman) highlights her delicate and naive nature, unable to bear even the slightest physical distance. The image of 'paintoti' (fresh bracelets) contrasts her adorned beauty with the sudden pallor of her forehead.",
- "model": "gemini-3.1-pro-preview",
- "generated": "2026-11-25"
+ "literal": "Embraced hands as they relaxed, turned pale the beautiful-braceleted innocent woman's forehead.",
+ "translation": "The moment we relaxed our tight embrace, even slightly, paleness spread over the forehead of my simple beloved who wears beautiful bracelets.",
+ "modern": "தழுவியிருந்த கைகளைச் சற்றே தளர்த்திய உடனே, அழகிய வளையல்களை அணிந்த இப்பேதை பெண்ணின் நெற்றி பசலை நிறமடைந்தது.",
+ "explanation": "This couplet depicts the extreme sensitivity of the heroine to even a momentary separation. The hero observes that when they slightly loosened their embrace, her forehead immediately turned pale with grief. The word 'paim-toṭi' refers to her beautiful bracelets, and 'pēthai' highlights her innocent, tender nature. Her instant physical reaction of turning pale shows how deeply she feels even the slightest distance from her lover.",
+ "model": "gemini-3.5-flash",
+ "generated": "2026-11-26"
 }
