@@ -248,3 +248,45 @@ section.block { padding: 56px 0; }
 .word .fix { border: 0; background: none; padding: 4px 0 0; font: inherit; font-size: 13px; color: #1F5F8B; text-decoration: underline; cursor: pointer; text-align: left; }
 .hp { position: absolute; left: -9999px; }
 @media (max-width: 640px) { .sug .row2 { grid-template-columns: 1fr; } .sug .part { grid-template-columns: 1fr 1fr; } .sug .part .g { grid-column: 1 / 2; } }
+
+/* Caṅkam anthologies */
+.tchip { display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 9px; border-radius: 999px; background: var(--tint); color: var(--ink-2); }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 16px; }
+.filter { border: 1.5px solid var(--c, var(--ink)); color: var(--c, var(--ink)); background: #fff; border-radius: 999px; padding: 8px 14px; font-weight: 600; cursor: pointer; }
+.filter[aria-pressed="true"] { background: var(--c, var(--ink)); color: #fff; }
+.filter[aria-pressed="true"] .muted { color: rgba(255,255,255,.8); }
+.prows { background: #fff; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.prow { display: grid; grid-template-columns: 64px minmax(0,2.2fr) minmax(0,1.3fr) 120px minmax(0,1.3fr); gap: 14px; align-items: center; padding: 12px 18px; border-top: 1px solid var(--rule); text-decoration: none; color: var(--ink); }
+.prow:hover { background: var(--soft); color: var(--ink); }
+.prow.hd { border-top: 0; font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); background: var(--soft); }
+.prow .num { font-weight: 700; }
+.prow .first { font-size: 17px; }
+@media (max-width: 760px) { .prow { grid-template-columns: 48px 1fr; } .prow > :nth-child(n+3) { grid-column: 2; } .prow.hd { display: none; } }
+.poem-grid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 24px; align-items: start; }
+@media (max-width: 960px) { .poem-grid { grid-template-columns: 1fr; } }
+.poem-main { display: flex; flex-direction: column; gap: 16px; }
+.pager { display: flex; gap: 8px; }
+.pager a { width: 40px; height: 40px; border-radius: 8px; border: 1px solid rgba(255,255,255,.35); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 22px; text-decoration: none; }
+.pager a:hover { background: rgba(255,255,255,.12); color: #fff; }
+.tabs { display: flex; gap: 4px; flex-wrap: wrap; border-bottom: 1px solid var(--line); }
+.tabs [role=tab] { border: 0; background: none; padding: 12px 14px; font-weight: 600; color: var(--muted); cursor: pointer; border-bottom: 3px solid transparent; margin-bottom: -1px; }
+.tabs [role=tab][aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+.foot { display: inline-flex; flex-direction: column; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; }
+.checks { list-style: none; padding: 0; margin: 8px 0 0; display: flex; flex-direction: column; gap: 4px; }
+.facts { margin: 14px 0; display: flex; flex-direction: column; gap: 12px; }
+.facts div { display: flex; flex-direction: column; gap: 2px; }
+.facts dt { font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.facts dd { margin: 0; }
+.tinai-card { position: sticky; top: 16px; }
+.lands { display: grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap: 10px; margin: 24px 0; }
+@media (max-width: 760px) { .lands { grid-template-columns: repeat(2, minmax(0,1fr)); } }
+.land { display: flex; flex-direction: column; gap: 2px; align-items: flex-start; text-align: left; padding: 14px; border-radius: 12px; border: 2px solid var(--c); background: #fff; color: var(--c); cursor: pointer; }
+.land[aria-pressed="true"] { background: var(--c); color: #fff; }
+.tinai-grid { display: grid; grid-template-columns: minmax(0,1.3fr) minmax(0,1fr); gap: 24px; align-items: start; }
+@media (max-width: 900px) { .tinai-grid { grid-template-columns: 1fr; } }
+.opts { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
+.opts button { border: 1.5px solid var(--ink); background: #fff; border-radius: 8px; padding: 10px 14px; font-weight: 600; cursor: pointer; }
+.opts button.right { background: #EAF2EA; border-color: var(--mullai); color: var(--mullai); }
+.opts button.wrong { background: #FBF3E2; border-color: var(--ochre); color: var(--ochre); }
+.opts button:disabled { cursor: default; }
+.verdict { font-size: 16px; line-height: 1.5; }

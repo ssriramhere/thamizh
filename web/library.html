@@ -14,22 +14,32 @@
 <div data-site-header data-crumbs="<strong>Library</strong>"></div>
 <main class="wrap" style="padding-top:48px">
   <h1 style="font-size:clamp(32px,4.5vw,46px)">Library</h1>
-  <p class="lead" style="margin-top:12px">Tirukkuṟaḷ is open. The Caṅkam anthologies come next.</p>
-  <section class="card" style="margin-top:32px;display:flex;flex-wrap:wrap;gap:16px 32px;align-items:center">
-    <div style="flex:1 1 360px">
-      <span lang="ta" style="font-size:30px;font-weight:700">திருக்குறள்</span>
-      <h2 style="margin-top:4px">Tirukkuṟaḷ</h2>
-      <p class="muted" style="margin-top:6px">1,330 couplets in 133 chapters of ten, in three books. Every couplet scanned as a kuṟaḷ veṇpā.</p>
+  <p class="lead" style="margin-top:12px">Browse by text, or by the landscape a poem is set in. You don't need to know any titles.</p>
+  <div role="tablist" class="tabs" aria-label="Browse" style="margin-top:24px">
+    <button type="button" role="tab" id="tab-text" aria-controls="by-text" aria-selected="true">By text</button>
+    <button type="button" role="tab" id="tab-land" aria-controls="by-land" aria-selected="false">By landscape</button>
+  </div>
+  <div role="tabpanel" id="by-text" aria-labelledby="tab-text">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;margin-top:24px">
+      <a class="card" href="/anthology?t=kuruntokai"><span lang="ta" style="font-size:26px;font-weight:700">குறுந்தொகை</span><h2>Kuṟuntokai</h2>
+        <span class="muted">401 short poems of love in āciriyappā, each set in one of the five landscapes.</span>
+        <span style="display:flex;gap:6px;flex-wrap:wrap"><span class="tchip" style="background:#E6E3F5;color:var(--kurinci)">Kuṟiñci</span><span class="tchip" style="background:#DDEFE0;color:var(--mullai)">Mullai</span><span class="tchip" style="background:#F4E8CF;color:var(--marutam)">Marutam</span><span class="tchip" style="background:#DCEAF4;color:var(--neytal)">Neytal</span><span class="tchip" style="background:#F6DAD5;color:var(--palai)">Pālai</span></span></a>
+      <a class="card" href="/anthology?t=purananuru"><span lang="ta" style="font-size:26px;font-weight:700">புறநானூறு</span><h2>Puṟanāṉūṟu</h2>
+        <span class="muted">Poems of kings and patrons, war, giving and grief. 397 of the 400 survive in this text.</span></a>
+      <a class="card" href="#kural-books"><span lang="ta" style="font-size:26px;font-weight:700">திருக்குறள்</span><h2>Tirukkuṟaḷ</h2>
+        <span class="muted">1,330 couplets in 133 chapters of ten, in three books. Every couplet scanned as a kuṟaḷ veṇpā.</span></a>
     </div>
-    <div style="display:flex;gap:12px;flex-wrap:wrap">
-      <a class="btn" href="/kural?n=1">Start at the first Kuṟaḷ</a>
-      <a class="btn ghost" href="/kural?today">Today's Kuṟaḷ</a>
-    </div>
-  </section>
-  <div id="books"><p class="pending" style="margin-top:28px">Loading chapters…</p></div>
+    <section style="margin-top:36px;display:flex;flex-wrap:wrap;gap:16px 32px;align-items:center" id="kural-books">
+      <h2 style="flex:1 1 300px">Tirukkuṟaḷ by chapter</h2>
+      <div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn" href="/kural?n=1">Start at the first Kuṟaḷ</a><a class="btn ghost" href="/kural?today">Today's Kuṟaḷ</a></div>
+    </section>
+    <div id="books"><p class="pending" style="margin-top:28px">Loading chapters…</p></div>
+  </div>
+  <div role="tabpanel" id="by-land" aria-labelledby="tab-land" hidden><div id="lands" style="display:flex;flex-direction:column;gap:16px;margin-top:24px"></div></div>
 </main>
 <div data-site-footer></div>
 <script src="/assets/site.js"></script>
+<script src="/assets/sangam.js"></script>
 <script>
 (async function () {
   const el = document.getElementById('books');
@@ -46,6 +56,23 @@
   } catch (e) {
     el.innerHTML = '<p class="pending" style="margin-top:28px">Could not load the chapters.</p>';
   }
+  const tabs = document.querySelector('.tabs');
+  const show = (id) => {
+    tabs.querySelectorAll('[role=tab]').forEach((x) => x.setAttribute('aria-selected', String(x.getAttribute('aria-controls') === id)));
+    document.querySelectorAll('[role=tabpanel]').forEach((x) => { x.hidden = x.id !== id; });
+  };
+  tabs.addEventListener('click', (e) => { const b = e.target.closest('[role=tab]'); if (b) { show(b.getAttribute('aria-controls')); history.replaceState(null, '', b.id === 'tab-land' ? '#landscape' : location.pathname); } });
+  if (location.hash === '#landscape') show('by-land');
+  const idx = await Th.json('/data/kuruntokai/index.json');
+  document.getElementById('lands').innerHTML = ThSangam.AKAM.map((t) => {
+    const ps = idx.poems.filter((p) => p.tinai === t.id);
+    const pick = ps.filter((p) => p.ai).concat(ps.filter((p) => !p.ai)).slice(0, 3);
+    return '<section class="card" style="border-left:6px solid ' + t.color + ';display:grid;grid-template-columns:minmax(200px,1fr) 2fr;gap:12px 24px">' +
+      '<div><span lang="ta" style="font-size:24px;font-weight:700;color:' + t.color + '">' + t.ta + '</span><p style="font-weight:600">' + t.en + ' · ' + t.land + '</p><p class="muted">' + t.mood + '</p>' +
+      '<a class="small" href="/tinai?t=' + encodeURIComponent(t.id) + '">About ' + t.en + ' →</a></div>' +
+      '<ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px">' + pick.map((p) => '<li><a lang="ta" style="font-size:18px" href="/poem?t=kuruntokai&n=' + p.n + '">' + Th.esc(p.first) + '</a> <span class="small muted">Kuṟuntokai ' + p.n + '</span></li>').join('') +
+      '<li><a class="small" href="/anthology?t=kuruntokai&tinai=' + encodeURIComponent(t.id) + '">All ' + ps.length + ' ' + t.en + ' poems →</a></li></ul></section>';
+  }).join('');
 })();
 </script>
 </body>
