@@ -46,7 +46,7 @@
   if (c < 133) next.href = '/chapter?c=' + (c + 1); else next.setAttribute('aria-disabled', 'true');
   document.getElementById('list').innerHTML = data.kurals.map((k) =>
     '<a href="/kural?n=' + k.n + '" data-n="' + k.n + '"><span class="num">' + k.n + '</span><span><span class="ta" lang="ta">' +
-    k.lines.map(Th.esc).join('<br>') + '</span><div class="tr">' + k.tr.map(Th.esc).join(' / ') + '</div>' +
+    ThListen.wrap(k.lines) + '</span><div class="tr">' + k.tr.map(Th.esc).join(' / ') + '</div>' +
     (k.ai && k.ai.translation ? '<div style="margin-top:6px">' + Th.esc(k.ai.translation) + '</div>' : '') +
     '</span></a>'
   ).join('');
@@ -55,6 +55,12 @@
       const on = a.dataset.n === String(n);
       a.style.background = on ? 'var(--tint)' : '';
       if (on) { a.setAttribute('aria-current', 'true'); a.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); } else a.removeAttribute('aria-current');
+    });
+  }, (n, t) => {
+    const byN = {}; data.kurals.forEach((k) => { byN[k.n] = k; });
+    document.querySelectorAll('#list a').forEach((a) => {
+      const k = byN[a.dataset.n];
+      ThListen.paint(a, k && k.timing, a.dataset.n === String(n) ? t : null);
     });
   });
 })();

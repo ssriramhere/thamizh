@@ -19,6 +19,8 @@ from engine.yappu import scan_kural  # noqa: E402
 
 OUT = ROOT / "web/data/kural"
 AI = ROOT / "data/ai/kural"
+_TF = ROOT / "data/build/kural_timings.json"
+TIMINGS = json.loads(_TF.read_text()) if _TF.exists() else {}   # word timings of the recitation
 _WF = ROOT / "data/build/kural_words.json"
 WORDS = json.loads(_WF.read_text()) if _WF.exists() else {}
 
@@ -45,6 +47,9 @@ def couplet(k: dict) -> dict:
         "reading": reading(k),
         "source": {"chosen_by": k["chosen_by"], "agree": k["agree"], "of": k["of"]},
     }
+    t = TIMINGS.get(str(k["n"]), {})
+    if t.get("male") or t.get("female"):
+        rec["timing"] = {v: t[v] for v in ("male", "female") if t.get(v)}
     ai = AI / f"{k['n']}.json"
     if ai.exists():
         rec["ai"] = json.loads(ai.read_text())

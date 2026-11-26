@@ -22,8 +22,29 @@
     return box;
   }
 
-  // The listen bar under a couplet.
-  function bar(el, n) {
+  // Printed words wrapped for highlighting while the recitation plays.
+  function wrap(lines) {
+    let i = 0;
+    return lines.map((l) => l.split(' ').map((w) => '<span class="rw" data-wi="' + (i++) + '">' + Th.esc(w) + '</span>').join(' ')).join('<br>');
+  }
+  function paint(box, timing, t, v) {
+    const tm = timing && timing[v || voice()];
+    const spans = box ? box.querySelectorAll('.rw') : [];
+    if (!tm || t == null) { spans.forEach((s) => s.classList.remove('on', 'done')); return; }
+    let cur = -1;
+    tm.forEach((x, i) => { if (t >= x[0]) cur = i; });
+    if (cur >= 0 && t > tm[cur][1] + 0.4) cur = -1;
+    spans.forEach((s, i) => { s.classList.toggle('on', i === cur); s.classList.toggle('done', i < cur || (cur < 0 && t > tm[i][1])); });
+  }
+  function ticker(audio, fn) {
+    const loop = () => { fn(audio.currentTime); if (!audio.paused) requestAnimationFrame(loop); };
+    audio.addEventListener('play', loop);
+    audio.addEventListener('seeked', () => fn(audio.currentTime));
+    audio.addEventListener('ended', () => fn(null));
+  }
+
+  // The listen bar under a couplet. onTime(t) is called while it plays (null when it ends).
+  function bar(el, n, onTime) {
     const audio = new Audio();
     audio.preload = 'none';
     audio.src = url(n);
@@ -40,10 +61,11 @@
       time.textContent = mmss(audio.currentTime) + ' / ' + mmss(audio.duration);
     });
     audio.addEventListener('ended', () => { fill.style.width = '100%'; });
+    if (onTime) ticker(audio, onTime);
   }
 
   // "Play all" for a list of couplets; mark(n) highlights the one playing.
-  function playAll(el, ns, mark) {
+  function playAll(el, ns, mark, onTime) {
     const audio = new Audio();
     let i = -1;
     el.classList.add('light');
@@ -66,7 +88,8 @@
     audio.addEventListener('play', () => { btn.querySelector('svg').outerHTML = PAUSE; btn.lastChild.textContent = 'Pause'; });
     audio.addEventListener('pause', () => { if (i >= 0) { btn.querySelector('svg').outerHTML = PLAY; btn.lastChild.textContent = 'Resume'; } });
     audio.addEventListener('ended', () => setTimeout(() => go(i + 1), 700));
+    if (onTime) ticker(audio, (t) => onTime(i >= 0 ? ns[i] : null, t));
   }
 
-  window.ThListen = { bar, playAll };
+  window.ThListen = { bar, playAll, wrap, paint, voice };
 })();

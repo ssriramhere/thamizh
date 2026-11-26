@@ -294,7 +294,7 @@
     current = k;
     const rvt = reviewed.t[String(k.n)];
     document.getElementById('meaning').innerHTML =
-      '<p lang="ta" style="font-family:var(--ta);font-size:26px;line-height:1.6;font-weight:600;margin-bottom:4px">' + k.lines.map(esc).join('<br>') + '</p>' +
+      '<p lang="ta" id="recited" style="font-family:var(--ta);font-size:26px;line-height:1.6;font-weight:600;margin-bottom:4px">' + window.ThListen.wrap(k.lines) + '</p>' +
       '<div id="listen" style="margin-bottom:18px"></div>' +
       (rvt
         ? '<p class="meaning">' + esc(rvt.t) + '</p><p class="small" style="color:var(--gold);margin-top:8px">Reviewed translation, suggested by ' + esc(rvt.by) + '</p>'
@@ -302,7 +302,8 @@
           ? '<p class="meaning">' + esc(ai.translation) + '</p><p class="small" style="color:var(--gold);margin-top:8px">AI translation</p>'
           : pending('The AI translation is being prepared.')) +
       ((rvt || ai.translation) ? '<button type="button" class="linkbtn" id="tbtn">Suggest a better translation</button><div id="tform"></div>' : '');
-    window.ThListen.bar(document.getElementById('listen'), k.n);
+    const recited = document.getElementById('recited');
+    window.ThListen.bar(document.getElementById('listen'), k.n, (t) => window.ThListen.paint(recited, k.timing, t));
     document.getElementById('roman').innerHTML = k.tr.map(esc).join('<br>');
     renderLetters(k);
     renderWords(k);

@@ -290,3 +290,10 @@ section.block { padding: 56px 0; }
 .opts button.wrong { background: #FBF3E2; border-color: var(--ochre); color: var(--ochre); }
 .opts button:disabled { cursor: default; }
 .verdict { font-size: 16px; line-height: 1.5; }
+
+/* the word being recited */
+.rw { border-radius: 5px; padding: 0 2px; transition: background-color .08s, color .08s; }
+.rw.on { background: #E8C26A; color: #161616; }
+.layer.dark .rw.done { color: #BDBDB8; }
+#list .rw.done { color: var(--muted); }
+@media (prefers-reduced-motion: reduce) { .rw { transition: none; } }
