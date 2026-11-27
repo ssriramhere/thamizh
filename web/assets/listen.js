@@ -91,5 +91,5 @@
     if (onTime) ticker(audio, (t) => onTime(i >= 0 ? ns[i] : null, t));
   }
 
-  window.ThListen = { bar, playAll, wrap, paint, voice };
+  window.ThListen = { bar, playAll, wrap, paint, voice, voiceSwitch };
 })();

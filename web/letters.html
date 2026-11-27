@@ -11,32 +11,42 @@
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 </head>
 <body>
-<div data-site-header data-crumbs="<a href='/learn'>Learn</a> › Letters › <strong>Vowels</strong>"></div>
+<div data-site-header data-crumbs="<a href='/learn'>Learn</a> › <strong>Letters</strong>"></div>
 <main class="wrap" style="padding-top:44px;display:flex;flex-direction:column;gap:28px">
   <div style="display:flex;flex-direction:column;gap:10px;max-width:720px">
     <h1 style="font-size:clamp(32px,4.5vw,44px)">Learn the letters with Avvaiyār</h1>
     <p class="lead">Āttichūṭi is a children's classic whose lines run in alphabet order. Each vowel comes with a one-line lesson that starts with it.</p>
   </div>
+  <div class="light" id="voicebox"></div>
   <div class="vowels" id="vowels" role="group" aria-label="Vowels"></div>
   <section class="primer" aria-live="polite">
-    <div class="card glyph"><span class="g" lang="ta" id="g"></span><span class="t" id="t"></span><span class="pill" id="kind"></span></div>
+    <div class="card glyph"><span class="g" lang="ta" id="g"></span><span class="t" id="t"></span><span class="pill" id="kind"></span>
+      <button type="button" class="hear" data-say="v">🔊 Hear the letter</button></div>
     <div class="card line">
       <p class="eyebrow" id="lineno"></p>
       <p class="ta" lang="ta" id="line"></p>
       <p style="font-size:20px;color:var(--muted);font-style:italic" id="linetr"></p>
       <p style="font-size:22px;font-weight:600;line-height:1.4" id="meaning"></p>
       <p class="small muted">AI translation</p>
+      <div><button type="button" class="hear" data-say="l">🔊 Hear the line</button></div>
       <div style="margin-top:auto;padding-top:8px"><button type="button" class="btn" id="next">Next letter →</button></div>
     </div>
   </section>
   <section class="cards">
     <div style="border-top:3px solid var(--ink);padding-top:14px"><h3>Short or long</h3><p class="muted" style="margin-top:6px">Short letters take one beat, long letters two. That one distinction is also where Tamil meter begins.</p></div>
-    <div style="border-top:3px solid var(--ink);padding-top:14px"><h3>Next: consonants</h3><p class="muted" style="margin-top:6px">Āttichūṭi carries on through the consonants. They come next on this page.</p></div>
+    <div style="border-top:3px solid var(--ink);padding-top:14px"><h3>Then the consonants</h3><p class="muted" style="margin-top:6px">Eighteen of them, in three groups, each with a word to hear it in. <a href="#consonants">Below ↓</a></p></div>
     <a class="card" href="/kural?n=1&amp;level=3" style="background:var(--ink);color:#fff;border:none"><h3>Try a Kuṟaḷ now →</h3><span style="color:#C8C8C8">Tap the letters you just learned.</span></a>
+  </section>
+  <section id="consonants" style="display:flex;flex-direction:column;gap:12px">
+    <h2 style="font-size:clamp(26px,3.5vw,34px)">Consonants</h2>
+    <p class="lead" style="max-width:760px">Each consonant first with a short a (க, ka), then pure, with the dot (க், the mey). A pure consonant can't be said alone, so it is named with a short i before it, as in "ik". Every sound comes with a word to hear it in.</p>
+    <div id="cons"></div>
+    <p class="small muted">AI voices (Google Chirp 3 HD). The vowels on their own are spoken by Google's Gemini voices of the same name.</p>
   </section>
 </main>
 <div data-site-footer></div>
 <script src="/assets/site.js"></script>
+<script src="/assets/listen.js"></script>
 <script>
 (function () {
   const S = 'Short (kuṟil) · 1 beat', L = 'Long (neṭil) · 2 beats', A = 'Āytam · ½ beat';
@@ -77,6 +87,34 @@
   });
   document.getElementById('next').addEventListener('click', () => { i = (i + 1) % data.length; render(); });
   render();
+
+  // ---- sounds
+  const player = new Audio();
+  let lastBtn = null;
+  const say = (file, btn) => {
+    if (lastBtn) lastBtn.classList.remove('playing');
+    player.src = '/audio/letters/' + file + '-' + ThListen.voice() + '.mp3';
+    player.play();
+    if (btn) { btn.classList.add('playing'); lastBtn = btn; player.onended = () => btn.classList.remove('playing'); }
+  };
+  document.getElementById('voicebox').appendChild(ThListen.voiceSwitch(() => {}));
+  document.querySelectorAll('.hear').forEach((b) => b.addEventListener('click', () => say((b.dataset.say === 'v' ? 'v' : 'l') + i, b)));
+
+  const C = [['க','ka','கடல்','பக்கம்'],['ங','ṅa','சங்கு','சங்கு'],['ச','ca','சட்டை','பச்சை'],['ஞ','ña','மஞ்சள்','மஞ்சள்'],
+    ['ட','ṭa','நடை','பட்டம்'],['ண','ṇa','பணம்','கண்'],['த','ta','தண்ணீர்','பத்து'],['ந','na','நண்டு','பந்து'],
+    ['ப','pa','படம்','அப்பா'],['ம','ma','மரம்','மரம்'],['ய','ya','யானை','நாய்'],['ர','ra','மரம்','பேர்'],
+    ['ல','la','வலை','பல்'],['வ','va','வடை','செவ்வாய்'],['ழ','ḻa','மழை','தமிழ்'],['ள','ḷa','வளை','வாள்'],
+    ['ற','ṟa','பறவை','காற்று'],['ன','ṉa','மனம்','மான்']];
+  const groups = [['Hard (vallinam)', [0, 2, 4, 6, 8, 16]], ['Soft (mellinam)', [1, 3, 5, 7, 9, 17]], ['Medium (iṭaiyinam)', [10, 11, 12, 13, 14, 15]]];
+  const btn = (f, label) => '<button type="button" class="spk" data-f="' + f + '" aria-label="' + esc(label) + '">🔊</button>';
+  document.getElementById('cons').innerHTML = groups.map(([g, ids]) => '<h3 style="margin:14px 0 8px">' + g + '</h3><div class="cgrid">' + ids.map((k) => {
+    const c = C[k];
+    return '<div class="card ccard"><div class="crow"><span class="g" lang="ta">' + c[0] + '</span>' + btn('c' + k + '-a', c[1]) +
+      '<span class="w" lang="ta">' + esc(c[2]) + '</span>' + btn('c' + k + '-wa', c[2]) + '</div>' +
+      '<div class="crow"><span class="g" lang="ta">' + c[0] + '்</span>' + btn('c' + k + '-m', 'i' + c[1].slice(0, -1)) +
+      '<span class="w" lang="ta">' + esc(c[3]) + '</span>' + btn('c' + k + '-wm', c[3]) + '</div><span class="small muted">' + c[1] + ' · pure: i' + c[1].slice(0, -1) + '</span></div>';
+  }).join('') + '</div>').join('');
+  document.getElementById('cons').addEventListener('click', (e) => { const b = e.target.closest('[data-f]'); if (b) say(b.dataset.f, b); });
 })();
 </script>
 </body>

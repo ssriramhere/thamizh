@@ -297,3 +297,13 @@ section.block { padding: 56px 0; }
 .layer.dark .rw.done { color: #BDBDB8; }
 #list .rw.done { color: var(--muted); }
 @media (prefers-reduced-motion: reduce) { .rw { transition: none; } }
+
+/* letter sounds */
+.hear { display: inline-flex; align-items: center; gap: 8px; border: 1.5px solid var(--ink); background: #fff; border-radius: 8px; padding: 10px 14px; font: inherit; font-weight: 600; cursor: pointer; margin-top: 10px; }
+.hear.playing, .spk.playing { background: var(--ink); color: #fff; }
+.spk { width: 40px; height: 40px; border-radius: 50%; border: 1.5px solid var(--ink); background: #fff; cursor: pointer; font-size: 16px; flex: none; }
+.cgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
+.ccard { display: flex; flex-direction: column; gap: 8px; }
+.crow { display: flex; align-items: center; gap: 10px; }
+.crow .g { font-family: var(--ta); font-size: 34px; font-weight: 700; width: 52px; }
+.crow .w { font-family: var(--ta-ui); font-size: 18px; margin-left: auto; }
