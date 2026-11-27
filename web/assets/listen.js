@@ -2,7 +2,7 @@
 (function () {
   const VOICES = [['male', '♂ Male'], ['female', '♀ Female']];
   const voice = () => (Th.store.get('th.voice', 'male') === 'female' ? 'female' : 'male');
-  const url = (n, v) => '/audio/kural/' + (v || voice()) + '/' + n + '.mp3';
+  const url = (n, v, base) => (base || '/audio/kural/') + (v || voice()) + '/' + n + '.mp3';
   const PLAY = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M7 5l12 7-12 7z"/></svg>';
   const PAUSE = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>';
   const mmss = (s) => (isFinite(s) ? Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0') : '0:00');
@@ -25,7 +25,7 @@
   // Printed words wrapped for highlighting while the recitation plays.
   function wrap(lines) {
     let i = 0;
-    return lines.map((l) => l.split(' ').map((w) => '<span class="rw" data-wi="' + (i++) + '">' + Th.esc(w) + '</span>').join(' ')).join('<br>');
+    return lines.map((l) => l.split(' ').map((w) => (w === '…' ? w : '<span class="rw" data-wi="' + (i++) + '">' + Th.esc(w) + '</span>')).join(' ')).join('<br>');
   }
   function paint(box, timing, t, v) {
     const tm = timing && timing[v || voice()];
@@ -44,15 +44,15 @@
   }
 
   // The listen bar under a couplet. onTime(t) is called while it plays (null when it ends).
-  function bar(el, n, onTime) {
+  function bar(el, n, onTime, base) {
     const audio = new Audio();
     audio.preload = 'none';
-    audio.src = url(n);
+    audio.src = url(n, null, base);
     el.innerHTML = '<div class="listen"><button type="button" class="play" aria-label="Play recitation">' + PLAY + '</button>' +
       '<div class="bar" aria-hidden="true"><i></i></div><span class="time">0:00</span></div>' +
       '<p class="small" style="color:#BDBDB8;margin-top:8px">AI recitation (Google Chirp 3 HD). Your choice of voice is remembered.</p>';
     const row = el.querySelector('.listen'), btn = el.querySelector('.play'), fill = el.querySelector('.bar i'), time = el.querySelector('.time');
-    row.appendChild(voiceSwitch(() => { const was = !audio.paused; audio.src = url(n); if (was) audio.play(); }));
+    row.appendChild(voiceSwitch(() => { const was = !audio.paused; audio.src = url(n, null, base); if (was) audio.play(); }));
     btn.addEventListener('click', () => (audio.paused ? audio.play() : audio.pause()));
     audio.addEventListener('play', () => { btn.innerHTML = PAUSE; btn.setAttribute('aria-label', 'Pause recitation'); });
     audio.addEventListener('pause', () => { btn.innerHTML = PLAY; btn.setAttribute('aria-label', 'Play recitation'); });

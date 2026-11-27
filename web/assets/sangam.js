@@ -19,6 +19,12 @@
       about: 'Four hundred poems of the outer world: kings and patrons, war and its cost, giving, grief and conduct. The colophon gives each poem its tiṇai and its theme (tuṟai).' },
   };
   const tinai = (id) => AKAM.find((t) => t.id === id);
+  // Credit as Project Madurai asks; the full header pages are on /sources.
+  const CREDIT = {
+    kuruntokai: 'Tamil text: Project Madurai etext of Kuṟuntokai (pm0110). Etext preparation: Dr. K. Kalyanasundaram, Lausanne, Switzerland. Proofreading: Ms. Sarala Sandirasegarane, Kanpur, India. © Project Madurai.',
+    purananuru: 'Tamil text: Project Madurai etext of Puṟanāṉūṟu (pm0057). Etext preparation: staff and students of K.A.P. Viswanatham Higher Secondary School, Tiruchirappalli. Web version: Dr. K. Kalyanasundaram. © Project Madurai.',
+  };
+  const credit = (slug) => '<p class="pm-credit">' + CREDIT[slug] + ' <a href="/sources#' + (slug === 'kuruntokai' ? 'pm0110' : 'pm0057') + '">Full credits</a></p>';
   const esc = (s) => Th.esc(s == null ? '' : String(s));
 
   function chip(id, taName) {
@@ -35,7 +41,7 @@
     const head = document.getElementById('head');
     head.innerHTML = '<div style="flex:1 1 480px"><h1 lang="ta" style="font-size:clamp(34px,5vw,48px)">' + T.ta + '</h1>' +
       '<p style="font-size:20px;font-weight:600;margin-top:4px">' + T.title + '</p><p class="lead" style="margin-top:10px">' + T.about + '</p></div>' +
-      (T.kind === 'akam' ? '<a class="btn ghost" href="/tinai">What is a tiṇai?</a>' : '');
+      (T.kind === 'akam' ? '<a class="btn ghost" href="/tinai">What is a tiṇai?</a>' : '') + '<div style="flex:1 1 100%">' + credit(slug) + '</div>';
     const idx = await Th.json('/data/' + slug + '/index.json');
     let cur = q.get('tinai') || 'all';
     const counts = {};
@@ -84,7 +90,8 @@
       '<p class="eyebrow">' + T.title + ' ' + n + (c.poet_tr ? ' · ' + esc(c.poet_tr) : '') + '</p>' +
       '<div class="pager">' + (prev ? '<a href="/poem?t=' + slug + '&n=' + prev.n + '" aria-label="Previous poem, ' + prev.n + '">‹</a>' : '') +
       (next ? '<a href="/poem?t=' + slug + '&n=' + next.n + '" aria-label="Next poem, ' + next.n + '">›</a>' : '') + '</div></div>' +
-      '<div lang="ta" style="font-family:var(--ta);font-size:clamp(20px,2.4vw,25px);line-height:1.75;font-weight:600">' + p.lines.map(esc).join('<br>') + '</div>' +
+      '<div lang="ta" id="recited" style="font-family:var(--ta);font-size:clamp(20px,2.4vw,25px);line-height:1.75;font-weight:600">' + (window.ThListen ? ThListen.wrap(p.lines) : p.lines.map(esc).join('<br>')) + '</div>' +
+      (p.timing ? '<div id="listen"></div>' : '') +
       '<p style="color:#BDBDB8;font-style:italic;font-size:15px">' + p.tr.map(esc).join('<br>') + '</p>' +
       (ai.translation ? '<p class="meaning" style="font-size:20px;font-weight:500">' + esc(ai.translation) + '</p><p class="small" style="color:var(--gold)">AI translation</p>'
         : '<p class="pending">The AI translation is being prepared.</p>') + '</section>' +
@@ -98,6 +105,10 @@
       document.querySelectorAll('[role=tabpanel]').forEach((x) => { x.hidden = x.id !== b.getAttribute('aria-controls'); });
     });
     document.getElementById('side').innerHTML = side(slug, T, p);
+    if (p.timing && window.ThListen) {
+      const box = document.getElementById('recited');
+      ThListen.bar(document.getElementById('listen'), n, (t) => ThListen.paint(box, p.timing, t), '/audio/' + slug + '/');
+    }
   }
 
   function words(p) {
@@ -135,7 +146,7 @@
       '<p class="eyebrow">Tiṇai</p><p lang="ta" style="font-size:28px;font-weight:700;' + (t ? 'color:' + t.color : '') + '">' + esc(c.tinai_ta || '—') + '</p>' +
       '<p class="muted">' + (t ? t.en + ' · ' + t.land.toLowerCase() + ' · ' + t.mood.toLowerCase() : esc(c.tinai ? c.tinai[0].toUpperCase() + c.tinai.slice(1) : 'Not given in the colophon')) + '</p>' +
       '<dl class="facts">' + rows.map(([k, v]) => '<div><dt>' + k + '</dt><dd>' + v + '</dd></div>').join('') + '</dl>' +
-      '<p class="small muted">From the anthology\'s colophon (Project Madurai text).</p>' +
+      '<p class="small muted">From the anthology\'s colophon.</p>' + credit(slug) +
       '<div style="display:flex;flex-direction:column;gap:6px;margin-top:6px">' +
       (t ? '<a href="/tinai?t=' + encodeURIComponent(t.id) + '">About ' + t.en + ' →</a>' : '') +
       (c.tinai ? '<a href="/anthology?t=' + slug + '&tinai=' + encodeURIComponent(c.tinai) + '">More ' + (t ? t.en : esc(c.tinai[0].toUpperCase() + c.tinai.slice(1))) + ' poems in ' + T.title + ' →</a>' : '') +

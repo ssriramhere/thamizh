@@ -16,8 +16,8 @@ translation from these sources is used.
 
 The five editions share most of their typos, so they are not fully
 independent. Seven couplets carry a typo in every source; `data/corrections.json`
-holds a proposed correction for each, applied only when the corrected couplet
-scans as a kuṟaḷ veṇpā. These still need checking against a printed edition.
+holds the correction for each, applied only when the corrected couplet scans
+as a kuṟaḷ veṇpā. All seven were checked by the editor on 2026-11-27.
 
 # Sources of the Caṅkam texts
 
@@ -35,5 +35,7 @@ is distributed; `projectmadurai/` holds each header unchanged.
 Kept: the poem number, the lines, tiṇai, the speaker (Kuṟuntokai) or tuṟai
 (Puṟanāṉūṟu), the poet, and the person addressed. Dropped: the modern titles
 of the Puṟanāṉūṟu poems, the editor's notes (some cite commentators), and the
-editorial punctuation. `data/corrections_pm.json` fixes the three places where
-a note runs into a poem.
+editorial punctuation, and stray characters from the etext's old encoding
+(a middle dot · for ஃ; backticks, underscores and a few others).
+`data/corrections_pm.json` fixes the three places where a note runs into a
+poem.

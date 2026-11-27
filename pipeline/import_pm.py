@@ -43,6 +43,8 @@ def header(t: str, start: str) -> str:
 
 def bare(line: str) -> str:
     """The words of a line without editorial punctuation."""
+    line = line.replace("·", "ஃ")                          # the etext writes āytam as a middle dot
+    line = re.sub(r"[`_¨¦¡]", "", line)                     # stray marks from the etext's old encoding
     line = re.sub(r"(?:\.\s*){3,}|\?{3,}", " … ", line)   # gaps in the manuscript
     line = re.sub(r"[;:!?,.\"'“”‘’()\[\]—–-]", " ", line)
     return re.sub(r"\s+", " ", line).strip()
@@ -106,7 +108,7 @@ def purananuru(t: str) -> list[dict]:
                 continue
             break
         for r in rows[i:]:
-            if bare(r) and not re.fullmatch(r"புறநானூறு முற்றும்\.?", r):
+            if bare(r) and not re.fullmatch(r"புறநானூறு முற்றும்\.?", r) and not re.match(r"\d+\s+\d+\s+கிடைத்தில", bare(r)):
                 rec["lines"].append(bare(r))
         while rec["lines"] and rec["lines"][-1] == "…":
             rec["lines"].pop()
