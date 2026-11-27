@@ -3,26 +3,20 @@
   {
    "words": [
     {
-     "surface": "என்",
+     "surface": "என்ஜ",
      "parts": [
       {
        "text": "என்",
        "lemma": "என்",
        "gloss": "my"
-      }
-     ],
-     "gloss": "my"
-    },
-    {
-     "surface": "ஜ",
-     "parts": [
+      },
       {
        "text": "ஜ",
        "lemma": "ஐ",
-       "gloss": "lord"
+       "gloss": "lord / hero"
       }
      ],
-     "gloss": "lord"
+     "gloss": "my lord"
     },
     {
      "surface": "புற்கை",
@@ -30,18 +24,28 @@
       {
        "text": "புற்கை",
        "lemma": "புற்கை",
-       "gloss": "gruel"
+       "gloss": "poor gruel"
       }
      ],
-     "gloss": "gruel"
+     "gloss": "poor gruel"
     },
     {
-     "surface": "யுண்டும்",
+     "surface": "உண்டும்",
      "parts": [
       {
-       "text": "யுண்டும்",
+       "text": "உண்",
        "lemma": "உண்",
-       "gloss": "even eating"
+       "gloss": "to eat"
+      },
+      {
+       "text": "து",
+       "lemma": "து",
+       "gloss": "past tense suffix"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even / also"
       }
      ],
      "gloss": "even eating"
@@ -52,10 +56,10 @@
       {
        "text": "பெருந்தோள்",
        "lemma": "பெருந்தோள்",
-       "gloss": "big shoulders"
+       "gloss": "great shoulders"
       }
      ],
-     "gloss": "big shoulders",
+     "gloss": "great shoulders",
      "split_unverified": true
     },
     {
@@ -64,10 +68,10 @@
       {
        "text": "அன்னே",
        "lemma": "அன்னே",
-       "gloss": "he is like"
+       "gloss": "O mother"
       }
      ],
-     "gloss": "he is like",
+     "gloss": "O mother",
      "split_unverified": true
     }
    ]
@@ -85,7 +89,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "clitic"
+       "gloss": "indeed"
       }
      ],
      "gloss": "we indeed"
@@ -101,18 +105,23 @@
       {
        "text": "சிறை",
        "lemma": "சிறை",
-       "gloss": "quarters"
+       "gloss": "suburb / outskirts"
       }
      ],
-     "gloss": "outer quarters"
+     "gloss": "outer suburbs"
     },
     {
      "surface": "இருந்தும்",
      "parts": [
       {
-       "text": "இருந்து",
-       "lemma": "இருந்து",
-       "gloss": "staying"
+       "text": "இரு",
+       "lemma": "இரு",
+       "gloss": "to remain"
+      },
+      {
+       "text": "ந்து",
+       "lemma": "ந்து",
+       "gloss": "having"
       },
       {
        "text": "உம்",
@@ -120,10 +129,10 @@
        "gloss": "even"
       }
      ],
-     "gloss": "even staying"
+     "gloss": "even remaining"
     },
     {
-     "surface": "பொன்னன்",
+     "surface": "பொன்னன்னம்",
      "parts": [
       {
        "text": "பொன்",
@@ -131,23 +140,28 @@
        "gloss": "gold"
       },
       {
-       "text": "அன்",
-       "lemma": "அன்",
-       "gloss": "he of"
+       "text": "அன்ன",
+       "lemma": "அன்ன",
+       "gloss": "like"
+      },
+      {
+       "text": "அம்",
+       "lemma": "அம்",
+       "gloss": "beauty"
       }
      ],
-     "gloss": "like gold"
+     "gloss": "golden beauty"
     },
     {
-     "surface": "னம்மே",
+     "surface": "ஏ",
      "parts": [
       {
-       "text": "னம்மே",
-       "lemma": "அம்மை",
-       "gloss": "mother/lady"
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "vocative particle"
       }
      ],
-     "gloss": "O lady"
+     "gloss": "O mother"
     }
    ]
   },
@@ -159,32 +173,26 @@
       {
        "text": "போறெதிர்ந்து",
        "lemma": "போரெதிர்",
-       "gloss": "opposing in war"
+       "gloss": "having opposed in battle"
       }
      ],
-     "gloss": "opposing in war"
+     "gloss": "having opposed in battle"
     },
     {
-     "surface": "என்",
+     "surface": "என்னை",
      "parts": [
       {
        "text": "என்",
        "lemma": "என்",
        "gloss": "my"
-      }
-     ],
-     "gloss": "my"
-    },
-    {
-     "surface": "ஜ்",
-     "parts": [
+      },
       {
-       "text": "ஜ்",
+       "text": "ஐ",
        "lemma": "ஐ",
        "gloss": "lord"
       }
      ],
-     "gloss": "lord"
+     "gloss": "my lord"
     },
     {
      "surface": "போர்க்களம்",
@@ -192,7 +200,7 @@
       {
        "text": "போர்",
        "lemma": "போர்",
-       "gloss": "war"
+       "gloss": "battle"
       },
       {
        "text": "களம்",
@@ -208,15 +216,15 @@
       {
        "text": "புகின்",
        "lemma": "புகு",
-       "gloss": "if enters"
+       "gloss": "if he enters"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "clitic"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "if he enters"
+     "gloss": "if he enters indeed"
     }
    ]
   },
@@ -228,27 +236,31 @@
       {
        "text": "கல்",
        "lemma": "கல்",
-       "gloss": "sound"
+       "gloss": "bustling sound"
       },
       {
        "text": "என்",
        "lemma": "என்",
-       "gloss": "saying"
+       "gloss": "making"
       }
      ],
-     "gloss": "loud"
+     "gloss": "making a bustling sound"
     },
     {
      "surface": "பேரூர்",
      "parts": [
       {
-       "text": "பேரூர்",
-       "lemma": "பேரூர்",
-       "gloss": "big town"
+       "text": "பேர்",
+       "lemma": "பேர்",
+       "gloss": "great"
+      },
+      {
+       "text": "ஊர்",
+       "lemma": "ஊர்",
+       "gloss": "town"
       }
      ],
-     "gloss": "big town",
-     "split_unverified": true
+     "gloss": "great town"
     },
     {
      "surface": "விழவுடை",
@@ -270,14 +282,9 @@
      "surface": "ஆங்கண்",
      "parts": [
       {
-       "text": "ஆங்கு",
-       "lemma": "ஆங்கு",
-       "gloss": "there"
-      },
-      {
-       "text": "அண்",
-       "lemma": "அண்",
-       "gloss": "place"
+       "text": "ஆங்கண்",
+       "lemma": "ஆங்கண்",
+       "gloss": "in that place"
       }
      ],
      "gloss": "in that place"
@@ -287,20 +294,15 @@
   {
    "words": [
     {
-     "surface": "ஏமுற்றுக்",
+     "surface": "ஏமுற்று",
      "parts": [
       {
        "text": "ஏமுற்று",
        "lemma": "ஏமுறு",
-       "gloss": "bewildered"
-      },
-      {
-       "text": "க்",
-       "lemma": "க்",
-       "gloss": "increment"
+       "gloss": "having been bewildered / excited"
       }
      ],
-     "gloss": "bewildered"
+     "gloss": "having been bewildered / excited"
     },
     {
      "surface": "கழிந்த",
@@ -308,10 +310,10 @@
       {
        "text": "கழிந்த",
        "lemma": "கழி",
-       "gloss": "ruined"
+       "gloss": "that passed / perished"
       }
      ],
-     "gloss": "ruined"
+     "gloss": "that passed / perished"
     },
     {
      "surface": "மள்ளர்க்கு",
@@ -322,8 +324,8 @@
        "gloss": "warriors"
       },
       {
-       "text": "க்கு",
-       "lemma": "க்கு",
+       "text": "கு",
+       "lemma": "கு",
        "gloss": "to"
       }
      ],
@@ -349,11 +351,11 @@
      "parts": [
       {
        "text": "வெரூஉம்",
-       "lemma": "வெரூஉம்",
-       "gloss": "dreading"
+       "lemma": "வெருவு",
+       "gloss": "fearing"
       }
      ],
-     "gloss": "dreading"
+     "gloss": "fearing"
     },
     {
      "surface": "துறையன்",
@@ -361,34 +363,39 @@
       {
        "text": "துறை",
        "lemma": "துறை",
-       "gloss": "ghat"
+       "gloss": "ghat / shore"
       },
       {
        "text": "அன்",
        "lemma": "அன்",
-       "gloss": "he of"
+       "gloss": "he"
       }
      ],
-     "gloss": "he of the ghat"
+     "gloss": "he of the shore / ghat"
     },
     {
-     "surface": "னன்னே",
+     "surface": "அன்னே",
      "parts": [
       {
-       "text": "னன்னே",
-       "lemma": "அன்னன்",
-       "gloss": "he who is like (with clitic -ē)"
+       "text": "அன்ன",
+       "lemma": "அன்ன",
+       "gloss": "like"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "he is like"
+     "gloss": "is like indeed"
     }
    ]
   }
  ],
- "literal": "My lord, even eating simple gruel, has big shoulders! / We, even staying in the outer quarters, are like gold! / Opposing in war, if my lord enters the battlefield, / to the warriors who are bewildered and ruined in the festive place of the loud big town, / he is like a ghat that salt-merchants dread!",
- "translation": "My lord, though eating only simple gruel, has mighty shoulders! And we, though living in the outer quarters, are precious as gold! If he, opposing in war, enters the field of battle, to the warriors bewildered and ruined in the festive grounds of the loud, great town, he is like a deep river-crossing that salt-merchants dread!",
- "modern": "என் தலைவன் எளிய கஞ்சியை உண்டாலும் பெரிய தோள்களை உடையவன்; நாமோ புறச்சேரியில் இருந்தாலும் பொன்னைப் போன்றவர்கள்; போரை எதிர்த்து என் தலைவன் போர்க்களத்தில் புகுந்தால், ஒலியையுடைய பெரிய ஊரின் விழா நடக்கும் இடத்தில் மயங்கி அழிந்த வீரர்களுக்கு, உப்பு வணிகர்கள் அஞ்சும் நீர்த்துறை போன்றவன் ஆவான்.",
- "explanation": "This poem is set in the Kaikkiḷai tiṇai (one-sided love) and is addressed to the Chola king Porvaikko Perunarkilli by the poetess Nakkaṇṇaiyār. The speaker, a young woman, praises her hero's strength and her own devotion to him. She notes that even when eating simple gruel, her lord possesses mighty shoulders, and even when relegated to the outer quarters, she and her companions feel as precious as gold. When he enters the battlefield, he becomes a terrifying force to his enemies. The poet uses a vivid simile, comparing the hero to a dangerous river-crossing (tuṟai) that salt-merchants dread because their precious cargo would dissolve in the water. This image beautifully conveys the hero's formidable nature to his foes while highlighting his protective strength.",
+ "literal": "My lord, even eating poor gruel, is one of great shoulders, O mother! / We indeed, even remaining in the outer suburbs, are like golden beauty, O mother! / If my lord, opposing in battle, enters the battlefield, / in that place of the great town having festivals making a bustling sound, / to the warriors who are bewildered and perished, / he is like the lord of the ghat which the salt-merchants fear!",
+ "translation": "My lord, even when eating poor gruel, has great shoulders, O mother! We, even while living in the outer suburbs, are like gold, O mother! If my lord, opposing in battle, enters the battlefield, to the warriors who wander in bewilderment in the festive areas of the bustling great town, he is like the lord of a dangerous river-crossing that makes even the salt-merchants tremble with fear!",
+ "modern": "என் தலைவன் எளிய கஞ்சியை உணவாகக் குடித்தாலும் பெரிய தோள்களை உடையவன், தாயே! நாம் ஊருக்குப் புறம்பே வசித்தாலும் பொன்னைப் போன்றவர்கள், தாயே! என் தலைவன் போரை எதிர்த்துப் போர்க்களத்தில் புகுந்தால், ஆரவாரமுடைய பெரிய ஊரின் திருவிழா நடக்கும் இடங்களில் மயங்கித் திரியும் வீரர்களுக்கு, உப்பு வணிகர்கள் அஞ்சும் ஆற்றின் துறையைப் போன்றவன் ஆவான்.",
+ "explanation": "This poem is spoken by a young woman to her mother, expressing her deep love and admiration for the Chola king Porvaiko Perunarkilli. She describes how her lord, despite eating simple gruel, possesses magnificent, strong shoulders, while she and her companions remain beautiful like gold even in the outskirts of the town. When he enters the battlefield, he strikes terror into the hearts of opposing warriors, just like a treacherous river-crossing that terrifies salt-merchants who travel with heavy carts. The imagery of the salt-merchants fearing the dangerous ghat perfectly conveys the overwhelming power and formidable nature of the hero in battle. Key words include 'புற்கை' (poor gruel), 'மள்ளர்' (warriors), and 'துறையன்' (lord of the ghat).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

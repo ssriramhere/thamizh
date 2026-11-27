@@ -1,5 +1,5 @@
 {
- "_about": "Corrections to readings that every source shares. Each is applied only if the corrected couplet scans as a kuṟaḷ veṇpā. status 'checked' = confirmed by the editor (2026-11-27).",
+ "_about": "Corrections to readings that every source shares. Each is applied only if the corrected couplet scans as a kuṟaḷ veṇpā. status 'checked' = confirmed by the editor (2026-11-27). Entries with override=true replace a reading that scans but is mistyped (a stray space or a missing letter the meter can't see).",
  "269": {
   "text": "கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்\nஆற்றல் தலைப்பட் டவர்க்கு",
   "reason": "stray ல் at the end",
@@ -34,5 +34,65 @@
   "text": "உள்ளத்தார் காத லவராக உள்ளிநீ\nயாருழைச் சேறியென் நெஞ்சு",
   "reason": "அவரால் for அவராக",
   "status": "checked"
+ },
+ "30": {
+  "text": "அந்தணர் என்போர் அறவோர்மற் றெவ்வுயிர்க்கும்\nசெந்தண்மை பூண்டொழுக லான்",
+  "reason": "stray space in எவ்வுயிர்க்கும்",
+  "status": "proposed",
+  "override": true
+ },
+ "48": {
+  "text": "ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை\nநோற்பாரின் நோன்மை உடைத்து",
+  "reason": "stray space in இல்வாழ்க்கை",
+  "status": "proposed",
+  "override": true
+ },
+ "79": {
+  "text": "புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை\nஅகத்துறுப்பு அன்பி லவர்க்கு",
+  "reason": "எவன்செய்பு ம் for எவன்செய்யும்",
+  "status": "proposed",
+  "override": true
+ },
+ "347": {
+  "text": "பற்றி விடாஅ இடும்பைகள் பற்றினைப்\nபற்றி விடாஅ தவர்க்கு",
+  "reason": "stray space in தவர்க்கு",
+  "status": "proposed",
+  "override": true
+ },
+ "434": {
+  "text": "குற்றமே காக்க பொருளாகக் குற்றமே\nஅற்றந் தரூஉம் பகை",
+  "reason": "த்ரூஉம் for தரூஉம்",
+  "status": "proposed",
+  "override": true
+ },
+ "796": {
+  "text": "கேட்டினும் உண்டோர் உறுதி கிளைஞரை\nநீட்டி அளப்பதோர் கோல்",
+  "reason": "stray space in உண்டோர்",
+  "status": "proposed",
+  "override": true
+ },
+ "834": {
+  "text": "ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப்\nபேதையின் பேதையார் இல்",
+  "reason": "stray space in பிறர்க்குரைத்தும்",
+  "status": "proposed",
+  "override": true
+ },
+ "1000": {
+  "text": "பண்பிலான் பெற்ற பெருஞ்செல்வம் நன்பால்\nகலந்தீமை யால்திரிந் தற்று",
+  "reason": "missing ப in பண்பிலான்",
+  "status": "proposed",
+  "override": true
+ },
+ "1098": {
+  "text": "அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப்\nபசையினள் பைய நகும்",
+  "reason": "stray space in உண்டாண்டோர்",
+  "status": "proposed",
+  "override": true
+ },
+ "1192": {
+  "text": "வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு\nவீழ்வார் அளிக்கும் அளி",
+  "reason": "junk character in அளிக்கும்",
+  "status": "proposed",
+  "override": true
  }
 }

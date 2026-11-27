@@ -97,7 +97,7 @@ def main(src: Path) -> None:
                 how = "majority" if text == ranked[0][0] else "meter"
                 break
         fix = corrections.get(str(n))
-        if chosen is None and fix:
+        if fix and (chosen is None or fix.get("override")):
             sc = scan_kural(fix["text"])
             if sc.ok:
                 chosen, scan = normalize(fix["text"]), sc

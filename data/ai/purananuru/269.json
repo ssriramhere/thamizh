@@ -7,23 +7,23 @@
      "parts": [
       {
        "text": "குயில்",
-       "lemma": "குயில்",
-       "gloss": "cuckoo"
+       "lemma": "kuyil",
+       "gloss": "koel"
       },
       {
        "text": "வாய்",
-       "lemma": "வாய்",
-       "gloss": "mouth/beak"
+       "lemma": "vāy",
+       "gloss": "beak"
       }
      ],
-     "gloss": "cuckoo's beak"
+     "gloss": "koel's beak"
     },
     {
      "surface": "அன்ன",
      "parts": [
       {
        "text": "அன்ன",
-       "lemma": "அன்ன",
+       "lemma": "anna",
        "gloss": "like"
       }
      ],
@@ -34,12 +34,12 @@
      "parts": [
       {
        "text": "கூர்",
-       "lemma": "கூர்",
+       "lemma": "kūr",
        "gloss": "sharp"
       },
       {
        "text": "முகை",
-       "lemma": "முகை",
+       "lemma": "mukai",
        "gloss": "bud"
       }
      ],
@@ -50,7 +50,7 @@
      "parts": [
       {
        "text": "அதிரல்",
-       "lemma": "அதிரல்",
+       "lemma": "atiral",
        "gloss": "wild jasmine"
       }
      ],
@@ -65,8 +65,8 @@
      "parts": [
       {
        "text": "பயிலாது",
-       "lemma": "பயிலுதல்",
-       "gloss": "not being crowded/sparsely"
+       "lemma": "payilātu",
+       "gloss": "not being dense"
       }
      ],
      "gloss": "sparsely"
@@ -76,30 +76,34 @@
      "parts": [
       {
        "text": "அல்கிய",
-       "lemma": "அல்குதல்",
-       "gloss": "shrunk/stayed"
+       "lemma": "alkiya",
+       "gloss": "strung"
       }
      ],
-     "gloss": "shrunk"
+     "gloss": "strung"
     },
     {
      "surface": "பல்காழ்",
      "parts": [
       {
-       "text": "பல்காழ்",
-       "lemma": "பல்காழ்",
-       "gloss": "many-stranded"
+       "text": "பல்",
+       "lemma": "pal",
+       "gloss": "many"
+      },
+      {
+       "text": "காழ்",
+       "lemma": "kāḻ",
+       "gloss": "strand"
       }
      ],
-     "gloss": "many-stranded",
-     "split_unverified": true
+     "gloss": "many-stranded"
     },
     {
      "surface": "மாலை",
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "மாலை",
+       "lemma": "mālai",
        "gloss": "garland"
       }
      ],
@@ -114,46 +118,56 @@
      "parts": [
       {
        "text": "மை",
-       "lemma": "மை",
-       "gloss": "dark/black"
+       "lemma": "mai",
+       "gloss": "darkness"
       },
       {
        "text": "இரும்",
-       "lemma": "இரும்",
-       "gloss": "dark/big"
+       "lemma": "irum",
+       "gloss": "black"
       }
      ],
-     "gloss": "pitch-black"
+     "gloss": "dark black"
     },
     {
      "surface": "பித்தை",
      "parts": [
       {
        "text": "பித்தை",
-       "lemma": "பித்தை",
-       "gloss": "hair/tuft"
+       "lemma": "pittai",
+       "gloss": "tuft of hair"
       }
      ],
-     "gloss": "hair"
+     "gloss": "tuft of hair"
     },
     {
-     "surface": "பொலிய",
+     "surface": "பொலியச்",
      "parts": [
       {
        "text": "பொலிய",
-       "lemma": "பொலிதல்",
-       "gloss": "to shine/flourish"
+       "lemma": "poliya",
+       "gloss": "to shine"
+      },
+      {
+       "text": "ச்",
+       "lemma": "c",
+       "gloss": "glide"
       }
      ],
      "gloss": "to shine"
     },
     {
-     "surface": "சூட்டி",
+     "surface": "சூட்டிப்",
      "parts": [
       {
        "text": "சூட்டி",
-       "lemma": "சூட்டுதல்",
+       "lemma": "cūṭṭi",
        "gloss": "having adorned"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "glide"
       }
      ],
      "gloss": "having adorned"
@@ -168,10 +182,10 @@
       {
        "text": "புத்தகல்",
        "lemma": "புத்தகல்",
-       "gloss": "new wide clay bowl"
+       "gloss": "new clay bowl"
       }
      ],
-     "gloss": "new wide clay bowl",
+     "gloss": "new clay bowl",
      "split_unverified": true
     },
     {
@@ -179,178 +193,169 @@
      "parts": [
       {
        "text": "கொண்ட",
-       "lemma": "கொள்ளுதல்",
-       "gloss": "having"
+       "lemma": "koṇṭa",
+       "gloss": "containing"
       }
      ],
-     "gloss": "having"
+     "gloss": "containing"
     },
     {
      "surface": "புலிக்கண்",
      "parts": [
       {
        "text": "புலி",
-       "lemma": "புலி",
+       "lemma": "puli",
        "gloss": "tiger"
       },
       {
        "text": "கண்",
-       "lemma": "கண்",
+       "lemma": "kaṇ",
        "gloss": "eye"
       }
      ],
-     "gloss": "tiger's eye-like"
+     "gloss": "tiger's eye"
     },
     {
      "surface": "வெப்பர்",
      "parts": [
       {
        "text": "வெப்பு",
-       "lemma": "வெப்பு",
-       "gloss": "heat/hot meat"
+       "lemma": "veppu",
+       "gloss": "heat/roasted meat"
       },
       {
        "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "pronominal suffix"
+       "lemma": "ar",
+       "gloss": "noun suffix"
       }
      ],
-     "gloss": "hot meat/toddy"
+     "gloss": "hot roasted meat"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "ஒன்று",
+     "surface": "ஒன்றுஇரு",
      "parts": [
       {
        "text": "ஒன்று",
-       "lemma": "ஒன்று",
+       "lemma": "oṉṟu",
        "gloss": "one"
-      }
-     ],
-     "gloss": "one"
-    },
-    {
-     "surface": "இரு",
-     "parts": [
+      },
       {
        "text": "இரு",
-       "lemma": "இரண்டு",
+       "lemma": "iru",
        "gloss": "two"
       }
      ],
-     "gloss": "two"
+     "gloss": "one or two"
     },
     {
-     "surface": "முறை",
+     "surface": "முறையிருந்து",
      "parts": [
       {
        "text": "முறை",
-       "lemma": "முறை",
-       "gloss": "times"
-      }
-     ],
-     "gloss": "times"
-    },
-    {
-     "surface": "இருந்து",
-     "parts": [
+       "lemma": "muṟai",
+       "gloss": "turn"
+      },
       {
        "text": "இருந்து",
-       "lemma": "இருத்தல்",
+       "lemma": "iruntu",
        "gloss": "having sat"
       }
      ],
-     "gloss": "having sat"
+     "gloss": "sitting in turns"
     },
     {
      "surface": "உண்ட",
      "parts": [
       {
        "text": "உண்ட",
-       "lemma": "உண்ட",
-       "gloss": "drank"
+       "lemma": "uṇṭa",
+       "gloss": "eaten/drunk"
       }
      ],
-     "gloss": "drank",
-     "split_unverified": true
+     "gloss": "drunk"
     },
     {
      "surface": "பின்றை",
      "parts": [
       {
        "text": "பின்றை",
-       "lemma": "பின்றை",
-       "gloss": "after"
+       "lemma": "piṉṟai",
+       "gloss": "afterwards"
       }
      ],
-     "gloss": "after"
+     "gloss": "afterwards"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "உவலை",
+     "surface": "உவலைக்",
      "parts": [
       {
        "text": "உவலை",
-       "lemma": "உவலை",
-       "gloss": "foliage/dry leaves"
+       "lemma": "uvalai",
+       "gloss": "foliage"
+      },
+      {
+       "text": "க்",
+       "lemma": "k",
+       "gloss": "glide"
       }
      ],
      "gloss": "foliage"
     },
     {
-     "surface": "கண்ணி",
+     "surface": "கண்ணித்",
      "parts": [
       {
        "text": "கண்ணி",
-       "lemma": "கண்ணி",
-       "gloss": "chaplet/wreath"
+       "lemma": "kaṇṇi",
+       "gloss": "wreath"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "glide"
       }
      ],
-     "gloss": "chaplet"
+     "gloss": "wreath"
     },
     {
      "surface": "துடியன்",
      "parts": [
       {
-       "text": "துடி",
-       "lemma": "துடி",
-       "gloss": "drum"
-      },
-      {
-       "text": "அன்",
-       "lemma": "அன்",
-       "gloss": "masculine suffix"
+       "text": "துடியன்",
+       "lemma": "tuṭiyaṉ",
+       "gloss": "tuṭi drummer"
       }
      ],
-     "gloss": "drummer"
+     "gloss": "tuṭi drummer"
     },
     {
-     "surface": "வந்து",
+     "surface": "வந்தெனப்",
      "parts": [
       {
        "text": "வந்து",
-       "lemma": "வருதல்",
+       "lemma": "vantu",
        "gloss": "having come"
-      }
-     ],
-     "gloss": "having come"
-    },
-    {
-     "surface": "என",
-     "parts": [
+      },
       {
        "text": "என",
-       "lemma": "என",
-       "gloss": "as/because"
+       "lemma": "eṉa",
+       "gloss": "as"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "glide"
       }
      ],
-     "gloss": "as"
+     "gloss": "as he came"
     }
    ]
   },
@@ -361,12 +366,12 @@
      "parts": [
       {
        "text": "பிழி",
-       "lemma": "பிழி",
-       "gloss": "squeezed liquor"
+       "lemma": "piḻi",
+       "gloss": "squeezed juice"
       },
       {
        "text": "மகிழ்",
-       "lemma": "மகிழ்",
+       "lemma": "makiḻ",
        "gloss": "toddy/joy"
       }
      ],
@@ -377,44 +382,38 @@
      "parts": [
       {
        "text": "வல்சி",
-       "lemma": "வல்சி",
-       "gloss": "food/meat"
+       "lemma": "valci",
+       "gloss": "food/drink"
       }
      ],
-     "gloss": "food"
+     "gloss": "food/drink"
     },
     {
      "surface": "வேண்ட",
      "parts": [
       {
        "text": "வேண்ட",
-       "lemma": "வேண்டுதல்",
+       "lemma": "vēṇṭa",
        "gloss": "to desire/ask"
       }
      ],
-     "gloss": "to desire"
+     "gloss": "asking for"
     },
     {
-     "surface": "மற்று",
+     "surface": "மற்றிது",
      "parts": [
       {
        "text": "மற்று",
-       "lemma": "மற்று",
-       "gloss": "then"
-      }
-     ],
-     "gloss": "then"
-    },
-    {
-     "surface": "இது",
-     "parts": [
+       "lemma": "maṟṟu",
+       "gloss": "but"
+      },
       {
        "text": "இது",
-       "lemma": "இது",
+       "lemma": "itu",
        "gloss": "this"
       }
      ],
-     "gloss": "this"
+     "gloss": "but this"
     }
    ]
   },
@@ -424,30 +423,20 @@
      "surface": "கொள்ளாய்",
      "parts": [
       {
-       "text": "கொள்",
-       "lemma": "கொள்ளுதல்",
-       "gloss": "take"
-      },
-      {
-       "text": "ஆய்",
-       "lemma": "ஆய்",
-       "gloss": "imperative suffix"
+       "text": "கொள்ளாய்",
+       "lemma": "koḷḷāy",
+       "gloss": "accept-you"
       }
      ],
-     "gloss": "Take [this]!"
+     "gloss": "accept this"
     },
     {
      "surface": "என்ப",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "என்றல்",
-       "gloss": "say"
-      },
-      {
-       "text": "ப",
-       "lemma": "ப",
-       "gloss": "third person plural suffix"
+       "text": "என்ப",
+       "lemma": "eṉpa",
+       "gloss": "they say"
       }
      ],
      "gloss": "they say"
@@ -457,29 +446,29 @@
      "parts": [
       {
        "text": "கள்",
-       "lemma": "கள்",
+       "lemma": "kaḷ",
        "gloss": "toddy"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "instrumental suffix"
+       "lemma": "iṉ",
+       "gloss": "with/of"
       }
      ],
      "gloss": "with toddy"
     },
     {
-     "surface": "வாழ்த்தி",
+     "surface": "வாழ்த்திக்",
      "parts": [
       {
-       "text": "வாழ்த்து",
-       "lemma": "வாழ்த்துதல்",
-       "gloss": "praise"
+       "text": "வாழ்த்தி",
+       "lemma": "vāḻtti",
+       "gloss": "having praised"
       },
       {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "verbal participle suffix"
+       "text": "க்",
+       "lemma": "k",
+       "gloss": "glide"
       }
      ],
      "gloss": "having praised"
@@ -493,67 +482,51 @@
      "parts": [
       {
        "text": "கரந்தை",
-       "lemma": "கரந்தை",
-       "gloss": "karantai flower"
+       "lemma": "karantai",
+       "gloss": "Karantai flower/field"
       }
      ],
-     "gloss": "karantai flower"
+     "gloss": "Karantai"
     },
     {
      "surface": "நீடிய",
      "parts": [
       {
-       "text": "நீடு",
-       "lemma": "நீடுதல்",
-       "gloss": "extend"
-      },
-      {
-       "text": "இய",
-       "lemma": "இய",
-       "gloss": "past participle suffix"
+       "text": "நீடிய",
+       "lemma": "nīṭiya",
+       "gloss": "extended"
       }
      ],
      "gloss": "extended"
     },
     {
-     "surface": "அறிந்து",
+     "surface": "அறிந்துமாறு",
      "parts": [
       {
-       "text": "அறி",
-       "lemma": "அறிதல்",
-       "gloss": "know"
+       "text": "அறிந்து",
+       "lemma": "arintu",
+       "gloss": "having known"
       },
       {
-       "text": "ந்து",
-       "lemma": "ந்து",
-       "gloss": "past participle suffix"
-      }
-     ],
-     "gloss": "having known"
-    },
-    {
-     "surface": "மாறு",
-     "parts": [
-      {
        "text": "மாறு",
-       "lemma": "மாறு",
-       "gloss": "in return/against"
+       "lemma": "māṟu",
+       "gloss": "opposing/returning"
       }
      ],
-     "gloss": "in return"
+     "gloss": "knowing and opposing"
     },
     {
      "surface": "செருவின்",
      "parts": [
       {
        "text": "செரு",
-       "lemma": "செரு",
+       "lemma": "ceru",
        "gloss": "battle"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "locative suffix"
+       "lemma": "iṉ",
+       "gloss": "in"
       }
      ],
      "gloss": "in the battle"
@@ -566,90 +539,114 @@
      "surface": "பல்லான்",
      "parts": [
       {
-       "text": "பல்லான்",
-       "lemma": "பல்லான்",
-       "gloss": ""
+       "text": "பல்",
+       "lemma": "pal",
+       "gloss": "many"
+      },
+      {
+       "text": "ஆன்",
+       "lemma": "āṉ",
+       "gloss": "cow"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "many cows"
     },
     {
      "surface": "இனநிரை",
      "parts": [
       {
-       "text": "இனநிரை",
-       "lemma": "இனநிரை",
-       "gloss": ""
+       "text": "இன",
+       "lemma": "iṉa",
+       "gloss": "group"
+      },
+      {
+       "text": "நிரை",
+       "lemma": "nirai",
+       "gloss": "herd"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "herds of cattle"
     },
     {
      "surface": "தழீஇய",
      "parts": [
       {
        "text": "தழீஇய",
-       "lemma": "தழீஇய",
-       "gloss": ""
+       "lemma": "taḻīiya",
+       "gloss": "having gathered"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "gathered"
     },
     {
      "surface": "வில்லோர்க்",
      "parts": [
       {
-       "text": "வில்லோர்க்",
-       "lemma": "வில்லோர்க்",
-       "gloss": ""
+       "text": "வில்லோர்",
+       "lemma": "villōr",
+       "gloss": "bowmen"
+      },
+      {
+       "text": "க்",
+       "lemma": "k",
+       "gloss": "glide"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to the bowmen"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "கொடுஞ்சிறை",
+     "surface": "கொடுஞ்சிறைக்",
      "parts": [
       {
        "text": "கொடுமை",
-       "lemma": "கொடுமை",
-       "gloss": "curved/cruel"
+       "lemma": "koṭumai",
+       "gloss": "curved"
       },
       {
        "text": "சிறை",
-       "lemma": "சிறை",
+       "lemma": "ciṟai",
        "gloss": "wing"
+      },
+      {
+       "text": "க்",
+       "lemma": "k",
+       "gloss": "glide"
       }
      ],
-     "gloss": "curved wing"
+     "gloss": "curved-winged"
     },
     {
-     "surface": "க்ரூஉப்பருந்து",
+     "surface": "குரூஉப்பருந்து",
      "parts": [
       {
-       "text": "க்ரூஉப்பருந்து",
-       "lemma": "க்ரூஉப்பருந்து",
-       "gloss": "dark vulture"
+       "text": "குரூஉ",
+       "lemma": "kurūu",
+       "gloss": "color/brightness"
+      },
+      {
+       "text": "பருந்து",
+       "lemma": "paruntu",
+       "gloss": "kite/vulture"
       }
      ],
-     "gloss": "dark vulture",
-     "split_unverified": true
+     "gloss": "bright vulture"
     },
     {
-     "surface": "ஆர்ப்ப",
+     "surface": "ஆர்ப்பத்",
      "parts": [
       {
        "text": "ஆர்ப்ப",
-       "lemma": "ஆர்த்தல்",
-       "gloss": "to screech/roar"
+       "lemma": "ārppa",
+       "gloss": "to screech"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "glide"
       }
      ],
      "gloss": "to screech"
@@ -659,55 +656,44 @@
   {
    "words": [
     {
-     "surface": "தடிந்து",
+     "surface": "தடிந்துமாறு",
      "parts": [
       {
-       "text": "தடி",
-       "lemma": "தடித்தல்",
-       "gloss": "cut down/slaughter"
+       "text": "தடிந்து",
+       "lemma": "taṭintu",
+       "gloss": "having cut down"
       },
       {
-       "text": "ந்து",
-       "lemma": "ந்து",
-       "gloss": "past participle suffix"
-      }
-     ],
-     "gloss": "having cut down"
-    },
-    {
-     "surface": "மாறு",
-     "parts": [
-      {
        "text": "மாறு",
-       "lemma": "மாறு",
-       "gloss": "in return"
+       "lemma": "māṟu",
+       "gloss": "opposing/returning"
       }
      ],
-     "gloss": "in return"
+     "gloss": "cutting down and opposing"
     },
     {
      "surface": "பெயர்த்தது",
      "parts": [
       {
-       "text": "பெயர்",
-       "lemma": "பெயர்த்தல்",
-       "gloss": "move/return"
-      },
-      {
-       "text": "த்தது",
-       "lemma": "த்தது",
-       "gloss": "past neuter singular suffix"
+       "text": "பெயர்த்தது",
+       "lemma": "peyarttatu",
+       "gloss": "it retrieved/turned back"
       }
      ],
-     "gloss": "returned/retrieved"
+     "gloss": "retrieved"
     },
     {
-     "surface": "இ",
+     "surface": "இக்",
      "parts": [
       {
        "text": "இ",
-       "lemma": "இ",
+       "lemma": "i",
        "gloss": "this"
+      },
+      {
+       "text": "க்",
+       "lemma": "k",
+       "gloss": "glide"
       }
      ],
      "gloss": "this"
@@ -716,41 +702,37 @@
      "surface": "கருங்கை",
      "parts": [
       {
-       "text": "கருமை",
-       "lemma": "கருமை",
-       "gloss": "black/strong"
-      },
-      {
-       "text": "கை",
-       "lemma": "கை",
-       "gloss": "hand"
+       "text": "கருங்கை",
+       "lemma": "கருங்கை",
+       "gloss": "strong-handed"
       }
      ],
-     "gloss": "strong hand"
+     "gloss": "strong-handed",
+     "split_unverified": true
     },
     {
      "surface": "வாளே",
      "parts": [
       {
        "text": "வாள்",
-       "lemma": "வாள்",
+       "lemma": "vāḷ",
        "gloss": "sword"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "indeed the sword"
+     "gloss": "sword indeed"
     }
    ]
   }
  ],
- "literal": "Like the cuckoo's beak, the sharp buds of wild jasmine / sparsely set in a many-stranded garland, / adorning the pitch-black hair to shine, / those who serve hot meat in new wide clay bowls, / after drinking once or twice, sitting together, / as the drummer wearing a foliage wreath arrived, / when they desired squeezed toddy and food, saying 'Take this!' / they praised with toddy, / knowing that the karantai flowers had spread, in the battle in return / to the bowmen who gathered the herds of many cows, / while curved-winged dark vultures screeched, / having cut down [the enemies], returned [the cattle] in return, this strong-handed sword!",
- "translation": "Adorning their pitch-black hair with many-stranded garlands of wild jasmine, whose sharp buds resemble the beaks of cuckoos, they sat together and drank once or twice. When the drummer wearing a foliage wreath arrived, they offered him hot meat in new wide clay bowls and praised him with squeezed toddy, saying, 'Take this!' Knowing that the karantai flowers had spread, the bowmen fought in the battle to retrieve the herds of many cows. While curved-winged dark vultures screeched overhead, this sword in a strong hand slaughtered the enemies and brought back the cattle!",
- "modern": "குயிலின் அலகு போன்ற கூர்மையான அரும்புகளைக் கொண்ட காட்டு மல்லிகைப் பூக்களைக் கொண்டு தொடுக்கப்பட்ட பல இழைகளைக் கொண்ட மாலையைத் தங்களது கரிய கூந்தலில் விளங்குமாறு சூடிக்கொண்டு, புதிய அகல் பாத்திரங்களில் சூடான இறைச்சியை ஏந்தியவர்கள், ஒன்று அல்லது இரண்டு முறை அமர்ந்து கள் அருந்திய பின்னர், தழையினாலான மாலையை அணிந்த துடியன் வந்தான் என்று கூறி, பிழிந்த கள்ளையும் உணவையும் விரும்பி, 'இதனைப் பெற்றுக்கொள்வாயாக' என்று கள்ளோடு வாழ்த்தினர். கரந்தைப் பூக்கள் மலிந்து கிடப்பதைக் கண்டு, போரில் பகைவரை எதிர்த்துப் பல பசுக்கூட்டங்களை மீட்ட வில்வீரர்களுக்கு, வளைந்த சிறகுகளையுடைய கரிய பருந்துகள் ஆரவாரம் செய்யுமாறு பகைவர்களை வெட்டி வீழ்த்தி, பசுக்களை மீட்டுக் கொண்டுவந்தது இந்த வலிய கையில் ஏந்திய வாளாகும்!",
- "explanation": "The poet Avvaiyār praises the valor of the warriors and their sword in the veṭci (cattle-recovery) landscape. The poem describes the warriors celebrating with toddy and hot meat, adorned with jasmine garlands. When the drummer arrives, they generously share their feast. Hearing of the cattle raid, they rush to the battlefield, and their strong swords slaughter the enemies to retrieve the cows, while vultures hover above. The contrast between the delicate jasmine buds (like cuckoos' beaks) and the fierce battle where vultures screech highlights the dual nature of the hero's life—joyous celebration and ruthless valor. The karantai flower signifies the theme of cattle recovery, and the key words are அதிரல் (wild jasmine), துடியன் (drummer), கரந்தை (karantai flower), and வாள் (sword).",
+ "literal": "Wild jasmine with sharp buds like a koel's beak, / a sparsely strung many-stranded garland, / having adorned to shine on his dark black tuft of hair, / containing hot roasted meat like tiger's eyes in a new clay bowl, / after drinking one or two times sitting in order, / as the tuṭi drummer wearing a foliage wreath arrived, / asking for the food of squeezed toddy, / they said, 'Accept this!' and praised him with toddy; / knowing that they extended to Karantai, in the battle, / to the bowmen who gathered the herds of many cows, / while curved-winged bright vultures screeched, / cutting down and opposing, it retrieved them, this strong-handed sword!",
+ "translation": "Adorning his dark black tuft of hair with a sparsely strung, many-stranded garland of wild jasmine whose sharp buds resemble a koel's beak, he sat in order and drank once or twice, eating hot roasted meat resembling tiger's eyes served in a new clay bowl. When the drummer wearing a wreath of foliage arrived and asked for the food of squeezed toddy, they said, 'Accept this!' and praised him with toddy. Knowing that the enemy had taken the cattle to the wide Karantai fields, in the battle against the bowmen who had gathered the herds of many cows, while curved-winged bright vultures screeched, this strong-handed sword cut down the enemies and retrieved the cattle!",
+ "modern": "குயிலின் அலகு போன்ற கூர்மையான அரும்புகளைக் கொண்ட அதிரல் மலர்களை நெருக்கமின்றித் தொடுத்த பல வடங்களைக் கொண்ட மாலையைத் தனது கரிய குடுமியில் அழகுபெறச் சூடி, புதிய அகல் பாத்திரத்தில் வைக்கப்பட்ட புலியின் கண் போன்ற சூடான இறைச்சியை, ஒன்று அல்லது இரண்டு முறை வரிசையாக அமர்ந்து உண்ட பின்னர், தழையினாலான மாலையை அணிந்த துடி முழக்கும் பாணன் வந்தான் என்று கூறி, அவன் பிழிந்த கள்ளையும் உணவையும் வேண்ட, 'இதனைப் பெற்றுக்கொள்வாயாக' என்று கூறி அவனுக்குக் கள்ளைக் கொடுத்து வாழ்த்தினர். பகைவர்கள் கரந்தைப் பூக்கள் நிறைந்த இடத்திற்குப் பசுக்களைக் கவர்ந்து சென்றதை அறிந்து, போரிலே பல பசுக்கூட்டங்களை வளைத்துக் கவர்ந்து சென்ற வில்லேந்திய வீரர்களை, வளைந்த சிறகுகளையுடைய பருந்துகள் ஆரவாரிக்கும்படி வெட்டி வீழ்த்தி, பகைமையை வென்று மீட்டது இந்த வலிய கையில் ஏந்திய வாளாகும்.",
+ "explanation": "The poet Avvaiyār praises the valor of a warrior and his sword in this Veṭci (cattle-raiding) poem, specifically under the theme of Uṇṭāṭṭu (the feast before or after a raid). The poem describes the warrior's preparation and celebration: he wears a garland of wild jasmine buds that look like koels' beaks on his dark hair, and feasts on hot roasted meat (which looks like tiger's eyes) and toddy. When a drummer arrives, he is generously offered toddy and food. The poem then shifts to the battlefield, where the warrior's strong-handed sword cut down the enemy bowmen who had raided their cattle and taken them to the Karantai fields, retrieving the herd while vultures circled and screeched above. The imagery of the tiger's eye for the meat and the koel's beak for the jasmine buds highlights the vivid natural observations of the classical poets.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -6,10 +6,10 @@
     {
      "text": "அந்தணர்",
      "lemma": "அந்தணர்",
-     "gloss": "those of beautiful/kind demeanor"
+     "gloss": "virtuous people of grace"
     }
    ],
-   "gloss": "those of beautiful/kind demeanor (sages)"
+   "gloss": "those of beautiful grace"
   },
   {
    "surface": "என்போர்",
@@ -28,10 +28,10 @@
     {
      "text": "அறவோர்",
      "lemma": "அறவோர்",
-     "gloss": "virtuous people"
+     "gloss": "righteous people"
     }
    ],
-   "gloss": "virtuous people"
+   "gloss": "righteous people"
   },
   {
    "surface": "மற்று",
@@ -39,21 +39,22 @@
     {
      "text": "மற்று",
      "lemma": "மற்று",
-     "gloss": "indeed / other"
+     "gloss": "indeed"
     }
    ],
-   "gloss": "indeed (an emphatic particle)"
+   "gloss": "indeed"
   },
   {
    "surface": "எவ்வுயிர்க்கும்",
    "parts": [
     {
      "text": "எவ்வுயிர்க்கும்",
-     "lemma": "எவ்வுயிர்",
-     "gloss": "to every living being"
+     "lemma": "எவ்வுயிர்க்கும்",
+     "gloss": "towards every living being"
     }
    ],
-   "gloss": "to every living being"
+   "gloss": "towards every living being",
+   "split_unverified": true
   },
   {
    "surface": "செந்தண்மை",
@@ -61,10 +62,11 @@
     {
      "text": "செந்தண்மை",
      "lemma": "செந்தண்மை",
-     "gloss": "righteous compassion"
+     "gloss": "beautiful grace"
     }
    ],
-   "gloss": "righteous compassion (literally, beautiful coolness)"
+   "gloss": "beautiful grace",
+   "split_unverified": true
   },
   {
    "surface": "பூண்டு",
@@ -72,32 +74,27 @@
     {
      "text": "பூண்டு",
      "lemma": "பூணுதல்",
-     "gloss": "having assumed"
+     "gloss": "having undertaken"
     }
    ],
-   "gloss": "having assumed / practicing"
+   "gloss": "having undertaken"
   },
   {
    "surface": "ஒழுகலான்",
    "parts": [
     {
-     "text": "ஒழுகல்",
-     "lemma": "ஒழுகல்",
-     "gloss": "conducting oneself"
-    },
-    {
-     "text": "ஆன்",
-     "lemma": "ஆன்",
-     "gloss": "because of"
+     "text": "ஒழுகலான்",
+     "lemma": "ஒழுகுதல்",
+     "gloss": "because of conducting oneself"
     }
    ],
    "gloss": "because of conducting oneself"
   }
  ],
- "literal": "Those who are called Antanar are virtuous people, indeed, because of conducting themselves having assumed righteous compassion towards every living being.",
- "translation": "They are called the truly virtuous who show righteous compassion to every living being and conduct their lives accordingly.",
- "modern": "எல்லா உயிர்களிடத்தும் செம்மையான கருணையை மேற்கொண்டு வாழ்வதால், அறவோர்களே அந்தணர் என்று சொல்லப்படுபவர் ஆவர்.",
- "explanation": "In this couplet, the poet defines true nobility and virtue based purely on ethical conduct and universal compassion. The key word 'sentanmai' combines righteousness and coolness, representing a gentle, loving-kindness. The poet asserts that true virtue belongs to those who assume this compassion and live by it toward all living creatures without exception. Thus, spiritual stature is defined not by birth or ritual, but by the active practice of benevolence.",
+ "literal": "Those who are called Antanar are righteous people, indeed, because of conducting themselves having undertaken beautiful grace towards every living being.",
+ "translation": "Those who are called 'Antanar' are the truly righteous, for they conduct themselves with beautiful compassion toward all living beings.",
+ "modern": "எல்லா உயிர்களிடத்தும் செம்மையான அருளைக் கொண்டு வாழ்வதால், அறவழியில் நடப்பவர்களே அந்தணர் என்று சொல்லப்படுபவர் ஆவர்.",
+ "explanation": "In this couplet, the poet defines the term 'Antanar' not by birth or class, but by character and conduct. A true 'Antanar' is a righteous person ('aṟavōr') who possesses 'centaṇmai', which translates to 'beautiful coolness' or 'righteous grace'. This grace is not selective; it is practiced towards 'evvuyir', meaning every single living being. The couplet emphasizes that true nobility and spiritual stature are achieved through universal compassion and ethical living.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

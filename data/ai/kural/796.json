@@ -6,10 +6,10 @@
     {
      "text": "கேட்டினும்",
      "lemma": "கேட்டினும்",
-     "gloss": "even in adversity"
+     "gloss": "even in ruin"
     }
    ],
-   "gloss": "even in adversity",
+   "gloss": "even in ruin",
    "split_unverified": true
   },
   {
@@ -32,7 +32,7 @@
      "gloss": "one"
     }
    ],
-   "gloss": "a"
+   "gloss": "one"
   },
   {
    "surface": "உறுதி",
@@ -51,12 +51,12 @@
     {
      "text": "கிளைஞர்",
      "lemma": "கிளைஞர்",
-     "gloss": "friends/relatives"
+     "gloss": "friends"
     },
     {
      "text": "ஐ",
      "lemma": "ஐ",
-     "gloss": "accusative case marker"
+     "gloss": "accusative marker"
     }
    ],
    "gloss": "friends"
@@ -67,31 +67,21 @@
     {
      "text": "நீட்டி",
      "lemma": "நீட்டு",
-     "gloss": "extending"
+     "gloss": "having extended"
     }
    ],
-   "gloss": "extending"
+   "gloss": "having extended"
   },
   {
    "surface": "அளப்பது",
    "parts": [
     {
-     "text": "அள",
-     "lemma": "அள",
-     "gloss": "to measure"
-    },
-    {
-     "text": "ப்",
-     "lemma": "ப்",
-     "gloss": "future marker"
-    },
-    {
-     "text": "அது",
-     "lemma": "அது",
-     "gloss": "it"
+     "text": "அளப்பது",
+     "lemma": "அளத்தல்",
+     "gloss": "that which measures"
     }
    ],
-   "gloss": "that which measures"
+   "gloss": "measuring"
   },
   {
    "surface": "ஓர்",
@@ -102,7 +92,7 @@
      "gloss": "one"
     }
    ],
-   "gloss": "a"
+   "gloss": "one"
   },
   {
    "surface": "கோல்",
@@ -110,16 +100,16 @@
     {
      "text": "கோல்",
      "lemma": "கோல்",
-     "gloss": "measuring rod"
+     "gloss": "rod"
     }
    ],
-   "gloss": "measuring rod"
+   "gloss": "rod"
   }
  ],
- "literal": "Even in adversity, is there a benefit? It is a rod that extends and measures one's friends.",
- "translation": "Is there any benefit to be found even in adversity? Yes, it is a measuring rod that extends to gauge the true worth of one's friends.",
- "modern": "துன்பத்திலும் ஒரு நன்மை உண்டோ? தன் நண்பர்களை நீட்டி அளந்து பார்க்கும் ஒரு அளவுகோல் அது.",
- "explanation": "This couplet explains that even misfortune or ruin (கேடு) has a positive side. It acts as a measuring rod (கோல்) to test and evaluate the true character of one's friends and relatives (கிளைஞர்). When we are in trouble, we can easily see who stands by us and who abandons us. Thus, adversity serves as a practical tool to measure the depth and sincerity of our relationships.",
+ "literal": "Even in ruin there is one benefit: a rod that extends and measures friends.",
+ "translation": "Even in ruin, there is a certain benefit: it is a measuring rod to stretch out and gauge the true worth of one's friends.",
+ "modern": "துன்பத்திலும் ஒரு நன்மை உண்டு; அது உறவினர்களையும் நண்பர்களையும் நீட்டி அளந்து பார்க்கும் ஒரு அளவுகோல் ஆகும்.",
+ "explanation": "This couplet explains that adversity or ruin is not entirely without value, as it brings a unique benefit. It acts as a measuring rod to test and gauge the true loyalty of those who claim to be our friends. When we are prosperous, many gather around us, but when ruin strikes, only true friends remain. Thus, misfortune serves as a tool to stretch out and accurately measure who our real companions are.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

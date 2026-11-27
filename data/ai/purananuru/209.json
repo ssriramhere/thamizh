@@ -28,21 +28,30 @@
      "surface": "போர்வில்",
      "parts": [
       {
-       "text": "போர்வில்",
-       "lemma": "போர்வில்",
-       "gloss": "at the straw stack"
+       "text": "போர்",
+       "lemma": "போர்",
+       "gloss": "straw stack"
+      },
+      {
+       "text": "வில்",
+       "lemma": "வில்",
+       "gloss": "curve"
       }
      ],
-     "gloss": "at the straw stack",
-     "split_unverified": true
+     "gloss": "in the curved straw-stack"
     },
     {
      "surface": "சேக்கும்",
      "parts": [
       {
-       "text": "சேக்கும்",
-       "lemma": "சேக்கல்",
-       "gloss": "roosts"
+       "text": "சேக்",
+       "lemma": "சே",
+       "gloss": "roost"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "habitual future suffix"
       }
      ],
      "gloss": "roosts"
@@ -52,26 +61,20 @@
   {
    "words": [
     {
-     "surface": "நெய்தல்",
+     "surface": "நெய்தல்அம்",
      "parts": [
       {
        "text": "நெய்தல்",
        "lemma": "நெய்தல்",
-       "gloss": "blue water lily"
-      }
-     ],
-     "gloss": "blue water lily"
-    },
-    {
-     "surface": "அம்",
-     "parts": [
+       "gloss": "water lily"
+      },
       {
        "text": "அம்",
        "lemma": "அம்",
        "gloss": "beautiful"
       }
      ],
-     "gloss": "beautiful"
+     "gloss": "beautiful water lily"
     },
     {
      "surface": "கழனி",
@@ -79,32 +82,26 @@
       {
        "text": "கழனி",
        "lemma": "கழனி",
-       "gloss": "paddy field"
+       "gloss": "field"
       }
      ],
-     "gloss": "paddy field"
+     "gloss": "field"
     },
     {
-     "surface": "நெல்",
+     "surface": "நெல்அரி",
      "parts": [
       {
        "text": "நெல்",
        "lemma": "நெல்",
        "gloss": "paddy"
-      }
-     ],
-     "gloss": "paddy"
-    },
-    {
-     "surface": "அரி",
-     "parts": [
+      },
       {
        "text": "அரி",
        "lemma": "அரி",
-       "gloss": "reaping"
+       "gloss": "reap"
       }
      ],
-     "gloss": "reaping"
+     "gloss": "paddy-reaping"
     },
     {
      "surface": "தொழுவர்",
@@ -122,64 +119,48 @@
   {
    "words": [
     {
-     "surface": "கூம்பு",
+     "surface": "கூம்புவிடு",
      "parts": [
       {
        "text": "கூம்பு",
        "lemma": "கூம்பு",
        "gloss": "bud"
-      }
-     ],
-     "gloss": "bud"
-    },
-    {
-     "surface": "விடு",
-     "parts": [
+      },
       {
        "text": "விடு",
        "lemma": "விடு",
-       "gloss": "releasing"
+       "gloss": "release"
       }
      ],
-     "gloss": "releasing"
+     "gloss": "bud-opening"
     },
     {
-     "surface": "மெய்",
+     "surface": "மெய்பிணி",
      "parts": [
       {
        "text": "மெய்",
        "lemma": "மெய்",
        "gloss": "body"
-      }
-     ],
-     "gloss": "body"
-    },
-    {
-     "surface": "பிணி",
-     "parts": [
+      },
       {
        "text": "பிணி",
        "lemma": "பிணி",
        "gloss": "binding"
       }
      ],
-     "gloss": "binding"
+     "gloss": "body-binding"
     },
     {
      "surface": "அவிழ்ந்த",
      "parts": [
       {
-       "text": "அவிழ்",
-       "lemma": "அவிழ்",
-       "gloss": "blossom"
-      },
-      {
-       "text": "ந்த",
-       "lemma": "ந்த",
-       "gloss": "past relative participle suffix"
+       "text": "அவிழ்ந்த",
+       "lemma": "அவிழ்ந்த",
+       "gloss": "blossomed"
       }
      ],
-     "gloss": "blossomed"
+     "gloss": "blossomed",
+     "split_unverified": true
     },
     {
      "surface": "ஆம்பல்",
@@ -224,23 +205,18 @@
       {
        "text": "அரியல்",
        "lemma": "அரியல்",
-       "gloss": "toddy"
+       "gloss": "liquor"
       }
      ],
-     "gloss": "toddy"
+     "gloss": "liquor"
     },
     {
      "surface": "மாந்திக்",
      "parts": [
       {
-       "text": "மாந்து",
-       "lemma": "மாந்து",
-       "gloss": "drink"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "verbal participle suffix"
+       "text": "மாந்தி",
+       "lemma": "மாந்தி",
+       "gloss": "having drunk"
       },
       {
        "text": "க்",
@@ -270,38 +246,25 @@
      "surface": "படுதிரை",
      "parts": [
       {
-       "text": "படு",
-       "lemma": "படு",
-       "gloss": "roaring"
-      },
-      {
-       "text": "திரை",
-       "lemma": "திரை",
-       "gloss": "wave"
+       "text": "படுதிரை",
+       "lemma": "படுதிரை",
+       "gloss": ""
       }
      ],
-     "gloss": "roaring waves"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "இன்சீர்ப்",
      "parts": [
       {
-       "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "sweet"
-      },
-      {
-       "text": "சீர்",
-       "lemma": "சீர்",
-       "gloss": "rhythm"
-      },
-      {
-       "text": "ப்",
-       "lemma": "ப்",
-       "gloss": "sandhi consonant"
+       "text": "இன்சீர்ப்",
+       "lemma": "இன்சீர்ப்",
+       "gloss": ""
       }
      ],
-     "gloss": "sweet rhythm"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "பாணி",
@@ -309,28 +272,26 @@
       {
        "text": "பாணி",
        "lemma": "பாணி",
-       "gloss": "beat"
+       "gloss": ""
       }
      ],
-     "gloss": "beat"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "தூங்கும்",
      "parts": [
       {
-       "text": "தூங்கு",
-       "lemma": "தூங்கு",
-       "gloss": "sway"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "habitual future suffix"
+       "text": "தூங்கும்",
+       "lemma": "தூங்கும்",
+       "gloss": ""
       }
      ],
-     "gloss": "swaying"
+     "gloss": "",
+     "split_unverified": true
     }
-   ]
+   ],
+   "as_printed": true
   },
   {
    "words": [
@@ -352,15 +313,15 @@
       {
        "text": "வைப்பு",
        "lemma": "வைப்பு",
-       "gloss": "settlement"
+       "gloss": "region"
       },
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "oblique suffix"
+       "gloss": "genitive case suffix"
       }
      ],
-     "gloss": "of the settlement"
+     "gloss": "of the region"
     },
     {
      "surface": "நன்னாட்டுப்",
@@ -391,27 +352,20 @@
   {
    "words": [
     {
-     "surface": "பல்",
+     "surface": "பல்கனி",
      "parts": [
       {
        "text": "பல்",
-       "lemma": "பல்",
+       "lemma": "பல",
        "gloss": "many"
-      }
-     ],
-     "gloss": "many",
-     "split_unverified": true
-    },
-    {
-     "surface": "கனி",
-     "parts": [
+      },
       {
        "text": "கனி",
        "lemma": "கனி",
        "gloss": "fruit"
       }
      ],
-     "gloss": "fruit"
+     "gloss": "many fruits"
     },
     {
      "surface": "நசைஇ",
@@ -424,7 +378,7 @@
       {
        "text": "இ",
        "lemma": "இ",
-       "gloss": "verbal participle suffix"
+       "gloss": "measure-shortening"
       }
      ],
      "gloss": "desiring"
@@ -435,10 +389,10 @@
       {
        "text": "அல்கு",
        "lemma": "அல்கு",
-       "gloss": "shrinking"
+       "gloss": "diminish/abide"
       }
      ],
-     "gloss": "shrinking"
+     "gloss": "diminishing"
     },
     {
      "surface": "விசும்பு",
@@ -462,58 +416,46 @@
       {
        "text": "த்து",
        "lemma": "த்து",
-       "gloss": "verbal participle suffix"
+       "gloss": "having done"
       }
      ],
-     "gloss": "having ascended"
+     "gloss": "having risen"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "பெரு",
+     "surface": "பெருமலை",
      "parts": [
       {
-       "text": "பெரு",
-       "lemma": "பெரு",
-       "gloss": "great"
-      }
-     ],
-     "gloss": "great"
-    },
-    {
-     "surface": "மலை",
-     "parts": [
+       "text": "பெருமை",
+       "lemma": "பெருமை",
+       "gloss": "greatness"
+      },
       {
        "text": "மலை",
        "lemma": "மலை",
        "gloss": "mountain"
       }
      ],
-     "gloss": "mountain"
+     "gloss": "great mountain"
     },
     {
-     "surface": "விடர்",
+     "surface": "விடர்அகம்",
      "parts": [
       {
        "text": "விடர்",
        "lemma": "விடர்",
-       "gloss": "cleft"
-      }
-     ],
-     "gloss": "cleft"
-    },
-    {
-     "surface": "அகம்",
-     "parts": [
+       "gloss": "cleft/cave"
+      },
       {
        "text": "அகம்",
        "lemma": "அகம்",
        "gloss": "inside"
       }
      ],
-     "gloss": "inside"
+     "gloss": "inside the cleft"
     },
     {
      "surface": "சிலம்ப",
@@ -521,7 +463,7 @@
       {
        "text": "சிலம்பு",
        "lemma": "சிலம்பு",
-       "gloss": "resound"
+       "gloss": "echo"
       },
       {
        "text": "அ",
@@ -529,20 +471,15 @@
        "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to resound"
+     "gloss": "to echo"
     },
     {
      "surface": "முன்னிப்",
      "parts": [
       {
-       "text": "முன்னு",
+       "text": "முன்னி",
        "lemma": "முன்னு",
-       "gloss": "approach"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "verbal participle suffix"
+       "gloss": "having approached"
       },
       {
        "text": "ப்",
@@ -561,7 +498,7 @@
      "parts": [
       {
        "text": "பழன்",
-       "lemma": "பழன்",
+       "lemma": "பழம்",
        "gloss": "fruit"
       },
       {
@@ -575,53 +512,65 @@
        "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "possessing fruit"
+     "gloss": "fruit-bearing"
     },
     {
-     "surface": "பெரு",
+     "surface": "பெருமரம்",
      "parts": [
       {
-       "text": "பெரு",
-       "lemma": "பெரு",
-       "gloss": "great"
-      }
-     ],
-     "gloss": "great"
-    },
-    {
-     "surface": "மரம்",
-     "parts": [
+       "text": "பெருமை",
+       "lemma": "பெருமை",
+       "gloss": "greatness"
+      },
       {
        "text": "மரம்",
        "lemma": "மரம்",
        "gloss": "tree"
       }
      ],
-     "gloss": "tree"
+     "gloss": "great tree"
     },
     {
      "surface": "தீர்ந்தெனக்",
      "parts": [
       {
-       "text": "தீர்ந்தெனக்",
-       "lemma": "தீர்ந்தெனக்",
-       "gloss": "because it is finished"
+       "text": "தீர்ந்து",
+       "lemma": "தீர்",
+       "gloss": "having finished"
+      },
+      {
+       "text": "என",
+       "lemma": "என",
+       "gloss": "as/because"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "because it is finished",
-     "split_unverified": true
+     "gloss": "as it is finished"
     },
     {
      "surface": "கையற்றுப்",
      "parts": [
       {
-       "text": "கையற்றுப்",
-       "lemma": "கையற்றுப்",
-       "gloss": "having become helpless"
+       "text": "கை",
+       "lemma": "கை",
+       "gloss": "hand/means"
+      },
+      {
+       "text": "அற்று",
+       "lemma": "அறு",
+       "gloss": "having lost"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "having become helpless",
-     "split_unverified": true
+     "gloss": "having become helpless"
     }
    ]
   },
@@ -633,15 +582,15 @@
       {
        "text": "பெறு",
        "lemma": "பெறு",
-       "gloss": "get"
+       "gloss": "obtain"
       },
       {
        "text": "ஆது",
        "lemma": "ஆது",
-       "gloss": "negative verbal participle suffix"
+       "gloss": "negative participle suffix"
       }
      ],
-     "gloss": "without getting"
+     "gloss": "not obtaining"
     },
     {
      "surface": "பெயரும்",
@@ -670,7 +619,7 @@
       {
        "text": "இனம்",
        "lemma": "இனம்",
-       "gloss": "flock"
+       "gloss": "group"
       }
      ],
      "gloss": "flock of birds"
@@ -679,14 +628,9 @@
      "surface": "போல",
      "parts": [
       {
-       "text": "போல்",
-       "lemma": "போல்",
-       "gloss": "resemble"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitive suffix"
+       "text": "போல",
+       "lemma": "போல",
+       "gloss": "like"
       }
      ],
      "gloss": "like"
@@ -708,27 +652,20 @@
   {
    "words": [
     {
-     "surface": "நசை",
+     "surface": "நசைதர",
      "parts": [
       {
        "text": "நசை",
        "lemma": "நசை",
        "gloss": "desire"
-      }
-     ],
-     "gloss": "desire"
-    },
-    {
-     "surface": "தர",
-     "parts": [
+      },
       {
        "text": "தர",
-       "lemma": "தர",
-       "gloss": "to give"
+       "lemma": "தா",
+       "gloss": "to bring"
       }
      ],
-     "gloss": "to give",
-     "split_unverified": true
+     "gloss": "desire-bringing"
     },
     {
      "surface": "வந்து",
@@ -743,27 +680,20 @@
      "split_unverified": true
     },
     {
-     "surface": "நின்",
+     "surface": "நின்இசை",
      "parts": [
       {
        "text": "நின்",
-       "lemma": "நின்",
+       "lemma": "நீ",
        "gloss": "your"
-      }
-     ],
-     "gloss": "your",
-     "split_unverified": true
-    },
-    {
-     "surface": "இசை",
-     "parts": [
+      },
       {
        "text": "இசை",
        "lemma": "இசை",
        "gloss": "fame"
       }
      ],
-     "gloss": "fame"
+     "gloss": "your fame"
     },
     {
      "surface": "நுவல்",
@@ -771,7 +701,7 @@
       {
        "text": "நுவல்",
        "lemma": "நுவல்",
-       "gloss": "praising"
+       "gloss": "praise"
       }
      ],
      "gloss": "praising"
@@ -798,10 +728,10 @@
       {
        "text": "வறுவியேன்",
        "lemma": "வறுவியேன்",
-       "gloss": "I, who am empty-handed"
+       "gloss": "I who am empty-handed"
       }
      ],
-     "gloss": "I, who am empty-handed",
+     "gloss": "I who am empty-handed",
      "split_unverified": true
     },
     {
@@ -815,32 +745,33 @@
       {
        "text": "கோ",
        "lemma": "கோ",
-       "gloss": "first-person singular interrogative suffix"
+       "gloss": "interrogative suffix"
       }
      ],
      "gloss": "shall I return?"
     },
     {
-     "surface": "வாள்",
+     "surface": "வாள்மேம்",
      "parts": [
       {
-       "text": "வாள்",
-       "lemma": "வாள்",
-       "gloss": "sword"
+       "text": "வாள்மேம்",
+       "lemma": "வாள்மேம்",
+       "gloss": "sword-excelled"
       }
      ],
-     "gloss": "sword"
+     "gloss": "sword-excelled",
+     "split_unverified": true
     },
     {
-     "surface": "மேம்படுந",
+     "surface": "படுந",
      "parts": [
       {
-       "text": "மேம்படுந",
-       "lemma": "மேம்படுந",
-       "gloss": "O one who excels!"
+       "text": "படுந",
+       "lemma": "படுந",
+       "gloss": "O you who excel!"
       }
      ],
-     "gloss": "O one who excels!",
+     "gloss": "O you who excel!",
      "split_unverified": true
     }
    ]
@@ -858,7 +789,7 @@
       {
        "text": "ஆய்",
        "lemma": "ஆய்",
-       "gloss": "negative second-person singular suffix"
+       "gloss": "negative second person suffix"
       }
      ],
      "gloss": "you do not give"
@@ -869,7 +800,7 @@
       {
        "text": "ஆயின்",
        "lemma": "ஆயின்",
-       "gloss": "if it is so"
+       "gloss": "if so"
       },
       {
        "text": "உம்",
@@ -890,7 +821,7 @@
       {
        "text": "வென்",
        "lemma": "வென்",
-       "gloss": "first-person singular future suffix"
+       "gloss": "first person future suffix"
       }
      ],
      "gloss": "I will grieve"
@@ -906,7 +837,7 @@
       {
        "text": "ஏன்",
        "lemma": "ஏன்",
-       "gloss": "I who am"
+       "gloss": "I"
       }
      ],
      "gloss": "I am not"
@@ -921,7 +852,7 @@
       {
        "text": "நோய்",
        "lemma": "நோய்",
-       "gloss": "suffering"
+       "gloss": "disease"
       },
       {
        "text": "இலை",
@@ -929,7 +860,7 @@
        "gloss": "you do not have"
       }
      ],
-     "gloss": "may you be free of suffering"
+     "gloss": "may you be free of disease"
     },
     {
      "surface": "ஆகுமதி",
@@ -942,7 +873,7 @@
       {
        "text": "மதி",
        "lemma": "மதி",
-       "gloss": "optative particle"
+       "gloss": "optative suffix"
       }
      ],
      "gloss": "may you become"
@@ -953,10 +884,10 @@
       {
        "text": "பெரும",
        "lemma": "பெரும",
-       "gloss": "O great lord!"
+       "gloss": "O great one!"
       }
      ],
-     "gloss": "O great lord!",
+     "gloss": "O great one!",
      "split_unverified": true
     },
     {
@@ -989,10 +920,10 @@
        "gloss": "closeness"
       }
      ],
-     "gloss": "very close"
+     "gloss": "very close distance"
     },
     {
-     "surface": "காண்குவது",
+     "surface": "காண்குவ",
      "parts": [
       {
        "text": "காண்",
@@ -1000,28 +931,29 @@
        "gloss": "see"
       },
       {
-       "text": "குவது",
-       "lemma": "குவது",
-       "gloss": "future neuter singular participial noun"
-      }
-     ],
-     "gloss": "seeing"
-    },
-    {
-     "surface": "ஆக",
-     "parts": [
-      {
-       "text": "ஆகு",
-       "lemma": "ஆகு",
-       "gloss": "become"
+       "text": "கு",
+       "lemma": "கு",
+       "gloss": "future infix"
       },
       {
        "text": "அ",
        "lemma": "அ",
-       "gloss": "infinitive suffix"
+       "gloss": "subjunctive suffix"
       }
      ],
-     "gloss": "to be"
+     "gloss": "we shall see"
+    },
+    {
+     "surface": "தாக",
+     "parts": [
+      {
+       "text": "தாக",
+       "lemma": "தாக",
+       "gloss": "so that it is"
+      }
+     ],
+     "gloss": "so that it is",
+     "split_unverified": true
     },
     {
      "surface": "நாளும்",
@@ -1049,10 +981,10 @@
       {
        "text": "நறும்பல்",
        "lemma": "நறும்பல்",
-       "gloss": "many fragrant"
+       "gloss": "fragrant and many"
       }
      ],
-     "gloss": "many fragrant",
+     "gloss": "fragrant and many",
      "split_unverified": true
     },
     {
@@ -1064,17 +996,12 @@
        "gloss": "luxuriant"
       },
       {
-       "text": "வரு",
-       "lemma": "வரு",
-       "gloss": "come"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "relative participle suffix"
+       "text": "வரும்",
+       "lemma": "வா",
+       "gloss": "coming"
       }
      ],
-     "gloss": "growing thick"
+     "gloss": "luxuriant"
     },
     {
      "surface": "கதுப்பின்",
@@ -1082,15 +1009,15 @@
       {
        "text": "கதுப்பு",
        "lemma": "கதுப்பு",
-       "gloss": "hair"
+       "gloss": "tresses"
       },
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "oblique suffix"
+       "gloss": "genitive case suffix"
       }
      ],
-     "gloss": "of the hair"
+     "gloss": "of the tresses"
     },
     {
      "surface": "தேமொழித்",
@@ -1098,10 +1025,10 @@
       {
        "text": "தேமொழித்",
        "lemma": "தேமொழித்",
-       "gloss": "honey-sweet speech"
+       "gloss": "sweet-worded"
       }
      ],
-     "gloss": "honey-sweet speech",
+     "gloss": "sweet-worded",
      "split_unverified": true
     }
    ]
@@ -1114,7 +1041,7 @@
       {
        "text": "தெரி",
        "lemma": "தெரி",
-       "gloss": "choice"
+       "gloss": "select"
       },
       {
        "text": "இழை",
@@ -1122,7 +1049,7 @@
        "gloss": "jewel"
       }
      ],
-     "gloss": "choice jewels"
+     "gloss": "selected jewels"
     },
     {
      "surface": "அன்ன",
@@ -1146,7 +1073,7 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "oblique suffix"
+       "gloss": "genitive case suffix"
       }
      ],
      "gloss": "of the chest"
@@ -1159,13 +1086,17 @@
      "surface": "செருவெம்",
      "parts": [
       {
-       "text": "செருவெம்",
-       "lemma": "செருவெம்",
-       "gloss": "battle-desiring"
+       "text": "செரு",
+       "lemma": "செரு",
+       "gloss": "war"
+      },
+      {
+       "text": "வெம்",
+       "lemma": "வெம்மை",
+       "gloss": "desire"
       }
      ],
-     "gloss": "battle-desiring",
-     "split_unverified": true
+     "gloss": "desiring war"
     },
     {
      "surface": "சேஎய்",
@@ -1173,10 +1104,10 @@
       {
        "text": "சேஎய்",
        "lemma": "சேஎய்",
-       "gloss": "Murukaṉ-like warrior"
+       "gloss": "O Murugan-like king!"
       }
      ],
-     "gloss": "Murukaṉ-like warrior",
+     "gloss": "O Murugan-like king!",
      "split_unverified": true
     },
     {
@@ -1192,7 +1123,7 @@
      "split_unverified": true
     },
     {
-     "surface": "மகிழ்இரு",
+     "surface": "மகிழ்இருக்கையே",
      "parts": [
       {
        "text": "மகிழ்",
@@ -1200,32 +1131,25 @@
        "gloss": "joy"
       },
       {
-       "text": "இரு",
-       "lemma": "இரு",
-       "gloss": "sit"
-      }
-     ],
-     "gloss": "joyful sitting"
-    },
-    {
-     "surface": "க்கையே",
-     "parts": [
+       "text": "இருக்கை",
+       "lemma": "இருக்கை",
+       "gloss": "court/seat"
+      },
       {
-       "text": "க்கையே",
-       "lemma": "க்கையே",
-       "gloss": "court indeed"
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "court indeed",
-     "split_unverified": true
+     "gloss": "joyous court indeed"
     }
    ]
   }
  ],
- "literal": "A pond heron roosts on a straw stack / in the beautiful fields of blue water lilies where paddy-reaping laborers / drink the toddy from wide-leaved water lilies that have blossomed from buds, and to the clear sea's / roaring waves' sweet rhythm and beat, they sway / in the soft-land settlements of your good country, O warrior! / Desiring many fruits, ascending into the shrinking sky, / making the clefts of the great mountains resound, having approached / a great tree possessing fruit, because it is finished, having become helpless / like a flock of birds that returns without getting, your / desire bringing me, having come to praise your fame, I, the seeker of gifts, / shall I return empty-handed, O one who excels with the sword? / Even if you do not give, I will not grieve. / May you be free of suffering, O great lord! Between us, / may we see each other closely and frequently every day, / in the presence of your honey-sweet-spoken wife with fragrant, thick-growing hair / and choice jewels, on your chest, / O Murukaṉ-like warrior who desires battle, in your joyful court!",
- "translation": "Like a flock of birds that flies high into the shrinking sky, desiring abundant fruit, making the mountain clefts resound as they head towards a great fruit-bearing tree, only to return empty-handed and helpless when they find the fruit is gone—so have I come, drawn by desire, to sing your praise, O seeker of gifts. Shall I return empty-handed, O hero who excels with the sword? Even if you give me nothing, I shall not grieve. May you live free of illness, O lord! May we meet closely and daily in your joyful court, O Murukaṉ-like warrior who loves battle, whose chest is embraced by your honey-tongued wife with fragrant, thick hair and choice jewels, in your good country of soft, fertile lands, where paddy-reaping laborers drink toddy from wide-leaved water lilies that have blossomed from buds, and sway to the sweet rhythm of the roaring waves of the clear sea, while pond herons roost on the straw stacks.",
- "modern": "வயல்களில் நெல் அறுக்கும் தொழிலாளர்கள், மொட்டவிழ்ந்த ஆம்பல் மலர்களின் அகன்ற இலைகளில் உள்ள கள்ளைக் குடித்துவிட்டு, தெளிந்த கடலின் அலைகளின் ஓசைக்கு ஏற்ப ஆடும் மென்புல நாட்டை உடையவனே! பழங்களை விரும்பி, வானில் பறந்து, மலைப் பிளவுகள் அதிருமாறு சென்று, பழங்கள் தீர்ந்துபோன மரத்தைக் கண்டு ஏமாற்றத்துடன் திரும்பும் பறவைக் கூட்டம் போல, உன்னிடம் பரிசு பெற விரும்பி வந்த நான் வறுமையுடன் திரும்புவேனோ? நீ பரிசில் தராவிட்டாலும் நான் வருந்த மாட்டேன். என் தலைவனே! நீ நோய் நொடியின்றி வாழ்வாயாக! நறுமணமும் அடர்த்தியும் கொண்ட கூந்தலையும், தேன் போன்ற மொழியையும், சிறந்த அணிகலன்களையும் உடைய உன் மனைவியைத் தழுவிய மார்பை உடையவனே! போரை விரும்பும் சேயோன் போன்றவனே! உன்னுடைய மகிழ்ச்சியான கொலுவீற்றிருக்கும் இடத்தில் நாம் நாள்தோறும் நெருக்கமாகக் காண்போமாக!",
- "explanation": "The poet Peruṉtalaiic Cāttaṉār addresses the chieftain Mūvaṉ in this poem of the Puṟam genre (tiṇai: pāṭāṇ, tuṟai: paricil kaṭānilai). The poet compares himself to a flock of birds that flies eagerly toward a fruit-bearing tree, only to find it bare and return disappointed. He asks the chieftain if he must return empty-handed after coming with great hope to sing his praises. Even if the chieftain does not grant him gifts, the poet generously wishes him a long life free of illness. He describes the rich agricultural landscape of Mūvaṉ's country, where laborers drink toddy and dance to the rhythm of the sea waves, contrasting this fertility with his own empty-handedness. Finally, the poet expresses a desire to remain in the chieftain's joyful court, enjoying his company daily alongside his beautiful, sweet-spoken wife.",
+ "literal": "Pond heron in the curved straw-stack roosts / beautiful water lily field paddy-reaping laborers / bud-opening body-binding blossomed water lily / wide leaf liquor having drunk clear sea / falling waves sweet rhythm melody sounding / soft land region of the good country O warrior! / many fruits desiring diminishing sky having risen / great mountain inside the cleft to echo having approached / fruit-bearing great tree as it is finished having become helpless / not obtaining returning flock of birds like your / desire-bringing having come your fame praising I, the seeker of gifts / I who am empty-handed shall I return? O you who excel with sword! / you do not give even if I will grieve I am not / may you be free of disease may you become O great one! between us / very close distance we shall see so that it is every day / fragrant and many luxuriant of the tresses sweet-worded / selected jewels like of the chest / desiring war O Murugan-like king! your joyous court indeed",
+ "translation": "O warrior of the good country in the soft-soil region, where pond herons roost on curved straw stacks, and paddy-reaping laborers in fields of beautiful water lilies drink liquor from wide leaves and sway to the sweet rhythm of the clear sea's falling waves! Like a flock of birds that flies high into the sky desiring many fruits, approaching a great mountain cleft making it echo, but returns helpless without obtaining anything because the fruit-bearing great tree is bare, I came drawn by desire, praising your fame. Shall I return empty-handed, O king who excels with the sword? Even if you do not give, I will not grieve. May you live free of disease, O great one! Let us see each other from a very close distance every day in your joyous court, O Murugan-like king who desires war, whose chest is adorned with select jewels, and who is praised by women with sweet words and fragrant, thick tresses.",
+ "modern": "குளத்து நாரைகள் வளைந்த வைக்கோல் போரில் தங்கும், அழகிய நெய்தல் மலர்கள் நிறைந்த வயல்களில் நெல் அறுக்கும் உழவர்கள் அகன்ற இலைகளில் கள்ளைப் பருகித் தெளிந்த கடலின் அலை ஓசைக்கு ஏற்ப ஆடும் மென்புல நாட்டை உடைய தலைவனே! பல பழங்களை விரும்பி, வானத்தில் உயர்ந்து பறந்து, பெரிய மலைப் பிளவுகள் எதிரொலிக்குமாறு சென்று, பழங்கள் நிறைந்த பெரிய மரம் வறண்டு போனதால் ஏமாற்றமடைந்து, ஒன்றும் பெறாமல் திரும்பும் பறவைக் கூட்டம் போல, உன்னிடம் பரிசு பெற விரும்பி வந்து உனது புகழைப் பாடும் பரிசிலனாகிய நான் வறுமையோடு திரும்புவேனோ? வாள் போரில் சிறந்தவனே! நீ எனக்குப் பரிசு தராவிட்டாலும் நான் வருந்த மாட்டேன். பெருமானே! நீ நோய் நொடி இல்லாமல் வாழ்வாயாக. நறுமணமும் அடர்த்தியும் கொண்ட கூந்தலையும், இனிய மொழியையும், சிறந்த அணிகலன்களையும் உடைய மகளிர் விரும்பும் மார்பினை உடையவனே! போர் விரும்பும் சேயோன் போன்றவனே! உனது மகிழ்ச்சியான அரசவையில் நாம் நாள்தோறும் மிக அருகில் சந்திப்போம்.",
+ "explanation": "The poet Peruntalai Cāttaṉār addresses the chieftain Mūvaṉ in this Pāṭāṇ poem, expressing his disappointment at not receiving gifts. He begins by describing the fertility of Mūvaṉ's land, where herons roost on straw stacks and laborers joyfully drink toddy. This rich landscape contrasts sharply with the central metaphor of the poem: a flock of birds flying to a great tree on a mountain, only to find it barren and return empty-handed. The poet compares himself to these helpless birds, subtly critiquing the chieftain's lack of generosity despite his immense wealth. Rather than showing anger, the poet gracefully wishes the king a long, disease-free life and expresses a desire to meet him daily in his court. Key words like 'புள்ளினம் போல' (like a flock of birds) and 'வறுவியேன் பெயர்கோ' (shall I return empty-handed?) highlight the poet's dignity in the face of rejection.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

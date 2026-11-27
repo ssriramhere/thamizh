@@ -6,7 +6,7 @@
     {
      "text": "புறத்து",
      "lemma": "புறம்",
-     "gloss": "external"
+     "gloss": "of the exterior"
     }
    ],
    "gloss": "of the exterior"
@@ -39,21 +39,21 @@
     {
      "text": "எவன்",
      "lemma": "எவன்",
-     "gloss": "what use"
+     "gloss": "what"
     }
    ],
    "gloss": "what use"
   },
   {
-   "surface": "செய்பும்",
+   "surface": "செய்யும்",
    "parts": [
     {
-     "text": "செய்பும்",
-     "lemma": "செய்யும்",
+     "text": "செய்யும்",
+     "lemma": "செய்",
      "gloss": "will do"
     }
    ],
-   "gloss": "will they do"
+   "gloss": "will do"
   },
   {
    "surface": "யாக்கை",
@@ -64,7 +64,7 @@
      "gloss": "body"
     }
    ],
-   "gloss": "to the body"
+   "gloss": "body"
   },
   {
    "surface": "அகத்து",
@@ -72,7 +72,7 @@
     {
      "text": "அகத்து",
      "lemma": "அகம்",
-     "gloss": "internal"
+     "gloss": "of the interior"
     }
    ],
    "gloss": "of the interior"
@@ -103,23 +103,23 @@
    "surface": "இலவர்க்கு",
    "parts": [
     {
-     "text": "இல்",
-     "lemma": "இல்",
-     "gloss": "without"
+     "text": "இலவர்",
+     "lemma": "இலர்",
+     "gloss": "those who lack"
     },
     {
-     "text": "அவர்க்கு",
-     "lemma": "அவர்",
-     "gloss": "to those who"
+     "text": "க்கு",
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to those who lack"
   }
  ],
- "literal": "External limbs all what use will they do to the body, if the internal limb, love, to those who lack?",
- "translation": "Of what use are all the outer limbs of the body to those who lack the inner limb of love?",
- "modern": "உள்ளத்து உறுப்பாகிய அன்பு இல்லாதவர்களுக்கு, உடம்பின் வெளி உறுப்புகள் எல்லாம் என்ன பயனைச் செய்யும்?",
- "explanation": "This couplet compares love to an essential internal organ (அகத்துறுப்பு) of the body, while the physical limbs (like hands, eyes, and legs) are merely external organs (புறத்துறுப்பு). Just as a body cannot truly live or function without its vital internal organs, a human life is meaningless without the inner quality of love. For those who lack love in their hearts, having all external limbs intact is of no real value, as they cannot perform genuine acts of human connection. The poet uses the archaic verb form 'செய்பும்' to ask what useful action these outer limbs could possibly perform without the guiding force of love.",
+ "literal": "Of the exterior, limbs, all, what use, will do, [to the] body, of the interior, limb, love, to those who lack.",
+ "translation": "Of what use are all the external limbs of the body to those who lack the essential internal limb of love?",
+ "modern": "உள்ளுறுப்பாகிய அன்பு இல்லாதவர்களுக்கு, உடம்பின் வெளி உறுப்புகள் எல்லாம் என்ன பயனைச் செய்யும்?",
+ "explanation": "This couplet uses the metaphor of anatomy to explain the vital importance of love. The poet divides the human body into external limbs (புறத்துறுப்பு) like eyes, hands, and legs, and the internal limb (அகத்துறுப்பு), which is identified here as love (அன்பு). Just as a body cannot function or survive without its vital internal organs, a person's life is completely useless without the capacity for love. Therefore, having a fully functioning physical body is of no value if one lacks the core internal quality of love.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

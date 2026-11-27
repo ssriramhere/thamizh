@@ -9,18 +9,23 @@
      "gloss": "having grasped"
     }
    ],
-   "gloss": "clinging to / grasping"
+   "gloss": "clinging to"
   },
   {
    "surface": "விடாஅ",
    "parts": [
     {
-     "text": "விடாஅ",
+     "text": "விடா",
      "lemma": "விடு",
-     "gloss": "without leaving"
+     "gloss": "not leaving"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "measure-lengthening"
     }
    ],
-   "gloss": "without letting go / persistently"
+   "gloss": "without leaving"
   },
   {
    "surface": "இடும்பைகள்",
@@ -36,7 +41,7 @@
      "gloss": "plural suffix"
     }
    ],
-   "gloss": "sufferings / miseries"
+   "gloss": "sufferings"
   },
   {
    "surface": "பற்றினை",
@@ -57,7 +62,7 @@
      "gloss": "accusative case marker"
     }
    ],
-   "gloss": "the attachment"
+   "gloss": "attachment"
   },
   {
    "surface": "பற்றி",
@@ -68,15 +73,20 @@
      "gloss": "having grasped"
     }
    ],
-   "gloss": "holding on to"
+   "gloss": "clinging to"
   },
   {
    "surface": "விடாஅதவர்க்கு",
    "parts": [
     {
-     "text": "விடாஅ",
+     "text": "விடா",
      "lemma": "விடு",
      "gloss": "not letting go"
+    },
+    {
+     "text": "அ",
+     "lemma": "அ",
+     "gloss": "measure-lengthening"
     },
     {
      "text": "தவர்",
@@ -85,17 +95,17 @@
     },
     {
      "text": "க்கு",
-     "lemma": "க்கு",
-     "gloss": "to (dative)"
+     "lemma": "கு",
+     "gloss": "to"
     }
    ],
    "gloss": "to those who do not let go"
   }
  ],
- "literal": "Grasping and not leaving, miseries [will grasp] those who, grasping attachment, do not let go.",
- "translation": "Sufferings will cling to and never let go of those who hold fast to their attachments and refuse to renounce them.",
- "modern": "பற்றுகளைப் பிடித்துக்கொண்டு அவற்றை விடாதவர்களை, துன்பங்கள் விடாமல் பற்றிக்கொள்ளும்.",
- "explanation": "This couplet uses a powerful wordplay on 'grasping' (பற்று) to illustrate the law of cause and effect in attachment. Just as a person holds onto worldly desires and refuses to let them go, sufferings will likewise grasp that person and refuse to leave. The repetition of 'பற்றி விடாஅ' (grasping and not letting go) for both the seeker's attachment and the resulting misery emphasizes that our pain is a direct mirror of our clinging. True liberation from sorrow is achieved only when we voluntarily release our grip on these attachments.",
+ "literal": "Clinging, do not leave, sufferings, attachment, clinging, to those who do not let go.",
+ "translation": "Sufferings will cling to and never leave those who do not let go of their attachments.",
+ "modern": "பற்றுகளைப் பற்றிக்கொண்டு அவற்றை விடாதவர்களை, துன்பங்கள் பற்றிக்கொண்டு விடவே மாட்டா.",
+ "explanation": "This couplet highlights the inescapable cycle of desire and suffering. The poet uses the word 'பற்று' (grasp or attachment) in a dual sense: the mental grip we hold on worldly desires, and the grip that misery holds on us. Sufferings are personified as relentless forces that actively cling to and refuse to release those who refuse to let go of their own attachments. The only way to be freed from the grip of sorrow is to first release our own grasp on worldly things.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

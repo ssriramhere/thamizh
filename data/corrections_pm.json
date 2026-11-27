@@ -18,6 +18,46 @@
    "addressed_ta": "சோழன் குராப்பள்ளித் துஞ்சிய பெருந் திருமா வளவனும் பாண்டியன் வெள்ளியம் பலத்துத் துஞ்சிய பெரு வழுதியும்",
    "why": "the names run onto a second line in the etext",
    "status": "checked"
+  },
+  "84": {
+   "replace": [
+    [
+     "என் ஜ் போர்க்களம்",
+     "என்னை போர்க்களம்"
+    ]
+   ],
+   "why": "garbled என்னை in the etext",
+   "status": "proposed"
+  },
+  "209": {
+   "replace": [
+    [
+     "மகிழ்இரு க்கையே",
+     "மகிழ்இருக்கையே"
+    ]
+   ],
+   "why": "stray space in மகிழ்இருக்கையே",
+   "status": "proposed"
+  },
+  "269": {
+   "replace": [
+    [
+     "க்ரூஉப்பருந்து",
+     "குரூஉப்பருந்து"
+    ]
+   ],
+   "why": "க்ரூஉ for குரூஉ (Avvai Turaicāmi Piḷḷai's edition: குரூஉப்பருந்து)",
+   "status": "proposed"
+  },
+  "361": {
+   "replace": [
+    [
+     "ப்ஃறேர்",
+     "பஃறேர்"
+    ]
+   ],
+   "why": "extra pulli in பஃறேர்",
+   "status": "proposed"
   }
  }
 }

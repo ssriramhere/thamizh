@@ -273,7 +273,8 @@
     if (s.moved) notes.push('The meter places ' + s.moved + ' foot boundar' + (s.moved === 1 ? 'y' : 'ies') + ' differently from the printed word breaks.');
     if (k.source && k.source.chosen_by && k.source.chosen_by !== 'majority') {
       notes.push(k.source.chosen_by.indexOf('correction') === 0
-        ? 'The digital sources share a typo in this couplet; the reading shown is a correction that scans, pending a check against a printed edition.'
+        ? 'The digital sources share a typo in this couplet; the reading shown is corrected' +
+          (k.source.chosen_by.indexOf('checked') > 0 ? '.' : ', pending a check against a printed edition.')
         : 'The digital sources disagree on this couplet; the reading shown is the one that scans.');
     }
     document.getElementById('joins').innerHTML = notes.join('<br>');

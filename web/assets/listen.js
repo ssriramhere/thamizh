@@ -71,8 +71,8 @@
     let i = -1;
     el.classList.add('light');
     el.style.cssText = 'display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center';
-    el.innerHTML = '<button type="button" class="btn" id="playall">' + PLAY + ' <span>Play all ' + ns.length + '</span></button>';
-    const btn = el.querySelector('#playall');
+    el.innerHTML = '<button type="button" class="btn" data-playall>' + PLAY + ' <span>Play all ' + ns.length + '</span></button>';
+    const btn = el.querySelector('[data-playall]');
     el.appendChild(voiceSwitch(() => { if (i >= 0 && !audio.paused) { audio.src = url(ns[i]); audio.play(); } }));
     const go = (k) => {
       i = k;
