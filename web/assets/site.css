@@ -307,3 +307,15 @@ section.block { padding: 56px 0; }
 .crow { display: flex; align-items: center; gap: 10px; }
 .crow .g { font-family: var(--ta); font-size: 34px; font-weight: 700; width: 52px; }
 .crow .w { font-family: var(--ta-ui); font-size: 18px; margin-left: auto; }
+
+/* consonant + vowel grid */
+.gpanel { display: flex; align-items: center; gap: 28px; flex-wrap: wrap; }
+.gbig { font-family: var(--ta); font-size: 84px; font-weight: 700; line-height: 1; min-width: 120px; text-align: center; }
+.gsum { font-family: var(--ta-ui); font-size: 24px; }
+.gwrap { overflow-x: auto; }
+.ugrid { border-collapse: separate; border-spacing: 4px; }
+.ugrid th { font-family: var(--ta); font-size: 18px; padding: 2px 6px; }
+.ugrid th .tr { display: block; font-family: Inter, sans-serif; font-size: 11px; color: var(--muted); font-weight: 400; }
+.ucell { width: 58px; height: 50px; border: 1px solid var(--line); border-radius: 8px; background: #fff; cursor: pointer; font-family: var(--ta); font-size: 20px; font-weight: 600; }
+.ucell:hover { border-color: var(--ink); }
+.ucell.playing { background: #E8C26A; border-color: #E8C26A; }
