@@ -48,6 +48,10 @@ def couplet(k: dict) -> dict:
         "source": {"chosen_by": k["chosen_by"], "agree": k["agree"], "of": k["of"]},
     }
     t = TIMINGS.get(str(k["n"]), {})
+    _ai = json.loads((AI / f"{k['n']}.json").read_text()) if (AI / f"{k['n']}.json").exists() else None
+    if _ai and _ai.get("words"):
+        from build_poems import gloss_sync
+        rec["sync"] = gloss_sync([" ".join(k["text"].split("\n"))], [{"words": _ai["words"]}])
     if t.get("male") or t.get("female"):
         rec["timing"] = {v: t[v] for v in ("male", "female") if t.get(v)}
     ai = AI / f"{k['n']}.json"
