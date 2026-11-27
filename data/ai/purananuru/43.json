@@ -22,17 +22,12 @@
      "surface": "வாழ்நர்",
      "parts": [
       {
-       "text": "வாழ்",
-       "lemma": "vāḻ",
-       "gloss": "live"
-      },
-      {
-       "text": "நர்",
-       "lemma": "nar",
-       "gloss": "they who"
+       "text": "வாழ்நர்",
+       "lemma": "vāḻnar",
+       "gloss": "dwellers"
       }
      ],
-     "gloss": "those who live"
+     "gloss": "dwellers"
     },
     {
      "surface": "அலமரல்",
@@ -46,40 +41,32 @@
      "gloss": "distress"
     },
     {
-     "surface": "தீர",
+     "surface": "தீரத்",
      "parts": [
       {
-       "text": "தீர்",
-       "lemma": "tīr",
-       "gloss": "end"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "to"
+       "text": "தீரத்",
+       "lemma": "தீரத்",
+       "gloss": "to end"
       }
      ],
-     "gloss": "to end"
+     "gloss": "to end",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தெறுகதிர்",
+     "surface": "தெறுகதிர்க்",
      "parts": [
       {
-       "text": "தெறு",
-       "lemma": "teṟu",
-       "gloss": "scorch"
-      },
-      {
-       "text": "கதிர்",
-       "lemma": "katir",
-       "gloss": "ray"
+       "text": "தெறுகதிர்க்",
+       "lemma": "தெறுகதிர்க்",
+       "gloss": "burning rays"
       }
      ],
-     "gloss": "scorching rays"
+     "gloss": "burning rays",
+     "split_unverified": true
     },
     {
      "surface": "கனலி",
@@ -104,51 +91,44 @@
      "gloss": "heat"
     },
     {
-     "surface": "தாங்கி",
+     "surface": "தாங்கிக்",
      "parts": [
       {
-       "text": "தாங்கு",
-       "lemma": "tāṅku",
-       "gloss": "bear"
-      },
-      {
-       "text": "இ",
-       "lemma": "i",
-       "gloss": "having"
+       "text": "தாங்கிக்",
+       "lemma": "தாங்கிக்",
+       "gloss": "bearing"
       }
      ],
-     "gloss": "having borne"
+     "gloss": "bearing",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கால்",
+     "surface": "கால்உண",
      "parts": [
       {
-       "text": "கால்",
-       "lemma": "kāl",
-       "gloss": "wind"
+       "text": "கால்உண",
+       "lemma": "கால்உண",
+       "gloss": "wind as food"
       }
      ],
-     "gloss": "wind"
+     "gloss": "wind as food",
+     "split_unverified": true
     },
     {
-     "surface": "உணவாக",
+     "surface": "வாகச்",
      "parts": [
       {
-       "text": "உணவு",
-       "lemma": "uṇavu",
-       "gloss": "food"
-      },
-      {
-       "text": "ஆக",
-       "lemma": "āka",
+       "text": "வாகச்",
+       "lemma": "வாகச்",
        "gloss": "as"
       }
      ],
-     "gloss": "as food"
+     "gloss": "as",
+     "split_unverified": true
     },
     {
      "surface": "சுடரொடு",
@@ -170,17 +150,12 @@
      "surface": "கொட்கும்",
      "parts": [
       {
-       "text": "கொள்",
-       "lemma": "koḷ",
-       "gloss": "whirl"
-      },
-      {
-       "text": "கும்",
-       "lemma": "kum",
-       "gloss": "which"
+       "text": "கொட்கும்",
+       "lemma": "koṭkum",
+       "gloss": "circling"
       }
      ],
-     "gloss": "which whirls"
+     "gloss": "circling"
     }
    ]
   },
@@ -216,59 +191,47 @@
        "gloss": "even"
       }
      ],
-     "gloss": "even the sages"
+     "gloss": "even sages"
     },
     {
-     "surface": "மருள",
+     "surface": "மருளக்",
      "parts": [
       {
-       "text": "மருள்",
-       "lemma": "maruḷ",
-       "gloss": "be amazed"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "to"
+       "text": "மருளக்",
+       "lemma": "மருளக்",
+       "gloss": "to be amazed"
       }
      ],
-     "gloss": "to be amazed"
+     "gloss": "to be amazed",
+     "split_unverified": true
     },
     {
-     "surface": "கொடுஞ்சிறை",
+     "surface": "கொடுஞ்சிறைக்",
      "parts": [
       {
-       "text": "கொடுமை",
-       "lemma": "koṭumai",
-       "gloss": "curved"
-      },
-      {
-       "text": "சிறை",
-       "lemma": "ciṟai",
-       "gloss": "wing"
+       "text": "கொடுஞ்சிறைக்",
+       "lemma": "கொடுஞ்சிறைக்",
+       "gloss": "curved wings"
       }
      ],
-     "gloss": "curved wing"
+     "gloss": "curved wings",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கூருகிர்",
+     "surface": "கூருகிர்ப்",
      "parts": [
       {
-       "text": "கூர்",
-       "lemma": "kūr",
-       "gloss": "sharp"
-      },
-      {
-       "text": "உகிர்",
-       "lemma": "ukir",
-       "gloss": "claw"
+       "text": "கூருகிர்ப்",
+       "lemma": "கூருகிர்ப்",
+       "gloss": "sharp claws"
       }
      ],
-     "gloss": "sharp claw"
+     "gloss": "sharp claws",
+     "split_unverified": true
     },
     {
      "surface": "பருந்தின்",
@@ -276,7 +239,7 @@
       {
        "text": "பருந்து",
        "lemma": "paruntu",
-       "gloss": "kite"
+       "gloss": "hawk"
       },
       {
        "text": "இன்",
@@ -284,34 +247,30 @@
        "gloss": "of"
       }
      ],
-     "gloss": "of the kite"
+     "gloss": "of the hawk"
     },
     {
-     "surface": "ஏறுகுறித்து",
+     "surface": "ஏறுகுறித்",
      "parts": [
       {
-       "text": "ஏறு",
-       "lemma": "ēṟu",
-       "gloss": "pounce"
-      },
-      {
-       "text": "குறித்து",
-       "lemma": "kuṟittu",
-       "gloss": "aiming at"
+       "text": "ஏறுகுறித்",
+       "lemma": "ஏறுகுறித்",
+       "gloss": "aiming to pounce"
       }
      ],
-     "gloss": "aiming to pounce"
+     "gloss": "aiming to pounce",
+     "split_unverified": true
     },
     {
-     "surface": "ஒரீஇ",
+     "surface": "தொரீஇத்",
      "parts": [
       {
-       "text": "ஒரீஇ",
-       "lemma": "ஒரீஇ",
-       "gloss": "having escaped"
+       "text": "தொரீஇத்",
+       "lemma": "தொரீஇத்",
+       "gloss": "escaping"
       }
      ],
-     "gloss": "having escaped",
+     "gloss": "escaping",
      "split_unverified": true
     }
    ]
@@ -329,54 +288,49 @@
       {
        "text": "அகம்",
        "lemma": "akam",
-       "gloss": "inside"
+       "gloss": "refuge"
       }
      ],
-     "gloss": "his inside"
+     "gloss": "his refuge"
     },
     {
      "surface": "புக்க",
      "parts": [
       {
-       "text": "புக்கு",
-       "lemma": "pukku",
-       "gloss": "enter"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "which"
+       "text": "புக்க",
+       "lemma": "pukka",
+       "gloss": "entered"
       }
      ],
-     "gloss": "which entered"
+     "gloss": "entered"
     },
     {
-     "surface": "குறுநடை",
+     "surface": "குறுநடைப்",
      "parts": [
       {
-       "text": "குறு",
-       "lemma": "kuṟu",
-       "gloss": "short"
-      },
-      {
-       "text": "நடை",
-       "lemma": "naṭai",
-       "gloss": "gait"
+       "text": "குறுநடைப்",
+       "lemma": "குறுநடைப்",
+       "gloss": "short-gaited"
       }
      ],
-     "gloss": "short-gaited"
+     "gloss": "short-gaited",
+     "split_unverified": true
     },
     {
      "surface": "புறவின்",
      "parts": [
       {
-       "text": "புறவின்",
-       "lemma": "புறவின்",
-       "gloss": "of the dove"
+       "text": "புறவு",
+       "lemma": "puṟavu",
+       "gloss": "dove"
+      },
+      {
+       "text": "இன்",
+       "lemma": "iṉ",
+       "gloss": "of"
       }
      ],
-     "gloss": "of the dove",
-     "split_unverified": true
+     "gloss": "of the dove"
     }
    ]
   },
@@ -394,20 +348,16 @@
      "gloss": "death"
     },
     {
-     "surface": "அஞ்சி",
+     "surface": "யஞ்சிச்",
      "parts": [
       {
-       "text": "அஞ்சு",
-       "lemma": "añcu",
-       "gloss": "fear"
-      },
-      {
-       "text": "இ",
-       "lemma": "i",
-       "gloss": "having"
+       "text": "யஞ்சிச்",
+       "lemma": "யஞ்சிச்",
+       "gloss": "fearing"
       }
      ],
-     "gloss": "fearing"
+     "gloss": "fearing",
+     "split_unverified": true
     },
     {
      "surface": "சீரை",
@@ -418,23 +368,18 @@
        "gloss": "scale"
       }
      ],
-     "gloss": "scale"
+     "gloss": "the scale"
     },
     {
      "surface": "புக்க",
      "parts": [
       {
-       "text": "புக்கு",
-       "lemma": "pukku",
-       "gloss": "enter"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "who"
+       "text": "புக்க",
+       "lemma": "pukka",
+       "gloss": "entered"
       }
      ],
-     "gloss": "who entered"
+     "gloss": "entered"
     }
    ]
   },
@@ -444,17 +389,12 @@
      "surface": "வரையா",
      "parts": [
       {
-       "text": "வரை",
-       "lemma": "varai",
-       "gloss": "limit"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ā",
-       "gloss": "without"
+       "text": "வரையா",
+       "lemma": "varaiyā",
+       "gloss": "unlimited"
       }
      ],
-     "gloss": "limitless"
+     "gloss": "unlimited"
     },
     {
      "surface": "ஈகை",
@@ -472,56 +412,49 @@
      "parts": [
       {
        "text": "உரவோன்",
-       "lemma": "உரவோன்",
-       "gloss": "strong one"
+       "lemma": "uravōṉ",
+       "gloss": "noble one"
       }
      ],
-     "gloss": "strong one",
-     "split_unverified": true
+     "gloss": "the noble one"
     },
     {
      "surface": "மருக",
      "parts": [
       {
        "text": "மருக",
-       "lemma": "மருக",
-       "gloss": "O descendant"
+       "lemma": "maruka",
+       "gloss": "descendant"
       }
      ],
-     "gloss": "O descendant",
-     "split_unverified": true
+     "gloss": "O descendant!"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நேரார்",
+     "surface": "நேரார்க்",
      "parts": [
       {
-       "text": "நேர்",
-       "lemma": "nēr",
-       "gloss": "foe"
-      },
-      {
-       "text": "ஆர்",
-       "lemma": "ār",
-       "gloss": "they who do not"
+       "text": "நேரார்க்",
+       "lemma": "நேரார்க்",
+       "gloss": "enemies"
       }
      ],
-     "gloss": "foes"
+     "gloss": "enemies",
+     "split_unverified": true
     },
     {
      "surface": "கடந்த",
      "parts": [
       {
        "text": "கடந்த",
-       "lemma": "கடந்த",
-       "gloss": "who conquered"
+       "lemma": "kaṭanta",
+       "gloss": "conquered"
       }
      ],
-     "gloss": "who conquered",
-     "split_unverified": true
+     "gloss": "who conquered"
     },
     {
      "surface": "முரண்மிகு",
@@ -545,7 +478,7 @@
       {
        "text": "திரு",
        "lemma": "tiru",
-       "gloss": "wealth"
+       "gloss": "glory"
       },
       {
        "text": "இன்",
@@ -553,34 +486,27 @@
        "gloss": "of"
       }
      ],
-     "gloss": "of wealth"
+     "gloss": "of glory"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தேர்",
+     "surface": "தேர்வண்",
      "parts": [
       {
        "text": "தேர்",
        "lemma": "tēr",
        "gloss": "chariot"
-      }
-     ],
-     "gloss": "chariot"
-    },
-    {
-     "surface": "வண்",
-     "parts": [
+      },
       {
        "text": "வண்",
-       "lemma": "வண்",
+       "lemma": "vaṇ",
        "gloss": "generous"
       }
      ],
-     "gloss": "generous",
-     "split_unverified": true
+     "gloss": "generous with chariots"
     },
     {
      "surface": "கிள்ளி",
@@ -588,10 +514,10 @@
       {
        "text": "கிள்ளி",
        "lemma": "kiḷḷi",
-       "gloss": "Kiḷḷi"
+       "gloss": "Killi"
       }
      ],
-     "gloss": "Kiḷḷi"
+     "gloss": "Killi"
     },
     {
      "surface": "தம்பி",
@@ -621,10 +547,10 @@
       {
        "text": "கோல்",
        "lemma": "kōl",
-       "gloss": "arrow"
+       "gloss": "scepter"
       }
      ],
-     "gloss": "arrow"
+     "gloss": "scepter"
     }
    ]
   },
@@ -658,12 +584,11 @@
      "parts": [
       {
        "text": "பெரும",
-       "lemma": "பெரும",
-       "gloss": "O great lord"
+       "lemma": "peruma",
+       "gloss": "lord"
       }
      ],
-     "gloss": "O great lord",
-     "split_unverified": true
+     "gloss": "O lord!"
     },
     {
      "surface": "கடுமான்",
@@ -689,13 +614,17 @@
      "surface": "கைவண்",
      "parts": [
       {
-       "text": "கைவண்",
-       "lemma": "கைவண்",
-       "gloss": "generous-handed"
+       "text": "கை",
+       "lemma": "kai",
+       "gloss": "hand"
+      },
+      {
+       "text": "வண்",
+       "lemma": "vaṇ",
+       "gloss": "generous"
       }
      ],
-     "gloss": "generous-handed",
-     "split_unverified": true
+     "gloss": "generous-handed"
     },
     {
      "surface": "தோன்றல்",
@@ -703,10 +632,10 @@
       {
        "text": "தோன்றல்",
        "lemma": "tōṉṟal",
-       "gloss": "lord"
+       "gloss": "noble lord"
       }
      ],
-     "gloss": "lord"
+     "gloss": "O noble lord!"
     },
     {
      "surface": "ஐயம்",
@@ -723,17 +652,12 @@
      "surface": "உடையேன்",
      "parts": [
       {
-       "text": "உடை",
-       "lemma": "uṭai",
-       "gloss": "possess"
-      },
-      {
-       "text": "ஏன்",
-       "lemma": "ēṉ",
-       "gloss": "I"
+       "text": "உடையேன்",
+       "lemma": "uṭaiyēṉ",
+       "gloss": "I have"
       }
      ],
-     "gloss": "I have"
+     "gloss": "I had"
     }
    ]
   },
@@ -743,52 +667,57 @@
      "surface": "ஆர்புனை",
      "parts": [
       {
-       "text": "ஆர்புனை",
-       "lemma": "ஆர்புனை",
-       "gloss": ""
+       "text": "ஆர்",
+       "lemma": "ār",
+       "gloss": "Bauhinia flower"
+      },
+      {
+       "text": "புனை",
+       "lemma": "puṉai",
+       "gloss": "wearing"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "wearing Bauhinia flowers"
     },
     {
      "surface": "தெரியல்நின்",
      "parts": [
       {
-       "text": "தெரியல்நின்",
-       "lemma": "தெரியல்நின்",
-       "gloss": ""
+       "text": "தெரியல்",
+       "lemma": "teriyal",
+       "gloss": "garland"
+      },
+      {
+       "text": "நின்",
+       "lemma": "niṉ",
+       "gloss": "your"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "your garland"
     },
     {
      "surface": "முன்னோர்",
      "parts": [
       {
        "text": "முன்னோர்",
-       "lemma": "முன்னோர்",
-       "gloss": ""
+       "lemma": "muṉṉōr",
+       "gloss": "ancestors"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "ancestors"
     },
     {
      "surface": "எல்லாம்",
      "parts": [
       {
        "text": "எல்லாம்",
-       "lemma": "எல்லாம்",
-       "gloss": ""
+       "lemma": "ellām",
+       "gloss": "all"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "all"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -798,23 +727,18 @@
       {
        "text": "பார்ப்பார்",
        "lemma": "pārppār",
-       "gloss": "Brahmins"
+       "gloss": "scholars"
       }
      ],
-     "gloss": "Brahmins"
+     "gloss": "scholars"
     },
     {
      "surface": "நோவன",
      "parts": [
       {
-       "text": "நோவு",
-       "lemma": "nōvu",
-       "gloss": "pain"
-      },
-      {
-       "text": "அன",
-       "lemma": "aṉa",
-       "gloss": "things that cause"
+       "text": "நோவன",
+       "lemma": "nōvaṉa",
+       "gloss": "painful things"
       }
      ],
      "gloss": "painful things"
@@ -823,39 +747,28 @@
      "surface": "செய்யலர்",
      "parts": [
       {
-       "text": "செய்",
-       "lemma": "cey",
-       "gloss": "do"
-      },
-      {
-       "text": "அலர்",
-       "lemma": "alar",
-       "gloss": "they do not"
+       "text": "செய்யலர்",
+       "lemma": "ceyyalar",
+       "gloss": "they will not do"
       }
      ],
-     "gloss": "they do not do"
+     "gloss": "they will not do"
     },
     {
-     "surface": "மற்று",
+     "surface": "மற்றுஇது",
      "parts": [
       {
        "text": "மற்று",
        "lemma": "maṟṟu",
-       "gloss": "and"
-      }
-     ],
-     "gloss": "and"
-    },
-    {
-     "surface": "இது",
-     "parts": [
+       "gloss": "but"
+      },
       {
        "text": "இது",
        "lemma": "itu",
        "gloss": "this"
       }
      ],
-     "gloss": "this"
+     "gloss": "but this"
     }
    ]
   },
@@ -867,7 +780,7 @@
       {
        "text": "நீர்த்து",
        "lemma": "nīrttu",
-       "gloss": "proper nature"
+       "gloss": "proper conduct"
       },
       {
        "text": "ஓ",
@@ -875,7 +788,7 @@
        "gloss": "is it"
       }
      ],
-     "gloss": "is it proper?"
+     "gloss": "is it proper conduct?"
     },
     {
      "surface": "நினக்கு",
@@ -892,46 +805,32 @@
      "surface": "என",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "eṉ",
-       "gloss": "saying"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "to"
+       "text": "என",
+       "lemma": "eṉa",
+       "gloss": "thus"
       }
      ],
-     "gloss": "saying"
+     "gloss": "thus"
     },
     {
-     "surface": "வெறுப்ப",
+     "surface": "வெறுப்பக்",
      "parts": [
       {
-       "text": "வெறுப்பு",
-       "lemma": "veṟuppu",
-       "gloss": "displeasure"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "with"
+       "text": "வெறுப்பக்",
+       "lemma": "வெறுப்பக்",
+       "gloss": "with anger"
       }
      ],
-     "gloss": "with displeasure"
+     "gloss": "with anger",
+     "split_unverified": true
     },
     {
      "surface": "கூறி",
      "parts": [
       {
-       "text": "கூறு",
-       "lemma": "kūṟu",
-       "gloss": "speak"
-      },
-      {
-       "text": "இ",
-       "lemma": "i",
-       "gloss": "having"
+       "text": "கூறி",
+       "lemma": "kūṟi",
+       "gloss": "having spoken"
       }
      ],
      "gloss": "having spoken"
@@ -941,245 +840,145 @@
   {
    "words": [
     {
-     "surface": "நின்",
+     "surface": "நின்யான்",
      "parts": [
       {
        "text": "நின்",
        "lemma": "niṉ",
        "gloss": "you"
-      }
-     ],
-     "gloss": "you"
-    },
-    {
-     "surface": "யான்",
-     "parts": [
+      },
       {
        "text": "யான்",
        "lemma": "yāṉ",
        "gloss": "I"
       }
      ],
-     "gloss": "I"
+     "gloss": "you I"
     },
     {
      "surface": "பிழைத்தது",
      "parts": [
       {
-       "text": "பிழை",
-       "lemma": "piḻai",
-       "gloss": "offend"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "அது",
-       "lemma": "atu",
-       "gloss": "that which"
+       "text": "பிழைத்தது",
+       "lemma": "piḻaittatu",
+       "gloss": "wronged"
       }
      ],
-     "gloss": "the offense"
+     "gloss": "wronged"
     },
     {
      "surface": "நோவாய்",
      "parts": [
       {
-       "text": "நோ",
-       "lemma": "nō",
-       "gloss": "grieve"
-      },
-      {
-       "text": "வ்",
-       "lemma": "v",
-       "gloss": "glide"
-      },
-      {
-       "text": "ஆய்",
-       "lemma": "āy",
-       "gloss": "you do not"
+       "text": "நோவாய்",
+       "lemma": "nōvāy",
+       "gloss": "you did not feel hurt"
       }
      ],
-     "gloss": "you do not grieve"
+     "gloss": "you did not feel hurt"
     },
     {
      "surface": "என்னினும்",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "eṉ",
-       "gloss": "even if"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "if"
-      },
-      {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "even"
+       "text": "என்னினும்",
+       "lemma": "eṉṉiṉum",
+       "gloss": "even though"
       }
      ],
-     "gloss": "even if"
+     "gloss": "even though"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நீ",
+     "surface": "நீபிழைத்",
      "parts": [
       {
-       "text": "நீ",
-       "lemma": "nī",
-       "gloss": "you"
+       "text": "நீபிழைத்",
+       "lemma": "நீபிழைத்",
+       "gloss": "you erred"
       }
      ],
-     "gloss": "you"
+     "gloss": "you erred",
+     "split_unverified": true
     },
     {
-     "surface": "பிழைத்தாய்",
+     "surface": "தாய்போல்",
      "parts": [
       {
-       "text": "பிழை",
-       "lemma": "piḻai",
-       "gloss": "err"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "ஆய்",
-       "lemma": "āy",
-       "gloss": "you"
-      }
-     ],
-     "gloss": "you erred"
-    },
-    {
-     "surface": "போல்",
-     "parts": [
-      {
-       "text": "போல்",
-       "lemma": "pōl",
+       "text": "தாய்போல்",
+       "lemma": "தாய்போல்",
        "gloss": "like"
       }
      ],
-     "gloss": "like"
+     "gloss": "like",
+     "split_unverified": true
     },
     {
-     "surface": "நனி",
+     "surface": "நனிநா",
      "parts": [
       {
-       "text": "நனி",
-       "lemma": "naṉi",
+       "text": "நனிநா",
+       "lemma": "நனிநா",
        "gloss": "greatly"
       }
      ],
-     "gloss": "greatly"
+     "gloss": "greatly",
+     "split_unverified": true
     },
     {
-     "surface": "நாணினையே",
+     "surface": "ணினையே",
      "parts": [
       {
-       "text": "நாணு",
-       "lemma": "nāṇu",
-       "gloss": "feel ashamed"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "past"
-      },
-      {
-       "text": "ஐ",
-       "lemma": "ai",
-       "gloss": "you"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "indeed"
+       "text": "ணினையே",
+       "lemma": "ணினையே",
+       "gloss": "you felt ashamed"
       }
      ],
-     "gloss": "you felt ashamed indeed"
+     "gloss": "you felt ashamed",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தம்மை",
+     "surface": "தம்மைப்",
      "parts": [
       {
-       "text": "தம்",
-       "lemma": "tam",
+       "text": "தம்மைப்",
+       "lemma": "தம்மைப்",
        "gloss": "themselves"
-      },
-      {
-       "text": "ஐ",
-       "lemma": "ai",
-       "gloss": "accusative"
       }
      ],
-     "gloss": "themselves"
+     "gloss": "themselves",
+     "split_unverified": true
     },
     {
-     "surface": "பிழைத்தோர்",
+     "surface": "பிழைத்தோர்ப்",
      "parts": [
       {
-       "text": "பிழை",
-       "lemma": "piḻai",
-       "gloss": "wrong"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "ஓர்",
-       "lemma": "ōr",
-       "gloss": "those who"
+       "text": "பிழைத்தோர்ப்",
+       "lemma": "பிழைத்தோர்ப்",
+       "gloss": "those who wronged"
       }
      ],
-     "gloss": "those who wronged"
+     "gloss": "those who wronged",
+     "split_unverified": true
     },
     {
-     "surface": "பொறுக்கும்",
+     "surface": "பொறுக்குஞ்",
      "parts": [
       {
-       "text": "பொறு",
-       "lemma": "poṟu",
-       "gloss": "forgive"
-      },
-      {
-       "text": "கும்",
-       "lemma": "kum",
-       "gloss": "who"
+       "text": "பொறுக்குஞ்",
+       "lemma": "பொறுக்குஞ்",
+       "gloss": "forgiving"
       }
      ],
-     "gloss": "who forgive"
+     "gloss": "forgiving",
+     "split_unverified": true
     },
     {
      "surface": "செம்மல்",
@@ -1190,7 +989,7 @@
        "gloss": "greatness"
       }
      ],
-     "gloss": "lordly quality"
+     "gloss": "greatness"
     }
    ]
   },
@@ -1202,10 +1001,10 @@
       {
        "text": "இக்குடிப்",
        "lemma": "இக்குடிப்",
-       "gloss": ""
+       "gloss": "this lineage"
       }
      ],
-     "gloss": "",
+     "gloss": "this lineage",
      "split_unverified": true
     },
     {
@@ -1214,10 +1013,10 @@
       {
        "text": "பிறந்தோர்க்",
        "lemma": "பிறந்தோர்க்",
-       "gloss": ""
+       "gloss": "to those born"
       }
      ],
-     "gloss": "",
+     "gloss": "to those born",
      "split_unverified": true
     },
     {
@@ -1226,10 +1025,10 @@
       {
        "text": "கெண்மை",
        "lemma": "கெண்மை",
-       "gloss": ""
+       "gloss": "easy quality"
       }
      ],
-     "gloss": "",
+     "gloss": "easy quality",
      "split_unverified": true
     },
     {
@@ -1237,12 +1036,11 @@
      "parts": [
       {
        "text": "காணும்",
-       "lemma": "காணும்",
-       "gloss": ""
+       "lemma": "kāṇum",
+       "gloss": "is seen"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "is seen"
     },
     {
      "surface": "எனக்",
@@ -1250,14 +1048,13 @@
       {
        "text": "எனக்",
        "lemma": "எனக்",
-       "gloss": ""
+       "gloss": "thus"
       }
      ],
-     "gloss": "",
+     "gloss": "thus",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1267,7 +1064,7 @@
       {
        "text": "காண்",
        "lemma": "kāṇ",
-       "gloss": "see"
+       "gloss": "to see"
       },
       {
        "text": "தகு",
@@ -1275,41 +1072,26 @@
        "gloss": "worthy"
       }
      ],
-     "gloss": "worthy to be seen"
+     "gloss": "worthy to see"
     },
     {
      "surface": "மொய்ம்ப",
      "parts": [
       {
-       "text": "மொய்ம்பு",
-       "lemma": "moympu",
-       "gloss": "strength"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "O"
+       "text": "மொய்ம்ப",
+       "lemma": "moympa",
+       "gloss": "O strong-shouldered one"
       }
      ],
-     "gloss": "O strong one"
+     "gloss": "O strong-shouldered one!"
     },
     {
      "surface": "காட்டினை",
      "parts": [
       {
-       "text": "காட்டு",
-       "lemma": "kāṭṭu",
-       "gloss": "show"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "past"
-      },
-      {
-       "text": "ஐ",
-       "lemma": "ai",
-       "gloss": "you"
+       "text": "காட்டினை",
+       "lemma": "kāṭṭiṉai",
+       "gloss": "you showed"
       }
      ],
      "gloss": "you showed"
@@ -1318,19 +1100,9 @@
      "surface": "ஆகலின்",
      "parts": [
       {
-       "text": "ஆகு",
-       "lemma": "āku",
-       "gloss": "become"
-      },
-      {
-       "text": "அல்",
-       "lemma": "al",
-       "gloss": "verbal noun"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "because"
+       "text": "ஆகலின்",
+       "lemma": "ākaliṉ",
+       "gloss": "therefore"
       }
      ],
      "gloss": "therefore"
@@ -1359,59 +1131,28 @@
      "surface": "பிழைத்தனென்",
      "parts": [
       {
-       "text": "பிழை",
-       "lemma": "piḻai",
-       "gloss": "err"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past"
-      },
-      {
-       "text": "அன்",
-       "lemma": "aṉ",
-       "gloss": "inflectional increment"
-      },
-      {
-       "text": "என்",
-       "lemma": "eṉ",
-       "gloss": "I"
+       "text": "பிழைத்தனென்",
+       "lemma": "piḻaittaṉeṉ",
+       "gloss": "I erred"
       }
      ],
      "gloss": "I erred"
     },
     {
-     "surface": "சிறக்க",
+     "surface": "சிறக்கநின்",
      "parts": [
       {
-       "text": "சிற",
-       "lemma": "ciṟa",
-       "gloss": "flourish"
+       "text": "சிறக்க",
+       "lemma": "ciṟakka",
+       "gloss": "may it flourish"
       },
-      {
-       "text": "க்க",
-       "lemma": "kka",
-       "gloss": "may"
-      }
-     ],
-     "gloss": "may flourish"
-    },
-    {
-     "surface": "நின்",
-     "parts": [
       {
        "text": "நின்",
        "lemma": "niṉ",
        "gloss": "your"
       }
      ],
-     "gloss": "your"
+     "gloss": "may your flourish"
     },
     {
      "surface": "ஆயுள்",
@@ -1429,39 +1170,27 @@
   {
    "words": [
     {
-     "surface": "மிக்கு",
+     "surface": "மிக்குவரும்",
      "parts": [
       {
        "text": "மிக்கு",
-       "lemma": "மிக்கு",
+       "lemma": "mikku",
        "gloss": "overflowing"
-      }
-     ],
-     "gloss": "overflowing",
-     "split_unverified": true
-    },
-    {
-     "surface": "வரும்",
-     "parts": [
-      {
-       "text": "வரு",
-       "lemma": "varu",
-       "gloss": "come"
       },
       {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "which"
+       "text": "வரும்",
+       "lemma": "varum",
+       "gloss": "coming"
       }
      ],
-     "gloss": "which comes"
+     "gloss": "overflowing and coming"
     },
     {
-     "surface": "இன்னீர்",
+     "surface": "இன்னீர்க்",
      "parts": [
       {
-       "text": "இன்னீர்",
-       "lemma": "இன்னீர்",
+       "text": "இன்னீர்க்",
+       "lemma": "இன்னீர்க்",
        "gloss": "sweet water"
       }
      ],
@@ -1474,7 +1203,7 @@
       {
        "text": "காவிரி",
        "lemma": "kāviri",
-       "gloss": "Kaveri river"
+       "gloss": "Kaveri"
       }
      ],
      "gloss": "Kaveri"
@@ -1499,12 +1228,11 @@
      "parts": [
       {
        "text": "இட்ட",
-       "lemma": "இட்ட",
+       "lemma": "iṭṭa",
        "gloss": "deposited"
       }
      ],
-     "gloss": "deposited",
-     "split_unverified": true
+     "gloss": "deposited"
     },
     {
      "surface": "மணலினும்",
@@ -1515,17 +1243,12 @@
        "gloss": "sand"
       },
       {
-       "text": "இன்",
-       "lemma": "iṉ",
+       "text": "இனும்",
+       "lemma": "iṉum",
        "gloss": "than"
-      },
-      {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "even"
       }
      ],
-     "gloss": "even more than the sand"
+     "gloss": "than the sand"
     },
     {
      "surface": "பலவே",
@@ -1541,15 +1264,15 @@
        "gloss": "indeed"
       }
      ],
-     "gloss": "indeed many"
+     "gloss": "many indeed"
     }
    ]
   }
  ],
- "literal": "To end the distress of those who live upon the earth, / bearing the heat of the sun with scorching rays, / with wind as food, whirling with the sun, / even the sages with shining matted hair are amazed, escaping the pounce aimed by the kite of curved wings / and sharp claws, entering inside him, the dove of short gait, / fearing death, entered the scale, / O descendant of the strong one of limitless generosity! / O younger brother of Kiḷḷi of generous chariots, who conquered foes with abundant strength of wealth, / O lord of warriors with curved bows and long arrows, O generous-handed lord of swift horses! I have a doubt. / All your ancestors who wore garlands of Bauhinia / did not do things that cause pain to Brahmins. And this, / 'Is it proper for you?' saying with displeasure, / even if you do not grieve at the offense I committed against you, / you felt ashamed indeed as if you erred! / To forgive those who wronged them is the lordly quality / of those born in this lineage, seeing their simplicity, / O strong one worthy to be seen, you showed it. Therefore, / I indeed erred. May your life span flourish / more than the sand deposited on the sand dunes / by the Kaveri of sweet water that comes overflowing!",
- "translation": "O descendant of Sibi, the strong king of limitless generosity, who entered the scales to save a short-gaited dove that fled in fear of death from a sharp-clawed, curved-winged kite—an act of sacrifice that amazed even the sages of shining matted hair who live on wind and whirl with the sun, bearing its scorching heat to relieve the distress of earthly beings! O younger brother of Kiḷḷi, the lord of generous chariots who conquered foes with great strength! O lord of warriors with curved bows and long arrows, O generous patron of swift horses! I had a doubt. All your ancestors who wore Bauhinia garlands never did anything to hurt Brahmins. Yet, when I spoke to you with displeasure, asking, 'Is this proper of you?', you did not get angry at my offense; instead, you felt deeply ashamed as if you yourself had erred! You have shown the noble strength of your lineage, which easily forgives those who wrong them. Therefore, it is I who erred. May your life flourish for more years than the sands piled on the dunes by the sweet, overflowing waters of the Kaveri!",
- "modern": "பூமியில் வாழ்பவர்களின் துன்பத்தைப் போக்க, சுட்டெரிக்கும் கதிர்களைக் கொண்ட சூரியனின் வெப்பத்தைத் தாங்கி, காற்றையே உணவாகக் கொண்டு, சூரியனுடன் சுழலும் ஒளிரும் சடைமுடி முனிவர்களும் வியக்கும்படி, வளைந்த சிறகுகளையும் கூர்மையான நகங்களையும் கொண்ட பருந்தின் பிடியிலிருந்து தப்பித்து, தன் மார்பில் அடைக்கலம் புகுந்த, மெல்ல நடக்கும் புறாவின் மரண பயத்தைப் போக்கத் தராசுத் தட்டில் ஏறிய எல்லையற்ற கொடையாளி சிபியின் வழித்தோன்றலே! பகைவர்களை வென்ற வலிமைமிக்க தேர்களை உடைய கிள்ளியின் தம்பியே! வளைந்த வில்லையும் நீண்ட அம்புகளையும் உடைய வீரர்களின் தலைவனே! வேகமான குதிரைகளை உடைய கொடைவள்ளலே! எனக்கு ஒரு சந்தேகம் இருந்தது. ஆத்தி மாலை அணிந்த உன்னுடைய முன்னோர்கள் அனைவரும் அந்தணர்கள் வருந்தும் படியான காரியங்களைச் செய்ததில்லை. ஆனால், நான் உன்னிடம் கோபத்துடன் 'இது உனக்குத் தகுமா?' என்று வெறுப்புடன் கூறியபோது, நான் செய்த பிழையை நீ பொருட்படுத்தாமல், நீயே தவறு செய்தது போல மிகவும் வெட்கப்பட்டாய்! தங்களுக்குத் தீங்கு செய்தவர்களையும் பொறுத்துக் கொள்ளும் பெருந்தன்மை இந்த வம்சத்தில் பிறந்தவர்களுக்கு மிக எளிதாக வரும் என்பதை உனது வலிமையால் காட்டினாய். அதனால், நானே தவறு செய்தேன். பெருகி வரும் இனிய நீரைக் கொண்ட காவிரி ஆறு குவித்து வைக்கும் மணல் துகள்களை விடப் பல ஆண்டுகள் உனது ஆயுள் சிறந்து விளங்குவதாக!",
- "explanation": "This poem is addressed to Māvaḷattāṉ, the younger brother of the Chola king Nalaṅkiḷḷi, by the poet Tāmappal Kaṇṇaṉār. The poet had previously spoken harshly to the prince during a game of dice, accusing him of acting unfairly, which was considered an offense. Instead of reacting with anger, the prince felt deeply ashamed, as if he himself had committed a mistake. Realizing his own error in misjudging the prince, the poet praises Māvaḷattāṉ's noble lineage, tracing it back to the legendary King Sibi (who sacrificed his own flesh to save a dove). The poet highlights how the quality of forgiving those who wrong them is inherent in this Chola lineage. He concludes by wishing the prince a long life, lasting more years than the sands deposited by the fertile Kaveri river.",
+ "literal": "To end the distress of the dwellers upon the earth, / bearing the heat of the burning-rayed sun, / with wind as food, circling with the sun, / so that even the sages with shining matted hair are amazed, escaping the pounce aimed by the curved-winged / sharp-clawed hawk, / entering his refuge, the short-gaited dove's / death fearing, entering the balance scale, / O descendant of the noble one of unlimited generosity! / O younger brother of Killi of generous chariots, who conquered enemies with abundant strength of glory, who holds the long scepter! / O lord of the curved-bow warriors! O noble lord of swift horses / and generous hands! I had a doubt. / All your ancestors who wore garlands of Bauhinia flowers / would never do anything to hurt scholars. But this, / 'Is this proper conduct for you?' thus with anger having spoken, / even though you did not feel hurt by my wronging you, / you felt greatly ashamed as if you yourself had erred. / The greatness of forgiving those who wronged them / is seen as a natural quality for those born in this lineage, thus / O strong-shouldered one, you showed a worthy sight. Therefore, / I indeed erred. May your life span flourish / more than the sand deposited on the dunes / by the overflowing, sweet-watered Kaveri!",
+ "translation": "O descendant of the noble king who, to relieve the distress of earth's dwellers, entered the balance scale to save a short-gaited dove fearing death, escaping the pounce of a sharp-clawed, curved-winged hawk—an act that amazed even the sages with shining matted hair who circle with the sun and feed only on wind! O younger brother of Killi of the generous chariots, who conquered foes with great strength and holds the long scepter! O lord of curved-bow warriors, noble lord of swift horses and generous hands! I had a doubt. Your ancestors, who wore garlands of Bauhinia flowers, never did anything to hurt scholars. But when I angrily asked you, 'Is this proper conduct for you?' you did not get angry at my offense. Instead, you felt deeply ashamed as if you yourself had erred. O strong-shouldered one, you showed that forgiving those who wrong them is a natural quality for those born in your noble lineage. Therefore, it is I who erred. May your life flourish for more years than the sands deposited on the dunes by the overflowing, sweet waters of the Kaveri!",
+ "modern": "பூமியில் வாழ்பவர்களின் துன்பத்தைத் தீர்க்க, வெயிலைத் தாங்கி, காற்றையே உணவாகக் கொண்டு, சூரியனுடன் வலம் வரும் ஒளிரும் சடையையுடைய முனிவர்களே வியக்கும்படி, வளைந்த சிறகுகளையும் கூர்மையான நகங்களையும் உடைய பருந்தின் தாக்குதலில் இருந்து தப்பித் தன்னிடம் அடைக்கலம் புகுந்த, மெல்ல நடக்கும் புறாவின் மரணத்திற்கு அஞ்சி, தராசுத் தட்டில் ஏறிய அளவற்ற கொடையாளியான சிபியின் வழித்தோன்றலே! பகைவரை வென்ற வலிமையும் புகழும் கொண்ட, தேர்களைக் கொடையாகத் தரும் கிள்ளியின் தம்பியே! நீண்ட செங்கோலை ஏந்தியவனே! வளைந்த வில்லை உடைய வீரர்களின் தலைவனே! விரைந்த குதிரைகளையும் கொடைத் தன்மையையும் உடைய வள்ளலே! எனக்கு ஒரு சந்தேகம் இருந்தது. ஆத்தி மாலை அணிந்த உன்னுடைய முன்னோர்கள் அனைவரும் அறிஞர்கள் வருந்தும்படி எதையும் செய்யமாட்டார்கள். ஆனால், நான் உன்னிடம் கோபத்துடன் 'இது உனக்குத் தகுமா?' என்று வெறுப்புடன் கூறியபோது, நான் செய்த பிழையை நீ பொருட்படுத்தவில்லை. மாறாக, நீயே தவறு செய்தது போலப் பெரிதும் நாணினாய். தமக்குத் தீங்கு செய்தவர்களையும் பொறுத்துக் கொள்ளும் பெருந்தன்மை இந்த வம்சத்தில் பிறந்தவர்களுக்கு இயல்பானது என்பதை, காணத்தக்க உனது தோள் வலிமையால் காட்டினாய். அதனால், நானே தவறு செய்தேன். பெருகி வரும் இனிய நீரைக் கொண்ட காவிரியாறு கரைகளில் சேர்த்த மணலை விடப் பல ஆண்டுகள் உனது ஆயுள் சிறந்து விளங்குவதாக!",
+ "explanation": "The poet Tāmappal Kaṇṇaṉār is speaking to Māvaḷattāṉ, the younger brother of the Chola king Nalaṅkiḷḷi, after a game of dice. During the game, the prince hid a die, and the poet angrily threw a die at him. Instead of reacting with royal anger to this insult, the prince showed restraint and felt ashamed of his own initial deception. Realizing his own mistake and the prince's extraordinary patience, the poet sings this song in praise of him. The poet compares the prince's patience to his ancestor King Sibi, who sacrificed his own flesh to save a dove from a hawk, showing that forgiveness is a natural quality of the Chola lineage. The poem concludes with a blessing for a long life, using the image of the abundant sands of the Kaveri river, which symbolizes the fertility and enduring nature of the Chola kingdom.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

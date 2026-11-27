@@ -61,50 +61,60 @@
       {
        "text": "ஒன்று",
        "lemma": "ஒன்று",
-       "gloss": ""
+       "gloss": "one thing"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "one thing"
     },
     {
      "surface": "தௌிய",
      "parts": [
       {
-       "text": "தௌிய",
-       "lemma": "தௌிய",
-       "gloss": ""
+       "text": "தௌி",
+       "lemma": "தெளி",
+       "gloss": "be clear"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "clearly"
     },
     {
      "surface": "நசையினம்",
      "parts": [
       {
-       "text": "நசையினம்",
-       "lemma": "நசையினம்",
-       "gloss": ""
+       "text": "நசை",
+       "lemma": "நசை",
+       "gloss": "desire"
+      },
+      {
+       "text": "இனம்",
+       "lemma": "இனம்",
+       "gloss": "we have"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we who desire"
     },
     {
      "surface": "மொழிமோ",
      "parts": [
       {
-       "text": "மொழிமோ",
-       "lemma": "மொழிமோ",
-       "gloss": ""
+       "text": "மொழி",
+       "lemma": "மொழி",
+       "gloss": "speak"
+      },
+      {
+       "text": "மோ",
+       "lemma": "மோ",
+       "gloss": "imperative particle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "please speak"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -181,7 +191,7 @@
        "gloss": "abound"
       }
      ],
-     "gloss": "abounding in"
+     "gloss": "abounding"
     },
     {
      "surface": "பாடலி",
@@ -192,19 +202,23 @@
        "gloss": "Pataliputra city"
       }
      ],
-     "gloss": "Pataliputra city"
+     "gloss": "Pataliputra"
     },
     {
      "surface": "பெறீஇயர்",
      "parts": [
       {
-       "text": "பெறீஇயர்",
-       "lemma": "பெறீஇயர்",
-       "gloss": "may you obtain"
+       "text": "பெறு",
+       "lemma": "பெறு",
+       "gloss": "obtain"
+      },
+      {
+       "text": "ஈஇயர்",
+       "lemma": "இயர்",
+       "gloss": "optative suffix"
       }
      ],
-     "gloss": "may you obtain",
-     "split_unverified": true
+     "gloss": "to obtain"
     }
    ]
   },
@@ -219,40 +233,30 @@
        "gloss": "who"
       }
      ],
-     "gloss": "whose"
+     "gloss": "who"
     },
     {
-     "surface": "வாய்க்",
+     "surface": "வாய்",
      "parts": [
       {
-       "text": "வாய்க்",
-       "lemma": "வாய்க்",
-       "gloss": "from the mouth of"
+       "text": "வாய்",
+       "lemma": "வாய்",
+       "gloss": "mouth"
       }
      ],
-     "gloss": "from the mouth of",
-     "split_unverified": true
+     "gloss": "from whose mouth"
     },
     {
      "surface": "கேட்டனை",
      "parts": [
       {
-       "text": "கேள்",
-       "lemma": "கேள்",
-       "gloss": "hear"
-      },
-      {
-       "text": "ட்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அனை",
-       "lemma": "அனை",
-       "gloss": "second person singular suffix"
+       "text": "கேட்டனை",
+       "lemma": "கேட்டனை",
+       "gloss": "did you hear"
       }
      ],
-     "gloss": "you heard"
+     "gloss": "did you hear",
+     "split_unverified": true
     },
     {
      "surface": "காதலர்",
@@ -265,7 +269,7 @@
       {
        "text": "அர்",
        "lemma": "அர்",
-       "gloss": "honorific/plural suffix"
+       "gloss": "honorific suffix"
       }
      ],
      "gloss": "lover"
@@ -281,18 +285,18 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis marker"
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "the coming indeed"
+     "gloss": "the return indeed"
     }
    ]
   }
  ],
- "literal": "Did you see yourself? Or did you hear from those who saw? / Speak one thing clearly, as we desire to know! / Where white-tusked elephants bathe in the Sone river, / may you obtain gold-abounding Pataliputra! / From whose mouth did you hear of the coming of my lover?",
- "translation": "Did you see him yourself, or did you hear from those who saw him? Speak clearly so that we, who long for him, may know the truth. May you obtain the gold-abounding city of Pataliputra, where white-tusked elephants bathe in the Sone river! From whose mouth did you hear the news of my lover's return?",
- "modern": "நீயே அவரைப் பார்த்தாயா? அல்லது பார்த்தவர்களிடம் கேட்டாயா? நாங்கள் தெளிவுபெற விரும்புகிறோம், உண்மையைச் சொல்! வெண்மையான தந்தங்களை உடைய யானைகள் சோணை நதியில் நீராடும், பொன் நிறைந்த பாடலிபுத்திர நகரத்தையே நீ பரிசாகப் பெறுவாயாக! என் காதலர் வருவதைப் பற்றிய செய்தியை நீ யாருடைய வாயிலாகக் கேட்டாய்?",
- "explanation": "The heroine is speaking to her friend or a messenger who has brought the news of her lover's return. Filled with immense joy and disbelief, she wants to confirm if the news is absolutely true. She asks whether the informant saw him personally or heard it from others who did. In her gratitude and excitement, she blesses the informant to receive a reward as grand as the wealthy city of Pataliputra, where elephants bathe in the Sone river. This historical allusion to the wealth of Pataliputra highlights the immense value she places on the news of her lover's return.",
+ "literal": "Did you see? Or did you hear from those who saw? / Speak, so that we may clearly know one thing, we who desire! / Where white-tusked elephants bathe in the Sone river, / to obtain gold-abounding Pataliputra, / from whose mouth did you hear of the return of our lover?",
+ "translation": "Did you see him yourself, or did you hear it from those who saw him? Speak, so that we who yearn may know the truth clearly! From whose mouth did you hear the news of our lover's return—he who went to acquire wealth as vast as the gold-abounding city of Pataliputra, where white-tusked elephants bathe in the Sone river?",
+ "modern": "நீயே அவரைப் பார்த்தாயா? அல்லது பார்த்தவர்களிடம் கேட்டாயா? நாங்கள் உண்மையை தெளிவாகத் தெரிந்துகொள்ள விரும்புகிறோம், சொல்வாயாக! வெண்மையான தந்தங்களை உடைய யானைகள் சோணை நதியில் நீராடும், பொன் வளம் மிக்க பாடலிபுத்திர நகரத்தைப் போன்ற பெரும் செல்வத்தைப் பெறுவதற்காகச் சென்ற நம் காதலரின் வருகையைப் பற்றி நீ யார் சொல்லக் கேட்டாய்?",
+ "explanation": "The heroine is speaking to her friend or a messenger who has brought news of the hero's return. Having suffered long in separation, she is filled with both hope and disbelief, demanding to know if the messenger saw him firsthand or heard it from others. The poem employs a grand historical and geographical allusion to the wealthy city of Pataliputra on the banks of the Sone river, where elephants bathe. This imagery emphasizes the immense wealth the hero went to acquire and elevates the scale of his successful quest. The tension between her deep desire and her need for absolute certainty drives the emotional core of the poem. Key words include 'காதலர் வரவே' (the return of the lover) and 'ஒன்று தெளிய' (to clarify one thing).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

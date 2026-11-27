@@ -6,25 +6,28 @@
      "surface": "மண்கொள",
      "parts": [
       {
-       "text": "மண்கொள",
-       "lemma": "மண்கொள",
-       "gloss": ""
+       "text": "மண்",
+       "lemma": "maṇ",
+       "gloss": "earth"
+      },
+      {
+       "text": "கொள",
+       "lemma": "koḷa",
+       "gloss": "to scoop"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "scooping the earth"
     },
     {
      "surface": "வரிந்த",
      "parts": [
       {
        "text": "வரிந்த",
-       "lemma": "வரிந்த",
-       "gloss": ""
+       "lemma": "varinta",
+       "gloss": "curved"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "curved"
     },
     {
      "surface": "வைந்நுதி",
@@ -32,26 +35,29 @@
       {
        "text": "வைந்நுதி",
        "lemma": "வைந்நுதி",
-       "gloss": ""
+       "gloss": "sharp-tipped"
       }
      ],
-     "gloss": "",
+     "gloss": "sharp-tipped",
      "split_unverified": true
     },
     {
      "surface": "மறுப்பின்",
      "parts": [
       {
-       "text": "மறுப்பின்",
-       "lemma": "மறுப்பின்",
-       "gloss": ""
+       "text": "மறுப்பு",
+       "lemma": "maruppu",
+       "gloss": "horn"
+      },
+      {
+       "text": "இன்",
+       "lemma": "iṉ",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the horns"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -61,32 +67,26 @@
       {
        "text": "அண்ணல்",
        "lemma": "aṇṇal",
-       "gloss": "majestic/noble"
+       "gloss": "majestic"
       }
      ],
      "gloss": "majestic"
     },
     {
-     "surface": "நல்",
+     "surface": "நல்ஏறு",
      "parts": [
       {
        "text": "நல்",
        "lemma": "nal",
-       "gloss": "good/fine"
-      }
-     ],
-     "gloss": "fine"
-    },
-    {
-     "surface": "ஏறு",
-     "parts": [
+       "gloss": "strong"
+      },
       {
        "text": "ஏறு",
        "lemma": "ēṟu",
        "gloss": "bull"
       }
      ],
-     "gloss": "bulls"
+     "gloss": "strong bulls"
     },
     {
      "surface": "இரண்டு",
@@ -114,24 +114,9 @@
      "surface": "மடுத்து",
      "parts": [
       {
-       "text": "மடு",
-       "lemma": "maṭu",
-       "gloss": "clash/confront"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "உ",
-       "lemma": "u",
-       "gloss": "adverbial participle suffix"
+       "text": "மடுத்து",
+       "lemma": "maṭuttu",
+       "gloss": "clashing"
       }
      ],
      "gloss": "clashing"
@@ -144,13 +129,17 @@
      "surface": "வென்றதன்",
      "parts": [
       {
-       "text": "வென்றதன்",
-       "lemma": "வென்றதன்",
-       "gloss": "of the one that won"
+       "text": "வென்றது",
+       "lemma": "veṉṟatu",
+       "gloss": "that which won"
+      },
+      {
+       "text": "அன்",
+       "lemma": "aṉ",
+       "gloss": "oblique suffix"
       }
      ],
-     "gloss": "of the one that won",
-     "split_unverified": true
+     "gloss": "of the victorious one"
     },
     {
      "surface": "பச்சை",
@@ -158,23 +147,18 @@
       {
        "text": "பச்சை",
        "lemma": "paccai",
-       "gloss": "raw skin/hide"
+       "gloss": "raw hide"
       }
      ],
-     "gloss": "raw skin"
+     "gloss": "raw hide"
     },
     {
      "surface": "சீவாது",
      "parts": [
       {
-       "text": "சீவு",
-       "lemma": "cīvu",
-       "gloss": "scrape/pare"
-      },
-      {
-       "text": "ஆது",
-       "lemma": "ātu",
-       "gloss": "negative adverbial participle suffix"
+       "text": "சீவாது",
+       "lemma": "cīvātu",
+       "gloss": "without scraping"
       }
      ],
      "gloss": "without scraping"
@@ -183,24 +167,9 @@
      "surface": "போர்த்த",
      "parts": [
       {
-       "text": "போர்",
-       "lemma": "pōr",
-       "gloss": "cover"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "relative participle suffix"
+       "text": "போர்த்த",
+       "lemma": "pōrtta",
+       "gloss": "covered"
       }
      ],
      "gloss": "covered"
@@ -210,26 +179,20 @@
   {
    "words": [
     {
-     "surface": "திண்",
+     "surface": "திண்பிணி",
      "parts": [
       {
        "text": "திண்",
        "lemma": "tiṇ",
-       "gloss": "strong/tight"
-      }
-     ],
-     "gloss": "tight"
-    },
-    {
-     "surface": "பிணி",
-     "parts": [
+       "gloss": "strong"
+      },
       {
        "text": "பிணி",
        "lemma": "piṇi",
-       "gloss": "binding/bound"
+       "gloss": "binding"
       }
      ],
-     "gloss": "bound"
+     "gloss": "strongly bound"
     },
     {
      "surface": "முரசம்",
@@ -237,35 +200,34 @@
       {
        "text": "முரசம்",
        "lemma": "muracam",
-       "gloss": "war drum"
+       "gloss": "drum"
       }
      ],
-     "gloss": "war drum"
+     "gloss": "drum"
     },
     {
      "surface": "இடைப்புலத்து",
      "parts": [
       {
-       "text": "இடைப்புலத்து",
-       "lemma": "இடைப்புலத்து",
-       "gloss": "in the middle of the field"
+       "text": "இடை",
+       "lemma": "iṭai",
+       "gloss": "middle"
+      },
+      {
+       "text": "புலத்து",
+       "lemma": "pulattu",
+       "gloss": "of the field"
       }
      ],
-     "gloss": "in the middle of the field",
-     "split_unverified": true
+     "gloss": "in the middle of the battlefield"
     },
     {
      "surface": "இரங்க",
      "parts": [
       {
-       "text": "இரங்கு",
-       "lemma": "iraṅku",
-       "gloss": "sound/roar"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "infinitive suffix"
+       "text": "இரங்க",
+       "lemma": "iraṅka",
+       "gloss": "to roar"
       }
      ],
      "gloss": "to roar"
@@ -275,52 +237,31 @@
   {
    "words": [
     {
-     "surface": "ஆர்",
+     "surface": "ஆர்அமர்",
      "parts": [
       {
        "text": "ஆர்",
        "lemma": "ār",
-       "gloss": "rare/difficult"
-      }
-     ],
-     "gloss": "rare"
-    },
-    {
-     "surface": "அமர்",
-     "parts": [
+       "gloss": "intense"
+      },
       {
        "text": "அமர்",
        "lemma": "amar",
-       "gloss": "battle/combat"
+       "gloss": "battle"
       }
      ],
-     "gloss": "combat"
+     "gloss": "intense battle"
     },
     {
      "surface": "மயங்கிய",
      "parts": [
       {
-       "text": "மயங்கு",
-       "lemma": "mayaṅku",
-       "gloss": "be confused/chaotic"
-      },
-      {
-       "text": "இ",
-       "lemma": "i",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "ய்",
-       "lemma": "y",
-       "gloss": "glide"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "relative participle suffix"
+       "text": "மயங்கிய",
+       "lemma": "mayaṅkiya",
+       "gloss": "mingled"
       }
      ],
-     "gloss": "chaotic"
+     "gloss": "mingled"
     },
     {
      "surface": "ஞாட்பின்",
@@ -333,7 +274,7 @@
       {
        "text": "இன்",
        "lemma": "iṉ",
-       "gloss": "locative/oblique suffix"
+       "gloss": "of"
       }
      ],
      "gloss": "in the battlefield"
@@ -342,103 +283,75 @@
      "surface": "தெறுவர",
      "parts": [
       {
-       "text": "தெறு",
-       "lemma": "teṟu",
-       "gloss": "cause distress/fear"
-      },
-      {
-       "text": "வர",
-       "lemma": "vara",
-       "gloss": "to come"
+       "text": "தெறுவர",
+       "lemma": "teṟuvara",
+       "gloss": "causing distress"
       }
      ],
-     "gloss": "terrifyingly"
+     "gloss": "causing distress"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நெடு",
+     "surface": "நெடுவேல்",
      "parts": [
       {
        "text": "நெடு",
        "lemma": "neṭu",
        "gloss": "long"
-      }
-     ],
-     "gloss": "long"
-    },
-    {
-     "surface": "வேல்",
-     "parts": [
+      },
       {
        "text": "வேல்",
        "lemma": "vēl",
        "gloss": "spear"
       }
      ],
-     "gloss": "spear"
+     "gloss": "long spear"
     },
     {
      "surface": "பாய்ந்த",
      "parts": [
       {
-       "text": "பாய்",
-       "lemma": "pāy",
-       "gloss": "spring/strike"
-      },
-      {
-       "text": "ந்",
-       "lemma": "ntu",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "relative participle suffix"
+       "text": "பாய்ந்த",
+       "lemma": "pāynta",
+       "gloss": "pierced"
       }
      ],
      "gloss": "pierced"
     },
     {
-     "surface": "நாண்",
+     "surface": "நாணுடை",
      "parts": [
       {
        "text": "நாண்",
        "lemma": "nāṇ",
-       "gloss": "shame/pride/honor"
-      }
-     ],
-     "gloss": "proud"
-    },
-    {
-     "surface": "உடை",
-     "parts": [
+       "gloss": "honor"
+      },
       {
        "text": "உடை",
        "lemma": "uṭai",
-       "gloss": "possessing"
+       "gloss": "having"
       }
      ],
-     "gloss": "possessing"
+     "gloss": "having honor"
     },
     {
      "surface": "நெஞ்சத்து",
      "parts": [
       {
-       "text": "நெஞ்சத்து",
-       "lemma": "நெஞ்சத்து",
-       "gloss": "of the heart"
+       "text": "நெஞ்சு",
+       "lemma": "neñcu",
+       "gloss": "heart"
+      },
+      {
+       "text": "அத்து",
+       "lemma": "attu",
+       "gloss": "oblique suffix"
       }
      ],
-     "gloss": "of the heart",
-     "split_unverified": true
+     "gloss": "of the heart"
     }
    ]
   },
@@ -450,12 +363,12 @@
       {
        "text": "அருகு",
        "lemma": "aruku",
-       "gloss": "approach/near"
+       "gloss": "near"
       },
       {
        "text": "கை",
        "lemma": "kai",
-       "gloss": "action/hand"
+       "gloss": "action"
       }
      ],
      "gloss": "approaching"
@@ -477,7 +390,7 @@
       {
        "text": "மன்ற",
        "lemma": "maṉṟa",
-       "gloss": "indeed/certainly"
+       "gloss": "indeed"
       }
      ],
      "gloss": "indeed"
@@ -487,26 +400,20 @@
   {
    "words": [
     {
-     "surface": "குருதி",
+     "surface": "குருதியடு",
      "parts": [
       {
        "text": "குருதி",
        "lemma": "kuruti",
        "gloss": "blood"
-      }
-     ],
-     "gloss": "blood"
-    },
-    {
-     "surface": "அடு",
-     "parts": [
+      },
       {
        "text": "அடு",
        "lemma": "aṭu",
-       "gloss": "with/associated"
+       "gloss": "with"
       }
      ],
-     "gloss": "with"
+     "gloss": "with blood"
     },
     {
      "surface": "துயல்வரும்",
@@ -514,7 +421,7 @@
       {
        "text": "துயல்",
        "lemma": "tuyal",
-       "gloss": "sway/shake"
+       "gloss": "swaying"
       },
       {
        "text": "வரும்",
@@ -535,7 +442,7 @@
       {
        "text": "இன்",
        "lemma": "iṉ",
-       "gloss": "oblique/genitive suffix"
+       "gloss": "of"
       }
      ],
      "gloss": "of the chest"
@@ -545,39 +452,28 @@
   {
    "words": [
     {
-     "surface": "முயக்கு",
+     "surface": "முயக்கிடை",
      "parts": [
       {
        "text": "முயக்கு",
        "lemma": "muyakku",
        "gloss": "embrace"
-      }
-     ],
-     "gloss": "embrace"
-    },
-    {
-     "surface": "இடை",
-     "parts": [
+      },
       {
        "text": "இடை",
        "lemma": "iṭai",
-       "gloss": "space/interval"
+       "gloss": "space"
       }
      ],
-     "gloss": "space"
+     "gloss": "space for an embrace"
     },
     {
      "surface": "ஈயாது",
      "parts": [
       {
-       "text": "ஈ",
-       "lemma": "ī",
-       "gloss": "give"
-      },
-      {
-       "text": "ஆது",
-       "lemma": "ātu",
-       "gloss": "negative adverbial participle suffix"
+       "text": "ஈயாது",
+       "lemma": "īyātu",
+       "gloss": "without giving"
       }
      ],
      "gloss": "without giving"
@@ -586,24 +482,9 @@
      "surface": "மொய்த்தன",
      "parts": [
       {
-       "text": "மொய்",
-       "lemma": "moy",
-       "gloss": "swarm"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அன",
-       "lemma": "aṉa",
-       "gloss": "neuter plural suffix"
+       "text": "மொய்த்தன",
+       "lemma": "moyttaṉa",
+       "gloss": "swarmed"
       }
      ],
      "gloss": "swarmed"
@@ -619,18 +500,18 @@
       {
        "text": "ஏ",
        "lemma": "ē",
-       "gloss": "emphasis particle"
+       "gloss": "indeed"
       }
      ],
-     "gloss": "the vultures"
+     "gloss": "the vultures indeed"
     }
    ]
   }
  ],
- "literal": "To take the earth, scratched, sharp-tipped horns / of majestic, fine bulls, two together, clashing, / the skin of the winner, without scraping, covered / tight-bound drum, in the middle of the field, sounding, / in the battle where rare combat is confused, causing fear, / long spear pierced, having a proud heart, / coming close ... indeed, / with blood swaying chest, / not giving space for an embrace, swarmed the vultures.",
- "translation": "Like two majestic, fine bulls clashing together with their sharp-tipped horns that scratch the earth, the tight-bound war drum, covered with the unscraped skin of the victorious beast, roars in the middle of the battlefield. In that terrifying battle of chaotic, fierce combat, a long spear pierced the chest of the proud warrior. As he lies there, indeed, vultures swarm over his blood-smeared chest, leaving no room even for an embrace.",
- "modern": "மண்ணைத் தோண்டுவதற்காக வளைந்த கூர்மையான கொம்புகளையுடைய பெருமையுடைய இரண்டு நல்ல காளைகள் ஒன்றுடன் ஒன்று முட்டிப் போரிட்டு, அதில் வென்ற காளையின் தோலைச் சீவாமல் போர்த்திய, உறுதியாகக் கட்டப்பட்ட முரசம் போர்க்களத்தின் நடுவே முழங்குகிறது. அரிய போர் மயங்கி நடைபெறும் போர்க்களத்தில் அச்சம் தரும்படியாக, நெடிய வேல் பாய்ந்த மானம் உடைய நெஞ்சினையும், குருதியோடு அசையும் மார்பினையும் உடைய வீரனைத் தழுவுவதற்குக் கூட இடைவெளி தராமல் பருந்துகள் மொய்த்துக் கொண்டிருக்கின்றன.",
- "explanation": "This poem belongs to the Tumpai tiṇai (battle) and the theme of Mūtiṉ mullai (the valor of an ancient martial family). The poet Kaḻāttalaiyār describes a fierce battlefield where a brave warrior has fallen, pierced by a long spear. The poem opens with a vivid comparison of the war drum, covered with the raw skin of a victorious bull, to two majestic bulls clashing in combat. The warrior's chest is covered in blood, and he lies dead on the field. The vultures swarm so thickly over his body that there is no space left even for his loved ones to embrace him in grief. This stark image highlights the tragic yet glorious nature of a hero's death in classical Tamil warfare.",
+ "literal": "Scooping the earth, curved, sharp-tipped horns / of majestic strong bulls, two together clashing, / the victorious one's raw hide, without scraping, covered / on the strongly bound drum, roaring in the middle of the battlefield, / in the intense battle-mingled field, causing distress, / a long spear pierced the honorable chest / approaching ... indeed, / with blood, the swaying chest, / giving no space for an embrace, swarmed the vultures.",
+ "translation": "The war drum, covered with the unscraped raw hide of a majestic bull that won a clash against another sharp-horned bull, roars in the middle of the battlefield. In that terrifying, chaotic battle, a long spear has pierced the chest of a brave, honorable warrior. On his chest, where blood flows and sways, vultures have swarmed so thickly that they leave no room even for his wife's embrace.",
+ "modern": "மண்ணைத் தோண்டும் வளைந்த கூர்மையான கொம்புகளையுடைய இரண்டு பெருமைமிக்க காளைகள் ஒன்றுடன் ஒன்று சண்டையிட்டு, அதில் வென்ற காளையின் பதப்படுத்தப்படாத தோலால் போர்த்தப்பட்ட வலிமையான முரசு போர்க்களத்தின் நடுவே முழங்குகிறது. அத்தகைய அஞ்சத்தக்க போர்க்களத்தில், நீண்ட வேல் பாய்ந்ததால் மானமுள்ள நெஞ்சையும் குருதி வழியும் மார்பையும் உடைய அந்த வீரனை, அவனது மனைவி தழுவுவதற்குக் கூட இடமில்லாமல் பருந்துகள் மொய்த்துக் கொண்டிருக்கின்றன.",
+ "explanation": "This poem belongs to the Tumpai tiṇai (warfare) and the theme of Mūtiṉ mullai, which extols the bravery of ancient warrior families. The poet describes a fierce battlefield where a war drum, covered with the raw hide of a victorious bull, roars loudly. A brave warrior has been pierced through his chest by a long spear, and he lies dying on the field. His chest is covered in blood, and vultures have swarmed over him so densely that his wife cannot even find space to embrace him one last time. The imagery of the clashing bulls and the raw-hide drum sets a tone of primal, heroic violence, while the vultures crowding out the wife's embrace highlights the tragic, stark reality of a hero's death.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

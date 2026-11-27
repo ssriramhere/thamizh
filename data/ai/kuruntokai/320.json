@@ -59,42 +59,37 @@
      "surface": "அருங்கழி",
      "parts": [
       {
-       "text": "அருமை",
-       "lemma": "arumai",
-       "gloss": "rare/difficult"
-      },
-      {
-       "text": "கழி",
-       "lemma": "kaḻi",
-       "gloss": "backwater"
+       "text": "அருங்கழி",
+       "lemma": "அருங்கழி",
+       "gloss": "rare backwater"
       }
      ],
-     "gloss": "rare backwater"
+     "gloss": "rare backwater",
+     "split_unverified": true
     },
     {
      "surface": "கொண்ட",
      "parts": [
       {
        "text": "கொண்ட",
-       "lemma": "கொண்ட",
-       "gloss": "caught"
+       "lemma": "கொள்",
+       "gloss": "obtained"
       }
      ],
-     "gloss": "caught",
-     "split_unverified": true
+     "gloss": "obtained"
     },
     {
      "surface": "இறவின்",
      "parts": [
       {
        "text": "இறவு",
-       "lemma": "iṟavu",
+       "lemma": "இறால்",
        "gloss": "prawn"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "genitive/inflectional suffix"
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
      "gloss": "of prawn"
@@ -104,82 +99,71 @@
      "parts": [
       {
        "text": "வாடல்",
-       "lemma": "vāṭal",
-       "gloss": "dried meat"
+       "lemma": "வாடல்",
+       "gloss": "dried state"
       },
       {
        "text": "ஒடு",
-       "lemma": "oṭu",
+       "lemma": "ஒடு",
        "gloss": "with"
       }
      ],
-     "gloss": "with the dried meat"
+     "gloss": "with the dried state"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நிலவு",
+     "surface": "நிலவுநிறம்",
      "parts": [
       {
        "text": "நிலவு",
-       "lemma": "nilavu",
+       "lemma": "நிலவு",
        "gloss": "moonlight"
-      }
-     ],
-     "gloss": "moonlight"
-    },
-    {
-     "surface": "நிற",
-     "parts": [
+      },
       {
-       "text": "நிற",
-       "lemma": "நிற",
-       "gloss": "colored"
+       "text": "நிறம்",
+       "lemma": "நிறம்",
+       "gloss": "color"
       }
      ],
-     "gloss": "colored",
-     "split_unverified": true
+     "gloss": "moonlight-colored"
     },
     {
      "surface": "வெண்மணல்",
      "parts": [
       {
-       "text": "வெண்மை",
-       "lemma": "veṇmai",
-       "gloss": "white"
-      },
-      {
-       "text": "மணல்",
-       "lemma": "maṇal",
-       "gloss": "sand"
+       "text": "வெண்மணல்",
+       "lemma": "வெண்மணல்",
+       "gloss": "white sand"
       }
      ],
-     "gloss": "white sand"
+     "gloss": "white sand",
+     "split_unverified": true
     },
     {
      "surface": "புலவ",
      "parts": [
       {
        "text": "புலவ",
-       "lemma": "pulava",
-       "gloss": "to smell of fish/flesh"
+       "lemma": "புலவு",
+       "gloss": "to smell of fish"
       }
      ],
-     "gloss": "smelling of fish"
+     "gloss": "to smell of fish"
     },
     {
      "surface": "பலவுடன்",
      "parts": [
       {
        "text": "பல",
-       "lemma": "pala",
+       "lemma": "பல",
        "gloss": "many"
       },
       {
        "text": "உடன்",
-       "lemma": "uṭaṉ",
+       "lemma": "உடன்",
        "gloss": "together"
       }
      ],
@@ -190,39 +174,28 @@
   {
    "words": [
     {
-     "surface": "எக்கர்",
+     "surface": "எக்கர்தொறும்",
      "parts": [
       {
        "text": "எக்கர்",
-       "lemma": "ekkar",
+       "lemma": "எக்கர்",
        "gloss": "sand dune"
-      }
-     ],
-     "gloss": "sand dune"
-    },
-    {
-     "surface": "தொறும்",
-     "parts": [
+      },
       {
        "text": "தொறும்",
-       "lemma": "toṟum",
+       "lemma": "தொறும்",
        "gloss": "every"
       }
      ],
-     "gloss": "on every"
+     "gloss": "on every sand dune"
     },
     {
      "surface": "பரக்கும்",
      "parts": [
       {
-       "text": "பரக்கு",
-       "lemma": "paraku",
-       "gloss": "spread"
-      },
-      {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "adjectival participle suffix"
+       "text": "பரக்கும்",
+       "lemma": "பரக்கு",
+       "gloss": "spreading"
       }
      ],
      "gloss": "spreading"
@@ -232,28 +205,28 @@
      "parts": [
       {
        "text": "துறைவன்",
-       "lemma": "tuṟaivaṉ",
-       "gloss": "lord of the shore"
+       "lemma": "துறைவன்",
+       "gloss": "lord of the coast"
       },
       {
        "text": "ஒடு",
-       "lemma": "oṭu",
+       "lemma": "ஒடு",
        "gloss": "with"
       }
      ],
-     "gloss": "with the lord of the shore"
+     "gloss": "with the lord of the coast"
     },
     {
      "surface": "ஒருநாள்",
      "parts": [
       {
        "text": "ஒரு",
-       "lemma": "oru",
+       "lemma": "ஒரு",
        "gloss": "one"
       },
       {
        "text": "நாள்",
-       "lemma": "nāḷ",
+       "lemma": "நாள்",
        "gloss": "day"
       }
      ],
@@ -268,20 +241,19 @@
      "parts": [
       {
        "text": "நக்கது",
-       "lemma": "நக்கது",
-       "gloss": "that we laughed"
+       "lemma": "நகு",
+       "gloss": "laughed"
       }
      ],
-     "gloss": "that we laughed",
-     "split_unverified": true
+     "gloss": "that we laughed"
     },
     {
      "surface": "ஓர்",
      "parts": [
       {
        "text": "ஓர்",
-       "lemma": "ōr",
-       "gloss": "one/a certain"
+       "lemma": "ஓர்",
+       "gloss": "one"
       }
      ],
      "gloss": "a single"
@@ -291,13 +263,13 @@
      "parts": [
       {
        "text": "பழி",
-       "lemma": "paḻi",
+       "lemma": "பழி",
        "gloss": "blame"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "even/also"
+       "lemma": "உம்",
+       "gloss": "even"
       }
      ],
      "gloss": "even blame"
@@ -307,13 +279,13 @@
      "parts": [
       {
        "text": "இலம்",
-       "lemma": "ilam",
+       "lemma": "இலெம்",
        "gloss": "we do not have"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
      "gloss": "we do not have indeed"
@@ -323,22 +295,22 @@
      "parts": [
       {
        "text": "போது",
-       "lemma": "pōtu",
-       "gloss": "flower bud"
+       "lemma": "போது",
+       "gloss": "bud"
       }
      ],
-     "gloss": "buds"
+     "gloss": "bud"
     },
     {
      "surface": "அவிழ்",
      "parts": [
       {
        "text": "அவிழ்",
-       "lemma": "aviḻ",
-       "gloss": "open/unfold"
+       "lemma": "அவிழ்",
+       "gloss": "blooming"
       }
      ],
-     "gloss": "opening"
+     "gloss": "blooming"
     }
    ]
   },
@@ -349,7 +321,7 @@
      "parts": [
       {
        "text": "பொன்",
-       "lemma": "poṉ",
+       "lemma": "பொன்",
        "gloss": "gold"
       }
      ],
@@ -360,30 +332,29 @@
      "parts": [
       {
        "text": "இணர்",
-       "lemma": "iṇar",
+       "lemma": "இணர்",
        "gloss": "flower cluster"
       }
      ],
-     "gloss": "clusters"
+     "gloss": "flower clusters"
     },
     {
      "surface": "மரீஇய",
      "parts": [
       {
        "text": "மரீஇய",
-       "lemma": "மரீஇய",
-       "gloss": "associated/filled with"
+       "lemma": "மருவு",
+       "gloss": "associated with"
       }
      ],
-     "gloss": "associated/filled with",
-     "split_unverified": true
+     "gloss": "associated with"
     },
     {
      "surface": "புள்",
      "parts": [
       {
        "text": "புள்",
-       "lemma": "puḷ",
+       "lemma": "புள்",
        "gloss": "bird"
       }
      ],
@@ -394,8 +365,8 @@
      "parts": [
       {
        "text": "இமிழ்",
-       "lemma": "imiḻ",
-       "gloss": "chirp/sound"
+       "lemma": "இமிழ்",
+       "gloss": "chirping"
       }
      ],
      "gloss": "chirping"
@@ -405,11 +376,11 @@
      "parts": [
       {
        "text": "பொங்கர்",
-       "lemma": "poṅkar",
-       "gloss": "branch/grove"
+       "lemma": "பொங்கர்",
+       "gloss": "grove"
       }
      ],
-     "gloss": "branches"
+     "gloss": "groves"
     }
    ]
   },
@@ -420,18 +391,18 @@
      "parts": [
       {
        "text": "புன்னை",
-       "lemma": "puṉṉai",
-       "gloss": "mastwood tree (Punnai)"
+       "lemma": "புன்னை",
+       "gloss": "Punna tree"
       }
      ],
-     "gloss": "Punnai tree"
+     "gloss": "Punna tree"
     },
     {
      "surface": "அம்",
      "parts": [
       {
        "text": "அம்",
-       "lemma": "am",
+       "lemma": "அம்",
        "gloss": "beautiful"
       }
      ],
@@ -442,11 +413,11 @@
      "parts": [
       {
        "text": "சேரி",
-       "lemma": "cēri",
-       "gloss": "street/neighborhood"
+       "lemma": "சேரி",
+       "gloss": "hamlet"
       }
      ],
-     "gloss": "street"
+     "gloss": "hamlet"
     },
     {
      "surface": "இவ்வூர்",
@@ -516,10 +487,10 @@
    "as_printed": true
   }
  ],
- "literal": "Great ocean fishermen's caught fish drying / rare backwater caught prawn's dried meat with / moonlight-colored white sand smelling of fish, in many ways together / on every sand dune spreading, the lord of the shore with, one day / laughed, that kind of blame even we do not have! Buds opening / golden clusters associated, birds chirping branches of / Punnai-tree-beautiful street of this town / uselessly rumors spreads, by its own cruelty!",
- "translation": "We do not have even a speck of blame from having laughed with the lord of the shore on a single day—he whose shore is where the fishermen of the great ocean dry their catch, and along with the dried prawns caught in the rare backwaters, the fishy smell spreads over all the sand dunes of moonlight-white sand. Yet, this town, with its beautiful streets of Punnai trees whose branches are filled with golden clusters of opening buds and chirping birds, uselessly spreads rumors out of its own sheer cruelty!",
- "modern": "பெரிய கடல் மீனவர்கள் பிடித்த மீன்களைக் காயவைக்கும் உலர்மீன் வாசனை, அரிய கழிகளில் பிடித்த இறால் மீனின் உலர்மீன் வாசனையோடு சேர்ந்து, நிலவின் நிறத்தைக் கொண்ட வெண்மையான மணல் பரப்பில் வீச, மணல் மேடுகள் எங்கும் பரவுகின்ற கடற்கரைத் தலைவனுடன் ஒருநாள் நாம் கூடி மகிழ்ந்தோம். அதனால் நமக்கு எந்தப் பழியும் இல்லை. ஆனால், மலரும் அரும்புகளையும் பொன்னிறப் பூங்கொத்துகளையும் கொண்ட, பறவைகள் ஒலிக்கும் கிளைகளையுடைய புன்னை மரங்கள் நிறைந்த அழகிய தெருக்களைக் கொண்ட இவ்வூர், தன் கொடுமையினாலேயே வீணான அலர் தூற்றுகின்றது.",
- "explanation": "The heroine is speaking to her friend (tōḻi) within the hearing of the hero who is waiting nearby to arrange their marriage. She describes the hero's maritime landscape (neytal), where the smell of drying ocean fish and backwater prawns spreads over the moonlight-white sand dunes. She points out that they only spent a single day laughing and talking together, which brought no actual blame or wrongdoing. Yet, the townspeople in their beautiful neighborhood of blooming Punnai trees and chirping birds are cruelly spreading groundless rumors (alar) about them. This description of the landscape, where the fishy smell overpowers the white sand, subtly implies how the town's ugly rumors are overshadowing the pure and innocent love of the couple, urging the hero to marry her soon.",
+ "literal": "Great ocean fishermen's caught fish drying / with the dried state of prawns caught in the rare backwater, / smelling of fish, together on the moonlight-colored white sand, / spreading on every sand dune, with the lord of the coast, one day, / we did not have even a single blame of having laughed, / in the groves where birds chirp, associated with golden flower clusters of blooming buds, / in this town with the beautiful hamlet of Punna trees, / because of its cruelty of spreading useless gossip!",
+ "translation": "We did not share even a single smile with the lord of the coast—whose land spreads the catch of great-ocean fishermen and dried prawns from the deep backwaters to dry together on every dune of moonlight-white sand, making them smell of fish. Yet, this town of beautiful streets lined with Punna trees, where birds chirp in groves rich with golden clusters of blooming buds, cruelly spreads useless gossip about us.",
+ "modern": "பெரிய கடல் மீனவர்கள் பிடித்த மீன்களையும், அரிய கழிகளில் பிடித்த இறால்களின் கருவாட்டையும், நிலவின் நிறமுடைய வெண்மணலில் மீன் நாற்றம் வீசுமாறு பலவாகச் சேர்த்து, மணல் மேடுகள் தோறும் காயவைக்கும் கடற்கரைத் தலைவனுடன் ஒருநாள் கூட நாம் சிரித்துப் பேசிய பழியும் நமக்கு இல்லை. ஆனால், அரும்புகள் மலர்ந்து பொன்னிறப் பூங்கொத்துகள் நிறைந்த, பறவைகள் ஒலிக்கும் சோலைகளையும் புன்னை மரங்களையும் உடைய அழகிய தெருக்களைக் கொண்ட இவ்வூர், தன் கொடுமையினால் வீணான அலரைத் தூற்றுகின்றது.",
+ "explanation": "The heroine is speaking to her close friend about the unfair rumors spreading in her town. She points out that she has not even shared a single smile or brief moment of laughter with the lord of the coast. Yet, the townspeople have already begun spreading malicious gossip about them. The imagery of fish and prawns laid out to dry on the open, white sand dunes reflects how her private life has been exposed to public scrutiny. The contrast between the beautiful, bird-filled Punna groves and the harshness of the town's gossip highlights her emotional distress.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

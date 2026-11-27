@@ -7,8 +7,8 @@
      "parts": [
       {
        "text": "எவ்வி",
-       "lemma": "எவ்வி",
-       "gloss": "Evvi"
+       "lemma": "evvi",
+       "gloss": "Evvi (a patron king)"
       }
      ],
      "gloss": "Evvi"
@@ -17,41 +17,45 @@
      "surface": "இழந்த",
      "parts": [
       {
-       "text": "இழந்த",
-       "lemma": "இழ",
-       "gloss": "lost"
+       "text": "இழ",
+       "lemma": "iḻa",
+       "gloss": "lose"
+      },
+      {
+       "text": "ந்த",
+       "lemma": "nta",
+       "gloss": "past relative participle suffix"
       }
      ],
      "gloss": "who lost"
     },
     {
-     "surface": "வறுமை",
+     "surface": "வறுமையாழ்ப்",
      "parts": [
       {
        "text": "வறுமை",
-       "lemma": "வறுமை",
-       "gloss": "poverty"
-      }
-     ],
-     "gloss": "poverty"
-    },
-    {
-     "surface": "யாழ்",
-     "parts": [
+       "lemma": "vaṟumai",
+       "gloss": "poverty/emptiness"
+      },
       {
        "text": "யாழ்",
-       "lemma": "யாழ்",
+       "lemma": "yāḻ",
        "gloss": "lute"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "doubled consonant before p"
       }
      ],
-     "gloss": "lute"
+     "gloss": "of the poor lute"
     },
     {
      "surface": "பாணர்",
      "parts": [
       {
        "text": "பாணர்",
-       "lemma": "பாணன்",
+       "lemma": "pāṇar",
        "gloss": "bards"
       }
      ],
@@ -65,52 +69,67 @@
      "surface": "பூவில்",
      "parts": [
       {
-       "text": "பூவில்",
-       "lemma": "பூவில்",
-       "gloss": ""
+       "text": "பூ",
+       "lemma": "pū",
+       "gloss": "flower"
+      },
+      {
+       "text": "இல்",
+       "lemma": "il",
+       "gloss": "without"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "flowerless"
     },
     {
      "surface": "வறுந்தலை",
      "parts": [
       {
-       "text": "வறுந்தலை",
-       "lemma": "வறுந்தலை",
-       "gloss": ""
+       "text": "வறும்",
+       "lemma": "vaṟu",
+       "gloss": "empty"
+      },
+      {
+       "text": "தலை",
+       "lemma": "talai",
+       "gloss": "head"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "empty head"
     },
     {
      "surface": "போலப்",
      "parts": [
       {
-       "text": "போலப்",
-       "lemma": "போலப்",
-       "gloss": ""
+       "text": "போல",
+       "lemma": "pōla",
+       "gloss": "like"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "doubled consonant before p"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "like"
     },
     {
      "surface": "புல்லென்",
      "parts": [
       {
-       "text": "புல்லென்",
-       "lemma": "புல்லென்",
-       "gloss": ""
+       "text": "புல்",
+       "lemma": "pul",
+       "gloss": "desolate/lowly"
+      },
+      {
+       "text": "என்",
+       "lemma": "eṉ",
+       "gloss": "say/like"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "desolately"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -120,35 +139,43 @@
       {
        "text": "றினைமதி",
        "lemma": "றினைமதி",
-       "gloss": ""
+       "gloss": "grieve!"
       }
      ],
-     "gloss": "",
+     "gloss": "grieve!",
      "split_unverified": true
     },
     {
      "surface": "வாழியர்",
      "parts": [
       {
-       "text": "வாழியர்",
-       "lemma": "வாழியர்",
-       "gloss": ""
+       "text": "வாழ்",
+       "lemma": "vāḻ",
+       "gloss": "live"
+      },
+      {
+       "text": "இயர்",
+       "lemma": "iyar",
+       "gloss": "optative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "may you live"
     },
     {
      "surface": "நெஞ்சே",
      "parts": [
       {
-       "text": "நெஞ்சே",
-       "lemma": "நெஞ்சே",
-       "gloss": ""
+       "text": "நெஞ்சு",
+       "lemma": "neñcu",
+       "gloss": "heart"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ē",
+       "gloss": "vocative clitic"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "O heart!"
     },
     {
      "surface": "மனைமரத்",
@@ -156,14 +183,13 @@
       {
        "text": "மனைமரத்",
        "lemma": "மனைமரத்",
-       "gloss": ""
+       "gloss": "of the house-tree"
       }
      ],
-     "gloss": "",
+     "gloss": "of the house-tree",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -171,40 +197,46 @@
      "surface": "தெல்லுறு",
      "parts": [
       {
-       "text": "தெல்லுறு",
-       "lemma": "தெல்லுறு",
-       "gloss": ""
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "increment from previous word"
+      },
+      {
+       "text": "எல்",
+       "lemma": "el",
+       "gloss": "light/sun"
+      },
+      {
+       "text": "உறு",
+       "lemma": "uṟu",
+       "gloss": "possess"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "bright/shining"
     },
     {
      "surface": "மௌவல்",
      "parts": [
       {
        "text": "மௌவல்",
-       "lemma": "மௌவல்",
-       "gloss": ""
+       "lemma": "mauval",
+       "gloss": "wild jasmine"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "wild jasmine"
     },
     {
      "surface": "நாறும்",
      "parts": [
       {
        "text": "நாறும்",
-       "lemma": "நாறும்",
-       "gloss": ""
+       "lemma": "nāṟu",
+       "gloss": "fragrant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "smelling of"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -214,10 +246,10 @@
       {
        "text": "பல்லிருங்",
        "lemma": "பல்லிருங்",
-       "gloss": ""
+       "gloss": "thick and dark"
       }
      ],
-     "gloss": "",
+     "gloss": "thick and dark",
      "split_unverified": true
     },
     {
@@ -225,45 +257,51 @@
      "parts": [
       {
        "text": "கூந்தல்",
-       "lemma": "கூந்தல்",
-       "gloss": ""
+       "lemma": "kūntal",
+       "gloss": "tresses/hair"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "tresses"
     },
     {
      "surface": "யாரளோ",
      "parts": [
       {
-       "text": "யாரளோ",
-       "lemma": "யாரளோ",
-       "gloss": ""
+       "text": "யாரள்",
+       "lemma": "yār",
+       "gloss": "who (she)"
+      },
+      {
+       "text": "ஓ",
+       "lemma": "ō",
+       "gloss": "clitic of wonder/interrogative"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "who is she?"
     },
     {
      "surface": "நமக்கே",
      "parts": [
       {
-       "text": "நமக்கே",
-       "lemma": "நமக்கே",
-       "gloss": ""
+       "text": "நமக்கு",
+       "lemma": "namakku",
+       "gloss": "to us"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ē",
+       "gloss": "emphasis clitic"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to us"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "Evvi lost empty-lute bards' / flower-less bare head like, sparse-being / grieve, may you live, O heart! House-tree's / light-possessing wild jasmine smelling / many-dark tresses who is she to us?",
- "translation": "Like the bare, flowerless heads of the bards with empty lutes who have lost their patron Evvi, you have become lacklustre. Grieve then, and may you live, O my heart! Who is she to us anyway—she with the thick, dark tresses that smell of the sun-drenched wild jasmine blooming on our house-tree?",
- "modern": "வள்ளல் எவ்வியை இழந்து வறிய யாழுடன் திரியும் பாணர்களின் பூக்கள் இல்லாத வெற்றுத் தலைகளைப் போலப் பொலிவிழந்து விளங்கும் என் நெஞ்சமே! நீ வாழ்க! நீ வருந்துவாயாக! நம் வீட்டு மரத்தில் படர்ந்து வெயிலில் மலர்ந்த முல்லை மலரின் மணம் கமழும் அடர்ந்த கரிய கூந்தலை உடைய அவள் நமக்கு யார்?",
- "explanation": "The hero speaks to his own heart in a state of yearning and helplessness. He compares his desolate, lacklustre heart to the bare, flowerless heads of bards who have lost their generous patron Evvi and now carry empty lutes. He bids his heart to grieve, questioning what claim they have on the heroine, whose dark, thick tresses smell of the fresh wild jasmine blooming on the tree in their own courtyard. The imagery of the house-tree and the jasmine highlights her domestic presence and his feeling of estrangement. This contrast between intimate proximity and emotional distance perfectly captures the mood of the Marutam landscape.",
+ "literal": "Evvi lost poor-lute bards' / flower-less empty head like, desolately / grieve, may you live, O heart! House-tree's / bright wild-jasmine smelling / many-dark tresses, who is she to us?",
+ "translation": "O my heart, may you live! You grieve desolately like the empty, flowerless heads of the poor lute-playing bards who lost their patron Evvi. Who is she to us, with her thick, dark tresses that smell of the bright wild jasmine growing on the tree in our courtyard?",
+ "modern": "வள்ளல் எவ்வியை இழந்த வறுமையுற்ற யாழ் வாசிக்கும் பாணர்களுடைய பூக்கள் இல்லாத வெற்றுத் தலைகளைப் போல, என் நெஞ்சமே! நீ வாடி வருந்துகிறாய். நீ வாழ்க! நம் வீட்டின் மரத்தில் படர்ந்துள்ள, ஒளியுடைய காட்டு மல்லிகையின் மணம் வீசும் அடர்ந்த கரிய கூந்தலை உடைய அவள் நமக்கு யார்?",
+ "explanation": "The hero is speaking to his own heart in the Marutam (agricultural) landscape. He has returned home or is contemplating his relationship with his wife, feeling a sense of distance or unworthiness. He compares his grieving, desolate heart to the flowerless, empty heads of the bards who lost their generous patron Evvi and could no longer afford to wear flowers. The image of the wild jasmine (மௌவல்) blooming on the tree in the courtyard of the house signifies domesticity and purity. By asking 'who is she to us?', he expresses a mixture of awe, longing, and a sense of estrangement from his beloved wife whose hair carries the sweet fragrance of home.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

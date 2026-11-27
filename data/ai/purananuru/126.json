@@ -25,12 +25,17 @@
      "gloss": "elephant"
     },
     {
-     "surface": "ஓடை",
+     "surface": "ஓடைப்",
      "parts": [
       {
        "text": "ஓடை",
        "lemma": "ஓடை",
        "gloss": "forehead plate"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "forehead plate"
@@ -51,7 +56,7 @@
      "parts": [
       {
        "text": "கொண்டு",
-       "lemma": "கொண்டு",
+       "lemma": "கொள்",
        "gloss": "having taken"
       }
      ],
@@ -62,7 +67,7 @@
      "parts": [
       {
        "text": "பாணர்",
-       "lemma": "பாணர்",
+       "lemma": "பாணன்",
        "gloss": "bards"
       }
      ],
@@ -80,12 +85,17 @@
      "gloss": "head"
     },
     {
-     "surface": "பொலிய",
+     "surface": "பொலியத்",
      "parts": [
       {
        "text": "பொலிய",
        "lemma": "பொலி",
        "gloss": "to shine"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "to shine"
@@ -106,12 +116,17 @@
   {
    "words": [
     {
-     "surface": "வாடா",
+     "surface": "வாடாத்",
      "parts": [
       {
        "text": "வாடா",
-       "lemma": "வாடா",
+       "lemma": "வாடு",
        "gloss": "unfading"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "unfading"
@@ -159,12 +174,17 @@
   {
    "words": [
     {
-     "surface": "ஓடா",
+     "surface": "ஓடாப்",
      "parts": [
       {
        "text": "ஓடா",
-       "lemma": "ஓடா",
+       "lemma": "ஓடு",
        "gloss": "unretreating"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "unretreating"
@@ -212,10 +232,10 @@
       {
        "text": "வல்ல்ஞ்ம்",
        "lemma": "வல்ல்ஞ்ம்",
-       "gloss": ""
+       "gloss": "we who are capable"
       }
      ],
-     "gloss": "",
+     "gloss": "we who are capable",
      "split_unverified": true
     },
     {
@@ -223,12 +243,11 @@
      "parts": [
       {
        "text": "அல்லேம்",
-       "lemma": "அல்லேம்",
-       "gloss": ""
+       "lemma": "அல்",
+       "gloss": "we are not"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we are not"
     },
     {
      "surface": "ஆயினும்",
@@ -236,11 +255,10 @@
       {
        "text": "ஆயினும்",
        "lemma": "ஆயினும்",
-       "gloss": ""
+       "gloss": "although"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "although"
     },
     {
      "surface": "வல்லே",
@@ -248,14 +266,12 @@
       {
        "text": "வல்லே",
        "lemma": "வல்லே",
-       "gloss": ""
+       "gloss": "quickly"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "quickly"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -265,10 +281,10 @@
       {
        "text": "நின்வயிற்",
        "lemma": "நின்வயிற்",
-       "gloss": ""
+       "gloss": "towards you"
       }
      ],
-     "gloss": "",
+     "gloss": "towards you",
      "split_unverified": true
     },
     {
@@ -276,12 +292,11 @@
      "parts": [
       {
        "text": "கிளக்குவம்",
-       "lemma": "கிளக்குவம்",
-       "gloss": ""
+       "lemma": "கிளத்தல்",
+       "gloss": "we will speak"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we will speak"
     },
     {
      "surface": "ஆயின்",
@@ -289,11 +304,10 @@
       {
        "text": "ஆயின்",
        "lemma": "ஆயின்",
-       "gloss": ""
+       "gloss": "if"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "if"
     },
     {
      "surface": "கங்குல்",
@@ -301,43 +315,38 @@
       {
        "text": "கங்குல்",
        "lemma": "கங்குல்",
-       "gloss": ""
+       "gloss": "night"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "night"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "துயில்மடிந்து",
+     "surface": "துயில்மடிந்",
      "parts": [
       {
-       "text": "துயில்",
-       "lemma": "துயில்",
-       "gloss": "sleep"
-      },
-      {
-       "text": "மடிந்து",
-       "lemma": "மடி",
-       "gloss": "having folded"
+       "text": "துயில்மடிந்",
+       "lemma": "துயில்மடிந்",
+       "gloss": "sleep-folded"
       }
      ],
-     "gloss": "having slept"
+     "gloss": "sleep-folded",
+     "split_unverified": true
     },
     {
-     "surface": "அன்ன",
+     "surface": "தன்ன",
      "parts": [
       {
-       "text": "அன்ன",
-       "lemma": "அன்ன",
+       "text": "தன்ன",
+       "lemma": "தன்ன",
        "gloss": "like"
       }
      ],
-     "gloss": "like"
+     "gloss": "like",
+     "split_unverified": true
     },
     {
      "surface": "தூங்கிருள்",
@@ -359,13 +368,17 @@
      "surface": "இறும்பின்",
      "parts": [
       {
-       "text": "இறும்பின்",
-       "lemma": "இறும்பின்",
-       "gloss": "of the forest"
+       "text": "இறும்பு",
+       "lemma": "இறும்பு",
+       "gloss": "thicket"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "of the forest",
-     "split_unverified": true
+     "gloss": "of the thicket"
     }
    ]
   },
@@ -405,15 +418,25 @@
      "gloss": "waterfall"
     },
     {
-     "surface": "முள்ளூர்",
+     "surface": "முள்ளூர்ப்",
      "parts": [
       {
-       "text": "முள்ளூர்",
-       "lemma": "முள்ளூர்",
-       "gloss": "Mullur hill"
+       "text": "முள்",
+       "lemma": "முள்",
+       "gloss": "thorn"
+      },
+      {
+       "text": "ஊர்",
+       "lemma": "ஊர்",
+       "gloss": "town"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "Mullur hill"
+     "gloss": "of Muḷḷūr hill"
     },
     {
      "surface": "பொருநர்",
@@ -434,37 +457,44 @@
      "surface": "தெறலரு",
      "parts": [
       {
-       "text": "தெறலரு",
-       "lemma": "தெறலரு",
-       "gloss": ""
+       "text": "தெறல்",
+       "lemma": "தெறல்",
+       "gloss": "destruction"
+      },
+      {
+       "text": "அரு",
+       "lemma": "அரு",
+       "gloss": "difficult"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "difficult to destroy"
     },
     {
      "surface": "மரபின்",
      "parts": [
       {
-       "text": "மரபின்",
-       "lemma": "மரபின்",
-       "gloss": ""
+       "text": "மரபு",
+       "lemma": "மரபு",
+       "gloss": "lineage"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the lineage"
     },
     {
      "surface": "நின்",
      "parts": [
       {
        "text": "நின்",
-       "lemma": "நின்",
-       "gloss": ""
+       "lemma": "நீ",
+       "gloss": "your"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "your"
     },
     {
      "surface": "கிளையடும்",
@@ -472,10 +502,10 @@
       {
        "text": "கிளையடும்",
        "lemma": "கிளையடும்",
-       "gloss": ""
+       "gloss": "with relatives"
       }
      ],
-     "gloss": "",
+     "gloss": "with relatives",
      "split_unverified": true
     },
     {
@@ -483,15 +513,13 @@
      "parts": [
       {
        "text": "பொலிய",
-       "lemma": "பொலிய",
-       "gloss": ""
+       "lemma": "பொலி",
+       "gloss": "to flourish"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to flourish"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -499,25 +527,33 @@
      "surface": "நிலமிசைப்",
      "parts": [
       {
-       "text": "நிலமிசைப்",
-       "lemma": "நிலமிசைப்",
-       "gloss": ""
+       "text": "நிலம்",
+       "lemma": "நிலம்",
+       "gloss": "earth"
+      },
+      {
+       "text": "மிசை",
+       "lemma": "மிசை",
+       "gloss": "upon"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "upon the earth"
     },
     {
      "surface": "பரந்த",
      "parts": [
       {
        "text": "பரந்த",
-       "lemma": "பரந்த",
-       "gloss": ""
+       "lemma": "பர",
+       "gloss": "spread"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "spread"
     },
     {
      "surface": "மக்கட்டு",
@@ -525,10 +561,10 @@
       {
        "text": "மக்கட்டு",
        "lemma": "மக்கட்டு",
-       "gloss": ""
+       "gloss": "to the people"
       }
      ],
-     "gloss": "",
+     "gloss": "to the people",
      "split_unverified": true
     },
     {
@@ -537,14 +573,12 @@
       {
        "text": "எல்லாம்",
        "lemma": "எல்லாம்",
-       "gloss": ""
+       "gloss": "all"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "all"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -565,10 +599,10 @@
       {
        "text": "அழுக்கு",
        "lemma": "அழுக்கு",
-       "gloss": "impurity"
+       "gloss": "blemish"
       }
      ],
-     "gloss": "impurity"
+     "gloss": "blemish"
     },
     {
      "surface": "அற்ற",
@@ -582,20 +616,26 @@
      "gloss": "free from"
     },
     {
-     "surface": "அந்தணாளன்",
+     "surface": "அந்த",
      "parts": [
       {
-       "text": "அந்தண்",
-       "lemma": "அந்தண்",
-       "gloss": "beautiful/virtuous"
-      },
-      {
-       "text": "ஆளன்",
-       "lemma": "ஆளன்",
-       "gloss": "man"
+       "text": "அந்த",
+       "lemma": "அந்த",
+       "gloss": "that"
       }
      ],
-     "gloss": "virtuous person"
+     "gloss": "that"
+    },
+    {
+     "surface": "ணாளன்",
+     "parts": [
+      {
+       "text": "ணாளன்",
+       "lemma": "நாளின்",
+       "gloss": "wise man"
+      }
+     ],
+     "gloss": "wise man"
     }
    ]
   },
@@ -606,12 +646,11 @@
      "parts": [
       {
        "text": "இரந்து",
-       "lemma": "இரந்து",
-       "gloss": ""
+       "lemma": "இர",
+       "gloss": "begging"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "begging"
     },
     {
      "surface": "சென்",
@@ -619,10 +658,10 @@
       {
        "text": "சென்",
        "lemma": "சென்",
-       "gloss": ""
+       "gloss": "going"
       }
      ],
-     "gloss": "",
+     "gloss": "going",
      "split_unverified": true
     },
     {
@@ -631,10 +670,10 @@
       {
        "text": "மாக்கட்கு",
        "lemma": "மாக்கட்கு",
-       "gloss": ""
+       "gloss": "to people"
       }
      ],
-     "gloss": "",
+     "gloss": "to people",
      "split_unverified": true
     },
     {
@@ -643,38 +682,39 @@
       {
        "text": "இனி",
        "lemma": "இனி",
-       "gloss": ""
+       "gloss": "now"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "now"
     },
     {
      "surface": "இடன்",
      "parts": [
       {
        "text": "இடன்",
-       "lemma": "இடன்",
-       "gloss": ""
+       "lemma": "இடம்",
+       "gloss": "place"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "place"
     },
     {
      "surface": "இன்றிப்",
      "parts": [
       {
-       "text": "இன்றிப்",
-       "lemma": "இன்றிப்",
-       "gloss": ""
+       "text": "இன்றி",
+       "lemma": "இன்றி",
+       "gloss": "without"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "without"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -683,12 +723,11 @@
      "parts": [
       {
        "text": "பரந்து",
-       "lemma": "பரந்து",
-       "gloss": ""
+       "lemma": "பர",
+       "gloss": "having spread"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having spread"
     },
     {
      "surface": "இசை",
@@ -696,11 +735,10 @@
       {
        "text": "இசை",
        "lemma": "இசை",
-       "gloss": ""
+       "gloss": "fame"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "fame"
     },
     {
      "surface": "நிறகப்",
@@ -708,10 +746,10 @@
       {
        "text": "நிறகப்",
        "lemma": "நிறகப்",
-       "gloss": ""
+       "gloss": "to stand"
       }
      ],
-     "gloss": "",
+     "gloss": "to stand",
      "split_unverified": true
     },
     {
@@ -719,12 +757,11 @@
      "parts": [
       {
        "text": "பாடினன்",
-       "lemma": "பாடினன்",
-       "gloss": ""
+       "lemma": "பாடு",
+       "gloss": "he sang"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "he sang"
     },
     {
      "surface": "அதற்கொண்டு",
@@ -732,14 +769,13 @@
       {
        "text": "அதற்கொண்டு",
        "lemma": "அதற்கொண்டு",
-       "gloss": ""
+       "gloss": "because of that"
       }
      ],
-     "gloss": "",
+     "gloss": "because of that",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -757,7 +793,7 @@
        "gloss": "abundant"
       }
      ],
-     "gloss": "anger-filled"
+     "gloss": "anger-abundant"
     },
     {
      "surface": "தானை",
@@ -785,17 +821,13 @@
      "surface": "குடகடல்",
      "parts": [
       {
-       "text": "குட",
-       "lemma": "குடம்",
-       "gloss": "west"
-      },
-      {
-       "text": "கடல்",
-       "lemma": "கடல்",
-       "gloss": "sea"
+       "text": "குடகடல்",
+       "lemma": "குடகடல்",
+       "gloss": "western sea"
       }
      ],
-     "gloss": "western sea"
+     "gloss": "western sea",
+     "split_unverified": true
     }
    ]
   },
@@ -805,13 +837,17 @@
      "surface": "பொலந்தரு",
      "parts": [
       {
-       "text": "பொலந்தரு",
-       "lemma": "பொலந்தரு",
-       "gloss": ""
+       "text": "பொலம்",
+       "lemma": "பொலம்",
+       "gloss": "gold"
+      },
+      {
+       "text": "தரு",
+       "lemma": "தரு",
+       "gloss": "bringing"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "gold-bringing"
     },
     {
      "surface": "நாவாய்",
@@ -819,23 +855,21 @@
       {
        "text": "நாவாய்",
        "lemma": "நாவாய்",
-       "gloss": ""
+       "gloss": "ship"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "ship"
     },
     {
      "surface": "ஓட்டிய",
      "parts": [
       {
        "text": "ஓட்டிய",
-       "lemma": "ஓட்டிய",
-       "gloss": ""
+       "lemma": "ஓட்டு",
+       "gloss": "sailed"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sailed"
     },
     {
      "surface": "அவ்",
@@ -843,26 +877,28 @@
       {
        "text": "அவ்",
        "lemma": "அவ்",
-       "gloss": ""
+       "gloss": "that"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "that"
     },
     {
      "surface": "வழிப்",
      "parts": [
       {
-       "text": "வழிப்",
-       "lemma": "வழிப்",
-       "gloss": ""
+       "text": "வழி",
+       "lemma": "வழி",
+       "gloss": "way"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "way"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -886,14 +922,9 @@
      "surface": "செல்கலாது",
      "parts": [
       {
-       "text": "செல்",
+       "text": "செல்கலாது",
        "lemma": "செல்",
-       "gloss": "go"
-      },
-      {
-       "text": "கலாது",
-       "lemma": "கலாது",
-       "gloss": "unable"
+       "gloss": "unable to go"
       }
      ],
      "gloss": "unable to go"
@@ -902,14 +933,9 @@
      "surface": "அனையேம்",
      "parts": [
       {
-       "text": "அனை",
-       "lemma": "அனை",
-       "gloss": "such"
-      },
-      {
-       "text": "ஏம்",
-       "lemma": "ஏம்",
-       "gloss": "we"
+       "text": "அனையேம்",
+       "lemma": "அனைய",
+       "gloss": "we are like that"
       }
      ],
      "gloss": "we are like that"
@@ -920,10 +946,10 @@
       {
        "text": "அத்தை",
        "lemma": "அத்தை",
-       "gloss": "expletive"
+       "gloss": "expletive particle"
       }
      ],
-     "gloss": "expletive"
+     "gloss": "expletive particle"
     }
    ]
   },
@@ -952,20 +978,26 @@
      "gloss": "driving"
     },
     {
-     "surface": "அசைதர",
+     "surface": "அசை",
      "parts": [
       {
        "text": "அசை",
        "lemma": "அசை",
-       "gloss": "weariness"
-      },
+       "gloss": "distress"
+      }
+     ],
+     "gloss": "distress"
+    },
+    {
+     "surface": "தர",
+     "parts": [
       {
        "text": "தர",
        "lemma": "தா",
-       "gloss": "to give"
+       "gloss": "giving"
       }
      ],
-     "gloss": "to suffer weariness"
+     "gloss": "giving"
     },
     {
      "surface": "வந்து",
@@ -1004,10 +1036,10 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "with"
+       "gloss": "of"
       }
      ],
-     "gloss": "with generosity"
+     "gloss": "generosity"
     },
     {
      "surface": "தொடுத்தனம்",
@@ -1015,18 +1047,23 @@
       {
        "text": "தொடுத்தனம்",
        "lemma": "தொடு",
-       "gloss": "we bound"
+       "gloss": "we bound/praised"
       }
      ],
-     "gloss": "we bound"
+     "gloss": "we bound/praised"
     },
     {
      "surface": "யாமே",
      "parts": [
       {
-       "text": "யாமே",
+       "text": "யாம்",
        "lemma": "யாம்",
-       "gloss": "we indeed"
+       "gloss": "we"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
      "gloss": "we indeed"
@@ -1035,43 +1072,33 @@
      "surface": "முள்ளெயிற்று",
      "parts": [
       {
-       "text": "முள்",
-       "lemma": "முள்",
-       "gloss": "sharpness"
-      },
-      {
-       "text": "எயிற்று",
-       "lemma": "எயிறு",
-       "gloss": "tooth"
+       "text": "முள்ளெயிற்று",
+       "lemma": "முள்ளெயிற்று",
+       "gloss": "sharp teeth"
       }
      ],
-     "gloss": "sharp-toothed"
+     "gloss": "sharp teeth",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "அரவு",
+     "surface": "அரவுஎறி",
      "parts": [
       {
        "text": "அரவு",
        "lemma": "அரவு",
-       "gloss": "snake"
-      }
-     ],
-     "gloss": "snake"
-    },
-    {
-     "surface": "எறி",
-     "parts": [
+       "gloss": "serpent"
+      },
       {
        "text": "எறி",
        "lemma": "எறி",
        "gloss": "striking"
       }
      ],
-     "gloss": "striking"
+     "gloss": "serpent-striking"
     },
     {
      "surface": "உருமின்",
@@ -1090,26 +1117,20 @@
      "gloss": "like thunder"
     },
     {
-     "surface": "முரசு",
+     "surface": "முரசெழுந்து",
      "parts": [
       {
        "text": "முரசு",
        "lemma": "முரசு",
        "gloss": "drum"
-      }
-     ],
-     "gloss": "drum"
-    },
-    {
-     "surface": "எழுந்து",
-     "parts": [
+      },
       {
        "text": "எழுந்து",
        "lemma": "எழு",
-       "gloss": "having risen"
+       "gloss": "rising"
       }
      ],
-     "gloss": "having risen"
+     "gloss": "drum rising"
     },
     {
      "surface": "இயம்ப",
@@ -1132,11 +1153,10 @@
       {
        "text": "அண்ணல்",
        "lemma": "அண்ணல்",
-       "gloss": ""
+       "gloss": "majestic"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "majestic"
     },
     {
      "surface": "யானையடு",
@@ -1144,10 +1164,10 @@
       {
        "text": "யானையடு",
        "lemma": "யானையடு",
-       "gloss": ""
+       "gloss": "with elephant"
       }
      ],
-     "gloss": "",
+     "gloss": "with elephant",
      "split_unverified": true
     },
     {
@@ -1155,12 +1175,11 @@
      "parts": [
       {
        "text": "வேந்து",
-       "lemma": "வேந்து",
-       "gloss": ""
+       "lemma": "வேந்தன்",
+       "gloss": "kings"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "kings"
     },
     {
      "surface": "களத்து",
@@ -1168,10 +1187,10 @@
       {
        "text": "களத்து",
        "lemma": "களத்து",
-       "gloss": ""
+       "gloss": "on the battlefield"
       }
      ],
-     "gloss": "",
+     "gloss": "on the battlefield",
      "split_unverified": true
     },
     {
@@ -1179,37 +1198,55 @@
      "parts": [
       {
        "text": "ஒழிய",
-       "lemma": "ஒழிய",
-       "gloss": ""
+       "lemma": "ஒழி",
+       "gloss": "to perish"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to perish"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "அருஞ்சமம்",
+     "surface": "அருஞ்",
      "parts": [
       {
-       "text": "அருஞ்சமம்",
-       "lemma": "அருஞ்சமம்",
-       "gloss": "difficult battle"
+       "text": "அரு",
+       "lemma": "அருமை",
+       "gloss": "difficult"
+      },
+      {
+       "text": "ஞ்",
+       "lemma": "ஞ்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "difficult battle",
-     "split_unverified": true
+     "gloss": "difficult"
     },
     {
-     "surface": "ததைய",
+     "surface": "சமம்",
+     "parts": [
+      {
+       "text": "சமம்",
+       "lemma": "சமம்",
+       "gloss": "battle"
+      }
+     ],
+     "gloss": "battle"
+    },
+    {
+     "surface": "ததையத்",
      "parts": [
       {
        "text": "ததைய",
        "lemma": "ததை",
        "gloss": "to shatter"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "to shatter"
@@ -1241,23 +1278,33 @@
   {
    "words": [
     {
-     "surface": "நண்ணா",
+     "surface": "நண்ணாத்",
      "parts": [
       {
        "text": "நண்ணா",
        "lemma": "நண்ணு",
-       "gloss": "unfriendly"
+       "gloss": "unapproaching/hostile"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "unfriendly"
+     "gloss": "hostile"
     },
     {
-     "surface": "தெவ்வர்",
+     "surface": "தெவ்வர்த்",
      "parts": [
       {
        "text": "தெவ்வர்",
        "lemma": "தெவ்வர்",
        "gloss": "enemies"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "enemies"
@@ -1278,26 +1325,20 @@
   {
    "words": [
     {
-     "surface": "பெண்ணை",
+     "surface": "பெண்ணையம்",
      "parts": [
       {
        "text": "பெண்ணை",
        "lemma": "பெண்ணை",
        "gloss": "Pennai river"
-      }
-     ],
-     "gloss": "Pennai river"
-    },
-    {
-     "surface": "அம்",
-     "parts": [
+      },
       {
        "text": "அம்",
        "lemma": "அம்",
-       "gloss": "beautiful"
+       "gloss": "beautiful/adjective suffix"
       }
      ],
-     "gloss": "beautiful"
+     "gloss": "Pennai river"
     },
     {
      "surface": "படப்பை",
@@ -1305,45 +1346,45 @@
       {
        "text": "படப்பை",
        "lemma": "படப்பை",
-       "gloss": "garden"
+       "gloss": "fertile garden"
       }
      ],
-     "gloss": "garden"
+     "gloss": "fertile garden"
     },
     {
-     "surface": "நாடு",
+     "surface": "நாடுகிழ",
      "parts": [
       {
        "text": "நாடு",
        "lemma": "நாடு",
-       "gloss": "country"
-      }
-     ],
-     "gloss": "country"
-    },
-    {
-     "surface": "கிழவோயே",
-     "parts": [
-      {
-       "text": "கிழவோய்",
-       "lemma": "கிழவோன்",
-       "gloss": "lord"
+       "gloss": "land"
       },
       {
-       "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "vocative"
+       "text": "கிழ",
+       "lemma": "கிழவோன்",
+       "gloss": "lord"
       }
      ],
-     "gloss": "O lord!"
+     "gloss": "lord of the land"
+    },
+    {
+     "surface": "வோயே",
+     "parts": [
+      {
+       "text": "வோயே",
+       "lemma": "வோன்",
+       "gloss": "oh lord!"
+      }
+     ],
+     "gloss": "oh lord!"
     }
    ]
   }
  ],
- "literal": "Having taken the gold from the head-ornaments of the enemies' elephants, to make the heads of bards shine, / crowning them with unfading golden lotus flowers of great glory, / O descendant of the strong ancestor of unretreating determination! / Even though we are not highly capable of singing, quickly / if we speak of your qualities, like the night / dense darkness settled in sleep in the forest, / the warriors of Mullur hill with waterfalls sounding like drums, / along with your relatives of tradition difficult to destroy, will shine. / For all the people spread upon the earth, / the virtuous Kapilar, free from any impurity of the senses, / sang so that there is no place left for the begging people, / and his fame spread and stood forever. Therefore, / just as when the Chera king of anger-filled army sailed his gold-bringing ships in the western sea, / other ships could not sail there, we are like that indeed! / Driven by poverty, coming with weariness, / we bound ourselves to your generosity. Like the thunder / that strikes the sharp-toothed snake, the drums rise and sound, / while majestic elephants and kings perish on the battlefield, / attacking so that the difficult battle shatters, and greatly / resisting the hostile enemies who do not submit, / O lord of the country with gardens on the banks of the beautiful Pennai river!",
- "translation": "Taking the gold from the forehead-plates of the enemies' elephants to make the heads of bards shine, crowning them with unfading golden lotuses of great glory, O descendant of the strong ancestor of unretreating determination! Even though we are not highly skilled, if we sing of you, the warriors of Mullur hill—where waterfalls sound like drums—will shine along with your relatives of indestructible lineage, like a dense forest darkness sleeping at night. The virtuous Kapilar, free from any impurity of mind, sang of you so that his fame spread and stood everywhere, leaving no room for other begging folk to go. Therefore, just as other ships cannot sail when the Chera king of anger-filled army steers his gold-bringing ships in the western sea, we are like that! Driven by poverty, we have come in weariness and bound ourselves to your generosity. While drums rise and sound like thunder that strikes sharp-toothed snakes, and majestic elephants and kings perish on the battlefield, you attack and shatter the difficult battle, warding off hostile enemies. O lord of the country with fertile gardens on the banks of the beautiful Pennai river!",
- "modern": "பகைவர்களுடைய யானைகளின் நெற்றிப் பட்டத்துத் தங்கத்தைக் கொண்டு பாணர்களின் தலைகள் விளங்கும்படிச் செய்து, வாடாத பொற்றாமரைச் சூட்டிய சிறந்த புகழையும், பின்வாங்காத உறுதியையும் உடைய வலிமைமிக்க முன்னோனின் வழித்தோன்றலே! நாங்கள் சிறந்த பாடும் திறன் இல்லாதவர் என்றாலும், உன்னைப் பற்றிப் பாடினால், பறை போல ஒலிக்கும் அருவிகளைக் கொண்ட முள்ளூர் மலையின் தலைவனான நீயும், உன்னுடைய அழியாத மரபினைச் சேர்ந்த சுற்றத்தாரும், இரவில் அடர்ந்த இருள் சூழ்ந்த காடு போலப் பொலிவு பெறுவீர்கள். மனமாசற்ற அந்தணராகிய கபிலர், உலகத்து மக்கள் எல்லாரும் அறியும்படி உன்னைப் பாடினார். இரந்து செல்லும் மக்களுக்கு வேறு இடம் இல்லாதவாறு உனது புகழ் எங்கும் பரவி நிற்கும்படி அவர் பாடினார். அதனால், சினம் மிக்க படையை உடைய சேர மன்னன் தன் பொன் ஏற்றி வரும் கப்பல்களைக் மேற்குக்கடலில் செலுத்திய போது பிற கப்பல்கள் அங்கே செல்ல முடியாமல் போனது போல, நாங்களும் வேறு யாரிடமும் செல்லாமல் உன்னிடமே வந்துள்ளோம். வறுமை எங்களைத் துரத்த, தளர்ச்சியோடு வந்து உனது கொடைத் தன்மையை நம்பி உன்னைச் சார்ந்துள்ளோம். கூரிய பற்களை உடைய பாம்பைத் தாக்கும் இடி முழக்கம் போல முரசுகள் முழங்க, பெருமை பொருந்திய யானைகளும் அரசர்களும் போர்க்களத்தில் மடியுமாறு, அரிய போரைச் சிதறடித்துத் தாக்கி, பணியாத பகைவர்களைத் தடுக்கும், பெண்ணையாற்றின் அழகிய வயல்சூழ்ந்த நாட்டின் தலைவனே!",
- "explanation": "The poet Māṟōkkattu Nappacalaiyār addresses Malaiyamāṉ Tirumuṭikkāri, praising his immense generosity and valor. The poet compares their own situation to other ships that cannot sail when the powerful Chera king's gold-laden ships dominate the western sea; similarly, after the great poet Kapilar sang of Kāri's boundless generosity, there is no room or need for bards to go anywhere else. Driven by poverty, the poet has come to seek Kāri's patronage, trusting in his well-known liberality. The poem beautifully describes the landscape of Mullur hill and the Pennai river basin, linking the fertile nature of the land with the patron's limitless giving. Kāri is also praised as a fierce warrior who shatters enemy forces on the battlefield, protecting his land and relatives.",
+ "literal": "Having taken the gold from the forehead plates of enemies' elephants, to make the bards' heads shine / having adorned them with unfading golden lotuses of great glory, / O descendant of the strong man of unretreating determination! / Even though we are not capable, quickly / if we speak of your qualities, like the night / dense darkness where sleep has folded in the thicket, / the warriors of Muḷḷūr hill with waterfalls sounding like drums, / along with your relatives of indestructible lineage, may you flourish! / Upon the earth, to all the spread-out people, / Kapilar, the wise Brahmin free of sensory blemishes, / sang so that there is no space left now for the begging people, / and his fame spread; because of that, / when the Chera king of anger-abundant army sailed gold-bringing ships / in the western sea, other ships could not go there; / we are just like those other ships! / Driven by poverty, coming in distress, / we bound ourselves to your generosity. Like the thunder / that strikes the sharp-toothed serpent, when the war drums rise and sound, / leaving the majestic elephants and kings dead on the battlefield, / attacking so that the difficult battle shatters, / you hold back the hostile enemies, / O lord of the land of fertile gardens along the Pennai river!",
+ "translation": "O descendant of the strong-willed ancestor who took gold from the forehead plates of enemy elephants to fashion unfading golden lotuses for the heads of bards! Even if we lack the skill, if we sing of you, may you flourish with your indestructible kin at Muḷḷūr hill, where waterfalls roar like drums amidst thickets dark as sleep. The spotless poet Kapilar sang of you so bountifully that no room remains for any more seekers, and his fame has spread everywhere. Just as other ships cannot sail where the Chera king's gold-bearing fleet dominates the western sea, we find ourselves unable to praise you further, for Kapilar has said it all. Yet, driven by poverty, we have come to seek your renowned generosity. O lord of the fertile lands watered by the Pennai river, who shatters the enemy in fierce battles, leaving kings and their majestic elephants dead on the field while your war drums thunder like serpent-striking lightning!",
+ "modern": "பகைவர்களுடைய யானைகளின் நெற்றிப் பட்டத்துத் தங்கத்தைக் கொண்டு, பாணர்களின் தலைகள் விளங்கும்படி வாடாத பொற்றாமரையைச் சூட்டிய சிறந்த பெருமையுடைய, போரில் பின்வாங்காத வலிமைமிக்க முன்னோரின் வழித்தோன்றலே! நாங்கள் பாடும் திறமை இல்லாதவர்கள் என்றாலும், உன்னைப் பாடினால், முரசு போல ஒலிக்கும் அருவிகளைக் கொண்ட முள்ளூர் மலையின் தலைவனே, உன்னுடைய அழியாத சுற்றத்தாருடன் நீ டூழி வாழ்க! உலகத்தில் உள்ள எல்லா மக்களுக்கும் கேட்கும்படி, குற்றமற்ற அறிவையுடைய கபிலர் உன்னைப் பாடிப் புகழ் பெற்றார். அதனால், இரப்பவர்களுக்கு இனிமேல் இடம் இல்லாதவாறு உனது புகழ் பரவியது. சினமிக்க சேர மன்னன் தன் கப்பல்களை மேற்குக்கடலில் செலுத்தியபோது பிற கப்பல்கள் அங்கே செல்ல முடியாதவாறு தடுத்தது போல, கபிலர் உன்னைப் பாடி முடித்ததால் எங்களைப் போன்ற பிற பாணர்கள் பாடுவதற்கு வழியில்லாமல் தவிக்கிறோம். ஆயினும், வறுமை எங்களைத் துரத்துவதால் உனது கொடைத்தன்மையை நாடி வந்துள்ளோம். பெண்ணையாற்றின் கரையில் உள்ள செழிப்பான நாட்டின் தலைவனே! இடி முழக்கம் போல முரசுகள் ஒலிக்க, பகை வேந்தர்களும் அவர்களின் யானைகளும் போர்க்களத்தில் மடியும்படி தாக்கி வெல்லும் வீரனே!",
+ "explanation": "This poem is addressed to Malaiyamāṉ Tirumuṭikkāri by the poet Māṟōkkattu Nappacalaiyār. The poet praises Kāri's lineage, noting how his ancestors adorned bards with golden lotuses made from the spoils of enemy elephants. The poet then references the great poet Kapilar, who has already sung of Kāri so extensively and received so much patronage that there seems to be no room left for other bards to praise him. This is compared to the Chera king's ships dominating the western sea, preventing other vessels from sailing. Despite this, driven by poverty, the poet has come to seek Kāri's legendary generosity. The poem beautifully blends the themes of war (puram) and patronage, highlighting the fertile landscape of the Pennai river and the strength of the chief.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

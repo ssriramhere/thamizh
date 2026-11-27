@@ -8,10 +8,10 @@
       {
        "text": "சிறாஅஅர்",
        "lemma": "சிறாஅஅர்",
-       "gloss": "young boys"
+       "gloss": "youths"
       }
      ],
-     "gloss": "young boys",
+     "gloss": "youths",
      "split_unverified": true
     },
     {
@@ -19,13 +19,13 @@
      "parts": [
       {
        "text": "துடி",
-       "lemma": "துடி",
+       "lemma": "tuṭi",
        "gloss": "tuṭi drum"
       },
       {
        "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "pronominal plural suffix"
+       "lemma": "-ar",
+       "gloss": "personal plural suffix"
       }
      ],
      "gloss": "drummers"
@@ -35,16 +35,16 @@
      "parts": [
       {
        "text": "பாடு",
-       "lemma": "பாடு",
-       "gloss": "to sing"
+       "lemma": "pāṭu",
+       "gloss": "sing"
       },
       {
        "text": "வல்",
-       "lemma": "வல்",
-       "gloss": "capable of"
+       "lemma": "-val",
+       "gloss": "first person singular future suffix"
       }
      ],
-     "gloss": "singing"
+     "gloss": "I will sing"
     },
     {
      "surface": "மகாஅஅர்",
@@ -52,10 +52,10 @@
       {
        "text": "மகாஅஅர்",
        "lemma": "மகாஅஅர்",
-       "gloss": "children"
+       "gloss": "young warriors"
       }
      ],
-     "gloss": "children",
+     "gloss": "young warriors",
      "split_unverified": true
     }
    ]
@@ -63,80 +63,97 @@
   {
    "words": [
     {
-     "surface": "தூவெள்",
+     "surface": "தூ",
      "parts": [
       {
-       "text": "தூவெள்",
-       "lemma": "தூவெள்",
-       "gloss": ""
+       "text": "தூ",
+       "lemma": "tū",
+       "gloss": "pure"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "pure"
+    },
+    {
+     "surface": "வெள்",
+     "parts": [
+      {
+       "text": "வெள்",
+       "lemma": "veḷ",
+       "gloss": "white"
+      }
+     ],
+     "gloss": "white"
     },
     {
      "surface": "அறுவை",
      "parts": [
       {
        "text": "அறுவை",
-       "lemma": "அறுவை",
-       "gloss": ""
+       "lemma": "aṟuvai",
+       "gloss": "cloth"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "shroud"
     },
     {
-     "surface": "மாயோற்",
+     "surface": "மாயோன்",
      "parts": [
       {
-       "text": "மாயோற்",
-       "lemma": "மாயோற்",
-       "gloss": ""
+       "text": "மாயோன்",
+       "lemma": "māyōṉ",
+       "gloss": "dark-complexioned man"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "the dark-complexioned hero"
     },
     {
      "surface": "குறுகி",
      "parts": [
       {
-       "text": "குறுகி",
-       "lemma": "குறுகி",
-       "gloss": ""
+       "text": "குறுகு",
+       "lemma": "kuṟuku",
+       "gloss": "approach"
+      },
+      {
+       "text": "இ",
+       "lemma": "-i",
+       "gloss": "verbal participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having approached"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "இரும்புள்",
+     "surface": "இரும்",
      "parts": [
       {
        "text": "இரும்",
-       "lemma": "இரும்",
+       "lemma": "irum",
        "gloss": "dark"
-      },
+      }
+     ],
+     "gloss": "dark"
+    },
+    {
+     "surface": "புள்",
+     "parts": [
       {
        "text": "புள்",
-       "lemma": "புள்",
+       "lemma": "puḷ",
        "gloss": "bird"
       }
      ],
-     "gloss": "dark birds"
+     "gloss": "carrion birds"
     },
     {
      "surface": "பூசல்",
      "parts": [
       {
        "text": "பூசல்",
-       "lemma": "பூசல்",
+       "lemma": "pūcal",
        "gloss": "clamor"
       }
      ],
@@ -147,12 +164,12 @@
      "parts": [
       {
        "text": "ஓம்பு",
-       "lemma": "ஓம்பு",
+       "lemma": "ōmpu",
        "gloss": "ward off"
       },
       {
        "text": "மின்",
-       "lemma": "மின்",
+       "lemma": "-miṉ",
        "gloss": "plural imperative suffix"
       }
      ],
@@ -163,12 +180,12 @@
      "parts": [
       {
        "text": "யான்",
-       "lemma": "யான்",
+       "lemma": "yāṉ",
        "gloss": "I"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "-um",
        "gloss": "also"
       }
      ],
@@ -183,64 +200,70 @@
      "parts": [
       {
        "text": "விளரி",
-       "lemma": "விளரி",
-       "gloss": "wailing tune"
+       "lemma": "viḷari",
+       "gloss": "Viḷari melody"
       }
      ],
-     "gloss": "wailing tune"
+     "gloss": "Viḷari melody"
     },
     {
      "surface": "கொட்பின்",
      "parts": [
       {
        "text": "கொட்பு",
-       "lemma": "கொட்பு",
+       "lemma": "koṭpu",
        "gloss": "whirling"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "-iṉ",
        "gloss": "with"
       }
      ],
      "gloss": "with whirling"
     },
     {
-     "surface": "வெண்ணரி",
+     "surface": "வெள்",
      "parts": [
       {
        "text": "வெள்",
-       "lemma": "வெள்",
+       "lemma": "veḷ",
        "gloss": "white"
-      },
+      }
+     ],
+     "gloss": "white"
+    },
+    {
+     "surface": "நரி",
+     "parts": [
       {
        "text": "நரி",
-       "lemma": "நரி",
+       "lemma": "nari",
        "gloss": "jackal"
       }
      ],
-     "gloss": "white jackals"
+     "gloss": "jackals"
     },
     {
      "surface": "கடிகுவென்",
      "parts": [
       {
        "text": "கடி",
-       "lemma": "கடி",
-       "gloss": "to drive away"
+       "lemma": "kaṭi",
+       "gloss": "chase away"
       },
       {
        "text": "கு",
-       "lemma": "கு",
+       "lemma": "-ku-",
        "gloss": "future tense marker"
       },
       {
        "text": "என்",
-       "lemma": "என்",
-       "gloss": "I"
+       "lemma": "-eṉ",
+       "gloss": "first person singular suffix"
       }
      ],
-     "gloss": "I will drive away"
+     "gloss": "I will chase away"
     }
    ]
   },
@@ -304,12 +327,12 @@
      "parts": [
       {
        "text": "கொன்",
-       "lemma": "கொன்",
-       "gloss": "uselessly"
+       "lemma": "koṉ",
+       "gloss": "uselessness"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "-um",
        "gloss": "even"
       }
      ],
@@ -319,14 +342,9 @@
      "surface": "சாதல்",
      "parts": [
       {
-       "text": "சா",
-       "lemma": "சா",
-       "gloss": "to die"
-      },
-      {
-       "text": "தல்",
-       "lemma": "தல்",
-       "gloss": "verbal noun suffix"
+       "text": "சாதல்",
+       "lemma": "cātal",
+       "gloss": "dying"
       }
      ],
      "gloss": "dying"
@@ -336,86 +354,23 @@
      "parts": [
       {
        "text": "வெய்யோன்",
-       "lemma": "வெய்யோன்",
-       "gloss": "one who desires"
+       "lemma": "veyyōṉ",
+       "gloss": "he who desired"
       },
       {
        "text": "கு",
-       "lemma": "கு",
+       "lemma": "-ku",
        "gloss": "to"
       }
      ],
-     "gloss": "to him who desires"
+     "gloss": "to him who desired"
     },
     {
-     "surface": "தன்தலை",
+     "surface": "தன்",
      "parts": [
       {
        "text": "தன்",
-       "lemma": "தன்",
-       "gloss": "his"
-      },
-      {
-       "text": "தலை",
-       "lemma": "தலை",
-       "gloss": "head"
-      }
-     ],
-     "gloss": "his own head"
-    }
-   ]
-  },
-  {
-   "words": [
-    {
-     "surface": "மணிமருள்",
-     "parts": [
-      {
-       "text": "மணி",
-       "lemma": "மணி",
-       "gloss": "sapphire"
-      },
-      {
-       "text": "மருள்",
-       "lemma": "மருள்",
-       "gloss": "resembling"
-      }
-     ],
-     "gloss": "sapphire-resembling"
-    },
-    {
-     "surface": "மாலை",
-     "parts": [
-      {
-       "text": "மாலை",
-       "lemma": "மாலை",
-       "gloss": "garland"
-      }
-     ],
-     "gloss": "garland"
-    },
-    {
-     "surface": "சூட்டி",
-     "parts": [
-      {
-       "text": "சூட்டு",
-       "lemma": "சூட்டு",
-       "gloss": "to adorn"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "having"
-      }
-     ],
-     "gloss": "having adorned"
-    },
-    {
-     "surface": "அவன்",
-     "parts": [
-      {
-       "text": "அவன்",
-       "lemma": "அவன்",
+       "lemma": "taṉ",
        "gloss": "his"
       }
      ],
@@ -426,7 +381,7 @@
      "parts": [
       {
        "text": "தலை",
-       "lemma": "தலை",
+       "lemma": "talai",
        "gloss": "head"
       }
      ],
@@ -437,27 +392,108 @@
   {
    "words": [
     {
-     "surface": "ஒருகாழ்",
+     "surface": "மணி",
      "parts": [
       {
-       "text": "ஒரு",
-       "lemma": "ஒரு",
-       "gloss": "single"
-      },
-      {
-       "text": "காழ்",
-       "lemma": "காழ்",
-       "gloss": "strand"
+       "text": "மணி",
+       "lemma": "maṇi",
+       "gloss": "sapphire"
       }
      ],
-     "gloss": "single-strand"
+     "gloss": "sapphire"
+    },
+    {
+     "surface": "மருள்",
+     "parts": [
+      {
+       "text": "மருள்",
+       "lemma": "maruḷ",
+       "gloss": "resembling"
+      }
+     ],
+     "gloss": "resembling"
     },
     {
      "surface": "மாலை",
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "மாலை",
+       "lemma": "mālai",
+       "gloss": "garland"
+      }
+     ],
+     "gloss": "garland"
+    },
+    {
+     "surface": "சூட்டி",
+     "parts": [
+      {
+       "text": "சூட்டு",
+       "lemma": "cūṭṭu",
+       "gloss": "adorn"
+      },
+      {
+       "text": "இ",
+       "lemma": "-i",
+       "gloss": "verbal participle suffix"
+      }
+     ],
+     "gloss": "having adorned"
+    },
+    {
+     "surface": "அவன்",
+     "parts": [
+      {
+       "text": "அவன்",
+       "lemma": "avaṉ",
+       "gloss": "his"
+      }
+     ],
+     "gloss": "his"
+    },
+    {
+     "surface": "தலை",
+     "parts": [
+      {
+       "text": "தலை",
+       "lemma": "talai",
+       "gloss": "head"
+      }
+     ],
+     "gloss": "head"
+    }
+   ]
+  },
+  {
+   "words": [
+    {
+     "surface": "ஒரு",
+     "parts": [
+      {
+       "text": "ஒரு",
+       "lemma": "oru",
+       "gloss": "one"
+      }
+     ],
+     "gloss": "one"
+    },
+    {
+     "surface": "காழ்",
+     "parts": [
+      {
+       "text": "காழ்",
+       "lemma": "kāḻ",
+       "gloss": "strand"
+      }
+     ],
+     "gloss": "strand"
+    },
+    {
+     "surface": "மாலை",
+     "parts": [
+      {
+       "text": "மாலை",
+       "lemma": "mālai",
        "gloss": "garland"
       }
      ],
@@ -468,7 +504,7 @@
      "parts": [
       {
        "text": "தான்",
-       "lemma": "தான்",
+       "lemma": "tāṉ",
        "gloss": "himself"
       }
      ],
@@ -478,21 +514,25 @@
      "surface": "மலைந்தனனே",
      "parts": [
       {
-       "text": "மலைந்தனனே",
-       "lemma": "மலைந்தனனே",
-       "gloss": "he wore"
+       "text": "மலை",
+       "lemma": "malai",
+       "gloss": "wear"
+      },
+      {
+       "text": "ந்தனனே",
+       "lemma": "-ntaṉaṉē",
+       "gloss": "he did (past masculine singular with emphasis)"
       }
      ],
-     "gloss": "he wore",
-     "split_unverified": true
+     "gloss": "he wore"
     }
    ]
   }
  ],
- "literal": "Young boys, drummers, singing children, / approaching the dark youth in pure white cloth, / ward off the clamor of dark birds! I too, / with the whirling of the wailing tune, will drive away the white jackals. / May the king experience great distress like me! / To him who desires dying even in vain, / having adorned his head with a sapphire-resembling garland, / he himself wore a single-strand garland on his head.",
- "translation": "O young boys, drummers, and singing children! Approach the dark youth wrapped in pure white cloth, and ward off the clamorous dark birds. I, too, will drive away the white jackals by singing a wailing tune as I whirl around. May the king suffer great distress like me! For this youth, who desired death even in a useless cause, adorned his leader's head with a sapphire-like garland, and wore only a single-strand garland on his own head.",
- "modern": "துடி கொட்டும் சிறுவர்களே, பாடும் பிள்ளைகளே! தூய வெண்ணிற ஆடை போர்த்தப்பட்டிருக்கும் அந்தக் கரிய இளைஞனை நெருங்கி, கரிய பறவைகளின் ஆரவாரத்தைத் தடுத்து விரட்டுங்கள். நானும் விளரிப் பண்ணைப் பாடிச் சுழன்று, வெண்மையான நரிகளை விரட்டுவேன். என்னைப் போலவே அந்தப் பகை வேந்தனும் பெருந்துன்பத்தை அடையட்டும்! வீணாகச் சாவதையும் விரும்பிய இந்த வீரன், தன் தலைவனுடைய தலையில் நீலமணி போன்ற மாலையைச் சூட்டிவிட்டு, தன் தலையில் ஒரு சரமுடைய மாலையைத் தானே சூடிக்கொண்டு போர்க்களத்தில் வீழ்ந்தானே!",
- "explanation": "This poem belongs to the Karantai tiṇai (cattle recovery / defensive warfare). A mother or female relative is mourning a young warrior who has fallen on the battlefield. She calls upon the young drummers and singing children to guard his body, wrapped in a white shroud, from predatory birds. She promises to join them, singing the mournful viḷari tune to ward off the jackals. She curses the enemy king to suffer the same agonizing grief she feels. She recalls her son's selfless loyalty: he crowned his leader with a beautiful sapphire-like garland, while humbly wearing only a single-strand garland himself before charging into battle.",
+ "literal": "Young drummers, I will sing, O young warriors! / Approaching the dark-complexioned hero in a pure white shroud, / ward off the clamor of dark carrion birds! I too, / with the whirling of the Viḷari melody, will chase away the white jackals. / May the king experience a great distress like me! / To him who desired even a useless death, placing on his head / a sapphire-resembling garland, on his own head / he wore a single-strand garland.",
+ "translation": "O young drummers! O young warriors! I shall sing. Approach the dark-complexioned hero wrapped in a pure white shroud, and ward off the clamor of the dark carrion birds! I too, singing the mournful Viḷari melody in circles, will chase away the white jackals. May the king suffer a great distress like me! To this hero who desired death even in vain, the king adorned his head with his own sapphire-like garland, while on his own head, he wore only a single-strand wreath.",
+ "modern": "இளம் துடியர்களே! இளம் வீரர்களே! நான் பாடுவேன். தூய வெள்ளை ஆடையால் மூடப்பட்டிருக்கும் கரிய நிறத்து வீரனை நெருங்கி, கரிய பறவைகளின் ஆரவாரத்தைத் தடுத்து விரட்டுங்கள்! நானும் விளரிப் பண்ணைச் சுழன்று பாடி, வெண்மையான நரிகளை விரட்டுவேன். என்னைப்போலவே அரசனும் பெரும் துயரத்தை அடைவானாக! வீணாகச் சாவதையும் விரும்பிய இவ்வீரனுக்குத் தன் தலையிலிருந்த மணி போன்ற மாலையைச் சூட்டிவிட்டு, அவன் தன் தலையில் ஒரு தனி மாலையை மட்டுமே அணிந்து கொண்டானே!",
+ "explanation": "The poet, acting as a guardian of the fallen hero's body on the battlefield, speaks to the young drummers and warriors. He urges them to keep the carrion birds away from the corpse of the brave warrior who lies wrapped in a white shroud, while he himself promises to sing the mournful Viḷari melody to ward off the jackals. He expresses a deep empathy with the king, wishing that the king too feels the immense grief of losing such a warrior. The poem highlights the king's profound respect for the deceased hero, as the king placed his own precious sapphire-like garland on the hero's head and wore a simple single-strand garland himself. Key words include 'விதுப்பு' (distress/grief) and 'மாலை' (garland).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

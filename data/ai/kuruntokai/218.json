@@ -3,60 +3,80 @@
   {
    "words": [
     {
-     "surface": "விடர்முகை",
+     "surface": "விடர்",
      "parts": [
       {
        "text": "விடர்",
        "lemma": "விடர்",
        "gloss": "mountain cleft"
-      },
+      }
+     ],
+     "gloss": "mountain cleft"
+    },
+    {
+     "surface": "முகை",
+     "parts": [
       {
        "text": "முகை",
        "lemma": "முகை",
        "gloss": "cave"
       }
      ],
-     "gloss": "mountain cleft cave"
+     "gloss": "cave"
     },
     {
      "surface": "அடுக்கத்து",
      "parts": [
       {
-       "text": "அடுக்கத்து",
-       "lemma": "அடுக்கத்து",
-       "gloss": "of the mountain range"
+       "text": "அடுக்கு",
+       "lemma": "அடுக்கு",
+       "gloss": "mountain range"
+      },
+      {
+       "text": "அத்து",
+       "lemma": "அத்து",
+       "gloss": "oblique suffix"
       }
      ],
-     "gloss": "of the mountain range",
-     "split_unverified": true
+     "gloss": "of the mountain range"
     },
     {
-     "surface": "விறல்கெழு",
+     "surface": "விறல்",
      "parts": [
       {
        "text": "விறல்",
        "lemma": "விறல்",
-       "gloss": "might"
-      },
+       "gloss": "victory/power"
+      }
+     ],
+     "gloss": "victory/power"
+    },
+    {
+     "surface": "கெழு",
+     "parts": [
       {
        "text": "கெழு",
        "lemma": "கெழு",
-       "gloss": "possessing"
+       "gloss": "having"
       }
      ],
-     "gloss": "might-possessing"
+     "gloss": "having"
     },
     {
-     "surface": "சூலிக்குக்",
+     "surface": "சூலிக்கு",
      "parts": [
       {
-       "text": "சூலிக்குக்",
-       "lemma": "சூலிக்குக்",
-       "gloss": "to the goddess with a trident"
+       "text": "சூலி",
+       "lemma": "சூலி",
+       "gloss": "goddess with trident"
+      },
+      {
+       "text": "க்கு",
+       "lemma": "க்கு",
+       "gloss": "to"
       }
      ],
-     "gloss": "to the goddess with a trident",
-     "split_unverified": true
+     "gloss": "to the goddess with the trident"
     }
    ]
   },
@@ -68,15 +88,15 @@
       {
        "text": "கடன்",
        "lemma": "கடன்",
-       "gloss": "vow"
+       "gloss": "vow/duty"
       },
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "and"
+       "gloss": "also"
       }
      ],
-     "gloss": "and the vow"
+     "gloss": "vow also"
     },
     {
      "surface": "பூணாம்",
@@ -84,12 +104,12 @@
       {
        "text": "பூண்",
        "lemma": "பூண்",
-       "gloss": "to undertake"
+       "gloss": "to undertake/wear"
       },
       {
        "text": "ஆம்",
        "lemma": "ஆம்",
-       "gloss": "negative first-person plural suffix"
+       "gloss": "we will not"
       }
      ],
      "gloss": "we will not undertake"
@@ -100,10 +120,10 @@
       {
        "text": "கைந்நூல்",
        "lemma": "கைந்நூல்",
-       "gloss": "protective hand-thread"
+       "gloss": "protective thread tied on the hand"
       }
      ],
-     "gloss": "protective hand-thread",
+     "gloss": "protective thread tied on the hand",
      "split_unverified": true
     },
     {
@@ -117,7 +137,7 @@
       {
        "text": "வாம்",
        "lemma": "ஆம்",
-       "gloss": "negative first-person plural suffix"
+       "gloss": "we will not"
       }
      ],
      "gloss": "we will not tie"
@@ -137,10 +157,10 @@
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "and"
+       "gloss": "also"
       }
      ],
-     "gloss": "and bird omens"
+     "gloss": "bird omens also"
     },
     {
      "surface": "ஓராம்",
@@ -153,7 +173,7 @@
       {
        "text": "ஆம்",
        "lemma": "ஆம்",
-       "gloss": "negative first-person plural suffix"
+       "gloss": "we will not"
       }
      ],
      "gloss": "we will not examine"
@@ -164,15 +184,15 @@
       {
        "text": "விரிச்சி",
        "lemma": "விரிச்சி",
-       "gloss": "omen of heard words"
+       "gloss": "voice of omen"
       },
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "and"
+       "gloss": "also"
       }
      ],
-     "gloss": "and voice-omens"
+     "gloss": "and the voice of omen"
     },
     {
      "surface": "நில்லாம்",
@@ -180,55 +200,67 @@
       {
        "text": "நில்",
        "lemma": "நில்",
-       "gloss": "to wait for"
+       "gloss": "to stand"
       },
       {
        "text": "ஆம்",
        "lemma": "ஆம்",
-       "gloss": "negative first-person plural suffix"
+       "gloss": "we will not"
       }
      ],
-     "gloss": "we will not wait for"
+     "gloss": "we will not stand waiting for"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "உள்ளலு",
+     "surface": "உள்ளலும்",
      "parts": [
       {
-       "text": "உள்ளலு",
-       "lemma": "உள்ளலு",
-       "gloss": ""
+       "text": "உள்ளல்",
+       "lemma": "உள்ளல்",
+       "gloss": "thinking"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even thinking"
     },
     {
-     "surface": "முள்ளா",
+     "surface": "உள்ளாம்",
      "parts": [
       {
-       "text": "முள்ளா",
-       "lemma": "முள்ளா",
-       "gloss": ""
+       "text": "உள்",
+       "lemma": "உள்",
+       "gloss": "to think"
+      },
+      {
+       "text": "ஆம்",
+       "lemma": "ஆம்",
+       "gloss": "we will not"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we will not think"
     },
     {
-     "surface": "மன்றே",
+     "surface": "அன்றே",
      "parts": [
       {
-       "text": "மன்றே",
-       "lemma": "மன்றே",
-       "gloss": ""
+       "text": "அன்று",
+       "lemma": "அன்று",
+       "gloss": "indeed"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "indeed"
     },
     {
      "surface": "தோழி",
@@ -236,14 +268,12 @@
       {
        "text": "தோழி",
        "lemma": "தோழி",
-       "gloss": ""
+       "gloss": "friend"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "O friend"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -305,39 +335,45 @@
      "parts": [
       {
        "text": "றிமைப்புவரை",
-       "lemma": "றிமைப்புவரை",
-       "gloss": ""
+       "lemma": "இமைப்புவரை",
+       "gloss": "even for the duration of a blink"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even for the duration of a blink"
     },
     {
-     "surface": "யமையா",
+     "surface": "அமையா",
      "parts": [
       {
-       "text": "யமையா",
-       "lemma": "யமையா",
-       "gloss": ""
+       "text": "அமை",
+       "lemma": "அமை",
+       "gloss": "to abide/stay"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆ",
+       "gloss": "not"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "not staying"
     },
     {
      "surface": "நம்வயின்",
      "parts": [
       {
-       "text": "நம்வயின்",
-       "lemma": "நம்வயின்",
-       "gloss": ""
+       "text": "நம்",
+       "lemma": "நம்",
+       "gloss": "our"
+      },
+      {
+       "text": "வயின்",
+       "lemma": "வயின்",
+       "gloss": "side/place"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "at our side"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -345,14 +381,9 @@
      "surface": "மறந்து",
      "parts": [
       {
-       "text": "மற",
-       "lemma": "மறத்தல்",
-       "gloss": "to forget"
-      },
-      {
-       "text": "ந்து",
-       "lemma": "ந்து",
-       "gloss": "past participle suffix"
+       "text": "மறந்து",
+       "lemma": "மறந்து",
+       "gloss": "having forgotten"
       }
      ],
      "gloss": "having forgotten"
@@ -372,14 +403,9 @@
      "surface": "அமைதல்",
      "parts": [
       {
-       "text": "அமை",
+       "text": "அமைதல்",
        "lemma": "அமைதல்",
-       "gloss": "to stay"
-      },
-      {
-       "text": "தல்",
-       "lemma": "தல்",
-       "gloss": "verbal noun suffix"
+       "gloss": "staying"
       }
      ],
      "gloss": "staying"
@@ -390,7 +416,7 @@
       {
        "text": "வல்லி",
        "lemma": "வல்லி",
-       "gloss": "capable person"
+       "gloss": "strong/capable person"
       },
       {
        "text": "ஓர்",
@@ -398,7 +424,7 @@
        "gloss": "plural suffix"
       }
      ],
-     "gloss": "capable ones"
+     "gloss": "those who are strong-hearted"
     },
     {
      "surface": "மாட்டே",
@@ -406,7 +432,7 @@
       {
        "text": "மாட்டு",
        "lemma": "மாட்டு",
-       "gloss": "with"
+       "gloss": "with/towards"
       },
       {
        "text": "ஏ",
@@ -419,10 +445,10 @@
    ]
   }
  ],
- "literal": "At the mountain cleft cave range, to the might-possessing goddess with a trident, / vows we will not undertake, hand-thread we will not tie; / bird omens we will not examine, voice-omens we will not wait for; / even thinking of us he does not think, indeed, O friend! / Since he was like life to life, than themselves / even for the duration of a blink not abiding, towards us / having forgotten, there staying is possible only for those capable ones.",
- "translation": "We will not make vows to the mighty goddess of the trident who resides in the mountain clefts, nor will we tie the protective thread on our wrists. We will not look for bird omens, nor wait for favorable voices. He does not even think of us, my friend! He who was like life to our life, who could not bear to be parted from us even for the blink of an eye, has now forgotten us and stays there. Only those with strong hearts are capable of doing that.",
- "modern": "தோழியே! மலைப்பிளவுகளின் குகைகளில் வாழும் வலிமை மிக்க சூலமேந்திய கொற்றவைக்கு நாம் நேர்த்திக்கடன் செலுத்த மாட்டோம்; கையில் காப்பு நாணும் கட்ட மாட்டோம். பறவைகளின் சகுனங்களை ஆராய மாட்டோம்; விரிச்சி கேட்டு நிற்கவும் மாட்டோம். நம் காதலர் நம்மைப் பற்றிச் சிறிதும் நினைக்கவே இல்லை. நம் உயிருக்கு உயிராக இருந்தவர், கண் இமைக்கும் நேரம் கூட நம்மைப் பிரிய ஆற்றாதவர், இப்போது நம்மை மறந்து அங்கேயே தங்கியிருப்பது நெஞ்சுறுதி படைத்தவர்களால்தான் இயலும்.",
- "explanation": "The heroine speaks to her confidante (தோழி) in this pālai (wasteland) poem, expressing her deep grief over her husband's prolonged absence. Her family or friends might suggest performing rituals to the goddess Sūli (Kotravai), tying protective threads, or looking for omens to ease her worry. She rejects all these rituals as futile because the hero has completely forgotten her. She contrasts his past behavior—when he was so loving that he could not bear to part from her even for the blink of an eye—with his current ability to stay away so long. She bitterly concludes that only those with exceptionally hard hearts (valliyōr) can forget their beloved and live apart like this.",
+ "literal": "In the mountain range with caves, to the powerful goddess with the trident / we will not undertake vows, we will not tie the protective hand-thread / we will not examine the birds, we will not stand waiting for the voice of omen / we will not even think of doing so, O friend! / Because he is like life to our life, more than himself / not staying even for the duration of a blink at our side / his staying there having forgotten us is only possible for those who are strong-hearted.",
+ "translation": "O friend! We will not make vows to the powerful goddess of the mountain caves, nor will we tie the protective thread on our hands. We will not consult the birds for omens, nor will we wait for the voice of good fortune. We will not even think of doing such things! Because he is like life to our life, and could not stay away from us even for the blink of an eye. If he can now forget us and stay there in that wasteland, it is only because he is strong-hearted.",
+ "modern": "தோழியே! மலைக்குகைகள் நிறைந்த மலையடுக்கில் வாழும் வெற்றி பொருந்திய சூலமேந்திய கொற்றவைக்கு நாம் நேர்த்திக்கடன் செலுத்த மாட்டோம்; கையில் காப்பு நாணும் கட்ட மாட்டோம். பறவைகளின் சகுனம் பார்க்க மாட்டோம்; விரிச்சி கேட்டு நிற்கவும் மாட்டோம். இவற்றைப்பற்றி நாம் நினைக்கவும் மாட்டோம். ஏனெனில், அவர் நம் உயிருக்கு உயிரானவர்; நம்மை விட்டு ஒரு கண் இமைக்கும் நேரம்கூட பிரியாமல் இருந்தவர். அப்படிப்பட்டவர் நம்மை மறந்துவிட்டு அந்தப் பாலைவனத்தில் தங்கியிருக்க முடிகிறது என்றால், அது போன்ற வன்னெஞ்சம் படைத்தவர்களால்தான் அது இயலும்.",
+ "explanation": "The heroine is speaking to her confidante in the Pālai (wasteland) landscape. Her lover has departed on a journey through the harsh desert to earn wealth, leaving her in deep grief. The foster-mother or others suggest performing rituals, making vows to the goddess Koṟṟavai, tying protective threads, or seeking omens to ensure his safe return and ease her suffering. The heroine rejects all these rituals, declaring that they will not perform any of them. She explains that her lover is so close to her that he is like life to her life, and he used to be unable to leave her side even for the blink of an eye. Since he has now managed to forget her and stay away in the distant land, she concludes that he must have a very strong, unyielding heart, and no rituals can change that.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

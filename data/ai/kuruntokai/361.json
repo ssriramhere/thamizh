@@ -8,23 +8,26 @@
       {
        "text": "அம்ம",
        "lemma": "அம்ம",
-       "gloss": ""
+       "gloss": "listen"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "listen"
     },
     {
      "surface": "வாழி",
      "parts": [
       {
-       "text": "வாழி",
-       "lemma": "வாழி",
-       "gloss": ""
+       "text": "வாழ்",
+       "lemma": "வாழ்",
+       "gloss": "live"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "optative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "may you live long"
     },
     {
      "surface": "தோழி",
@@ -32,26 +35,28 @@
       {
        "text": "தோழி",
        "lemma": "தோழி",
-       "gloss": ""
+       "gloss": "friend"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "friend"
     },
     {
      "surface": "அன்னைக்",
      "parts": [
       {
-       "text": "அன்னைக்",
-       "lemma": "அன்னைக்",
-       "gloss": ""
+       "text": "அன்னை",
+       "lemma": "அன்னை",
+       "gloss": "mother"
+      },
+      {
+       "text": "க்",
+       "lemma": "கு",
+       "gloss": "dative case suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to mother"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -59,52 +64,78 @@
      "surface": "குயர்நிலை",
      "parts": [
       {
-       "text": "குயர்நிலை",
-       "lemma": "குயர்நிலை",
-       "gloss": ""
+       "text": "க்",
+       "lemma": "கு",
+       "gloss": "dative suffix remnant"
+      },
+      {
+       "text": "உயர்",
+       "lemma": "உயர்",
+       "gloss": "high"
+      },
+      {
+       "text": "நிலை",
+       "lemma": "நிலை",
+       "gloss": "state"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "high state"
     },
     {
-     "surface": "உலகமுஞ்",
+     "surface": "உலகமும்",
      "parts": [
       {
-       "text": "உலகமுஞ்",
-       "lemma": "உலகமுஞ்",
-       "gloss": ""
+       "text": "உலகம்",
+       "lemma": "உலகம்",
+       "gloss": "world"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even the world"
     },
     {
      "surface": "சிறிதால்",
      "parts": [
       {
-       "text": "சிறிதால்",
-       "lemma": "சிறிதால்",
-       "gloss": ""
+       "text": "சிறிது",
+       "lemma": "சிறிது",
+       "gloss": "small"
+      },
+      {
+       "text": "ஆல்",
+       "lemma": "ஆல்",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "is small indeed"
     },
     {
-     "surface": "அவர்மலை",
+     "surface": "அவர்",
      "parts": [
       {
-       "text": "அவர்மலை",
-       "lemma": "அவர்மலை",
-       "gloss": ""
+       "text": "அவர்",
+       "lemma": "அவர்",
+       "gloss": "he"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "his"
+    },
+    {
+     "surface": "மலை",
+     "parts": [
+      {
+       "text": "மலை",
+       "lemma": "மலை",
+       "gloss": "mountain"
+      }
+     ],
+     "gloss": "mountain"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -123,28 +154,44 @@
      "surface": "பெய்த",
      "parts": [
       {
-       "text": "பெய்த",
+       "text": "பெய்",
        "lemma": "பெய்",
-       "gloss": "that rained"
+       "gloss": "pour"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "that rained"
+     "gloss": "that poured"
     },
     {
-     "surface": "மணங்கமழ்",
+     "surface": "மணம்",
      "parts": [
       {
        "text": "மணம்",
        "lemma": "மணம்",
        "gloss": "fragrance"
-      },
+      }
+     ],
+     "gloss": "fragrance"
+    },
+    {
+     "surface": "கமழ்",
+     "parts": [
       {
        "text": "கமழ்",
        "lemma": "கமழ்",
-       "gloss": "emitting"
+       "gloss": "emit fragrance"
       }
      ],
-     "gloss": "emitting fragrance"
+     "gloss": "emitting"
     },
     {
      "surface": "உந்தியொடு",
@@ -152,7 +199,7 @@
       {
        "text": "உந்தி",
        "lemma": "உந்தி",
-       "gloss": "freshet"
+       "gloss": "stream"
       },
       {
        "text": "ஒடு",
@@ -160,7 +207,7 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with the freshet"
+     "gloss": "with the stream"
     }
    ]
   },
@@ -182,11 +229,12 @@
      "parts": [
       {
        "text": "வந்த",
-       "lemma": "வா",
+       "lemma": "வந்த",
        "gloss": "that came"
       }
      ],
-     "gloss": "that came"
+     "gloss": "that came",
+     "split_unverified": true
     },
     {
      "surface": "காந்தள்",
@@ -194,26 +242,32 @@
       {
        "text": "காந்தள்",
        "lemma": "காந்தள்",
-       "gloss": "Malabar glory lily"
+       "gloss": "glory lily"
       }
      ],
-     "gloss": "Malabar glory lily"
+     "gloss": "glory lily"
     },
     {
-     "surface": "முழுமுதல்",
+     "surface": "முழு",
      "parts": [
       {
        "text": "முழு",
        "lemma": "முழு",
-       "gloss": "entire"
-      },
+       "gloss": "whole"
+      }
+     ],
+     "gloss": "entire"
+    },
+    {
+     "surface": "முதல்",
+     "parts": [
       {
        "text": "முதல்",
        "lemma": "முதல்",
        "gloss": "root"
       }
      ],
-     "gloss": "entire root"
+     "gloss": "root"
     }
    ]
   },
@@ -233,26 +287,36 @@
        "gloss": "leaf"
       }
      ],
-     "gloss": "soft leaf"
+     "gloss": "soft leaves"
     },
     {
      "surface": "குழைய",
      "parts": [
       {
-       "text": "குழைய",
+       "text": "குழை",
        "lemma": "குழை",
-       "gloss": "to droop"
+       "gloss": "wither"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to droop"
+     "gloss": "to wither"
     },
     {
      "surface": "முயங்கலும்",
      "parts": [
       {
-       "text": "முயங்கல்",
-       "lemma": "முயங்கல்",
-       "gloss": "embracing"
+       "text": "முயங்கு",
+       "lemma": "முயங்கு",
+       "gloss": "embrace"
+      },
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "verbal noun suffix"
       },
       {
        "text": "உம்",
@@ -277,7 +341,7 @@
       {
        "text": "உய்த்து",
        "lemma": "உய்",
-       "gloss": "bringing"
+       "gloss": "bring"
       }
      ],
      "gloss": "bringing to the house"
@@ -286,9 +350,14 @@
      "surface": "நடுதலும்",
      "parts": [
       {
-       "text": "நடுதல்",
-       "lemma": "நடுதல்",
-       "gloss": "planting"
+       "text": "நடு",
+       "lemma": "நடு",
+       "gloss": "plant"
+      },
+      {
+       "text": "தல்",
+       "lemma": "தல்",
+       "gloss": "verbal noun suffix"
       },
       {
        "text": "உம்",
@@ -299,12 +368,28 @@
      "gloss": "and planting"
     },
     {
-     "surface": "கடியாதோளே",
+     "surface": "கடியா",
      "parts": [
       {
-       "text": "கடியாதோள்",
-       "lemma": "கடியாதோள்",
-       "gloss": "she who did not forbid"
+       "text": "கடி",
+       "lemma": "கடி",
+       "gloss": "forbid"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆ",
+       "gloss": "negative suffix"
+      }
+     ],
+     "gloss": "not forbidding"
+    },
+    {
+     "surface": "தோளே",
+     "parts": [
+      {
+       "text": "தோள்",
+       "lemma": "தோள்",
+       "gloss": "she"
       },
       {
        "text": "ஏ",
@@ -312,15 +397,15 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "indeed she did not forbid"
+     "gloss": "she indeed"
     }
    ]
   }
  ],
- "literal": "Listen, may you live, friend! To mother, / the high-status world also is small indeed. His mountain's / evening-rained, fragrance-emitting freshet-with, / morning-came, Malabar glory lily's entire root, / so that its soft leaves droop, embracing, and / bringing to the house and planting, indeed she did not forbid.",
- "translation": "Listen, my friend, may you live long! Even the high heavenly world is too small for mother's heart. For when I embraced the entire root of the Malabar glory lily—which came in the morning with the fragrant freshet of the evening rains on his mountain—so closely that its soft leaves drooped, and then brought it home and planted it, she did not forbid me at all.",
- "modern": "தோழியே, கேள்! நீ வாழ்க! அன்னைக்கு மேலுலகமும் மிகச் சிறியதே ஆகும். தலைவனுடைய மலையில் மாலையில் பெய்த மழையினால் உண்டான நறுமணம் வீசும் வெள்ளத்தோடு அடித்துக்கொண்டு வந்து, காலையில் கரை சேர்ந்த செங்காந்தள் செடியின் முழு வேரையும், அதன் மென்மையான இலைகள் குழைந்துபோகும்படி நான் தழுவிக்கொண்டதையும், அதை வீட்டிற்கு எடுத்துவந்து நட்டதையும் அன்னை தடுக்கவே இல்லை.",
- "explanation": "The heroine is speaking to her friend in a kurinji (mountainous) landscape, expressing her joy at her mother's tacit approval of her love. The hero's mountain is described as having evening rains that wash down a beautiful glory lily in the morning freshet. The heroine embraced this lily so passionately that its soft leaves drooped, and then she brought it home to plant in their garden. Her mother, witnessing this, did not object or punish her, which the heroine interprets as a sign that her mother understands and accepts her love for the hero of that mountain. The key words are 'அன்னைக்கு' (to mother), 'முயங்கலும்' (embracing), and 'கடியாதோளே' (she did not forbid).",
+ "literal": "Listen, may you live long, friend! To mother, / even the high world is small indeed. From his mountain, / with the fragrance-emitting stream that poured in the evening, / the entire root of the glory lily that came in the morning, / embracing it so that its soft leaves withered, / and bringing it to the house and planting it, she did not forbid.",
+ "translation": "Listen, my friend, may you live long! To mother, even the high world of the gods is too small to contain her joy. For, when the stream from his mountain, fragrant from the evening rains, washed down the entire root of a glory lily in the morning, she did not forbid me from embracing it until its soft leaves withered, nor did she prevent me from bringing it home and planting it.",
+ "modern": "தோழியே, கேள்! நீ டூழி வாழ்க! அன்னைக்குத் தேவர்களின் உயர்ந்த உலகமும் மிகச் சிறியதாகும். அவனுடைய மலையிலிருந்து மாலை நேரத்தில் பெய்த மழையினால் நறுமணம் வீசி வந்த நீரோட்டத்துடன், காலையில் அடித்து வரப்பட்ட காந்தள் செடியின் முழு வேரையும், அதன் மென்மையான இலைகள் குலையும்படி நான் தழுவிக் கொண்டதையும், அதை வீட்டிற்கு எடுத்து வந்து நட்டதையும் அன்னை தடுக்கவில்லை.",
+ "explanation": "The heroine is speaking to her friend about her mother's reaction to her actions. A glory lily root was washed down from the hero's mountain by the evening rains and arrived with the morning stream. The heroine embraced the plant lovingly, as it came from her lover's mountain, and then brought it home to plant in their garden. Her mother, observing this, did not forbid her, which the heroine interprets as a silent acceptance of her love and a sign that their marriage will soon be approved. This Kuriñci landscape poem uses the glory lily from the hero's mountain as a symbol of the hero himself, and the mother's acceptance of the plant symbolizes her acceptance of the alliance.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

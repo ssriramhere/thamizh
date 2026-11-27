@@ -8,7 +8,7 @@
       {
        "text": "மா",
        "lemma": "மா",
-       "gloss": "dark"
+       "gloss": "great/dark"
       },
       {
        "text": "கழி",
@@ -16,76 +16,59 @@
        "gloss": "backwater"
       }
      ],
-     "gloss": "dark backwater"
+     "gloss": "great dark backwater"
     },
     {
-     "surface": "மணிப்பூ",
+     "surface": "மணிப்பூக்",
      "parts": [
       {
-       "text": "மணி",
-       "lemma": "மணி",
-       "gloss": "gem-like"
-      },
-      {
-       "text": "பூ",
-       "lemma": "பூ",
-       "gloss": "flower"
+       "text": "மணிப்பூக்",
+       "lemma": "மணிப்பூக்",
+       "gloss": "sapphire-like flowers"
       }
      ],
-     "gloss": "gem-like flower"
+     "gloss": "sapphire-like flowers",
+     "split_unverified": true
     },
     {
-     "surface": "கூம்ப",
+     "surface": "கூம்பத்",
      "parts": [
       {
-       "text": "கூம்ப",
-       "lemma": "கூம்பு",
+       "text": "கூம்பத்",
+       "lemma": "கூம்பத்",
        "gloss": "to close"
       }
      ],
-     "gloss": "to close"
+     "gloss": "to close",
+     "split_unverified": true
     },
     {
-     "surface": "தூத்திரை",
+     "surface": "தூத்திரைப்",
      "parts": [
       {
-       "text": "தூ",
-       "lemma": "தூ",
-       "gloss": "pure"
-      },
-      {
-       "text": "திரை",
-       "lemma": "திரை",
-       "gloss": "wave"
+       "text": "தூத்திரைப்",
+       "lemma": "தூத்திரைப்",
+       "gloss": "pure waves"
       }
      ],
-     "gloss": "pure wave"
+     "gloss": "pure waves",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "பொங்கு",
+     "surface": "பொங்குபிதிர்த்",
      "parts": [
       {
-       "text": "பொங்கு",
-       "lemma": "பொங்கு",
-       "gloss": "foaming"
+       "text": "பொங்குபிதிர்த்",
+       "lemma": "பொங்குபிதிர்த்",
+       "gloss": "swelling spray"
       }
      ],
-     "gloss": "foaming"
-    },
-    {
-     "surface": "பிதிர்",
-     "parts": [
-      {
-       "text": "பிதிர்",
-       "lemma": "பிதிர்",
-       "gloss": "spray"
-      }
-     ],
-     "gloss": "spray"
+     "gloss": "swelling spray",
+     "split_unverified": true
     },
     {
      "surface": "துவலையொடு",
@@ -93,7 +76,7 @@
       {
        "text": "துவலை",
        "lemma": "துவலை",
-       "gloss": "drizzle"
+       "gloss": "mist/drizzle"
       },
       {
        "text": "ஒடு",
@@ -101,7 +84,7 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with the drizzle"
+     "gloss": "with the mist"
     },
     {
      "surface": "மங்குல்",
@@ -109,21 +92,22 @@
       {
        "text": "மங்குல்",
        "lemma": "மங்குல்",
-       "gloss": "mist"
+       "gloss": "darkness/cloud"
       }
      ],
-     "gloss": "mist"
+     "gloss": "darkness/cloud"
     },
     {
-     "surface": "தைஇ",
+     "surface": "தைஇக்",
      "parts": [
       {
-       "text": "தைஇ",
-       "lemma": "தை",
-       "gloss": "having enveloped"
+       "text": "தைஇக்",
+       "lemma": "தைஇக்",
+       "gloss": "spreading"
       }
      ],
-     "gloss": "having enveloped"
+     "gloss": "spreading",
+     "split_unverified": true
     }
    ]
   },
@@ -135,12 +119,12 @@
       {
        "text": "கை",
        "lemma": "கை",
-       "gloss": "means"
+       "gloss": "means/action"
       },
       {
        "text": "அற",
        "lemma": "அறு",
-       "gloss": "to cease"
+       "gloss": "to cease/be lost"
       }
      ],
      "gloss": "helplessly"
@@ -162,10 +146,10 @@
       {
        "text": "தைவரல்",
        "lemma": "தைவரல்",
-       "gloss": "caressing"
+       "gloss": "gentle touch/blowing"
       }
      ],
-     "gloss": "caressing"
+     "gloss": "gentle touch"
     },
     {
      "surface": "ஊதையொடு",
@@ -193,97 +177,110 @@
       {
        "text": "இன்னா",
        "lemma": "இன்னா",
-       "gloss": ""
+       "gloss": "painful/unpleasant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "painful"
     },
     {
-     "surface": "உறையுட்",
+     "surface": "உறையுட்டு",
      "parts": [
       {
-       "text": "உறையுட்",
-       "lemma": "உறையுட்",
-       "gloss": ""
+       "text": "உறையுட்டு",
+       "lemma": "உறையுள்",
+       "gloss": "dwelling (oblique)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "dwelling"
     },
     {
-     "surface": "டாகும்",
+     "surface": "ஆகும்",
      "parts": [
       {
-       "text": "டாகும்",
-       "lemma": "டாகும்",
-       "gloss": ""
+       "text": "ஆகும்",
+       "lemma": "ஆகு",
+       "gloss": "will become"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "will become"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "சின்னாட்",
+     "surface": "சின்னாட்டு",
      "parts": [
       {
-       "text": "சின்னாட்",
-       "lemma": "சின்னாட்",
-       "gloss": ""
+       "text": "சின்னாட்டு",
+       "lemma": "சின்னாள்",
+       "gloss": "few days (oblique)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of few days"
     },
     {
-     "surface": "டம்மவிச்",
+     "surface": "அம்ம",
      "parts": [
       {
-       "text": "டம்மவிச்",
-       "lemma": "டம்மவிச்",
-       "gloss": ""
+       "text": "அம்ம",
+       "lemma": "அம்ம",
+       "gloss": "alas/particle of address"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "alas"
     },
     {
-     "surface": "சிறுநல்",
+     "surface": "இ",
      "parts": [
       {
-       "text": "சிறுநல்",
-       "lemma": "சிறுநல்",
-       "gloss": ""
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "this"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "this"
     },
     {
-     "surface": "லூரே",
+     "surface": "சிறு",
      "parts": [
       {
-       "text": "லூரே",
-       "lemma": "லூரே",
-       "gloss": ""
+       "text": "சிறு",
+       "lemma": "சிறு",
+       "gloss": "small"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "small"
+    },
+    {
+     "surface": "நல்",
+     "parts": [
+      {
+       "text": "நல்",
+       "lemma": "நல்",
+       "gloss": "good"
+      }
+     ],
+     "gloss": "good"
+    },
+    {
+     "surface": "ஊரே",
+     "parts": [
+      {
+       "text": "ஊரே",
+       "lemma": "ஊர்",
+       "gloss": "town indeed"
+      }
+     ],
+     "gloss": "town indeed"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "In the dark backwater, as the sapphire-like flowers close, the pure waves / with foaming spray and drizzle, along with the mist enveloping, / with the caressing cold wind that came causing helplessness, / an unpleasant dwelling it will become, / for a few days, alas, in this small, good town!",
- "translation": "As the sapphire-blue flowers of the dark backwater close, the pure waves rise with foaming spray and drizzle. Enveloped by the mist and accompanied by the caressing cold wind that brings helplessness, staying in this small, good town will become highly unpleasant for a few days, alas!",
- "modern": "கரிய கழியில் உள்ள நீல நிற மலர்கள் குவியுமாறு, தூய அலைகளின் பொங்குகின்ற நீர்த்துளிகளோடு பனிமூட்டமும் சூழ்ந்து கொள்கிறது. செயலற்றுப் போகுமாறு வீசுகின்ற குளிர்ந்த காற்றோடு சேர்ந்து, இந்தச் சிறிய நல்ல ஊரில் தங்கியிருப்பது இன்னும் சில நாட்களுக்குத் துன்பம் தருவதாக அமையும்.",
- "explanation": "The friend speaks to the heroine (or within the hearing of the hero) during the onset of the cold season. She describes how the evening brings a cold wind, mist, and spray from the sea, causing the blue lily flowers in the backwater to close. This cold wind ('ūtai') is described as 'caressing' yet bringing a sense of helplessness ('kaiyaṟa') to those in separation. The friend laments that staying in this otherwise beautiful, small coastal town will become extremely painful for the next few days. Through these vivid images of the Neytal (coastal) landscape, she highlights the agony of separation and indirectly urges the hero to hasten the marriage.",
+ "literal": "Great dark backwater sapphire-like flowers to close, pure waves / swelling spray mist-with darkness spreading, / helplessly that came gentle touch cold wind-with, / painful dwelling will become / few days, alas, this small good town indeed.",
+ "translation": "As the sapphire-like flowers of the dark backwater close, and the darkness of the mist spreads with the swelling spray of pure waves, this small, good town, alas, will become a painful place to dwell for a few days, along with the gently touching cold wind that brings helplessness.",
+ "modern": "கரிய கழியின் நீலமணி போன்ற மலர்கள் குவியுமாறு, தூய அலைகளின் பொங்குகின்ற நீர்த்துளிகளோடு கூடிய பனிமூட்டம் பரவி, செயலற்றுப் போகும்படி வீசுகின்ற குளிர்ந்த காற்றோடு சேர்ந்து, இந்தச் சிறிய நல்ல ஊரானது, சில நாட்களுக்குத் தங்குவதற்கு மிகவும் துன்பம் தருவதாக மாறிவிடும்.",
+ "explanation": "In this Neytal (coastal) poem, the friend (tōḻi) speaks of the heroine's distress during the evening in the absence of the hero. As night falls, the sapphire-like water-lilies in the dark backwater close their petals. The cold wind (ūtai) blows from the sea, carrying the salty spray of the waves and spreading a dark, chilly mist. This cold wind gently touches the pining heroine, making her feel completely helpless. The friend laments that this small, otherwise pleasant coastal town will now become an unbearable, painful place to live, even if it is only for a few days until the hero returns.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

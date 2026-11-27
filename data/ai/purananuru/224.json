@@ -17,17 +17,12 @@
      "surface": "பேணாது",
      "parts": [
       {
-       "text": "பேணு",
+       "text": "பேணாது",
        "lemma": "பேணு",
-       "gloss": "regard"
-      },
-      {
-       "text": "ஆது",
-       "lemma": "ஆது",
-       "gloss": "without"
+       "gloss": "without guarding"
       }
      ],
-     "gloss": "without regarding"
+     "gloss": "without guarding"
     },
     {
      "surface": "அமர்",
@@ -35,10 +30,10 @@
       {
        "text": "அமர்",
        "lemma": "அமர்",
-       "gloss": "battle"
+       "gloss": "war"
       }
      ],
-     "gloss": "battle"
+     "gloss": "war"
     },
     {
      "surface": "கடந்ததூஉம்",
@@ -46,31 +41,36 @@
       {
        "text": "கடந்ததூஉம்",
        "lemma": "கடந்ததூஉம்",
-       "gloss": "that which conquered"
+       "gloss": "that which was conquered"
       }
      ],
-     "gloss": "that which conquered",
-     "split_unverified": true
+     "gloss": "that which was conquered"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "துணைபுணர்",
+     "surface": "துணை",
      "parts": [
       {
        "text": "துணை",
        "lemma": "துணை",
        "gloss": "companion"
-      },
+      }
+     ],
+     "gloss": "companion"
+    },
+    {
+     "surface": "புணர்",
+     "parts": [
       {
        "text": "புணர்",
        "lemma": "புணர்",
-       "gloss": "join"
+       "gloss": "unite"
       }
      ],
-     "gloss": "joining with companions"
+     "gloss": "unite"
     },
     {
      "surface": "ஆயமொடு",
@@ -94,33 +94,23 @@
       {
        "text": "தசும்பு",
        "lemma": "தசும்பு",
-       "gloss": "liquor jar"
+       "gloss": "jar"
       },
       {
        "text": "உடன்",
        "lemma": "உடன்",
-       "gloss": "along with"
+       "gloss": "with"
       }
      ],
-     "gloss": "along with jars of liquor"
+     "gloss": "with the jars"
     },
     {
      "surface": "தொலைச்சி",
      "parts": [
       {
-       "text": "தொலை",
+       "text": "தொலைச்சி",
        "lemma": "தொலை",
-       "gloss": "empty"
-      },
-      {
-       "text": "ச்",
-       "lemma": "ச்",
-       "gloss": "causative marker"
-      },
-      {
-       "text": "சி",
-       "lemma": "இ",
-       "gloss": "having"
+       "gloss": "having emptied"
       }
      ],
      "gloss": "having emptied"
@@ -130,20 +120,26 @@
   {
    "words": [
     {
-     "surface": "இரும்பாண்",
+     "surface": "இரும்",
      "parts": [
       {
        "text": "இரும்",
-       "lemma": "இரும்",
+       "lemma": "இரும்பு",
        "gloss": "great"
-      },
+      }
+     ],
+     "gloss": "great"
+    },
+    {
+     "surface": "பாண்",
+     "parts": [
       {
        "text": "பாண்",
        "lemma": "பாண்",
        "gloss": "bard"
       }
      ],
-     "gloss": "great bards"
+     "gloss": "bard"
     },
     {
      "surface": "ஒக்கல்",
@@ -151,10 +147,10 @@
       {
        "text": "ஒக்கல்",
        "lemma": "ஒக்கல்",
-       "gloss": "kinsfolk"
+       "gloss": "relatives"
       }
      ],
-     "gloss": "kinsfolk"
+     "gloss": "relatives"
     },
     {
      "surface": "கடும்பு",
@@ -173,11 +169,10 @@
       {
        "text": "புரந்ததூஉம்",
        "lemma": "புரந்ததூஉம்",
-       "gloss": "that which protected"
+       "gloss": "that which was protected"
       }
      ],
-     "gloss": "that which protected",
-     "split_unverified": true
+     "gloss": "that which was protected"
     }
    ]
   },
@@ -277,7 +272,7 @@
        "gloss": "they who"
       }
      ],
-     "gloss": "those who know"
+     "gloss": "they who know"
     },
     {
      "surface": "முன்னுற",
@@ -285,27 +280,26 @@
       {
        "text": "முன்",
        "lemma": "முன்",
-       "gloss": "front"
+       "gloss": "before"
       },
       {
        "text": "உற",
-       "lemma": "உற",
+       "lemma": "உறு",
        "gloss": "to stand"
       }
      ],
-     "gloss": "standing in front"
+     "gloss": "standing before"
     },
     {
      "surface": "புகழ்ந்த",
      "parts": [
       {
        "text": "புகழ்ந்த",
-       "lemma": "புகழ்ந்த",
+       "lemma": "புகழ்",
        "gloss": "praised"
       }
      ],
-     "gloss": "praised",
-     "split_unverified": true
+     "gloss": "praised"
     }
    ]
   },
@@ -317,27 +311,21 @@
       {
        "text": "பவியல்",
        "lemma": "பவியல்",
-       "gloss": "of pure nature"
+       "gloss": "nature"
       }
      ],
-     "gloss": "of pure nature",
-     "split_unverified": true
+     "gloss": "nature"
     },
     {
      "surface": "கொள்கை",
      "parts": [
       {
-       "text": "கொள்",
-       "lemma": "கொள்",
-       "gloss": "hold"
-      },
-      {
-       "text": "கை",
-       "lemma": "கை",
-       "gloss": "vow"
+       "text": "கொள்கை",
+       "lemma": "கொள்கை",
+       "gloss": "conduct"
       }
      ],
-     "gloss": "vows"
+     "gloss": "conduct"
     },
     {
      "surface": "துகள்",
@@ -359,7 +347,7 @@
        "gloss": "without"
       }
      ],
-     "gloss": "free from"
+     "gloss": "without"
     },
     {
      "surface": "மகளிரொடு",
@@ -367,7 +355,7 @@
       {
        "text": "மகளிர்",
        "lemma": "மகளிர்",
-       "gloss": "wives"
+       "gloss": "women"
       },
       {
        "text": "ஒடு",
@@ -375,7 +363,7 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with the wives"
+     "gloss": "with women"
     }
    ]
   },
@@ -390,7 +378,7 @@
        "gloss": "sun"
       }
      ],
-     "gloss": "sun-like"
+     "gloss": "sun"
     },
     {
      "surface": "உருவின்",
@@ -398,7 +386,7 @@
       {
        "text": "உரு",
        "lemma": "உரு",
-       "gloss": "shape"
+       "gloss": "form"
       },
       {
        "text": "இன்",
@@ -406,19 +394,29 @@
        "gloss": "of"
       }
      ],
-     "gloss": "of the shape"
+     "gloss": "of the form"
     },
     {
-     "surface": "பல்படை",
+     "surface": "பல்",
      "parts": [
       {
-       "text": "பல்படை",
-       "lemma": "பல்படை",
-       "gloss": "many defenses"
+       "text": "பல்",
+       "lemma": "பல்",
+       "gloss": "many"
       }
      ],
-     "gloss": "many defenses",
-     "split_unverified": true
+     "gloss": "many"
+    },
+    {
+     "surface": "படை",
+     "parts": [
+      {
+       "text": "படை",
+       "lemma": "படை",
+       "gloss": "weapons"
+      }
+     ],
+     "gloss": "weapons"
     },
     {
      "surface": "புரிசை",
@@ -426,10 +424,10 @@
       {
        "text": "புரிசை",
        "lemma": "புரிசை",
-       "gloss": "fortress wall"
+       "gloss": "wall"
       }
      ],
-     "gloss": "fortress wall"
+     "gloss": "wall"
     }
    ]
   },
@@ -489,12 +487,12 @@
   {
    "words": [
     {
-     "surface": "வேதம்",
+     "surface": "வேத",
      "parts": [
       {
-       "text": "வேதம்",
+       "text": "வேத",
        "lemma": "வேதம்",
-       "gloss": "Veda"
+       "gloss": "Vedic"
       }
      ],
      "gloss": "Vedic"
@@ -508,7 +506,7 @@
        "gloss": "sacrifice"
       }
      ],
-     "gloss": "sacrificial"
+     "gloss": "sacrifice"
     },
     {
      "surface": "தொழில்",
@@ -516,10 +514,10 @@
       {
        "text": "தொழில்",
        "lemma": "தொழில்",
-       "gloss": "rites"
+       "gloss": "duty"
       }
      ],
-     "gloss": "rites"
+     "gloss": "duty"
     },
     {
      "surface": "முடித்ததூஉம்",
@@ -527,11 +525,10 @@
       {
        "text": "முடித்ததூஉம்",
        "lemma": "முடித்ததூஉம்",
-       "gloss": "that which completed"
+       "gloss": "that which was completed"
       }
      ],
-     "gloss": "that which completed",
-     "split_unverified": true
+     "gloss": "that which was completed"
     }
    ]
   },
@@ -541,24 +538,9 @@
      "surface": "அறிந்தோன்",
      "parts": [
       {
-       "text": "அறி",
+       "text": "அறிந்தோன்",
        "lemma": "அறி",
-       "gloss": "know"
-      },
-      {
-       "text": "ந்",
-       "lemma": "ந்",
-       "gloss": "nasalization"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "ஓன்",
-       "lemma": "ஓன்",
-       "gloss": "he who"
+       "gloss": "he who knew"
       }
      ],
      "gloss": "he who knew"
@@ -583,17 +565,12 @@
        "gloss": "wisdom"
       },
       {
-       "text": "உடை",
-       "lemma": "உடை",
-       "gloss": "possess"
-      },
-      {
-       "text": "ஆளன்",
-       "lemma": "ஆளன்",
-       "gloss": "ruler"
+       "text": "உடையாளன்",
+       "lemma": "உடையான்",
+       "gloss": "he who possesses"
       }
      ],
-     "gloss": "the wise king"
+     "gloss": "the wise man"
     }
    ]
   },
@@ -603,40 +580,20 @@
      "surface": "இறந்தோன்",
      "parts": [
       {
-       "text": "இற",
+       "text": "இறந்தோன்",
        "lemma": "இற",
-       "gloss": "die"
-      },
-      {
-       "text": "ந்",
-       "lemma": "ந்",
-       "gloss": "nasalization"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "ஓன்",
-       "lemma": "ஓன்",
-       "gloss": "he who"
+       "gloss": "he who passed away"
       }
      ],
-     "gloss": "he passed away"
+     "gloss": "he who passed away"
     },
     {
      "surface": "தானே",
      "parts": [
       {
-       "text": "தான்",
+       "text": "தானே",
        "lemma": "தான்",
        "gloss": "himself"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
       }
      ],
      "gloss": "himself"
@@ -645,29 +602,23 @@
      "surface": "அளித்து",
      "parts": [
       {
-       "text": "அளி",
+       "text": "அளித்து",
        "lemma": "அளி",
        "gloss": "pity"
-      },
-      {
-       "text": "த்து",
-       "lemma": "த்து",
-       "gloss": "adverbial suffix"
       }
      ],
-     "gloss": "pitiable is"
+     "gloss": "pity"
     },
     {
      "surface": "இவ்",
      "parts": [
       {
        "text": "இவ்",
-       "lemma": "இவ்",
+       "lemma": "இ",
        "gloss": "this"
       }
      ],
-     "gloss": "this",
-     "split_unverified": true
+     "gloss": "this"
     },
     {
      "surface": "உலகம்",
@@ -690,26 +641,21 @@
       {
        "text": "அருவி",
        "lemma": "அருவி",
-       "gloss": "mountain stream"
+       "gloss": "waterfall"
       }
      ],
-     "gloss": "mountain streams"
+     "gloss": "waterfall"
     },
     {
      "surface": "மாறி",
      "parts": [
       {
-       "text": "மாறு",
+       "text": "மாறி",
        "lemma": "மாறு",
-       "gloss": "fail"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "having"
+       "gloss": "having dried up"
       }
      ],
-     "gloss": "having failed"
+     "gloss": "having dried up"
     },
     {
      "surface": "அஞ்சுவர",
@@ -725,7 +671,7 @@
        "gloss": "to come"
       }
      ],
-     "gloss": "frighteningly"
+     "gloss": "fearfully"
     },
     {
      "surface": "கருகி",
@@ -733,7 +679,7 @@
       {
        "text": "கருகு",
        "lemma": "கருகு",
-       "gloss": "wither"
+       "gloss": "char"
       },
       {
        "text": "இ",
@@ -748,43 +694,34 @@
   {
    "words": [
     {
-     "surface": "பெருவறம்",
+     "surface": "பெரு",
      "parts": [
       {
        "text": "பெரு",
        "lemma": "பெரு",
        "gloss": "great"
-      },
+      }
+     ],
+     "gloss": "great"
+    },
+    {
+     "surface": "வறம்",
+     "parts": [
       {
        "text": "வறம்",
        "lemma": "வறம்",
        "gloss": "drought"
       }
      ],
-     "gloss": "great drought"
+     "gloss": "drought"
     },
     {
      "surface": "கூர்ந்த",
      "parts": [
       {
-       "text": "கூர்",
+       "text": "கூர்ந்த",
        "lemma": "கூர்",
-       "gloss": "abound"
-      },
-      {
-       "text": "ந்",
-       "lemma": "ந்",
-       "gloss": "nasalization"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "adjectival participle suffix"
+       "gloss": "intense"
       }
      ],
      "gloss": "intense"
@@ -806,10 +743,10 @@
       {
        "text": "காலை",
        "lemma": "காலை",
-       "gloss": "season"
+       "gloss": "time"
       }
      ],
-     "gloss": "season"
+     "gloss": "time"
     }
    ]
   },
@@ -819,24 +756,9 @@
      "surface": "பசித்த",
      "parts": [
       {
-       "text": "பசி",
+       "text": "பசித்த",
        "lemma": "பசி",
-       "gloss": "hunger"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "glide"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "adjectival participle suffix"
+       "gloss": "hungry"
       }
      ],
      "gloss": "hungry"
@@ -847,63 +769,70 @@
       {
        "text": "ஆயத்து",
        "lemma": "ஆயத்து",
-       "gloss": "for the herd"
+       "gloss": "of the herd"
       }
      ],
-     "gloss": "for the herd",
+     "gloss": "of the herd",
      "split_unverified": true
     },
     {
-     "surface": "பயன்நிரை",
+     "surface": "பயன்",
      "parts": [
       {
        "text": "பயன்",
        "lemma": "பயன்",
        "gloss": "yield"
-      },
+      }
+     ],
+     "gloss": "yield"
+    },
+    {
+     "surface": "நிரை",
+     "parts": [
       {
        "text": "நிரை",
        "lemma": "நிரை",
-       "gloss": "herd"
+       "gloss": "herd of cattle"
       }
      ],
-     "gloss": "yielding herd"
+     "gloss": "herd of cattle"
     },
     {
      "surface": "தருமார்",
      "parts": [
       {
-       "text": "தரு",
+       "text": "தருமார்",
        "lemma": "தரு",
-       "gloss": "give"
-      },
-      {
-       "text": "மார்",
-       "lemma": "மார்",
-       "gloss": "in order to"
+       "gloss": "to bring"
       }
      ],
-     "gloss": "in order to feed"
+     "gloss": "to bring"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "பூவாள்",
+     "surface": "பூ",
      "parts": [
       {
        "text": "பூ",
        "lemma": "பூ",
        "gloss": "flower"
-      },
+      }
+     ],
+     "gloss": "flower"
+    },
+    {
+     "surface": "வாள்",
+     "parts": [
       {
        "text": "வாள்",
        "lemma": "வாள்",
-       "gloss": "hook/sickle"
+       "gloss": "sickle"
       }
      ],
-     "gloss": "with flower-hooks"
+     "gloss": "sickle"
     },
     {
      "surface": "கோவலர்",
@@ -927,23 +856,18 @@
       {
        "text": "உடன்",
        "lemma": "உடன்",
-       "gloss": "along with"
+       "gloss": "with"
       }
      ],
-     "gloss": "along with flowers"
+     "gloss": "with flowers"
     },
     {
      "surface": "உதிர",
      "parts": [
       {
-       "text": "உதிர்",
+       "text": "உதிர",
        "lemma": "உதிர்",
-       "gloss": "shed"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitival suffix"
+       "gloss": "to fall"
       }
      ],
      "gloss": "to fall"
@@ -956,17 +880,12 @@
      "surface": "கொய்து",
      "parts": [
       {
-       "text": "கொய்",
+       "text": "கொய்து",
        "lemma": "கொய்",
-       "gloss": "pluck"
-      },
-      {
-       "text": "து",
-       "lemma": "து",
-       "gloss": "having"
+       "gloss": "having plucked"
       }
      ],
-     "gloss": "plucking"
+     "gloss": "having plucked"
     },
     {
      "surface": "கட்டு",
@@ -974,36 +893,21 @@
       {
        "text": "கட்டு",
        "lemma": "கட்டு",
-       "gloss": "branches"
+       "gloss": "bundle"
       }
      ],
-     "gloss": "branches"
+     "gloss": "bundle"
     },
     {
      "surface": "அழித்த",
      "parts": [
       {
-       "text": "அழி",
+       "text": "அழித்த",
        "lemma": "அழி",
-       "gloss": "destroy"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "glide"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "adjectival participle suffix"
+       "gloss": "destroyed"
       }
      ],
-     "gloss": "stripped"
+     "gloss": "destroyed"
     },
     {
      "surface": "வேங்கையின்",
@@ -1019,27 +923,33 @@
        "gloss": "like"
       }
      ],
-     "gloss": "like the Vengai tree"
+     "gloss": "like the Kino tree"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "மெல்லியல்",
+     "surface": "மெல்",
      "parts": [
       {
        "text": "மெல்",
        "lemma": "மெல்",
-       "gloss": "gentle"
-      },
+       "gloss": "soft"
+      }
+     ],
+     "gloss": "soft"
+    },
+    {
+     "surface": "இயல்",
+     "parts": [
       {
        "text": "இயல்",
        "lemma": "இயல்",
        "gloss": "nature"
       }
      ],
-     "gloss": "gentle-natured"
+     "gloss": "nature"
     },
     {
      "surface": "மகளிரும்",
@@ -1047,15 +957,15 @@
       {
        "text": "மகளிர்",
        "lemma": "மகளிர்",
-       "gloss": "wives"
+       "gloss": "women"
       },
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "too"
+       "gloss": "also"
       }
      ],
-     "gloss": "wives too"
+     "gloss": "women also"
     },
     {
      "surface": "இழை",
@@ -1066,46 +976,26 @@
        "gloss": "ornaments"
       }
      ],
-     "gloss": "their ornaments"
+     "gloss": "ornaments"
     },
     {
      "surface": "களைந்தனரே",
      "parts": [
       {
-       "text": "களை",
+       "text": "களைந்தனரே",
        "lemma": "களை",
-       "gloss": "remove"
-      },
-      {
-       "text": "ந்",
-       "lemma": "ந்",
-       "gloss": "nasalization"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அனர்",
-       "lemma": "அனர்",
-       "gloss": "they"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "they removed"
       }
      ],
-     "gloss": "have discarded indeed"
+     "gloss": "they removed"
     }
    ]
   }
  ],
- "literal": "Without regarding fortresses, conquering in battles / with companions, emptying jars of liquor / cherishing the large families of bards / in the court of glorious justice where righteousness is fully examined / praised by those who know justice well standing in front / with wives of pure nature and blemishless vows / within the fortress walls of sun-like shape and many defenses / where vultures eat at the tall sacrificial posts / completing the Vedic sacrificial rites / he indeed knew, the wise king / he passed away; pitiable is this world! / Mountain streams failing, frighteningly withered / in the summer season of intense great drought / to feed the hungry herd of yielding cattle / herdsmen with flower-hooks, so that flowers fall / like the Vengai tree stripped of its plucked branches / the gentle-natured wives too have discarded their ornaments.",
- "translation": "He who conquered battles without caring for fortresses, who emptied jars of liquor with his close companions, who sustained the large families of great bards, who was praised by wise men standing before him in the court of glorious justice where righteousness was fully examined, who, along with his wives of pure nature and blemishless vows, completed Vedic sacrificial rites at the tall sacrificial posts where vultures feed, within the sun-shaped fortress walls of many defenses— that wise king indeed knew how to live. But now he has passed away! How pitiable is this world! Just like the Vengai tree in the harsh summer of intense drought, when mountain streams fail and everything is frighteningly withered, is stripped of its branches by herdsmen using flower-hooks to make the leaves and flowers fall to feed their hungry cattle, his gentle-natured wives have now discarded all their ornaments.",
- "modern": "கோட்டைகளைக் கருதாமல் போர்களை வென்றதும், தன் தோழர்களோடு சேர்ந்து மதுக்குடங்களை வெறுமையாக்கியதும், பாணர்களின் பெரிய சுற்றத்தாரைக் காப்பாற்றியதும், அறம் தவறாமல் ஆராயும் பெருமைமிக்க அவையத்தில் நீதியை நன்கு அறிந்தவர்கள் முன்னின்று புகழும்படி வாழ்ந்ததும், தூய்மையான இயல்பும் குற்றமற்ற விரதமும் உடைய தன் மனைவியரோடு கூடி, சூரியனைப் போன்ற வட்ட வடிவமான மதில்களைக் கொண்ட கோட்டையினுள், கழுகுகள் பலி உணவை உண்ணும் யூப நெடுந்தூண்களை நட்டு வேத வேள்விகளைச் செய்து முடித்ததும் ஆகிய அனைத்தையும் அந்த அறிவுடைய அரசன் நன்கு அறிந்திருந்தான். ஆனால், அவன் இப்போது இறந்துவிட்டான். இந்த உலகம் மிகவும் இரங்கத்தக்கது! அருவிகள் வற்றி, அஞ்சத்தக்க வகையில் கருகிப் பெரும் வறட்சி மிகுந்த கோடைகாலத்தில், பசியோடு இருக்கும் தன் பசுக்கூட்டங்களுக்கு உணவளிக்க விரும்பிய இடையர்கள், பூக்கள் உதிரும்படி வளைந்த கவராற் கொய்து கிளைகளை ஒடித்த வேங்கை மரத்தைப் போல, மென்மையான இயல்புடைய அவனுடைய மனைவியரும் தங்கள் அணிகலன்களைக் களைந்துவிட்டனர்.",
- "explanation": "This poem belongs to the Potuviyal tiṇai and Kaiyaṟunilai tuṟai, composed by Karuṅkuḻal Ātaṉār on the death of the great Chola king Karikāṟ Peruvaḷattāṉ. The poet laments the loss of the king, praising his valor in battle, his generosity to bards, his adherence to justice in court, and his performance of Vedic sacrifices alongside his virtuous wives. The central image of the poem is a powerful simile comparing the widowed queens to a Vengai tree in summer. Just as herdsmen strip the Vengai tree of its leafy branches to feed their starving cattle during a severe drought, leaving the tree bare, the gentle queens have stripped themselves of all their beautiful ornaments in their grief. This poignant comparison highlights the devastating impact of the king's death on his household and his kingdom, transforming a once-glorious court into a place of desolation.",
+ "literal": "Without guarding fortresses, conquering in battle / along with companions, emptying jars of toddy / protecting the large families of bards / in the court of great justice where righteousness is established / praised by those who know the law well / with women of flawless character and pure nature / having walls with many weapons in the shape of the sun / tall sacrificial posts where eagles feed / completing the duties of Vedic sacrifices / he indeed knew, the wise king / he who passed away, alas, this world / waterfalls having dried up, fearfully withered / in the summer season of intense drought / to bring back the yielding herd for the hungry group / herdsmen with flower-cutting sickles, along with flowers falling / like the Vēṅkai tree whose branches were plucked and broken / the gentle-natured women also removed their ornaments.",
+ "translation": "Without caring for fortresses, he conquered in battles. Along with his companions, he emptied jars of toddy. He protected the large families of bards. In the court of great justice where righteousness is established, praised by those who know the law well, he lived with women of flawless character and pure nature. Within walls shaped like the sun and armed with many weapons, he completed the duties of Vedic sacrifices, erecting tall sacrificial posts where eagles feed. He, the wise king, knew all these. Now that he has passed away, alas, this world is like the Vēṅkai tree in the intense drought of summer, when waterfalls have dried up and everything is fearfully withered; to feed their hungry herds, herdsmen with flower-cutting sickles pluck and break its branches, shedding all its flowers. Even so, his gentle-natured women have removed all their ornaments.",
+ "modern": "கோட்டைகளைக் காக்க நினையாமல் போரில் வென்றதும், தோழர்களுடன் சேர்ந்து மதுக்குடங்களை வெறுமையாக்கியதும், பாணர்களின் பெரிய சுற்றத்தைக் காத்ததும், அறம் தவறாத நெறிமிக்க அவையத்தில் முறை அறிந்தவர்களால் புகழப்பட்டதும், குற்றமற்ற ஒழுக்கமுடைய மகளிரோடு வாழ்ந்ததும், சூரியன் போன்ற வட்ட வடிவமான மதில்களை உடையதும், பருந்துகள் உண்ணும் பலிபீட யூப நெடுந்தூண்களை நட்டு வேத வேள்விகளை முடித்ததும் ஆகிய அனைத்தையும் அந்த அறிவுடைய அரசன் அறிந்திருந்தான். அவன் இறந்துவிட்டான். ஐயோ! அருவிகள் வற்றி, அஞ்சத்தக்க வகையில் கருகி, பெரும் வறட்சி மிக்க கோடைகாலத்தில், பசியோடு இருக்கும் பசுக்கூட்டங்களுக்குத் தழைகளைத் தருவதற்காக, பூக்களைக் கொய்யும் அரிவாளை உடைய இடையர்கள், பூக்களோடு கிளைகளை ஒடித்து அழித்த வேங்கை மரத்தைப் போல, இந்த உலகத்தில் மென்மையான இயல்புடைய மகளிர் தங்கள் அணிகலன்களைக் களைந்துவிட்டனர்.",
+ "explanation": "The poet Karuṅkuḻal Ātaṉār is singing a lament (kaiyaṟunilai) on the death of the Chola king Karikāl Peruvaḷattāṉ. The poet recalls the great deeds of the king—his military victories, his generosity to bards, his adherence to justice, his domestic life, and his performance of Vedic sacrifices. Now that the king is dead, the poet laments the state of the kingdom. The poet uses a powerful simile of a Vēṅkai tree during a harsh summer drought. Just as herdsmen strip the Vēṅkai tree of its leaves and flowers to feed their hungry cattle, leaving it bare and ruined, the women of the palace have stripped themselves of their beautiful ornaments in mourning. This image of desolation perfectly captures the grief and loss felt by the entire land after the demise of their protective ruler.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

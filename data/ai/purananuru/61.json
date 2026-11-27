@@ -44,7 +44,7 @@
        "gloss": "foliage"
       }
      ],
-     "gloss": "foliage"
+     "gloss": "leaf-garment"
     },
     {
      "surface": "கடைசியர்",
@@ -89,10 +89,10 @@
       {
        "text": "நெய்தல்",
        "lemma": "நெய்தல்",
-       "gloss": "water-lily"
+       "gloss": "blue water-lily"
       }
      ],
-     "gloss": "water-lily"
+     "gloss": "blue water-lily"
     },
     {
      "surface": "ஆம்பலொடு",
@@ -100,7 +100,7 @@
       {
        "text": "ஆம்பல்",
        "lemma": "ஆம்பல்",
-       "gloss": "blue lily"
+       "gloss": "white water-lily"
       },
       {
        "text": "ஒடு",
@@ -108,7 +108,7 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with blue lilies"
+     "gloss": "with white water-lilies"
     },
     {
      "surface": "கட்கும்",
@@ -116,10 +116,10 @@
       {
        "text": "கட்கும்",
        "lemma": "கட்கும்",
-       "gloss": "weeding"
+       "gloss": "weeding/plucking"
       }
      ],
-     "gloss": "weeding",
+     "gloss": "weeding/plucking",
      "split_unverified": true
     }
    ]
@@ -143,10 +143,10 @@
       {
        "text": "மிளிர்",
        "lemma": "மிளிர்",
-       "gloss": "shining/leaping"
+       "gloss": "wriggling/shining"
       }
      ],
-     "gloss": "shining/leaping"
+     "gloss": "wriggling"
     },
     {
      "surface": "செறுவின்",
@@ -159,10 +159,10 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "of"
+       "gloss": "oblique/locative suffix"
       }
      ],
-     "gloss": "of the wet field"
+     "gloss": "in the wet field"
     },
     {
      "surface": "தளம்பு",
@@ -170,10 +170,10 @@
       {
        "text": "தளம்பு",
        "lemma": "தளம்பு",
-       "gloss": "mud/slush"
+       "gloss": "slush/mud"
       }
      ],
-     "gloss": "mud/slush"
+     "gloss": "slush"
     },
     {
      "surface": "தடிந்திட்ட",
@@ -181,15 +181,15 @@
       {
        "text": "தடிந்து",
        "lemma": "தடி",
-       "gloss": "slashed"
+       "gloss": "having chopped"
       },
       {
        "text": "இட்ட",
        "lemma": "இடு",
-       "gloss": "thrown"
+       "gloss": "auxiliary verb/relative participle suffix"
       }
      ],
-     "gloss": "slashed and thrown"
+     "gloss": "chopped"
     }
    ]
   },
@@ -201,10 +201,10 @@
       {
        "text": "பழன",
        "lemma": "பழன",
-       "gloss": "of the field"
+       "gloss": "pond-dwelling"
       }
      ],
-     "gloss": "of the field",
+     "gloss": "pond-dwelling",
      "split_unverified": true
     },
     {
@@ -213,10 +213,10 @@
       {
        "text": "வாளை",
        "lemma": "வாளை",
-       "gloss": "valai fish"
+       "gloss": "vaalai fish"
       }
      ],
-     "gloss": "valai fish"
+     "gloss": "vaalai fish"
     },
     {
      "surface": "பரூஉக்கண்",
@@ -234,12 +234,17 @@
      "surface": "துணியல்",
      "parts": [
       {
-       "text": "துணியல்",
-       "lemma": "துணியல்",
-       "gloss": "pieces/slices"
+       "text": "துணி",
+       "lemma": "துணி",
+       "gloss": "to cut"
+      },
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "noun-forming suffix"
       }
      ],
-     "gloss": "pieces/slices"
+     "gloss": "cut pieces"
     }
    ]
   },
@@ -262,7 +267,7 @@
       {
        "text": "நெல்",
        "lemma": "நெல்",
-       "gloss": "paddy"
+       "gloss": "paddy/rice"
       }
      ],
      "gloss": "paddy"
@@ -297,26 +302,31 @@
       {
        "text": "கண்",
        "lemma": "கண்",
-       "gloss": "eye/place"
+       "gloss": "place/eye"
       },
       {
        "text": "உறை",
        "lemma": "உறை",
-       "gloss": "seasoning/topping"
+       "gloss": "seasoning/side-dish"
       }
      ],
-     "gloss": "seasoning/topping"
+     "gloss": "as side-dish"
     },
     {
      "surface": "ஆக",
      "parts": [
       {
-       "text": "ஆக",
+       "text": "ஆகு",
        "lemma": "ஆகு",
-       "gloss": "as"
+       "gloss": "to become"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "as"
+     "gloss": "to become"
     }
    ]
   },
@@ -328,7 +338,7 @@
       {
        "text": "விலா",
        "lemma": "விலா",
-       "gloss": "ribs"
+       "gloss": "rib"
       }
      ],
      "gloss": "ribs"
@@ -339,7 +349,7 @@
       {
        "text": "புடை",
        "lemma": "புடை",
-       "gloss": "sides"
+       "gloss": "side/bulge"
       }
      ],
      "gloss": "sides"
@@ -350,32 +360,42 @@
       {
        "text": "மருங்கு",
        "lemma": "மருங்கு",
-       "gloss": "waist/sides"
+       "gloss": "waist/side"
       }
      ],
-     "gloss": "waist/sides"
+     "gloss": "waist"
     },
     {
      "surface": "விசிப்ப",
      "parts": [
       {
-       "text": "விசிப்ப",
+       "text": "விசி",
        "lemma": "விசி",
-       "gloss": "to swell/stretch"
+       "gloss": "to stretch tight"
+      },
+      {
+       "text": "ப்ப",
+       "lemma": "ப்ப",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to swell/stretch"
+     "gloss": "to stretch tight"
     },
     {
      "surface": "மாந்தி",
      "parts": [
       {
-       "text": "மாந்தி",
+       "text": "மாந்து",
        "lemma": "மாந்து",
-       "gloss": "having eaten/drunk"
+       "gloss": "to eat greedily"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "having eaten/drunk"
+     "gloss": "having gorged"
     }
    ]
   },
@@ -387,7 +407,7 @@
       {
        "text": "நீடு",
        "lemma": "நீடு",
-       "gloss": "long"
+       "gloss": "to grow long/tall"
       }
      ],
      "gloss": "long"
@@ -398,7 +418,7 @@
       {
        "text": "கதிர்",
        "lemma": "கதிர்",
-       "gloss": "ears of grain"
+       "gloss": "ear of grain"
       }
      ],
      "gloss": "ears of grain"
@@ -409,10 +429,10 @@
       {
        "text": "கழனி",
        "lemma": "கழனி",
-       "gloss": "field"
+       "gloss": "paddy field"
       }
      ],
-     "gloss": "field"
+     "gloss": "paddy field"
     },
     {
      "surface": "சூடு",
@@ -420,21 +440,26 @@
       {
        "text": "சூடு",
        "lemma": "சூடு",
-       "gloss": "sheaves of harvested grain"
+       "gloss": "sheaf of grain"
       }
      ],
-     "gloss": "sheaves of harvested grain"
+     "gloss": "sheaves of grain"
     },
     {
      "surface": "தடுமாறும்",
      "parts": [
       {
-       "text": "தடுமாறும்",
+       "text": "தடுமாறு",
        "lemma": "தடுமாறு",
-       "gloss": "stumbling/tottering"
+       "gloss": "to stumble/be in excess"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "stumbling/tottering"
+     "gloss": "being abundant"
     }
    ]
   },
@@ -446,10 +471,10 @@
       {
        "text": "வன்கை",
        "lemma": "வன்கை",
-       "gloss": "strong hand"
+       "gloss": "strong hands"
       }
      ],
-     "gloss": "strong hand",
+     "gloss": "strong hands",
      "split_unverified": true
     },
     {
@@ -462,11 +487,11 @@
       },
       {
        "text": "ஞர்",
-       "lemma": "ஞர்",
-       "gloss": "plural agent suffix"
+       "lemma": "ஞா்",
+       "gloss": "agent suffix"
       }
      ],
-     "gloss": "workers"
+     "gloss": "laborers"
     },
     {
      "surface": "புன்தலை",
@@ -474,10 +499,10 @@
       {
        "text": "புன்தலை",
        "lemma": "புன்தலை",
-       "gloss": "sparse-haired head"
+       "gloss": "dusty-headed"
       }
      ],
-     "gloss": "sparse-haired head",
+     "gloss": "dusty-headed",
      "split_unverified": true
     },
     {
@@ -502,10 +527,10 @@
       {
        "text": "தெங்கு",
        "lemma": "தெங்கு",
-       "gloss": "coconut"
+       "gloss": "coconut tree"
       }
      ],
-     "gloss": "coconut"
+     "gloss": "coconut tree"
     },
     {
      "surface": "படு",
@@ -513,7 +538,7 @@
       {
        "text": "படு",
        "lemma": "படு",
-       "gloss": "falling"
+       "gloss": "to fall/happen"
       }
      ],
      "gloss": "falling"
@@ -524,7 +549,7 @@
       {
        "text": "வியன்",
        "lemma": "வியன்",
-       "gloss": "large"
+       "gloss": "large/vast"
       }
      ],
      "gloss": "large"
@@ -546,15 +571,15 @@
       {
        "text": "முனை",
        "lemma": "முனை",
-       "gloss": "boredom"
+       "gloss": "to dislike/get bored of"
       },
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "if"
+       "gloss": "conditional suffix"
       }
      ],
-     "gloss": "if they are bored of"
+     "gloss": "if they get bored of"
     },
     {
      "surface": "தந்தையர்",
@@ -582,12 +607,12 @@
       {
        "text": "குறை",
        "lemma": "குறை",
-       "gloss": "shortened/narrow"
+       "gloss": "cut/short"
       },
       {
        "text": "கண்",
        "lemma": "கண்",
-       "gloss": "place/top"
+       "gloss": "place/apex"
       }
      ],
      "gloss": "narrow-topped"
@@ -618,20 +643,30 @@
      "surface": "ஏறி",
      "parts": [
       {
-       "text": "ஏறி",
+       "text": "ஏறு",
        "lemma": "ஏறு",
-       "gloss": "climbing"
+       "gloss": "to climb"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "climbing"
+     "gloss": "having climbed"
     },
     {
      "surface": "விசைத்து",
      "parts": [
       {
-       "text": "விசைத்து",
+       "text": "விசை",
        "lemma": "விசை",
-       "gloss": "with force"
+       "gloss": "speed/force"
+      },
+      {
+       "text": "த்து",
+       "lemma": "த்து",
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "with force"
@@ -640,12 +675,17 @@
      "surface": "எழுந்து",
      "parts": [
       {
-       "text": "எழுந்து",
+       "text": "எழு",
        "lemma": "எழு",
-       "gloss": "rising"
+       "gloss": "to rise"
+      },
+      {
+       "text": "ந்து",
+       "lemma": "ந்து",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "rising"
+     "gloss": "rising up"
     }
    ]
   },
@@ -710,7 +750,7 @@
       {
        "text": "வைகல்",
        "lemma": "வைகல்",
-       "gloss": "daily"
+       "gloss": "day/daily"
       }
      ],
      "gloss": "daily"
@@ -721,10 +761,10 @@
       {
        "text": "யாணர்",
        "lemma": "யாணர்",
-       "gloss": "fresh income"
+       "gloss": "fresh fertility/wealth"
       }
      ],
-     "gloss": "fresh income"
+     "gloss": "fresh fertility"
     },
     {
      "surface": "நல்",
@@ -755,50 +795,68 @@
       {
        "text": "பொருநன்",
        "lemma": "பொருநன்",
-       "gloss": "king/warrior"
+       "gloss": "lord/warrior"
       }
      ],
-     "gloss": "king/warrior"
+     "gloss": "lord"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "எ·குவிளங்கு",
+     "surface": "எ·கு",
      "parts": [
       {
-       "text": "எ·குவிளங்கு",
-       "lemma": "எ·குவிளங்கு",
-       "gloss": ""
+       "text": "எ·கு",
+       "lemma": "எஃகு",
+       "gloss": "spear/steel"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "spear"
+    },
+    {
+     "surface": "விளங்கு",
+     "parts": [
+      {
+       "text": "விளங்கு",
+       "lemma": "விளங்கு",
+       "gloss": "shining"
+      }
+     ],
+     "gloss": "shining"
     },
     {
      "surface": "தடக்கை",
      "parts": [
       {
-       "text": "தடக்கை",
-       "lemma": "தடக்கை",
-       "gloss": ""
+       "text": "தட",
+       "lemma": "தட",
+       "gloss": "broad"
+      },
+      {
+       "text": "கை",
+       "lemma": "கை",
+       "gloss": "hand"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "broad hands"
     },
     {
-     "surface": "இயல்தேர்ச்",
+     "surface": "இயல்தேர்",
      "parts": [
       {
-       "text": "இயல்தேர்ச்",
-       "lemma": "இயல்தேர்ச்",
-       "gloss": ""
+       "text": "இயல்",
+       "lemma": "இயல்",
+       "gloss": "moving/well-made"
+      },
+      {
+       "text": "தேர்",
+       "lemma": "தேர்",
+       "gloss": "chariot"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "well-made chariot"
     },
     {
      "surface": "சென்னி",
@@ -806,14 +864,12 @@
       {
        "text": "சென்னி",
        "lemma": "சென்னி",
-       "gloss": ""
+       "gloss": "Chola king/head"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Cenni"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -845,10 +901,10 @@
       {
        "text": "அகலம்",
        "lemma": "அகலம்",
-       "gloss": "broad chest"
+       "gloss": "chest"
       }
      ],
-     "gloss": "broad chest"
+     "gloss": "chest"
     },
     {
      "surface": "மலைக்குநர்",
@@ -856,17 +912,17 @@
       {
        "text": "மலை",
        "lemma": "மலை",
-       "gloss": "oppose"
+       "gloss": "to fight/oppose"
       },
       {
-       "text": "கு",
+       "text": "க்கு",
        "lemma": "கு",
-       "gloss": "increment"
+       "gloss": "future tense marker"
       },
       {
        "text": "நர்",
        "lemma": "நர்",
-       "gloss": "they who"
+       "gloss": "pronominal suffix"
       }
      ],
      "gloss": "those who oppose"
@@ -875,21 +931,30 @@
      "surface": "உளர்",
      "parts": [
       {
-       "text": "உளர்",
-       "lemma": "உளர்",
-       "gloss": "exist"
+       "text": "உள்",
+       "lemma": "உள்",
+       "gloss": "to exist"
+      },
+      {
+       "text": "அர்",
+       "lemma": "அர்",
+       "gloss": "plural suffix"
       }
      ],
-     "gloss": "exist",
-     "split_unverified": true
+     "gloss": "exist"
     },
     {
      "surface": "எனின்",
      "parts": [
       {
-       "text": "எனின்",
-       "lemma": "எனின்",
-       "gloss": "if"
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "to say"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "conditional suffix"
       }
      ],
      "gloss": "if"
@@ -904,10 +969,10 @@
       {
        "text": "தாம்",
        "lemma": "தாம்",
-       "gloss": "they themselves"
+       "gloss": "themselves"
       }
      ],
-     "gloss": "they themselves"
+     "gloss": "themselves"
     },
     {
      "surface": "அறிகுவர்",
@@ -915,23 +980,28 @@
       {
        "text": "அறி",
        "lemma": "அறி",
-       "gloss": "know"
+       "gloss": "to know"
       },
       {
-       "text": "குவர்",
-       "lemma": "குவர்",
-       "gloss": "they will"
+       "text": "கு",
+       "lemma": "கு",
+       "gloss": "future tense marker"
+      },
+      {
+       "text": "அர்",
+       "lemma": "அர்",
+       "gloss": "third person plural suffix"
       }
      ],
-     "gloss": "will know"
+     "gloss": "they will know"
     },
     {
      "surface": "தமக்கு",
      "parts": [
       {
        "text": "தமக்கு",
-       "lemma": "தமக்கு",
-       "gloss": "to themselves"
+       "lemma": "தாம்",
+       "gloss": "themselves/dative"
       }
      ],
      "gloss": "to themselves"
@@ -942,10 +1012,10 @@
       {
        "text": "உறுதி",
        "lemma": "உறுதி",
-       "gloss": "what is good/certainty"
+       "gloss": "benefit/good"
       }
      ],
-     "gloss": "what is good/certainty"
+     "gloss": "what is good"
     },
     {
      "surface": "யாம்",
@@ -964,7 +1034,7 @@
       {
        "text": "அவன்",
        "lemma": "அவன்",
-       "gloss": "his"
+       "gloss": "he/his"
       }
      ],
      "gloss": "his"
@@ -979,10 +1049,10 @@
       {
        "text": "எழு",
        "lemma": "எழு",
-       "gloss": "latch/pillar"
+       "gloss": "wooden bolt"
       }
      ],
-     "gloss": "latch/pillar"
+     "gloss": "wooden bolt"
     },
     {
      "surface": "உறழ்",
@@ -990,7 +1060,7 @@
       {
        "text": "உறழ்",
        "lemma": "உறழ்",
-       "gloss": "resembling"
+       "gloss": "to resemble"
       }
      ],
      "gloss": "resembling"
@@ -1001,10 +1071,10 @@
       {
        "text": "திணி",
        "lemma": "திணி",
-       "gloss": "strong/dense"
+       "gloss": "strong/firm"
       }
      ],
-     "gloss": "strong/dense"
+     "gloss": "strong"
     },
     {
      "surface": "தோள்",
@@ -1012,7 +1082,7 @@
       {
        "text": "தோள்",
        "lemma": "தோள்",
-       "gloss": "shoulders"
+       "gloss": "shoulder"
       }
      ],
      "gloss": "shoulders"
@@ -1023,17 +1093,17 @@
       {
        "text": "வழு",
        "lemma": "வழு",
-       "gloss": "fault/slip"
+       "gloss": "fault/failure"
       }
      ],
-     "gloss": "fault/slip"
+     "gloss": "failure"
     },
     {
      "surface": "இன்றி",
      "parts": [
       {
        "text": "இன்றி",
-       "lemma": "இன்றி",
+       "lemma": "இன்று",
        "gloss": "without"
       }
      ],
@@ -1043,13 +1113,22 @@
      "surface": "மலைந்தோர்",
      "parts": [
       {
-       "text": "மலைந்தோர்",
-       "lemma": "மலைந்தோர்",
-       "gloss": "those who fought"
+       "text": "மலை",
+       "lemma": "மலை",
+       "gloss": "to fight"
+      },
+      {
+       "text": "ந்த்",
+       "lemma": "து",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "ஓர்",
+       "lemma": "ஓர்",
+       "gloss": "participial noun suffix"
       }
      ],
-     "gloss": "those who fought",
-     "split_unverified": true
+     "gloss": "those who fought"
     }
    ]
   },
@@ -1059,60 +1138,66 @@
      "surface": "வாழ",
      "parts": [
       {
-       "text": "வாழ",
-       "lemma": "வாழ",
-       "gloss": "to live/prosper"
+       "text": "வாழ்",
+       "lemma": "வாழ்",
+       "gloss": "to live"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to live/prosper"
+     "gloss": "to live"
     },
     {
      "surface": "கண்டன்றும்",
      "parts": [
       {
-       "text": "கண்டு",
-       "lemma": "காண்",
-       "gloss": "having seen"
-      },
-      {
-       "text": "அன்று",
-       "lemma": "அன்று",
-       "gloss": "that day"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "கண்டன்றும்",
+       "lemma": "கண்டன்றும்",
+       "gloss": "we have seen indeed"
       }
      ],
-     "gloss": "even having seen"
+     "gloss": "we have seen indeed",
+     "split_unverified": true
     },
     {
      "surface": "இலமே",
      "parts": [
       {
-       "text": "இலம்",
-       "lemma": "இலம்",
-       "gloss": "we have not"
+       "text": "இல்",
+       "lemma": "இல்",
+       "gloss": "not"
+      },
+      {
+       "text": "அம்",
+       "lemma": "அம்",
+       "gloss": "first person plural suffix"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "we have not indeed"
+     "gloss": "we have not"
     },
     {
      "surface": "தாழாது",
      "parts": [
       {
-       "text": "தாழாது",
-       "lemma": "தாழாது",
-       "gloss": "without delaying/bowing down"
+       "text": "தாழ்",
+       "lemma": "தாழ்",
+       "gloss": "to delay/bow down"
+      },
+      {
+       "text": "ஆது",
+       "lemma": "ஆது",
+       "gloss": "negative adverbial participle suffix"
       }
      ],
-     "gloss": "without delaying/bowing down"
+     "gloss": "without delaying"
     }
    ]
   },
@@ -1124,10 +1209,10 @@
       {
        "text": "திருந்து",
        "lemma": "திருந்து",
-       "gloss": "perfect/well-formed"
+       "gloss": "to be perfect/correct"
       }
      ],
-     "gloss": "perfect/well-formed"
+     "gloss": "perfect"
     },
     {
      "surface": "அடி",
@@ -1135,7 +1220,7 @@
       {
        "text": "அடி",
        "lemma": "அடி",
-       "gloss": "feet"
+       "gloss": "foot"
       }
      ],
      "gloss": "feet"
@@ -1144,12 +1229,17 @@
      "surface": "பொருந்த",
      "parts": [
       {
-       "text": "பொருந்த",
+       "text": "பொருந்து",
        "lemma": "பொருந்து",
-       "gloss": "to reach/fit/bow to"
+       "gloss": "to fit/reach"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to reach/fit/bow to"
+     "gloss": "to reach"
     },
     {
      "surface": "வல்லோர்",
@@ -1157,15 +1247,15 @@
       {
        "text": "வல்",
        "lemma": "வல்",
-       "gloss": "able"
+       "gloss": "capable"
       },
       {
        "text": "ஓர்",
        "lemma": "ஓர்",
-       "gloss": "they who"
+       "gloss": "plural suffix"
       }
      ],
-     "gloss": "those who are able"
+     "gloss": "those who are capable"
     }
    ]
   },
@@ -1175,9 +1265,14 @@
      "surface": "வருந்த",
      "parts": [
       {
-       "text": "வருந்த",
+       "text": "வருந்து",
        "lemma": "வருந்து",
        "gloss": "to suffer"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
      "gloss": "to suffer"
@@ -1186,9 +1281,14 @@
      "surface": "காண்டல்",
      "parts": [
       {
-       "text": "காண்டல்",
+       "text": "காண்",
        "lemma": "காண்",
-       "gloss": "seeing"
+       "gloss": "to see"
+      },
+      {
+       "text": "தல்",
+       "lemma": "தல்",
+       "gloss": "verbal noun suffix"
       }
      ],
      "gloss": "seeing"
@@ -1197,46 +1297,42 @@
      "surface": "அதனினும்",
      "parts": [
       {
-       "text": "அதன்",
-       "lemma": "அது",
-       "gloss": "that"
-      },
-      {
-       "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "than"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "அதனினும்",
+       "lemma": "அதனினும்",
+       "gloss": "even more than that"
       }
      ],
-     "gloss": "even more than that"
+     "gloss": "even more than that",
+     "split_unverified": true
     },
     {
      "surface": "இலமே",
      "parts": [
       {
-       "text": "இலம்",
-       "lemma": "இலம்",
-       "gloss": "we have not"
+       "text": "இல்",
+       "lemma": "இல்",
+       "gloss": "not"
+      },
+      {
+       "text": "அம்",
+       "lemma": "அம்",
+       "gloss": "first person plural suffix"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "we have not indeed"
+     "gloss": "we have not"
     }
    ]
   }
  ],
- "literal": "Peasant women with hair-knots and short hair wearing cool foliage / weeding the small, excellent water-lilies along with the blue lilies / in the wet field where eels leap, slashing the mud / the thick-eyed slices of the field's valai fish / as a topping for the white cooked rice of new paddy / eating so much that their rib-sides swell / stumbling among the sheaves of harvested grain in the long-eared fields / the sparse-haired children of the strong-handed workers / when they are bored of the large fallen coconuts / climb the narrow-topped tall haystacks and rising with force / attempt to touch the fruits on the fertile trunk of the palmyra palm / such is the daily fresh income of the good country's king / Chenni of the well-made chariot and broad hand shining with steel / if there are those who oppose his broad chest adorned with bow and garland / they themselves will know what is good for them; we / have never seen those who fought without fault against his pillar-like strong shoulders live / and without delay / those who are able to bow to his perfect feet / we have never seen them suffer even more than that",
- "translation": "Peasant women with short hair tied in knots, wearing cool leaf-garments, weed out the small, beautiful water-lilies and blue lilies. In those wet fields where eels leap, they slash the mud and catch the thick-eyed valai fish, slicing them to eat as a topping with the white rice of newly harvested paddy, eating until their rib-sides swell. Stumbling among the heavy sheaves of grain in the vast fields, the sparse-haired children of these strong-handed laborers get bored of playing with the large fallen coconuts. So they climb the tall, narrow-topped haystacks and, leaping with all their might, try to reach the fruits hanging from the fertile trunks of the tall palmyra palms. Such is the daily abundance of the good land ruled by Chenni, who drives a swift chariot and holds a steel spear in his broad hand. If there are any who dare to oppose his broad chest adorned with garlands and bows, let them decide what is good for themselves. For we have never seen anyone who fought against his pillar-like strong shoulders survive; nor have we ever seen those who hasten to bow at his perfect feet suffer in any way.",
- "modern": "கொண்டை கட்டிய குட்டையான கூந்தலையும், குளிர்ந்த தழையாடையையும் அணிந்த உழத்திப் பெண்கள், சிறிய நெய்தல் மற்றும் ஆம்பல் மலர்களைக் களைகிறார்கள். விலாங்கு மீன்கள் துள்ளும் வயல் சேற்றில் வெட்டப்பட்ட பெரிய வாளை மீனின் துண்டுகளை, புதிய நெல்லின் வெண்சோற்றுக்குக் கறியாகக் கொண்டு, விலாப்பகுதி உப்பும்படி வயிறார உண்கிறார்கள். நீண்ட கதிர்களைக் கொண்ட வயல்களில் அறுவடை செய்த அரிக்கட்டுகளுக்கு இடையே தடுமாறி நடக்கும் வன்மையான கைகளை உடைய உழவர்களின் மெல்லிய தலைமுடியைக் கொண்ட சிறுவர்கள், கீழே விழுந்து கிடக்கும் பெரிய தேங்காய்களை விளையாடிச் சலித்த பின், குறுகிய உச்சியை உடைய வைக்கோல் போர்களின் மேல் ஏறி, அங்கிருந்து எம்பிக்குதித்து, செழுமையான பனைமரத்தின் பழங்களைத் தொட முயல்கிறார்கள். இத்தகைய நாள்தோறும் புதுவருவாய் கொண்ட நன்னாட்டின் தலைவன், எஃகு வேல் விளங்கும் பெரிய கைகளையும் இயங்கும் தேரையும் உடைய சோழன் சென்னி ஆவான். வில்லும் மாலையும் அணிந்த அவனது மார்பை எதிர்த்துப் போரிடுபவர்கள் யாராவது இருந்தால், அவர்கள் தங்களுக்கு எது நல்லது என்பதைத் தாங்களே அறிந்து கொள்ளட்டும். தூண் போன்ற அவனது வலிமையான தோள்களை எதிர்த்துப் போரிட்டவர்கள் யாரும் உயிர் பிழைத்ததை நாம் கண்டதில்லை. அதேபோல, அவனது செம்மையான அடிகளைப் பணிந்து வாழ்பவர்கள் எவரும் வருந்துவதையும் நாம் கண்டதில்லை.",
- "explanation": "This poem is a Puṟam song addressed to the Chola king Ilavanthikaipalli Thunjia Cholan by the poet Konattu Erichalur Madalan Madurai Kumaranar. The poet begins by vividly describing the agricultural prosperity of the Chola country, where peasant women feast on fresh white rice and sliced valai fish, and children of laborers play by leaping from tall haystacks to reach palmyra fruits. This rich landscape (marutam) reflects the king's benevolence and the strength of his rule. The poet then transitions to the king's martial prowess, describing his broad chest and pillar-like strong shoulders. He warns potential enemies that opposing the king leads to certain death, while those who surrender and bow to his feet will never suffer. The key words are 'யாணர்' (fresh income/fertility), 'சென்னி' (the Chola king), and 'மலைந்தோர்' (those who fought).",
+ "literal": "Peasant women with hair-knots of short hair and cool leaf-garments / weed out small, excellent blue water-lilies along with white water-lilies / in the wet fields where eels wriggle, chopping the slush / the thick-eyed cut pieces of pond-dwelling vaalai fish / as a side-dish for the white rice of new paddy / they gorge until their rib-sides stretch tight / in the paddy fields of long ears of grain, where sheaves of harvested grain are abundant / the dusty-headed children of strong-handed laborers / when they get bored of the large fallen coconuts / climb the narrow-topped tall haystacks and rise with force / to try and touch the fruits of the fertile-branched palmyra palm / such is the daily fresh fertility of the good country's lord / Cenni of the well-made chariot and broad hands shining with spears / if there are those who oppose his chest adorned with bow-garlands / they themselves will know what is good for them; we / those who fought without fail against his firm shoulders resembling wooden bolts / have never seen them survive; without delaying / those who are capable of reaching and fitting his perfect feet / we have never seen them suffer even more than that",
+ "translation": "Peasant women, their short hair tied in knots and wearing cool leaf-garments, weed out small, beautiful blue water-lilies along with white water-lilies from the wet fields where eels wriggle. In that slush, they chop the thick-eyed vaalai fish from the ponds into pieces, and eat them as a side-dish with the white rice of new paddy, gorging until their ribs stretch tight. In these fields of long-eared grain where harvested sheaves lie in abundance, the dusty-headed children of strong-handed laborers, when bored of playing with fallen coconuts, climb the narrow-topped tall haystacks and leap up with force to reach the fruits of the tall palmyra palms. Such is the daily, fresh prosperity of the good land ruled by Cenni, who possesses well-made chariots and broad hands shining with spears. If there are any who dare to oppose his chest adorned with garlands of victory, they will learn what is good for them. We have never seen those who fought against his firm, pillar-like shoulders survive; nor have we ever seen those who hasten to bow at his perfect feet suffer in the least.",
+ "modern": "குட்டையான கூந்தலை முடியாக முடித்து, குளிர்ந்த தழையாடை அணிந்த உழத்தியர், விலங்குகள் போன்ற மலங்கு மீன்கள் துள்ளும் வயல்களில், சிறிய அழகிய நெய்தல் மலர்களையும் ஆம்பல் மலர்களையும் களைகின்றனர். அவ்வாறு களைகையில் சேற்றில் அகப்படும் பெரிய கண்களைக் கொண்ட வாளை மீன்களைத் துண்டு துண்டாக வெட்டி, புதிய நெல்லின் வெண்மையான சோற்றுடன் தொடுகறியாகச் சேர்த்து, விலா எலும்புகள் புடைக்கும்படி வயிறார உண்கின்றனர். நீண்ட கதிர்களைக் கொண்ட வயல்களில் நெற்போர் குவித்து வைக்கப்பட்டுள்ளது. வன்மையான கைகளைக் கொண்ட உழவர்களின் புழுதி படிந்த தலையையுடைய சிறுவர்கள், கீழே விழுந்து கிடக்கும் தென்னம்பழங்களை விளையாடிச் சலித்த பின், குறுகிய உச்சியை உடைய நெடிய வைக்கோல் போர்களின் மேல் ஏறி, அங்கிருந்து விசையோடு குதித்து, செழுமையான கிளைகளைக் கொண்ட பனைமரத்தின் பழங்களைத் தொட முயல்கின்றனர். இத்தகைய நாள்தோறும் புதுவருவாய் தரும் வளமான நாட்டின் தலைவன், வேல் விளங்கும் அகன்ற கைகளையும் இயங்கும் தேரையும் உடைய சோழன் சென்னி ஆவான். வில்லால் தொடுக்கப்பட்ட மாலையை அணிந்த அவனது மார்பை எதிர்த்துப் போரிடுபவர் எவரேனும் இருந்தால், அவர்கள் தங்களுக்கு எது நல்லது என்பதைத் தாங்களே அறிந்து கொள்ளட்டும். தூண் போன்ற அவனது வலிய தோள்களை எதிர்த்துப் போரிட்டவர்கள் உயிர் பிழைத்து வாழ்ந்ததை நாம் கண்டதில்லை. அதே வேளையில், அவனது செம்மையான திருவடிகளை விரைந்து சரணடைந்தவர்கள் எவரும் துன்புறுவதையும் நாம் கண்டதில்லை.",
+ "explanation": "The poet Kōnāṭṭu Eṟiccilūr Māṭalaṉ Maturai Kumaraṉār addresses the Chola king Nalankilli (referred to as Cenni). The poet praises the immense agricultural wealth of the Chola country, describing the rich lifestyle of the peasants and their children, and contrasts this peaceful prosperity with the king's terrifying might in battle. The vivid description of peasant women feasting on fresh fish and new rice, and children leaping from high haystacks to reach palmyra fruits, paints a picture of effortless abundance. This fertile landscape (marutam) serves as a backdrop to highlight the king's absolute power; his enemies are utterly destroyed, while those who surrender to him enjoy peaceful prosperity. Key words include 'கடைசியர்' (peasant women), 'புதுநெல்' (new paddy), 'யாணர்' (fresh fertility), 'சென்னி' (Chola king), and 'மலைந்தோர்' (those who fought).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

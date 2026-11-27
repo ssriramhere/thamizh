@@ -8,7 +8,7 @@
       {
        "text": "அம்ம",
        "lemma": "அம்ம",
-       "gloss": "listen"
+       "gloss": "expletive/listen"
       }
      ],
      "gloss": "listen"
@@ -18,11 +18,11 @@
      "parts": [
       {
        "text": "வாழி",
-       "lemma": "வாழி",
+       "lemma": "வாழ்",
        "gloss": "may you live"
       }
      ],
-     "gloss": "may you live"
+     "gloss": "may you live long"
     },
     {
      "surface": "தோழி",
@@ -33,14 +33,14 @@
        "gloss": "friend"
       }
      ],
-     "gloss": "friend"
+     "gloss": "oh friend"
     },
     {
      "surface": "நம்மூர்ப்",
      "parts": [
       {
        "text": "நம்",
-       "lemma": "நாம்",
+       "lemma": "நம்",
        "gloss": "our"
       },
       {
@@ -54,7 +54,7 @@
        "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "our town"
+     "gloss": "in our town"
     }
    ]
   },
@@ -93,10 +93,10 @@
       {
        "text": "இருந்தனர்",
        "lemma": "இரு",
-       "gloss": "they were"
+       "gloss": "they existed"
       }
      ],
-     "gloss": "they were"
+     "gloss": "did they exist"
     },
     {
      "surface": "கொல்லோ",
@@ -109,33 +109,27 @@
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "emphasis"
+       "gloss": "particle of doubt"
       }
      ],
-     "gloss": "indeed/whether"
+     "gloss": "indeed (expressing wonder/doubt)"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தண்டு",
+     "surface": "தண்டுடைக்",
      "parts": [
       {
        "text": "தண்டு",
        "lemma": "தண்டு",
        "gloss": "staff"
-      }
-     ],
-     "gloss": "staff"
-    },
-    {
-     "surface": "உடைக்",
-     "parts": [
+      },
       {
        "text": "உடை",
        "lemma": "உடை",
-       "gloss": "having"
+       "gloss": "possessing"
       },
       {
        "text": "க்",
@@ -143,7 +137,7 @@
        "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "having"
+     "gloss": "having staves"
     },
     {
      "surface": "கையர்",
@@ -156,31 +150,22 @@
       {
        "text": "அர்",
        "lemma": "அர்",
-       "gloss": "pronominal suffix"
+       "gloss": "they (honorific/plural)"
       }
      ],
-     "gloss": "those with hands"
+     "gloss": "those with in hand"
     },
     {
      "surface": "வெண்டலைச்",
      "parts": [
       {
-       "text": "வெண்",
-       "lemma": "வெண்மை",
-       "gloss": "white"
-      },
-      {
-       "text": "தலை",
-       "lemma": "தலை",
-       "gloss": "head"
-      },
-      {
-       "text": "ச்",
-       "lemma": "ச்",
-       "gloss": "sandhi consonant"
+       "text": "வெண்டலைச்",
+       "lemma": "வெண்டலைச்",
+       "gloss": "white-haired heads"
       }
      ],
-     "gloss": "white head"
+     "gloss": "white-haired heads",
+     "split_unverified": true
     },
     {
      "surface": "சிதவலர்",
@@ -188,15 +173,15 @@
       {
        "text": "சிதவல்",
        "lemma": "சிதவல்",
-       "gloss": "headcloth/rag"
+       "gloss": "rag/head-cloth"
       },
       {
        "text": "அர்",
        "lemma": "அர்",
-       "gloss": "those who have"
+       "gloss": "they (honorific/plural)"
       }
      ],
-     "gloss": "those with headcloths"
+     "gloss": "those with head-cloths"
     }
    ]
   },
@@ -246,71 +231,93 @@
       {
        "text": "ஓ",
        "lemma": "ஓடு",
-       "gloss": "with (part 1)"
+       "gloss": "with (truncated)"
       }
      ],
-     "gloss": "people-with (part 1)"
+     "gloss": "with those people"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "டின்றுபெரி",
+     "surface": "டின்று",
      "parts": [
       {
-       "text": "டின்றுபெரி",
-       "lemma": "டின்றுபெரி",
-       "gloss": ""
+       "text": "டின்று",
+       "lemma": "டின்று",
+       "gloss": "today"
       }
      ],
-     "gloss": "",
+     "gloss": "today",
      "split_unverified": true
     },
     {
-     "surface": "தென்னும்",
+     "surface": "பெரிது",
      "parts": [
       {
-       "text": "தென்னும்",
-       "lemma": "தென்னும்",
-       "gloss": ""
+       "text": "பெரிது",
+       "lemma": "பெரிது",
+       "gloss": "great"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "it is very great"
     },
     {
-     "surface": "ஆங்கண",
+     "surface": "என்னும்",
      "parts": [
       {
-       "text": "ஆங்கண",
-       "lemma": "ஆங்கண",
-       "gloss": ""
+       "text": "என்னும்",
+       "lemma": "என்",
+       "gloss": "saying"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "saying"
     },
     {
-     "surface": "தவையே",
+     "surface": "ஆங்கணது",
      "parts": [
       {
-       "text": "தவையே",
-       "lemma": "தவையே",
-       "gloss": ""
+       "text": "ஆங்கு",
+       "lemma": "ஆங்கு",
+       "gloss": "there"
+      },
+      {
+       "text": "அண்",
+       "lemma": "அண்",
+       "gloss": "place"
+      },
+      {
+       "text": "அது",
+       "lemma": "அது",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of that place"
+    },
+    {
+     "surface": "அவையே",
+     "parts": [
+      {
+       "text": "அவை",
+       "lemma": "அவை",
+       "gloss": "assembly"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "indeed"
+      }
+     ],
+     "gloss": "indeed in the assembly"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "Listen! May you live, friend! In our town, / those who unite those who separated, were they there? / Those with staffs in hand, those with white-headed headcloths, / with the people who say \"Good! Good!\" / today, \"It is great!\" saying, the assemblies of that place indeed.",
- "translation": "Listen, my friend, may you live long! In our town, were there ever people who could reunite those who have separated? Today, in the assemblies of that place, the elders holding staffs in their hands and wearing white headcloths are saying, 'Good, very good!' and 'This is great!'",
- "modern": "தோழியே, கேள்! நீ வாழ்க! நம் ஊரில் பிரிந்தவர்களைச் சேர்த்து வைப்பவர்கள் யாராவது இருந்தார்களா? கையில் தடியை ஏந்திய, நரைத்த தலையில் தலைப்பாகை அணிந்த பெரியவர்கள், 'மிகவும் நன்று, நன்று' என்று பாராட்டி, 'இன்று இது மிகப்பெரிய காரியம்' என்று பேசும் அந்த ஊர்ச் சபைகள் இன்று உள்ளனவே!",
- "explanation": "The friend (thozhi) is speaking to the heroine (thalaivi) when the hero's marriage proposal is being discussed and accepted by the town elders. She wonders aloud if there were ever people in their town who could bring separated lovers back together, celebrating that it has finally happened. She points out that today, the wise elders of the town assembly, who carry staffs and wear white headcloths, are praising the union, saying \"Good, good!\" and \"This is a great thing!\" The poem belongs to the Kuriñci tiṇai (mountainous landscape), which deals with the union of lovers. The key words are 'பிரிந்தோர்ப் புணர்ப்போர்' (those who unite the separated) and 'ஆங்கண தவையே' (the assemblies of that place), highlighting the transition from secret love to public, celebrated marriage.",
+ "literal": "Oh friend, may you live! In our town / those who unite the separated, did they exist? / Those with staves in hand, with white-haired heads covered in rags, / with those people who say 'Good, good!' / today saying 'It is very great!' in the assembly of that place.",
+ "translation": "Live long, my friend! Did there ever exist in our town those who could reunite separated lovers? In the assembly of that place, the elders—holding staves in their hands, their white-haired heads wrapped in rags—who usually say, 'Good, good!' are today saying, 'This is a very great thing!'",
+ "modern": "தோழியே, நீ வாழ்க! நம் ஊரில் பிரிந்தவர்களைச் சேர்த்து வைப்பவர்கள் இருந்தார்களா? கையில் தடியை ஏந்தி, நரைத்த தலையில் தலைப்பாகை அணிந்த பெரியவர்கள், எப்போதும் 'நல்லது, நல்லது' என்று சொல்பவர்கள், இன்று அந்த ஊர் அவையிலே 'இது மிகவும் பெரிய காரியம்' என்று கூறுகிறார்களே!",
+ "explanation": "The confidante is speaking to the heroine after the hero's arrival or the formal proposal of marriage. She wonders aloud if there were ever people in their town capable of bringing separated lovers back together. She points to the assembly of wise elders, who hold walking sticks and wear white head-cloths over their grey hair. These elders, who normally nod in approval saying \"Good, good,\" are today astonished and declaring this union to be \"a very great thing!\" This public validation by the town's assembly brings immense relief and joy, transitioning their secret love into a socially accepted marriage.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

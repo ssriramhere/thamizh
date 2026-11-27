@@ -3,20 +3,26 @@
   {
    "words": [
     {
-     "surface": "காணினி",
+     "surface": "காண்",
      "parts": [
       {
        "text": "காண்",
        "lemma": "காண்",
        "gloss": "see"
-      },
+      }
+     ],
+     "gloss": "see"
+    },
+    {
+     "surface": "இனி",
+     "parts": [
       {
        "text": "இனி",
        "lemma": "இனி",
        "gloss": "now"
       }
      ],
-     "gloss": "see now"
+     "gloss": "now"
     },
     {
      "surface": "வாழி",
@@ -27,7 +33,7 @@
        "gloss": "may you live"
       }
      ],
-     "gloss": "may you live long"
+     "gloss": "may you live"
     },
     {
      "surface": "தோழி",
@@ -61,51 +67,43 @@
       {
        "text": "கடும்புனல்",
        "lemma": "கடும்புனல்",
-       "gloss": "swift water"
+       "gloss": "swift flood"
       }
      ],
-     "gloss": "swift water",
-     "split_unverified": true
+     "gloss": "swift flood"
     },
     {
      "surface": "அடைகரை",
      "parts": [
       {
-       "text": "அடை",
-       "lemma": "அடை",
-       "gloss": "close"
-      },
-      {
-       "text": "கரை",
-       "lemma": "கரை",
-       "gloss": "bank"
+       "text": "அடைகரை",
+       "lemma": "அடைகரை",
+       "gloss": "nearby bank"
       }
      ],
-     "gloss": "close bank"
+     "gloss": "nearby bank"
     },
     {
      "surface": "நெடுங்கயத்து",
      "parts": [
       {
        "text": "நெடுங்கயத்து",
-       "lemma": "நெடுங்கயத்து",
-       "gloss": "of the deep pool"
+       "lemma": "நெடுங்கயம்",
+       "gloss": "deep pool (oblique)"
       }
      ],
-     "gloss": "of the deep pool",
-     "split_unverified": true
+     "gloss": "deep pool"
     },
     {
      "surface": "இட்ட",
      "parts": [
       {
        "text": "இட்ட",
-       "lemma": "இட்ட",
+       "lemma": "இடு",
        "gloss": "cast"
       }
      ],
-     "gloss": "cast",
-     "split_unverified": true
+     "gloss": "cast"
     }
    ]
   },
@@ -204,10 +202,10 @@
    "as_printed": true
   }
  ],
- "literal": "See now, may you live, friend! / In the deep pool of the close bank of the swift flood of fresh fertility, cast / fish net, like a beast caught in it, / what indeed is this in the place of strangers?",
- "translation": "Look here, my friend, may you live long! Like a wild beast caught in a fishing net cast in the deep pool near the bank of the swift, fertile river, what is this gossip about me in the neighborhood of strangers?",
- "modern": "தோழியே, நீ வாழ்க! இப்போது பார்! புதிய வருவாயைத் தரும் வேகமான வெள்ளம் வந்து அடையும் கரையை உடைய பெரிய குளத்தில் வீசப்பட்ட மீன் வலையில் ஒரு விலங்கு மாட்டிக்கொண்டது போல, அயலார் வாழும் இப்பகுதியில் எழுந்துள்ள இந்த அலர் என்னவோ?",
- "explanation": "The heroine is speaking to her close friend about the rumors that have arisen in her neighborhood regarding her secret love affair. She compares herself to a wild beast that has accidentally become trapped in a net meant only for catching fish. The fish net represents the gossip that has suddenly enveloped her, making her private love affair public. This image belongs to the Marutham (agricultural) landscape, where rivers, deep pools, and fishing nets are common. The key words are 'மீன்வலை' (fish net), 'மா' (beast), and 'நொதுமலர்' (strangers/neighbors).",
+ "literal": "See now, may you live, friend! The fertile / swift flood's nearby bank's deep pool cast / fishing net, a beast having been caught, like / this, then, what is it, in the place of strangers?",
+ "translation": "Look, my friend, may you live long! Like a wild beast trapped in a fishing net cast in the deep pool near the bank of the swift, fertile flood, what is this commotion now in the neighborhood of strangers?",
+ "modern": "தோழியே, நீ வாழ்க! புதுவருவாய் தரும் வேகமான வெள்ளம் வந்து சேரும் கரையை உடைய நெடிய குளத்தில் வீசப்பட்ட மீன் வலையிலே ஒரு விலங்கு அகப்பட்டுக் கொண்டது போல, அயலார் வாழும் இப்பகுதியில் எழுந்துள்ள இந்த அலர் என்ன காரணத்தாலோ?",
+ "explanation": "The heroine is speaking to her close friend about the rumors spreading in their neighborhood. The hero has been secretly visiting her, and the neighbors (strangers) have begun to gossip. She compares their secret love affair to a large, powerful beast that has accidentally become trapped in a fishing net cast in a deep pool of a swift river. Just as a trapped beast thrashes and causes a massive stir in the water, their secret love has caused a loud commotion among the villagers. This imagery belongs to the Marutam (riverine) landscape, where the swift flood represents uncontrollable passion and the fishing net represents social constraints.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

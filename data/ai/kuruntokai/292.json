@@ -7,7 +7,7 @@
      "parts": [
       {
        "text": "மண்ணிய",
-       "lemma": "மண்ணுதல்",
+       "lemma": "மண்ணு",
        "gloss": "having bathed"
       }
      ],
@@ -18,33 +18,27 @@
      "parts": [
       {
        "text": "சென்ற",
-       "lemma": "செல்லுதல்",
+       "lemma": "செல்",
        "gloss": "who went"
       }
      ],
      "gloss": "who went"
     },
     {
-     "surface": "ஒள்",
+     "surface": "ஒண்ணுதல்",
      "parts": [
       {
        "text": "ஒள்",
        "lemma": "ஒள்",
        "gloss": "bright"
-      }
-     ],
-     "gloss": "bright"
-    },
-    {
-     "surface": "நுதல்",
-     "parts": [
+      },
       {
        "text": "நுதல்",
        "lemma": "நுதல்",
        "gloss": "forehead"
       }
      ],
-     "gloss": "forehead"
+     "gloss": "bright forehead"
     },
     {
      "surface": "அரிவை",
@@ -62,28 +56,42 @@
   {
    "words": [
     {
-     "surface": "புனல்தரு",
+     "surface": "புனல்",
      "parts": [
       {
-       "text": "புனல்தரு",
-       "lemma": "புனல்தரு",
-       "gloss": ""
+       "text": "புனல்",
+       "lemma": "புனல்",
+       "gloss": "stream"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "stream"
+    },
+    {
+     "surface": "தரு",
+     "parts": [
+      {
+       "text": "தரு",
+       "lemma": "தரு",
+       "gloss": "brought"
+      }
+     ],
+     "gloss": "brought"
     },
     {
      "surface": "பசுங்காய்",
      "parts": [
       {
-       "text": "பசுங்காய்",
-       "lemma": "பசுங்காய்",
-       "gloss": ""
+       "text": "பசுமை",
+       "lemma": "பசுமை",
+       "gloss": "green"
+      },
+      {
+       "text": "காய்",
+       "lemma": "காய்",
+       "gloss": "unripe fruit"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "green fruit"
     },
     {
      "surface": "தின்றதன்",
@@ -91,26 +99,29 @@
       {
        "text": "தின்றதன்",
        "lemma": "தின்றதன்",
-       "gloss": ""
+       "gloss": "of eating that"
       }
      ],
-     "gloss": "",
+     "gloss": "of eating that",
      "split_unverified": true
     },
     {
-     "surface": "தப்பற்",
+     "surface": "தப்பல்",
      "parts": [
       {
-       "text": "தப்பற்",
-       "lemma": "தப்பற்",
-       "gloss": ""
+       "text": "தப்பு",
+       "lemma": "தப்பு",
+       "gloss": "err"
+      },
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "verbal noun suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "transgression"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -183,7 +194,7 @@
      "parts": [
       {
        "text": "செய்",
-       "lemma": "செய்தல்",
+       "lemma": "செய்",
        "gloss": "made"
       }
      ],
@@ -204,20 +215,30 @@
      "surface": "கொடுப்பவும்",
      "parts": [
       {
-       "text": "கொடுப்பவும்",
-       "lemma": "கொடுத்தல்",
-       "gloss": "even when giving"
+       "text": "கொடுப்ப",
+       "lemma": "கொடு",
+       "gloss": "giving"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even"
       }
      ],
-     "gloss": "even when giving"
+     "gloss": "even when given"
     },
     {
      "surface": "கொள்ளான்",
      "parts": [
       {
-       "text": "கொள்ளான்",
-       "lemma": "கொள்ளுதல்",
-       "gloss": "he did not accept"
+       "text": "கொள்",
+       "lemma": "கொள்",
+       "gloss": "accept"
+      },
+      {
+       "text": "ஆன்",
+       "lemma": "ஆன்",
+       "gloss": "he (negative)"
       }
      ],
      "gloss": "he did not accept"
@@ -227,37 +248,31 @@
   {
    "words": [
     {
-     "surface": "பெண்",
+     "surface": "பெண்கொலை",
      "parts": [
       {
        "text": "பெண்",
        "lemma": "பெண்",
        "gloss": "woman"
-      }
-     ],
-     "gloss": "woman"
-    },
-    {
-     "surface": "கொலை",
-     "parts": [
+      },
       {
        "text": "கொலை",
        "lemma": "கொலை",
        "gloss": "killing"
       }
      ],
-     "gloss": "killing"
+     "gloss": "killing of a woman"
     },
     {
      "surface": "புரிந்த",
      "parts": [
       {
        "text": "புரிந்த",
-       "lemma": "புரிதல்",
-       "gloss": "who did"
+       "lemma": "புரி",
+       "gloss": "who committed"
       }
      ],
-     "gloss": "who did"
+     "gloss": "who committed"
     },
     {
      "surface": "நன்னன்",
@@ -290,11 +305,11 @@
      "parts": [
       {
        "text": "வரையா",
-       "lemma": "வரையறுத்தல்",
-       "gloss": "limitless"
+       "lemma": "வரை",
+       "gloss": "boundless"
       }
      ],
-     "gloss": "limitless"
+     "gloss": "boundless"
     },
     {
      "surface": "நிரையத்து",
@@ -302,21 +317,23 @@
       {
        "text": "நிரையத்து",
        "lemma": "நிரையத்து",
-       "gloss": "into hell"
+       "gloss": "to hell"
       }
      ],
-     "gloss": "into hell"
+     "gloss": "to hell",
+     "split_unverified": true
     },
     {
      "surface": "செலீஇயரோ",
      "parts": [
       {
        "text": "செலீஇயரோ",
-       "lemma": "செல்லுதல்",
-       "gloss": "may she go"
+       "lemma": "செலீஇயரோ",
+       "gloss": "may she go!"
       }
      ],
-     "gloss": "may she go"
+     "gloss": "may she go!",
+     "split_unverified": true
     },
     {
      "surface": "அன்னை",
@@ -371,11 +388,12 @@
      "parts": [
       {
        "text": "முக",
-       "lemma": "முகம்",
+       "lemma": "முக",
        "gloss": "face"
       }
      ],
-     "gloss": "face"
+     "gloss": "face",
+     "split_unverified": true
     },
     {
      "surface": "விருந்தினன்",
@@ -393,7 +411,7 @@
      "parts": [
       {
        "text": "வந்து",
-       "lemma": "வருதல்",
+       "lemma": "வா",
        "gloss": "having come"
       }
      ],
@@ -430,19 +448,25 @@
      "parts": [
       {
        "text": "முக",
-       "lemma": "முகம்",
+       "lemma": "முக",
        "gloss": "face"
       }
      ],
-     "gloss": "face"
+     "gloss": "face",
+     "split_unverified": true
     },
     {
      "surface": "ஊரின்",
      "parts": [
       {
-       "text": "ஊரின்",
+       "text": "ஊர்",
        "lemma": "ஊர்",
-       "gloss": "like the town"
+       "gloss": "town"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "like"
       }
      ],
      "gloss": "like the town"
@@ -451,9 +475,14 @@
      "surface": "துஞ்சல்",
      "parts": [
       {
-       "text": "துஞ்சல்",
-       "lemma": "துஞ்சுதல்",
-       "gloss": "sleeping"
+       "text": "துஞ்சு",
+       "lemma": "துஞ்சு",
+       "gloss": "sleep"
+      },
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "verbal noun suffix"
       }
      ],
      "gloss": "sleeping"
@@ -464,7 +493,7 @@
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "emphasis"
+       "gloss": "indeed"
       }
      ],
      "gloss": "indeed"
@@ -473,20 +502,25 @@
      "surface": "இலளே",
      "parts": [
       {
-       "text": "இலளே",
+       "text": "இலள்",
        "lemma": "இலள்",
-       "gloss": "she does not have"
+       "gloss": "she does not do"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "she does not have"
+     "gloss": "she does not do"
     }
    ]
   }
  ],
- "literal": "Having bathed, who went, the bright-foreheaded young woman / for the mistake of eating a green fruit brought by the water / eighty-one male elephants with her weight / in gold-made statue even when giving, not accepting / like Nannan who committed the killing of a woman / may mother go to the limitless hell! / Because a smiling-faced guest came for one day / like a hostile-faced town, she does not sleep at all!",
- "translation": "May mother go to the boundless hell, just like Nannan who committed the murder of a young woman! He refused to accept eighty-one male elephants and a gold statue of her weight offered in compensation for the mistake of eating a green fruit brought by the stream when she went to bathe. Because a smiling-faced guest came for just one day, mother does not sleep at all, watching like a hostile town!",
- "modern": "நீராடச் சென்ற ஒளிபொருந்திய நெற்றியையுடைய ஒரு பெண், ஆற்று நீர் அடித்துக்கொண்டு வந்த பச்சைக் காயைத் தின்ற குற்றத்திற்காக, அவளது எடைக்கு நிகரான பொன்னால் செய்த பாவையையும் எண்பத்தொரு ஆண் யானைகளையும் இழப்பீடாகத் தந்தபோதும் ஏற்றுக்கொள்ளாமல், அந்தப் பெண்ணைக் கொலை செய்த நன்னனைப் போல, அன்னை எல்லையற்ற நரகத்திற்குச் செல்வாளாக! ஒருநாள் புன்னகை முகத்தோடு விருந்தினராகத் தலைவன் வந்தான் என்பதற்காக, பகைமை கொண்ட ஊரைப் போல அன்னை சிறிதும் உறங்காமல் விழித்திருக்கிறாளே!",
- "explanation": "The friend (tōḻi) speaks to herself or to the heroine (talaivi) in frustration about the mother's strict vigilance. The mother has become extremely watchful and sleepless ever since the hero visited them as a guest for a single day, preventing any secret meetings between the lovers. The friend compares the mother's cruelty to the historical king Nannan, who executed a young girl for eating a green mango that floated down a river from his orchard, refusing all gold and elephant compensations offered by her family. By wishing that the mother go to the limitless hell just like Nannan, the friend expresses her deep anger at the mother's relentless guarding. This poem belongs to the Kuriñci tiṇai, depicting the obstacles faced by the lovers during their secret courtship.",
+ "literal": "The bright-foreheaded young woman who went to bathe, / for her transgression of eating a green fruit brought by the stream, / even when ninety male elephants and her weight / in a gold-made doll were offered, not accepting, / like Nannan who committed the murder of a woman, / may mother go to the boundless hell! / Just because a smiling-faced guest came for one day, / like a hostile-faced town, she does not sleep at all.",
+ "translation": "May mother go to boundless hell, just like Nannan who committed the murder of a woman, refusing to accept even when offered ninety male elephants and a life-sized doll made of gold equal to her weight, all for the transgression of a bright-foreheaded young woman who went to bathe and ate a green fruit brought down by the stream! Just because a smiling-faced guest came for a single day, mother does not sleep at all, keeping watch like a hostile town.",
+ "modern": "நீராடச் சென்ற ஒளிபொருந்திய நெற்றியையுடைய ஒரு பெண், ஆற்று நீர் அடித்துக் கொண்டு வந்த பச்சைக் காயைத் தின்ற குற்றத்திற்காக, அவளது எடைக்கு நிகரான பொன்னால் செய்த பாவையையும் தொண்ணூறு ஆண் யானைகளையும் இழப்பீடாகக் கொடுத்தும் ஏற்றுக்கொள்ளாமல் அவளைக் கொலை செய்த நன்னனைப் போல, என் தாய் எல்லையற்ற நரகத்திற்குச் செல்வாளாக! ஒரு நாள் புன்னகை முகத்துடன் விருந்தினனாகத் தலைவன் வந்தான் என்பதற்காக, பகைமை நிறைந்த ஊரைப் போல அவள் சிறிதும் உறங்காமல் விழித்துக் கொண்டிருக்கிறாளே!",
+ "explanation": "The foster-mother is keeping a strict watch over the heroine, preventing her from meeting her lover. The friend speaks to herself or to the heroine, expressing her anger at the mother's sleepless vigilance. She compares the mother to the infamous king Nannan, who executed a young girl for eating a green mango that floated down his royal stream, refusing all compensation offered by her family. The friend curses the mother to go to boundless hell for her cruelty in keeping the heroine confined. The 'smiling-faced guest' refers to the hero who visited, and because of his brief visit, the mother has become as alert and hostile as a town on guard against enemies, refusing to sleep.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

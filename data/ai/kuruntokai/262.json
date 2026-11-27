@@ -30,7 +30,7 @@
      "parts": [
       {
        "text": "எழ",
-       "lemma": "eḻu",
+       "lemma": "eḻatāl",
        "gloss": "to rise"
       }
      ],
@@ -42,32 +42,26 @@
       {
        "text": "சேரி",
        "lemma": "cēri",
-       "gloss": "neighborhood"
+       "gloss": "street"
       }
      ],
-     "gloss": "neighborhood"
+     "gloss": "street"
     },
     {
-     "surface": "கல்",
+     "surface": "கல்லென",
      "parts": [
       {
        "text": "கல்",
        "lemma": "kal",
        "gloss": "sound of clamor"
-      }
-     ],
-     "gloss": "clamor"
-    },
-    {
-     "surface": "என",
-     "parts": [
+      },
       {
        "text": "என",
        "lemma": "eṉa",
-       "gloss": "making the sound of"
+       "gloss": "saying"
       }
      ],
-     "gloss": "making the sound of"
+     "gloss": "with a clamoring sound"
     }
    ]
   },
@@ -140,15 +134,15 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "she herself indeed"
+     "gloss": "she herself"
     },
     {
      "surface": "இருக்க",
      "parts": [
       {
        "text": "இரு",
-       "lemma": "iru",
-       "gloss": "to stay"
+       "lemma": "iruttal",
+       "gloss": "to remain"
       },
       {
        "text": "க",
@@ -156,7 +150,7 @@
        "gloss": "optative suffix"
       }
      ],
-     "gloss": "let her stay"
+     "gloss": "let her remain"
     },
     {
      "surface": "தன்",
@@ -174,7 +168,7 @@
      "parts": [
       {
        "text": "மனை",
-       "lemma": "manai",
+       "lemma": "maṉai",
        "gloss": "house"
       },
       {
@@ -188,7 +182,7 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "in the house indeed"
+     "gloss": "in the house itself"
     }
    ]
   },
@@ -211,7 +205,7 @@
       {
        "text": "தின்",
        "lemma": "tiṉ",
-       "gloss": "to eat"
+       "gloss": "eat"
       },
       {
        "text": "ற",
@@ -219,39 +213,41 @@
        "gloss": "past relative participle suffix"
       }
      ],
-     "gloss": "that ate"
+     "gloss": "eaten"
     },
     {
-     "surface": "முள்ளெயிறு",
+     "surface": "முள்",
      "parts": [
       {
        "text": "முள்",
        "lemma": "muḷ",
-       "gloss": "sharp"
-      },
+       "gloss": "thorn"
+      }
+     ],
+     "gloss": "thorn"
+    },
+    {
+     "surface": "எயிறு",
+     "parts": [
       {
        "text": "எயிறு",
        "lemma": "eyiṟu",
-       "gloss": "teeth"
+       "gloss": "tooth"
       }
      ],
-     "gloss": "sharp teeth"
+     "gloss": "teeth"
     },
     {
      "surface": "தயங்க",
      "parts": [
       {
-       "text": "தயங்கு",
-       "lemma": "tayaṅku",
+       "text": "தயங்க",
+       "lemma": "தயங்க",
        "gloss": "to shine"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to shine"
+     "gloss": "to shine",
+     "split_unverified": true
     }
    ]
   },
@@ -273,16 +269,16 @@
      "parts": [
       {
        "text": "ஆய்ந்து",
-       "lemma": "āy",
-       "gloss": "having chosen"
+       "lemma": "āytal",
+       "gloss": "having selected"
       },
       {
        "text": "இசின்",
        "lemma": "iciṉ",
-       "gloss": "past particle"
+       "gloss": "past tense/expletive suffix"
       }
      ],
-     "gloss": "having chosen"
+     "gloss": "having desired"
     },
     {
      "surface": "ஆல்",
@@ -290,10 +286,10 @@
       {
        "text": "ஆல்",
        "lemma": "āl",
-       "gloss": "indeed"
+       "gloss": "particle"
       }
      ],
-     "gloss": "indeed"
+     "gloss": "particle"
     },
     {
      "surface": "அவரொடு",
@@ -305,7 +301,7 @@
       },
       {
        "text": "ஒடு",
-       "lemma": "oṭu",
+       "lemma": "ōṭu",
        "gloss": "with"
       }
      ],
@@ -315,17 +311,13 @@
      "surface": "சேய்நாட்டு",
      "parts": [
       {
-       "text": "சேய்",
-       "lemma": "cēy",
-       "gloss": "distant"
-      },
-      {
-       "text": "நாட்டு",
-       "lemma": "nāṭṭu",
-       "gloss": "country"
+       "text": "சேய்நாட்டு",
+       "lemma": "சேய்நாட்டு",
+       "gloss": "in the distant country"
       }
      ],
-     "gloss": "to the distant country"
+     "gloss": "in the distant country",
+     "split_unverified": true
     }
    ]
   },
@@ -347,7 +339,7 @@
      "parts": [
       {
        "text": "தொட",
-       "lemma": "toṭu",
+       "lemma": "toṭutal",
        "gloss": "to touch"
       }
      ],
@@ -358,19 +350,20 @@
      "parts": [
       {
        "text": "நிவந்த",
-       "lemma": "niva",
+       "lemma": "நிவந்த",
        "gloss": "risen high"
       }
      ],
-     "gloss": "that rose high"
+     "gloss": "risen high",
+     "split_unverified": true
     },
     {
      "surface": "விலங்கு",
      "parts": [
       {
        "text": "விலங்கு",
-       "lemma": "vilaṅku",
-       "gloss": "lying across"
+       "lemma": "vilaṅkutal",
+       "gloss": "to lie across"
       }
      ],
      "gloss": "lying across"
@@ -387,15 +380,16 @@
      "gloss": "mountain"
     },
     {
-     "surface": "கவாஅல்",
+     "surface": "கவாஅற்",
      "parts": [
       {
-       "text": "கவாஅல்",
-       "lemma": "kavā'al",
-       "gloss": "mountain slope"
+       "text": "கவாஅற்",
+       "lemma": "கவாஅற்",
+       "gloss": "on the mountain slope"
       }
      ],
-     "gloss": "on the mountain slope"
+     "gloss": "on the mountain slope",
+     "split_unverified": true
     }
    ]
   },
@@ -417,7 +411,7 @@
      "parts": [
       {
        "text": "நடு",
-       "lemma": "naṭu",
+       "lemma": "naṭutal",
        "gloss": "to plant"
       }
      ],
@@ -429,10 +423,10 @@
       {
        "text": "பாத்தி",
        "lemma": "pātti",
-       "gloss": "garden bed"
+       "gloss": "garden bed/plot"
       }
      ],
-     "gloss": "garden bed"
+     "gloss": "plot"
     },
     {
      "surface": "அன்ன",
@@ -450,61 +444,72 @@
   {
    "words": [
     {
-     "surface": "பெருங்களிற்",
+     "surface": "பெருங்களிற்று",
      "parts": [
       {
-       "text": "பெருங்களிற்",
-       "lemma": "பெருங்களிற்",
-       "gloss": ""
+       "text": "பெருங்களிற்று",
+       "lemma": "பெருங்களிற்று",
+       "gloss": "of the great male elephant"
       }
      ],
-     "gloss": "",
+     "gloss": "of the great male elephant",
      "split_unverified": true
     },
     {
-     "surface": "றடிவழி",
+     "surface": "அடிவழி",
      "parts": [
       {
-       "text": "றடிவழி",
-       "lemma": "றடிவழி",
-       "gloss": ""
+       "text": "அடி",
+       "lemma": "aṭi",
+       "gloss": "footprint"
+      },
+      {
+       "text": "வழி",
+       "lemma": "vaḻi",
+       "gloss": "path/place"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "in the footprint"
     },
     {
      "surface": "நிலைஇய",
      "parts": [
       {
-       "text": "நிலைஇய",
-       "lemma": "நிலைஇய",
-       "gloss": ""
+       "text": "நிலை",
+       "lemma": "nilai",
+       "gloss": "to stand"
+      },
+      {
+       "text": "இய",
+       "lemma": "iya",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "remaining"
     },
     {
      "surface": "நீரே",
      "parts": [
       {
-       "text": "நீரே",
-       "lemma": "நீரே",
-       "gloss": ""
+       "text": "நீர்",
+       "lemma": "nīr",
+       "gloss": "water"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ē",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "water indeed"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "As gossip rises in the town and the neighborhood makes a clamor, / the mother who has no virtue and ceaselessly harasses, / let her stay herself in her own house indeed! / While her sharp thorn-like teeth that ate gooseberries shine, / she has chosen to eat with him in the distant country, / on the slope of the mountain lying across that rose high to touch the sky, / like a garden bed where sugarcane is planted, / the water that remained in the footprint of a great male elephant.",
- "translation": "While gossip rises in the town and the neighborhood clamors, let our mother, devoid of virtue, who ceaselessly harasses us, remain alone in her house. She has gone with him to the distant country, to eat—with her sharp, thorn-like teeth that once chewed gooseberries now shining—the water that remains in the deep footprints of great bull elephants on the slopes of the high, sky-touching mountains, water that looks just like the flooded beds where sugarcane is planted.",
- "modern": "ஊரில் அலர் எழவும், சேரி மக்கள் ஆரவாரம் செய்யவும், நம்மை இடைவிடாது துன்புறுத்தும் அறமற்ற அன்னை தன் வீட்டிலேயே தனியாக இருக்கட்டும். அவள் அவரோடு தொலைதூர நாட்டிற்குச் சென்றுவிட்டாள். வானத்தைத் தொடுமளவிற்கு உயர்ந்து குறுக்கே நிற்கும் மலைச் சரிவுகளில், கரும்பு நடும் பாத்திகளைப் போலப் பெரிய ஆண் யானைகளின் காலடித் தடங்களில் தேங்கியிருக்கும் நீரை, நெல்லிக்காயைத் தின்ற அவளுடைய கூர்மையான பற்கள் மின்னும்படி அவரோடு சேர்ந்து பருகுவதையே அவள் தேர்ந்தெடுத்துவிட்டாள்.",
- "explanation": "In this poem of the Pālai landscape, the friend of the heroine speaks with a mixture of relief and concern after the heroine has eloped with her lover. She wishes that the harsh, unyielding mother who kept them under constant surveillance would remain confined to her own house. Meanwhile, the heroine has chosen to brave the difficult desert path with her lover. The image of the elephant's footprint holding water like a sugarcane bed highlights the scarcity of water in the wasteland, where even a small puddle is precious. The mention of eating gooseberries, which makes subsequent water taste sweet, symbolizes how their mutual love sweetens even the harshest circumstances of their journey.",
+ "literal": "In the town, gossip rising, in the street, making a loud noise, / ceaselessly tormenting, mother who has no virtue, / let her remain alone in her own house! / Eating gooseberries, so that her thorn-like teeth shine, / she desired to eat with him in the distant country, / on the slopes of the high mountain that rises to touch the sky, / like a plot where sugarcane is planted, / the water remaining in the footprints of the great male elephant.",
+ "translation": "Let mother, who lacks all virtue and ceaselessly torments us while gossip rises in the town and the streets clamor, remain all by herself in her house! My friend, with her thorn-sharp teeth shining from eating gooseberries, has chosen to eat with him in that distant land, on the slopes of the high mountain rising to touch the sky, drinking the water that stands in the deep footprints of a great male elephant, which look like plots prepared for planting sugarcane.",
+ "modern": "ஊரில் அலர் எழவும், தெருவில் ஆரவாரம் உண்டாகவும், எங்களை இடைவிடாது துன்புறுத்தும் அறமற்ற அன்னை தன் வீட்டிலேயே தனியாக இருக்கட்டும்! நெல்லிக்காயைத் தின்றதால் முள் போன்ற பற்கள் விளங்க, அவள் அவரோடு தொலைதூர நாட்டில், வானைத் தொடுமளவு உயர்ந்த மலைச் சாரலில், கரும்பு நடும் பாத்தியைப் போன்ற பெரிய ஆண் யானையின் காலடித் தடத்தில் தேங்கியுள்ள நீரை விரும்பி உண்பாளாக!",
+ "explanation": "This poem is spoken by the heroine's friend (தோழி) after the heroine has eloped with her lover. The friend expresses her anger at the heroine's mother, who was unyielding and kept tormenting the heroine while the town gossiped. She wishes that the mother be left entirely alone in her house. In contrast, she describes how the heroine will happily survive in the harsh desert path with her lover. The image of the elephant's footprint holding water like a sugarcane plot shows that even in the dry, mountainous wasteland, the water they find will seem sweet and abundant to them because they are together. The 'thorn-like teeth shining from eating gooseberries' highlights the heroine's simple joy and resilience.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -6,25 +6,30 @@
      "surface": "எறும்பி",
      "parts": [
       {
-       "text": "எறும்பி",
-       "lemma": "eṟumpi",
+       "text": "எறும்பு",
+       "lemma": "எறும்பு",
        "gloss": "ant"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "oblique suffix"
       }
      ],
-     "gloss": "ant"
+     "gloss": "of the ant"
     },
     {
      "surface": "அளையின்",
      "parts": [
       {
        "text": "அளை",
-       "lemma": "aḷai",
+       "lemma": "அளை",
        "gloss": "hole"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "like"
+       "lemma": "இன்",
+       "gloss": "comparison/locative suffix"
       }
      ],
      "gloss": "like the hole"
@@ -34,40 +39,38 @@
      "parts": [
       {
        "text": "குறும்",
-       "lemma": "குறும்",
+       "lemma": "குறுமை",
        "gloss": "small"
       }
      ],
-     "gloss": "small",
-     "split_unverified": true
+     "gloss": "small"
     },
     {
      "surface": "பல்",
      "parts": [
       {
        "text": "பல்",
-       "lemma": "பல்",
+       "lemma": "பல",
        "gloss": "many"
       }
      ],
-     "gloss": "many",
-     "split_unverified": true
+     "gloss": "many"
     },
     {
      "surface": "சுனைய",
      "parts": [
       {
        "text": "சுனை",
-       "lemma": "cuṉai",
+       "lemma": "சுனை",
        "gloss": "mountain pool"
       },
       {
        "text": "அ",
-       "lemma": "a",
-       "gloss": "having"
+       "lemma": "அ",
+       "gloss": "adjectival suffix"
       }
      ],
-     "gloss": "having water pools"
+     "gloss": "having water-pools"
     }
    ]
   },
@@ -78,23 +81,23 @@
      "parts": [
       {
        "text": "உலை",
-       "lemma": "ulai",
-       "gloss": "furnace"
+       "lemma": "உலை",
+       "gloss": "forge"
       },
       {
-       "text": "கல்",
-       "lemma": "kal",
-       "gloss": "stone"
+       "text": "க்கல்",
+       "lemma": "கல்",
+       "gloss": "stone/anvil"
       }
      ],
-     "gloss": "anvil stone"
+     "gloss": "blacksmith's anvil stone"
     },
     {
      "surface": "அன்ன",
      "parts": [
       {
        "text": "அன்ன",
-       "lemma": "aṉṉa",
+       "lemma": "அன்ன",
        "gloss": "like"
       }
      ],
@@ -105,7 +108,7 @@
      "parts": [
       {
        "text": "பாறை",
-       "lemma": "pāṟai",
+       "lemma": "பாறை",
        "gloss": "rock"
       }
      ],
@@ -116,7 +119,7 @@
      "parts": [
       {
        "text": "ஏறி",
-       "lemma": "ēṟi",
+       "lemma": "ஏறு",
        "gloss": "having climbed"
       }
      ],
@@ -131,8 +134,8 @@
      "parts": [
       {
        "text": "கொடு",
-       "lemma": "koṭu",
-       "gloss": "curved"
+       "lemma": "கொடுமை",
+       "gloss": "bent/cruel"
       }
      ],
      "gloss": "curved"
@@ -142,7 +145,7 @@
      "parts": [
       {
        "text": "வில்",
-       "lemma": "vil",
+       "lemma": "வில்",
        "gloss": "bow"
       }
      ],
@@ -153,8 +156,8 @@
      "parts": [
       {
        "text": "எயினர்",
-       "lemma": "eyiṉar",
-       "gloss": "hunters"
+       "lemma": "எயினர்",
+       "gloss": "hunters of the desert"
       }
      ],
      "gloss": "hunters"
@@ -164,19 +167,19 @@
      "parts": [
       {
        "text": "பகழி",
-       "lemma": "pakaḻi",
+       "lemma": "பகழி",
        "gloss": "arrow"
       }
      ],
-     "gloss": "arrow"
+     "gloss": "arrows"
     },
     {
      "surface": "மாய்க்கும்",
      "parts": [
       {
        "text": "மாய்க்கும்",
-       "lemma": "māy",
-       "gloss": "sharpening"
+       "lemma": "மாய்த்தல்",
+       "gloss": "sharpening/destroying"
       }
      ],
      "gloss": "sharpening"
@@ -190,13 +193,13 @@
      "parts": [
       {
        "text": "கவலை",
-       "lemma": "kavalai",
+       "lemma": "கவலை",
        "gloss": "forked path"
       },
       {
-       "text": "து",
-       "lemma": "tu",
-       "gloss": "having"
+       "text": "த்து",
+       "lemma": "து",
+       "gloss": "pronominal suffix"
       }
      ],
      "gloss": "having forked paths"
@@ -205,24 +208,19 @@
      "surface": "என்பவர்",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "eṉ",
-       "gloss": "to say"
-      },
-      {
-       "text": "பவர்",
-       "lemma": "pavar",
-       "gloss": "they who"
+       "text": "என்பவர்",
+       "lemma": "என்",
+       "gloss": "those who say"
       }
      ],
-     "gloss": "those who say"
+     "gloss": "they say"
     },
     {
      "surface": "தேர்",
      "parts": [
       {
        "text": "தேர்",
-       "lemma": "tēr",
+       "lemma": "தேர்",
        "gloss": "chariot"
       }
      ],
@@ -233,28 +231,27 @@
      "parts": [
       {
        "text": "சென்ற",
-       "lemma": "சென்ற",
-       "gloss": "went"
+       "lemma": "செல்",
+       "gloss": "that went"
       }
      ],
-     "gloss": "went",
-     "split_unverified": true
+     "gloss": "that went"
     },
     {
      "surface": "ஆறே",
      "parts": [
       {
        "text": "ஆறு",
-       "lemma": "āṟu",
+       "lemma": "ஆறு",
        "gloss": "path"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
+       "lemma": "ஏ",
+       "gloss": "emphatic particle"
       }
      ],
-     "gloss": "the path indeed"
+     "gloss": "the very path"
     }
    ]
   },
@@ -265,7 +262,7 @@
      "parts": [
       {
        "text": "அது",
-       "lemma": "atu",
+       "lemma": "அது",
        "gloss": "that"
       }
      ],
@@ -276,19 +273,19 @@
      "parts": [
       {
        "text": "மற்று",
-       "lemma": "maṟṟu",
-       "gloss": "expletive"
+       "lemma": "மற்று",
+       "gloss": "other/empty particle"
       }
      ],
-     "gloss": "and"
+     "gloss": "indeed"
     },
     {
      "surface": "அவலம்",
      "parts": [
       {
        "text": "அவலம்",
-       "lemma": "avalam",
-       "gloss": "distress"
+       "lemma": "அவலம்",
+       "gloss": "distress/sorrow"
       }
      ],
      "gloss": "distress"
@@ -297,14 +294,9 @@
      "surface": "கொள்ளாது",
      "parts": [
       {
-       "text": "கொள்",
-       "lemma": "koḷ",
-       "gloss": "to feel"
-      },
-      {
-       "text": "ஆது",
-       "lemma": "ātu",
-       "gloss": "without"
+       "text": "கொள்ளாது",
+       "lemma": "கொள்ளுதல்",
+       "gloss": "not having/not feeling"
       }
      ],
      "gloss": "without feeling"
@@ -314,61 +306,72 @@
   {
    "words": [
     {
-     "surface": "நொதுமற்",
+     "surface": "நொதுமல்",
      "parts": [
       {
-       "text": "நொதுமற்",
-       "lemma": "நொதுமற்",
-       "gloss": ""
+       "text": "நொதுமல்",
+       "lemma": "நொதுமல்",
+       "gloss": "strangers/indifferent people"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "strangers"
     },
     {
-     "surface": "கழறுமிவ்",
+     "surface": "கழறும்",
      "parts": [
       {
-       "text": "கழறுமிவ்",
-       "lemma": "கழறுமிவ்",
-       "gloss": ""
+       "text": "கழறும்",
+       "lemma": "கழறுதல்",
+       "gloss": "rebuking/reproaching"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "reproaches"
     },
     {
-     "surface": "வழுங்க",
+     "surface": "இவ்",
      "parts": [
       {
-       "text": "வழுங்க",
-       "lemma": "வழுங்க",
-       "gloss": ""
+       "text": "இவ்",
+       "lemma": "இ",
+       "gloss": "this"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "this"
     },
     {
-     "surface": "லூரே",
+     "surface": "அழுங்கல்",
      "parts": [
       {
-       "text": "லூரே",
-       "lemma": "லூரே",
-       "gloss": ""
+       "text": "அழுங்கல்",
+       "lemma": "அழுங்கல்",
+       "gloss": "clamorous/noisy"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "noisy"
+    },
+    {
+     "surface": "ஊரே",
+     "parts": [
+      {
+       "text": "ஊர்",
+       "lemma": "ஊர்",
+       "gloss": "town"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphatic particle"
+      }
+     ],
+     "gloss": "town indeed"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "Like the holes of ants, having small, many water pools, / climbing on the rocks that are like anvils, / curved-bow hunters sharpen their arrows, / \"it has forks,\" they say, the path where his chariot went! / Without feeling distress for that, / this noisy town rebukes like strangers.",
- "translation": "They say the path where his chariot went is full of split ways, with many small water pools like ant-holes, where hunters with curved bows climb onto rocks like anvils to sharpen their arrows. Without feeling any sympathy for that hardship, this noisy town gossips like indifferent strangers.",
- "modern": "எறும்புப் புற்றுத் துவாரங்களைப் போலச் சிறிய பல நீர்ச்சுனைகளைக் கொண்டதும், கொல்லனின் உலைக்களத்துக்கல் போன்ற பாறைகளின் மேல் ஏறி வளைந்த வில்லைக் கொண்ட எயினர்கள் தம் அம்புகளைக் கூர்மையாக்கும் பிரியும் வழிகளைக் கொண்டதுமானது தலைவன் தேர் சென்ற வழி என்று கூறுவர். அந்தத் துன்பத்தை எண்ணி வருந்தாமல், இந்த ஆரவாரமுடைய ஊரார் அயலாரைப் போலப் பழிதூற்றுகின்றனர்.",
- "explanation": "The heroine is expressing her deep distress to her close friend. Her lover has departed on a journey through a harsh desert path (pālai tiṇai) to earn wealth. People describe the path he took as perilous, filled with split paths, where fierce hunters climb anvil-like rocks to sharpen their arrows, and where water is scarce, found only in tiny pools resembling ant-holes. Instead of showing compassion for her anxiety over his dangerous journey, the people of this noisy town gossip and reproach her like indifferent strangers. The contrast between the harshness of the desert path and the cold indifference of the town highlights her isolation and sorrow.",
+ "literal": "Like ant-holes, with many small water-pools, / climbing on rocks like blacksmith's anvil stones, / where the hunters with curved bows sharpen their arrows, / 'the path where his chariot went has forks,' they say; / without feeling that distress, / this noisy town of strangers reproaches me.",
+ "translation": "\"The path where his chariot went is full of forks,\" they say, where curved-bow hunters climb on rocks hot as blacksmiths' anvils to sharpen their arrows, near many small water-pools as tiny as ant-holes. Without understanding that distress, this noisy town of strangers reproaches me.",
+ "modern": "எறும்புப் புற்றுகளைப் போலப் பல சிறிய நீர்ச்சுனைகளைக் கொண்டதும், கொல்லனின் உலைக்கல்லைப் போன்ற பாறைகளின் மேல் ஏறி வளைந்த வில்லை உடைய எயினர்கள் தம் அம்புகளைக் கூர்மையாக்கும் பிரியும் வழிகளைக் கொண்டதுமான பாதையில்தான் அவருடைய தேர் சென்றது என்று கூறுவர். அந்தத் துன்பத்தை உணர்ந்து கொள்ளாமல், அயலாரான இவ்வூர்க்காரர்கள் என்னை வீணாகப் பழித்துப் பேசுகின்றனர்.",
+ "explanation": "The heroine is speaking to her close friend about the gossip of the townspeople. Her lover has departed through the harsh desert path (pālai) to earn wealth, and the townspeople blame her for her pining. She laments that they do not understand the terrifying nature of the path he has taken. The harshness of the desert is illustrated by the rocks being as hot as a blacksmith's anvil (ulaikkal) and the presence of fierce hunters (eyinar) who sharpen their arrows on them. The water-pools (cuṉai) are dried up, as small as ant-holes (eṟumpi aḷai). The key words 'ulaikkal' (anvil) and 'aḻuṅkal ūr' (noisy town) highlight the contrast between the hero's physical suffering and the heroine's social distress.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

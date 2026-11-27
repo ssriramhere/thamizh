@@ -6,13 +6,17 @@
      "surface": "`இவர்",
      "parts": [
       {
-       "text": "`இவர்",
-       "lemma": "`இவர்",
-       "gloss": ""
+       "text": "`",
+       "lemma": "`",
+       "gloss": "quotation mark"
+      },
+      {
+       "text": "இவர்",
+       "lemma": "இவர்",
+       "gloss": "these people"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "these people"
     },
     {
      "surface": "யார்",
@@ -20,11 +24,10 @@
       {
        "text": "யார்",
        "lemma": "யார்",
-       "gloss": ""
+       "gloss": "who"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "who"
     },
     {
      "surface": "`",
@@ -32,23 +35,26 @@
       {
        "text": "`",
        "lemma": "`",
-       "gloss": ""
+       "gloss": "quotation mark"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "quotation mark"
     },
     {
      "surface": "என்குவை",
      "parts": [
       {
-       "text": "என்குவை",
-       "lemma": "என்குவை",
-       "gloss": ""
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "say"
+      },
+      {
+       "text": "குவை",
+       "lemma": "குவை",
+       "gloss": "you will"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "you will say"
     },
     {
      "surface": "ஆயின்",
@@ -56,26 +62,28 @@
       {
        "text": "ஆயின்",
        "lemma": "ஆயின்",
-       "gloss": ""
+       "gloss": "if"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "if"
     },
     {
      "surface": "இவரே",
      "parts": [
       {
-       "text": "இவரே",
-       "lemma": "இவரே",
-       "gloss": ""
+       "text": "இவர்",
+       "lemma": "இவர்",
+       "gloss": "these people"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "these people indeed"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -90,10 +98,10 @@
       {
        "text": "உடன்",
        "lemma": "உடன்",
-       "gloss": "with"
+       "gloss": "along with"
       }
      ],
-     "gloss": "along with towns"
+     "gloss": "along with the town"
     },
     {
      "surface": "இரவலர்க்கு",
@@ -101,23 +109,28 @@
       {
        "text": "இரவலர்",
        "lemma": "இரவலர்",
-       "gloss": "suppliants"
+       "gloss": "beggars"
       },
       {
        "text": "க்கு",
-       "lemma": "கு",
+       "lemma": "க்கு",
        "gloss": "to"
       }
      ],
-     "gloss": "to suppliants"
+     "gloss": "to the beggars"
     },
     {
-     "surface": "அருளி",
+     "surface": "அருளித்",
      "parts": [
       {
        "text": "அருளி",
        "lemma": "அருள்",
        "gloss": "having bestowed"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "having bestowed"
@@ -133,10 +146,10 @@
       {
        "text": "உடன்",
        "lemma": "உடன்",
-       "gloss": "with"
+       "gloss": "along with"
       }
      ],
-     "gloss": "along with chariots"
+     "gloss": "along with the chariot"
     }
    ]
   },
@@ -148,15 +161,15 @@
       {
        "text": "முல்லை",
        "lemma": "முல்லை",
-       "gloss": "jasmine vine"
+       "gloss": "jasmine"
       },
       {
        "text": "க்கு",
-       "lemma": "கு",
+       "lemma": "க்கு",
        "gloss": "to"
       }
      ],
-     "gloss": "to the jasmine vine"
+     "gloss": "to the jasmine"
     },
     {
      "surface": "ஈத்த",
@@ -175,7 +188,7 @@
       {
        "text": "செல்லா",
        "lemma": "செல்",
-       "gloss": "not fading"
+       "gloss": "unfading/not going away"
       }
      ],
      "gloss": "unfading"
@@ -185,7 +198,7 @@
      "parts": [
       {
        "text": "நல்",
-       "lemma": "நன்மை",
+       "lemma": "நல்",
        "gloss": "good"
       },
       {
@@ -214,15 +227,20 @@
        "gloss": "bell"
       }
      ],
-     "gloss": "sounding bells"
+     "gloss": "sounding bell"
     },
     {
-     "surface": "யானை",
+     "surface": "யானைப்",
      "parts": [
       {
        "text": "யானை",
        "lemma": "யானை",
        "gloss": "elephant"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "elephant"
@@ -233,7 +251,7 @@
       {
        "text": "பறம்பு",
        "lemma": "பறம்பு",
-       "gloss": "Parampu hill"
+       "gloss": "Parambu hill"
       },
       {
        "text": "இன்",
@@ -241,7 +259,7 @@
        "gloss": "of"
       }
      ],
-     "gloss": "of Parampu"
+     "gloss": "of Parambu"
     },
     {
      "surface": "கோமான்",
@@ -259,20 +277,25 @@
   {
    "words": [
     {
-     "surface": "நெடுமா",
+     "surface": "நெடுமாப்",
      "parts": [
       {
        "text": "நெடு",
-       "lemma": "நெடுமை",
-       "gloss": "tall"
+       "lemma": "நெடு",
+       "gloss": "tall/great"
       },
       {
        "text": "மா",
        "lemma": "மா",
-       "gloss": "great"
+       "gloss": "dark/great"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "tall and great"
+     "gloss": "great and tall"
     },
     {
      "surface": "பாரி",
@@ -307,10 +330,10 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "indeed"
       }
      ],
-     "gloss": "and I"
+     "gloss": "I indeed"
     }
    ]
   },
@@ -339,26 +362,20 @@
      "gloss": "friend"
     },
     {
-     "surface": "இவர்",
+     "surface": "இவர்என்",
      "parts": [
       {
        "text": "இவர்",
        "lemma": "இவர்",
-       "gloss": "these"
-      }
-     ],
-     "gloss": "these"
-    },
-    {
-     "surface": "என்",
-     "parts": [
+       "gloss": "these girls"
+      },
       {
        "text": "என்",
        "lemma": "என்",
        "gloss": "my"
       }
      ],
-     "gloss": "my"
+     "gloss": "these are my"
     },
     {
      "surface": "மகளிர்",
@@ -381,10 +398,10 @@
       {
        "text": "அந்தணன்",
        "lemma": "அந்தணன்",
-       "gloss": "brahmin"
+       "gloss": "Brahmin"
       }
      ],
-     "gloss": "brahmin"
+     "gloss": "Brahmin"
     },
     {
      "surface": "புலவன்",
@@ -398,31 +415,36 @@
      "gloss": "poet"
     },
     {
-     "surface": "கொண்டு",
+     "surface": "கொண்டுவந்",
      "parts": [
       {
        "text": "கொண்டு",
        "lemma": "கொள்",
        "gloss": "having taken"
+      },
+      {
+       "text": "வந்",
+       "lemma": "வா",
+       "gloss": "come"
       }
      ],
-     "gloss": "having taken"
+     "gloss": "having brought"
     },
     {
-     "surface": "வந்தனனே",
+     "surface": "தனனே",
      "parts": [
       {
-       "text": "வந்தனன்",
-       "lemma": "வரு",
-       "gloss": "he came"
+       "text": "தனன்",
+       "lemma": "அன்",
+       "gloss": "suffix"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "indeed"
       }
      ],
-     "gloss": "I came"
+     "gloss": "came indeed"
     }
    ]
   },
@@ -439,7 +461,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "indeed"
       }
      ],
      "gloss": "you indeed"
@@ -449,16 +471,16 @@
      "parts": [
       {
        "text": "வட",
-       "lemma": "வடக்கு",
+       "lemma": "வட",
        "gloss": "north"
       },
       {
        "text": "பால்",
        "lemma": "பால்",
-       "gloss": "side"
+       "gloss": "side/direction"
       }
      ],
-     "gloss": "northern side"
+     "gloss": "northern"
     },
     {
      "surface": "முனிவன்",
@@ -490,15 +512,20 @@
        "gloss": "inside"
       }
      ],
-     "gloss": "inside the sacrificial pot"
+     "gloss": "from inside the sacrificial pot"
     },
     {
-     "surface": "தோன்றி",
+     "surface": "தோன்றிச்",
      "parts": [
       {
        "text": "தோன்றி",
        "lemma": "தோன்று",
        "gloss": "having appeared"
+      },
+      {
+       "text": "ச்",
+       "lemma": "ச்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "having appeared"
@@ -524,10 +551,10 @@
       {
        "text": "புனைந்து",
        "lemma": "புனை",
-       "gloss": "having fashioned"
+       "gloss": "having decorated/crafted"
       }
      ],
-     "gloss": "having fashioned"
+     "gloss": "having crafted"
     },
     {
      "surface": "இயற்றிய",
@@ -535,10 +562,10 @@
       {
        "text": "இயற்றிய",
        "lemma": "இயற்று",
-       "gloss": "made"
+       "gloss": "having made"
       }
      ],
-     "gloss": "made"
+     "gloss": "having made"
     },
     {
      "surface": "சேண்நெடும்",
@@ -546,15 +573,15 @@
       {
        "text": "சேண்",
        "lemma": "சேண்",
-       "gloss": "height"
+       "gloss": "height/distance"
       },
       {
        "text": "நெடும்",
-       "lemma": "நெடுமை",
-       "gloss": "tall"
+       "lemma": "நெடு",
+       "gloss": "long/tall"
       }
      ],
-     "gloss": "high and tall"
+     "gloss": "high and long"
     },
     {
      "surface": "புரிசை",
@@ -576,22 +603,27 @@
      "parts": [
       {
        "text": "உவரா",
-       "lemma": "உவத்தல்",
-       "gloss": "without diminishing"
+       "lemma": "உவப்பிலா",
+       "gloss": "without getting tired/disliking"
       }
      ],
-     "gloss": "unceasing"
+     "gloss": "without getting tired"
     },
     {
-     "surface": "ஈகை",
+     "surface": "ஈகைத்",
      "parts": [
       {
        "text": "ஈகை",
        "lemma": "ஈகை",
        "gloss": "generosity"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "generosity"
+     "gloss": "generous"
     },
     {
      "surface": "துவரை",
@@ -599,10 +631,10 @@
       {
        "text": "துவரை",
        "lemma": "துவரை",
-       "gloss": "Dvaraka"
+       "gloss": "Dwaraka"
       }
      ],
-     "gloss": "Dvaraka"
+     "gloss": "Dwaraka"
     },
     {
      "surface": "ஆண்டு",
@@ -625,7 +657,7 @@
       {
        "text": "நாற்பத்து",
        "lemma": "நாற்பது",
-       "gloss": "forty (oblique)"
+       "gloss": "forty"
       }
      ],
      "gloss": "forty"
@@ -647,17 +679,17 @@
       {
        "text": "வழிமுறை",
        "lemma": "வழிமுறை",
-       "gloss": "lineage"
+       "gloss": "lineage/generations"
       }
      ],
-     "gloss": "generations"
+     "gloss": "lineage"
     },
     {
      "surface": "வந்த",
      "parts": [
       {
        "text": "வந்த",
-       "lemma": "வரு",
+       "lemma": "வா",
        "gloss": "that came"
       }
      ],
@@ -673,7 +705,7 @@
       {
        "text": "வேளிர்",
        "lemma": "வேளிர்",
-       "gloss": "Velir chiefs"
+       "gloss": "Velir chieftains"
       },
       {
        "text": "உள்",
@@ -681,7 +713,7 @@
        "gloss": "among"
       }
      ],
-     "gloss": "among Velir chiefs"
+     "gloss": "among the Velir chieftains"
     },
     {
      "surface": "வேளே",
@@ -689,15 +721,15 @@
       {
        "text": "வேள்",
        "lemma": "வேள்",
-       "gloss": "Vel chief"
+       "gloss": "chieftain"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "O!"
       }
      ],
-     "gloss": "the Vel chief"
+     "gloss": "O chieftain!"
     },
     {
      "surface": "விறற்போர்",
@@ -710,7 +742,7 @@
       {
        "text": "போர்",
        "lemma": "போர்",
-       "gloss": "war"
+       "gloss": "war/battle"
       }
      ],
      "gloss": "victorious war"
@@ -721,7 +753,7 @@
       {
        "text": "அண்ணல்",
        "lemma": "அண்ணல்",
-       "gloss": "lord"
+       "gloss": "lord/noble one"
       }
      ],
      "gloss": "lord"
@@ -744,29 +776,34 @@
        "gloss": "wearing"
       }
      ],
-     "gloss": "wearing garlands"
+     "gloss": "wearing a garland"
     },
     {
-     "surface": "யானை",
+     "surface": "யானைச்",
      "parts": [
       {
        "text": "யானை",
        "lemma": "யானை",
        "gloss": "elephant"
+      },
+      {
+       "text": "ச்",
+       "lemma": "ச்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "elephant"
+     "gloss": "having elephants"
     },
     {
-     "surface": "சேட்டிரும்",
+     "surface": "சேட்டிருங்",
      "parts": [
       {
-       "text": "சேட்டிரும்",
+       "text": "சேட்டிருங்",
        "lemma": "சேட்டிரும்",
-       "gloss": "great and dark"
+       "gloss": "great and eminent"
       }
      ],
-     "gloss": "great and dark"
+     "gloss": "great and eminent"
     },
     {
      "surface": "கோவே",
@@ -779,10 +816,10 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "vocative/indeed"
       }
      ],
-     "gloss": "O king"
+     "gloss": "O king!"
     }
    ]
   },
@@ -794,7 +831,7 @@
       {
        "text": "ஆண்",
        "lemma": "ஆண்",
-       "gloss": "manly"
+       "gloss": "manly/noble"
       },
       {
        "text": "கடன்",
@@ -808,9 +845,14 @@
      "surface": "உடைமையின்",
      "parts": [
       {
-       "text": "உடைமையின்",
+       "text": "உடைமை",
        "lemma": "உடைமை",
-       "gloss": "possessing"
+       "gloss": "possession"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "because of"
       }
      ],
      "gloss": "because of possessing"
@@ -821,7 +863,7 @@
       {
        "text": "பாண்",
        "lemma": "பாண்",
-       "gloss": "bard"
+       "gloss": "bards"
       },
       {
        "text": "கடன்",
@@ -837,36 +879,41 @@
       {
        "text": "ஆற்றிய",
        "lemma": "ஆற்று",
-       "gloss": "fulfilled"
+       "gloss": "having performed"
       }
      ],
-     "gloss": "fulfilled"
+     "gloss": "having performed"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "ஒலியல்",
+     "surface": "ஒலியற்",
      "parts": [
       {
-       "text": "ஒலியல்",
+       "text": "ஒலியற்",
        "lemma": "ஒலியல்",
-       "gloss": "shining/sprouting"
+       "gloss": "sprouting/flourishing leaf"
       }
      ],
-     "gloss": "sprouting"
+     "gloss": "sprouting leaf"
     },
     {
-     "surface": "கண்ணி",
+     "surface": "கண்ணிப்",
      "parts": [
       {
        "text": "கண்ணி",
        "lemma": "கண்ணி",
-       "gloss": "chaplet"
+       "gloss": "chaplet/garland"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "chaplet"
+     "gloss": "wearing a chaplet"
     },
     {
      "surface": "புலிகடி",
@@ -879,91 +926,96 @@
       {
        "text": "கடி",
        "lemma": "கடி",
-       "gloss": "chased away"
+       "gloss": "having chased away/killed"
       }
      ],
-     "gloss": "tiger-chasing"
+     "gloss": "who chased away the tiger"
     },
     {
-     "surface": "மாஅல்",
+     "surface": "மா",
      "parts": [
       {
-       "text": "மாஅல்",
-       "lemma": "மால்",
-       "gloss": "great one / Vishnu"
+       "text": "மா",
+       "lemma": "மா",
+       "gloss": "great/mighty"
       }
      ],
-     "gloss": "great one"
+     "gloss": "great/mighty"
+    },
+    {
+     "surface": "அல்",
+     "parts": [
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "measure lengthening"
+      }
+     ],
+     "gloss": "measure lengthening"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "யான்",
+     "surface": "யான்தர",
      "parts": [
       {
        "text": "யான்",
        "lemma": "யான்",
        "gloss": "I"
-      }
-     ],
-     "gloss": "I"
-    },
-    {
-     "surface": "தர",
-     "parts": [
+      },
       {
        "text": "தர",
-       "lemma": "தா",
+       "lemma": "தர",
        "gloss": "to give"
       }
      ],
      "gloss": "as I give"
     },
     {
-     "surface": "இவரை",
+     "surface": "இவரைக்",
      "parts": [
       {
        "text": "இவரை",
        "lemma": "இவர்",
-       "gloss": "these women"
+       "gloss": "these girls"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "these women"
+     "gloss": "them"
     },
     {
      "surface": "கொண்மதி",
      "parts": [
       {
        "text": "கொண்மதி",
-       "lemma": "கொள்",
+       "lemma": "கொண்மதி",
        "gloss": "please accept"
       }
      ],
-     "gloss": "please accept"
+     "gloss": "please accept",
+     "split_unverified": true
     },
     {
-     "surface": "வான்",
+     "surface": "வான்கவித்து",
      "parts": [
       {
        "text": "வான்",
        "lemma": "வான்",
        "gloss": "sky"
-      }
-     ],
-     "gloss": "sky"
-    },
-    {
-     "surface": "கவித்து",
-     "parts": [
+      },
       {
        "text": "கவித்து",
        "lemma": "கவி",
-       "gloss": "covering"
+       "gloss": "having covered"
       }
      ],
-     "gloss": "covering"
+     "gloss": "sky-covering"
     }
    ]
   },
@@ -973,56 +1025,61 @@
      "surface": "இருங்கடல்",
      "parts": [
       {
-       "text": "இருங்கடல்",
-       "lemma": "இருங்கடல்",
-       "gloss": "dark ocean"
+       "text": "இரும்",
+       "lemma": "இரும்",
+       "gloss": "dark/vast"
+      },
+      {
+       "text": "கடல்",
+       "lemma": "கடல்",
+       "gloss": "ocean"
       }
      ],
-     "gloss": "dark ocean"
+     "gloss": "vast ocean"
     },
     {
-     "surface": "உடுத்த",
+     "surface": "உடுத்தஇவ்",
      "parts": [
       {
        "text": "உடுத்த",
        "lemma": "உடு",
-       "gloss": "clothed/girdled"
-      }
-     ],
-     "gloss": "girdled"
-    },
-    {
-     "surface": "இவ்",
-     "parts": [
+       "gloss": "clothed/surrounded"
+      },
       {
        "text": "இவ்",
        "lemma": "இ",
        "gloss": "this"
       }
      ],
-     "gloss": "this"
+     "gloss": "surrounded by this"
     },
     {
      "surface": "வையகத்து",
      "parts": [
       {
        "text": "வையகத்து",
-       "lemma": "வையகம்",
-       "gloss": "world (oblique)"
+       "lemma": "வையகத்து",
+       "gloss": "of the world"
       }
      ],
-     "gloss": "world's"
+     "gloss": "of the world",
+     "split_unverified": true
     },
     {
      "surface": "அருந்திறல்",
      "parts": [
       {
-       "text": "அருந்திறல்",
-       "lemma": "அருந்திறல்",
-       "gloss": "rare strength"
+       "text": "அரும்",
+       "lemma": "அரும்",
+       "gloss": "rare/great"
+      },
+      {
+       "text": "திறல்",
+       "lemma": "திறல்",
+       "gloss": "strength/power"
       }
      ],
-     "gloss": "rare strength"
+     "gloss": "rare power"
     }
    ]
   },
@@ -1039,23 +1096,28 @@
       {
        "text": "படு",
        "lemma": "படு",
-       "gloss": "producing"
+       "gloss": "yielding"
       }
      ],
-     "gloss": "gold-producing"
+     "gloss": "gold-yielding"
     },
     {
-     "surface": "மால்வரை",
+     "surface": "மால்வரைக்",
      "parts": [
       {
        "text": "மால்",
        "lemma": "மால்",
-       "gloss": "great"
+       "gloss": "great/huge"
       },
       {
        "text": "வரை",
        "lemma": "வரை",
        "gloss": "mountain"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "great mountain"
@@ -1066,10 +1128,10 @@
       {
        "text": "கிழவ",
        "lemma": "கிழவன்",
-       "gloss": "lord (vocative)"
+       "gloss": "lord/owner"
       }
      ],
-     "gloss": "O lord"
+     "gloss": "O lord!"
     },
     {
      "surface": "வென்வேல்",
@@ -1080,7 +1142,8 @@
        "gloss": "victorious spear"
       }
      ],
-     "gloss": "victorious spear"
+     "gloss": "victorious spear",
+     "split_unverified": true
     }
    ]
   },
@@ -1092,7 +1155,7 @@
       {
        "text": "உடலுநர்",
        "lemma": "உடலுநர்",
-       "gloss": "enemies"
+       "gloss": "enemies/those who hate"
       }
      ],
      "gloss": "enemies"
@@ -1109,12 +1172,17 @@
      "gloss": "fearing"
     },
     {
-     "surface": "தானை",
+     "surface": "தானைக்",
      "parts": [
       {
        "text": "தானை",
        "lemma": "தானை",
        "gloss": "army"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "army"
@@ -1124,30 +1192,35 @@
   {
    "words": [
     {
-     "surface": "கெடல்அரும்",
+     "surface": "கெடல்அருங்",
      "parts": [
       {
-       "text": "கெடல்அரும்",
-       "lemma": "கெடல்அரும்",
-       "gloss": "hard to ruin"
+       "text": "கெடல்அருங்",
+       "lemma": "கெடல்அருங்",
+       "gloss": "difficult to ruin"
       }
      ],
-     "gloss": "hard to ruin"
+     "gloss": "difficult to ruin",
+     "split_unverified": true
     },
     {
      "surface": "குறைய",
      "parts": [
       {
-       "text": "குறைய",
-       "lemma": "குறைய",
-       "gloss": "request"
+       "text": "குறை",
+       "lemma": "குறை",
+       "gloss": "need/request"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "suffix"
       }
      ],
-     "gloss": "request",
-     "split_unverified": true
+     "gloss": "request"
     },
     {
-     "surface": "நாடுகிழவோயே",
+     "surface": "நாடுகிழ",
      "parts": [
       {
        "text": "நாடு",
@@ -1155,25 +1228,32 @@
        "gloss": "country"
       },
       {
-       "text": "கிழவோய்",
-       "lemma": "கிழவோன்",
+       "text": "கிழ",
+       "lemma": "கிழ",
        "gloss": "lord"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
       }
      ],
-     "gloss": "O lord of the country"
+     "gloss": "lord of the country"
+    },
+    {
+     "surface": "வோயே",
+     "parts": [
+      {
+       "text": "வோயே",
+       "lemma": "வோயே",
+       "gloss": "O you!"
+      }
+     ],
+     "gloss": "O you!",
+     "split_unverified": true
     }
    ]
   }
  ],
- "literal": "If you ask, \"Who are these people?\" / Along with towns, to suppliants giving, along with chariots, / to the jasmine vine gave, unfading good fame, / having sounding-bell elephants, Parampu's lord, / tall great Pari's daughters [they are]; and I, / their father's friend; these are my daughters; / a Brahmin, a poet, having taken [them], I came. / You, appearing from the sacrificial pot of the northern sage, / having fashioned with copper, constructed high tall fortress walls, / with unceasing generosity, Dvaraka having ruled, / forty-nine generations having come, / among Velir chiefs, the Vel chief! Victorious in war, lord! / Wearing garlands, having elephants, great dark Irungovel! / Because of possessing manly duty, fulfilling the bards' duty, / wearing a sprouting chaplet, tiger-chasing great one! / As I give, please accept these women; sky-covering / dark ocean girdled this world's rare strength, / gold-producing great mountain's lord! Victorious spear / that makes enemies fear, having army, / having a request hard to ruin, lord of the country!",
- "translation": "If you ask, 'Who are these girls?' they are the daughters of the great Pari, the lord of Parampu hill where elephants with ringing bells roam—the one of unfading fame who gave away his towns to suppliants and his chariot to a jasmine vine. As for me, I am his friend, a Brahmin poet, and I have brought them here as my own daughters. You are the great Irungovel, who arose from the sacrificial pot of the northern sage, whose ancestors ruled Dvaraka with its high copper-girdled walls and unceasing generosity for forty-nine generations. O victorious lord of wars, who wears garlands and commands elephants! O great one who chased away the tiger, wearing a fresh chaplet, fulfilling your noble duty to bards! I offer these girls to you; please accept them in marriage, O lord of the gold-bearing mountains, ruler of this vast land girdled by the dark ocean, who commands a fearsome army and whose requests are never denied!",
- "modern": "இவர்கள் யார் என்று நீ கேட்டால், ஒலிக்கின்ற மணிகளைக் கொண்ட யானைகளையும் பறம்பு மலையையும் உடைய தலைவனான, இரவலர்களுக்கு ஊர்களையும் முல்லைக் கொடிக்குத் தேரையும் கொடுத்து அழியாத புகழைப் பெற்ற பாரியின் மகள்கள் இவர்கள். நான் அவனுடைய தோழனாகிய அந்தணப் புலவன்; இவர்களை என் மகள்களாகக் கொண்டு வந்துள்ளேன். நீயோ, வடதிசை முனிவரின் வேள்விக் குண்டத்தில் தோன்றி, செம்பினால் இயற்றப்பட்ட உயர்ந்த மதில்களைக் கொண்ட துவாரகையை ஆண்டு, நாற்பத்தொன்பது தலைமுறைகளாக வந்த வேளிர்குலத் தலைவன். மாலை அணிந்த யானைகளை உடைய இருங்கோவேளே! பாணர்களின் வறுமையைப் போக்கும் கடமையைச் செய்யும், தழைத்த மாலையை அணிந்த, புலியை வென்ற மாலே! நான் இவர்களை உனக்குத் தருகிறேன், நீ ஏற்றுக் கொள்வாயாக. கடல் சூழ்ந்த இவ்வுலகில் பொன் விளையும் பெரிய மலைக்குத் தலைவனே! பகைவர் அஞ்சும் படையையும், மறுக்க முடியாத வேண்டுகோளையும் உடைய நாட்டின் தலைவனே!",
- "explanation": "This poem is spoken by the famous poet Kapilar to the Velir chief Irungovel. Following the tragic death of his close friend and patron, King Pari of Parampu, Kapilar took charge of Pari's unmarried daughters. He travels to various chiefs to find suitable grooms for them, and here he presents them to Irungovel. Kapilar praises Pari's legendary generosity, reminding the chief of the girls' noble lineage, and then extols Irungovel's own illustrious ancestry, tracing it back forty-nine generations to Dvaraka and a sage's sacrificial fire. He appeals to Irungovel's sense of honor and duty to accept the daughters in marriage. The poem belongs to the pāṭāṇ tiṇai as it praises the lineage and virtues of the chief while presenting a request.",
+ "literal": "\"Who are these?\" if you ask, these indeed / along with their town, to the beggars, having bestowed, along with their chariot, / to the jasmine plant, gave, unfading good fame, / having sounding bells, of the elephant-riding Parambu hill's lord, / tall and great Pari's daughters, I indeed / father's friend, these are my daughters, / the Brahmin poet, having brought, came indeed. / You indeed, in the northern sage's sacrificial pot, having appeared, / with copper, having crafted, the high and long fort, / without getting tired of giving, Tuvarai, having ruled, / forty-nine generations, having come, / among the Velir, O chieftain! victorious in war, O lord! / wearing a garland, having elephants, O great Irungovel! / manly duty because of possessing, duty to bards having performed, / wearing a flourishing leaf-chaplet, O slayer of the tiger! / as I give, please accept them; sky-covering / vast ocean surrounded by this world's rare power, / gold-yielding great mountain's lord, O victorious spear! / enemies fearing army, / difficult to ruin request, O lord of the country!",
+ "translation": "\"If you ask, 'Who are these girls?', they are the daughters of Pari of the tall, dark mountain, the lord of Parambu hill where elephants wear sounding bells—the one of unfading fame who gave his chariot to a jasmine vine and bestowed his towns upon beggars. As for me, I am their father's friend, a Brahmin poet, who has brought them here. You, O great Irungovel, who appeared from the sacrificial pot of the northern sage, who ruled over Tuvarai with its high copper-crafted walls and never tired of giving, coming in a lineage of forty-nine generations, a victorious lord among the Velir chieftains! O slayer of the tiger, wearing a chaplet of flourishing leaves, who performs your duty to bards out of your noble manly duty! As I offer them to you, please accept them. O lord of the gold-yielding great mountains, possessing rare power in this world surrounded by the vast ocean, O leader of an army that terrifies your enemies, O lord of the country, please grant this request that must not fail!\"",
+ "modern": "\"இவர்கள் யார்?\" என்று நீ கேட்பாயானால், இவர்கள், இரவலர்களுக்குத் தம் ஊர்களையும், முல்லைக் கொடிக்குத் தம் தேரையும் வழங்கி அழியாத நற்புகழ் பெற்ற, ஒலிக்கின்ற மணிகளைக் கொண்ட யானைகளை உடைய பறம்பு மலையின் தலைவனான பாரியின் மகள்கள் ஆவர். நானோ, அவர்தம் தந்தையின் தோழனான அந்தணப் புலவன்; இவர்களை உன்னிடம் அழைத்து வந்துள்ளேன். வடதிசை முனிவரின் வேள்விக் குண்டத்தில் தோன்றி, செம்பினால் இயற்றப்பட்ட உயர்ந்த மதில்களைக் கொண்ட துவாரகையை ஆண்டு, நாற்பத்தொன்பது தலைமுறைகளாக வந்த வேளிர் குலத்துத் தலைவனே! வெற்றி தரும் போரைச் செய்யும் அண்ணலே! மாலை அணிந்த யானைகளை உடைய இருங்கோவேளே! ஆண்மைக்குரிய கடமையால் பாணர்களுக்குரிய கடமையைச் செய்யும், தழைக் கண்ணி அணிந்த, புலியை வென்ற மாலே! நான் தர இவர்களை நீ ஏற்றுக் கொள்வாயாக. கடல் சூழ்ந்த இவ்வுலகில் அரிய வலிமையும், பொன் விளையும் பெரிய மலைகளும் கொண்ட தலைவனே! பகைவர் அஞ்சும் படையையும், அழியாத நாட்டையும் உடையவனே, என் வேண்டுகோளை ஏற்பாயாக!",
+ "explanation": "This poem is spoken by the famous poet Kapilar to the Velir chieftain Irungovel. Following the death of his close friend, the generous patron Vel Pari, Kapilar took charge of Pari's unmarried daughters and sought suitable grooms among other chieftains. In this poem, Kapilar introduces the girls as the daughters of the legendary Pari, who was famous for his extreme generosity, such as giving his chariot to a jasmine vine. Kapilar then praises Irungovel's illustrious lineage, tracing it back forty-nine generations to an ancestor who emerged from a northern sage's sacrificial pot and ruled over Dwaraka (Tuvarai). Kapilar appeals to Irungovel's sense of duty and noble lineage, asking him to accept the daughters of Pari in marriage.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

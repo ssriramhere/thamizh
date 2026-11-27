@@ -61,96 +61,111 @@
       {
        "text": "மேந்தோல்",
        "lemma": "மேந்தோல்",
-       "gloss": ""
+       "gloss": "outer skin"
       }
      ],
-     "gloss": "",
+     "gloss": "outer skin",
      "split_unverified": true
     },
     {
      "surface": "களைந்த",
      "parts": [
       {
-       "text": "களைந்த",
-       "lemma": "களைந்த",
-       "gloss": ""
+       "text": "களை",
+       "lemma": "களை",
+       "gloss": "remove"
+      },
+      {
+       "text": "ந்த்",
+       "lemma": "த்",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "removed"
     },
     {
      "surface": "தீங்கொள்",
      "parts": [
       {
-       "text": "தீங்கொள்",
-       "lemma": "தீங்கொள்",
-       "gloss": ""
+       "text": "தீம்",
+       "lemma": "தீமை",
+       "gloss": "sweet"
+      },
+      {
+       "text": "கொள்",
+       "lemma": "கொள்",
+       "gloss": "having"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sweet-tasting"
     },
     {
      "surface": "வெள்ளெள்",
      "parts": [
       {
-       "text": "வெள்ளெள்",
-       "lemma": "வெள்ளெள்",
-       "gloss": ""
+       "text": "வெள்",
+       "lemma": "வெண்மை",
+       "gloss": "white"
+      },
+      {
+       "text": "எள்",
+       "lemma": "எள்",
+       "gloss": "sesame"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "white sesame"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "சுளகு",
+     "surface": "சுளகிடை",
      "parts": [
       {
        "text": "சுளகு",
-       "lemma": "cuḷaku",
+       "lemma": "சுளகு",
        "gloss": "winnowing fan"
-      }
-     ],
-     "gloss": "winnowing fan"
-    },
-    {
-     "surface": "இடை",
-     "parts": [
+      },
       {
        "text": "இடை",
-       "lemma": "iṭai",
-       "gloss": "middle/among"
+       "lemma": "இடை",
+       "gloss": "in"
       }
      ],
-     "gloss": "among"
+     "gloss": "in the winnowing fan"
     },
     {
      "surface": "உணங்கல்",
      "parts": [
       {
-       "text": "உணங்கல்",
-       "lemma": "uṇaṅkal",
-       "gloss": "drying grain"
+       "text": "உணங்கு",
+       "lemma": "உணங்கு",
+       "gloss": "dry"
+      },
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "verbal noun suffix"
       }
      ],
-     "gloss": "drying grain"
+     "gloss": "drying"
     },
     {
      "surface": "செவ்வி",
      "parts": [
       {
        "text": "செவ்வி",
-       "lemma": "cevvi",
-       "gloss": "perfect state/time"
+       "lemma": "செவ்வி",
+       "gloss": "proper time"
       }
      ],
-     "gloss": "perfect state"
+     "gloss": "proper time"
     },
     {
      "surface": "கொண்டு",
@@ -158,10 +173,10 @@
       {
        "text": "கொண்டு",
        "lemma": "கொண்டு",
-       "gloss": "taking"
+       "gloss": "having taken"
       }
      ],
-     "gloss": "taking",
+     "gloss": "having taken",
      "split_unverified": true
     },
     {
@@ -169,7 +184,7 @@
      "parts": [
       {
        "text": "உடன்",
-       "lemma": "uṭaṉ",
+       "lemma": "உடன்",
        "gloss": "together"
       }
      ],
@@ -180,28 +195,29 @@
   {
    "words": [
     {
-     "surface": "வேனில்",
+     "surface": "வேனிற்",
      "parts": [
       {
-       "text": "வேனில்",
-       "lemma": "vēṉil",
-       "gloss": "summer"
+       "text": "வேனிற்",
+       "lemma": "வேனிற்",
+       "gloss": "of summer"
       }
      ],
-     "gloss": "summer"
+     "gloss": "of summer",
+     "split_unverified": true
     },
     {
      "surface": "கோங்கின்",
      "parts": [
       {
        "text": "கோங்கு",
-       "lemma": "kōṅku",
+       "lemma": "கோங்கு",
        "gloss": "Kongu tree"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "genitive suffix"
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
      "gloss": "of the Kongu tree"
@@ -212,10 +228,10 @@
       {
        "text": "பூம்பொகுட்டு",
        "lemma": "பூம்பொகுட்டு",
-       "gloss": "beautiful flower bud"
+       "gloss": "flower bud"
       }
      ],
-     "gloss": "beautiful flower bud",
+     "gloss": "flower bud",
      "split_unverified": true
     },
     {
@@ -223,7 +239,7 @@
      "parts": [
       {
        "text": "அன்ன",
-       "lemma": "aṉṉa",
+       "lemma": "அன்ன",
        "gloss": "like"
       }
      ],
@@ -234,28 +250,42 @@
   {
    "words": [
     {
-     "surface": "குடந்தைஅம்",
+     "surface": "குடந்தை",
      "parts": [
       {
-       "text": "குடந்தைஅம்",
-       "lemma": "குடந்தைஅம்",
-       "gloss": ""
+       "text": "குடந்தை",
+       "lemma": "குடந்தை",
+       "gloss": "curved"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "curved"
+    },
+    {
+     "surface": "அம்",
+     "parts": [
+      {
+       "text": "அம்",
+       "lemma": "அம்",
+       "gloss": "beautiful"
+      }
+     ],
+     "gloss": "beautiful"
     },
     {
      "surface": "செவிய",
      "parts": [
       {
-       "text": "செவிய",
-       "lemma": "செவிய",
-       "gloss": ""
+       "text": "செவி",
+       "lemma": "செவி",
+       "gloss": "ear"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "adjectival suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having ears"
     },
     {
      "surface": "கோட்டெலி",
@@ -263,109 +293,100 @@
       {
        "text": "கோட்டெலி",
        "lemma": "கோட்டெலி",
-       "gloss": ""
+       "gloss": "bandicoot rat"
       }
      ],
-     "gloss": "",
+     "gloss": "bandicoot rat",
      "split_unverified": true
     },
     {
-     "surface": "யாட்டக்",
+     "surface": "ஆட்ட",
      "parts": [
       {
-       "text": "யாட்டக்",
-       "lemma": "யாட்டக்",
-       "gloss": ""
+       "text": "ஆட்டு",
+       "lemma": "ஆட்டு",
+       "gloss": "chase"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to chase"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "கலி",
+     "surface": "கலிஆர்",
      "parts": [
       {
        "text": "கலி",
-       "lemma": "kali",
+       "lemma": "கலி",
        "gloss": "abundance"
-      }
-     ],
-     "gloss": "abundant"
-    },
-    {
-     "surface": "ஆர்",
-     "parts": [
+      },
       {
        "text": "ஆர்",
-       "lemma": "ār",
+       "lemma": "ஆர்",
        "gloss": "full of"
       }
      ],
-     "gloss": "full of"
+     "gloss": "flourishing"
     },
     {
      "surface": "வரகின்",
      "parts": [
       {
        "text": "வரகு",
-       "lemma": "varaku",
+       "lemma": "வரகு",
        "gloss": "millet"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "genitive suffix"
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "of the millet"
+     "gloss": "of millet"
     },
     {
-     "surface": "பிறங்கு",
+     "surface": "பிறங்குபீள்",
      "parts": [
       {
        "text": "பிறங்கு",
-       "lemma": "piṟaṅku",
-       "gloss": "prominent/shining"
-      }
-     ],
-     "gloss": "prominent"
-    },
-    {
-     "surface": "பீள்",
-     "parts": [
+       "lemma": "பிறங்கு",
+       "gloss": "shining"
+      },
       {
        "text": "பீள்",
-       "lemma": "pīḷ",
+       "lemma": "பீள்",
        "gloss": "ear of grain"
       }
      ],
-     "gloss": "ear of grain"
+     "gloss": "shining ears of grain"
     },
     {
      "surface": "ஒளிக்கும்",
      "parts": [
       {
        "text": "ஒளி",
-       "lemma": "oḷi",
+       "lemma": "ஒளி",
        "gloss": "hide"
       },
       {
        "text": "க்",
-       "lemma": "k",
-       "gloss": "future/present infix"
+       "lemma": "க்",
+       "gloss": "increment"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "adjectival participle suffix"
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "hiding"
+     "gloss": "which hides"
     }
    ]
   },
@@ -413,37 +434,31 @@
   {
    "words": [
     {
-     "surface": "தின்",
+     "surface": "தின்பழம்",
      "parts": [
       {
        "text": "தின்",
-       "lemma": "tiṉ",
+       "lemma": "தின்",
        "gloss": "eat"
-      }
-     ],
-     "gloss": "eat"
-    },
-    {
-     "surface": "பழம்",
-     "parts": [
+      },
       {
        "text": "பழம்",
-       "lemma": "paḻam",
+       "lemma": "பழம்",
        "gloss": "fruit"
       }
      ],
-     "gloss": "fruit"
+     "gloss": "edible fruit"
     },
     {
-     "surface": "பசி",
+     "surface": "பசீஇ",
      "parts": [
       {
-       "text": "பசி",
-       "lemma": "பசி",
-       "gloss": "hungry"
+       "text": "பசீஇ",
+       "lemma": "பசீஇ",
+       "gloss": "having hungered"
       }
      ],
-     "gloss": "hungry",
+     "gloss": "having hungered",
      "split_unverified": true
     },
     {
@@ -452,7 +467,7 @@
       {
        "text": "…",
        "lemma": "…",
-       "gloss": "gap"
+       "gloss": "…"
       }
      ],
      "gloss": "…"
@@ -462,18 +477,18 @@
      "parts": [
       {
        "text": "ன்னோ",
-       "lemma": "ṉṉō",
-       "gloss": "particle of exclamation"
+       "lemma": "ஓ",
+       "gloss": "oh"
       }
      ],
-     "gloss": "exclamation particle"
+     "gloss": "oh"
     },
     {
      "surface": "பாண",
      "parts": [
       {
        "text": "பாண",
-       "lemma": "pāṇa",
+       "lemma": "பாணன்",
        "gloss": "oh bard"
       }
      ],
@@ -488,12 +503,12 @@
      "parts": [
       {
        "text": "வாள்",
-       "lemma": "vāḷ",
+       "lemma": "வாள்",
        "gloss": "sword"
       },
       {
        "text": "வடு",
-       "lemma": "vaṭu",
+       "lemma": "வடு",
        "gloss": "scar"
       }
      ],
@@ -504,33 +519,23 @@
      "parts": [
       {
        "text": "விளங்கு",
-       "lemma": "viḷaṅku",
-       "gloss": "shine/be conspicuous"
+       "lemma": "விளங்கு",
+       "gloss": "shine"
       },
       {
-       "text": "இ",
-       "lemma": "i",
-       "gloss": "past tense infix"
-      },
-      {
-       "text": "ய்",
-       "lemma": "y",
-       "gloss": "glide"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "adjectival participle suffix"
+       "text": "இய",
+       "lemma": "இய",
+       "gloss": "past relative participle suffix"
       }
      ],
-     "gloss": "shining"
+     "gloss": "prominent"
     },
     {
      "surface": "சென்னி",
      "parts": [
       {
        "text": "சென்னி",
-       "lemma": "ceṉṉi",
+       "lemma": "சென்னி",
        "gloss": "head"
       }
      ],
@@ -545,40 +550,40 @@
      "parts": [
       {
        "text": "செரு",
-       "lemma": "ceru",
-       "gloss": "battle"
+       "lemma": "செரு",
+       "gloss": "war"
       },
       {
        "text": "வெம்",
-       "lemma": "vem",
-       "gloss": "fierce/hot"
+       "lemma": "வெம்மை",
+       "gloss": "fierce"
       }
      ],
-     "gloss": "battle-fierce"
+     "gloss": "fierce in war"
     },
     {
      "surface": "குருசில்",
      "parts": [
       {
        "text": "குருசில்",
-       "lemma": "kurucil",
-       "gloss": "lord/hero"
+       "lemma": "குருசில்",
+       "gloss": "chief"
       }
      ],
-     "gloss": "lord"
+     "gloss": "chief"
     },
     {
      "surface": "ஓம்பும்",
      "parts": [
       {
        "text": "ஓம்பு",
-       "lemma": "ōmpu",
+       "lemma": "ஓம்பு",
        "gloss": "protect"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "adjectival participle suffix"
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
      "gloss": "protecting"
@@ -588,24 +593,24 @@
      "parts": [
       {
        "text": "ஊர்",
-       "lemma": "ūr",
-       "gloss": "village"
+       "lemma": "ஊர்",
+       "gloss": "town"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "the village indeed"
+     "gloss": "the town indeed"
     }
    ]
   }
  ],
- "literal": "Spotted-backed quail's fight-capable male / outer skin removed sweet-tasting white sesame / among winnowing fans drying perfect state taking together / summer Kongu's flower bud like / curved beautiful-eared crooked rats to chase / abundant millet's prominent ear of grain hiding / dry land settlement, that indeed, having gone / eating fruit, hungry ... oh bard! / sword-scars shining head / battle-fierce lord protects village indeed.",
- "translation": "Oh bard! If you go to that dry-land settlement where the male quails with spotted backs, skilled in fighting, chase the crooked rats with curved, beautiful ears—which look like the summer buds of the Kongu tree—causing them to hide among the prominent ears of abundant millet drying on winnowing fans alongside sweet, white sesame peeled of its outer skin; that is the village protected by the battle-fierce lord whose head is illustrious with sword scars, where you can satisfy your hunger by eating fruits.",
- "modern": "புள்ளிகளுடைய முதுகை உடைய, சண்டையிடுவதில் வல்ல ஆண் காடைகள், கோடைக்காலத்துக் கோங்க மரத்தின் அரும்புகளைப் போன்ற வளைந்த அழகிய காதுகளையும் வளைந்த வாலையும் உடைய எலிகளைத் துரத்துகின்றன. அந்த எலிகள், மேல் தோல் நீக்கப்பட்ட இனிமையான வெள்ளை எள்ளோடு முறங்களில் உலர வைக்கப்பட்டிருக்கும் செழிப்பான வரகுத் தினைக்கதிர்களுக்குள் ஓடி ஒளிகின்றன. அத்தகைய வன்புலத்து (முல்லை நிலத்து) ஊருக்கு நீ சென்றால், பழங்களை உண்டு உனது பசியைப் போக்கிக் கொள்ளலாம், பாணனே! வாள் வடுக்கள் விளங்கும் தலையை உடைய, போரை விரும்பும் தலைவன் பாதுகாக்கும் ஊர் அதுவே ஆகும்.",
- "explanation": "This poem is addressed to a wandering bard (pāṇāṉ) by a poet, directing him to the village of a generous warrior-chief. It belongs to the Vākai tiṇai and Vallāṇ mullai tuṟai, which praises the strength and hospitality of a warrior in a dry, rugged forest region. The poet describes a lively scene in the dry-land settlement where fighting male quails chase crooked-tailed rats into the drying millet and sesame on winnowing fans. The rats' curved ears are compared to the summer buds of the Kongu tree, showing the poet's keen observation of nature. This village, though situated in a harsh terrain, is rich in food and is protected by a fierce chief whose head is covered in glorious sword scars.",
+ "literal": "Spotted-backed quail's fighting-strong male / outer skin removed sweet-tasting white sesame / in the winnowing fan drying proper time having taken together / summer Kongu's flower bud like / curved beautiful eared bandicoot rat to chase / flourishing millet's shining ears of grain which hides / dry land settlement that indeed, having gone / edible fruit having hungered … oh bard! / sword scar prominent head's / war-desiring chief protects town indeed.",
+ "translation": "Oh bard! Go to that dry-land settlement where the male quail with spotted back, strong in fight, chases the bandicoot rat with curved beautiful ears—resembling the summer Kongu's flower bud—making it hide among the shining ears of flourishing millet, while white sesame, its outer skin removed, dries in the winnowing fan. That is the town protected by the chief who loves war, whose head is prominent with sword scars.",
+ "modern": "பாணனே! போரிடுவதில் வல்ல புள்ளிகளுடைய முதுகை உடைய ஆண் காடை, கோங்கு மரத்தின் கோடைக்கால அரும்பைப் போன்ற வளைந்த அழகிய காதுகளை உடைய பெருச்சாளியைத் துரத்த, அது செழித்து வளர்ந்த வரகின் விளங்கும் கதிர்களுக்குள் ஒளிந்து கொள்ளும். உமி நீக்கப்பட்ட இனிமையான வெள்ளை எள் முறத்தில் உலரும் பக்குவத்தில் இருக்கும். அத்தகைய வன்புலத்து ஊருக்குச் செல்வாயாக. அது வாள் வடுக்கள் விளங்கும் தலையையும், போரை விரும்பும் தன்மையையும் உடைய தலைவன் பாதுகாக்கும் ஊராகும்.",
+ "explanation": "The poet is addressing a bard, directing him to the village of a generous warrior chief. The poem belongs to the Vākai tiṇai and Vallāṇ Mullai tuṟai, which praises the strength and hospitality of a warrior in a dry tract. The imagery vividly describes the dry-land landscape where a fighting quail chases a bandicoot rat with ears like Kongu buds, causing it to hide in the thick millet crops. Meanwhile, white sesame is drying in winnowing fans, showing the self-sufficient abundance of the land. The chief of this village is marked by honorable battle scars on his head, showing his bravery, and he protects this fertile settlement where bards can find refuge.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

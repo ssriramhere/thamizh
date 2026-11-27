@@ -3,15 +3,16 @@
   {
    "words": [
     {
-     "surface": "காமம்",
+     "surface": "காமந்",
      "parts": [
       {
-       "text": "காமம்",
-       "lemma": "காமம்",
+       "text": "காமந்",
+       "lemma": "காமந்",
        "gloss": "passion"
       }
      ],
-     "gloss": "passion"
+     "gloss": "passion",
+     "split_unverified": true
     },
     {
      "surface": "தாங்குமதி",
@@ -24,26 +25,22 @@
       {
        "text": "மதி",
        "lemma": "மதி",
-       "gloss": "imperative suffix"
+       "gloss": "exhortative particle"
       }
      ],
      "gloss": "do bear!"
     },
     {
-     "surface": "என்போர்",
+     "surface": "யென்போர்",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "என்",
-       "gloss": "say"
-      },
-      {
-       "text": "போர்",
-       "lemma": "போர்",
-       "gloss": "those who"
+       "text": "யென்போர்",
+       "lemma": "யென்போர்",
+       "gloss": "those who say"
       }
      ],
-     "gloss": "those who say"
+     "gloss": "those who say",
+     "split_unverified": true
     },
     {
      "surface": "தாம்",
@@ -61,11 +58,12 @@
      "parts": [
       {
        "text": "அஃ",
-       "lemma": "அஃது",
+       "lemma": "அஃ",
        "gloss": "that"
       }
      ],
-     "gloss": "that (part 1)"
+     "gloss": "that",
+     "split_unverified": true
     }
    ]
   },
@@ -77,10 +75,10 @@
       {
        "text": "தறியலர்",
        "lemma": "தறியலர்",
-       "gloss": ""
+       "gloss": "they do not know that"
       }
      ],
-     "gloss": "",
+     "gloss": "they do not know that",
      "split_unverified": true
     },
     {
@@ -89,38 +87,56 @@
       {
        "text": "கொல்லோ",
        "lemma": "கொல்லோ",
-       "gloss": ""
+       "gloss": "particle of wonder"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "I wonder?"
     },
     {
-     "surface": "அனைமது",
+     "surface": "அனை",
      "parts": [
       {
-       "text": "அனைமது",
-       "lemma": "அனைமது",
-       "gloss": ""
+       "text": "அனை",
+       "lemma": "அனை",
+       "gloss": "such"
       }
      ],
-     "gloss": "",
+     "gloss": "such"
+    },
+    {
+     "surface": "மது",
+     "parts": [
+      {
+       "text": "மது",
+       "lemma": "மது",
+       "gloss": "strength"
+      }
+     ],
+     "gloss": "strength",
      "split_unverified": true
     },
     {
      "surface": "கையர்கொல்",
      "parts": [
       {
-       "text": "கையர்கொல்",
-       "lemma": "கையர்கொல்",
-       "gloss": ""
+       "text": "கை",
+       "lemma": "மதுகை",
+       "gloss": "strength"
+      },
+      {
+       "text": "அர்",
+       "lemma": "அர்",
+       "gloss": "they (pronominal suffix)"
+      },
+      {
+       "text": "கொல்",
+       "lemma": "கொல்",
+       "gloss": "particle of doubt"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "are they possessed of? (strength)"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -136,58 +152,52 @@
      "gloss": "we"
     },
     {
-     "surface": "எம்",
+     "surface": "மெங்",
      "parts": [
       {
-       "text": "எம்",
-       "lemma": "எம்",
+       "text": "மெங்",
+       "lemma": "மெங்",
        "gloss": "our"
       }
      ],
-     "gloss": "our"
+     "gloss": "our",
+     "split_unverified": true
     },
     {
-     "surface": "காதலர்",
+     "surface": "காதலர்க்",
      "parts": [
       {
-       "text": "காதல்",
-       "lemma": "காதல்",
-       "gloss": "love"
-      },
-      {
-       "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "he (honorific)"
+       "text": "காதலர்க்",
+       "lemma": "காதலர்க்",
+       "gloss": "lover"
       }
      ],
-     "gloss": "lover"
+     "gloss": "lover",
+     "split_unverified": true
     },
     {
-     "surface": "காணேம்",
+     "surface": "காணே",
      "parts": [
       {
-       "text": "காண்",
-       "lemma": "காண்",
-       "gloss": "see"
-      },
-      {
-       "text": "ஏம்",
-       "lemma": "ஏம்",
-       "gloss": "we do not"
+       "text": "காணே",
+       "lemma": "காணே",
+       "gloss": "we do not see"
       }
      ],
-     "gloss": "we do not see"
+     "gloss": "we do not see",
+     "split_unverified": true
     },
     {
-     "surface": "ஆயின்",
+     "surface": "மாயிற்",
      "parts": [
       {
-       "text": "ஆயின்",
-       "lemma": "ஆயின்",
+       "text": "மாயிற்",
+       "lemma": "மாயிற்",
        "gloss": "if"
       }
      ],
-     "gloss": "if"
+     "gloss": "if",
+     "split_unverified": true
     }
    ]
   },
@@ -199,7 +209,7 @@
       {
        "text": "செறி",
        "lemma": "செறி",
-       "gloss": "be dense"
+       "gloss": "dense"
       }
      ],
      "gloss": "dense"
@@ -210,10 +220,10 @@
       {
        "text": "துனி",
        "lemma": "துனி",
-       "gloss": "grief"
+       "gloss": "distress"
       }
      ],
-     "gloss": "grief"
+     "gloss": "distress"
     },
     {
      "surface": "பெருகிய",
@@ -221,107 +231,84 @@
       {
        "text": "பெருகு",
        "lemma": "பெருகு",
-       "gloss": "increase"
+       "gloss": "grow"
       },
       {
-       "text": "இய",
-       "lemma": "இய",
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
        "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "increased"
+     "gloss": "which has increased"
     },
     {
-     "surface": "நெஞ்சம்",
+     "surface": "நெஞ்சமொடு",
      "parts": [
       {
        "text": "நெஞ்சம்",
        "lemma": "நெஞ்சம்",
        "gloss": "heart"
-      }
-     ],
-     "gloss": "heart"
-    },
-    {
-     "surface": "ஒடு",
-     "parts": [
+      },
       {
        "text": "ஒடு",
        "lemma": "ஒடு",
        "gloss": "with"
       }
      ],
-     "gloss": "with"
+     "gloss": "with the heart"
     },
     {
-     "surface": "பெரு",
+     "surface": "பெருநீர்க்",
      "parts": [
       {
-       "text": "பெரு",
-       "lemma": "பெரு",
-       "gloss": "great"
+       "text": "பெருநீர்க்",
+       "lemma": "பெருநீர்க்",
+       "gloss": "of the great water"
       }
      ],
-     "gloss": "great"
-    },
-    {
-     "surface": "நீர்",
-     "parts": [
-      {
-       "text": "நீர்",
-       "lemma": "நீர்",
-       "gloss": "water"
-      }
-     ],
-     "gloss": "water"
+     "gloss": "of the great water",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கல்",
+     "surface": "கல்பொரு",
      "parts": [
       {
        "text": "கல்",
        "lemma": "கல்",
-       "gloss": "rock"
-      }
-     ],
-     "gloss": "rock"
-    },
-    {
-     "surface": "பொரு",
-     "parts": [
+       "gloss": "stone/rock"
+      },
       {
        "text": "பொரு",
        "lemma": "பொரு",
        "gloss": "dash against"
       }
      ],
-     "gloss": "dashing against"
+     "gloss": "dashing against the rock"
     },
     {
-     "surface": "சிறு",
+     "surface": "சிறுநுரை",
      "parts": [
       {
        "text": "சிறு",
        "lemma": "சிறு",
        "gloss": "small"
-      }
-     ],
-     "gloss": "small"
-    },
-    {
-     "surface": "நுரை",
-     "parts": [
+      },
       {
        "text": "நுரை",
        "lemma": "நுரை",
        "gloss": "foam"
       }
      ],
-     "gloss": "foam"
+     "gloss": "small foam"
     },
     {
      "surface": "போல",
@@ -344,11 +331,10 @@
       {
        "text": "மெல்ல",
        "lemma": "மெல்ல",
-       "gloss": ""
+       "gloss": "slowly"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "slowly"
     },
     {
      "surface": "மெல்ல",
@@ -356,44 +342,55 @@
       {
        "text": "மெல்ல",
        "lemma": "மெல்ல",
-       "gloss": ""
+       "gloss": "slowly"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "slowly"
     },
     {
      "surface": "இல்லா",
      "parts": [
       {
-       "text": "இல்லா",
-       "lemma": "இல்லா",
-       "gloss": ""
+       "text": "இல்",
+       "lemma": "இல்",
+       "gloss": "not"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆகு",
+       "gloss": "become"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "not becoming"
     },
     {
      "surface": "குதுமே",
      "parts": [
       {
-       "text": "குதுமே",
-       "lemma": "குதுமே",
-       "gloss": ""
+       "text": "கு",
+       "lemma": "ஆகு",
+       "gloss": "become"
+      },
+      {
+       "text": "தும்",
+       "lemma": "தும்",
+       "gloss": "first person plural future suffix"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we will indeed become"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "Those who say, 'Bear your love!' do they / not know that? Or do they possess such strength? / If we do not see our lover, / with a heart filled with dense grief, like the tiny foam / dashing against the rocks in the great ocean, / slowly, slowly, we will indeed cease to exist.",
- "translation": "Those who tell me to bear my love—do they not know what it is like, or are they themselves possessed of such immense strength? If I do not see my lover, then with a heart swollen with dense grief, like the tiny foam that dashes against the rocks in the great ocean, slowly, slowly, I will cease to exist.",
- "modern": "காதலைத் தாங்கிக் கொள் என்று சொல்பவர்கள், அதன் தன்மையை அறியாதவர்களோ? அல்லது அவ்வளவு வலிமை உடையவர்களோ? நம் காதலரைக் காணவில்லை என்றால், மிகுந்த துன்பம் பெருகிய நெஞ்சத்தோடு, பெரிய கடலின் பாறைகளில் மோதும் சிறு நுரையைப் போல, மெல்ல மெல்ல நாம் அழிந்து போவோம்.",
- "explanation": "The heroine is speaking to her confidante in deep distress because her lover has been away for a long time. She questions the advice of onlookers who casually tell her to control her passion, wondering if they are completely ignorant of love's power or if they possess superhuman strength. She compares her fragile state to the tiny foam of the vast ocean that repeatedly dashes against hard rocks. This poignant image belongs to the Neytal (coastal) landscape, which represents the grief of waiting and separation. The key words are 'காமம்' (passion), 'சிறுநுரை' (tiny foam), and 'இல்லாகுதுமே' (we will cease to exist).",
+ "literal": "Those who say 'bear the passion!', do they / not know that? I wonder, are they of such strength? / We, if we do not see our lover, / with a heart of dense distress increased, of the great water's / rock-dashing small foam like, / slowly, slowly, we will cease to exist.",
+ "translation": "Those who say, 'Bear your passion!'—do they not know what it is, or are they possessed of such great strength? If we do not see our lover, with a heart filled with growing distress, like the tiny foam beaten against the rocks by the great ocean, slowly, slowly, we will cease to exist.",
+ "modern": "காமத்தைத் தாங்கிக் கொள் என்று சொல்பவர்கள், அதை அறியாதவர்களோ? அல்லது அவ்வளவு வலிமை உடையவர்களோ? நாம் நம் காதலரைக் காணவில்லை என்றால், மிகுந்த துன்பம் பெருகிய நெஞ்சத்தோடு, பெரிய கடலின் பாறையில் மோதும் சிறு நுரையைப் போல, மெல்ல மெல்ல இல்லாமல் போய்விடுவோம்.",
+ "explanation": "The heroine is speaking to her confidante (or to herself) in deep distress during the hero's absence. She questions the advice of onlookers who casually tell her to control and endure her passion, wondering if they lack understanding or possess superhuman strength. She describes her fragile state of mind, filled with growing grief because she cannot see her lover. She compares her life to the tiny foam created when waves crash against the rocks of the vast ocean. Just as that delicate foam is slowly and inevitably dissolved by the relentless waves, her existence is gradually fading away. This poignant image of the seashore (Neytal tiṇai) perfectly captures the themes of separation, despair, and the fragility of life.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

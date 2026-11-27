@@ -3,26 +3,20 @@
   {
    "words": [
     {
-     "surface": "எறி",
+     "surface": "எறிசுறா",
      "parts": [
       {
        "text": "எறி",
        "lemma": "எறி",
        "gloss": "strike"
-      }
-     ],
-     "gloss": "leaping"
-    },
-    {
-     "surface": "சுறா",
-     "parts": [
+      },
       {
        "text": "சுறா",
        "lemma": "சுறா",
        "gloss": "shark"
       }
      ],
-     "gloss": "sharks"
+     "gloss": "striking shark"
     },
     {
      "surface": "கலித்த",
@@ -34,11 +28,11 @@
       },
       {
        "text": "த்த",
-       "lemma": "த்த",
-       "gloss": "past relative participle suffix"
+       "lemma": "அ",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "bustling"
+     "gloss": "bustled"
     },
     {
      "surface": "இலங்கு",
@@ -73,7 +67,7 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "oblique case suffix"
+       "gloss": "oblique suffix"
       }
      ],
      "gloss": "of the expanse"
@@ -83,26 +77,20 @@
   {
    "words": [
     {
-     "surface": "நறு",
+     "surface": "நறுவீ",
      "parts": [
       {
        "text": "நறு",
        "lemma": "நறு",
        "gloss": "fragrant"
-      }
-     ],
-     "gloss": "fragrant"
-    },
-    {
-     "surface": "வீ",
-     "parts": [
+      },
       {
        "text": "வீ",
        "lemma": "வீ",
-       "gloss": "blossom"
+       "gloss": "flower"
       }
      ],
-     "gloss": "blossoms"
+     "gloss": "fragrant flowers"
     },
     {
      "surface": "ஞாழலொடு",
@@ -110,7 +98,7 @@
       {
        "text": "ஞாழல்",
        "lemma": "ஞாழல்",
-       "gloss": "ñāḻal tree"
+       "gloss": "Senna sophera tree"
       },
       {
        "text": "ஒடு",
@@ -118,7 +106,7 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with the ñāḻal tree"
+     "gloss": "with the ஞாழல் trees"
     },
     {
      "surface": "புன்னை",
@@ -129,7 +117,7 @@
        "gloss": "mastwood tree"
       }
      ],
-     "gloss": "mastwood tree"
+     "gloss": "mastwood trees"
     },
     {
      "surface": "தாஅய்",
@@ -137,27 +125,36 @@
       {
        "text": "தாஅய்",
        "lemma": "தாஅய்",
-       "gloss": "spreading"
+       "gloss": "having spread"
       }
      ],
-     "gloss": "spreading",
-     "split_unverified": true
+     "gloss": "having spread"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "வெறியயர்",
+     "surface": "வெறி",
      "parts": [
       {
-       "text": "வெறியயர்",
-       "lemma": "வெறியயர்",
-       "gloss": ""
+       "text": "வெறி",
+       "lemma": "வெறி",
+       "gloss": "fragrance"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "fragrance"
+    },
+    {
+     "surface": "அயர்",
+     "parts": [
+      {
+       "text": "அயர்",
+       "lemma": "அயர்",
+       "gloss": "perform"
+      }
+     ],
+     "gloss": "performing"
     },
     {
      "surface": "களத்தினில்",
@@ -165,38 +162,50 @@
       {
        "text": "களத்தினில்",
        "lemma": "களத்தினில்",
-       "gloss": ""
+       "gloss": "in the arena"
       }
      ],
-     "gloss": "",
+     "gloss": "in the arena",
      "split_unverified": true
     },
     {
-     "surface": "தோன்றுந்",
+     "surface": "தோன்றும்",
      "parts": [
       {
-       "text": "தோன்றுந்",
-       "lemma": "தோன்றுந்",
-       "gloss": ""
+       "text": "தோன்று",
+       "lemma": "தோன்று",
+       "gloss": "appear"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "appearing"
     },
     {
      "surface": "துறைவன்",
      "parts": [
       {
-       "text": "துறைவன்",
-       "lemma": "துறைவன்",
-       "gloss": ""
+       "text": "துறை",
+       "lemma": "துறை",
+       "gloss": "shore"
+      },
+      {
+       "text": "வ்",
+       "lemma": "வ்",
+       "gloss": "linking consonant"
+      },
+      {
+       "text": "அன்",
+       "lemma": "அன்",
+       "gloss": "he"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "lord of the shore"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -381,10 +390,10 @@
       {
        "text": "வஞ்சினம்",
        "lemma": "வஞ்சினம்",
-       "gloss": "oath"
+       "gloss": "vow"
       }
      ],
-     "gloss": "oath"
+     "gloss": "vow"
     },
     {
      "surface": "செய்த",
@@ -392,15 +401,15 @@
       {
        "text": "செய்",
        "lemma": "செய்",
-       "gloss": "make"
+       "gloss": "do"
       },
       {
        "text": "த",
-       "lemma": "த",
-       "gloss": "past relative participle suffix"
+       "lemma": "அ",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "made"
+     "gloss": "who made"
     }
    ]
   },
@@ -428,7 +437,7 @@
       {
        "text": "கடவன்",
        "lemma": "கடவன்",
-       "gloss": "one bound by duty"
+       "gloss": "one duty-bound"
       },
       {
        "text": "உம்",
@@ -436,7 +445,7 @@
        "gloss": "and"
       }
      ],
-     "gloss": "the duty-bound one and"
+     "gloss": "the one duty-bound and"
     },
     {
      "surface": "புனைவனும்",
@@ -444,7 +453,7 @@
       {
        "text": "புனைவன்",
        "lemma": "புனைவன்",
-       "gloss": "one who adorns"
+       "gloss": "decorator"
       },
       {
        "text": "உம்",
@@ -452,7 +461,7 @@
        "gloss": "and"
       }
      ],
-     "gloss": "the one who adorns and"
+     "gloss": "the decorator and"
     },
     {
      "surface": "தானே",
@@ -465,7 +474,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphatic suffix"
+       "gloss": "emphasis"
       }
      ],
      "gloss": "himself indeed"
@@ -473,10 +482,10 @@
    ]
   }
  ],
- "literal": "Of the expanse of shining water where leaping sharks bustle, / with fragrant blossoms of ñāḻal, the puṉṉai spreads, / the lord of the shore who appears like the arena where the Veri ritual is performed, / whether he does not intend or whether he intends, other than him, / to one who does not know, shall I speak? I, / on that day when he embraced these emaciated, bamboo-like, beautiful, soft shoulders, / made an unfailing oath. / The thief, the duty-bound one, and the one who adorns is himself indeed.",
- "translation": "On the expanse of shining waters where leaping sharks bustle, the mastwood tree scatters its blossoms along with the fragrant ñāḻal, making the shore look like the arena where the Veri ritual is performed. Whether the lord of that shore intends to marry me or not, shall I speak of this to anyone else who does not understand? On that day when he embraced these now-wasted, beautiful, soft shoulders, he made an unfailing oath. He is the thief who stole my heart, he is the one bound by duty to marry me, and he is the one who must adorn me.",
- "modern": "பாய்ந்து செல்லும் சுறா மீன்கள் நிறைந்த, விளங்குகின்ற நீர்ப்பரப்பில், நறிய மலர்களைக் கொண்ட ஞாழல் மரத்தோடு புன்னை மரத்தின் மலர்களும் உதிர்ந்து பரவிக் கிடக்கின்றன. அது வெறியாடும் களம் போலத் தோன்றும் கடற்கரைத் துறைக்குத் தலைவன் அவன். அவன் என்னை மணக்க நினைத்தாலும், நினைக்காவிட்டாலும், என் நிலையை அறியாத பிறரிடம் நான் இதைப் பற்றிப் பேசுவேனோ? மெலிந்துபோன, மூங்கில் போன்ற அழகிய என் மெல்லிய தோள்களை அவன் தழுவிய அந்த நாளில், அவன் தவறாத சூளுரை உரைத்தான். என் நெஞ்சைக் கவர்ந்த கள்வனும் அவனே; என்னை மணக்க வேண்டிய கடமை உடையவனும் அவனே; எனக்கு அணிகலன்கள் சூட்டி அழகு செய்ய வேண்டியவனும் அவனே ஆவான்.",
- "explanation": "The heroine is speaking to her confidante about the hero's delay in marrying her. She describes his coastal land, where the fallen yellow flowers of the ñāḻal and white flowers of the puṉṉai trees scatter on the sand, making the shore look like a ritual ground prepared for the Veri dance. This vivid image reflects her inner turmoil, as her family is considering performing a Veri ritual to cure her wasting sickness, not knowing it is caused by her love. She declares that whether the hero intends to marry her soon or not, she cannot reveal her secret love to anyone who does not understand. She recalls the solemn, unfailing oath he made when he first embraced her beautiful, soft shoulders. Ultimately, she asserts that he is the thief who stole her heart, the debtor bound by duty to marry her, and the protector who must restore her beauty.",
+ "literal": "Of the striking sharks bustled shining water's expanse / fragrant flowers of ஞாழல் with புன்னை having spread / like the frenzy-performing arena appearing shore's lord / even if he does not intend, or even if he intends, other one / to him who does not know shall I tell, I indeed? Grown thin / these bamboo-like beautiful soft shoulders embraced that day / unfailing vow made / thief and duty-bound one and decorator himself indeed!",
+ "translation": "On the expanse of shining waters where striking sharks swarm, the fragrant flowers of the gnarled gnāḻal and punnai trees spread, making the shore look like an arena where the frenzied Veri dance is performed. Even if the lord of that shore does not intend to marry me, or even if he does, should I go and tell my mother, who knows nothing of this? On that day, he embraced these beautiful, soft, bamboo-like shoulders of mine, which have now grown thin, and made an unfailing vow. He is the thief who stole my heart, the one duty-bound to marry me, and the one who will adorn me as his bride!",
+ "modern": "தாக்கும் சுறா மீன்கள் நிறைந்த, விளங்கும் கடல் பரப்பில், நறிய மலர்களைக் கொண்ட ஞாழல் மரங்களும் புன்னை மரங்களும் மலர்களை உதிர்த்துப் பரப்பியுள்ளன. அது வெறியாடும் களம் போலத் தோன்றும் கடற்கரைத் துறைக்குத் தலைவன் ஆவான். அவன் என்னை மணக்க நினையாதவனாயினும், அல்லது நினைப்பவனாயினும், இதனைப் பற்றி ஏதும் அறியாத என் தாயிடம் நான் எவ்வாறு கூறுவேன்? மெலிந்துபோன என் மூங்கில் போன்ற அழகிய மெல்லிய தோள்களைத் தழுவிய அந்நாளில், அவன் பொய்க்காத சூளுரை உரைத்தான். அவனே என் நெஞ்சைக் கவர்ந்த கள்வனும், என்னை மணக்க வேண்டிய கடப்பாடு உடையவனும், என்னை மணக்கோலத்தால் அலங்கரிக்க வேண்டியவனும் ஆவான்.",
+ "explanation": "The heroine is speaking to her friend (or to herself) about the hero's delay in marrying her. She describes the coastal landscape (neytal) where the fallen flowers of gnāḻal and punnai trees make the shore look like a ritual ground for the frenzied Veri dance. This image of the Veri ground hints at her mother's worry and the threat of performing a ritual to cure her pining, which is actually caused by her love. She recalls the day the hero embraced her beautiful, bamboo-like shoulders and made a solemn, unfailing vow. She declares that he is the thief who stole her beauty, the one duty-bound to marry her, and the only one who can adorn her as his bride.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

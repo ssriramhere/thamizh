@@ -6,25 +6,33 @@
      "surface": "அலர்பூந்",
      "parts": [
       {
-       "text": "அலர்பூந்",
-       "lemma": "அலர்பூந்",
-       "gloss": ""
+       "text": "அலர்",
+       "lemma": "alar",
+       "gloss": "blooming"
+      },
+      {
+       "text": "பூ",
+       "lemma": "pū",
+       "gloss": "flower"
+      },
+      {
+       "text": "ந்",
+       "lemma": "n",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "blooming flower"
     },
     {
      "surface": "தும்பை",
      "parts": [
       {
        "text": "தும்பை",
-       "lemma": "தும்பை",
-       "gloss": ""
+       "lemma": "tumpai",
+       "gloss": "tumpai flower"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "tumpai flower"
     },
     {
      "surface": "அம்பகட்டு",
@@ -32,51 +40,43 @@
       {
        "text": "அம்பகட்டு",
        "lemma": "அம்பகட்டு",
-       "gloss": ""
+       "gloss": "beautiful strong chest"
       }
      ],
-     "gloss": "",
+     "gloss": "beautiful strong chest",
      "split_unverified": true
     },
     {
      "surface": "மார்பின்",
      "parts": [
       {
-       "text": "மார்பின்",
-       "lemma": "மார்பின்",
-       "gloss": ""
+       "text": "மார்பு",
+       "lemma": "mārpu",
+       "gloss": "chest"
+      },
+      {
+       "text": "இன்",
+       "lemma": "iṉ",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the chest"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "திரண்டு",
+     "surface": "திரண்டுநீடு",
      "parts": [
       {
-       "text": "திரண்டு",
-       "lemma": "திரண்டு",
-       "gloss": "having become thick"
+       "text": "திரண்டுநீடு",
+       "lemma": "திரண்டுநீடு",
+       "gloss": "having become rounded and long"
       }
      ],
-     "gloss": "having become thick",
+     "gloss": "having become rounded and long",
      "split_unverified": true
-    },
-    {
-     "surface": "நீடு",
-     "parts": [
-      {
-       "text": "நீடு",
-       "lemma": "nīṭu",
-       "gloss": "to be long"
-      }
-     ],
-     "gloss": "long"
     },
     {
      "surface": "தடக்கை",
@@ -84,15 +84,15 @@
       {
        "text": "தட",
        "lemma": "taṭa",
-       "gloss": "large/strong"
+       "gloss": "broad/large"
       },
       {
        "text": "கை",
        "lemma": "kai",
-       "gloss": "hand/arm"
+       "gloss": "hand"
       }
      ],
-     "gloss": "strong arms"
+     "gloss": "large hands"
     },
     {
      "surface": "என்னை",
@@ -105,7 +105,7 @@
       {
        "text": "ஐ",
        "lemma": "ai",
-       "gloss": "lord"
+       "gloss": "lord/leader"
       }
      ],
      "gloss": "my lord"
@@ -114,13 +114,22 @@
      "surface": "இளையோற்கு",
      "parts": [
       {
-       "text": "இளையோற்கு",
-       "lemma": "இளையோற்கு",
-       "gloss": "to the young man"
+       "text": "இளை",
+       "lemma": "iḷai",
+       "gloss": "young"
+      },
+      {
+       "text": "ஓன்",
+       "lemma": "ōṉ",
+       "gloss": "he who is"
+      },
+      {
+       "text": "கு",
+       "lemma": "ku",
+       "gloss": "to"
       }
      ],
-     "gloss": "to the young man",
-     "split_unverified": true
+     "gloss": "to the young man"
     }
    ]
   },
@@ -138,16 +147,36 @@
      "gloss": "two"
     },
     {
-     "surface": "எழுந்தனவால்",
+     "surface": "எழுந்",
      "parts": [
       {
-       "text": "எழுந்தனவால்",
-       "lemma": "எழுந்தனவால்",
-       "gloss": "arose indeed"
+       "text": "எழு",
+       "lemma": "eḻu",
+       "gloss": "to rise"
+      },
+      {
+       "text": "ந்",
+       "lemma": "n",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "arose indeed",
-     "split_unverified": true
+     "gloss": "arose"
+    },
+    {
+     "surface": "தனவால்",
+     "parts": [
+      {
+       "text": "தன",
+       "lemma": "taṉa",
+       "gloss": "neuter plural suffix"
+      },
+      {
+       "text": "ஆல்",
+       "lemma": "āl",
+       "gloss": "indeed"
+      }
+     ],
+     "gloss": "indeed they"
     },
     {
      "surface": "பகையே",
@@ -155,15 +184,15 @@
       {
        "text": "பகை",
        "lemma": "pakai",
-       "gloss": "enmity/trouble"
+       "gloss": "enmity/enemy"
       },
       {
        "text": "ஏ",
        "lemma": "ē",
-       "gloss": "clitic"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "enmities"
+     "gloss": "enmities indeed"
     },
     {
      "surface": "ஒன்றே",
@@ -176,10 +205,10 @@
       {
        "text": "ஏ",
        "lemma": "ē",
-       "gloss": "clitic"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "one is"
+     "gloss": "one indeed"
     }
    ]
   },
@@ -194,7 +223,7 @@
        "gloss": "flower"
       },
       {
-       "text": "போல்",
+       "text": "ப்போல்",
        "lemma": "pōl",
        "gloss": "like"
       }
@@ -207,7 +236,7 @@
       {
        "text": "உண்",
        "lemma": "uṇ",
-       "gloss": "kohl-applied"
+       "gloss": "kohl-adorned"
       },
       {
        "text": "கண்",
@@ -215,7 +244,7 @@
        "gloss": "eye"
       }
      ],
-     "gloss": "kohl-lined eyes"
+     "gloss": "kohl-adorned eyes"
     },
     {
      "surface": "பசந்து",
@@ -223,10 +252,10 @@
       {
        "text": "பசந்து",
        "lemma": "பசந்து",
-       "gloss": "having turned pale"
+       "gloss": "having become pale"
       }
      ],
-     "gloss": "having turned pale",
+     "gloss": "having become pale",
      "split_unverified": true
     },
     {
@@ -254,7 +283,7 @@
        "gloss": "past participle suffix"
       }
      ],
-     "gloss": "having thinned"
+     "gloss": "having become thin"
     }
    ]
   },
@@ -274,15 +303,20 @@
        "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "who looked at him"
+     "gloss": "who looked"
     },
     {
-     "surface": "மகளிர்",
+     "surface": "மகளிர்ப்",
      "parts": [
       {
        "text": "மகளிர்",
        "lemma": "makaḷir",
        "gloss": "women"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "women"
@@ -296,8 +330,8 @@
        "gloss": "to bind"
       },
       {
-       "text": "து",
-       "lemma": "tu",
+       "text": "த்த்",
+       "lemma": "tt",
        "gloss": "past tense marker"
       },
       {
@@ -306,7 +340,7 @@
        "gloss": "neuter singular suffix"
       }
      ],
-     "gloss": "it bound them"
+     "gloss": "it bound"
     },
     {
      "surface": "ஒன்றே",
@@ -319,10 +353,10 @@
       {
        "text": "ஏ",
        "lemma": "ē",
-       "gloss": "clitic"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "another is"
+     "gloss": "one indeed"
     }
    ]
   },
@@ -344,23 +378,27 @@
      "parts": [
       {
        "text": "இன்று",
-       "lemma": "இன்று",
+       "lemma": "iṉṟu",
        "gloss": "is not"
       }
      ],
-     "gloss": "is not",
-     "split_unverified": true
+     "gloss": "is not"
     },
     {
      "surface": "ஆயினும்",
      "parts": [
       {
-       "text": "ஆயினும்",
-       "lemma": "āyiṉum",
-       "gloss": "even though"
+       "text": "ஆயின்",
+       "lemma": "āyiṉ",
+       "gloss": "if it is"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "even"
       }
      ],
-     "gloss": "even though"
+     "gloss": "even if"
     },
     {
      "surface": "படு",
@@ -368,10 +406,10 @@
       {
        "text": "படு",
        "lemma": "paṭu",
-       "gloss": "to occur/yield"
+       "gloss": "obtained"
       }
      ],
-     "gloss": "yielded/cooked"
+     "gloss": "obtained"
     },
     {
      "surface": "பதம்",
@@ -379,113 +417,99 @@
       {
        "text": "பதம்",
        "lemma": "patam",
-       "gloss": "food/portion"
+       "gloss": "food"
       }
      ],
      "gloss": "food"
     },
     {
-     "surface": "பிழையாது",
+     "surface": "பிழை",
      "parts": [
       {
        "text": "பிழை",
        "lemma": "piḻai",
        "gloss": "to fail"
-      },
-      {
-       "text": "ஆது",
-       "lemma": "ātu",
-       "gloss": "negative participle suffix"
       }
      ],
-     "gloss": "without failing"
+     "gloss": "failing"
+    },
+    {
+     "surface": "யாது",
+     "parts": [
+      {
+       "text": "யாது",
+       "lemma": "yātu",
+       "gloss": "not"
+      }
+     ],
+     "gloss": "without"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "மை",
+     "surface": "மைஊன்",
      "parts": [
       {
-       "text": "மை",
-       "lemma": "mai",
-       "gloss": "black/goat"
+       "text": "மைஊன்",
+       "lemma": "மைஊன்",
+       "gloss": ""
       }
      ],
-     "gloss": "goat"
-    },
-    {
-     "surface": "ஊன்",
-     "parts": [
-      {
-       "text": "ஊன்",
-       "lemma": "ūṉ",
-       "gloss": "meat"
-      }
-     ],
-     "gloss": "meat"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "மொசித்த",
      "parts": [
       {
-       "text": "மொசி",
-       "lemma": "moci",
-       "gloss": "to swarm/crowd"
-      },
-      {
-       "text": "து",
-       "lemma": "tu",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "adjectival suffix"
+       "text": "மொசித்த",
+       "lemma": "மொசித்த",
+       "gloss": ""
       }
      ],
-     "gloss": "crowded/feasted"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "ஒக்கலொடு",
      "parts": [
       {
-       "text": "ஒக்கல்",
-       "lemma": "okkal",
-       "gloss": "relatives/kin"
-      },
-      {
-       "text": "ஒடு",
-       "lemma": "oṭu",
-       "gloss": "sociative case marker"
+       "text": "ஒக்கலொடு",
+       "lemma": "ஒக்கலொடு",
+       "gloss": ""
       }
      ],
-     "gloss": "with relatives"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "துறை",
      "parts": [
       {
        "text": "துறை",
-       "lemma": "tuṟai",
-       "gloss": "water-ghat"
+       "lemma": "துறை",
+       "gloss": ""
       }
      ],
-     "gloss": "water-ghat"
+     "gloss": "",
+     "split_unverified": true
     },
     {
-     "surface": "நீர்",
+     "surface": "நீர்க்",
      "parts": [
       {
-       "text": "நீர்",
-       "lemma": "nīr",
-       "gloss": "water"
+       "text": "நீர்க்",
+       "lemma": "நீர்க்",
+       "gloss": ""
       }
      ],
-     "gloss": "water"
+     "gloss": "",
+     "split_unverified": true
     }
-   ]
+   ],
+   "as_printed": true
   },
   {
    "words": [
@@ -506,33 +530,44 @@
      "gloss": "elephant"
     },
     {
-     "surface": "கொள்ளுமோ",
+     "surface": "கொள்ளு",
      "parts": [
       {
        "text": "கொள்",
        "lemma": "koḷ",
-       "gloss": "to take/seize"
+       "gloss": "to take"
       },
       {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "future marker"
-      },
-      {
-       "text": "ஓ",
-       "lemma": "ō",
-       "gloss": "interrogative clitic"
+       "text": "உ",
+       "lemma": "u",
+       "gloss": "verbal participle suffix"
       }
      ],
-     "gloss": "will it seize us?"
+     "gloss": "taking"
+    },
+    {
+     "surface": "மோ",
+     "parts": [
+      {
+       "text": "மோ",
+       "lemma": "mō",
+       "gloss": "interrogative particle"
+      }
+     ],
+     "gloss": "will it?"
     },
     {
      "surface": "என",
      "parts": [
       {
-       "text": "என",
-       "lemma": "eṉa",
-       "gloss": "saying/thinking"
+       "text": "என்",
+       "lemma": "eṉ",
+       "gloss": "to say"
+      },
+      {
+       "text": "அ",
+       "lemma": "a",
+       "gloss": "infinitive suffix"
       }
      ],
      "gloss": "saying"
@@ -547,31 +582,31 @@
       {
        "text": "உறை",
        "lemma": "uṟai",
-       "gloss": "dwelling"
+       "gloss": "to dwell"
       },
       {
        "text": "உள்",
        "lemma": "uḷ",
-       "gloss": "inside"
+       "gloss": "inside/place"
       }
      ],
-     "gloss": "dwelling"
+     "gloss": "dwelling place"
     },
     {
      "surface": "முனியும்",
      "parts": [
       {
        "text": "முனி",
-       "lemma": "muni",
-       "gloss": "to dislike/hate"
+       "lemma": "muṉi",
+       "gloss": "to dislike"
       },
       {
        "text": "உம்",
        "lemma": "um",
-       "gloss": "habitual marker"
+       "gloss": "habitual future suffix"
       }
      ],
-     "gloss": "hating"
+     "gloss": "will dislike"
     },
     {
      "surface": "அவன்",
@@ -595,7 +630,7 @@
       {
        "text": "உம்",
        "lemma": "um",
-       "gloss": "adjectival participle marker"
+       "gloss": "adjectival participle suffix"
       }
      ],
      "gloss": "going"
@@ -611,18 +646,18 @@
       {
        "text": "ஏ",
        "lemma": "ē",
-       "gloss": "clitic"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "the town"
+     "gloss": "the town indeed"
     }
    ]
   }
  ],
- "literal": "Blooming flower of tumpai, beautiful broad chest, / thick and long strong arms, for my young lord, / two arose indeed, enmities! One is, / flower-like kohl-eyes turning pale, shoulders thinning, / binding the women who looked at him; another is, / even if there is no festival, the cooked food never failing, / with relatives who eat goat meat, in the ghat water, / 'Will the elephant seize us?' saying, / hating the dwelling, the town he goes to!",
- "translation": "For my young lord, who has a beautiful broad chest adorned with blooming tumpai flowers and thick, long, strong arms, two kinds of enmities have arisen! One is that he binds the hearts of women who look at him, making their flower-like kohl-lined eyes turn pale and their shoulders grow thin. The other is that in the towns he marches against, even when there is no festival, food is never lacking; yet, his relatives who feast on goat meat look at the deep water-ghat and ask, 'Will the war-elephant seize us?', and hate staying in their dwellings.",
- "modern": "மலர்ந்த தும்பைப் பூவை அணிந்த அழகிய அகன்ற மார்பையும், திரண்ட நீண்ட வலிய கைகளையும் உடைய என் இளைய தலைவனுக்கு இரண்டு வகையான பகைகள் தோன்றியுள்ளன. ஒன்று, அவனைக் கண்ட பெண்களின் பூப்போன்ற மை தீட்டிய கண்கள் பசலை கொள்ளவும், தோள்கள் மெலியவும் செய்து அவர்களைத் தன்பால் பிணித்துக் கொள்வது. மற்றொன்று, அவன் படையெடுத்துச் செல்லும் ஊர்களில், விழாக்கள் இல்லாத காலத்திலும் உணவு தடையின்றிப் பங்கிடப்படுகிறது; ஆயினும், ஆட்டு இறைச்சியை உண்ணும் அவனது சுற்றத்தினர், நீர்நிலைகளில் உள்ள யானை தம்மைக் கொள்ளுமோ என்று அஞ்சி, அங்குத் தங்குவதை வெறுக்கின்றனர்.",
- "explanation": "The poet Avvaiyār is praising the young prince Pokuṭṭeḻiṉi, the son of Atiyamāṉ. She poetically describes two kinds of 'enmities' or troubles that arise wherever the young prince goes. The first trouble is romantic: the local women who look upon his handsome form fall deeply in love, causing them to pine away until their eyes turn pale and their shoulders grow thin. The second trouble is military: when he invades enemy territories, his relatives and soldiers feast abundantly on meat, yet they live in constant fear of his formidable war-elephants bathing in the local water-ghats, making them dread staying in those captured towns. This contrast between the soft pining of the women and the terrifying presence of the war-elephants highlights both the prince's attractive youth and his military might, fitting the Pāṭāṇ tiṇai.",
+ "literal": "Blooming flower of tumpai, beautiful strong chest, / rounded and long large hands, my lord, for the young man, / two arose indeed, enmities! One indeed, / flower-like kohl-adorned eyes having become pale, shoulders having become thin, / who looked at him, women it bound indeed; one indeed, / festival is not although, obtained food without failing, / black goat meat swarmed with relatives, at the water-entry point, / will the elephant seize? thus saying, / dwelling place will shun, the town he goes to!",
+ "translation": "For my young lord, who has a beautiful, strong chest adorned with blooming tumpai flowers and long, rounded, powerful arms, two kinds of enmities have arisen. One is that he has bound the hearts of women who looked upon him, causing their flower-like, kohl-rimmed eyes to grow pale and their shoulders to waste away. The other is that in the towns he marches to, even when there is no festival, his relatives feast abundantly on black goat meat without fail, and the townspeople, fearing that the war elephants might drink up all the water at the river ghats, grow weary of their own homes and abandon them.",
+ "modern": "மலர்ந்த தும்பைப் பூவை அணிந்த அழகிய வலிமையான மார்பையும், திரண்ட நீண்ட பெரிய கைகளையும் உடைய என் தலைவனாகிய அந்த இளைஞனுக்கு இரண்டு வகையான பகைகள் தோன்றியுள்ளன. ஒன்று, அவனைக் கண்ட பெண்களின் பூ போன்ற மை தீட்டிய கண்கள் பசலை கொள்ளவும், தோள்கள் மெலியவும் செய்து அவர்களைத் தன்பால் பிணித்துக் கொண்டது. மற்றொன்று, விழாக்கள் இல்லாத நாட்களிலும் அவனது சுற்றத்தார் ஆட்டு இறைச்சியைத் தடையின்றி உண்ணுமாறு அவன் பகைவர் நாடுகளைக் கைப்பற்றுவது; இதனால், நீர் நிலைகளில் அவனது யானைகள் நீரைக் குடித்துவிடுமோ என்று அஞ்சி, மக்கள் தங்கள் வீடுகளை வெறுத்து வெளியேறும் நிலையை அவன் செல்லும் ஊர்கள் அடைகின்றன.",
+ "explanation": "The poet Avvaiyār is praising the young prince Pokuṭṭeḻiṉi, the son of Atiyamāṉ. She describes how two distinct 'enmities' or troubles arise wherever he goes. The first is a romantic trouble: the local women who look at him fall deeply in love, causing them to pine away with sallow eyes and thin shoulders. The second is a military trouble: when he invades enemy territories, his large army and relatives feast abundantly on meat, and his massive war elephants crowd the river ghats to drink water, causing the terrified local inhabitants to abandon their homes. The contrast between the soft, pining women and the fierce, invading war elephants highlights the prince's dual nature of irresistible beauty and terrifying military might.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

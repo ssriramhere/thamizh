@@ -6,13 +6,17 @@
      "surface": "திண்டேர்",
      "parts": [
       {
-       "text": "திண்டேர்",
-       "lemma": "திண்டேர்",
-       "gloss": ""
+       "text": "திண்",
+       "lemma": "திண்",
+       "gloss": "strong"
+      },
+      {
+       "text": "தேர்",
+       "lemma": "தேர்",
+       "gloss": "chariot"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "strong chariot"
     },
     {
      "surface": "நள்ளி",
@@ -20,38 +24,35 @@
       {
        "text": "நள்ளி",
        "lemma": "நள்ளி",
-       "gloss": ""
+       "gloss": "Nalli (a chieftain)"
       }
      ],
-     "gloss": "",
+     "gloss": "Nalli"
+    },
+    {
+     "surface": "கானத்து",
+     "parts": [
+      {
+       "text": "கானத்து",
+       "lemma": "கானத்து",
+       "gloss": "of the forest"
+      }
+     ],
+     "gloss": "of the forest",
      "split_unverified": true
     },
     {
-     "surface": "கானத்",
+     "surface": "அண்டர்",
      "parts": [
       {
-       "text": "கானத்",
-       "lemma": "கானத்",
-       "gloss": ""
+       "text": "அண்டர்",
+       "lemma": "அண்டர்",
+       "gloss": "cowherds"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "தண்டர்",
-     "parts": [
-      {
-       "text": "தண்டர்",
-       "lemma": "தண்டர்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "cowherds"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -114,23 +115,27 @@
       {
        "text": "முழுதுடன்",
        "lemma": "முழுதுடன்",
-       "gloss": ""
+       "gloss": "completely"
       }
      ],
-     "gloss": "",
+     "gloss": "completely",
      "split_unverified": true
     },
     {
      "surface": "விளைந்த",
      "parts": [
       {
-       "text": "விளைந்த",
-       "lemma": "விளைந்த",
-       "gloss": ""
+       "text": "விளை",
+       "lemma": "விளை",
+       "gloss": "ripen/grow"
+      },
+      {
+       "text": "ந்த",
+       "lemma": "ந்த",
+       "gloss": "past relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "ripened"
     },
     {
      "surface": "வெண்ணெல்",
@@ -138,10 +143,10 @@
       {
        "text": "வெண்ணெல்",
        "lemma": "வெண்ணெல்",
-       "gloss": ""
+       "gloss": "white rice"
       }
      ],
-     "gloss": "",
+     "gloss": "white rice",
      "split_unverified": true
     },
     {
@@ -149,68 +154,78 @@
      "parts": [
       {
        "text": "வெஞ்சோ",
-       "lemma": "வெஞ்சோ",
-       "gloss": ""
+       "lemma": "வெஞ்சோறு",
+       "gloss": "hot rice (part 1)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "hot rice (part 1)"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "றெழுகலத்",
+     "surface": "றெழுகலத்து",
      "parts": [
       {
-       "text": "றெழுகலத்",
-       "lemma": "றெழுகலத்",
-       "gloss": ""
+       "text": "றெழுகலத்து",
+       "lemma": "றெழுகலத்து",
+       "gloss": "hot rice (part 2) in seven vessels"
       }
      ],
-     "gloss": "",
+     "gloss": "hot rice (part 2) in seven vessels",
      "split_unverified": true
     },
     {
-     "surface": "தேந்தினுஞ்",
+     "surface": "ஏந்தினும்",
      "parts": [
       {
-       "text": "தேந்தினுஞ்",
-       "lemma": "தேந்தினுஞ்",
-       "gloss": ""
+       "text": "ஏந்து",
+       "lemma": "ஏந்து",
+       "gloss": "hold/offer"
+      },
+      {
+       "text": "இனும்",
+       "lemma": "இனும்",
+       "gloss": "even if"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even if offered"
     },
     {
-     "surface": "சிறிதென்",
+     "surface": "சிறிது",
      "parts": [
       {
-       "text": "சிறிதென்",
-       "lemma": "சிறிதென்",
-       "gloss": ""
+       "text": "சிறிது",
+       "lemma": "சிறிது",
+       "gloss": "small/insufficient"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "is small"
     },
     {
-     "surface": "றோழி",
+     "surface": "என்",
      "parts": [
       {
-       "text": "றோழி",
-       "lemma": "றோழி",
-       "gloss": ""
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "my"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "my"
+    },
+    {
+     "surface": "தோழி",
+     "parts": [
+      {
+       "text": "தோழி",
+       "lemma": "தோழி",
+       "gloss": "friend"
+      }
+     ],
+     "gloss": "friend"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -271,11 +286,12 @@
      "parts": [
       {
        "text": "வர",
-       "lemma": "வா",
+       "lemma": "வர",
        "gloss": "to come"
       }
      ],
-     "gloss": "to come"
+     "gloss": "to come",
+     "split_unverified": true
     },
     {
      "surface": "கரைந்த",
@@ -283,7 +299,7 @@
       {
        "text": "கரை",
        "lemma": "கரை",
-       "gloss": "caw"
+       "gloss": "caw/call"
       },
       {
        "text": "ந்த",
@@ -291,7 +307,7 @@
        "gloss": "past relative participle suffix"
       }
      ],
-     "gloss": "that cawed"
+     "gloss": "which cawed"
     },
     {
      "surface": "காக்கையது",
@@ -320,7 +336,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "emphatic particle"
       }
      ],
      "gloss": "the offering indeed"
@@ -328,10 +344,10 @@
    ]
   }
  ],
- "literal": "Strong-charioted Naḷḷi's forest cowherds' / many cows yielded ghee-like Toṇṭi's / entirely matured white paddy's hot cooked rice, / even if offered in seven vessels, is small, my friend, / for the distress that made large shoulders thin, / the offering to the crow that cawed for the guest to arrive!",
- "translation": "Even if we offer hot cooked rice made from white paddy grown fully in Toṇṭi—a town rich in ghee yielded by the many cows of the cowherds in the forest of Naḷḷi who has a strong chariot—piled high in seven large vessels, it would still be too small an offering for the crow that cawed to announce the arrival of our guest, which cured the distress that made your large shoulders waste away, my friend!",
- "modern": "வலிமையான தேரையுடைய நள்ளியின் காட்டுப் பகுதியில் வாழும் இடையர்களின் பல பசுக்கள் தந்த நெய்யைப் போன்ற வளமிக்க தொண்டி நகரில் முழுமையாக விளைந்த வெண்ணெல்லின் சூடான சோற்றை, ஏழு கலங்களில் நிறைத்து வைத்தாலும் அது சிறியதே ஆகும், என் தோழியே! உன்னுடைய பெரிய தோள்களை மெலியச் செய்த துன்பத்தைப் போக்கும் வகையில், நம் தலைவர் விருந்தினராக வருவதைக் கரைந்து அறிவித்த காக்கைக்கு நாம் அளிக்கும் பலி உணவு அது.",
- "explanation": "This poem is set in the Mullai (forest) landscape, which is associated with patient waiting and the return of the hero. The speaker is the heroine's friend, addressing the heroine upon the hero's return. The heroine had been wasting away in grief during the hero's absence, causing her beautiful, large shoulders to grow thin. A crow cawed, traditionally signaling the arrival of a guest, and indeed, the hero returned, curing her distress. In gratitude, the friend declares that even an immense offering of the finest hot rice from the fertile town of Tondi, served in seven huge vessels, is too small a reward for that auspicious crow. The imagery of Tondi's rich ghee and white paddy highlights the abundance and joy that returns to the household with the hero.",
+ "literal": "Strong-charioted Nalli's forest cowherds' / many cows yielded ghee-with Tondi's / completely grown white rice hot rice / in seven vessels even if offered, is small, my friend, / large shoulders made-thin distress-for / guest to come cawed crow's offering indeed.",
+ "translation": "Even if we offer hot white rice, grown completely in the fields of Tondi and rich with the ghee yielded by the many cows of the forest-dwelling cowherds of the strong-charioted chieftain Nalli, served in seven large vessels, it would still be too small an offering for the crow that cawed to announce the arrival of our guest, curing the distress that made your large shoulders grow thin.",
+ "modern": "வலிமையான தேரை உடைய நள்ளியின் காட்டில் வாழும் இடையர்களின் பல பசுக்கள் தந்த நெய்யினைக் கொண்ட தொண்டித் துறையின் முழுமையாக விளைந்த வெண்ணெல்லின் சூடான சோற்றை, ஏழு கலங்களில் ஏந்திப் படைத்தாலும், என் தோழியே! உன்னுடைய பெரிய தோள்களை மெலியச் செய்த துன்பம் நீங்குமாறு, விருந்தினர் வருவதை அறிவித்துக் கரைந்த காக்கைக்கு நாம் அளிக்கும் பலி மிகச் சிறியதே ஆகும்.",
+ "explanation": "In this Mullai poem, the confidante speaks to the heroine upon the hero's return from his journey. She expresses her immense gratitude to the crow whose cawing heralded the arrival of the hero, thereby curing the heroine's deep distress that had caused her shoulders to waste away. The confidante declares that even an offering of seven large vessels filled with the finest hot white rice from the fertile region of Tondi, drenched in rich ghee from the forest herds of chieftain Nalli, would be too small a reward for this auspicious bird. This poem beautifully reflects the Mullai landscape's theme of patient waiting and the joyful relief of reunion. The poet Nacceḷḷaiyār famously earned the name 'Kākkai Pāṭiṉiyār' (the crow-singer) due to this vivid and celebrated portrayal of the crow as a messenger of hope.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

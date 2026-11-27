@@ -18,12 +18,11 @@
      "parts": [
       {
        "text": "பரந்து",
-       "lemma": "பரந்து",
+       "lemma": "para",
        "gloss": "having spread"
       }
      ],
-     "gloss": "having spread",
-     "split_unverified": true
+     "gloss": "having spread"
     },
     {
      "surface": "கள்ளி",
@@ -31,26 +30,21 @@
       {
        "text": "கள்ளி",
        "lemma": "kaḷḷi",
-       "gloss": "spurge/cactus"
+       "gloss": "spurge cactus"
       }
      ],
-     "gloss": "spurge/cactus"
+     "gloss": "spurge cactus"
     },
     {
      "surface": "போகி",
      "parts": [
       {
-       "text": "போகு",
-       "lemma": "pōku",
-       "gloss": "go"
-      },
-      {
-       "text": "இ",
-       "lemma": "-i",
-       "gloss": "past participle suffix"
+       "text": "போகி",
+       "lemma": "pō",
+       "gloss": "having grown high"
       }
      ],
-     "gloss": "having gone / having grown high"
+     "gloss": "having grown high"
     }
    ]
   },
@@ -66,51 +60,55 @@
       },
       {
        "text": "உம்",
-       "lemma": "-um",
-       "gloss": "even/also"
+       "lemma": "um",
+       "gloss": "even"
       }
      ],
-     "gloss": "even in the daytime"
+     "gloss": "even in daytime"
     },
     {
      "surface": "கூஉம்",
      "parts": [
       {
        "text": "கூஉம்",
-       "lemma": "கூஉம்",
+       "lemma": "kūvu",
        "gloss": "hooting"
       }
      ],
-     "gloss": "hooting",
-     "split_unverified": true
+     "gloss": "hooting"
     },
     {
      "surface": "கூகையடு",
      "parts": [
       {
        "text": "கூகையடு",
-       "lemma": "கூகையடு",
-       "gloss": "with the rock horned owl"
+       "lemma": "kūkai",
+       "gloss": "with the horned owl"
       }
      ],
-     "gloss": "with the rock horned owl",
-     "split_unverified": true
+     "gloss": "with the horned owl"
     },
     {
-     "surface": "பிறழ்பல்",
+     "surface": "பிறழ்",
      "parts": [
       {
        "text": "பிறழ்",
        "lemma": "piṟaḻ",
-       "gloss": "crooked/protruding"
-      },
+       "gloss": "protruding"
+      }
+     ],
+     "gloss": "protruding"
+    },
+    {
+     "surface": "பல்",
+     "parts": [
       {
        "text": "பல்",
        "lemma": "pal",
        "gloss": "tooth"
       }
      ],
-     "gloss": "crooked teeth"
+     "gloss": "teeth"
     }
    ]
   },
@@ -121,25 +119,19 @@
      "parts": [
       {
        "text": "ஈம",
-       "lemma": "ஈம",
-       "gloss": "of the funeral pyre"
+       "lemma": "īmam",
+       "gloss": "funeral pyre"
       }
      ],
-     "gloss": "of the funeral pyre",
-     "split_unverified": true
+     "gloss": "funeral pyre"
     },
     {
      "surface": "விளக்கின்",
      "parts": [
       {
-       "text": "விளக்கு",
+       "text": "விளக்கின்",
        "lemma": "viḷakku",
-       "gloss": "lamp/light"
-      },
-      {
-       "text": "இன்",
-       "lemma": "-iṉ",
-       "gloss": "oblique/genitive suffix"
+       "gloss": "by the light of"
       }
      ],
      "gloss": "by the light of"
@@ -149,59 +141,50 @@
      "parts": [
       {
        "text": "பேஎய்",
-       "lemma": "பேஎய்",
-       "gloss": "ghoul"
+       "lemma": "pēy",
+       "gloss": "demoness"
       }
      ],
-     "gloss": "ghoul",
-     "split_unverified": true
+     "gloss": "demoness"
     },
     {
      "surface": "மகளிரொடு",
      "parts": [
       {
-       "text": "மகளிர்",
+       "text": "மகளிரொடு",
        "lemma": "makaḷir",
-       "gloss": "women"
-      },
-      {
-       "text": "ஒடு",
-       "lemma": "-oṭu",
-       "gloss": "with"
+       "gloss": "with women"
       }
      ],
-     "gloss": "with the women (demonesses)"
+     "gloss": "with women"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "அஞ்சுவந்து",
+     "surface": "அஞ்சுவந்",
      "parts": [
       {
-       "text": "அஞ்சு",
-       "lemma": "añcu",
-       "gloss": "fear"
-      },
-      {
-       "text": "வந்து",
-       "lemma": "vantu",
-       "gloss": "having come"
+       "text": "அஞ்சுவந்",
+       "lemma": "அஞ்சுவந்",
+       "gloss": ""
       }
      ],
-     "gloss": "fearfully"
+     "gloss": "",
+     "split_unverified": true
     },
     {
-     "surface": "அன்று",
+     "surface": "தன்று",
      "parts": [
       {
-       "text": "அன்று",
-       "lemma": "aṉṟu",
-       "gloss": "it is of that nature"
+       "text": "தன்று",
+       "lemma": "தன்று",
+       "gloss": ""
       }
      ],
-     "gloss": "it is"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "இம்",
@@ -209,45 +192,38 @@
       {
        "text": "இம்",
        "lemma": "இம்",
-       "gloss": "this"
+       "gloss": ""
       }
      ],
-     "gloss": "this",
+     "gloss": "",
      "split_unverified": true
     },
     {
      "surface": "மஞ்சுபடு",
      "parts": [
       {
-       "text": "மஞ்சு",
-       "lemma": "mañcu",
-       "gloss": "mist/clouds"
-      },
-      {
-       "text": "படு",
-       "lemma": "paṭu",
-       "gloss": "resting/occurring"
+       "text": "மஞ்சுபடு",
+       "lemma": "மஞ்சுபடு",
+       "gloss": ""
       }
      ],
-     "gloss": "mist-covered"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "முதுகாடு",
      "parts": [
       {
-       "text": "முது",
-       "lemma": "mutu",
-       "gloss": "ancient/old"
-      },
-      {
-       "text": "காடு",
-       "lemma": "kāṭu",
-       "gloss": "forest/crematorium"
+       "text": "முதுகாடு",
+       "lemma": "முதுகாடு",
+       "gloss": ""
       }
      ],
-     "gloss": "ancient crematorium"
+     "gloss": "",
+     "split_unverified": true
     }
-   ]
+   ],
+   "as_printed": true
   },
   {
    "words": [
@@ -262,23 +238,18 @@
       {
        "text": "அமர்",
        "lemma": "amar",
-       "gloss": "abide/desire"
+       "gloss": "desiring"
       }
      ],
-     "gloss": "beloved of the heart"
+     "gloss": "heart-desiring"
     },
     {
      "surface": "காதலர்",
      "parts": [
       {
-       "text": "காதல்",
-       "lemma": "kātal",
-       "gloss": "love"
-      },
-      {
-       "text": "அர்",
-       "lemma": "-ar",
-       "gloss": "pronominal suffix (plural/honorific)"
+       "text": "காதலர்",
+       "lemma": "kātalar",
+       "gloss": "lovers"
       }
      ],
      "gloss": "lovers"
@@ -287,19 +258,9 @@
      "surface": "அழுத",
      "parts": [
       {
-       "text": "அழு",
+       "text": "அழுத",
        "lemma": "aḻu",
-       "gloss": "weep"
-      },
-      {
-       "text": "த்",
-       "lemma": "-t-",
-       "gloss": "past tense infix"
-      },
-      {
-       "text": "அ",
-       "lemma": "-a",
-       "gloss": "relative participle suffix"
+       "gloss": "wept"
       }
      ],
      "gloss": "wept"
@@ -308,14 +269,9 @@
      "surface": "கண்ணீர்",
      "parts": [
       {
-       "text": "கண்",
-       "lemma": "kaṇ",
-       "gloss": "eye"
-      },
-      {
-       "text": "நீர்",
-       "lemma": "nīr",
-       "gloss": "water"
+       "text": "கண்ணீர்",
+       "lemma": "kaṇṇīr",
+       "gloss": "tears"
       }
      ],
      "gloss": "tears"
@@ -328,17 +284,12 @@
      "surface": "என்புபடு",
      "parts": [
       {
-       "text": "என்பு",
-       "lemma": "eṉpu",
-       "gloss": "bone"
-      },
-      {
-       "text": "படு",
-       "lemma": "paṭu",
-       "gloss": "lying/occurring"
+       "text": "என்புபடு",
+       "lemma": "eṉpupaṭu",
+       "gloss": "bone-filled"
       }
      ],
-     "gloss": "where bones lie"
+     "gloss": "bone-filled"
     },
     {
      "surface": "சுடலை",
@@ -346,39 +297,29 @@
       {
        "text": "சுடலை",
        "lemma": "cuṭalai",
-       "gloss": "crematorium"
+       "gloss": "cremation ground"
       }
      ],
-     "gloss": "crematorium"
+     "gloss": "cremation ground"
     },
     {
      "surface": "வெண்ணீறு",
      "parts": [
       {
-       "text": "வெள்",
-       "lemma": "veḷ",
-       "gloss": "white"
-      },
-      {
-       "text": "நீறு",
-       "lemma": "nīṟu",
-       "gloss": "ashes"
+       "text": "வெண்ணீறு",
+       "lemma": "veṇṇīṟu",
+       "gloss": "white ash"
       }
      ],
-     "gloss": "white ashes"
+     "gloss": "white ash"
     },
     {
      "surface": "அவிப்ப",
      "parts": [
       {
-       "text": "அவி",
+       "text": "அவிப்ப",
        "lemma": "avi",
-       "gloss": "extinguish"
-      },
-      {
-       "text": "ப்ப",
-       "lemma": "-ppa",
-       "gloss": "infinitive suffix"
+       "gloss": "to extinguish"
       }
      ],
      "gloss": "to extinguish"
@@ -393,10 +334,10 @@
       {
        "text": "எல்லார்",
        "lemma": "ellār",
-       "gloss": "everyone"
+       "gloss": "of all people"
       }
      ],
-     "gloss": "everyone's"
+     "gloss": "of all people"
     },
     {
      "surface": "புறனும்",
@@ -404,15 +345,15 @@
       {
        "text": "புறன்",
        "lemma": "puṟaṉ",
-       "gloss": "back/end"
+       "gloss": "the back"
       },
       {
        "text": "உம்",
-       "lemma": "-um",
-       "gloss": "even/also"
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "even the back/end"
+     "gloss": "and the end"
     },
     {
      "surface": "தான்",
@@ -420,7 +361,7 @@
       {
        "text": "தான்",
        "lemma": "tāṉ",
-       "gloss": "self"
+       "gloss": "itself"
       }
      ],
      "gloss": "itself"
@@ -430,67 +371,60 @@
      "parts": [
       {
        "text": "கண்டு",
-       "lemma": "கண்டு",
+       "lemma": "kāṇ",
        "gloss": "having seen"
       }
      ],
-     "gloss": "having seen",
-     "split_unverified": true
+     "gloss": "having seen"
     },
     {
      "surface": "உலகத்து",
      "parts": [
       {
        "text": "உலகத்து",
-       "lemma": "உலகத்து",
+       "lemma": "ulakam",
        "gloss": "of the world"
       }
      ],
-     "gloss": "of the world",
-     "split_unverified": true
+     "gloss": "of the world"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "மன்பதைக்",
+     "surface": "மன்பதைக்கெல்லாம்",
      "parts": [
       {
-       "text": "மன்பதைக்",
-       "lemma": "மன்பதைக்",
-       "gloss": ""
+       "text": "மன்பதைக்கு",
+       "lemma": "maṉpatai",
+       "gloss": "to mankind"
+      },
+      {
+       "text": "எல்லாம்",
+       "lemma": "ellām",
+       "gloss": "all"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to all of mankind"
     },
     {
-     "surface": "கெல்லாம்",
+     "surface": "தானாய்",
      "parts": [
       {
-       "text": "கெல்லாம்",
-       "lemma": "கெல்லாம்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "தானாய்த்",
-     "parts": [
+       "text": "தான்",
+       "lemma": "tāṉ",
+       "gloss": "itself"
+      },
       {
-       "text": "தானாய்த்",
-       "lemma": "தானாய்த்",
-       "gloss": ""
+       "text": "ஆய்",
+       "lemma": "āy",
+       "gloss": "having become"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having become itself"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -546,10 +480,10 @@
    "as_printed": true
   }
  ],
- "literal": "Saline wasteland having spread, spurge having grown high, / even in the daytime hooting, with the rock horned owl having crooked teeth, / by the light of the funeral pyre, with the ghoul women, / fearfully it is, this mist-covered ancient crematorium, / where the tears wept by the beloved of the heart / extinguish the white ashes of the crematorium where bones lie. / Having seen the end of everyone itself, of the world / to all living beings having become itself, / its own end, to those who see, is never known.",
- "translation": "Spurge grows high on the sprawling saline wasteland. Even in the daytime, the rock-horned owl with crooked teeth hoots. In the light of the funeral pyres, ghoul-women wander. This mist-shrouded ancient crematorium is a terrifying place, where the tears wept by grieving lovers extinguish the white ashes of the pyres where bones lie. This place has seen the end of everyone in this world; it has become the ultimate destination for all living beings. Yet, its own end is never seen by anyone.",
- "modern": "உவர் நிலம் பரவி, கள்ளிச் செடிகள் வளர்ந்து, பகலிலும் கோணல் பற்களை உடைய கூகை ஆந்தையுடன் சேர்ந்து அலறும், ஈம நெருப்பின் வெளிச்சத்தில் பேய் மகளிரோடு கூடி இருக்கும் இந்த மூடுபனி நிறைந்த சுடுகாடு அச்சம் தருவதாகும். நெஞ்சில் நிறைந்த காதலர்கள் அழுத கண்ணீர், எலும்புகள் கிடக்கும் சுடுகாட்டின் வெண்ணீற்றை அணைக்கிறது. உலகத்தில் உள்ள எல்லாரது முடிவையும் தான் கண்டு, உலகத்து உயிர்களுக்கெல்லாம் தானே முடிவாகி நிற்கும் இந்தச் சுடுகாடு, தன் முடிவைக் காண்பாரைக் கண்டதே இல்லை.",
- "explanation": "The poet Tāyaṅkaṇṇaṉār describes the terrifying nature of the ancient crematorium (mutukāṭu) in this poem belonging to the Kāñci tiṇai (theme of impermanence). He paints a vivid picture of a desolate wasteland overgrown with spurge cacti, where owls hoot even during the day and ghoul-women dance by the light of funeral pyres. The emotional core of the poem lies in the image of grieving lovers whose tears are so abundant that they extinguish the hot white ashes of the pyres. The poet personifies the crematorium as an entity that has witnessed the end of every living being in the world, serving as the final destination for all. Yet, while it sees the end of everyone else, no one has ever lived to see the end of the crematorium itself, highlighting the absolute and eternal nature of death and impermanence.",
+ "literal": "Saline wasteland having spread, spurge cactus having grown high, / even in daytime hooting, with the horned owl of protruding teeth, / by the light of the funeral pyre, along with demoness women, / fear-inducing indeed is this mist-covered ancient crematorium, / where tears wept by heart-desiring lovers / extinguish the white ash of the bone-filled cremation ground; / having seen the end of everyone in this world, / having become everything to all of mankind, / it does not know anyone seeing its own end.",
+ "translation": "The saline wasteland has spread wide, and spurge cactus has grown high. Even in the daytime, horned owls with protruding teeth hoot. By the light of the funeral pyre, along with demoness women, this mist-shrouded ancient crematorium is indeed terrifying. Here, the tears wept by beloved partners extinguish the white ash of the bone-filled cremation ground. This place, which has seen the end of everyone in this world and has become the final destination for all of mankind, never knows anyone who can see its own end.",
+ "modern": "களர்நிலம் பரவி, கள்ளிச்செடிகள் வளர்ந்து, பகலிலும் அலறும் கூகையோடு, கோரப்பற்களை உடைய பேய்மகளிருடன், ஈமவிளக்கின் ஒளியில் விளங்கும் இந்த மேகம் சூழ்ந்த சுடுகாடு அச்சம் தருவதாகும். நெஞ்சில் நிறைந்த காதலர் அழுத கண்ணீர், எலும்புகள் நிறைந்த சுடுகாட்டின் வெண்ணீற்றை அணைக்கிறது. உலகத்து மக்கள் எல்லாரது முடிவையும் தான் கண்டு, மனிதகுலத்திற்கு எல்லாம் தானேயாகி நிற்கும் இந்தச் சுடுகாடு, தன் முடிவைக் காண்பாரை என்றுமே கண்டதில்லை.",
+ "explanation": "This poem belongs to the Kāñci tiṇai (transience of life) and Peruṅkāñci tuṟai. The poet Tāyaṅkaṇṇaṉār describes the terrifying nature of the ancient crematorium (mutukāṭu) to emphasize the fleeting nature of human existence. He paints a vivid picture of a desolate wasteland overgrown with cactus, where owls hoot even during the day, and ghoulish women gather around the light of funeral pyres. The emotional core of the poem is the image of grieving lovers whose tears extinguish the hot ashes of the pyre. Ultimately, the poet personifies the crematorium as an eternal entity that witnesses the end of every human being, yet remains immortal itself, as no one can ever witness its demise.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

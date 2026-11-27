@@ -13,10 +13,10 @@
       {
        "text": "அ",
        "lemma": "அ",
-       "gloss": "measure-filler"
+       "gloss": "measure-stretching particle"
       }
      ],
-     "gloss": "spreading"
+     "gloss": "spreading wide"
     },
     {
      "surface": "வலஞ்சிறை",
@@ -32,7 +32,7 @@
        "gloss": "wing"
       }
      ],
-     "gloss": "strong-winged"
+     "gloss": "strong wings"
     },
     {
      "surface": "நொப்பறை",
@@ -40,10 +40,10 @@
       {
        "text": "நொப்பறை",
        "lemma": "நொப்பறை",
-       "gloss": "swift-flying"
+       "gloss": "swift flight"
       }
      ],
-     "gloss": "swift-flying",
+     "gloss": "swift flight",
      "split_unverified": true
     },
     {
@@ -55,7 +55,7 @@
        "gloss": "bat"
       }
      ],
-     "gloss": "bat"
+     "gloss": "bats"
     }
    ]
   },
@@ -65,25 +65,33 @@
      "surface": "பழுமரம்",
      "parts": [
       {
-       "text": "பழுமரம்",
-       "lemma": "பழுமரம்",
-       "gloss": ""
+       "text": "பழு",
+       "lemma": "பழு",
+       "gloss": "ripe/fruit-bearing"
+      },
+      {
+       "text": "மரம்",
+       "lemma": "மரம்",
+       "gloss": "tree"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "fruit-bearing tree"
     },
     {
      "surface": "படரும்",
      "parts": [
       {
-       "text": "படரும்",
-       "lemma": "படரும்",
-       "gloss": ""
+       "text": "படர்",
+       "lemma": "படர்",
+       "gloss": "go towards"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "seeking"
     },
     {
      "surface": "பையுன்",
@@ -91,10 +99,10 @@
       {
        "text": "பையுன்",
        "lemma": "பையுன்",
-       "gloss": ""
+       "gloss": "sorrowful"
       }
      ],
-     "gloss": "",
+     "gloss": "sorrowful",
      "split_unverified": true
     },
     {
@@ -103,56 +111,43 @@
       {
        "text": "மாலை",
        "lemma": "மாலை",
-       "gloss": ""
+       "gloss": "evening"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "evening"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "எமியம்",
+     "surface": "எமியமாக",
      "parts": [
       {
-       "text": "எமி",
-       "lemma": "எமி",
-       "gloss": "solitude"
+       "text": "எமியம்",
+       "lemma": "எமியம்",
+       "gloss": "we who are lonely"
       },
       {
-       "text": "அம்",
-       "lemma": "அம்",
-       "gloss": "we"
-      }
-     ],
-     "gloss": "we who are lonely"
-    },
-    {
-     "surface": "ஆக",
-     "parts": [
-      {
-       "text": "ஆ",
+       "text": "ஆக",
        "lemma": "ஆ",
-       "gloss": "become"
-      },
-      {
-       "text": "க",
-       "lemma": "க",
-       "gloss": "as"
+       "gloss": "to become"
       }
      ],
-     "gloss": "being"
+     "gloss": "as we are lonely"
     },
     {
-     "surface": "ஈங்கு",
+     "surface": "ஈங்குத்",
      "parts": [
       {
        "text": "ஈங்கு",
        "lemma": "ஈங்கு",
        "gloss": "here"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "consonant doubler"
       }
      ],
      "gloss": "here"
@@ -174,56 +169,29 @@
   {
    "words": [
     {
-     "surface": "தமியர்",
+     "surface": "தமியராக",
      "parts": [
       {
-       "text": "தமி",
-       "lemma": "தமி",
-       "gloss": "solitude"
+       "text": "தமியர்",
+       "lemma": "தமியர்",
+       "gloss": "they who are alone"
       },
       {
-       "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "he"
-      }
-     ],
-     "gloss": "he who is alone"
-    },
-    {
-     "surface": "ஆக",
-     "parts": [
-      {
-       "text": "ஆ",
+       "text": "ஆக",
        "lemma": "ஆ",
-       "gloss": "become"
-      },
-      {
-       "text": "க",
-       "lemma": "க",
-       "gloss": "as"
+       "gloss": "to become"
       }
      ],
-     "gloss": "being"
+     "gloss": "being alone"
     },
     {
-     "surface": "இனியர்",
+     "surface": "இனியர்கொல்லோ",
      "parts": [
       {
-       "text": "இனி",
-       "lemma": "இனி",
-       "gloss": "sweet"
+       "text": "இனியர்",
+       "lemma": "இனியர்",
+       "gloss": "happy person"
       },
-      {
-       "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "he"
-      }
-     ],
-     "gloss": "is he happy?"
-    },
-    {
-     "surface": "கொல்லோ",
-     "parts": [
       {
        "text": "கொல்",
        "lemma": "கொல்",
@@ -232,27 +200,32 @@
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "interrogative clitic"
+       "gloss": "emphasis/question particle"
       }
      ],
-     "gloss": "I wonder"
+     "gloss": "is he happy indeed?"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "ஏழூர்",
+     "surface": "ஏழூர்ப்",
      "parts": [
       {
-       "text": "ஏழு",
-       "lemma": "ஏழு",
+       "text": "ஏழ்",
+       "lemma": "ஏழ்",
        "gloss": "seven"
       },
       {
        "text": "ஊர்",
        "lemma": "ஊர்",
        "gloss": "village"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "consonant doubler"
       }
      ],
      "gloss": "of seven villages"
@@ -271,42 +244,41 @@
        "gloss": "work"
       },
       {
-       "text": "கு",
-       "lemma": "கு",
+       "text": "க்கு",
+       "lemma": "க்கு",
        "gloss": "dative suffix"
       }
      ],
-     "gloss": "for the common work"
+     "gloss": "for common work"
     },
     {
-     "surface": "ஓர்",
+     "surface": "ஓரூர்",
      "parts": [
       {
        "text": "ஓர்",
        "lemma": "ஓர்",
        "gloss": "one"
-      }
-     ],
-     "gloss": "one"
-    },
-    {
-     "surface": "ஊர்",
-     "parts": [
+      },
       {
        "text": "ஊர்",
        "lemma": "ஊர்",
        "gloss": "village"
       }
      ],
-     "gloss": "village"
+     "gloss": "one village"
     },
     {
      "surface": "யாத்த",
      "parts": [
       {
-       "text": "யாத்த",
+       "text": "யா",
        "lemma": "யா",
-       "gloss": "bound"
+       "gloss": "bind/tie"
+      },
+      {
+       "text": "த்த",
+       "lemma": "த்த",
+       "gloss": "adjectival participle suffix"
       }
      ],
      "gloss": "bound"
@@ -326,10 +298,10 @@
       {
        "text": "வாங்கு",
        "lemma": "வாங்கு",
-       "gloss": "draw"
+       "gloss": "draw/pull"
       }
      ],
-     "gloss": "drawn in the forge"
+     "gloss": "forge-drawn"
     },
     {
      "surface": "மிதிதோல்",
@@ -337,7 +309,7 @@
       {
        "text": "மிதி",
        "lemma": "மிதி",
-       "gloss": "step"
+       "gloss": "step on"
       },
       {
        "text": "தோல்",
@@ -345,15 +317,20 @@
        "gloss": "leather"
       }
      ],
-     "gloss": "stepped-on bellows"
+     "gloss": "stepped-on leather bellows"
     },
     {
-     "surface": "போல",
+     "surface": "போலத்",
      "parts": [
       {
        "text": "போல",
-       "lemma": "போல்",
+       "lemma": "போல",
        "gloss": "like"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "consonant doubler"
       }
      ],
      "gloss": "like"
@@ -376,7 +353,7 @@
        "gloss": "boundary"
       }
      ],
-     "gloss": "ultimate limit"
+     "gloss": "limit"
     },
     {
      "surface": "அறியாது",
@@ -387,9 +364,9 @@
        "gloss": "know"
       },
       {
-       "text": "ஆது",
+       "text": "யாது",
        "lemma": "ஆது",
-       "gloss": "without"
+       "gloss": "negative suffix"
       }
      ],
      "gloss": "not knowing"
@@ -405,25 +382,19 @@
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "relative participle suffix"
+       "gloss": "habitual relative participle suffix"
       }
      ],
-     "gloss": "suffering"
+     "gloss": "suffers"
     },
     {
-     "surface": "என்",
+     "surface": "என்னெஞ்சே",
      "parts": [
       {
        "text": "என்",
        "lemma": "என்",
        "gloss": "my"
-      }
-     ],
-     "gloss": "my"
-    },
-    {
-     "surface": "நெஞ்சே",
-     "parts": [
+      },
       {
        "text": "நெஞ்சு",
        "lemma": "நெஞ்சு",
@@ -432,18 +403,18 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "vocative/emphasis"
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "O heart!"
+     "gloss": "my heart indeed"
     }
    ]
   }
  ],
- "literal": "Spreading strong wings, swift-flying bats / seek fruit-bearing trees in the sorrowful evening. / Leaving us lonely, he who abandoned us here, / being alone, is he happy, I wonder? / Bound to one village for the common work of seven villages, / like the bellows drawn and stepped on in a forge, / without knowing any ultimate limit, suffers my heart!",
- "translation": "In the sorrowful evening, swift-flying bats with wide, strong wings spread out to seek fruit-bearing trees. He who abandoned me here to be lonely—is he happy, I wonder, in his own solitude? Like the leather bellows tied to a single village forge but worked constantly for the common needs of seven villages, my heart suffers, knowing no limit to its pain.",
- "modern": "பரந்த வலிமையான சிறகுகளைக் கொண்ட, வேகமாகப் பறக்கும் வௌவால்கள் பழங்கள் நிறைந்த மரங்களைத் தேடிச் செல்லும் இந்தத் துன்பம் நிறைந்த மாலைப் பொழுதில், நம்மைத் தனியாகத் தவிக்கவிட்டுச் சென்ற தலைவர், தாமும் தனியாக இருந்து அங்கே மகிழ்ச்சியாக இருக்கிறாரா? ஏழு ஊர்களின் பொதுவான வேலைக்காக ஒரே ஊரில் கட்டப்பட்டு, உலையில் மிதித்து இயக்கப்படும் துருத்தியைப் போல, எல்லையே இல்லாமல் என் நெஞ்சம் வருந்துகிறதே!",
- "explanation": "This poem is spoken by the heroine to her companion (or to herself) during the painful evening hours when her lover is away. She watches the bats spreading their strong wings to seek out fruit-bearing trees, a movement that highlights her own confinement and isolation. She wonders if her lover, who left her to be lonely, is finding any happiness in his own solitude. She compares her aching heart to a blacksmith's leather bellows (மிதிதோல்) that is tied to a single village forge but is continuously pumped and squeezed to serve the common metalworking needs of seven surrounding villages. Just like those bellows, her heart is bound to one place but is relentlessly compressed and stretched by endless waves of grief, knowing no boundary or relief.",
+ "literal": "Spreading strong wings, in swift flight, the bats / go towards fruit-bearing trees in the sorrowful evening. / While we are lonely, he who abandoned us here, / being alone, is he happy? / Like the stepped-on leather bellows drawn in a forge, / tied to one village for the common work of seven villages, / my heart suffers, knowing no limit.",
+ "translation": "In the sorrowful evening, bats with wide, strong wings fly swiftly towards fruit-bearing trees. He who abandoned me here to be lonely—is he happy in his solitude? Like the leather bellows of a blacksmith's forge, stepped on and drawn back, bound to one village to do the common work of seven, my heart suffers, knowing no limit to its pain.",
+ "modern": "பரந்த வலிமையான இறக்கைகளுடன் வேகமாகப் பறக்கும் வௌவால்கள் பழங்கள் நிறைந்த மரங்களை நோக்கிச் செல்லும் இந்தத் துன்பம் நிறைந்த மாலைப் பொழுதில், என்னை இங்கே தனிமையில் தவிக்கவிட்டுச் சென்றவர், தாம் மட்டும் தனியாக இருந்து இன்பமாக இருக்கிறாரா? ஏழு ஊர்களின் பொதுவான வேலைக்காக ஒரே ஊரில் கட்டப்பட்டு, உலையில் இழுத்து மிதிக்கப்படும் துருத்தித் தோல் போல, என் நெஞ்சம் எல்லையற்ற துன்பத்தை அடைந்து வருந்துகிறது.",
+ "explanation": "The heroine (thalaivi) speaks to her confidante (thōḻi) during the painful evening hours in the Neytal (coastal) landscape. She laments the absence of her lover, who has left her alone. She observes the bats flying swiftly to fruit-bearing trees, highlighting how even animals find their destination and comfort in the evening, while she is left desolate. She compares her aching heart to the leather bellows of a blacksmith's forge, which is constantly stepped on and compressed to blow air for seven surrounding villages. Just as the bellows are relentlessly squeezed and released without rest, her heart is continuously crushed by grief and anxiety, knowing no boundary or relief.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

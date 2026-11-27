@@ -6,35 +6,20 @@
      "surface": "பெய்த",
      "parts": [
       {
-       "text": "பெய்",
-       "lemma": "pey",
-       "gloss": "rain"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "adjectival participle suffix"
+       "text": "பெய்த",
+       "lemma": "பெய்",
+       "gloss": "rained"
       }
      ],
      "gloss": "rained"
     },
     {
-     "surface": "குன்றத்து",
+     "surface": "குன்றத்துப்",
      "parts": [
       {
-       "text": "குன்று",
-       "lemma": "kuṉṟu",
-       "gloss": "hill"
-      },
-      {
-       "text": "அத்து",
-       "lemma": "attu",
-       "gloss": "oblique case suffix"
+       "text": "குன்றத்துப்",
+       "lemma": "குன்று",
+       "gloss": "of the hill"
       }
      ],
      "gloss": "of the hill"
@@ -43,14 +28,9 @@
      "surface": "பூநாறு",
      "parts": [
       {
-       "text": "பூ",
-       "lemma": "pū",
-       "gloss": "flower"
-      },
-      {
-       "text": "நாறு",
-       "lemma": "nāṟu",
-       "gloss": "fragrant"
+       "text": "பூநாறு",
+       "lemma": "பூநாறு",
+       "gloss": "flower-fragrant"
       }
      ],
      "gloss": "flower-fragrant"
@@ -59,17 +39,12 @@
      "surface": "தண்கலுழ்",
      "parts": [
       {
-       "text": "தண்",
-       "lemma": "taṇ",
-       "gloss": "cool"
-      },
-      {
-       "text": "கலுழ்",
-       "lemma": "kaluḻ",
-       "gloss": "muddy water"
+       "text": "தண்கலுழ்",
+       "lemma": "தண்கலுழ்",
+       "gloss": "cool turbid water"
       }
      ],
-     "gloss": "cool muddy water"
+     "gloss": "cool turbid water"
     }
    ]
   },
@@ -80,51 +55,57 @@
      "parts": [
       {
        "text": "மீமிசைச்",
-       "lemma": "மீமிசைச்",
-       "gloss": ""
+       "lemma": "மீமிசை",
+       "gloss": "high above"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "high above"
     },
     {
      "surface": "தாஅய",
      "parts": [
       {
        "text": "தாஅய",
-       "lemma": "தாஅய",
-       "gloss": ""
+       "lemma": "தாவு",
+       "gloss": "spread"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "spread"
     },
     {
      "surface": "வீஇ",
      "parts": [
       {
        "text": "வீஇ",
-       "lemma": "வீஇ",
-       "gloss": ""
+       "lemma": "வீ",
+       "gloss": "blossoms"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "blossoms"
     },
     {
-     "surface": "சுமந்துவந்",
+     "surface": "சுமந்து",
      "parts": [
       {
-       "text": "சுமந்துவந்",
-       "lemma": "சுமந்துவந்",
-       "gloss": ""
+       "text": "சுமந்து",
+       "lemma": "சும",
+       "gloss": "carrying"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "carrying"
+    },
+    {
+     "surface": "வந்",
+     "parts": [
+      {
+       "text": "வந்",
+       "lemma": "வா",
+       "gloss": "having come"
+      }
+     ],
+     "gloss": "having come"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -133,36 +114,33 @@
      "parts": [
       {
        "text": "திழிதரும்",
-       "lemma": "திழிதரும்",
-       "gloss": ""
+       "lemma": "இழிதரு",
+       "gloss": "descending"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "descending"
     },
     {
      "surface": "புனலும்",
      "parts": [
       {
        "text": "புனலும்",
-       "lemma": "புனலும்",
-       "gloss": ""
+       "lemma": "புனல்",
+       "gloss": "even the water"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even the water"
     },
     {
      "surface": "வாரார்",
      "parts": [
       {
        "text": "வாரார்",
-       "lemma": "வாரார்",
-       "gloss": ""
+       "lemma": "வரு",
+       "gloss": "he has not returned"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "he has not returned"
     },
     {
      "surface": "தோழி",
@@ -170,14 +148,12 @@
       {
        "text": "தோழி",
        "lemma": "தோழி",
-       "gloss": ""
+       "gloss": "O friend"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "O friend"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -186,19 +162,18 @@
      "parts": [
       {
        "text": "மறந்தோர்",
-       "lemma": "மறந்தோர்",
+       "lemma": "மற",
        "gloss": "he who forgot"
       }
      ],
-     "gloss": "he who forgot",
-     "split_unverified": true
+     "gloss": "he who forgot"
     },
     {
      "surface": "மன்ற",
      "parts": [
       {
        "text": "மன்ற",
-       "lemma": "maṉṟa",
+       "lemma": "மன்ற",
        "gloss": "surely"
       }
      ],
@@ -208,14 +183,9 @@
      "surface": "மறவா",
      "parts": [
       {
-       "text": "மற",
-       "lemma": "maṟa",
-       "gloss": "forget"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ā",
-       "gloss": "negative participle suffix"
+       "text": "மறவா",
+       "lemma": "மற",
+       "gloss": "not forgetting"
       }
      ],
      "gloss": "not forgetting"
@@ -224,14 +194,9 @@
      "surface": "நாமே",
      "parts": [
       {
-       "text": "நாம்",
-       "lemma": "nām",
-       "gloss": "we"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
+       "text": "நாமே",
+       "lemma": "நாம்",
+       "gloss": "we indeed"
       }
      ],
      "gloss": "we indeed"
@@ -245,19 +210,18 @@
      "parts": [
       {
        "text": "கால",
-       "lemma": "கால",
+       "lemma": "காலம்",
        "gloss": "seasonal"
       }
      ],
-     "gloss": "seasonal",
-     "split_unverified": true
+     "gloss": "seasonal"
     },
     {
      "surface": "மாரி",
      "parts": [
       {
        "text": "மாரி",
-       "lemma": "māri",
+       "lemma": "மாரி",
        "gloss": "rain"
       }
      ],
@@ -268,7 +232,7 @@
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "mālai",
+       "lemma": "மாலை",
        "gloss": "evening"
       }
      ],
@@ -278,14 +242,9 @@
      "surface": "மாமழை",
      "parts": [
       {
-       "text": "மா",
-       "lemma": "mā",
-       "gloss": "great"
-      },
-      {
-       "text": "மழை",
-       "lemma": "maḻai",
-       "gloss": "cloud"
+       "text": "மாமழை",
+       "lemma": "மாமழை",
+       "gloss": "great dark clouds"
       }
      ],
      "gloss": "great dark clouds"
@@ -298,51 +257,31 @@
      "surface": "இன்னிசை",
      "parts": [
       {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "sweet"
-      },
-      {
-       "text": "இசை",
-       "lemma": "icai",
-       "gloss": "sound"
+       "text": "இன்னிசை",
+       "lemma": "இன்னிசை",
+       "gloss": "pleasing sound"
       }
      ],
-     "gloss": "sweet sound"
+     "gloss": "pleasing sound"
     },
     {
-     "surface": "உருமின",
+     "surface": "யுருமின",
      "parts": [
       {
-       "text": "உருமு",
-       "lemma": "urumu",
-       "gloss": "thunder"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "oblique case suffix"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "plural suffix"
+       "text": "யுருமின",
+       "lemma": "உருமினம்",
+       "gloss": "groups of thunder"
       }
      ],
-     "gloss": "of the thunder"
+     "gloss": "groups of thunder"
     },
     {
      "surface": "முரலும்",
      "parts": [
       {
-       "text": "முரல்",
-       "lemma": "mural",
-       "gloss": "roar"
-      },
-      {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "habitual future suffix"
+       "text": "முரலும்",
+       "lemma": "முரல்",
+       "gloss": "roaring"
       }
      ],
      "gloss": "roaring"
@@ -355,69 +294,53 @@
      "surface": "முன்வரல்",
      "parts": [
       {
-       "text": "முன்",
-       "lemma": "muṉ",
-       "gloss": "before"
-      },
-      {
-       "text": "வரல்",
-       "lemma": "varal",
-       "gloss": "coming"
+       "text": "முன்வரல்",
+       "lemma": "முன்வரல்",
+       "gloss": "coming early"
       }
      ],
-     "gloss": "coming beforehand"
+     "gloss": "coming early"
     },
     {
      "surface": "ஏமம்",
      "parts": [
       {
        "text": "ஏமம்",
-       "lemma": "ēmam",
+       "lemma": "ஏமம்",
        "gloss": "assurance"
       }
      ],
      "gloss": "assurance"
     },
     {
-     "surface": "செய்து",
+     "surface": "செய்தகன்",
      "parts": [
       {
-       "text": "செய்",
-       "lemma": "cey",
-       "gloss": "do"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense"
-      },
-      {
-       "text": "உ",
-       "lemma": "u",
-       "gloss": "verbal participle suffix"
+       "text": "செய்தகன்",
+       "lemma": "செய்து",
+       "gloss": "having made"
       }
      ],
      "gloss": "having made"
     },
     {
-     "surface": "அகன்றோரே",
+     "surface": "றோரே",
      "parts": [
       {
-       "text": "அகன்றோரே",
-       "lemma": "அகன்றோரே",
-       "gloss": "he who departed"
+       "text": "றோரே",
+       "lemma": "அகன்றோர்",
+       "gloss": "he who departed indeed"
       }
      ],
-     "gloss": "he who departed",
-     "split_unverified": true
+     "gloss": "he who departed indeed"
     }
    ]
   }
  ],
- "literal": "Rained hill's flower-fragrant cool muddy water / high up on the heights spread blossoms carrying having come / descending even the freshet, he does not return, O friend! / He forgot surely, not forgetting we indeed, / seasonal rain evening great dark clouds / sweet sound of thunder roaring, / coming beforehand assurance having made he who departed.",
- "translation": "Even as the cool, muddy freshet, fragrant with flowers from the rained-upon hills, comes carrying blossoms that spread over the high peaks and descends, he does not return, O friend! He has surely forgotten us, while we do not forget him—he who departed after assuring us that he would return before the season of evening rains, when great dark clouds roar with the sweet sound of thunder.",
- "modern": "மழை பெய்த மலையிலிருந்து மலர்களின் நறுமணத்தோடு குளிர்ந்த கலங்கல் நீர், மலை உச்சிகளில் பரவியிருந்த மலர்களைச் சுமந்து கொண்டு கீழே இறங்கி வருகிறது. ஆனால் அவர் இன்னும் வரவில்லை தோழி! மாலை நேரத்தில் பருவகால மழையைத் தரும் கரிய மேகங்கள் இனிய ஓசையோடு இடி முழங்கும் கார்ப்பருவம் தொடங்குவதற்கு முன்பே திரும்பி வருவதாக நமக்கு உறுதி கூறிச் சென்றவர், நம்மை மறந்துவிட்டார் போலும்; ஆனால் நாம் அவரை மறக்காமல் இருக்கிறோம்.",
- "explanation": "The heroine (Thalaivi) is speaking to her close friend (Thōḻi) in this Mullai (forest/pastoral) landscape poem. The hero had departed on a journey, promising to return before the onset of the rainy season. Now, the rainy season has arrived, marked by the cool freshets carrying flowers from the hills and the roaring thunder of evening clouds, but the hero has not yet returned. The heroine laments that while she remains faithful and remembers him constantly, the hero seems to have completely forgotten his promise. The imagery of the fresh mountain stream carrying fallen blossoms and the roaring rain clouds vividly evokes the onset of the monsoon, intensifying the heroine's grief.",
+ "literal": "Rained on the hill, smelling of flowers, cool turbid water / from high above spreading, blossoms carrying, having come / descending, even the flood, [yet] he has not returned, O friend! / He forgot surely, [while] not forgetting, we [remain]. / Seasonal rain of the evening, great dark clouds, / with pleasing sound, groups of thunder roaring, / coming early, assurance having made, he who departed indeed.",
+ "translation": "O friend, even the cool, turbid freshes that flow down from the high hills where it rained, smelling of flowers and carrying fallen blossoms, have arrived. Yet he has not returned. He has surely forgotten us, while we remain unable to forget him—he who departed after giving us the assurance that he would return before the onset of this season, when great dark evening clouds pour timely rain and groups of thunder roar with a pleasing sound.",
+ "modern": "தோழி! மழை பெய்த மலையிலிருந்து, மலர்களின் நறுமணத்தோடு, உதிர்ந்த பூக்களைச் சுமந்து கொண்டு மேலிருந்து பெருகி இறங்கி வரும் குளிர்ந்த புதிய நீரும் வந்துவிட்டது; ஆனால் அவர் இன்னும் வரவில்லை. மாலை நேரத்தில் பருவகாலத்து மழையைப் பொழியும் கரிய மேகங்கள் இனிய ஓசையோடு இடி முழக்கங்களைச் செய்யும் இக்காலம் தொடங்குவதற்கு முன்பே திரும்பி வருவதாக நமக்கு உறுதியளித்துவிட்டுச் சென்றவர், நம்மை முற்றிலும் மறந்துவிட்டார் போலும்; ஆனால் நாமோ அவரை மறக்காமல் இருக்கிறோம்.",
+ "explanation": "This poem is set in the Mullai (forest) landscape, which is associated with the rainy season and the patient waiting of the heroine. The heroine is speaking to her confidante, expressing her deep sorrow at the delay of her lover. He had departed on a journey, promising to return before the onset of the monsoon. Now, the signs of the season are everywhere: dark clouds gather in the evening, thunder roars with a pleasing yet painful sound, and the fresh, flower-scented mountain streams are rushing down. The heroine laments that while the seasonal waters have kept their time and arrived, her lover has failed to return, suggesting he has forgotten his promise while she is left unable to forget him.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

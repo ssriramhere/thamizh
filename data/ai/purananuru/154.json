@@ -19,21 +19,26 @@
       {
        "text": "பொரு",
        "lemma": "பொரு",
-       "gloss": "to beat against"
+       "gloss": "dash against"
       }
      ],
-     "gloss": "beating against"
+     "gloss": "dashing against"
     },
     {
-     "surface": "முந்நீர்",
+     "surface": "முந்நீர்க்",
      "parts": [
       {
        "text": "முந்நீர்",
        "lemma": "முந்நீர்",
        "gloss": "ocean"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "ocean"
+     "gloss": "of the ocean"
     },
     {
      "surface": "கரை",
@@ -47,12 +52,17 @@
      "gloss": "shore"
     },
     {
-     "surface": "நணி",
+     "surface": "நணிச்",
      "parts": [
       {
        "text": "நணி",
        "lemma": "நணி",
        "gloss": "nearness"
+      },
+      {
+       "text": "ச்",
+       "lemma": "ச்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "near"
@@ -63,11 +73,16 @@
       {
        "text": "செல்",
        "lemma": "செல்",
-       "gloss": "to go"
+       "gloss": "go"
       },
       {
-       "text": "இனும்",
-       "lemma": "இனும்",
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "conditional suffix"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
        "gloss": "even if"
       }
      ],
@@ -81,25 +96,33 @@
      "surface": "அறியுநர்க்",
      "parts": [
       {
-       "text": "அறியுநர்க்",
-       "lemma": "அறியுநர்க்",
-       "gloss": ""
+       "text": "அறியுநர்",
+       "lemma": "அறியுநர்",
+       "gloss": "those who know"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "those who know"
     },
     {
      "surface": "காணின்",
      "parts": [
       {
-       "text": "காணின்",
-       "lemma": "காணின்",
-       "gloss": ""
+       "text": "காண்",
+       "lemma": "காண்",
+       "gloss": "see"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "if"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "if they see"
     },
     {
      "surface": "வேட்கை",
@@ -107,50 +130,46 @@
       {
        "text": "வேட்கை",
        "lemma": "வேட்கை",
-       "gloss": ""
+       "gloss": "thirst"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thirst"
     },
     {
      "surface": "நீக்கும்",
      "parts": [
       {
-       "text": "நீக்கும்",
-       "lemma": "நீக்கும்",
-       "gloss": ""
+       "text": "நீக்கு",
+       "lemma": "நீக்கு",
+       "gloss": "remove"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "habitual aspect"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "which will remove"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "சில்",
+     "surface": "சின்னீர்",
      "parts": [
       {
        "text": "சில்",
        "lemma": "சில்",
-       "gloss": "few/small amount"
-      }
-     ],
-     "gloss": "a little"
-    },
-    {
-     "surface": "நீர்",
-     "parts": [
+       "gloss": "few/little"
+      },
       {
        "text": "நீர்",
        "lemma": "நீர்",
        "gloss": "water"
       }
      ],
-     "gloss": "water"
+     "gloss": "a little fresh water"
     },
     {
      "surface": "வினவுவர்",
@@ -158,7 +177,12 @@
       {
        "text": "வினவு",
        "lemma": "வினவு",
-       "gloss": "to ask"
+       "gloss": "ask"
+      },
+      {
+       "text": "வ்",
+       "lemma": "வ்",
+       "gloss": "future tense marker"
       },
       {
        "text": "அர்",
@@ -166,7 +190,7 @@
        "gloss": "third person plural suffix"
       }
      ],
-     "gloss": "they will ask"
+     "gloss": "they will ask for"
     },
     {
      "surface": "மாந்தர்",
@@ -180,26 +204,20 @@
      "gloss": "people"
     },
     {
-     "surface": "அது",
+     "surface": "அதுபோல்",
      "parts": [
       {
        "text": "அது",
        "lemma": "அது",
        "gloss": "that"
-      }
-     ],
-     "gloss": "that"
-    },
-    {
-     "surface": "போல்",
-     "parts": [
+      },
       {
        "text": "போல்",
        "lemma": "போல்",
        "gloss": "like"
       }
      ],
-     "gloss": "like"
+     "gloss": "like that"
     }
    ]
   },
@@ -217,78 +235,64 @@
      "gloss": "kings"
     },
     {
-     "surface": "உழையர்",
+     "surface": "உழைய",
      "parts": [
       {
-       "text": "உழை",
-       "lemma": "உழை",
-       "gloss": "nearness"
-      },
-      {
-       "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "personal noun suffix"
+       "text": "உழைய",
+       "lemma": "உழைய",
+       "gloss": "those nearby"
       }
      ],
-     "gloss": "those who are near"
+     "gloss": "those nearby",
+     "split_unverified": true
     },
     {
-     "surface": "ஆகவும்",
+     "surface": "ராகவும்",
      "parts": [
       {
-       "text": "ஆக",
-       "lemma": "ஆகு",
-       "gloss": "to become (infinitive)"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "ராகவும்",
+       "lemma": "ராகவும்",
+       "gloss": "even though being"
       }
      ],
-     "gloss": "even though they are"
+     "gloss": "even though being",
+     "split_unverified": true
     },
     {
-     "surface": "புரை",
+     "surface": "புரைதபு",
      "parts": [
       {
        "text": "புரை",
        "lemma": "புரை",
-       "gloss": "blemish/fault"
-      }
-     ],
-     "gloss": "fault"
-    },
-    {
-     "surface": "தபு",
-     "parts": [
+       "gloss": "fault"
+      },
       {
        "text": "தபு",
        "lemma": "தபு",
-       "gloss": "to destroy/devoid of"
+       "gloss": "perish/without"
       }
      ],
-     "gloss": "devoid of"
+     "gloss": "faultless"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "வள்ளியோர்",
+     "surface": "வள்ளியோர்ப்",
      "parts": [
       {
-       "text": "வள்ளி",
-       "lemma": "வள்ளி",
-       "gloss": "generosity"
+       "text": "வள்ளியோர்",
+       "lemma": "வள்ளியோர்",
+       "gloss": "generous people"
       },
       {
-       "text": "ஓர்",
-       "lemma": "ஓர்",
-       "gloss": "personal noun suffix"
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "generous people"
+     "gloss": "generous patrons"
     },
     {
      "surface": "படர்குவர்",
@@ -296,11 +300,16 @@
       {
        "text": "படர்",
        "lemma": "படர்",
-       "gloss": "to go"
+       "gloss": "go to"
       },
       {
        "text": "கு",
        "lemma": "கு",
+       "gloss": "empty morph"
+      },
+      {
+       "text": "வ்",
+       "lemma": "வ்",
        "gloss": "future tense marker"
       },
       {
@@ -309,7 +318,7 @@
        "gloss": "third person plural suffix"
       }
      ],
-     "gloss": "they will go to"
+     "gloss": "they will seek"
     },
     {
      "surface": "புலவர்",
@@ -333,12 +342,12 @@
       {
        "text": "அன்",
        "lemma": "அன்",
-       "gloss": "inflectional increment"
+       "gloss": "oblique case marker"
       },
       {
        "text": "ஆல்",
        "lemma": "ஆல்",
-       "gloss": "instrumental case suffix"
+       "gloss": "instrumental suffix"
       }
      ],
      "gloss": "therefore"
@@ -353,10 +362,10 @@
       {
        "text": "`யானும்",
        "lemma": "`யானும்",
-       "gloss": ""
+       "gloss": "`I too"
       }
      ],
-     "gloss": "",
+     "gloss": "`I too",
      "split_unverified": true
     },
     {
@@ -365,10 +374,10 @@
       {
        "text": "`பெற்றது",
        "lemma": "`பெற்றது",
-       "gloss": ""
+       "gloss": "`that which was obtained"
       }
      ],
-     "gloss": "",
+     "gloss": "`that which was obtained",
      "split_unverified": true
     },
     {
@@ -377,11 +386,10 @@
       {
        "text": "ஊதியம்",
        "lemma": "ஊதியம்",
-       "gloss": ""
+       "gloss": "gain"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "gain"
     },
     {
      "surface": "பேறியாது",
@@ -389,10 +397,10 @@
       {
        "text": "பேறியாது",
        "lemma": "பேறியாது",
-       "gloss": ""
+       "gloss": "what is the great benefit?"
       }
      ],
-     "gloss": "",
+     "gloss": "what is the great benefit?",
      "split_unverified": true
     },
     {
@@ -401,26 +409,28 @@
       {
        "text": "`",
        "lemma": "`",
-       "gloss": ""
+       "gloss": "quotation mark"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "`"
     },
     {
      "surface": "என்னேன்",
      "parts": [
       {
-       "text": "என்னேன்",
-       "lemma": "என்னேன்",
-       "gloss": ""
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "say"
+      },
+      {
+       "text": "ஏன்",
+       "lemma": "ஏன்",
+       "gloss": "first person singular negative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "will not say"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -430,10 +440,10 @@
       {
        "text": "உற்றனென்",
        "lemma": "உற்றனென்",
-       "gloss": "I experienced"
+       "gloss": "I experienced distress"
       }
      ],
-     "gloss": "I experienced",
+     "gloss": "I experienced distress",
      "split_unverified": true
     },
     {
@@ -442,7 +452,7 @@
       {
        "text": "ஆதல்",
        "lemma": "ஆதல்",
-       "gloss": "becoming"
+       "gloss": "becoming/being"
       },
       {
        "text": "இன்",
@@ -450,34 +460,30 @@
        "gloss": "because of"
       }
      ],
-     "gloss": "because of that"
+     "gloss": "therefore"
     },
     {
-     "surface": "உள்ளி",
+     "surface": "உள்ளிவந்",
      "parts": [
       {
-       "text": "உள்",
-       "lemma": "உள்",
-       "gloss": "to think"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "verbal participle suffix"
+       "text": "உள்ளிவந்",
+       "lemma": "உள்ளிவந்",
+       "gloss": "thinking of you"
       }
      ],
-     "gloss": "thinking of"
+     "gloss": "thinking of you",
+     "split_unverified": true
     },
     {
-     "surface": "வந்தனனே",
+     "surface": "தனனே",
      "parts": [
       {
-       "text": "வந்தனனே",
-       "lemma": "வந்தனனே",
-       "gloss": "I came indeed"
+       "text": "தனனே",
+       "lemma": "தனனே",
+       "gloss": "I came"
       }
      ],
-     "gloss": "I came indeed",
+     "gloss": "I came",
      "split_unverified": true
     }
    ]
@@ -485,31 +491,16 @@
   {
    "words": [
     {
-     "surface": "`ஈ",
+     "surface": "`ஈயென",
      "parts": [
       {
-       "text": "`ஈ",
-       "lemma": "ஈ",
-       "gloss": "give"
+       "text": "`ஈயென",
+       "lemma": "`ஈயென",
+       "gloss": "`saying \"give\""
       }
      ],
-     "gloss": "give"
-    },
-    {
-     "surface": "என",
-     "parts": [
-      {
-       "text": "என்",
-       "lemma": "என்",
-       "gloss": "to say"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitive suffix"
-      }
-     ],
-     "gloss": "saying"
+     "gloss": "`saying \"give\"",
+     "split_unverified": true
     },
     {
      "surface": "இரத்தலோ",
@@ -522,10 +513,10 @@
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "emphasis/indeed"
+       "gloss": "clitic/emphasis"
       }
      ],
-     "gloss": "begging indeed"
+     "gloss": "begging"
     },
     {
      "surface": "அரிதே",
@@ -533,12 +524,12 @@
       {
        "text": "அரிது",
        "lemma": "அரிது",
-       "gloss": "difficult"
+       "gloss": "difficult thing"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "emphatic clitic"
       }
      ],
      "gloss": "is difficult indeed"
@@ -575,11 +566,16 @@
       {
        "text": "நல்கு",
        "lemma": "நல்கு",
-       "gloss": "to grant"
+       "gloss": "grant"
       },
       {
-       "text": "இனும்",
-       "lemma": "இனும்",
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "conditional suffix"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
        "gloss": "even if"
       }
      ],
@@ -591,7 +587,7 @@
       {
        "text": "நல்கு",
        "lemma": "நல்கு",
-       "gloss": "to grant"
+       "gloss": "grant"
       },
       {
        "text": "ஆய்",
@@ -599,76 +595,65 @@
        "gloss": "second person singular negative suffix"
       }
      ],
-     "gloss": "you do not grant"
+     "gloss": "or do not grant"
     },
     {
      "surface": "ஆயினும்",
      "parts": [
       {
-       "text": "ஆயின்",
-       "lemma": "ஆயின்",
-       "gloss": "if it is so"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "ஆயினும்",
+       "lemma": "ஆயினும்",
+       "gloss": "even so"
       }
      ],
-     "gloss": "even if"
+     "gloss": "even so",
+     "split_unverified": true
     },
     {
-     "surface": "வெல்",
+     "surface": "வெல்போர்",
      "parts": [
       {
        "text": "வெல்",
        "lemma": "வெல்",
-       "gloss": "victorious"
-      }
-     ],
-     "gloss": "victorious"
-    },
-    {
-     "surface": "போர்",
-     "parts": [
+       "gloss": "win"
+      },
       {
        "text": "போர்",
        "lemma": "போர்",
        "gloss": "war"
       }
      ],
-     "gloss": "war"
+     "gloss": "winning wars"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "எறி",
+     "surface": "எறிபடைக்கு",
      "parts": [
       {
        "text": "எறி",
        "lemma": "எறி",
-       "gloss": "to throw"
-      }
-     ],
-     "gloss": "thrown"
-    },
-    {
-     "surface": "படைக்கு",
-     "parts": [
+       "gloss": "throw"
+      },
       {
        "text": "படை",
        "lemma": "படை",
        "gloss": "weapon"
       },
       {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "sandhi"
+      },
+      {
        "text": "கு",
        "lemma": "கு",
-       "gloss": "dative case suffix"
+       "gloss": "dative suffix"
       }
      ],
-     "gloss": "to the weapon"
+     "gloss": "from thrown weapons"
     },
     {
      "surface": "ஓடா",
@@ -676,7 +661,7 @@
       {
        "text": "ஓடு",
        "lemma": "ஓடு",
-       "gloss": "to run"
+       "gloss": "run"
       },
       {
        "text": "ஆ",
@@ -690,25 +675,25 @@
      "surface": "ஆண்மை",
      "parts": [
       {
-       "text": "ஆண்",
-       "lemma": "ஆண்",
-       "gloss": "man"
-      },
-      {
-       "text": "மை",
-       "lemma": "மை",
-       "gloss": "abstract noun suffix"
+       "text": "ஆண்மை",
+       "lemma": "ஆண்மை",
+       "gloss": "valor/manliness"
       }
      ],
      "gloss": "valor"
     },
     {
-     "surface": "அறுவை",
+     "surface": "அறுவைத்",
      "parts": [
       {
        "text": "அறுவை",
        "lemma": "அறுவை",
        "gloss": "cloth"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "cloth"
@@ -718,34 +703,33 @@
   {
    "words": [
     {
-     "surface": "தூ",
+     "surface": "தூவிரி",
      "parts": [
       {
        "text": "தூ",
        "lemma": "தூ",
        "gloss": "pure"
-      }
-     ],
-     "gloss": "pure"
-    },
-    {
-     "surface": "விரி",
-     "parts": [
+      },
       {
        "text": "விரி",
        "lemma": "விரி",
        "gloss": "spread"
       }
      ],
-     "gloss": "spread"
+     "gloss": "pure spread"
     },
     {
-     "surface": "கடுப்ப",
+     "surface": "கடுப்பத்",
      "parts": [
       {
        "text": "கடுப்ப",
        "lemma": "கடுப்ப",
-       "gloss": "to resemble"
+       "gloss": "resembling"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "resembling"
@@ -756,7 +740,7 @@
       {
        "text": "துவன்று",
        "lemma": "துவன்று",
-       "gloss": "to be dense"
+       "gloss": "be crowded/abundant"
       },
       {
        "text": "இ",
@@ -764,20 +748,20 @@
        "gloss": "verbal participle suffix"
       }
      ],
-     "gloss": "being dense"
+     "gloss": "abundantly"
     },
     {
-     "surface": "மீமிசை",
+     "surface": "மீமிசைத்",
      "parts": [
       {
-       "text": "மீ",
-       "lemma": "மீ",
-       "gloss": "above"
+       "text": "மீமிசை",
+       "lemma": "மீமிசை",
+       "gloss": "high above"
       },
       {
-       "text": "மிசை",
-       "lemma": "மிசை",
-       "gloss": "upon"
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "high above"
@@ -787,26 +771,20 @@
   {
    "words": [
     {
-     "surface": "தண்",
+     "surface": "தண்பல",
      "parts": [
       {
        "text": "தண்",
        "lemma": "தண்",
        "gloss": "cool"
-      }
-     ],
-     "gloss": "cool"
-    },
-    {
-     "surface": "பல",
-     "parts": [
+      },
       {
        "text": "பல",
        "lemma": "பல",
        "gloss": "many"
       }
      ],
-     "gloss": "many"
+     "gloss": "many cool"
     },
     {
      "surface": "இழிதரும்",
@@ -814,15 +792,20 @@
       {
        "text": "இழி",
        "lemma": "இழி",
-       "gloss": "to descend"
+       "gloss": "descend"
       },
       {
-       "text": "தரும்",
-       "lemma": "தரும்",
-       "gloss": "auxiliary verb/habitual marker"
+       "text": "தரு",
+       "lemma": "தரு",
+       "gloss": "auxiliary verb"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "descending"
+     "gloss": "cascading down"
     },
     {
      "surface": "அருவி",
@@ -851,45 +834,24 @@
   {
    "words": [
     {
-     "surface": "கொண்டு",
+     "surface": "கொண்டுபெருங்கானம்",
      "parts": [
       {
-       "text": "கொண்டு",
-       "lemma": "கொண்டு",
-       "gloss": "having"
+       "text": "கொண்டுபெருங்கானம்",
+       "lemma": "கொண்டுபெருங்கானம்",
+       "gloss": "having great forest"
       }
      ],
-     "gloss": "having",
+     "gloss": "having great forest",
      "split_unverified": true
-    },
-    {
-     "surface": "பெருங்கானம்",
-     "parts": [
-      {
-       "text": "பெருமை",
-       "lemma": "பெருமை",
-       "gloss": "greatness"
-      },
-      {
-       "text": "கானம்",
-       "lemma": "கானம்",
-       "gloss": "forest"
-      }
-     ],
-     "gloss": "great forest"
     },
     {
      "surface": "பாடல்",
      "parts": [
       {
-       "text": "பாடு",
-       "lemma": "பாடு",
-       "gloss": "to sing"
-      },
-      {
-       "text": "அல்",
-       "lemma": "அல்",
-       "gloss": "verbal noun suffix"
+       "text": "பாடல்",
+       "lemma": "பாடல்",
+       "gloss": "singing"
       }
      ],
      "gloss": "singing"
@@ -900,17 +862,17 @@
       {
        "text": "என்",
        "lemma": "யான்",
-       "gloss": "I (oblique form of first person singular pronoun)"
+       "gloss": "I"
       },
       {
        "text": "அ",
        "lemma": "அ",
-       "gloss": "inflectional increment"
+       "gloss": "empty morph"
       },
       {
        "text": "கு",
        "lemma": "கு",
-       "gloss": "dative case suffix"
+       "gloss": "dative suffix"
       }
      ],
      "gloss": "to me"
@@ -921,12 +883,12 @@
       {
        "text": "எளிது",
        "lemma": "எளிது",
-       "gloss": "easy"
+       "gloss": "easy thing"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "emphatic clitic"
       }
      ],
      "gloss": "is easy indeed"
@@ -934,10 +896,10 @@
    ]
   }
  ],
- "literal": "Even if going near the shore of the ocean where waves beat, / if they see those who know, they will remove their thirst, / people will ask for a little water; like that, / even though they are near kings, devoid of fault, / poets will go towards generous people; therefore, / I too will not say, \"What is the benefit or reward I obtained?\" / I experienced poverty, therefore thinking of you I came indeed. / Begging, saying \"Give!\", is difficult indeed; you, that / whether you grant or do not grant, O one of victorious war, / who does not run away from thrown weapons, whose valor is like cloth / pure and spread, resembling, dense and high above, / where cool, many waterfalls descend, your / great forest of Koṇkāṉam, singing is easy indeed for me.",
- "translation": "Even when walking close to the shore of the wave-beaten ocean, people will ask for a little fresh water to quench their thirst if they meet someone who knows where to find it. Likewise, even when they are in the presence of kings, poets will seek out truly generous patrons. Therefore, I will not ask, 'What is the reward I have received?' I have suffered poverty, and so, thinking of you, I have come. Begging by saying 'Give!' is indeed difficult. Whether you grant my request or not, O warrior of victorious battles who never retreats from thrown weapons! Your high mountain slopes are dense with cool, cascading waterfalls that resemble pure, spread-out white cloth. Singing of your great forest of Koṇkāṉam is indeed easy for me.",
- "modern": "அலைகள் மோதும் கடலின் கரைக்கு அருகில் சென்றாலும், தாகத்தைத் தணிக்கும் வழியை அறிந்தவர்களைக் கண்டால், மனிதர்கள் குடிக்கக் கொஞ்சம் நல்ல நீரையே கேட்பார்கள். அதுபோல, அரசர்களின் அருகில் இருந்தாலும், புலவர்கள் குற்றம் இல்லாத வள்ளல்களையே நாடிச் செல்வார்கள். அதனால், 'நான் பெற்ற பயன் என்ன? பரிசு என்ன?' என்று நான் கேட்க மாட்டேன். வறுமையால் துன்புற்றேன், ஆதலால் உன்னை நினைத்து வந்தேன். 'தாருங்கள்' என்று இரந்து கேட்பது மிகவும் அரிதானது. நீ எனக்குப் பரிசுகளைக் கொடுத்தாலும் கொடுக்காவிட்டாலும், எறியப்படும் படைகளுக்கு அஞ்சி ஓடாத ஆண்மை உடையவனே! தூய வெண்மையான ஆடை விரிந்து கிடப்பது போல, உச்சி மலையிலிருந்து குளிர்ந்த பல அருவிகள் வீழ்ந்து ஓடும் உன்னுடைய பெரிய கொண்கானக் காட்டைப் பாடுவது எனக்கு மிகவும் எளிதானது.",
- "explanation": "The poet Mōcikīraṉār addresses the chieftain Koṇkāṉaṅ kiṉāṉ, seeking his patronage. He uses a beautiful analogy: just as a traveler walking by the salty ocean still seeks a small cup of fresh water from someone who knows where to find it, poets in the courts of wealthy kings still seek out truly generous patrons. The poet states that he has come because of his poverty, but he will not beg with the words \"Give me.\" Whether the chieftain rewards him or not, the poet declares that singing the praises of the chieftain's beautiful mountain country, Koṇkāṉam, is a natural and easy joy for him. The image of the vast but undrinkable ocean contrasted with a small cup of sweet water perfectly illustrates the difference between mighty but ungenerous kings and humble but benevolent patrons. The description of the cool waterfalls cascading down the high mountains like pure white cloth spread out highlights the natural wealth and beauty of the chieftain's land, reflecting his pure and noble character.",
+ "literal": "Even if going near the shore of the wave-dashing ocean / if seeing those who know, thirst-removing / little water people will ask for; like that / even though kings are nearby, faultless / generous patrons poets will seek; therefore / `I too, what is the great gain of that which was obtained?` I will not say / I experienced distress, therefore thinking of you I came / `Give` saying, begging is difficult indeed; you, that / even if you grant, or even if you do not grant, winning wars / from thrown weapons not running away valor, like cloth / pure spread resembling, abundantly high above / many cool cascading down waterfalls, your / having great forest, singing is easy indeed to me",
+ "translation": "Even if people walk along the shore of the wave-dashing ocean, if they meet someone who knows where to find it, they will ask for a little fresh water to quench their thirst. In the same way, even when kings are close by, poets seek out faultless, generous patrons. Therefore, I will not say, 'What great gain did I get?' I was in distress, and so, thinking of you, I came. Begging by saying 'Give' is indeed difficult. Whether you grant my request or not, singing of your great forest—with its cool, cascading waterfalls that resemble pure white cloth spread out high above, and your valor that never retreats from thrown weapons in winning wars—is always easy for me.",
+ "modern": "அலைகள் மோதும் கடலின் கரைக்கு அருகில் சென்றாலும், மக்கள் தாகம் தீர்க்கும் நல்ல நீரை அறிந்தவரைக் கண்டால் அவரிடம் சிறிதளவு நல்ல நீரையே கேட்பார்கள். அதுபோல, அரசர்கள் அருகில் இருந்தாலும், புலவர்கள் குற்றம் இல்லாத கொடையாளிகளையே தேடிச் செல்வார்கள். அதனால், நானும் 'எனக்குக் கிடைத்த பரிசு என்ன பயன் தரும்?' என்று கேட்க மாட்டேன். வறுமை உற்றேன், அதனால் உன்னை நினைத்து வந்தேன். 'தா' என்று இரப்பது கடினமானது. நீ அதனைத் தந்தாலும் தராவிட்டாலும், போரில் எறியும் படைக்கலன்களுக்கு அஞ்சாத ஆண்மையையும், தூய விரித்த ஆடையைப் போல மலையின் மேல் இருந்து விழும் குளிர்ந்த அருவிகளையும் உடைய உனது பெரிய கானகத்தைப் பாடுவது எனக்கு மிகவும் எளிதானது.",
+ "explanation": "This poem is spoken by the poet Mōcikīraṉār to the chieftain Koṇkāṉaṅ Kiḻāṉ under the theme of 'parisil' (seeking gifts). The poet uses a beautiful simile: just as thirsty travelers walking by the vast but salty ocean will still seek out a small spring of fresh water from those who know, poets will bypass wealthy but ungenerous kings to seek out truly generous patrons. The poet explains that he came to the chieftain because of his own distress, but asserts his dignity by stating that begging is hard. He declares that whether the patron rewards him or not, singing of the chieftain's valor and his beautiful mountain forest—where waterfalls cascade like spread-out white cloth—is always easy and natural for him. Key words include 'வள்ளியோர்' (generous patrons), 'இரத்தலோ அரிதே' (begging is indeed difficult), and 'பாடல் எனக்கு எளிதே' (singing is easy for me).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

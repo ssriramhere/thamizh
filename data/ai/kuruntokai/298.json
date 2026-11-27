@@ -146,18 +146,18 @@
      "parts": [
       {
        "text": "பெயர்ந்து",
-       "lemma": "பெயர்",
+       "lemma": "பெயர்தல்",
        "gloss": "having changed"
       }
      ],
-     "gloss": "having changed"
+     "gloss": "having faded"
     },
     {
      "surface": "உறையும்",
      "parts": [
       {
        "text": "உறையும்",
-       "lemma": "உறை",
+       "lemma": "உறைதல்",
        "gloss": "staying"
       }
      ],
@@ -184,7 +184,7 @@
       {
        "text": "பைதல்",
        "lemma": "பைதல்",
-       "gloss": "sorrowful"
+       "gloss": "sorrow"
       }
      ],
      "gloss": "sorrowful"
@@ -205,11 +205,11 @@
      "parts": [
       {
        "text": "நினையாய்",
-       "lemma": "நினை",
-       "gloss": "think"
+       "lemma": "நினைத்தல்",
+       "gloss": "consider"
       }
      ],
-     "gloss": "do think of"
+     "gloss": "consider"
     },
     {
      "surface": "தோழி",
@@ -242,11 +242,12 @@
      "parts": [
       {
        "text": "கடும்",
-       "lemma": "கடுமை",
+       "lemma": "கடும்",
        "gloss": "strong"
       }
      ],
-     "gloss": "strong"
+     "gloss": "strong",
+     "split_unverified": true
     },
     {
      "surface": "கள்ளின்",
@@ -259,7 +260,7 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "of"
+       "gloss": "genitive suffix"
       }
      ],
      "gloss": "of toddy"
@@ -291,40 +292,48 @@
   {
    "words": [
     {
-     "surface": "வெண்கடைச்",
+     "surface": "வெண்கடை",
      "parts": [
       {
-       "text": "வெண்கடைச்",
-       "lemma": "வெண்கடைச்",
-       "gloss": ""
+       "text": "வெண்கடை",
+       "lemma": "வெண்கடை",
+       "gloss": "white-tipped"
       }
      ],
-     "gloss": "",
+     "gloss": "white-tipped",
      "split_unverified": true
     },
     {
-     "surface": "சிறுகோ",
+     "surface": "சிறுகோல்",
      "parts": [
       {
-       "text": "சிறுகோ",
-       "lemma": "சிறுகோ",
-       "gloss": ""
+       "text": "சிறு",
+       "lemma": "சிறுமை",
+       "gloss": "small"
+      },
+      {
+       "text": "கோல்",
+       "lemma": "கோல்",
+       "gloss": "staff"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "small staff"
     },
     {
-     "surface": "லகவன்",
+     "surface": "அகவன்",
      "parts": [
       {
-       "text": "லகவன்",
-       "lemma": "லகவன்",
-       "gloss": ""
+       "text": "அகவு",
+       "lemma": "அகவுதல்",
+       "gloss": "to sing"
+      },
+      {
+       "text": "அன்",
+       "lemma": "அன்",
+       "gloss": "masculine singular suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "singer's"
     },
     {
      "surface": "மகளிர்",
@@ -332,38 +341,26 @@
       {
        "text": "மகளிர்",
        "lemma": "மகளிர்",
-       "gloss": ""
+       "gloss": "women"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "women"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "மட",
+     "surface": "மடப்பிடி",
      "parts": [
       {
-       "text": "மட",
-       "lemma": "மடமை",
-       "gloss": "gentle"
+       "text": "மடப்பிடி",
+       "lemma": "மடப்பிடி",
+       "gloss": "gentle female elephant"
       }
      ],
-     "gloss": "gentle"
-    },
-    {
-     "surface": "பிடி",
-     "parts": [
-      {
-       "text": "பிடி",
-       "lemma": "பிடி",
-       "gloss": "female elephant"
-      }
-     ],
-     "gloss": "female elephant"
+     "gloss": "gentle female elephant",
+     "split_unverified": true
     },
     {
      "surface": "பரிசில்",
@@ -411,15 +408,15 @@
        "gloss": "one"
       }
      ],
-     "gloss": "thing"
+     "gloss": "one"
     },
     {
      "surface": "குறித்தது",
      "parts": [
       {
        "text": "குறித்தது",
-       "lemma": "குறி",
-       "gloss": "intended"
+       "lemma": "குறித்தல்",
+       "gloss": "that which was intended"
       }
      ],
      "gloss": "intended"
@@ -436,31 +433,16 @@
      "gloss": "his"
     },
     {
-     "surface": "நெடும்",
+     "surface": "நெடும்புறம்",
      "parts": [
       {
-       "text": "நெடு",
-       "lemma": "நெடுமை",
-       "gloss": "long"
-      },
-      {
-       "text": "ம்",
-       "lemma": "ம்",
-       "gloss": "adjectival suffix"
+       "text": "நெடும்புறம்",
+       "lemma": "நெடும்புறம்",
+       "gloss": "long back"
       }
      ],
-     "gloss": "long"
-    },
-    {
-     "surface": "புறம்",
-     "parts": [
-      {
-       "text": "புறம்",
-       "lemma": "புறம்",
-       "gloss": "back"
-      }
-     ],
-     "gloss": "back"
+     "gloss": "long back",
+     "split_unverified": true
     },
     {
      "surface": "நிலை",
@@ -487,10 +469,10 @@
    ]
   }
  ],
- "literal": "To reach the neighborhood, gently coming and coming, / rarely speaking out, sweet words having spoken, / every day, with changed complexion, he who stays, / his sorrowful look, do consider, O friend! / Of Akutai, who has sweet and strong toddy, the father, / white-tipped small staff holding, the singing women, / a gentle female elephant as a gift, resembling, / intending something else, his standing at the long back indeed.",
- "translation": "Coming gently again and again to reach our neighborhood, rarely speaking out but saying sweet words, his complexion changing day by day as he lingers—O friend, do think of his sorrowful look! Like the singing women holding small, white-tipped staffs who receive a gentle female elephant as a gift from the father of Akutai, who possesses sweet, strong toddy, his standing there at the long back of our house, waiting, surely intends something else.",
- "modern": "நம்முடைய சேரிக்கு மெல்ல மெல்லத் திரும்பத் திரும்ப வந்து, அரிதாகத் தன் வாயைத் திறந்து சில இனிய சொற்களைக் கூறி, நாள்தோறும் தன் நிறம் வேறுபட்டுத் தங்கியிருக்கும் அவனுடைய துன்பம் நிறைந்த பார்வையைத் தோழியே நீ சிந்தித்துப் பார். இனிய, கடுமையான கள்ளையுடைய அகுதையின் தந்தை, வெண்மையான முனையையுடைய சிறிய கோலைக் கையில் ஏந்திய பாடினி மகளிர்க்கு இளமையான பெண் யானையைப் பரிசாக வழங்குவது போல, நம் வீட்டின் நீண்ட புறத்தே அவன் வந்து நிற்பது வேறு ஏதோ ஒன்றை (உன்னை மணமுடிக்கக் கேட்பதை) மனதிற் கொண்டுதான்.",
- "explanation": "The friend (தோழி) is speaking to the heroine (தலைவி) about the hero's persistent visits. He has been coming to their neighborhood secretly, speaking very little but with sweet words, and waiting outside their house with a changing, distressed complexion. The friend urges the heroine to consider his sorrowful look and understand his deep love. She compares his waiting outside to the singing women who stand with their small white-tipped staffs, waiting to receive a grand gift (a female elephant) from the generous father of the chieftain Akutai. Just as those women wait for a precious gift, the hero stands outside waiting for the ultimate gift of the heroine's hand in marriage.",
+ "literal": "To the street to reach, gently having come, having come / rarely, opening his mouth, sweet words having spoken, / every day, with his complexion faded, he who stays, / his sorrowful look, do you not consider, O friend? / Of the sweet, strong toddy, Akutai's father, / with white-tipped small staffs, the singer's women, / a gentle female elephant as a gift, resembling, / intending something else, his standing outside for a long time!",
+ "translation": "O friend, do you not consider his sorrowful look? Every day he comes gently to our street, and with great difficulty, speaks a few sweet words, his complexion fading as he stays. Like the women of the bards with white-tipped small staffs who sing for Akutai's father—the lord of sweet, strong toddy—and stand waiting, expecting a gentle female elephant as a gift, he stands outside our house for a long time, clearly intending something else.",
+ "modern": "தோழியே! நம் தெருவை அடைந்து, மெதுவாக மீண்டும் மீண்டும் வந்து, அரிதாகத் தன் வாயைத் திறந்து, இனிய சொற்களைக் கூறி, நாள்தோறும் தன் நிறம் மாறி வாடி நிற்கும் அவனுடைய துன்பம் நிறைந்த பார்வையை நீ நினைக்க மாட்டாயா? இனிய, கடுமையான கள்ளையுடைய அகுதையின் தந்தையிடம், வெண்மையான நுனியையுடைய சிறிய கோலைக் கொண்ட பாடினிப் பெண்கள், இளமையான பெண் யானையைப் பரிசாகப் பெற விரும்பி நிற்பது போல, அவன் வேறு ஏதோ ஒன்றை (உன் திருமணத்தை) மனதில் கொண்டு நம் வீட்டின் நீண்ட புறத்தே வந்து காத்து நிற்கும் நிலையைக் காண்பாயாக.",
+ "explanation": "This poem is spoken by the confidante to the heroine in a Kuriñci context, urging her to accept the hero's love and agree to marriage. The hero has been visiting the heroine's street secretly, speaking sweet words with difficulty, and waiting outside for long periods. His complexion is fading due to the distress of unfulfilled love and the difficulty of secret trysts. The confidante compares his long, patient waiting outside to the bardic women who carry white-tipped staffs and sing praises to the chieftain Akutai's father, waiting patiently to receive a grand gift like a female elephant. Just as the bards stand waiting with a specific reward in mind, the hero stands outside intending 'something else'—which is the hand of the heroine in marriage.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

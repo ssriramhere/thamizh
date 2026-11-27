@@ -18,11 +18,11 @@
      "parts": [
       {
        "text": "ஆய்ந்த",
-       "lemma": "ஆய்தல்",
-       "gloss": "examined"
+       "lemma": "ஆய்",
+       "gloss": "investigated"
       }
      ],
-     "gloss": "examined"
+     "gloss": "investigated"
     },
     {
      "surface": "நீள்",
@@ -99,11 +99,11 @@
      "parts": [
       {
        "text": "போகாது",
-       "lemma": "போகுதல்",
+       "lemma": "போ",
        "gloss": "not leaving"
       }
      ],
-     "gloss": "without leaving"
+     "gloss": "not leaving"
     }
    ]
   },
@@ -125,18 +125,18 @@
      "parts": [
       {
        "text": "புரிந்த",
-       "lemma": "புரிதல்",
-       "gloss": "cherished"
+       "lemma": "புரி",
+       "gloss": "desired"
       }
      ],
-     "gloss": "cherished"
+     "gloss": "desired"
     },
     {
      "surface": "ஈர்",
      "parts": [
       {
        "text": "ஈர்",
-       "lemma": "இரண்டு",
+       "lemma": "ஈர்",
        "gloss": "two"
       }
      ],
@@ -146,12 +146,17 @@
      "surface": "இரண்டின்",
      "parts": [
       {
-       "text": "இரண்டின்",
+       "text": "இரண்டு",
        "lemma": "இரண்டு",
-       "gloss": "of two"
+       "gloss": "two"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "of two"
+     "gloss": "of four"
     }
    ]
   },
@@ -173,7 +178,7 @@
      "parts": [
       {
        "text": "உணர்ந்த",
-       "lemma": "உணர்தல்",
+       "lemma": "உணர்",
        "gloss": "understood"
       }
      ],
@@ -222,17 +227,17 @@
       {
        "text": "இகல்",
        "lemma": "இகல்",
-       "gloss": "hostility"
+       "gloss": "enmity"
       }
      ],
-     "gloss": "hostility"
+     "gloss": "enmity"
     },
     {
      "surface": "கண்டோர்",
      "parts": [
       {
        "text": "கண்டோர்",
-       "lemma": "காணல்",
+       "lemma": "காண்",
        "gloss": "those who saw"
       }
      ],
@@ -244,17 +249,17 @@
       {
        "text": "மிகல்",
        "lemma": "மிகல்",
-       "gloss": "pride"
+       "gloss": "superiority"
       }
      ],
-     "gloss": "pride"
+     "gloss": "superiority"
     },
     {
      "surface": "சாய்மார்",
      "parts": [
       {
        "text": "சாய்மார்",
-       "lemma": "சாய்தல்",
+       "lemma": "சாய்",
        "gloss": "to subdue"
       }
      ],
@@ -302,11 +307,11 @@
      "parts": [
       {
        "text": "உணர்ந்து",
-       "lemma": "உணர்தல்",
-       "gloss": "understanding"
+       "lemma": "உணர்",
+       "gloss": "having understood"
       }
      ],
-     "gloss": "understanding"
+     "gloss": "having understood"
     }
    ]
   },
@@ -328,11 +333,11 @@
      "parts": [
       {
        "text": "ஓராது",
-       "lemma": "ஓர்தல்",
-       "gloss": "rejecting"
+       "lemma": "ஓர்",
+       "gloss": "not considering"
       }
      ],
-     "gloss": "rejecting"
+     "gloss": "not considering"
     },
     {
      "surface": "மெய்",
@@ -350,7 +355,7 @@
      "parts": [
       {
        "text": "கொளீஇ",
-       "lemma": "கொள்ளுதல்",
+       "lemma": "கொள்",
        "gloss": "having established"
       }
      ],
@@ -364,13 +369,17 @@
      "surface": "மூவேழ்",
      "parts": [
       {
-       "text": "மூவேழ்",
-       "lemma": "மூவேழ்",
-       "gloss": ""
+       "text": "மூ",
+       "lemma": "மூ",
+       "gloss": "three"
+      },
+      {
+       "text": "ஏழ்",
+       "lemma": "ஏழ்",
+       "gloss": "seven"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "twenty-one"
     },
     {
      "surface": "துறைபும்",
@@ -378,38 +387,40 @@
       {
        "text": "துறைபும்",
        "lemma": "துறைபும்",
-       "gloss": ""
+       "gloss": "and the departments"
       }
      ],
-     "gloss": "",
+     "gloss": "and the departments",
      "split_unverified": true
     },
     {
      "surface": "முட்டின்று",
      "parts": [
       {
-       "text": "முட்டின்று",
-       "lemma": "முட்டின்று",
-       "gloss": ""
+       "text": "முட்டு",
+       "lemma": "முட்டு",
+       "gloss": "obstacle"
+      },
+      {
+       "text": "இன்று",
+       "lemma": "இன்று",
+       "gloss": "without"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "without obstacle"
     },
     {
      "surface": "போகிய",
      "parts": [
       {
        "text": "போகிய",
-       "lemma": "போகிய",
-       "gloss": ""
+       "lemma": "போ",
+       "gloss": "completed"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "completed"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -419,10 +430,10 @@
       {
        "text": "உரை",
        "lemma": "உரை",
-       "gloss": "praise"
+       "gloss": "repute"
       }
      ],
-     "gloss": "praise"
+     "gloss": "repute"
     },
     {
      "surface": "சால்",
@@ -439,9 +450,14 @@
      "surface": "சிறப்பின்",
      "parts": [
       {
-       "text": "சிறப்பின்",
+       "text": "சிறப்பு",
        "lemma": "சிறப்பு",
        "gloss": "excellence"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
      "gloss": "of excellence"
@@ -478,26 +494,26 @@
       {
        "text": "வினை",
        "lemma": "வினை",
-       "gloss": "ritual"
+       "gloss": "ritual action"
       },
       {
-       "text": "கு",
+       "text": "க்கு",
        "lemma": "கு",
        "gloss": "for"
       }
      ],
-     "gloss": "for the ritual"
+     "gloss": "for the ritual action"
     },
     {
      "surface": "வேண்டி",
      "parts": [
       {
        "text": "வேண்டி",
-       "lemma": "வேண்டுதல்",
-       "gloss": "requiring"
+       "lemma": "வேண்டு",
+       "gloss": "desiring"
       }
      ],
-     "gloss": "requiring"
+     "gloss": "desiring"
     },
     {
      "surface": "நீ",
@@ -515,7 +531,7 @@
      "parts": [
       {
        "text": "பூண்ட",
-       "lemma": "பூணுதல்",
+       "lemma": "பூண்",
        "gloss": "worn"
       }
      ],
@@ -526,40 +542,42 @@
   {
    "words": [
     {
-     "surface": "புலப்",
+     "surface": "புல",
      "parts": [
       {
-       "text": "புலப்",
-       "lemma": "புலப்",
-       "gloss": ""
+       "text": "புல",
+       "lemma": "புலம்",
+       "gloss": "dry land"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "dry land"
     },
     {
      "surface": "புல்வாய்க்",
      "parts": [
       {
-       "text": "புல்வாய்க்",
-       "lemma": "புல்வாய்க்",
-       "gloss": ""
+       "text": "புல்வாய்",
+       "lemma": "புல்வாய்",
+       "gloss": "deer"
+      },
+      {
+       "text": "க்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the deer"
     },
     {
-     "surface": "கலைப்",
+     "surface": "கலை",
      "parts": [
       {
-       "text": "கலைப்",
-       "lemma": "கலைப்",
-       "gloss": ""
+       "text": "கலை",
+       "lemma": "கலை",
+       "gloss": "buck"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "buck"
     },
     {
      "surface": "பச்சை",
@@ -567,14 +585,12 @@
       {
        "text": "பச்சை",
        "lemma": "பச்சை",
-       "gloss": ""
+       "gloss": "skin"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "skin"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -584,50 +600,50 @@
       {
        "text": "சுவல்",
        "lemma": "சுவல்",
-       "gloss": ""
+       "gloss": "shoulder"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "shoulder"
     },
     {
      "surface": "பூண்ஞான்",
      "parts": [
       {
-       "text": "பூண்ஞான்",
-       "lemma": "பூண்ஞான்",
-       "gloss": ""
+       "text": "பூண்",
+       "lemma": "பூண்",
+       "gloss": "wearing"
+      },
+      {
+       "text": "ஞான்",
+       "lemma": "ஞாண்",
+       "gloss": "cord"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sacred thread"
     },
     {
-     "surface": "மிசைப்",
+     "surface": "மிசை",
      "parts": [
       {
-       "text": "மிசைப்",
-       "lemma": "மிசைப்",
-       "gloss": ""
+       "text": "மிசை",
+       "lemma": "மிசை",
+       "gloss": "upon"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "upon"
     },
     {
      "surface": "பொலிய",
      "parts": [
       {
        "text": "பொலிய",
-       "lemma": "பொலிய",
-       "gloss": ""
+       "lemma": "பொலி",
+       "gloss": "to shine"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to shine"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -637,23 +653,21 @@
       {
        "text": "மறம்",
        "lemma": "மறம்",
-       "gloss": ""
+       "gloss": "evil"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "evil"
     },
     {
      "surface": "கடிந்த",
      "parts": [
       {
        "text": "கடிந்த",
-       "lemma": "கடிந்த",
-       "gloss": ""
+       "lemma": "கடி",
+       "gloss": "shunned"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "shunned"
     },
     {
      "surface": "அருங்",
@@ -661,26 +675,29 @@
       {
        "text": "அருங்",
        "lemma": "அருங்",
-       "gloss": ""
+       "gloss": "rare"
       }
      ],
-     "gloss": "",
+     "gloss": "rare",
      "split_unverified": true
     },
     {
      "surface": "கற்பின்",
      "parts": [
       {
-       "text": "கற்பின்",
-       "lemma": "கற்பின்",
-       "gloss": ""
+       "text": "கற்பு",
+       "lemma": "கற்பு",
+       "gloss": "chastity"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of chastity"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -690,23 +707,21 @@
       {
        "text": "அறம்",
        "lemma": "அறம்",
-       "gloss": ""
+       "gloss": "virtue"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "virtue"
     },
     {
      "surface": "புகழ்ந்த",
      "parts": [
       {
        "text": "புகழ்ந்த",
-       "lemma": "புகழ்ந்த",
-       "gloss": ""
+       "lemma": "புகழ்",
+       "gloss": "praised"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "praised"
     },
     {
      "surface": "வலை",
@@ -714,26 +729,24 @@
       {
        "text": "வலை",
        "lemma": "வலை",
-       "gloss": ""
+       "gloss": "bangle"
       }
      ],
-     "gloss": "",
+     "gloss": "bangle",
      "split_unverified": true
     },
     {
-     "surface": "சூடிச்",
+     "surface": "சூடி",
      "parts": [
       {
-       "text": "சூடிச்",
-       "lemma": "சூடிச்",
-       "gloss": ""
+       "text": "சூடி",
+       "lemma": "சூடு",
+       "gloss": "having worn"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having worn"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -764,11 +777,11 @@
      "parts": [
       {
        "text": "பேர்",
-       "lemma": "பெரிய",
-       "gloss": "large"
+       "lemma": "பெருமை",
+       "gloss": "great"
       }
      ],
-     "gloss": "large"
+     "gloss": "great"
     },
     {
      "surface": "அகல்",
@@ -813,7 +826,7 @@
       {
        "text": "சொல்",
        "lemma": "சொல்",
-       "gloss": "words"
+       "gloss": "word"
       },
       {
        "text": "இன்",
@@ -869,23 +882,23 @@
        "gloss": "status"
       },
       {
-       "text": "கு",
+       "text": "க்கு",
        "lemma": "கு",
        "gloss": "to"
       }
      ],
-     "gloss": "to status"
+     "gloss": "to the status"
     },
     {
      "surface": "ஒத்த",
      "parts": [
       {
        "text": "ஒத்த",
-       "lemma": "ஒத்தல்",
-       "gloss": "matching"
+       "lemma": "ஒத்து",
+       "gloss": "suited"
       }
      ],
-     "gloss": "matching"
+     "gloss": "suited"
     },
     {
      "surface": "நின்",
@@ -929,7 +942,7 @@
      "parts": [
       {
        "text": "தமக்கு",
-       "lemma": "தாம்",
+       "lemma": "தான்",
        "gloss": "to themselves"
       }
      ],
@@ -940,7 +953,7 @@
      "parts": [
       {
        "text": "அமைந்த",
-       "lemma": "அமைதல்",
+       "lemma": "அமை",
        "gloss": "assigned"
       }
      ],
@@ -952,21 +965,21 @@
       {
        "text": "தொழில்",
        "lemma": "தொழில்",
-       "gloss": "duty"
+       "gloss": "duties"
       }
      ],
-     "gloss": "duty"
+     "gloss": "duties"
     },
     {
      "surface": "கேட்ப",
      "parts": [
       {
        "text": "கேட்ப",
-       "lemma": "கேட்டல்",
-       "gloss": "to obey"
+       "lemma": "கேள்",
+       "gloss": "to perform"
       }
      ],
-     "gloss": "to obey"
+     "gloss": "to perform"
     }
    ]
   },
@@ -987,17 +1000,12 @@
      "surface": "என்றா",
      "parts": [
       {
-       "text": "என்று",
+       "text": "என்றா",
        "lemma": "என்று",
-       "gloss": "saying"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ஆ",
        "gloss": "or"
       }
      ],
-     "gloss": "whether"
+     "gloss": "or"
     },
     {
      "surface": "நாடு",
@@ -1046,7 +1054,7 @@
       },
       {
        "text": "ஏழின்",
-       "lemma": "ஏழு",
+       "lemma": "ஏழ்",
        "gloss": "seven"
       }
      ],
@@ -1068,11 +1076,11 @@
      "parts": [
       {
        "text": "முட்டாது",
-       "lemma": "முட்டுதல்",
-       "gloss": "without omitting"
+       "lemma": "முட்டு",
+       "gloss": "without failing"
       }
      ],
-     "gloss": "without omitting"
+     "gloss": "without failing"
     }
    ]
   },
@@ -1094,11 +1102,11 @@
      "parts": [
       {
        "text": "நாண",
-       "lemma": "நாணுதல்",
-       "gloss": "to feel ashamed"
+       "lemma": "நாணு",
+       "gloss": "to be ashamed"
       }
      ],
-     "gloss": "to feel ashamed"
+     "gloss": "to be ashamed"
     },
     {
      "surface": "நெய்",
@@ -1115,17 +1123,12 @@
      "surface": "வழங்கியும்",
      "parts": [
       {
-       "text": "வழங்கி",
-       "lemma": "வழங்குதல்",
-       "gloss": "offering"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
+       "text": "வழங்கியும்",
+       "lemma": "வழங்கு",
+       "gloss": "and distributing"
       }
      ],
-     "gloss": "and offering"
+     "gloss": "and distributing"
     }
    ]
   },
@@ -1147,11 +1150,11 @@
      "parts": [
       {
        "text": "நாண",
-       "lemma": "நாணுதல்",
-       "gloss": "to feel ashamed"
+       "lemma": "நாணு",
+       "gloss": "to be ashamed"
       }
      ],
-     "gloss": "to feel ashamed"
+     "gloss": "to be ashamed"
     },
     {
      "surface": "பல",
@@ -1168,17 +1171,12 @@
      "surface": "வேட்டும்",
      "parts": [
       {
-       "text": "வேட்டு",
-       "lemma": "வேட்டல்",
-       "gloss": "sacrificing"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
+       "text": "வேட்டும்",
+       "lemma": "வேள்",
+       "gloss": "and having sacrificed"
       }
      ],
-     "gloss": "and sacrificing"
+     "gloss": "and having sacrificed"
     }
    ]
   },
@@ -1200,11 +1198,11 @@
      "parts": [
       {
        "text": "நாண",
-       "lemma": "நாணுதல்",
-       "gloss": "to feel ashamed"
+       "lemma": "நாணு",
+       "gloss": "to be ashamed"
       }
      ],
-     "gloss": "to feel ashamed"
+     "gloss": "to be ashamed"
     },
     {
      "surface": "புகழ்",
@@ -1221,14 +1219,9 @@
      "surface": "பரப்பியும்",
      "parts": [
       {
-       "text": "பரப்பி",
-       "lemma": "பரப்புதல்",
-       "gloss": "spreading"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
+       "text": "பரப்பியும்",
+       "lemma": "பரப்பு",
+       "gloss": "and spreading"
       }
      ],
      "gloss": "and spreading"
@@ -1243,23 +1236,22 @@
       {
        "text": "அருங்",
        "lemma": "அருங்",
-       "gloss": ""
+       "gloss": "rare"
       }
      ],
-     "gloss": "",
+     "gloss": "rare",
      "split_unverified": true
     },
     {
-     "surface": "கடிப்",
+     "surface": "கடி",
      "parts": [
       {
-       "text": "கடிப்",
-       "lemma": "கடிப்",
-       "gloss": ""
+       "text": "கடி",
+       "lemma": "கடி",
+       "gloss": "sacredness"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sacredness"
     },
     {
      "surface": "பெருங்",
@@ -1267,10 +1259,10 @@
       {
        "text": "பெருங்",
        "lemma": "பெருங்",
-       "gloss": ""
+       "gloss": "great"
       }
      ],
-     "gloss": "",
+     "gloss": "great",
      "split_unverified": true
     },
     {
@@ -1279,14 +1271,12 @@
       {
        "text": "காலை",
        "lemma": "காலை",
-       "gloss": ""
+       "gloss": "time"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "time"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1306,7 +1296,7 @@
      "parts": [
       {
        "text": "உற்ற",
-       "lemma": "உறுதல்",
+       "lemma": "உறு",
        "gloss": "received"
       }
      ],
@@ -1328,7 +1318,7 @@
      "parts": [
       {
        "text": "திருந்து",
-       "lemma": "திருந்துதல்",
+       "lemma": "திருந்து",
        "gloss": "perfected"
       }
      ],
@@ -1339,7 +1329,7 @@
      "parts": [
       {
        "text": "ஏந்து",
-       "lemma": "ஏந்துதல்",
+       "lemma": "ஏந்து",
        "gloss": "eminent"
       }
      ],
@@ -1372,20 +1362,26 @@
      "gloss": "always"
     },
     {
-     "surface": "காண்கதில்",
+     "surface": "காண்க",
      "parts": [
       {
        "text": "காண்க",
-       "lemma": "காணல்",
+       "lemma": "காண்",
        "gloss": "may we see"
-      },
+      }
+     ],
+     "gloss": "may we see"
+    },
+    {
+     "surface": "தில்",
+     "parts": [
       {
        "text": "தில்",
        "lemma": "தில்",
        "gloss": "particle of desire"
       }
      ],
-     "gloss": "may we see indeed"
+     "gloss": "particle of desire"
     },
     {
      "surface": "அம்ம",
@@ -1393,10 +1389,10 @@
       {
        "text": "அம்ம",
        "lemma": "அம்ம",
-       "gloss": "particle of address"
+       "gloss": "excl. of address"
       }
      ],
-     "gloss": "ah"
+     "gloss": "excl. of address"
     },
     {
      "surface": "யாமே",
@@ -1409,7 +1405,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "indeed"
       }
      ],
      "gloss": "we indeed"
@@ -1420,7 +1416,7 @@
       {
        "text": "குடாஅது",
        "lemma": "குடக்கு",
-       "gloss": "west"
+       "gloss": "in the west"
       }
      ],
      "gloss": "in the west"
@@ -1445,11 +1441,11 @@
      "parts": [
       {
        "text": "படு",
-       "lemma": "படுதல்",
-       "gloss": "producing"
+       "lemma": "படு",
+       "gloss": "yielding"
       }
      ],
-     "gloss": "producing"
+     "gloss": "yielding"
     },
     {
      "surface": "நெடு",
@@ -1457,10 +1453,10 @@
       {
        "text": "நெடு",
        "lemma": "நெடுமை",
-       "gloss": "tall"
+       "gloss": "long"
       }
      ],
-     "gloss": "tall"
+     "gloss": "long"
     },
     {
      "surface": "வரை",
@@ -1490,21 +1486,21 @@
       {
        "text": "ஏறு",
        "lemma": "ஏறு",
-       "gloss": "thunderbolt"
+       "gloss": "thunder"
       }
      ],
-     "gloss": "thunderbolt"
+     "gloss": "thunder"
     },
     {
      "surface": "சிலைப்பின்",
      "parts": [
       {
        "text": "சிலைப்பின்",
-       "lemma": "சிலைத்தல்",
-       "gloss": "roaring"
+       "lemma": "சிலை",
+       "gloss": "if roars"
       }
      ],
-     "gloss": "if it roars"
+     "gloss": "if roars"
     }
    ]
   },
@@ -1516,17 +1512,17 @@
       {
        "text": "பூ",
        "lemma": "பூ",
-       "gloss": "flower"
+       "gloss": "flowers"
       }
      ],
-     "gloss": "flower"
+     "gloss": "flowers"
     },
     {
      "surface": "விரி",
      "parts": [
       {
        "text": "விரி",
-       "lemma": "விரிதல்",
+       "lemma": "விரி",
        "gloss": "blooming"
       }
      ],
@@ -1544,15 +1540,20 @@
      "gloss": "fresh"
     },
     {
-     "surface": "நீர்",
+     "surface": "நீர்க்",
      "parts": [
       {
        "text": "நீர்",
        "lemma": "நீர்",
        "gloss": "water"
+      },
+      {
+       "text": "க்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "water"
+     "gloss": "of water"
     },
     {
      "surface": "காவிரி",
@@ -1563,18 +1564,18 @@
        "gloss": "Kaveri river"
       }
      ],
-     "gloss": "Kaveri"
+     "gloss": "Kaveri river"
     },
     {
      "surface": "புரக்கும்",
      "parts": [
       {
        "text": "புரக்கும்",
-       "lemma": "புரத்தல்",
-       "gloss": "protecting"
+       "lemma": "புர",
+       "gloss": "protects"
       }
      ],
-     "gloss": "nourishing"
+     "gloss": "protects"
     }
    ]
   },
@@ -1654,56 +1655,41 @@
      "surface": "உண்டும்",
      "parts": [
       {
-       "text": "உண்டு",
-       "lemma": "உண்ணல்",
+       "text": "உண்டும்",
+       "lemma": "உண்",
        "gloss": "eating"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
       }
      ],
-     "gloss": "eating and"
+     "gloss": "eating"
     },
     {
      "surface": "தின்றும்",
      "parts": [
       {
-       "text": "தின்று",
-       "lemma": "தின்னல்",
-       "gloss": "chewing"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
+       "text": "தின்றும்",
+       "lemma": "தின்",
+       "gloss": "eating"
       }
      ],
-     "gloss": "chewing and"
+     "gloss": "eating"
     },
     {
      "surface": "ஊர்ந்தும்",
      "parts": [
       {
-       "text": "ஊர்ந்து",
-       "lemma": "ஊர்தல்",
+       "text": "ஊர்ந்தும்",
+       "lemma": "ஊர்",
        "gloss": "riding"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
       }
      ],
-     "gloss": "riding and"
+     "gloss": "riding"
     },
     {
      "surface": "ஆடுகம்",
      "parts": [
       {
        "text": "ஆடுகம்",
-       "lemma": "ஆடுதல்",
+       "lemma": "ஆடு",
        "gloss": "let us play"
       }
      ],
@@ -1718,7 +1704,7 @@
      "parts": [
       {
        "text": "செல்வல்",
-       "lemma": "செல்லுதல்",
+       "lemma": "செல்",
        "gloss": "I will go"
       }
      ],
@@ -1730,10 +1716,10 @@
       {
        "text": "அத்தை",
        "lemma": "அத்தை",
-       "gloss": "expletive particle"
+       "gloss": "particle of address"
       }
      ],
-     "gloss": "indeed"
+     "gloss": "particle of address"
     },
     {
      "surface": "யானே",
@@ -1746,7 +1732,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "indeed"
       }
      ],
      "gloss": "I indeed"
@@ -1756,11 +1742,11 @@
      "parts": [
       {
        "text": "செல்லாது",
-       "lemma": "செல்லுதல்",
-       "gloss": "remaining"
+       "lemma": "செல்",
+       "gloss": "without going"
       }
      ],
-     "gloss": "remaining"
+     "gloss": "without going"
     }
    ]
   },
@@ -1772,28 +1758,28 @@
       {
        "text": "மழை",
        "lemma": "மழை",
-       "gloss": "cloud"
+       "gloss": "clouds"
       }
      ],
-     "gloss": "cloud"
+     "gloss": "clouds"
     },
     {
      "surface": "அண்ணாப்ப",
      "parts": [
       {
        "text": "அண்ணாப்ப",
-       "lemma": "அண்ணாத்தல்",
-       "gloss": "reaching up to"
+       "lemma": "அண்ணா",
+       "gloss": "to reach"
       }
      ],
-     "gloss": "reaching up to"
+     "gloss": "to reach"
     },
     {
      "surface": "நீடிய",
      "parts": [
       {
        "text": "நீடிய",
-       "lemma": "நீடுதல்",
+       "lemma": "நீடு",
        "gloss": "extended"
       }
      ],
@@ -1805,21 +1791,26 @@
       {
        "text": "நெடு",
        "lemma": "நெடுமை",
-       "gloss": "tall"
+       "gloss": "long"
       }
      ],
-     "gloss": "tall"
+     "gloss": "long"
     },
     {
-     "surface": "வரை",
+     "surface": "வரைக்",
      "parts": [
       {
        "text": "வரை",
        "lemma": "வரை",
        "gloss": "mountain"
+      },
+      {
+       "text": "க்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "mountain"
+     "gloss": "of mountain"
     }
    ]
   },
@@ -1841,7 +1832,7 @@
      "parts": [
       {
        "text": "வளர்",
-       "lemma": "வளர்தல்",
+       "lemma": "வளர்",
        "gloss": "growing"
       }
      ],
@@ -1878,11 +1869,11 @@
      "parts": [
       {
        "text": "நிலீஇயர்",
-       "lemma": "நிலைபெறுதல்",
-       "gloss": "may you endure"
+       "lemma": "நில்",
+       "gloss": "may you stand"
       }
      ],
-     "gloss": "may you endure"
+     "gloss": "may you stand"
     },
     {
      "surface": "அத்தை",
@@ -1890,10 +1881,10 @@
       {
        "text": "அத்தை",
        "lemma": "அத்தை",
-       "gloss": "expletive particle"
+       "gloss": "particle of address"
       }
      ],
-     "gloss": "indeed"
+     "gloss": "particle of address"
     },
     {
      "surface": "நீ",
@@ -1926,14 +1917,9 @@
        "gloss": "upon"
       },
       {
-       "text": "ஆன்",
-       "lemma": "ஆன்",
-       "gloss": "locative suffix"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "text": "ஆனே",
+       "lemma": "ஆனே",
+       "gloss": "indeed"
       }
      ],
      "gloss": "upon indeed"
@@ -1941,10 +1927,10 @@
    ]
   }
  ],
- "literal": "Well-examined long erect matted hair / of the ancient first lord, without leaving his mouth, / having cherished the one, of the two times two / six-understood unique ancient treatise, / those who saw debate, to subdue their pride, / understanding falsehood that is like truth, / rejecting falsehood and establishing truth, / having completed without obstacle the twenty-one paths, / O descendant of wise people of praise-worthy excellence! / Requiring for the ritual, worn by you, / the skin of the buck of the forest deer, / shining upon the thread worn on the shoulder, / of rare virtue that shunned evil, / wearing bangles praised by righteousness, / small forehead, large wide hips, / few words, abundant hair, your / matching your status, your equal wives, / to obey the duties assigned to themselves, / whether forest or country, there / without omitting the fourteen places, / offering ghee so that water feels ashamed, / and sacrificing many so that calculation feels ashamed, / and spreading fame so that the earth feels ashamed, / at the great time of rare ritual, / your perfect eminent state of receiving guests, / may we always see indeed, ah! In the west, / if the thunderbolt of the cloud roars on the gold-producing tall mountain, / Kaveri nourishing with fresh water blooming with flowers, / there in our village of cool water gardens, / eating, chewing, riding, let us play. / I will go indeed, but without going, / like the bamboo-growing Himalayas, the tall mountain extended to reach up to the clouds, / may you endure indeed upon the earth!",
- "translation": "O descendant of wise men of praise-worthy excellence! You follow the unique, ancient treatise of six parts (the Vedangas) that arose from the four Vedas cherished as one, which never leave the mouth of the ancient first Lord (Shiva) with long, erect matted hair. To subdue the pride of those who engage in hostile debates, you understand the falsehood that resembles truth, reject it, and establish the truth. You have completed without obstacle the twenty-one kinds of sacrifices. For the sacred rituals, you wear the skin of the forest buck, shining upon the sacred thread on your shoulder. Your wives, who match your status, have small foreheads, wide hips, speak few words, and have abundant hair; they obey the duties assigned to them. Whether in the forest or in the country, without omitting any of the fourteen places of sacrifice, you offer ghee so abundantly that water feels ashamed, perform so many sacrifices that numbers feel ashamed, and spread your fame so that the earth feels ashamed. May we always behold your perfect, eminent state of receiving guests at the great time of these rare rituals! In our village, situated where the Kaveri river, filled with fresh water and blooming flowers, nourishes the land when the thunder of clouds roars on the gold-bearing western mountains, we shall eat, drink, ride, and rejoice. I shall take my leave now; but may you, remaining here, endure upon this earth like the bamboo-growing Himalayas, the tall mountain that reaches up to the clouds!",
- "modern": "நன்றாக ஆராயப்பட்ட, நீண்ட, நிமிர்ந்த சடையையுடைய பழமையான முதல்வனாகிய சிவபெருமானின் வாயிலிருந்து நீங்காது விளங்கும், ஒப்பற்றதாகப் போற்றப்படும் நான்கு வேதங்களின் ஆறு அங்கங்களையும் உணர்ந்த பழமையான நூலின்படி, வாதம் செய்வோரின் செருக்கை அடக்குவதற்காக, மெய் போன்ற பொய்களை ஆராய்ந்து அறிந்து, அப்பொய்களை நீக்கி மெய்ம்மையைக் கொண்டு, இருபத்தொரு வேள்வித் துறைகளையும் தடையின்றி முடித்த, புகழ்பெற்ற சிறப்பினை உடைய அறிஞர்களின் மரபில் வந்தவனே! வேள்வித் தொழிலுக்காக நீ அணிந்துள்ள காட்டில் வாழும் புல்வாய் என்னும் மானின் தோலானது, உனது தோளில் அணிந்துள்ள பூணூலின் மேல் விளங்குகின்றது. தீமைகளை நீக்கிய அரிய கற்பினையும், அறம் போற்றும் வளையல்களையும் அணிந்த, சிறிய நெற்றியும், பெரிய அகன்ற அல்குலும், சில சொற்களும், அடர்ந்த கூந்தலும் உடைய, உனது நிலைக்கு ஏற்ற உனது மனைவியர் தமக்குரிய கடமைகளைக் கேட்டுச் செய்ய, காடு என்றும் நாடு என்றும் கூறப்படும் பதினான்கு இடங்களிலும் தடையின்றி, நீர் நாணும்படி நெய்யை வாரி வழங்கியும், எண்கள் நாணும்படி பல வேள்விகளைச் செய்தும், நிலமகள் நாணும்படி உனது புகழைப் பரப்பியும், அரிய வேள்வி செய்யும் பெரிய காலங்களில் விருந்தினரை வரவேற்கும் உனது சிறந்த நிலையை நாங்களும் எப்போதும் காண்போமாக! மேற்கே பொன் விளையும் நீண்ட மலையில் மேகம் இடித்து முழங்கும்போது, மலர்கள் விரிந்த புதுநீரைக் கொண்டு காவிரியாறு பாயும் குளிர்ந்த நீர்நிலைகளையுடைய எமது ஊரின்கண் யாம் உண்டும் தின்றும் குதிரை முதலியவற்றில் ஊர்ந்தும் விளையாடுவோம். யான் இப்போது செல்வேன்; மேகங்கள் தொடுமாறு உயர்ந்து நீண்ட, மூங்கில்கள் வளரும் இமயமலை போல, நீ இந்நிலவுலகில் என்றும் நிலைபெற்று வாழ்வாயாக!",
- "explanation": "The poet Avur Mulankilar addresses Kauniyan Vinnandayan, a learned Brahmin of Puncharrur in the Chola country. The poem belongs to the Vagai tinai and the theme of Parppana Vagai, which celebrates the victory and excellence of Brahmins in their spiritual and ritual duties. The poet praises Vinnandayan's mastery of the Vedas and Vedangas, his flawless performance of the twenty-one types of sacrifices, and his adherence to truth over false arguments. He describes the Brahmin's simple attire, wearing a deer skin over his sacred thread, and praises his virtuous wives who assist him in his rituals. The poet marvels at the scale of Vinnandayan's sacrifices, where ghee is poured so generously that water is put to shame, and so many rituals are performed that numbers themselves are baffled. Finally, the poet wishes him a long life as enduring as the Himalayas, while expressing his own desire to return to his fertile village nourished by the Kaveri river.",
+ "literal": "Well-investigated long erect matted hair / ancient lord's mouth not leaving / one-desired two-times-two's / six-understood one ancient book / enmity saw-ones superiority to subdue / truth-like falsehood having understood / falsehood not considering truth having established / twenty-one departments without obstacle completed / repute-abundant excellence's strong-ones descendant / for the ritual desiring you wore / forest deer's buck skin / shoulder sacred thread upon to shine / evil shunned rare chastity's / virtue praised bangle having worn / small forehead great wide hip / few words abundant hair your / status-suited your equal wives / to themselves assigned duties to perform / forest or country saying there / fourteen places without failing / water to be ashamed ghee distributing / number to be ashamed many sacrificing / earth to be ashamed fame spreading / rare sacred great time / guests received your perfected eminent state / always may we see indeed oh we in the west / gold-yielding long mountain cloud thunder if roars / flower-blooming fresh water Kaveri protects / cool water garden our village there / eating and eating and riding and let us play / I will go indeed oh without departing / clouds to reach extended long mountain's / bamboo-growing Himalayas like / may you stand indeed you upon the earth",
+ "translation": "O descendant of wise men of abundant repute and excellence! You who, for the sake of sacred rituals, wear the skin of a forest buck so that it shines upon the sacred thread on your shoulder, following the ancient book of six parts and four Vedas established by the matted-haired Lord Shiva. Your chaste wives, wearing bangles praised by virtue, perform their assigned duties. Without failing in any of the fourteen worlds, you distribute ghee so abundantly that water is ashamed, perform so many sacrifices that numbers are ashamed, and spread your fame so wide that the earth is ashamed. May we always see your eminent state of receiving guests in the sacred morning. We shall now return to our village in the west, nourished by the Kaveri river with fresh blooming flowers, where we shall eat, drink, ride, and rejoice. I shall depart now. May you live long on this earth, without departing, like the bamboo-growing Himalayas whose high peaks reach the clouds!",
+ "modern": "நன்றாக ஆராய்ந்து சடைமுடி தரித்த சிவபெருமானின் வாயிலிருந்து நீங்காத, நான்கு வேதங்களையும் ஆறு அங்கங்களையும் உணர்ந்த, வாதம் புரிவோரின் செருக்கை அடக்கக்கூடிய மெய் போன்ற பொய்யை உணர்ந்து, பொய்யை நீக்கி மெய்யை நிலைநிறுத்திய, இருபத்தொரு வேள்வித் துறைகளையும் தடையின்றி முடித்த புகழ்பெற்ற சான்றோரின் மரபில் வந்தவனே! வேள்விக்காக நீ உடுத்திய மான்தோல் உன் தோளில் உள்ள பூணூலின் மேல் விளங்குகின்றது. தீமையற்ற கற்புடைய உன் மனைவியர் தமக்குரிய கடமைகளைச் செய்கின்றனர். பதினான்கு உலகங்களிலும் தடையின்றி, நீர் நாணும்படி நெய்யை வாரி வழங்கியும், எண் நாணும்படி பல வேள்விகளைச் செய்தும், மண் நாணும்படி புகழைப் பரப்பியும், காலையில் விருந்தினரை வரவேற்கும் உனது சிறந்த நிலையை நாங்கள் என்றும் காண்போமாக! பொன் விளையும் மேற்கு மலையில் மேகம் இடிக்க, பூக்கள் விரிந்த புதிய நீரைக் கொண்டு காவிரி பாயும் எமது குளிர்ந்த நீர்சூழ்ந்த ஊருக்குச் சென்று, உண்டு குடித்து மகிழ்வோம். நான் இப்போது செல்கிறேன். மேகங்கள் தொடும் இமயமலை போல நீ இவ்வுலகில் என்றும் நிலைபெற்று வாழ்வாயாக!",
+ "explanation": "The poet Avur Mulankilar is praising the Brahmin Kauniyan Vinnantayan of Puncharrur in the Chola country. The poem belongs to the Vagai tinai, specifically the Parppana Vagai, which celebrates the excellence and virtues of Brahmins. The poet extols Vinnantayan's adherence to Vedic rituals, his performance of numerous sacrifices, and his generous hospitality. He describes how Vinnantayan's wives assist him in these sacred duties, reflecting their high chastity and virtue. The poet contrasts his own journey back to his fertile village on the banks of the Kaveri with the steadfast, mountain-like presence of the patron, wishing him a long life as enduring as the Himalayas.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

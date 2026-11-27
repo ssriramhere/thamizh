@@ -7,11 +7,11 @@
      "parts": [
       {
        "text": "பிற",
-       "lemma": "பிற",
-       "gloss": "other"
+       "lemma": "pira",
+       "gloss": "other/born"
       }
      ],
-     "gloss": "other"
+     "gloss": "other/born"
     },
     {
      "surface": "…",
@@ -29,18 +29,18 @@
      "parts": [
       {
        "text": "ள",
-       "lemma": "ள",
-       "gloss": "part of missing word"
+       "lemma": "ḷa",
+       "gloss": "she/her/suffix"
       }
      ],
-     "gloss": "part of missing word"
+     "gloss": "she/her/suffix"
     },
     {
      "surface": "பால்",
      "parts": [
       {
        "text": "பால்",
-       "lemma": "பால்",
+       "lemma": "pāl",
        "gloss": "milk"
       }
      ],
@@ -51,23 +51,28 @@
      "parts": [
       {
        "text": "என",
-       "lemma": "என",
-       "gloss": "as"
+       "lemma": "eṉa",
+       "gloss": "as/saying"
       }
      ],
-     "gloss": "as"
+     "gloss": "as/saying"
     },
     {
      "surface": "மடுத்தலின்",
      "parts": [
       {
-       "text": "மடுத்தல்",
-       "lemma": "மடுத்தல்",
-       "gloss": "feeding"
+       "text": "மடு",
+       "lemma": "maṭu",
+       "gloss": "feed"
+      },
+      {
+       "text": "தல்",
+       "lemma": "tal",
+       "gloss": "verbal noun suffix"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "iṉ",
        "gloss": "because of"
       }
      ],
@@ -82,60 +87,60 @@
      "parts": [
       {
        "text": "ஈன்",
-       "lemma": "ஈன்",
+       "lemma": "īṉ",
        "gloss": "give birth"
       },
       {
        "text": "ற",
-       "lemma": "அ",
-       "gloss": "adjectival participle suffix"
+       "lemma": "ṟa",
+       "gloss": "past relative participle"
       }
      ],
-     "gloss": "who gave birth"
+     "gloss": "who gave birth to"
     },
     {
      "surface": "தாயோ",
      "parts": [
       {
        "text": "தாய்",
-       "lemma": "தாய்",
+       "lemma": "tāy",
        "gloss": "mother"
       },
       {
        "text": "ஓ",
-       "lemma": "ஓ",
-       "gloss": "emphasis"
+       "lemma": "ō",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "the mother indeed"
+     "gloss": "mother indeed"
     },
     {
      "surface": "வேண்டாள்",
      "parts": [
       {
        "text": "வேண்டு",
-       "lemma": "வேண்டு",
-       "gloss": "want"
+       "lemma": "vēṇṭu",
+       "gloss": "desire/want"
       },
       {
        "text": "ஆள்",
-       "lemma": "ஆள்",
+       "lemma": "āḷ",
        "gloss": "she (negative)"
       }
      ],
-     "gloss": "is not one who refuses"
+     "gloss": "she does not refuse"
     },
     {
      "surface": "அல்லள்",
      "parts": [
       {
        "text": "அல்",
-       "lemma": "அல்",
+       "lemma": "al",
        "gloss": "not"
       },
       {
        "text": "அள்",
-       "lemma": "அள்",
+       "lemma": "aḷ",
        "gloss": "she"
       }
      ],
@@ -146,39 +151,33 @@
   {
    "words": [
     {
-     "surface": "கல்வி",
+     "surface": "கல்வியென்",
      "parts": [
       {
        "text": "கல்வி",
-       "lemma": "கல்வி",
+       "lemma": "kalvi",
        "gloss": "education"
-      }
-     ],
-     "gloss": "education"
-    },
-    {
-     "surface": "என்",
-     "parts": [
+      },
       {
        "text": "என்",
-       "lemma": "என்",
+       "lemma": "eṉ",
        "gloss": "what"
       }
      ],
-     "gloss": "what"
+     "gloss": "what is education?"
     },
     {
      "surface": "என்னும்",
      "parts": [
       {
        "text": "என்",
-       "lemma": "என்",
+       "lemma": "eṉ",
        "gloss": "say"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "adjectival suffix"
+       "lemma": "um",
+       "gloss": "who"
       }
      ],
      "gloss": "who says"
@@ -188,16 +187,16 @@
      "parts": [
       {
        "text": "வல்",
-       "lemma": "வல்",
+       "lemma": "val",
        "gloss": "strong"
       },
       {
        "text": "ஆண்",
-       "lemma": "ஆண்",
-       "gloss": "man"
+       "lemma": "āṇ",
+       "gloss": "man/warrior"
       }
      ],
-     "gloss": "strong man"
+     "gloss": "strong warrior"
     },
     {
      "surface": "சிறாஅன்",
@@ -205,10 +204,10 @@
       {
        "text": "சிறாஅன்",
        "lemma": "சிறாஅன்",
-       "gloss": "young youth"
+       "gloss": "young man"
       }
      ],
-     "gloss": "young youth",
+     "gloss": "young man",
      "split_unverified": true
     }
    ]
@@ -219,37 +218,49 @@
      "surface": "ஒள்வேல்",
      "parts": [
       {
-       "text": "ஒள்வேல்",
-       "lemma": "ஒள்வேல்",
-       "gloss": ""
+       "text": "ஒள்",
+       "lemma": "oḷ",
+       "gloss": "bright"
+      },
+      {
+       "text": "வேல்",
+       "lemma": "vēl",
+       "gloss": "spear"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "bright spear"
     },
     {
      "surface": "நல்லன்",
      "parts": [
       {
-       "text": "நல்லன்",
-       "lemma": "நல்லன்",
-       "gloss": ""
+       "text": "நல்",
+       "lemma": "nal",
+       "gloss": "good/capable"
+      },
+      {
+       "text": "அன்",
+       "lemma": "aṉ",
+       "gloss": "he"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "capable man"
     },
     {
      "surface": "அதுவாய்",
      "parts": [
       {
-       "text": "அதுவாய்",
-       "lemma": "அதுவாய்",
-       "gloss": ""
+       "text": "அது",
+       "lemma": "atu",
+       "gloss": "that"
+      },
+      {
+       "text": "ஆய்",
+       "lemma": "āy",
+       "gloss": "becoming"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "that being so"
     },
     {
      "surface": "ஆகுதல்_",
@@ -257,14 +268,13 @@
       {
        "text": "ஆகுதல்_",
        "lemma": "ஆகுதல்_",
-       "gloss": ""
+       "gloss": "becoming"
       }
      ],
-     "gloss": "",
+     "gloss": "becoming",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -272,66 +282,48 @@
      "surface": "அழிந்தோர்",
      "parts": [
       {
-       "text": "அழி",
-       "lemma": "அழி",
-       "gloss": "perish"
-      },
-      {
-       "text": "ந்த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "ஓர்",
-       "lemma": "ஓர்",
-       "gloss": "they"
+       "text": "அழிந்தோர்",
+       "lemma": "அழிந்தோர்",
+       "gloss": "those who perished"
       }
      ],
-     "gloss": "those who perished"
+     "gloss": "those who perished",
+     "split_unverified": true
     },
     {
      "surface": "அழிய",
      "parts": [
       {
        "text": "அழி",
-       "lemma": "அழி",
+       "lemma": "aḻi",
        "gloss": "perish"
       },
       {
        "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitive suffix"
+       "lemma": "a",
+       "gloss": "to/while"
       }
      ],
-     "gloss": "to perish"
+     "gloss": "while perishing"
     },
     {
      "surface": "ஒழிந்தோர்",
      "parts": [
       {
-       "text": "ஒழி",
-       "lemma": "ஒழி",
-       "gloss": "remain"
-      },
-      {
-       "text": "ந்த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "ஓர்",
-       "lemma": "ஓர்",
-       "gloss": "they"
+       "text": "ஒழிந்தோர்",
+       "lemma": "ஒழிந்தோர்",
+       "gloss": "those who survived"
       }
      ],
-     "gloss": "those who remained"
+     "gloss": "those who survived",
+     "split_unverified": true
     },
     {
      "surface": "ஒக்கல்",
      "parts": [
       {
        "text": "ஒக்கல்",
-       "lemma": "ஒக்கல்",
+       "lemma": "okkal",
        "gloss": "relatives"
       }
      ],
@@ -342,20 +334,25 @@
   {
    "words": [
     {
-     "surface": "பேணுநர்",
+     "surface": "பேணுநர்ப்",
      "parts": [
       {
-       "text": "பேண்",
-       "lemma": "பேண்",
-       "gloss": "cherish"
+       "text": "பேணு",
+       "lemma": "pēṇu",
+       "gloss": "cherish/protect"
       },
       {
-       "text": "உநர்",
-       "lemma": "நரை",
-       "gloss": "those who"
+       "text": "நர்",
+       "lemma": "nar",
+       "gloss": "they who"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "those who protect"
+     "gloss": "protectors"
     },
     {
      "surface": "பெறாஅது",
@@ -363,10 +360,10 @@
       {
        "text": "பெறாஅது",
        "lemma": "பெறாஅது",
-       "gloss": "without obtaining"
+       "gloss": "not obtaining"
       }
      ],
-     "gloss": "without obtaining",
+     "gloss": "not obtaining",
      "split_unverified": true
     },
     {
@@ -374,31 +371,31 @@
      "parts": [
       {
        "text": "விளி",
-       "lemma": "விளி",
-       "gloss": "die"
+       "lemma": "viḷi",
+       "gloss": "perish"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "habitual future suffix"
+       "lemma": "um",
+       "gloss": "will"
       }
      ],
-     "gloss": "will die"
+     "gloss": "will perish"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "புன்தலை",
+     "surface": "புன்தலைப்",
      "parts": [
       {
-       "text": "புன்தலை",
-       "lemma": "புன்தலை",
-       "gloss": "dusty heads"
+       "text": "புன்தலைப்",
+       "lemma": "புன்தலைப்",
+       "gloss": "miserable-headed"
       }
      ],
-     "gloss": "dusty heads",
+     "gloss": "miserable-headed",
      "split_unverified": true
     },
     {
@@ -418,13 +415,13 @@
      "parts": [
       {
        "text": "செய்",
-       "lemma": "செய்",
-       "gloss": "make"
+       "lemma": "cey",
+       "gloss": "do/make"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "habitual future suffix"
+       "lemma": "um",
+       "gloss": "will"
       }
      ],
      "gloss": "will cause"
@@ -433,30 +430,25 @@
      "surface": "இவள்",
      "parts": [
       {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "this"
-      },
-      {
-       "text": "அள்",
-       "lemma": "அள்",
-       "gloss": "she"
+       "text": "இவள்",
+       "lemma": "ivaḷ",
+       "gloss": "she/her"
       }
      ],
-     "gloss": "her"
+     "gloss": "this woman's"
     },
     {
      "surface": "நலனே",
      "parts": [
       {
        "text": "நலன்",
-       "lemma": "நலன்",
-       "gloss": "beauty"
+       "lemma": "nalaṉ",
+       "gloss": "beauty/goodness"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "indeed"
       }
      ],
      "gloss": "beauty indeed"
@@ -464,10 +456,10 @@
    ]
   }
  ],
- "literal": "Other … milk as feeding / The mother who gave birth is not one who does not want / 'What is education?' says the strong, young man / He of the bright spear is good, that becoming / Those who perished having perished, the relatives of those who remained / Not obtaining protectors, will die / Her beauty will cause a great desolation of dusty heads",
- "translation": "Because she was fed with other milk, the mother who gave birth to her does not refuse the match. The strong youth who asks, 'What is education?' is a good man with a bright spear, and he is a suitable match. Yet, her beauty will cause a great desolation with dusty heads of mourners, where those who perished are gone, and the relatives of those who survived will die, finding no one to protect them.",
- "modern": "பிற ... பால் என்று புகட்டுவதால், பெற்ற தாயோ மறுப்பவள் அல்லள். 'கல்வி என்றால் என்ன?' என்று கேட்கும் வலிமையான இளைஞன், ஒளிரும் வேலை உடைய நல்லவன்; அவளுக்கு ஏற்றவனாகவே இருக்கிறான். ஆனால், போரில் இறந்தவர்கள் இறக்க, எஞ்சியவர்களின் சுற்றத்தினர் தங்களைக் காப்பாரைப் பெறாமல் அழியும் படியான, தூசி நிறைந்த தலையையுடைய பெரும் பாழை இவளது அழகு உண்டாக்கும்.",
- "explanation": "This poem belongs to the Kañci tiṇai and the Maṭkaṭpāṟ Kañci tuṟai, which describes the tragedy of refusing a girl's hand in marriage, leading to war. An onlooker or messenger laments the impending doom brought by the girl's beauty. The mother is willing to give her daughter in marriage, and the suitor is a strong, capable young warrior with a bright spear. However, because of the refusal by the girl's father or brothers, a devastating battle is inevitable. The poet warns that her beauty will only result in a great desolation, leaving the surviving relatives of the fallen warriors to perish in grief without any protectors.",
+ "literal": "Born ... [or of another family], because of feeding milk, saying [it is milk] / the mother who gave birth indeed is not one who refuses [the alliance] / the young son of a strong warrior who says \"what is education?\" / is a good man with a bright spear, and that being so / while those who perished die, the relatives of those who survived / not obtaining protectors, will perish, / this woman's beauty will cause a great desolation of dusty-headed ruin.",
+ "translation": "Whether she is born in this family or another, since she was fed milk, her mother who gave birth to her does not refuse her hand. The young son of the strong warrior, who asks 'What is education?' and wields a bright spear, is a capable man. Since that is so, while those who fought and perished are gone, the surviving relatives of the dead, finding no protectors, will also perish. This woman's beauty will cause a great, dusty-headed desolation.",
+ "modern": "இவள் இந்தக்குடியில் பிறந்தவளோ அல்லது வேறு குடியைச் சேர்ந்தவளோ, இவளுக்குப் பாலூட்டி வளர்த்ததால் இவளைப் பெற்ற தாய் இவளது திருமணத்தை மறுப்பவள் அல்லள். 'கல்வி என்றால் என்ன?' என்று கேட்கும் வலிமைமிக்க வீரனின் இளமகன், ஒளிரும் வேலை ஏந்திய நல்ல வீரன் ஆவான். நிலைமை இவ்வாறிருக்க, போரில் அழிந்தவர்கள் அழிய, எஞ்சியிருக்கும் சுற்றத்தாரோ தங்களைக் காப்பாரைப் பெறாமல் அழிந்து போவர். இவளுடைய அழகு, புழுதி படிந்த பெரும் பாழடைதலை உண்டாக்கும்.",
+ "explanation": "This poem belongs to the Makaṭpāṟ Kāñci theme, where a conflict arises because a girl's hand in marriage is refused to a powerful suitor. An onlooker or mediator describes the impending tragedy of the town. The mother of the girl does not object to the marriage, having raised her with care. The suitor is a fierce young warrior who disdains peaceful education and relies solely on his bright spear. Because of the pride and refusal of the girl's father or clan, a devastating war is inevitable. In this war, the warriors will perish, and their surviving relatives, left without protectors, will also die, turning the settlement into a dusty, ruined desolation.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

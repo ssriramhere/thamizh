@@ -38,7 +38,7 @@
        "gloss": "plural/honorific suffix"
       }
      ],
-     "gloss": "receivers of gifts/bards"
+     "gloss": "bards/recipients of gifts"
     },
     {
      "surface": "கோமான்",
@@ -49,7 +49,7 @@
        "gloss": "chief/king"
       }
      ],
-     "gloss": "chief/king"
+     "gloss": "chief"
     }
    ]
   },
@@ -77,54 +77,42 @@
       {
        "text": "அத்து",
        "lemma": "attu",
-       "gloss": "inflexional increment"
+       "gloss": "inflectional increment"
       }
      ],
      "gloss": "of the hill"
     },
     {
-     "surface": "அகல்",
+     "surface": "அகல்வாய்",
      "parts": [
       {
        "text": "அகல்",
        "lemma": "akal",
        "gloss": "wide"
-      }
-     ],
-     "gloss": "wide"
-    },
-    {
-     "surface": "வாய்",
-     "parts": [
+      },
       {
        "text": "வாய்",
        "lemma": "vāy",
        "gloss": "mouth/opening"
       }
      ],
-     "gloss": "mouth/opening"
+     "gloss": "wide-mouthed"
     },
     {
-     "surface": "குண்டு",
+     "surface": "குண்டுசுனை",
      "parts": [
       {
        "text": "குண்டு",
        "lemma": "kuṇṭu",
        "gloss": "deep"
-      }
-     ],
-     "gloss": "deep"
-    },
-    {
-     "surface": "சுனை",
-     "parts": [
+      },
       {
        "text": "சுனை",
        "lemma": "cuṉai",
        "gloss": "mountain pool"
       }
      ],
-     "gloss": "mountain pool"
+     "gloss": "deep mountain pool"
     }
    ]
   },
@@ -136,7 +124,7 @@
       {
        "text": "குவளை",
        "lemma": "kuvaḷai",
-       "gloss": "water-lily"
+       "gloss": "blue water-lily"
       },
       {
        "text": "ஒடு",
@@ -144,23 +132,19 @@
        "gloss": "with (sociative case)"
       }
      ],
-     "gloss": "with water-lily"
+     "gloss": "with blue water-lilies"
     },
     {
      "surface": "பொதிந்த",
      "parts": [
       {
-       "text": "பொதி",
-       "lemma": "poti",
-       "gloss": "wrap/bind"
-      },
-      {
-       "text": "ந்த",
-       "lemma": "nta",
-       "gloss": "past adjectival participle suffix"
+       "text": "பொதிந்த",
+       "lemma": "பொதிந்த",
+       "gloss": "enfolded/wrapped"
       }
      ],
-     "gloss": "wrapped/bundled"
+     "gloss": "enfolded/wrapped",
+     "split_unverified": true
     },
     {
      "surface": "குளவி",
@@ -179,7 +163,7 @@
       {
        "text": "நாறு",
        "lemma": "nāṟu",
-       "gloss": "smell/fragrance"
+       "gloss": "smell"
       },
       {
        "text": "உம்",
@@ -195,7 +179,7 @@
       {
        "text": "நின்",
        "lemma": "niṉ",
-       "gloss": "your (singular)"
+       "gloss": "your"
       }
      ],
      "gloss": "your"
@@ -261,40 +245,51 @@
      "surface": "சுரம்பல",
      "parts": [
       {
-       "text": "சுரம்பல",
-       "lemma": "சுரம்பல",
-       "gloss": ""
+       "text": "சுரம்",
+       "lemma": "curam",
+       "gloss": "desert path"
+      },
+      {
+       "text": "பல",
+       "lemma": "pala",
+       "gloss": "many"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "many desert paths"
     },
     {
      "surface": "விலங்கிய",
      "parts": [
       {
-       "text": "விலங்கிய",
-       "lemma": "விலங்கிய",
-       "gloss": ""
+       "text": "விலங்கு",
+       "lemma": "vilaṅku",
+       "gloss": "lie across/intervene"
+      },
+      {
+       "text": "இய",
+       "lemma": "iya",
+       "gloss": "past adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "lying across/intervening"
     },
     {
      "surface": "அரும்பொருள்",
      "parts": [
       {
-       "text": "அரும்பொருள்",
-       "lemma": "அரும்பொருள்",
-       "gloss": ""
+       "text": "அருமை",
+       "lemma": "arumai",
+       "gloss": "rare/difficult"
+      },
+      {
+       "text": "பொருள்",
+       "lemma": "poruḷ",
+       "gloss": "wealth"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "rare wealth"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -304,7 +299,7 @@
       {
        "text": "நிரம்பு",
        "lemma": "nirampu",
-       "gloss": "be filled/complete"
+       "gloss": "fill/complete"
       },
       {
        "text": "ஆ",
@@ -318,49 +313,29 @@
      "surface": "ஆகலின்",
      "parts": [
       {
-       "text": "ஆகு",
-       "lemma": "āku",
-       "gloss": "become"
-      },
-      {
-       "text": "அல்",
-       "lemma": "al",
-       "gloss": "verbal noun suffix"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "because (instrumental/ablative)"
+       "text": "ஆகலின்",
+       "lemma": "ஆகலின்",
+       "gloss": "because"
       }
      ],
-     "gloss": "because"
+     "gloss": "because",
+     "split_unverified": true
     },
     {
-     "surface": "நீடல்",
+     "surface": "நீடலோ",
      "parts": [
       {
-       "text": "நீடு",
-       "lemma": "nīṭu",
-       "gloss": "prolong/delay"
+       "text": "நீடல்",
+       "lemma": "nīṭal",
+       "gloss": "delaying"
       },
-      {
-       "text": "அல்",
-       "lemma": "al",
-       "gloss": "verbal noun suffix"
-      }
-     ],
-     "gloss": "delaying"
-    },
-    {
-     "surface": "ஓ",
-     "parts": [
       {
        "text": "ஓ",
        "lemma": "ō",
-       "gloss": "emphasis/interrogative"
+       "gloss": "emphatic particle"
       }
      ],
-     "gloss": "indeed/is it?"
+     "gloss": "delaying"
     },
     {
      "surface": "இன்றே",
@@ -368,7 +343,7 @@
       {
        "text": "இன்று",
        "lemma": "iṉṟu",
-       "gloss": "not today/not at all"
+       "gloss": "not/today"
       },
       {
        "text": "ஏ",
@@ -376,15 +351,15 @@
        "gloss": "emphatic particle"
       }
      ],
-     "gloss": "not at all"
+     "gloss": "is not there today"
     }
    ]
   }
  ],
- "literal": "Chief of bards with pot-drums / of the deep mountain pool with wide mouth on Atalai hill / smelling of wild jasmine bundled with water-lilies, your / fragrant forehead, will he forget? Indeed, even though he strives / for rare wealth obstructed by many desert paths, / because it is never fully acquired, delaying is not at all.",
- "translation": "Will he ever forget your fragrant forehead, which smells of wild jasmine bundled with water-lilies from the deep, wide-mouthed mountain pool on Atalai hill, the domain of the chief of bards who play pot-drums? Even though he strives to acquire rare wealth, traversing many obstructing desert paths, since wealth is never fully satisfying, he will not delay his return.",
- "modern": "பதலை என்னும் பானை வடிவப் பறையை முழக்கும் பரிசிலர்களின் தலைவனுடைய அதலை மலையிலுள்ள, அகன்ற வாயைக் கொண்ட ஆழமான சுனையில் பூத்த குவளை மலர்களோடு சேர்த்துத் தொடுத்த காட்டு மல்லிகையின் நறுமணம் வீசும் உன்னுடைய நறிய நெற்றியை அவர் மறந்துவிடுவாரோ? மாட்டார். பல பாலைவழிப் பாதைகள் குறுக்கிடும் அரிய பொருளைத் தேடி அவர் முயன்றாலும், தேடும் பொருள் ஒருபோதும் நிறைவடையாது என்பதால், அவர் அங்கே தங்கித் தன் வருகையை நீட்டிக்கவே மாட்டார்.",
- "explanation": "This poem belongs to the pālai (desert) landscape, where the hero has departed to earn wealth. The heroine is deeply distressed by his absence, fearing he might delay his return. The companion consoles her by reassuring her of the hero's deep love and imminent return. She compares the fragrance of the heroine's forehead to the fresh wild jasmine and water-lilies from the cool pools of Atalai hill, ruled by a generous patron of bards. The companion argues that even though the hero went to seek wealth across difficult desert paths, he knows that wealth is endless and can never be fully satisfying compared to the joy of her company. Therefore, he will not prolong his stay and will return quickly.",
+ "literal": "Of the bards with pot-drums, the chief, / on Atalai hill, in the wide-mouthed deep pool, / along with water-lilies, enfolded wild jasmine, smelling of, your / fragrant forehead, will he forget? Indeed, even though he strives, / many deserts lying across, the rare wealth / is not filled, therefore, delaying is not there today.",
+ "translation": "Will he ever forget your fragrant forehead, which smells of wild jasmine enfolded with blue water-lilies from the wide, deep pool on Atalai hill belonging to the chief of bards who play the pot-drum? Even though he strives, the rare wealth he seeks is not yet fully gathered, and many difficult desert paths lie in between; therefore, his delay will not last today.",
+ "modern": "பதலை என்னும் வாத்தியத்தை வாசிக்கும் பரிசிலர்களின் தலைவனுடைய அதலை மலையிலுள்ள அகன்ற வாயையுடைய ஆழமான சுனையில் பூத்த குவளைப் பூக்களோடு சேர்த்துத் தொடுத்த காட்டு மல்லிகை மலரின் மணம் வீசும் உன்னுடைய நறிய நெற்றியைத் தலைவன் மறந்துவிடுவானோ? அவன் முயன்றாலும், பல பாலைவனக் கடந்து தேடும் அரிய செல்வம் இன்னும் முழுமையாகக் கிடைக்கவில்லை. அதனால் தான் அவன் தாமதிக்கிறானே தவிர, அவன் உன்னை மறக்கவில்லை; அவன் விரைவில் வந்துவிடுவான்.",
+ "explanation": "The friend (thōḻi) is consoling the heroine (thalaivi) who is anxious about the hero's (thalaivaṉ) delay in returning from his quest for wealth. She reassures her that the hero has not forgotten her beautiful, fragrant forehead, which smells of the fresh wild jasmine and water-lilies of the deep pools on Atalai hill. The hill belongs to a generous chief of bards, symbolizing the hero's own noble and loving nature. The friend explains that the only reason for his delay is that the difficult wealth he set out to acquire through arduous desert paths is not yet fully gathered. This poem belongs to the pālai (wasteland) landscape, where the theme of separation and the hardships of the journey to earn wealth are central. Key words like 'naṟunutal' (fragrant forehead) and 'arumporuḷ' (rare wealth) highlight the contrast between the sweet domestic love he left behind and the harsh material duties he must fulfill.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

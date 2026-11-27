@@ -6,73 +6,98 @@
      "surface": "இவன்",
      "parts": [
       {
-       "text": "இவன்",
-       "lemma": "ivan",
-       "gloss": "this boy"
-      }
-     ],
-     "gloss": "this boy"
-    },
-    {
-     "surface": "இவள்",
-     "parts": [
-      {
-       "text": "இவள்",
-       "lemma": "ivaḷ",
-       "gloss": "this girl"
-      }
-     ],
-     "gloss": "this girl"
-    },
-    {
-     "surface": "ஐம்பால்",
-     "parts": [
-      {
-       "text": "ஐம்",
-       "lemma": "ai",
-       "gloss": "five"
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "this"
       },
       {
-       "text": "பால்",
-       "lemma": "pāl",
-       "gloss": "part"
+       "text": "அன்",
+       "lemma": "aṉ",
+       "gloss": "he"
       }
      ],
-     "gloss": "five-part hair"
+     "gloss": "this man"
+    },
+    {
+     "surface": "இவ",
+     "parts": [
+      {
+       "text": "இவ",
+       "lemma": "இவ",
+       "gloss": "this woman"
+      }
+     ],
+     "gloss": "this woman",
+     "split_unverified": true
+    },
+    {
+     "surface": "ளைம்பால்",
+     "parts": [
+      {
+       "text": "ள்",
+       "lemma": "ḷ",
+       "gloss": "sandhi consonant"
+      },
+      {
+       "text": "ஐம்பால்",
+       "lemma": "aimpāl",
+       "gloss": "five-part braid"
+      }
+     ],
+     "gloss": "five-part braid"
     },
     {
      "surface": "பற்றவும்",
      "parts": [
       {
-       "text": "பற்றவும்",
-       "lemma": "பற்றவும்",
-       "gloss": "to grasp also"
+       "text": "பற்று",
+       "lemma": "paṟṟu",
+       "gloss": "grasp"
+      },
+      {
+       "text": "அ",
+       "lemma": "a",
+       "gloss": "infinitive suffix"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "to grasp also",
-     "split_unverified": true
+     "gloss": "to grasp"
     },
     {
      "surface": "இவள்",
      "parts": [
       {
-       "text": "இவள்",
-       "lemma": "ivaḷ",
-       "gloss": "this girl"
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "this"
+      },
+      {
+       "text": "அள்",
+       "lemma": "aḷ",
+       "gloss": "she"
       }
      ],
-     "gloss": "this girl"
+     "gloss": "she"
     },
     {
      "surface": "இவன்",
      "parts": [
       {
-       "text": "இவன்",
-       "lemma": "ivan",
-       "gloss": "this boy"
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "this"
+      },
+      {
+       "text": "அன்",
+       "lemma": "aṉ",
+       "gloss": "he"
       }
      ],
-     "gloss": "this boy"
+     "gloss": "he"
     }
    ]
   },
@@ -82,28 +107,29 @@
      "surface": "புன்றலை",
      "parts": [
       {
-       "text": "புன்",
-       "lemma": "puṉ",
-       "gloss": "sparse"
-      },
-      {
-       "text": "தலை",
-       "lemma": "talai",
-       "gloss": "head"
+       "text": "புன்றலை",
+       "lemma": "புன்றலை",
+       "gloss": "sparse-haired head"
       }
      ],
-     "gloss": "sparse-haired head"
+     "gloss": "sparse-haired head",
+     "split_unverified": true
     },
     {
-     "surface": "ஓரி",
+     "surface": "யோரி",
      "parts": [
+      {
+       "text": "ய்",
+       "lemma": "y",
+       "gloss": "glide"
+      },
       {
        "text": "ஓரி",
        "lemma": "ōri",
-       "gloss": "single lock of hair"
+       "gloss": "lock of hair"
       }
      ],
-     "gloss": "single lock of hair"
+     "gloss": "lock of hair"
     },
     {
      "surface": "வாங்குநள்",
@@ -116,7 +142,7 @@
       {
        "text": "நள்",
        "lemma": "naḷ",
-       "gloss": "she who does"
+       "gloss": "she who"
       }
      ],
      "gloss": "she who pulls"
@@ -125,63 +151,82 @@
      "surface": "பரியவும்",
      "parts": [
       {
-       "text": "பரியவும்",
-       "lemma": "பரியவும்",
-       "gloss": "to snap also"
+       "text": "பரி",
+       "lemma": "pari",
+       "gloss": "break"
+      },
+      {
+       "text": "அ",
+       "lemma": "a",
+       "gloss": "infinitive suffix"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "to snap also",
-     "split_unverified": true
+     "gloss": "to break"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "காதல்",
+     "surface": "காதற்",
      "parts": [
       {
-       "text": "காதல்",
-       "lemma": "kātal",
-       "gloss": "love"
+       "text": "காதற்",
+       "lemma": "காதற்",
+       "gloss": "loving"
       }
      ],
-     "gloss": "loving"
+     "gloss": "loving",
+     "split_unverified": true
     },
     {
      "surface": "செவிலியர்",
      "parts": [
       {
-       "text": "செவிலியர்",
-       "lemma": "ceviliyar",
-       "gloss": "foster-mothers"
+       "text": "செவிலி",
+       "lemma": "cevili",
+       "gloss": "foster-mother"
+      },
+      {
+       "text": "அர்",
+       "lemma": "ar",
+       "gloss": "plural suffix"
       }
      ],
      "gloss": "foster-mothers"
     },
     {
-     "surface": "தவிர்ப்பவும்",
+     "surface": "தவிர்ப்பவுந்",
      "parts": [
       {
-       "text": "தவிர்ப்பவும்",
-       "lemma": "தவிர்ப்பவும்",
-       "gloss": "even when restraining"
+       "text": "தவிர்ப்பவுந்",
+       "lemma": "தவிர்ப்பவுந்",
+       "gloss": "though they restrain"
       }
      ],
-     "gloss": "even when restraining",
+     "gloss": "though they restrain",
      "split_unverified": true
     },
     {
      "surface": "தவிரா",
      "parts": [
       {
-       "text": "தவிரா",
-       "lemma": "தவிரா",
-       "gloss": "without stopping"
+       "text": "தவிர்",
+       "lemma": "tavir",
+       "gloss": "stop"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ā",
+       "gloss": "not"
       }
      ],
-     "gloss": "without stopping",
-     "split_unverified": true
+     "gloss": "not stopping"
     }
    ]
   },
@@ -204,39 +249,33 @@
      "gloss": "causeless"
     },
     {
-     "surface": "சிறு",
+     "surface": "சிறுசெரு",
      "parts": [
       {
        "text": "சிறு",
-       "lemma": "siṟu",
-       "gloss": "little"
-      }
-     ],
-     "gloss": "little"
-    },
-    {
-     "surface": "செரு",
-     "parts": [
+       "lemma": "ciṟu",
+       "gloss": "small"
+      },
       {
        "text": "செரு",
        "lemma": "ceru",
        "gloss": "fight"
       }
      ],
-     "gloss": "fight"
+     "gloss": "little fight"
     },
     {
-     "surface": "உறுப",
+     "surface": "வுறுப",
      "parts": [
       {
-       "text": "உறு",
-       "lemma": "uṟu",
-       "gloss": "engage"
+       "text": "வ்",
+       "lemma": "v",
+       "gloss": "glide"
       },
       {
-       "text": "ப",
-       "lemma": "pa",
-       "gloss": "they"
+       "text": "உறுப",
+       "lemma": "uṟu",
+       "gloss": "they engage in"
       }
      ],
      "gloss": "they engage in"
@@ -252,7 +291,7 @@
       {
        "text": "ஓ",
        "lemma": "ō",
-       "gloss": "expletive"
+       "gloss": "oh"
       }
      ],
      "gloss": "indeed"
@@ -262,99 +301,125 @@
   {
    "words": [
     {
-     "surface": "நல்லைமன்",
+     "surface": "நல்லை",
      "parts": [
       {
-       "text": "நல்லைமன்",
-       "lemma": "நல்லைமன்",
-       "gloss": ""
+       "text": "நல்",
+       "lemma": "nal",
+       "gloss": "good"
+      },
+      {
+       "text": "ஐ",
+       "lemma": "ai",
+       "gloss": "you are"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "you are good"
+    },
+    {
+     "surface": "மன்",
+     "parts": [
+      {
+       "text": "மன்",
+       "lemma": "maṉ",
+       "gloss": "indeed"
+      }
+     ],
+     "gloss": "indeed"
     },
     {
      "surface": "றம்ம",
      "parts": [
       {
-       "text": "றம்ம",
-       "lemma": "றம்ம",
-       "gloss": ""
+       "text": "ற்",
+       "lemma": "ṟ",
+       "gloss": "sandhi consonant"
+      },
+      {
+       "text": "அம்ம",
+       "lemma": "amma",
+       "gloss": "behold"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "behold"
     },
     {
      "surface": "பாலே",
      "parts": [
       {
-       "text": "பாலே",
-       "lemma": "பாலே",
-       "gloss": ""
+       "text": "பால்",
+       "lemma": "pāl",
+       "gloss": "fate"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ē",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "O Fate"
     },
     {
      "surface": "மெல்லியல்",
      "parts": [
       {
-       "text": "மெல்லியல்",
-       "lemma": "மெல்லியல்",
-       "gloss": ""
+       "text": "மெல்",
+       "lemma": "mel",
+       "gloss": "soft"
+      },
+      {
+       "text": "இயல்",
+       "lemma": "iyal",
+       "gloss": "nature"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "soft-natured"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "துணை",
+     "surface": "துணைமலர்ப்",
      "parts": [
       {
        "text": "துணை",
        "lemma": "tuṇai",
-       "gloss": "matching"
-      }
-     ],
-     "gloss": "matching"
-    },
-    {
-     "surface": "மலர்",
-     "parts": [
+       "gloss": "pair"
+      },
       {
        "text": "மலர்",
        "lemma": "malar",
        "gloss": "flower"
-      }
-     ],
-     "gloss": "flower"
-    },
-    {
-     "surface": "பிணையல்",
-     "parts": [
-      {
-       "text": "பிணை",
-       "lemma": "piṇai",
-       "gloss": "tie"
       },
       {
-       "text": "அல்",
-       "lemma": "al",
-       "gloss": "noun suffix"
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "garland"
+     "gloss": "pair of flowers"
     },
     {
-     "surface": "அன்ன",
+     "surface": "பிணைய",
      "parts": [
+      {
+       "text": "பிணைய",
+       "lemma": "பிணைய",
+       "gloss": "garland"
+      }
+     ],
+     "gloss": "garland",
+     "split_unverified": true
+    },
+    {
+     "surface": "லன்ன",
+     "parts": [
+      {
+       "text": "ல்",
+       "lemma": "l",
+       "gloss": "sandhi consonant"
+      },
       {
        "text": "அன்ன",
        "lemma": "anna",
@@ -364,8 +429,13 @@
      "gloss": "like"
     },
     {
-     "surface": "இவர்",
+     "surface": "விவர்",
      "parts": [
+      {
+       "text": "வ்",
+       "lemma": "v",
+       "gloss": "glide"
+      },
       {
        "text": "இவர்",
        "lemma": "ivar",
@@ -392,7 +462,7 @@
        "gloss": "joy"
       }
      ],
-     "gloss": "joy of marriage"
+     "gloss": "wedding joy"
     },
     {
      "surface": "இயற்கை",
@@ -405,30 +475,55 @@
       {
        "text": "கை",
        "lemma": "kai",
-       "gloss": "suffix"
+       "gloss": "noun suffix"
       }
      ],
      "gloss": "state"
     },
     {
-     "surface": "காட்டியோயே",
+     "surface": "காட்டி",
      "parts": [
       {
-       "text": "காட்டியோயே",
-       "lemma": "காட்டியோயே",
-       "gloss": "you who showed"
+       "text": "காட்டு",
+       "lemma": "kāṭṭu",
+       "gloss": "show"
+      },
+      {
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "you who showed",
-     "split_unverified": true
+     "gloss": "having shown"
+    },
+    {
+     "surface": "யோயே",
+     "parts": [
+      {
+       "text": "ய்",
+       "lemma": "y",
+       "gloss": "glide"
+      },
+      {
+       "text": "ஓய்",
+       "lemma": "ōy",
+       "gloss": "you who did"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ē",
+       "gloss": "emphasis"
+      }
+     ],
+     "gloss": "you who did"
     }
    ]
   }
  ],
- "literal": "This boy, her five-part hair, to grasp also, and this girl, his / sparse-haired head's single lock, she who pulls, to snap also, / loving foster-mothers, even when restraining, without stopping, / causeless little fights, they engage in indeed! / You are good indeed, oh fate! She of gentle nature, / and him, like a matching flower garland, these two, / their joy-of-marriage nature, you who showed!",
- "translation": "When this boy grabbed her five-part hair, and she pulled and snapped the single lock of hair on his sparse-haired head, their loving foster-mothers tried to restrain them, but without stopping, they engaged in causeless little fights. Oh fate, you are truly good! For you have now shown these two—she of gentle nature and him—united like a matching garland of flowers, in the joyful state of marriage.",
- "modern": "இந்தச் சிறுவன் இவளுடைய ஐந்து வகையாகப் பின்னப்பட்ட கூந்தலைப் பற்றவும், இவள் அவனுடைய மெல்லிய தலையிலுள்ள ஒற்றைக் குடுமியை இழுத்து அறுக்கவும், அன்புடைய செவிலித்தாயர் தடுத்தும் நில்லாமல், அவர்கள் காரணமில்லாத சிறு சண்டைகளைச் செய்து கொண்டிருப்பார்கள். விதியே! நீ மிகவும் நல்லவன். மென்மையான இயல்புடைய இவளையும் அவனையும், ஒன்றுக்கொன்று பொருத்தமான மலர்மாலை போல இணைத்து, அவர்கள் திருமண இன்பத்தில் மகிழ்ந்திருக்கும் இயற்கையான நிலையை எங்களுக்குக் காட்டியுள்ளாயே!",
- "explanation": "This poem is set in the Pālai (wasteland) landscape and is spoken by bystanders who witness a young couple who have eloped and are now happily married. The speakers recall the childhood of the boy and the girl, who used to fight constantly, grabbing each other's hair despite their foster-mothers' attempts to restrain them. These harmless, causeless childhood squabbles have now transformed into a deep, loving marital union. The bystanders praise fate (pāl) for its benevolence in bringing them together. The image of a matching flower garland (tuṇaimalarp piṇaiyal) beautifully illustrates their perfect compatibility and inseparable bond in marriage.",
+ "literal": "He, her five-part braid to grasp, and she, his / sparse-haired single lock to pull and tear, / loving foster-mothers though they try to stop, not stopping, / causeless little fight they engage in, indeed! / You are good indeed, O Fate, soft-natured / like a pair of flower garlands, these two's / wedding-joy state you have shown!",
+ "translation": "He would grab her five-part braid, and she would pull and tear his sparse-haired lock. Though their loving foster-mothers tried to stop them, they would not stop, but engaged in endless, causeless little fights. O Fate! You are truly good, for you have now shown these two, who are like a pair of matching flower garlands, in the joyful state of marriage!",
+ "modern": "அவன் இவளுடைய ஐந்து வகையாகப் பின்னப்பட்ட கூந்தலைப் பற்றவும், இவள் அவனுடைய மெல்லிய தலைமுடியைப் பிடித்து இழுத்துத் துண்டிக்கவும், அன்பான செவிலித்தாயர் தடுத்தும் தடுக்க முடியாமல், காரணமில்லாத சிறு சண்டைகளைச் செய்துகொண்டே இருப்பார்கள். மென்மையான இயல்புடைய, இணை மலர் மாலைகளைப் போன்ற இவர்களுடைய திருமண மகிழ்ச்சி நிறைந்த வாழ்க்கையை எங்களுக்குக் காட்டிய விதியே! நீ மிகவும் நல்லவன்!",
+ "explanation": "This poem is spoken by the onlookers who witness the elopement and subsequent marriage of the young lovers. They recall how the boy and girl used to fight constantly during their childhood play, pulling each other's hair despite their foster-mothers' attempts to stop them. Now, they have grown up and are united in marriage. The onlookers marvel at how Fate has beautifully transformed their childhood squabbles into the deep, inseparable bond of marriage. They compare the couple to a pair of matching flower garlands, highlighting the harmonious union that has blossomed from their playful conflicts.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -14,57 +14,96 @@
      "gloss": "wild cat"
     },
     {
-     "surface": "விடையன்ன",
+     "surface": "விடை",
      "parts": [
       {
        "text": "விடை",
        "lemma": "விடை",
        "gloss": "male"
-      },
+      }
+     ],
+     "gloss": "male"
+    },
+    {
+     "surface": "அன்ன",
+     "parts": [
       {
        "text": "அன்ன",
        "lemma": "அன்ன",
        "gloss": "like"
       }
      ],
-     "gloss": "like a male"
+     "gloss": "like"
     },
     {
-     "surface": "வெருள்நோக்குக்",
+     "surface": "வெருள்",
      "parts": [
       {
-       "text": "வெருள்நோக்குக்",
-       "lemma": "வெருள்நோக்கு",
-       "gloss": "startled look"
+       "text": "வெருள்",
+       "lemma": "வெருள்",
+       "gloss": "frightened"
       }
      ],
-     "gloss": "startled look"
+     "gloss": "frightened"
     },
     {
-     "surface": "கயந்தலைப்",
+     "surface": "நோக்கு",
      "parts": [
       {
-       "text": "கயந்தலைப்",
-       "lemma": "கயந்தலை",
-       "gloss": "soft head"
+       "text": "நோக்கு",
+       "lemma": "நோக்கு",
+       "gloss": "look"
       }
      ],
-     "gloss": "soft head"
+     "gloss": "look"
+    },
+    {
+     "surface": "கயம்",
+     "parts": [
+      {
+       "text": "கயம்",
+       "lemma": "கயம்",
+       "gloss": "soft"
+      }
+     ],
+     "gloss": "soft"
+    },
+    {
+     "surface": "தலை",
+     "parts": [
+      {
+       "text": "தலை",
+       "lemma": "தலை",
+       "gloss": "head"
+      }
+     ],
+     "gloss": "head"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "புள்ளூன்",
+     "surface": "புள்",
      "parts": [
       {
-       "text": "புள்ளூன்",
-       "lemma": "புள்ளூன்",
-       "gloss": "flesh of birds"
+       "text": "புள்",
+       "lemma": "புள்",
+       "gloss": "bird"
       }
      ],
-     "gloss": "flesh of birds"
+     "gloss": "bird"
+    },
+    {
+     "surface": "ஊன்",
+     "parts": [
+      {
+       "text": "ஊன்",
+       "lemma": "ஊன்",
+       "gloss": "flesh"
+      }
+     ],
+     "gloss": "flesh"
     },
     {
      "surface": "தின்ற",
@@ -78,41 +117,74 @@
      "gloss": "eaten"
     },
     {
-     "surface": "புலவுநாறு",
+     "surface": "புலவு",
      "parts": [
       {
-       "text": "புலவுநாறு",
-       "lemma": "புலவுநாறு",
-       "gloss": "smelling of flesh"
+       "text": "புலவு",
+       "lemma": "புலவு",
+       "gloss": "flesh-smell"
       }
      ],
-     "gloss": "smelling of flesh"
+     "gloss": "flesh-smell"
     },
     {
-     "surface": "கயவாய்",
+     "surface": "நாறு",
      "parts": [
       {
-       "text": "கயவாய்",
-       "lemma": "கயவாய்",
-       "gloss": "wide mouth"
+       "text": "நாறு",
+       "lemma": "நாறு",
+       "gloss": "smelling"
       }
      ],
-     "gloss": "wide mouth"
+     "gloss": "smelling"
+    },
+    {
+     "surface": "கயம்",
+     "parts": [
+      {
+       "text": "கயம்",
+       "lemma": "கயம்",
+       "gloss": "wide"
+      }
+     ],
+     "gloss": "wide"
+    },
+    {
+     "surface": "வாய்",
+     "parts": [
+      {
+       "text": "வாய்",
+       "lemma": "வாய்",
+       "gloss": "mouth"
+      }
+     ],
+     "gloss": "mouth"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "வெள்வாய்",
+     "surface": "வெள்",
      "parts": [
       {
-       "text": "வெள்வாய்",
-       "lemma": "வெள்வாய்",
-       "gloss": "white-mouthed"
+       "text": "வெள்",
+       "lemma": "வெள்",
+       "gloss": "white"
       }
      ],
-     "gloss": "white-mouthed"
+     "gloss": "white"
+    },
+    {
+     "surface": "வாய்",
+     "parts": [
+      {
+       "text": "வாய்",
+       "lemma": "வாய்",
+       "gloss": "mouth"
+      }
+     ],
+     "gloss": "mouth"
     },
     {
      "surface": "வேட்டுவர்",
@@ -126,15 +198,26 @@
      "gloss": "hunters"
     },
     {
-     "surface": "வீழ்துணை",
+     "surface": "வீழ்",
      "parts": [
       {
-       "text": "வீழ்துணை",
-       "lemma": "வீழ்துணை",
-       "gloss": "beloved companion"
+       "text": "வீழ்",
+       "lemma": "வீழ்",
+       "gloss": "beloved"
       }
      ],
-     "gloss": "beloved companion"
+     "gloss": "beloved"
+    },
+    {
+     "surface": "துணை",
+     "parts": [
+      {
+       "text": "துணை",
+       "lemma": "துணை",
+       "gloss": "companion"
+      }
+     ],
+     "gloss": "companion"
     },
     {
      "surface": "மகாஅர்",
@@ -157,69 +240,96 @@
       {
        "text": "சிறியிலை",
        "lemma": "சிறியிலை",
-       "gloss": "small leaf"
+       "gloss": "small-leaved"
       }
      ],
-     "gloss": "small leaf"
+     "gloss": "small-leaved",
+     "split_unverified": true
     },
     {
      "surface": "உடையின்",
      "parts": [
       {
-       "text": "உடையின்",
+       "text": "உடை",
        "lemma": "உடை",
-       "gloss": "of the umbrella thorn tree"
+       "gloss": "uṭai tree"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "of the umbrella thorn tree"
+     "gloss": "of the uṭai tree"
     },
     {
      "surface": "சுரையுடை",
      "parts": [
       {
-       "text": "சுரையுடை",
-       "lemma": "சுரையுடை",
-       "gloss": "having a hollow socket"
+       "text": "சுரை",
+       "lemma": "சுரை",
+       "gloss": "hollow sheath"
+      },
+      {
+       "text": "உடை",
+       "lemma": "உடை",
+       "gloss": "having"
       }
      ],
-     "gloss": "having a hollow socket"
+     "gloss": "having a hollow sheath"
     },
     {
      "surface": "வால்முள்",
      "parts": [
       {
-       "text": "வால்முள்",
-       "lemma": "வால்முள்",
-       "gloss": "white/sharp thorn"
+       "text": "வால்",
+       "lemma": "வால்",
+       "gloss": "white"
+      },
+      {
+       "text": "முள்",
+       "lemma": "முள்",
+       "gloss": "thorn"
       }
      ],
-     "gloss": "white/sharp thorn"
+     "gloss": "white thorn"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "ஊக",
+     "surface": "ஊகம்",
      "parts": [
       {
-       "text": "ஊக",
+       "text": "ஊகம்",
        "lemma": "ஊகம்",
-       "gloss": "reed grass"
+       "gloss": "reed"
       }
      ],
-     "gloss": "reed grass"
+     "gloss": "reed"
     },
     {
-     "surface": "நுண்கோற்",
+     "surface": "நுண்",
      "parts": [
       {
-       "text": "நுண்கோற்",
-       "lemma": "நுண்கோல்",
-       "gloss": "fine shaft"
+       "text": "நுண்",
+       "lemma": "நுண்",
+       "gloss": "fine"
       }
      ],
-     "gloss": "fine shaft"
+     "gloss": "fine"
+    },
+    {
+     "surface": "கோல்",
+     "parts": [
+      {
+       "text": "கோல்",
+       "lemma": "கோல்",
+       "gloss": "shaft"
+      }
+     ],
+     "gloss": "shaft"
     },
     {
      "surface": "செறித்த",
@@ -236,12 +346,17 @@
      "surface": "அம்பின்",
      "parts": [
       {
-       "text": "அம்பின்",
+       "text": "அம்பு",
        "lemma": "அம்பு",
-       "gloss": "of the arrow"
+       "gloss": "arrow"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "with"
       }
      ],
-     "gloss": "of the arrow"
+     "gloss": "with arrow"
     }
    ]
   },
@@ -253,43 +368,54 @@
       {
        "text": "வலாஅர்",
        "lemma": "வலாஅர்",
-       "gloss": "slender branch"
+       "gloss": "thin stick"
       }
      ],
-     "gloss": "slender branch"
+     "gloss": "thin stick"
     },
     {
-     "surface": "வல்வில்",
+     "surface": "வல்",
      "parts": [
       {
-       "text": "வல்வில்",
-       "lemma": "வல்வில்",
-       "gloss": "strong bow"
+       "text": "வல்",
+       "lemma": "வல்",
+       "gloss": "strong"
       }
      ],
-     "gloss": "strong bow"
+     "gloss": "strong"
     },
     {
-     "surface": "குலாவரக்",
+     "surface": "வில்",
      "parts": [
       {
-       "text": "குலாவரக்",
-       "lemma": "குலாவர",
+       "text": "வில்",
+       "lemma": "வில்",
+       "gloss": "bow"
+      }
+     ],
+     "gloss": "bow"
+    },
+    {
+     "surface": "குலாவர",
+     "parts": [
+      {
+       "text": "குலாவர",
+       "lemma": "குலாவு",
        "gloss": "to bend"
       }
      ],
      "gloss": "to bend"
     },
     {
-     "surface": "கோலிப்",
+     "surface": "கோலி",
      "parts": [
       {
-       "text": "கோலிப்",
+       "text": "கோலி",
        "lemma": "கோலு",
-       "gloss": "drawing"
+       "gloss": "having bent"
       }
      ],
-     "gloss": "drawing"
+     "gloss": "having bent"
     }
    ]
   },
@@ -307,10 +433,10 @@
      "gloss": "cotton"
     },
     {
-     "surface": "வேலிக்",
+     "surface": "வேலி",
      "parts": [
       {
-       "text": "வேலிக்",
+       "text": "வேலி",
        "lemma": "வேலி",
        "gloss": "fence"
       }
@@ -323,10 +449,10 @@
       {
        "text": "கருப்பை",
        "lemma": "கருப்பை",
-       "gloss": "bandicoot rat"
+       "gloss": "bandicoot"
       }
      ],
-     "gloss": "bandicoot rat"
+     "gloss": "bandicoot"
     },
     {
      "surface": "பார்க்கும்",
@@ -344,90 +470,123 @@
   {
    "words": [
     {
-     "surface": "புன்புலம்",
+     "surface": "புன்",
      "parts": [
       {
-       "text": "புன்புலம்",
-       "lemma": "புன்புலம்",
-       "gloss": ""
+       "text": "புன்",
+       "lemma": "புன்",
+       "gloss": "dry"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "dry"
+    },
+    {
+     "surface": "புலம்",
+     "parts": [
+      {
+       "text": "புலம்",
+       "lemma": "புலம்",
+       "gloss": "land"
+      }
+     ],
+     "gloss": "land"
     },
     {
      "surface": "தழீஇய",
      "parts": [
       {
        "text": "தழீஇய",
-       "lemma": "தழீஇய",
-       "gloss": ""
+       "lemma": "தழுவு",
+       "gloss": "surrounded"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "surrounded"
     },
     {
-     "surface": "அங்குடிச்",
+     "surface": "அம்",
      "parts": [
       {
-       "text": "அங்குடிச்",
-       "lemma": "அங்குடிச்",
-       "gloss": ""
+       "text": "அம்",
+       "lemma": "அம்",
+       "gloss": "beautiful"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "beautiful"
     },
     {
-     "surface": "சீறூர்க்",
+     "surface": "குடி",
      "parts": [
       {
-       "text": "சீறூர்க்",
-       "lemma": "சீறூர்க்",
-       "gloss": ""
+       "text": "குடி",
+       "lemma": "குடி",
+       "gloss": "hamlet"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "hamlet"
+    },
+    {
+     "surface": "சீறூர்",
+     "parts": [
+      {
+       "text": "சீறூர்",
+       "lemma": "சீறூர்",
+       "gloss": "small village"
+      }
+     ],
+     "gloss": "small village"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "குமிழ்உண்",
+     "surface": "குமிழ்",
      "parts": [
       {
-       "text": "குமிழ்உண்",
-       "lemma": "குமிழ்உண்",
-       "gloss": "eating kumizh fruit"
+       "text": "குமிழ்",
+       "lemma": "குமிழ்",
+       "gloss": "kumil fruit"
       }
      ],
-     "gloss": "eating kumizh fruit"
+     "gloss": "kumil fruit"
     },
     {
-     "surface": "வெள்ளைப்",
+     "surface": "உண்",
      "parts": [
       {
-       "text": "வெள்ளைப்",
-       "lemma": "வெள்ளை",
-       "gloss": "white sheep"
+       "text": "உண்",
+       "lemma": "உண்",
+       "gloss": "eating"
       }
      ],
-     "gloss": "white sheep"
+     "gloss": "eating"
+    },
+    {
+     "surface": "வெள்ளை",
+     "parts": [
+      {
+       "text": "வெள்ளை",
+       "lemma": "வெள்ளை",
+       "gloss": "white"
+      }
+     ],
+     "gloss": "white"
     },
     {
      "surface": "பகுவாய்",
      "parts": [
       {
-       "text": "பகுவாய்",
-       "lemma": "பகுவாய்",
-       "gloss": "wide mouth"
+       "text": "பகு",
+       "lemma": "பகு",
+       "gloss": "gaping"
+      },
+      {
+       "text": "வாய்",
+       "lemma": "வாய்",
+       "gloss": "mouth"
       }
      ],
-     "gloss": "wide mouth"
+     "gloss": "gaping mouth"
     },
     {
      "surface": "பெயர்த்த",
@@ -435,10 +594,10 @@
       {
        "text": "பெயர்த்த",
        "lemma": "பெயர்",
-       "gloss": "turned"
+       "gloss": "opened"
       }
      ],
-     "gloss": "turned"
+     "gloss": "opened"
     }
    ]
   },
@@ -448,45 +607,55 @@
      "surface": "வெண்வாழ்",
      "parts": [
       {
-       "text": "வெண்வாழ்",
-       "lemma": "வெண்வாழ்",
-       "gloss": "white flowers/light"
+       "text": "வெண்மை",
+       "lemma": "வெண்மை",
+       "gloss": "white"
+      },
+      {
+       "text": "வாழ்",
+       "lemma": "வாள்",
+       "gloss": "shining flower"
       }
      ],
-     "gloss": "white flowers/light"
+     "gloss": "white shining flower"
     },
     {
      "surface": "தாய",
      "parts": [
       {
        "text": "தாய",
-       "lemma": "தாவு",
+       "lemma": "தா",
        "gloss": "spread"
       }
      ],
      "gloss": "spread"
     },
     {
-     "surface": "வண்காற்",
+     "surface": "வண்கால்",
      "parts": [
       {
-       "text": "வண்காற்",
-       "lemma": "வண்கால்",
-       "gloss": "strong post"
+       "text": "வண்மை",
+       "lemma": "வண்மை",
+       "gloss": "strength"
+      },
+      {
+       "text": "கால்",
+       "lemma": "கால்",
+       "gloss": "pillar"
       }
      ],
-     "gloss": "strong post"
+     "gloss": "strong-pillared"
     },
     {
      "surface": "பந்தர்",
      "parts": [
       {
        "text": "பந்தர்",
-       "lemma": "பந்தல்",
-       "gloss": "bower"
+       "lemma": "பந்தர்",
+       "gloss": "arbor"
       }
      ],
-     "gloss": "bower"
+     "gloss": "arbor"
     }
    ]
   },
@@ -515,26 +684,38 @@
      "gloss": "kindled"
     },
     {
-     "surface": "சிறுதீ",
+     "surface": "சிறு",
      "parts": [
       {
-       "text": "சிறுதீ",
-       "lemma": "சிறுதீ",
-       "gloss": "small fire"
+       "text": "சிறு",
+       "lemma": "சிறு",
+       "gloss": "small"
       }
      ],
-     "gloss": "small fire"
+     "gloss": "small"
     },
     {
-     "surface": "விளக்கத்துப்",
+     "surface": "தீ",
      "parts": [
       {
-       "text": "விளக்கத்துப்",
-       "lemma": "விளக்கத்து",
-       "gloss": "of the lamp"
+       "text": "தீ",
+       "lemma": "தீ",
+       "gloss": "fire"
       }
      ],
-     "gloss": "of the lamp"
+     "gloss": "fire"
+    },
+    {
+     "surface": "விளக்கத்து",
+     "parts": [
+      {
+       "text": "விளக்கத்து",
+       "lemma": "விளக்கத்து",
+       "gloss": "in the light"
+      }
+     ],
+     "gloss": "in the light",
+     "split_unverified": true
     }
    ]
   },
@@ -544,12 +725,17 @@
      "surface": "பாணரொடு",
      "parts": [
       {
-       "text": "பாணரொடு",
-       "lemma": "பாணரொடு",
-       "gloss": "with the bards"
+       "text": "பாணர்",
+       "lemma": "பாணர்",
+       "gloss": "bards"
+      },
+      {
+       "text": "ஒடு",
+       "lemma": "ஒடு",
+       "gloss": "with"
       }
      ],
-     "gloss": "with the bards"
+     "gloss": "with bards"
     },
     {
      "surface": "இருந்த",
@@ -563,41 +749,68 @@
      "gloss": "who sat"
     },
     {
-     "surface": "நாணுடை",
+     "surface": "நாண்",
      "parts": [
       {
-       "text": "நாணுடை",
-       "lemma": "நாணுடை",
-       "gloss": "possessing honor"
+       "text": "நாண்",
+       "lemma": "நாண்",
+       "gloss": "honour"
       }
      ],
-     "gloss": "possessing honor"
+     "gloss": "honour"
+    },
+    {
+     "surface": "உடை",
+     "parts": [
+      {
+       "text": "உடை",
+       "lemma": "உடை",
+       "gloss": "having"
+      }
+     ],
+     "gloss": "having"
     },
     {
      "surface": "நெடுந்தகை",
      "parts": [
       {
-       "text": "நெடுந்தகை",
-       "lemma": "நெடுந்தகை",
-       "gloss": "noble man"
+       "text": "நெடும்",
+       "lemma": "நெடு",
+       "gloss": "great"
+      },
+      {
+       "text": "தகை",
+       "lemma": "தகை",
+       "gloss": "nobility"
       }
      ],
-     "gloss": "noble man"
+     "gloss": "great noble man"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "வலம்படு",
+     "surface": "வலம்",
      "parts": [
       {
-       "text": "வலம்படு",
-       "lemma": "வலம்படு",
-       "gloss": "victorious"
+       "text": "வலம்",
+       "lemma": "வலம்",
+       "gloss": "victory"
       }
      ],
-     "gloss": "victorious"
+     "gloss": "victory"
+    },
+    {
+     "surface": "படு",
+     "parts": [
+      {
+       "text": "படு",
+       "lemma": "படு",
+       "gloss": "having"
+      }
+     ],
+     "gloss": "having"
     },
     {
      "surface": "தானை",
@@ -614,9 +827,14 @@
      "surface": "வேந்தற்கு",
      "parts": [
       {
-       "text": "வேந்தற்கு",
+       "text": "வேந்தன்",
        "lemma": "வேந்தன்",
-       "gloss": "to the king"
+       "gloss": "king"
+      },
+      {
+       "text": "கு",
+       "lemma": "கு",
+       "gloss": "to"
       }
      ],
      "gloss": "to the king"
@@ -634,7 +852,8 @@
        "gloss": "when perished"
       }
      ],
-     "gloss": "when perished"
+     "gloss": "when perished",
+     "split_unverified": true
     },
     {
      "surface": "உலக்கும்",
@@ -642,40 +861,56 @@
       {
        "text": "உலக்கும்",
        "lemma": "உல",
-       "gloss": "will perish"
+       "gloss": "who will perish"
       }
      ],
-     "gloss": "will perish"
+     "gloss": "who will perish"
     },
     {
-     "surface": "நெஞ்சறி",
+     "surface": "நெஞ்சு",
      "parts": [
       {
-       "text": "நெஞ்சறி",
-       "lemma": "நெஞ்சறி",
-       "gloss": "heart-knowing"
+       "text": "நெஞ்சு",
+       "lemma": "நெஞ்சு",
+       "gloss": "heart"
       }
      ],
-     "gloss": "heart-knowing"
+     "gloss": "heart"
+    },
+    {
+     "surface": "அறி",
+     "parts": [
+      {
+       "text": "அறி",
+       "lemma": "அறி",
+       "gloss": "knowing"
+      }
+     ],
+     "gloss": "knowing"
     },
     {
      "surface": "துணையே",
      "parts": [
       {
-       "text": "துணையே",
+       "text": "துணை",
        "lemma": "துணை",
        "gloss": "companion"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "companion"
+     "gloss": "companion indeed"
     }
    ]
   }
  ],
- "literal": "Wild cat male-like startled look soft-headed / bird-flesh eaten stench-smelling wide mouth / white-mouthed hunters' beloved companion children / small-leaved umbrella-thorn's hollow-socketed white thorn / reed-grass fine-shaft fitted arrow / slender-branch strong bow to bend drawing / cotton fence's bandicoot rat watching / dry land surrounding beautiful settlement small village's / kumizh-fruit eating white wide-mouthed turned / white-flowers spread strong-legged bower / shepherd kindled small fire light's / with bards sat possessing-honor noble man / victorious army king's / when perished perishing heart-knowing companion.",
- "translation": "The children of the white-mouthed hunters, who have soft heads and startled looks like male wild cats, and wide mouths smelling of the bird-flesh they have eaten, draw their strong bows made of slender branches to bend, fitting arrows with fine shafts of reed-grass and white thorns from the hollow sockets of the small-leaved umbrella-thorn tree, and watch for bandicoot rats near the cotton fences. In that small village of beautiful homes surrounded by dry lands, under a strong-legged bower spread with white flowers, by the light of a small fire kindled by a shepherd, sits the honorable noble man with his bards. He is a heart-knowing companion to the king of the victorious army, who will perish when the king perishes.",
- "modern": "காட்டுப் பூனையின் ஆண் போன்ற மிரண்ட பார்வையையும், பறவை இறைச்சியைத் தின்றதால் புலால் நாற்றம் வீசும் அகன்ற வாயையும் உடைய வெள்வாய் வேட்டுவர்களின் பிள்ளைகள், சிறிய இலைகளைக் கொண்ட உடை மரத்தின் துளையுள்ள முட்களையும் நாணல் தண்டுகளையும் கொண்டு தொடுத்த அம்புகளை, வளைந்த வில்லில் பூட்டி, பருத்தி வேலியருகே இருக்கும் பெருச்சாளிகளைப் பிடிக்கக் காத்திருக்கிறார்கள். புன்புலத்தைச் சார்ந்த அழகிய குடிகளைக் கொண்ட அந்தச் சீறூரில், குமிழம்பழங்களை உண்ணும் வெள்ளாடுகள் கட்டப்பட்ட, வெண்மையான வள்ளை மலர்கள் படர்ந்த, வலிய கால்களைக் கொண்ட பந்தலின் கீழ், இடையன் மூட்டிய சிறு நெருப்பின் வெளிச்சத்தில், பாணர்களோடு அமர்ந்திருக்கிறான் மானமும் பெருந்தகையும் உடைய தலைவன். அவன், வெற்றி பொருந்திய படையையுடைய வேந்தனுக்கு, அவன் அழியும் போது தானும் அழியும் நெஞ்சறிந்த உற்ற துணையாவான்.",
- "explanation": "This poem belongs to the Puram genre, specifically the theme of 'Vallāṇ Mullai' (the strength and valor of a warrior in the Mullai landscape). The poet Alathur Kizhar describes a small, dry-land village (Seerur) where the children of hunters are already skilled in archery, hunting bandicoot rats near cotton fences with makeshift arrows. In this humble setting, under a bower lit by a shepherd's small fire, sits a noble warrior sharing food and space with wandering bards. Despite his humble surroundings, this warrior is the ultimate loyal companion to the great king, ready to lay down his life when the king's life is lost. The imagery of the children's early mastery of weapons reflects the inherent martial valor of the community, highlighting the theme of loyalty and bravery.",
+ "literal": "Like a male wild cat, with a frightened look and a soft head, / eating bird's flesh, with a flesh-smelling wide mouth, / the children of the white-mouthed hunters and their beloved wives, / with the small-leaved uṭai tree's hollow-sheathed white thorns, / and arrows fitted with fine reed shafts, / bending the strong bow made of thin sticks, / watching for bandicoots near the cotton fence, / in the small village of beautiful hamlets surrounded by dry lands, / where the white gaping mouths of sheep that ate kumil fruits are opened, / under the strong-pillared arbor spread with white shining flowers, / in the light of the small fire kindled by the shepherd, / the great noble man of honour sat with the bards, / to the king of the victorious army, / he is indeed a heart-knowing companion who will perish when the king perishes.",
+ "translation": "In the small village of beautiful hamlets surrounded by dry lands, children of white-mouthed hunters and their beloved wives—who look like male wild cats with frightened gazes and soft heads, and have wide, flesh-smelling mouths from eating bird-meat—bend strong bows made of thin sticks, fitting arrows with fine reed shafts and white thorns from the hollow sheaths of small-leaved uṭai trees, to watch for bandicoots near the cotton fences. There, under a strong-pillared arbor spread with white shining flowers, where sheep open their gaping white mouths after eating kumil fruits, a great noble man of honour sits with bards in the light of a small fire kindled by a shepherd. To the king of the victorious army, he is indeed a true, heart-knowing companion who will perish when his king perishes.",
+ "modern": "காட்டுப் பூனையின் ஆண் போன்ற மிரண்ட பார்வையும் மென்மையான தலையும் உடைய, பறவையின் இறைச்சியைத் தின்று புலால் நாற்றம் வீசும் அகன்ற வாயைக் கொண்ட, வெண்மையான வாயையுடைய வேட்டுவர்களின் அன்பான மனைவியரும் பிள்ளைகளும், சிறிய இலைகளையுடைய உடை மரத்தின் துளையுள்ள வெண்மையான முட்களையும், நாணலின் மெல்லிய கோல்களையும் கொண்டு தொடுத்த அம்புகளை, வளைந்த வில்லில் பூட்டி, பருத்தி வேலியருகே ஓடும் பெருச்சாளிகளைப் பார்த்துக் கொண்டிருப்பர். அத்தகைய புன்புல நிலத்தால் சூழப்பட்ட அழகிய குடிகளைக் கொண்ட சிறிய ஊரில், குமிழ் பழங்களைத் தின்ற ஆடுகள் தம் வெண்மையான பிளந்த வாய்களைத் திறக்கும்படியாக, வெண்மையான பூக்கள் பரவிய வலிமையான தூண்களையுடைய பந்தலின் கீழ், இடையன் மூட்டிய சிறிய நெருப்பின் வெளிச்சத்தில், பாணர்களோடு அமர்ந்திருக்கும் மானமுடைய பெருந்தகை, வெற்றி பொருந்திய படையையுடைய வேந்தனுக்கு, அவன் அழியும்போது தானும் அழியும் நெஞ்சறிந்த துணையாவான்.",
+ "explanation": "This poem belongs to the Vākai tiṇai and Vallāṇ Mullai tuṟai, which celebrates the strength and loyalty of a warrior from the dry forest region. The poet Alattur Kilar describes a small, rustic village surrounded by dry lands, where hunter families live a rugged life, hunting bandicoots near cotton fences with simple bows and arrows. In this humble village, under an arbor where sheep rest, the local chieftain sits with bards around a small fire lit by a shepherd. Despite his simple lifestyle, this noble chieftain is a fierce warrior and a deeply loyal companion to his king. The poem emphasizes that he is a true friend who will not hesitate to lay down his life on the battlefield when his king perishes.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

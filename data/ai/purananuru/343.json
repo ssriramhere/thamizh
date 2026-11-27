@@ -7,7 +7,7 @@
      "parts": [
       {
        "text": "மீன்",
-       "lemma": "mīṉ",
+       "lemma": "மீன்",
        "gloss": "fish"
       }
      ],
@@ -17,24 +17,19 @@
      "surface": "நொடுத்து",
      "parts": [
       {
-       "text": "நொடு",
-       "lemma": "noṭu",
-       "gloss": "sell/barter"
-      },
-      {
-       "text": "த்து",
-       "lemma": "ttu",
-       "gloss": "having done"
+       "text": "நொடுத்து",
+       "lemma": "நொடு",
+       "gloss": "having sold"
       }
      ],
-     "gloss": "having bartered"
+     "gloss": "having sold"
     },
     {
      "surface": "நெல்",
      "parts": [
       {
        "text": "நெல்",
-       "lemma": "nel",
+       "lemma": "நெல்",
        "gloss": "paddy"
       }
      ],
@@ -44,14 +39,9 @@
      "surface": "குவைஇ",
      "parts": [
       {
-       "text": "குவை",
-       "lemma": "kuvai",
-       "gloss": "heap"
-      },
-      {
-       "text": "இ",
-       "lemma": "i",
-       "gloss": "having done"
+       "text": "குவைஇ",
+       "lemma": "குவி",
+       "gloss": "having heaped"
       }
      ],
      "gloss": "having heaped"
@@ -65,223 +55,204 @@
      "parts": [
       {
        "text": "மிசை",
-       "lemma": "micai",
-       "gloss": "top/high"
+       "lemma": "மிசை",
+       "gloss": "top"
       }
      ],
-     "gloss": "on top"
+     "gloss": "top"
     },
     {
-     "surface": "அம்பியின்",
+     "surface": "யம்பியின்",
      "parts": [
       {
-       "text": "அம்பி",
-       "lemma": "ampi",
-       "gloss": "boat"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "of"
+       "text": "யம்பியின்",
+       "lemma": "யம்பியின்",
+       "gloss": "of the boat"
       }
      ],
-     "gloss": "of the boats"
+     "gloss": "of the boat",
+     "split_unverified": true
     },
     {
-     "surface": "மனை",
+     "surface": "மனைமறுக்",
      "parts": [
       {
-       "text": "மனை",
-       "lemma": "maṉai",
-       "gloss": "house"
+       "text": "மனைமறுக்",
+       "lemma": "மனைமறுக்",
+       "gloss": "stirring the houses"
       }
      ],
-     "gloss": "house"
+     "gloss": "stirring the houses",
+     "split_unverified": true
     },
     {
-     "surface": "மறுக்குந்து",
+     "surface": "குந்து",
      "parts": [
       {
-       "text": "மறுக்கு",
-       "lemma": "maṟukku",
-       "gloss": "stir/confuse"
-      },
-      {
-       "text": "உந்து",
-       "lemma": "untu",
-       "gloss": "habitual suffix"
+       "text": "குந்து",
+       "lemma": "குந்து",
+       "gloss": "moving around"
       }
      ],
-     "gloss": "stirs/confuses"
+     "gloss": "moving around",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "மனை",
+     "surface": "மனைக்",
      "parts": [
       {
-       "text": "மனை",
-       "lemma": "maṉai",
+       "text": "மனைக்",
+       "lemma": "மனைக்",
        "gloss": "house"
       }
      ],
-     "gloss": "house"
+     "gloss": "house",
+     "split_unverified": true
     },
     {
      "surface": "கவைஇய",
      "parts": [
       {
-       "text": "கவை",
-       "lemma": "kavai",
-       "gloss": "surround/fill"
-      },
-      {
-       "text": "இய",
-       "lemma": "iya",
-       "gloss": "adjectival participle"
+       "text": "கவைஇய",
+       "lemma": "கவை",
+       "gloss": "which surrounded"
       }
      ],
-     "gloss": "surrounded/filled"
+     "gloss": "which surrounded"
     },
     {
-     "surface": "கறி",
+     "surface": "கறிமூ",
      "parts": [
       {
-       "text": "கறி",
-       "lemma": "kaṟi",
+       "text": "கறிமூ",
+       "lemma": "கறிமூ",
        "gloss": "black pepper"
       }
      ],
-     "gloss": "black pepper"
+     "gloss": "black pepper",
+     "split_unverified": true
     },
     {
-     "surface": "மூடையால்",
+     "surface": "டையால்",
      "parts": [
       {
-       "text": "மூடை",
-       "lemma": "mūṭai",
-       "gloss": "bag"
-      },
-      {
-       "text": "ஆல்",
-       "lemma": "āl",
-       "gloss": "by/with"
+       "text": "டையால்",
+       "lemma": "டையால்",
+       "gloss": "with bags"
       }
      ],
-     "gloss": "by the bags"
+     "gloss": "with bags",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கலி",
+     "surface": "கலிச்",
      "parts": [
       {
-       "text": "கலி",
-       "lemma": "kali",
-       "gloss": "bustling/loud"
+       "text": "கலிச்",
+       "lemma": "கலிச்",
+       "gloss": "bustling"
       }
      ],
-     "gloss": "bustling"
+     "gloss": "bustling",
+     "split_unverified": true
     },
     {
      "surface": "சும்மைய",
      "parts": [
       {
        "text": "சும்மை",
-       "lemma": "cummai",
+       "lemma": "சும்மை",
        "gloss": "noise"
       },
       {
        "text": "அ",
-       "lemma": "a",
+       "lemma": "அ",
        "gloss": "having"
       }
      ],
-     "gloss": "noisy"
+     "gloss": "having noise"
     },
     {
-     "surface": "கரை",
+     "surface": "கரைகலக்",
      "parts": [
       {
-       "text": "கரை",
-       "lemma": "karai",
-       "gloss": "shore"
+       "text": "கரைகலக்",
+       "lemma": "கரைகலக்",
+       "gloss": "stirring up the shore"
       }
      ],
-     "gloss": "shore"
+     "gloss": "stirring up the shore",
+     "split_unverified": true
     },
     {
-     "surface": "கலக்குறுந்து",
+     "surface": "குறுந்து",
      "parts": [
       {
-       "text": "கலக்கு",
-       "lemma": "kalakku",
-       "gloss": "stir/confuse"
-      },
-      {
-       "text": "உறு",
-       "lemma": "uṟu",
-       "gloss": "experience"
-      },
-      {
-       "text": "உந்து",
-       "lemma": "untu",
-       "gloss": "habitual suffix"
+       "text": "குறுந்து",
+       "lemma": "குறுந்து",
+       "gloss": "becoming confused"
       }
      ],
-     "gloss": "gets stirred/confused"
+     "gloss": "becoming confused",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கலம்",
+     "surface": "கலந்",
      "parts": [
       {
-       "text": "கலம்",
-       "lemma": "kalam",
+       "text": "கலந்",
+       "lemma": "கலந்",
        "gloss": "ship"
       }
      ],
-     "gloss": "ships"
+     "gloss": "ship",
+     "split_unverified": true
     },
     {
      "surface": "தந்த",
      "parts": [
       {
        "text": "தந்த",
-       "lemma": "tanta",
+       "lemma": "தா",
        "gloss": "brought"
       }
      ],
      "gloss": "brought"
     },
     {
-     "surface": "பொன்",
+     "surface": "பொற்",
      "parts": [
       {
-       "text": "பொன்",
-       "lemma": "poṉ",
+       "text": "பொற்",
+       "lemma": "பொற்",
        "gloss": "gold"
       }
      ],
-     "gloss": "gold"
+     "gloss": "gold",
+     "split_unverified": true
     },
     {
      "surface": "பரிசம்",
      "parts": [
       {
        "text": "பரிசம்",
-       "lemma": "paricam",
-       "gloss": "gift/present"
+       "lemma": "பரிசம்",
+       "gloss": "presents"
       }
      ],
-     "gloss": "gifts"
+     "gloss": "presents"
     }
    ]
   },
@@ -293,10 +264,10 @@
       {
        "text": "கழித்",
        "lemma": "கழித்",
-       "gloss": ""
+       "gloss": "backwater"
       }
      ],
-     "gloss": "",
+     "gloss": "backwater",
      "split_unverified": true
     },
     {
@@ -305,10 +276,10 @@
       {
        "text": "தொணியான்",
        "lemma": "தொணியான்",
-       "gloss": ""
+       "gloss": "by boats"
       }
      ],
-     "gloss": "",
+     "gloss": "by boats",
      "split_unverified": true
     },
     {
@@ -317,10 +288,10 @@
       {
        "text": "கரைசேர்க்",
        "lemma": "கரைசேர்க்",
-       "gloss": ""
+       "gloss": "reaching the shore"
       }
      ],
-     "gloss": "",
+     "gloss": "reaching the shore",
      "split_unverified": true
     },
     {
@@ -329,50 +300,50 @@
       {
        "text": "குந்து",
        "lemma": "குந்து",
-       "gloss": ""
+       "gloss": "bringing to shore"
       }
      ],
-     "gloss": "",
+     "gloss": "bringing to shore",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "மலை",
+     "surface": "மலைத்",
      "parts": [
       {
-       "text": "மலை",
-       "lemma": "malai",
+       "text": "மலைத்",
+       "lemma": "மலைத்",
        "gloss": "mountain"
       }
      ],
-     "gloss": "mountain"
+     "gloss": "mountain",
+     "split_unverified": true
     },
     {
      "surface": "தாரமும்",
      "parts": [
       {
        "text": "தாரம்",
-       "lemma": "tāram",
-       "gloss": "produce/yield"
+       "lemma": "தாரம்",
+       "gloss": "produce"
       },
       {
        "text": "உம்",
-       "lemma": "um",
+       "lemma": "உம்",
        "gloss": "and"
       }
      ],
-     "gloss": "produce and"
+     "gloss": "and mountain produce"
     },
     {
      "surface": "கடல்",
      "parts": [
       {
        "text": "கடல்",
-       "lemma": "kaṭal",
+       "lemma": "கடல்",
        "gloss": "sea"
       }
      ],
@@ -383,48 +354,55 @@
      "parts": [
       {
        "text": "தாரம்",
-       "lemma": "tāram",
-       "gloss": "produce/yield"
+       "lemma": "தாரம்",
+       "gloss": "produce"
       },
       {
        "text": "உம்",
-       "lemma": "um",
+       "lemma": "உம்",
        "gloss": "and"
       }
      ],
-     "gloss": "produce and"
+     "gloss": "and sea produce"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தலைப்பெய்து",
+     "surface": "தலைப்",
      "parts": [
       {
-       "text": "தலை",
-       "lemma": "talai",
-       "gloss": "head/together"
-      },
+       "text": "தலைப்",
+       "lemma": "தலைப்",
+       "gloss": "head"
+      }
+     ],
+     "gloss": "head",
+     "split_unverified": true
+    },
+    {
+     "surface": "பெய்து",
+     "parts": [
       {
        "text": "பெய்து",
-       "lemma": "peytu",
+       "lemma": "பெய்",
        "gloss": "having placed"
       }
      ],
-     "gloss": "gathering together"
+     "gloss": "having gathered together"
     },
     {
      "surface": "வருநர்க்கு",
      "parts": [
       {
        "text": "வருநர்",
-       "lemma": "varunar",
+       "lemma": "வருநர்",
        "gloss": "those who come"
       },
       {
        "text": "க்கு",
-       "lemma": "kku",
+       "lemma": "க்கு",
        "gloss": "to"
       }
      ],
@@ -435,13 +413,13 @@
      "parts": [
       {
        "text": "ஈ",
-       "lemma": "ī",
+       "lemma": "ஈ",
        "gloss": "give"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "habitual/adjectival suffix"
+       "lemma": "உம்",
+       "gloss": "ing"
       }
      ],
      "gloss": "giving"
@@ -451,72 +429,52 @@
   {
    "words": [
     {
-     "surface": "புனல்",
+     "surface": "புனலங்",
      "parts": [
       {
-       "text": "புனல்",
-       "lemma": "puṉal",
-       "gloss": "water/abundance"
+       "text": "புனலங்",
+       "lemma": "புனலங்",
+       "gloss": "abundant like water"
       }
      ],
-     "gloss": "abundant water-like"
-    },
-    {
-     "surface": "அம்",
-     "parts": [
-      {
-       "text": "அம்",
-       "lemma": "am",
-       "gloss": "beautiful"
-      }
-     ],
-     "gloss": "beautiful"
+     "gloss": "abundant like water",
+     "split_unverified": true
     },
     {
      "surface": "கள்ளின்",
      "parts": [
       {
        "text": "கள்",
-       "lemma": "kaḷ",
+       "lemma": "கள்",
        "gloss": "toddy"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "of"
       }
      ],
      "gloss": "of toddy"
     },
     {
-     "surface": "பொலம்",
+     "surface": "பொலந்தார்க்",
      "parts": [
       {
-       "text": "பொலம்",
-       "lemma": "polam",
-       "gloss": "gold"
+       "text": "பொலந்தார்க்",
+       "lemma": "பொலந்தார்க்",
+       "gloss": "golden garlanded"
       }
      ],
-     "gloss": "golden"
-    },
-    {
-     "surface": "தார்",
-     "parts": [
-      {
-       "text": "தார்",
-       "lemma": "tār",
-       "gloss": "garland"
-      }
-     ],
-     "gloss": "garland"
+     "gloss": "golden garlanded",
+     "split_unverified": true
     },
     {
      "surface": "குட்டுவன்",
      "parts": [
       {
        "text": "குட்டுவன்",
-       "lemma": "kuṭṭuvaṉ",
-       "gloss": "Kuttuvan (Chera king)"
+       "lemma": "குட்டுவன்",
+       "gloss": "Kuttuvan"
       }
      ],
      "gloss": "Kuttuvan"
@@ -530,8 +488,8 @@
      "parts": [
       {
        "text": "முழங்கு",
-       "lemma": "muḻaṅku",
-       "gloss": "roar"
+       "lemma": "முழங்கு",
+       "gloss": "roaring"
       }
      ],
      "gloss": "roaring"
@@ -541,7 +499,7 @@
      "parts": [
       {
        "text": "கடல்",
-       "lemma": "kaṭal",
+       "lemma": "கடல்",
        "gloss": "sea"
       }
      ],
@@ -552,13 +510,13 @@
      "parts": [
       {
        "text": "முழவு",
-       "lemma": "muḻavu",
+       "lemma": "முழவு",
        "gloss": "drum"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "like/of"
+       "lemma": "இன்",
+       "gloss": "like"
       }
      ],
      "gloss": "like a drum"
@@ -568,98 +526,83 @@
      "parts": [
       {
        "text": "முசிறி",
-       "lemma": "muciṟi",
-       "gloss": "Muciri (port city)"
+       "lemma": "முசிறி",
+       "gloss": "Muciri"
       }
      ],
      "gloss": "Muciri"
     },
     {
-     "surface": "அன்ன",
+     "surface": "யன்ன",
      "parts": [
       {
-       "text": "அன்ன",
-       "lemma": "anna",
+       "text": "யன்ன",
+       "lemma": "யன்ன",
        "gloss": "like"
       }
      ],
-     "gloss": "like"
+     "gloss": "like",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நலம்",
+     "surface": "நலஞ்சால்",
      "parts": [
       {
        "text": "நலம்",
-       "lemma": "nalam",
-       "gloss": "goodness/beauty"
-      }
-     ],
-     "gloss": "goodness"
-    },
-    {
-     "surface": "சால்",
-     "parts": [
+       "lemma": "நலம்",
+       "gloss": "goodness"
+      },
       {
        "text": "சால்",
-       "lemma": "cāl",
-       "gloss": "abundant/great"
+       "lemma": "சால்",
+       "gloss": "abundant"
       }
      ],
-     "gloss": "abundant"
+     "gloss": "abundant in goodness"
     },
     {
      "surface": "விழுப்பொருள்",
      "parts": [
       {
        "text": "விழு",
-       "lemma": "viḻu",
-       "gloss": "excellent/precious"
+       "lemma": "விழு",
+       "gloss": "excellent"
       },
       {
        "text": "பொருள்",
-       "lemma": "poruḷ",
+       "lemma": "பொருள்",
        "gloss": "wealth"
       }
      ],
-     "gloss": "precious wealth"
+     "gloss": "excellent wealth"
     },
     {
      "surface": "பணிந்து",
      "parts": [
       {
-       "text": "பணி",
-       "lemma": "paṇi",
-       "gloss": "bow/submit"
-      },
-      {
-       "text": "ந்து",
-       "lemma": "ntu",
-       "gloss": "having done"
+       "text": "பணிந்து",
+       "lemma": "பணி",
+       "gloss": "having bowed"
       }
      ],
-     "gloss": "humbly"
+     "gloss": "with humility"
     },
     {
      "surface": "கொடுப்பினும்",
      "parts": [
       {
        "text": "கொடு",
-       "lemma": "koṭu",
+       "lemma": "கொடு",
        "gloss": "give"
       },
       {
-       "text": "ப்பின்",
-       "lemma": "ppiṉ",
+       "text": "ப்பினும்",
+       "lemma": "ப்பினும்",
        "gloss": "even if"
-      },
-      {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "even"
       }
      ],
      "gloss": "even if given"
@@ -672,30 +615,20 @@
      "surface": "புரையர்",
      "parts": [
       {
-       "text": "புரை",
-       "lemma": "purai",
-       "gloss": "greatness/worthiness"
-      },
-      {
-       "text": "அர்",
-       "lemma": "ar",
-       "gloss": "they (honorific/plural)"
+       "text": "புரையர்",
+       "lemma": "புரையர்",
+       "gloss": "those who are worthy"
       }
      ],
-     "gloss": "worthy ones"
+     "gloss": "those who are worthy"
     },
     {
      "surface": "அல்லோர்",
      "parts": [
       {
-       "text": "அல்",
-       "lemma": "al",
-       "gloss": "not"
-      },
-      {
-       "text": "ஓர்",
-       "lemma": "ōr",
-       "gloss": "they"
+       "text": "அல்லோர்",
+       "lemma": "அல்",
+       "gloss": "those who are not"
       }
      ],
      "gloss": "those who are not"
@@ -704,19 +637,9 @@
      "surface": "வரையலள்",
      "parts": [
       {
-       "text": "வரை",
-       "lemma": "varai",
-       "gloss": "marry"
-      },
-      {
-       "text": "அல்",
-       "lemma": "al",
-       "gloss": "not"
-      },
-      {
-       "text": "அள்",
-       "lemma": "aḷ",
-       "gloss": "she"
+       "text": "வரையலள்",
+       "lemma": "வரை",
+       "gloss": "she will not marry"
       }
      ],
      "gloss": "she will not marry"
@@ -726,22 +649,23 @@
      "parts": [
       {
        "text": "இவள்",
-       "lemma": "ivaḷ",
+       "lemma": "இவள்",
        "gloss": "she"
       }
      ],
      "gloss": "she"
     },
     {
-     "surface": "என",
+     "surface": "எனத்",
      "parts": [
       {
-       "text": "என",
-       "lemma": "eṉa",
-       "gloss": "saying/thinking"
+       "text": "எனத்",
+       "lemma": "எனத்",
+       "gloss": "saying"
       }
      ],
-     "gloss": "saying"
+     "gloss": "saying",
+     "split_unverified": true
     }
    ]
   },
@@ -816,56 +740,46 @@
      "surface": "வாய்ப்ப",
      "parts": [
       {
-       "text": "வாய்",
-       "lemma": "vāy",
-       "gloss": "succeed/fit"
-      },
-      {
-       "text": "ப்ப",
-       "lemma": "ppa",
-       "gloss": "infinitival suffix"
+       "text": "வாய்ப்ப",
+       "lemma": "வாய்",
+       "gloss": "to succeed"
       }
      ],
-     "gloss": "to fit/succeed"
+     "gloss": "to succeed"
     },
     {
      "surface": "இறுத்த",
      "parts": [
       {
-       "text": "இறு",
-       "lemma": "iṟu",
-       "gloss": "pitch/place"
-      },
-      {
-       "text": "த்த",
-       "lemma": "tta",
-       "gloss": "past adjectival participle"
+       "text": "இறுத்த",
+       "lemma": "இறு",
+       "gloss": "pitched"
       }
      ],
-     "gloss": "pitched/placed"
+     "gloss": "pitched"
     },
     {
      "surface": "ஏணி",
      "parts": [
       {
        "text": "ஏணி",
-       "lemma": "ēṇi",
-       "gloss": "ladder"
+       "lemma": "ஏணி",
+       "gloss": "siege ladders"
       }
      ],
-     "gloss": "ladders"
+     "gloss": "siege ladders"
     },
     {
      "surface": "ஆயிடை",
      "parts": [
       {
        "text": "ஆ",
-       "lemma": "ā",
+       "lemma": "ஆ",
        "gloss": "that"
       },
       {
        "text": "இடை",
-       "lemma": "iṭai",
+       "lemma": "இடை",
        "gloss": "place"
       }
      ],
@@ -917,135 +831,107 @@
   {
    "words": [
     {
-     "surface": "இடை",
+     "surface": "இடைமதில்",
      "parts": [
       {
        "text": "இடை",
-       "lemma": "iṭai",
-       "gloss": "middle"
-      }
-     ],
-     "gloss": "middle"
-    },
-    {
-     "surface": "மதில்",
-     "parts": [
+       "lemma": "இடை",
+       "gloss": "inner"
+      },
       {
        "text": "மதில்",
-       "lemma": "matil",
+       "lemma": "மதில்",
        "gloss": "wall"
       }
      ],
-     "gloss": "wall"
+     "gloss": "inner wall"
     },
     {
      "surface": "சேக்கும்",
      "parts": [
       {
-       "text": "சே",
-       "lemma": "cē",
-       "gloss": "roost/rest"
-      },
-      {
-       "text": "க்கும்",
-       "lemma": "kkum",
-       "gloss": "habitual/adjectival suffix"
+       "text": "சேக்கும்",
+       "lemma": "சே",
+       "gloss": "resting"
       }
      ],
-     "gloss": "resting/roosting"
+     "gloss": "resting"
     },
     {
-     "surface": "புரிசை",
+     "surface": "புரிசைப்",
      "parts": [
       {
-       "text": "புரிசை",
-       "lemma": "puricai",
-       "gloss": "rampart/fortress wall"
+       "text": "புரிசைப்",
+       "lemma": "புரிசைப்",
+       "gloss": "rampart"
       }
      ],
-     "gloss": "rampart"
+     "gloss": "rampart",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "படை",
+     "surface": "படைமயங்கு",
      "parts": [
       {
        "text": "படை",
-       "lemma": "paṭai",
+       "lemma": "படை",
        "gloss": "army"
-      }
-     ],
-     "gloss": "armies"
-    },
-    {
-     "surface": "மயங்கு",
-     "parts": [
+      },
       {
        "text": "மயங்கு",
-       "lemma": "mayaṅku",
-       "gloss": "clash/mingle"
+       "lemma": "மயங்கு",
+       "gloss": "clash"
       }
      ],
-     "gloss": "clashing"
+     "gloss": "where armies clash"
     },
     {
-     "surface": "ஆர்",
+     "surface": "ஆரிடை",
      "parts": [
       {
        "text": "ஆர்",
-       "lemma": "ār",
+       "lemma": "ஆர்",
        "gloss": "difficult"
-      }
-     ],
-     "gloss": "difficult"
-    },
-    {
-     "surface": "இடை",
-     "parts": [
+      },
       {
        "text": "இடை",
-       "lemma": "iṭai",
-       "gloss": "path/place"
+       "lemma": "இடை",
+       "gloss": "path"
       }
      ],
-     "gloss": "path"
+     "gloss": "difficult path"
     },
     {
-     "surface": "நெடு",
+     "surface": "நெடுநல்",
      "parts": [
       {
        "text": "நெடு",
-       "lemma": "neṭu",
-       "gloss": "long/great"
-      }
-     ],
-     "gloss": "great"
-    },
-    {
-     "surface": "நல்",
-     "parts": [
+       "lemma": "நெடு",
+       "gloss": "great"
+      },
       {
        "text": "நல்",
-       "lemma": "nal",
-       "gloss": "good/fine"
+       "lemma": "நல்",
+       "gloss": "good"
       }
      ],
-     "gloss": "fine"
+     "gloss": "great good"
     },
     {
      "surface": "ஊரே",
      "parts": [
       {
        "text": "ஊர்",
-       "lemma": "ūr",
+       "lemma": "ஊர்",
        "gloss": "town"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
+       "lemma": "ஏ",
        "gloss": "indeed"
       }
      ],
@@ -1054,10 +940,10 @@
    ]
   }
  ],
- "literal": "Having bartered fish and heaped paddy, / the boats on top confuse the houses, / with bags of black pepper surrounding the houses, / the noisy shore gets stirred, / the gold brought by ships / is brought to shore by backwater boats, / mountain produce and sea produce / gathering together and giving to those who come, / Kuttuvan of the golden garland and abundant water-like toddy, / whose Muciri is like the roaring sea-drum, / even if precious wealth of abundant goodness is humbly given, / saying 'she will not marry those who are not worthy', / her father too does not give her, then... / the ladders pitched to succeed in that place, / did they suffer indeed? / where kites sigh and roost on the middle walls of the ramparts, / in the great fine town of difficult paths where armies clash.",
- "translation": "In Muciri, the port city of Kuttuvan who wears golden garlands and pours out toddy like water, where the roaring sea sounds like a drum, fish is bartered for heaps of paddy, boats crowd the front yards of houses, bags of black pepper fill the homes, and the bustling shore is filled with noise. There, boats bring ashore the gold brought by ships, and the riches of the mountains and the seas are gathered and given freely to all who come. Even if suitors humbly offer precious wealth of great value, her father refuses to give her hand, saying she will not marry those who are not worthy. Because of this, the ladders pitched by the suitors to scale the fort walls must have suffered indeed, in this great, fine town of difficult paths where clashing armies meet, and kites sigh as they roost on the ramparts.",
- "modern": "மீனை விற்று நெல்லைக் குவித்து, படகுகள் வீடுகளின் முன்னே வந்து குழப்பமடையச் செய்து, வீடுகளில் மிளகு மூட்டைகள் நிறைந்து கிடக்க, ஆரவாரமான கடற்கரை கலங்கிக் கிடக்கிறது. கப்பல்கள் கொண்டு வந்த பொன்னைத் தோணிகள் மூலம் கரைக்குக் கொண்டு வந்து சேர்க்கின்றனர். மலையின் வளங்களையும் கடலின் வளங்களையும் ஒன்றாகச் சேர்த்து வருவோர்க்கெல்லாம் வாரி வழங்கும், நீர் போன்ற கள்ளையும் பொன் மாலையையும் உடைய குட்டுவனின் முழங்கும் கடல் போன்ற முசிறிப் பட்டினத்தைப் போல, நலம் மிக்கப் பெரும் செல்வத்தைப் பணிந்து கொடுத்தாலும், 'இவள் தகுதியற்றவர்களுக்கு உரியவள் அல்லள்' என்று கூறித் தந்தை அவளைத் தர மறுக்கிறான். அதனால், போர்க்களத்தில் படைகள் மோதும் அரிய வழிகளைக் கொண்ட இப்பெரிய நல்ல ஊரில், பருந்துகள் பெருமூச்சு விட்டுக்கொண்டு மதில்களின் மேல் தங்கும் கோட்டைச் சுவர்களில், ஏறுவதற்காகப் பொருத்தப்பட்ட ஏணிகள் வருத்தமடைந்தனவோ?",
- "explanation": "The poet is speaking about the refusal of a girl's father to give her in marriage to suitors who are not deemed worthy, despite their offering immense wealth. The poem describes the prosperous port city of Muciri, ruled by the Chera king Kuttuvan, where trade is bustling with fish, paddy, pepper, and gold. Despite suitors offering wealth comparable to Muciri's riches, the father refuses them because they lack nobility or worthiness. Consequently, the suitors prepare for war to take her by force, placing siege ladders against the fort walls. The poem belongs to the kañci tiṇai (specifically makaṭpāṟ kañci, where a father refuses to give his daughter to kings, leading to a siege). The contrast between the peaceful, prosperous trade of Muciri and the impending doom of a besieged town highlights the tragic pride of the father, while the image of kites sighing on the ramparts where ladders are pitched foreshadows the death and destruction of the coming battle.",
+ "literal": "Fish having sold, paddy having heaped, / from the boats on top, the houses are stirred up / by the pepper bags surrounding the houses, / the shore is bustling with loud noise / the gold presents brought by ships, / reaching the shore by backwater boats, / mountain products and sea products, / gathering together, giving to those who come, / Kuttuvan of the golden garland, with water-like toddy, / like Muciri with its roaring sea like a drum, / even if excellent wealth full of goodness is given with humility, / 'she will not marry those who are not worthy' saying, / the father also does not give; if so, those who came, / the siege ladders pitched to succeed, in that place, / will it suffer indeed, sighing like a vulture / on the inner walls where it rests, / the great good town where armies clash in a difficult path?",
+ "translation": "Selling fish and heaping up paddy, the houses are stirred up by boats on top. The shore is in a bustle with the noise of pepper bags surrounding the houses. The gold brought by ships is brought to the shore by backwater boats. Mountain and sea products are gathered together and given to those who come by Kuttuvan of the golden garland, who possesses water-like toddy. Like his port city Muciri, where the roaring sea sounds like a drum, is this girl. Even if suitors offer immense wealth with great humility, her father refuses to give her, saying she will not marry those who are not worthy. If so, in that place where the suitors have pitched their siege ladders to succeed, will this great, good town suffer, where armies clash in difficult paths and vultures rest on the inner walls, sighing?",
+ "modern": "மீனை விற்று நெல்லைக் குவித்து, தோணிகளின் மேலே வீடுகள் கலங்குகின்றன. வீடுகளைச் சூழ்ந்த மிளகு மூட்டைகளால், கரையானது மிகுந்த ஆரவாரத்துடன் குழம்புகிறது. கப்பல்கள் கொண்டு வந்த பொன்னைப் பின்னே தோணிகள் மூலம் கரை சேர்க்கின்றனர். மலைப் பொருள்களையும் கடல் பொருள்களையும் ஒன்றாகக் குவித்து வருவோர்க்கு வழங்கும், நீர் போன்ற கள்ளையும் பொன் மாலையையும் உடைய குட்டுவனின், முழங்கும் கடல் முழவு போல ஒலிக்கும் முசிறிப் பட்டினத்தைப் போன்றது இவள் அழகு. இவளைப் பெற வேண்டி, நலம் மிக்க சிறந்த பொருள்களைப் பணிந்து கொடுத்தாலும், 'தகுதியற்றவர்க்கு இவள் மணம் புரிய மாட்டாள்' என்று கூறித் தந்தையும் கொடான் ஆயின், வந்த அரசர்கள் வெற்றிக்காகச் சாத்திய ஏணிகள் உள்ள அவ்விடத்தில், பருந்துகள் பெருமூச்சு விட்டு மதில் மேல் தங்கும் இப்படை மயங்கும் அரிய வழியைக் கொண்ட பெரிய நல்ல ஊர் வருந்துமோ?",
+ "explanation": "This poem belongs to the Makaṭpāṟ Kāñci theme, where a father refuses to give his daughter in marriage to suitors, leading to a siege of his town. The poet Paraṇar compares the girl's value to the wealthy port city of Muciri, ruled by the Cēra king Kuṭṭuvaṉ, where gold, pepper, and other riches flow abundantly. Even though the suitors offer immense wealth with great humility, the father refuses them because he deems them unworthy. Consequently, the rejected kings have laid siege to the town, pitching their ladders against the fort walls. The poet laments the impending destruction of this beautiful, prosperous town, where armies now clash and vultures rest on the ramparts, sighing over the battlefield. Key words include 'முசிறி' (Muciri), 'கொடாஅன்' (does not give), and 'வருந்தின்று' (will it suffer).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

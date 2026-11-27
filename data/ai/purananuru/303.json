@@ -7,34 +7,34 @@
      "parts": [
       {
        "text": "நிலம்",
-       "lemma": "nilam",
-       "gloss": "earth"
+       "lemma": "நிலம்",
+       "gloss": "ground"
       }
      ],
-     "gloss": "earth"
+     "gloss": "ground"
     },
     {
      "surface": "பிறக்கிடுவது",
      "parts": [
       {
        "text": "பிறக்கு",
-       "lemma": "piṟakku",
-       "gloss": "behind"
+       "lemma": "பிறக்கு",
+       "gloss": "back/behind"
       },
       {
        "text": "இடுவது",
-       "lemma": "iṭuvatu",
-       "gloss": "throwing"
+       "lemma": "இடுவது",
+       "gloss": "doing/placing"
       }
      ],
-     "gloss": "throwing behind"
+     "gloss": "tearing up/splitting backward"
     },
     {
      "surface": "போல",
      "parts": [
       {
        "text": "போல",
-       "lemma": "pōla",
+       "lemma": "போல",
        "gloss": "like"
       }
      ],
@@ -45,7 +45,7 @@
      "parts": [
       {
        "text": "குளம்பு",
-       "lemma": "kuḷampu",
+       "lemma": "குளம்பு",
        "gloss": "hoof"
       }
      ],
@@ -55,17 +55,13 @@
      "surface": "குடையூஉ",
      "parts": [
       {
-       "text": "குடை",
-       "lemma": "kuṭai",
-       "gloss": "scoop"
-      },
-      {
-       "text": "ஊஉ",
-       "lemma": "ūu",
-       "gloss": "measure-stretch"
+       "text": "குடையூஉ",
+       "lemma": "குடையூஉ",
+       "gloss": "scooping/digging"
       }
      ],
-     "gloss": "scooping"
+     "gloss": "scooping/digging",
+     "split_unverified": true
     }
    ]
   },
@@ -76,18 +72,18 @@
      "parts": [
       {
        "text": "உள்ளம்",
-       "lemma": "uḷḷam",
-       "gloss": "heart/mind"
+       "lemma": "உள்ளம்",
+       "gloss": "heart/courage"
       }
      ],
-     "gloss": "heart/mind"
+     "gloss": "courage"
     },
     {
      "surface": "அழிக்கும்",
      "parts": [
       {
        "text": "அழிக்கும்",
-       "lemma": "aḻikkum",
+       "lemma": "அழி",
        "gloss": "destroying"
       }
      ],
@@ -98,12 +94,12 @@
      "parts": [
       {
        "text": "கொட்பு",
-       "lemma": "koṭpu",
+       "lemma": "கொட்பு",
        "gloss": "whirling speed"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "with"
       }
      ],
@@ -114,12 +110,12 @@
      "parts": [
       {
        "text": "மான்",
-       "lemma": "māṉ",
+       "lemma": "மான்",
        "gloss": "horse"
       },
       {
        "text": "மேல்",
-       "lemma": "mēl",
+       "lemma": "மேல்",
        "gloss": "upon"
       }
      ],
@@ -134,40 +130,40 @@
      "parts": [
       {
        "text": "எள்ளுநர்",
-       "lemma": "eḷḷunar",
-       "gloss": "those who despise"
+       "lemma": "எள்ளுநர்",
+       "gloss": "those who mock"
       }
      ],
-     "gloss": "those who despise"
+     "gloss": "those who mock"
     },
     {
      "surface": "செகுக்கும்",
      "parts": [
       {
        "text": "செகுக்கும்",
-       "lemma": "cekukkum",
-       "gloss": "destroying"
+       "lemma": "செகு",
+       "gloss": "slaying"
       }
      ],
-     "gloss": "destroying"
+     "gloss": "slaying"
     },
     {
      "surface": "காளை",
      "parts": [
       {
        "text": "காளை",
-       "lemma": "kāḷai",
-       "gloss": "hero/bull-like man"
+       "lemma": "காளை",
+       "gloss": "young warrior"
       }
      ],
-     "gloss": "hero"
+     "gloss": "young warrior"
     },
     {
      "surface": "கூர்த்த",
      "parts": [
       {
        "text": "கூர்த்த",
-       "lemma": "kūrtta",
+       "lemma": "கூர்",
        "gloss": "sharp"
       }
      ],
@@ -181,52 +177,57 @@
      "surface": "வெந்திறல்",
      "parts": [
       {
-       "text": "வெந்திறல்",
-       "lemma": "வெந்திறல்",
-       "gloss": ""
+       "text": "வெம்",
+       "lemma": "வெம்மை",
+       "gloss": "fierce"
+      },
+      {
+       "text": "திறல்",
+       "lemma": "திறல்",
+       "gloss": "strength"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "fierce strength"
     },
     {
      "surface": "எ·கம்",
      "parts": [
       {
        "text": "எ·கம்",
-       "lemma": "எ·கம்",
-       "gloss": ""
+       "lemma": "எஃகம்",
+       "gloss": "spear"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "spear"
     },
     {
      "surface": "நெஞ்சுவடு",
      "parts": [
       {
-       "text": "நெஞ்சுவடு",
-       "lemma": "நெஞ்சுவடு",
-       "gloss": ""
+       "text": "நெஞ்சு",
+       "lemma": "நெஞ்சு",
+       "gloss": "chest"
+      },
+      {
+       "text": "வடு",
+       "lemma": "வடு",
+       "gloss": "scar"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "chest scar"
     },
     {
      "surface": "விளைப்ப",
      "parts": [
       {
        "text": "விளைப்ப",
-       "lemma": "விளைப்ப",
-       "gloss": ""
+       "lemma": "விளை",
+       "gloss": "to cause"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to cause"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -235,7 +236,7 @@
      "parts": [
       {
        "text": "ஆட்டி",
-       "lemma": "āṭṭi",
+       "lemma": "ஆட்டு",
        "gloss": "brandishing"
       }
      ],
@@ -246,7 +247,7 @@
      "parts": [
       {
        "text": "காணிய",
-       "lemma": "kāṇiya",
+       "lemma": "காண்",
        "gloss": "to see"
       }
      ],
@@ -257,13 +258,13 @@
      "parts": [
       {
        "text": "வரும்",
-       "lemma": "varum",
-       "gloss": "he comes"
+       "lemma": "வரு",
+       "gloss": "comes"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "indeed"
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
      "gloss": "he comes indeed"
@@ -273,7 +274,7 @@
      "parts": [
       {
        "text": "நெருநை",
-       "lemma": "nerunai",
+       "lemma": "நெருநை",
        "gloss": "yesterday"
       }
      ],
@@ -288,12 +289,12 @@
      "parts": [
       {
        "text": "உரை",
-       "lemma": "urai",
+       "lemma": "உரை",
        "gloss": "praise"
       },
       {
        "text": "சால்",
-       "lemma": "sāl",
+       "lemma": "சால்",
        "gloss": "abundant"
       }
      ],
@@ -304,12 +305,12 @@
      "parts": [
       {
        "text": "சிறப்பு",
-       "lemma": "ciṟappu",
+       "lemma": "சிறப்பு",
        "gloss": "excellence"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "of"
       }
      ],
@@ -320,7 +321,7 @@
      "parts": [
       {
        "text": "வேந்தர்",
-       "lemma": "vēntar",
+       "lemma": "வேந்தர்",
        "gloss": "kings"
       }
      ],
@@ -331,7 +332,7 @@
      "parts": [
       {
        "text": "முன்னர்",
-       "lemma": "muṉṉar",
+       "lemma": "முன்னர்",
        "gloss": "before"
       }
      ],
@@ -342,49 +343,44 @@
   {
    "words": [
     {
-     "surface": "கரை",
+     "surface": "கரைபொரு",
      "parts": [
       {
        "text": "கரை",
-       "lemma": "karai",
+       "lemma": "கரை",
        "gloss": "shore"
-      }
-     ],
-     "gloss": "shore"
-    },
-    {
-     "surface": "பொரு",
-     "parts": [
+      },
       {
        "text": "பொரு",
-       "lemma": "poru",
-       "gloss": "battering"
+       "lemma": "பொரு",
+       "gloss": "beating against"
       }
      ],
-     "gloss": "battering"
+     "gloss": "beating against the shore"
     },
     {
-     "surface": "முந்நீர்",
+     "surface": "முந்நீர்த்",
      "parts": [
       {
-       "text": "முந்நீர்",
-       "lemma": "munnīr",
-       "gloss": "ocean"
+       "text": "முந்நீர்த்",
+       "lemma": "முந்நீர்த்",
+       "gloss": "of the ocean"
       }
      ],
-     "gloss": "ocean"
+     "gloss": "of the ocean",
+     "split_unverified": true
     },
     {
      "surface": "திமிலின்",
      "parts": [
       {
        "text": "திமில்",
-       "lemma": "timil",
+       "lemma": "திமில்",
        "gloss": "boat"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "like"
       }
      ],
@@ -395,18 +391,18 @@
      "parts": [
       {
        "text": "போழ்ந்து",
-       "lemma": "pōḻntu",
-       "gloss": "cleaving"
+       "lemma": "போழ்",
+       "gloss": "cutting through"
       }
      ],
-     "gloss": "cleaving"
+     "gloss": "cutting through"
     },
     {
      "surface": "அவர்",
      "parts": [
       {
        "text": "அவர்",
-       "lemma": "avar",
+       "lemma": "அவர்",
        "gloss": "their"
       }
      ],
@@ -421,12 +417,12 @@
      "parts": [
       {
        "text": "கயம்",
-       "lemma": "kayam",
+       "lemma": "கயம்",
        "gloss": "soft/tender"
       },
       {
        "text": "தலை",
-       "lemma": "talai",
+       "lemma": "தலை",
        "gloss": "head"
       }
      ],
@@ -449,7 +445,7 @@
      "parts": [
       {
        "text": "புலம்ப",
-       "lemma": "pulampa",
+       "lemma": "புலம்பு",
        "gloss": "to lament"
       }
      ],
@@ -464,7 +460,7 @@
      "parts": [
       {
        "text": "இலங்கு",
-       "lemma": "ilaṅku",
+       "lemma": "இலங்கு",
        "gloss": "shining"
       }
      ],
@@ -475,7 +471,7 @@
      "parts": [
       {
        "text": "மருப்பு",
-       "lemma": "maruppu",
+       "lemma": "மருப்பு",
        "gloss": "tusk"
       }
      ],
@@ -486,7 +482,7 @@
      "parts": [
       {
        "text": "யானை",
-       "lemma": "yāṉai",
+       "lemma": "யானை",
        "gloss": "elephant"
       }
      ],
@@ -497,29 +493,29 @@
      "parts": [
       {
        "text": "எறிந்த",
-       "lemma": "eṟinta",
-       "gloss": "hurled/struck"
+       "lemma": "எறி",
+       "gloss": "slayed/threw at"
       }
      ],
-     "gloss": "who struck"
+     "gloss": "who slayed"
     },
     {
      "surface": "எற்கே",
      "parts": [
       {
        "text": "என்",
-       "lemma": "eṉ",
+       "lemma": "யான்",
        "gloss": "me"
       },
       {
        "text": "கு",
-       "lemma": "ku",
-       "gloss": "to"
+       "lemma": "கு",
+       "gloss": "dative suffix"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "indeed"
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
      "gloss": "to me indeed"
@@ -527,10 +523,10 @@
    ]
   }
  ],
- "literal": "Earth throwing behind like, hoof scooping / mind destroying with whirling speed, upon the horse / those who despise destroying, hero, sharp / fierce power spear, chest-wound to cause / brandishing, to see, he comes indeed, yesterday / praise-worthy of excellence kings before / shore battering ocean, like a boat, cleaving, their / soft-headed gentle female elephant to lament / shining tusk elephant who struck, to me indeed",
- "translation": "Yesterday, before kings of praise-worthy excellence, cleaving through the enemy ranks like a boat cutting through the shore-battering ocean, leaving their soft-headed, gentle female elephants to lament, I struck down their elephants with shining tusks. And today, to see me, there comes a hero who destroys those who despise him, riding a horse that whirls with mind-shaking speed, its hooves scooping and throwing up the earth behind, brandishing his sharp, fiercely powerful spear to inflict a wound upon my chest!",
- "modern": "நேற்று, புகழ்மிக்க சிறப்புடைய அரசர்களுக்கு முன்னால், கரையை மோதும் கடலைத் தோணி பிளந்து செல்வது போலப் பகைப்படையைப் பிளந்து சென்று, மென்மையான தலையையுடைய இளைய பெண் யானைகள் வருந்தும்படி, விளங்கும் தந்தங்களையுடைய ஆண் யானைகளை வீழ்த்திய எனக்கு; இன்று, நிலத்தைப் பின்னே தள்ளுவது போலக் குளம்புகளால் தோண்டி, காண்பவர் நெஞ்சை அஞ்சச்செய்யும் வேகத்துடன் சுழலும் குதிரையின் மேல் ஏறி, தன்னை இகழ்பவரை அழிக்கும் காளை போன்ற வீரன் ஒருவன், எனது நெஞ்சில் வடுவை உண்டாக்குவதற்காகத் தன் கூர்மையான வெம்மையான ஆற்றல் கொண்ட வேலை அசைத்துக் காட்டியவாறே என்னைக் காண வருகின்றான்.",
- "explanation": "This poem belongs to the tumpai tiṇai (battle) and the theme of kutirai maṟam (the valor of the horse and rider). The speaker is a brave warrior who performed heroic deeds on the battlefield yesterday, slaying the enemy's mighty tusked elephants and leaving their female mates to mourn. Today, he sees another formidable enemy warrior approaching him to challenge him to a duel. This opponent rides an incredibly swift horse that kicks up the earth with its hooves and brandishes a sharp spear, eager to wound the speaker's chest. The imagery of a boat cleaving through the rough ocean waves represents the warrior's unstoppable charge through the enemy ranks.",
+ "literal": "As if splitting the ground, scooping with its hooves, / on the horse of whirling speed that destroys the courage of enemies, / the young warrior who slays those who mock, with his sharp, / fierce-powered spear, to inflict a wound on my chest, / brandishing it, comes to see me. Yesterday, / in front of the kings of praise-worthy excellence, / like a boat cutting through the shore-beating ocean, cutting through them, / while the soft-headed young female elephants lamented, / to me, who killed the elephants with shining tusks!",
+ "translation": "Yesterday, in front of kings of praise-worthy excellence, like a boat cutting through the shore-beating ocean, I cut through the enemy lines and killed their elephants with shining tusks, leaving their soft-headed female mates to lament. Today, to face me, a young warrior comes riding a horse of whirling speed that destroys the courage of enemies, its hooves scooping the earth as if splitting it. Brandishing his sharp, fierce-powered spear, he comes to see me, seeking to wound my chest!",
+ "modern": "நிலத்தைப் பிளப்பது போலக் குளம்புகளால் தோண்டி, எதிரிகளின் மன வலிமையைக் குலைக்கும் வேகத்துடன் சுழலும் குதிரையின் மேல் ஏறி, தன்னை இகழ்பவர்களைக் கொல்லும் இளவீரன் ஒருவன் வருகிறான். நேற்று, புகழ்மிக்க அரசர்களின் முன்னிலையில், கரையை மோதும் கடலில் செல்லும் படகு போலப் பகைப்படையைப் பிளந்து சென்று, இளமையான பெண் யானைகள் கதறி அழும் வண்ணம், அவற்றின் துணைகளான ஒளிரும் தந்தங்களை உடைய ஆண் யானைகளைக் கொன்றவன் நான். அப்படிப்பட்ட எனக்கு நேருக்கு நேராக நெஞ்சில் வடுவை உண்டாக்க எண்ணி, அவன் தன் கூர்மையான, வெம்மையான ஆற்றல் கொண்ட வேலை வீசி ஆட்டியபடி என்னைக் காண வருகிறான்!",
+ "explanation": "This poem belongs to the tumpai tiṇai (battle/warfare) and the theme kutirai maṟam (the valor of the horse/rider). The speaker is a veteran warrior who performed great deeds in yesterday's battle, slaying the enemy's war elephants. He observes a young, brave enemy warrior riding a swift, powerful horse towards him today. The young warrior is brandishing a sharp spear, eager to challenge the veteran and leave a scar on his chest. The imagery of the horse scooping the earth and the veteran's past deed of cutting through the army like a boat through waves highlights the intense heroism and martial pride of the classical Tamil society. Key words include kutirai (horse, referred to as māṉ), eḥkam (spear), and yāṉai (elephant).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

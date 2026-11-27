@@ -6,13 +6,13 @@
      "surface": "கடலுடன்",
      "parts": [
       {
-       "text": "கடலு",
-       "lemma": "கடல்",
+       "text": "கடல்",
+       "lemma": "kaṭal",
        "gloss": "sea"
       },
       {
        "text": "உடன்",
-       "lemma": "உடன்",
+       "lemma": "uṭaṉ",
        "gloss": "with"
       }
      ],
@@ -23,43 +23,43 @@
      "parts": [
       {
        "text": "ஆடி",
-       "lemma": "ஆடு",
-       "gloss": "play"
+       "lemma": "āṭu",
+       "gloss": "having played"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "and playing"
+     "gloss": "and having played"
     },
     {
      "surface": "கானல்",
      "parts": [
       {
        "text": "கானல்",
-       "lemma": "கானல்",
-       "gloss": "seashore grove"
+       "lemma": "kāṉal",
+       "gloss": "seaside grove"
       }
      ],
-     "gloss": "seashore grove"
+     "gloss": "seaside grove"
     },
     {
      "surface": "அல்கியும்",
      "parts": [
       {
        "text": "அல்கி",
-       "lemma": "அல்கு",
-       "gloss": "stay"
+       "lemma": "alku",
+       "gloss": "having stayed"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "and staying"
+     "gloss": "and having stayed"
     }
    ]
   },
@@ -70,65 +70,59 @@
      "parts": [
       {
        "text": "தொடலை",
-       "lemma": "தொடலை",
-       "gloss": "garland"
+       "lemma": "toṭalai",
+       "gloss": "garland/linked"
       }
      ],
-     "gloss": "garland"
+     "gloss": "garlanded"
     },
     {
      "surface": "ஆயமொடு",
      "parts": [
       {
        "text": "ஆயம்",
-       "lemma": "ஆயம்",
-       "gloss": "playmates"
+       "lemma": "āyam",
+       "gloss": "group of playmates"
       },
       {
        "text": "ஒடு",
-       "lemma": "ஒடு",
+       "lemma": "oṭu",
        "gloss": "with"
       }
      ],
      "gloss": "with the playmates"
     },
     {
-     "surface": "தழுவு",
+     "surface": "தழுவணி",
      "parts": [
       {
        "text": "தழுவு",
-       "lemma": "தழுவு",
-       "gloss": "embrace"
-      }
-     ],
-     "gloss": "embrace"
-    },
-    {
-     "surface": "அணி",
-     "parts": [
+       "lemma": "taḻuvu",
+       "gloss": "embracing"
+      },
       {
        "text": "அணி",
-       "lemma": "அணி",
-       "gloss": "beauty"
+       "lemma": "aṇi",
+       "gloss": "beauty/adornment"
       }
      ],
-     "gloss": "beauty"
+     "gloss": "the beautiful embrace"
     },
     {
      "surface": "அயர்ந்தும்",
      "parts": [
       {
        "text": "அயர்ந்து",
-       "lemma": "அயர்",
-       "gloss": "perform"
+       "lemma": "ayaru",
+       "gloss": "having performed/celebrated"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "and performing"
+     "gloss": "and having celebrated"
     }
    ]
   },
@@ -139,7 +133,7 @@
      "parts": [
       {
        "text": "நொதுமலர்",
-       "lemma": "நொதுமலர்",
+       "lemma": "notumalar",
        "gloss": "strangers"
       }
      ],
@@ -150,7 +144,7 @@
      "parts": [
       {
        "text": "போல",
-       "lemma": "போல்",
+       "lemma": "pōla",
        "gloss": "like"
       }
      ],
@@ -161,7 +155,7 @@
      "parts": [
       {
        "text": "கதுமென",
-       "lemma": "கதுமென",
+       "lemma": "katumeṉa",
        "gloss": "suddenly"
       }
      ],
@@ -172,8 +166,8 @@
      "parts": [
       {
        "text": "வந்து",
-       "lemma": "வா",
-       "gloss": "come"
+       "lemma": "varu",
+       "gloss": "having come"
       }
      ],
      "gloss": "having come"
@@ -187,7 +181,7 @@
      "parts": [
       {
        "text": "முயங்கினன்",
-       "lemma": "முயங்கு",
+       "lemma": "muyaṅku",
        "gloss": "he embraced"
       }
      ],
@@ -198,43 +192,44 @@
      "parts": [
       {
        "text": "செலின்",
-       "lemma": "செல்",
+       "lemma": "cel",
        "gloss": "if he goes"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "if he goes"
+     "gloss": "if he goes indeed"
     },
     {
      "surface": "அலர்ந்தன்று",
      "parts": [
       {
        "text": "அலர்ந்தன்று",
-       "lemma": "அலர்",
-       "gloss": "gossip arose"
+       "lemma": "அலர்ந்தன்று",
+       "gloss": "it would have become public gossip indeed"
       }
      ],
-     "gloss": "gossip arose"
+     "gloss": "it would have become public gossip indeed",
+     "split_unverified": true
     },
     {
      "surface": "மன்னே",
      "parts": [
       {
        "text": "மன்",
-       "lemma": "மன்",
-       "gloss": "indeed"
+       "lemma": "maṉ",
+       "gloss": "particle of regret"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
+       "lemma": "ē",
        "gloss": "emphasis"
       }
      ],
-     "gloss": "indeed"
+     "gloss": "alas"
     }
    ]
   },
@@ -245,7 +240,7 @@
      "parts": [
       {
        "text": "தித்தி",
-       "lemma": "தித்தி",
+       "lemma": "titti",
        "gloss": "beauty spots"
       }
      ],
@@ -256,7 +251,7 @@
      "parts": [
       {
        "text": "பரந்த",
-       "lemma": "பர",
+       "lemma": "para",
        "gloss": "spread"
       }
      ],
@@ -267,18 +262,18 @@
      "parts": [
       {
        "text": "பைத்து",
-       "lemma": "பசுமை",
-       "gloss": "beautiful"
+       "lemma": "pai",
+       "gloss": "freshness/greenness"
       }
      ],
-     "gloss": "beautiful"
+     "gloss": "fresh"
     },
     {
      "surface": "அகல்",
      "parts": [
       {
        "text": "அகல்",
-       "lemma": "அகல்",
+       "lemma": "akal",
        "gloss": "wide"
       }
      ],
@@ -289,11 +284,11 @@
      "parts": [
       {
        "text": "அல்குல்",
-       "lemma": "அல்குல்",
-       "gloss": "waist"
+       "lemma": "alkul",
+       "gloss": "loins/hips"
       }
      ],
-     "gloss": "waist"
+     "gloss": "hips"
     }
    ]
   },
@@ -303,52 +298,58 @@
      "surface": "திருந்திழை",
      "parts": [
       {
-       "text": "திருந்திழை",
-       "lemma": "திருந்திழை",
-       "gloss": ""
+       "text": "திருந்து",
+       "lemma": "tiruntu",
+       "gloss": "perfected"
+      },
+      {
+       "text": "இழை",
+       "lemma": "iḻai",
+       "gloss": "jewel"
       }
      ],
-     "gloss": "",
+     "gloss": "perfected jewels"
+    },
+    {
+     "surface": "துயல்வுக்கோட்டு",
+     "parts": [
+      {
+       "text": "துயல்வுக்கோட்டு",
+       "lemma": "துயல்வுக்கோட்டு",
+       "gloss": "swaying branch"
+      }
+     ],
+     "gloss": "swaying branch",
      "split_unverified": true
     },
     {
-     "surface": "துயல்வுக்கோட்",
+     "surface": "அசைத்த",
      "parts": [
       {
-       "text": "துயல்வுக்கோட்",
-       "lemma": "துயல்வுக்கோட்",
-       "gloss": ""
+       "text": "அசைத்த",
+       "lemma": "acaittāl",
+       "gloss": "fastened"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "fastened"
     },
     {
-     "surface": "டசைத்த",
+     "surface": "பசுங்குழை",
      "parts": [
       {
-       "text": "டசைத்த",
-       "lemma": "டசைத்த",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "பசுங்குழைத்",
-     "parts": [
+       "text": "பசுமை",
+       "lemma": "pacu",
+       "gloss": "green"
+      },
       {
-       "text": "பசுங்குழைத்",
-       "lemma": "பசுங்குழைத்",
-       "gloss": ""
+       "text": "குழை",
+       "lemma": "kuḻai",
+       "gloss": "sprout/leaf"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "green sprouts"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -356,32 +357,46 @@
      "surface": "தழையினும்",
      "parts": [
       {
-       "text": "தழையினும்",
-       "lemma": "தழையினும்",
-       "gloss": "even than the leaf-garment"
+       "text": "தழை",
+       "lemma": "taḻai",
+       "gloss": "leaf garment"
+      },
+      {
+       "text": "இன்",
+       "lemma": "iṉ",
+       "gloss": "than"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "even"
       }
      ],
-     "gloss": "even than the leaf-garment",
-     "split_unverified": true
+     "gloss": "even more than the leaf garment"
     },
     {
      "surface": "உழையின்",
      "parts": [
       {
-       "text": "உழையின்",
-       "lemma": "உழை",
-       "gloss": "from the side"
+       "text": "உழை",
+       "lemma": "uḻai",
+       "gloss": "nearness/vicinity"
+      },
+      {
+       "text": "இன்",
+       "lemma": "iṉ",
+       "gloss": "locative suffix"
       }
      ],
-     "gloss": "from the side"
+     "gloss": "from her side"
     },
     {
      "surface": "போகான்",
      "parts": [
       {
        "text": "போகான்",
-       "lemma": "போ",
-       "gloss": "he does not go away"
+       "lemma": "pō",
+       "gloss": "he will not go"
       }
      ],
      "gloss": "he does not go away"
@@ -395,7 +410,7 @@
      "parts": [
       {
        "text": "தான்",
-       "lemma": "தான்",
+       "lemma": "tāṉ",
        "gloss": "he himself"
       }
      ],
@@ -406,63 +421,57 @@
      "parts": [
       {
        "text": "தந்தனன்",
-       "lemma": "தா",
-       "gloss": "gave"
+       "lemma": "tā",
+       "gloss": "he gave"
       }
      ],
-     "gloss": "he gave"
+     "gloss": "gave it"
     },
     {
      "surface": "யாய்",
      "parts": [
       {
        "text": "யாய்",
-       "lemma": "யாய்",
-       "gloss": "mother"
+       "lemma": "yāy",
+       "gloss": "my mother"
       }
      ],
-     "gloss": "mother"
+     "gloss": "O mother"
     },
     {
      "surface": "காத்து",
      "parts": [
       {
        "text": "காத்து",
-       "lemma": "கா",
-       "gloss": "guarding"
-      }
-     ],
-     "gloss": "guarding"
-    },
-    {
-     "surface": "ஓம்பல்",
-     "parts": [
-      {
-       "text": "ஓம்பல்",
-       "lemma": "ஓம்பு",
+       "lemma": "kā",
        "gloss": "protecting"
       }
      ],
      "gloss": "protecting"
     },
     {
-     "surface": "ஏ",
+     "surface": "ஓம்பல்லே",
      "parts": [
       {
+       "text": "ஓம்பல்",
+       "lemma": "ōmpu",
+       "gloss": "guarding/cherishing"
+      },
+      {
        "text": "ஏ",
-       "lemma": "ஏ",
+       "lemma": "ē",
        "gloss": "emphasis"
       }
      ],
-     "gloss": "indeed"
+     "gloss": "do guard her indeed"
     }
    ]
   }
  ],
- "literal": "With the sea playing and in the seashore grove staying / with the garlanded playmates the beauty of embrace performing / like strangers suddenly having come / he embraced, if he goes, gossip arose indeed / beauty spots spread beautiful wide waist / perfect jewels swaying branch tied green sprout / even than the leaf-garment from her side he does not go away / he himself gave, mother guarding and protecting.",
- "translation": "We played in the sea and stayed in the seashore grove, celebrating the joy of embraces with our garlanded playmates. If he had come suddenly like a stranger, embraced her, and then departed, gossip would have surely arisen. But now, he does not stir from her side, closer than the garment of fresh green leaves tied to the swaying branches that drapes her beautiful wide waist adorned with perfect jewels and beauty spots. He has given her back to us himself, and mother now guards her with care.",
- "modern": "கடலில் விளையாடியும் கடற்கரைச் சோலையில் தங்கியும், மாலை அணிந்த தோழியருடன் தழுவி விளையாடி மகிழ்ந்தோம். அயலாரைப் போல அவன் திடீரென்று வந்து அவளைத் தழுவிவிட்டுச் சென்றிருந்தால், ஊரில் அலர் (பழிச்சொல்) தூற்றியிருக்கும். ஆனால், அழகிய தேமல் பரவிய, அகன்ற அல்குலில், திருத்தமான அணிகலன்களோடு, அசையும் மரக்கிளையிலிருந்து பறித்துக் கட்டிய பசிய தழையாடையை விடவும் அவளை விட்டு நீங்காமல் அவளருகிலேயே அவன் இருக்கிறான். அவனே அவளை எங்களிடம் ஒப்படைத்துவிட்டான்; இப்போது தாயும் அவளைப் பாதுகாத்துக் காக்கிறாள்.",
- "explanation": "The confidante speaks to the hero, expressing relief that public gossip has been averted. She recalls how they used to play in the sea and seashore groves with their companions. If the hero had behaved like a fleeting stranger, embracing the heroine and leaving, rumors would have ruined her reputation. However, he has proven his commitment by staying constantly by her side, closer than the very leaf-garment she wears. Since he has formally returned her to her family's care, the mother now guards her safely at home, paving the way for an honorable marriage.",
+ "literal": "Playing with the sea and staying in the seaside grove / and celebrating the beautiful embrace with the garlanded playmates, / if he, coming suddenly like a stranger, / embraced her and left, indeed gossip would have arisen. / But, closer than the leaf garment of green sprouts / fastened from swaying branches, worn on her wide hips spread with beauty spots and adorned with perfect jewels, / he does not go away from her side. / He himself gave it; O mother, protect her carefully!",
+ "translation": "If he had come suddenly like a stranger, embraced her, and gone away after we played in the sea, stayed in the seaside grove, and celebrated the festival of embraces with our garlanded playmates, gossip would have surely arisen. But he does not leave her side, staying even closer than the garment of fresh green leaves plucked from swaying branches that she wears on her wide hips adorned with beauty spots and perfect jewels. He himself gave this leaf garment to her. O mother, guard her well!",
+ "modern": "கடலில் விளையாடியும், கடற்கரைச் சோலையில் தங்கியும், மாலை அணிந்த தோழியர் கூட்டத்துடன் தழுவி விளையாடியும் மகிழ்ந்தோம். அப்போது அவன் ஒரு புதியவனைப் போலத் திடீரென்று வந்து, அவளைத் தழுவிவிட்டுச் சென்றிருந்தால் ஊரார் அலர் தூற்றியிருப்பார்கள். ஆனால், அழகிய புள்ளிகள் படர்ந்த அவளது அகன்ற அல்குலில், அசையும் கிளைகளிலிருந்து பறித்துக் கட்டிய பசுமையான தழையாடையை விடவும் நெருக்கமாக அவன் எப்போதும் அவளது பக்கத்திலேயே இருக்கிறான். அந்தத் தழையாடையையும் அவனே அவளுக்குத் தந்தான். தாயே! நீ அவளைப் பாதுகாப்பாயாக!",
+ "explanation": "In this poem of the Neytal (coastal) landscape, the friend (tōḻi) is revealing the heroine's secret love affair to the foster-mother (aṟattoṭu niṟṟal). She explains that the hero is not a passing stranger who would embrace the heroine and leave, causing scandalous gossip. Instead, he is deeply committed and stays closer to her than the very leaf garment she wears. This leaf garment, made of fresh green sprouts from swaying branches, was gifted by the hero himself as a token of courtship. By sharing this, the friend gently urges the mother to accept their love and protect the heroine by preparing for their marriage.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -28,28 +28,25 @@
      "surface": "வைகவும்",
      "parts": [
       {
-       "text": "வைக",
-       "lemma": "வைகு",
-       "gloss": "to pass"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "வைகவும்",
+       "lemma": "வைகவும்",
+       "gloss": "even as days pass"
       }
      ],
-     "gloss": "even as days pass"
+     "gloss": "even as days pass",
+     "split_unverified": true
     },
     {
      "surface": "வாரார்",
      "parts": [
       {
        "text": "வாரார்",
-       "lemma": "வரு",
+       "lemma": "வாரார்",
        "gloss": "he does not come"
       }
      ],
-     "gloss": "he does not come"
+     "gloss": "he does not come",
+     "split_unverified": true
     }
    ]
   },
@@ -75,7 +72,7 @@
        "gloss": "time"
       }
      ],
-     "gloss": "times"
+     "gloss": "time"
     },
     {
      "surface": "எல்லையும்",
@@ -97,9 +94,14 @@
      "surface": "தோன்றார்",
      "parts": [
       {
-       "text": "தோன்றார்",
+       "text": "தோன்று",
        "lemma": "தோன்று",
-       "gloss": "he does not appear"
+       "gloss": "appear"
+      },
+      {
+       "text": "ஆர்",
+       "lemma": "ஆர்",
+       "gloss": "he (honorific negative)"
       }
      ],
      "gloss": "he does not appear"
@@ -123,34 +125,33 @@
      "surface": "உளர்",
      "parts": [
       {
-       "text": "உளர்",
+       "text": "உள்",
        "lemma": "உள்",
-       "gloss": "is he"
+       "gloss": "exist"
+      },
+      {
+       "text": "அர்",
+       "lemma": "அர்",
+       "gloss": "he (honorific)"
       }
      ],
      "gloss": "is he"
     },
     {
-     "surface": "கொல்",
+     "surface": "கொல்லோ",
      "parts": [
       {
        "text": "கொல்",
        "lemma": "கொல்",
        "gloss": "particle of doubt"
-      }
-     ],
-     "gloss": "indeed"
-    },
-    {
-     "surface": "ஓ",
-     "parts": [
+      },
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "oh"
+       "gloss": "clitic of wonder"
       }
      ],
-     "gloss": "oh"
+     "gloss": "wonder"
     },
     {
      "surface": "தோழி",
@@ -161,7 +162,7 @@
        "gloss": "friend"
       }
      ],
-     "gloss": "O friend"
+     "gloss": "friend"
     },
     {
      "surface": "ஈண்டு",
@@ -193,12 +194,17 @@
      "surface": "சொல்லிய",
      "parts": [
       {
-       "text": "சொல்லிய",
+       "text": "சொல்",
        "lemma": "சொல்",
-       "gloss": "spoken"
+       "gloss": "say"
+      },
+      {
+       "text": "இய",
+       "lemma": "இய",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "spoken"
+     "gloss": "promised"
     },
     {
      "surface": "பருவமோ",
@@ -211,7 +217,7 @@
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "is it?"
+       "gloss": "interrogative particle"
       }
      ],
      "gloss": "is it the season?"
@@ -233,75 +239,92 @@
      "gloss": "this indeed"
     },
     {
-     "surface": "பல்லூழ்",
+     "surface": "பல்",
      "parts": [
       {
        "text": "பல்",
-       "lemma": "பல",
+       "lemma": "பல்",
        "gloss": "many"
-      },
+      }
+     ],
+     "gloss": "many"
+    },
+    {
+     "surface": "ஊழ்",
+     "parts": [
       {
        "text": "ஊழ்",
        "lemma": "ஊழ்",
        "gloss": "times"
       }
      ],
-     "gloss": "many times"
+     "gloss": "times"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "புன்புறப்",
+     "surface": "புன்புற",
      "parts": [
       {
-       "text": "புன்புறப்",
-       "lemma": "புன்புறப்",
-       "gloss": ""
+       "text": "புன்புற",
+       "lemma": "புன்புற",
+       "gloss": "grey-backed"
       }
      ],
-     "gloss": "",
+     "gloss": "grey-backed",
      "split_unverified": true
     },
     {
      "surface": "பெடையொடு",
      "parts": [
       {
-       "text": "பெடையொடு",
-       "lemma": "பெடையொடு",
-       "gloss": ""
+       "text": "பெடை",
+       "lemma": "பெடை",
+       "gloss": "female bird"
+      },
+      {
+       "text": "ஒடு",
+       "lemma": "ஒடு",
+       "gloss": "with"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "with the female bird"
     },
     {
      "surface": "பயிரி",
      "parts": [
       {
-       "text": "பயிரி",
-       "lemma": "பயிரி",
-       "gloss": ""
+       "text": "பயிர்",
+       "lemma": "பயிர்",
+       "gloss": "call"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "having"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having called"
     },
     {
-     "surface": "யின்புற",
+     "surface": "இன்புற",
      "parts": [
       {
-       "text": "யின்புற",
-       "lemma": "யின்புற",
-       "gloss": ""
+       "text": "இன்பு",
+       "lemma": "இன்பு",
+       "gloss": "pleasure"
+      },
+      {
+       "text": "உற",
+       "lemma": "உறு",
+       "gloss": "to experience"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to rejoice"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -319,30 +342,28 @@
        "gloss": "place"
       }
      ],
-     "gloss": "in a moment"
+     "gloss": "in the blink of an eye"
     },
     {
-     "surface": "ஏது",
+     "surface": "ஏதாகின்றோ",
      "parts": [
       {
        "text": "ஏது",
        "lemma": "ஏது",
        "gloss": "what"
-      }
-     ],
-     "gloss": "what"
-    },
-    {
-     "surface": "ஆகின்றோ",
-     "parts": [
+      },
       {
-       "text": "ஆகின்றோ",
-       "lemma": "ஆகின்றோ",
-       "gloss": "has it become?"
+       "text": "ஆகின்று",
+       "lemma": "ஆகு",
+       "gloss": "become"
+      },
+      {
+       "text": "ஓ",
+       "lemma": "ஓ",
+       "gloss": "interrogative particle"
       }
      ],
-     "gloss": "has it become?",
-     "split_unverified": true
+     "gloss": "what has it become?"
     },
     {
      "surface": "ஞெமை",
@@ -371,26 +392,20 @@
   {
    "words": [
     {
-     "surface": "ஊன்",
+     "surface": "ஊனசைஇ",
      "parts": [
       {
        "text": "ஊன்",
        "lemma": "ஊன்",
        "gloss": "flesh"
-      }
-     ],
-     "gloss": "flesh"
-    },
-    {
-     "surface": "நசைஇ",
-     "parts": [
+      },
       {
-       "text": "நசைஇ",
-       "lemma": "நசை",
+       "text": "அசைஇ",
+       "lemma": "அசை",
        "gloss": "desiring"
       }
      ],
-     "gloss": "desiring"
+     "gloss": "desiring flesh"
     },
     {
      "surface": "ஒரு",
@@ -419,11 +434,12 @@
      "parts": [
       {
        "text": "இருக்கும்",
-       "lemma": "இரு",
-       "gloss": "to sit"
+       "lemma": "இருக்கும்",
+       "gloss": "that sits"
       }
      ],
-     "gloss": "will sit"
+     "gloss": "that sits",
+     "split_unverified": true
     }
    ]
   },
@@ -457,10 +473,10 @@
       {
        "text": "பிறங்கல்",
        "lemma": "பிறங்கல்",
-       "gloss": "crag"
+       "gloss": "mountain peak"
       }
      ],
-     "gloss": "craggy mountain"
+     "gloss": "mountain peak"
     },
     {
      "surface": "மலை",
@@ -477,9 +493,14 @@
      "surface": "இறந்தோரே",
      "parts": [
       {
-       "text": "இறந்தோர்",
+       "text": "இறந்து",
        "lemma": "இற",
-       "gloss": "those who traversed"
+       "gloss": "cross"
+      },
+      {
+       "text": "ஓர்",
+       "lemma": "ஓர்",
+       "gloss": "he who"
       },
       {
        "text": "ஏ",
@@ -487,15 +508,15 @@
        "gloss": "indeed"
       }
      ],
-     "gloss": "he who traversed indeed"
+     "gloss": "he who crossed indeed"
     }
    ]
   }
  ],
- "literal": "Day after day, even as days pass, he does not come / At all times, even in the evening, he does not appear / Where is he, O friend? Here, is this / the season he spoke of? Many times, / calling out to its grey-backed mate to be happy, / in the blink of an eye, what has it become? On the top of the ñemai tree, / desiring flesh, a vulture will sit, / on the sky-high craggy mountain traversed by him.",
- "translation": "Day after day passes, yet he does not return. At no hour of the day or night does he appear. Where can he be, my friend? Is this indeed the season he promised to return? On the high branches of the ñemai tree, where a vulture sits waiting, hungering for flesh, a male bird repeatedly calls out to its grey-backed mate to share its joy. He who traversed those sky-high, craggy mountains has still not come back.",
- "modern": "தோழி! ஒவ்வொரு நாளும் கடந்து போகிறது, ஆனால் அவர் வரவில்லை. எந்த நேரத்திலும் அவர் வந்து தோன்றவில்லை. அவர் எங்கே இருக்கிறாரோ? அவர் திரும்பி வருவதாகச் சொல்லிச் சென்ற பருவம் இதுதானோ? வானளாவிய உயர்ந்த மலைகளைக் கடந்து சென்ற அவர் இன்னும் வரவில்லை. அங்கே, ஞெமை மரத்தின் உச்சியில், தசை உணவை விரும்பி ஒரு பருந்து அமர்ந்திருக்கும். அதே மரத்தில், ஆண் பறவை தன் சாம்பல் நிறப் பெண் பறவையை மகிழ்ச்சியடையச் செய்யப் பலமுறை கூவி அழைக்கும்.",
- "explanation": "The heroine is speaking to her close friend in deep distress. The hero had departed to earn wealth, traversing a harsh desert path, and promised to return by a specific season. Although that season has arrived, he is nowhere to be seen, and the heroine wonders where he might be. The poem belongs to the pālai (desert) landscape, which represents separation and longing. The image of the vulture waiting for flesh on the ñemai tree highlights the dangerous and desolate nature of the path he took. In contrast, the male bird calling out to its grey-backed mate to share its joy emphasizes the heroine's own painful isolation.",
+ "literal": "Day after day, even as days pass, he does not come / At all times, even in the daytime, he does not appear / Where is he, oh friend? Here, is this / the season he promised? Many times / calling out to its grey-backed female to rejoice / what has happened in the blink of an eye? On the top of the ñemai tree / desiring flesh, a single vulture sits / on the sky-high rising mountain peak, he who crossed.",
+ "translation": "Day after day, even as days pass, he does not return. At all times, he does not appear. Where is he, my friend? Is this indeed the season he promised? Many times, calling out to its grey-backed mate to rejoice, a vulture sits on the top of a ñemai tree, desiring flesh, on the sky-high rising mountain peak that he crossed.",
+ "modern": "நாளுக்கு நாள் நாட்கள் கழிந்தாலும் அவர் வரவில்லை. எல்லா நேரங்களிலும் அவர் தோன்றவில்லை. தோழியே! அவர் எங்கே இருக்கிறாரோ? அவர் திரும்பி வருவதாகச் சொல்லிச் சென்ற பருவம் இதுதானோ? சாம்பல் நிற முதுகைக் கொண்ட தன் பெண் பறவையை அழைத்து மகிழ்விப்பதற்காக, இமைக்கும் நேரத்திற்குள் என்ன ஆயிற்றோ? ஞெமை மரத்தின் உச்சியில் தசைக்காகக் காத்திருக்கும் ஒரு பருந்து அமர்ந்திருக்கும், வானளவு உயர்ந்த மலைகளைக் கடந்து சென்றவர் அவர்.",
+ "explanation": "This poem belongs to the pālai (wasteland) landscape, where the theme is the separation of lovers. The heroine is speaking to her close friend, expressing her deep grief and anxiety over the hero's delayed return. He had promised to return by a specific season, but that season has arrived and he is still missing. She describes the harsh, dry path he crossed, featuring a vulture sitting atop a ñemai tree waiting for flesh. This image of the vulture calling its mate to share in its joy contrasts sharply with the heroine's own state of lonely longing. The key words include 'vaikal' (day), 'paruvam' (season), and 'paruntu' (vulture), which emphasize the passage of time and the desolate environment.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

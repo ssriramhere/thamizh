@@ -7,7 +7,7 @@
      "parts": [
       {
        "text": "கான்",
-       "lemma": "kāṉ",
+       "lemma": "கான்",
        "gloss": "forest"
       }
      ],
@@ -18,50 +18,51 @@
      "parts": [
       {
        "text": "உறை",
-       "lemma": "uṟai",
+       "lemma": "உறை",
        "gloss": "dwelling"
       }
      ],
      "gloss": "dwelling"
     },
     {
-     "surface": "வாழ்க்கைக்",
+     "surface": "வாழ்க்கை",
      "parts": [
       {
        "text": "வாழ்க்கை",
-       "lemma": "vāḻkkai",
+       "lemma": "வாழ்க்கை",
        "gloss": "life"
-      },
-      {
-       "text": "க்",
-       "lemma": "k",
-       "gloss": "consonant"
       }
      ],
-     "gloss": "of the life"
+     "gloss": "life"
     },
     {
-     "surface": "கதநாய்",
+     "surface": "கத",
      "parts": [
       {
-       "text": "கதம்",
-       "lemma": "katam",
+       "text": "கத",
+       "lemma": "கதம்",
        "gloss": "fury"
-      },
+      }
+     ],
+     "gloss": "furious"
+    },
+    {
+     "surface": "நாய்",
+     "parts": [
       {
        "text": "நாய்",
-       "lemma": "nāy",
+       "lemma": "நாய்",
        "gloss": "dog"
       }
      ],
-     "gloss": "furious dog"
+     "gloss": "dog"
     },
     {
      "surface": "வேட்டுவன்",
      "parts": [
       {
        "text": "வேட்டுவன்",
-       "lemma": "vēṭṭuvaṉ",
+       "lemma": "வேட்டுவன்",
        "gloss": "hunter"
       }
      ],
@@ -72,60 +73,66 @@
   {
    "words": [
     {
-     "surface": "மான்தசை",
+     "surface": "மான்",
      "parts": [
       {
        "text": "மான்",
-       "lemma": "māṉ",
+       "lemma": "மான்",
        "gloss": "deer"
-      },
+      }
+     ],
+     "gloss": "deer"
+    },
+    {
+     "surface": "தசை",
+     "parts": [
       {
        "text": "தசை",
-       "lemma": "tacai",
+       "lemma": "தசை",
        "gloss": "flesh"
       }
      ],
-     "gloss": "deer meat"
+     "gloss": "flesh"
     },
     {
      "surface": "சொரிந்த",
      "parts": [
       {
        "text": "சொரிந்த",
-       "lemma": "corinta",
-       "gloss": "poured"
+       "lemma": "சொரி",
+       "gloss": "filled"
       }
      ],
-     "gloss": "poured"
+     "gloss": "filled"
     },
     {
      "surface": "வட்டியும்",
      "parts": [
       {
        "text": "வட்டி",
-       "lemma": "vaṭṭi",
+       "lemma": "வட்டி",
        "gloss": "basket"
       },
       {
        "text": "உம்",
-       "lemma": "um",
+       "lemma": "உம்",
        "gloss": "and"
       }
      ],
-     "gloss": "and the basket"
+     "gloss": "basket and"
     },
     {
      "surface": "ஆய்மகள்",
      "parts": [
       {
        "text": "ஆய்",
-       "lemma": "āy",
+       "lemma": "ஆயர்",
        "gloss": "cowherd"
       },
       {
        "text": "மகள்",
-       "lemma": "makaḷ",
-       "gloss": "daughter/woman"
+       "lemma": "மகள்",
+       "gloss": "woman"
       }
      ],
      "gloss": "cowherd woman"
@@ -135,55 +142,66 @@
   {
    "words": [
     {
-     "surface": "தயிர்கொடு",
+     "surface": "தயிர்",
      "parts": [
       {
-       "text": "தயிர்கொடு",
-       "lemma": "தயிர்கொடு",
-       "gloss": ""
+       "text": "தயிர்",
+       "lemma": "தயிர்",
+       "gloss": "curd"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "curd"
+    },
+    {
+     "surface": "கொடு",
+     "parts": [
+      {
+       "text": "கொடு",
+       "lemma": "கொடு",
+       "gloss": "bringing"
+      }
+     ],
+     "gloss": "bringing"
     },
     {
      "surface": "வந்த",
      "parts": [
       {
        "text": "வந்த",
-       "lemma": "வந்த",
-       "gloss": ""
+       "lemma": "வா",
+       "gloss": "came"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "which came"
     },
     {
      "surface": "தசும்பும்",
      "parts": [
       {
-       "text": "தசும்பும்",
-       "lemma": "தசும்பும்",
-       "gloss": ""
+       "text": "தசும்பு",
+       "lemma": "தசும்பு",
+       "gloss": "pot"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "and"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "pot and"
     },
     {
      "surface": "நிறைய",
      "parts": [
       {
        "text": "நிறைய",
-       "lemma": "நிறைய",
-       "gloss": ""
+       "lemma": "நிறை",
+       "gloss": "to fill"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to be filled"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -192,12 +210,12 @@
      "parts": [
       {
        "text": "ஏர்",
-       "lemma": "ēr",
+       "lemma": "ஏர்",
        "gloss": "plough"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "by"
       }
      ],
@@ -207,35 +225,40 @@
      "surface": "வாழ்நர்",
      "parts": [
       {
-       "text": "வாழ்நர்",
-       "lemma": "vāḻnar",
-       "gloss": "those who live"
+       "text": "வாழ்",
+       "lemma": "வாழ்",
+       "gloss": "live"
+      },
+      {
+       "text": "நர்",
+       "lemma": "நர்",
+       "gloss": "those who"
       }
      ],
-     "gloss": "farmers"
+     "gloss": "those who live"
     },
     {
      "surface": "பேரில்",
      "parts": [
       {
        "text": "பேர்",
-       "lemma": "pēr",
-       "gloss": "large"
+       "lemma": "பெருமை",
+       "gloss": "big"
       },
       {
        "text": "இல்",
-       "lemma": "il",
+       "lemma": "இல்",
        "gloss": "house"
       }
      ],
-     "gloss": "of the large houses"
+     "gloss": "big house"
     },
     {
      "surface": "அரிவையர்",
      "parts": [
       {
        "text": "அரிவையர்",
-       "lemma": "arivaiyar",
+       "lemma": "அரிவை",
        "gloss": "women"
       }
      ],
@@ -251,10 +274,10 @@
       {
        "text": "குளக்கீழ்",
        "lemma": "குளக்கீழ்",
-       "gloss": "below the pond"
+       "gloss": "under the irrigation tank"
       }
      ],
-     "gloss": "below the pond",
+     "gloss": "under the irrigation tank",
      "split_unverified": true
     },
     {
@@ -262,7 +285,7 @@
      "parts": [
       {
        "text": "விளைந்த",
-       "lemma": "viḷainta",
+       "lemma": "விளை",
        "gloss": "grown"
       }
      ],
@@ -274,10 +297,10 @@
       {
        "text": "களக்கொள்",
        "lemma": "களக்கொள்",
-       "gloss": "gathered from the field"
+       "gloss": "gathered at the threshing floor"
       }
      ],
-     "gloss": "gathered from the field",
+     "gloss": "gathered at the threshing floor",
      "split_unverified": true
     },
     {
@@ -285,12 +308,12 @@
      "parts": [
       {
        "text": "வெள்",
-       "lemma": "veḷ",
+       "lemma": "வெண்மை",
        "gloss": "white"
       },
       {
        "text": "நெல்",
-       "lemma": "nel",
+       "lemma": "நெல்",
        "gloss": "paddy"
       }
      ],
@@ -305,44 +328,44 @@
      "parts": [
       {
        "text": "முகந்தனர்",
-       "lemma": "mukantaṉar",
-       "gloss": "they scooped"
+       "lemma": "முக",
+       "gloss": "measured out"
       }
      ],
-     "gloss": "scooping"
+     "gloss": "they measured out"
     },
     {
      "surface": "கொடுப்ப",
      "parts": [
       {
        "text": "கொடுப்ப",
-       "lemma": "koṭuppa",
-       "gloss": "to give"
+       "lemma": "கொடு",
+       "gloss": "as they gave"
       }
      ],
-     "gloss": "to give"
+     "gloss": "as they gave"
     },
     {
      "surface": "உகந்தனர்",
      "parts": [
       {
        "text": "உகந்தனர்",
-       "lemma": "ukantaṉar",
-       "gloss": "they rejoiced"
+       "lemma": "உக",
+       "gloss": "rejoiced"
       }
      ],
-     "gloss": "rejoicing"
+     "gloss": "they rejoiced"
     },
     {
      "surface": "பெயரும்",
      "parts": [
       {
        "text": "பெயரும்",
-       "lemma": "peyarum",
-       "gloss": "returning"
+       "lemma": "பெயர்",
+       "gloss": "departing"
       }
      ],
-     "gloss": "returning"
+     "gloss": "departing"
     }
    ]
   },
@@ -364,9 +387,14 @@
      "surface": "பொருப்பன்",
      "parts": [
       {
-       "text": "பொருப்பன்",
-       "lemma": "poruppaṉ",
-       "gloss": "lord of the hills"
+       "text": "பொருப்பு",
+       "lemma": "பொருப்பு",
+       "gloss": "hill"
+      },
+      {
+       "text": "அன்",
+       "lemma": "அன்",
+       "gloss": "lord"
       }
      ],
      "gloss": "lord of the hills"
@@ -377,10 +405,10 @@
       {
        "text": "புன்னாட்டுள்ளும்",
        "lemma": "புன்னாட்டுள்ளும்",
-       "gloss": "even in the poor land"
+       "gloss": "even in the enemy's poor land"
       }
      ],
-     "gloss": "even in the poor land",
+     "gloss": "even in the enemy's poor land",
      "split_unverified": true
     }
    ]
@@ -391,64 +419,68 @@
      "surface": "ஏழெயில்",
      "parts": [
       {
-       "text": "ஏழெயில்",
-       "lemma": "ஏழெயில்",
-       "gloss": ""
+       "text": "ஏழு",
+       "lemma": "ஏழு",
+       "gloss": "seven"
+      },
+      {
+       "text": "எயில்",
+       "lemma": "எயில்",
+       "gloss": "fortress"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "seven fortresses"
     },
     {
      "surface": "கதவம்",
      "parts": [
       {
        "text": "கதவம்",
-       "lemma": "கதவம்",
-       "gloss": ""
+       "lemma": "கதவு",
+       "gloss": "gate"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "gate"
     },
     {
      "surface": "எறிந்து",
      "parts": [
       {
        "text": "எறிந்து",
-       "lemma": "எறிந்து",
-       "gloss": ""
+       "lemma": "எறி",
+       "gloss": "battering"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "battering down"
     },
     {
      "surface": "கைக்கொண்டு",
      "parts": [
       {
-       "text": "கைக்கொண்டு",
-       "lemma": "கைக்கொண்டு",
-       "gloss": ""
+       "text": "கை",
+       "lemma": "கை",
+       "gloss": "hand"
+      },
+      {
+       "text": "கொண்டு",
+       "lemma": "கொள்",
+       "gloss": "taking"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "capturing"
     },
     {
      "surface": "நின்",
      "parts": [
       {
        "text": "நின்",
-       "lemma": "நின்",
-       "gloss": ""
+       "lemma": "நீ",
+       "gloss": "your"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "your"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -457,23 +489,23 @@
      "parts": [
       {
        "text": "பேழ்",
-       "lemma": "pēḻ",
-       "gloss": "gaping"
+       "lemma": "பேழ்",
+       "gloss": "wide"
       },
       {
        "text": "வாய்",
-       "lemma": "vāy",
+       "lemma": "வாய்",
        "gloss": "mouth"
       }
      ],
-     "gloss": "gaping mouth"
+     "gloss": "wide-mouthed"
     },
     {
      "surface": "உழுவை",
      "parts": [
       {
        "text": "உழுவை",
-       "lemma": "uḻuvai",
+       "lemma": "உழுவை",
        "gloss": "tiger"
       }
      ],
@@ -484,7 +516,7 @@
      "parts": [
       {
        "text": "பொறிக்கும்",
-       "lemma": "poṟikkum",
+       "lemma": "பொறி",
        "gloss": "engraving"
       }
      ],
@@ -495,16 +527,16 @@
      "parts": [
       {
        "text": "ஆற்றல்",
-       "lemma": "āṟṟal",
-       "gloss": "strength"
+       "lemma": "ஆற்றல்",
+       "gloss": "might"
       },
       {
        "text": "ஐ",
-       "lemma": "ai",
+       "lemma": "ஐ",
        "gloss": "accusative"
       }
      ],
-     "gloss": "strength"
+     "gloss": "might"
     }
    ]
   },
@@ -514,36 +546,36 @@
      "surface": "பாடுநர்",
      "parts": [
       {
-       "text": "பாடுநர்",
-       "lemma": "pāṭunar",
-       "gloss": "singers"
+       "text": "பாடு",
+       "lemma": "பாடு",
+       "gloss": "sing"
+      },
+      {
+       "text": "நர்",
+       "lemma": "நர்",
+       "gloss": "those who"
       }
      ],
-     "gloss": "singers"
+     "gloss": "bards"
     },
     {
      "surface": "வஞ்சி",
      "parts": [
       {
        "text": "வஞ்சி",
-       "lemma": "vañci",
-       "gloss": "Vaṉci theme"
+       "lemma": "வஞ்சி",
+       "gloss": "Vañci theme"
       }
      ],
-     "gloss": "Vaṉci songs"
+     "gloss": "songs of victory"
     },
     {
-     "surface": "பாடப்",
+     "surface": "பாட",
      "parts": [
       {
        "text": "பாட",
-       "lemma": "pāṭa",
+       "lemma": "பாடு",
        "gloss": "to sing"
-      },
-      {
-       "text": "ப்",
-       "lemma": "p",
-       "gloss": "consonant"
       }
      ],
      "gloss": "to sing"
@@ -552,72 +584,78 @@
      "surface": "படையோர்",
      "parts": [
       {
-       "text": "படையோர்",
-       "lemma": "paṭaiyōr",
-       "gloss": "soldiers"
+       "text": "படை",
+       "lemma": "படை",
+       "gloss": "army"
+      },
+      {
+       "text": "ஓர்",
+       "lemma": "ஓர்",
+       "gloss": "those who have"
       }
      ],
-     "gloss": "soldiers"
+     "gloss": "warriors"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தாதுஎரு",
+     "surface": "தாது",
      "parts": [
       {
        "text": "தாது",
-       "lemma": "tātu",
-       "gloss": "pollen/dust"
-      },
-      {
-       "text": "எரு",
-       "lemma": "eru",
-       "gloss": "manure/dry dung"
+       "lemma": "தாது",
+       "gloss": "dust"
       }
      ],
-     "gloss": "dusty manure"
+     "gloss": "dust"
+    },
+    {
+     "surface": "எரு",
+     "parts": [
+      {
+       "text": "எரு",
+       "lemma": "எரு",
+       "gloss": "dry dung"
+      }
+     ],
+     "gloss": "dry dung"
     },
     {
      "surface": "மறுகின்",
      "parts": [
       {
        "text": "மறுகு",
-       "lemma": "maṟuku",
+       "lemma": "மறுகு",
        "gloss": "street"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "in"
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "in the streets"
+     "gloss": "of the streets"
     },
     {
      "surface": "பாசறை",
      "parts": [
       {
        "text": "பாசறை",
-       "lemma": "pācaṟai",
-       "gloss": "army camp"
+       "lemma": "பாசறை",
+       "gloss": "military camp"
       }
      ],
-     "gloss": "army camp"
+     "gloss": "military camp"
     },
     {
-     "surface": "பொலியப்",
+     "surface": "பொலிய",
      "parts": [
       {
        "text": "பொலிய",
-       "lemma": "poliya",
+       "lemma": "பொலி",
        "gloss": "to shine"
-      },
-      {
-       "text": "ப்",
-       "lemma": "p",
-       "gloss": "consonant"
       }
      ],
      "gloss": "to shine"
@@ -627,17 +665,12 @@
   {
    "words": [
     {
-     "surface": "புலராப்",
+     "surface": "புலரா",
      "parts": [
       {
        "text": "புலரா",
-       "lemma": "pularā",
-       "gloss": "unfading"
-      },
-      {
-       "text": "ப்",
-       "lemma": "p",
-       "gloss": "consonant"
+       "lemma": "புலர்",
+       "gloss": "not drying"
       }
      ],
      "gloss": "unfading"
@@ -659,23 +692,23 @@
      "parts": [
       {
        "text": "இடை",
-       "lemma": "iṭai",
-       "gloss": "middle"
+       "lemma": "இடை",
+       "gloss": "between"
       },
       {
        "text": "இடுபு",
-       "lemma": "iṭupu",
-       "gloss": "inserting"
+       "lemma": "இடு",
+       "gloss": "placing"
       }
      ],
-     "gloss": "inserting in between"
+     "gloss": "placing in between"
     },
     {
      "surface": "தொடுத்த",
      "parts": [
       {
        "text": "தொடுத்த",
-       "lemma": "toṭutta",
+       "lemma": "தொடு",
        "gloss": "strung"
       }
      ],
@@ -690,24 +723,19 @@
      "parts": [
       {
        "text": "மலரா",
-       "lemma": "malarā",
-       "gloss": "unblossomed"
+       "lemma": "மலர்",
+       "gloss": "unopened"
       }
      ],
-     "gloss": "unblossomed"
+     "gloss": "unopened"
     },
     {
-     "surface": "மாலைப்",
+     "surface": "மாலை",
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "mālai",
+       "lemma": "மாலை",
        "gloss": "garland"
-      },
-      {
-       "text": "ப்",
-       "lemma": "p",
-       "gloss": "consonant"
       }
      ],
      "gloss": "garland"
@@ -717,7 +745,7 @@
      "parts": [
       {
        "text": "பந்து",
-       "lemma": "pantu",
+       "lemma": "பந்து",
        "gloss": "ball"
       }
      ],
@@ -728,12 +756,12 @@
      "parts": [
       {
        "text": "கண்டு",
-       "lemma": "kaṇṭu",
+       "lemma": "காண்",
        "gloss": "having seen"
       },
       {
        "text": "அன்ன",
-       "lemma": "anna",
+       "lemma": "அன்ன",
        "gloss": "like"
       }
      ],
@@ -744,15 +772,26 @@
   {
    "words": [
     {
-     "surface": "ஊன்சோற்று",
+     "surface": "ஊன்",
      "parts": [
       {
-       "text": "ஊன்சோற்று",
-       "lemma": "ஊன்சோற்று",
-       "gloss": "of meat rice"
+       "text": "ஊன்",
+       "lemma": "ஊன்",
+       "gloss": "meat"
       }
      ],
-     "gloss": "of meat rice",
+     "gloss": "meat"
+    },
+    {
+     "surface": "சோற்று",
+     "parts": [
+      {
+       "text": "சோற்று",
+       "lemma": "சோற்று",
+       "gloss": "of rice"
+      }
+     ],
+     "gloss": "of rice",
      "split_unverified": true
     },
     {
@@ -760,34 +799,41 @@
      "parts": [
       {
        "text": "அமலை",
-       "lemma": "amalai",
-       "gloss": "abundance"
+       "lemma": "அமலை",
+       "gloss": "heap"
       }
      ],
-     "gloss": "abundance"
+     "gloss": "heap"
     },
     {
-     "surface": "பான்கடும்பு",
+     "surface": "பான்",
      "parts": [
       {
        "text": "பான்",
-       "lemma": "pāṉ",
-       "gloss": "large"
-      },
-      {
-       "text": "கடும்பு",
-       "lemma": "kaṭumpu",
-       "gloss": "kin/family"
+       "lemma": "பான்",
+       "gloss": "bard's"
       }
      ],
-     "gloss": "large family"
+     "gloss": "bard's",
+     "split_unverified": true
+    },
+    {
+     "surface": "கடும்பு",
+     "parts": [
+      {
+       "text": "கடும்பு",
+       "lemma": "கடும்பு",
+       "gloss": "family"
+      }
+     ],
+     "gloss": "family"
     },
     {
      "surface": "அருத்தும்",
      "parts": [
       {
        "text": "அருத்தும்",
-       "lemma": "aruttum",
+       "lemma": "அருத்து",
        "gloss": "feeding"
       }
      ],
@@ -803,10 +849,10 @@
       {
        "text": "செம்மற்று",
        "lemma": "செம்மற்று",
-       "gloss": "it is of noble nature"
+       "gloss": "is majestic"
       }
      ],
-     "gloss": "it is of noble nature",
+     "gloss": "is majestic",
      "split_unverified": true
     },
     {
@@ -814,18 +860,18 @@
      "parts": [
       {
        "text": "அம்ம",
-       "lemma": "amma",
-       "gloss": "ah"
+       "lemma": "அம்ம",
+       "gloss": "behold"
       }
      ],
-     "gloss": "ah!"
+     "gloss": "behold!"
     },
     {
      "surface": "நின்",
      "parts": [
       {
        "text": "நின்",
-       "lemma": "niṉ",
+       "lemma": "நீ",
        "gloss": "your"
       }
      ],
@@ -836,12 +882,12 @@
      "parts": [
       {
        "text": "வெம்மை",
-       "lemma": "vemmai",
+       "lemma": "வெம்மை",
        "gloss": "fierce"
       },
       {
        "text": "முனை",
-       "lemma": "muṉai",
+       "lemma": "முனை",
        "gloss": "battlefront"
       }
      ],
@@ -852,8 +898,8 @@
      "parts": [
       {
        "text": "இருக்கை",
-       "lemma": "irukkai",
-       "gloss": "camp/abode"
+       "lemma": "இருக்கை",
+       "gloss": "camp"
       }
      ],
      "gloss": "camp"
@@ -867,109 +913,111 @@
      "parts": [
       {
        "text": "வல்லோன்",
-       "lemma": "vallōṉ",
-       "gloss": "expert artisan"
+       "lemma": "வல்லோன்",
+       "gloss": "skilled artisan"
       }
      ],
-     "gloss": "expert artisan"
+     "gloss": "skilled artisan"
     },
     {
      "surface": "தைஇய",
      "parts": [
       {
        "text": "தைஇய",
-       "lemma": "taiiya",
+       "lemma": "தை",
        "gloss": "fashioned"
       }
      ],
      "gloss": "fashioned"
     },
     {
-     "surface": "வரிவனப்பு",
+     "surface": "வரி",
      "parts": [
       {
        "text": "வரி",
-       "lemma": "vari",
-       "gloss": "lines/stripes"
-      },
+       "lemma": "வரி",
+       "gloss": "painting"
+      }
+     ],
+     "gloss": "painted lines"
+    },
+    {
+     "surface": "வனப்பு",
+     "parts": [
       {
        "text": "வனப்பு",
-       "lemma": "vaṉappu",
+       "lemma": "வனப்பு",
        "gloss": "beauty"
       }
      ],
-     "gloss": "beautiful lines"
+     "gloss": "beauty"
     },
     {
      "surface": "உற்ற",
      "parts": [
       {
        "text": "உற்ற",
-       "lemma": "uṟṟa",
-       "gloss": "having"
+       "lemma": "உறு",
+       "gloss": "possessed of"
       }
      ],
-     "gloss": "having"
+     "gloss": "possessing"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "அல்லிப்",
+     "surface": "அல்லி",
      "parts": [
       {
        "text": "அல்லி",
-       "lemma": "alli",
-       "gloss": "lily/puppet"
-      },
-      {
-       "text": "ப்",
-       "lemma": "p",
-       "gloss": "consonant"
+       "lemma": "அல்லி",
+       "gloss": "pith"
       }
      ],
-     "gloss": "lily/puppet"
+     "gloss": "pith"
     },
     {
      "surface": "பாவை",
      "parts": [
       {
        "text": "பாவை",
-       "lemma": "pāvai",
-       "gloss": "doll/puppet"
+       "lemma": "பாவை",
+       "gloss": "puppet"
       }
      ],
-     "gloss": "doll"
+     "gloss": "puppet"
     },
     {
-     "surface": "ஆடுவனப்பு",
+     "surface": "ஆடு",
      "parts": [
       {
        "text": "ஆடு",
-       "lemma": "āṭu",
+       "lemma": "ஆடு",
        "gloss": "dancing"
-      },
+      }
+     ],
+     "gloss": "dancing"
+    },
+    {
+     "surface": "வனப்பு",
+     "parts": [
       {
        "text": "வனப்பு",
-       "lemma": "vaṉappu",
+       "lemma": "வனப்பு",
        "gloss": "beauty"
       }
      ],
-     "gloss": "dancing beauty"
+     "gloss": "beauty"
     },
     {
-     "surface": "ஏய்ப்பக்",
+     "surface": "ஏய்ப்ப",
      "parts": [
       {
        "text": "ஏய்ப்ப",
-       "lemma": "ēyppa",
+       "lemma": "ஏய்",
        "gloss": "to resemble"
-      },
-      {
-       "text": "க்",
-       "lemma": "k",
-       "gloss": "consonant"
       }
      ],
      "gloss": "resembling"
@@ -984,10 +1032,10 @@
       {
        "text": "காம",
        "lemma": "காம",
-       "gloss": "love"
+       "gloss": "loving"
       }
      ],
-     "gloss": "love",
+     "gloss": "loving",
      "split_unverified": true
     },
     {
@@ -995,29 +1043,29 @@
      "parts": [
       {
        "text": "இருவர்",
-       "lemma": "iruvar",
+       "lemma": "இருவர்",
        "gloss": "two persons"
       }
      ],
-     "gloss": "two lovers"
+     "gloss": "lovers"
     },
     {
      "surface": "அல்லது",
      "parts": [
       {
        "text": "அல்லது",
-       "lemma": "allatu",
+       "lemma": "அல்லது",
        "gloss": "except"
       }
      ],
      "gloss": "except"
     },
     {
-     "surface": "யாமத்துத்",
+     "surface": "யாமத்து",
      "parts": [
       {
-       "text": "யாமத்துத்",
-       "lemma": "யாமத்துத்",
+       "text": "யாமத்து",
+       "lemma": "யாமத்து",
        "gloss": "at midnight"
       }
      ],
@@ -1033,65 +1081,62 @@
      "parts": [
       {
        "text": "தனி",
-       "lemma": "taṉi",
-       "gloss": "lone"
+       "lemma": "தனி",
+       "gloss": "solitary"
       },
       {
        "text": "மகன்",
-       "lemma": "makaṉ",
+       "lemma": "மகன்",
        "gloss": "man"
       }
      ],
-     "gloss": "lone man"
+     "gloss": "solitary man"
     },
     {
-     "surface": "வழங்காப்",
+     "surface": "வழங்கா",
      "parts": [
       {
        "text": "வழங்கா",
-       "lemma": "vaḻaṅkā",
+       "lemma": "வழங்கு",
        "gloss": "not walking"
-      },
-      {
-       "text": "ப்",
-       "lemma": "p",
-       "gloss": "consonant"
       }
      ],
-     "gloss": "not walking"
+     "gloss": "not frequenting"
     },
     {
-     "surface": "பனிமலர்க்",
+     "surface": "பனி",
      "parts": [
       {
        "text": "பனி",
-       "lemma": "paṉi",
-       "gloss": "cool/dewy"
-      },
-      {
-       "text": "மலர்",
-       "lemma": "malar",
-       "gloss": "flower"
-      },
-      {
-       "text": "க்",
-       "lemma": "k",
-       "gloss": "consonant"
+       "lemma": "பனி",
+       "gloss": "cool"
       }
      ],
-     "gloss": "cool flower"
+     "gloss": "cool"
+    },
+    {
+     "surface": "மலர்க்",
+     "parts": [
+      {
+       "text": "மலர்க்",
+       "lemma": "மலர்க்",
+       "gloss": "flower"
+      }
+     ],
+     "gloss": "flower",
+     "split_unverified": true
     },
     {
      "surface": "காவின்",
      "parts": [
       {
        "text": "கா",
-       "lemma": "kā",
+       "lemma": "கா",
        "gloss": "grove"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "in"
       }
      ],
@@ -1102,65 +1147,79 @@
   {
    "words": [
     {
-     "surface": "ஒதுக்குஇன்",
+     "surface": "ஒதுக்கு",
      "parts": [
       {
        "text": "ஒதுக்கு",
-       "lemma": "otukku",
+       "lemma": "ஒதுக்கு",
        "gloss": "secluded"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "of"
       }
      ],
      "gloss": "secluded"
     },
     {
-     "surface": "திணிமணல்",
+     "surface": "இன்",
+     "parts": [
+      {
+       "text": "இன்",
+       "lemma": "இனிமை",
+       "gloss": "sweet"
+      }
+     ],
+     "gloss": "pleasant"
+    },
+    {
+     "surface": "திணி",
      "parts": [
       {
        "text": "திணி",
-       "lemma": "tiṇi",
+       "lemma": "திணி",
        "gloss": "dense"
-      },
+      }
+     ],
+     "gloss": "dense"
+    },
+    {
+     "surface": "மணல்",
+     "parts": [
       {
        "text": "மணல்",
-       "lemma": "maṇal",
+       "lemma": "மணல்",
        "gloss": "sand"
       }
      ],
-     "gloss": "dense sand"
+     "gloss": "sand"
     },
     {
-     "surface": "புதுப்பூம்",
+     "surface": "புது",
      "parts": [
       {
        "text": "புது",
-       "lemma": "putu",
+       "lemma": "புதுமை",
        "gloss": "fresh"
-      },
-      {
-       "text": "பூ",
-       "lemma": "pū",
-       "gloss": "flower"
-      },
-      {
-       "text": "ம்",
-       "lemma": "m",
-       "gloss": "consonant"
       }
      ],
-     "gloss": "fresh flower"
+     "gloss": "fresh"
+    },
+    {
+     "surface": "பூம்",
+     "parts": [
+      {
+       "text": "பூம்",
+       "lemma": "பூம்",
+       "gloss": "flower"
+      }
+     ],
+     "gloss": "flower",
+     "split_unverified": true
     },
     {
      "surface": "பள்ளி",
      "parts": [
       {
        "text": "பள்ளி",
-       "lemma": "paḷḷi",
-       "gloss": "bed/resting place"
+       "lemma": "பள்ளி",
+       "gloss": "bed"
       }
      ],
      "gloss": "bed"
@@ -1173,83 +1232,95 @@
      "surface": "வாயின்",
      "parts": [
       {
-       "text": "வாய்",
-       "lemma": "vāy",
-       "gloss": "gate/entrance"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "at"
+       "text": "வாயின்",
+       "lemma": "வாயின்",
+       "gloss": "at the gates"
       }
      ],
-     "gloss": "at the gates"
+     "gloss": "at the gates",
+     "split_unverified": true
     },
     {
      "surface": "மாடந்தொறும்",
      "parts": [
       {
        "text": "மாடம்",
-       "lemma": "māṭam",
-       "gloss": "mansion/tower"
+       "lemma": "மாடம்",
+       "gloss": "mansion"
       },
       {
        "text": "தொறும்",
-       "lemma": "toṟum",
+       "lemma": "தொறும்",
        "gloss": "every"
       }
      ],
      "gloss": "in every mansion"
     },
     {
-     "surface": "மைவிடை",
+     "surface": "மை",
      "parts": [
       {
        "text": "மை",
-       "lemma": "mai",
+       "lemma": "மை",
        "gloss": "black"
-      },
+      }
+     ],
+     "gloss": "black"
+    },
+    {
+     "surface": "விடை",
+     "parts": [
       {
        "text": "விடை",
-       "lemma": "viṭai",
+       "lemma": "விடை",
        "gloss": "ram"
       }
      ],
-     "gloss": "black ram"
+     "gloss": "ram"
     },
     {
      "surface": "வீழ்ப்ப",
      "parts": [
       {
        "text": "வீழ்ப்ப",
-       "lemma": "vīḻppa",
-       "gloss": "to slay/sacrifice"
+       "lemma": "வீழ்த்து",
+       "gloss": "sacrificing"
       }
      ],
-     "gloss": "to sacrifice"
+     "gloss": "sacrificing"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நீஆங்குக்",
+     "surface": "நீ",
      "parts": [
       {
-       "text": "நீஆங்குக்",
-       "lemma": "நீஆங்குக்",
-       "gloss": "you there"
+       "text": "நீ",
+       "lemma": "நீ",
+       "gloss": "you"
       }
      ],
-     "gloss": "you there",
-     "split_unverified": true
+     "gloss": "you"
+    },
+    {
+     "surface": "ஆங்கு",
+     "parts": [
+      {
+       "text": "ஆங்கு",
+       "lemma": "ஆங்கு",
+       "gloss": "there"
+      }
+     ],
+     "gloss": "there"
     },
     {
      "surface": "கொண்ட",
      "parts": [
       {
        "text": "கொண்ட",
-       "lemma": "koṇṭa",
+       "lemma": "கொள்",
        "gloss": "celebrated"
       }
      ],
@@ -1260,17 +1331,17 @@
      "parts": [
       {
        "text": "விழவு",
-       "lemma": "viḻavu",
+       "lemma": "விழவு",
        "gloss": "festival"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "than"
       },
       {
        "text": "உம்",
-       "lemma": "um",
+       "lemma": "உம்",
        "gloss": "even"
       }
      ],
@@ -1281,12 +1352,12 @@
      "parts": [
       {
        "text": "பல",
-       "lemma": "pala",
+       "lemma": "பல",
        "gloss": "many"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
+       "lemma": "ஏ",
        "gloss": "indeed"
       }
      ],
@@ -1295,10 +1366,10 @@
    ]
   }
  ],
- "literal": "Forest-dwelling life furious-dog hunter / deer-meat poured basket-and cowherd-woman / curd-with came pot-and to-fill / plough-by those-who-live large-house women / pond-below grown field-gathered white-paddy / scooped-they to-give rejoiced-they returning / southern lord-of-hills poor-land-within-even / seven-fortress door battering capturing your / gaping-mouth tiger engraving strength / singers Vaṉci to-sing soldiers / dusty-manure street army-camp to-shine / unfading green-leaves inserting-in-between strung / unblossomed garland ball resembling / meat-rice abundance large-family feeding / noble-nature-is-it ah! your fierce-battlefront camp / expert-artisan fashioned beautiful-lines having / lily doll dancing-beauty resembling / love two-persons except midnight / lone-man not-walking cool-flower grove-in / secluded dense-sand fresh-flower bed / gate mansion-every black-ram to-sacrifice / you-there celebrated festivals-than many-indeed",
- "translation": "The hunter of the forest, accompanied by his furious dogs, pours deer meat into the basket of the cowherd woman, and she fills his pot with the curd she brought. The women of the spacious houses of the farmers who live by the plough scoop up and give white paddy grown below the pond and gathered from the fields, and they return rejoicing. Even in the poor land of the southern lord of the hills, you battered the doors of the seven fortresses, captured them, and engraved your gaping-mouthed tiger emblem. Your strength is such that while singers sing Vaṉci songs and soldiers shine in the army camp on the dusty streets, you feed your large family of kinsmen with abundant meat-rice that resembles a ball of unblossomed garland strung with unfading green leaves inserted in between. Ah, your fierce battlefront camp is of noble nature! In the cool flower groves where no lone man walks at midnight except for two lovers, on the secluded dense sand beds of fresh flowers, black rams are sacrificed at every mansion gate. The sacrifices offered there are indeed more numerous than the festivals you celebrated!",
- "modern": "காட்டில் வாழும் வேட்டைக்காரன் தன் சினமுள்ள நாய்களுடன் வந்து வேட்டையாடிய மான் இறைச்சியை இடைமகளின் கூடையில் கொட்டுகிறான். அதற்குப் பதிலாக அவள் தன் தயிர்ப் பானையிலிருந்து தயிரை அவனுக்குத் தருகிறாள். உழவர்களின் பெரிய வீட்டுப் பெண்கள் குளத்து நீரில் விளைந்த வெண்ணெல்லை அள்ளித் தர, அதைப் பெற்றுக்கொண்டு அவர்கள் மகிழ்ந்து செல்கிறார்கள். தென்னாட்டிற்குரிய பாண்டியனின் வளம் குறைந்த நாட்டிலும், நீ ஏழு கோட்டைகளின் கதவுகளைத் தகர்த்து, அவற்றைக் கைப்பற்றி, உனது பெரிய வாயையுடைய புலிச் சின்னத்தைப் பொறித்தாய். உனது ஆற்றலைப் பாணர்கள் வஞ்சிப் பாடல்களாகப் பாட, வீரர்கள் புழுதி நிறைந்த தெருக்களையுடைய பாசறையில் விளங்குகிறார்கள். வாடாத பச்சிலைகளைக் கொண்டு கட்டிய அரும்புகள் நிறைந்த மாலைப் பந்தைப் போன்ற இறைச்சிச் சோற்றைத் தன் சுற்றத்தாருக்கு வழங்கி மகிழ்விக்கிறான் சோழன் நலங்கிள்ளி. உனது போர்முனைப் பாசறை மிகவும் பெருமைக்குரியது! நள்ளிரவில் காதலர்கள் இருவரைத் தவிர வேறு யாரும் நடமாடாத குளிர்ந்த சோலையில், மணல் பரப்பிய மலர்ப் படுக்கைகளில், மாளிகைகளின் வாயில்தோறும் கரிய ஆட்டுக்கிடாக்கள் பலியிடப்படுகின்றன. நீ அங்கே கொண்டாடிய விழாக்களைக் காட்டிலும் இப்பலிகள் பலவாகும்.",
- "explanation": "This poem is addressed to the Chola king Nalaṅkiḷḷi by the poet Kōvūr Kiḻār, belonging to the Vaakai tiṇai (victory/excellence) and the theme of Arasavaakai (the king's victory and noble deeds). The poet praises the king's military prowess and his generosity. The poem begins by describing the peaceful exchange of goods in the countryside: a forest hunter exchanges deer meat for curd from a cowherd woman, and farmers' wives generously distribute white paddy. This peaceful prosperity is contrasted with the king's fierce military campaigns in the south, where he captured seven fortresses and engraved his tiger emblem. In the army camp, the king feeds his soldiers and kinsmen with abundant meat-rice, described beautifully as resembling a ball of unblossomed flower garland. Finally, the poet describes the sacrifices of black rams at the gates of every mansion in the captured territory, noting that these sacrifices are even more numerous than the festivals celebrated by the king, highlighting his absolute dominance and the scale of his victory.",
+ "literal": "Forest-dwelling life furious-dog hunter / deer-flesh filled basket-and cowherd-woman / curd-bringing came pot-and to-be-filled / by-the-plough living-ones big-house women / under-the-tank grown threshing-floor-gathered white-paddy / scooped-out giving, rejoicing departed / southern lord-of-hills bad-country-even-in / seven-fortresses gate battering capturing your / wide-mouthed tiger engraving might / singers Vañci-songs singing, warriors / dust-dung street military-camp to-shine / unfading green-leaves placing-between strung / unopened garland ball resembled / meat-rice heap bard's-family feeding / majestic-is behold! your fierce-battlefront camp / skilled-artisan fashioned painted-beauty possessed / pith puppet dancing-beauty resembling / loving two-persons except midnight / solitary-man not-frequenting cool-flower grove-in / secluded pleasant dense sand fresh-flower bed / at-the-gates mansion-every black-ram sacrificing / you there celebrated than-festivals are-many-indeed",
+ "translation": "The hunter with furious dogs from the forest brings baskets filled with venison, and the cowherd woman brings pots filled with curd. To fill these, the women of the spacious homes of the farmers who live by the plough scoop out and give white paddy grown under the irrigation tanks and gathered at the threshing floors, and they depart rejoicing. Even in the poor land of the southern lord of the hills, you battered down the gates of the seven fortresses, captured them, and engraved your wide-mouthed tiger emblem. While bards sing songs of victory and warriors shine in the military camp on streets dusty with dry dung, you feed the bards' families with heaps of meat and rice that resemble balls made of tightly strung garlands of unopened buds and fresh green leaves. Behold, your camp on the fierce battlefront is majestic indeed! The military camps you have held are even more numerous than the festivals you celebrated there, where black rams are sacrificed at every mansion gate, and where lovers (and no solitary man) walk at midnight in the cool flower groves on secluded, pleasant, sandy beds of fresh flowers, resembling the dancing beauty of pith puppets fashioned with painted beauty by a skilled artisan.",
+ "modern": "காட்டில் வாழும் சினமிகுந்த நாய்களைக் கொண்ட வேடன் கொண்டுவந்த மான் தசை நிறைந்த கூடையும், இடைமகள் தயிர் கொண்டுவந்த பானையும் நிறையுமாறு, ஏர்த்தொழில் செய்து வாழும் உழவர்களின் பெரிய வீட்டுப் பெண்கள், குளத்து நீர்ப்பாசனத்தால் விளைந்து களத்தில் குவிக்கப்பட்ட வெண்ணெல்லை அள்ளி அள்ளிக் கொடுக்க, அவர்கள் மகிழ்ச்சியோடு திரும்புவர். தென்னாட்டிற்குரிய பாண்டியனின் புன்னாட்டிலும், அவனது ஏழு கோட்டைகளின் கதவுகளைத் தகர்த்து, அவற்றைக் கைப்பற்றி, உனது அகன்ற வாயையுடைய புலிச் சின்னத்தைப் பொறித்தாய். உனது ஆற்றலைப் பாணர்கள் வஞ்சிப் பாடல்களாகப் பாட, வீரர்கள் துகள் நிறைந்த தெருக்களைக் கொண்ட பாசறையில் விளங்க, வாடாத பச்சிலைகளுக்கு இடையே தொடுக்கப்பட்ட மலராத அரும்பு மாலைப் பந்தைப் போன்ற ஊன் சோற்றின் திரளைப் பாணர்களின் சுற்றத்தாருக்கு நீ உணவாக அளிக்கிறாய். உனது வெம்மையான போர்க்களப் பாசறை மிகவும் பெருமைக்குரியது! திறமைமிக்க கலைஞன் செய்த அழகிய அல்லிப் பாவை ஆடுவதைப் போல, காதலர் இருவரைத் தவிர நள்ளிரவில் வேறு எவரும் நடமாடாத, குளிர்ந்த மலர்ச் சோலையின் ஒதுக்குப்புறமான மணல் பரப்பிய புதுப்பூப் படுக்கையிடத்தே, வாயிலின் மாடங்கள் தோறும் கரிய கடாக்களைப் பலியிட்டு நீ கொண்டாடிய விழாக்களைக் காட்டிலும், நீ மேற்கொண்ட போர்க்களப் பாசறைகள் பலவாகும்!",
+ "explanation": "The poet Kovur Kilar praises the Chola king Nalankilli in this poem belonging to the Vakai tinai (victory and bravery), specifically the theme of Arasavakai. The poem begins by illustrating the prosperity of the Chola land, where forest hunters and pastoral cowherds exchange their venison and curd for the abundant white paddy given by farming women. It then highlights the king's military conquests, describing how he shattered the gates of seven fortresses in the southern Pandya territory and engraved his tiger emblem. In the battle camp, the king generously feeds the bards' families with massive heaps of meat and rice, which are beautifully compared to balls of tightly strung flower buds and green leaves. Finally, the poet praises the king's constant campaigns by stating that his military camps are even more numerous than the grand festivals celebrated in his land, where black rams are sacrificed and lovers meet in secluded, sandy groves.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -17,12 +17,17 @@
      "surface": "நாறும்",
      "parts": [
       {
-       "text": "நாறும்",
+       "text": "நாறு",
        "lemma": "நாறு",
-       "gloss": "fragrant"
+       "gloss": "smell"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "fragrant"
+     "gloss": "smelling of"
     },
     {
      "surface": "குவை",
@@ -30,10 +35,10 @@
       {
        "text": "குவை",
        "lemma": "குவை",
-       "gloss": "thick/bundled"
+       "gloss": "abundance"
       }
      ],
-     "gloss": "thick/bundled"
+     "gloss": "thick"
     },
     {
      "surface": "இரும்",
@@ -52,10 +57,10 @@
       {
        "text": "கூந்தல்",
        "lemma": "கூந்தல்",
-       "gloss": "tresses/hair"
+       "gloss": "tresses"
       }
      ],
-     "gloss": "tresses/hair"
+     "gloss": "tresses"
     }
    ]
   },
@@ -76,12 +81,17 @@
      "surface": "நாறும்",
      "parts": [
       {
-       "text": "நாறும்",
+       "text": "நாறு",
        "lemma": "நாறு",
-       "gloss": "fragrant"
+       "gloss": "smell"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "fragrant"
+     "gloss": "smelling of"
     },
     {
      "surface": "தேம்",
@@ -89,10 +99,10 @@
       {
        "text": "தேம்",
        "lemma": "தேம்",
-       "gloss": "sweetness/honey"
+       "gloss": "sweetness"
       }
      ],
-     "gloss": "sweetness/honey"
+     "gloss": "sweet honey"
     },
     {
      "surface": "பொதி",
@@ -100,10 +110,10 @@
       {
        "text": "பொதி",
        "lemma": "பொதி",
-       "gloss": "filled/packed"
+       "gloss": "be filled"
       }
      ],
-     "gloss": "filled/packed"
+     "gloss": "filled"
     },
     {
      "surface": "துவர்",
@@ -111,10 +121,10 @@
       {
        "text": "துவர்",
        "lemma": "துவர்",
-       "gloss": "red/coral"
+       "gloss": "red coral"
       }
      ],
-     "gloss": "red/coral"
+     "gloss": "red coral-like"
     },
     {
      "surface": "வாய்",
@@ -170,12 +180,12 @@
       {
        "text": "கொங்கு",
        "lemma": "கொங்கு",
-       "gloss": "pollen/fragrance"
+       "gloss": "pollen"
       },
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "oblique/possessive suffix"
+       "gloss": "oblique suffix"
       }
      ],
      "gloss": "of the pollen"
@@ -200,18 +210,18 @@
      "parts": [
       {
        "text": "நுண்",
-       "lemma": "நுண்மை",
-       "gloss": "fine/subtle"
+       "lemma": "நுண்",
+       "gloss": "fine"
       }
      ],
-     "gloss": "fine/subtle"
+     "gloss": "fine"
     },
     {
      "surface": "பல்",
      "parts": [
       {
        "text": "பல்",
-       "lemma": "பல",
+       "lemma": "பல்",
        "gloss": "many"
       }
      ],
@@ -223,31 +233,26 @@
       {
        "text": "தித்தி",
        "lemma": "தித்தி",
-       "gloss": "spots/freckles"
+       "gloss": "beauty spots"
       }
      ],
-     "gloss": "spots/freckles"
+     "gloss": "beauty spots"
     },
     {
      "surface": "மாஅயோயே",
      "parts": [
       {
-       "text": "மாஅய்",
-       "lemma": "மாமை",
-       "gloss": "dark beauty"
-      },
-      {
-       "text": "ஓய்",
-       "lemma": "ஓய்",
-       "gloss": "you (vocative)"
+       "text": "மாஅயோய்",
+       "lemma": "மாஅயோய்",
+       "gloss": "dark-skinned beauty"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "vocative particle"
       }
      ],
-     "gloss": "O dark beautiful one!"
+     "gloss": "O dark-skinned beauty!"
     }
    ]
   },
@@ -264,7 +269,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis particle"
       }
      ],
      "gloss": "you indeed"
@@ -280,7 +285,7 @@
       {
        "text": "அல்",
        "lemma": "அல்",
-       "gloss": "prohibitive/negative suffix"
+       "gloss": "negative imperative suffix"
       }
      ],
      "gloss": "do not fear"
@@ -289,9 +294,14 @@
      "surface": "என்ற",
      "parts": [
       {
-       "text": "என்ற",
+       "text": "என்",
        "lemma": "என்",
-       "gloss": "which said"
+       "gloss": "say"
+      },
+      {
+       "text": "ற",
+       "lemma": "அ",
+       "gloss": "past relative participle suffix"
       }
      ],
      "gloss": "which said"
@@ -327,22 +337,17 @@
        "gloss": "fear"
       },
       {
-       "text": "அல்",
-       "lemma": "அல்",
-       "gloss": "negative"
-      },
-      {
-       "text": "ஐ",
-       "lemma": "ஐ",
-       "gloss": "second person singular suffix"
+       "text": "அலை",
+       "lemma": "அலை",
+       "gloss": "negative second person singular suffix"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "you did not fear/doubt"
+     "gloss": "you did not fear"
     }
    ]
   },
@@ -359,32 +364,22 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis particle"
       }
      ],
      "gloss": "I indeed"
     },
     {
-     "surface": "குறும்",
+     "surface": "குறுங்கால்",
      "parts": [
       {
-       "text": "குறும்",
-       "lemma": "குறுமை",
-       "gloss": "short"
+       "text": "குறுங்கால்",
+       "lemma": "குறுங்கால்",
+       "gloss": "short-legged"
       }
      ],
-     "gloss": "short"
-    },
-    {
-     "surface": "கால்",
-     "parts": [
-      {
-       "text": "கால்",
-       "lemma": "கால்",
-       "gloss": "leg/foot"
-      }
-     ],
-     "gloss": "legged"
+     "gloss": "short-legged",
+     "split_unverified": true
     },
     {
      "surface": "அன்னம்",
@@ -392,18 +387,18 @@
       {
        "text": "அன்னம்",
        "lemma": "அன்னம்",
-       "gloss": "swan/goose"
+       "gloss": "swan"
       }
      ],
-     "gloss": "swan/goose"
+     "gloss": "swan"
     },
     {
      "surface": "குவவு",
      "parts": [
       {
        "text": "குவவு",
-       "lemma": "குவவு",
-       "gloss": "heaped/curved"
+       "lemma": "குவி",
+       "gloss": "heap"
       }
      ],
      "gloss": "heaped"
@@ -423,12 +418,17 @@
      "surface": "சேக்கும்",
      "parts": [
       {
-       "text": "சேக்கும்",
+       "text": "சேக்",
        "lemma": "சே",
-       "gloss": "will rest/roost"
+       "gloss": "rest"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "habitual relative participle suffix"
       }
      ],
-     "gloss": "will rest/roost"
+     "gloss": "resting"
     }
    ]
   },
@@ -451,10 +451,10 @@
       {
        "text": "சூழ்",
        "lemma": "சூழ்",
-       "gloss": "surrounded"
+       "gloss": "surround"
       }
      ],
-     "gloss": "surrounded"
+     "gloss": "surrounded by"
     },
     {
      "surface": "மண்டிலம்",
@@ -462,82 +462,118 @@
       {
        "text": "மண்டிலம்",
        "lemma": "மண்டிலம்",
-       "gloss": "world/earth"
+       "gloss": "earth"
       }
      ],
-     "gloss": "world/earth"
+     "gloss": "earth"
     },
     {
      "surface": "பெறினும்",
      "parts": [
       {
-       "text": "பெறினும்",
+       "text": "பெறு",
        "lemma": "பெறு",
-       "gloss": "even if obtaining"
+       "gloss": "obtain"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "conditional suffix"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even suffix"
       }
      ],
-     "gloss": "even if obtaining"
+     "gloss": "even if I obtain"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "விடல்சூ",
+     "surface": "விடல்",
      "parts": [
       {
-       "text": "விடல்சூ",
-       "lemma": "விடல்சூ",
-       "gloss": ""
+       "text": "விடு",
+       "lemma": "விடு",
+       "gloss": "leave"
+      },
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "verbal noun suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "abandoning"
     },
     {
-     "surface": "ழலனான்",
+     "surface": "சூழ்",
      "parts": [
       {
-       "text": "ழலனான்",
-       "lemma": "ழலனான்",
-       "gloss": ""
+       "text": "சூழ்",
+       "lemma": "சூழ்",
+       "gloss": "think"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thinking of"
+    },
+    {
+     "surface": "அலனான்",
+     "parts": [
+      {
+       "text": "அலன்",
+       "lemma": "அல்",
+       "gloss": "not"
+      },
+      {
+       "text": "ஆன்",
+       "lemma": "ஏன்",
+       "gloss": "I (first person singular suffix)"
+      }
+     ],
+     "gloss": "I am not one who"
     },
     {
      "surface": "நின்னுடை",
      "parts": [
       {
-       "text": "நின்னுடை",
-       "lemma": "நின்னுடை",
-       "gloss": ""
+       "text": "நின்",
+       "lemma": "நீ",
+       "gloss": "your"
+      },
+      {
+       "text": "உடை",
+       "lemma": "உடை",
+       "gloss": "possessive suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "your"
     },
     {
      "surface": "நட்பே",
      "parts": [
       {
-       "text": "நட்பே",
-       "lemma": "நட்பே",
-       "gloss": ""
+       "text": "நட்பு",
+       "lemma": "நட்பு",
+       "gloss": "friendship"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "friendship"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "Blue water lily fragrant, thick dark tresses, / white water lily fragrant, honey-filled red mouth, / deep water lotus pollen like / fine many freckles, O dark beautiful one! / You indeed, 'do not fear' which said my word, did not doubt; / I indeed, short-legged swan on heaped sand roosts / sea-surrounded world even if obtaining, / leaving will not think, I, your friendship.",
- "translation": "O dark beautiful one, with thick dark tresses fragrant like blue water lilies, a honey-filled red mouth fragrant like white water lilies, and fine, numerous freckles like the pollen of a lotus in deep water! You trusted my words when I said, 'Do not fear.' Even if I were to obtain the entire sea-girt world where short-legged swans roost on heaped sand dunes, I would never think of abandoning your friendship.",
- "modern": "நீலக் குவளை மலரைப் போன்ற நறுமணம் வீசும் அடர்ந்த கரிய கூந்தலையும், தேன் நிறைந்த ஆம்பல் மலரைப் போன்ற நறுமணம் வீசும் பவளம் போன்ற வாயையும், ஆழமான நீர்நிலையின் தாமரை மலரின் மகரந்தத்தைப் போன்ற நுட்பமான பல தேமல்களையும் உடைய கரிய அழகியே! 'அஞ்சாதே' என்று நான் கூறிய சொற்களை நீ அப்படியே நம்பினாய். குறிய கால்களைக் கொண்ட அன்னப் பறவைகள் குவிந்த மணல் மேடுகளில் தங்கும் கடல் சூழ்ந்த உலகத்தையே நான் பரிசாகப் பெற்றாலும், உன்னுடைய நட்பைக் கைவிடுவதைப் பற்றி நான் ஒருபோதும் நினைக்க மாட்டேன்.",
- "explanation": "The hero is speaking to the heroine to reassure her of his absolute commitment and love. He praises her exquisite beauty, describing her hair, mouth, and the beautiful freckles on her skin. He recalls how she trusted his comforting words when he told her not to fear during their secret meetings. He declares that even if he were offered the entire earth surrounded by the ocean, he would never dream of leaving her. The imagery of the short-legged swan resting peacefully on the heaped sand dunes of the sea-girt world symbolizes secure, undisturbed union and comfort, mirroring the trust the heroine placed in his words.",
+ "literal": "Blue water lily smelling thick dark tresses / White water lily smelling sweet-honey-filled red-coral mouth / Deep water lotus pollen like / Fine many beauty-spots dark-skinned beauty! / You indeed, \"do not fear\" which said my word, did not fear; / I indeed, short-legged swan on heaped sand resting / sea-surrounded earth even if I obtain, / abandoning thinking I am not, your friendship.",
+ "translation": "O dark-skinned beauty, with thick dark tresses smelling of blue water lilies, a red coral-like mouth smelling of sweet honey-filled white water lilies, and fine, numerous beauty spots like the pollen of a lotus in deep water! You trusted my words when I said, 'Do not fear.' Even if I were to obtain the entire earth surrounded by the sea where short-legged swans rest on heaped sand dunes, I would never think of abandoning your love.",
+ "modern": "குவளை மலரின் நறுமணம் வீசும் அடர்ந்த கரிய கூந்தலையும், தேன் நிறைந்த ஆம்பல் மலரின் நறுமணம் வீசும் பவளம் போன்ற வாயையும், ஆழமான நீர்நிலையின் தாமரை மலரின் மகரந்தத்தைப் போன்ற நுட்பமான பல தேமல்களையும் உடைய மாநிறத்து அழகியே! 'அஞ்சாதே' என்று நான் கூறிய சொற்களை நீ அப்படியே நம்பினாய். குட்டையான கால்களைக் கொண்ட அன்னப் பறவைகள் குவிந்த மணல் மேடுகளில் தங்கும் கடல் சூழ்ந்த உலகத்தையே நான் பரிசாகப் பெற்றாலும், உன்னுடைய அன்பை விட்டுவிடுவதைப் பற்றி நான் ஒருபோதும் நினைக்க மாட்டேன்.",
+ "explanation": "The hero is speaking to the heroine during their secret courtship, reassuring her of his eternal love and commitment. He praises her exquisite beauty, comparing her hair to blue water lilies, her mouth to honeyed white water lilies, and her beauty spots to lotus pollen. He acknowledges that she trusted his promise of 'do not fear' (அஞ்சல்). He declares that even if he were offered the entire sea-girt earth as a prize, he would never dream of abandoning her friendship and love. The imagery of the short-legged swan resting peacefully on the heaped sand dunes of the seashore reflects a sense of safety, comfort, and domestic bliss, mirroring the trust the heroine has placed in the hero's words.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

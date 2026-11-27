@@ -61,10 +61,10 @@
       {
        "text": "பரு",
        "lemma": "பரு",
-       "gloss": "large"
+       "gloss": "thick"
       }
      ],
-     "gloss": "large"
+     "gloss": "thick"
     },
     {
      "surface": "இலை",
@@ -91,7 +91,7 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with wild jasmine"
+     "gloss": "along with wild jasmine"
     },
     {
      "surface": "பசு",
@@ -121,12 +121,12 @@
       {
        "text": "கள்",
        "lemma": "கள்",
-       "gloss": "to weed"
+       "gloss": "weed"
       },
       {
        "text": "கும்",
        "lemma": "கும்",
-       "gloss": "habitual suffix"
+       "gloss": "relative participle suffix"
       }
      ],
      "gloss": "weeding"
@@ -141,10 +141,10 @@
       {
        "text": "காந்தள்",
        "lemma": "காந்தள்",
-       "gloss": "Malabar glory lily"
+       "gloss": "gloriosa lily"
       }
      ],
-     "gloss": "Malabar glory lily"
+     "gloss": "gloriosa lily"
     },
     {
      "surface": "வேலி",
@@ -158,26 +158,20 @@
      "gloss": "fence"
     },
     {
-     "surface": "சிறு",
+     "surface": "சிறுகுடி",
      "parts": [
       {
        "text": "சிறு",
        "lemma": "சிறு",
        "gloss": "small"
-      }
-     ],
-     "gloss": "small"
-    },
-    {
-     "surface": "குடி",
-     "parts": [
+      },
       {
        "text": "குடி",
        "lemma": "குடி",
-       "gloss": "settlement"
+       "gloss": "hamlet"
       }
      ],
-     "gloss": "hamlet"
+     "gloss": "small hamlet"
     },
     {
      "surface": "பசிப்பின்",
@@ -188,9 +182,9 @@
        "gloss": "hunger"
       },
       {
-       "text": "ப்பு",
-       "lemma": "ப்பு",
-       "gloss": "noun derivative"
+       "text": "பு",
+       "lemma": "பு",
+       "gloss": "noun suffix"
       },
       {
        "text": "இன்",
@@ -198,33 +192,27 @@
        "gloss": "if"
       }
      ],
-     "gloss": "if hungry"
+     "gloss": "in times of hunger"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கடும்",
+     "surface": "கடுங்கண்",
      "parts": [
       {
        "text": "கடும்",
-       "lemma": "கடுமை",
+       "lemma": "கடும்",
        "gloss": "fierce"
-      }
-     ],
-     "gloss": "fierce"
-    },
-    {
-     "surface": "கண்",
-     "parts": [
+      },
       {
        "text": "கண்",
        "lemma": "கண்",
        "gloss": "eye"
       }
      ],
-     "gloss": "eye"
+     "gloss": "fierce-eyed"
     },
     {
      "surface": "வேழத்து",
@@ -264,9 +252,14 @@
      "surface": "உண்ணும்",
      "parts": [
       {
-       "text": "உண்ணும்",
+       "text": "உண்",
        "lemma": "உண்",
-       "gloss": "eating"
+       "gloss": "eat"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
      "gloss": "eating"
@@ -276,26 +269,20 @@
   {
    "words": [
     {
-     "surface": "வல்",
+     "surface": "வல்வில்",
      "parts": [
       {
        "text": "வல்",
        "lemma": "வல்",
        "gloss": "strong"
-      }
-     ],
-     "gloss": "strong"
-    },
-    {
-     "surface": "வில்",
-     "parts": [
+      },
       {
        "text": "வில்",
        "lemma": "வில்",
        "gloss": "bow"
       }
      ],
-     "gloss": "bow"
+     "gloss": "strong bow"
     },
     {
      "surface": "ஓரி",
@@ -303,10 +290,10 @@
       {
        "text": "ஓரி",
        "lemma": "ஓரி",
-       "gloss": "chieftain Ori"
+       "gloss": "Ōri"
       }
      ],
-     "gloss": "chieftain Ori"
+     "gloss": "Ōri"
     },
     {
      "surface": "கொல்லி",
@@ -320,26 +307,20 @@
      "gloss": "Kolli hills"
     },
     {
-     "surface": "குட",
+     "surface": "குடவரை",
      "parts": [
       {
        "text": "குட",
        "lemma": "குட",
        "gloss": "western"
-      }
-     ],
-     "gloss": "western"
-    },
-    {
-     "surface": "வரை",
-     "parts": [
+      },
       {
        "text": "வரை",
        "lemma": "வரை",
        "gloss": "mountain"
       }
      ],
-     "gloss": "mountain slope"
+     "gloss": "western mountain"
     }
    ]
   },
@@ -367,10 +348,10 @@
       {
        "text": "மடவந்தனளே",
        "lemma": "மடவந்தனளே",
-       "gloss": "she is of gentle innocence indeed"
+       "gloss": "she possesses innocence indeed"
       }
      ],
-     "gloss": "she is of gentle innocence indeed",
+     "gloss": "she possesses innocence indeed",
      "split_unverified": true
     }
    ]
@@ -378,61 +359,78 @@
   {
    "words": [
     {
-     "surface": "மணத்தற்",
+     "surface": "மணத்தற்கு",
      "parts": [
       {
-       "text": "மணத்தற்",
-       "lemma": "மணத்தற்",
-       "gloss": ""
+       "text": "மணத்தல்",
+       "lemma": "மணத்தல்",
+       "gloss": "embracing"
+      },
+      {
+       "text": "கு",
+       "lemma": "கு",
+       "gloss": "to"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to embrace"
     },
     {
-     "surface": "கரிய",
+     "surface": "அரிய",
      "parts": [
       {
-       "text": "கரிய",
-       "lemma": "கரிய",
-       "gloss": ""
+       "text": "அரிய",
+       "lemma": "அரிய",
+       "gloss": "difficult"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "difficult"
     },
     {
-     "surface": "பணைப்பெருந்",
+     "surface": "பணை",
      "parts": [
       {
-       "text": "பணைப்பெருந்",
-       "lemma": "பணைப்பெருந்",
-       "gloss": ""
+       "text": "பணை",
+       "lemma": "பணை",
+       "gloss": "bamboo-like"
       }
      ],
-     "gloss": "",
+     "gloss": "bamboo-like"
+    },
+    {
+     "surface": "பெருந்",
+     "parts": [
+      {
+       "text": "பெருந்",
+       "lemma": "பெருந்",
+       "gloss": "large"
+      }
+     ],
+     "gloss": "large",
      "split_unverified": true
     },
     {
      "surface": "தோளே",
      "parts": [
       {
-       "text": "தோளே",
-       "lemma": "தோளே",
-       "gloss": ""
+       "text": "தோள்",
+       "lemma": "தோள்",
+       "gloss": "shoulders"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "shoulders indeed"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "Sowing mountain rice in the expanse of waterfalls, / weeding green bowstring hemp along with large-leaved wild jasmine, / in the small settlement with a fence of Malabar glory lilies, if hungry, / they eat by bartering the tusks of fierce-eyed elephants. / On the western slopes of Kolli hills belonging to Ori of the strong bow, / like the statue there, she is of gentle innocence, / she who has bamboo-like large shoulders that are difficult to embrace.",
- "translation": "In the small hamlet fenced with glory lilies, where mountain rice is sown in the expanse of waterfalls, and green bowstring hemp is weeded along with large-leaved wild jasmine, the people, when hungry, survive by bartering the tusks of fierce-eyed elephants. She, who has large, bamboo-like shoulders so difficult to embrace, is as gentle and innocent as the statue on the western slopes of the Kolli hills belonging to Ori of the strong bow.",
- "modern": "அருவிப் பரப்பில் மலைநெல்லை விதைத்து, பெரிய இலைகளையுடைய காட்டு மல்லிகையோடு பசுமையான மரல் செடிகளையும் களையும், காந்தள் மலர்களை வேலியாகக் கொண்ட சிறுகுடியில் வாழ்பவர்கள், பசி எடுத்தால், சினங்கொண்ட கண்ணையுடைய யானையின் தந்தங்களை விற்று உண்பார்கள். வலிய வில்லையுடைய ஓரி என்பவனுக்குரிய கொல்லி மலையின் மேற்குச் சரிவில் உள்ள பாவை போன்ற மென்மையான இயல்புடையவள் அவள்; தழுவுவதற்கு அரிய மூங்கில் போன்ற பெரிய தோள்களை உடையவள் அவள்.",
- "explanation": "This poem is spoken by the hero to himself, expressing his deep desire and the difficulty of attaining the heroine. He describes her mountain home in the Kuriñji landscape, where the inhabitants sow mountain rice and weed wild jasmine. When hungry, they do not suffer in poverty but barter precious elephant tusks for food, showing the wealth and pride of her clan. He compares the heroine's beauty and innocence to the famous, exquisite statue (Kolli Pāvai) on the western slopes of the Kolli hills ruled by the generous chieftain Valvil Ōri. The difficult terrain and the preciousness of the tusks mirror the difficulty of attaining the heroine, whose bamboo-like shoulders are described as hard to embrace.",
+ "literal": "Sowing mountain rice in the expanse of waterfalls, / weeding green bowstring hemp along with thick-leaved wild jasmine, / in the small hamlet with gloriosa lily fences, if hungry, / they survive by bartering the tusks of fierce-eyed elephants. / Like the statue on the western slopes of Kolli hills of Ōri of the strong bow, / she indeed possesses innocence, / she of the bamboo-like large shoulders that are difficult to embrace.",
+ "translation": "In the small hamlet fenced with gloriosa lilies, they sow mountain rice in the expanse of waterfalls, and weed out green bowstring hemp along with thick-leaved wild jasmine. In times of hunger, they survive by bartering the tusks of fierce-eyed elephants. She, who has bamboo-like large shoulders so difficult to embrace, is as innocent and beautiful as the statue on the western slopes of the Kolli hills belonging to Ōri of the strong bow.",
+ "modern": "அருவிகள் பாயும் பரப்பில் மலைநெல்லை விதைத்து, பருத்த இலைகளையுடைய காட்டு மல்லிகையோடு பசிய மரல் செடிகளையும் களையும், காந்தள் மலர்களை வேலியாகக் கொண்ட சிறுகுடியில் வாழ்பவர்கள், பசி ஏற்படும்போது சினங்கொண்ட கண்ணையுடைய யானையின் தந்தங்களை விற்று உண்பர். அத்தகைய மலைநாட்டை ஆண்ட வல்வில் ஓரியின் கொல்லி மலையின் மேற்குப் பக்கத்தில் உள்ள பாவை போன்ற மென்மையும் அழகும் உடையவள், தழுவுவதற்கு அரிய மூங்கில் போன்ற பெரிய தோள்களைக் கொண்ட என் தலைவி.",
+ "explanation": "The hero speaks of his longing for the heroine, describing her mountain home and her exquisite beauty. Her hamlet is in the Kuriñci region, where people sow mountain rice near waterfalls, weed wild jasmine and bowstring hemp, and barter elephant tusks for food during times of hunger. This shows the rugged, wealthy, yet challenging mountain life. He compares the heroine to the famous, exquisitely carved, or divine statue (Kollib-pāvai) on the western slopes of the Kolli hills, ruled by the generous chieftain Valvil Ōri. Her bamboo-like shoulders are incredibly beautiful but hard to embrace, reflecting both her high status and his intense longing.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -8,10 +8,10 @@
       {
        "text": "தீநீர்ப்",
        "lemma": "தீநீர்ப்",
-       "gloss": ""
+       "gloss": "of sweet water"
       }
      ],
-     "gloss": "",
+     "gloss": "of sweet water",
      "split_unverified": true
     },
     {
@@ -20,10 +20,10 @@
       {
        "text": "பெருங்",
        "lemma": "பெருங்",
-       "gloss": ""
+       "gloss": "great"
       }
      ],
-     "gloss": "",
+     "gloss": "great",
      "split_unverified": true
     },
     {
@@ -31,12 +31,11 @@
      "parts": [
       {
        "text": "குண்டு",
-       "lemma": "குண்டு",
-       "gloss": ""
+       "lemma": "kuṇṭu",
+       "gloss": "deep"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "deep"
     },
     {
      "surface": "சுனைப்",
@@ -44,10 +43,10 @@
       {
        "text": "சுனைப்",
        "lemma": "சுனைப்",
-       "gloss": ""
+       "gloss": "mountain pool"
       }
      ],
-     "gloss": "",
+     "gloss": "mountain pool",
      "split_unverified": true
     },
     {
@@ -55,12 +54,11 @@
      "parts": [
       {
        "text": "பூத்த",
-       "lemma": "பூத்த",
-       "gloss": ""
+       "lemma": "pū",
+       "gloss": "blossomed"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "blossomed"
     },
     {
      "surface": "குவளைக்",
@@ -68,131 +66,113 @@
       {
        "text": "குவளைக்",
        "lemma": "குவளைக்",
-       "gloss": ""
+       "gloss": "blue water-lily"
       }
      ],
-     "gloss": "",
+     "gloss": "blue water-lily",
      "split_unverified": true
-    }
-   ],
-   "as_printed": true
-  },
-  {
-   "words": [
-    {
-     "surface": "கூம்பு",
-     "parts": [
-      {
-       "text": "கூம்பு",
-       "lemma": "கூம்பு",
-       "gloss": "bud"
-      }
-     ],
-     "gloss": "bud"
-    },
-    {
-     "surface": "அவிழ்",
-     "parts": [
-      {
-       "text": "அவிழ்",
-       "lemma": "அவிழ்",
-       "gloss": "open"
-      }
-     ],
-     "gloss": "opened"
-    },
-    {
-     "surface": "முழு",
-     "parts": [
-      {
-       "text": "முழு",
-       "lemma": "முழு",
-       "gloss": "full"
-      }
-     ],
-     "gloss": "full"
-    },
-    {
-     "surface": "நெறி",
-     "parts": [
-      {
-       "text": "நெறி",
-       "lemma": "நெறி",
-       "gloss": "curl/fold"
-      }
-     ],
-     "gloss": "curls/folds"
-    },
-    {
-     "surface": "புரள்வரும்",
-     "parts": [
-      {
-       "text": "புரள்",
-       "lemma": "புரள்",
-       "gloss": "roll"
-      },
-      {
-       "text": "வரும்",
-       "lemma": "வரு",
-       "gloss": "coming"
-      }
-     ],
-     "gloss": "rolling down"
-    },
-    {
-     "surface": "அல்குல்",
-     "parts": [
-      {
-       "text": "அல்குல்",
-       "lemma": "அல்குல்",
-       "gloss": "waist/loins"
-      }
-     ],
-     "gloss": "waist"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "ஏந்து",
+     "surface": "கூம்பவிழ்",
+     "parts": [
+      {
+       "text": "கூம்பு",
+       "lemma": "kūmpu",
+       "gloss": "bud"
+      },
+      {
+       "text": "அவிழ்",
+       "lemma": "aviḻ",
+       "gloss": "open"
+      }
+     ],
+     "gloss": "opening buds"
+    },
+    {
+     "surface": "முழுநெறி",
+     "parts": [
+      {
+       "text": "முழு",
+       "lemma": "muḻu",
+       "gloss": "full"
+      },
+      {
+       "text": "நெறி",
+       "lemma": "neṟi",
+       "gloss": "petal/wreath"
+      }
+     ],
+     "gloss": "full-petalled wreaths"
+    },
+    {
+     "surface": "புரள்வரும்",
+     "parts": [
+      {
+       "text": "புரள்",
+       "lemma": "puraḷ",
+       "gloss": "roll"
+      },
+      {
+       "text": "வரும்",
+       "lemma": "varum",
+       "gloss": "coming"
+      }
+     ],
+     "gloss": "rolling/swaying"
+    },
+    {
+     "surface": "அல்குல்",
+     "parts": [
+      {
+       "text": "அல்குல்",
+       "lemma": "alkul",
+       "gloss": "loins/waist"
+      }
+     ],
+     "gloss": "loins"
+    }
+   ]
+  },
+  {
+   "words": [
+    {
+     "surface": "ஏந்தெழில்",
      "parts": [
       {
        "text": "ஏந்து",
-       "lemma": "ஏந்து",
-       "gloss": "eminent"
-      }
-     ],
-     "gloss": "eminent"
-    },
-    {
-     "surface": "எழில்",
-     "parts": [
+       "lemma": "ēntu",
+       "gloss": "prominent"
+      },
       {
        "text": "எழில்",
-       "lemma": "எழில்",
+       "lemma": "eḻil",
        "gloss": "beauty"
       }
      ],
-     "gloss": "beauty"
+     "gloss": "prominent beauty"
     },
     {
-     "surface": "மழை",
+     "surface": "மழைக்",
      "parts": [
       {
-       "text": "மழை",
-       "lemma": "மழை",
-       "gloss": "cool/rain"
+       "text": "மழைக்",
+       "lemma": "மழைக்",
+       "gloss": "cool rain-like"
       }
      ],
-     "gloss": "cool"
+     "gloss": "cool rain-like",
+     "split_unverified": true
     },
     {
      "surface": "கண்",
      "parts": [
       {
        "text": "கண்",
-       "lemma": "கண்",
+       "lemma": "kaṇ",
        "gloss": "eye"
       }
      ],
@@ -203,7 +183,7 @@
      "parts": [
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "iṉ",
        "gloss": "sweet"
       }
      ],
@@ -214,7 +194,7 @@
      "parts": [
       {
        "text": "நகை",
-       "lemma": "நகை",
+       "lemma": "nakai",
        "gloss": "smile"
       }
      ],
@@ -225,7 +205,7 @@
      "parts": [
       {
        "text": "மகளிர்",
-       "lemma": "மகளிர்",
+       "lemma": "makaḷir",
        "gloss": "women"
       }
      ],
@@ -240,24 +220,22 @@
      "parts": [
       {
        "text": "புன்",
-       "lemma": "புன்",
-       "gloss": ""
+       "lemma": "puṉ",
+       "gloss": "lowly/sparse"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "lowly"
     },
     {
      "surface": "மூசு",
      "parts": [
       {
        "text": "மூசு",
-       "lemma": "மூசு",
-       "gloss": ""
+       "lemma": "mūcu",
+       "gloss": "swarming/covered"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "covered"
     },
     {
      "surface": "கவலைய",
@@ -265,10 +243,10 @@
       {
        "text": "கவலைய",
        "lemma": "கவலைய",
-       "gloss": ""
+       "gloss": "forked paths"
       }
      ],
-     "gloss": "",
+     "gloss": "forked paths",
      "split_unverified": true
     },
     {
@@ -276,24 +254,22 @@
      "parts": [
       {
        "text": "முள்",
-       "lemma": "முள்",
-       "gloss": ""
+       "lemma": "muḷ",
+       "gloss": "thorn"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thorny"
     },
     {
      "surface": "முடை",
      "parts": [
       {
        "text": "முடை",
-       "lemma": "முடை",
-       "gloss": ""
+       "lemma": "muṭai",
+       "gloss": "woven"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "woven"
     },
     {
      "surface": "வேலிப்",
@@ -301,14 +277,13 @@
       {
        "text": "வேலிப்",
        "lemma": "வேலிப்",
-       "gloss": ""
+       "gloss": "fence"
       }
      ],
-     "gloss": "",
+     "gloss": "fence",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -317,7 +292,7 @@
      "parts": [
       {
        "text": "பஞ்சி",
-       "lemma": "பஞ்சி",
+       "lemma": "pañci",
        "gloss": "cotton"
       }
      ],
@@ -328,7 +303,7 @@
      "parts": [
       {
        "text": "முன்றில்",
-       "lemma": "முன்றில்",
+       "lemma": "muṉṟil",
        "gloss": "front yard"
       }
      ],
@@ -350,17 +325,12 @@
      "surface": "ஆங்கண்",
      "parts": [
       {
-       "text": "ஆங்கு",
-       "lemma": "ஆங்கு",
+       "text": "ஆங்கண்",
+       "lemma": "āṅkaṇ",
        "gloss": "there"
-      },
-      {
-       "text": "அண்",
-       "lemma": "அண்",
-       "gloss": "place"
       }
      ],
-     "gloss": "there"
+     "gloss": "in that place"
     }
    ]
   },
@@ -371,7 +341,7 @@
      "parts": [
       {
        "text": "பீரை",
-       "lemma": "பீரை",
+       "lemma": "pīrai",
        "gloss": "sponge gourd"
       }
      ],
@@ -381,24 +351,19 @@
      "surface": "நாறிய",
      "parts": [
       {
-       "text": "நாறு",
-       "lemma": "நாறு",
-       "gloss": "smell/bloom"
-      },
-      {
-       "text": "இய",
-       "lemma": "இய",
-       "gloss": "adjectival suffix"
+       "text": "நாறிய",
+       "lemma": "nāṟu",
+       "gloss": "sprouted"
       }
      ],
-     "gloss": "bloomed/smelling"
+     "gloss": "sprouted"
     },
     {
      "surface": "சுரை",
      "parts": [
       {
        "text": "சுரை",
-       "lemma": "சுரை",
+       "lemma": "curai",
        "gloss": "bottle gourd"
       }
      ],
@@ -409,7 +374,7 @@
      "parts": [
       {
        "text": "இவர்",
-       "lemma": "இவர்",
+       "lemma": "ivar",
        "gloss": "climb/spread"
       }
      ],
@@ -420,12 +385,12 @@
      "parts": [
       {
        "text": "மருங்கு",
-       "lemma": "மருங்கு",
+       "lemma": "maruṅku",
        "gloss": "side"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "iṉ",
        "gloss": "locative suffix"
       }
      ],
@@ -436,26 +401,16 @@
   {
    "words": [
     {
-     "surface": "ஈத்து",
+     "surface": "ஈத்திலைக்",
      "parts": [
       {
-       "text": "ஈத்து",
-       "lemma": "ஈத்து",
-       "gloss": "date palm"
+       "text": "ஈத்திலைக்",
+       "lemma": "ஈத்திலைக்",
+       "gloss": "wild date-palm leaves"
       }
      ],
-     "gloss": "date palm"
-    },
-    {
-     "surface": "இலை",
-     "parts": [
-      {
-       "text": "இலை",
-       "lemma": "இலை",
-       "gloss": "leaf"
-      }
-     ],
-     "gloss": "leaf"
+     "gloss": "wild date-palm leaves",
+     "split_unverified": true
     },
     {
      "surface": "குப்பை",
@@ -466,25 +421,26 @@
        "gloss": "heap"
       }
      ],
-     "gloss": "heap"
+     "gloss": "heap",
+     "split_unverified": true
     },
     {
      "surface": "ஏறி",
      "parts": [
       {
        "text": "ஏறி",
-       "lemma": "ஏறு",
-       "gloss": "climb"
+       "lemma": "ēṟi",
+       "gloss": "having climbed"
       }
      ],
-     "gloss": "climbing"
+     "gloss": "having climbed"
     },
     {
      "surface": "உமணர்",
      "parts": [
       {
        "text": "உமணர்",
-       "lemma": "உமணர்",
+       "lemma": "umaṇar",
        "gloss": "salt merchants"
       }
      ],
@@ -499,7 +455,7 @@
      "parts": [
       {
        "text": "உப்பு",
-       "lemma": "உப்பு",
+       "lemma": "uppu",
        "gloss": "salt"
       }
      ],
@@ -510,7 +466,7 @@
      "parts": [
       {
        "text": "ஓய்",
-       "lemma": "ஓய்",
+       "lemma": "ōy",
        "gloss": "weary/resting"
       }
      ],
@@ -521,23 +477,23 @@
      "parts": [
       {
        "text": "ஒழுகை",
-       "lemma": "ஒழுகை",
-       "gloss": "caravan"
+       "lemma": "oḻukai",
+       "gloss": "cart caravan"
       }
      ],
-     "gloss": "caravan"
+     "gloss": "cart caravan"
     },
     {
      "surface": "எண்ணுப",
      "parts": [
       {
        "text": "எண்ணு",
-       "lemma": "எண்ணு",
+       "lemma": "eṇṇu",
        "gloss": "count"
       },
       {
        "text": "ப",
-       "lemma": "ப",
+       "lemma": "pa",
        "gloss": "they (suffix)"
       }
      ],
@@ -548,11 +504,11 @@
      "parts": [
       {
        "text": "மாதோ",
-       "lemma": "மாதோ",
-       "gloss": "particle of emphasis"
+       "lemma": "mātō",
+       "gloss": "particle of sorrow/emphasis"
       }
      ],
-     "gloss": "indeed"
+     "gloss": "alas!"
     }
    ]
   },
@@ -563,13 +519,13 @@
      "parts": [
       {
        "text": "நோ",
-       "lemma": "நோ",
-       "gloss": "grieve"
+       "lemma": "nō",
+       "gloss": "ache/grieve"
       },
       {
        "text": "கோ",
-       "lemma": "கோ",
-       "gloss": "first person suffix"
+       "lemma": "kō",
+       "gloss": "first person singular suffix"
       }
      ],
      "gloss": "I grieve"
@@ -579,54 +535,43 @@
      "parts": [
       {
        "text": "யான்",
-       "lemma": "யான்",
+       "lemma": "yāṉ",
        "gloss": "I"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "indeed"
       }
      ],
      "gloss": "I indeed"
     },
     {
-     "surface": "தேய்க",
+     "surface": "தேய்கமா",
      "parts": [
       {
-       "text": "தேய்",
-       "lemma": "தேய்",
-       "gloss": "fade/diminish"
+       "text": "தேய்க",
+       "lemma": "tēyka",
+       "gloss": "let waste away"
       },
       {
-       "text": "க",
-       "lemma": "க",
-       "gloss": "optative suffix"
-      }
-     ],
-     "gloss": "may it fade"
-    },
-    {
-     "surface": "மா",
-     "parts": [
-      {
        "text": "மா",
-       "lemma": "மா",
-       "gloss": "expletive particle"
+       "lemma": "mā",
+       "gloss": "particle"
       }
      ],
-     "gloss": "particle"
+     "gloss": "let it waste away"
     },
     {
      "surface": "காலை",
      "parts": [
       {
        "text": "காலை",
-       "lemma": "காலை",
+       "lemma": "kālai",
        "gloss": "morning/time"
       }
      ],
-     "gloss": "morning"
+     "gloss": "my mornings"
     }
    ]
   },
@@ -637,151 +582,128 @@
      "parts": [
       {
        "text": "பயில்",
-       "lemma": "பயில்",
-       "gloss": "dense/frequented"
+       "lemma": "payil",
+       "gloss": "dense/frequent"
       }
      ],
-     "gloss": "frequented"
+     "gloss": "dense"
     },
     {
-     "surface": "இரும்",
+     "surface": "இருஞ்",
      "parts": [
       {
-       "text": "இரும்",
-       "lemma": "இரும்",
-       "gloss": "dark/large"
+       "text": "இருஞ்",
+       "lemma": "இருஞ்",
+       "gloss": "dark"
       }
      ],
-     "gloss": "dark"
+     "gloss": "dark",
+     "split_unverified": true
     },
     {
-     "surface": "சிலம்பு",
+     "surface": "சிலம்பிற்",
      "parts": [
       {
-       "text": "சிலம்பு",
-       "lemma": "சிலம்பு",
-       "gloss": "mountain slope"
+       "text": "சிலம்பிற்",
+       "lemma": "சிலம்பிற்",
+       "gloss": "on the mountain slope"
       }
      ],
-     "gloss": "mountain slope"
-    },
-    {
-     "surface": "இன்",
-     "parts": [
-      {
-       "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "oblique/locative suffix"
-      }
-     ],
-     "gloss": "on"
+     "gloss": "on the mountain slope",
+     "split_unverified": true
     },
     {
      "surface": "கலை",
      "parts": [
       {
        "text": "கலை",
-       "lemma": "கலை",
-       "gloss": "buck/male monkey"
+       "lemma": "kalai",
+       "gloss": "male monkey"
       }
      ],
-     "gloss": "buck"
+     "gloss": "male monkey"
     },
     {
      "surface": "பாய்ந்து",
      "parts": [
       {
-       "text": "பாய்",
-       "lemma": "பாய்",
-       "gloss": "leap"
-      },
-      {
-       "text": "ந்து",
-       "lemma": "ந்து",
-       "gloss": "past participle suffix"
+       "text": "பாய்ந்து",
+       "lemma": "pāyntu",
+       "gloss": "having leaped"
       }
      ],
-     "gloss": "leaping"
+     "gloss": "having leaped"
     },
     {
      "surface": "உகளவும்",
      "parts": [
       {
-       "text": "உகளவும்",
-       "lemma": "உகளவும்",
-       "gloss": "and playing"
+       "text": "உகள",
+       "lemma": "ukaḷa",
+       "gloss": "to frolic"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "and playing",
-     "split_unverified": true
+     "gloss": "and frolicking"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கலையும்",
+     "surface": "கலையுங்",
      "parts": [
       {
-       "text": "கலை",
-       "lemma": "கலை",
-       "gloss": "buck"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "கலையுங்",
+       "lemma": "கலையுங்",
+       "gloss": "even the male monkeys"
       }
      ],
-     "gloss": "even the bucks"
+     "gloss": "even the male monkeys",
+     "split_unverified": true
     },
     {
      "surface": "கொள்ளா",
      "parts": [
       {
-       "text": "கொள்",
-       "lemma": "கொள்",
-       "gloss": "hold/contain"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "negative suffix"
+       "text": "கொள்ளா",
+       "lemma": "koḷ",
+       "gloss": "not containing/consuming"
       }
      ],
-     "gloss": "not containing"
+     "gloss": "cannot consume"
     },
     {
-     "surface": "ஆக",
+     "surface": "வாகப்",
      "parts": [
       {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "become"
-      },
-      {
-       "text": "க",
-       "lemma": "க",
-       "gloss": "infinitive suffix"
+       "text": "வாகப்",
+       "lemma": "வாகப்",
+       "gloss": "so as to be"
       }
      ],
-     "gloss": "to be"
+     "gloss": "so as to be",
+     "split_unverified": true
     },
     {
      "surface": "பலவும்",
      "parts": [
       {
        "text": "பல",
-       "lemma": "பல",
+       "lemma": "pala",
        "gloss": "many"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
+       "lemma": "um",
+       "gloss": "also"
       }
      ],
-     "gloss": "many"
+     "gloss": "many also"
     }
    ]
   },
@@ -792,7 +714,7 @@
      "parts": [
       {
        "text": "காலம்",
-       "lemma": "காலம்",
+       "lemma": "kālam",
        "gloss": "season/time"
       }
      ],
@@ -803,23 +725,23 @@
      "parts": [
       {
        "text": "அன்றி",
-       "lemma": "அன்றி",
-       "gloss": "besides/not being"
+       "lemma": "aṉṟi",
+       "gloss": "besides/not"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "even"
       }
      ],
-     "gloss": "even when not"
+     "gloss": "even out of"
     },
     {
      "surface": "மரம்",
      "parts": [
       {
        "text": "மரம்",
-       "lemma": "மரம்",
+       "lemma": "maram",
        "gloss": "tree"
       }
      ],
@@ -830,27 +752,22 @@
      "parts": [
       {
        "text": "பயம்",
-       "lemma": "பயம்",
+       "lemma": "payam",
        "gloss": "yield/fruit"
       }
      ],
-     "gloss": "yield"
+     "gloss": "fruit"
     },
     {
      "surface": "பகரும்",
      "parts": [
       {
-       "text": "பகர்",
-       "lemma": "பகர்",
-       "gloss": "give/offer"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "habitual suffix"
+       "text": "பகரும்",
+       "lemma": "pakar",
+       "gloss": "offering/giving"
       }
      ],
-     "gloss": "offer"
+     "gloss": "offering"
     }
    ]
   },
@@ -861,65 +778,55 @@
      "parts": [
       {
        "text": "யாணர்",
-       "lemma": "யாணர்",
-       "gloss": "new wealth/fertility"
+       "lemma": "yāṇar",
+       "gloss": "fresh wealth"
       }
      ],
-     "gloss": "fertility"
+     "gloss": "fresh wealth"
     },
     {
      "surface": "அறாஅ",
      "parts": [
       {
-       "text": "அறு",
-       "lemma": "அறு",
-       "gloss": "cease"
-      },
-      {
-       "text": "ஆஅ",
-       "lemma": "ஆஅ",
-       "gloss": "negative participle (stretched)"
+       "text": "அறாஅ",
+       "lemma": "அறாஅ",
+       "gloss": "unceasing"
       }
      ],
-     "gloss": "unceasing"
+     "gloss": "unceasing",
+     "split_unverified": true
     },
     {
-     "surface": "வியன்",
+     "surface": "வியன்மலை",
      "parts": [
       {
        "text": "வியன்",
-       "lemma": "வியன்",
-       "gloss": "wide"
-      }
-     ],
-     "gloss": "wide"
-    },
-    {
-     "surface": "மலை",
-     "parts": [
+       "lemma": "viyaṉ",
+       "gloss": "vast"
+      },
       {
        "text": "மலை",
-       "lemma": "மலை",
+       "lemma": "malai",
        "gloss": "mountain"
       }
      ],
-     "gloss": "mountain"
+     "gloss": "vast mountain"
     },
     {
      "surface": "அற்றே",
      "parts": [
       {
        "text": "அற்று",
-       "lemma": "அற்று",
+       "lemma": "aṟṟu",
        "gloss": "like that"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "like that indeed"
+     "gloss": "was like that indeed"
     }
    ]
   },
@@ -930,55 +837,50 @@
      "parts": [
       {
        "text": "அண்ணல்",
-       "lemma": "அண்ணல்",
-       "gloss": "lordly/great"
+       "lemma": "aṇṇal",
+       "gloss": "lordly/majestic"
       }
      ],
      "gloss": "lordly"
     },
     {
-     "surface": "நெடு",
+     "surface": "நெடுவரை",
      "parts": [
       {
        "text": "நெடு",
-       "lemma": "நெடு",
+       "lemma": "neṭu",
        "gloss": "tall"
-      }
-     ],
-     "gloss": "tall"
-    },
-    {
-     "surface": "வரை",
-     "parts": [
+      },
       {
        "text": "வரை",
-       "lemma": "வரை",
-       "gloss": "mountain"
+       "lemma": "varai",
+       "gloss": "mountain peak"
       }
      ],
-     "gloss": "mountain"
+     "gloss": "tall mountain peak"
     },
     {
-     "surface": "ஏறி",
+     "surface": "ஏறித்",
      "parts": [
       {
-       "text": "ஏறி",
-       "lemma": "ஏறு",
-       "gloss": "climb"
+       "text": "ஏறித்",
+       "lemma": "ஏறித்",
+       "gloss": "having climbed"
       }
      ],
-     "gloss": "climbing"
+     "gloss": "having climbed",
+     "split_unverified": true
     },
     {
      "surface": "தந்தை",
      "parts": [
       {
        "text": "தந்தை",
-       "lemma": "தந்தை",
+       "lemma": "tantai",
        "gloss": "father"
       }
      ],
-     "gloss": "father"
+     "gloss": "of the father"
     }
    ]
   },
@@ -989,7 +891,7 @@
      "parts": [
       {
        "text": "பெரிய",
-       "lemma": "பெரிய",
+       "lemma": "periya",
        "gloss": "abundant/great"
       }
      ],
@@ -1000,54 +902,55 @@
      "parts": [
       {
        "text": "நறவு",
-       "lemma": "நறவு",
-       "gloss": "liquor/honey"
+       "lemma": "naṟavu",
+       "gloss": "toddy/honey"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "genitive suffix"
+       "lemma": "iṉ",
+       "gloss": "of"
       }
      ],
-     "gloss": "of liquor"
+     "gloss": "of toddy"
     },
     {
      "surface": "கூர்",
      "parts": [
       {
        "text": "கூர்",
-       "lemma": "கூர்",
+       "lemma": "kūr",
        "gloss": "sharp"
       }
      ],
      "gloss": "sharp"
     },
     {
-     "surface": "வேல்",
+     "surface": "வேற்",
      "parts": [
       {
-       "text": "வேல்",
-       "lemma": "வேல்",
-       "gloss": "spear"
+       "text": "வேற்",
+       "lemma": "வேற்",
+       "gloss": "speared"
       }
      ],
-     "gloss": "spear"
+     "gloss": "speared",
+     "split_unverified": true
     },
     {
      "surface": "பாரியது",
      "parts": [
       {
        "text": "பாரி",
-       "lemma": "பாரி",
+       "lemma": "pāri",
        "gloss": "Pāri"
       },
       {
        "text": "அது",
-       "lemma": "அது",
-       "gloss": "genitive suffix"
+       "lemma": "atu",
+       "gloss": "of"
       }
      ],
-     "gloss": "Pāri's"
+     "gloss": "of Pāri"
     }
    ]
   },
@@ -1058,24 +961,19 @@
      "parts": [
       {
        "text": "அருமை",
-       "lemma": "அருமை",
-       "gloss": "greatness/difficulty"
+       "lemma": "arumai",
+       "gloss": "difficulty/greatness"
       }
      ],
-     "gloss": "greatness"
+     "gloss": "difficulty"
     },
     {
      "surface": "அறியார்",
      "parts": [
       {
-       "text": "அறி",
-       "lemma": "அறி",
-       "gloss": "know"
-      },
-      {
-       "text": "ஆர்",
-       "lemma": "ஆர்",
-       "gloss": "negative personal suffix"
+       "text": "அறியார்",
+       "lemma": "aṟiyār",
+       "gloss": "not knowing (they)"
       }
      ],
      "gloss": "not knowing"
@@ -1085,35 +983,33 @@
      "parts": [
       {
        "text": "போர்",
-       "lemma": "போர்",
-       "gloss": "war"
+       "lemma": "pōr",
+       "gloss": "battle/war"
       }
      ],
-     "gloss": "war"
+     "gloss": "battle"
     },
     {
      "surface": "எதிர்ந்து",
      "parts": [
       {
        "text": "எதிர்ந்து",
-       "lemma": "எதிர்ந்து",
-       "gloss": "opposing"
+       "lemma": "etiṟntu",
+       "gloss": "having confronted"
       }
      ],
-     "gloss": "opposing",
-     "split_unverified": true
+     "gloss": "having confronted"
     },
     {
      "surface": "வந்த",
      "parts": [
       {
        "text": "வந்த",
-       "lemma": "வந்த",
+       "lemma": "vanta",
        "gloss": "who came"
       }
      ],
-     "gloss": "who came",
-     "split_unverified": true
+     "gloss": "who came"
     }
    ]
   },
@@ -1124,40 +1020,34 @@
      "parts": [
       {
        "text": "வலம்",
-       "lemma": "வலம்",
-       "gloss": "victory"
+       "lemma": "valam",
+       "gloss": "victory/strength"
       }
      ],
-     "gloss": "victory"
+     "gloss": "victorious"
     },
     {
-     "surface": "படு",
+     "surface": "படுதானை",
      "parts": [
       {
        "text": "படு",
-       "lemma": "படு",
-       "gloss": "possessing/occurring"
-      }
-     ],
-     "gloss": "possessing"
-    },
-    {
-     "surface": "தானை",
-     "parts": [
+       "lemma": "paṭu",
+       "gloss": "possessing"
+      },
       {
        "text": "தானை",
-       "lemma": "தானை",
+       "lemma": "tāṉai",
        "gloss": "army"
       }
      ],
-     "gloss": "army"
+     "gloss": "possessing army"
     },
     {
      "surface": "வேந்தர்",
      "parts": [
       {
        "text": "வேந்தர்",
-       "lemma": "வேந்தர்",
+       "lemma": "vēntar",
        "gloss": "kings"
       }
      ],
@@ -1172,73 +1062,74 @@
      "parts": [
       {
        "text": "பொலம்",
-       "lemma": "பொலம்",
+       "lemma": "polam",
        "gloss": "gold"
       }
      ],
      "gloss": "gold"
     },
     {
-     "surface": "படை",
+     "surface": "படைக்",
      "parts": [
       {
-       "text": "படை",
-       "lemma": "படை",
-       "gloss": "harness/ornaments"
+       "text": "படைக்",
+       "lemma": "படைக்",
+       "gloss": "ornamented"
       }
      ],
-     "gloss": "harnessed"
+     "gloss": "ornamented",
+     "split_unverified": true
     },
     {
-     "surface": "கலி",
+     "surface": "கலிமா",
      "parts": [
       {
        "text": "கலி",
-       "lemma": "கலி",
-       "gloss": "spirited"
-      }
-     ],
-     "gloss": "spirited"
-    },
-    {
-     "surface": "மா",
-     "parts": [
+       "lemma": "kali",
+       "gloss": "proud/spirited"
+      },
       {
        "text": "மா",
-       "lemma": "மா",
+       "lemma": "mā",
        "gloss": "horse"
       }
      ],
-     "gloss": "horses"
+     "gloss": "proud horses"
     },
     {
-     "surface": "எண்ணுவோரே",
+     "surface": "எண்ணு",
      "parts": [
       {
        "text": "எண்ணு",
-       "lemma": "எண்ணு",
+       "lemma": "eṇṇu",
        "gloss": "count"
-      },
+      }
+     ],
+     "gloss": "counting"
+    },
+    {
+     "surface": "வோரே",
+     "parts": [
       {
        "text": "வோர்",
-       "lemma": "வோர்",
+       "lemma": "vōr",
        "gloss": "those who"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "are those who count"
+     "gloss": "those who indeed"
     }
    ]
   }
  ],
- "literal": "Sweet water's deep pool blossomed water-lily's / bud-opened full-petaled rolling-down waist / eminent beauty cool eyes sweet smile women / dry grass swarming forked-paths thorny woven fence / cotton front-yard small house there / sponge-gourd smelling bottle-gourd climbing side / date-palm leaf heap climbing salt-merchants / salt carrying caravan count indeed / I grieve indeed! May it fade, the morning! / frequented dark mountain-slope buck leaping and playing / even the bucks not containing, many / season even when not, trees yield offer / new wealth unceasing wide mountain like that / lordly tall mountain climbing, father / abundant liquor sharp spear Pāri's / greatness not knowing, war opposing came / victory-possessing army kings / golden-harnessed spirited horses count.",
- "translation": "In the small houses with cotton-strewn front yards, surrounded by woven thorny fences along dry, swarming, forked paths where sponge-gourd and bottle-gourd climb, women with sweet smiles, cool eyes of eminent beauty, and waists where full-petaled, open-budded water-lilies from deep, sweet-water pools roll down, now climb the heaps of date-palm leaves to count the salt-merchants' caravans. I grieve indeed! May the morning hours fade! Once, we climbed the lordly tall mountain with our father, the sharp-speared Pāri of abundant liquor, whose wide mountain was unceasing in its rich fertility, where trees yielded fruit out of season, and where bucks leaped and played on the frequented dark slopes—so many that even the slopes could not hold them. Those kings of victorious armies who came opposing him in war, not knowing his greatness, are now those who count their golden-harnessed, spirited horses.",
- "modern": "இனிய நீரையுடைய ஆழமான சுனையில் மலர்ந்த குவளை மலரின் இதழ்கள் புரளும் அல்குலையும், குளிர்ந்த கண்களையும், இனிய புன்னகையையும் உடைய மகளிர், பருத்தி உலரும் முற்றத்தைக் கொண்ட சிறிய குடிலில், பீர்க்கும் சுரையும் படர்ந்த பக்கத்தே, ஈச்ச இலையாலான குப்பையின் மேல் ஏறி, உமணர் ஓட்டிச் செல்லும் உப்பு வண்டிகளை எண்ணுகின்றனர். ஐயோ, நான் வருந்துகிறேன்! விடியற்காலம் அழியட்டும்! அடர்ந்த கரிய மலையடுக்கில் ஆண் மான்கள் துள்ளி விளையாட, மரங்கள் காலம் அல்லாத காலத்திலும் கனிகளைத் தரும் வளம் குறையாத பரம்பு மலையில், எம் தந்தை பாரியோடு உயர்ந்த மலையில் ஏறி நின்றோம். அவனது அருமையை அறியாமல் போரிட வந்த வெற்றி பொருந்திய சேனைகளையுடைய வேந்தர்கள், அன்று அவனது மலையை முற்றுகையிட்டுத் தங்கள் குதிரைகளை எண்ணிக் கொண்டிருந்தனர்.",
- "explanation": "This poem is a poignant 'kaiyaṟunilai' (lament on death) composed by the poet Kapilar after the tragic death of the generous patron Vēḷ Pāri. It contrasts the glorious past of Pāri's daughters on the fertile Parampu mountain with their current impoverished state. Once, they climbed the high peaks with their father, looking down upon a mountain so rich that trees bore fruit out of season and wild bucks roamed in abundance, while enemy kings could only stand below and count their horses in a futile siege. Now, living in a humble hut with a thorny fence, they climb heaps of dry date-palm leaves just to pass the time by counting passing salt-merchants' carts. The imagery of the water-lily rolling on their waists highlights their noble beauty, now juxtaposed against their desolate, impoverished surroundings. Key words include 'பாரியது' (Pāri's), 'தந்தை' (father), 'நோகோ' (I grieve), and 'எண்ணுப' (they count).",
+ "literal": "Sweet water's great deep mountain pool blossomed blue water-lily's / opening buds' full-petalled wreaths rolling on the loins / of prominent beauty, cool rain-like eyes, and sweet smiles, women / in the lowly covered forked paths, thorny woven fenced / cotton front yard small houses there / sponge gourd sprouted bottle gourd climbing on the side / wild date-palm leaves' heap having climbed, salt merchants / salt weary cart caravan count, alas! / I grieve, I indeed! Let waste away my mornings! / On the dense dark mountain slope male monkeys having leaped and frolicking / even the male monkeys cannot consume so as to be, many also / even out of season trees fruit offering / fresh wealth unceasing vast mountain was like that indeed! / The lordly tall mountain peak having climbed, of the father / of abundant toddy and sharp speared Pāri / difficulty not knowing, battle having confronted who came / victorious possessing army kings / gold ornamented proud horses counting indeed!",
+ "translation": "The women with sweet smiles, cool rain-like eyes, and prominent beauty once wore full wreaths of opening blue water-lilies that bloomed in the deep, sweet-water mountain pools, rolling over their loins. Now, in small houses with cotton-drying front yards, fenced with thorny bushes along dusty, overgrown paths where sponge-gourds and bottle-gourds climb, salt-merchants climb onto heaps of wild-date leaves and count their weary salt-laden carts. Alas, I grieve! Let my mornings fade away! Once, on the dense, dark slopes of this vast mountain, male monkeys leaped and frolicked, and even when they could not consume it all, many trees yielded fruit out of season, offering unceasing fresh wealth. Such was the mountain of Pāri, who possessed abundant toddy and sharp spears. The kings with victorious armies who came to wage war, not knowing how difficult it was to conquer, once climbed his father's majestic tall peaks and proudly counted their gold-ornamented horses. Now, it is reduced to a place where salt-merchants count their carts.",
+ "modern": "இனிமையான நீர் கொண்ட பெரிய ஆழமான சுனைகளில் மலர்ந்த குவளை மலர்களின் இதழ்கள் அவிழ்ந்த மாலைகள் புரளும் அல்குலை உடைய, சிறந்த அழகும், குளிர்ச்சியான கண்களும், இனிய புன்னகையும் கொண்ட மகளிர் வாழ்ந்த இடம் அது. இப்போது, புழுதி நிறைந்த கவர்த்த வழிகளில், முள் வேலி அடைத்த, பருத்தி காயப்போடும் முற்றத்தைக் கொண்ட சிறிய வீடுகளின் அருகே, பீர்க்கங்கொடியும் சுரைக்கொடியும் படர்ந்திருக்கும் பகுதியில், ஈச்ச இலைகளின் குவியலின் மேல் ஏறி நின்று உமணர்கள் தங்களது உப்பு பாரம் ஏற்றிய வண்டிகளை எண்ணுகிறார்கள். ஐயோ, நான் வருந்துகிறேன்! என் வாழ்நாளின் காலைப் பொழுதுகள் அழிந்துபோகட்டும்! அடர்ந்த கரிய மலைச்சரிவுகளில் ஆண் குரங்குகள் பாய்ந்து விளையாடவும், அக்குரங்குகளாலும் தின்று தீர்க்க முடியாத அளவுக்குப் பல மரங்களும் காலம் அல்லாத காலத்திலும் பழங்களைத் தந்து, புதிய வளம் நீங்காத பரந்த மலையாக அது விளங்கியது. அத்தகைய சிறப்பு வாய்ந்த, தந்தை வழி வந்த உயர்ந்த மலை உச்சிக்கு ஏறி, மிகுந்த கள்ளையும் கூர்மையான வேலையும் உடைய பாரியின் அருமையை அறியாமல், அவனோடு போர் செய்ய வந்த வெற்றி பொருந்திய சேனைகளைக் கொண்ட மூவேந்தர்கள், பொன்னால் அலங்கரிக்கப்பட்ட தங்களது குதிரைகளை அன்று பெருமையோடு எண்ணிப் பார்த்தார்கள். இன்று அங்கே உமணர்கள் வண்டிகளை எண்ணுகிறார்கள்.",
+ "explanation": "This poem is a poignant lament (kaiyaṟunilai) by the poet Kapilar on the tragic fall of his beloved patron, King Vēḷ Pāri, and the desolation of his famous Parampu hill. Kapilar contrasts the glorious past of the mountain with its current ruined state after Pāri's death. In the past, the mountain was so fertile that trees yielded fruit out of season, and the kings of the three great Tamil dynasties who came to besiege it could only stand on the high peaks and count their vast cavalry, unable to conquer it. Now, the mountain is deserted, and instead of proud kings counting their gold-ornamented warhorses, poor salt-merchants climb on heaps of wild-date leaves to count their weary salt carts. The beautiful women who once wore fresh water-lilies from deep mountain pools are gone, replaced by desolate huts overgrown with wild gourds. This stark contrast between the past glory of Pāri's court and the present emptiness beautifully captures the deep grief of the poet.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

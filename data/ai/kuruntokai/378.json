@@ -17,51 +17,39 @@
      "surface": "காயாது",
      "parts": [
       {
-       "text": "காய்",
+       "text": "காயாது",
        "lemma": "காய்",
-       "gloss": "burn"
-      },
-      {
-       "text": "ஆது",
-       "lemma": "ஆது",
-       "gloss": "without"
+       "gloss": "without scorching"
       }
      ],
-     "gloss": "without burning"
+     "gloss": "without scorching"
     },
     {
-     "surface": "மரம்",
+     "surface": "மரநிழல்",
      "parts": [
       {
        "text": "மரம்",
        "lemma": "மரம்",
        "gloss": "tree"
-      }
-     ],
-     "gloss": "tree"
-    },
-    {
-     "surface": "நிழல்",
-     "parts": [
+      },
       {
        "text": "நிழல்",
        "lemma": "நிழல்",
        "gloss": "shade"
       }
      ],
-     "gloss": "shade"
+     "gloss": "tree shade"
     },
     {
      "surface": "பட்டு",
      "parts": [
       {
        "text": "பட்டு",
-       "lemma": "பட்டு",
-       "gloss": "having spread"
+       "lemma": "படு",
+       "gloss": "having fallen"
       }
      ],
-     "gloss": "having spread",
-     "split_unverified": true
+     "gloss": "having fallen"
     }
    ]
   },
@@ -179,12 +167,12 @@
       {
        "text": "சுடர்",
        "lemma": "சுடர்",
-       "gloss": "glow"
+       "gloss": "glow / brightness"
       },
       {
        "text": "வாய்",
        "lemma": "வாய்",
-       "gloss": "edge"
+       "gloss": "edge / tip"
       }
      ],
      "gloss": "bright-edged"
@@ -231,15 +219,15 @@
       {
        "text": "மடம்",
        "lemma": "மடம்",
-       "gloss": "innocence"
+       "gloss": "innocence / gentleness"
       },
       {
        "text": "மா",
        "lemma": "மா",
-       "gloss": "deer"
+       "gloss": "animal / beauty"
       }
      ],
-     "gloss": "innocent like a deer"
+     "gloss": "innocent and beautiful"
     },
     {
      "surface": "அரிவை",
@@ -256,14 +244,9 @@
      "surface": "போகிய",
      "parts": [
       {
-       "text": "போகு",
-       "lemma": "போகு",
-       "gloss": "go"
-      },
-      {
-       "text": "இய",
-       "lemma": "இய",
-       "gloss": "past adjectival participle suffix"
+       "text": "போகிய",
+       "lemma": "போ",
+       "gloss": "who went"
       }
      ],
      "gloss": "who went"
@@ -273,7 +256,7 @@
      "parts": [
       {
        "text": "சுரன்",
-       "lemma": "சுரம்",
+       "lemma": "சுரன்",
        "gloss": "desert path"
       }
      ],
@@ -293,10 +276,10 @@
    ]
   }
  ],
- "literal": "The sun not burning, tree shade falling, / at the foot of the mountain narrow path sand abundantly spreading, / cool rain pouring down, having abandoned us, / with the bright-edged long-speared youth, / the innocent-as-a-deer young woman went, that desert path!",
- "translation": "May the sun not burn, may the shade of trees fall, may sand be spread abundantly on the narrow path at the foot of the hills, and may cool rain pour down upon that desert path, where, leaving us behind, our young woman, innocent as a deer, has gone with the youth who holds a bright-edged, long spear!",
- "modern": "எங்களை விட்டு நீங்கி, ஒளிரும் முனையையுடைய நீண்ட வேலை ஏந்திய காளையோடு, மடப்பம் பொருந்திய மான் போன்ற இளம்பெண் சென்ற அந்தப் பாலைவன வழியில், ஞாயிறு காயாமல் மரங்களின் நிழல் படரட்டும்; மலை அடிவாரத்துச் சிறுவழியில் மணல் மிகுதியாகப் பரவட்டும்; குளிர்ந்த மழை பொழியட்டும்.",
- "explanation": "This poem is spoken by the foster-mother who is filled with grief and concern after her daughter eloped with her lover into the harsh desert path. Instead of expressing anger, her deep maternal love manifests as a series of protective wishes for the couple's journey. She prays that the fierce sun of the desert does not scorch them, that trees offer cool shade, that soft sand covers the rough mountain paths, and that refreshing rain showers down upon them. The imagery of the harsh desert path being softened by nature reflects her hope that the hardships of their new life will be eased. Key words include 'சுரன்' (desert path), 'காயாது' (without burning), and 'மடமா அரிவை' (innocent young woman).",
+ "literal": "The sun not scorching, falling in the shade of trees, / on the narrow path at the foot of the mountain, sand being abundantly spread, / may cool rain shower, having abandoned us, / with the youth of the bright-edged long spear, / the innocent young woman went into the desert path.",
+ "translation": "May the sun not scorch but fall gently through the shade of trees, may soft sand lie thick on the narrow path at the foot of the mountain, and may cool rain shower upon that desert path where my innocent young daughter, having abandoned us, has gone with her youth who carries a bright-edged long spear.",
+ "modern": "சூரியன் சுட்டெரிக்காமல் மரங்களின் நிழல் பட்டு, மலையடிவாரத்துச் சிறுவழியில் மணல் மிகுதியாகப் பரவி, குளிர்ந்த மழை பொழியட்டும்! எங்களை விட்டு நீங்கி, ஒளிரும் முனையையுடைய நீண்ட வேலை ஏந்திய காளையோடு, மடப்பமும் அழகும் கொண்ட என் மகள் சென்ற அந்தப் பாலைவனப் பாதையில்!",
+ "explanation": "The foster-mother (cevili) is speaking to herself, expressing her deep concern and love for her daughter who has eloped with her lover. She describes the harsh desert path (pālai) through which they are traveling. Instead of cursing the desert, her maternal love makes her pray that the sun does not scorch them, that tree shades protect them, that soft sand covers the narrow mountain paths, and that cool rain showers upon them. The imagery of the harsh desert path being transformed into a pleasant, shaded, and rain-cooled path reflects the mother's tender heart and her wish for her daughter's well-being despite the pain of abandonment. Key words include 'ñāyiṟu kāyātu' (sun not scorching), 'taṇmaḻai' (cool rain), and 'maṭamā arivai' (innocent young woman).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

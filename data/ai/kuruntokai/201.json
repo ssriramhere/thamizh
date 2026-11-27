@@ -7,7 +7,7 @@
      "parts": [
       {
        "text": "அமிழ்தம்",
-       "lemma": "அமிழ்தம்",
+       "lemma": "amiḻtam",
        "gloss": "nectar"
       }
      ],
@@ -18,13 +18,13 @@
      "parts": [
       {
        "text": "உண்",
-       "lemma": "உண்",
+       "lemma": "uṇ",
        "gloss": "eat"
       },
       {
        "text": "க",
-       "lemma": "க",
-       "gloss": "may"
+       "lemma": "-ka",
+       "gloss": "optative suffix"
       }
      ],
      "gloss": "may she eat"
@@ -34,7 +34,7 @@
      "parts": [
       {
        "text": "நம்",
-       "lemma": "நம்",
+       "lemma": "nam",
        "gloss": "our"
       }
      ],
@@ -45,23 +45,23 @@
      "parts": [
       {
        "text": "அயல்",
-       "lemma": "அயல்",
-       "gloss": "neighbourhood"
+       "lemma": "ayal",
+       "gloss": "neighboring"
       },
       {
        "text": "இல்",
-       "lemma": "இல்",
-       "gloss": "in"
+       "lemma": "-il",
+       "gloss": "locative suffix"
       }
      ],
-     "gloss": "in the neighbourhood"
+     "gloss": "in the neighborhood"
     },
     {
      "surface": "ஆட்டி",
      "parts": [
       {
        "text": "ஆட்டி",
-       "lemma": "ஆட்டி",
+       "lemma": "āṭṭi",
        "gloss": "woman"
       }
      ],
@@ -72,108 +72,137 @@
   {
    "words": [
     {
-     "surface": "பால்கலப்",
+     "surface": "பால்",
      "parts": [
       {
-       "text": "பால்கலப்",
-       "lemma": "பால்கலப்",
-       "gloss": ""
+       "text": "பால்",
+       "lemma": "pāl",
+       "gloss": "milk"
       }
      ],
-     "gloss": "",
+     "gloss": "milk"
+    },
+    {
+     "surface": "கலப்பு",
+     "parts": [
+      {
+       "text": "கலப்பு",
+       "lemma": "kalappu",
+       "gloss": "mixture"
+      }
+     ],
+     "gloss": "mixture"
+    },
+    {
+     "surface": "அன்ன",
+     "parts": [
+      {
+       "text": "அன்ன",
+       "lemma": "anna",
+       "gloss": "like"
+      }
+     ],
+     "gloss": "like"
+    },
+    {
+     "surface": "தேக்கொக்கு",
+     "parts": [
+      {
+       "text": "தேக்கொக்கு",
+       "lemma": "தேக்கொக்கு",
+       "gloss": "sweet mango fruit"
+      }
+     ],
+     "gloss": "sweet mango fruit",
      "split_unverified": true
     },
     {
-     "surface": "பன்ன",
+     "surface": "அருந்துபு",
      "parts": [
       {
-       "text": "பன்ன",
-       "lemma": "பன்ன",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "தேக்கொக்",
-     "parts": [
+       "text": "அருந்து",
+       "lemma": "aruntu",
+       "gloss": "eat"
+      },
       {
-       "text": "தேக்கொக்",
-       "lemma": "தேக்கொக்",
-       "gloss": ""
+       "text": "பு",
+       "lemma": "-pu",
+       "gloss": "verbal participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "கருந்துபு",
-     "parts": [
-      {
-       "text": "கருந்துபு",
-       "lemma": "கருந்துபு",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having eaten"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "நீல",
+     "surface": "நீலம்",
      "parts": [
       {
-       "text": "நீல",
-       "lemma": "நீல",
-       "gloss": ""
+       "text": "நீலம்",
+       "lemma": "nīlam",
+       "gloss": "blue"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "blue"
     },
     {
-     "surface": "மென்சிறை",
+     "surface": "மென்",
      "parts": [
       {
-       "text": "மென்சிறை",
-       "lemma": "மென்சிறை",
-       "gloss": ""
+       "text": "மென்",
+       "lemma": "meṉ",
+       "gloss": "soft"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "soft"
     },
     {
-     "surface": "வள்ளுகிர்ப்",
+     "surface": "சிறை",
      "parts": [
       {
-       "text": "வள்ளுகிர்ப்",
-       "lemma": "வள்ளுகிர்ப்",
-       "gloss": ""
+       "text": "சிறை",
+       "lemma": "ciṟai",
+       "gloss": "wing"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "wing"
+    },
+    {
+     "surface": "வள்",
+     "parts": [
+      {
+       "text": "வள்",
+       "lemma": "vaḷ",
+       "gloss": "sharp"
+      }
+     ],
+     "gloss": "sharp"
+    },
+    {
+     "surface": "உகிர்",
+     "parts": [
+      {
+       "text": "உகிர்",
+       "lemma": "ukir",
+       "gloss": "claw"
+      }
+     ],
+     "gloss": "claw"
     },
     {
      "surface": "பறவை",
      "parts": [
       {
        "text": "பறவை",
-       "lemma": "பறவை",
-       "gloss": ""
+       "lemma": "paṟavai",
+       "gloss": "bird"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "bird"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -182,120 +211,142 @@
      "parts": [
       {
        "text": "நெல்லி",
-       "lemma": "நெல்லி",
-       "gloss": "amla"
+       "lemma": "nelli",
+       "gloss": "gooseberry"
       }
      ],
-     "gloss": "amla fruit"
+     "gloss": "gooseberry"
     },
     {
      "surface": "அம்",
      "parts": [
       {
        "text": "அம்",
-       "lemma": "அம்",
-       "gloss": "euphonic increment"
+       "lemma": "am",
+       "gloss": "beautiful"
       }
      ],
-     "gloss": "euphonic increment"
+     "gloss": "beautiful"
     },
     {
      "surface": "புளி",
      "parts": [
       {
        "text": "புளி",
-       "lemma": "புளி",
-       "gloss": "sourness"
+       "lemma": "puḷi",
+       "gloss": "sour fruit"
       }
      ],
-     "gloss": "sourness"
+     "gloss": "sour fruit"
     },
     {
      "surface": "மாந்தி",
      "parts": [
       {
        "text": "மாந்து",
-       "lemma": "மாந்து",
-       "gloss": "eat greedily"
+       "lemma": "māntu",
+       "gloss": "gorge"
       },
       {
        "text": "இ",
-       "lemma": "இ",
-       "gloss": "having"
+       "lemma": "-i",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "having eaten"
+     "gloss": "having gorged on"
     },
     {
      "surface": "அயலது",
      "parts": [
       {
        "text": "அயல்",
-       "lemma": "அயல்",
-       "gloss": "neighbourhood"
+       "lemma": "ayal",
+       "gloss": "neighborhood"
       },
       {
        "text": "அது",
-       "lemma": "அது",
-       "gloss": "that of"
+       "lemma": "-atu",
+       "gloss": "pronominal suffix"
       }
      ],
-     "gloss": "that of nearby"
+     "gloss": "of the nearby place"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "முள்ளி",
+     "surface": "முள்",
      "parts": [
       {
-       "text": "முள்ளி",
-       "lemma": "முள்ளி",
-       "gloss": ""
+       "text": "முள்",
+       "lemma": "muḷ",
+       "gloss": "thorn"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thorn"
     },
     {
-     "surface": "லம்பணை",
+     "surface": "இல்",
      "parts": [
       {
-       "text": "லம்பணை",
-       "lemma": "லம்பணை",
-       "gloss": ""
+       "text": "இல்",
+       "lemma": "il",
+       "gloss": "without"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "without"
     },
     {
-     "surface": "மூங்கிற்",
+     "surface": "அம்",
      "parts": [
       {
-       "text": "மூங்கிற்",
-       "lemma": "மூங்கிற்",
-       "gloss": ""
+       "text": "அம்",
+       "lemma": "am",
+       "gloss": "beautiful"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "beautiful"
     },
     {
-     "surface": "றூங்கும்",
+     "surface": "பணை",
      "parts": [
       {
-       "text": "றூங்கும்",
-       "lemma": "றூங்கும்",
-       "gloss": ""
+       "text": "பணை",
+       "lemma": "paṇai",
+       "gloss": "thick branch"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thick branch"
+    },
+    {
+     "surface": "மூங்கில்",
+     "parts": [
+      {
+       "text": "மூங்கில்",
+       "lemma": "mūṅkil",
+       "gloss": "bamboo"
+      }
+     ],
+     "gloss": "bamboo"
+    },
+    {
+     "surface": "தூங்கும்",
+     "parts": [
+      {
+       "text": "தூங்கு",
+       "lemma": "tūṅku",
+       "gloss": "sleep"
+      },
+      {
+       "text": "உம்",
+       "lemma": "-um",
+       "gloss": "adjectival participle suffix"
+      }
+     ],
+     "gloss": "sleeping"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -304,7 +355,7 @@
      "parts": [
       {
        "text": "கழை",
-       "lemma": "கழை",
+       "lemma": "kaḻai",
        "gloss": "bamboo"
       }
      ],
@@ -319,30 +370,31 @@
        "gloss": "having risen high"
       }
      ],
-     "gloss": "having risen high"
+     "gloss": "having risen high",
+     "split_unverified": true
     },
     {
      "surface": "ஓங்கிய",
      "parts": [
       {
        "text": "ஓங்கு",
-       "lemma": "ஓங்கு",
-       "gloss": "grow tall"
+       "lemma": "ōṅku",
+       "gloss": "rise high"
       },
       {
        "text": "இய",
-       "lemma": "இய",
-       "gloss": "that which"
+       "lemma": "-iya",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "that has grown tall"
+     "gloss": "which rose high"
     },
     {
      "surface": "சோலை",
      "parts": [
       {
        "text": "சோலை",
-       "lemma": "சோலை",
+       "lemma": "cōlai",
        "gloss": "grove"
       }
      ],
@@ -357,7 +409,7 @@
      "parts": [
       {
        "text": "மலை",
-       "lemma": "மலை",
+       "lemma": "malai",
        "gloss": "mountain"
       }
      ],
@@ -368,89 +420,77 @@
      "parts": [
       {
        "text": "கெழு",
-       "lemma": "கெழு",
-       "gloss": "having"
+       "lemma": "keḻu",
+       "gloss": "possessing"
       }
      ],
-     "gloss": "having"
+     "gloss": "possessing"
     },
     {
-     "surface": "நாடன்",
+     "surface": "நாடனை",
      "parts": [
       {
        "text": "நாடு",
-       "lemma": "நாடு",
-       "gloss": "land"
+       "lemma": "nāṭu",
+       "gloss": "country"
       },
       {
        "text": "அன்",
-       "lemma": "அன்",
-       "gloss": "he of"
-      }
-     ],
-     "gloss": "lord of the land"
-    },
-    {
-     "surface": "ஐ",
-     "parts": [
+       "lemma": "-aṉ",
+       "gloss": "masculine singular suffix"
+      },
       {
        "text": "ஐ",
-       "lemma": "ஐ",
-       "gloss": "accusative marker"
+       "lemma": "-ai",
+       "gloss": "accusative case marker"
       }
      ],
-     "gloss": "accusative marker"
+     "gloss": "the lord of the country"
     },
     {
      "surface": "வரும்",
      "parts": [
       {
        "text": "வரு",
-       "lemma": "வரு",
+       "lemma": "varu",
        "gloss": "come"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "will"
+       "lemma": "-um",
+       "gloss": "future suffix"
       }
      ],
      "gloss": "will come"
     },
     {
-     "surface": "என்று",
+     "surface": "என்றாளே",
      "parts": [
       {
-       "text": "என்று",
-       "lemma": "என்று",
-       "gloss": "saying"
-      }
-     ],
-     "gloss": "saying"
-    },
-    {
-     "surface": "ஆளே",
-     "parts": [
+       "text": "என்",
+       "lemma": "eṉ",
+       "gloss": "say"
+      },
       {
-       "text": "ஆள்",
-       "lemma": "ஆள்",
-       "gloss": "she"
+       "text": "றாள்",
+       "lemma": "-ṟāḷ",
+       "gloss": "she (past tense)"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "indeed"
+       "lemma": "-ē",
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "she indeed"
+     "gloss": "she said"
     }
    ]
   }
  ],
- "literal": "May she eat nectar, our neighbourhood woman, / having consumed the sweet mango buds resembling milk mixture, / the bird with blue soft wings and sharp claws, / having eaten the sour amla fruit, nearby / sleeps on the thick branch with thorny leaves of the bamboo, / in the grove where bamboos rise high and tall, / she said that the lord of the mountain-possessing land will come.",
- "translation": "May our neighbour woman eat nectar! She is the one who told me, 'The lord of the mountainous land will come.' In his land, a bird with soft blue wings and sharp claws feeds on sweet mango buds that look like a mixture of milk, eats the sour amla fruits nearby, and then sleeps on the thick, thorny-leaved branches of the tall bamboos rising high in the mountain grove.",
- "modern": "நம் பக்கத்து வீட்டுப் பெண் அமிழ்தத்தை உண்ணட்டும்! ஏனெனில், 'மலைகள் நிறைந்த நாட்டின் தலைவன் வருவான்' என்று அவள் கூறினாள். அவனுடைய நாட்டில், பால் கலவை போன்ற இனிமையான மாம்பூக்களை உண்டு, நீல நிற மென்மையான சிறகுகளையும் கூர்மையான நகங்களையும் உடைய பறவை, அருகில் உள்ள புளிப்பான நெல்லிக்காயையும் தின்றுவிட்டு, முட்களை உடைய இலைகளைக் கொண்ட பருத்த மூங்கில் கிளையிலே தூங்கும். அத்தகைய மூங்கில்கள் உயர்ந்து வளர்ந்த சோலைகள் நிறைந்த மலைநாட்டின் தலைவன் வருவான் என்று அவள் கூறினாள்.",
- "explanation": "This poem belongs to the Kurinci tinai, representing the mountainous landscape and the theme of union. The heroine is speaking in joy, blessing her neighbour woman who brought the happy news of the hero's arrival. She wishes that this messenger of good news may eat nectar as a reward. The description of the bird in the hero's land serves as an implied metaphor. The bird eats both sweet mango buds and sour amla fruits before resting peacefully on the bamboo branch. This suggests that the hero, after experiencing both the sweet moments of secret love and the bitter pain of separation, is now coming to settle down in a peaceful, permanent wedded life with the heroine.",
+ "literal": "May she eat nectar, our neighbor woman! / Having eaten sweet mango fruit like a mixture of milk, / the blue, soft-winged, sharp-clawed bird, / having gorged on the beautiful sour gooseberry, / sleeps on the nearby thornless, beautiful, thick bamboo branch / in the grove where bamboo rises high, / she said that the lord of the mountain country will come.",
+ "translation": "May our neighbor woman eat nectar! She said that the lord of the mountain country will come—the land where a blue, soft-winged, sharp-clawed bird eats sweet mangoes that taste like milk mixed together, then gorges on beautiful sour gooseberries, and falls asleep on a nearby thornless, beautiful, thick bamboo branch in a grove where bamboo rises high.",
+ "modern": "நம் பக்கத்து வீட்டுப் பெண் அமிழ்தத்தை உண்ணட்டும்! பாலில் கலந்தது போன்ற இனிமையான மாம்பழத்தை உண்டு, நீல நிற மென்மையான சிறகுகளையும் கூர்மையான நகங்களையும் உடைய பறவை, அழகிய புளிப்பான நெல்லிக்காயையும் தின்றுவிட்டு, அருகில் உள்ள முள்ளில்லாத அழகிய பருத்த மூங்கில் கிளையில் தூங்கும். அத்தகைய மூங்கில்கள் உயர்ந்து வளர்ந்த சோலைகள் நிறைந்த மலைநாட்டை உடைய தலைவன் வருவான் என்று அவள் கூறினாள்.",
+ "explanation": "The heroine is speaking to her close friend, expressing her immense joy and gratitude. A neighbor woman has brought the happy news that the hero is returning to marry the heroine. Overjoyed, the heroine blesses her, saying she deserves to eat nectar for delivering such wonderful news. The description of the mountain country contains an inner meaning (uḷḷurai) where the bird represents the hero. Just as the bird enjoys the sweet mangoes and the sour gooseberries before resting peacefully on the bamboo, the hero, after experiencing various pleasures, returns to find ultimate peace and domestic happiness with the heroine.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

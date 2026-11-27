@@ -3,55 +3,92 @@
   {
    "words": [
     {
-     "surface": "செப்பினஞ்",
+     "surface": "செப்பினம்",
      "parts": [
       {
-       "text": "செப்பினஞ்",
-       "lemma": "செப்பினஞ்",
-       "gloss": ""
+       "text": "செப்பு",
+       "lemma": "செப்பு",
+       "gloss": "say"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அம்",
+       "lemma": "அம்",
+       "gloss": "first-person plural suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we said"
     },
     {
      "surface": "செலினே",
      "parts": [
       {
-       "text": "செலினே",
-       "lemma": "செலினே",
-       "gloss": ""
+       "text": "செல்",
+       "lemma": "செல்",
+       "gloss": "go"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "if"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "if [he] goes indeed"
     },
     {
-     "surface": "செலவரி",
+     "surface": "செலவு",
      "parts": [
       {
-       "text": "செலவரி",
-       "lemma": "செலவரி",
-       "gloss": ""
+       "text": "செலவு",
+       "lemma": "செலவு",
+       "gloss": "journey"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "journey"
     },
     {
-     "surface": "தாகுமென்",
+     "surface": "அரிது",
      "parts": [
       {
-       "text": "தாகுமென்",
-       "lemma": "தாகுமென்",
-       "gloss": ""
+       "text": "அரிது",
+       "lemma": "அரிது",
+       "gloss": "difficult"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "difficult"
+    },
+    {
+     "surface": "ஆகும்",
+     "parts": [
+      {
+       "text": "ஆகும்",
+       "lemma": "ஆகு",
+       "gloss": "will be"
+      }
+     ],
+     "gloss": "will be"
+    },
+    {
+     "surface": "என்",
+     "parts": [
+      {
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "say"
+      }
+     ],
+     "gloss": "saying (first part)"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -147,20 +184,26 @@
      "gloss": "of the kite"
     },
     {
-     "surface": "புலம்புகொள்",
+     "surface": "புலம்பு",
      "parts": [
       {
        "text": "புலம்பு",
        "lemma": "புலம்பு",
        "gloss": "loneliness"
-      },
+      }
+     ],
+     "gloss": "loneliness"
+    },
+    {
+     "surface": "கொள்",
+     "parts": [
       {
        "text": "கொள்",
        "lemma": "கொள்",
-       "gloss": "having"
+       "gloss": "possessing"
       }
      ],
-     "gloss": "lonely"
+     "gloss": "possessing"
     },
     {
      "surface": "தெள்",
@@ -179,10 +222,10 @@
       {
        "text": "விளி",
        "lemma": "விளி",
-       "gloss": "cry"
+       "gloss": "call"
       }
      ],
-     "gloss": "cry"
+     "gloss": "call"
     }
    ]
   },
@@ -194,10 +237,10 @@
       {
        "text": "சுரம்",
        "lemma": "சுரம்",
-       "gloss": "desert"
+       "gloss": "desert path"
       }
      ],
-     "gloss": "desert"
+     "gloss": "desert path"
     },
     {
      "surface": "செல்",
@@ -227,36 +270,37 @@
      "gloss": "to the people"
     },
     {
-     "surface": "உயவுத்துணை",
+     "surface": "உயவு",
      "parts": [
       {
        "text": "உயவு",
        "lemma": "உயவு",
        "gloss": "distress"
-      },
+      }
+     ],
+     "gloss": "distress"
+    },
+    {
+     "surface": "துணை",
+     "parts": [
       {
        "text": "துணை",
        "lemma": "துணை",
        "gloss": "companion"
       }
      ],
-     "gloss": "companion in distress"
+     "gloss": "companion"
     },
     {
      "surface": "ஆகும்",
      "parts": [
       {
-       "text": "ஆகு",
+       "text": "ஆகும்",
        "lemma": "ஆகு",
-       "gloss": "become"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "will"
+       "gloss": "becomes"
       }
      ],
-     "gloss": "will be"
+     "gloss": "becomes"
     }
    ]
   },
@@ -268,10 +312,10 @@
       {
        "text": "கல்",
        "lemma": "கல்",
-       "gloss": "rock"
+       "gloss": "stone"
       }
      ],
-     "gloss": "rocky"
+     "gloss": "stony"
     },
     {
      "surface": "வரை",
@@ -295,10 +339,10 @@
       {
        "text": "அது",
        "lemma": "அது",
-       "gloss": "it"
+       "gloss": "of"
       }
      ],
-     "gloss": "adjacent"
+     "gloss": "nearby"
     },
     {
      "surface": "தொல்",
@@ -328,7 +372,7 @@
       {
        "text": "சிறு",
        "lemma": "சிறு",
-       "gloss": "small"
+       "gloss": "narrow"
       }
      ],
      "gloss": "narrow"
@@ -381,7 +425,7 @@
       {
        "text": "ப்ப",
        "lemma": "ப்ப",
-       "gloss": "to"
+       "gloss": "infinitive suffix"
       }
      ],
      "gloss": "to imprint"
@@ -392,7 +436,7 @@
       {
        "text": "தாஅய்",
        "lemma": "தாவு",
-       "gloss": "cross"
+       "gloss": "having crossed"
       }
      ],
      "gloss": "having crossed"
@@ -406,25 +450,19 @@
      "parts": [
       {
        "text": "சென்று",
-       "lemma": "சென்று",
+       "lemma": "செல்",
        "gloss": "having gone"
       }
      ],
-     "gloss": "having gone",
-     "split_unverified": true
+     "gloss": "having gone"
     },
     {
      "surface": "என",
      "parts": [
       {
-       "text": "என்",
+       "text": "என",
        "lemma": "என்",
        "gloss": "say"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitival suffix"
       }
      ],
      "gloss": "that"
@@ -434,12 +472,11 @@
      "parts": [
       {
        "text": "கேட்டனம்",
-       "lemma": "கேட்டனம்",
+       "lemma": "கேள்",
        "gloss": "we heard"
       }
      ],
-     "gloss": "we heard",
-     "split_unverified": true
+     "gloss": "we heard"
     },
     {
      "surface": "ஆர்வலர்",
@@ -447,11 +484,10 @@
       {
        "text": "ஆர்வலர்",
        "lemma": "ஆர்வலர்",
-       "gloss": "loving friends"
+       "gloss": "well-wishers"
       }
      ],
-     "gloss": "loving friends",
-     "split_unverified": true
+     "gloss": "well-wishers"
     },
     {
      "surface": "பலரே",
@@ -459,7 +495,7 @@
       {
        "text": "பலர்",
        "lemma": "பலர்",
-       "gloss": "many"
+       "gloss": "many people"
       },
       {
        "text": "ஏ",
@@ -467,15 +503,15 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "many indeed"
+     "gloss": "many people indeed"
     }
    ]
   }
  ],
- "literal": "If we speak, if he goes, journey difficult will become, thinking / on the desert road's ōmai tree's beautiful forked branch sat / flock-separated kite's lonely clear cry / desert-going people's distress companion will be / rocky mountain adjacent ancient frequented narrow path / beautiful feet to imprint, having crossed / that he went, we heard from loving friends many.",
- "translation": "Thinking, 'If we speak to stop him, and yet he goes, his journey will become difficult,' we remained silent. Now, we have heard from many loving friends that he has gone, crossing the narrow, ancient, frequented path adjacent to the rocky mountains, imprinting his beautiful feet—where the clear, lonely cry of a kite separated from its flock, perched on a beautiful forked branch of an ōmai tree on the desert road, serves as a companion in distress to those who travel through the desert.",
- "modern": "நாம் தடுத்தால் அவருடைய பயணம் கடினமாகிவிடும் என்று நினைத்து நாம் பேசாமல் இருந்தோம். பாலைவனப் பாதையில் உள்ள ஓமை மரத்தின் அழகான கிளையில் அமர்ந்திருக்கும், தன் கூட்டத்தைப் பிரிந்த பருந்தின் தனிமையான தெளிவான குரல், அந்தப் பாலைவனத்தில் செல்லும் மக்களுக்குத் துணையாக இருக்கும். கல் மலைக்கு அருகில் உள்ள, பழமையான, மக்கள் நடமாடும் அந்தச் சிறிய பாதையில், தன் அழகிய அடிகள் பதியுமாறு அவர் கடந்து சென்றார் என்று அன்புடைய பலர் சொல்லக் கேட்டோம்.",
- "explanation": "The heroine is speaking to her close friend after her lover has departed for the desert to earn wealth. She explains that she did not try to stop him because she feared that her words of protest would make his journey emotionally difficult. Now, she has received news from travelers that he has successfully crossed the initial difficult paths. The poem belongs to the pālai (desert) landscape, where the image of the lonely kite, separated from its flock, calling out from the dry ōmai tree, mirrors the heroine's own loneliness. Yet, its cry is described as a 'companion in distress' to travelers, suggesting that even in the desolate desert, there is a strange comfort in shared suffering, hinting at her hope for his safe journey.",
+ "literal": "If we said, 'If you go, the journey will be difficult,' saying so / in the desert, on the beautiful forked branch of the ōmai tree, perched / the clear call, full of loneliness, of the kite separated from its flock / becomes a comforting companion to the distressed people who travel through the desert. / Beside the rocky mountain, on the ancient, narrow path frequented by travelers, / imprinting her beautiful feet, she crossed over and / went, so we heard from many well-wishers.",
+ "translation": "If we had spoken, saying, 'If you go, the journey will be difficult,' he would have stayed. But now, we have heard from many well-wishers that she has crossed over, imprinting her beautiful feet on the ancient, narrow path frequented by travelers beside the rocky mountain, where the clear, lonely call of a kite separated from its flock, perched on the beautiful forked branch of an ōmai tree in the desert, becomes a comforting companion to the distressed travelers.",
+ "modern": "‘நீங்கள் சென்றால் பயணம் கடினமாக இருக்கும்’ என்று நாம் தடுத்திருந்தால் அவர் சென்றிருக்க மாட்டார். ஆனால், பாலைவனத்து ஓமை மரத்தின் அழகிய கிளையில் அமர்ந்திருக்கும், தன் கூட்டத்தைப் பிரிந்த பருந்தின் தனிமை நிறைந்த தெளிவான குரலானது, அங்குச் செல்லும் துயருற்ற மக்களுக்குத் துணையாக இருக்கும் என்று கூறுவர். அத்தகைய கல் மலைக்கு அருகில் உள்ள, மக்கள் பண்டுதொட்டு நடந்து பழகிய குறுகிய பாதையில், அவளுடைய மெல்லிய பாதங்கள் பதியுமாறு அவள் கடந்து சென்றுவிட்டாள் என்று அன்புடைய பலர் கூற நாம் கேட்டோம்.",
+ "explanation": "This poem is set in the pālai (desert) landscape, depicting the theme of separation. The speaker is the foster-mother of the heroine, who has eloped with her lover. She laments that if she had only spoken up and warned them of the difficulties of the journey, they might not have gone. Now, travelers and well-wishers returning from the desert path have informed her that they saw the young heroine walking on the harsh, narrow mountain path, her tender feet leaving prints on the stones. The image of the lonely kite calling from the dry ōmai tree reflects the desolate atmosphere of the desert, yet its cry serves as a strange companion to the weary travelers, mirroring the heroine's own journey through hardship with her beloved.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

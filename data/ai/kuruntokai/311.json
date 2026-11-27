@@ -7,18 +7,18 @@
      "parts": [
       {
        "text": "அலர்",
-       "lemma": "alar",
-       "gloss": "gossip"
+       "lemma": "அலர்",
+       "gloss": "rumor"
       }
      ],
-     "gloss": "gossip"
+     "gloss": "rumors"
     },
     {
      "surface": "யாங்கு",
      "parts": [
       {
        "text": "யாங்கு",
-       "lemma": "yāṅku",
+       "lemma": "யாங்கு",
        "gloss": "how"
       }
      ],
@@ -28,72 +28,77 @@
      "surface": "ஒழிவ",
      "parts": [
       {
-       "text": "ஒழி",
-       "lemma": "oḻi",
-       "gloss": "cease"
-      },
-      {
-       "text": "வ",
-       "lemma": "va",
-       "gloss": "neuter plural future suffix"
+       "text": "ஒழிவ",
+       "lemma": "ஒழி",
+       "gloss": "will cease-they"
       }
      ],
-     "gloss": "will cease"
+     "gloss": "will they cease"
     },
     {
      "surface": "தோழி",
      "parts": [
       {
        "text": "தோழி",
-       "lemma": "tōḻi",
-       "gloss": "female friend"
+       "lemma": "தோழி",
+       "gloss": "friend"
       }
      ],
-     "gloss": "friend"
+     "gloss": "O friend"
     },
     {
      "surface": "பெருங்கடல்",
      "parts": [
       {
-       "text": "பெருமை",
-       "lemma": "perumai",
-       "gloss": "greatness"
-      },
-      {
-       "text": "கடல்",
-       "lemma": "kaṭal",
-       "gloss": "ocean"
+       "text": "பெருங்கடல்",
+       "lemma": "பெருங்கடல்",
+       "gloss": "great ocean"
       }
      ],
-     "gloss": "great ocean"
+     "gloss": "great ocean",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "புலவுநா",
+     "surface": "புலவு",
      "parts": [
       {
-       "text": "புலவுநா",
-       "lemma": "புலவுநா",
-       "gloss": ""
+       "text": "புலவு",
+       "lemma": "புலவு",
+       "gloss": "fish-odor"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "fish-odor"
     },
     {
-     "surface": "றகன்றுறை",
+     "surface": "நாறு",
      "parts": [
       {
-       "text": "றகன்றுறை",
-       "lemma": "றகன்றுறை",
-       "gloss": ""
+       "text": "நாறு",
+       "lemma": "நாறு",
+       "gloss": "smelling"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "smelling"
+    },
+    {
+     "surface": "அகன்றுறை",
+     "parts": [
+      {
+       "text": "அகன்",
+       "lemma": "அகல்",
+       "gloss": "wide"
+      },
+      {
+       "text": "துறை",
+       "lemma": "துறை",
+       "gloss": "shore"
+      }
+     ],
+     "gloss": "wide shore"
     },
     {
      "surface": "வலவன்",
@@ -101,26 +106,33 @@
       {
        "text": "வலவன்",
        "lemma": "வலவன்",
-       "gloss": ""
+       "gloss": "charioteer"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "charioteer"
     },
     {
      "surface": "தாங்கவும்",
      "parts": [
       {
-       "text": "தாங்கவும்",
-       "lemma": "தாங்கவும்",
-       "gloss": ""
+       "text": "தாங்கு",
+       "lemma": "தாங்கு",
+       "gloss": "to restrain"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even though"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even though [he] restrained"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -129,12 +141,12 @@
      "parts": [
       {
        "text": "நில்",
-       "lemma": "nil",
-       "gloss": "stop"
+       "lemma": "நில்",
+       "gloss": "to stop"
       },
       {
        "text": "ஆது",
-       "lemma": "ātu",
+       "lemma": "ஆது",
        "gloss": "without"
       }
      ],
@@ -144,55 +156,41 @@
      "surface": "கழிந்த",
      "parts": [
       {
-       "text": "கழி",
-       "lemma": "kaḻi",
-       "gloss": "pass by"
-      },
-      {
-       "text": "ந்த",
-       "lemma": "nta",
-       "gloss": "past adjectival suffix"
+       "text": "கழிந்த",
+       "lemma": "கழிந்த",
+       "gloss": "that passed by"
       }
      ],
-     "gloss": "passed by"
+     "gloss": "that passed by",
+     "split_unverified": true
     },
     {
-     "surface": "கல்",
+     "surface": "கல்லென்",
      "parts": [
       {
        "text": "கல்",
-       "lemma": "kal",
-       "gloss": "sound"
-      }
-     ],
-     "gloss": "sound"
-    },
-    {
-     "surface": "என்",
-     "parts": [
+       "lemma": "கல்",
+       "gloss": "clattering sound"
+      },
       {
        "text": "என்",
-       "lemma": "eṉ",
-       "gloss": "making"
+       "lemma": "என்",
+       "gloss": "making sound"
       }
      ],
-     "gloss": "making sound"
+     "gloss": "making a clattering sound"
     },
     {
      "surface": "கடுந்தேர்",
      "parts": [
       {
-       "text": "கடுமை",
-       "lemma": "kaṭumai",
-       "gloss": "swiftness"
-      },
-      {
-       "text": "தேர்",
-       "lemma": "tēr",
-       "gloss": "chariot"
+       "text": "கடுந்தேர்",
+       "lemma": "கடுந்தேர்",
+       "gloss": "swift chariot"
       }
      ],
-     "gloss": "swift chariot"
+     "gloss": "swift chariot",
+     "split_unverified": true
     }
    ]
   },
@@ -203,7 +201,7 @@
      "parts": [
       {
        "text": "யான்",
-       "lemma": "yāṉ",
+       "lemma": "யான்",
        "gloss": "I"
       }
      ],
@@ -213,25 +211,33 @@
      "surface": "கண்டனனோ",
      "parts": [
       {
-       "text": "கண்டனனோ",
-       "lemma": "கண்டனனோ",
-       "gloss": "did I see?"
+       "text": "கண்டனன்",
+       "lemma": "காண்",
+       "gloss": "saw-I"
+      },
+      {
+       "text": "ஓ",
+       "lemma": "ஓ",
+       "gloss": "interrogative particle"
       }
      ],
-     "gloss": "did I see?",
-     "split_unverified": true
+     "gloss": "did I see?"
     },
     {
      "surface": "இலனோ",
      "parts": [
       {
-       "text": "இலனோ",
-       "lemma": "இலனோ",
-       "gloss": "or did I not?"
+       "text": "இலன்",
+       "lemma": "இல்",
+       "gloss": "did not-I"
+      },
+      {
+       "text": "ஓ",
+       "lemma": "ஓ",
+       "gloss": "interrogative particle"
       }
      ],
-     "gloss": "or did I not?",
-     "split_unverified": true
+     "gloss": "or did I not?"
     },
     {
      "surface": "பானாள்",
@@ -253,29 +259,24 @@
      "surface": "ஓங்கல்",
      "parts": [
       {
-       "text": "ஓங்கு",
-       "lemma": "ōṅku",
-       "gloss": "rise"
-      },
-      {
-       "text": "அல்",
-       "lemma": "al",
-       "gloss": "verbal noun suffix"
+       "text": "ஓங்கல்",
+       "lemma": "ஓங்கல்",
+       "gloss": "high"
       }
      ],
-     "gloss": "rising"
+     "gloss": "high"
     },
     {
      "surface": "வெண்மணல்",
      "parts": [
       {
        "text": "வெண்மை",
-       "lemma": "veṇmai",
-       "gloss": "whiteness"
+       "lemma": "வெண்மை",
+       "gloss": "white"
       },
       {
        "text": "மணல்",
-       "lemma": "maṇal",
+       "lemma": "மணல்",
        "gloss": "sand"
       }
      ],
@@ -285,29 +286,24 @@
      "surface": "தாழ்ந்த",
      "parts": [
       {
-       "text": "தாழ்",
-       "lemma": "tāḻ",
-       "gloss": "bow down"
-      },
-      {
-       "text": "ந்த",
-       "lemma": "nta",
-       "gloss": "past adjectival suffix"
+       "text": "தாழ்ந்த",
+       "lemma": "தாழ்ந்த",
+       "gloss": "low-hanging"
       }
      ],
-     "gloss": "low-hanging"
+     "gloss": "low-hanging",
+     "split_unverified": true
     },
     {
-     "surface": "புன்னைத்",
+     "surface": "புன்னை",
      "parts": [
       {
-       "text": "புன்னைத்",
-       "lemma": "புன்னைத்",
-       "gloss": "mastwood tree"
+       "text": "புன்னை",
+       "lemma": "புன்னை",
+       "gloss": "punnai tree"
       }
      ],
-     "gloss": "mastwood tree",
-     "split_unverified": true
+     "gloss": "punnai tree"
     }
    ]
   },
@@ -318,7 +314,7 @@
      "parts": [
       {
        "text": "தாது",
-       "lemma": "tātu",
+       "lemma": "தாது",
        "gloss": "pollen"
       }
      ],
@@ -329,49 +325,43 @@
      "parts": [
       {
        "text": "சேர்",
-       "lemma": "cēr",
-       "gloss": "join"
+       "lemma": "சேர்",
+       "gloss": "abounding"
       }
      ],
-     "gloss": "filled"
+     "gloss": "abounding"
     },
     {
-     "surface": "நிகர்",
+     "surface": "நிகர்மலர்",
      "parts": [
       {
        "text": "நிகர்",
-       "lemma": "nikar",
-       "gloss": "match"
-      }
-     ],
-     "gloss": "matching"
-    },
-    {
-     "surface": "மலர்",
-     "parts": [
+       "lemma": "நிகர்",
+       "gloss": "excellent"
+      },
       {
        "text": "மலர்",
-       "lemma": "malar",
+       "lemma": "மலர்",
        "gloss": "flower"
       }
      ],
-     "gloss": "flowers"
+     "gloss": "excellent flowers"
     },
     {
      "surface": "கொய்யும்",
      "parts": [
       {
        "text": "கொய்",
-       "lemma": "koy",
-       "gloss": "pluck"
+       "lemma": "கொய்",
+       "gloss": "to pluck"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "adjectival participle suffix"
+       "lemma": "உம்",
+       "gloss": "habitual relative participle suffix"
       }
      ],
-     "gloss": "gathering"
+     "gloss": "plucking"
     }
    ]
   },
@@ -382,8 +372,8 @@
      "parts": [
       {
        "text": "ஆயம்",
-       "lemma": "āyam",
-       "gloss": "group of female friends"
+       "lemma": "ஆயம்",
+       "gloss": "playmates"
       }
      ],
      "gloss": "playmates"
@@ -393,7 +383,7 @@
      "parts": [
       {
        "text": "எல்லாம்",
-       "lemma": "ellām",
+       "lemma": "எல்லாம்",
        "gloss": "all"
       }
      ],
@@ -404,7 +394,7 @@
      "parts": [
       {
        "text": "உடன்",
-       "lemma": "uṭaṉ",
+       "lemma": "உடன்",
        "gloss": "together"
       }
      ],
@@ -414,21 +404,25 @@
      "surface": "கண்டன்றே",
      "parts": [
       {
-       "text": "கண்டன்றே",
-       "lemma": "கண்டன்றே",
-       "gloss": "saw indeed"
+       "text": "கண்டன்று",
+       "lemma": "காண்",
+       "gloss": "saw"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "saw indeed",
-     "split_unverified": true
+     "gloss": "saw indeed"
     }
    ]
   }
  ],
- "literal": "How will the gossip cease, my friend? The great ocean's / fish-smelling wide shore, even though the charioteer restrained [them], / without stopping, passed by, the noisy swift chariot, / did I see [it] or did I not see [it] at midnight? / On the rising white sand, of the low-hanging punnai tree, / pollen-filled, matching flowers gathering / my playmates all together saw [it]!",
- "translation": "How will the gossip ever cease, my friend? Even though the charioteer tried to restrain them, the horses of his noisy, swift chariot did not stop but sped past the wide, fish-smelling shore of the great ocean. Did I see it or did I not, in the middle of the night? But my playmates, who were gathering the pollen-rich, bright flowers of the low-hanging punnai tree on the high white sand dunes, all saw it together!",
- "modern": "தோழியே! அலர் (வதந்தி) எவ்வாறு அடங்கும்? பெரிய கடலின் புலால் நாற்றமுடைய அகன்ற துறையில், பாகன் தடுத்து நிறுத்த முயன்றபோதிலும், நில்லாமல் விரைந்து சென்ற அந்த ஒலியெழுப்பும் கடிய தேர்ச் சக்கரங்களை நள்ளிரவில் நான் கண்டேனா இல்லையா? ஆனால், உயர்ந்த வெண்மணல் பரப்பில் தாழ்ந்த புன்னை மரத்தின் தாதுக்கள் நிறைந்த மலர்களைக் கொய்து கொண்டிருந்த என் தோழியர் கூட்டம் முழுவதும் அதனை ஒருசேரக் கண்டுவிட்டதே!",
- "explanation": "This poem is set in the neytal (coastal) landscape, where the heroine speaks to her confidante about the growing gossip in the village. The hero has been visiting her secretly at night in his swift chariot, but now his visits have become known. Even though the charioteer tried to restrain the horses, the loud chariot sped along the shore, making its presence obvious. The heroine wonders if she herself actually witnessed the chariot in the dark of the night, but she is certain that her playmates, who were gathering flowers from the low-hanging punnai trees on the sand dunes, saw it clearly. This collective sighting by her friends means the secret of their love is now out, and the resulting gossip cannot be stopped unless the hero marries her.",
+ "literal": "Rumors how will they cease, O friend! By the great ocean's / fish-smelling wide shore, even though the charioteer restrained [it], / without stopping, passed by, the clattering swift chariot, / did I see [it] or did I not, at midnight? / On the high white sand, from the low-hanging punnai tree, / pollen-filled excellent flowers plucking, / the playmates all together saw [it] indeed!",
+ "translation": "How will the rumors ever cease, my friend? Even though the charioteer tried to restrain it, his swift, clattering chariot sped past without stopping along the wide, fish-smelling shore of the great ocean. Did I see it or did I not, in the dead of night? But my playmates, who were plucking pollen-filled, beautiful flowers from the low branches of the punnai tree on the high white dunes, saw it all together!",
+ "modern": "தோழியே! பெரிய கடலின் புலால் நாற்றம் வீசும் அகன்ற துறையில், பாகன் தடுத்து நிறுத்தவும் நில்லாமல் வேகமாகச் சென்ற ஒலியெழுப்பும் கடிய தேர், நள்ளிரவில் சென்றதை நான் பார்த்தேனோ இல்லையோ? ஆனால், உயர்ந்த வெண்மையான மணல் குன்றில் தாழ்ந்த புன்னை மரத்தின் தாதுக்கள் நிறைந்த மலர்களைக் கொய்து கொண்டிருந்த என் தோழியர் கூட்டம் முழுவதும் அதனை ஒருசேரப் பார்த்துவிட்டதே! இனி இந்த அலர் எவ்வாறு அடங்கும்?",
+ "explanation": "The heroine speaks to her confidante in deep anxiety about the rumors spreading in their coastal village. Her lover had visited her secretly at midnight, but his swift chariot made a loud clattering sound as it sped along the shore. Although the charioteer tried to guide it quietly, the noise was unmistakable. The heroine wonders in confusion whether she actually witnessed his arrival in the darkness of midnight or if it was a dream. However, her playmates, who were awake plucking flowers from the low-hanging branches of the punnai tree on the sand dunes, witnessed the chariot's passage together. This public sighting has triggered widespread rumors (alar) in the village, making their secret love affair difficult to conceal and prompting the need for an early marriage.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

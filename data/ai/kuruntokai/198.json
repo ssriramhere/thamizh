@@ -109,43 +109,28 @@
   {
    "words": [
     {
-     "surface": "மட",
+     "surface": "மடப்பிடி",
      "parts": [
       {
-       "text": "மட",
-       "lemma": "மட",
-       "gloss": "gentle/tender"
+       "text": "மடப்பிடி",
+       "lemma": "மடப்பிடி",
+       "gloss": "gentle female elephant"
       }
      ],
-     "gloss": "gentle/tender",
+     "gloss": "gentle female elephant",
      "split_unverified": true
-    },
-    {
-     "surface": "பிடி",
-     "parts": [
-      {
-       "text": "பிடி",
-       "lemma": "piṭi",
-       "gloss": "female elephant"
-      }
-     ],
-     "gloss": "female elephant's"
     },
     {
      "surface": "தடக்கை",
      "parts": [
       {
-       "text": "தட",
-       "lemma": "taṭa",
-       "gloss": "large/curved"
-      },
-      {
-       "text": "கை",
-       "lemma": "kai",
-       "gloss": "hand/trunk"
+       "text": "தடக்கை",
+       "lemma": "தடக்கை",
+       "gloss": "broad trunk"
       }
      ],
-     "gloss": "large trunk"
+     "gloss": "broad trunk",
+     "split_unverified": true
     },
     {
      "surface": "அன்ன",
@@ -173,17 +158,12 @@
      "surface": "வார்பு",
      "parts": [
       {
-       "text": "வார்",
-       "lemma": "vār",
-       "gloss": "flow/pour"
-      },
-      {
-       "text": "பு",
-       "lemma": "pu",
-       "gloss": "verbal participle suffix"
+       "text": "வார்பு",
+       "lemma": "vārpu",
+       "gloss": "flowing/pouring"
       }
      ],
-     "gloss": "overflowing"
+     "gloss": "pouring"
     }
    ]
   },
@@ -248,7 +228,7 @@
       {
        "text": "படு",
        "lemma": "paṭu",
-       "gloss": "fall/alight"
+       "gloss": "falling/alighting"
       }
      ],
      "gloss": "alighting"
@@ -262,35 +242,29 @@
        "gloss": "parrot"
       }
      ],
-     "gloss": "parrots"
+     "gloss": "parrot"
     },
     {
      "surface": "கடிகம்",
      "parts": [
       {
-       "text": "கடி",
-       "lemma": "kaṭi",
-       "gloss": "shoo/drive away"
-      },
-      {
-       "text": "கம்",
-       "lemma": "kam",
-       "gloss": "subjunctive/first-person plural suffix"
+       "text": "கடிகம்",
+       "lemma": "kaṭikam",
+       "gloss": "we will drive away"
       }
      ],
-     "gloss": "we shall drive away"
+     "gloss": "we will drive away"
     },
     {
      "surface": "சேறும்",
      "parts": [
       {
        "text": "சேறும்",
-       "lemma": "சேறும்",
+       "lemma": "cel",
        "gloss": "we will go"
       }
      ],
-     "gloss": "we will go",
-     "split_unverified": true
+     "gloss": "we will go"
     },
     {
      "surface": "அடு",
@@ -298,10 +272,10 @@
       {
        "text": "அடு",
        "lemma": "aṭu",
-       "gloss": "kill/conquer"
+       "gloss": "killing/conquering"
       }
      ],
-     "gloss": "victorious"
+     "gloss": "conquering"
     },
     {
      "surface": "போர்",
@@ -372,48 +346,37 @@
   {
    "words": [
     {
-     "surface": "தார",
+     "surface": "தாரம்",
      "parts": [
       {
-       "text": "தார்",
-       "lemma": "tār",
-       "gloss": "garland"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "genitive/adjectival suffix"
+       "text": "தாரம்",
+       "lemma": "tāram",
+       "gloss": "sandalwood"
       }
      ],
-     "gloss": "garland's"
+     "gloss": "sandalwood"
     },
     {
      "surface": "நாறும்",
      "parts": [
       {
-       "text": "நாறு",
+       "text": "நாறும்",
        "lemma": "nāṟu",
-       "gloss": "smell/fragrance"
-      },
-      {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "relative participle suffix"
+       "gloss": "fragrant"
       }
      ],
-     "gloss": "smelling of"
+     "gloss": "fragrant"
     },
     {
      "surface": "மார்பினை",
      "parts": [
       {
        "text": "மார்பினை",
-       "lemma": "மார்பினை",
-       "gloss": "you who have the chest"
+       "lemma": "mārpu",
+       "gloss": "O one with the chest"
       }
      ],
-     "gloss": "you who have the chest",
-     "split_unverified": true
+     "gloss": "O one with the chest"
     }
    ]
   },
@@ -424,12 +387,11 @@
      "parts": [
       {
        "text": "வாரற்க",
-       "lemma": "வாரற்க",
+       "lemma": "varu",
        "gloss": "do not come"
       }
      ],
-     "gloss": "do not come",
-     "split_unverified": true
+     "gloss": "do not come"
     },
     {
      "surface": "தில்ல",
@@ -437,7 +399,7 @@
       {
        "text": "தில்ல",
        "lemma": "tilla",
-       "gloss": "particle of desire/emphasis"
+       "gloss": "indeed (particle of emphasis)"
       }
      ],
      "gloss": "indeed"
@@ -446,19 +408,9 @@
      "surface": "வருகுவள்",
      "parts": [
       {
-       "text": "வரு",
+       "text": "வருகுவள்",
        "lemma": "varu",
-       "gloss": "come"
-      },
-      {
-       "text": "கு",
-       "lemma": "ku",
-       "gloss": "empty morph"
-      },
-      {
-       "text": "அள்",
-       "lemma": "aḷ",
-       "gloss": "she (third person feminine singular suffix)"
+       "gloss": "she will come"
       }
      ],
      "gloss": "she will come"
@@ -467,14 +419,9 @@
      "surface": "யாயே",
      "parts": [
       {
-       "text": "யாய்",
+       "text": "யாயே",
        "lemma": "yāy",
        "gloss": "my mother"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
       }
      ],
      "gloss": "my mother"
@@ -482,10 +429,10 @@
    ]
   }
  ],
- "literal": "In the field where yā trees were cleared and burnt, / the red millet with green stems whose bases resemble sugarcane, / overflowing with milk like the large trunk of a gentle female elephant, / has bent down like a black anvil, with dense stalks and green ears of grain. / We shall go to drive away the alighting parrots. In the forest of Malaiyan, / who has a large hand shining with a spear of victorious battle, / O you with a chest smelling of garlands! / Do not come here, for my mother will come!",
- "translation": "In the forest clearing where yā trees were cut and burnt, the red millet has grown with green stems whose bases resemble sugarcane. Overflowing with milk like the large trunk of a gentle female elephant, its dense stalks of green ears have bent down like black anvils. We are going there to drive away the parrots that alight on them. O lord with a chest smelling of garlands, from the forest of Malaiyan whose large hand shines with a spear of victorious battle! Do not come here, for my mother will come.",
- "modern": "வெட்டி எரிக்கப்பட்ட யா மரங்கள் இருந்த கொல்லை நிலத்தில், கரும்பு போன்ற அடிப் பகுதியையும் பசுமையான தாளையும் உடைய செந்தினை வளர்ந்துள்ளது. மென்மையான பெண் யானையின் தும்பிக்கையைப் போலப் பால் நிறைந்து, இரும்புக் கொல்லனின் கரிக்கட்டைப் போல வளைந்த, அடர்ந்த கதிர்களைக் கொண்ட அந்தப் பசுமையான தினைப்புனத்தில் வந்து விழும் கிளிகளை ஓட்டுவதற்காக நாங்கள் அங்குச் செல்கிறோம். வெல்லும் போரில் ஏந்தும் வேல் விளங்கும் பெரிய கையை உடைய மலையனது காட்டில் உள்ள, மாலை மணம் வீசும் மார்பை உடையவனே! நீ இங்கு வரவேண்டாம்; என் தாய் அங்கு வருவாள்.",
- "explanation": "The playmate (தோழி) is speaking to the hero (தலைவன்) who has come for a secret meeting. She tells him that the millet in the field is ripe and ready for harvest, and that they are going to the field to guard it from parrots. This belongs to the Kuriñci tiṇai (mountainous landscape), and the description of the millet field—cleared by burning yā trees, with stalks resembling sugarcane and heavy ears of grain bending like elephant trunks or black anvils—vividly depicts the fertile mountain slopes. By telling him \"do not come here, my mother will come,\" she is subtly urging him to seek a formal marriage rather than continuing secret trysts, as the period of guarding the millet field is coming to an end and the heroine will soon be confined to her home. Key words include 'செந்தினை' (red millet), 'படுகிளி கடிகம்' (we shall drive away the alighting parrots), and 'வாரற்க' (do not come).",
+ "literal": "In the forest clearing where the yā trees were felled and burnt, / the red millet with green stems and bases resembling sugarcane, / like the broad trunk of a gentle female elephant, pouring milk, / with dense green ears of grain that have bent down like charred blocks of wood, / we will go to drive away the alighting parrots. In the forest of Malaiyan, / who has broad hands shining with spears of conquering battle, / O one with the chest fragrant with sandalwood! / Do not come here, for my mother will indeed come.",
+ "translation": "In the forest clearing where the yā trees were felled and burnt, the red millet has grown with green stems as thick as sugarcane. Its ears, full of milk like the broad trunk of a gentle female elephant, have bent down like charred blocks of wood. We are going there to drive away the alighting parrots. O lord of the hills, whose chest is fragrant with sandalwood from the forests of Malaiyan, the spear-wielding warrior! Do not come here to our house, for my mother will surely come to watch over us.",
+ "modern": "யா மரங்களை வெட்டிச் சுட்டுக் கரியாக்கிய காட்டின் வழியில், கரும்பைப் போன்ற அடியையுடைய பசிய தாள்களைக் கொண்ட செந்தினை வளர்ந்துள்ளது. இளைய பெண் யானையின் பெரிய துதிக்கையைப் போலப் பால் வார்ந்து, கரித்துண்டு போல வளைந்த நெருங்கிய கதிர்களைக் கொண்ட பசிய தினைப்புனத்தில் வந்து விழும் கிளிகளை ஓட்டுவதற்காக நாங்கள் செல்வோம். வெல்லும் போரில் வேல் ஏந்திய பெரிய கைகளை உடைய மலையனது காட்டிலுள்ள சந்தனம் மணக்கும் மார்பினை உடையவனே! நீ இங்கு வரவேண்டாம்; என் தாய் அங்கு வந்துவிடுவாள்.",
+ "explanation": "The playmate (தோழி) is speaking to the hero (தலைவன்) who has come for a secret meeting at the heroine's house. She tells him that the red millet in the field, cleared by burning yā trees, has grown thick and ripe, its ears bending like charred wood. The heroine and her playmate are going to the field to guard it and drive away the parrots. She warns him not to come to her house because the mother is vigilant and will be there. The description of the millet field (Kuriñci landscape) with its ripe ears resembling elephant trunks and charred wood reflects the fertile mountain region. The warning serves as a subtle hint for him to seek a formal marriage rather than continuing secret trysts.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

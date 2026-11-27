@@ -73,7 +73,7 @@
       {
        "text": "மடவரல்",
        "lemma": "மடவரல்",
-       "gloss": "gentleness/simplicity"
+       "gloss": "gentleness"
       }
      ],
      "gloss": "gentle"
@@ -84,7 +84,7 @@
       {
        "text": "உண்",
        "lemma": "உண்",
-       "gloss": "painted/collyrium-fed"
+       "gloss": "painted with collyrium"
       },
       {
        "text": "கண்",
@@ -92,7 +92,7 @@
        "gloss": "eye"
       }
      ],
-     "gloss": "painted eyes"
+     "gloss": "collyrium-painted eyes"
     },
     {
      "surface": "வாள்",
@@ -122,10 +122,10 @@
       {
        "text": "விறலி",
        "lemma": "விறலி",
-       "gloss": "female dancer/songstress"
+       "gloss": "female dancer"
       }
      ],
-     "gloss": "songstress"
+     "gloss": "female dancer"
     }
    ]
   },
@@ -136,7 +136,7 @@
      "parts": [
       {
        "text": "பொருநர்",
-       "lemma": "பொருநர்",
+       "lemma": "பொருநன்",
        "gloss": "warriors"
       },
       {
@@ -145,7 +145,7 @@
        "gloss": "also"
       }
      ],
-     "gloss": "warriors also"
+     "gloss": "warriors too"
     },
     {
      "surface": "உளரோ",
@@ -153,22 +153,22 @@
       {
        "text": "உளர்",
        "lemma": "உள்",
-       "gloss": "exist-they"
+       "gloss": "exist"
       },
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "interrogative particle"
+       "gloss": "question particle"
       }
      ],
-     "gloss": "do they exist?"
+     "gloss": "are there?"
     },
     {
      "surface": "நும்",
      "parts": [
       {
        "text": "நும்",
-       "lemma": "நும்",
+       "lemma": "நீயிர்",
        "gloss": "your"
       }
      ],
@@ -178,13 +178,17 @@
      "surface": "அகன்றலை",
      "parts": [
       {
-       "text": "அகன்றலை",
-       "lemma": "அகன்றலை",
-       "gloss": "wide-placed"
+       "text": "அகன்",
+       "lemma": "அகல்",
+       "gloss": "wide"
+      },
+      {
+       "text": "தலை",
+       "lemma": "தலை",
+       "gloss": "place"
       }
      ],
-     "gloss": "wide-placed",
-     "split_unverified": true
+     "gloss": "wide-spaced"
     },
     {
      "surface": "நாட்டு",
@@ -204,10 +208,10 @@
       {
        "text": "என",
        "lemma": "என",
-       "gloss": "saying"
+       "gloss": "thus"
       }
      ],
-     "gloss": "asking"
+     "gloss": "thus"
     }
    ]
   },
@@ -218,7 +222,7 @@
      "parts": [
       {
        "text": "வினவல்",
-       "lemma": "வினவல்",
+       "lemma": "வினவு",
        "gloss": "asking"
       }
      ],
@@ -256,7 +260,7 @@
      "parts": [
       {
        "text": "வேந்து",
-       "lemma": "வேந்து",
+       "lemma": "வேந்தன்",
        "gloss": "king"
       },
       {
@@ -309,7 +313,7 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "oblique/like"
+       "gloss": "comparative suffix"
       }
      ],
      "gloss": "like a snake"
@@ -323,33 +327,22 @@
        "gloss": "like"
       }
      ],
-     "gloss": "resembling"
+     "gloss": "similar to"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "சிறு",
+     "surface": "சிறுவன்",
      "parts": [
       {
-       "text": "சிறு",
-       "lemma": "சிறு",
-       "gloss": "young/small"
+       "text": "சிறுவன்",
+       "lemma": "சிறுவன்",
+       "gloss": "young hero"
       }
      ],
-     "gloss": "young"
-    },
-    {
-     "surface": "வன்",
-     "parts": [
-      {
-       "text": "வன்",
-       "lemma": "வன்",
-       "gloss": "strong"
-      }
-     ],
-     "gloss": "strong"
+     "gloss": "young hero"
     },
     {
      "surface": "மள்ளரும்",
@@ -365,7 +358,7 @@
        "gloss": "also"
       }
      ],
-     "gloss": "warriors also"
+     "gloss": "warriors too"
     },
     {
      "surface": "உளரே",
@@ -373,12 +366,12 @@
       {
        "text": "உளர்",
        "lemma": "உள்",
-       "gloss": "exist-they"
+       "gloss": "exist"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "emphasis particle"
       }
      ],
      "gloss": "indeed exist"
@@ -410,10 +403,10 @@
       {
        "text": "இல்",
        "lemma": "இல்",
-       "gloss": "house/place"
+       "gloss": "hall"
       }
      ],
-     "gloss": "in the public assembly hall"
+     "gloss": "in the common hall"
     },
     {
      "surface": "தூங்கும்",
@@ -432,7 +425,7 @@
       {
        "text": "விசி",
        "lemma": "விசி",
-       "gloss": "tight binding"
+       "gloss": "tightness"
       },
       {
        "text": "உறு",
@@ -474,7 +467,7 @@
       {
        "text": "பொரு",
        "lemma": "பொரு",
-       "gloss": "strike/beat"
+       "gloss": "beat"
       }
      ],
      "gloss": "striking"
@@ -485,10 +478,10 @@
       {
        "text": "தெண்கண்",
        "lemma": "தெண்கண்",
-       "gloss": "tight drumhead"
+       "gloss": "clear drumhead"
       }
      ],
-     "gloss": "tight drumhead",
+     "gloss": "clear drumhead",
      "split_unverified": true
     },
     {
@@ -502,7 +495,7 @@
       {
        "text": "பின்",
        "lemma": "பின்",
-       "gloss": "if/when"
+       "gloss": "if"
       }
      ],
      "gloss": "if heard"
@@ -528,10 +521,10 @@
       {
        "text": "போர்",
        "lemma": "போர்",
-       "gloss": "battle/war"
+       "gloss": "war"
       }
      ],
-     "gloss": "battle"
+     "gloss": "war"
     },
     {
      "surface": "என்னும்",
@@ -539,7 +532,7 @@
       {
        "text": "என்னும்",
        "lemma": "என்",
-       "gloss": "saying/called"
+       "gloss": "saying"
       }
      ],
      "gloss": "saying"
@@ -550,7 +543,7 @@
       {
        "text": "என்னை",
        "lemma": "என்னை",
-       "gloss": "my lord/leader"
+       "gloss": "my lord"
       },
       {
        "text": "உம்",
@@ -558,7 +551,7 @@
        "gloss": "also"
       }
      ],
-     "gloss": "my lord also"
+     "gloss": "my lord too"
     },
     {
      "surface": "உளனே",
@@ -566,23 +559,23 @@
       {
        "text": "உளன்",
        "lemma": "உள்",
-       "gloss": "exists-he"
+       "gloss": "exists"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "indeed exists"
+     "gloss": "he exists"
     }
    ]
   }
  ],
- "literal": "Jewel adornment shining rising curved waist / gentle painted-eye bright-forehead songstress / 'Are there warriors also in your wide-placed country?' saying / O king of the fighting army who does not cease asking! / Like a snake that does not fear a striking stick / young, strong warriors also exist; not only that, / hanging in the public assembly hall, tightly bound drum's / wind-striking tight drumhead if heard, / 'That is battle!' saying, my lord also indeed exists.",
- "translation": "O king of the fighting army, who never ceases to ask the gentle songstress with painted eyes, bright forehead, and a curved waist adorned with shining jewels, 'Are there any warriors in your wide country?' There are young, strong warriors here who, like snakes, do not fear the striking stick. Not only that, if they hear the wind beating against the tight head of the drum hanging in the public assembly hall, they cry, 'That is the call to battle!'—and my lord, too, is there!",
- "modern": "ஒளிரும் அணிகலன்கள் அணிந்த, உயர்ந்த அல்குலை உடைய, மென்மையான, மை தீட்டிய கண்களையும் பிரகாசமான நெற்றியையும் கொண்ட விறலியிடம், 'உன்னுடைய அகன்ற நாட்டில் போர் வீரர்களும் இருக்கிறார்களா?' என்று ஓயாமல் கேட்கும் போர்முனை வேந்தனே! அடிக்கும் கோலுக்கு அஞ்சாத பாம்பைப் போன்ற இளமையும் வலிமையும் மிக்க வீரர்கள் இங்கு இருக்கிறார்கள். அதுமட்டுமல்லாமல், பொதுமன்றத்தில் தொங்கும், இறுக்கமாகக் கட்டப்பட்ட தண்ணுமையில் காற்று மோதி ஒலிக்கும் சத்தத்தைக் கேட்டாலே, 'அது போர் முரசு!' என்று கிளம்பும் என் தலைவனும் இருக்கிறான்.",
- "explanation": "The poet Avvaiyār addresses an invading king who mockingly asks a songstress if there are any real warriors in her land. Avvaiyār proudly replies that her country is full of young, fierce warriors who, like cobras, do not shrink from a raised stick. Furthermore, she highlights the extreme valor of her lord, Atiyamāṉ, stating that even the sound of the wind rustling the drum hanging in the village common hall makes him rise up, thinking it is the call to war. This poem belongs to the tumpai tiṇai, which celebrates the battlefield valor of warriors. The key words are 'மள்ளர்' (warriors), 'அரவு' (snake), 'தண்ணுமை' (drum), and 'என்னை' (my lord).",
+ "literal": "Jewel adornment shining prominent curved waist / gentle collyrium-painted eyes bright forehead female dancer / 'Are there fighters too in your wide-spaced country?' thus / asking unceasingly, O king of the fighting army! / Like a snake that does not fear a striking stick, / young warriors too exist; not only that, / hanging in the common hall, the tightly bound drum's / clear head, if the wind strikes and it is heard, / saying 'that is war!', my lord too exists!",
+ "translation": "O king of the fighting army, who never ceases to ask the gentle, bright-foreheaded female dancer with collyrium-painted eyes and a waist adorned with shining jewels, 'Are there any fighters in your wide country?' There are young warriors here who, like a snake that does not fear the stick that strikes it, know no fear. Not only that, there is also my lord! If he but hears the wind beating against the clear skin of the tightly bound drum hanging in the common hall, he rises, saying, 'That is the sound of war!'",
+ "modern": "ஒளிரும் அணிகலன்கள் அணிந்த, உயர்ந்த அல்குலையும், மென்மையான தன்மையும், மை தீட்டிய கண்களையும், ஒளிரும் நெற்றியையும் உடைய விறலியே! 'உங்களுடைய அகன்ற நாட்டில் போரிடும் வீரர்கள் இருக்கிறார்களா?' என்று ஓயாமல் கேட்கும் போர்ப்படையை உடைய வேந்தனே! அடிக்கும் கோலுக்கு அஞ்சாத பாம்பைப் போன்ற இளைய வீரர்கள் இங்கு இருக்கிறார்கள். அதுமட்டுமல்லாமல், பொதுமன்றத்தில் தொங்கும், இறுக்கமாகக் கட்டப்பட்ட தண்ணுமையில் காற்று மோதி ஒலிக்கும் தெளிந்த ஓசையைக் கேட்டவுடனேயே, 'அது போர் முரசு' என்று கிளம்பும் என் தலைவனும் இருக்கிறான்!",
+ "explanation": "The poet Avvaiyar addresses an invading king who has patronizingly asked a female dancer (viṟali) whether there are any worthy fighters in her wide country, the domain of Atiyamāṉ Neṭumāṉ Añci. Avvaiyar proudly responds on behalf of her land. She tells the king that not only are there young, fierce warriors who, like angry snakes, do not fear any weapon, but there is also her great lord, Atiyamāṉ. He is so eager for battle that even when the wind merely brushes against the drum hanging in the common assembly hall, he mistakes it for the call to war and prepares to fight. This poem belongs to the tumpai tiṇai, which celebrates active warfare and the valor of soldiers, and the theme is tāṉai maṟam, the bravery of the army and its leader.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

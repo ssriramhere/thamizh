@@ -152,20 +152,15 @@
        "gloss": "leg"
       }
      ],
-     "gloss": "as leg"
+     "gloss": "leg"
     },
     {
      "surface": "ஆக",
      "parts": [
       {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "become"
-      },
-      {
-       "text": "க",
-       "lemma": "க",
-       "gloss": "infinitive suffix"
+       "text": "ஆக",
+       "lemma": "ஆகு",
+       "gloss": "to become"
       }
      ],
      "gloss": "becoming"
@@ -191,7 +186,7 @@
        "gloss": "many"
       }
      ],
-     "gloss": "many [steps]"
+     "gloss": "many"
     },
     {
      "surface": "ஒதுங்கி",
@@ -228,13 +223,17 @@
      "surface": "விரித்தன்ன",
      "parts": [
       {
-       "text": "விரித்தன்ன",
-       "lemma": "விரித்தன்ன",
-       "gloss": "like spread-out"
+       "text": "விரித்து",
+       "lemma": "விரி",
+       "gloss": "having spread"
+      },
+      {
+       "text": "அன்ன",
+       "lemma": "அன்ன",
+       "gloss": "like"
       }
      ],
-     "gloss": "like spread-out",
-     "split_unverified": true
+     "gloss": "like spread out"
     },
     {
      "surface": "கதுப்பினள்",
@@ -245,14 +244,9 @@
        "gloss": "hair"
       },
       {
-       "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "formative suffix"
-      },
-      {
-       "text": "அள்",
-       "lemma": "அள்",
-       "gloss": "she"
+       "text": "இனள்",
+       "lemma": "இனள்",
+       "gloss": "she who has"
       }
      ],
      "gloss": "she who has hair"
@@ -266,7 +260,7 @@
        "gloss": "eye"
       }
      ],
-     "gloss": "eyes"
+     "gloss": "eye"
     },
     {
      "surface": "துயின்று",
@@ -290,23 +284,18 @@
       {
        "text": "முன்றில்",
        "lemma": "முன்றில்",
-       "gloss": "courtyard"
+       "gloss": "front yard"
       }
      ],
-     "gloss": "to the courtyard"
+     "gloss": "front yard"
     },
     {
      "surface": "போகா",
      "parts": [
       {
-       "text": "போகு",
-       "lemma": "போகு",
-       "gloss": "go"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "negative relative participle suffix"
+       "text": "போகா",
+       "lemma": "போ",
+       "gloss": "not going"
       }
      ],
      "gloss": "not going"
@@ -315,13 +304,17 @@
      "surface": "முதுர்வினள்",
      "parts": [
       {
-       "text": "முதுர்வினள்",
-       "lemma": "முதுர்வினள்",
-       "gloss": "she of advanced age"
+       "text": "முதுர்வு",
+       "lemma": "முதுமை",
+       "gloss": "old age"
+      },
+      {
+       "text": "இனள்",
+       "lemma": "இனள்",
+       "gloss": "she of"
       }
      ],
-     "gloss": "she of advanced age",
-     "split_unverified": true
+     "gloss": "she of old age"
     },
     {
      "surface": "யாயும்",
@@ -348,51 +341,67 @@
      "parts": [
       {
        "text": "பசந்த",
-       "lemma": "பசந்த",
-       "gloss": ""
+       "lemma": "பசலை",
+       "gloss": "paled"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "paled"
     },
     {
      "surface": "மேனியடு",
      "parts": [
       {
-       "text": "மேனியடு",
-       "lemma": "மேனியடு",
-       "gloss": ""
+       "text": "மேனி",
+       "lemma": "மேனி",
+       "gloss": "body"
+      },
+      {
+       "text": "அடு",
+       "lemma": "அடு",
+       "gloss": "with"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "with body"
     },
     {
-     "surface": "படர்அட",
+     "surface": "படர்",
      "parts": [
       {
-       "text": "படர்அட",
-       "lemma": "படர்அட",
-       "gloss": ""
+       "text": "படர்",
+       "lemma": "படர்",
+       "gloss": "grief"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "grief"
+    },
+    {
+     "surface": "அட",
+     "parts": [
+      {
+       "text": "அட",
+       "lemma": "அடு",
+       "gloss": "to afflict"
+      }
+     ],
+     "gloss": "to afflict"
     },
     {
      "surface": "வருந்தி",
      "parts": [
       {
-       "text": "வருந்தி",
-       "lemma": "வருந்தி",
-       "gloss": ""
+       "text": "வருந்து",
+       "lemma": "வருந்து",
+       "gloss": "suffer"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having suffered"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -407,10 +416,10 @@
       {
        "text": "இல்",
        "lemma": "இல்",
-       "gloss": "locative case suffix"
+       "gloss": "on"
       }
      ],
-     "gloss": "on her waist"
+     "gloss": "on the waist"
     },
     {
      "surface": "கொண்ட",
@@ -429,12 +438,11 @@
      "parts": [
       {
        "text": "பல்",
-       "lemma": "பல்",
+       "lemma": "பல",
        "gloss": "many"
       }
      ],
-     "gloss": "many",
-     "split_unverified": true
+     "gloss": "many"
     },
     {
      "surface": "குறு",
@@ -445,8 +453,7 @@
        "gloss": "small"
       }
      ],
-     "gloss": "small",
-     "split_unverified": true
+     "gloss": "small"
     },
     {
      "surface": "மாக்கள்",
@@ -477,7 +484,7 @@
        "gloss": "past participle suffix"
       }
      ],
-     "gloss": "squeezing"
+     "gloss": "having squeezed"
     },
     {
      "surface": "தின",
@@ -493,7 +500,7 @@
        "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to feed"
+     "gloss": "to eat"
     },
     {
      "surface": "வாடிய",
@@ -506,7 +513,7 @@
       {
        "text": "இய",
        "lemma": "இய",
-       "gloss": "relative participle suffix"
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "withered"
@@ -522,10 +529,10 @@
       {
        "text": "அள்",
        "lemma": "அள்",
-       "gloss": "she"
+       "gloss": "she who has"
       }
      ],
-     "gloss": "she of breasts"
+     "gloss": "she who has breasts"
     },
     {
      "surface": "பெரிது",
@@ -544,7 +551,7 @@
       {
        "text": "அழி",
        "lemma": "அழி",
-       "gloss": "despair"
+       "gloss": "be distressed"
       },
       {
        "text": "ந்து",
@@ -552,7 +559,7 @@
        "gloss": "past participle suffix"
       }
      ],
-     "gloss": "despairing"
+     "gloss": "having been distressed"
     }
    ]
   },
@@ -570,32 +577,37 @@
      "gloss": "rubbish heap"
     },
     {
-     "surface": "கீரைக்",
+     "surface": "கீரை",
      "parts": [
       {
-       "text": "கீரைக்",
-       "lemma": "கீரைக்",
+       "text": "கீரை",
+       "lemma": "கீரை",
        "gloss": "greens"
       }
      ],
-     "gloss": "greens",
-     "split_unverified": true
+     "gloss": "greens"
     },
     {
-     "surface": "கொய்கண்",
+     "surface": "கொய்",
      "parts": [
       {
        "text": "கொய்",
        "lemma": "கொய்",
        "gloss": "pluck"
-      },
+      }
+     ],
+     "gloss": "pluck"
+    },
+    {
+     "surface": "கண்",
+     "parts": [
       {
        "text": "கண்",
        "lemma": "கண்",
        "gloss": "place"
       }
      ],
-     "gloss": "plucked place"
+     "gloss": "place"
     },
     {
      "surface": "அகைத்த",
@@ -608,7 +620,7 @@
       {
        "text": "த்த",
        "lemma": "த்த",
-       "gloss": "relative participle suffix"
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "sprouted"
@@ -631,35 +643,45 @@
        "gloss": "negative relative participle suffix"
       }
      ],
-     "gloss": "unmatured"
+     "gloss": "tender"
     },
     {
-     "surface": "இளந்தளிர்",
+     "surface": "இளம்",
      "parts": [
       {
-       "text": "இளமை",
+       "text": "இளம்",
        "lemma": "இளமை",
        "gloss": "tender"
-      },
+      }
+     ],
+     "gloss": "tender"
+    },
+    {
+     "surface": "தளிர்",
+     "parts": [
       {
        "text": "தளிர்",
        "lemma": "தளிர்",
        "gloss": "shoot"
       }
      ],
-     "gloss": "tender shoots"
+     "gloss": "shoots"
     },
     {
      "surface": "கொய்துகொண்டு",
      "parts": [
       {
-       "text": "கொய்துகொண்டு",
-       "lemma": "கொய்துகொண்டு",
+       "text": "கொய்து",
+       "lemma": "கொய்",
        "gloss": "having plucked"
+      },
+      {
+       "text": "கொண்டு",
+       "lemma": "கொள்",
+       "gloss": "having taken"
       }
      ],
-     "gloss": "having plucked",
-     "split_unverified": true
+     "gloss": "having plucked"
     },
     {
      "surface": "உப்பின்று",
@@ -693,20 +715,26 @@
      "gloss": "water"
     },
     {
-     "surface": "உலையாக",
+     "surface": "உலை",
      "parts": [
       {
        "text": "உலை",
        "lemma": "உலை",
-       "gloss": "boiling pot"
-      },
-      {
-       "text": "ஆக",
-       "lemma": "ஆ",
-       "gloss": "become"
+       "gloss": "pot on fire"
       }
      ],
-     "gloss": "as the boiling pot"
+     "gloss": "pot on fire"
+    },
+    {
+     "surface": "ஆக",
+     "parts": [
+      {
+       "text": "ஆக",
+       "lemma": "ஆகு",
+       "gloss": "to become"
+      }
+     ],
+     "gloss": "as"
     },
     {
      "surface": "ஏற்றி",
@@ -714,7 +742,7 @@
       {
        "text": "ஏற்று",
        "lemma": "ஏற்று",
-       "gloss": "place on stove"
+       "gloss": "place on fire"
       },
       {
        "text": "இ",
@@ -722,7 +750,7 @@
        "gloss": "past participle suffix"
       }
      ],
-     "gloss": "placing on stove"
+     "gloss": "having placed on fire"
     },
     {
      "surface": "மோரின்று",
@@ -745,20 +773,26 @@
   {
    "words": [
     {
-     "surface": "அவிழ்பதம்",
+     "surface": "அவிழ்",
      "parts": [
       {
        "text": "அவிழ்",
        "lemma": "அவிழ்",
        "gloss": "cooked rice"
-      },
+      }
+     ],
+     "gloss": "cooked rice"
+    },
+    {
+     "surface": "பதம்",
+     "parts": [
       {
        "text": "பதம்",
        "lemma": "பதம்",
-       "gloss": "state"
+       "gloss": "taste"
       }
      ],
-     "gloss": "the state of cooked rice"
+     "gloss": "taste"
     },
     {
      "surface": "மறந்து",
@@ -774,7 +808,7 @@
        "gloss": "past participle suffix"
       }
      ],
-     "gloss": "forgetting"
+     "gloss": "having forgotten"
     },
     {
      "surface": "பாசடகு",
@@ -802,7 +836,7 @@
        "gloss": "past participle suffix"
       }
      ],
-     "gloss": "eating"
+     "gloss": "having eaten"
     }
    ]
   },
@@ -830,17 +864,12 @@
       {
        "text": "குறை",
        "lemma": "குறை",
-       "gloss": "diminish"
+       "gloss": "be torn"
       },
       {
-       "text": "ந்த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "relative participle suffix"
+       "text": "ந்த",
+       "lemma": "ந்த",
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "worn out"
@@ -856,10 +885,10 @@
       {
        "text": "அள்",
        "lemma": "அள்",
-       "gloss": "she"
+       "gloss": "she who has"
       }
      ],
-     "gloss": "she who wears a garment"
+     "gloss": "she who has garments"
     },
     {
      "surface": "அறம்",
@@ -896,33 +925,33 @@
      "surface": "துவ்வாள்",
      "parts": [
       {
-       "text": "துவ்",
-       "lemma": "துவ்",
+       "text": "துவ்வு",
+       "lemma": "துவ்வு",
        "gloss": "enjoy"
       },
       {
        "text": "ஆள்",
        "lemma": "ஆள்",
-       "gloss": "negative feminine singular suffix"
+       "gloss": "she who does not"
       }
      ],
-     "gloss": "she who does not enjoy [comforts]"
+     "gloss": "she who does not enjoy"
     },
     {
      "surface": "ஆகிய",
      "parts": [
       {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "become"
+       "text": "ஆகு",
+       "lemma": "ஆகு",
+       "gloss": "to become"
       },
       {
-       "text": "கிய",
-       "lemma": "கிய",
-       "gloss": "relative participle suffix"
+       "text": "இய",
+       "lemma": "இய",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "who has become"
+     "gloss": "who became"
     },
     {
      "surface": "என்",
@@ -961,12 +990,12 @@
       {
        "text": "என்று",
        "lemma": "என்று",
-       "gloss": "thus"
+       "gloss": "saying"
       },
       {
        "text": "ஆங்கு",
        "lemma": "ஆங்கு",
-       "gloss": "there/in that manner"
+       "gloss": "thus"
       }
      ],
      "gloss": "in that manner"
@@ -975,17 +1004,12 @@
      "surface": "இருவர்",
      "parts": [
       {
-       "text": "இரு",
-       "lemma": "இரு",
-       "gloss": "two"
-      },
-      {
-       "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "plural suffix"
+       "text": "இருவர்",
+       "lemma": "இருவர்",
+       "gloss": "two persons"
       }
      ],
-     "gloss": "of both those two"
+     "gloss": "two persons"
     },
     {
      "surface": "நெஞ்சமும்",
@@ -998,22 +1022,21 @@
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "and"
+       "gloss": "both"
       }
      ],
-     "gloss": "hearts too"
+     "gloss": "both hearts"
     },
     {
-     "surface": "உவப்பக்",
+     "surface": "உவப்ப",
      "parts": [
       {
-       "text": "உவப்பக்",
-       "lemma": "உவப்பக்",
+       "text": "உவப்ப",
+       "lemma": "உவ",
        "gloss": "to rejoice"
       }
      ],
-     "gloss": "to rejoice",
-     "split_unverified": true
+     "gloss": "to rejoice"
     },
     {
      "surface": "கானவர்",
@@ -1024,28 +1047,33 @@
        "gloss": "forest dwellers"
       }
      ],
-     "gloss": "forest dwellers",
-     "split_unverified": true
+     "gloss": "forest dwellers"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கரிபுனம்",
+     "surface": "கரி",
      "parts": [
       {
        "text": "கரி",
        "lemma": "கரி",
        "gloss": "burnt"
-      },
+      }
+     ],
+     "gloss": "burnt"
+    },
+    {
+     "surface": "புனம்",
+     "parts": [
       {
        "text": "புனம்",
        "lemma": "புனம்",
        "gloss": "forest field"
       }
      ],
-     "gloss": "burnt forest field"
+     "gloss": "forest field"
     },
     {
      "surface": "மயக்கிய",
@@ -1058,22 +1086,32 @@
       {
        "text": "இய",
        "lemma": "இய",
-       "gloss": "relative participle suffix"
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "cleared"
     },
     {
-     "surface": "அகன்கண்",
+     "surface": "அகன்",
      "parts": [
       {
-       "text": "அகன்கண்",
-       "lemma": "அகன்கண்",
-       "gloss": "wide-spaced"
+       "text": "அகன்",
+       "lemma": "அகன்ற",
+       "gloss": "wide"
       }
      ],
-     "gloss": "wide-spaced",
-     "split_unverified": true
+     "gloss": "wide"
+    },
+    {
+     "surface": "கண்",
+     "parts": [
+      {
+       "text": "கண்",
+       "lemma": "கண்",
+       "gloss": "place"
+      }
+     ],
+     "gloss": "place"
     },
     {
      "surface": "கொல்லை",
@@ -1081,10 +1119,10 @@
       {
        "text": "கொல்லை",
        "lemma": "கொல்லை",
-       "gloss": "dry land"
+       "gloss": "field"
       }
      ],
-     "gloss": "dry land"
+     "gloss": "field"
     }
    ]
   },
@@ -1105,45 +1143,39 @@
      "surface": "வித்தி",
      "parts": [
       {
-       "text": "வித்து",
-       "lemma": "வித்து",
-       "gloss": "sow"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "past participle suffix"
+       "text": "வித்தி",
+       "lemma": "வித்தி",
+       "gloss": "having sown"
       }
      ],
-     "gloss": "sowing"
+     "gloss": "having sown"
     },
     {
-     "surface": "மையுறக்",
+     "surface": "மையுற",
      "parts": [
       {
-       "text": "மையுறக்",
-       "lemma": "மையுறக்",
-       "gloss": "to become dark"
+       "text": "மை",
+       "lemma": "மை",
+       "gloss": "darkness"
+      },
+      {
+       "text": "உற",
+       "lemma": "உற",
+       "gloss": "to reach"
       }
      ],
-     "gloss": "to become dark",
-     "split_unverified": true
+     "gloss": "to become dark"
     },
     {
      "surface": "கவினி",
      "parts": [
       {
-       "text": "கவின்",
-       "lemma": "கவின்",
-       "gloss": "beauty"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "past participle suffix"
+       "text": "கவினி",
+       "lemma": "கவினி",
+       "gloss": "having flourished"
       }
      ],
-     "gloss": "becoming beautiful"
+     "gloss": "having flourished"
     }
    ]
   },
@@ -1153,14 +1185,9 @@
      "surface": "ஈனல்",
      "parts": [
       {
-       "text": "ஈன்",
-       "lemma": "ஈன்",
-       "gloss": "yield"
-      },
-      {
-       "text": "அல்",
-       "lemma": "அல்",
-       "gloss": "verbal noun suffix"
+       "text": "ஈனல்",
+       "lemma": "ஈனல்",
+       "gloss": "yielding"
       }
      ],
      "gloss": "yielding"
@@ -1176,10 +1203,10 @@
       {
        "text": "ஆ",
        "lemma": "ஆ",
-       "gloss": "negative relative participle suffix"
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "not yet proceeding"
+     "gloss": "proceeding"
     },
     {
      "surface": "ஏனற்கு",
@@ -1192,22 +1219,21 @@
       {
        "text": "கு",
        "lemma": "கு",
-       "gloss": "dative case suffix"
+       "gloss": "dative suffix"
       }
      ],
      "gloss": "to the millet"
     },
     {
-     "surface": "இழுமெனக்",
+     "surface": "இழுமென",
      "parts": [
       {
-       "text": "இழுமெனக்",
-       "lemma": "இழுமெனக்",
-       "gloss": "with a rushing sound"
+       "text": "இழுமென",
+       "lemma": "இழுமென",
+       "gloss": "with a rustling sound"
       }
      ],
-     "gloss": "with a rushing sound",
-     "split_unverified": true
+     "gloss": "with a rustling sound"
     }
    ]
   },
@@ -1239,14 +1265,9 @@
      "surface": "தலைஇ",
      "parts": [
       {
-       "text": "தலை",
-       "lemma": "தலை",
-       "gloss": "pour down"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "past participle suffix"
+       "text": "தலைஇ",
+       "lemma": "தலைஇ",
+       "gloss": "having poured down"
       }
      ],
      "gloss": "having poured down"
@@ -1255,14 +1276,9 @@
      "surface": "யாங்கும்",
      "parts": [
       {
-       "text": "யாங்கு",
-       "lemma": "யாங்கு",
+       "text": "யாங்கும்",
+       "lemma": "யாங்கும்",
        "gloss": "everywhere"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
       }
      ],
      "gloss": "everywhere"
@@ -1282,7 +1298,7 @@
       {
        "text": "த்த",
        "lemma": "த்த",
-       "gloss": "past relative participle suffix"
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "given"
@@ -1296,8 +1312,7 @@
        "gloss": "your"
       }
      ],
-     "gloss": "your",
-     "split_unverified": true
+     "gloss": "your"
     },
     {
      "surface": "புகழ்",
@@ -1311,16 +1326,20 @@
      "gloss": "fame"
     },
     {
-     "surface": "ஏத்தித்",
+     "surface": "ஏத்தி",
      "parts": [
       {
-       "text": "ஏத்தித்",
-       "lemma": "ஏத்தித்",
-       "gloss": "praising"
+       "text": "ஏத்து",
+       "lemma": "ஏத்து",
+       "gloss": "praise"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "praising",
-     "split_unverified": true
+     "gloss": "having praised"
     },
     {
      "surface": "தொக்க",
@@ -1350,77 +1369,55 @@
   {
    "words": [
     {
-     "surface": "பசி",
+     "surface": "பசிதினத்",
      "parts": [
       {
-       "text": "பசி",
-       "lemma": "பசி",
-       "gloss": "hunger"
+       "text": "பசிதினத்",
+       "lemma": "பசிதினத்",
+       "gloss": ""
       }
      ],
-     "gloss": "hunger"
-    },
-    {
-     "surface": "தினத்",
-     "parts": [
-      {
-       "text": "தினத்",
-       "lemma": "தினத்",
-       "gloss": "consuming"
-      }
-     ],
-     "gloss": "consuming",
+     "gloss": "",
      "split_unverified": true
     },
     {
      "surface": "திரங்கிய",
      "parts": [
       {
-       "text": "திரங்கு",
-       "lemma": "திரங்கு",
-       "gloss": "wither"
-      },
-      {
-       "text": "இய",
-       "lemma": "இய",
-       "gloss": "relative participle suffix"
+       "text": "திரங்கிய",
+       "lemma": "திரங்கிய",
+       "gloss": ""
       }
      ],
-     "gloss": "withered"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "ஒக்கலும்",
      "parts": [
       {
-       "text": "ஒக்கல்",
-       "lemma": "ஒக்கல்",
-       "gloss": "kinfolk"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
+       "text": "ஒக்கலும்",
+       "lemma": "ஒக்கலும்",
+       "gloss": ""
       }
      ],
-     "gloss": "kinfolk too"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "உவப்ப",
      "parts": [
       {
-       "text": "உவ",
-       "lemma": "உவ",
-       "gloss": "rejoice"
-      },
-      {
-       "text": "ப்ப",
-       "lemma": "ப்ப",
-       "gloss": "infinitive suffix"
+       "text": "உவப்ப",
+       "lemma": "உவப்ப",
+       "gloss": ""
       }
      ],
-     "gloss": "to rejoice"
+     "gloss": "",
+     "split_unverified": true
     }
-   ]
+   ],
+   "as_printed": true
   },
   {
    "words": [
@@ -1430,7 +1427,7 @@
       {
        "text": "உயர்",
        "lemma": "உயர்",
-       "gloss": "rise high"
+       "gloss": "rise"
       },
       {
        "text": "ந்து",
@@ -1449,7 +1446,7 @@
        "gloss": "hold up"
       }
      ],
-     "gloss": "held up"
+     "gloss": "holding up"
     },
     {
      "surface": "மருப்பின்",
@@ -1462,26 +1459,32 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "oblique/genitive suffix"
+       "gloss": "oblique suffix"
       }
      ],
-     "gloss": "with tusks"
+     "gloss": "tusked"
     },
     {
-     "surface": "கொல்களிறு",
+     "surface": "கொல்",
      "parts": [
       {
        "text": "கொல்",
        "lemma": "கொல்",
        "gloss": "killer"
-      },
+      }
+     ],
+     "gloss": "killer"
+    },
+    {
+     "surface": "களிறு",
+     "parts": [
       {
        "text": "களிறு",
        "lemma": "களிறு",
        "gloss": "male elephant"
       }
      ],
-     "gloss": "killer male elephant"
+     "gloss": "male elephant"
     },
     {
      "surface": "பெறினும்",
@@ -1489,7 +1492,7 @@
       {
        "text": "பெறு",
        "lemma": "பெறு",
-       "gloss": "obtain"
+       "gloss": "receive"
       },
       {
        "text": "இனும்",
@@ -1497,7 +1500,7 @@
        "gloss": "even if"
       }
      ],
-     "gloss": "even if obtaining"
+     "gloss": "even if receiving"
     }
    ]
   },
@@ -1517,7 +1520,7 @@
        "gloss": "past participle suffix"
       }
      ],
-     "gloss": "hesitatingly"
+     "gloss": "hesitating"
     },
     {
      "surface": "விடு",
@@ -1525,10 +1528,10 @@
       {
        "text": "விடு",
        "lemma": "விடு",
-       "gloss": "give"
+       "gloss": "leave"
       }
      ],
-     "gloss": "given"
+     "gloss": "leaving"
     },
     {
      "surface": "பரிசில்",
@@ -1557,7 +1560,7 @@
       {
        "text": "என்",
        "lemma": "என்",
-       "gloss": "I (first person singular suffix)"
+       "gloss": "I"
       }
      ],
      "gloss": "I will not accept"
@@ -1607,7 +1610,7 @@
        "gloss": "to experience"
       }
      ],
-     "gloss": "pleasurably"
+     "gloss": "to be pleased"
     },
     {
      "surface": "விடுதி",
@@ -1620,7 +1623,7 @@
       {
        "text": "தி",
        "lemma": "தி",
-       "gloss": "you (second person singular suffix)"
+       "gloss": "you"
       }
      ],
      "gloss": "you give"
@@ -1655,37 +1658,55 @@
      "surface": "குன்றியும்",
      "parts": [
       {
-       "text": "குன்றியும்",
-       "lemma": "குன்றியும்",
-       "gloss": ""
+       "text": "குன்றி",
+       "lemma": "குன்றி",
+       "gloss": "kunri seed"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even a kunri seed"
     },
     {
      "surface": "கொள்வல்",
      "parts": [
       {
-       "text": "கொள்வல்",
-       "lemma": "கொள்வல்",
-       "gloss": ""
+       "text": "கொள்",
+       "lemma": "கொள்",
+       "gloss": "accept"
+      },
+      {
+       "text": "வல்",
+       "lemma": "வல்",
+       "gloss": "I will"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "I will accept"
     },
     {
-     "surface": "கூர்வேற்",
+     "surface": "கூர்",
      "parts": [
       {
-       "text": "கூர்வேற்",
-       "lemma": "கூர்வேற்",
-       "gloss": ""
+       "text": "கூர்",
+       "lemma": "கூர்",
+       "gloss": "sharp"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sharp"
+    },
+    {
+     "surface": "வேல்",
+     "parts": [
+      {
+       "text": "வேல்",
+       "lemma": "வேல்",
+       "gloss": "spear"
+      }
+     ],
+     "gloss": "spear"
     },
     {
      "surface": "குமண",
@@ -1693,14 +1714,13 @@
       {
        "text": "குமண",
        "lemma": "குமண",
-       "gloss": ""
+       "gloss": "O Kumanan!"
       }
      ],
-     "gloss": "",
+     "gloss": "O Kumanan!",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1722,7 +1742,7 @@
       {
        "text": "அருள்",
        "lemma": "அருள்",
-       "gloss": "grace"
+       "gloss": "bestow grace"
       },
       {
        "text": "அல்",
@@ -1730,7 +1750,7 @@
        "gloss": "verbal noun suffix"
       }
      ],
-     "gloss": "bestowing"
+     "gloss": "bestowing grace"
     },
     {
      "surface": "வேண்டுவல்",
@@ -1743,26 +1763,32 @@
       {
        "text": "வல்",
        "lemma": "வல்",
-       "gloss": "will"
+       "gloss": "I do"
       }
      ],
      "gloss": "I request"
     },
     {
-     "surface": "விறற்புகழ்",
+     "surface": "விறல்",
      "parts": [
       {
        "text": "விறல்",
        "lemma": "விறல்",
        "gloss": "victory"
-      },
+      }
+     ],
+     "gloss": "victorious"
+    },
+    {
+     "surface": "புகழ்",
+     "parts": [
       {
        "text": "புகழ்",
        "lemma": "புகழ்",
        "gloss": "fame"
       }
      ],
-     "gloss": "victorious fame"
+     "gloss": "fame"
     }
    ]
   },
@@ -1774,7 +1800,7 @@
       {
        "text": "வசை",
        "lemma": "வசை",
-       "gloss": "blame"
+       "gloss": "blemish"
       },
       {
        "text": "இல்",
@@ -1785,16 +1811,26 @@
      "gloss": "faultless"
     },
     {
-     "surface": "விழுத்திணைப்",
+     "surface": "விழு",
      "parts": [
       {
-       "text": "விழுத்திணைப்",
-       "lemma": "விழுத்திணைப்",
-       "gloss": "born of noble lineage"
+       "text": "விழு",
+       "lemma": "விழு",
+       "gloss": "noble"
       }
      ],
-     "gloss": "born of noble lineage",
-     "split_unverified": true
+     "gloss": "noble"
+    },
+    {
+     "surface": "திணை",
+     "parts": [
+      {
+       "text": "திணை",
+       "lemma": "திணை",
+       "gloss": "lineage"
+      }
+     ],
+     "gloss": "lineage"
     },
     {
      "surface": "பிறந்த",
@@ -1802,35 +1838,41 @@
       {
        "text": "பிற",
        "lemma": "பிற",
-       "gloss": "born"
+       "gloss": "be born"
       },
       {
-       "text": "ந்த்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "relative participle suffix"
+       "text": "ந்த",
+       "lemma": "ந்த",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "born"
+     "gloss": "born in"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "இசைமேந்தோன்றல்",
+     "surface": "இசை",
      "parts": [
       {
-       "text": "இசைமேந்தோன்றல்",
-       "lemma": "இசைமேந்தோன்றல்",
-       "gloss": "O lord eminent in fame!"
+       "text": "இசை",
+       "lemma": "இசை",
+       "gloss": "fame"
       }
      ],
-     "gloss": "O lord eminent in fame!",
+     "gloss": "fame"
+    },
+    {
+     "surface": "மேந்தோன்றல்",
+     "parts": [
+      {
+       "text": "மேந்தோன்றல்",
+       "lemma": "மேந்தோன்றல்",
+       "gloss": "eminent lord"
+      }
+     ],
+     "gloss": "eminent lord",
      "split_unverified": true
     },
     {
@@ -1842,8 +1884,7 @@
        "gloss": "you"
       }
      ],
-     "gloss": "you",
-     "split_unverified": true
+     "gloss": "you"
     },
     {
      "surface": "பாடிய",
@@ -1856,7 +1897,7 @@
       {
        "text": "இய",
        "lemma": "இய",
-       "gloss": "relative participle suffix"
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "who sang"
@@ -1872,7 +1913,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
      "gloss": "I indeed"
@@ -1880,10 +1921,10 @@
    ]
   }
  ],
- "literal": "Living with the days, years many, because of existence / leaving not going, my life, saying, lamenting much / staff as leg, short many steps walking slowly / thread spread-out like hair-having-she, eyes having slept / courtyard not going, advanced age-having-she, my mother and / paled body-with, grief afflicting, suffering / on her waist held, many small children / squeezing to feed, withered breast-having-she, greatly despairing / rubbish heap greens plucked-place sprouted / unmatured tender shoots having plucked, without salt / water as boiling pot placing, without buttermilk / cooked rice state forgetting, green leaves eating / with dirt worn out garment-having-she, virtue not blaming / not enjoying who has become, my beloved wife and / thus both their hearts to rejoice, forest dwellers / burnt forest field cleared wide-spaced dry land / mountain rice sowing, to become dark and beautiful / yielding not yet proceeding millet, with a rushing sound / clouds rain having poured down everywhere / given your fame praising, gathered my / hunger consuming withered kinfolk to rejoice / rising high held up tusk-with killer male elephant even if obtaining / hesitatingly given gift I will not accept; rejoicing you / pleasurably give if, a small / crab's eye seed even I will accept, O sharp-speared Kumanan! / In the proper way to bestow I request, O victorious fame / faultless noble lineage born / O lord eminent in fame, you who sang, I indeed!",
- "translation": "My life does not leave me, though I lament, 'Why do I go on living for so many years?' My aged mother, who uses a staff as a leg, takes short, slow steps, has hair like unraveled thread, and never leaves the courtyard. My beloved wife, her body paled with grief, holds many small children on her waist who squeeze her withered breasts to feed; in deep despair, she plucks the young, unsalted shoots of greens sprouted from the rubbish heap, boils them in water without buttermilk, and eats them, forgetting the taste of cooked rice, wearing a dirty, tattered garment yet never blaming virtue. To make both their hearts rejoice, just as the dark clouds pour down rain with a rushing sound over the wide dry lands cleared by forest dwellers where mountain rice is sown but the millet has not yet yielded, I have come praising your fame, so that my kinfolk, withered by hunger, may also rejoice. Even if I were to receive a killer elephant with high, upraised tusks, I would not accept a gift given with hesitation. But if you give with a joyful heart, O Kumanan of the sharp spear, I will gladly accept even a tiny seed! I beg you to bestow your grace in the proper way, O lord of victorious fame, born of a faultless noble lineage, eminent in renown! I am the poet who has sung of you!",
- "modern": "வாழும் நாட்கள் பலவாக இருப்பதால் என் உயிர் என்னை விட்டுப் பிரியாமல் இருக்கிறது என்று வருந்தி, கோலையே காலாகக் கொண்டு மெல்ல நடந்து, முன்றிலைத் தாண்டாத என் வயதான தாயும்; வறுமையால் மெலிந்து, தன் இடுப்பில் பல குழந்தைகளைச் சுமந்து, பசியால் வாடிய முலைகளைக் கொண்ட என் மனைவியும்; குப்பையில் முளைத்த கீரையின் தளிர் இலைகளைப் பறித்து, உப்பும் மோரும் இன்றி வெற்று நீரில் வேகவைத்து, சோற்றின் சுவையை மறந்து உண்ணும் என் அன்பான மனைவியும்; ஆகிய இவ்விருவரின் நெஞ்சமும் மகிழும்படி, காட்டில் தினை விதைத்து மழைக்காகக் காத்திருக்கும் நிலத்தில் மேகம் பொழிவது போல, உனது புகழைப் பாடி வந்த என் சுற்றத்தாரின் பசியும் நீங்கி மகிழும்படி; உயர்ந்த தந்தங்களைக் கொண்ட யானையைப் பரிசாகத் தந்தாலும், அதனை மனமில்லாமல் தந்தால் நான் ஏற்றுக்கொள்ள மாட்டேன். ஆனால், கூர்மையான வேலைக் கொண்ட குமணனே! நீ மகிழ்ந்து அன்போடு கொடுத்தால், ஒரு சிறிய குன்றிமணியின் அளவேயான பரிசையும் நான் ஏற்பேன். புகழும் நற்குடியும் கொண்ட பெருமகனே! உன்னைப் பாடி வந்த எனக்கு முறைப்படி அருள் செய்ய வேண்டுகிறேன்.",
- "explanation": "This poem is set in the Puram genre, specifically under the theme of requesting a gift (parisil kadānilai) from King Kumanan. The poet, Perunchithiranar, vividly describes the extreme poverty of his household to evoke the patron's generosity. He details the suffering of his aged mother, who can barely walk, and his devoted wife, who must feed their children with unsalted wild greens boiled in water, having forgotten the taste of cooked rice. The poet compares his arrival at the king's court to the arrival of rain over a parched field, hoping to relieve his starving kinfolk. Crucially, Perunchithiranar asserts his dignity as a poet: he declares that he would reject even a magnificent elephant if it were given with hesitation or without respect, but would gladly accept a tiny seed if offered with a joyful, loving heart. Key words include 'pasadagu' (green leaves), 'parisil' (gift), and 'kumanan' (the patron king).",
+ "literal": "Because of the existence of many years along with living days / 'My life does not leave,' saying thus, lamenting much, / walking slowly with many short steps, using a staff as a leg, / with hair like spread-out thread, sleeping, / my mother of old age, who does not go out of the front yard, / and with a paled body, suffering as grief afflicts, / holding on her waist many small children, / she who has breasts withered from being squeezed to eat, greatly distressed, / plucking the tender young shoots sprouted from the plucked spots of the rubbish-heap greens, without salt, / placing them on the fire with water as the boiling pot, without buttermilk, / forgetting the taste of cooked rice, eating green leaves, / she who has dirty, worn-out garments, not blaming virtue, / my beloved wife who does not enjoy life, / both of their hearts to rejoice, like when forest dwellers / in the wide field cleared by burning the forest / sow mountain rice, and it flourishes becoming dark, / and the rain from the clouds pours down with a rustling sound on the millet that is about to yield grain, / praising your fame of giving, my gathered / kinsfolk, who suffered as hunger consumed them, to also rejoice, / even if receiving a fierce male elephant with high, raised tusks, / if you give it with hesitation, I will not accept that gift; but if you, rejoicing, / give it so that I may be pleased, even a small / kunri seed I will accept, O Kumanan of the sharp spear! / I request you to bestow grace in the proper way, O eminent lord of fame and victory, / born in a faultless noble lineage, / I who sang of you!",
+ "translation": "My aged mother, using a staff as a leg, taking short steps, with hair like spread-out thread, sleeps without leaving the front yard, lamenting, 'My life does not leave, despite the many years of living days.' My beloved wife, her body paled and suffering from grief, holds many small children on her waist; her breasts are withered from being squeezed by them to eat. Greatly distressed, she plucks the tender young shoots sprouted from the rubbish-heap greens, and without salt or buttermilk, she boils them in water, forgetting the taste of cooked rice and eating only green leaves. Wearing dirty, worn-out garments, yet not blaming virtue, she lives a life of no enjoyment. To make both their hearts rejoice, and to make my gathered kinsfolk—who suffered as hunger consumed them—rejoice, just as the rain pours down with a rustling sound from the clouds on the mountain rice and millet sown by forest dwellers in the wide fields cleared by burning, I praise your fame of giving. O Kumanan of the sharp spear! Even if I were to receive a fierce male elephant with high, raised tusks, I will not accept that gift if you give it with hesitation. But if you give it with a rejoicing heart so that I may be pleased, I will accept even a tiny kunri seed. I request you to bestow your grace in the proper way, O eminent lord of fame and victory, born of a faultless noble lineage, I who have sung of you!",
+ "modern": "வாழும் நாட்களுடன் பல ஆண்டுகள் இன்னும் இருப்பதனால், 'என் உயிர் என்னை விட்டுப் போகாது' என்று பலவாறு வருந்தி, கையில் உள்ள கோலையே காலாகக் கொண்டு, குறிய பல அடிகளை எடுத்து வைத்து மெல்ல நடந்து, நூல் விரித்தாற்போன்ற நரைமுடியை உடையவளாய், கண் துயின்று, முற்றத்தை விட்டும் வெளியே போகாத முதுமையுடைய என் தாயும்; பசலை பாய்ந்த உடம்போடு துன்பம் வருத்த வருந்தி, தன் இடுப்பில் பல சிறு குழந்தைகளைத் தாங்கி, அவர்கள் பால் குடிக்கப் பிசைந்து தின்றதால் வற்றிய முலைகளை உடையவளாய், மிகவும் மனமழிந்து, குப்பையில் முளைத்த கீரையின் கொய்த இடத்தில் மீண்டும் துளிர்த்த முற்றாத இளந்தளிர்களைக் கொய்து கொண்டு, உப்பும் இல்லாமல், மோரும் இல்லாமல், நீரையே உலையாக ஏற்றி, வெந்த சோற்றின் பதத்தை மறந்து, அந்தப் பச்சைக் கீரையையே உணவாக உண்டு, அழுக்குப்படிந்து கிழிந்த ஆடையை உடுத்தி, அறநெறியைப் பழிக்காமல் வறுமையிலும் செம்மையோடு வாழும் என் அன்பான மனைவியும்; ஆகிய இவ்விருவரின் நெஞ்சமும் மகிழவும், கானவர்கள் காட்டை எரித்துத் திருத்திய அகன்ற கொல்லை நிலத்தில் ஐவன நெல்லை விதைக்க, அது மேகம் சூழ்ந்து அழகாக வளர்ந்து, கதிர் ஈனும் பருவம் எய்திய தினைப் பயிரின் மேல் மேகம் ஒலியோடு மழையைப் பொழிந்தாற்போல, வாரி வழங்கும் உனது புகழைப் பாடித் திரண்ட, பசியால் வாடிய என் சுற்றத்தாரும் மகிழவும்; உயர்ந்த தந்தங்களை உடைய கொல்களிறைப் பரிசிலாகப் பெற்றாலும், நீ மனமில்லாமல் தரும் பரிசிலை நான் ஏற்றுக்கொள்ள மாட்டேன். நீ உவந்து மகிழ்ந்து நான் இன்புறத் தருவாயானால், மிகச் சிறிய குன்றிமணியையும் நான் ஏற்றுக்கொள்வேன், கூர்மையான வேலை உடைய குமணனே! வெற்றிப் புகழும், குற்றமற்ற உயர்ந்த குடியில் பிறந்த புகழும் உடைய, இசை சிறந்த தோன்றலே! உன்னைப் பாடிய எனக்கு முறைப்படி அருள் செய்ய வேண்டுகிறேன்.",
+ "explanation": "The poet Peruñcittiraṉār is singing to the patron Kumaṇaṉ, describing the extreme poverty of his household to evoke the patron's generosity, while maintaining his self-respect as a poet. He vividly describes his aged mother, who can barely walk and laments her long life, and his beloved wife, who feeds their children with saltless, buttermilk-less boiled greens plucked from rubbish heaps, yet never blames virtue. He compares the patron's potential generosity to the timely rain that falls on the forest fields of the mountain dwellers, bringing joy to his starving kinsfolk. The poet asserts his dignity by stating that he would reject even a majestic war elephant if given with hesitation or without respect, but would happily accept a tiny kunri seed if given with love and joy. This poem belongs to the Puram genre, specifically the theme of 'parisil kaṭānila' (demanding or requesting gifts), highlighting the noble character of both the poet and the patron.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

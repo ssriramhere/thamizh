@@ -3,7 +3,7 @@
   {
    "words": [
     {
-     "surface": "பொய்யாகியரோ",
+     "surface": "பொய்யா",
      "parts": [
       {
        "text": "பொய்",
@@ -11,15 +11,26 @@
        "gloss": "falsehood"
       },
       {
-       "text": "ஆகியரோ",
+       "text": "ஆ",
        "lemma": "ஆகு",
-       "gloss": "may it become"
+       "gloss": "become"
       }
      ],
-     "gloss": "may it become false"
+     "gloss": "false"
     },
     {
-     "surface": "பொய்யாகியரோ",
+     "surface": "கியரோ",
+     "parts": [
+      {
+       "text": "கியரோ",
+       "lemma": "ஆகியரோ",
+       "gloss": "may it become"
+      }
+     ],
+     "gloss": "may it become"
+    },
+    {
+     "surface": "பொய்யா",
      "parts": [
       {
        "text": "பொய்",
@@ -27,12 +38,23 @@
        "gloss": "falsehood"
       },
       {
-       "text": "ஆகியரோ",
+       "text": "ஆ",
        "lemma": "ஆகு",
+       "gloss": "become"
+      }
+     ],
+     "gloss": "false"
+    },
+    {
+     "surface": "கியரோ",
+     "parts": [
+      {
+       "text": "கியரோ",
+       "lemma": "ஆகியரோ",
        "gloss": "may it become"
       }
      ],
-     "gloss": "may it become false"
+     "gloss": "may it become"
     }
    ]
   },
@@ -42,13 +64,17 @@
      "surface": "பாவடி",
      "parts": [
       {
-       "text": "பாவடி",
-       "lemma": "பாவடி",
-       "gloss": ""
+       "text": "பா",
+       "lemma": "பா",
+       "gloss": "broad"
+      },
+      {
+       "text": "அடி",
+       "lemma": "அடி",
+       "gloss": "foot"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "flat-footed"
     },
     {
      "surface": "யானை",
@@ -56,38 +82,39 @@
       {
        "text": "யானை",
        "lemma": "யானை",
-       "gloss": ""
+       "gloss": "elephant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "elephant"
     },
     {
      "surface": "பரிசிலர்க்கு",
      "parts": [
       {
        "text": "பரிசிலர்க்கு",
-       "lemma": "பரிசிலர்க்கு",
-       "gloss": ""
+       "lemma": "பரிசிலர்",
+       "gloss": "to the recipients of gifts"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to the recipients of gifts"
     },
     {
      "surface": "அருகாச்",
      "parts": [
       {
-       "text": "அருகாச்",
-       "lemma": "அருகாச்",
-       "gloss": ""
+       "text": "அருகா",
+       "lemma": "அருகு",
+       "gloss": "not being scarce"
+      },
+      {
+       "text": "ச்",
+       "lemma": "ச்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "without limit"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -97,7 +124,7 @@
       {
        "text": "சீர்",
        "lemma": "சீர்",
-       "gloss": "glory"
+       "gloss": "excellence"
       },
       {
        "text": "கெழு",
@@ -105,7 +132,7 @@
        "gloss": "having"
       }
      ],
-     "gloss": "glorious"
+     "gloss": "excellent"
     },
     {
      "surface": "நோன்றாள்",
@@ -121,29 +148,23 @@
        "gloss": "effort"
       }
      ],
-     "gloss": "strong-legged"
+     "gloss": "strong effort"
     },
     {
-     "surface": "அகுதை",
+     "surface": "அகுதைகண்",
      "parts": [
       {
        "text": "அகுதை",
        "lemma": "அகுதை",
-       "gloss": "Akutai"
-      }
-     ],
-     "gloss": "Akutai"
-    },
-    {
-     "surface": "கண்",
-     "parts": [
+       "gloss": "Akuthai"
+      },
       {
        "text": "கண்",
        "lemma": "கண்",
        "gloss": "with"
       }
      ],
-     "gloss": "with"
+     "gloss": "with Akuthai"
     },
     {
      "surface": "தோன்றிய",
@@ -193,7 +214,7 @@
      "gloss": "like the discus"
     },
     {
-     "surface": "பொய்யாகியரோ",
+     "surface": "பொய்யா",
      "parts": [
       {
        "text": "பொய்",
@@ -201,12 +222,23 @@
        "gloss": "falsehood"
       },
       {
-       "text": "ஆகியரோ",
+       "text": "ஆ",
        "lemma": "ஆகு",
+       "gloss": "become"
+      }
+     ],
+     "gloss": "false"
+    },
+    {
+     "surface": "கியரோ",
+     "parts": [
+      {
+       "text": "கியரோ",
+       "lemma": "ஆகியரோ",
        "gloss": "may it become"
       }
      ],
-     "gloss": "may it become false"
+     "gloss": "may it become"
     }
    ]
   },
@@ -226,7 +258,7 @@
        "gloss": "bard"
       }
      ],
-     "gloss": "large bardic"
+     "gloss": "large family of bards"
     },
     {
      "surface": "ஒக்கல்",
@@ -255,7 +287,7 @@
      "parts": [
       {
        "text": "பெரும்",
-       "lemma": "பெருமை",
+       "lemma": "பெரு",
        "gloss": "great"
       },
       {
@@ -274,13 +306,17 @@
      "surface": "போர்அடு",
      "parts": [
       {
-       "text": "போர்அடு",
-       "lemma": "போர்அடு",
-       "gloss": ""
+       "text": "போர்",
+       "lemma": "போர்",
+       "gloss": "war"
+      },
+      {
+       "text": "அடு",
+       "lemma": "அடு",
+       "gloss": "slaying"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "war-slaying"
     },
     {
      "surface": "தானை",
@@ -288,11 +324,10 @@
       {
        "text": "தானை",
        "lemma": "தானை",
-       "gloss": ""
+       "gloss": "army"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "army"
     },
     {
      "surface": "எவ்வி",
@@ -300,26 +335,28 @@
       {
        "text": "எவ்வி",
        "lemma": "எவ்வி",
-       "gloss": ""
+       "gloss": "Evvi"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Evvi"
     },
     {
      "surface": "மார்பின்",
      "parts": [
       {
-       "text": "மார்பின்",
-       "lemma": "மார்பின்",
-       "gloss": ""
+       "text": "மார்பு",
+       "lemma": "மார்பு",
+       "gloss": "chest"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "on the chest"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -329,23 +366,27 @@
       {
        "text": "எ·குஉறு",
        "lemma": "எ·குஉறு",
-       "gloss": ""
+       "gloss": "received from spears"
       }
      ],
-     "gloss": "",
+     "gloss": "received from spears",
      "split_unverified": true
     },
     {
      "surface": "விழுப்புண்",
      "parts": [
       {
-       "text": "விழுப்புண்",
-       "lemma": "விழுப்புண்",
-       "gloss": ""
+       "text": "விழு",
+       "lemma": "விழு",
+       "gloss": "glorious"
+      },
+      {
+       "text": "புண்",
+       "lemma": "புண்",
+       "gloss": "wound"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "glorious wounds"
     },
     {
      "surface": "பல",
@@ -353,11 +394,10 @@
       {
        "text": "பல",
        "lemma": "பல",
-       "gloss": ""
+       "gloss": "many"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "many"
     },
     {
      "surface": "என",
@@ -365,14 +405,12 @@
       {
        "text": "என",
        "lemma": "என",
-       "gloss": ""
+       "gloss": "thus"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thus"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -387,10 +425,10 @@
       {
        "text": "அறு",
        "lemma": "அறு",
-       "gloss": "break"
+       "gloss": "to end"
       }
      ],
-     "gloss": "dawn-breaking"
+     "gloss": "dawn-ending"
     },
     {
      "surface": "விடியல்",
@@ -412,7 +450,7 @@
        "gloss": "sounded"
       }
      ],
-     "gloss": "that sounded"
+     "gloss": "sounded"
     },
     {
      "surface": "குரலே",
@@ -425,18 +463,18 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "the voice indeed"
+     "gloss": "the voice"
     }
    ]
   }
  ],
- "literal": "May it be false! May it be false! / Without withholding flat-footed elephants to gift-seekers, / with Akutai of glorious, strong feet, appeared / like the gold-crafted discus, may it be false! / The leader of the large family of bards, wearing great ornaments, / on the chest of Evvi of the battle-slaying army, / saying 'there are many noble wounds received from spears', / the voice that sounded in the dawn-breaking early morning!",
- "translation": "May it be false! May it be false! Like the gold-crafted discus that appeared with Akutai of glorious, strong feet—who never withheld flat-footed elephants from those seeking gifts—may it be false! The voice that sounded in the breaking dawn, saying, 'There are many noble wounds from spears on the chest of Evvi, the leader of the large family of bards, who wears great ornaments and commands a battle-slaying army!'",
- "modern": "பொய்யாகக் கடவது! பொய்யாகக் கடவது! பரிசிலர்களுக்குப் பரந்த அடிகளையுடைய யானைகளை இல்லை என்று கூறாமல் வாரி வழங்கும், புகழும் வலிமையும் மிக்க முயற்சியும் உடைய அகுதையிடம் தோன்றிய பொன்னால் செய்யப்பட்ட திகிரி போல, விடியற்காலையில் ஒலித்த அந்தச் செய்தி பொய்யாகக் கடவது! பெரும் ஆபரணங்களை அணிந்தவனும், பாணர்களின் பெரிய சுற்றத்திற்குத் தலைவனும், போரை வெல்லும் படையை உடையவனுமாகிய எவ்வியின் மார்பில் வேல்களால் உண்டான விழுப்புண்கள் பல உள்ளன என்று விடியற்காலையில் ஒலித்த அந்தச் செய்தி பொய்யாகக் கடவது!",
- "explanation": "The poet Veḷḷerukkilaiyār laments the death of the chieftain Vēḷ Evvi. Hearing the news at dawn that Evvi has sustained fatal wounds in battle, the poet desperately wishes that this news is false. He compares his hope for the news to be false to the legendary golden discus of Akutai, which was known for its unfailing truth or protective power. Evvi is praised as a generous patron of bards and a brave warrior who received many wounds on his chest. The poem belongs to the Potuviyal tiṇai and Kaiyaṟunilai tuṟai, expressing deep grief and helplessness over the loss of a great patron.",
+ "literal": "May it become false! May it become false! / The flat-footed elephants to the recipients of gifts, without limit, / with the gold-crafted discus that appeared with Akuthai of excellent and strong effort, / may it become false! / The leader of the large family of bards, with great ornaments, / on the chest of Evvi of the army that slays in war, / 'the glorious wounds received from spears are many', thus / the voice that sounded in the early morning of dawn!",
+ "translation": "May it be false! May it be false! Like the gold-crafted discus of Akuthai, of excellent and strong effort, who gave flat-footed elephants to bards without limit, may it be false! The voice that sounded in the early morning of dawn, saying, 'Many are the glorious wounds from spears on the chest of Evvi, the leader of the large family of bards, who has a war-slaying army and wears great ornaments!'",
+ "modern": "பொய்யாகக் கடவது! பொய்யாகக் கடவது! கொடைபெறுவோர்க்குப் பரந்த அடிகளையுடைய யானைகளை எல்லையின்றி வழங்கிய, சீர்மிகுந்த வலிமையான முயற்சியையுடைய அகுதையிடம் விளங்கிய பொன்னால் செய்யப்பட்ட சக்கரத்தைப் போல, இச்செய்தி பொய்யாகக் கடவது! பெரிய பாணர் சுற்றத்தின் தலைவனும், பெரிய அணிகலன்களை அணிந்தவனும், போரைக் கொல்லும் படையையுடையவனுமாகிய எவ்வியின் மார்பில், 'வேலினால் ஏற்பட்ட சிறந்த புண்கள் பல உள்ளன' என்று வைகறை விடியலில் ஒலித்த குரல் பொய்யாகக் கடவது!",
+ "explanation": "This poem is in the tiṇai of Potuviyal and the tuṟai of Kaiyaṟunilai (state of helplessness/lament). The poet Vellerukkilaiyar laments the death of the chieftain Vel Evvi. Hearing the news at dawn that Evvi has received fatal wounds on his chest in battle, the poet wishes desperately that this news is false. He compares his wish for the news to be false to the legendary gold discus of Akuthai, which was known for its unfailing truth and power. The poem beautifully captures the deep grief of the bards who have lost their generous patron and protector.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

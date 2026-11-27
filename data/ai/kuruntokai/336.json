@@ -11,7 +11,7 @@
        "gloss": "enemies"
       },
       {
-       "text": "கு",
+       "text": "க்கு",
        "lemma": "கு",
        "gloss": "to"
       }
@@ -33,14 +33,9 @@
      "surface": "ஆக",
      "parts": [
       {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "become"
-      },
-      {
-       "text": "க",
-       "lemma": "க",
-       "gloss": "to"
+       "text": "ஆக",
+       "lemma": "ஆகு",
+       "gloss": "to become"
       }
      ],
      "gloss": "to become"
@@ -51,11 +46,11 @@
       {
        "text": "தெறு",
        "lemma": "தெறு",
-       "gloss": "distress"
+       "gloss": "to distress"
       },
       {
        "text": "வர",
-       "lemma": "வரு",
+       "lemma": "வர",
        "gloss": "to come"
       }
      ],
@@ -69,76 +64,85 @@
      "surface": "ஈங்கனம்",
      "parts": [
       {
-       "text": "ஈங்கனம்",
-       "lemma": "ஈங்கனம்",
-       "gloss": ""
+       "text": "ஈங்கு",
+       "lemma": "ஈங்கு",
+       "gloss": "here"
+      },
+      {
+       "text": "அனம்",
+       "lemma": "அனம்",
+       "gloss": "manner"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "in this manner"
     },
     {
      "surface": "வருபவோ",
      "parts": [
       {
-       "text": "வருபவோ",
-       "lemma": "வருபவோ",
-       "gloss": ""
+       "text": "வருப",
+       "lemma": "வரு",
+       "gloss": "they come"
+      },
+      {
+       "text": "ஓ",
+       "lemma": "ஓ",
+       "gloss": "question"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "would they come?"
     },
     {
      "surface": "தேம்பாய்",
      "parts": [
       {
-       "text": "தேம்பாய்",
-       "lemma": "தேம்பாய்",
-       "gloss": ""
+       "text": "தேம்",
+       "lemma": "தேம்",
+       "gloss": "honey"
+      },
+      {
+       "text": "பாய்",
+       "lemma": "பாய்",
+       "gloss": "flowing"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "honey-flowing"
     },
     {
      "surface": "துறைவ",
      "parts": [
       {
-       "text": "துறைவ",
-       "lemma": "துறைவ",
-       "gloss": ""
+       "text": "துறை",
+       "lemma": "துறை",
+       "gloss": "shore"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "vocative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "O lord of the shore!"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "சிறு",
+     "surface": "சிறுநா",
      "parts": [
       {
        "text": "சிறு",
        "lemma": "சிறு",
        "gloss": "small"
-      }
-     ],
-     "gloss": "small"
-    },
-    {
-     "surface": "நா",
-     "parts": [
+      },
       {
        "text": "நா",
        "lemma": "நா",
        "gloss": "tongue"
       }
      ],
-     "gloss": "tongue"
+     "gloss": "small tongue (of a bell)"
     },
     {
      "surface": "ஒண்மணி",
@@ -158,64 +162,53 @@
       {
        "text": "விளரி",
        "lemma": "விளரி",
-       "gloss": "Viḷari melody"
+       "gloss": "Viḷari tune (sad melody)"
       }
      ],
-     "gloss": "Viḷari melody"
+     "gloss": "sad melody"
     },
     {
-     "surface": "யார்ப்ப",
+     "surface": "ஆர்ப்ப",
      "parts": [
       {
-       "text": "யார்ப்ப",
-       "lemma": "யார்ப்ப",
-       "gloss": "sounding"
+       "text": "ஆர்ப்ப",
+       "lemma": "ஆர்ப்ப",
+       "gloss": "to sound"
       }
      ],
-     "gloss": "sounding",
-     "split_unverified": true
+     "gloss": "sounding"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கடு",
+     "surface": "கடுமா",
      "parts": [
       {
        "text": "கடு",
        "lemma": "கடு",
        "gloss": "swift"
-      }
-     ],
-     "gloss": "swift"
-    },
-    {
-     "surface": "மா",
-     "parts": [
+      },
       {
        "text": "மா",
        "lemma": "மா",
        "gloss": "horse"
       }
      ],
-     "gloss": "horse"
+     "gloss": "swift horses"
     },
     {
      "surface": "நெடுந்தேர்",
      "parts": [
       {
-       "text": "நெடும்",
-       "lemma": "நெடு",
-       "gloss": "tall"
-      },
-      {
-       "text": "தேர்",
-       "lemma": "தேர்",
-       "gloss": "chariot"
+       "text": "நெடுந்தேர்",
+       "lemma": "நெடுந்தேர்",
+       "gloss": "tall chariot"
       }
      ],
-     "gloss": "tall chariot"
+     "gloss": "tall chariot",
+     "split_unverified": true
     },
     {
      "surface": "நேமி",
@@ -223,26 +216,21 @@
       {
        "text": "நேமி",
        "lemma": "நேமி",
-       "gloss": "wheel"
+       "gloss": "wheel rim"
       }
      ],
-     "gloss": "wheel"
+     "gloss": "wheel rim"
     },
     {
      "surface": "போகிய",
      "parts": [
       {
-       "text": "போகு",
+       "text": "போகிய",
        "lemma": "போகு",
-       "gloss": "go"
-      },
-      {
-       "text": "இய",
-       "lemma": "இய",
-       "gloss": "past adjectival participle"
+       "gloss": "having passed over"
       }
      ],
-     "gloss": "which went"
+     "gloss": "passed over"
     }
    ]
   },
@@ -270,22 +258,17 @@
       {
        "text": "நெய்தல்",
        "lemma": "நெய்தல்",
-       "gloss": "blue water lily"
+       "gloss": "neytal flower"
       }
      ],
-     "gloss": "blue water lily"
+     "gloss": "neytal flower"
     },
     {
      "surface": "போல",
      "parts": [
       {
-       "text": "போல்",
-       "lemma": "போல்",
-       "gloss": "resemble"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
+       "text": "போல",
+       "lemma": "போல",
        "gloss": "like"
       }
      ],
@@ -347,10 +330,10 @@
    "as_printed": true
   }
  ],
- "literal": "To enemies as joy, distressingly / in this manner do they come, O lord of the honey-flowing shore? / As the small-tongued bright bell sounds the Viḷari melody, / the wheel of the tall chariot drawn by swift horses having passed, / like the blue water lily of the dark backwater, / she suffered, the pitiable one, she from whom you separated.",
- "translation": "O lord of the shore where honey flows! Do they return in this manner, causing distress to us and joy to our enemies? Like the blue water lily in the dark backwater, crushed by the wheel of the tall chariot drawn by swift horses, while its small-tongued bright bell rings a mournful Viḷari tune, she, the pitiable one, suffered when you separated from her.",
- "modern": "தேன் பாயும் துறைமுகத்தின் தலைவனே! பகைவர்களுக்கு மகிழ்ச்சியாகவும், எங்களுக்குத் துன்பமாகவும் இருக்கும்படி இப்படி வருவார்களோ? வேகமான குதிரைகள் பூட்டிய நெடிய தேரின் சக்கரம் ஏறிச் சென்றதால், கரிய கழியில் உள்ள நெய்தல் மலர் நசுங்குவது போல, சிறிய நாவைக் கொண்ட ஒளிரும் மணி விளரிப் பண் போல ஒலிக்க, நீ பிரிந்து சென்றதால் அந்தப் பேதை வருந்தினாள்.",
- "explanation": "The friend (தோழி) speaks to the hero (தலைவன்) who has returned from his journey, gently reproaching him for his separation. She asks if it is right to return in a manner that brings joy to their enemies and grief to them. She compares the heroine to a delicate blue water lily in the dark backwater, crushed by the heavy wheel of his swift chariot. As the chariot passes, its small bells ring a mournful tune (Viḷari), mirroring the heroine's sorrow. This poignant imagery from the coastal landscape beautifully conveys the physical and emotional toll of the hero's separation on the fragile heroine.",
+ "literal": "To enemies joy to become, distressingly / in this manner would they come, O lord of the honey-flowing shore? / As the small tongue of the bright bell sounds a sad melody, / the wheel rim of the tall chariot drawn by swift horses passed over, / like the neytal flower of the dark backwater, / she suffered, the pitiable one, she from whom you parted.",
+ "translation": "O lord of the honey-flowing shore! Would anyone return in this manner, causing distress to her and bringing joy to her enemies? Like the neytal flower in the dark backwater crushed by the wheel rim of a tall chariot drawn by swift horses, while its bright bells with small tongues ring a sad melody, she from whom you parted has suffered, the pitiable one.",
+ "modern": "தேன் பாய்கின்ற துறைமுகத்தின் தலைவனே! பகைவர்களுக்கு மகிழ்ச்சி உண்டாகும் படியாக, துன்பம் தரும் வகையில் இப்படி வருவார்களா? வேகமான குதிரைகள் பூட்டிய நெடிய தேரின் சக்கரம் ஏறி நசுக்கியதால், சிறிய நாக்கைக் கொண்ட விளங்கும் மணிகள் விளரிப் பண் போல ஒலிக்க, கரிய உப்பங்கழியில் உள்ள நெய்தல் மலர் வருந்தியது போல, நீ பிரிந்து சென்ற உனது காதலி மிகவும் வருந்தினாள்; அவள் இரங்கத்தக்கவள்.",
+ "explanation": "The friend (தோழி) speaks to the hero (தலைவன்) upon his return, describing the intense suffering the heroine (தலைவி) endured during his absence. She compares the heroine to a delicate neytal flower in the dark backwater that has been crushed under the heavy wheels of his swift chariot. The ringing of the chariot's bells is compared to the mournful viḷari tune, symbolizing the sadness of her state. The friend gently reproaches him, asking if it is right to return in a manner that causes such distress, which only gives joy to those who wish them ill. Although the colophon lists the tiṇai as Kuriñci, the imagery of the shore (துறைவ), backwater (கழி), and neytal flower belongs to the Neytal (coastal) landscape, used here to evoke the theme of anxious waiting and separation.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

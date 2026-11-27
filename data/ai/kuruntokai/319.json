@@ -16,34 +16,31 @@
        "gloss": "male"
       }
      ],
-     "gloss": "male deer"
+     "gloss": "male deer / stag"
     },
     {
      "surface": "மடப்பிணை",
      "parts": [
       {
-       "text": "மட",
-       "lemma": "maṭa",
-       "gloss": "gentle"
-      },
-      {
-       "text": "பிணை",
-       "lemma": "piṇai",
-       "gloss": "female deer"
+       "text": "மடப்பிணை",
+       "lemma": "மடப்பிணை",
+       "gloss": "gentle female deer"
       }
      ],
-     "gloss": "gentle female deer"
+     "gloss": "gentle female deer",
+     "split_unverified": true
     },
     {
      "surface": "தழீஇ",
      "parts": [
       {
        "text": "தழீஇ",
-       "lemma": "taḻuvu",
-       "gloss": "having embraced"
+       "lemma": "தழீஇ",
+       "gloss": "embracing"
       }
      ],
-     "gloss": "having embraced"
+     "gloss": "embracing",
+     "split_unverified": true
     },
     {
      "surface": "மருள்கூர்ந்து",
@@ -51,11 +48,11 @@
       {
        "text": "மருள்",
        "lemma": "maruḷ",
-       "gloss": "desire/bewilderment"
+       "gloss": "desire"
       },
       {
        "text": "கூர்ந்து",
-       "lemma": "kūru",
+       "lemma": "kūr",
        "gloss": "having abounded"
       }
      ],
@@ -71,10 +68,10 @@
       {
        "text": "கான",
        "lemma": "கான",
-       "gloss": ""
+       "gloss": "of the forest"
       }
      ],
-     "gloss": "",
+     "gloss": "of the forest",
      "split_unverified": true
     },
     {
@@ -82,39 +79,41 @@
      "parts": [
       {
        "text": "நண்ணிய",
-       "lemma": "நண்ணிய",
-       "gloss": ""
+       "lemma": "naṇṇu",
+       "gloss": "approached"
       }
      ],
-     "gloss": "",
+     "gloss": "approached"
+    },
+    {
+     "surface": "புதன்மறைந்து",
+     "parts": [
+      {
+       "text": "புதன்மறைந்து",
+       "lemma": "புதன்மறைந்து",
+       "gloss": "hiding in the bushes"
+      }
+     ],
+     "gloss": "hiding in the bushes",
      "split_unverified": true
     },
     {
-     "surface": "புதன்மறைந்",
+     "surface": "ஒடுங்கவும்",
      "parts": [
       {
-       "text": "புதன்மறைந்",
-       "lemma": "புதன்மறைந்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "தொடுங்கவும்",
-     "parts": [
+       "text": "ஒடுங்க",
+       "lemma": "oṭuṅku",
+       "gloss": "to huddle"
+      },
       {
-       "text": "தொடுங்கவும்",
-       "lemma": "தொடுங்கவும்",
-       "gloss": ""
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "and to huddle"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -140,10 +139,10 @@
       {
        "text": "நன்மா",
        "lemma": "நன்மா",
-       "gloss": "noble animal (elephant)"
+       "gloss": "good animal (elephant)"
       }
      ],
-     "gloss": "noble animal (elephant)",
+     "gloss": "good animal (elephant)",
      "split_unverified": true
     },
     {
@@ -168,10 +167,10 @@
       {
        "text": "பொருந்தி",
        "lemma": "poruntu",
-       "gloss": "having joined"
+       "gloss": "joining"
       }
      ],
-     "gloss": "having joined"
+     "gloss": "joining"
     }
    ]
   },
@@ -188,7 +187,7 @@
       {
        "text": "அணி",
        "lemma": "aṇi",
-       "gloss": "adorned"
+       "gloss": "adorn"
       }
      ],
      "gloss": "adorned with dark clouds"
@@ -199,7 +198,7 @@
       {
        "text": "மருங்கு",
        "lemma": "maruṅku",
-       "gloss": "side"
+       "gloss": "slope"
       },
       {
        "text": "இன்",
@@ -207,7 +206,7 @@
        "gloss": "of"
       }
      ],
-     "gloss": "on the side"
+     "gloss": "on the slopes"
     },
     {
      "surface": "மலையகம்",
@@ -220,18 +219,23 @@
       {
        "text": "அகம்",
        "lemma": "akam",
-       "gloss": "interior/place"
+       "gloss": "interior"
       }
      ],
-     "gloss": "mountain side"
+     "gloss": "mountain interior"
     },
     {
      "surface": "சேரவும்",
      "parts": [
       {
-       "text": "சேரவும்",
+       "text": "சேர",
        "lemma": "cēru",
-       "gloss": "and to reach"
+       "gloss": "to reach"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
      "gloss": "and to reach"
@@ -255,13 +259,17 @@
      "surface": "வந்தன்று",
      "parts": [
       {
-       "text": "வந்தன்று",
-       "lemma": "வந்தன்று",
-       "gloss": "it has come"
+       "text": "வந்து",
+       "lemma": "vā",
+       "gloss": "come"
+      },
+      {
+       "text": "அன்று",
+       "lemma": "aṉṟu",
+       "gloss": "singular neuter past suffix"
       }
      ],
-     "gloss": "it has come",
-     "split_unverified": true
+     "gloss": "has arrived"
     },
     {
      "surface": "மாரி",
@@ -285,7 +293,7 @@
       {
        "text": "மழை",
        "lemma": "maḻai",
-       "gloss": "cloud/rain"
+       "gloss": "rain/cloud"
       }
      ],
      "gloss": "great rain clouds"
@@ -303,12 +311,12 @@
        "gloss": "gold"
       },
       {
-       "text": "ஏர்",
-       "lemma": "ēr",
+       "text": "நேர்",
+       "lemma": "nēr",
        "gloss": "resembling"
       }
      ],
-     "gloss": "resembling gold"
+     "gloss": "gold-resembling"
     },
     {
      "surface": "மேனி",
@@ -319,7 +327,7 @@
        "gloss": "body/complexion"
       }
      ],
-     "gloss": "body/complexion"
+     "gloss": "body"
     },
     {
      "surface": "நன்னலம்",
@@ -335,30 +343,15 @@
        "gloss": "beauty"
       }
      ],
-     "gloss": "fine beauty"
+     "gloss": "good beauty"
     },
     {
      "surface": "சிதைத்தோர்",
      "parts": [
       {
-       "text": "சிதை",
+       "text": "சிதைத்தோர்",
        "lemma": "citai",
-       "gloss": "ruin"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "hiatus/glide"
-      },
-      {
-       "text": "ஓர்",
-       "lemma": "ōr",
-       "gloss": "he who"
+       "gloss": "he who ruined"
       }
      ],
      "gloss": "he who ruined"
@@ -383,11 +376,11 @@
      "parts": [
       {
        "text": "வாரார்",
-       "lemma": "varu",
+       "lemma": "vā",
        "gloss": "he does not come"
       }
      ],
-     "gloss": "he has not returned"
+     "gloss": "he does not return"
     },
     {
      "surface": "ஆயின்",
@@ -405,20 +398,16 @@
   {
    "words": [
     {
-     "surface": "என்னாம்",
+     "surface": "என்னாந்",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "eṉ",
-       "gloss": "what"
-      },
-      {
-       "text": "ஆம்",
-       "lemma": "ām",
-       "gloss": "will become"
+       "text": "என்னாந்",
+       "lemma": "என்னாந்",
+       "gloss": "what will become of"
       }
      ],
-     "gloss": "what will become"
+     "gloss": "what will become of",
+     "split_unverified": true
     },
     {
      "surface": "தோழி",
@@ -469,7 +458,7 @@
       {
        "text": "ஏ",
        "lemma": "ē",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
      "gloss": "the state indeed"
@@ -477,10 +466,10 @@
    ]
   }
  ],
- "literal": "The male deer, embracing the gentle female deer, with intense desire, / having hidden and huddled in the bushes of the forest, / the noble male elephant with a trunk, joining with his female elephant, / reaches the mountain side adorned with dark clouds, / evening has come, along with the great rain of the rainy season; / he who ruined the fine beauty of my gold-like complexion, / if he still does not return, / O friend, what will become of the state of our sweet life?",
- "translation": "The male deer, embracing his gentle mate with deep desire, hides and huddles in the forest bushes. The great elephant with a trunk joins his female mate and reaches the mountain slopes adorned with dark clouds. Evening has arrived, bringing the heavy rains of the season. If he, who ruined the fine beauty of my gold-like complexion, still does not return, O friend, what will become of our sweet life?",
- "modern": "ஆண் மான் தன் மென்மையான பெண் மானைத் தழுவிக்கொண்டு, மிகுந்த காதலோடு காட்டில் உள்ள புதருக்குள் மறைந்து ஒடுங்கவும், துதிக்கையையுடைய நல்ல ஆண் யானை தன் பெண் யானையோடு கூடி மேகங்கள் சூழ்ந்த மலைப்பக்கத்தை அடையவும், மழைக் காலத்துப் பெருமழையோடு மாலைப் பொழுது வந்துவிட்டது. பொன்னைப் போன்ற என் உடலின் அழகைச் சிதைத்தவர் இன்னும் வரவில்லை என்றால், தோழியே! நம்முடைய இனிய உயிரின் நிலை என்னவாகும்?",
- "explanation": "The heroine is speaking to her close friend in deep distress. The rainy season has arrived, which is the promised time for the hero's return, but he is still absent. She observes the natural world around her, where animals are uniting in love: the male deer embraces its mate and huddles in the bushes, and the male elephant joins its female on the cloudy mountain slopes. These images of union belong to the Mullai landscape and intensify her sense of loneliness during the evening. She despairs that if her lover, who caused her beauty to fade through separation, does not return now, her very life may not survive.",
+ "literal": "The male deer, embracing the gentle female deer, with intense desire, / and hiding to huddle in the bushes of the forest, / the good male elephant with a trunk, joining with the female elephant, / and reaching the mountain interior on the dark-adorned slopes, / evening has arrived, along with the rainy season's great clouds; / he who ruined the good beauty of my gold-like complexion, / if he still does not return, / O friend, what will become of the state of our sweet life?",
+ "translation": "The stag, embracing his gentle mate with deep desire, hides and huddles in the forest bushes. The great tusker with his trunk, united with his female elephant, retreats to the dark-sloped mountain clefts. Evening has arrived, bringing the heavy rains of the season. If he who ruined the fine beauty of my gold-like complexion still does not return, O friend, what will become of my sweet life?",
+ "modern": "ஆண் மான் தன் மென்மையான பெண் மானைத் தழுவிக்கொண்டு, மிகுந்த காதலுடன் காட்டில் உள்ள புதர்களில் மறைந்து ஒடுங்கவும், தும்பிக்கையையுடைய நல்ல ஆண் யானை தன் பெண் யானையோடு கூடி, மேகங்கள் சூழ்ந்த பக்க மலைகளின் உட்பகுதிக்குச் செல்லவும், மழைக்காலத்து மேகங்களுடன் மாலைப் பொழுது வந்துவிட்டது. பொன்னைப் போன்ற என் உடலின் அழகைச் சிதைத்தவர் இன்னும் திரும்பி வரவில்லை என்றால், தோழியே! நம்முடைய இனிய உயிரின் நிலை என்னவாகும்?",
+ "explanation": "The heroine is speaking to her close friend in a state of deep distress. The rainy season and evening have arrived, which is the time the hero promised to return from his journey. She observes that the animals in nature, such as the deer and the elephants, are pairing up and seeking shelter together to escape the rain and darkness. This imagery of union in the natural world contrasts sharply with her own loneliness and heightens her grief. Since the hero has not yet returned, she despairs over whether she can survive this separation. The poem beautifully employs the mullai landscape elements of evening, rain, and the theme of patient waiting.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

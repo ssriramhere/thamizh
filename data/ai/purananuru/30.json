@@ -8,10 +8,10 @@
       {
        "text": "செஞ்ஞா",
        "lemma": "செஞ்ஞா",
-       "gloss": ""
+       "gloss": "red"
       }
      ],
-     "gloss": "",
+     "gloss": "red",
      "split_unverified": true
     },
     {
@@ -20,26 +20,29 @@
       {
        "text": "யிற்றுச்",
        "lemma": "யிற்றுச்",
-       "gloss": ""
+       "gloss": "of the sun"
       }
      ],
-     "gloss": "",
+     "gloss": "of the sun",
      "split_unverified": true
     },
     {
      "surface": "செலவும்",
      "parts": [
       {
-       "text": "செலவும்",
-       "lemma": "செலவும்",
-       "gloss": ""
+       "text": "செலவு",
+       "lemma": "செலவு",
+       "gloss": "movement"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "and the movement"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -49,10 +52,10 @@
       {
        "text": "அஞ்",
        "lemma": "அஞ்",
-       "gloss": ""
+       "gloss": "that"
       }
      ],
-     "gloss": "",
+     "gloss": "that",
      "split_unverified": true
     },
     {
@@ -61,67 +64,83 @@
       {
        "text": "ஞாயிற்றுப்",
        "lemma": "ஞாயிற்றுப்",
-       "gloss": ""
+       "gloss": "of the sun"
       }
      ],
-     "gloss": "",
+     "gloss": "of the sun",
      "split_unverified": true
     },
     {
      "surface": "பரிப்பும்",
      "parts": [
       {
-       "text": "பரிப்பும்",
-       "lemma": "பரிப்பும்",
-       "gloss": ""
+       "text": "பரிப்பு",
+       "lemma": "பரிப்பு",
+       "gloss": "orbit"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "and the orbit"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "பரிப்பு",
+     "surface": "பரிப்புச்",
      "parts": [
       {
-       "text": "பரிப்பு",
-       "lemma": "பரிப்பு",
+       "text": "பரிப்புச்",
+       "lemma": "பரிப்புச்",
        "gloss": "orbit"
       }
      ],
-     "gloss": "orbit"
+     "gloss": "orbit",
+     "split_unverified": true
     },
     {
      "surface": "சூழ்ந்த",
      "parts": [
       {
-       "text": "சூழ்ந்த",
-       "lemma": "சூழ்ந்த",
-       "gloss": "surrounded"
+       "text": "சூழ்",
+       "lemma": "cūḻ",
+       "gloss": "surround"
+      },
+      {
+       "text": "ந்த",
+       "lemma": "nta",
+       "gloss": "past relative participle"
       }
      ],
-     "gloss": "surrounded",
+     "gloss": "surrounding"
+    },
+    {
+     "surface": "மண்",
+     "parts": [
+      {
+       "text": "மண்",
+       "lemma": "மண்",
+       "gloss": "sphere"
+      }
+     ],
+     "gloss": "sphere",
      "split_unverified": true
     },
     {
-     "surface": "மண்டிலமும்",
+     "surface": "டிலமும்",
      "parts": [
       {
-       "text": "மண்டிலம்",
-       "lemma": "மண்டிலம்",
-       "gloss": "sphere"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
+       "text": "டிலமும்",
+       "lemma": "டிலமும்",
        "gloss": "and"
       }
      ],
-     "gloss": "and the sphere"
+     "gloss": "and",
+     "split_unverified": true
     }
    ]
   },
@@ -132,7 +151,7 @@
      "parts": [
       {
        "text": "வளி",
-       "lemma": "வளி",
+       "lemma": "vaḷi",
        "gloss": "wind"
       }
      ],
@@ -142,14 +161,9 @@
      "surface": "திரிதரு",
      "parts": [
       {
-       "text": "திரி",
-       "lemma": "திரி",
-       "gloss": "wander/blow"
-      },
-      {
-       "text": "தரு",
-       "lemma": "தரு",
-       "gloss": "auxiliary verb indicating continuous action"
+       "text": "திரிதரு",
+       "lemma": "tiritaru",
+       "gloss": "blowing"
       }
      ],
      "gloss": "blowing"
@@ -159,12 +173,12 @@
      "parts": [
       {
        "text": "திசை",
-       "lemma": "திசை",
+       "lemma": "ticai",
        "gloss": "direction"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
@@ -179,7 +193,7 @@
      "parts": [
       {
        "text": "வறிது",
-       "lemma": "வறிது",
+       "lemma": "vaṟitu",
        "gloss": "empty"
       }
      ],
@@ -190,13 +204,13 @@
      "parts": [
       {
        "text": "நிலை",
-       "lemma": "நிலை",
-       "gloss": "stand/exist"
+       "lemma": "nilai",
+       "gloss": "exist"
       },
       {
        "text": "இய",
-       "lemma": "இய",
-       "gloss": "adjectival participle suffix (alapedai)"
+       "lemma": "iya",
+       "gloss": "adjectival participle"
       }
      ],
      "gloss": "existing"
@@ -206,89 +220,75 @@
      "parts": [
       {
        "text": "காயம்",
-       "lemma": "காயம்",
-       "gloss": "sky/space"
+       "lemma": "kāyam",
+       "gloss": "sky"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
      "gloss": "and the sky"
     },
     {
-     "surface": "என்று",
+     "surface": "என்றிவை",
      "parts": [
       {
        "text": "என்று",
-       "lemma": "என்று",
-       "gloss": "thus"
-      }
-     ],
-     "gloss": "thus"
-    },
-    {
-     "surface": "இவை",
-     "parts": [
+       "lemma": "eṉṟu",
+       "gloss": "saying"
+      },
       {
        "text": "இவை",
-       "lemma": "இவை",
+       "lemma": "ivai",
        "gloss": "these"
       }
      ],
-     "gloss": "these"
+     "gloss": "saying these"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "சென்று",
+     "surface": "சென்றளந்து",
      "parts": [
       {
        "text": "சென்று",
-       "lemma": "சென்று",
+       "lemma": "cel",
        "gloss": "having gone"
-      }
-     ],
-     "gloss": "having gone",
-     "split_unverified": true
-    },
-    {
-     "surface": "அளந்து",
-     "parts": [
-      {
-       "text": "அள",
-       "lemma": "அள",
-       "gloss": "measure"
       },
       {
-       "text": "ந்து",
-       "lemma": "ந்து",
-       "gloss": "past participle suffix"
+       "text": "அளந்து",
+       "lemma": "aḷa",
+       "gloss": "having measured"
       }
      ],
-     "gloss": "having measured"
+     "gloss": "having gone and measured"
     },
     {
      "surface": "அறிந்தார்",
      "parts": [
       {
-       "text": "அறிந்தார்",
-       "lemma": "அறிந்தார்",
-       "gloss": "those who knew"
+       "text": "அறி",
+       "lemma": "aṟi",
+       "gloss": "know"
+      },
+      {
+       "text": "ந்தார்",
+       "lemma": "ntār",
+       "gloss": "past third person plural"
       }
      ],
-     "gloss": "those who knew",
-     "split_unverified": true
+     "gloss": "those who knew"
     },
     {
      "surface": "போல",
      "parts": [
       {
        "text": "போல",
-       "lemma": "போல",
+       "lemma": "pōla",
        "gloss": "like"
       }
      ],
@@ -299,13 +299,13 @@
      "parts": [
       {
        "text": "என்று",
-       "lemma": "என்று",
+       "lemma": "eṉṟu",
        "gloss": "always"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even/always"
+       "lemma": "um",
+       "gloss": "even"
       }
      ],
      "gloss": "always"
@@ -319,7 +319,7 @@
      "parts": [
       {
        "text": "இனைத்து",
-       "lemma": "இனைத்து",
+       "lemma": "inaittu",
        "gloss": "of this measure"
       }
      ],
@@ -330,34 +330,34 @@
      "parts": [
       {
        "text": "என்",
-       "lemma": "என்",
+       "lemma": "eṉ",
        "gloss": "say"
       },
       {
        "text": "போர்",
-       "lemma": "போர்",
-       "gloss": "those who do"
+       "lemma": "pōr",
+       "gloss": "plural suffix"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "also"
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "even those who say"
+     "gloss": "and those who say"
     },
     {
      "surface": "உளரே",
      "parts": [
       {
        "text": "உளர்",
-       "lemma": "உளர்",
+       "lemma": "uḷar",
        "gloss": "exist"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "indeed"
+       "lemma": "ē",
+       "gloss": "emphasis"
       }
      ],
      "gloss": "indeed exist"
@@ -367,124 +367,120 @@
      "parts": [
       {
        "text": "அனைத்து",
-       "lemma": "அனைத்து",
+       "lemma": "anaittu",
        "gloss": "all those"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "all"
+       "lemma": "um",
+       "gloss": "and"
       }
      ],
-     "gloss": "all those"
+     "gloss": "all of those"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "அறிவு",
+     "surface": "அறிவுஅறி",
      "parts": [
       {
-       "text": "அறிவு",
-       "lemma": "அறிவு",
-       "gloss": "knowledge"
+       "text": "அறிவுஅறி",
+       "lemma": "அறிவுஅறி",
+       "gloss": "knowledge after knowledge"
       }
      ],
-     "gloss": "knowledge"
+     "gloss": "knowledge after knowledge",
+     "split_unverified": true
     },
     {
-     "surface": "அறிவாக",
+     "surface": "வாகச்",
      "parts": [
       {
-       "text": "அறிவு",
-       "lemma": "அறிவு",
-       "gloss": "knowledge"
-      },
-      {
-       "text": "ஆக",
-       "lemma": "ஆகு",
-       "gloss": "to become/as"
+       "text": "வாகச்",
+       "lemma": "வாகச்",
+       "gloss": "to become"
       }
      ],
-     "gloss": "as knowledge"
+     "gloss": "to become",
+     "split_unverified": true
     },
     {
      "surface": "செறிவினை",
      "parts": [
       {
-       "text": "செறிவினை",
-       "lemma": "செறிவினை",
-       "gloss": "of dense strength"
+       "text": "செறி",
+       "lemma": "ceṟi",
+       "gloss": "dense"
+      },
+      {
+       "text": "வினை",
+       "lemma": "viṉai",
+       "gloss": "action"
       }
      ],
-     "gloss": "of dense strength",
-     "split_unverified": true
+     "gloss": "of dense actions"
     },
     {
-     "surface": "ஆகி",
+     "surface": "யாகிக்",
      "parts": [
       {
-       "text": "ஆகி",
-       "lemma": "ஆகு",
+       "text": "யாகிக்",
+       "lemma": "யாகிக்",
        "gloss": "having become"
       }
      ],
-     "gloss": "having become"
+     "gloss": "having become",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "களிறு",
+     "surface": "களிறுகவுள்",
      "parts": [
       {
        "text": "களிறு",
-       "lemma": "களிறு",
+       "lemma": "kaḷiṟu",
        "gloss": "male elephant"
-      }
-     ],
-     "gloss": "male elephant"
-    },
-    {
-     "surface": "கவுள்",
-     "parts": [
+      },
       {
        "text": "கவுள்",
-       "lemma": "கவுள்",
+       "lemma": "kavuḷ",
        "gloss": "cheek"
       }
      ],
-     "gloss": "cheek"
+     "gloss": "cheek of the male elephant"
     },
     {
      "surface": "அடுத்த",
      "parts": [
       {
        "text": "அடு",
-       "lemma": "அடு",
-       "gloss": "press/place"
+       "lemma": "aṭu",
+       "gloss": "keep close"
       },
       {
        "text": "த்த",
-       "lemma": "த்த",
-       "gloss": "past relative participle suffix"
+       "lemma": "tta",
+       "gloss": "relative participle"
       }
      ],
-     "gloss": "placed inside"
+     "gloss": "kept close"
     },
     {
      "surface": "எறிகல்",
      "parts": [
       {
        "text": "எறி",
-       "lemma": "எறி",
+       "lemma": "eṟi",
        "gloss": "throw"
       },
       {
        "text": "கல்",
-       "lemma": "கல்",
+       "lemma": "kal",
        "gloss": "stone"
       }
      ],
@@ -495,7 +491,7 @@
      "parts": [
       {
        "text": "போல",
-       "lemma": "போல",
+       "lemma": "pōla",
        "gloss": "like"
       }
      ],
@@ -510,13 +506,13 @@
      "parts": [
       {
        "text": "ஒளி",
-       "lemma": "ஒளி",
+       "lemma": "oḷi",
        "gloss": "hide"
       },
       {
        "text": "த்த",
-       "lemma": "த்த",
-       "gloss": "past relative participle suffix"
+       "lemma": "tta",
+       "gloss": "past relative participle"
       }
      ],
      "gloss": "hidden"
@@ -525,26 +521,30 @@
      "surface": "துப்பினை",
      "parts": [
       {
-       "text": "துப்பினை",
-       "lemma": "துப்பினை",
+       "text": "துப்பு",
+       "lemma": "tuppu",
        "gloss": "strength"
+      },
+      {
+       "text": "இனை",
+       "lemma": "iṉai",
+       "gloss": "pronominal suffix"
       }
      ],
-     "gloss": "strength",
-     "split_unverified": true
+     "gloss": "you who have strength"
     },
     {
      "surface": "ஆதலின்",
      "parts": [
       {
        "text": "ஆதல்",
-       "lemma": "ஆதல்",
+       "lemma": "ātal",
        "gloss": "becoming"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "because of/therefore"
+       "lemma": "iṉ",
+       "gloss": "instrumental"
       }
      ],
      "gloss": "therefore"
@@ -553,17 +553,13 @@
      "surface": "வெளிப்பட",
      "parts": [
       {
-       "text": "வெளி",
-       "lemma": "வெளி",
-       "gloss": "outside/open"
-      },
-      {
-       "text": "பட",
-       "lemma": "படு",
-       "gloss": "to happen/manifestly"
+       "text": "வெளிப்பட",
+       "lemma": "வெளிப்பட",
+       "gloss": "clearly"
       }
      ],
-     "gloss": "manifestly"
+     "gloss": "clearly",
+     "split_unverified": true
     }
    ]
   },
@@ -574,7 +570,7 @@
      "parts": [
       {
        "text": "யாங்ஙனம்",
-       "lemma": "யாங்ஙனம்",
+       "lemma": "yāṅṅaṉam",
        "gloss": "how"
       }
      ],
@@ -585,13 +581,13 @@
      "parts": [
       {
        "text": "பாடு",
-       "lemma": "பாடு",
+       "lemma": "pāṭu",
        "gloss": "sing"
       },
       {
        "text": "வர்",
-       "lemma": "வர்",
-       "gloss": "future third person plural suffix"
+       "lemma": "var",
+       "gloss": "future third person plural"
       }
      ],
      "gloss": "will they sing"
@@ -601,7 +597,7 @@
      "parts": [
       {
        "text": "புலவர்",
-       "lemma": "புலவர்",
+       "lemma": "pulavar",
        "gloss": "poets"
       }
      ],
@@ -612,13 +608,13 @@
      "parts": [
       {
        "text": "கூம்பு",
-       "lemma": "கூம்பு",
+       "lemma": "kūmpu",
        "gloss": "mast"
       },
       {
        "text": "ஒடு",
-       "lemma": "ஒடு",
-       "gloss": "with"
+       "lemma": "oṭu",
+       "gloss": "sociative case"
       }
      ],
      "gloss": "with the mast"
@@ -631,9 +627,14 @@
      "surface": "மீப்பாய்",
      "parts": [
       {
-       "text": "மீப்பாய்",
-       "lemma": "மீப்பாய்",
-       "gloss": "top sail"
+       "text": "மீ",
+       "lemma": "mī",
+       "gloss": "top"
+      },
+      {
+       "text": "பாய்",
+       "lemma": "pāy",
+       "gloss": "sail"
       }
      ],
      "gloss": "top sail"
@@ -643,49 +644,51 @@
      "parts": [
       {
        "text": "களை",
-       "lemma": "களை",
+       "lemma": "kaḷai",
        "gloss": "remove"
       },
       {
        "text": "யாது",
-       "lemma": "யாது",
-       "gloss": "without"
+       "lemma": "yātu",
+       "gloss": "negative verbal participle"
       }
      ],
-     "gloss": "without removing"
+     "gloss": "without lowering"
     },
     {
-     "surface": "மிசை",
+     "surface": "மிசைப்",
      "parts": [
       {
-       "text": "மிசை",
-       "lemma": "மிசை",
+       "text": "மிசைப்",
+       "lemma": "மிசைப்",
        "gloss": "on top"
       }
      ],
-     "gloss": "on top"
+     "gloss": "on top",
+     "split_unverified": true
     },
     {
-     "surface": "பரந்து",
+     "surface": "பரந்",
      "parts": [
       {
-       "text": "பரந்து",
-       "lemma": "பரந்து",
-       "gloss": "spreading/broad"
+       "text": "பரந்",
+       "lemma": "பரந்",
+       "gloss": "spreading"
       }
      ],
-     "gloss": "spreading"
+     "gloss": "spreading",
+     "split_unverified": true
     },
     {
-     "surface": "ஓண்டாது",
+     "surface": "தோண்டாது",
      "parts": [
       {
-       "text": "ஓண்டாது",
-       "lemma": "ஓண்டாது",
-       "gloss": "without reducing"
+       "text": "தோண்டாது",
+       "lemma": "தோண்டாது",
+       "gloss": "without reducing cargo"
       }
      ],
-     "gloss": "without reducing",
+     "gloss": "without reducing cargo",
      "split_unverified": true
     }
    ]
@@ -693,58 +696,55 @@
   {
    "words": [
     {
-     "surface": "புகாஅர்",
+     "surface": "புகாஅர்ப்",
      "parts": [
       {
-       "text": "புகாஅர்",
-       "lemma": "புகாஅர்",
-       "gloss": "Puhar/river mouth"
+       "text": "புகாஅர்ப்",
+       "lemma": "புகாஅர்ப்",
+       "gloss": "into Puhar port"
       }
      ],
-     "gloss": "Puhar"
+     "gloss": "into Puhar port",
+     "split_unverified": true
     },
     {
      "surface": "புகுந்த",
      "parts": [
       {
        "text": "புகு",
-       "lemma": "புகு",
+       "lemma": "puku",
        "gloss": "enter"
       },
       {
        "text": "ந்த",
-       "lemma": "ந்த",
-       "gloss": "past relative participle suffix"
+       "lemma": "nta",
+       "gloss": "past relative participle"
       }
      ],
      "gloss": "entered"
     },
     {
-     "surface": "பெருங்கலம்",
+     "surface": "பெருங்கலந்",
      "parts": [
       {
-       "text": "பெருமை",
-       "lemma": "பெருமை",
-       "gloss": "great"
-      },
-      {
-       "text": "கலம்",
-       "lemma": "கலம்",
-       "gloss": "ship"
+       "text": "பெருங்கலந்",
+       "lemma": "பெருங்கலந்",
+       "gloss": "large ship"
       }
      ],
-     "gloss": "large ship"
+     "gloss": "large ship",
+     "split_unverified": true
     },
     {
      "surface": "தகாஅர்",
      "parts": [
       {
        "text": "தகாஅர்",
-       "lemma": "தகாஅர்",
-       "gloss": "unfit people"
+       "lemma": "takāar",
+       "gloss": "unworthy enemies"
       }
      ],
-     "gloss": "unfit people"
+     "gloss": "unworthy enemies"
     }
    ]
   },
@@ -756,10 +756,10 @@
       {
        "text": "இடைப்புலப்",
        "lemma": "இடைப்புலப்",
-       "gloss": ""
+       "gloss": "middle of the land"
       }
      ],
-     "gloss": "",
+     "gloss": "middle of the land",
      "split_unverified": true
     },
     {
@@ -768,50 +768,47 @@
       {
        "text": "பெருவழிச்",
        "lemma": "பெருவழிச்",
-       "gloss": ""
+       "gloss": "great path"
       }
      ],
-     "gloss": "",
+     "gloss": "great path",
      "split_unverified": true
     },
     {
      "surface": "சொரியும்",
      "parts": [
       {
-       "text": "சொரியும்",
-       "lemma": "சொரியும்",
-       "gloss": ""
+       "text": "சொரி",
+       "lemma": "cori",
+       "gloss": "spill"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "relative participle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "spilling"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "கடல்",
+     "surface": "கடல்பல்",
      "parts": [
       {
        "text": "கடல்",
-       "lemma": "கடல்",
-       "gloss": "ocean"
-      }
-     ],
-     "gloss": "ocean"
-    },
-    {
-     "surface": "பல்",
-     "parts": [
+       "lemma": "kaṭal",
+       "gloss": "sea"
+      },
       {
        "text": "பல்",
-       "lemma": "பல",
+       "lemma": "pal",
        "gloss": "many"
       }
      ],
-     "gloss": "many"
+     "gloss": "many sea"
     },
     {
      "surface": "தாரத்த",
@@ -819,46 +816,43 @@
       {
        "text": "தாரத்த",
        "lemma": "தாரத்த",
-       "gloss": "of the goods"
+       "gloss": "possessing goods"
       }
      ],
-     "gloss": "of the goods",
+     "gloss": "possessing goods",
      "split_unverified": true
     },
     {
-     "surface": "நாடு",
+     "surface": "நாடுகிழ",
      "parts": [
       {
-       "text": "நாடு",
-       "lemma": "நாடு",
+       "text": "நாடுகிழ",
+       "lemma": "நாடுகிழ",
        "gloss": "land"
       }
      ],
-     "gloss": "land"
+     "gloss": "land",
+     "split_unverified": true
     },
     {
-     "surface": "கிழவோயே",
+     "surface": "வோயே",
      "parts": [
       {
-       "text": "கிழவோய்",
-       "lemma": "கிழவோன்",
-       "gloss": "lord/owner (vocative)"
-      },
-      {
-       "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "vocative clitic"
+       "text": "வோயே",
+       "lemma": "வோயே",
+       "gloss": "O Lord!"
       }
      ],
-     "gloss": "O lord!"
+     "gloss": "O Lord!",
+     "split_unverified": true
     }
    ]
   }
  ],
- "literal": "The movement of the red sun, / and the orbit of that sun, / and the sphere surrounded by that orbit, / and the directions in which the wind blows, / and the empty sky that stands—these / as if they went, measured, and knew, always / there are those who say 'it is of this measure'; but all of those / you possess as knowledge within your dense strength, / like a stone placed inside the cheek of a male elephant, / you have hidden your power; therefore, openly / how can poets sing of you? Without lowering the top sail, / without scooping out the cargo from the top, / the great ship that enters the port of Puhar, / pours out on the great path of the inland / many goods of the sea, O lord of such a land!",
- "translation": "There are those who claim to have gone, measured, and known the movement of the red sun, its orbit, the sphere surrounded by that orbit, the directions in which the wind blows, and the empty space of the sky, saying, 'It is of this measure.' But you hold all that knowledge within your dense strength. Like a stone hidden inside the cheek of a war elephant, you keep your power concealed. How then can poets sing of you openly? O lord of the land where great ships enter the port of Puhar, and without even lowering their top sails or reducing their cargo, unload the abundant wealth of the sea right onto the great inland roads!",
- "modern": "செந்நிறச் சூரியனின் இயக்கத்தையும், அந்தச் சூரியனின் பாதையையும், அந்தப் பாதையால் சூழப்பட்ட மண்டலத்தையும், காற்று வீசும் திசைகளையும், வெற்று இடமாக நிலைபெற்றிருக்கும் ஆகாயத்தையும் நேரில் சென்று அளந்து அறிந்தவர்களைப் போல, 'இவை இவ்வளவு அளவுடையவை' என்று எப்போதும் கூறுபவர்களும் இருக்கிறார்கள். ஆனால், நீயோ அந்த அறிவையெல்லாம் உனக்குள் அடக்கி, செறிந்த வலிமை உடையவனாய் இருக்கிறாய். ஆண் யானை தன் கபோலத்திற்குள் (கன்னத்திற்குள்) மறைத்து வைத்துள்ள கல்லைப் போல, உனது ஆற்றலை நீ மறைத்து வைத்துள்ளாய். அதனால், புலவர்கள் உன்னை எவ்வாறு வெளிப்படையாகப் பாடுவார்கள்? பாய்மரத்தின் உச்சிப் பாயைக் கீழிறக்காமலும், கப்பலின் மேலிருக்கும் சுமையைக் குறைக்காமலும், காவிரிப்பூம்பட்டினத்துத் துறைமுகத்திற்குள் நுழையும் பெரிய கப்பல்கள், கடல் தந்த பலவகையான பொருள்களை உள்நாட்டுப் பெருவழிகளில் கொட்டும் வளம் பொருந்திய நாட்டின் தலைவனே!",
- "explanation": "The poet Uṟaiyūr Mutukaṇṇaṉ Cāttaṉār is praising the Chola king Nalaṅkiḷḷi. He compares the king's hidden wisdom and strength to the vast, unmeasurable elements of nature like the sun, wind, and sky. While some boastful people claim to have measured the cosmos, the king quietly holds all that immense knowledge within himself, keeping his true power concealed like a stone tucked inside an elephant's cheek. The imagery of the great ships entering the port of Puhar without even needing to lower their sails or lighten their load because the harbor is so deep and the wealth so abundant, beautifully reflects the effortless, immense, and deep nature of the king's power and prosperity. Key words include 'ஒளித்த துப்பு' (hidden strength) and 'பெருங்கலம்' (great ship).",
+ "literal": "The movement of the red sun / and the orbit of that sun / and the sphere surrounded by that orbit / and the direction in which the wind blows / and the empty sky that exists, saying these / as if they went, measured, and knew, always / there are those who say 'it is of this measure', but all of those / you possess as deep wisdom, and having become of dense actions / like a stone kept in the cheek of a male elephant / you have hidden your strength, therefore, openly / how will poets sing of you? With the mast / without lowering the top sail, without reducing cargo on top, / the large ship that entered Puhar, because of unworthy enemies, / spills its cargo on the great path in the middle of the territory, / O Lord of the land with many riches from the sea!",
+ "translation": "There are those who speak with certainty about the movement of the red sun, its path, the celestial sphere surrounding it, the directions of the blowing winds, and the vast empty sky, as if they had traveled there and measured them. Yet, you possess all this knowledge as your innate wisdom, and you perform great deeds while keeping your immense strength hidden, like an elephant holding a stone in its cheek. How then can poets fully sing of your greatness? You are the lord of a land rich with diverse maritime wealth, where large ships enter the port of Puhar with sails fully raised and cargo unreduced, only to spill their abundant goods along the wide roads of the interior to ward off unworthy foes. How can anyone measure your true depth?",
+ "modern": "செந்நிறச் சூரியனின் இயக்கத்தையும், அந்தச் சூரியனின் பாதையையும், அதைச் சூழ்ந்துள்ள விண்வெளியையும், காற்று வீசும் திசையையும், வெட்டவெளியான ஆகாயத்தையும் நேரில் சென்று அளந்து அறிந்தவர்களைப் போல, 'இவை இவ்வளவுதான்' என்று வரையறுத்துக் கூறுவோர் உலகத்தில் இருக்கிறார்கள். ஆனால், நீயோ அந்த அறிவையெல்லாம் உனக்குள் செறிவாகக் கொண்டு, ஆண் யானை தன் கவளத்தில் மறைத்து வைத்துள்ள கல்லைப் போல உனது பேராற்றலை வெளியே காட்டாமல் மறைத்து வைத்துள்ளாய். கடல் வழியாகப் பலவகையான பண்டங்களைக் கொண்டுவரும் பெரிய கப்பல்கள், புகார்த் துறைமுகத்திற்குள் நுழையும்போது பாய்களைச் சுருக்காமலும், சுமையைக் குறைக்காமலும் நேரே வந்து, பகைவர்களின் இடைமறிப்பால் நாட்டின் நடுவே உள்ள பெருவழிகளில் அச்செல்வங்களைச் சொரிந்து செல்லும் வளமிக்க நாட்டுக்குத் தலைவனே! இத்தகைய ஆற்றல் கொண்ட உன்னை புலவர்கள் எவ்வாறு முழுமையாகப் பாடி முடிப்பார்கள்?",
+ "explanation": "This poem belongs to the Pāṭāṇ tiṇai (praising a king's virtues) and is addressed to the Chola king Nalaṅkiḷḷi by the poet Uṟaiyūr Mutukaṇṇaṉ Cāttaṉār. The poet praises the king's profound wisdom and hidden strength, comparing his quiet power to an elephant that holds a stone in its jaw, ready to strike but keeping it concealed. While scholars claim to measure the vastness of the cosmos—the sun's path, the wind's direction, and the empty sky—the king's true depth remains immeasurable. The poem vividly describes the wealth of the Chola port of Puhar, where massive merchant ships arrive fully laden without even lowering their sails, and their abundant goods are distributed along the inland highways. Through these grand images of the cosmos and the bustling ocean trade, the poet illustrates that the king's greatness and strategic capability are beyond the reach of ordinary praise.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

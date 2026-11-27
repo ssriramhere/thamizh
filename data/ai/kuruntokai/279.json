@@ -3,55 +3,67 @@
   {
    "words": [
     {
-     "surface": "திரிமருப்",
+     "surface": "திரி",
      "parts": [
       {
-       "text": "திரிமருப்",
-       "lemma": "திரிமருப்",
-       "gloss": ""
+       "text": "திரி",
+       "lemma": "திரி",
+       "gloss": "curved"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "curved"
     },
     {
-     "surface": "பெருமை",
+     "surface": "மருப்பு",
      "parts": [
       {
-       "text": "பெருமை",
-       "lemma": "பெருமை",
-       "gloss": ""
+       "text": "மருப்பு",
+       "lemma": "மருப்பு",
+       "gloss": "horn"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "horn"
     },
     {
-     "surface": "யிருணிற",
+     "surface": "எருமை",
      "parts": [
       {
-       "text": "யிருணிற",
-       "lemma": "யிருணிற",
-       "gloss": ""
+       "text": "எருமை",
+       "lemma": "எருமை",
+       "gloss": "buffalo"
       }
      ],
-     "gloss": "",
+     "gloss": "buffalo"
+    },
+    {
+     "surface": "இருணிற",
+     "parts": [
+      {
+       "text": "இருணிற",
+       "lemma": "இருணிற",
+       "gloss": "dark-colored"
+      }
+     ],
+     "gloss": "dark-colored",
      "split_unverified": true
     },
     {
      "surface": "மையான்",
      "parts": [
       {
-       "text": "மையான்",
-       "lemma": "மையான்",
-       "gloss": ""
+       "text": "மை",
+       "lemma": "மை",
+       "gloss": "blackness"
+      },
+      {
+       "text": "ஆன்",
+       "lemma": "ஆன்",
+       "gloss": "possessive suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of blackness"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -60,70 +72,49 @@
      "parts": [
       {
        "text": "வரி",
-       "lemma": "vari",
-       "gloss": "stripe/line"
+       "lemma": "வரி",
+       "gloss": "striped"
       }
      ],
-     "gloss": "lined"
+     "gloss": "striped"
     },
     {
      "surface": "மிடறு",
      "parts": [
       {
        "text": "மிடறு",
-       "lemma": "miṭaṟu",
-       "gloss": "throat"
+       "lemma": "மிடறு",
+       "gloss": "neck"
       }
      ],
-     "gloss": "throat"
+     "gloss": "neck"
     },
     {
      "surface": "யாத்த",
      "parts": [
       {
-       "text": "யா",
-       "lemma": "yā",
-       "gloss": "tie"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "adjectival suffix"
+       "text": "யாத்த",
+       "lemma": "யா",
+       "gloss": "tied"
       }
      ],
      "gloss": "tied"
     },
     {
-     "surface": "பகு",
+     "surface": "பகுவாய்",
      "parts": [
       {
        "text": "பகு",
-       "lemma": "paku",
-       "gloss": "split/wide"
-      }
-     ],
-     "gloss": "wide-open"
-    },
-    {
-     "surface": "வாய்",
-     "parts": [
+       "lemma": "பகு",
+       "gloss": "wide-open"
+      },
       {
        "text": "வாய்",
-       "lemma": "vāy",
+       "lemma": "வாய்",
        "gloss": "mouth"
       }
      ],
-     "gloss": "mouth"
+     "gloss": "wide-open mouth"
     },
     {
      "surface": "தெண்மணி",
@@ -146,19 +137,19 @@
      "parts": [
       {
        "text": "புலம்பு",
-       "lemma": "pulampu",
+       "lemma": "புலம்பு",
        "gloss": "loneliness"
       }
      ],
-     "gloss": "loneliness"
+     "gloss": "lonely"
     },
     {
      "surface": "கொள்",
      "parts": [
       {
        "text": "கொள்",
-       "lemma": "koḷ",
-       "gloss": "hold/have"
+       "lemma": "கொள்",
+       "gloss": "having"
       }
      ],
      "gloss": "having"
@@ -169,10 +160,10 @@
       {
        "text": "யாமத்து",
        "lemma": "யாமத்து",
-       "gloss": "of midnight"
+       "gloss": "at midnight"
       }
      ],
-     "gloss": "of midnight",
+     "gloss": "at midnight",
      "split_unverified": true
     },
     {
@@ -180,32 +171,27 @@
      "parts": [
       {
        "text": "இயங்கு",
-       "lemma": "iyaṅku",
+       "lemma": "இயங்கு",
        "gloss": "move"
       },
       {
        "text": "தொறு",
-       "lemma": "toṟu",
+       "lemma": "தொறு",
        "gloss": "every time"
       }
      ],
-     "gloss": "whenever moving"
+     "gloss": "whenever they move"
     },
     {
      "surface": "இசைக்கும்",
      "parts": [
       {
-       "text": "இசை",
-       "lemma": "icai",
-       "gloss": "sound"
-      },
-      {
-       "text": "க்கும்",
-       "lemma": "kkum",
-       "gloss": "habitual future suffix"
+       "text": "இசைக்கும்",
+       "lemma": "இசை",
+       "gloss": "sounding"
       }
      ],
-     "gloss": "will sound"
+     "gloss": "sounding"
     }
    ]
   },
@@ -216,7 +202,7 @@
      "parts": [
       {
        "text": "இது",
-       "lemma": "itu",
+       "lemma": "இது",
        "gloss": "this"
       }
      ],
@@ -227,7 +213,7 @@
      "parts": [
       {
        "text": "பொழுது",
-       "lemma": "poḷutu",
+       "lemma": "பொழுது",
        "gloss": "time"
       }
      ],
@@ -237,50 +223,44 @@
      "surface": "ஆகவும்",
      "parts": [
       {
-       "text": "ஆகு",
-       "lemma": "āku",
-       "gloss": "become"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "infinitive suffix"
+       "text": "ஆக",
+       "lemma": "ஆகு",
+       "gloss": "to become"
       },
       {
        "text": "உம்",
-       "lemma": "um",
+       "lemma": "உம்",
        "gloss": "even"
       }
      ],
-     "gloss": "even as it becomes"
+     "gloss": "even when it becomes"
     },
     {
      "surface": "வாரார்",
      "parts": [
       {
        "text": "வாரார்",
-       "lemma": "வாரார்",
-       "gloss": "he does not return"
+       "lemma": "வருதல்",
+       "gloss": "he does not come"
       }
      ],
-     "gloss": "he does not return",
-     "split_unverified": true
+     "gloss": "he does not come"
     },
     {
      "surface": "கொல்லோ",
      "parts": [
       {
        "text": "கொல்",
-       "lemma": "kol",
-       "gloss": "particle of doubt"
+       "lemma": "கொல்",
+       "gloss": "clitic of doubt"
       },
       {
        "text": "ஓ",
-       "lemma": "ō",
-       "gloss": "clitic of lament"
+       "lemma": "ஓ",
+       "gloss": "clitic of question"
       }
      ],
-     "gloss": "alas, will he?"
+     "gloss": "will he?"
     }
    ]
   },
@@ -291,7 +271,7 @@
      "parts": [
       {
        "text": "மழை",
-       "lemma": "maḻai",
+       "lemma": "மழை",
        "gloss": "rain"
       }
      ],
@@ -302,30 +282,19 @@
      "parts": [
       {
        "text": "கழூஉ",
-       "lemma": "கழூஉ",
+       "lemma": "கழுவு",
        "gloss": "having washed"
       }
      ],
-     "gloss": "having washed",
-     "split_unverified": true
+     "gloss": "having washed"
     },
     {
      "surface": "மறந்த",
      "parts": [
       {
-       "text": "மற",
-       "lemma": "maṟa",
-       "gloss": "forget"
-      },
-      {
-       "text": "ந்த்",
-       "lemma": "nt",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "அ",
-       "lemma": "a",
-       "gloss": "adjectival participle suffix"
+       "text": "மறந்த",
+       "lemma": "மற",
+       "gloss": "forgotten"
       }
      ],
      "gloss": "forgotten"
@@ -335,7 +304,7 @@
      "parts": [
       {
        "text": "மா",
-       "lemma": "mā",
+       "lemma": "மா",
        "gloss": "great"
       }
      ],
@@ -346,8 +315,8 @@
      "parts": [
       {
        "text": "இரும்",
-       "lemma": "irum",
-       "gloss": "dark/huge"
+       "lemma": "இரும்",
+       "gloss": "dark"
       }
      ],
      "gloss": "dark"
@@ -356,13 +325,8 @@
      "surface": "துறுகல்",
      "parts": [
       {
-       "text": "துறு",
-       "lemma": "tuṟu",
-       "gloss": "dense/close"
-      },
-      {
-       "text": "கல்",
-       "lemma": "kal",
+       "text": "துறுகல்",
+       "lemma": "துறுகல்",
        "gloss": "boulder"
       }
      ],
@@ -377,7 +341,7 @@
      "parts": [
       {
        "text": "துகள்",
-       "lemma": "tukaḷ",
+       "lemma": "துகள்",
        "gloss": "dust"
       }
      ],
@@ -388,8 +352,8 @@
      "parts": [
       {
        "text": "சூழ்",
-       "lemma": "cūḻ",
-       "gloss": "surround"
+       "lemma": "சூழ்",
+       "gloss": "surrounded"
       }
      ],
      "gloss": "surrounded"
@@ -399,12 +363,12 @@
      "parts": [
       {
        "text": "யானை",
-       "lemma": "yāṉai",
+       "lemma": "யானை",
        "gloss": "elephant"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "like"
       }
      ],
@@ -415,32 +379,27 @@
      "parts": [
       {
        "text": "பொலி",
-       "lemma": "poli",
-       "gloss": "shine/appear grand"
+       "lemma": "பொலி",
+       "gloss": "to look splendid"
       },
       {
        "text": "அ",
-       "lemma": "a",
+       "lemma": "அ",
        "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to appear grand"
+     "gloss": "to look splendid"
     },
     {
      "surface": "தோன்றும்",
      "parts": [
       {
-       "text": "தோன்று",
-       "lemma": "tōṉṟu",
-       "gloss": "appear"
-      },
-      {
-       "text": "உம்",
-       "lemma": "um",
-       "gloss": "habitual future suffix"
+       "text": "தோன்றும்",
+       "lemma": "தோன்று",
+       "gloss": "appearing"
       }
      ],
-     "gloss": "will appear"
+     "gloss": "appearing"
     }
    ]
   },
@@ -451,8 +410,8 @@
      "parts": [
       {
        "text": "இரும்",
-       "lemma": "irum",
-       "gloss": "dark/huge"
+       "lemma": "இரும்",
+       "gloss": "dark"
       }
      ],
      "gloss": "dark"
@@ -462,7 +421,7 @@
      "parts": [
       {
        "text": "பல்",
-       "lemma": "pal",
+       "lemma": "பல்",
        "gloss": "many"
       }
      ],
@@ -473,7 +432,7 @@
      "parts": [
       {
        "text": "குன்றம்",
-       "lemma": "kuṉṟam",
+       "lemma": "குன்றம்",
        "gloss": "hill"
       }
      ],
@@ -483,17 +442,12 @@
      "surface": "போகி",
      "parts": [
       {
-       "text": "போ",
-       "lemma": "pō",
-       "gloss": "go"
-      },
-      {
-       "text": "கி",
-       "lemma": "ki",
-       "gloss": "verbal participle suffix"
+       "text": "போகி",
+       "lemma": "போ",
+       "gloss": "having gone"
       }
      ],
-     "gloss": "having gone through"
+     "gloss": "having gone"
     }
    ]
   },
@@ -504,77 +458,56 @@
      "parts": [
       {
        "text": "திருந்து",
-       "lemma": "tiruntu",
-       "gloss": "be perfect/well-formed"
+       "lemma": "திருந்து",
+       "gloss": "well-formed"
       },
       {
        "text": "இறை",
-       "lemma": "iṟai",
-       "gloss": "joints/forearm"
+       "lemma": "இறை",
+       "gloss": "joints"
       }
      ],
      "gloss": "well-formed forearms"
     },
     {
-     "surface": "பணை",
+     "surface": "பணைத்தோள்",
      "parts": [
       {
        "text": "பணை",
-       "lemma": "paṇai",
+       "lemma": "பணை",
        "gloss": "bamboo"
-      }
-     ],
-     "gloss": "bamboo-like"
-    },
-    {
-     "surface": "தோள்",
-     "parts": [
+      },
       {
        "text": "தோள்",
-       "lemma": "tōḷ",
+       "lemma": "தோள்",
        "gloss": "shoulders"
       }
      ],
-     "gloss": "shoulders"
+     "gloss": "bamboo-like shoulders"
     },
     {
      "surface": "உள்ளாதோரே",
      "parts": [
       {
-       "text": "உள்ளு",
-       "lemma": "uḷḷu",
-       "gloss": "think of"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ā",
-       "gloss": "not"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
-       "gloss": "euphonic insert"
-      },
-      {
-       "text": "ஓர்",
-       "lemma": "ōr",
-       "gloss": "they"
+       "text": "உள்ளாதோர்",
+       "lemma": "உள்ளுதல்",
+       "gloss": "those who do not think of"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "he who does not think of"
+     "gloss": "indeed those who do not think of"
     }
    ]
   }
  ],
- "literal": "Curved-horned buffalo, dark-colored dark one, / lined throat tied wide-mouthed clear bell, / in the loneliness-having midnight, whenever moving, sounds. / Even as this time becomes, he does not return, alas! / Rain washing forgotten great dark boulder, / dust-surrounded elephant-like grandly appearing, / dark many hills having gone through, / well-formed joints bamboo-like shoulders not thinking of, he.",
- "translation": "The clear-sounding, wide-mouthed bell tied to the lined neck of the dark-colored, curved-horned buffalo rings whenever it moves in the lonely midnight. Even though this hour has arrived, he has not returned. He who went through the many dark hills, where huge dark boulders—forgotten by the washing rains—look like dust-covered elephants, does not think of my bamboo-like shoulders with well-formed joints.",
- "modern": "வளைந்த கொம்புகளையுடைய, இருண்ட நிறமுடைய எருமைக்கடாவின் வரிகள் நிறைந்த கழுத்தில் கட்டப்பட்ட, அகன்ற வாயையுடைய தெளிந்த ஓசையெழுப்பும் மணி, தனிமை நிறைந்த நள்ளிரவில் அது அசையும்போதெல்லாம் ஒலிக்கிறது. இந்த மாலைப் பொழுது வந்த பிறகும் அவர் இன்னும் வரவில்லையே! மழை கழுவுதலை மறந்ததால் தூசு படிந்து, புழுதி சூழ்ந்த யானையைப் போலப் பொலிவுடன் தோன்றும் பெரிய கரிய பாறைகளைக் கொண்ட பல கரிய மலைகளைக் கடந்து சென்றவர், அழகிய மூட்டுகளையும் மூங்கில் போன்ற தோள்களையும் உடைய என்னை நினைக்காமல் இருக்கிறாரே!",
- "explanation": "This poem belongs to the Mullai (forest) landscape, which is associated with the theme of patient waiting during the rainy season. The speaker is the heroine, lamenting to her companion about the hero's delay in returning from his journey. She describes the lonely midnight hour, made even more poignant by the sound of the bell tied to the buffalo's neck as it grazes. The image of the dark boulders, unwashed by rain and covered in dust so they resemble elephants, reflects the dry, harsh landscape the hero traversed, and perhaps his hardened heart. The key words are 'வாரார் கொல்லோ' (will he not return?) and 'உள்ளாதோரே' (he who does not think of me), emphasizing her grief and longing.",
+ "literal": "Curved-horned buffalo of dark-colored blackness, / with clear-sounding bells with wide-open mouths tied to their striped necks, / which sound whenever they move in the lonely midnight, / even when it becomes this time, will he not come? / The great dark boulder which has forgotten being washed by rain, / appearing splendid like an elephant surrounded by dust, / having gone past many dark hills, / indeed, he who does not think of my bamboo-like shoulders with well-formed forearms.",
+ "translation": "The dark-colored, black buffaloes with curved horns have clear-sounding, wide-mouthed bells tied to their striped necks, which ring whenever they move in the lonely midnight. Even when this hour has arrived, will he not return? He has gone past many dark hills where great dark boulders, long unwashed by rain, look like splendid elephants covered in dust, and he does not think of my bamboo-like shoulders with well-formed forearms.",
+ "modern": "வளைந்த கொம்புகளையும் இருண்ட நிறத்தையும் உடைய கரிய எருமைகளின் வரிகளையுடைய கழுத்தில் கட்டப்பட்ட, அகன்ற வாயைக் கொண்ட தெளிந்த ஓசையுடைய மணிகள், தனிமை நிறைந்த நள்ளிரவில் அவை அசையும் போதெல்லாம் ஒலிக்கின்றன. இந்த நள்ளிரவுப் பொழுது வந்த பிறகும் அவர் வரமாட்டாரோ? மழையினால் கழுவப்படுவதை மறந்து, புழுதி சூழ்ந்த யானையைப் போலப் பொலிவுடன் தோன்றும் பெரிய கரிய பாறைகளைக் கொண்ட பல இருண்ட மலைகளைக் கடந்து சென்றவர், அழகிய முன்கைகளையும் மூங்கில் போன்ற தோள்களையும் உடைய என்னை நினைக்காமல் இருக்கிறாரே!",
+ "explanation": "This poem is spoken by the heroine to her confidante during the rainy season, which was the agreed time for the hero's return. She laments that even though the lonely midnight has arrived, marked by the ringing of bells on the returning buffaloes, her lover has not yet come back. The imagery of the dark boulders, unwashed by rain and looking like dust-covered elephants, represents the dry, difficult hilly terrain the hero has crossed. These visual and auditory cues intensify her feelings of separation, which is characteristic of the Mullai (forest) landscape. The key contrast lies between the returning herds that bring comfort to the village and the hero who remains far away, neglecting her beauty.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

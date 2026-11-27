@@ -3,37 +3,28 @@
   {
    "words": [
     {
-     "surface": "கடல்",
+     "surface": "கடல்பா",
      "parts": [
       {
-       "text": "கடல்",
-       "lemma": "கடல்",
-       "gloss": "ocean"
+       "text": "கடல்பா",
+       "lemma": "கடல்பா",
+       "gloss": "sea's roar"
       }
      ],
-     "gloss": "ocean"
+     "gloss": "sea's roar",
+     "split_unverified": true
     },
     {
-     "surface": "பாடு",
+     "surface": "டவிந்து",
      "parts": [
       {
-       "text": "பாடு",
-       "lemma": "பாடு",
-       "gloss": "roar"
-      }
-     ],
-     "gloss": "roar"
-    },
-    {
-     "surface": "அவிந்து",
-     "parts": [
-      {
-       "text": "அவிந்து",
-       "lemma": "அவி",
+       "text": "டவிந்து",
+       "lemma": "டவிந்து",
        "gloss": "having subsided"
       }
      ],
-     "gloss": "having subsided"
+     "gloss": "having subsided",
+     "split_unverified": true
     },
     {
      "surface": "கானல்",
@@ -47,15 +38,16 @@
      "gloss": "seashore grove"
     },
     {
-     "surface": "மயங்கி",
+     "surface": "மயங்கித்",
      "parts": [
       {
-       "text": "மயங்கி",
-       "lemma": "மயங்கு",
-       "gloss": "having grown dim"
+       "text": "மயங்கித்",
+       "lemma": "மயங்கித்",
+       "gloss": "having become dim"
       }
      ],
-     "gloss": "having grown dim"
+     "gloss": "having become dim",
+     "split_unverified": true
     }
    ]
   },
@@ -65,25 +57,33 @@
      "surface": "துறைநீர்",
      "parts": [
       {
-       "text": "துறைநீர்",
-       "lemma": "துறைநீர்",
-       "gloss": ""
+       "text": "துறை",
+       "lemma": "துறை",
+       "gloss": "ghat/port"
+      },
+      {
+       "text": "நீர்",
+       "lemma": "நீர்",
+       "gloss": "water"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "water of the port"
     },
     {
      "surface": "இருங்கழி",
      "parts": [
       {
-       "text": "இருங்கழி",
-       "lemma": "இருங்கழி",
-       "gloss": ""
+       "text": "இரும்",
+       "lemma": "இரும்",
+       "gloss": "dark/large"
+      },
+      {
+       "text": "கழி",
+       "lemma": "கழி",
+       "gloss": "backwater"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "dark backwater"
     },
     {
      "surface": "புல்லென்",
@@ -91,10 +91,10 @@
       {
        "text": "புல்லென்",
        "lemma": "புல்லென்",
-       "gloss": ""
+       "gloss": "having become desolate"
       }
      ],
-     "gloss": "",
+     "gloss": "having become desolate",
      "split_unverified": true
     },
     {
@@ -103,14 +103,13 @@
       {
        "text": "றன்றே",
        "lemma": "றன்றே",
-       "gloss": ""
+       "gloss": "indeed it is so"
       }
      ],
-     "gloss": "",
+     "gloss": "indeed it is so",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -120,10 +119,10 @@
       {
        "text": "மன்றவம்",
        "lemma": "மன்றவம்",
-       "gloss": ""
+       "gloss": "beautiful common ground"
       }
      ],
-     "gloss": "",
+     "gloss": "beautiful common ground",
      "split_unverified": true
     },
     {
@@ -132,23 +131,26 @@
       {
        "text": "பெண்ணை",
        "lemma": "பெண்ணை",
-       "gloss": ""
+       "gloss": "palmyra palm"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "palmyra palm"
     },
     {
      "surface": "மடல்சேர்",
      "parts": [
       {
-       "text": "மடல்சேர்",
-       "lemma": "மடல்சேர்",
-       "gloss": ""
+       "text": "மடல்",
+       "lemma": "மடல்",
+       "gloss": "palm leaf"
+      },
+      {
+       "text": "சேர்",
+       "lemma": "சேர்",
+       "gloss": "joining"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "joining with palm leaves"
     },
     {
      "surface": "வாழ்க்கை",
@@ -156,60 +158,46 @@
       {
        "text": "வாழ்க்கை",
        "lemma": "வாழ்க்கை",
-       "gloss": ""
+       "gloss": "life"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "life"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "அன்றில்",
+     "surface": "அன்றிலும்",
      "parts": [
       {
        "text": "அன்றில்",
        "lemma": "அன்றில்",
-       "gloss": "ibis bird"
-      }
-     ],
-     "gloss": "ibis bird"
-    },
-    {
-     "surface": "உம்",
-     "parts": [
+       "gloss": "anril bird"
+      },
       {
        "text": "உம்",
        "lemma": "உம்",
        "gloss": "also"
       }
      ],
-     "gloss": "also"
+     "gloss": "and the anril bird"
     },
     {
-     "surface": "பை",
+     "surface": "பையென",
      "parts": [
       {
        "text": "பை",
-       "lemma": "பசுமை",
-       "gloss": "gently"
-      }
-     ],
-     "gloss": "gently"
-    },
-    {
-     "surface": "என",
-     "parts": [
+       "lemma": "பை",
+       "gloss": "gently/softly"
+      },
       {
        "text": "என",
-       "lemma": "என்",
+       "lemma": "என",
        "gloss": "as"
       }
      ],
-     "gloss": "as"
+     "gloss": "gently"
     },
     {
      "surface": "நரலும்",
@@ -217,32 +205,26 @@
       {
        "text": "நரலும்",
        "lemma": "நரல்",
-       "gloss": "cries"
+       "gloss": "cries/sounds"
       }
      ],
      "gloss": "cries"
     },
     {
-     "surface": "இன்று",
+     "surface": "இன்றவர்",
      "parts": [
       {
        "text": "இன்று",
        "lemma": "இன்று",
        "gloss": "today"
-      }
-     ],
-     "gloss": "today"
-    },
-    {
-     "surface": "அவர்",
-     "parts": [
+      },
       {
        "text": "அவர்",
        "lemma": "அவர்",
        "gloss": "he"
       }
      ],
-     "gloss": "he"
+     "gloss": "today, he"
     }
    ]
   },
@@ -252,25 +234,28 @@
      "surface": "வருவர்கொல்",
      "parts": [
       {
-       "text": "வருவர்கொல்",
-       "lemma": "வருவர்கொல்",
-       "gloss": ""
+       "text": "வருவர்",
+       "lemma": "வரு",
+       "gloss": "he will come"
+      },
+      {
+       "text": "கொல்",
+       "lemma": "கொல்",
+       "gloss": "particle of doubt"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "will he come?"
     },
     {
      "surface": "வாழி",
      "parts": [
       {
        "text": "வாழி",
-       "lemma": "வாழி",
-       "gloss": ""
+       "lemma": "வாழ்",
+       "gloss": "may you live"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "may you live"
     },
     {
      "surface": "தோழி",
@@ -278,11 +263,10 @@
       {
        "text": "தோழி",
        "lemma": "தோழி",
-       "gloss": ""
+       "gloss": "friend"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "friend"
     },
     {
      "surface": "நாந்தப்",
@@ -290,14 +274,13 @@
       {
        "text": "நாந்தப்",
        "lemma": "நாந்தப்",
-       "gloss": ""
+       "gloss": "we suffering"
       }
      ],
-     "gloss": "",
+     "gloss": "we suffering",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -306,44 +289,35 @@
      "parts": [
       {
        "text": "புலப்பினும்",
-       "lemma": "புலவி",
-       "gloss": "even if we feign anger"
+       "lemma": "புலப்பினும்",
+       "gloss": "even if we sulk"
       }
      ],
-     "gloss": "even if we feign anger"
+     "gloss": "even if we sulk"
     },
     {
-     "surface": "பிரிவு",
+     "surface": "பிரிவாங்",
      "parts": [
       {
-       "text": "பிரிவு",
-       "lemma": "பிரிவு",
-       "gloss": "separation"
+       "text": "பிரிவாங்",
+       "lemma": "பிரிவாங்",
+       "gloss": "separation like that"
       }
      ],
-     "gloss": "separation"
+     "gloss": "separation like that",
+     "split_unverified": true
     },
     {
-     "surface": "ஆங்கு",
+     "surface": "கஞ்சித்",
      "parts": [
       {
-       "text": "ஆங்கு",
-       "lemma": "ஆங்கு",
-       "gloss": "then"
-      }
-     ],
-     "gloss": "then"
-    },
-    {
-     "surface": "அஞ்சி",
-     "parts": [
-      {
-       "text": "அஞ்சி",
-       "lemma": "அஞ்சு",
+       "text": "கஞ்சித்",
+       "lemma": "கஞ்சித்",
        "gloss": "fearing"
       }
      ],
-     "gloss": "fearing"
+     "gloss": "fearing",
+     "split_unverified": true
     }
    ]
   },
@@ -355,10 +329,10 @@
       {
        "text": "தணப்பருங்",
        "lemma": "தணப்பருங்",
-       "gloss": ""
+       "gloss": "hard to leave"
       }
      ],
-     "gloss": "",
+     "gloss": "hard to leave",
      "split_unverified": true
     },
     {
@@ -367,23 +341,21 @@
       {
        "text": "காமம்",
        "lemma": "காமம்",
-       "gloss": ""
+       "gloss": "passion/love"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "passion"
     },
     {
      "surface": "தண்டி",
      "parts": [
       {
        "text": "தண்டி",
-       "lemma": "தண்டி",
-       "gloss": ""
+       "lemma": "தண்டு",
+       "gloss": "having subdued"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having subdued"
     },
     {
      "surface": "யோரே",
@@ -391,20 +363,19 @@
       {
        "text": "யோரே",
        "lemma": "யோரே",
-       "gloss": ""
+       "gloss": "indeed he who"
       }
      ],
-     "gloss": "",
+     "gloss": "indeed he who",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "The ocean's roar having subsided, the seashore grove having grown dim, / the water of the shore and the dark backwater have indeed become desolate. / In the beautiful village common ground, dwelling in the palm fronds of the palmyra tree, / the ibis bird also cries gently. Today, will he / come? May you live long, friend! We, even if we fail / and feign anger, fearing separation then, / he is indeed the one who restrained this love that is difficult to separate from.",
- "translation": "The ocean's roar has subsided. The seashore grove has grown dim. The waters of the shore and the dark backwater have become desolate. Dwelling in the fronds of the palmyra tree in the village common, the ibis bird also cries out gently. Will he come today, my friend? May you live long! Even if we, failing, feign anger, he is indeed the one who has restrained this love that is so hard to part from, fearing separation.",
- "modern": "கடலின் ஒலி அடங்கி, கடற்கரைச் சோலை இருண்டு, துறையின் நீரும் கரிய கழியும் பொலிவிழந்துவிட்டன. ஊர் மன்றத்தில் உள்ள அழகிய பனைமரத்தின் மடல்களில் வாழும் அன்றில் பறவையும் மெல்லக் குரல் எழுப்புகிறது. தோழியே! நீ வாழ்க! இன்று அவர் வருவாரோ? நாம் ஊடல் கொண்டாலும், பிரிவுக்கு அஞ்சி, பிரிதற்கரிய காமத்தை அடக்கிக் கொண்டவர் அவரே அல்லவா?",
- "explanation": "The friend is speaking to the heroine as evening falls and the hero has not yet returned. She describes the coastal landscape growing quiet and desolate to mirror the heroine's anxiety. The ocean's roar has subsided, the seashore grove has darkened, and the backwaters look lackluster. The ibis bird, famous for its devotion to its mate, cries out softly from the palmyra tree, intensifying the sense of loneliness. The friend comforts the heroine by reminding her of the hero's deep love and self-restraint, noting that even if they were to feign anger, he is the one who controls his intense desire out of fear of any real separation.",
+ "literal": "The roar of the sea having subsided, the seashore grove having become dim, / the water of the port in the dark backwater has become desolate. / Living in the beautiful common ground joining with the palm leaves of the palmyra palm, / the anril bird also cries gently. Today, will he / come, may you live, my friend, we suffering / even if we sulk, fearing separation like that, / he who has subdued the hard-to-leave passion?",
+ "translation": "The roar of the sea has subsided, and the seashore grove has grown dim. The dark backwaters of the port have become desolate. Living among the palm leaves of the palmyra tree in the common ground, the anril bird cries softly. My friend, may you live long! Will he return today—he who has subdued his hard-to-leave passion, fearing that we would suffer from separation even if we were only to sulk?",
+ "modern": "கடலின் ஒலி அடங்கி, கடற்கரைச் சோலை இருண்டு, துறைமுகத்தின் கரிய கழியில் உள்ள நீர் பொலிவிழந்து காணப்படுகிறது. மன்றத்தில் உள்ள பனைமரத்தின் மடல்களில் வாழும் அன்றில் பறவையும் மெதுவாகக் குரல் எழுப்புகிறது. தோழியே, நீ வாழ்க! நாம் ஊடல் கொண்டாலும் அதனால் வரும் பிரிவுக்கு அஞ்சி, நீங்குவதற்கு அரிய காமத்தை அடக்கிக் கொண்டவர் இன்று வருவாரோ?",
+ "explanation": "The friend (தோழி) is speaking to the heroine (தலைவி) during the onset of evening, which is the characteristic time of longing in the Neytal (coastal) landscape. The natural elements of the coast—the quietened sea, the dimming grove, and the desolate backwaters—reflect the heroine's inner state of despair. The palmyra tree (பெண்ணை) and the crying of the anril bird (அன்றில்), known for its inseparable mate, intensify the pain of separation. The friend wonders if the hero, who has controlled his intense passion out of fear of causing them pain through separation, will return today. Key words include 'அன்றில்' (the ibis bird), 'புல்லென்றன்றே' (has become desolate), and 'தணப்பருங் காமம்' (hard-to-leave passion).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

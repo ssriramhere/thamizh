@@ -8,7 +8,7 @@
       {
        "text": "பரல்",
        "lemma": "பரல்",
-       "gloss": "gravel"
+       "gloss": "pebble"
       },
       {
        "text": "உடை",
@@ -16,7 +16,7 @@
        "gloss": "having"
       }
      ],
-     "gloss": "having gravel"
+     "gloss": "having pebbles"
     },
     {
      "surface": "மருங்கின்",
@@ -24,7 +24,7 @@
       {
        "text": "மருங்கு",
        "lemma": "மருங்கு",
-       "gloss": "slope"
+       "gloss": "side"
       },
       {
        "text": "இன்",
@@ -32,7 +32,7 @@
        "gloss": "locative suffix"
       }
      ],
-     "gloss": "on the slope"
+     "gloss": "on the side"
     },
     {
      "surface": "பதுக்கை",
@@ -40,17 +40,17 @@
       {
        "text": "பதுக்கை",
        "lemma": "பதுக்கை",
-       "gloss": "cairn"
+       "gloss": "stone heap"
       }
      ],
-     "gloss": "cairn"
+     "gloss": "stone heap"
     },
     {
      "surface": "சேர்த்தி",
      "parts": [
       {
        "text": "சேர்த்தி",
-       "lemma": "சேர்",
+       "lemma": "சேர்த்தல்",
        "gloss": "having raised"
       }
      ],
@@ -151,33 +151,27 @@
      "parts": [
       {
        "text": "சூட்டி",
-       "lemma": "சூட்டு",
+       "lemma": "சூட்டுதல்",
        "gloss": "having adorned"
       }
      ],
      "gloss": "having adorned"
     },
     {
-     "surface": "பெயர்",
+     "surface": "பெயர்பொறித்து",
      "parts": [
       {
        "text": "பெயர்",
        "lemma": "பெயர்",
        "gloss": "name"
-      }
-     ],
-     "gloss": "name"
-    },
-    {
-     "surface": "பொறித்து",
-     "parts": [
+      },
       {
        "text": "பொறித்து",
-       "lemma": "பொறி",
+       "lemma": "பொறித்தல்",
        "gloss": "having engraved"
       }
      ],
-     "gloss": "having engraved"
+     "gloss": "having engraved the name"
     }
    ]
   },
@@ -221,10 +215,10 @@
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "and"
+       "gloss": "also"
       }
      ],
-     "gloss": "the stone too"
+     "gloss": "the stone also"
     },
     {
      "surface": "கன்றொடு",
@@ -240,7 +234,7 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with the calves"
+     "gloss": "with the calf"
     }
    ]
   },
@@ -263,7 +257,7 @@
       {
        "text": "தந்து",
        "lemma": "தா",
-       "gloss": "having brought"
+       "gloss": "having brought back"
       }
      ],
      "gloss": "having brought back"
@@ -284,7 +278,7 @@
      "parts": [
       {
        "text": "ஓட்டிய",
-       "lemma": "ஓட்டு",
+       "lemma": "ஓட்டுதல்",
        "gloss": "who drove away"
       }
      ],
@@ -298,31 +292,40 @@
      "surface": "நெடுந்தகை",
      "parts": [
       {
-       "text": "நெடுந்தகை",
-       "lemma": "நெடுந்தகை",
-       "gloss": "great hero"
+       "text": "நெடும்",
+       "lemma": "நெடுமை",
+       "gloss": "great"
+      },
+      {
+       "text": "தகை",
+       "lemma": "தகைமை",
+       "gloss": "hero"
       }
      ],
-     "gloss": "great hero",
-     "split_unverified": true
+     "gloss": "noble hero"
     },
     {
      "surface": "கழிந்தமை",
      "parts": [
       {
-       "text": "கழிந்தமை",
-       "lemma": "கழி",
-       "gloss": "having passed away"
+       "text": "கழிந்த",
+       "lemma": "கழிதல்",
+       "gloss": "passed away"
+      },
+      {
+       "text": "மை",
+       "lemma": "மை",
+       "gloss": "nominalizing suffix"
       }
      ],
-     "gloss": "the fact of his passing away"
+     "gloss": "the passing away"
     },
     {
      "surface": "அறியாது",
      "parts": [
       {
        "text": "அறியாது",
-       "lemma": "அறி",
+       "lemma": "அறிதல்",
        "gloss": "not knowing"
       }
      ],
@@ -353,7 +356,7 @@
      "parts": [
       {
        "text": "வரும்",
-       "lemma": "வரு",
+       "lemma": "வருதல்",
        "gloss": "will come"
       },
       {
@@ -375,7 +378,7 @@
       {
        "text": "அது",
        "lemma": "அது",
-       "gloss": "of"
+       "gloss": "genitive suffix"
       }
      ],
      "gloss": "of the bards"
@@ -386,23 +389,23 @@
       {
        "text": "கடும்பு",
        "lemma": "கடும்பு",
-       "gloss": "family"
+       "gloss": "kin"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis particle"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "the family indeed"
+     "gloss": "the group indeed"
     }
    ]
   }
  ],
- "literal": "On the gravel-having slope, raising a cairn, / with a red-flower wreath woven by splitting bowstring hemp, / adorning with beautiful peacock feathers, engraving his name, / now they indeed planted the stone. With calves / milch cows having brought back, enemies who drove away, / that the great hero passed away not knowing, / even today will they come, the bards' family?",
- "translation": "On the gravelly slope, they have raised a cairn and planted a hero stone, engraving his name, adorning it with beautiful peacock feathers and a wreath of red flowers woven with split bowstring hemp. Unaware that the great hero—who rescued the milch cows along with their calves and drove away the enemies—has passed away, will the family of bards still come here today seeking him?",
- "modern": "பருக்கைக் கற்கள் நிறைந்த பக்கத்திலே கல் குவியலைச் சேர்த்து, மரல் நாரைப் பிளந்து தொடுத்த செந்நிறப் பூமாலை சூட்டி, அழகான மயில்தோகையை அணிவித்து, அவனது பெயரைப் பொறித்து, இப்போது நடுகல்லை நட்டுவிட்டார்கள். கன்றுகளோடு பசுக்களை மீட்டுக்கொண்டு வந்து பகைவர்களை விரட்டியடித்த அந்தப் பெருந்தகையாளன் இறந்துவிட்டதை அறியாமல், இன்றும் பாணர்களுடைய சுற்றம் அவனிடம் பரிசு பெற வருவார்களோ?",
- "explanation": "This poem belongs to the Karantai tiṇai (recovering cattle) and the theme of Kaiyaṟunilai (lamentation). The poet expresses deep grief over the death of a hero who died defending his community's cattle. The villagers have erected a hero stone (naṭukal) on a gravelly slope, decorated with peacock feathers and red flowers, and inscribed his name upon it. The poet laments that the traveling bards, who rely on the hero's generosity, are unaware of his death and might still arrive today expecting his patronage. The imagery of the decorated hero stone on the barren slope highlights the tragic transition from a living, generous protector to a silent monument.",
+ "literal": "Having raised a stone heap on the pebbly side, / having adorned it with a chaplet of red flowers strung with split bowstring hemp, / having adorned it with beautiful peacock feathers and engraved his name, / now they indeed planted the stone. / Having brought back the milch cows with their calves and driven away the enemies, / not knowing that the noble hero has passed away, / will the group of bards come even today?",
+ "translation": "On the pebbly slope, they raised a mound of stones. They adorned it with a chaplet of red flowers strung on split bowstring hemp, decorated it with beautiful peacock feathers, engraved his name, and have now planted this hero-stone. Unaware that the noble hero—who rescued the milch cows along with their calves and drove away the enemies—has passed away, will the troupe of bards still come today seeking his patronage?",
+ "modern": "பருக்கைக் கற்கள் நிறைந்த பக்கத்தில் ஒரு கல் குவியலை எழுப்பி, பிளந்த மரல் நாரால் தொடுக்கப்பட்ட சிவந்த பூக்களாலான மாலையைச் சூட்டி, அழகான மயில்தோகையை அணிவித்து, அவனது பெயரைப் பொறித்து, இப்போது நடுகல்லை நட்டுவிட்டார்கள். கன்றுகளோடு கூடிய பசுக்களை மீட்டுக்கொண்டு வந்து பகைவர்களை விரட்டியடித்த அந்தப் பெருந்தகை இறந்துவிட்டதை அறியாமல், பாணர்களின் சுற்றம் இன்றும் அவனிடம் பரிசு பெற வருவார்களோ?",
+ "explanation": "This poem belongs to the Puram genre, specifically the Karanthai tiṇai (cattle recovery) and Kaiyaṟunilai tuṟai (state of helplessness). The poet, Uṟaiyūr Iḷampoṉ Vāṇikaṉār, laments the death of a young hero who died while recovering stolen cattle from enemies. The villagers have raised a hero-stone (naṭukal) on a pebbly slope, decorated it with peacock feathers and red flowers, and engraved his name on it. The poet wonders with deep sorrow whether the traveling bards (pāṇar), unaware of his death, will still come today expecting his usual generous patronage. The key words are 'naṭṭaṉarē kallum' (they planted the stone) and 'neṭuntakai kaḻintamai aṟiyātu' (not knowing that the noble hero has passed away).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

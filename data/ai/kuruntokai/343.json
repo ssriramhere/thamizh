@@ -6,24 +6,19 @@
      "surface": "நினையாய்",
      "parts": [
       {
-       "text": "நினை",
+       "text": "நினையாய்",
        "lemma": "நினை",
        "gloss": "think"
-      },
-      {
-       "text": "ஆய்",
-       "lemma": "ஆய்",
-       "gloss": "you (subjunctive/imperative)"
       }
      ],
-     "gloss": "think of it"
+     "gloss": "think"
     },
     {
      "surface": "வாழி",
      "parts": [
       {
        "text": "வாழி",
-       "lemma": "வாழி",
+       "lemma": "வாழ்",
        "gloss": "may you live"
       }
      ],
@@ -51,10 +46,10 @@
       {
        "text": "கவுள்",
        "lemma": "கவுள்",
-       "gloss": "cheek"
+       "gloss": "temple"
       }
      ],
-     "gloss": "wet cheek"
+     "gloss": "wet temples"
     }
    ]
   },
@@ -66,7 +61,7 @@
       {
        "text": "அண்ணல்",
        "lemma": "அண்ணல்",
-       "gloss": "majestic/noble"
+       "gloss": "majestic"
       }
      ],
      "gloss": "majestic"
@@ -93,10 +88,10 @@
       {
        "text": "முகம்",
        "lemma": "முகம்",
-       "gloss": "face/forehead"
+       "gloss": "face"
       }
      ],
-     "gloss": "beautiful forehead"
+     "gloss": "beautiful face"
     },
     {
      "surface": "பாய்ந்தென",
@@ -109,10 +104,10 @@
       {
        "text": "என",
        "lemma": "என",
-       "gloss": "as/because"
+       "gloss": "as"
       }
      ],
-     "gloss": "because of pouncing"
+     "gloss": "because it pounced"
     }
    ]
   },
@@ -135,47 +130,40 @@
      "gloss": "great strength"
     },
     {
-     "surface": "இரும்புலி",
+     "surface": "இரும்புலிப்",
      "parts": [
       {
-       "text": "இரும்",
-       "lemma": "இரும்",
-       "gloss": "dark/great"
-      },
-      {
-       "text": "புலி",
-       "lemma": "புலி",
-       "gloss": "tiger"
+       "text": "இரும்புலிப்",
+       "lemma": "இரும்புலிப்",
+       "gloss": "dark tiger"
       }
      ],
-     "gloss": "dark tiger"
+     "gloss": "dark tiger",
+     "split_unverified": true
     },
     {
-     "surface": "பகுவாய்",
+     "surface": "பகுவா",
      "parts": [
       {
-       "text": "பகு",
-       "lemma": "பகு",
-       "gloss": "gaping/split"
-      },
-      {
-       "text": "வாய்",
-       "lemma": "வாய்",
-       "gloss": "mouth"
+       "text": "பகுவா",
+       "lemma": "பகுவா",
+       "gloss": "gaping mouth"
       }
      ],
-     "gloss": "gaping mouth"
+     "gloss": "gaping mouth",
+     "split_unverified": true
     },
     {
-     "surface": "ஏற்றை",
+     "surface": "யேற்றை",
      "parts": [
       {
-       "text": "ஏற்றை",
-       "lemma": "ஏற்றை",
-       "gloss": "male animal"
+       "text": "யேற்றை",
+       "lemma": "யேற்றை",
+       "gloss": "male tiger"
       }
      ],
-     "gloss": "male tiger"
+     "gloss": "male tiger",
+     "split_unverified": true
     }
    ]
   },
@@ -187,10 +175,10 @@
       {
        "text": "வெண்கொடு",
        "lemma": "வெண்கொடு",
-       "gloss": ""
+       "gloss": "white tusk"
       }
      ],
-     "gloss": "",
+     "gloss": "white tusk",
      "split_unverified": true
     },
     {
@@ -199,10 +187,10 @@
       {
        "text": "செம்மறுக்",
        "lemma": "செம்மறுக்",
-       "gloss": ""
+       "gloss": "red stain"
       }
      ],
-     "gloss": "",
+     "gloss": "red stain",
      "split_unverified": true
     },
     {
@@ -210,12 +198,11 @@
      "parts": [
       {
        "text": "கொளீஇ",
-       "lemma": "கொளீஇ",
-       "gloss": ""
+       "lemma": "கொள்",
+       "gloss": "having caused to take"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "causing to receive"
     },
     {
      "surface": "விடர்முகைக்",
@@ -223,14 +210,13 @@
       {
        "text": "விடர்முகைக்",
        "lemma": "விடர்முகைக்",
-       "gloss": ""
+       "gloss": "mountain cleft cave"
       }
      ],
-     "gloss": "",
+     "gloss": "mountain cleft cave",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -246,21 +232,22 @@
      "gloss": "summer wind"
     },
     {
-     "surface": "ஒற்றிய",
+     "surface": "யொற்றிய",
      "parts": [
       {
-       "text": "ஒற்றிய",
-       "lemma": "ஒற்று",
-       "gloss": "which blew against"
+       "text": "யொற்றிய",
+       "lemma": "யொற்றிய",
+       "gloss": "that dried up"
       }
      ],
-     "gloss": "which blew against"
+     "gloss": "that dried up",
+     "split_unverified": true
     },
     {
      "surface": "கருங்கால்",
      "parts": [
       {
-       "text": "கருங்",
+       "text": "கருமை",
        "lemma": "கருமை",
        "gloss": "black"
       },
@@ -278,7 +265,7 @@
       {
        "text": "வேங்கை",
        "lemma": "வேங்கை",
-       "gloss": "Vengai tree"
+       "gloss": "Kino tree"
       }
      ],
      "gloss": "Vengai tree"
@@ -288,54 +275,39 @@
   {
    "words": [
     {
-     "surface": "வாடு",
+     "surface": "வாடுபூஞ்",
      "parts": [
       {
-       "text": "வாடு",
-       "lemma": "வாடு",
-       "gloss": "withered"
+       "text": "வாடுபூஞ்",
+       "lemma": "வாடுபூஞ்",
+       "gloss": "withered flowers"
       }
      ],
-     "gloss": "withered"
-    },
-    {
-     "surface": "பூஞ்சினை",
-     "parts": [
-      {
-       "text": "பூஞ்சினை",
-       "lemma": "பூஞ்சினை",
-       "gloss": "flowering branch"
-      }
-     ],
-     "gloss": "flowering branch",
+     "gloss": "withered flowers",
      "split_unverified": true
     },
     {
-     "surface": "இல்",
+     "surface": "சினையிற்",
      "parts": [
       {
-       "text": "இல்",
-       "lemma": "இல்",
-       "gloss": "in/on"
+       "text": "சினையிற்",
+       "lemma": "சினையிற்",
+       "gloss": "on the branch"
       }
      ],
-     "gloss": "on"
+     "gloss": "on the branch",
+     "split_unverified": true
     },
     {
      "surface": "கிடக்கும்",
      "parts": [
       {
-       "text": "கிட",
+       "text": "கிடக்கும்",
        "lemma": "கிட",
-       "gloss": "lie/rest"
-      },
-      {
-       "text": "க்கும்",
-       "lemma": "உம்",
-       "gloss": "habitual future relative participle suffix"
+       "gloss": "lies"
       }
      ],
-     "gloss": "lies resting"
+     "gloss": "lies"
     }
    ]
   },
@@ -398,15 +370,15 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "the path indeed"
+     "gloss": "the very path"
     }
    ]
   }
  ],
- "literal": "Think of it, may you live, friend! The wet-cheeked / majestic elephant's beautiful face, because [it] pounced, / the very strong dark tiger with a gaping mouth, the male, / making [its] white tusk take a red stain, in the mountain cleft cave, / where the summer wind blew against the black-trunked Vengai tree, / on the withered flowering branch, lies [resting]. / Such is the path of departing with the lord of the high mountains.",
- "translation": "May you live, my friend! Think of this: The male tiger of immense strength and gaping mouth, having pounced upon the beautiful forehead of a majestic elephant with wet cheeks, stains its white tusks with red blood. In a mountain cleft cave, where the summer wind blows against the black-trunked Vengai tree, the tiger lies resting on its withered, flowering branches. Such is the difficult mountain path you must traverse to depart with the lord of the high peaks.",
- "modern": "தோழியே! நீ வாழ்வாயாக! மதநீர் வழியும் கன்னங்களை உடைய பெருமையுள்ள யானையின் அழகான முகத்தில் பாய்ந்ததால், மிகுந்த வலிமையையும் பிளந்த வாயையும் உடைய கரிய வரிகளை உடைய ஆண் புலி, யானையின் வெண்மையான தந்தத்தில் சிவந்த குருதி கறையாகப் படியுமாறு செய்துவிட்டு, மலைப்பிளவிலுள்ள குகைக்கு அருகில், கோடைக்காலக் காற்று மோதிய கரிய அடிமரத்தைக் கொண்ட வேங்கை மரத்தின் வாடிய பூக்களைக் கொண்ட கிளையின் மீது படுத்துக் கிடக்கும். அத்தகைய உயர்ந்த மலைநாட்டிற்குரிய தலைவனுடன் நீ உடன்போக்குச் செல்லும் வழி இதுவேயாகும். இதனைச் சிந்தித்துப் பார்.",
- "explanation": "The companion is speaking to the heroine who is planning to elope with her lover, the lord of the high mountains. She describes the perilous path they must take through the arid wasteland. The poem vividly depicts a powerful male tiger that has just attacked a majestic elephant, staining the elephant's white tusks with red blood. Afterward, the tiger lies resting on the withered, flowering branches of a black-trunked Vengai tree near a mountain cave where the hot summer wind blows. Through this intense imagery, the companion warns the heroine of the extreme dangers of the journey, urging her to think carefully before embarking on this path with her lord.",
+ "literal": "Think, may you live, my friend, of the wet-templed / majestic elephant's beautiful face, because it pounced, / the very strong, gaping-mouthed male of the dark tiger, / making the white tusk receive red stains, in the mountain cleft / by the summer wind dried, black-trunked Vengai tree's / withered-flower branch like, lies / the path on which you depart with the lord of the high mountains.",
+ "translation": "May you live long, my friend! Think of the path on which you will depart with the lord of the high mountains. On that path, because it pounced on the beautiful face of a majestic elephant with wet temples, a powerful, gaping-mouthed male tiger is gored by the white tusk, receiving red stains of blood. It now lies dead in a mountain cleft, looking just like a withered-flower branch of a black-trunked Vengai tree dried by the summer wind.",
+ "modern": "தோழியே! நீ வாழ்க! மதம் ஒழுகும் கன்னங்களை உடைய கம்பீரமான யானையின் அழகான முகத்தில் பாய்ந்ததால், மிகுந்த வலிமையும் பிளந்த வாயும் கொண்ட ஆண் புலி, யானையின் வெண்மையான தந்தத்தால் குத்தப்பட்டு, செந்நிறக் குருதி படிந்து இறந்து கிடக்கிறது. மலைப்பிளவிலே கோடைக்காலக் காற்று பட்டு உலர்ந்துபோன, கரிய அடிமரத்தைக் கொண்ட வேங்கை மரத்தின் வாடிய பூக்களை உடைய கிளையைப் போல அப்புலி கிடக்கிறது. அத்தகைய உயர்ந்த மலைநாட்டோடு நீ அவனுடன் செல்லும் வழியைப் பற்றிச் சிந்திப்பாயாக.",
+ "explanation": "The friend is speaking to the heroine who is planning to elope with her lover. She describes the perilous mountain path they must traverse, highlighting a fierce battle between a majestic elephant and a powerful male tiger. The tiger, gored by the elephant's tusk and stained with blood, lies dead in a mountain cleft, resembling a withered Vengai branch. This vivid imagery belongs to the transition of Kurinci into Palai, emphasizing the dry, harsh, and dangerous nature of the journey. By depicting these hardships, the friend gently prompts the heroine to reflect on the gravity of her decision to elope.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

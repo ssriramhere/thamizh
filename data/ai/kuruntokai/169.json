@@ -8,7 +8,7 @@
       {
        "text": "சுரம்",
        "lemma": "curam",
-       "gloss": "desert/wasteland"
+       "gloss": "desert"
       }
      ],
      "gloss": "desert"
@@ -41,7 +41,7 @@
       {
        "text": "கல்",
        "lemma": "kal",
-       "gloss": "stone/rock"
+       "gloss": "stone"
       }
      ],
      "gloss": "stone"
@@ -52,7 +52,7 @@
       {
        "text": "உறு",
        "lemma": "uṟu",
-       "gloss": "strike/dash"
+       "gloss": "strike"
       }
      ],
      "gloss": "striking"
@@ -62,12 +62,11 @@
      "parts": [
       {
        "text": "கோட்டின்",
-       "lemma": "கோட்டின்",
-       "gloss": "of the tusk"
+       "lemma": "kōṭu",
+       "gloss": "tusk"
       }
      ],
-     "gloss": "of the tusk",
-     "split_unverified": true
+     "gloss": "tusk"
     }
    ]
   },
@@ -148,10 +147,10 @@
       {
        "text": "நக்க",
        "lemma": "naku",
-       "gloss": "that laughed/smiled"
+       "gloss": "that smiled"
       }
      ],
-     "gloss": "that laughed"
+     "gloss": "that smiled"
     },
     {
      "surface": "வால்",
@@ -159,7 +158,7 @@
       {
        "text": "வால்",
        "lemma": "vāl",
-       "gloss": "pure/white"
+       "gloss": "pure"
       }
      ],
      "gloss": "pure"
@@ -181,7 +180,7 @@
       {
        "text": "எயிறு",
        "lemma": "eyiṟu",
-       "gloss": "tooth"
+       "gloss": "teeth"
       },
       {
        "text": "ஏ",
@@ -189,7 +188,7 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "teeth indeed"
+     "gloss": "indeed the teeth"
     }
    ]
   },
@@ -232,14 +231,9 @@
      "surface": "சொரிந்த",
      "parts": [
       {
-       "text": "சொரி",
+       "text": "சொரிந்த",
        "lemma": "cori",
-       "gloss": "pour"
-      },
-      {
-       "text": "ந்த",
-       "lemma": "nta",
-       "gloss": "past relative participle suffix"
+       "gloss": "poured"
       }
      ],
      "gloss": "poured"
@@ -250,7 +244,7 @@
       {
        "text": "மண்டை",
        "lemma": "maṇṭai",
-       "gloss": "bowl/vessel"
+       "gloss": "bowl"
       }
      ],
      "gloss": "bowl"
@@ -274,48 +268,41 @@
      "surface": "எமக்கும்",
      "parts": [
       {
-       "text": "எமக்கும்",
-       "lemma": "எமக்கும்",
-       "gloss": "to us also"
+       "text": "எமக்கு",
+       "lemma": "emakku",
+       "gloss": "to us"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "also"
       }
      ],
-     "gloss": "to us also",
-     "split_unverified": true
+     "gloss": "to us also"
     },
     {
-     "surface": "பெரும்",
+     "surface": "பெரும்புலவு",
      "parts": [
       {
        "text": "பெரும்",
        "lemma": "peru",
        "gloss": "great"
-      }
-     ],
-     "gloss": "great"
-    },
-    {
-     "surface": "புலவு",
-     "parts": [
+      },
       {
        "text": "புலவு",
        "lemma": "pulavu",
-       "gloss": "stench of fish/flesh"
+       "gloss": "fish-stench"
       }
      ],
-     "gloss": "stench of fish"
+     "gloss": "great fish-stench"
     },
     {
      "surface": "ஆகி",
      "parts": [
       {
-       "text": "ஆகு",
+       "text": "ஆகி",
        "lemma": "āku",
-       "gloss": "become"
-      },
-      {
-       "text": "இ",
-       "lemma": "i",
-       "gloss": "verbal participle suffix"
+       "gloss": "having become"
       }
      ],
      "gloss": "having become"
@@ -338,39 +325,29 @@
        "gloss": "also"
       }
      ],
-     "gloss": "you too"
+     "gloss": "you also"
     },
     {
      "surface": "பெறேஎம்",
      "parts": [
       {
-       "text": "பெறு",
+       "text": "பெறேஎம்",
        "lemma": "peṟu",
-       "gloss": "obtain"
-      },
-      {
-       "text": "ஏஎம்",
-       "lemma": "ēem",
-       "gloss": "first person plural negative suffix"
+       "gloss": "we will not obtain"
       }
      ],
-     "gloss": "we do not obtain"
+     "gloss": "we will not obtain"
     },
     {
      "surface": "இறீஇயர்",
      "parts": [
       {
-       "text": "இறு",
+       "text": "இறீஇயர்",
        "lemma": "iṟu",
-       "gloss": "break"
-      },
-      {
-       "text": "ஈஇயர்",
-       "lemma": "īiyar",
-       "gloss": "optative suffix"
+       "gloss": "may it end"
       }
      ],
-     "gloss": "may it break!"
+     "gloss": "may it end"
     },
     {
      "surface": "எம்",
@@ -384,28 +361,34 @@
      "gloss": "our"
     },
     {
-     "surface": "உயிரே",
+     "surface": "உயிர்",
      "parts": [
       {
        "text": "உயிர்",
        "lemma": "uyir",
        "gloss": "life"
-      },
+      }
+     ],
+     "gloss": "life"
+    },
+    {
+     "surface": "ஏ",
+     "parts": [
       {
        "text": "ஏ",
        "lemma": "ē",
        "gloss": "emphasis"
       }
      ],
-     "gloss": "life indeed"
+     "gloss": "indeed"
     }
    ]
   }
  ],
- "literal": "Like the tusk of a desert-going elephant striking a rock / may they snap completely, O Lord! Then we, / our pure white teeth that laughed with you, / like the bowl in which bards poured fresh fish, / having become a source of great stench to us also, / and we do not obtain you, may our life perish!",
- "translation": "O Lord! May my pure white teeth, which once smiled happily with you, snap completely like the tusk of a desert-traversing elephant that dashes against a rock! Having become a source of great stench to us, like a bowl in which bards have kept fresh fish, they are now useless. Since we cannot have you, let our life perish too!",
- "modern": "பாலைநிலத்தில் செல்லும் யானையின் கல் மீது மோதிய தந்தத்தைப் போல, ஐயனே! உம்மோடு மகிழ்ந்து சிரித்த எம்முடைய தூய வெண்மையான பற்கள் முற்றிலும் உடைந்து போகட்டும்! பாணர்கள் பசிய மீன்களைச் சொரிந்து வைத்த பாத்திரத்தைப் போல, அவை எங்களுக்கும் பெரும் புலால் நாற்றமுடையதாக மாறிவிட்டன. உம்மையும் நாம் பெறப்போவதில்லை; ஆதலால் எமது உயிரும் அழிந்துபோகட்டும்!",
- "explanation": "The heroine speaks to the hero who has returned from his visits to courtesans. She expresses her deep grief and anger at his infidelity. She compares her teeth, which once smiled beautifully in his company, to the tusk of a desert elephant that breaks upon hitting a rock, wishing they would break now. She also compares her mouth to a bard's bowl filled with raw fish, which has become smelly and repulsive to her because she no longer has any reason to smile. Since she cannot have his exclusive love, she wishes for her own life to end. The imagery of the fish-bowl highlights the domestic discord and sensory details of the Marutam landscape.",
+ "literal": "Desert-going elephant's stone-striking tusk like / clearly may they break, O lord, and we / with you laughed, those pure white teeth! / Like the bowl in which bards poured fresh fish, / to us also having become a great fish-stench, / you also we will not obtain, may our life indeed end!",
+ "translation": "O Lord! May my pure white teeth, which once laughed in joy with you, snap and break clearly like the tusk of a desert-faring elephant that strikes against a rock! Having become a source of great stench to me, like a bowl in which bards have kept fresh fish, I can no longer have you. May my life end!",
+ "modern": "பாலைவனத்தில் செல்லும் யானையின் கல் மீது மோதிய தந்தத்தைப் போல, ஐயனே, உன்னோடு கூடி மகிழ்ந்து சிரித்த என் தூய வெண்மையான பற்கள் உடனே உடைந்து போகட்டும்! பாணர்கள் பச்ச மீன்களைப் போட்டு வைத்த பாத்திரத்தைப் போல, என் பற்கள் எனக்குப் பெரும் புலால் நாற்றமுடையதாக மாறிவிட்டன. உன்னையும் நான் பெறப்போவதில்லை; என் உயிரும் அழிந்து போகட்டும்!",
+ "explanation": "This poem is spoken by the heroine to the hero who has returned from his visits to courtesans. She expresses her deep grief and anger at his betrayal. She wishes that her teeth, which once smiled beautifully in his company, would break like an elephant's tusk striking a rock. Now, those same teeth feel like a smelly fish-bowl used by bards, representing her self-loathing and disgust at her past happiness. Since she cannot have his true love anymore, she wishes for her life to end. This poem belongs to the Marutam tiṇai (agricultural landscape), which deals with infidelity and lovers' tiffs (ūṭal).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

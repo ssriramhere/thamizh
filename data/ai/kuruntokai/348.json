@@ -7,48 +7,43 @@
      "parts": [
       {
        "text": "தாம்",
-       "lemma": "tām",
-       "gloss": "themselves"
+       "lemma": "தாம்",
+       "gloss": "they"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
+       "lemma": "ஏ",
        "gloss": "indeed"
       }
      ],
-     "gloss": "themselves indeed"
+     "gloss": "they themselves"
     },
     {
      "surface": "செல்ப",
      "parts": [
       {
        "text": "செல்",
-       "lemma": "cel",
+       "lemma": "செல்",
        "gloss": "go"
       },
       {
        "text": "ப",
-       "lemma": "pa",
-       "gloss": "they (future/habitual suffix)"
+       "lemma": "ப",
+       "gloss": "they (suffix)"
       }
      ],
-     "gloss": "they will go"
+     "gloss": "will go"
     },
     {
-     "surface": "வாயின்",
+     "surface": "வாயில்",
      "parts": [
       {
-       "text": "வாய்",
-       "lemma": "vāy",
-       "gloss": "path/place"
-      },
-      {
-       "text": "இன்",
-       "lemma": "iṉ",
-       "gloss": "locative suffix"
+       "text": "வாயில்",
+       "lemma": "வாயில்",
+       "gloss": "path/way"
       }
      ],
-     "gloss": "in the path"
+     "gloss": "on the path"
     },
     {
      "surface": "கானத்து",
@@ -67,37 +62,31 @@
   {
    "words": [
     {
-     "surface": "புலம்",
+     "surface": "புலந்தேர்",
      "parts": [
       {
        "text": "புலம்",
-       "lemma": "pulam",
+       "lemma": "புலம்",
        "gloss": "pasture/field"
-      }
-     ],
-     "gloss": "pasture"
-    },
-    {
-     "surface": "தேர்",
-     "parts": [
+      },
       {
        "text": "தேர்",
-       "lemma": "tēr",
+       "lemma": "தேர்",
        "gloss": "seeking"
       }
      ],
-     "gloss": "seeking"
+     "gloss": "seeking pasture"
     },
     {
      "surface": "யானை",
      "parts": [
       {
        "text": "யானை",
-       "lemma": "yāṉai",
+       "lemma": "யானை",
        "gloss": "elephant"
       }
      ],
-     "gloss": "elephant"
+     "gloss": "of the elephant"
     },
     {
      "surface": "கோட்டிடை",
@@ -116,16 +105,16 @@
      "parts": [
       {
        "text": "ஒழி",
-       "lemma": "oḻi",
-       "gloss": "stay behind"
+       "lemma": "ஒழி",
+       "gloss": "stay/be left behind"
       },
       {
        "text": "ந்த",
-       "lemma": "nta",
-       "gloss": "past relative participle suffix"
+       "lemma": "அ",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "that was left behind"
+     "gloss": "left behind"
     }
    ]
   },
@@ -185,91 +174,68 @@
   {
    "words": [
     {
-     "surface": "இதழ்",
+     "surface": "இதழழிந்து",
      "parts": [
       {
        "text": "இதழ்",
-       "lemma": "itaḻ",
-       "gloss": "petal"
-      }
-     ],
-     "gloss": "petal"
-    },
-    {
-     "surface": "அழிந்து",
-     "parts": [
-      {
-       "text": "அழி",
-       "lemma": "aḻi",
-       "gloss": "ruin"
+       "lemma": "இதழ்",
+       "gloss": "eyelid/petal"
       },
       {
-       "text": "ந்து",
-       "lemma": "ntu",
-       "gloss": "past adverbial participle suffix"
+       "text": "அழிந்து",
+       "lemma": "அழி",
+       "gloss": "ruining/overflowing"
       }
      ],
-     "gloss": "having ruined"
+     "gloss": "overflowing the eyelids"
     },
     {
      "surface": "ஊறும்",
      "parts": [
       {
        "text": "ஊறு",
-       "lemma": "ūṟu",
+       "lemma": "ஊறு",
        "gloss": "ooze/flow"
       },
       {
        "text": "உம்",
-       "lemma": "um",
+       "lemma": "உம்",
        "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "flowing"
+     "gloss": "oozing"
     },
     {
-     "surface": "கண்",
+     "surface": "கண்பனி",
      "parts": [
       {
        "text": "கண்",
-       "lemma": "kaṇ",
+       "lemma": "கண்",
        "gloss": "eye"
-      }
-     ],
-     "gloss": "eye"
-    },
-    {
-     "surface": "பனி",
-     "parts": [
+      },
       {
        "text": "பனி",
-       "lemma": "pani",
+       "lemma": "பனி",
        "gloss": "tear/dew"
       }
      ],
-     "gloss": "tear"
+     "gloss": "eye-tears"
     },
     {
-     "surface": "மதர்",
+     "surface": "மதரெழில்",
      "parts": [
       {
        "text": "மதர்",
-       "lemma": "matar",
-       "gloss": "luxuriant/beautiful"
-      }
-     ],
-     "gloss": "beautiful"
-    },
-    {
-     "surface": "எழில்",
-     "parts": [
+       "lemma": "மதர்",
+       "gloss": "abundance/pride"
+      },
       {
        "text": "எழில்",
-       "lemma": "eḻil",
-       "gloss": "grace/beauty"
+       "lemma": "எழில்",
+       "gloss": "beauty"
       }
      ],
-     "gloss": "grace"
+     "gloss": "proud beauty"
     }
    ]
   },
@@ -280,55 +246,53 @@
      "parts": [
       {
        "text": "பூண்",
-       "lemma": "pūṇ",
+       "lemma": "பூண்",
        "gloss": "ornament"
       },
       {
        "text": "அக",
-       "lemma": "aka",
-       "gloss": "inside/place"
+       "lemma": "அகம்",
+       "gloss": "inside/chest"
       }
      ],
-     "gloss": "chest where ornaments lie"
+     "gloss": "adorned with ornaments"
     },
     {
-     "surface": "வன",
+     "surface": "வனமுலை",
      "parts": [
       {
-       "text": "வன",
-       "lemma": "வன",
-       "gloss": "beautiful"
-      }
-     ],
-     "gloss": "beautiful",
-     "split_unverified": true
-    },
-    {
-     "surface": "முலை",
-     "parts": [
+       "text": "வனம்",
+       "lemma": "வனம்",
+       "gloss": "beauty"
+      },
       {
        "text": "முலை",
-       "lemma": "mulai",
+       "lemma": "முலை",
        "gloss": "breast"
       }
      ],
-     "gloss": "breast"
+     "gloss": "beautiful breasts"
     },
     {
      "surface": "நனைத்தலும்",
      "parts": [
       {
-       "text": "நனைத்தல்",
-       "lemma": "naṉaittal",
-       "gloss": "wetting"
+       "text": "நனை",
+       "lemma": "நனை",
+       "gloss": "wet"
+      },
+      {
+       "text": "த்தல்",
+       "lemma": "த்தல்",
+       "gloss": "verbal noun suffix"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "even/and"
+       "lemma": "உம்",
+       "gloss": "and/even"
       }
      ],
-     "gloss": "even wetting"
+     "gloss": "wetting them"
     }
    ]
   },
@@ -339,78 +303,72 @@
      "parts": [
       {
        "text": "காண்",
-       "lemma": "kāṇ",
+       "lemma": "காண்",
        "gloss": "see"
       },
       {
        "text": "ஆர்",
-       "lemma": "ār",
-       "gloss": "negative third person plural suffix"
+       "lemma": "ஆர்",
+       "gloss": "they (negative)"
       }
      ],
-     "gloss": "will they not see?"
+     "gloss": "does he not see"
     },
     {
      "surface": "கொல்லோ",
      "parts": [
       {
        "text": "கொல்",
-       "lemma": "kol",
+       "lemma": "கொல்",
        "gloss": "particle of doubt"
       },
       {
        "text": "ஓ",
-       "lemma": "ō",
-       "gloss": "clitic"
+       "lemma": "ஓ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "indeed?"
+     "gloss": "indeed"
     },
     {
-     "surface": "மாண்",
+     "surface": "மாணிழை",
      "parts": [
       {
        "text": "மாண்",
-       "lemma": "māṇ",
+       "lemma": "மாண்",
        "gloss": "excellent"
-      }
-     ],
-     "gloss": "excellent"
-    },
-    {
-     "surface": "இழை",
-     "parts": [
+      },
       {
        "text": "இழை",
-       "lemma": "iḻai",
-       "gloss": "jeweled ornaments"
+       "lemma": "இழை",
+       "gloss": "jewels"
       }
      ],
-     "gloss": "jeweled ornaments"
+     "gloss": "O you of excellent jewels"
     },
     {
      "surface": "நமரே",
      "parts": [
       {
        "text": "நமர்",
-       "lemma": "namar",
-       "gloss": "our lover"
+       "lemma": "நமர்",
+       "gloss": "our man/lover"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
+       "lemma": "ஏ",
+       "gloss": "indeed"
       }
      ],
-     "gloss": "our lover"
+     "gloss": "our man"
     }
    ]
   }
  ],
- "literal": "By themselves they will go, in the path of the forest / where pasture-seeking elephants' tusks-between left-behind / small-blossomed jasmine branch spreading / petals ruined, oozing eye-tears, beautiful, graceful / ornament-bearing beautiful breasts wetting / will he not see indeed, our man of excellent jewels?",
- "translation": "Our lover, who left us, will surely travel by himself along the forest paths. There, the small-blossomed jasmine branches, caught and left behind between the tusks of pasture-seeking elephants, scatter their ruined petals. Will he not see how my eyes, like those ruined blossoms, overflow with tears that wet my beautiful breasts adorned with fine jewels?",
- "modern": "மேய்ச்சலைத் தேடிச் செல்லும் யானைகளின் தந்தங்களுக்கு இடையே சிக்கித் தப்பிய சிறிய பூக்களைக் கொண்ட முல்லைக் கொடியிலிருந்து உதிர்ந்து, இதழ்கள் சிதைந்து பரவியிருக்கும் முல்லைப் பூக்களைப் போல, என் கண்களிலிருந்து வழியும் கண்ணீர் என் அழகிய மார்பகங்களை நனைப்பதை, நம் தலைவர் அந்தப் பாலைவனக் காட்டு வழியில் செல்லும்போது காணமாட்டாரோ?",
- "explanation": "The friend (தோழி) speaks to the heroine (தலைவி) or to herself in the heroine's presence, expressing deep concern about the hero's journey through the arid desert (pālai). The poem uses a vivid image of a jasmine branch caught between the tusks of an elephant searching for pasture. As the elephant moves, the delicate jasmine blossoms are crushed and scattered. This is compared to the heroine's eyes, which are ruined by weeping, shedding tears that wet her beautiful breasts. The comparison of the crushed jasmine petals to the tear-filled eyes of the grieving heroine highlights the pain of separation. The key words are 'முல்லை' (jasmine), 'யானைக் கோடு' (elephant's tusk), 'கண்பனி' (tears), and 'காணார் கொல்லோ' (will he not see?).",
+ "literal": "They themselves will go on the path of the forest, / where, left behind between the tusks of elephants seeking pasture, / spreading from the branch of the small-flowered jasmine, / overflowing the eyelids, oozing eye-tears, on the proudly beautiful / breasts adorned with ornaments, wet them; does he not see this, / indeed, O you of excellent jewels, our man?",
+ "translation": "Our man travels by himself on the forest path. Does he not see how the tears from your eyes, overflowing your eyelids and oozing down, wet your beautiful breasts adorned with ornaments, like the small-flowered jasmine spreading from its branch, left behind between the tusks of wild elephants searching for pasture?",
+ "modern": "மேய்ச்சல் நிலத்தைத் தேடும் யானைகளின் தந்தங்களுக்கு இடையே சிக்கித் தப்பிய, சிறிய மலர்களைக் கொண்ட முல்லைக் கொடியின் கிளையிலிருந்து உதிர்ந்து பரவுவது போல, இமைகளைக் கடந்து பெருகி வழியும் கண்ணீரானது, அணிகலன்களை அணிந்த உன்னுடைய அழகான மார்பகங்களை நனைப்பதை, நம் காதலர் காணமாட்டாரோ? அவர் தாமே அந்த வறண்ட காட்டு வழியில் செல்கின்றார்.",
+ "explanation": "The friend speaks to the heroine to console her during the hero's separation. The hero has departed on a journey through the dry forest path to acquire wealth. The friend notices the heroine's intense grief, with tears overflowing her eyelids and wetting her beautiful breasts. She compares these tears to the delicate jasmine flowers falling from their branches, which were caught and left behind between the tusks of wild elephants searching for pasture. The friend wonders aloud if the hero, who travels through such forests, does not realize or see the pain his departure causes, symbolized by these tears. This poignant comparison of the delicate jasmine on elephant tusks to tears on the heroine's breasts beautifully captures the harshness of the pālai landscape and the tenderness of her love.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

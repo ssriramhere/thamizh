@@ -71,7 +71,7 @@
       {
        "text": "அன்",
        "lemma": "அன்",
-       "gloss": "empty particle"
+       "gloss": "empty morph"
       },
       {
        "text": "என்",
@@ -90,7 +90,7 @@
        "gloss": "gift"
       }
      ],
-     "gloss": "gift"
+     "gloss": "gifts"
     },
     {
      "surface": "கொண்டனென்",
@@ -98,7 +98,7 @@
       {
        "text": "கொண்",
        "lemma": "கொள்",
-       "gloss": "receive"
+       "gloss": "take"
       },
       {
        "text": "ட்",
@@ -108,7 +108,7 @@
       {
        "text": "அன்",
        "lemma": "அன்",
-       "gloss": "empty particle"
+       "gloss": "empty morph"
       },
       {
        "text": "என்",
@@ -123,19 +123,18 @@
      "parts": [
       {
        "text": "செலற்கு`",
-       "lemma": "செலற்கு`",
+       "lemma": "செலவு",
        "gloss": "to go"
       }
      ],
-     "gloss": "to go",
-     "split_unverified": true
+     "gloss": "to go"
     },
     {
      "surface": "என",
      "parts": [
       {
        "text": "என",
-       "lemma": "என்",
+       "lemma": "என",
        "gloss": "saying"
       }
      ],
@@ -171,31 +170,31 @@
      "parts": [
       {
        "text": "என்",
-       "lemma": "யான்",
+       "lemma": "என்",
        "gloss": "me"
       },
       {
        "text": "நய",
        "lemma": "நய",
-       "gloss": "esteem"
+       "gloss": "value"
       },
       {
        "text": "ந்",
        "lemma": "த்",
-       "gloss": "past tense marker"
+       "gloss": "nasal"
       },
       {
        "text": "த்",
        "lemma": "த்",
-       "gloss": "past tense marker"
+       "gloss": "past"
       },
       {
        "text": "உ",
        "lemma": "உ",
-       "gloss": "past participle suffix"
+       "gloss": "verbal participle"
       }
      ],
-     "gloss": "esteeming me"
+     "gloss": "valuing me"
     },
     {
      "surface": "அருளி",
@@ -208,7 +207,7 @@
       {
        "text": "இ",
        "lemma": "இ",
-       "gloss": "having done"
+       "gloss": "verbal participle suffix"
       }
      ],
      "gloss": "having graced"
@@ -218,12 +217,11 @@
      "parts": [
       {
        "text": "`ஈது",
-       "lemma": "`ஈது",
-       "gloss": "\"this"
+       "lemma": "ஈது",
+       "gloss": "this"
       }
      ],
-     "gloss": "\"this",
-     "split_unverified": true
+     "gloss": "this"
     },
     {
      "surface": "கொண்டு",
@@ -234,17 +232,12 @@
        "gloss": "take"
       },
       {
-       "text": "ட்",
-       "lemma": "த்",
-       "gloss": "past tense marker"
-      },
-      {
-       "text": "உ",
-       "lemma": "உ",
-       "gloss": "past participle suffix"
+       "text": "டு",
+       "lemma": "து",
+       "gloss": "verbal participle suffix"
       }
      ],
-     "gloss": "taking"
+     "gloss": "having taken"
     }
    ]
   },
@@ -254,14 +247,9 @@
      "surface": "ஈங்கனம்",
      "parts": [
       {
-       "text": "ஈங்கு",
-       "lemma": "ஈங்கு",
+       "text": "ஈங்கனம்",
+       "lemma": "ஈங்கனம்",
        "gloss": "here"
-      },
-      {
-       "text": "அனம்",
-       "lemma": "அனம்",
-       "gloss": "manner"
       }
      ],
      "gloss": "in this manner"
@@ -280,26 +268,25 @@
        "gloss": "optative suffix"
       }
      ],
-     "gloss": "let him go"
+     "gloss": "may go"
     },
     {
      "surface": "தான்`",
      "parts": [
       {
        "text": "தான்`",
-       "lemma": "தான்`",
-       "gloss": "indeed\""
+       "lemma": "தான்",
+       "gloss": "himself"
       }
      ],
-     "gloss": "indeed\"",
-     "split_unverified": true
+     "gloss": "he"
     },
     {
      "surface": "என",
      "parts": [
       {
        "text": "என",
-       "lemma": "என்",
+       "lemma": "என",
        "gloss": "saying"
       }
      ],
@@ -310,7 +297,7 @@
      "parts": [
       {
        "text": "என்",
-       "lemma": "யான்",
+       "lemma": "என்",
        "gloss": "me"
       },
       {
@@ -326,33 +313,38 @@
   {
    "words": [
     {
-     "surface": "யாங்குஅறிந்",
+     "surface": "யாங்கு",
      "parts": [
       {
        "text": "யாங்கு",
        "lemma": "யாங்கு",
        "gloss": "how"
-      },
-      {
-       "text": "அறிந்",
-       "lemma": "அறி",
-       "gloss": "know"
       }
      ],
-     "gloss": "how did he know"
+     "gloss": "how"
     },
     {
-     "surface": "தனனோ",
+     "surface": "அறிந்தனனோ",
      "parts": [
+      {
+       "text": "அறி",
+       "lemma": "அறி",
+       "gloss": "know"
+      },
+      {
+       "text": "ந்",
+       "lemma": "த்",
+       "gloss": "nasal"
+      },
       {
        "text": "த்",
        "lemma": "த்",
-       "gloss": "past tense marker"
+       "gloss": "past"
       },
       {
        "text": "அன்",
        "lemma": "அன்",
-       "gloss": "empty particle"
+       "gloss": "empty morph"
       },
       {
        "text": "அன்",
@@ -362,7 +354,7 @@
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "interrogative particle"
+       "gloss": "clitic"
       }
      ],
      "gloss": "did he know?"
@@ -381,20 +373,15 @@
        "gloss": "difficult"
       }
      ],
-     "gloss": "hard to resist"
+     "gloss": "mighty"
     },
     {
      "surface": "காவலன்",
      "parts": [
       {
-       "text": "காவல்",
-       "lemma": "காவல்",
-       "gloss": "protection"
-      },
-      {
-       "text": "அன்",
-       "lemma": "அன்",
-       "gloss": "masculine singular suffix"
+       "text": "காவலன்",
+       "lemma": "காவலன்",
+       "gloss": "protector"
       }
      ],
      "gloss": "protector"
@@ -407,14 +394,9 @@
      "surface": "காணாது",
      "parts": [
       {
-       "text": "காண்",
+       "text": "காணாது",
        "lemma": "காண்",
-       "gloss": "see"
-      },
-      {
-       "text": "ஆது",
-       "lemma": "ஆது",
-       "gloss": "without"
+       "gloss": "without seeing"
       }
      ],
      "gloss": "without seeing"
@@ -454,14 +436,9 @@
        "gloss": "this"
       },
       {
-       "text": "பொருள்",
+       "text": "பொருட்கு",
        "lemma": "பொருள்",
-       "gloss": "wealth"
-      },
-      {
-       "text": "கு",
-       "lemma": "கு",
-       "gloss": "to"
+       "gloss": "wealth-dative"
       }
      ],
      "gloss": "for this wealth"
@@ -477,10 +454,10 @@
       {
        "text": "ஓர்",
        "lemma": "ஒரு",
-       "gloss": "a"
+       "gloss": "one"
       }
      ],
-     "gloss": "I am not a"
+     "gloss": "I am one"
     }
    ]
   },
@@ -491,12 +468,11 @@
      "parts": [
       {
        "text": "வாணிகப்",
-       "lemma": "வாணிகப்",
-       "gloss": "trading"
+       "lemma": "வாணிகம்",
+       "gloss": "trade"
       }
      ],
-     "gloss": "trading",
-     "split_unverified": true
+     "gloss": "commercial"
     },
     {
      "surface": "பரிசிலன்",
@@ -509,7 +485,7 @@
       {
        "text": "அன்",
        "lemma": "அன்",
-       "gloss": "masculine singular suffix"
+       "gloss": "person"
       }
      ],
      "gloss": "seeker of gifts"
@@ -525,7 +501,7 @@
       {
        "text": "ஏன்",
        "lemma": "ஏன்",
-       "gloss": "I (1sg suffix)"
+       "gloss": "I"
       }
      ],
      "gloss": "I am not"
@@ -534,19 +510,9 @@
      "surface": "பேணித்",
      "parts": [
       {
-       "text": "பேண்",
-       "lemma": "பேண்",
-       "gloss": "cherish"
-      },
-      {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "past participle suffix"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "sandhi consonant"
+       "text": "பேணித்",
+       "lemma": "பேணு",
+       "gloss": "cherishing"
       }
      ],
      "gloss": "cherishing"
@@ -570,35 +536,20 @@
      "surface": "அனைத்து",
      "parts": [
       {
-       "text": "அனை",
-       "lemma": "அனை",
-       "gloss": "that much"
-      },
-      {
-       "text": "த்",
-       "lemma": "த்",
-       "gloss": "sandhi consonant"
-      },
-      {
-       "text": "து",
-       "lemma": "து",
-       "gloss": "neuter singular suffix"
+       "text": "அனைத்து",
+       "lemma": "அனைத்து",
+       "gloss": "measure"
       }
      ],
-     "gloss": "as small as that"
+     "gloss": "as small as"
     },
     {
      "surface": "ஆயினும்",
      "parts": [
       {
-       "text": "ஆயின்",
-       "lemma": "ஆயின்",
-       "gloss": "if it is"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "ஆயினும்",
+       "lemma": "ஆயினும்",
+       "gloss": "even if it is"
       }
      ],
      "gloss": "even if it is"
@@ -614,10 +565,10 @@
       {
        "text": "அவர்",
        "lemma": "அவர்",
-       "gloss": "his/their"
+       "gloss": "his"
       }
      ],
-     "gloss": "sweet is their"
+     "gloss": "sweet is his"
     }
    ]
   },
@@ -640,10 +591,10 @@
       {
        "text": "அளவு",
        "lemma": "அளவு",
-       "gloss": "extent"
+       "gloss": "measure"
       }
      ],
-     "gloss": "extent"
+     "gloss": "measure"
     },
     {
      "surface": "அறிந்து",
@@ -656,17 +607,17 @@
       {
        "text": "ந்",
        "lemma": "த்",
-       "gloss": "past tense marker"
+       "gloss": "nasal"
       },
       {
        "text": "த்",
        "lemma": "த்",
-       "gloss": "past tense marker"
+       "gloss": "past"
       },
       {
        "text": "உ",
        "lemma": "உ",
-       "gloss": "past participle suffix"
+       "gloss": "verbal participle"
       }
      ],
      "gloss": "knowing"
@@ -682,7 +633,7 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "past tense marker"
+       "gloss": "past"
       },
       {
        "text": "அர்",
@@ -690,7 +641,7 @@
        "gloss": "they"
       }
      ],
-     "gloss": "if they gave"
+     "gloss": "they gave"
     },
     {
      "surface": "விடினே",
@@ -698,23 +649,23 @@
       {
        "text": "விடின்",
        "lemma": "விடின்",
-       "gloss": "if"
+       "gloss": "if give"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "clitic"
       }
      ],
-     "gloss": "indeed if they gave"
+     "gloss": "if indeed they give"
     }
    ]
   }
  ],
- "literal": "Leaving behind many hills and mountains / I came, saying 'I will receive gifts and go' / To me who stood, he showed grace, and saying 'Take this / and go from here', how did he know me, / the protector hard to resist? / For this wealth given without seeing me, I am not / a trading seeker of gifts! Cherishing, / even if it is as small as a millet grain, it is sweet, if they / gave knowing the measure of their relationship.",
- "translation": "Leaving behind many hills and mountains, I came here thinking, 'I shall receive gifts and depart.' To me who stood waiting, he showed grace, and saying, 'Take this and go from here,' how did the hard-to-resist protector know my worth? For this wealth given without even seeing me, I am not a trading seeker of gifts! Even if it is as small as a millet grain, it is sweet if given with love, knowing the measure of our relationship.",
- "modern": "பல குன்றுகளையும் மலைகளையும் பின்னே விட்டுவிட்டு, 'பரிசில் பெற்றுக்கொண்டு செல்வேன்' என்று வந்தேன். அவ்வாறு நின்ற என்மீது அன்பு காட்டி, 'இதை வாங்கிக்கொண்டு இங்கிருந்து போகட்டும்' என்று என்னை எவ்வாறு அறிந்து கொண்டான் அந்தத் தாங்கற்கரிய காவலன்? என்னைக் காணாமலேயே கொடுத்த இந்தச் செல்வத்தைப் பெறுவதற்கு நான் ஒன்றும் வியாபாரப் பரிசிலன் அல்லன். அன்போடு போற்றி, தினை அளவு சிறியதாக இருந்தாலும், நம்முடைய உறவின் அளவை அறிந்து கொடுத்தால் அதுவே நமக்கு இனியதாகும்.",
- "explanation": "The poet Peruñcittiraṉār is speaking to the messengers or associates of King Atiyamāṉ Neṭumāṉ Añci, expressing his self-respect and refusal of a gift given without a personal audience. Having traveled a long distance across hills and mountains, the poet arrived expecting a warm reception and a mutual appreciation of his poetic worth. Instead, the king sent a generous gift through intermediaries without granting an audience, treating the transaction like a mere trade. The poet proudly declares that he is not a merchant of words who sells poetry for material wealth. He asserts that even a tiny gift, as small as a millet seed, is sweet and acceptable if given with personal regard and an understanding of their relationship.",
+ "literal": "Hills and mountains, many behind to be left behind / I came, gifts I received to go, saying / stood me valuing, having graced, 'this having taken / in this manner may go he', saying, me / how did he know, the mighty protector? / Without seeing, for this wealth given, I am one / commercial seeker of gifts am not; cherishing / millet as small as even if it is, sweet is his / measure of friendship knowing, if indeed they give.",
+ "translation": "Leaving many hills and mountains behind, I came to receive gifts and depart. But the mighty protector, without even seeing me, sent word saying, 'Take this and go.' How could he know me so? I am no commercial seeker of gifts who trades for wealth. Even if it is as tiny as a millet seed, a gift is sweet only when given with love, by those who truly understand the measure of our friendship.",
+ "modern": "பல குன்றுகளையும் மலைகளையும் பின்னே விட்டுவிட்டு, நான் பரிசில் பெற்றுச் செல்வதற்காக வந்தேன். ஆனால், தாங்குவதற்கு அரிய வலிமை கொண்ட காவலனாகிய அதியமான், என்னை நேரில் காணாமலேயே, 'இதைப் பெற்றுக்கொண்டு இங்கிருந்து போகட்டும்' என்று கூறிப் பரிசிலை அனுப்பியிருக்கிறான். அவன் என்னை எவ்வாறு அறிந்து கொண்டான்? நேரில் காணாமல் கொடுத்த இந்தப் பொருளைப் பெறுவதற்கு நான் ஒன்றும் வியாபாரப் பரிசிலன் அல்லன். அன்போடு போற்றி, தினை அளவு மிகச் சிறியதாக இருந்தாலும், கொடுப்பவர் நமது நட்பின் அளவை அறிந்து கொடுத்தால் அதுவே நமக்கு மிகவும் இனிமையானது.",
+ "explanation": "The poet Peruñcittiraṉār is speaking about King Atiyamāṉ Neṭumāṉ Añci. The poet visited the king seeking patronage, but the king sent him gifts through intermediaries without granting an audience. The poet refuses the gifts, stating that he is not a merchant trading poems for wealth. He values personal connection and mutual respect far above material riches. The key phrase 'வாணிகப் பரிசிலன்' (commercial seeker of gifts) highlights the poet's self-respect, while 'துணை அளவு' (measure of friendship) emphasizes that true patronage is based on mutual understanding, not mere charity.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -121,28 +121,37 @@
   {
    "words": [
     {
-     "surface": "திரைவேட்",
+     "surface": "திரை",
      "parts": [
       {
-       "text": "திரைவேட்",
-       "lemma": "திரைவேட்",
-       "gloss": ""
+       "text": "திரை",
+       "lemma": "திரை",
+       "gloss": "wrinkled prey"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "wrinkled prey"
     },
     {
-     "surface": "டெழுந்த",
+     "surface": "வேட்டு",
      "parts": [
       {
-       "text": "டெழுந்த",
-       "lemma": "டெழுந்த",
-       "gloss": ""
+       "text": "வேட்டு",
+       "lemma": "வேள்",
+       "gloss": "desiring"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "desiring"
+    },
+    {
+     "surface": "எழுந்த",
+     "parts": [
+      {
+       "text": "எழுந்த",
+       "lemma": "எழு",
+       "gloss": "that rose"
+      }
+     ],
+     "gloss": "that rose"
     },
     {
      "surface": "சேவல்",
@@ -150,26 +159,23 @@
       {
        "text": "சேவல்",
        "lemma": "சேவல்",
-       "gloss": ""
+       "gloss": "male bird"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "male bird"
     },
     {
-     "surface": "உள்ளிப்",
+     "surface": "உள்ளி",
      "parts": [
       {
-       "text": "உள்ளிப்",
-       "lemma": "உள்ளிப்",
-       "gloss": ""
+       "text": "உள்ளி",
+       "lemma": "உள்",
+       "gloss": "thinking of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thinking of"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -179,7 +185,7 @@
       {
        "text": "பொறி",
        "lemma": "பொறி",
-       "gloss": "spots / dots"
+       "gloss": "spots"
       }
      ],
      "gloss": "spots"
@@ -190,7 +196,7 @@
       {
        "text": "மயிர்",
        "lemma": "மயிர்",
-       "gloss": "feathers / hair"
+       "gloss": "feathers"
       }
      ],
      "gloss": "feathers"
@@ -206,7 +212,7 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "genitive case marker"
+       "gloss": "genitive marker"
       }
      ],
      "gloss": "of the neck"
@@ -217,7 +223,7 @@
       {
        "text": "குறு",
        "lemma": "குறு",
-       "gloss": "short / small"
+       "gloss": "short"
       }
      ],
      "gloss": "short"
@@ -228,7 +234,7 @@
       {
        "text": "நடை",
        "lemma": "நடை",
-       "gloss": "gait / walk"
+       "gloss": "gait"
       }
      ],
      "gloss": "gait"
@@ -254,10 +260,10 @@
       {
        "text": "பொறி",
        "lemma": "பொறி",
-       "gloss": "spots / markings"
+       "gloss": "scarred"
       }
      ],
-     "gloss": "spotted"
+     "gloss": "scarred"
     },
     {
      "surface": "கால்",
@@ -265,7 +271,7 @@
       {
        "text": "கால்",
        "lemma": "கால்",
-       "gloss": "trunk / stem"
+       "gloss": "trunk"
       }
      ],
      "gloss": "trunk"
@@ -276,10 +282,10 @@
       {
        "text": "கள்ளி",
        "lemma": "கள்ளி",
-       "gloss": "spurge / cactus"
+       "gloss": "spurge cactus"
       }
      ],
-     "gloss": "spurge"
+     "gloss": "spurge cactus"
     },
     {
      "surface": "விரி",
@@ -287,7 +293,7 @@
       {
        "text": "விரி",
        "lemma": "விரி",
-       "gloss": "spreading / blooming"
+       "gloss": "spreading"
       }
      ],
      "gloss": "spreading"
@@ -298,10 +304,10 @@
       {
        "text": "காய்",
        "lemma": "காய்",
-       "gloss": "unripe pod / fruit"
+       "gloss": "fruit"
       }
      ],
-     "gloss": "pods"
+     "gloss": "fruit"
     },
     {
      "surface": "அம்",
@@ -320,10 +326,10 @@
       {
        "text": "கவட்டு",
        "lemma": "கவட்டு",
-       "gloss": "in the fork of a branch"
+       "gloss": "fork of a branch"
       }
      ],
-     "gloss": "in the fork of a branch",
+     "gloss": "fork of a branch",
      "split_unverified": true
     }
    ]
@@ -428,17 +434,12 @@
      "surface": "பிரிந்து",
      "parts": [
       {
-       "text": "பிரி",
+       "text": "பிரிந்து",
        "lemma": "பிரி",
-       "gloss": "separate"
-      },
-      {
-       "text": "ந்து",
-       "lemma": "ந்து",
-       "gloss": "verbal participle suffix"
+       "gloss": "having parted"
       }
      ],
-     "gloss": "having separated"
+     "gloss": "having parted"
     },
     {
      "surface": "சேண்",
@@ -446,7 +447,7 @@
       {
        "text": "சேண்",
        "lemma": "சேண்",
-       "gloss": "distance / far away"
+       "gloss": "far away"
       }
      ],
      "gloss": "far away"
@@ -455,41 +456,37 @@
      "surface": "உறைதல்",
      "parts": [
       {
-       "text": "உறை",
-       "lemma": "உறை",
-       "gloss": "reside / live"
-      },
-      {
-       "text": "தல்",
-       "lemma": "தல்",
-       "gloss": "verbal noun suffix"
+       "text": "உறைதல்",
+       "lemma": "உறைதல்",
+       "gloss": "living"
       }
      ],
-     "gloss": "living"
+     "gloss": "living",
+     "split_unverified": true
     },
     {
      "surface": "வல்லுவோரே",
      "parts": [
       {
        "text": "வல்லுவோர்",
-       "lemma": "வல்லுவோர்",
+       "lemma": "வல்லுநர்",
        "gloss": "those who are capable"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis marker"
+       "gloss": "emphasis particle"
       }
      ],
-     "gloss": "those who are indeed capable"
+     "gloss": "those who are capable indeed"
     }
    ]
   }
  ],
- "literal": "How did they know, oh friend? / Like the slough of a snake stretched out, in the shimmering heat time, / seeking prey, the male bird rose up, thinking of / the female bird of short gait and spotted-feathered neck, / on the spotted-trunk spurge's spreading-pod beautiful fork, / to sway, having sat, to lament, coos / in the difficult desert region's forest, / separating, far away to reside, those who are capable!",
- "translation": "How did he know, my friend? He who is capable of separating from me and living far away in the forest of the difficult desert region, where, in the shimmering heat of a season that looks like the stretched-out slough of a snake, the male bird, having flown up in search of prey, thinks of his short-gaited mate with her spotted-feathered neck, and sits on the beautiful fork of the spotted-trunk spurge with its spreading pods, cooing in lament as it sways.",
- "modern": "தோழியே! பாம்பின் உரிந்துபோன சட்டை நீண்டு கிடப்பது போல வெயில் கானல் வீசும் வெப்பம் மிகுந்த காலத்தில், தன் உணவைத் தேடி மேலே எழுந்த ஆண் புறா, புள்ளிகளுடைய மயிரைக் கொண்ட கழுத்தையும் மெல்ல நடையையும் உடைய தன் பெண் புறாவை நினைத்து, புள்ளிகள் பொருந்திய தண்டுடைய கள்ளி மரத்தின் விரிந்த காய்களைக் கொண்ட அழகிய கிளையின் கவட்டிலே அமர்ந்து, அக்கிளை அசையும்படி இருந்து கொண்டு தன் தனிமையால் வருந்திக் கூவும். இத்தகைய அரிய பாலைநிலக் காட்டில் நம்மைப் பிரிந்து தொலைதூரத்தில் தங்கி வாழும் வலிமை படைத்தவர், இதனை எவ்வாறு அறிந்து கொண்டாரோ?",
- "explanation": "The heroine is speaking to her friend during her separation from her lover, who has traveled to a distant land through the harsh desert to earn wealth. She wonders how her lover has the strength of heart to live so far away in such a desolate wasteland. The desert is described as shimmering with intense heat, resembling a long, discarded snake skin. In this harsh landscape, a male bird flies up to find food but immediately remembers his mate—the short-gaited, spotted-necked female—and sits on a dry spurge branch, cooing in lonely lament. This image of the bird's deep attachment and sorrow in separation contrasts sharply with the hero's ability to remain away, highlighting the heroine's grief.",
+ "literal": "How did they know, O friend, of snake / sloughed skin stretched-like heat shimmering season / wrinkled prey desiring rose male bird thinking of / spotted feathered neck short walking female bird / scarred trunk spurge cactus spreading fruit beautiful fork / to sway sitting to lament calls out / harsh desert region wilderness / parting far away living those who are capable indeed",
+ "translation": "How did he know, my friend, and manage to live so far away, parting from me? In the harsh desert wilderness, during the season of shimmering heat that looks like the stretched-out sloughed skin of a snake, a short-stepping female dove with a spotted-feathered neck sits on the beautiful fork of a spurge cactus with scarred trunks and spreading fruit, swaying as she laments and calls out, thinking of her male mate who flew up in search of wrinkled prey.",
+ "modern": "தோழியே! பாம்பின் உரிந்துபோன தோல் நீண்டு கிடப்பது போல வெயில் கொதிக்கும் இக்காலத்தில், தன் ஆண் துணையை நினைத்து, புள்ளிகள் உள்ள கழுத்தையும் மெல்லிய நடையையும் உடைய பெண் புறா ஒன்று, வரிகள் விழுந்த தண்டுடைய கள்ளிச் செடியின் அழகான கிளையில் அமர்ந்து, அக்கிளை அசையும்படி வருத்தத்துடன் கூவுகிறது. இத்தகைய அரிய பாலைநிலக் காட்டில் நம்மைப் பிரிந்து தொலைதூரத்தில் தங்கியிருக்க அவரால் எப்படி முடிகிறது?",
+ "explanation": "This poem is spoken by the heroine to her friend during the hot season of separation. The hero has gone to a distant land to earn wealth, traversing the harsh desert (pālai) landscape. The heroine wonders how he has the strength of heart to stay away in such a desolate place. The shimmering heat of the desert is compared to the stretched-out sloughed skin of a snake. The image of the lonely female dove calling out for her mate from a dry spurge cactus mirrors the heroine's own state of longing and grief. Key words include 'உருப்பு' (heat), 'கள்ளி' (cactus), and 'வல்லுவோரே' (those who are capable).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

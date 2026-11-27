@@ -8,21 +8,36 @@
       {
        "text": "உடும்பு",
        "lemma": "உடும்பு",
-       "gloss": "monitor lizard"
+       "gloss": "iguana"
       }
      ],
-     "gloss": "monitor lizard"
+     "gloss": "iguana"
     },
     {
      "surface": "உரித்து",
      "parts": [
       {
-       "text": "உரித்து",
+       "text": "உரி",
        "lemma": "உரி",
-       "gloss": "peeled"
+       "gloss": "peel"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "past sandhi"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "past tense"
+      },
+      {
+       "text": "உ",
+       "lemma": "உ",
+       "gloss": "participle suffix"
       }
      ],
-     "gloss": "peeled"
+     "gloss": "having peeled"
     },
     {
      "surface": "அன்ன",
@@ -52,7 +67,7 @@
       {
        "text": "எழு",
        "lemma": "எழு",
-       "gloss": "protruding"
+       "gloss": "protrude"
       }
      ],
      "gloss": "protruding"
@@ -68,7 +83,7 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "of"
+       "gloss": "oblique suffix"
       }
      ],
      "gloss": "of the side"
@@ -131,35 +146,43 @@
   {
    "words": [
     {
-     "surface": "சில்",
+     "surface": "சில்செவித்து",
      "parts": [
       {
        "text": "சில்",
        "lemma": "சில்",
-       "gloss": "few/little"
-      }
-     ],
-     "gloss": "little"
-    },
-    {
-     "surface": "செவித்து",
-     "parts": [
+       "gloss": "few/small"
+      },
       {
-       "text": "செவித்து",
-       "lemma": "செவித்து",
-       "gloss": "having ear"
+       "text": "செவி",
+       "lemma": "செவி",
+       "gloss": "ear"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "increment"
+      },
+      {
+       "text": "உ",
+       "lemma": "உ",
+       "gloss": "suffix"
       }
      ],
-     "gloss": "having ear",
-     "split_unverified": true
+     "gloss": "of deaf ears"
     },
     {
      "surface": "ஆகிய",
      "parts": [
       {
-       "text": "ஆகிய",
+       "text": "ஆகு",
        "lemma": "ஆகு",
-       "gloss": "which became"
+       "gloss": "become"
+      },
+      {
+       "text": "இய",
+       "lemma": "இய",
+       "gloss": "past participle"
       }
      ],
      "gloss": "which became"
@@ -170,32 +193,34 @@
       {
        "text": "கேள்வி",
        "lemma": "கேள்வி",
-       "gloss": "hearing/listening"
+       "gloss": "learning"
       }
      ],
-     "gloss": "hearing"
+     "gloss": "learning"
     },
     {
      "surface": "நொந்து",
      "parts": [
       {
        "text": "நொந்து",
-       "lemma": "நோ",
-       "gloss": "aching"
+       "lemma": "நொந்து",
+       "gloss": "having grieved"
       }
      ],
-     "gloss": "aching"
+     "gloss": "having grieved",
+     "split_unverified": true
     },
     {
      "surface": "நொந்து",
      "parts": [
       {
        "text": "நொந்து",
-       "lemma": "நோ",
-       "gloss": "aching"
+       "lemma": "நொந்து",
+       "gloss": "having grieved"
       }
      ],
-     "gloss": "aching"
+     "gloss": "having grieved",
+     "split_unverified": true
     }
    ]
   },
@@ -227,17 +252,27 @@
      "surface": "செய்தியோ",
      "parts": [
       {
-       "text": "செய்தி",
+       "text": "செய்",
        "lemma": "செய்",
-       "gloss": "you do"
+       "gloss": "do"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "past"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "you"
       },
       {
        "text": "ஓ",
        "lemma": "ஓ",
-       "gloss": "interrogative clitic"
+       "gloss": "interrogative"
       }
      ],
-     "gloss": "do you do?"
+     "gloss": "what do you do?"
     },
     {
      "surface": "பாண",
@@ -248,7 +283,7 @@
        "gloss": "O bard"
       }
      ],
-     "gloss": "O bard"
+     "gloss": "O bard!"
     },
     {
      "surface": "பூண்",
@@ -266,11 +301,12 @@
      "parts": [
       {
        "text": "சுமந்து",
-       "lemma": "சும",
-       "gloss": "bearing"
+       "lemma": "சுமந்து",
+       "gloss": "having borne"
       }
      ],
-     "gloss": "bearing"
+     "gloss": "having borne",
+     "split_unverified": true
     }
    ]
   },
@@ -282,11 +318,10 @@
       {
        "text": "அம்",
        "lemma": "அம்",
-       "gloss": ""
+       "gloss": "beautiful"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "beautiful"
     },
     {
      "surface": "பகட்டு",
@@ -294,35 +329,38 @@
       {
        "text": "பகட்டு",
        "lemma": "பகட்டு",
-       "gloss": ""
+       "gloss": "majestic"
       }
      ],
-     "gloss": "",
+     "gloss": "majestic",
      "split_unverified": true
     },
     {
      "surface": "எழிலிய",
      "parts": [
       {
-       "text": "எழிலிய",
-       "lemma": "எழிலிய",
-       "gloss": ""
+       "text": "எழில்",
+       "lemma": "எழில்",
+       "gloss": "beauty"
+      },
+      {
+       "text": "இய",
+       "lemma": "இய",
+       "gloss": "adjectival suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "beautiful"
     },
     {
      "surface": "செம்",
      "parts": [
       {
        "text": "செம்",
-       "lemma": "செம்",
-       "gloss": ""
+       "lemma": "செம்மை",
+       "gloss": "red"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "red"
     },
     {
      "surface": "பொறி",
@@ -330,11 +368,10 @@
       {
        "text": "பொறி",
        "lemma": "பொறி",
-       "gloss": ""
+       "gloss": "spots"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "spots"
     },
     {
      "surface": "ஆகத்து",
@@ -342,14 +379,13 @@
       {
        "text": "ஆகத்து",
        "lemma": "ஆகத்து",
-       "gloss": ""
+       "gloss": "of the chest"
       }
      ],
-     "gloss": "",
+     "gloss": "of the chest",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -380,7 +416,7 @@
       {
        "text": "கு",
        "lemma": "கு",
-       "gloss": "to"
+       "gloss": "dative"
       }
      ],
      "gloss": "to women"
@@ -389,12 +425,17 @@
      "surface": "வணங்கி",
      "parts": [
       {
-       "text": "வணங்கி",
+       "text": "வணங்கு",
        "lemma": "வணங்கு",
-       "gloss": "bowing"
+       "gloss": "bow"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "participle"
       }
      ],
-     "gloss": "bowing"
+     "gloss": "having bowed"
     },
     {
      "surface": "வன்மையின்",
@@ -431,46 +472,49 @@
      "surface": "பிணிக்கும்",
      "parts": [
       {
-       "text": "பிணிக்கும்",
+       "text": "பிணி",
        "lemma": "பிணி",
-       "gloss": "binding"
+       "gloss": "bind"
+      },
+      {
+       "text": "க்கும்",
+       "lemma": "க்கும்",
+       "gloss": "habitual participle"
       }
      ],
      "gloss": "binding"
     },
     {
-     "surface": "பீடு",
+     "surface": "பீடுகெழு",
      "parts": [
       {
        "text": "பீடு",
        "lemma": "பீடு",
        "gloss": "greatness"
-      }
-     ],
-     "gloss": "greatness"
-    },
-    {
-     "surface": "கெழு",
-     "parts": [
+      },
       {
        "text": "கெழு",
        "lemma": "கெழு",
        "gloss": "having"
       }
      ],
-     "gloss": "having"
+     "gloss": "possessing greatness"
     },
     {
      "surface": "நெடுந்தகை",
      "parts": [
       {
-       "text": "நெடுந்தகை",
-       "lemma": "நெடுந்தகை",
-       "gloss": "noble lord"
+       "text": "நெடும்",
+       "lemma": "நெடும்",
+       "gloss": "great"
+      },
+      {
+       "text": "தகை",
+       "lemma": "தகை",
+       "gloss": "nobility"
       }
      ],
-     "gloss": "noble lord",
-     "split_unverified": true
+     "gloss": "great noble man"
     }
    ]
   },
@@ -493,10 +537,10 @@
       {
        "text": "தீர்",
        "lemma": "தீர்",
-       "gloss": "cleared"
+       "gloss": "ending"
       }
      ],
-     "gloss": "cleared"
+     "gloss": "ending"
     },
     {
      "surface": "குழவிக்கு",
@@ -509,16 +553,16 @@
       {
        "text": "கு",
        "lemma": "கு",
-       "gloss": "to"
+       "gloss": "dative"
       }
      ],
      "gloss": "to the infant"
     },
     {
-     "surface": "இலிற்றும்",
+     "surface": "இலிற்று",
      "parts": [
       {
-       "text": "இலிற்றும்",
+       "text": "இலிற்று",
        "lemma": "இலிற்று",
        "gloss": "dripping"
       }
@@ -540,9 +584,14 @@
      "surface": "போல",
      "parts": [
       {
-       "text": "போல",
-       "lemma": "போல",
+       "text": "போல்",
+       "lemma": "போல்",
        "gloss": "like"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "participle"
       }
      ],
      "gloss": "like"
@@ -556,11 +605,12 @@
      "parts": [
       {
        "text": "சுரந்த",
-       "lemma": "சுர",
-       "gloss": "overflowing"
+       "lemma": "சுரந்த",
+       "gloss": "which flowed"
       }
      ],
-     "gloss": "overflowing"
+     "gloss": "which flowed",
+     "split_unverified": true
     },
     {
      "surface": "காவிரி",
@@ -568,54 +618,42 @@
       {
        "text": "காவிரி",
        "lemma": "காவிரி",
-       "gloss": "Cauvery river"
+       "gloss": "Kaveri river"
       }
      ],
-     "gloss": "Cauvery river"
+     "gloss": "Kaveri river"
     },
     {
-     "surface": "மரம்",
+     "surface": "மரங்கொல்",
      "parts": [
       {
        "text": "மரம்",
        "lemma": "மரம்",
        "gloss": "tree"
-      }
-     ],
-     "gloss": "tree"
-    },
-    {
-     "surface": "கொல்",
-     "parts": [
+      },
       {
        "text": "கொல்",
        "lemma": "கொல்",
-       "gloss": "killing/destroying"
+       "gloss": "destroying"
       }
      ],
-     "gloss": "destroying"
+     "gloss": "tree-destroying"
     },
     {
-     "surface": "மலி",
+     "surface": "மலிநீர்",
      "parts": [
       {
        "text": "மலி",
        "lemma": "மலி",
        "gloss": "abundant"
-      }
-     ],
-     "gloss": "abundant"
-    },
-    {
-     "surface": "நீர்",
-     "parts": [
+      },
       {
        "text": "நீர்",
        "lemma": "நீர்",
        "gloss": "water"
       }
      ],
-     "gloss": "water"
+     "gloss": "abundant water"
     }
    ]
   },
@@ -627,43 +665,37 @@
       {
        "text": "மன்பதை",
        "lemma": "மன்பதை",
-       "gloss": "living beings"
+       "gloss": "mankind"
       }
      ],
-     "gloss": "living beings"
+     "gloss": "mankind"
     },
     {
      "surface": "புரக்கும்",
      "parts": [
       {
-       "text": "புரக்கும்",
+       "text": "புர",
        "lemma": "புர",
-       "gloss": "protecting"
+       "gloss": "protect"
+      },
+      {
+       "text": "க்கும்",
+       "lemma": "க்கும்",
+       "gloss": "habitual participle"
       }
      ],
      "gloss": "protecting"
     },
     {
-     "surface": "நல்",
+     "surface": "நன்னாட்டு",
      "parts": [
       {
-       "text": "நல்",
-       "lemma": "நல்",
-       "gloss": "good"
+       "text": "நன்னாட்டு",
+       "lemma": "நன்னாட்டு",
+       "gloss": "of the good country"
       }
      ],
-     "gloss": "good"
-    },
-    {
-     "surface": "நாட்டு",
-     "parts": [
-      {
-       "text": "நாட்டு",
-       "lemma": "நாட்டு",
-       "gloss": "country's"
-      }
-     ],
-     "gloss": "country's",
+     "gloss": "of the good country",
      "split_unverified": true
     },
     {
@@ -672,84 +704,67 @@
       {
        "text": "பொருநன்",
        "lemma": "பொருநன்",
-       "gloss": "ruler/warrior"
+       "gloss": "king"
       }
      ],
-     "gloss": "ruler"
+     "gloss": "king"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "உள்",
+     "surface": "உட்பகை",
      "parts": [
       {
        "text": "உள்",
        "lemma": "உள்",
        "gloss": "internal"
-      }
-     ],
-     "gloss": "internal"
-    },
-    {
-     "surface": "பகை",
-     "parts": [
+      },
       {
        "text": "பகை",
        "lemma": "பகை",
        "gloss": "enmity"
       }
      ],
-     "gloss": "enmity"
+     "gloss": "internal enmity"
     },
     {
-     "surface": "ஒரு",
+     "surface": "ஒருதிறம்",
      "parts": [
       {
        "text": "ஒரு",
        "lemma": "ஒரு",
        "gloss": "one"
-      }
-     ],
-     "gloss": "one"
-    },
-    {
-     "surface": "திறம்",
-     "parts": [
+      },
       {
        "text": "திறம்",
        "lemma": "திறம்",
        "gloss": "side"
       }
      ],
-     "gloss": "side"
+     "gloss": "to one side"
     },
     {
      "surface": "பட்டென",
      "parts": [
       {
        "text": "பட்டென",
-       "lemma": "படு",
+       "lemma": "பட்டென",
        "gloss": "since it settled"
       }
      ],
-     "gloss": "since it settled"
+     "gloss": "since it settled",
+     "split_unverified": true
     },
     {
-     "surface": "புள்",
+     "surface": "புட்பகைக்கு",
      "parts": [
       {
        "text": "புள்",
        "lemma": "புள்",
-       "gloss": "bird-omens"
-      }
-     ],
-     "gloss": "bird-omens"
-    },
-    {
-     "surface": "பகைக்கு",
-     "parts": [
+       "gloss": "bird"
+      },
       {
        "text": "பகை",
        "lemma": "பகை",
@@ -758,10 +773,10 @@
       {
        "text": "கு",
        "lemma": "கு",
-       "gloss": "to"
+       "gloss": "dative"
       }
      ],
-     "gloss": "to enmity"
+     "gloss": "to the enmity of birds"
     }
    ]
   },
@@ -771,34 +786,59 @@
      "surface": "ஏவான்",
      "parts": [
       {
-       "text": "ஏவான்",
+       "text": "ஏவு",
        "lemma": "ஏவு",
-       "gloss": "he does not command"
+       "gloss": "heed"
+      },
+      {
+       "text": "ஆன்",
+       "lemma": "ஆன்",
+       "gloss": "negative third person singular"
       }
      ],
-     "gloss": "he does not command"
+     "gloss": "he does not heed"
     },
     {
      "surface": "ஆகலின்",
      "parts": [
       {
-       "text": "ஆகலின்",
-       "lemma": "ஆகலின்",
-       "gloss": "therefore"
+       "text": "ஆகு",
+       "lemma": "ஆகு",
+       "gloss": "become"
+      },
+      {
+       "text": "அல்",
+       "lemma": "அல்",
+       "gloss": "verbal noun"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "because"
       }
      ],
-     "gloss": "therefore"
+     "gloss": "because of being"
     },
     {
      "surface": "சாவோம்",
      "parts": [
       {
-       "text": "சாவோம்",
+       "text": "சா",
        "lemma": "சா",
-       "gloss": "we shall die"
+       "gloss": "die"
+      },
+      {
+       "text": "வ்",
+       "lemma": "வ்",
+       "gloss": "future"
+      },
+      {
+       "text": "ஓம்",
+       "lemma": "ஓம்",
+       "gloss": "we"
       }
      ],
-     "gloss": "we shall die"
+     "gloss": "we will die"
     },
     {
      "surface": "யாம்",
@@ -830,12 +870,17 @@
      "surface": "நீங்கா",
      "parts": [
       {
-       "text": "நீங்கா",
+       "text": "நீங்கு",
        "lemma": "நீங்கு",
-       "gloss": "unretreating"
+       "gloss": "leave"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆ",
+       "gloss": "negative participle"
       }
      ],
-     "gloss": "unretreating"
+     "gloss": "unyielding"
     },
     {
      "surface": "மறவர்",
@@ -849,188 +894,168 @@
      "gloss": "warriors"
     },
     {
-     "surface": "வீங்கு",
+     "surface": "வீங்குதோள்",
      "parts": [
       {
        "text": "வீங்கு",
        "lemma": "வீங்கு",
-       "gloss": "swelling"
-      }
-     ],
-     "gloss": "swelling"
-    },
-    {
-     "surface": "தோள்",
-     "parts": [
+       "gloss": "strong"
+      },
       {
        "text": "தோள்",
        "lemma": "தோள்",
-       "gloss": "shoulders"
+       "gloss": "shoulder"
       }
      ],
-     "gloss": "shoulders"
+     "gloss": "strong shoulders"
     },
     {
      "surface": "புடைப்ப",
      "parts": [
       {
-       "text": "புடைப்ப",
+       "text": "புடை",
        "lemma": "புடை",
-       "gloss": "beating"
+       "gloss": "strike"
+      },
+      {
+       "text": "ப",
+       "lemma": "ப",
+       "gloss": "infinitive"
       }
      ],
-     "gloss": "beating"
+     "gloss": "to strike"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தணி",
+     "surface": "தணிபறை",
      "parts": [
       {
        "text": "தணி",
        "lemma": "தணி",
-       "gloss": "quieted"
-      }
-     ],
-     "gloss": "quieted"
-    },
-    {
-     "surface": "பறை",
-     "parts": [
+       "gloss": "subdue"
+      },
       {
        "text": "பறை",
        "lemma": "பறை",
        "gloss": "drum"
       }
      ],
-     "gloss": "drum"
+     "gloss": "war drums"
     },
     {
      "surface": "அறையும்",
      "parts": [
       {
-       "text": "அறையும்",
+       "text": "அறை",
        "lemma": "அறை",
-       "gloss": "beating"
+       "gloss": "beat"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "participle"
       }
      ],
      "gloss": "beating"
     },
     {
-     "surface": "அணி",
+     "surface": "அணிகொள்",
      "parts": [
       {
        "text": "அணி",
        "lemma": "அணி",
-       "gloss": "beautiful"
-      }
-     ],
-     "gloss": "beautiful"
-    },
-    {
-     "surface": "கொள்",
-     "parts": [
+       "gloss": "beauty"
+      },
       {
        "text": "கொள்",
        "lemma": "கொள்",
        "gloss": "having"
       }
      ],
-     "gloss": "having"
+     "gloss": "beautiful"
     },
     {
-     "surface": "தேர்",
+     "surface": "தேர்வழி",
      "parts": [
       {
        "text": "தேர்",
        "lemma": "தேர்",
        "gloss": "chariot"
-      }
-     ],
-     "gloss": "chariot"
-    },
-    {
-     "surface": "வழி",
-     "parts": [
+      },
       {
        "text": "வழி",
        "lemma": "வழி",
        "gloss": "path"
       }
      ],
-     "gloss": "path"
+     "gloss": "path of chariots"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கடும்",
+     "surface": "கடுங்கண்",
      "parts": [
       {
        "text": "கடும்",
        "lemma": "கடும்",
        "gloss": "fierce"
-      }
-     ],
-     "gloss": "fierce"
-    },
-    {
-     "surface": "கண்",
-     "parts": [
+      },
       {
        "text": "கண்",
        "lemma": "கண்",
-       "gloss": "eye"
+       "gloss": "valor"
       }
      ],
-     "gloss": "eye"
+     "gloss": "fierce valor"
     },
     {
      "surface": "பருகுநர்",
      "parts": [
       {
-       "text": "பருகுநர்",
+       "text": "பருகு",
        "lemma": "பருகு",
-       "gloss": "drinkers"
+       "gloss": "drink"
+      },
+      {
+       "text": "நர்",
+       "lemma": "நர்",
+       "gloss": "those who"
       }
      ],
-     "gloss": "drinkers"
+     "gloss": "those who drink"
     },
     {
-     "surface": "நடுங்கு",
+     "surface": "நடுங்குகை",
      "parts": [
       {
        "text": "நடுங்கு",
        "lemma": "நடுங்கு",
-       "gloss": "shaking"
-      }
-     ],
-     "gloss": "shaking"
-    },
-    {
-     "surface": "கை",
-     "parts": [
+       "gloss": "tremble"
+      },
       {
        "text": "கை",
        "lemma": "கை",
        "gloss": "hand"
       }
      ],
-     "gloss": "hand"
+     "gloss": "trembling hands"
     },
     {
      "surface": "உகத்த",
      "parts": [
       {
        "text": "உகத்த",
-       "lemma": "உகு",
-       "gloss": "spilled"
+       "lemma": "உகத்த",
+       "gloss": "which spilled"
       }
      ],
-     "gloss": "spilled"
+     "gloss": "which spilled",
+     "split_unverified": true
     }
    ]
   },
@@ -1040,28 +1065,29 @@
      "surface": "நறுஞ்சேறு",
      "parts": [
       {
-       "text": "நறும்",
-       "lemma": "நறும்",
-       "gloss": "fragrant"
-      },
-      {
-       "text": "சேறு",
-       "lemma": "சேறு",
-       "gloss": "mud/paste"
+       "text": "நறுஞ்சேறு",
+       "lemma": "நறுஞ்சேறு",
+       "gloss": "fragrant paste"
       }
      ],
-     "gloss": "fragrant mud"
+     "gloss": "fragrant paste",
+     "split_unverified": true
     },
     {
      "surface": "ஆடிய",
      "parts": [
       {
-       "text": "ஆடிய",
+       "text": "ஆடு",
        "lemma": "ஆடு",
-       "gloss": "smeared"
+       "gloss": "bathe"
+      },
+      {
+       "text": "இய",
+       "lemma": "இய",
+       "gloss": "past participle"
       }
      ],
-     "gloss": "smeared"
+     "gloss": "which bathed in"
     },
     {
      "surface": "வறுந்தலை",
@@ -1069,7 +1095,7 @@
       {
        "text": "வறும்",
        "lemma": "வறும்",
-       "gloss": "bare"
+       "gloss": "empty"
       },
       {
        "text": "தலை",
@@ -1077,7 +1103,7 @@
        "gloss": "head"
       }
      ],
-     "gloss": "bare head"
+     "gloss": "empty-headed"
     },
     {
      "surface": "யானை",
@@ -1085,10 +1111,10 @@
       {
        "text": "யானை",
        "lemma": "யானை",
-       "gloss": "elephant"
+       "gloss": "elephants"
       }
      ],
-     "gloss": "elephant"
+     "gloss": "elephants"
     }
    ]
   },
@@ -1098,13 +1124,17 @@
      "surface": "நெடுனகர்",
      "parts": [
       {
-       "text": "நெடுனகர்",
-       "lemma": "நெடுனகர்",
-       "gloss": "tall palace"
+       "text": "நெடு",
+       "lemma": "நெடு",
+       "gloss": "tall"
+      },
+      {
+       "text": "னகர்",
+       "lemma": "னகர்",
+       "gloss": "palace"
       }
      ],
-     "gloss": "tall palace",
-     "split_unverified": true
+     "gloss": "tall palace"
     },
     {
      "surface": "வரைப்பின்",
@@ -1112,7 +1142,7 @@
       {
        "text": "வரைப்பு",
        "lemma": "வரைப்பு",
-       "gloss": "limits"
+       "gloss": "courtyard"
       },
       {
        "text": "இன்",
@@ -1120,7 +1150,7 @@
        "gloss": "of"
       }
      ],
-     "gloss": "of the limits"
+     "gloss": "of the courtyard"
     },
     {
      "surface": "படுமுழா",
@@ -1136,15 +1166,20 @@
        "gloss": "drum"
       }
      ],
-     "gloss": "sounding drum"
+     "gloss": "sounding drums"
     },
     {
      "surface": "ஓர்க்கும்",
      "parts": [
       {
-       "text": "ஓர்க்கும்",
+       "text": "ஓர்",
        "lemma": "ஓர்",
-       "gloss": "listening to"
+       "gloss": "listen"
+      },
+      {
+       "text": "க்கும்",
+       "lemma": "க்கும்",
+       "gloss": "habitual participle"
       }
      ],
      "gloss": "listening to"
@@ -1154,27 +1189,25 @@
   {
    "words": [
     {
-     "surface": "உறந்தை",
+     "surface": "உறந்தையோனே",
      "parts": [
       {
        "text": "உறந்தை",
        "lemma": "உறந்தை",
        "gloss": "Uraiyur"
-      }
-     ],
-     "gloss": "Uraiyur"
-    },
-    {
-     "surface": "யோனே",
-     "parts": [
+      },
       {
-       "text": "யோனே",
-       "lemma": "யோனே",
-       "gloss": "he of indeed"
+       "text": "ஓன்",
+       "lemma": "ஓன்",
+       "gloss": "he of"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "he of indeed",
-     "split_unverified": true
+     "gloss": "he of Uraiyur"
     },
     {
      "surface": "குருசில்",
@@ -1182,44 +1215,43 @@
       {
        "text": "குருசில்",
        "lemma": "குருசில்",
-       "gloss": "lord"
+       "gloss": "O lord"
       }
      ],
-     "gloss": "lord"
+     "gloss": "O lord!"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "பிறன்",
+     "surface": "பிறன்கடை",
      "parts": [
       {
        "text": "பிறன்",
        "lemma": "பிறன்",
        "gloss": "other's"
-      }
-     ],
-     "gloss": "other's"
-    },
-    {
-     "surface": "கடை",
-     "parts": [
+      },
       {
        "text": "கடை",
        "lemma": "கடை",
        "gloss": "gate"
       }
      ],
-     "gloss": "gate"
+     "gloss": "others' gates"
     },
     {
      "surface": "மறப்ப",
      "parts": [
       {
-       "text": "மறப்ப",
+       "text": "மற",
        "lemma": "மற",
-       "gloss": "to forget"
+       "gloss": "forget"
+      },
+      {
+       "text": "ப",
+       "lemma": "ப",
+       "gloss": "infinitive"
       }
      ],
      "gloss": "to forget"
@@ -1229,35 +1261,41 @@
      "parts": [
       {
        "text": "நல்குவன்",
-       "lemma": "நல்கு",
-       "gloss": "he will give"
+       "lemma": "நல்குவன்",
+       "gloss": "he will bestow"
       }
      ],
-     "gloss": "he will give"
+     "gloss": "he will bestow",
+     "split_unverified": true
     },
     {
      "surface": "செலினே",
      "parts": [
       {
-       "text": "செலின்",
+       "text": "செல்",
        "lemma": "செல்",
-       "gloss": "if you go"
+       "gloss": "go"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "if"
       },
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "if you go indeed"
+     "gloss": "if you go"
     }
    ]
   }
  ],
- "literal": "Like the peeled skin of a monitor lizard, on the side where bones protrude, / not seeing anyone to remove the severe hunger of your family, / aching and aching due to the hearing of those with little ear, / what are you doing here, O bard? Bearing ornaments / on his chest with beautiful, majestic beauty and red spots, / bowing to women with gentleness, and with strength / binding men, the noble lord of great pride, / like the dripping breast to a newborn infant, / the Cauvery river that overflows with water that kills trees, / the ruler of the good country that protects all living beings, / since the internal enmity has been settled, to the bird-omens / he does not send, saying 'we shall die', / the unretreating warriors beating their swelling shoulders, / while the quiet drum is beaten on the path of the beautiful chariots, / those who drink with fierce eyes, from their shaking hands / the fragrant mud-smeared, bare-headed elephants / listen to the sounding drums within the limits of the tall palace, / he of Uraiyur, the lord! / If you go to him, he will make you forget the gates of others by his gifts.",
- "translation": "O bard! With bones protruding like the peeled skin of a monitor lizard, and finding no one to relieve the severe hunger of your family, you have grown weary of singing to those who have no ear for music. What are you doing here? Go to the lord of Uraiyur! He has a chest adorned with beautiful ornaments and red spots. He is gentle and bows to women, but with his strength, he binds and subdues men. He is the noble ruler of a fertile land protected by the Cauvery river, whose tree-destroying floods flow like milk from a mother's breast to her newborn child. In his land, since internal enemies have been subdued, his unretreating warriors, eager for battle, beat their shoulders and cry, 'We shall die because he does not send us to fight even when bird-omens are favorable!' On the path of his beautiful chariots, quiet drums are beaten, and elephants with bare heads, smeared with fragrant mud, listen to the sounding drums within the palace walls, while fierce-eyed men drink toddy from shaking hands. If you go to him, he will shower you with such wealth that you will forget the gates of all other patrons.",
- "modern": "உடும்பு உரித்தது போன்ற எலும்புகள் வெளியே தெரியும் பக்கங்களைக் கொண்ட உன் சுற்றத்தாரின் கடுமையான பசியைப் போக்குபவரைக் காணாமல், செவிகொடாதவர்களின் கேள்வியால் நொந்து நொந்து, பாணனே! நீ இங்கு என்ன செய்கிறாய்? அழகிய அணிகலன்களைச் சுமந்த, செம்புள்ளிகள் உடைய மார்பினைக் கொண்டவனும், மென்மையால் மகளிர்க்குப் பணிந்து, வன்மையால் ஆடவரைப் பிணிக்கும் பெருமை பொருந்திய நெடுந்தகையும் ஆகிய சோழன் நலங்கிள்ளியிடம் செல்வாயாக. புதியதாகப் பெற்ற குழந்தைக்குச் சுரக்கும் முலைப்பால் போல, மரங்களை அழிக்கும் பெருவெள்ளத்தைக் கொண்டு பாயும் காவிரி நீரால் உலகத்து உயிர்களைக் காக்கும் நன்னாட்டின் தலைவன் அவன். அவனது நாட்டில், உட்பகை ஒழிந்துவிட்டதால், போருக்குச் செல்ல ஏவாமல் இருக்கும் அவனது மறவர்கள், 'பறவைகளின் விரிச்சிப் பகைக்கும் அரசன் எங்களை ஏவவில்லை; அதனால் நாம் சாவோம்' என்று கூறித் தங்கள் தோள்களைத் தட்டி ஆரவாரம் செய்கின்றனர். அமைதியான முரசு முழங்கும் அழகிய தேர்கள் செல்லும் வழியில், கள்ளைப் பருகும் மறவர்களின் நடுங்கும் கைகளிலிருந்து சிந்திய நறிய சேற்றில் மூழ்கிய, மதம் அடங்கிய மொட்டைத் தலையையுடைய யானைகள், பெரிய அரண்மனை எல்லைக்குள் முழங்கும் முழவொலியைக் கேட்கும் உறந்தையின் தலைவன் அவன். அவனிடம் சென்றால், நீ பிறரது வாயிலை மறக்கும்படி அவன் உனக்குப் பரிசில்களை நல்குவான்.",
- "explanation": "This poem is a Pāṇāṟṟuppaḍai (guiding a bard to a patron) in the Puratiṇai of Pāṭāṇ, composed by Kovur Kizhar in praise of the Chola king Nalan killi. The poet addresses a starving bard whose ribs protrude like the peeled skin of a monitor lizard, weary of performing for unappreciative audiences. He directs the bard to Uraiyur, the capital of the Cholas, ruled by Nalankilli, whose land is nourished by the Cauvery river just as a newborn is nourished by its mother's milk. The poet describes the king's valor and the eagerness of his warriors, who lament the lack of battles because all internal enemies have been subdued. By depicting the prosperity of Uraiyur and the generosity of the king, the poet assures the bard that visiting Nalankilli will end his poverty forever.",
+ "literal": "Like the peeled skin of an iguana, on the side where bones protrude, / not seeing anyone to remove the intense hunger of your family, / grieving and grieving over the learning that has fallen on deaf ears, / what do you do here, O bard, bearing ornaments? / On his chest with beautiful, majestic, red spots, / bowing to women with gentleness, and with strength / binding men, the great noble man of great pride, / like the breast dripping milk for a newborn infant, / the Kaveri river which flowed with tree-destroying abundant water, / the king of the good country that protects mankind, / since internal enmity has settled on one side, to the enmity of birds / he does not heed, saying 'we will die', / unyielding warriors striking their strong shoulders, / where war drums are beaten on the path of beautiful chariots, / where those who drink with fierce valor spilled from trembling hands, / elephants with empty heads that bathed in fragrant paste, / listening to the sounding drums in the courtyard of the tall palace, / he of Uraiyur, O lord! / If you go to him, he will bestow gifts so that you forget the gates of others.",
+ "translation": "O bard! With bones protruding on your sides like the peeled skin of an iguana, not finding anyone to relieve the intense hunger of your family, and grieving deeply that your learning has fallen on deaf ears, what are you doing here, bearing empty ornaments? Go to the lord of Uraiyur! On his chest, adorned with beautiful, majestic red spots, he bows with gentleness to women, yet binds men with his strength. He is the great noble king of the fertile land nourished by the Kaveri, whose abundant, tree-sweeping waters flow like milk from a mother's breast to her newborn infant. In his city, since internal enemies have been subdued, his unyielding warriors, declaring they would rather die than heed bad omens, strike their strong shoulders as war drums beat along the path of beautiful chariots. There, elephants with unarmored heads, bathed in fragrant paste, listen to the sounding drums in the courtyard of his tall palace, while those who drink with fierce valor spill toddy from their trembling hands. If you go to him, O lord, he will bestow such wealth upon you that you will forever forget the gates of other patrons.",
+ "modern": "உரித்த உடும்பின் தோல் போல விலா எலும்புகள் வெளியே தெரியும்படி, உமது சுற்றத்தாரின் கொடிய பசியைப் போக்க வல்லவரைக் காணாமல், செவிசாய்க்காதவர்களிடம் உமது கல்வியைக் கூறி நொந்து நொந்து, வறுமையிலும் அணிகலன்களைச் சுமந்து கொண்டு இங்கு என்ன செய்கிறாய் பாணனே? பெண்களுக்கு மென்மையுடன் பணிந்து, ஆண்களைத் தன் வலிமையால் பிணிக்கும் பெருமை பொருந்திய நெஞ்சினைக் கொண்டவன், சோழன் நலங்கிள்ளி. தன் தாயின் முலைப்பால் பச்சிளம் குழந்தைக்குச் சுரப்பது போல, மரங்களை அடித்துச் செல்லும் காவிரி நீர் பாயும் வளநாட்டைக் காக்கும் தலைவன் அவன். அவனுடைய உறையூரில், உட்பகைகள் ஒழிந்துவிட்டதால், சகுனப் பறவைகளின் தீய நிமித்தங்களை மதியாமல், 'போரின்றி வீணாகச் சாவோம்' என்று கூறி, மறவர்கள் தங்கள் தோள்களைத் தட்டி ஆரவாரம் செய்கிறார்கள். தேர்கள் செல்லும் வழியில் முரசுகள் முழங்குகின்றன. வீரர்கள் கள் பருகி நடுங்கும் கைகளால் சிந்திய நறுமணச் சேற்றில் யானைகள் விளையாடுகின்றன. அத்தகைய உயர்ந்த அரண்மனையில் முழவு ஒலிகள் கேட்கின்றன. அங்குள்ள உறையூர் தலைவனிடம் நீ சென்றால், பிற வள்ளல்களின் வாசல்களை நீ மறக்கும்படி அவன் உனக்குப் பெருஞ்செல்வத்தை வாரி வழங்குவான்.",
+ "explanation": "In this poem, the poet Kovur Kizhar addresses a poor bard who is suffering from extreme poverty. The poet describes the bard's ribs protruding like the peeled skin of an iguana, symbolizing his starvation, and his grief over his art being ignored by unappreciative patrons. He directs the bard to Cholan Nalangilli of Uraiyur, describing the king's immense generosity, which is compared to a mother's milk flowing for her newborn. The poem also highlights the prosperity and martial pride of the Chola kingdom, where warriors are eager for battle and ignore bad omens because internal enemies are already subdued. The key words include 'உடும்பு உரித்து அன்ன' (like peeled iguana skin), 'சுரந்த காவிரி' (the flowing Kaveri), and 'உறந்தையோனே' (he of Uraiyur).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

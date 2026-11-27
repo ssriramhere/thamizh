@@ -3,28 +3,34 @@
   {
    "words": [
     {
-     "surface": "வாருறு",
+     "surface": "வார்",
      "parts": [
       {
        "text": "வார்",
-       "lemma": "வார்",
-       "gloss": "long/flowing"
-      },
-      {
-       "text": "உறு",
-       "lemma": "உறு",
-       "gloss": "having"
+       "lemma": "vār",
+       "gloss": "be long/flowing"
       }
      ],
-     "gloss": "having long flowing hair"
+     "gloss": "long/flowing"
+    },
+    {
+     "surface": "உறு",
+     "parts": [
+      {
+       "text": "உறு",
+       "lemma": "uṟu",
+       "gloss": "have/attain"
+      }
+     ],
+     "gloss": "having"
     },
     {
      "surface": "வணர்",
      "parts": [
       {
        "text": "வணர்",
-       "lemma": "வணர்",
-       "gloss": "wavy/curled"
+       "lemma": "vaṇar",
+       "gloss": "be wavy/curved"
       }
      ],
      "gloss": "wavy"
@@ -34,29 +40,29 @@
      "parts": [
       {
        "text": "கதுப்பு",
-       "lemma": "கதுப்பு",
-       "gloss": "hair"
+       "lemma": "katuppu",
+       "gloss": "tresses/hair"
       }
      ],
-     "gloss": "hair"
+     "gloss": "tresses of hair"
     },
     {
      "surface": "உளரி",
      "parts": [
       {
        "text": "உளரி",
-       "lemma": "உளரு",
-       "gloss": "stroking"
+       "lemma": "uḷari",
+       "gloss": "having stroked/combed with fingers"
       }
      ],
-     "gloss": "stroking"
+     "gloss": "having stroked"
     },
     {
      "surface": "புறம்",
      "parts": [
       {
        "text": "புறம்",
-       "lemma": "புறம்",
+       "lemma": "puṟam",
        "gloss": "back"
       }
      ],
@@ -67,11 +73,11 @@
      "parts": [
       {
        "text": "சேர்பு",
-       "lemma": "சேர்",
-       "gloss": "resting on"
+       "lemma": "cērpu",
+       "gloss": "joining/resting against"
       }
      ],
-     "gloss": "resting on"
+     "gloss": "resting against"
     }
    ]
   },
@@ -86,15 +92,21 @@
        "gloss": "do not weep"
       }
      ],
-     "gloss": "do not weep"
+     "gloss": "do not weep",
+     "split_unverified": true
     },
     {
      "surface": "என்று",
      "parts": [
       {
-       "text": "என்று",
-       "lemma": "என்",
-       "gloss": "saying"
+       "text": "என்",
+       "lemma": "eṉ",
+       "gloss": "say"
+      },
+      {
+       "text": "று",
+       "lemma": "tu",
+       "gloss": "past participle suffix"
       }
      ],
      "gloss": "saying"
@@ -104,7 +116,7 @@
      "parts": [
       {
        "text": "நம்",
-       "lemma": "நாம்",
+       "lemma": "nam",
        "gloss": "our"
       }
      ],
@@ -114,41 +126,51 @@
      "surface": "அழுத",
      "parts": [
       {
-       "text": "அழுத",
-       "lemma": "அழு",
-       "gloss": "wept"
+       "text": "அழு",
+       "lemma": "aḻu",
+       "gloss": "weep"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "past tense infix"
+      },
+      {
+       "text": "அ",
+       "lemma": "a",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "wept"
+     "gloss": "wept/tearful"
     },
     {
      "surface": "கண்",
      "parts": [
       {
        "text": "கண்",
-       "lemma": "கண்",
+       "lemma": "kaṇ",
        "gloss": "eye"
       }
      ],
-     "gloss": "eye"
+     "gloss": "eyes"
     },
     {
      "surface": "துடைப்பார்",
      "parts": [
       {
        "text": "துடை",
-       "lemma": "துடை",
+       "lemma": "tuṭai",
        "gloss": "wipe"
       },
       {
-       "text": "ப்ப்",
-       "lemma": "ப்ப்",
-       "gloss": "tense marker"
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "future/present tense marker"
       },
       {
-       "text": "ஆர்",
-       "lemma": "ஆர்",
-       "gloss": "he (honorific)"
+       "text": "பார்",
+       "lemma": "pār",
+       "gloss": "he who does"
       }
      ],
      "gloss": "he who wipes"
@@ -162,7 +184,7 @@
      "parts": [
       {
        "text": "யார்",
-       "lemma": "யார்",
+       "lemma": "yār",
        "gloss": "who"
       }
      ],
@@ -173,13 +195,13 @@
      "parts": [
       {
        "text": "ஆகு",
-       "lemma": "ஆகு",
+       "lemma": "āku",
        "gloss": "become"
       },
       {
-       "text": "அர்",
-       "lemma": "அர்",
-       "gloss": "they/he"
+       "text": "வர்",
+       "lemma": "var",
+       "gloss": "third person plural/honorific suffix"
       }
      ],
      "gloss": "will he become"
@@ -189,7 +211,7 @@
      "parts": [
       {
        "text": "கொல்",
-       "lemma": "கொல்",
+       "lemma": "kol",
        "gloss": "particle of doubt"
       }
      ],
@@ -200,7 +222,7 @@
      "parts": [
       {
        "text": "தோழி",
-       "lemma": "தோழி",
+       "lemma": "tōḻi",
        "gloss": "friend"
       }
      ],
@@ -211,7 +233,7 @@
      "parts": [
       {
        "text": "சாரல்",
-       "lemma": "சாரல்",
+       "lemma": "cāral",
        "gloss": "mountain slope"
       }
      ],
@@ -222,15 +244,27 @@
   {
    "words": [
     {
-     "surface": "பெரும்புனக்",
+     "surface": "பெரும்",
      "parts": [
       {
-       "text": "பெரும்புனக்",
-       "lemma": "பெரும்புனக்",
-       "gloss": ""
+       "text": "பெரும்",
+       "lemma": "பெரும்",
+       "gloss": "large"
       }
      ],
-     "gloss": "",
+     "gloss": "large",
+     "split_unverified": true
+    },
+    {
+     "surface": "புன",
+     "parts": [
+      {
+       "text": "புன",
+       "lemma": "புன",
+       "gloss": "upland field's"
+      }
+     ],
+     "gloss": "upland field's",
      "split_unverified": true
     },
     {
@@ -238,112 +272,145 @@
      "parts": [
       {
        "text": "குறவன்",
-       "lemma": "குறவன்",
-       "gloss": ""
+       "lemma": "kuṟavaṉ",
+       "gloss": "hillman"
       }
      ],
-     "gloss": "",
+     "gloss": "hillman"
+    },
+    {
+     "surface": "சிறு",
+     "parts": [
+      {
+       "text": "சிறு",
+       "lemma": "சிறு",
+       "gloss": "small"
+      }
+     ],
+     "gloss": "small",
      "split_unverified": true
     },
     {
-     "surface": "சிறுதினை",
+     "surface": "தினை",
      "parts": [
       {
-       "text": "சிறுதினை",
-       "lemma": "சிறுதினை",
-       "gloss": ""
+       "text": "தினை",
+       "lemma": "tiṉai",
+       "gloss": "millet"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "millet"
     },
     {
-     "surface": "மறுகாற்",
+     "surface": "மறு",
      "parts": [
       {
-       "text": "மறுகாற்",
-       "lemma": "மறுகாற்",
-       "gloss": ""
+       "text": "மறு",
+       "lemma": "maṟu",
+       "gloss": "other/stubble"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    }
-   ],
-   "as_printed": true
-  },
-  {
-   "words": [
-    {
-     "surface": "கொழுங்கொடி",
-     "parts": [
-      {
-       "text": "கொழுமை",
-       "lemma": "கொழுமை",
-       "gloss": "lush/fat"
-      },
-      {
-       "text": "கொடி",
-       "lemma": "கொடி",
-       "gloss": "vine"
-      }
-     ],
-     "gloss": "lush vine"
+     "gloss": "stubble"
     },
     {
-     "surface": "அவரை",
+     "surface": "கால்",
      "parts": [
       {
-       "text": "அவரை",
-       "lemma": "அவரை",
-       "gloss": "lablab bean"
+       "text": "கால்",
+       "lemma": "kāl",
+       "gloss": "stalk/stem"
       }
      ],
-     "gloss": "lablab bean"
-    },
-    {
-     "surface": "பூக்கும்",
-     "parts": [
-      {
-       "text": "பூ",
-       "lemma": "பூ",
-       "gloss": "flower"
-      },
-      {
-       "text": "க்கும்",
-       "lemma": "க்கும்",
-       "gloss": "will/habitual suffix"
-      }
-     ],
-     "gloss": "will flower"
+     "gloss": "stalk"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "அரும்பனி",
+     "surface": "கொழும்",
      "parts": [
       {
-       "text": "அருமை",
-       "lemma": "அருமை",
-       "gloss": "dense/rare"
+       "text": "கொழும்",
+       "lemma": "கொழும்",
+       "gloss": "lush"
+      }
+     ],
+     "gloss": "lush",
+     "split_unverified": true
+    },
+    {
+     "surface": "கொடி",
+     "parts": [
+      {
+       "text": "கொடி",
+       "lemma": "koṭi",
+       "gloss": "vine"
+      }
+     ],
+     "gloss": "vine"
+    },
+    {
+     "surface": "அவரை",
+     "parts": [
+      {
+       "text": "அவரை",
+       "lemma": "avarai",
+       "gloss": "hyacinth bean"
+      }
+     ],
+     "gloss": "hyacinth bean"
+    },
+    {
+     "surface": "பூக்கும்",
+     "parts": [
+      {
+       "text": "பூ",
+       "lemma": "pū",
+       "gloss": "flower/bloom"
       },
       {
+       "text": "க்கும்",
+       "lemma": "kkum",
+       "gloss": "habitual relative participle suffix"
+      }
+     ],
+     "gloss": "blooming"
+    }
+   ]
+  },
+  {
+   "words": [
+    {
+     "surface": "அரும்",
+     "parts": [
+      {
+       "text": "அரும்",
+       "lemma": "அரும்",
+       "gloss": "harsh/difficult"
+      }
+     ],
+     "gloss": "harsh/difficult",
+     "split_unverified": true
+    },
+    {
+     "surface": "பனி",
+     "parts": [
+      {
        "text": "பனி",
-       "lemma": "பனி",
+       "lemma": "paṉi",
        "gloss": "dew/cold"
       }
      ],
-     "gloss": "dense dew"
+     "gloss": "dew"
     },
     {
      "surface": "அச்சிரம்",
      "parts": [
       {
        "text": "அச்சிரம்",
-       "lemma": "அச்சிரம்",
-       "gloss": "early winter"
+       "lemma": "acciram",
+       "gloss": "early winter season"
       }
      ],
      "gloss": "early winter"
@@ -353,24 +420,24 @@
      "parts": [
       {
        "text": "வாராதோர்",
-       "lemma": "வாராதோர்",
-       "gloss": "those who do not return"
+       "lemma": "vārātōr",
+       "gloss": "he who did not return"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "clitic of emphasis"
       }
      ],
-     "gloss": "he who does not return indeed"
+     "gloss": "he who has not returned"
     }
    ]
   }
  ],
- "literal": "Stroking the long, wavy hair and letting it rest on the back, / saying 'do not weep' and wiping our wept eyes, / who will he become, my friend? On the mountain slope, / in the big field of the Kuravan, on the stubble of the small millet, / the lush vines of the lablab bean flower, / in this early winter of dense dew, he who does not return.",
- "translation": "O friend, who will he be to me now—he who once stroked my long, wavy hair, letting it rest on my back, and wiped my tear-filled eyes, saying, 'Do not weep'? He has not returned even in this early winter season of dense dew, when the lush vines of the lablab bean flower on the stubble of the small millet in the hill-man's vast field.",
- "modern": "தோழியே! நீண்ட, அலை அலையான கூந்தலைக் கோதி முதுகில் படரச் செய்து, 'அழாதே' என்று கூறி நம்முடைய அழுத கண்களைத் துடைத்தவர் இப்போது நமக்கு யார் ஆவார்? மலைச்சரிவில் உள்ள பெரிய புனத்தில், குறவனுடைய சிறுதினையின் அறுவடைக்குப் பின் எஞ்சிய தாள்களில், கொழுத்த கொடிகளையுடைய அவரை பூக்கின்ற அரிய பனி பொழியும் முன்பனிக் காலத்தில் அவர் இன்னும் திரும்பி வரவில்லையே!",
- "explanation": "The heroine speaks to her confidante in distress as the promised season of the hero's return arrives without him. She recalls his past tenderness when he comforted her, stroking her hair and wiping her tears, and wonders what relationship they share now that he has delayed his return. The poem is set in the Kuriñci (mountainous) landscape, where the onset of the early winter (acciram) is marked by the flowering of lablab beans on the stubble of harvested millet. This agricultural transition reflects the passage of time and the hero's broken promise, intensifying her loneliness. Key words like 'acciram' (early winter) and 'vārātōrē' (he who has not returned) highlight her longing.",
+ "literal": "Long, flowing, wavy tresses stroking, resting them against my back, / saying \"do not weep\", our tearful eyes he who wipes, / who will he become, O friend? On the mountain slope, / in the large upland field of the hillman, on the stubble of the small millet, / the lush vines of the hyacinth bean bloom, / in this early winter of harsh dew, he who has not returned.",
+ "translation": "O friend! He who has not returned in this early winter of harsh dew—when the lush vines of the hyacinth bean bloom on the stubble of the small millet in the hillman's large upland field on the mountain slope—who will he become to us? He who used to stroke my long, flowing, wavy tresses, resting them against my back, and wipe my tearful eyes, saying, 'Do not weep!'",
+ "modern": "தோழி! மலைச்சாரலில் உள்ள பெரிய புனத்தில், குறவனுடைய சிறிய தினை அறுவடை செய்யப்பட்ட பிறகு எஞ்சிய தாள்களில், செழுமையான அவரைக்கொடிகள் பூக்கின்ற அரிய பனியைக் கொண்ட இந்த முன்பனிக் காலத்தில் இன்னும் திரும்பி வராதவர், என் நீண்ட அலை அலையான கூந்தலைக் கோதி முதுகின் பின்னே சேர்த்துவிட்டு, 'அழாதே' என்று கூறி என் அழுத கண்களைத் துடைக்கும் அன்புடையவராக இனி எவ்வாறு இருக்க முடியும்?",
+ "explanation": "The heroine is speaking to her close friend in a state of deep distress. The hero had promised to return before the onset of the early winter season, but he has not yet arrived. The landscape of the mountain slope, belonging to the kuriñci tiṇai, shows signs of the changing season: the millet crop has been harvested, and on its dry stubble, the lush hyacinth bean vines have begun to bloom. This visual transition of nature intensifies the heroine's grief as she remembers his tender gestures. She wonders how the very man who once lovingly stroked her hair and wiped her tears, promising comfort, can now remain away during this cold, difficult season.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

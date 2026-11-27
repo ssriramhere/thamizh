@@ -8,15 +8,15 @@
       {
        "text": "மடங்கல்",
        "lemma": "மடங்கல்",
-       "gloss": "lion/death"
+       "gloss": "lion"
       },
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "like/of"
+       "gloss": "like"
       }
      ],
-     "gloss": "like an angry lion"
+     "gloss": "like a lion"
     },
     {
      "surface": "சினைஇ",
@@ -45,23 +45,29 @@
      "parts": [
       {
        "text": "உள்ளத்து",
-       "lemma": "உள்ளம்",
-       "gloss": "of the mind/heart"
+       "lemma": "உள்ளத்து",
+       "gloss": "of the mind"
       }
      ],
-     "gloss": "of the mind"
+     "gloss": "of the mind",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "அடங்கா",
+     "surface": "அடங்காத்",
      "parts": [
       {
        "text": "அடங்கா",
        "lemma": "அடங்கு",
        "gloss": "unsubmissive"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "unsubmissive"
@@ -82,7 +88,7 @@
      "parts": [
       {
        "text": "வேந்தர்",
-       "lemma": "வேந்தன்",
+       "lemma": "வேந்தர்",
        "gloss": "kings"
       }
      ],
@@ -119,7 +125,7 @@
      "parts": [
       {
        "text": "என்",
-       "lemma": "என்",
+       "lemma": "யான்",
        "gloss": "me"
       },
       {
@@ -136,7 +142,7 @@
       {
        "text": "பொருந்தும்",
        "lemma": "பொருந்து",
-       "gloss": "will fight/clash"
+       "gloss": "will fight"
       }
      ],
      "gloss": "will fight"
@@ -156,9 +162,14 @@
      "surface": "அவரை",
      "parts": [
       {
-       "text": "அவரை",
+       "text": "அவர்",
        "lemma": "அவர்",
        "gloss": "them"
+      },
+      {
+       "text": "ஐ",
+       "lemma": "ஐ",
+       "gloss": "accusative"
       }
      ],
      "gloss": "them"
@@ -168,45 +179,49 @@
   {
    "words": [
     {
-     "surface": "ஆர்",
+     "surface": "ஆரமர்",
      "parts": [
       {
        "text": "ஆர்",
        "lemma": "ஆர்",
-       "gloss": "difficult/intense"
-      }
-     ],
-     "gloss": "difficult"
-    },
-    {
-     "surface": "அமர்",
-     "parts": [
+       "gloss": "fierce"
+      },
       {
        "text": "அமர்",
        "lemma": "அமர்",
        "gloss": "battle"
       }
      ],
-     "gloss": "battle"
+     "gloss": "fierce battle"
     },
     {
-     "surface": "அலற",
+     "surface": "அலறத்",
      "parts": [
       {
        "text": "அலற",
-       "lemma": "அலற",
-       "gloss": "to scream/roar"
+       "lemma": "அலறு",
+       "gloss": "to scream"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "to scream"
     },
     {
-     "surface": "தாக்கி",
+     "surface": "தாக்கித்",
      "parts": [
       {
        "text": "தாக்கி",
        "lemma": "தாக்கு",
        "gloss": "having attacked"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "having attacked"
@@ -225,41 +240,40 @@
        "gloss": "with"
       }
      ],
-     "gloss": "with chariots"
+     "gloss": "with chariot"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "அவர்",
+     "surface": "அவர்ப்புறம்",
      "parts": [
       {
        "text": "அவர்",
        "lemma": "அவர்",
        "gloss": "their"
-      }
-     ],
-     "gloss": "their"
-    },
-    {
-     "surface": "புறம்",
-     "parts": [
+      },
       {
        "text": "புறம்",
        "lemma": "புறம்",
        "gloss": "back"
       }
      ],
-     "gloss": "back"
+     "gloss": "their back"
     },
     {
      "surface": "காணேன்",
      "parts": [
       {
-       "text": "காணேன்",
+       "text": "காண்",
        "lemma": "காண்",
-       "gloss": "I do not see"
+       "gloss": "see"
+      },
+      {
+       "text": "ஏன்",
+       "lemma": "ஏன்",
+       "gloss": "I...not"
       }
      ],
      "gloss": "I do not see"
@@ -281,7 +295,7 @@
       {
        "text": "சிறந்த",
        "lemma": "சிற",
-       "gloss": "excellent/distinguished"
+       "gloss": "excellent"
       }
      ],
      "gloss": "excellent"
@@ -291,37 +305,36 @@
   {
    "words": [
     {
-     "surface": "பேர்",
+     "surface": "பேரமர்",
      "parts": [
       {
        "text": "பேர்",
-       "lemma": "பேர்",
+       "lemma": "பெரு",
        "gloss": "large"
-      }
-     ],
-     "gloss": "large"
-    },
-    {
-     "surface": "அமர்",
-     "parts": [
+      },
       {
        "text": "அமர்",
        "lemma": "அமர்",
-       "gloss": "beautiful/desirable"
+       "gloss": "beautiful"
       }
      ],
-     "gloss": "beautiful"
+     "gloss": "large beautiful"
     },
     {
      "surface": "உண்கண்",
      "parts": [
       {
-       "text": "உண்கண்",
-       "lemma": "உண்கண்",
-       "gloss": "kohl-rimmed eyes"
+       "text": "உண்",
+       "lemma": "உண்",
+       "gloss": "kohl-painted"
+      },
+      {
+       "text": "கண்",
+       "lemma": "கண்",
+       "gloss": "eye"
       }
      ],
-     "gloss": "kohl-rimmed eyes"
+     "gloss": "kohl-painted eyes"
     },
     {
      "surface": "இவளினும்",
@@ -329,23 +342,33 @@
       {
        "text": "இவள்",
        "lemma": "இவள்",
-       "gloss": "her"
+       "gloss": "she"
       },
       {
-       "text": "இனும்",
+       "text": "இன்",
        "lemma": "இன்",
        "gloss": "from"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even"
       }
      ],
-     "gloss": "from her"
+     "gloss": "even from her"
     },
     {
      "surface": "பிரிக",
      "parts": [
       {
-       "text": "பிரிக",
+       "text": "பிரி",
        "lemma": "பிரி",
-       "gloss": "may I separate"
+       "gloss": "separate"
+      },
+      {
+       "text": "க",
+       "lemma": "க",
+       "gloss": "optative"
       }
      ],
      "gloss": "may I separate"
@@ -355,34 +378,33 @@
   {
    "words": [
     {
-     "surface": "அறன்",
+     "surface": "அறன்நிலை",
      "parts": [
       {
        "text": "அறன்",
-       "lemma": "அறன்",
-       "gloss": "virtue/justice"
-      }
-     ],
-     "gloss": "virtue"
-    },
-    {
-     "surface": "நிலை",
-     "parts": [
+       "lemma": "அறம்",
+       "gloss": "righteousness"
+      },
       {
        "text": "நிலை",
        "lemma": "நிலை",
-       "gloss": "state/standing"
+       "gloss": "state"
       }
      ],
-     "gloss": "state"
+     "gloss": "state of righteousness"
     },
     {
      "surface": "திரிய",
      "parts": [
       {
-       "text": "திரிய",
+       "text": "திரி",
        "lemma": "திரி",
-       "gloss": "to deviate"
+       "gloss": "deviate"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive"
       }
      ],
      "gloss": "to deviate"
@@ -398,47 +420,42 @@
       {
        "text": "இன்",
        "lemma": "இன்",
-       "gloss": "of"
+       "gloss": "without"
       }
      ],
-     "gloss": "of love"
+     "gloss": "without love"
     },
     {
-     "surface": "அவையத்து",
+     "surface": "அவையத்துத்",
      "parts": [
       {
-       "text": "அவையத்து",
-       "lemma": "அவை",
-       "gloss": "in the assembly"
+       "text": "அவையத்துத்",
+       "lemma": "அவையத்துத்",
+       "gloss": "in the court"
       }
      ],
-     "gloss": "in the assembly"
+     "gloss": "in the court",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "திறன்",
+     "surface": "திறன்இல்",
      "parts": [
       {
        "text": "திறன்",
        "lemma": "திறன்",
        "gloss": "ability"
-      }
-     ],
-     "gloss": "ability"
-    },
-    {
-     "surface": "இல்",
-     "parts": [
+      },
       {
        "text": "இல்",
        "lemma": "இல்",
        "gloss": "without"
       }
      ],
-     "gloss": "without"
+     "gloss": "ability-less"
     },
     {
      "surface": "ஒருவனை",
@@ -454,18 +471,23 @@
        "gloss": "accusative"
       }
      ],
-     "gloss": "a person"
+     "gloss": "one person"
     },
     {
      "surface": "நாட்டி",
      "parts": [
       {
-       "text": "நாட்டி",
+       "text": "நாட்டு",
        "lemma": "நாட்டு",
-       "gloss": "having established"
+       "gloss": "seat"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past participle"
       }
      ],
-     "gloss": "having established"
+     "gloss": "having seated"
     },
     {
      "surface": "முறை",
@@ -483,56 +505,57 @@
      "parts": [
       {
        "text": "திரிந்து",
-       "lemma": "திரி",
+       "lemma": "திரிந்து",
        "gloss": "having deviated"
       }
      ],
-     "gloss": "having deviated"
+     "gloss": "having deviated",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "மெலி",
+     "surface": "மெலிகோல்",
      "parts": [
       {
        "text": "மெலி",
        "lemma": "மெலி",
-       "gloss": "weak"
-      }
-     ],
-     "gloss": "weak"
-    },
-    {
-     "surface": "கோல்",
-     "parts": [
+       "gloss": "cruel"
+      },
       {
        "text": "கோல்",
        "lemma": "கோல்",
-       "gloss": "sceptre/rule"
+       "gloss": "sceptre"
       }
      ],
-     "gloss": "sceptre"
+     "gloss": "cruel sceptre rule"
     },
     {
      "surface": "செய்தேன்",
      "parts": [
       {
        "text": "செய்தேன்",
-       "lemma": "செய்",
-       "gloss": "I who did"
+       "lemma": "செய்தேன்",
+       "gloss": "I did"
       }
      ],
-     "gloss": "I who did"
+     "gloss": "I did",
+     "split_unverified": true
     },
     {
      "surface": "ஆகுக",
      "parts": [
       {
-       "text": "ஆகுக",
+       "text": "ஆகு",
        "lemma": "ஆகு",
-       "gloss": "may I become"
+       "gloss": "become"
+      },
+      {
+       "text": "க",
+       "lemma": "க",
+       "gloss": "optative"
       }
      ],
      "gloss": "may I become"
@@ -569,43 +592,38 @@
       {
        "text": "வையை",
        "lemma": "வையை",
-       "gloss": "river Vaigai"
+       "gloss": "River Vaiyai"
       }
      ],
-     "gloss": "river Vaigai"
+     "gloss": "River Vaiyai"
     },
     {
      "surface": "சூழ்ந்த",
      "parts": [
       {
        "text": "சூழ்ந்த",
-       "lemma": "சூழ்",
+       "lemma": "சூழ்ந்த",
        "gloss": "surrounded"
       }
      ],
-     "gloss": "surrounded"
+     "gloss": "surrounded",
+     "split_unverified": true
     },
     {
-     "surface": "வலம்",
+     "surface": "வலங்கெழு",
      "parts": [
       {
        "text": "வலம்",
        "lemma": "வலம்",
-       "gloss": "strength"
-      }
-     ],
-     "gloss": "strength"
-    },
-    {
-     "surface": "கெழு",
-     "parts": [
+       "gloss": "victory"
+      },
       {
        "text": "கெழு",
        "lemma": "கெழு",
-       "gloss": "having"
+       "gloss": "possessing"
       }
      ],
-     "gloss": "having"
+     "gloss": "possessing victory"
     },
     {
      "surface": "வைப்பின்",
@@ -631,9 +649,14 @@
      "surface": "பொய்யா",
      "parts": [
       {
-       "text": "பொய்யா",
+       "text": "பொய்",
        "lemma": "பொய்",
-       "gloss": "unfailing"
+       "gloss": "fail"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆ",
+       "gloss": "negative relative participle"
       }
      ],
      "gloss": "unfailing"
@@ -644,21 +667,22 @@
       {
        "text": "யாணர்",
        "lemma": "யாணர்",
-       "gloss": "wealth"
+       "gloss": "new wealth"
       }
      ],
-     "gloss": "wealth"
+     "gloss": "new wealth"
     },
     {
-     "surface": "மையல்",
+     "surface": "மையற்",
      "parts": [
       {
-       "text": "மையல்",
-       "lemma": "மையல்",
+       "text": "மையற்",
+       "lemma": "மையற்",
        "gloss": "Maiyal"
       }
      ],
-     "gloss": "Maiyal"
+     "gloss": "Maiyal",
+     "split_unverified": true
     },
     {
      "surface": "கோமான்",
@@ -692,26 +716,20 @@
      "gloss": "Mavan and"
     },
     {
-     "surface": "மன்",
+     "surface": "மன்எயில்",
      "parts": [
       {
        "text": "மன்",
        "lemma": "மன்",
        "gloss": "enduring"
-      }
-     ],
-     "gloss": "enduring"
-    },
-    {
-     "surface": "எயில்",
-     "parts": [
+      },
       {
        "text": "எயில்",
        "lemma": "எயில்",
        "gloss": "fortress"
       }
      ],
-     "gloss": "fortress"
+     "gloss": "enduring fortress"
     },
     {
      "surface": "ஆந்தையும்",
@@ -730,26 +748,20 @@
      "gloss": "Anthai and"
     },
     {
-     "surface": "உரை",
+     "surface": "உரைசால்",
      "parts": [
       {
        "text": "உரை",
        "lemma": "உரை",
-       "gloss": "reputation"
-      }
-     ],
-     "gloss": "reputation"
-    },
-    {
-     "surface": "சால்",
-     "parts": [
+       "gloss": "praise"
+      },
       {
        "text": "சால்",
        "lemma": "சால்",
        "gloss": "worthy"
       }
      ],
-     "gloss": "worthy"
+     "gloss": "worthy of praise"
     }
    ]
   },
@@ -761,23 +773,27 @@
       {
        "text": "அந்துவஞ்",
        "lemma": "அந்துவஞ்",
-       "gloss": ""
+       "gloss": "Anthuvan"
       }
      ],
-     "gloss": "",
+     "gloss": "Anthuvan",
      "split_unverified": true
     },
     {
      "surface": "சாத்தனும்",
      "parts": [
       {
-       "text": "சாத்தனும்",
-       "lemma": "சாத்தனும்",
-       "gloss": ""
+       "text": "சாத்தன்",
+       "lemma": "சாத்தன்",
+       "gloss": "Sathan"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "and"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Sathan and"
     },
     {
      "surface": "ஆதன்",
@@ -785,26 +801,28 @@
       {
        "text": "ஆதன்",
        "lemma": "ஆதன்",
-       "gloss": ""
+       "gloss": "Athan"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Athan"
     },
     {
      "surface": "அழிசியும்",
      "parts": [
       {
-       "text": "அழிசியும்",
-       "lemma": "அழிசியும்",
-       "gloss": ""
+       "text": "அழிசி",
+       "lemma": "அழிசி",
+       "gloss": "Azhisi"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "and"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Azhisi and"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -813,11 +831,12 @@
      "parts": [
       {
        "text": "வெஞ்சின",
-       "lemma": "வெஞ்சினம்",
+       "lemma": "வெஞ்சின",
        "gloss": "fierce anger"
       }
      ],
-     "gloss": "fierce anger"
+     "gloss": "fierce anger",
+     "split_unverified": true
     },
     {
      "surface": "இயக்கனும்",
@@ -836,15 +855,16 @@
      "gloss": "Iyakkan and"
     },
     {
-     "surface": "உளப்பட",
+     "surface": "உளப்படப்",
      "parts": [
       {
-       "text": "உளப்பட",
-       "lemma": "உளப்பட",
+       "text": "உளப்படப்",
+       "lemma": "உளப்படப்",
        "gloss": "including"
       }
      ],
-     "gloss": "including"
+     "gloss": "including",
+     "split_unverified": true
     },
     {
      "surface": "பிறரும்",
@@ -860,40 +880,34 @@
        "gloss": "and"
       }
      ],
-     "gloss": "others and"
+     "gloss": "and others"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "கண்",
+     "surface": "கண்போல்",
      "parts": [
       {
        "text": "கண்",
        "lemma": "கண்",
        "gloss": "eye"
-      }
-     ],
-     "gloss": "eye"
-    },
-    {
-     "surface": "போல்",
-     "parts": [
+      },
       {
        "text": "போல்",
        "lemma": "போல்",
        "gloss": "like"
       }
      ],
-     "gloss": "like"
+     "gloss": "like eye"
     },
     {
-     "surface": "நண்பின்",
+     "surface": "நண்பிற்",
      "parts": [
       {
-       "text": "நண்பின்",
-       "lemma": "நண்பின்",
+       "text": "நண்பிற்",
+       "lemma": "நண்பிற்",
        "gloss": "of friendship"
       }
      ],
@@ -921,70 +935,64 @@
      "parts": [
       {
        "text": "கலந்த",
-       "lemma": "கல",
-       "gloss": "mingled/united"
+       "lemma": "கலந்த",
+       "gloss": "mingled"
       }
      ],
-     "gloss": "mingled"
+     "gloss": "mingled",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "இன்",
+     "surface": "இன்களி",
      "parts": [
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "இனிமை",
        "gloss": "sweet"
-      }
-     ],
-     "gloss": "sweet"
-    },
-    {
-     "surface": "களி",
-     "parts": [
+      },
       {
        "text": "களி",
        "lemma": "களி",
        "gloss": "joy"
       }
      ],
-     "gloss": "joy"
+     "gloss": "sweet joy"
     },
     {
-     "surface": "மகிழ்",
+     "surface": "மகிழ்நகை",
      "parts": [
       {
        "text": "மகிழ்",
        "lemma": "மகிழ்",
        "gloss": "delight"
-      }
-     ],
-     "gloss": "delight"
-    },
-    {
-     "surface": "நகை",
-     "parts": [
+      },
       {
        "text": "நகை",
        "lemma": "நகை",
        "gloss": "laughter"
       }
      ],
-     "gloss": "laughter"
+     "gloss": "delight laughter"
     },
     {
      "surface": "இழுக்கிய",
      "parts": [
       {
-       "text": "இழுக்கிய",
+       "text": "இழுக்கு",
        "lemma": "இழுக்கு",
-       "gloss": "having lost"
+       "gloss": "lose"
+      },
+      {
+       "text": "இய",
+       "lemma": "இய",
+       "gloss": "past relative participle"
       }
      ],
-     "gloss": "having lost"
+     "gloss": "who lost"
     },
     {
      "surface": "யான்",
@@ -1001,12 +1009,17 @@
      "surface": "ஒன்றோ",
      "parts": [
       {
-       "text": "ஒன்றோ",
+       "text": "ஒன்று",
        "lemma": "ஒன்று",
-       "gloss": "not only"
+       "gloss": "one"
+      },
+      {
+       "text": "ஓ",
+       "lemma": "ஓ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "not only"
+     "gloss": "not only that"
     }
    ]
   },
@@ -1018,43 +1031,47 @@
       {
        "text": "மன்பதை",
        "lemma": "மன்பதை",
-       "gloss": "humanity"
+       "gloss": "mankind"
       }
      ],
-     "gloss": "humanity"
+     "gloss": "mankind"
     },
     {
      "surface": "காக்கும்",
      "parts": [
       {
-       "text": "காக்கும்",
+       "text": "கா",
        "lemma": "கா",
-       "gloss": "protecting"
+       "gloss": "protect"
+      },
+      {
+       "text": "க்கும்",
+       "lemma": "க்கும்",
+       "gloss": "habitual relative participle"
       }
      ],
      "gloss": "protecting"
     },
     {
-     "surface": "நீள்",
+     "surface": "நீள்குடிச்",
      "parts": [
       {
        "text": "நீள்",
        "lemma": "நீள்",
-       "gloss": "ancient"
-      }
-     ],
-     "gloss": "ancient"
-    },
-    {
-     "surface": "குடி",
-     "parts": [
+       "gloss": "long"
+      },
       {
        "text": "குடி",
        "lemma": "குடி",
        "gloss": "lineage"
+      },
+      {
+       "text": "ச்",
+       "lemma": "ச்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "lineage"
+     "gloss": "ancient lineage"
     },
     {
      "surface": "சிறந்த",
@@ -1062,7 +1079,7 @@
       {
        "text": "சிறந்த",
        "lemma": "சிற",
-       "gloss": "excellent/distinguished"
+       "gloss": "excellent"
       }
      ],
      "gloss": "excellent"
@@ -1077,35 +1094,42 @@
       {
        "text": "தென்புலம்",
        "lemma": "தென்புலம்",
-       "gloss": ""
+       "gloss": "southern land"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "southern land"
     },
     {
      "surface": "காவலின்",
      "parts": [
       {
-       "text": "காவலின்",
-       "lemma": "காவலின்",
-       "gloss": ""
+       "text": "காவல்",
+       "lemma": "காவல்",
+       "gloss": "protection"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "from"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "from protecting"
     },
     {
      "surface": "ஒரிஇப்",
      "parts": [
       {
-       "text": "ஒரிஇப்",
-       "lemma": "ஒரிஇப்",
-       "gloss": ""
+       "text": "ஒரிஇ",
+       "lemma": "ஒருவு",
+       "gloss": "abandon"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having abandoned"
     },
     {
      "surface": "பிறர்",
@@ -1113,27 +1137,26 @@
       {
        "text": "பிறர்",
        "lemma": "பிறர்",
-       "gloss": ""
+       "gloss": "others"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "others"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "வன்புலம்",
+     "surface": "வன்புலங்",
      "parts": [
       {
-       "text": "வன்புலம்",
-       "lemma": "வன்புலம்",
-       "gloss": "harsh land"
+       "text": "வன்புலங்",
+       "lemma": "வன்புலங்",
+       "gloss": "hard land"
       }
      ],
-     "gloss": "harsh land"
+     "gloss": "hard land",
+     "split_unverified": true
     },
     {
      "surface": "காவலின்",
@@ -1149,18 +1172,18 @@
        "gloss": "of"
       }
      ],
-     "gloss": "of protection"
+     "gloss": "of protecting"
     },
     {
      "surface": "மாறி",
      "parts": [
       {
        "text": "மாறி",
-       "lemma": "மாறி",
-       "gloss": "instead"
+       "lemma": "மாறு",
+       "gloss": "change"
       }
      ],
-     "gloss": "instead"
+     "gloss": "having changed"
     },
     {
      "surface": "யான்",
@@ -1188,10 +1211,10 @@
    ]
   }
  ],
- "literal": "Like a lion angry, with unyielding heart, / unsubmissive army kings together having united, / 'with me they will fight' they say, them / difficult battle to scream having attacked, with chariots / their back I do not see if, excellent / large beautiful kohl-rimmed eyes her from may I separate! / Virtue's state to deviate, of love in the assembly, / ability without a person having established, justice having deviated, / weak sceptre I who did may I become! Abundant fame / Vaigai surrounded strength having region's / unfailing wealth Maiyal chief / Mavan and, enduring fortress Anthai and, worthy / Anthuvan Sathan and, Athan Azhisi and, / fierce anger Iyakkan and, including others and, / eye like of friendship with friends mingled / sweet joy delight laughter having lost, I not only, / humanity protecting ancient lineage excellent / southern land protection from having abandoned, others' / harsh land protection of instead, may I be born!",
- "translation": "They say that kings with unsubmissive armies, united together, will fight against me with an unyielding heart like an angry lion. If I do not attack them in a fierce battle making them scream, and see their backs as they flee with their chariots, may I be separated from her who has excellent, large, beautiful, kohl-rimmed eyes! May I become one who rules with a weak sceptre, deviating from justice, by establishing an incompetent person in the assembly of love where virtue should not deviate! Not only will I lose the sweet joy, delight, and laughter shared with friends who are as dear as my own eyes—including Mavan, the chief of Maiyal with its unfailing wealth surrounded by the Vaigai of abundant fame, Anthai of the enduring fortress, worthy Anthuvan Sathan, Athan Azhisi, and fierce-tempered Iyakkan—but may I also be excluded from protecting the southern land of my ancient, excellent lineage that protects humanity, and instead be reborn to protect the harsh lands of others!",
- "modern": "கோபமடைந்த சிங்கத்தைப் போன்ற அடங்காத நெஞ்சமும், பணியாத படைகளும் கொண்ட பகை வேந்தர்கள் ஒன்று கூடி என்னோடு போரிடப் போவதாகக் கூறுகிறார்கள். கடுமையான போரில் அவர்கள் அலறும்படித் தாக்கி, அவர்களின் தேர்களுடன் அவர்கள் முதுகு காட்டி ஓடுவதை நான் காணாவிட்டால், சிறந்த பெரிய அழகிய மை தீட்டிய கண்களை உடைய என் மனைவியிடமிருந்து நான் பிரிவேனாக! அறநெறி தவறாத, அன்புடைய அவையிலே தகுதியற்ற ஒருவனை அமர்த்தி, முறை தவறி கொடுங்கோல் செலுத்தியவன் ஆவேனாக! மிகுந்த புகழுடைய வையை ஆறு சூழ்ந்த, வளம் மிக்க மையல் நாட்டின் தலைவனான மாவன், நிலைபெற்ற மதிலையுடைய ஆந்தை, புகழ் மிக்க அந்துவஞ் சாத்தன், ஆதன் அழிசி, கடுமையான சினமுடைய இயக்கன் ஆகியோருடனும், என் கண் போன்ற பிற நண்பர்களுடனும் கூடி மகிழ்ந்திருந்த இனிய களிப்பையும் சிரிப்பையும் இழந்தவன் ஆவேனாக! அதுமட்டுமன்றி, மக்களைக் காக்கும் நீண்ட குடிப்பெருமை வாய்ந்த தென்னாட்டைக் காக்கும் உரிமையை இழந்து, பிறருடைய வன்புலத்தைக் காக்கும் எளியவனாக மறுபிறவியில் பிறப்பேனாக!",
- "explanation": "This poem belongs to the Kañci tiṇai and the theme is Vañciṉak Kāñci (the vow of a king before going to war). The speaker is the Pandyan king Ollaiyūr Tanta Pūtappāṇṭiyaṉ, who vows to defeat his enemies who have underestimated his youth and strength. He declares that if he does not make his enemies flee in battle, he should suffer three terrible consequences: separation from his beloved wife, being remembered as a tyrant who ruled unjustly, and losing the companionship of his dearest friends while being reborn as a protector of harsh, alien lands instead of his glorious southern kingdom. The poem beautifully lists his close friends, showing the value he placed on loyalty and friendship, and highlights the high moral standards expected of a Tamil king. Key words include 'அவர்ப்புறம் காணேன் ஆயின்' (if I do not see their backs in retreat) and 'முறை திரிந்து மெலிகோல் செய்தேன் ஆகுக' (may I become one who rules unjustly).",
+ "literal": "Like a lion having become angry, with an unyielding heart, / unsubmissive army kings, together agreeing, / 'with me they will clash' they say, them / fierce battle to scream having attacked, with chariot / their backs I do not see if, excellent / large beautiful kohl-painted eyes her even from may I separate! / Righteousness state to deviate, without love in the court, / ability-less one person having seated, justice having deviated, / cruel sceptre rule I did may I become! Abundant fame / River Vaiyai surrounded, victory possessing region's / unfailing new wealth Maiyal chief, / Mavan and, enduring fortress Anthai and, worthy of praise / Anthuvan Sathan and, Athan Azhisi and, / fierce anger Iyakkan and, including others, / eye like friendship with friends mingled / sweet joy delight laughter who lost I, not only that, / mankind protecting ancient lineage excellent / southern land protection from having abandoned, others' / hard land protection of instead, may I be born!",
+ "translation": "They say those kings of unsubmissive armies, agreeing together with unyielding hearts like angry lions, will clash with me. If I do not attack them in fierce battle making them scream, and see their backs fleeing with their chariots, may I be parted from her of the large, beautiful, kohl-painted eyes! May I become one who deviates from righteousness, seats an incompetent man in a court devoid of love, and rules with a cruel sceptre! May I lose the sweet joy, delight, and laughter shared with friends as dear as my own eyes—Mavan, the chief of Maiyal with its unfailing wealth surrounded by the Vaiyai river, Anthai of the enduring fortress, the praiseworthy Anthuvan Sathan, Athan Azhisi, and the fiercely angry Iyakkan, along with others! Not only that, may I be cast out from protecting the southern land, a duty of my ancient lineage that protects mankind, and instead be born to protect the harsh lands of others!",
+ "modern": "கோபமடைந்த சிங்கத்தைப் போல வளைந்து கொடுக்காத நெஞ்சமும், அடங்காத படைகளும் கொண்ட பகை வேந்தர்கள் ஒன்று கூடி, 'என்னோடு போரிடுவோம்' என்று கூறுகிறார்கள். அவர்களைக் கொடிய போர்க்களத்தில் அலற அலறத் தாக்கி, அவர்களின் தேர்களோடு அவர்கள் முதுகு காட்டி ஓடுவதை நான் காணாவிட்டால், சிறந்த பெரிய மை தீட்டிய கண்களைக் கொண்ட என் மனைவியைப் பிரிந்து போவேனாக! அறநெறி தவறி, இரக்கமில்லாத அவையிலே தகுதியற்ற ஒருவனை அமர்த்தி, முறை தவறி கொடுங்கோல் ஆட்சி செய்தவன் ஆவேனாக! வையை ஆறு சூழ்ந்த, வளம் மிக்க வஞ்சியம்பதியின் தலைவனான பொய்யா யாணர் மையற் கோமான் மாவன், நிலைபெற்ற மதிலையுடைய ஆந்தை, புகழ்பெற்ற அந்துவஞ் சாத்தன், ஆதன் அழிசி, வெஞ்சினமுடைய இயக்கன் ஆகியோருடனும், என் கண் போன்ற பிற நண்பர்களடனும் கூடி மகிழ்ந்திருந்த இனிய மகிழ்ச்சியையும் சிரிப்பையும் இழந்தவன் ஆவேனாக! அதுமட்டுமன்றி, மக்களைக் காக்கும் நீண்ட குடிப்பெருமை வாய்ந்த தென்புலத்தைக் காக்கும் பொறுப்பிலிருந்து நீங்கி, பிறருடைய வன்புலத்தைக் காக்கும் எளியவனாக நான் பிறப்பேனாக!",
+ "explanation": "This poem is a famous oath (vañciṉam) taken by the Pandya king Ollaiyūr Tanta Pūtappāṇṭiyaṉ. When rival kings mock his youth and unite to attack him, the king swears a solemn oath detailing the terrible consequences he wishes upon himself if he fails to defeat them. He swears that if he does not make them flee, he should be separated from his beloved wife, become a tyrant who rules unjustly, lose the company of his dearest friends (whom he names individually), and lose his royal lineage's right to rule the fertile southern Pandya kingdom, instead being reborn to serve in harsh, foreign lands. The poem belongs to the puram genre, specifically the kāñci tiṇai and vañciṉak kāñci tuṟai, which deals with a king taking a vow of vengeance before battle. The vivid imagery of his loyal friends and his deep love for his wife contrasts sharply with the harshness of the battlefield, highlighting the immense stakes of his honor. Key words include maṭaṅkal (lion), vañciṉam (oath), teṉpulam (southern land/Pandya country), and kēḷir (friends).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

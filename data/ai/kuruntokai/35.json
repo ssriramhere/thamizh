@@ -3,26 +3,20 @@
   {
    "words": [
     {
-     "surface": "நாண்",
+     "surface": "நாணில",
      "parts": [
       {
        "text": "நாண்",
        "lemma": "நாண்",
-       "gloss": "shame/modesty"
-      }
-     ],
-     "gloss": "shame/modesty"
-    },
-    {
-     "surface": "இல",
-     "parts": [
+       "gloss": "modesty"
+      },
       {
        "text": "இல",
        "lemma": "இல்",
-       "gloss": "do not have"
+       "gloss": "they do not have"
       }
      ],
-     "gloss": "do not have"
+     "gloss": "they have no modesty"
     },
     {
      "surface": "மன்ற",
@@ -41,10 +35,10 @@
       {
        "text": "எம்",
        "lemma": "யாம்",
-       "gloss": "our"
+       "gloss": "my"
       }
      ],
-     "gloss": "our"
+     "gloss": "my"
     },
     {
      "surface": "கண்ணே",
@@ -52,7 +46,7 @@
       {
        "text": "கண்",
        "lemma": "கண்",
-       "gloss": "eye"
+       "gloss": "eyes"
       },
       {
        "text": "ஏ",
@@ -63,26 +57,20 @@
      "gloss": "eyes indeed"
     },
     {
-     "surface": "நாண்",
+     "surface": "நாணேர்பு",
      "parts": [
       {
        "text": "நாண்",
        "lemma": "நாண்",
-       "gloss": "shame/modesty"
-      }
-     ],
-     "gloss": "shame/modesty"
-    },
-    {
-     "surface": "ஏர்பு",
-     "parts": [
+       "gloss": "modesty"
+      },
       {
        "text": "ஏர்பு",
-       "lemma": "ஏர்",
-       "gloss": "rising/accepting"
+       "lemma": "ஏர்பு",
+       "gloss": "rising/holding"
       }
      ],
-     "gloss": "rising/accepting"
+     "gloss": "holding onto modesty"
     }
    ]
   },
@@ -92,25 +80,33 @@
      "surface": "சினைப்பசும்",
      "parts": [
       {
-       "text": "சினைப்பசும்",
-       "lemma": "சினைப்பசும்",
-       "gloss": ""
+       "text": "சினை",
+       "lemma": "சினை",
+       "gloss": "pregnant"
+      },
+      {
+       "text": "பசும்",
+       "lemma": "பசுமை",
+       "gloss": "green"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "pregnant green"
     },
     {
      "surface": "பாம்பின்",
      "parts": [
       {
-       "text": "பாம்பின்",
-       "lemma": "பாம்பின்",
-       "gloss": ""
+       "text": "பாம்பு",
+       "lemma": "பாம்பு",
+       "gloss": "snake"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the snake"
     },
     {
      "surface": "சூன்முதிர்ப்",
@@ -118,26 +114,24 @@
       {
        "text": "சூன்முதிர்ப்",
        "lemma": "சூன்முதிர்ப்",
-       "gloss": ""
+       "gloss": "maturing pregnancy"
       }
      ],
-     "gloss": "",
+     "gloss": "maturing pregnancy",
      "split_unverified": true
     },
     {
-     "surface": "பன்ன",
+     "surface": "அன்ன",
      "parts": [
       {
-       "text": "பன்ன",
-       "lemma": "பன்ன",
-       "gloss": ""
+       "text": "அன்ன",
+       "lemma": "அன்ன",
+       "gloss": "like"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "like"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -147,10 +141,10 @@
       {
        "text": "கனைத்த",
        "lemma": "கனை",
-       "gloss": "grown thick/dense"
+       "gloss": "grown thick"
       }
      ],
-     "gloss": "grown thick/dense"
+     "gloss": "thickly grown"
     },
     {
      "surface": "கரும்பின்",
@@ -169,87 +163,67 @@
      "gloss": "of the sugarcane"
     },
     {
-     "surface": "கூம்பு",
+     "surface": "கூம்புபொதி",
      "parts": [
       {
        "text": "கூம்பு",
        "lemma": "கூம்பு",
-       "gloss": "closed/budding"
-      }
-     ],
-     "gloss": "closed/budding"
-    },
-    {
-     "surface": "பொதி",
-     "parts": [
+       "gloss": "closed"
+      },
       {
        "text": "பொதி",
        "lemma": "பொதி",
-       "gloss": "sheath/casing"
+       "gloss": "sheath"
       }
      ],
-     "gloss": "sheath/casing"
+     "gloss": "closed sheath"
     },
     {
      "surface": "அவிழ",
      "parts": [
       {
        "text": "அவிழ",
-       "lemma": "அவிழ",
-       "gloss": "to open/unravel"
+       "lemma": "அவிழ்",
+       "gloss": "to open"
       }
      ],
-     "gloss": "to open/unravel",
-     "split_unverified": true
+     "gloss": "to open"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நுண்",
+     "surface": "நுண்ணுறை",
      "parts": [
       {
        "text": "நுண்",
-       "lemma": "நுண்",
-       "gloss": "fine/minute"
-      }
-     ],
-     "gloss": "fine/minute",
-     "split_unverified": true
-    },
-    {
-     "surface": "உறை",
-     "parts": [
+       "lemma": "நுண்மை",
+       "gloss": "fine"
+      },
       {
        "text": "உறை",
        "lemma": "உறை",
-       "gloss": "drizzle/drop"
+       "gloss": "drizzle"
       }
      ],
-     "gloss": "drizzle/drop"
+     "gloss": "fine drizzle"
     },
     {
-     "surface": "அழி",
+     "surface": "அழிதுளி",
      "parts": [
       {
        "text": "அழி",
        "lemma": "அழி",
-       "gloss": "abundant/showering"
-      }
-     ],
-     "gloss": "abundant/showering"
-    },
-    {
-     "surface": "துளி",
-     "parts": [
+       "gloss": "abundant"
+      },
       {
        "text": "துளி",
        "lemma": "துளி",
-       "gloss": "drops"
+       "gloss": "drop"
       }
      ],
-     "gloss": "drops"
+     "gloss": "heavy drops"
     },
     {
      "surface": "தலைஇய",
@@ -257,37 +231,30 @@
       {
        "text": "தலைஇய",
        "lemma": "தலைஇய",
-       "gloss": "having showered/poured"
+       "gloss": "having showered"
       }
      ],
-     "gloss": "having showered/poured"
+     "gloss": "having showered"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தண்",
+     "surface": "தண்வரல்",
      "parts": [
       {
        "text": "தண்",
-       "lemma": "தண்",
+       "lemma": "தண்மை",
        "gloss": "cool"
-      }
-     ],
-     "gloss": "cool",
-     "split_unverified": true
-    },
-    {
-     "surface": "வரல்",
-     "parts": [
+      },
       {
        "text": "வரல்",
-       "lemma": "வரு",
+       "lemma": "வருதல்",
        "gloss": "coming"
       }
      ],
-     "gloss": "coming"
+     "gloss": "cool coming"
     },
     {
      "surface": "வாடையும்",
@@ -309,13 +276,22 @@
      "surface": "பிரிந்திசினோர்க்கு",
      "parts": [
       {
-       "text": "பிரிந்திசினோர்க்கு",
-       "lemma": "பிரிந்திசினோர்க்கு",
-       "gloss": "to those who have separated"
+       "text": "பிரிந்து",
+       "lemma": "பிரி",
+       "gloss": "having parted"
+      },
+      {
+       "text": "இசினோர்",
+       "lemma": "இசினோர்",
+       "gloss": "those who"
+      },
+      {
+       "text": "கு",
+       "lemma": "கு",
+       "gloss": "to"
       }
      ],
-     "gloss": "to those who have separated",
-     "split_unverified": true
+     "gloss": "to those who have parted"
     },
     {
      "surface": "அழலே",
@@ -331,15 +307,15 @@
        "gloss": "indeed"
       }
      ],
-     "gloss": "fire indeed"
+     "gloss": "is fire indeed"
     }
    ]
   }
  ],
- "literal": "Without shame surely are our eyes, rising with desire, / like the mature pregnancy of a green snake with eggs, / the closed sheaths of the dense sugarcane opening up, / as the fine drizzle of abundant drops showers down, / the cool-coming north wind is to those who have separated like fire indeed.",
- "translation": "My eyes surely have no shame. Rising with desire, they look out. As the fine drizzle of abundant drops showers down, the closed sheaths of the dense sugarcane open up, looking like the mature pregnancy of a green snake. In this season, the cool-coming north wind is like burning fire indeed to those who are separated from their lovers.",
- "modern": "என் கண்கள் நிச்சயமாக நாணமற்றவை. அவை ஆசையோடு எதிர்நோக்குகின்றன. கருவுற்ற பச்சைப் பாம்பின் முதிர்ந்த சூலைப் போல, அடர்ந்த கரும்பின் மூடிய மொட்டுகள் அவிழ்ந்து மலருமாறு, நுண்ணிய துளிகளாகிய மழை பொழிகிறது. இத்தகைய குளிர்ச்சியான வாடைக்காற்று, தலைவனைப் பிரிந்து வாழ்பவர்களுக்கு நெருப்பைப் போலத் துன்பம் தருவதாக உள்ளது.",
- "explanation": "The heroine is speaking to her companion (tōḻi) during the cold season when her lover is away. She laments that her eyes have lost all modesty, remaining wide open and looking out for his return instead of sleeping. The poet uses a striking visual image from the Marutham (agricultural) landscape: the closed sheaths of the sugarcane opening up under the fine drizzle are compared to the swollen belly of a pregnant green snake. This fertile, blooming landscape contrasts sharply with the heroine's inner desolation. The cool north wind (vāṭai), which usually brings comfort, feels like a burning fire to her in her state of separation.",
+ "literal": "They have no modesty surely, my eyes, [even when] holding onto modesty / Like the mature pregnancy of a pregnant green snake / The closed sheath of the thick sugarcane opens / Fine drizzle and heavy drops having showered / The cool-coming north wind, to those who have parted, is fire indeed.",
+ "translation": "My eyes surely have no modesty. Even when I try to hold onto my modesty, they weep. The cool north wind, which brings fine drizzle and heavy drops that make the closed sheaths of the thick sugarcane—looking like the mature pregnancy of a green snake—burst open, is like fire to those who are separated from their lovers.",
+ "modern": "என் கண்கள் நிச்சயமாக நாணமற்றவை. நான் நாணத்தைக் காக்க முயன்றாலும் அவை கண்ணீர் விடுகின்றன. முதிர்ந்த கருவைக் கொண்ட பச்சைப் பாம்பைப் போன்ற, பருத்த கரும்பின் மூடிய மொட்டுகள் அவிழ்ந்து மலருமாறு, நுண்ணிய தூறலையும் பெருந்துளிகளையும் பொழிகின்ற, குளிர்ச்சியாக வீசும் வாடைக் காற்றானது, தம் காதலரைப் பிரிந்திருப்பவருக்கு நெருப்பைப் போன்றதாகும்.",
+ "explanation": "The heroine is speaking to her companion in deep distress during the cold season. Her lover has not returned as promised, and she is struggling to hide her grief. She laments that her eyes have lost all modesty because they weep openly, revealing her secret pain to everyone. The poem features a vivid image of sugarcane sheaths, swollen like a pregnant green snake, bursting open under the cold rain. This natural image mirrors the heroine's own state, where her tightly guarded secret of separation is forced open by the cold north wind, which feels not cool, but like a burning fire to her.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -3,26 +3,20 @@
   {
    "words": [
     {
-     "surface": "நனை",
+     "surface": "நனைமுதிர்",
      "parts": [
       {
        "text": "நனை",
        "lemma": "நனை",
        "gloss": "bud"
-      }
-     ],
-     "gloss": "bud"
-    },
-    {
-     "surface": "முதிர்",
-     "parts": [
+      },
       {
        "text": "முதிர்",
        "lemma": "முதிர்",
        "gloss": "mature"
       }
      ],
-     "gloss": "mature"
+     "gloss": "mature bud"
     },
     {
      "surface": "ஞாழல்",
@@ -30,54 +24,42 @@
       {
        "text": "ஞாழல்",
        "lemma": "ஞாழல்",
-       "gloss": "ñāḻal tree"
+       "gloss": "corkwood tree"
       }
      ],
-     "gloss": "ñāḻal tree"
+     "gloss": "corkwood tree"
     },
     {
-     "surface": "தினை",
+     "surface": "தினைமருள்",
      "parts": [
       {
        "text": "தினை",
        "lemma": "தினை",
-       "gloss": "foxtail millet"
-      }
-     ],
-     "gloss": "foxtail millet"
-    },
-    {
-     "surface": "மருள்",
-     "parts": [
+       "gloss": "millet"
+      },
       {
        "text": "மருள்",
        "lemma": "மருள்",
        "gloss": "resembling"
       }
      ],
-     "gloss": "resembling"
+     "gloss": "millet-resembling"
     },
     {
-     "surface": "திரள்",
+     "surface": "திரள்வீ",
      "parts": [
       {
        "text": "திரள்",
        "lemma": "திரள்",
        "gloss": "clustered"
-      }
-     ],
-     "gloss": "clustered"
-    },
-    {
-     "surface": "வீ",
-     "parts": [
+      },
       {
        "text": "வீ",
        "lemma": "வீ",
        "gloss": "flower"
       }
      ],
-     "gloss": "flower"
+     "gloss": "clustered flower"
     }
    ]
   },
@@ -89,51 +71,60 @@
       {
        "text": "நெய்தல்",
        "lemma": "நெய்தல்",
-       "gloss": "blue water lily"
+       "gloss": "water lily"
       }
      ],
-     "gloss": "blue water lily"
+     "gloss": "water lily"
     },
     {
-     "surface": "மா",
+     "surface": "மாமலர்ப்",
      "parts": [
       {
        "text": "மா",
        "lemma": "மா",
        "gloss": "great"
-      }
-     ],
-     "gloss": "great"
-    },
-    {
-     "surface": "மலர்",
-     "parts": [
+      },
       {
        "text": "மலர்",
        "lemma": "மலர்",
-       "gloss": "blossom"
+       "gloss": "flower"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "blossom"
+     "gloss": "great flower"
     },
     {
      "surface": "பெய்தல்",
      "parts": [
       {
-       "text": "பெய்தல்",
+       "text": "பெய்",
        "lemma": "பெய்",
-       "gloss": "raining"
+       "gloss": "shower"
+      },
+      {
+       "text": "தல்",
+       "lemma": "தல்",
+       "gloss": "verbal noun suffix"
       }
      ],
-     "gloss": "raining"
+     "gloss": "showering"
     },
     {
      "surface": "போல",
      "parts": [
       {
-       "text": "போல",
-       "lemma": "போல",
+       "text": "போல்",
+       "lemma": "போல்",
        "gloss": "like"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
      "gloss": "like"
@@ -159,7 +150,7 @@
       {
        "text": "தூற்று",
        "lemma": "தூற்று",
-       "gloss": "scattering"
+       "gloss": "scatter"
       },
       {
        "text": "உம்",
@@ -170,26 +161,25 @@
      "gloss": "scattering"
     },
     {
-     "surface": "உரவு",
+     "surface": "உரவுநீர்ச்",
      "parts": [
       {
        "text": "உரவு",
        "lemma": "உரவு",
-       "gloss": "strong"
-      }
-     ],
-     "gloss": "strong"
-    },
-    {
-     "surface": "நீர்",
-     "parts": [
+       "gloss": "abundant"
+      },
       {
        "text": "நீர்",
        "lemma": "நீர்",
        "gloss": "water"
+      },
+      {
+       "text": "ச்",
+       "lemma": "ச்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "water"
+     "gloss": "abundant water"
     },
     {
      "surface": "சேர்ப்ப",
@@ -205,62 +195,88 @@
        "gloss": "vocative suffix"
       }
      ],
-     "gloss": "O lord of the shore"
+     "gloss": "lord of the coast"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "தாயுடன்",
+     "surface": "தாய்",
      "parts": [
       {
-       "text": "தாயுடன்",
-       "lemma": "தாயுடன்",
-       "gloss": ""
+       "text": "தாய்",
+       "lemma": "தாய்",
+       "gloss": "mother"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "mother"
     },
     {
-     "surface": "றலைக்கும்",
+     "surface": "உடன்று",
      "parts": [
       {
-       "text": "றலைக்கும்",
-       "lemma": "றலைக்கும்",
-       "gloss": ""
+       "text": "உடன்று",
+       "lemma": "உடலு",
+       "gloss": "having become angry"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having become angry"
+    },
+    {
+     "surface": "அலைக்கும்",
+     "parts": [
+      {
+       "text": "அலை",
+       "lemma": "அலை",
+       "gloss": "harass"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "increment"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "future tense marker"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "adjectival participle suffix"
+      }
+     ],
+     "gloss": "harassing"
     },
     {
      "surface": "காலையும்",
      "parts": [
       {
-       "text": "காலையும்",
-       "lemma": "காலையும்",
-       "gloss": ""
+       "text": "காலை",
+       "lemma": "காலை",
+       "gloss": "time"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "even"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "even at the time"
     },
     {
      "surface": "வாய்விட்",
      "parts": [
       {
        "text": "வாய்விட்",
-       "lemma": "வாய்விட்",
-       "gloss": ""
+       "lemma": "வாய்விட்டு",
+       "gloss": "crying out"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "crying out"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -269,24 +285,27 @@
      "parts": [
       {
        "text": "டன்னா",
-       "lemma": "டன்னா",
-       "gloss": ""
+       "lemma": "அன்னா",
+       "gloss": "mother!"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "mother!"
     },
     {
-     "surface": "வென்னுங்",
+     "surface": "என்னும்",
      "parts": [
       {
-       "text": "வென்னுங்",
-       "lemma": "வென்னுங்",
-       "gloss": ""
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "say"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "adjectival suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "saying"
     },
     {
      "surface": "குழவி",
@@ -294,26 +313,28 @@
       {
        "text": "குழவி",
        "lemma": "குழவி",
-       "gloss": ""
+       "gloss": "infant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "infant"
     },
     {
      "surface": "போல",
      "parts": [
       {
-       "text": "போல",
-       "lemma": "போல",
-       "gloss": ""
+       "text": "போல்",
+       "lemma": "போல்",
+       "gloss": "like"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "like"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -323,10 +344,10 @@
       {
        "text": "இன்னா",
        "lemma": "இன்னா",
-       "gloss": "painful things"
+       "gloss": "unpleasant things"
       }
      ],
-     "gloss": "painful things"
+     "gloss": "unpleasant things"
     },
     {
      "surface": "செயினும்",
@@ -342,7 +363,7 @@
        "gloss": "even if"
       }
      ],
-     "gloss": "even if you do"
+     "gloss": "even if doing"
     },
     {
      "surface": "இனிது",
@@ -350,42 +371,26 @@
       {
        "text": "இனிது",
        "lemma": "இனிது",
-       "gloss": "pleasantness"
+       "gloss": "sweetness"
       }
      ],
      "gloss": "sweetly"
     },
     {
-     "surface": "தலை",
+     "surface": "தலையளிப்பினும்",
      "parts": [
       {
-       "text": "தலை",
-       "lemma": "தலை",
-       "gloss": "grace"
-      }
-     ],
-     "gloss": "grace"
-    },
-    {
-     "surface": "அளிப்பினும்",
-     "parts": [
-      {
-       "text": "அளி",
-       "lemma": "அளி",
-       "gloss": "bestow"
+       "text": "தலையளி",
+       "lemma": "தலையளி",
+       "gloss": "to show great love"
       },
       {
-       "text": "ப்ப்",
-       "lemma": "ப்ப்",
-       "gloss": "empty morph"
-      },
-      {
-       "text": "இனும்",
-       "lemma": "இனும்",
+       "text": "ப்பினும்",
+       "lemma": "உம்",
        "gloss": "even if"
       }
      ],
-     "gloss": "even if you bestow"
+     "gloss": "even if showing great love"
     }
    ]
   },
@@ -408,27 +413,22 @@
       {
        "text": "வரைப்பு",
        "lemma": "வரைப்பு",
-       "gloss": "domain"
+       "gloss": "limit"
       },
       {
-       "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "of"
-      },
-      {
-       "text": "அள்",
-       "lemma": "அள்",
-       "gloss": "she-suffix"
+       "text": "இனள்",
+       "lemma": "இனள்",
+       "gloss": "she who belongs to"
       }
      ],
-     "gloss": "she who is within your domain"
+     "gloss": "she who is within your protection"
     },
     {
      "surface": "என்",
      "parts": [
       {
        "text": "என்",
-       "lemma": "என்",
+       "lemma": "யான்",
        "gloss": "my"
       }
      ],
@@ -455,10 +455,10 @@
       {
        "text": "தன்",
        "lemma": "தான்",
-       "gloss": "her own"
+       "gloss": "her"
       }
      ],
-     "gloss": "her own"
+     "gloss": "her"
     },
     {
      "surface": "உறு",
@@ -466,10 +466,10 @@
       {
        "text": "உறு",
        "lemma": "உறு",
-       "gloss": "suffering"
+       "gloss": "experience"
       }
      ],
-     "gloss": "suffering"
+     "gloss": "experiencing"
     },
     {
      "surface": "விழுமம்",
@@ -487,8 +487,8 @@
      "parts": [
       {
        "text": "களைஞர்",
-       "lemma": "களை",
-       "gloss": "those who remove"
+       "lemma": "களைஞர்",
+       "gloss": "one who removes distress"
       },
       {
        "text": "ஓ",
@@ -496,15 +496,15 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "those who remove"
+     "gloss": "savior?"
     },
     {
      "surface": "இலளே",
      "parts": [
       {
        "text": "இலள்",
-       "lemma": "இல்",
-       "gloss": "she has none"
+       "lemma": "இலள்",
+       "gloss": "she does not have"
       },
       {
        "text": "ஏ",
@@ -512,15 +512,15 @@
        "gloss": "emphasis"
       }
      ],
-     "gloss": "she has none"
+     "gloss": "she does not have"
     }
    ]
   }
  ],
- "literal": "Bud-mature ñāḻal tree's millet-resembling clustered flowers / on the great blossoms of the neytal, showering like rain, / O lord of the shore of strong waters where the cold wind scatters! / Even at the time when her mother, having become angry, beats her, crying out loud / \"Mother!\" calling, like an infant, / even if you do unpleasant things, or even if you sweetly bestow grace, / my friend is within your domain; / she has no one else to remove her suffering.",
- "translation": "O lord of the shore of mighty waters, where the cold wind scatters the millet-like clustered flowers of the mature ñāḻal tree like rain onto the great blossoms of the neytal! Like an infant who, even when its mother beats it in anger, cries out \"Mother!\", my friend belongs only to your domain, whether you cause her pain or sweetly bestow your grace. She has no one else to remove her suffering.",
- "modern": "குளிர்ந்த காற்று வீசி, அரும்புகள் முதிர்ந்த ஞாழல் மரத்தின் தினை போன்ற திரண்ட பூக்களை, நெய்தலின் பெரிய மலர்கள் மேல் மழை போலத் தூவுகின்ற வலிமையான கடல்நீரை உடைய கடற்கரைத் தலைவனே! கோபமடைந்த தாய் தன்னை அடிக்கும் போதும், வாய்விட்டு \"அம்மா!\" என்று கதறும் குழந்தையைப் போல, நீ துன்பமே செய்தாலும் அல்லது இன்பமாக அன்பு காட்டினாலும், என் தோழி உன்னையே தஞ்சமெனக் கொண்டவள்; தன் துன்பத்தைத் தீர்ப்பவர் உன்னைத் தவிர வேறு யாரும் அவளுக்கு இல்லை.",
- "explanation": "The friend (தோழி) is speaking to the hero (தலைவன்) who has been delaying his marriage. She urges him to marry the heroine quickly by emphasizing her absolute devotion and vulnerability. She compares the heroine to an infant who cries out for its mother even when the mother is beating it in anger; similarly, the heroine looks only to the hero for comfort, whether he causes her distress by his absence or shows her love. This is a Neytal (coastal) poem, and the image of the cold wind scattering the yellow, millet-like pollen of the ñāḻal tree onto the blue neytal flowers like rain represents the hero's actions affecting the heroine. The key words are 'குழவி' (infant), 'இன்னா செயினும்' (even if you do painful things), and 'நின் வரைப்பினள்' (she is within your domain).",
+ "literal": "Mature buds of corkwood tree, resembling millet, round flowers / like showering on the dark water lily flower, / O lord of the coast of abundant waters where the cold wind blows! / Even when her mother, having become angry, beats her, crying out / 'Mother!' like an infant, / even if you do unpleasant things, or even if you sweetly show great love, / my friend is within your protection; / she has no savior to remove her distress.",
+ "translation": "O lord of the coast of abundant waters, where the cold wind blows and scatters the round flowers of the corkwood tree—resembling millet and looking like a shower of buds upon the dark water lilies! Like an infant who, even when its mother beats it in anger, cries out 'Mother!', my friend remains solely within your protection, whether you cause her grief or show her sweet love. She has no other savior to remove her distress.",
+ "modern": "குளிர்ந்த காற்று வீசி, தினை போன்ற திரண்ட ஞாழல் மலர்களைக் கரிய நெய்தல் மலர்களின் மேல் தூவும் வலிமையான நீர்ப்பரப்பைக் கொண்ட கடற்கரைத் தலைவனே! கோபமடைந்த தாய் தன்னை அடிக்கும்போதும் 'அம்மா!' என்று கதறும் குழந்தையைப் போல, நீ துன்பமே செய்தாலும் அல்லது இன்பம் தரும் அன்பைச் செய்தாலும் என் தோழி உன்னையே தஞ்சமெனக் கொண்டவள். அவளுக்குத் தன் துன்பத்தைப் போக்க வேறு யாரும் இல்லை.",
+ "explanation": "The friend of the heroine is speaking to the hero, who has been delaying their marriage and causing distress. She uses a powerful simile to describe the heroine's absolute devotion: just as an infant runs back to its mother crying 'Mother!' even when the mother beats it in anger, the heroine looks only to the hero for refuge, regardless of whether he causes her pain or shows her love. This poem belongs to the Neytal (maritime) landscape, where the cold wind scattering the millet-like yellow corkwood flowers onto the dark water lilies mirrors how the hero's actions deeply affect the heroine's life. The key words are ஞாழல் (corkwood tree), நெய்தல் (water lily), குழவி (infant), and வரைப்பினள் (one within protection).",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

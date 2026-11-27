@@ -7,55 +7,55 @@
      "parts": [
       {
        "text": "ஊன்",
-       "lemma": "ஊன்",
+       "lemma": "ūṉ",
        "gloss": "meat"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "meat and"
+     "gloss": "and meat"
     },
     {
      "surface": "ஊணும்",
      "parts": [
       {
        "text": "ஊண்",
-       "lemma": "ஊண்",
+       "lemma": "ūṇ",
        "gloss": "food"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "food and"
+     "gloss": "and food"
     },
     {
      "surface": "முனையின்",
      "parts": [
       {
        "text": "முனை",
-       "lemma": "முனை",
+       "lemma": "muṉai",
        "gloss": "dislike"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "iṉ",
        "gloss": "if"
       }
      ],
-     "gloss": "if we dislike"
+     "gloss": "if satiated"
     },
     {
      "surface": "இனிது",
      "parts": [
       {
        "text": "இனிது",
-       "lemma": "இனிது",
+       "lemma": "iṉitu",
        "gloss": "sweet"
       }
      ],
@@ -65,14 +65,9 @@
      "surface": "என",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "என்",
-       "gloss": "say"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitive suffix"
+       "text": "என",
+       "lemma": "eṉa",
+       "gloss": "saying"
       }
      ],
      "gloss": "saying"
@@ -82,62 +77,62 @@
   {
    "words": [
     {
-     "surface": "பாலின்",
+     "surface": "பாலில்",
      "parts": [
       {
        "text": "பால்",
-       "lemma": "பால்",
+       "lemma": "pāl",
        "gloss": "milk"
       },
       {
-       "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "with"
+       "text": "இல்",
+       "lemma": "il",
+       "gloss": "in"
       }
      ],
-     "gloss": "with milk"
+     "gloss": "in milk"
     },
     {
      "surface": "பெய்தவும்",
      "parts": [
       {
        "text": "பெய்",
-       "lemma": "பெய்",
+       "lemma": "pey",
        "gloss": "pour"
       },
       {
        "text": "த்",
-       "lemma": "த்",
-       "gloss": "past tense"
+       "lemma": "t",
+       "gloss": "past"
       },
       {
        "text": "அ",
-       "lemma": "அ",
-       "gloss": "relative participle"
+       "lemma": "a",
+       "gloss": "adjectival"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "poured and"
+     "gloss": "and those poured"
     },
     {
-     "surface": "பாகின்",
+     "surface": "பாகில்",
      "parts": [
       {
        "text": "பாகு",
-       "lemma": "பாகு",
+       "lemma": "pāku",
        "gloss": "syrup"
       },
       {
-       "text": "இன்",
-       "lemma": "இன்",
-       "gloss": "with"
+       "text": "இல்",
+       "lemma": "il",
+       "gloss": "in"
       }
      ],
-     "gloss": "with syrup"
+     "gloss": "in syrup"
     },
     {
      "surface": "கொண்டவும்",
@@ -145,10 +140,10 @@
       {
        "text": "கொண்டவும்",
        "lemma": "கொண்டவும்",
-       "gloss": "made and"
+       "gloss": "and those mixed"
       }
      ],
-     "gloss": "made and",
+     "gloss": "and those mixed",
      "split_unverified": true
     }
    ]
@@ -160,16 +155,16 @@
      "parts": [
       {
        "text": "அளவு",
-       "lemma": "அளவு",
+       "lemma": "aḷavu",
        "gloss": "measure"
       },
       {
        "text": "பு",
-       "lemma": "பு",
+       "lemma": "pu",
        "gloss": "verbal participle suffix"
       }
      ],
-     "gloss": "measuring proportionately"
+     "gloss": "measuring"
     },
     {
      "surface": "கலந்து",
@@ -188,24 +183,23 @@
      "parts": [
       {
        "text": "மெல்லிது",
-       "lemma": "மெல்லிது",
-       "gloss": "softly"
+       "lemma": "mellitu",
+       "gloss": "gently"
       }
      ],
-     "gloss": "softly",
-     "split_unverified": true
+     "gloss": "gently"
     },
     {
      "surface": "பருகி",
      "parts": [
       {
        "text": "பருகு",
-       "lemma": "பருகு",
+       "lemma": "paruku",
        "gloss": "drink"
       },
       {
        "text": "இ",
-       "lemma": "இ",
+       "lemma": "i",
        "gloss": "verbal participle"
       }
      ],
@@ -220,63 +214,78 @@
      "parts": [
       {
        "text": "விருந்து",
-       "lemma": "விருந்து",
-       "gloss": ""
+       "lemma": "viruntu",
+       "gloss": "hospitality"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "hospitality"
     },
     {
      "surface": "உறுத்து",
      "parts": [
       {
-       "text": "உறுத்து",
-       "lemma": "உறுத்து",
-       "gloss": ""
+       "text": "உறு",
+       "lemma": "uṟu",
+       "gloss": "cause"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "sandhi"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "past"
+      },
+      {
+       "text": "உ",
+       "lemma": "u",
+       "gloss": "verbal participle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "offering"
     },
     {
      "surface": "ஆற்ற",
      "parts": [
       {
        "text": "ஆற்ற",
-       "lemma": "ஆற்ற",
-       "gloss": ""
+       "lemma": "āṟṟa",
+       "gloss": "abundantly"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "abundantly"
     },
     {
      "surface": "இருந்தென",
      "parts": [
       {
-       "text": "இருந்தென",
-       "lemma": "இருந்தென",
-       "gloss": ""
+       "text": "இருந்து",
+       "lemma": "iruntu",
+       "gloss": "staying"
+      },
+      {
+       "text": "என",
+       "lemma": "eṉa",
+       "gloss": "as"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "as staying"
     },
     {
-     "surface": "மாகச்",
+     "surface": "மாக",
      "parts": [
       {
-       "text": "மாகச்",
-       "lemma": "மாகச்",
-       "gloss": ""
+       "text": "மாக",
+       "lemma": "மாக",
+       "gloss": "we being"
       }
      ],
-     "gloss": "",
+     "gloss": "we being",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -297,44 +306,39 @@
      "parts": [
       {
        "text": "பெரும",
-       "lemma": "பெருமன்",
-       "gloss": "O great lord"
+       "lemma": "பெரும",
+       "gloss": "O Lord"
       }
      ],
-     "gloss": "O great lord"
+     "gloss": "O Lord",
+     "split_unverified": true
     },
     {
      "surface": "எம்",
      "parts": [
       {
        "text": "எம்",
-       "lemma": "எம்",
+       "lemma": "em",
        "gloss": "our"
       }
      ],
      "gloss": "our"
     },
     {
-     "surface": "விழவு",
+     "surface": "விழவுடை",
      "parts": [
       {
        "text": "விழவு",
-       "lemma": "விழவு",
+       "lemma": "viḻavu",
        "gloss": "festival"
-      }
-     ],
-     "gloss": "festival"
-    },
-    {
-     "surface": "உடை",
-     "parts": [
+      },
       {
        "text": "உடை",
-       "lemma": "உடை",
+       "lemma": "uṭai",
        "gloss": "possessing"
       }
      ],
-     "gloss": "possessing"
+     "gloss": "festival-possessing"
     },
     {
      "surface": "நாட்டு",
@@ -352,14 +356,9 @@
      "surface": "என",
      "parts": [
       {
-       "text": "என்",
-       "lemma": "என்",
-       "gloss": "say"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitive suffix"
+       "text": "என",
+       "lemma": "eṉa",
+       "gloss": "saying"
       }
      ],
      "gloss": "saying"
@@ -422,64 +421,69 @@
   {
    "words": [
     {
-     "surface": "அன்புடை",
+     "surface": "அன்பு",
      "parts": [
       {
        "text": "அன்பு",
-       "lemma": "அன்பு",
+       "lemma": "anpu",
        "gloss": "love"
-      },
-      {
-       "text": "உடை",
-       "lemma": "உடை",
-       "gloss": "possessing"
       }
      ],
-     "gloss": "loving"
+     "gloss": "love"
     },
     {
-     "surface": "மையின்",
+     "surface": "உடைமையின்",
      "parts": [
       {
-       "text": "மை",
-       "lemma": "மை",
-       "gloss": "nature"
+       "text": "உடைமை",
+       "lemma": "uṭaimai",
+       "gloss": "possession"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "iṉ",
        "gloss": "because of"
       }
      ],
-     "gloss": "because of"
+     "gloss": "because of possessing"
     },
     {
-     "surface": "எம்பிரிவு",
+     "surface": "எம்",
      "parts": [
       {
        "text": "எம்",
-       "lemma": "எம்",
+       "lemma": "em",
        "gloss": "our"
-      },
+      }
+     ],
+     "gloss": "our"
+    },
+    {
+     "surface": "பிரிவு",
+     "parts": [
       {
        "text": "பிரிவு",
-       "lemma": "பிரிவு",
+       "lemma": "pirivu",
        "gloss": "separation"
       }
      ],
-     "gloss": "our separation"
+     "gloss": "separation"
     },
     {
-     "surface": "அஞ்சித்",
+     "surface": "அஞ்சி",
      "parts": [
       {
-       "text": "அஞ்சித்",
-       "lemma": "அஞ்சித்",
-       "gloss": "fearing"
+       "text": "அஞ்சு",
+       "lemma": "añcu",
+       "gloss": "fear"
+      },
+      {
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "verbal participle"
       }
      ],
-     "gloss": "fearing",
-     "split_unverified": true
+     "gloss": "fearing"
     }
    ]
   },
@@ -489,174 +493,203 @@
      "surface": "துணரியது",
      "parts": [
       {
-       "text": "துணர்",
-       "lemma": "துணர்",
-       "gloss": "cluster"
-      },
-      {
-       "text": "இய",
-       "lemma": "இய",
-       "gloss": "adjectival suffix"
-      },
-      {
-       "text": "து",
-       "lemma": "து",
-       "gloss": "pronominal suffix"
+       "text": "துணரியது",
+       "lemma": "tuṇariyatu",
+       "gloss": "clustered one"
       }
      ],
-     "gloss": "that which has clusters"
+     "gloss": "clustered one"
     },
     {
      "surface": "கொளாஅ",
      "parts": [
       {
        "text": "கொள்",
-       "lemma": "கொள்",
-       "gloss": "take"
+       "lemma": "koḷ",
+       "gloss": "bear"
       },
       {
        "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "negative suffix"
+       "lemma": "ā",
+       "gloss": "not"
       },
       {
        "text": "அ",
-       "lemma": "அ",
-       "gloss": "alapēṭai"
+       "lemma": "a",
+       "gloss": "measure"
       }
      ],
      "gloss": "not bearing"
     },
     {
-     "surface": "வாகிப்",
+     "surface": "ஆகி",
      "parts": [
       {
-       "text": "வாகிப்",
-       "lemma": "வாகிப்",
+       "text": "ஆகி",
+       "lemma": "āki",
        "gloss": "becoming"
       }
      ],
-     "gloss": "becoming",
-     "split_unverified": true
+     "gloss": "becoming"
     },
     {
      "surface": "பழம்",
      "parts": [
       {
        "text": "பழம்",
-       "lemma": "பழம்",
+       "lemma": "paḻam",
        "gloss": "fruit"
       }
      ],
      "gloss": "fruit"
     },
     {
-     "surface": "ஊழ்த்துப்",
+     "surface": "ஊழ்த்து",
      "parts": [
       {
-       "text": "ஊழ்த்துப்",
-       "lemma": "ஊழ்த்துப்",
-       "gloss": "having matured"
+       "text": "ஊழ்",
+       "lemma": "ūḻ",
+       "gloss": "mature"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "past"
+      },
+      {
+       "text": "உ",
+       "lemma": "u",
+       "gloss": "verbal participle"
       }
      ],
-     "gloss": "having matured",
-     "split_unverified": true
+     "gloss": "overripening"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "பயம்பகர்",
+     "surface": "பயம்",
      "parts": [
       {
        "text": "பயம்",
-       "lemma": "பயம்",
+       "lemma": "payam",
+       "gloss": "utility"
+      }
+     ],
+     "gloss": "utility"
+    },
+    {
+     "surface": "பகர்வு",
+     "parts": [
+      {
+       "text": "பகர்",
+       "lemma": "pakar",
        "gloss": "yield"
       },
       {
-       "text": "பகர்",
-       "lemma": "பகர்",
-       "gloss": "share"
+       "text": "வு",
+       "lemma": "vu",
+       "gloss": "noun suffix"
       }
      ],
-     "gloss": "sharing yield"
+     "gloss": "yielding"
     },
     {
-     "surface": "வறியா",
+     "surface": "அறியா",
      "parts": [
       {
-       "text": "வறி",
-       "lemma": "வறி",
-       "gloss": "empty"
+       "text": "அறி",
+       "lemma": "aṟi",
+       "gloss": "know"
       },
       {
        "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "negative participle"
+       "lemma": "ā",
+       "gloss": "not"
       }
      ],
      "gloss": "not knowing"
     },
     {
-     "surface": "மயங்கரில்",
+     "surface": "மயங்கு",
      "parts": [
       {
        "text": "மயங்கு",
-       "lemma": "மயங்கு",
-       "gloss": "be dense"
-      },
+       "lemma": "mayaṅku",
+       "gloss": "confuse"
+      }
+     ],
+     "gloss": "confused"
+    },
+    {
+     "surface": "அரில்",
+     "parts": [
       {
        "text": "அரில்",
-       "lemma": "அரில்",
+       "lemma": "aril",
        "gloss": "thicket"
       }
      ],
-     "gloss": "dense thicket"
+     "gloss": "thicket"
     },
     {
-     "surface": "முதுபாழ்ப்",
+     "surface": "முது",
      "parts": [
       {
-       "text": "முதுபாழ்ப்",
-       "lemma": "முதுபாழ்ப்",
-       "gloss": "old wasteland"
+       "text": "முது",
+       "lemma": "mutu",
+       "gloss": "old"
       }
      ],
-     "gloss": "old wasteland",
-     "split_unverified": true
+     "gloss": "old"
+    },
+    {
+     "surface": "பாழ்",
+     "parts": [
+      {
+       "text": "பாழ்",
+       "lemma": "pāḻ",
+       "gloss": "waste"
+      }
+     ],
+     "gloss": "waste"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "பெயல்பெய்",
+     "surface": "பெயல்",
      "parts": [
       {
        "text": "பெயல்",
-       "lemma": "பெயல்",
+       "lemma": "peyal",
        "gloss": "rain"
-      },
-      {
-       "text": "பெய்",
-       "lemma": "பெய்",
-       "gloss": "pour"
       }
      ],
-     "gloss": "pouring rain"
+     "gloss": "rain"
     },
     {
-     "surface": "தன்ன",
+     "surface": "பெய்தன்ன",
      "parts": [
       {
-       "text": "தன்ன",
-       "lemma": "தன்ன",
+       "text": "பெய்",
+       "lemma": "pey",
+       "gloss": "pour"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "past"
+      },
+      {
+       "text": "அன்ன",
+       "lemma": "anna",
        "gloss": "like"
       }
      ],
-     "gloss": "like",
-     "split_unverified": true
+     "gloss": "like pouring"
     },
     {
      "surface": "செல்வத்து",
@@ -675,12 +708,11 @@
      "parts": [
       {
        "text": "ஆங்கண்",
-       "lemma": "ஆங்கண்",
+       "lemma": "āṅkaṇ",
        "gloss": "there"
       }
      ],
-     "gloss": "there",
-     "split_unverified": true
+     "gloss": "in that place"
     }
    ]
   },
@@ -691,52 +723,59 @@
      "parts": [
       {
        "text": "ஈ",
-       "lemma": "ஈ",
+       "lemma": "ī",
        "gloss": "give"
       },
       {
        "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "negative participle"
+       "lemma": "ā",
+       "gloss": "not"
       }
      ],
-     "gloss": "not giving"
+     "gloss": "ungenerous"
     },
     {
      "surface": "மன்னர்",
      "parts": [
       {
        "text": "மன்னர்",
-       "lemma": "மன்னர்",
+       "lemma": "maṉṉar",
        "gloss": "kings"
       }
      ],
-     "gloss": "kings",
-     "split_unverified": true
+     "gloss": "kings"
     },
     {
-     "surface": "புறங்கடைத்",
+     "surface": "புறங்கடை",
      "parts": [
       {
-       "text": "புறங்கடைத்",
-       "lemma": "புறங்கடைத்",
-       "gloss": "outer gate"
+       "text": "புறம்",
+       "lemma": "puṟam",
+       "gloss": "outside"
+      },
+      {
+       "text": "கடை",
+       "lemma": "kaṭai",
+       "gloss": "gate"
       }
      ],
-     "gloss": "outer gate",
-     "split_unverified": true
+     "gloss": "outer gate"
     },
     {
-     "surface": "தோன்றிச்",
+     "surface": "தோன்றி",
      "parts": [
       {
-       "text": "தோன்றிச்",
-       "lemma": "தோன்றிச்",
-       "gloss": "appearing"
+       "text": "தோன்று",
+       "lemma": "tōṉṟu",
+       "gloss": "appear"
+      },
+      {
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "verbal participle"
       }
      ],
-     "gloss": "appearing",
-     "split_unverified": true
+     "gloss": "appearing"
     }
    ]
   },
@@ -796,28 +835,47 @@
   {
    "words": [
     {
-     "surface": "ஊன்சுகிர்",
+     "surface": "ஊன்",
      "parts": [
       {
-       "text": "ஊன்சுகிர்",
-       "lemma": "ஊன்சுகிர்",
-       "gloss": ""
+       "text": "ஊன்",
+       "lemma": "ūṉ",
+       "gloss": "meat"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "meat"
+    },
+    {
+     "surface": "சுகிர்",
+     "parts": [
+      {
+       "text": "சுகிர்",
+       "lemma": "cukir",
+       "gloss": "fibre"
+      }
+     ],
+     "gloss": "fibre"
     },
     {
      "surface": "வலந்த",
      "parts": [
       {
-       "text": "வலந்த",
-       "lemma": "வலந்த",
-       "gloss": ""
+       "text": "வல",
+       "lemma": "vala",
+       "gloss": "bind"
+      },
+      {
+       "text": "ந்த்",
+       "lemma": "nt",
+       "gloss": "past"
+      },
+      {
+       "text": "அ",
+       "lemma": "a",
+       "gloss": "adjectival"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "bound"
     },
     {
      "surface": "தெண்கண்",
@@ -825,93 +883,108 @@
       {
        "text": "தெண்கண்",
        "lemma": "தெண்கண்",
-       "gloss": ""
+       "gloss": "clear drumhead"
       }
      ],
-     "gloss": "",
+     "gloss": "clear drumhead",
      "split_unverified": true
     },
     {
      "surface": "ஒற்றி",
      "parts": [
       {
-       "text": "ஒற்றி",
-       "lemma": "ஒற்றி",
-       "gloss": ""
+       "text": "ஒற்று",
+       "lemma": "oṟṟu",
+       "gloss": "strike"
+      },
+      {
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "verbal participle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "striking"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "விரல்விசை",
+     "surface": "விரல்",
      "parts": [
       {
        "text": "விரல்",
-       "lemma": "விரல்",
+       "lemma": "viral",
        "gloss": "finger"
-      },
-      {
-       "text": "விசை",
-       "lemma": "விசை",
-       "gloss": "force"
       }
      ],
-     "gloss": "finger force"
+     "gloss": "finger"
+    },
+    {
+     "surface": "விசை",
+     "parts": [
+      {
+       "text": "விசை",
+       "lemma": "vicai",
+       "gloss": "speed"
+      }
+     ],
+     "gloss": "speed"
     },
     {
      "surface": "தவிர்க்கும்",
      "parts": [
       {
        "text": "தவிர்",
-       "lemma": "தவிர்",
+       "lemma": "tavir",
        "gloss": "stop"
       },
       {
        "text": "க்",
-       "lemma": "க்",
-       "gloss": "increment"
+       "lemma": "k",
+       "gloss": "future"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "adjectival participle"
+       "lemma": "um",
+       "gloss": "adjectival"
       }
      ],
-     "gloss": "controlling"
+     "gloss": "stopping"
     },
     {
-     "surface": "அரலையில்",
+     "surface": "அரலை",
      "parts": [
       {
        "text": "அரலை",
-       "lemma": "அரலை",
+       "lemma": "aralai",
        "gloss": "flaw"
-      },
+      }
+     ],
+     "gloss": "flaw"
+    },
+    {
+     "surface": "இல்",
+     "parts": [
       {
        "text": "இல்",
-       "lemma": "இல்",
+       "lemma": "il",
        "gloss": "without"
       }
      ],
-     "gloss": "without flaw"
+     "gloss": "without"
     },
     {
      "surface": "பாணியின்",
      "parts": [
       {
        "text": "பாணி",
-       "lemma": "பாணி",
+       "lemma": "pāṇi",
        "gloss": "rhythm"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "iṉ",
        "gloss": "with"
       }
      ],
@@ -925,14 +998,9 @@
      "surface": "இலம்பாடு",
      "parts": [
       {
-       "text": "இலம்",
-       "lemma": "இலம்",
+       "text": "இலம்பாடு",
+       "lemma": "ilampāṭu",
        "gloss": "poverty"
-      },
-      {
-       "text": "பாடு",
-       "lemma": "பாடு",
-       "gloss": "suffering"
       }
      ],
      "gloss": "poverty"
@@ -942,12 +1010,12 @@
      "parts": [
       {
        "text": "அகற்று",
-       "lemma": "அகற்று",
+       "lemma": "akaṟṟu",
        "gloss": "remove"
       },
       {
        "text": "அல்",
-       "lemma": "அல்",
+       "lemma": "al",
        "gloss": "verbal noun"
       }
      ],
@@ -957,29 +1025,24 @@
      "surface": "யாவது",
      "parts": [
       {
-       "text": "யா",
-       "lemma": "யா",
+       "text": "யாவது",
+       "lemma": "yāvatu",
        "gloss": "what"
-      },
-      {
-       "text": "அது",
-       "lemma": "அது",
-       "gloss": "it"
       }
      ],
-     "gloss": "what is it"
+     "gloss": "is one thing"
     },
     {
      "surface": "புலம்பொடு",
      "parts": [
       {
        "text": "புலம்பு",
-       "lemma": "புலம்பு",
+       "lemma": "pulampu",
        "gloss": "loneliness"
       },
       {
        "text": "ஒடு",
-       "lemma": "ஒடு",
+       "lemma": "oṭu",
        "gloss": "with"
       }
      ],
@@ -993,82 +1056,52 @@
      "surface": "தெருமரல்",
      "parts": [
       {
-       "text": "தெருமரு",
-       "lemma": "தெருமரு",
-       "gloss": "be distressed"
-      },
-      {
-       "text": "அல்",
-       "lemma": "அல்",
-       "gloss": "verbal noun"
+       "text": "தெருமரல்",
+       "lemma": "தெருமரல்",
+       "gloss": ""
       }
      ],
-     "gloss": "distress"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "உயக்கமும்",
      "parts": [
       {
-       "text": "உயக்கம்",
-       "lemma": "உயக்கம்",
-       "gloss": "suffering"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "and"
+       "text": "உயக்கமும்",
+       "lemma": "உயக்கமும்",
+       "gloss": ""
       }
      ],
-     "gloss": "and suffering"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "தீர்க்குவெம்",
      "parts": [
       {
-       "text": "தீர்",
-       "lemma": "தீர்",
-       "gloss": "resolve"
-      },
-      {
-       "text": "க்",
-       "lemma": "க்",
-       "gloss": "increment"
-      },
-      {
-       "text": "கு",
-       "lemma": "கு",
-       "gloss": "increment"
-      },
-      {
-       "text": "வெம்",
-       "lemma": "வெம்",
-       "gloss": "first person plural future suffix"
+       "text": "தீர்க்குவெம்",
+       "lemma": "தீர்க்குவெம்",
+       "gloss": ""
       }
      ],
-     "gloss": "we will cure"
+     "gloss": "",
+     "split_unverified": true
     },
     {
      "surface": "அதனால்",
      "parts": [
       {
-       "text": "அது",
-       "lemma": "அது",
-       "gloss": "that"
-      },
-      {
-       "text": "அன்",
-       "lemma": "அன்",
-       "gloss": "increment"
-      },
-      {
-       "text": "ஆல்",
-       "lemma": "ஆல்",
-       "gloss": "instrumental suffix"
+       "text": "அதனால்",
+       "lemma": "அதனால்",
+       "gloss": ""
       }
      ],
-     "gloss": "therefore"
+     "gloss": "",
+     "split_unverified": true
     }
-   ]
+   ],
+   "as_printed": true
   },
   {
    "words": [
@@ -1077,7 +1110,7 @@
      "parts": [
       {
        "text": "இரு",
-       "lemma": "இரு",
+       "lemma": "iru",
        "gloss": "vast"
       }
      ],
@@ -1088,7 +1121,7 @@
      "parts": [
       {
        "text": "நிலம்",
-       "lemma": "நிலம்",
+       "lemma": "nilam",
        "gloss": "earth"
       }
      ],
@@ -1099,34 +1132,38 @@
      "parts": [
       {
        "text": "கூலம்",
-       "lemma": "கூலம்",
-       "gloss": "grains"
+       "lemma": "kūlam",
+       "gloss": "grain"
       }
      ],
-     "gloss": "grains"
+     "gloss": "grain"
     },
     {
-     "surface": "பாறக்",
+     "surface": "பாற",
      "parts": [
       {
-       "text": "பாறக்",
-       "lemma": "பாறக்",
-       "gloss": "to ruin"
+       "text": "பாறு",
+       "lemma": "pāṟu",
+       "gloss": "ruin"
+      },
+      {
+       "text": "அ",
+       "lemma": "a",
+       "gloss": "infinitive"
       }
      ],
-     "gloss": "to ruin",
-     "split_unverified": true
+     "gloss": "to ruin"
     },
     {
      "surface": "கோடை",
      "parts": [
       {
        "text": "கோடை",
-       "lemma": "கோடை",
-       "gloss": "summer"
+       "lemma": "kōṭai",
+       "gloss": "summer wind"
       }
      ],
-     "gloss": "summer"
+     "gloss": "summer wind"
     }
    ]
   },
@@ -1137,7 +1174,7 @@
      "parts": [
       {
        "text": "வரு",
-       "lemma": "வரு",
+       "lemma": "varu",
        "gloss": "come"
       }
      ],
@@ -1148,7 +1185,7 @@
      "parts": [
       {
        "text": "மழை",
-       "lemma": "மழை",
+       "lemma": "maḻai",
        "gloss": "rain"
       }
      ],
@@ -1159,7 +1196,7 @@
      "parts": [
       {
        "text": "முழக்கு",
-       "lemma": "முழக்கு",
+       "lemma": "muḻakku",
        "gloss": "thunder"
       }
      ],
@@ -1170,13 +1207,13 @@
      "parts": [
       {
        "text": "இசை",
-       "lemma": "இசை",
+       "lemma": "icai",
        "gloss": "sound"
       },
       {
        "text": "கு",
-       "lemma": "கு",
-       "gloss": "dative suffix"
+       "lemma": "ku",
+       "gloss": "to"
       }
      ],
      "gloss": "to the sound"
@@ -1186,33 +1223,27 @@
      "parts": [
       {
        "text": "ஓடு",
-       "lemma": "ஓடு",
-       "gloss": "run"
+       "lemma": "ōṭu",
+       "gloss": "pass"
       },
       {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "past tense"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "relative participle"
+       "text": "இய",
+       "lemma": "iya",
+       "gloss": "past adjectival"
       }
      ],
-     "gloss": "having run"
+     "gloss": "passed"
     },
     {
-     "surface": "பின்றைச்",
+     "surface": "பின்றை",
      "parts": [
       {
-       "text": "பின்றைச்",
-       "lemma": "பின்றைச்",
+       "text": "பின்றை",
+       "lemma": "piṉṟai",
        "gloss": "afterwards"
       }
      ],
-     "gloss": "afterwards",
-     "split_unverified": true
+     "gloss": "afterwards"
     }
    ]
   },
@@ -1223,45 +1254,40 @@
      "parts": [
       {
        "text": "சேய்",
-       "lemma": "சேய்",
+       "lemma": "cēy",
        "gloss": "distance"
       },
       {
        "text": "ஐ",
-       "lemma": "ஐ",
-       "gloss": "second person singular suffix"
+       "lemma": "ai",
+       "gloss": "you are"
       }
      ],
-     "gloss": "you are far"
+     "gloss": "you are far away"
     },
     {
      "surface": "ஆயினும்",
      "parts": [
       {
-       "text": "ஆயின்",
-       "lemma": "ஆயின்",
-       "gloss": "if it is"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "ஆயினும்",
+       "lemma": "āyiṉum",
+       "gloss": "even if"
       }
      ],
-     "gloss": "even though"
+     "gloss": "even if"
     },
     {
      "surface": "இவணை",
      "parts": [
       {
        "text": "இவண்",
-       "lemma": "இவண்",
+       "lemma": "ivaṇ",
        "gloss": "here"
       },
       {
        "text": "ஐ",
-       "lemma": "ஐ",
-       "gloss": "second person singular suffix"
+       "lemma": "ai",
+       "gloss": "you are"
       }
      ],
      "gloss": "you are here"
@@ -1270,17 +1296,12 @@
      "surface": "ஆயினும்",
      "parts": [
       {
-       "text": "ஆயின்",
-       "lemma": "ஆயின்",
-       "gloss": "if it is"
-      },
-      {
-       "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "even"
+       "text": "ஆயினும்",
+       "lemma": "āyiṉum",
+       "gloss": "even if"
       }
      ],
-     "gloss": "even though"
+     "gloss": "even if"
     }
    ]
   },
@@ -1291,48 +1312,48 @@
      "parts": [
       {
        "text": "இதன்",
-       "lemma": "இது",
+       "lemma": "itaṉ",
        "gloss": "this"
       },
       {
        "text": "கொண்டு",
-       "lemma": "கொண்டு",
-       "gloss": "taking"
+       "lemma": "koṇṭu",
+       "gloss": "having"
       }
      ],
-     "gloss": "taking this"
+     "gloss": "having this in mind"
     },
     {
      "surface": "அறிநை",
      "parts": [
       {
        "text": "அறி",
-       "lemma": "அறி",
+       "lemma": "aṟi",
        "gloss": "know"
       },
       {
        "text": "நை",
-       "lemma": "நை",
-       "gloss": "subjunctive suffix"
+       "lemma": "nai",
+       "gloss": "you"
       }
      ],
-     "gloss": "may you know"
+     "gloss": "know this"
     },
     {
      "surface": "வாழியோ",
      "parts": [
       {
        "text": "வாழி",
-       "lemma": "வாழி",
-       "gloss": "live long"
+       "lemma": "vāḻi",
+       "gloss": "live"
       },
       {
        "text": "ஓ",
-       "lemma": "ஓ",
-       "gloss": "clitic"
+       "lemma": "ō",
+       "gloss": "particle"
       }
      ],
-     "gloss": "may you live long"
+     "gloss": "may you live"
     },
     {
      "surface": "கிணைவ",
@@ -1354,63 +1375,62 @@
      "surface": "சிறுநனி",
      "parts": [
       {
-       "text": "சிறு",
-       "lemma": "சிறு",
-       "gloss": "small"
-      },
-      {
-       "text": "நனி",
-       "lemma": "நனி",
-       "gloss": "much"
+       "text": "சிறுநனி",
+       "lemma": "ciṟunaṉi",
+       "gloss": "a little while"
       }
      ],
-     "gloss": "a little bit"
+     "gloss": "a little while"
     },
     {
-     "surface": "ஒருவழிப்",
+     "surface": "ஒருவழி",
      "parts": [
       {
-       "text": "ஒருவழிப்",
-       "lemma": "ஒருவழிப்",
-       "gloss": "in one direction"
+       "text": "ஒருவழி",
+       "lemma": "oruvaḻi",
+       "gloss": "aside"
       }
      ],
-     "gloss": "in one direction",
-     "split_unverified": true
+     "gloss": "aside"
     },
     {
      "surface": "படர்க",
      "parts": [
       {
        "text": "படர்",
-       "lemma": "படர்",
+       "lemma": "paṭar",
        "gloss": "go"
       },
       {
        "text": "க",
-       "lemma": "க",
-       "gloss": "optative suffix"
+       "lemma": "ka",
+       "gloss": "optative"
       }
      ],
-     "gloss": "may you go"
+     "gloss": "go"
     },
     {
      "surface": "என்றோனே",
      "parts": [
       {
        "text": "என்",
-       "lemma": "என்",
+       "lemma": "eṉ",
        "gloss": "say"
       },
       {
-       "text": "றோன்",
-       "lemma": "றோன்",
-       "gloss": "he who did"
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "past"
+      },
+      {
+       "text": "ஓன்",
+       "lemma": "ōṉ",
+       "gloss": "he"
       },
       {
        "text": "ஏ",
-       "lemma": "ஏ",
-       "gloss": "emphasis"
+       "lemma": "ē",
+       "gloss": "clitic"
       }
      ],
      "gloss": "he who said"
@@ -1420,12 +1440,11 @@
      "parts": [
       {
        "text": "எந்தை",
-       "lemma": "எந்தை",
+       "lemma": "entai",
        "gloss": "my father"
       }
      ],
-     "gloss": "my father",
-     "split_unverified": true
+     "gloss": "my father"
     }
    ]
   },
@@ -1436,18 +1455,18 @@
      "parts": [
       {
        "text": "ஒலி",
-       "lemma": "ஒலி",
+       "lemma": "oli",
        "gloss": "sound"
       }
      ],
-     "gloss": "sounding"
+     "gloss": "roaring"
     },
     {
      "surface": "வெள்",
      "parts": [
       {
        "text": "வெள்",
-       "lemma": "வெள்",
+       "lemma": "veḷ",
        "gloss": "white"
       }
      ],
@@ -1458,7 +1477,7 @@
      "parts": [
       {
        "text": "அருவி",
-       "lemma": "அருவி",
+       "lemma": "aruvi",
        "gloss": "waterfall"
       }
      ],
@@ -1469,24 +1488,24 @@
      "parts": [
       {
        "text": "வேங்கடம்",
-       "lemma": "வேங்கடம்",
+       "lemma": "vēṅkaṭam",
        "gloss": "Vēṅkaṭam hill"
       }
      ],
-     "gloss": "Vēṅkaṭam hill"
+     "gloss": "of Vēṅkaṭam"
     },
     {
      "surface": "நாடன்",
      "parts": [
       {
        "text": "நாடு",
-       "lemma": "நாடு",
+       "lemma": "nāṭu",
        "gloss": "land"
       },
       {
        "text": "அன்",
-       "lemma": "அன்",
-       "gloss": "he of"
+       "lemma": "aṉ",
+       "gloss": "he"
       }
      ],
      "gloss": "lord of the land"
@@ -1500,66 +1519,66 @@
      "parts": [
       {
        "text": "உறுவர்",
-       "lemma": "உறுவர்",
+       "lemma": "uṟuvar",
        "gloss": "great people"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "great people and"
+     "gloss": "and the great"
     },
     {
      "surface": "சிறுவரும்",
      "parts": [
       {
        "text": "சிறுவர்",
-       "lemma": "சிறுவர்",
-       "gloss": "common people"
+       "lemma": "ciṟuvar",
+       "gloss": "small people"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
+       "lemma": "um",
        "gloss": "and"
       }
      ],
-     "gloss": "common people and"
+     "gloss": "and the small"
     },
     {
      "surface": "ஊழ்மாறு",
      "parts": [
       {
        "text": "ஊழ்",
-       "lemma": "ஊழ்",
+       "lemma": "ūḻ",
        "gloss": "turn"
       },
       {
        "text": "மாறு",
-       "lemma": "மாறு",
+       "lemma": "māṟu",
        "gloss": "change"
       }
      ],
-     "gloss": "by turns"
+     "gloss": "in turns"
     },
     {
      "surface": "உய்க்கும்",
      "parts": [
       {
        "text": "உய்",
-       "lemma": "உய்",
-       "gloss": "guide"
+       "lemma": "uy",
+       "gloss": "ferry"
       },
       {
        "text": "க்",
-       "lemma": "க்",
-       "gloss": "increment"
+       "lemma": "k",
+       "gloss": "future"
       },
       {
        "text": "உம்",
-       "lemma": "உம்",
-       "gloss": "adjectival participle"
+       "lemma": "um",
+       "gloss": "adjectival"
       }
      ],
      "gloss": "ferrying"
@@ -1574,10 +1593,10 @@
       {
        "text": "அறத்துறை",
        "lemma": "அறத்துறை",
-       "gloss": "virtuous ferry ghat"
+       "gloss": "charitable ghat"
       }
      ],
-     "gloss": "virtuous ferry ghat",
+     "gloss": "charitable ghat",
      "split_unverified": true
     },
     {
@@ -1585,60 +1604,43 @@
      "parts": [
       {
        "text": "அம்பி",
-       "lemma": "அம்பி",
+       "lemma": "ampi",
        "gloss": "boat"
       },
       {
        "text": "இன்",
-       "lemma": "இன்",
+       "lemma": "iṉ",
        "gloss": "like"
       }
      ],
-     "gloss": "like a boat"
+     "gloss": "like the ferry-boat"
     },
     {
      "surface": "மான",
      "parts": [
       {
-       "text": "மான்",
-       "lemma": "மான்",
-       "gloss": "resemble"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "relative participle"
+       "text": "மான",
+       "lemma": "māṉa",
+       "gloss": "resembling"
       }
      ],
      "gloss": "resembling"
     },
     {
-     "surface": "மறப்பு",
+     "surface": "மறப்பின்று",
      "parts": [
       {
-       "text": "மற",
-       "lemma": "மற",
-       "gloss": "forget"
+       "text": "மறப்பு",
+       "lemma": "maṟappu",
+       "gloss": "forgetting"
       },
       {
-       "text": "பு",
-       "lemma": "பு",
-       "gloss": "noun suffix"
-      }
-     ],
-     "gloss": "forgetfulness"
-    },
-    {
-     "surface": "இன்று",
-     "parts": [
-      {
        "text": "இன்று",
-       "lemma": "இன்று",
+       "lemma": "iṉṟu",
        "gloss": "without"
       }
      ],
-     "gloss": "without",
-     "split_unverified": true
+     "gloss": "without forgetting"
     }
    ]
   },
@@ -1660,14 +1662,9 @@
      "surface": "ஈரா",
      "parts": [
       {
-       "text": "ஈர்",
-       "lemma": "ஈர்",
-       "gloss": "cut"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "negative suffix"
+       "text": "ஈரா",
+       "lemma": "īrā",
+       "gloss": "unshakable"
       }
      ],
      "gloss": "unshakable"
@@ -1676,14 +1673,9 @@
      "surface": "பூட்கை",
      "parts": [
       {
-       "text": "பூண்",
-       "lemma": "பூண்",
-       "gloss": "undertake"
-      },
-      {
-       "text": "கை",
-       "lemma": "கை",
-       "gloss": "noun suffix"
+       "text": "பூட்கை",
+       "lemma": "pūṭkai",
+       "gloss": "determination"
       }
      ],
      "gloss": "determination"
@@ -1696,58 +1688,68 @@
      "surface": "கரும்பன்",
      "parts": [
       {
-       "text": "கரும்பன்",
-       "lemma": "கரும்பன்",
-       "gloss": ""
+       "text": "கரும்பு",
+       "lemma": "karumpu",
+       "gloss": "sugarcane"
+      },
+      {
+       "text": "அன்",
+       "lemma": "aṉ",
+       "gloss": "suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of Karumpaṉūr"
     },
     {
      "surface": "ஊரன்",
      "parts": [
       {
-       "text": "ஊரன்",
-       "lemma": "ஊரன்",
-       "gloss": ""
+       "text": "ஊர்",
+       "lemma": "ūr",
+       "gloss": "town"
+      },
+      {
+       "text": "அன்",
+       "lemma": "aṉ",
+       "gloss": "suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "lord of the town"
     },
     {
      "surface": "காதல்",
      "parts": [
       {
        "text": "காதல்",
-       "lemma": "காதல்",
-       "gloss": ""
+       "lemma": "kātal",
+       "gloss": "beloved"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "beloved"
     },
     {
      "surface": "மகனே",
      "parts": [
       {
-       "text": "மகனே",
-       "lemma": "மகனே",
-       "gloss": ""
+       "text": "மகன்",
+       "lemma": "makaṉ",
+       "gloss": "son"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ē",
+       "gloss": "clitic"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "the son indeed"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "Meat and food if we dislike, sweet saying / with milk poured and with syrup made / measuring proportionately mixing softly drinking / feast causing greatly we stayed as / shall we go O great lord our festival possessing to the country saying / we him we who know as he greatly / because of loving our separation fearing / that which has clusters not bearing becoming fruit having matured / sharing yield not knowing dense thicket old wasteland / pouring rain like of the wealth there / not giving kings outer gate appearing / ragged with leather straps worn on the outer side drum / flesh shredded fiber bound clear drumhead striking / finger force controlling without flaw with rhythm / poverty removing what is it with loneliness / distress and suffering we will cure therefore / vast earth grains to ruin summer / coming rain thunder to the sound having run afterwards / you are far even though you are here even though / taking this may you know may you live long O drummer / a little bit in one direction may you go he who said my father / sounding white waterfall Vēṅkaṭam hill lord of the land / great people and common people and by turns ferrying / virtuous ferry ghat like a boat resembling forgetfulness without / great strength unshakable determination / Karumpaṉūr man of the town beloved O son!",
- "translation": "When we grew tired of eating meat and rice, we stayed there feasting, drinking sweet drinks mixed in proper proportions with milk and syrup. When we said, 'O Lord, let us return to our own land of festivals,' he, who knew us well, feared our separation out of his great love. Like a tree in a dense, ruined wasteland that bears no clusters of flowers but lets its fruits mature and fall without anyone to share them, we used to stand at the outer gates of ungenerous kings, striking our worn-out drum bound with ragged leather straps and shredded sinew, trying to banish our poverty with flawless rhythm. But now, we will cure our distress and lonely suffering. Therefore, whether you are far or near, O drummer, may you live long and know this: my father, the lord of the land of Vēṅkaṭam with its roaring white waterfalls, who is like a ferry boat at a virtuous ghat tirelessly carrying both the great and the small by turns without ever forgetting, the beloved son of the lord of Karumpaṉūr with unshakable determination, said to me, 'Go in peace for a little while.'",
- "modern": "ஊனும் உணவும் வெறுக்கும் அளவுக்கு, பாலில் பெய்ததும் பாகில் கலந்ததுமான உணவை அளவோடு கலந்து மெல்லப் பருகி, விருந்துண்டு நாங்கள் தங்கியிருந்தோம். 'எம்முடைய விழாக்கள் நிறைந்த நாட்டுக்குச் செல்வோம், பெருமானே!' என்று நாங்கள் கூறினோம். எங்களை நன்கு அறிந்த அவன், தன் பேரன்பினால் எமது பிரிவுக்கு அஞ்சி, எங்களைத் தடுத்து நிறுத்தினான். பூங்கொத்துகளைத் தாராமல், பழுத்த பழங்கள் உதிர்ந்து வீணாகும் பாழ்நிலத்து மரத்தைப் போல, கொடையற்ற மன்னர்களின் வாயிலில் நின்று, கிழிந்த வாரும் நரம்பும் கட்டிய எமது தடாரிப் பறையை அடித்து வறுமையைப் போக்க முயன்ற காலம் போய்விட்டது. இனி எமது துன்பமும் வறுமையும் நீங்கும். எனவே, பாணனே! நீ சேய்மையில் இருந்தாலும் அண்மையில் இருந்தாலும் இதனை அறிந்துகொள்வாயாக: ஒலிக்கின்ற வெண்மையான அருவிகளைக் கொண்ட வேங்கட மலைநாடன், பெரியோரையும் சிறியோரையும் அறத்துறையில் படகு போலக் கடத்திவிடும் மறதியற்ற கடமை கொண்டவன், கரும்பனூர்க் கிழானின் அன்பு மகனான அவன், 'சிறிது காலம் எம்மோடு தங்கிப் பின் செல்க' என்று அன்போடு கூறினான்.",
- "explanation": "The poet Purattiṇai Naṉṉakaṉār is praising the patron Karumpaṉūr Kiṉāṉ (addressed here as the beloved son of Karumpaṉūr). The poet describes the lavish hospitality he received, where he was fed sweet drinks of milk and syrup until he was full. When the poet expressed a desire to return to his own land, the patron, out of deep affection, delayed his departure. The poet contrasts this warm treatment with his past struggles, when he had to play his worn-out drum at the gates of ungenerous kings, comparing those kings to trees in a wasteland whose fruit goes to waste. Finally, the patron is compared to a ferry boat at a virtuous ghat, which selflessly and tirelessly carries both the great and the small across the water without any forgetfulness.",
+ "literal": "And meat and food if satiated sweet saying / in milk those poured and in syrup those mixed / measuring mixing gently drinking / hospitality offering abundantly as staying we being / shall we go O Lord our festival-possessing country saying / we his those who know as he greatly / love because of possessing our separation fearing / clustered one not bearing becoming fruit overripening / utility yielding not knowing confused thicket old waste / rain like pouring of the wealth in that place / ungenerous kings outer gate appearing / frayed of the leather strap of the frayed back taṭāri drum / meat fibre bound clear drumhead striking / finger speed stopping flaw without with rhythm / poverty removing is one thing with loneliness / distress and grief we shall cure therefore / vast earth grain to ruin summer wind / coming rain thunder to the sound passed afterwards / you are far away even if you are here even if / having this in mind know this may you live O drummer / a little while aside go he who said my father / roaring white waterfall of Vēṅkaṭam lord of the land / and the great and the small in turns ferrying / charitable ghat like the ferry-boat resembling without forgetting / great strength unshakable determination / of Karumpaṉūr lord of the town beloved the son indeed",
+ "translation": "When we grew tired of meat and food, saying \"this is sweet\", we drank gently those poured in milk and those mixed with syrup, measuring and mixing them, as we stayed being offered hospitality abundantly. When we said, \"Shall we go, O Lord, to our land of festivals?\", he, who knew us well, feared our departure out of great affection. He said: \"To appear at the outer gates of ungenerous kings, striking the clear head of a taṭāri drum bound with meat-fibres, with frayed leather straps and a worn-out back, playing a flawless rhythm that stops the speed of fingers, and removing poverty is one thing. But along with loneliness, we shall also cure your distress and grief. Therefore, when the vast earth's grains are ruined by the summer wind, and even after the coming rain's thunderous sound has passed, whether you are far away or here, know this and live, O drummer! Go on your way after staying here for a little while.\" So said my father, the lord of Vēṅkaṭam hill with roaring white waterfalls, where the great and the small are ferried across in turns like the ferry-boat at a charitable ghat, the beloved son of the lord of Karumpaṉūr, who possesses unshakable determination and great strength.",
+ "modern": "இறைச்சி உணவையும் சோற்றையும் உண்டு சலித்தபோது, இனிமை தரும் வகையில் பாலில் பெய்தவற்றையும் பாகில் கலந்தவற்றையும் அளவோடு கலந்து மெதுவாகப் பருகி, விருந்து உபசாரங்களை ஏற்றுக்கொண்டு நாங்கள் தங்கியிருந்தோம். 'பெருமானே! எங்களுடைய விழாக்கள் நிறைந்த நாட்டிற்குச் செல்வோம்' என்று நாங்கள் கூறியபோது, எங்களை நன்கு அறிந்தவனான அவன், தன் பேரன்பினால் எங்களது பிரிவுக்கு அஞ்சிப் பின்வருமாறு கூறினான்: 'பூங்கொத்துகளைப் பெறாததும், பழங்கள் பழுத்து உதிர்வதும், பயன் தராததுமான அடர்ந்த காடுகள் நிறைந்த பழைய பாழ்நிலத்தில் மழை பெய்தாற்போல, இரவலர்க்குக் கொடாத மன்னர்களின் வாயிலில் நின்று, கிழிந்த வாரினையும் சிதைந்த புறத்தினையும் உடைய தடாரிப் பறையின் தெளிந்த கண்ணைத் தட்டி, விரல்களின் வேகத்தைக் காட்டும் தாளத்தோடு பாடி வறுமையைப் போக்குவது ஒருபுறமிருக்கட்டும்; உமது தனிமையையும் மனக்கவலையையும் போக்குவோம். ஆதலால், இப்பேரண்டத்தில் தானியங்கள் காய்ந்துபோகும்படி கோடைக்காலம் வந்து, பின்னர் மழைமேகங்கள் முழங்கி மறைந்த பிறகும், நீர் சேய்மையில் இருந்தாலும் அண்மையில் இருந்தாலும், கிணைவனே! இதனை மனதிற்கொண்டு வாழ்வாயாக! சிறிது காலம் எம்முடன் தங்கிப் பின்னர்ச் செல்வாயாக!' என்று என் தந்தை கூறினான். அவன், ஒலிக்கின்ற வெள்ளிய அருவிகளைக் கொண்ட வேங்கட மலைநாட்டை உடையவன்; பெரியோர்களையும் சிறியோர்களையும் முறைமாற்றி ஏற்றிச் செல்லும் தர்மத் துறையின் தோணியைப் போல, மறதியின்றிப் பிறருக்கு உதவும் பெரிய கொள்கையுடையவன்; கரும்பனூரின் தலைவனுடைய அன்பு மகனாவான்.",
+ "explanation": "The poet Puṟattiṇai Naṉṉakaṉār praises Karumpaṉūr Kiḻāṉ, the lord of Karumpaṉūr, in this Pāṭāṇ poem. The bard describes how the patron treated him with immense hospitality, serving him sweet milk and syrup-mixed foods when he grew tired of meat. When the bard expressed his desire to return to his festival-rich homeland, the patron, fearing their separation, spoke comforting words. He compared his own wealth to rain falling on a barren land if it were not shared, and contrasted himself with ungenerous kings. He assured the drummer that he would remove not only his poverty but also his loneliness and distress, urging him to return whenever in need, just like a tireless ferry-boat that carries everyone across without fail.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

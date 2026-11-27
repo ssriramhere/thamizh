@@ -11,107 +11,84 @@
        "gloss": "sword"
       }
      ],
-     "gloss": "sword"
+     "gloss": "swords"
     },
     {
-     "surface": "வலம்",
+     "surface": "வலந்தர",
      "parts": [
       {
        "text": "வலம்",
        "lemma": "வலம்",
        "gloss": "victory"
-      }
-     ],
-     "gloss": "victory"
-    },
-    {
-     "surface": "தர",
-     "parts": [
+      },
       {
        "text": "தர",
        "lemma": "தர",
        "gloss": "to give"
       }
      ],
-     "gloss": "to give"
+     "gloss": "giving victory"
     },
     {
-     "surface": "மறு",
+     "surface": "மறுப்பட்டன",
      "parts": [
       {
        "text": "மறு",
        "lemma": "மறு",
        "gloss": "scar"
-      }
-     ],
-     "gloss": "scar"
-    },
-    {
-     "surface": "பட்டன",
-     "parts": [
+      },
       {
        "text": "பட்டன",
-       "lemma": "பட்டன",
+       "lemma": "படுதல்",
        "gloss": "happened"
       }
      ],
-     "gloss": "happened",
-     "split_unverified": true
+     "gloss": "became scarred"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "செவ்",
+     "surface": "செவ்வானத்து",
      "parts": [
       {
-       "text": "செவ்",
-       "lemma": "செவ்",
-       "gloss": ""
+       "text": "செவ்வானத்து",
+       "lemma": "செவ்வானத்து",
+       "gloss": "of the red sky"
       }
      ],
-     "gloss": "",
+     "gloss": "of the red sky",
      "split_unverified": true
     },
     {
-     "surface": "வானத்து",
+     "surface": "வனப்பு",
      "parts": [
       {
-       "text": "வானத்து",
-       "lemma": "வானத்து",
-       "gloss": ""
+       "text": "வனப்பு",
+       "lemma": "வனப்பு",
+       "gloss": "beauty"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "வனப்புப்",
-     "parts": [
-      {
-       "text": "வனப்புப்",
-       "lemma": "வனப்புப்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "beauty"
     },
     {
      "surface": "போன்றன",
      "parts": [
       {
-       "text": "போன்றன",
-       "lemma": "போன்றன",
-       "gloss": ""
+       "text": "போன்று",
+       "lemma": "போலுதல்",
+       "gloss": "resembled"
+      },
+      {
+       "text": "அன",
+       "lemma": "அன",
+       "gloss": "neuter plural suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "they resembled"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -124,34 +101,23 @@
        "gloss": "foot"
       }
      ],
-     "gloss": "foot"
+     "gloss": "feet"
     },
     {
-     "surface": "களம்",
+     "surface": "களங்கொள",
      "parts": [
       {
        "text": "களம்",
        "lemma": "களம்",
        "gloss": "battlefield"
-      }
-     ],
-     "gloss": "battlefield"
-    },
-    {
-     "surface": "கொள",
-     "parts": [
-      {
-       "text": "கொள்",
-       "lemma": "கொள்",
-       "gloss": "to take"
       },
       {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitive suffix"
+       "text": "கொள",
+       "lemma": "கொள்ளுதல்",
+       "gloss": "to occupy"
       }
      ],
-     "gloss": "to take"
+     "gloss": "occupying the battlefield"
     },
     {
      "surface": "கழல்",
@@ -159,10 +125,10 @@
       {
        "text": "கழல்",
        "lemma": "கழல்",
-       "gloss": "heroic anklet"
+       "gloss": "hero's anklet"
       }
      ],
-     "gloss": "heroic anklet"
+     "gloss": "hero's anklets"
     },
     {
      "surface": "பறைந்தன",
@@ -170,10 +136,10 @@
       {
        "text": "பறைந்தன",
        "lemma": "பறைந்தன",
-       "gloss": "were worn out"
+       "gloss": "became worn out"
       }
      ],
-     "gloss": "were worn out",
+     "gloss": "became worn out",
      "split_unverified": true
     }
    ]
@@ -185,11 +151,11 @@
      "parts": [
       {
        "text": "கொல்",
-       "lemma": "கொல்",
-       "gloss": "killing"
+       "lemma": "கொல்லுதல்",
+       "gloss": "to kill"
       }
      ],
-     "gloss": "killing"
+     "gloss": "murderous"
     },
     {
      "surface": "ஏற்றின்",
@@ -212,23 +178,23 @@
        "gloss": "horn"
       }
      ],
-     "gloss": "horn"
+     "gloss": "horns"
     },
     {
      "surface": "போன்றன",
      "parts": [
       {
        "text": "போன்று",
-       "lemma": "போன்று",
-       "gloss": "resembling"
+       "lemma": "போலுதல்",
+       "gloss": "resembled"
       },
       {
        "text": "அன",
        "lemma": "அன",
-       "gloss": "neuter plural suffix"
+       "gloss": "neuter plural"
       }
      ],
-     "gloss": "resembled"
+     "gloss": "they resembled"
     }
    ]
   },
@@ -243,23 +209,23 @@
        "gloss": "shield"
       }
      ],
-     "gloss": "shield"
+     "gloss": "shields"
     },
     {
      "surface": "துவைத்து",
      "parts": [
       {
        "text": "துவை",
-       "lemma": "துவை",
-       "gloss": "to pierce"
+       "lemma": "துவைத்தல்",
+       "gloss": "to pierce repeatedly"
       },
       {
        "text": "த்து",
        "lemma": "த்து",
-       "gloss": "verbal participle suffix"
+       "gloss": "adverbial participle suffix"
       }
      ],
-     "gloss": "having pierced"
+     "gloss": "having been pierced"
     },
     {
      "surface": "அம்பின்",
@@ -278,31 +244,20 @@
      "gloss": "by arrows"
     },
     {
-     "surface": "துனை",
+     "surface": "துனைதோன்றுவ",
      "parts": [
       {
        "text": "துனை",
        "lemma": "துனை",
-       "gloss": "swiftness"
-      }
-     ],
-     "gloss": "swiftness"
-    },
-    {
-     "surface": "தோன்றுவ",
-     "parts": [
-      {
-       "text": "தோன்று",
-       "lemma": "தோன்று",
-       "gloss": "to appear"
+       "gloss": "speed/crowd"
       },
       {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "neuter plural suffix"
+       "text": "தோன்றுவ",
+       "lemma": "தோன்றுதல்",
+       "gloss": "appearing"
       }
      ],
-     "gloss": "appearing"
+     "gloss": "appearing crowded"
     }
    ]
   },
@@ -314,12 +269,12 @@
       {
        "text": "நிலை",
        "lemma": "நிலை",
-       "gloss": "target post"
+       "gloss": "post/target"
       },
       {
        "text": "க்கு",
        "lemma": "க்கு",
-       "gloss": "dative suffix"
+       "gloss": "to"
       }
      ],
      "gloss": "to the target"
@@ -333,8 +288,7 @@
        "gloss": "unswerving"
       }
      ],
-     "gloss": "unswerving",
-     "split_unverified": true
+     "gloss": "unswerving"
     },
     {
      "surface": "இலக்கம்",
@@ -345,23 +299,23 @@
        "gloss": "target"
       }
      ],
-     "gloss": "target"
+     "gloss": "targets"
     },
     {
      "surface": "போன்றன",
      "parts": [
       {
        "text": "போன்று",
-       "lemma": "போன்று",
-       "gloss": "resembling"
+       "lemma": "போலுதல்",
+       "gloss": "resembled"
       },
       {
        "text": "அன",
        "lemma": "அன",
-       "gloss": "neuter plural suffix"
+       "gloss": "neuter plural"
       }
      ],
-     "gloss": "resembled"
+     "gloss": "they resembled"
     }
    ]
   },
@@ -378,10 +332,10 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "horses indeed"
+     "gloss": "the horses"
     },
     {
      "surface": "எறிபதத்தான்",
@@ -401,17 +355,17 @@
       {
        "text": "இடம்",
        "lemma": "இடம்",
-       "gloss": "place"
+       "gloss": "space/direction"
       }
      ],
-     "gloss": "place"
+     "gloss": "direction"
     },
     {
      "surface": "காட்ட",
      "parts": [
       {
        "text": "காட்டு",
-       "lemma": "காட்டு",
+       "lemma": "காட்டுதல்",
        "gloss": "to show"
       },
       {
@@ -432,50 +386,40 @@
       {
        "text": "கறுழ்",
        "lemma": "கறுழ்",
-       "gloss": ""
+       "gloss": "iron bit of bridle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "iron bit"
     },
     {
      "surface": "பொருத",
      "parts": [
       {
-       "text": "பொருத",
-       "lemma": "பொருத",
-       "gloss": ""
+       "text": "பொரு",
+       "lemma": "பொருதல்",
+       "gloss": "to rub/fight"
+      },
+      {
+       "text": "த",
+       "lemma": "த",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "rubbed against"
     },
     {
-     "surface": "செவ்",
+     "surface": "செவ்வாயான்",
      "parts": [
       {
-       "text": "செவ்",
-       "lemma": "செவ்",
-       "gloss": ""
+       "text": "செவ்வாயான்",
+       "lemma": "செவ்வாயான்",
+       "gloss": "having red mouths"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "வாயான்",
-     "parts": [
-      {
-       "text": "வாயான்",
-       "lemma": "வாயான்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
+     "gloss": "having red mouths",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -485,7 +429,7 @@
       {
        "text": "எருத்து",
        "lemma": "எருத்து",
-       "gloss": "neck"
+       "gloss": "neck/throat"
       }
      ],
      "gloss": "neck"
@@ -495,16 +439,16 @@
      "parts": [
       {
        "text": "வவ்வு",
-       "lemma": "வவ்வு",
+       "lemma": "வவ்வுதல்",
        "gloss": "to seize"
       },
       {
        "text": "இய",
        "lemma": "இய",
-       "gloss": "past participle"
+       "gloss": "past adjectival participle"
       }
      ],
-     "gloss": "seized"
+     "gloss": "that seized"
     },
     {
      "surface": "புலி",
@@ -515,23 +459,23 @@
        "gloss": "tiger"
       }
      ],
-     "gloss": "tiger"
+     "gloss": "tigers"
     },
     {
      "surface": "போன்றன",
      "parts": [
       {
        "text": "போன்று",
-       "lemma": "போன்று",
-       "gloss": "resembling"
+       "lemma": "போலுதல்",
+       "gloss": "resembled"
       },
       {
        "text": "அன",
        "lemma": "அன",
-       "gloss": "neuter plural suffix"
+       "gloss": "neuter plural"
       }
      ],
-     "gloss": "resembled"
+     "gloss": "they resembled"
     }
    ]
   },
@@ -548,10 +492,10 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "elephants indeed"
+     "gloss": "the war elephants"
     },
     {
      "surface": "கதவு",
@@ -559,39 +503,39 @@
       {
        "text": "கதவு",
        "lemma": "கதவு",
-       "gloss": "gate"
+       "gloss": "fortress gate"
       }
      ],
-     "gloss": "gate"
+     "gloss": "fortress gates"
     },
     {
      "surface": "எறியா",
      "parts": [
       {
        "text": "எறி",
-       "lemma": "எறி",
+       "lemma": "எறிதல்",
        "gloss": "to strike"
       },
       {
        "text": "ஆ",
        "lemma": "ஆ",
-       "gloss": "verbal participle"
+       "gloss": "adverbial participle suffix"
       }
      ],
-     "gloss": "striking"
+     "gloss": "having battered"
     },
     {
      "surface": "சிவந்து",
      "parts": [
       {
        "text": "சிவ",
-       "lemma": "சிவ",
-       "gloss": "to redden"
+       "lemma": "சிவத்தல்",
+       "gloss": "to become red/angry"
       },
       {
        "text": "ந்து",
        "lemma": "ந்து",
-       "gloss": "verbal participle"
+       "gloss": "adverbial participle suffix"
       }
      ],
      "gloss": "having become angry"
@@ -601,12 +545,11 @@
      "parts": [
       {
        "text": "உராஅய்",
-       "lemma": "உராஅய்",
-       "gloss": "colliding"
+       "lemma": "உராய்தல்",
+       "gloss": "charging/roaring"
       }
      ],
-     "gloss": "colliding",
-     "split_unverified": true
+     "gloss": "charging"
     }
    ]
   },
@@ -618,11 +561,10 @@
       {
        "text": "நுதி",
        "lemma": "நுதி",
-       "gloss": ""
+       "gloss": "tip/sharp point"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "tips"
     },
     {
      "surface": "மழுங்கிய",
@@ -630,38 +572,25 @@
       {
        "text": "மழுங்கிய",
        "lemma": "மழுங்கிய",
-       "gloss": ""
+       "gloss": "blunted"
       }
      ],
-     "gloss": "",
+     "gloss": "blunted",
      "split_unverified": true
     },
     {
-     "surface": "வெண்",
+     "surface": "வெண்கோட்டான்",
      "parts": [
       {
-       "text": "வெண்",
-       "lemma": "வெண்",
-       "gloss": ""
+       "text": "வெண்கோட்டான்",
+       "lemma": "வெண்கோட்டான்",
+       "gloss": "having white tusks"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "கோட்டான்",
-     "parts": [
-      {
-       "text": "கோட்டான்",
-       "lemma": "கோட்டான்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
+     "gloss": "having white tusks",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -681,13 +610,13 @@
      "parts": [
       {
        "text": "உண்",
-       "lemma": "உண்",
-       "gloss": "to consume"
+       "lemma": "உண்ணுதல்",
+       "gloss": "to eat"
       },
       {
        "text": "உம்",
        "lemma": "உம்",
-       "gloss": "relative participle"
+       "gloss": "relative participle suffix"
       }
      ],
      "gloss": "consuming"
@@ -698,26 +627,26 @@
       {
        "text": "கூற்று",
        "lemma": "கூற்று",
-       "gloss": "Yama/death"
+       "gloss": "God of Death"
       }
      ],
-     "gloss": "Yama"
+     "gloss": "God of Death"
     },
     {
      "surface": "போன்றன",
      "parts": [
       {
        "text": "போன்று",
-       "lemma": "போன்று",
-       "gloss": "resembling"
+       "lemma": "போலுதல்",
+       "gloss": "resembled"
       },
       {
        "text": "அன",
        "lemma": "அன",
-       "gloss": "neuter plural suffix"
+       "gloss": "neuter plural"
       }
      ],
-     "gloss": "resembled"
+     "gloss": "they resembled"
     }
    ]
   },
@@ -734,21 +663,21 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "you indeed"
+     "gloss": "you yourself"
     },
     {
      "surface": "அலங்கு",
      "parts": [
       {
        "text": "அலங்கு",
-       "lemma": "அலங்கு",
-       "gloss": "to wave"
+       "lemma": "அலங்குதல்",
+       "gloss": "to sway/shake"
       }
      ],
-     "gloss": "waving"
+     "gloss": "swaying"
     },
     {
      "surface": "உளை",
@@ -759,19 +688,18 @@
        "gloss": "mane"
       }
      ],
-     "gloss": "mane"
+     "gloss": "manes"
     },
     {
      "surface": "பரீஇ",
      "parts": [
       {
        "text": "பரீஇ",
-       "lemma": "பரீஇ",
-       "gloss": "swift"
+       "lemma": "பரிதல்",
+       "gloss": "running fast"
       }
      ],
-     "gloss": "swift",
-     "split_unverified": true
+     "gloss": "swiftly running"
     },
     {
      "surface": "இவுளி",
@@ -782,33 +710,27 @@
        "gloss": "horse"
       }
      ],
-     "gloss": "horse"
+     "gloss": "horses"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "பொலம்",
+     "surface": "பொலந்தேர்",
      "parts": [
       {
        "text": "பொலம்",
        "lemma": "பொலம்",
        "gloss": "gold"
-      }
-     ],
-     "gloss": "gold"
-    },
-    {
-     "surface": "தேர்",
-     "parts": [
+      },
       {
        "text": "தேர்",
        "lemma": "தேர்",
        "gloss": "chariot"
       }
      ],
-     "gloss": "chariot"
+     "gloss": "golden chariot"
     },
     {
      "surface": "மிசை",
@@ -827,7 +749,7 @@
       {
        "text": "பொலிவு",
        "lemma": "பொலிவு",
-       "gloss": "splendor"
+       "gloss": "splendor/brightness"
       }
      ],
      "gloss": "splendor"
@@ -837,13 +759,13 @@
      "parts": [
       {
        "text": "தோன்று",
-       "lemma": "தோன்று",
+       "lemma": "தோன்றுதல்",
        "gloss": "to appear"
       },
       {
        "text": "இ",
        "lemma": "இ",
-       "gloss": "verbal participle"
+       "gloss": "adverbial participle suffix"
       }
      ],
      "gloss": "appearing"
@@ -858,7 +780,7 @@
       {
        "text": "மா",
        "lemma": "மா",
-       "gloss": "great"
+       "gloss": "great/dark"
       }
      ],
      "gloss": "great"
@@ -879,29 +801,29 @@
      "parts": [
       {
        "text": "நிவ",
-       "lemma": "நிவ",
-       "gloss": "to rise"
+       "lemma": "நிவத்தல்",
+       "gloss": "to rise high"
       },
       {
        "text": "ந்து",
        "lemma": "ந்து",
-       "gloss": "verbal participle"
+       "gloss": "adverbial participle suffix"
       }
      ],
-     "gloss": "rising"
+     "gloss": "rising high"
     },
     {
      "surface": "எழுதரும்",
      "parts": [
       {
        "text": "எழு",
-       "lemma": "எழு",
+       "lemma": "எழுதல்",
        "gloss": "to rise"
       },
       {
        "text": "தரும்",
        "lemma": "தரும்",
-       "gloss": "auxiliary"
+       "gloss": "giving"
       }
      ],
      "gloss": "rising up"
@@ -911,40 +833,32 @@
   {
    "words": [
     {
-     "surface": "செஞ்",
+     "surface": "செஞ்ஞாயிற்று",
      "parts": [
       {
-       "text": "செஞ்",
-       "lemma": "செஞ்",
-       "gloss": ""
+       "text": "செஞ்ஞாயிற்று",
+       "lemma": "செஞ்ஞாயிற்று",
+       "gloss": "of the red sun"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "ஞாயிற்றுக்",
-     "parts": [
-      {
-       "text": "ஞாயிற்றுக்",
-       "lemma": "ஞாயிற்றுக்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
+     "gloss": "of the red sun",
      "split_unverified": true
     },
     {
      "surface": "கவினை",
      "parts": [
       {
-       "text": "கவினை",
-       "lemma": "கவினை",
-       "gloss": ""
+       "text": "கவின்",
+       "lemma": "கவின்",
+       "gloss": "beauty"
+      },
+      {
+       "text": "ஐ",
+       "lemma": "ஐ",
+       "gloss": "second person singular suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "have the beauty"
     },
     {
      "surface": "மாதோ",
@@ -952,14 +866,12 @@
       {
        "text": "மாதோ",
        "lemma": "மாதோ",
-       "gloss": ""
+       "gloss": "exclamatory particle"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "indeed"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -967,40 +879,31 @@
      "surface": "அனையை",
      "parts": [
       {
-       "text": "அனையை",
-       "lemma": "அனையை",
-       "gloss": ""
+       "text": "அனை",
+       "lemma": "அனையன்",
+       "gloss": "such a person"
+      },
+      {
+       "text": "ஐ",
+       "lemma": "ஐ",
+       "gloss": "second person singular"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "you are such a person"
     },
     {
-     "surface": "ஆகன்",
+     "surface": "ஆகன்மாறே",
      "parts": [
       {
-       "text": "ஆகன்",
-       "lemma": "ஆகன்",
-       "gloss": ""
+       "text": "ஆகன்மாறே",
+       "lemma": "ஆகன்மாறே",
+       "gloss": "because you are so"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "மாறே",
-     "parts": [
-      {
-       "text": "மாறே",
-       "lemma": "மாறே",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
+     "gloss": "because you are so",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1030,17 +933,12 @@
      "surface": "தூவா",
      "parts": [
       {
-       "text": "தூவு",
-       "lemma": "தூவு",
-       "gloss": "to suck"
-      },
-      {
-       "text": "ஆ",
-       "lemma": "ஆ",
-       "gloss": "negative participle"
+       "text": "தூவா",
+       "lemma": "தூவா",
+       "gloss": "not eating / helpless"
       }
      ],
-     "gloss": "not sucking"
+     "gloss": "helpless"
     },
     {
      "surface": "குழவி",
@@ -1057,14 +955,9 @@
      "surface": "போல",
      "parts": [
       {
-       "text": "போல்",
-       "lemma": "போல்",
-       "gloss": "to resemble"
-      },
-      {
-       "text": "அ",
-       "lemma": "அ",
-       "gloss": "infinitive"
+       "text": "போல",
+       "lemma": "போல",
+       "gloss": "like"
       }
      ],
      "gloss": "like"
@@ -1078,13 +971,13 @@
      "parts": [
       {
        "text": "ஓவு",
-       "lemma": "ஓவு",
+       "lemma": "ஓவுதல்",
        "gloss": "to cease"
       },
       {
        "text": "ஆது",
        "lemma": "ஆது",
-       "gloss": "negative participle"
+       "gloss": "negative adverbial participle"
       }
      ],
      "gloss": "without ceasing"
@@ -1094,45 +987,38 @@
      "parts": [
       {
        "text": "கூஉம்",
-       "lemma": "கூஉம்",
-       "gloss": "crying out"
+       "lemma": "கூவுதல்",
+       "gloss": "crying out / weeping"
       }
      ],
-     "gloss": "crying out",
-     "split_unverified": true
+     "gloss": "weeps"
     },
     {
      "surface": "நின்",
      "parts": [
       {
        "text": "நின்",
-       "lemma": "நின்",
+       "lemma": "நீ",
        "gloss": "your"
       }
      ],
-     "gloss": "your",
-     "split_unverified": true
+     "gloss": "your"
     },
     {
      "surface": "உடற்றியோர்",
      "parts": [
       {
        "text": "உடற்று",
-       "lemma": "உடற்று",
-       "gloss": "to anger"
+       "lemma": "உடற்றுதல்",
+       "gloss": "to anger/oppose"
       },
       {
-       "text": "இ",
-       "lemma": "இ",
-       "gloss": "past"
-      },
-      {
-       "text": "ஓர்",
-       "lemma": "ஓர்",
+       "text": "இயோர்",
+       "lemma": "இயோர்",
        "gloss": "those who"
       }
      ],
-     "gloss": "those who angered you"
+     "gloss": "those who opposed you"
     },
     {
      "surface": "நாடே",
@@ -1145,7 +1031,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "indeed"
+       "gloss": "emphasis"
       }
      ],
      "gloss": "country indeed"
@@ -1153,10 +1039,10 @@
    ]
   }
  ],
- "literal": "Swords, bringing victory, became scarred / resembling the beauty of the red sky / heroic anklets, on feet taking the battlefield, were worn out / resembling the horns of a killing bull / shields, pierced by swift-appearing arrows / resembling unswerving targets at their posts / horses indeed, showing their footing as the opportunity to strike is shown / with red mouths that chafed on iron bits / resembled tigers that seized the necks of prey / male elephants indeed, striking gates, becoming angry and colliding / with white tusks whose tips were blunted / resembled Yama who consumes life / you indeed, appearing in splendor upon a golden chariot / with horses having waving manes and swift strides / like the red sun that rises up, ascending from the great ocean / you have such beauty indeed / because you are such a person / like an infant that does not suck, having no mother / the country of those who angered you cries out without ceasing.",
- "translation": "Your swords, bringing victory, are scarred, resembling the beauty of the red twilight sky. The heroic anklets on your feet, which conquered the battlefields, are worn out, resembling the horns of a fighting bull. Your shields, pierced by swift-flying arrows, look like unswerving targets at their posts. Your horses, guided by riders who spot the right moment to strike, have red mouths chafed by iron bits, resembling tigers that have seized the necks of their prey. Your war elephants, angrily battering the fortress gates, have white tusks with blunted tips, resembling Yama who consumes lives. You yourself, appearing in splendor upon your golden chariot drawn by swift horses with waving manes, possess the beauty of the red sun rising from the great ocean. Because you are such a glorious king, the country of those who angered you cries out in endless grief, like a motherless infant that cannot feed.",
- "modern": "வெற்றி தரும் உனது வாள்கள் வடுக்கள் பட்டு, செவ்வானத்தின் அழகைப் போலத் தோன்றுகின்றன. போர்க்களங்களைக் கைப்பற்றிய உனது கால்களில் உள்ள வீரக்கழல்கள் தேய்ந்து, சண்டையிடும் எருதின் கொம்புகளைப் போலக் காட்சி அளிக்கின்றன. அம்புகள் தைத்துத் துளைக்கப்பட்ட உனது கேடயங்கள், இலக்கு மாறாத இலக்கப் பலகைகளைப் போலக் காணப்படுகின்றன. தாக்குவதற்குரிய இடத்தைக் காட்டும் குதிரைகள், கடிவாள இரும்பு உராய்ந்த சிவந்த வாயோடு, இரையின் கழுத்தைக் கவ்விய புலிகளைப் போலத் தோன்றுகின்றன. கோட்டை வாயில்களைத் தாக்கி, சினந்து முட்டி, தந்தங்களின் முனைகள் மழுங்கிய உனது யானைகள், உயிரைக் குடிக்கும் கூற்றுவனைப் போல விளங்குகின்றன. அசைந்து ஆடும் பிடரி மயிரைக் கொண்ட வேகமான குதிரைகள் பூட்டிய பொன்னாலான தேரின் மீது நீ பொலிவோடு தோன்றுவது, பெருங்கடலிலிருந்து மேலே எழும் செஞ்ஞாயிற்றின் அழகைப் பெற்றுள்ளது. நீ அத்தகைய ஆற்றல் மிக்கவனாக இருப்பதால், உன்னை எதிர்த்துப் பகைத்துக் கொண்டவர்களின் நாடானது, தாயில்லாததால் பால் குடிக்கப் பெறாத குழந்தை ஓயாமல் அழுவதைப் போல, எப்போதும் அழுது அரற்றுகின்றது.",
- "explanation": "This poem is addressed to the Chola king Uruvappahreṟ Iḷañcēṭceṉṉi by the poet Paraṇar, belonging to the Puram theme of Vañci (conquest/warfare) and the sub-theme of Koṟṟa Vaḷḷai (singing the king's victory while lamenting the enemy's ruin). The poet describes the battle-worn state of the king's weapons, horses, and elephants, comparing them to powerful natural and predatory forces. The scarred swords look like the red sky, the worn anklets like a bull's horns, the pierced shields like targets, the horses like tigers, and the elephants like Yama. The king himself is compared to the glorious rising sun, representing his majestic and unstoppable rise. In contrast, the lands of his enemies are left in utter desolation, crying out continuously like a helpless, motherless infant.",
+ "literal": "Swords, giving victory, became scarred / resembling the beauty of the red sky. / Feet occupying the battlefield, hero's anklets became worn out / resembling the horns of a murderous bull. / Shields, having been pierced by arrows, appearing crowded / resembling targets that do not move away from their post. / The horses, as the opportunity to strike showed the direction, / with their red mouths rubbed against the iron bits, / resembled tigers that seized the necks of prey. / The war elephants, having battered fortress gates, becoming angry and charging, / with their white tusks having blunted tips, / resembled the God of Death who consumes lives. / You yourself, upon horses with swaying manes running swiftly, / appearing with splendor upon your golden chariot, / rising high from the great dark ocean / have the beauty of the red sun indeed! / Because you are such a person, / like a helpless infant without its mother, / the country of those who opposed you weeps without ceasing.",
+ "translation": "Your swords, which bring victory, are covered in scars, resembling the beauty of the red evening sky. Your hero's anklets, worn on feet that occupy the battlefield, are frayed and worn, resembling the horns of a murderous bull. Your shields, pierced repeatedly by swift arrows, look like targets fixed unswervingly to their posts. Your horses, guided by the riders to strike at the right moment, have red mouths rubbed raw by their iron bits, resembling tigers that have seized the necks of their prey. Your war elephants, having battered down fortress gates in furious anger, have white tusks with blunted tips, resembling the life-consuming God of Death. You yourself, riding upon a golden chariot drawn by swift horses with swaying manes, appear with such splendor that you resemble the red sun rising high out of the dark ocean. Because you are such a mighty warrior, the land of those who dared to oppose you now weeps without ceasing, like a helpless infant that has lost its mother.",
+ "modern": "வெற்றி தரும் உன்னுடைய வாள்கள் வடுக்கள் பட்டு, செவ்வானத்தின் அழகைப் போலக் காட்சி அளிக்கின்றன. போர்க்களத்தில் நின்ற உனது வீரக் கழல்கள் தேய்ந்து, கொலை செய்யும் எருதின் கொம்புகளைப் போலக் காணப்படுகின்றன. அம்புகளால் துளைக்கப்பட்ட உனது கேடயங்கள், அசையாமல் நிற்கும் இலக்குகளைப் போலத் தோன்றுகின்றன. போரிடும் இடத்தை நோக்கிச் செலுத்தப்பட்ட உனது குதிரைகள், கடிவாளம் உராய்ந்த சிவந்த வாய்களுடன், இரையின் கழுத்தைக் கவ்விய புலிகளைப் போல விளங்குகின்றன. கோட்டைக் கதவுகளை முட்டி மோதிச் சினந்து சீறும் உனது யானைகள், நுனி மழுங்கிய வெண்மையான தந்தங்களுடன், உயிரைக் குடிக்கும் கூற்றுவனைப் போலத் திகழ்கின்றன. நீயோ, அசையும் பிடரி மயிரைக் கொண்ட வேகமான குதிரைகள் பூட்டிய பொன்னாலான தேரின் மீது பொலிவுடன் தோன்றி, கரிய கடலிலிருந்து மேலே எழும் செஞ்ஞாயிற்றின் அழகைப் பெற்று விளங்குகிறாய். நீ இத்தகைய ஆற்றல் வாய்ந்தவனாக இருப்பதால், உன்னை எதிர்த்த பகைவர்களின் நாடானது, தாயை இழந்த பசியால் வாடும் குழந்தையைப் போல இடைவிடாது அழுது புலம்புகின்றது.",
+ "explanation": "This poem belongs to the Puram category, specifically under the Vañci tiṇai (which deals with invasion and warfare) and the Koṟṟa Vaḷḷai tuṟai (praising the king's victory while lamenting the destruction of the enemy's land). The poet Paraṇar addresses the Chola king Uruvappahṟēr Iḷañcēṭceṉṉi, describing the fierce nature of his army and his own majestic appearance. The poet uses vivid, powerful imagery: the scarred swords look like the red sky, the worn anklets look like a bull's horns, the pierced shields look like archery targets, the horses with bloody mouths look like tigers, and the elephants with blunted tusks look like Yama. In contrast to this terrifying army, the king himself is compared to the beautiful, rising red sun, bringing light and splendor. However, this splendor is devastating to his enemies; the poem concludes with a poignant simile, comparing the defeated enemy nation to a motherless, weeping infant. Key words like 'மறுப்பட்டன' (scarred), 'கூற்று' (Yama/Death), 'செஞ்ஞாயிறு' (red sun), and 'தாயில் குழவி' (motherless infant) highlight the contrast between the king's glorious victory and the enemy's tragic ruin.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

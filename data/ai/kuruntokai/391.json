@@ -7,35 +7,35 @@
      "parts": [
       {
        "text": "உவரி",
-       "lemma": "uvari",
-       "gloss": "salt-marsh"
+       "lemma": "உவரி",
+       "gloss": "saline soil"
       }
      ],
-     "gloss": "salt-marsh"
+     "gloss": "saline soil"
     },
     {
      "surface": "ஒருத்தல்",
      "parts": [
       {
        "text": "ஒருத்தல்",
-       "lemma": "oruttal",
+       "lemma": "ஒருத்தல்",
        "gloss": "male animal"
       }
      ],
-     "gloss": "male animal"
+     "gloss": "male animal / bull"
     },
     {
      "surface": "உழாது",
      "parts": [
       {
        "text": "உழு",
-       "lemma": "uḻu",
+       "lemma": "உழு",
        "gloss": "plow"
       },
       {
        "text": "ஆது",
-       "lemma": "ātu",
-       "gloss": "without"
+       "lemma": "ஆது",
+       "gloss": "without (negative participle)"
       }
      ],
      "gloss": "without plowing"
@@ -45,16 +45,16 @@
      "parts": [
       {
        "text": "மடி",
-       "lemma": "maṭi",
-       "gloss": "rest"
+       "lemma": "மடி",
+       "gloss": "perish / rest"
       },
       {
        "text": "அ",
-       "lemma": "a",
+       "lemma": "அ",
        "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to rest"
+     "gloss": "to rest / to lie down"
     }
    ]
   },
@@ -118,18 +118,18 @@
      "parts": [
       {
        "text": "கடிது",
-       "lemma": "kaṭitu",
-       "gloss": "loudly"
+       "lemma": "கடிது",
+       "gloss": "swiftly / loudly"
       }
      ],
-     "gloss": "loudly"
+     "gloss": "swiftly"
     },
     {
      "surface": "இடி",
      "parts": [
       {
        "text": "இடி",
-       "lemma": "iṭi",
+       "lemma": "இடி",
        "gloss": "thunder"
       }
      ],
@@ -139,13 +139,13 @@
      "surface": "உருமின்",
      "parts": [
       {
-       "text": "உருமு",
-       "lemma": "urumu",
+       "text": "உரும்",
+       "lemma": "உரும்",
        "gloss": "thunderbolt"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "genitive suffix"
       }
      ],
@@ -156,7 +156,7 @@
      "parts": [
       {
        "text": "பாம்பு",
-       "lemma": "pāmpu",
+       "lemma": "பாம்பு",
        "gloss": "snake"
       }
      ],
@@ -167,7 +167,7 @@
      "parts": [
       {
        "text": "பை",
-       "lemma": "pai",
+       "lemma": "பை",
        "gloss": "hood"
       }
      ],
@@ -178,16 +178,16 @@
      "parts": [
       {
        "text": "அவி",
-       "lemma": "avi",
-       "gloss": "subside"
+       "lemma": "அவி",
+       "gloss": "subdue / perish"
       },
       {
        "text": "அ",
-       "lemma": "a",
+       "lemma": "அ",
        "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to subside"
+     "gloss": "to be subdued"
     }
    ]
   },
@@ -198,13 +198,13 @@
      "parts": [
       {
        "text": "இடி",
-       "lemma": "iṭi",
+       "lemma": "இடி",
        "gloss": "thunder"
       },
       {
        "text": "ஒடு",
-       "lemma": "oṭu",
-       "gloss": "with"
+       "lemma": "ஒடு",
+       "gloss": "sociative suffix"
       }
      ],
      "gloss": "with thunder"
@@ -214,50 +214,39 @@
      "parts": [
       {
        "text": "மயங்கு",
-       "lemma": "mayaṅku",
+       "lemma": "மயங்கு",
        "gloss": "mingle"
       },
       {
        "text": "இ",
-       "lemma": "i",
-       "gloss": "verbal participle suffix"
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "having mingled"
+     "gloss": "mingling"
     },
     {
      "surface": "இனிது",
      "parts": [
       {
        "text": "இனிது",
-       "lemma": "initu",
-       "gloss": "sweetly"
+       "lemma": "இனிது",
+       "gloss": "sweetly / pleasantly"
       }
      ],
-     "gloss": "sweetly"
+     "gloss": "pleasantly"
     },
     {
-     "surface": "வீழ்ந்தன்று",
+     "surface": "வீழ்ந்தன்றே",
      "parts": [
       {
-       "text": "வீழ்ந்தன்று",
-       "lemma": "வீழ்ந்தன்று",
-       "gloss": "it fell"
+       "text": "வீழ்ந்தன்றே",
+       "lemma": "வீழ்ந்தன்றே",
+       "gloss": "it fell indeed"
       }
      ],
-     "gloss": "it fell",
+     "gloss": "it fell indeed",
      "split_unverified": true
-    },
-    {
-     "surface": "ஏ",
-     "parts": [
-      {
-       "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
-      }
-     ],
-     "gloss": "indeed"
     }
    ]
   },
@@ -280,8 +269,8 @@
      "parts": [
       {
        "text": "மா",
-       "lemma": "mā",
-       "gloss": "great"
+       "lemma": "மா",
+       "gloss": "great / dark"
       }
      ],
      "gloss": "great"
@@ -291,7 +280,7 @@
      "parts": [
       {
        "text": "மழை",
-       "lemma": "maḻai",
+       "lemma": "மழை",
        "gloss": "rain"
       }
      ],
@@ -302,11 +291,12 @@
      "parts": [
       {
        "text": "தழீஇ",
-       "lemma": "taḻuvu",
+       "lemma": "தழீஇ",
        "gloss": "embracing"
       }
      ],
-     "gloss": "embracing"
+     "gloss": "embracing",
+     "split_unverified": true
     },
     {
      "surface": "பிரிந்தோர்",
@@ -329,8 +319,8 @@
      "parts": [
       {
        "text": "கை",
-       "lemma": "kai",
-       "gloss": "means"
+       "lemma": "கை",
+       "gloss": "means / support"
       }
      ],
      "gloss": "means"
@@ -340,12 +330,12 @@
      "parts": [
       {
        "text": "அறு",
-       "lemma": "aṟu",
-       "gloss": "cease"
+       "lemma": "அறு",
+       "gloss": "cease / be lost"
       },
       {
        "text": "அ",
-       "lemma": "a",
+       "lemma": "அ",
        "gloss": "infinitive suffix"
       }
      ],
@@ -368,18 +358,18 @@
      "parts": [
       {
        "text": "பையுள்",
-       "lemma": "paiyuḷ",
-       "gloss": "sorrow"
+       "lemma": "பையுள்",
+       "gloss": "distress / affliction"
       }
      ],
-     "gloss": "sorrow"
+     "gloss": "distress"
     },
     {
      "surface": "மாலை",
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "mālai",
+       "lemma": "மாலை",
        "gloss": "evening"
       }
      ],
@@ -395,35 +385,39 @@
       {
        "text": "பூஞ்சினை",
        "lemma": "பூஞ்சினை",
-       "gloss": ""
+       "gloss": "flowering branch"
       }
      ],
-     "gloss": "",
+     "gloss": "flowering branch",
      "split_unverified": true
     },
     {
-     "surface": "யிருந்த",
+     "surface": "இருந்த",
      "parts": [
       {
-       "text": "யிருந்த",
-       "lemma": "யிருந்த",
-       "gloss": ""
+       "text": "இருந்த",
+       "lemma": "இருந்த",
+       "gloss": "that sat"
       }
      ],
-     "gloss": "",
+     "gloss": "that sat",
      "split_unverified": true
     },
     {
      "surface": "போழ்கண்",
      "parts": [
       {
-       "text": "போழ்கண்",
-       "lemma": "போழ்கண்",
-       "gloss": ""
+       "text": "போழ்",
+       "lemma": "போழ்",
+       "gloss": "split / hollow"
+      },
+      {
+       "text": "கண்",
+       "lemma": "கண்",
+       "gloss": "eye"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "hollow-eyed"
     },
     {
      "surface": "மஞ்ஞை",
@@ -431,14 +425,12 @@
       {
        "text": "மஞ்ஞை",
        "lemma": "மஞ்ஞை",
-       "gloss": ""
+       "gloss": "peacock"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "peacock"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -447,18 +439,19 @@
      "parts": [
       {
        "text": "தாஅம்",
-       "lemma": "tāvu",
+       "lemma": "தாஅம்",
        "gloss": "spreading"
       }
      ],
-     "gloss": "spreading"
+     "gloss": "spreading",
+     "split_unverified": true
     },
     {
      "surface": "நீர்",
      "parts": [
       {
        "text": "நீர்",
-       "lemma": "nīr",
+       "lemma": "நீர்",
        "gloss": "water"
       }
      ],
@@ -469,7 +462,7 @@
      "parts": [
       {
        "text": "நனந்தலை",
-       "lemma": "naṉantalai",
+       "lemma": "நனந்தலை",
        "gloss": "wide space"
       }
      ],
@@ -480,12 +473,12 @@
      "parts": [
       {
        "text": "புலம்பு",
-       "lemma": "pulampu",
-       "gloss": "lament"
+       "lemma": "புலம்பு",
+       "gloss": "feel lonely"
       },
       {
        "text": "அ",
-       "lemma": "a",
+       "lemma": "அ",
        "gloss": "infinitive suffix"
       }
      ],
@@ -496,15 +489,15 @@
   {
    "words": [
     {
-     "surface": "கூஉந்",
+     "surface": "கூஉம்",
      "parts": [
       {
-       "text": "கூஉந்",
-       "lemma": "கூஉந்",
-       "gloss": ""
+       "text": "கூஉம்",
+       "lemma": "கூஉம்",
+       "gloss": "crying"
       }
      ],
-     "gloss": "",
+     "gloss": "crying",
      "split_unverified": true
     },
     {
@@ -513,44 +506,51 @@
       {
        "text": "தோழி",
        "lemma": "தோழி",
-       "gloss": ""
+       "gloss": "friend"
       }
      ],
-     "gloss": "",
+     "gloss": "friend"
+    },
+    {
+     "surface": "பெரும்",
+     "parts": [
+      {
+       "text": "பெரும்",
+       "lemma": "பெரும்",
+       "gloss": "great"
+      }
+     ],
+     "gloss": "great",
      "split_unverified": true
     },
     {
-     "surface": "பெரும்பே",
+     "surface": "பேதையவே",
      "parts": [
       {
-       "text": "பெரும்பே",
-       "lemma": "பெரும்பே",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "தையவே",
-     "parts": [
+       "text": "பேதை",
+       "lemma": "பேதை",
+       "gloss": "foolish"
+      },
       {
-       "text": "தையவே",
-       "lemma": "தையவே",
-       "gloss": ""
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "plural suffix"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis clitic"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "foolish things indeed"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
- "literal": "While the salt-marsh bull, without plowing, rests, / in the forest where the heat-sweltered clouds have departed, / with the loud-striking thunderbolt, the snake's hood subsiding, / mingling with thunder, it fell sweetly. / Embracing the fallen great rain, those who separated / feel helpless in the sorrowful evening that came. / On the flowering branch sat the split-eyed peacock, / as the spreading water makes the wide space feel lonely, / it calls, O friend! They are very foolish indeed!",
- "translation": "The clouds that sweltered in the summer heat have departed, and in the forest, while the salt-marsh bull rests without plowing, the sweet rain has fallen, mingling with loud thunder that makes the snakes' hoods shrink. Embracing this great rain, the sorrowful evening has arrived, bringing helplessness to those who are separated. On a flowering branch, a split-eyed peacock sits and calls as the spreading water makes the wide land feel lonely. O friend, those peacocks are truly very foolish!",
- "modern": "உப்பளத்து எருது உழவு செய்யாமல் ஓய்வெடுக்க, வெம்மையால் தவித்த மேகங்கள் சூழ்ந்த முல்லை நிலத்தில், பலத்த இடியுடன் கூடிய மழை இனிதாகப் பெய்தது. அந்த இடி முழக்கத்தால் பாம்புகளின் படங்கள் சுருங்கின. பெய்த பெருமழையைத் தழுவிக்கொண்டு, பிரிந்தவர்களுக்குத் துன்பத்தைத் தரும் மாலைப் பொழுது வந்துவிட்டது. பூக்கள் நிறைந்த கிளையில் அமர்ந்திருக்கும் பிளவுபட்ட கண்களை உடைய மயில், பரந்த நீர்நிலை சூழ்ந்த இப்பகுதி தனிமையால் வருந்தும்படி கூவுகிறது. தோழியே! அந்த மயில்கள் மிகவும் அறிவில்லாதவை!",
- "explanation": "This poem is set in the Mullai tiṇai (pastoral landscape), where the heroine is waiting for her lover's return during the rainy season. She speaks to her close friend as the evening sets in, bringing with it the heavy rains that relieve the summer heat. While the rain brings life to the forest and allows the salt-marsh bull to rest, it only intensifies the heroine's grief of separation. She observes a peacock calling from a flowering branch amidst the vast, rain-soaked landscape. The heroine calls the peacocks foolish because their loud, celebratory cries in the rain show a complete lack of empathy for her lonely, sorrowful state.",
+ "literal": "The salt-marsh bull, without plowing, to lie down / in the pasture land where the sweltering heat is removed by clouds / with swiftly striking thunder, so that the snake's hood is subdued / mingling with thunder, it fell pleasantly / embracing the great rain that fell, those who separated / to feel helpless, the distressing evening that came / the peacock with hollow eyes that sat on the flowering branch / as the spreading water in the wide space makes one feel lonely / cries, my friend, they are greatly foolish!",
+ "translation": "The great rain has fallen pleasantly, mingling with thunder, so that the snakes' hoods are subdued by the swift thunderbolts in the pasture lands where the sweltering heat is now removed by clouds, and the salt-marsh bull lies down without plowing. Embracing this fallen rain, at this distressing evening hour that has come to make those who are separated feel helpless, the hollow-eyed peacocks sitting on the flowering branches cry out as the spreading water makes the wide space lonely. O friend, they are indeed greatly foolish!",
+ "modern": "உப்பளத்து எருது உழவு செய்யாமல் படுத்து உறங்கவும், வெப்பம் தணிந்த மேகங்கள் சூழ்ந்த முல்லை நிலத்தில், வேகமாக இடிக்கும் இடியினால் பாம்புகளின் படம் சுருங்கவும், இடியுடன் கூடி நல்ல மழை பெய்துள்ளது. பெய்த பெருமழையைத் தழுவிக்கொண்டு, பிரிந்தவர்கள் செயலற்றுப் போகும்படி வந்த இந்தத் துன்பம் தரும் மாலைப் பொழுதில், பூக்கள் நிறைந்த கிளையில் அமர்ந்திருக்கும் பிளந்த கண்களை உடைய மயில்கள், பரவிய நீரால் அகன்ற இடம் தனிமை கொள்ளுமாறு கூவுகின்றன. தோழியே! அவை மிகவும் அறிவற்றவை!",
+ "explanation": "The heroine is speaking to her confidante during the evening of the rainy season, which belongs to the Mullai landscape. The hero had promised to return by this season, but he has not yet arrived. The rain has fallen, cooling the parched pasture lands, allowing the salt-marsh bull to rest, and driving the snakes into hiding with its thunder. However, this beautiful rain brings the distressing evening, which makes separated lovers feel utterly helpless. The peacocks sitting on the flowering branches cry out joyfully in the wet, lonely expanse, and the heroine calls them 'greatly foolish' because they are completely unaware of the deep pain their cries cause to her aching heart.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

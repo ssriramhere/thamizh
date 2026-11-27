@@ -6,12 +6,22 @@
      "surface": "நோற்றோர்",
      "parts": [
       {
-       "text": "நோற்றோர்",
-       "lemma": "nōṟṟōr",
-       "gloss": "those who performed penance"
+       "text": "நோல்",
+       "lemma": "nōl",
+       "gloss": "to perform penance"
+      },
+      {
+       "text": "து",
+       "lemma": "tu",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "ஓர்",
+       "lemma": "ōr",
+       "gloss": "they (pronominal suffix)"
       }
      ],
-     "gloss": "those who performed penance"
+     "gloss": "those who have performed penance"
     },
     {
      "surface": "மன்ற",
@@ -19,10 +29,10 @@
       {
        "text": "மன்ற",
        "lemma": "maṉṟa",
-       "gloss": "certainly"
+       "gloss": "surely"
       }
      ],
-     "gloss": "certainly"
+     "gloss": "surely"
     },
     {
      "surface": "தோழி",
@@ -33,10 +43,10 @@
        "gloss": "friend"
       }
      ],
-     "gloss": "friend"
+     "gloss": "O friend"
     },
     {
-     "surface": "தண்ணென",
+     "surface": "தண்ணெனத்",
      "parts": [
       {
        "text": "தண்",
@@ -46,7 +56,12 @@
       {
        "text": "என",
        "lemma": "eṉa",
-       "gloss": "as"
+       "gloss": "as / making a sound or feeling"
+      },
+      {
+       "text": "த்",
+       "lemma": "t",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "coolly"
@@ -56,90 +71,76 @@
   {
    "words": [
     {
-     "surface": "தூற்றும்",
+     "surface": "தூற்றுந்",
      "parts": [
       {
-       "text": "தூற்று",
-       "lemma": "tūṟṟu",
-       "gloss": "drizzle"
-      },
-      {
-       "text": "உம்",
-       "lemma": "-um",
-       "gloss": "adjectival suffix"
+       "text": "தூற்றுந்",
+       "lemma": "தூற்றுந்",
+       "gloss": "drizzling"
       }
      ],
-     "gloss": "drizzling"
+     "gloss": "drizzling",
+     "split_unverified": true
     },
     {
-     "surface": "துவலை",
+     "surface": "துவலைப்",
      "parts": [
       {
        "text": "துவலை",
        "lemma": "tuvalai",
-       "gloss": "water droplets"
+       "gloss": "droplets"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "water droplets"
+     "gloss": "droplets"
     },
     {
-     "surface": "பனி",
+     "surface": "பனிக்கடுந்",
      "parts": [
       {
-       "text": "பனி",
-       "lemma": "paṉi",
-       "gloss": "cold"
+       "text": "பனிக்கடுந்",
+       "lemma": "பனிக்கடுந்",
+       "gloss": "cold and severe"
       }
      ],
-     "gloss": "cold"
+     "gloss": "cold and severe",
+     "split_unverified": true
     },
     {
-     "surface": "கடும்",
+     "surface": "திங்கட்",
      "parts": [
       {
-       "text": "கடும்",
-       "lemma": "kaṭu",
-       "gloss": "severe"
+       "text": "திங்கட்",
+       "lemma": "திங்கட்",
+       "gloss": "in the month of"
       }
      ],
-     "gloss": "severe"
-    },
-    {
-     "surface": "திங்கள்",
-     "parts": [
-      {
-       "text": "திங்கள்",
-       "lemma": "tiṅkaḷ",
-       "gloss": "month"
-      }
-     ],
-     "gloss": "month"
+     "gloss": "in the month of",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "புலம்",
+     "surface": "புலம்பயிர்",
      "parts": [
       {
        "text": "புலம்",
        "lemma": "pulam",
-       "gloss": "field"
-      }
-     ],
-     "gloss": "field"
-    },
-    {
-     "surface": "பயிர்",
-     "parts": [
+       "gloss": "pasture / field"
+      },
       {
        "text": "பயிர்",
        "lemma": "payir",
-       "gloss": "crop"
+       "gloss": "grass / crop"
       }
      ],
-     "gloss": "crop"
+     "gloss": "pasture grass"
     },
     {
      "surface": "அருந்த",
@@ -147,15 +148,15 @@
       {
        "text": "அருந்து",
        "lemma": "aruntu",
-       "gloss": "consume"
+       "gloss": "to graze / eat"
       },
       {
        "text": "அ",
-       "lemma": "-a",
-       "gloss": "to"
+       "lemma": "a",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to consume"
+     "gloss": "to graze"
     },
     {
      "surface": "அண்ணல்",
@@ -163,7 +164,7 @@
       {
        "text": "அண்ணல்",
        "lemma": "aṇṇal",
-       "gloss": "majestic"
+       "gloss": "majestic / noble"
       }
      ],
      "gloss": "majestic"
@@ -173,70 +174,61 @@
      "parts": [
       {
        "text": "ஏற்றொடு",
-       "lemma": "ēṟṟoṭu",
+       "lemma": "ஏற்றொடு",
        "gloss": "with the bull"
       }
      ],
-     "gloss": "with the bull"
+     "gloss": "with the bull",
+     "split_unverified": true
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நிலம்",
+     "surface": "நிலந்தூங்",
      "parts": [
       {
-       "text": "நிலம்",
-       "lemma": "nilam",
-       "gloss": "ground"
+       "text": "நிலந்தூங்",
+       "lemma": "நிலந்தூங்",
+       "gloss": "hanging to the ground"
       }
      ],
-     "gloss": "ground"
+     "gloss": "hanging to the ground",
+     "split_unverified": true
     },
     {
-     "surface": "தூங்கு",
+     "surface": "கணல",
      "parts": [
       {
-       "text": "தூங்கு",
-       "lemma": "tūṅku",
-       "gloss": "hang down"
+       "text": "கணல",
+       "lemma": "கணல",
+       "gloss": "dewlap"
       }
      ],
-     "gloss": "hanging down"
+     "gloss": "dewlap",
+     "split_unverified": true
     },
     {
-     "surface": "அணல",
-     "parts": [
-      {
-       "text": "அணல",
-       "lemma": "aṇala",
-       "gloss": "having dewlaps"
-      }
-     ],
-     "gloss": "having dewlaps"
-    },
-    {
-     "surface": "வீங்கு",
+     "surface": "வீங்குமுலைச்",
      "parts": [
       {
        "text": "வீங்கு",
        "lemma": "vīṅku",
        "gloss": "swollen"
-      }
-     ],
-     "gloss": "swollen"
-    },
-    {
-     "surface": "முலை",
-     "parts": [
+      },
       {
        "text": "முலை",
        "lemma": "mulai",
        "gloss": "udder"
+      },
+      {
+       "text": "ச்",
+       "lemma": "c",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "udder"
+     "gloss": "swollen udders"
     },
     {
      "surface": "செருத்தல்",
@@ -257,37 +249,44 @@
      "surface": "பால்வார்பு",
      "parts": [
       {
-       "text": "பால்வார்பு",
-       "lemma": "பால்வார்பு",
-       "gloss": ""
+       "text": "பால்",
+       "lemma": "pāl",
+       "gloss": "milk"
+      },
+      {
+       "text": "வார்பு",
+       "lemma": "vārpu",
+       "gloss": "dripping"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "milk dripping"
     },
     {
      "surface": "குழவி",
      "parts": [
       {
        "text": "குழவி",
-       "lemma": "குழவி",
-       "gloss": ""
+       "lemma": "kuḻavi",
+       "gloss": "calf"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "calf"
     },
     {
-     "surface": "யுள்ளி",
+     "surface": "உள்ளி",
      "parts": [
       {
-       "text": "யுள்ளி",
-       "lemma": "யுள்ளி",
-       "gloss": ""
+       "text": "உள்ளு",
+       "lemma": "uḷḷu",
+       "gloss": "to think of"
+      },
+      {
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "verbal participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "thinking of"
     },
     {
      "surface": "நிரையிறந்",
@@ -295,14 +294,13 @@
       {
        "text": "நிரையிறந்",
        "lemma": "நிரையிறந்",
-       "gloss": ""
+       "gloss": "leaving the herd"
       }
      ],
-     "gloss": "",
+     "gloss": "leaving the herd",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -312,93 +310,104 @@
       {
        "text": "தூர்வயிற்",
        "lemma": "தூர்வயிற்",
-       "gloss": ""
+       "gloss": "towards the village"
       }
      ],
-     "gloss": "",
+     "gloss": "towards the village",
      "split_unverified": true
     },
     {
      "surface": "பெயரும்",
      "parts": [
       {
-       "text": "பெயரும்",
-       "lemma": "பெயரும்",
-       "gloss": ""
+       "text": "பெயர்",
+       "lemma": "peyar",
+       "gloss": "to return"
+      },
+      {
+       "text": "உம்",
+       "lemma": "um",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "returning"
     },
     {
      "surface": "புன்கண்",
      "parts": [
       {
        "text": "புன்கண்",
-       "lemma": "புன்கண்",
-       "gloss": ""
+       "lemma": "puṉkaṇ",
+       "gloss": "sorrow / distress"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sorrowful"
     },
     {
      "surface": "மாலை",
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "மாலை",
-       "gloss": ""
+       "lemma": "mālai",
+       "gloss": "evening"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "evening"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "அரும்பெறல்",
+     "surface": "அரும்பெறற்",
      "parts": [
       {
-       "text": "அரும்பெறல்",
-       "lemma": "arumpeṟal",
-       "gloss": "rare/precious"
+       "text": "அரும்பெறற்",
+       "lemma": "அரும்பெறற்",
+       "gloss": "hard to obtain"
       }
      ],
-     "gloss": "rare/precious"
+     "gloss": "hard to obtain",
+     "split_unverified": true
     },
     {
-     "surface": "பொருள்",
+     "surface": "பொருட்பிணிப்",
      "parts": [
       {
        "text": "பொருள்",
        "lemma": "poruḷ",
        "gloss": "wealth"
-      }
-     ],
-     "gloss": "wealth"
-    },
-    {
-     "surface": "பிணி",
-     "parts": [
+      },
       {
        "text": "பிணி",
        "lemma": "piṇi",
-       "gloss": "binding"
+       "gloss": "binding / attachment"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "sandhi"
       }
      ],
-     "gloss": "binding"
+     "gloss": "bound by wealth"
     },
     {
-     "surface": "போகி",
+     "surface": "போகிப்",
      "parts": [
       {
-       "text": "போகி",
-       "lemma": "pōki",
-       "gloss": "having gone"
+       "text": "போகு",
+       "lemma": "pōku",
+       "gloss": "to go"
+      },
+      {
+       "text": "இ",
+       "lemma": "i",
+       "gloss": "verbal participle suffix"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "sandhi"
       }
      ],
      "gloss": "having gone"
@@ -408,34 +417,33 @@
   {
    "words": [
     {
-     "surface": "பிரிந்து",
+     "surface": "பிரிந்துறை",
      "parts": [
       {
        "text": "பிரிந்து",
        "lemma": "pirintu",
        "gloss": "having separated"
-      }
-     ],
-     "gloss": "having separated"
-    },
-    {
-     "surface": "உறை",
-     "parts": [
+      },
       {
        "text": "உறை",
        "lemma": "uṟai",
-       "gloss": "residing"
+       "gloss": "to live"
       }
      ],
-     "gloss": "residing"
+     "gloss": "living separated"
     },
     {
      "surface": "காதலர்",
      "parts": [
       {
-       "text": "காதலர்",
-       "lemma": "kātalar",
-       "gloss": "lover"
+       "text": "காதல்",
+       "lemma": "kātal",
+       "gloss": "love"
+      },
+      {
+       "text": "அர்",
+       "lemma": "ar",
+       "gloss": "honorific/plural suffix"
       }
      ],
      "gloss": "lover"
@@ -445,19 +453,35 @@
      "parts": [
       {
        "text": "வர",
-       "lemma": "vara",
-       "gloss": "to come"
+       "lemma": "வர",
+       "gloss": "to return"
       }
      ],
-     "gloss": "to come"
+     "gloss": "to return",
+     "split_unverified": true
     },
     {
      "surface": "காண்போரே",
      "parts": [
       {
-       "text": "காண்போரே",
-       "lemma": "kāṇpōrē",
-       "gloss": "those who see"
+       "text": "காண்",
+       "lemma": "kāṇ",
+       "gloss": "to see"
+      },
+      {
+       "text": "ப்",
+       "lemma": "p",
+       "gloss": "future/present tense marker"
+      },
+      {
+       "text": "ஓர்",
+       "lemma": "ōr",
+       "gloss": "they (pronominal suffix)"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ē",
+       "gloss": "emphasis"
       }
      ],
      "gloss": "those who see"
@@ -465,10 +489,10 @@
    ]
   }
  ],
- "literal": "Those who performed penance / certainly, my friend, in the cool / drizzling water droplets of the cold, severe month, / to consume the field crops, along with the majestic bull, / with dewlaps hanging to the ground, and udders swollen with milk, / thinking of their calves, leaving the herd, / returning towards the village in the distressed evening, / having gone bound by the attachment to rare wealth, / those who see their separated residing lovers return!",
- "translation": "My friend, those women have surely performed great penance, who, in this cold and severe month of drizzling dew, are able to see their beloveds return from their quest for rare wealth—even as the majestic bulls and cows with dewlaps hanging to the ground and udders swollen with milk, thinking of their calves, leave the herd and return to the village in this sorrowful evening.",
- "modern": "தோழி! நிலம் வரை தொங்கும் தாடையையும், பால் சுரந்து வீங்கிய மடியையும் உடைய பசுக்கள், தங்களின் கன்றுகளை நினைத்து, கூட்டத்தை விட்டு நீங்கி, கம்பீரமான எருதுடன் வயல் பயிர்களை மேய்ந்துவிட்டு, இந்தத் துன்பம் தரும் மாலைப் பொழுதில் ஊரை நோக்கித் திரும்புகின்றன. பனி தூவும் இக்கொடிய குளிர் மாதத்தில், அரிய பொருளைத் தேடிச் சென்று பிரிந்து வாழும் காதலர் திரும்பி வரக் காண்பவர், நிச்சயமாகத் தவம் செய்தவர்கள் ஆவர்.",
- "explanation": "The heroine is speaking to her friend during the cold season, which belongs to the mullai landscape. Her lover has gone away to earn wealth and has not yet returned, though the season of his promised return has arrived. As evening falls, she observes the cattle returning to the village: the cows, with udders heavy with milk and dewlaps hanging low, are eager to feed their calves, accompanied by the majestic bulls. This sight of reunion in the evening makes her own loneliness and separation even more painful. She laments that only those women who have performed great penance are fortunate enough to see their lovers return at this hour, while she is left to suffer alone.",
+ "literal": "Those who performed penance surely, O friend, coolly / drizzling droplets in the cold severe month, / pasture grass having grazed, with the majestic bull, / ground-hanging dewlap, swollen-uddered cows, / milk dripping, thinking of their calves, leaving the herd, / towards the village returning in the sorrowful evening, / having gone bound by the pursuit of hard-to-obtain wealth, / the return of their separated-living lovers, those who see!",
+ "translation": "O friend, surely those women must have performed great penance! In this cold, severe month when cool droplets drizzle, during this sorrowful evening when the cows—with dewlaps hanging to the ground and udders swollen with dripping milk—having grazed on pasture grass with the majestic bull, think of their calves, leave the herd, and return to the village, they are able to see the return of their lovers who had gone away, bound by the pursuit of hard-to-obtain wealth.",
+ "modern": "தோழியே! குளிர்ந்த துளிகள் தூவுகின்ற பனிக்காலத்துக் கடுமையான இத்திங்களில், புல்வெளியில் மேய்ந்துவிட்டு, பெருமையுடைய காளையோடு, நிலத்தில் அசையும் தாடையையும் பால் சுரந்து வீங்கிய மடியையும் உடைய பசுக்கள், தம் கன்றுகளை நினைத்துப் பாலைச் சொரிந்தவாறே மந்தையை விட்டு நீங்கி ஊரை நோக்கித் திரும்புகின்ற இந்தத் துன்பம் தரும் மாலைப் பொழுதில், பெறுவதற்கரிய பொருளைத் தேடிச் சென்று பிரிந்து வாழும் காதலர் திரும்பி வருவதைக் காண்கின்றாரே, அவர்கள் நிச்சயமாகத் தவம் செய்தவர்கள் ஆவர்.",
+ "explanation": "In this poem, the heroine is speaking to her friend during the cold season when her lover is away on a quest for wealth. She observes the evening scene where the cows, accompanied by a majestic bull, return to the village with udders swollen with milk, eager to reunite with their calves. This sight of domestic reunion intensifies her own feelings of loneliness and longing. She remarks that only those women who have performed great penance are fortunate enough to witness their lovers returning at this hour. The imagery of the returning herd and the maternal warmth of the cows belongs to the Mullai (pastoral) landscape, which symbolizes patient waiting and the hope of reunion. The key contrast lies between the fulfilled reunion of the animals and the painful separation of the human lovers.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

@@ -7,39 +7,44 @@
      "parts": [
       {
        "text": "பொன்",
-       "lemma": "poṉ",
+       "lemma": "பொன்",
        "gloss": "gold"
       },
       {
-       "text": "ஏர்",
-       "lemma": "ēr",
+       "text": "நேர்",
+       "lemma": "நேர்",
        "gloss": "resembling"
       }
      ],
      "gloss": "resembling gold"
     },
     {
-     "surface": "ஆவிரை",
+     "surface": "ஆவிரைப்",
      "parts": [
       {
        "text": "ஆவிரை",
-       "lemma": "āvirai",
-       "gloss": "tanner's cassia"
+       "lemma": "ஆவிரை",
+       "gloss": "āvirai (tanner's cassia)"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
-     "gloss": "tanner's cassia flowers"
+     "gloss": "of the āvirai plant"
     },
     {
      "surface": "புதுமலர்",
      "parts": [
       {
-       "text": "புதுமை",
-       "lemma": "putumai",
+       "text": "புது",
+       "lemma": "புது",
        "gloss": "fresh"
       },
       {
        "text": "மலர்",
-       "lemma": "malar",
+       "lemma": "மலர்",
        "gloss": "flower"
       }
      ],
@@ -50,11 +55,11 @@
      "parts": [
       {
        "text": "மிடைந்த",
-       "lemma": "miṭai",
-       "gloss": "closely packed"
+       "lemma": "மிடை",
+       "gloss": "closely strung"
       }
      ],
-     "gloss": "closely packed"
+     "gloss": "closely strung"
     }
    ]
   },
@@ -64,21 +69,30 @@
      "surface": "பன்னூல்",
      "parts": [
       {
-       "text": "பன்னூல்",
-       "lemma": "பன்னூல்",
-       "gloss": "many-threaded"
+       "text": "பல்",
+       "lemma": "பல்",
+       "gloss": "many"
+      },
+      {
+       "text": "நூல்",
+       "lemma": "நூல்",
+       "gloss": "threads"
       }
      ],
-     "gloss": "many-threaded",
-     "split_unverified": true
+     "gloss": "of many threads"
     },
     {
-     "surface": "மாலை",
+     "surface": "மாலைப்",
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "mālai",
+       "lemma": "மாலை",
        "gloss": "garland"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "garland"
@@ -88,29 +102,34 @@
      "parts": [
       {
        "text": "பனை",
-       "lemma": "paṉai",
-       "gloss": "palmyra"
+       "lemma": "பனை",
+       "gloss": "palmyra palm"
       },
       {
        "text": "படு",
-       "lemma": "paṭu",
+       "lemma": "படு",
        "gloss": "made of"
       }
      ],
-     "gloss": "made of palmyra"
+     "gloss": "made of palmyra stems"
     },
     {
-     "surface": "கலிமா",
+     "surface": "கலிமாப்",
      "parts": [
       {
        "text": "கலி",
-       "lemma": "kali",
+       "lemma": "கலி",
        "gloss": "spirited"
       },
       {
        "text": "மா",
-       "lemma": "mā",
+       "lemma": "மா",
        "gloss": "horse"
+      },
+      {
+       "text": "ப்",
+       "lemma": "ப்",
+       "gloss": "sandhi consonant"
       }
      ],
      "gloss": "spirited horse"
@@ -123,52 +142,62 @@
      "surface": "பூண்மணி",
      "parts": [
       {
-       "text": "பூண்மணி",
-       "lemma": "பூண்மணி",
-       "gloss": ""
+       "text": "பூண்",
+       "lemma": "பூண்",
+       "gloss": "ornamented"
+      },
+      {
+       "text": "மணி",
+       "lemma": "மணி",
+       "gloss": "bell"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "ornamented bell"
     },
     {
      "surface": "கறங்க",
      "parts": [
       {
        "text": "கறங்க",
-       "lemma": "கறங்க",
-       "gloss": ""
+       "lemma": "கறங்கு",
+       "gloss": "to sound"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to sound"
     },
     {
      "surface": "வேறி",
      "parts": [
       {
-       "text": "வேறி",
-       "lemma": "வேறி",
-       "gloss": ""
+       "text": "வ்",
+       "lemma": "வ்",
+       "gloss": "glide"
+      },
+      {
+       "text": "ஏறி",
+       "lemma": "ஏறு",
+       "gloss": "having mounted"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having mounted"
     },
     {
      "surface": "நாணட்",
      "parts": [
       {
-       "text": "நாணட்",
-       "lemma": "நாணட்",
-       "gloss": ""
+       "text": "நாண்",
+       "lemma": "நாண்",
+       "gloss": "shame"
+      },
+      {
+       "text": "அட்",
+       "lemma": "அடு",
+       "gloss": "destroy"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having destroyed shame"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -178,50 +207,56 @@
       {
        "text": "டழிபடர்",
        "lemma": "டழிபடர்",
-       "gloss": ""
+       "gloss": "great affliction"
       }
      ],
-     "gloss": "",
+     "gloss": "great affliction",
      "split_unverified": true
     },
     {
      "surface": "உண்ணோய்",
      "parts": [
       {
-       "text": "உண்ணோய்",
-       "lemma": "உண்ணோய்",
-       "gloss": ""
+       "text": "உள்",
+       "lemma": "உள்",
+       "gloss": "internal"
+      },
+      {
+       "text": "நோய்",
+       "lemma": "நோய்",
+       "gloss": "pain"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "internal pain"
     },
     {
      "surface": "வழிவழி",
      "parts": [
       {
-       "text": "வழிவழி",
-       "lemma": "வழிவழி",
-       "gloss": ""
+       "text": "வழி",
+       "lemma": "வழி",
+       "gloss": "way/succession"
+      },
+      {
+       "text": "வழி",
+       "lemma": "வழி",
+       "gloss": "way/succession"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "increasingly"
     },
     {
      "surface": "சிறப்ப",
      "parts": [
       {
        "text": "சிறப்ப",
-       "lemma": "சிறப்ப",
-       "gloss": ""
+       "lemma": "சிற",
+       "gloss": "to increase"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to increase"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -231,23 +266,21 @@
       {
        "text": "இன்னள்",
        "lemma": "இன்னள்",
-       "gloss": ""
+       "gloss": "such a woman"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "such a woman"
     },
     {
      "surface": "செய்த",
      "parts": [
       {
        "text": "செய்த",
-       "lemma": "செய்த",
-       "gloss": ""
+       "lemma": "செய்",
+       "gloss": "did"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "did"
     },
     {
      "surface": "திதுவென",
@@ -255,26 +288,29 @@
       {
        "text": "திதுவென",
        "lemma": "திதுவென",
-       "gloss": ""
+       "gloss": "saying 'this is what she did'"
       }
      ],
-     "gloss": "",
+     "gloss": "saying 'this is what she did'",
      "split_unverified": true
     },
     {
      "surface": "முன்னின்",
      "parts": [
       {
-       "text": "முன்னின்",
-       "lemma": "முன்னின்",
-       "gloss": ""
+       "text": "முன்",
+       "lemma": "முன்",
+       "gloss": "before"
+      },
+      {
+       "text": "நின்",
+       "lemma": "நில்",
+       "gloss": "stand"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "standing before"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -284,10 +320,10 @@
       {
        "text": "றவள்",
        "lemma": "றவள்",
-       "gloss": ""
+       "gloss": "she"
       }
      ],
-     "gloss": "",
+     "gloss": "she",
      "split_unverified": true
     },
     {
@@ -296,11 +332,10 @@
       {
        "text": "பழி",
        "lemma": "பழி",
-       "gloss": ""
+       "gloss": "blame"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "blame"
     },
     {
      "surface": "நுவலு",
@@ -308,10 +343,10 @@
       {
        "text": "நுவலு",
        "lemma": "நுவலு",
-       "gloss": ""
+       "gloss": "speaking"
       }
      ],
-     "gloss": "",
+     "gloss": "speaking",
      "split_unverified": true
     },
     {
@@ -320,107 +355,84 @@
       {
        "text": "மிவ்வூர்",
        "lemma": "மிவ்வூர்",
-       "gloss": ""
+       "gloss": "this town"
       }
      ],
-     "gloss": "",
+     "gloss": "this town",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "ஆங்கு",
+     "surface": "ஆங்குணர்ந்",
      "parts": [
       {
        "text": "ஆங்கு",
-       "lemma": "āṅku",
+       "lemma": "ஆங்கு",
        "gloss": "there"
+      },
+      {
+       "text": "உணர்ந்",
+       "lemma": "உணர்",
+       "gloss": "realize"
       }
      ],
-     "gloss": "there"
+     "gloss": "having realized there"
     },
     {
-     "surface": "உணர்ந்தமையின்",
+     "surface": "தமையினீங்",
      "parts": [
       {
-       "text": "உணர்ந்தமையின்",
-       "lemma": "உணர்ந்தமையின்",
-       "gloss": "because of realizing"
+       "text": "தமையினீங்",
+       "lemma": "தமையினீங்",
+       "gloss": "because of that state, here"
       }
      ],
-     "gloss": "because of realizing",
+     "gloss": "because of that state, here",
      "split_unverified": true
     },
     {
-     "surface": "ஈங்கு",
+     "surface": "கேகுமா",
      "parts": [
       {
-       "text": "ஈங்கு",
-       "lemma": "īṅku",
-       "gloss": "here"
-      }
-     ],
-     "gloss": "here"
-    },
-    {
-     "surface": "ஏகும்",
-     "parts": [
-      {
-       "text": "ஏகும்",
-       "lemma": "ēku",
-       "gloss": "going"
-      }
-     ],
-     "gloss": "going"
-    },
-    {
-     "surface": "ஆறு",
-     "parts": [
-      {
-       "text": "ஆறு",
-       "lemma": "āṟu",
-       "gloss": "way"
-      }
-     ],
-     "gloss": "way"
-    },
-    {
-     "surface": "உளென்",
-     "parts": [
-      {
-       "text": "உள்",
-       "lemma": "uḷ",
-       "gloss": "be/have"
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "glide"
       },
       {
-       "text": "என்",
-       "lemma": "eṉ",
-       "gloss": "I"
+       "text": "ஏகும்",
+       "lemma": "ஏகு",
+       "gloss": "going"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆறு",
+       "gloss": "way (part)"
       }
      ],
-     "gloss": "I have"
+     "gloss": "the way of going"
     },
     {
-     "surface": "ஏ",
+     "surface": "றுளெனே",
      "parts": [
       {
-       "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "emphasis"
+       "text": "றுளெனே",
+       "lemma": "றுளெனே",
+       "gloss": "I have the way"
       }
      ],
-     "gloss": "indeed"
+     "gloss": "I have the way",
+     "split_unverified": true
     }
    ]
   }
  ],
- "literal": "Fresh flowers of gold-like tanner's cassia closely packed / in a garland of many threads, on a spirited horse made of palmyra / adorned bells ringing, having mounted, modesty having destroyed / ruining affliction and inner pain continuously to increase / 'This woman did this' saying, standing in front / she, blame speaks, this village / there because of realizing, here to go a way I have indeed.",
- "translation": "I will mount the spirited horse made of palmyra stems, woven with many-threaded garlands of fresh, gold-like tanner's cassia flowers, while its adorned bells ring. Casting aside my modesty, as my ruining affliction and inner pain grow more and more, I will go. Let this village stand before me and slander her, saying, 'She is the one who caused this!' Since they will realize my love there, I have a way to go from here.",
- "modern": "பொன்னைப் போன்ற ஆவிரையின் புதிய மலர்கள் நெருங்கிய பல நூல்களால் தொடுக்கப்பட்ட மாலையை அணிந்த, பனை மடலால் செய்யப்பட்ட குதிரையின் மேல், கட்டப்பட்ட மணிகள் ஒலிக்க ஏறி, எனது நாணத்தை ஒழித்து, நெஞ்சை அழிக்கும் துன்பமும் உள்நோயும் மேலும் மேலும் வளர, 'இவள்தான் எனக்கு இதனைச் செய்தாள்' என்று இவ்வூர் மக்கள் என் முன்னின்று அவளைப் பழித்துப் பேசட்டும். அவ்வாறு அவர்கள் என் காதலை உணர்ந்து கொள்வார்கள் என்பதால், நான் இங்கிருந்து செல்வதற்கான வழி எனக்கு உண்டாயிற்று.",
- "explanation": "This poem belongs to the Kuriñci tiṇai (mountainous landscape) and is spoken by the hero. The hero is deeply in love with the heroine, but her family or the village has not yet consented to their union. In classical Tamil love poetry, when a lover's grief becomes unbearable, he threatens to perform maṭalēṟutal—mounting a mock horse made of rough palmyra stems decorated with tanner's cassia flowers, and riding it through the village to publicize his love. By doing this, he casts away his modesty to let his inner pain be known. He welcomes the village's gossip and blame directed at the heroine, because once the village realizes the depth of his love, it will pave the way for their union.",
+ "literal": "Gold-like āvirai fresh flowers closely strung / many-threaded garland palmyra-made spirited horse / ornamented bell sounding, having mounted, shame destroyed / great affliction internal pain increasingly to excel / \"Such a woman did this,\" saying, standing before / her, blame speaking, this town / having realized there, here to go is there a way for me?",
+ "translation": "Having mounted the spirited horse made of palmyra stems, adorned with a garland of many threads strung with fresh, gold-like āvirai flowers, with its ornamented bell ringing, casting away my shame as my deep internal pain of great affliction increases day by day, I will stand before everyone. When this town speaks blame of her, saying, 'This is what she did to him,' and she realizes my state, is there any other way for me to go from here?",
+ "modern": "பொன்னைப் போன்ற ஆவிரையின் புதிய மலர்களைக் கொண்டு தொடுத்த பல நூல்களையுடைய மாலையை அணிந்த, பனை மடலால் செய்த குதிரையின் மேல் ஏறி, கட்டிய மணி ஒலிக்க, நாணத்தை விடுத்து, நெஞ்சை வருத்தும் காம நோய் நாளுக்கு நாள் வளர, \"இவள் தான் எனக்கு இதனைச் செய்தாள்\" என்று ஊரார் முன்னிலையில் அவளது பழியைச் சொல்லும் இவ்வூரில், அவள் என் நிலையை உணர்ந்து கொள்ளுமாறு செய்வதற்கு இதைத் தவிர வேறு வழி எனக்கு உண்டோ?",
+ "explanation": "The speaker is the hero, expressing his desperate state of love-sickness to his friend or himself. Unable to attain his beloved due to obstacles, he threatens to perform maṭalēṟutal, a public act of riding a mock horse made of jagged palmyra stems. He describes decorating this horse with yellow āvirai flowers and bells, discarding all sense of shame as his internal torment increases. By riding this horse through the streets, he intends to make the villagers blame the heroine for his misery. He believes that once she and her family realize the depth of his suffering through this public scandal, they will finally agree to the marriage, leaving him with no other path but this extreme step.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

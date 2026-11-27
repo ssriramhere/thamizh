@@ -61,7 +61,7 @@
       {
        "text": "செறி",
        "lemma": "செறி",
-       "gloss": "be tight"
+       "gloss": "tight"
       }
      ],
      "gloss": "tight"
@@ -81,21 +81,32 @@
      "surface": "நெகிழ",
      "parts": [
       {
-       "text": "நெகிழ",
+       "text": "நெகிழ்",
        "lemma": "நெகிழ்",
-       "gloss": "to loosen"
+       "gloss": "slip"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "to slip off"
+     "gloss": "to slip"
     },
     {
-     "surface": "செய்பொருட்கு",
+     "surface": "செய்",
      "parts": [
       {
        "text": "செய்",
        "lemma": "செய்",
-       "gloss": "make"
-      },
+       "gloss": "acquire"
+      }
+     ],
+     "gloss": "to acquire"
+    },
+    {
+     "surface": "பொருட்கு",
+     "parts": [
       {
        "text": "பொருள்",
        "lemma": "பொருள்",
@@ -107,18 +118,19 @@
        "gloss": "for"
       }
      ],
-     "gloss": "for the sake of earning wealth"
+     "gloss": "for wealth"
     },
     {
      "surface": "அகன்றோர்",
      "parts": [
       {
        "text": "அகன்றோர்",
-       "lemma": "அகல்",
+       "lemma": "அகன்றோர்",
        "gloss": "he who departed"
       }
      ],
-     "gloss": "he who departed"
+     "gloss": "he who departed",
+     "split_unverified": true
     }
    ]
   },
@@ -130,12 +142,12 @@
       {
        "text": "அறிவர்",
        "lemma": "அறி",
-       "gloss": "will he know"
+       "gloss": "will know"
       },
       {
        "text": "கொல்",
        "lemma": "கொல்",
-       "gloss": "particle of doubt"
+       "gloss": "whether"
       }
      ],
      "gloss": "will he know?"
@@ -144,9 +156,14 @@
      "surface": "வாழி",
      "parts": [
       {
-       "text": "வாழி",
+       "text": "வாழ்",
        "lemma": "வாழ்",
-       "gloss": "may you live long"
+       "gloss": "live"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "optative suffix"
       }
      ],
      "gloss": "may you live long"
@@ -160,7 +177,7 @@
        "gloss": "friend"
       }
      ],
-     "gloss": "my friend"
+     "gloss": "O friend"
     },
     {
      "surface": "பொறி",
@@ -194,23 +211,27 @@
       {
        "text": "வெஞ்சின",
        "lemma": "வெஞ்சின",
-       "gloss": ""
+       "gloss": "cruel and angry"
       }
      ],
-     "gloss": "",
+     "gloss": "cruel and angry",
      "split_unverified": true
     },
     {
      "surface": "அரவின்",
      "parts": [
       {
-       "text": "அரவின்",
-       "lemma": "அரவின்",
-       "gloss": ""
+       "text": "அரவு",
+       "lemma": "அரவு",
+       "gloss": "snake"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the snake"
     },
     {
      "surface": "பைந்தலை",
@@ -218,26 +239,29 @@
       {
        "text": "பைந்தலை",
        "lemma": "பைந்தலை",
-       "gloss": ""
+       "gloss": "hooded head"
       }
      ],
-     "gloss": "",
+     "gloss": "hooded head",
      "split_unverified": true
     },
     {
      "surface": "துமிய",
      "parts": [
       {
-       "text": "துமிய",
-       "lemma": "துமிய",
-       "gloss": ""
+       "text": "துமி",
+       "lemma": "துமி",
+       "gloss": "be severed"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to be severed"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -247,10 +271,10 @@
       {
        "text": "உரவு",
        "lemma": "உரவு",
-       "gloss": "strength/loudness"
+       "gloss": "mighty"
       }
      ],
-     "gloss": "loud"
+     "gloss": "mighty"
     },
     {
      "surface": "உரும்",
@@ -267,12 +291,17 @@
      "surface": "உரறும்",
      "parts": [
       {
-       "text": "உரறும்",
+       "text": "உரறு",
        "lemma": "உரறு",
-       "gloss": "roaring"
+       "gloss": "roar"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "roars"
+     "gloss": "that roars"
     },
     {
      "surface": "அரை",
@@ -280,7 +309,7 @@
       {
        "text": "அரை",
        "lemma": "அரை",
-       "gloss": "half/middle"
+       "gloss": "middle"
       }
      ],
      "gloss": "middle"
@@ -307,7 +336,7 @@
       {
        "text": "நாள்",
        "lemma": "நாள்",
-       "gloss": "day/night"
+       "gloss": "night"
       }
      ],
      "gloss": "midnight"
@@ -322,10 +351,10 @@
       {
        "text": "நல்",
        "lemma": "நல்",
-       "gloss": "good/strong"
+       "gloss": "good"
       }
      ],
-     "gloss": "fine"
+     "gloss": "good"
     },
     {
      "surface": "ஏறு",
@@ -339,31 +368,42 @@
      "gloss": "bull"
     },
     {
-     "surface": "இயங்குதோறு",
+     "surface": "இயங்கு",
      "parts": [
       {
        "text": "இயங்கு",
        "lemma": "இயங்கு",
        "gloss": "move"
-      },
+      }
+     ],
+     "gloss": "moving"
+    },
+    {
+     "surface": "தோறு",
+     "parts": [
       {
        "text": "தோறு",
        "lemma": "தோறு",
        "gloss": "whenever"
       }
      ],
-     "gloss": "whenever it moves"
+     "gloss": "whenever"
     },
     {
      "surface": "இயம்பும்",
      "parts": [
       {
-       "text": "இயம்பும்",
+       "text": "இயம்பு",
        "lemma": "இயம்பு",
-       "gloss": "sounding"
+       "gloss": "sound"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "sounds"
+     "gloss": "that rings"
     }
    ]
   },
@@ -374,7 +414,7 @@
      "parts": [
       {
        "text": "பல்",
-       "lemma": "பல",
+       "lemma": "பல்",
        "gloss": "many"
       }
      ],
@@ -385,11 +425,12 @@
      "parts": [
       {
        "text": "ஆன்",
-       "lemma": "ஆ",
-       "gloss": "cow"
+       "lemma": "ஆன்",
+       "gloss": "cows"
       }
      ],
-     "gloss": "cows"
+     "gloss": "cows",
+     "split_unverified": true
     },
     {
      "surface": "தொழுவத்து",
@@ -397,10 +438,10 @@
       {
        "text": "தொழுவத்து",
        "lemma": "தொழுவத்து",
-       "gloss": "in the stall"
+       "gloss": "in the cowshed"
       }
      ],
-     "gloss": "in the stall",
+     "gloss": "in the cowshed",
      "split_unverified": true
     },
     {
@@ -408,11 +449,11 @@
      "parts": [
       {
        "text": "ஒரு",
-       "lemma": "ஒன்று",
-       "gloss": "one"
+       "lemma": "ஒரு",
+       "gloss": "single"
       }
      ],
-     "gloss": "single"
+     "gloss": "a single"
     },
     {
      "surface": "மணி",
@@ -436,7 +477,7 @@
       {
        "text": "ஏ",
        "lemma": "ஏ",
-       "gloss": "emphasis"
+       "gloss": "emphasis particle"
       }
      ],
      "gloss": "the sound indeed"
@@ -444,10 +485,10 @@
    ]
   }
  ],
- "literal": "Having caressed my wavy dark hair and broad shoulders, / he who departed for the sake of earning wealth, causing my tight bangles to slip off, / will he know? May you live long, my friend! The spotted, striped / fiercely angry snake's hooded head being severed, / as the loud thunder roars in the deep darkness of midnight, / whenever the fine bull moves, there sounds / the sound of a single bell in the stall of many cows.",
- "translation": "My friend, may you live long! He who stroked my wavy dark hair and broad shoulders, and then departed to seek wealth, causing my tight bangles to slip off—does he know? At midnight, in the deep darkness, when the loud thunder roars so fiercely that the hooded heads of angry, striped snakes are severed, whenever the fine bull moves in the stall of many cows, the sound of its single bell rings out.",
- "modern": "தோழியே, நீ வாழ்க! அலை அலையான கரிய கூந்தலையும் பெரிய தோள்களையும் தடவிக் கொடுத்துவிட்டு, இறுக்கமான வளையல்கள் கழன்று வீழுமாறு பொருள் தேடுவதற்காகப் பிரிந்து சென்றவர் அறிவாரோ? புள்ளிகளையும் வரிகளையும் உடைய சினங்கொண்ட பாம்பின் படம் பொருந்திய தலை துண்டிக்கப்பட்டு விழுமாறு, வலிய இடி முழங்குகின்ற நள்ளிரவின் காரிருளில், பல பசுக்கள் கட்டப்பட்டுள்ள தொழுவத்தில் நல்ல காளை அசையும்போதெல்லாம் ஒலிக்கும் அந்த ஒற்றை மணியின் ஓசையை அவர் அறிவாரோ?",
- "explanation": "The heroine is speaking to her close friend during the rainy season, which is the promised time of the hero's return. The hero has gone away to earn wealth, leaving her in deep grief, which has caused her to grow thin and her tight bangles to slip off. The poem belongs to the Mullai (forest) landscape, which is associated with patient waiting. The terrifying thunder of the midnight storm, strong enough to sever the heads of angry snakes, contrasts with the gentle, domestic sound of the single bell on the bull in the cow-stall. This contrast highlights the heroine's loneliness and fear in the dark night, as she wonders if her lover, far away, is aware of the painful reminders of his absence.",
+ "literal": "Having caressed the broad shoulders with wavy dark hair, / he who departed for the sake of acquiring wealth, making tight bangles slip, / will he know, may you live long, O friend! The spotted, striped / cruel, angry snake's hooded head to be severed, / mighty thunder roars in the middle of the dark midnight, / whenever the good bull moves, there rings / in the cowshed of many cows, the sound of a single bell indeed!",
+ "translation": "O friend, may you live long! Will he—who caressed my broad shoulders and my wavy, dark hair, and then departed to acquire wealth, causing my tight bangles to slip off—ever know of this? In the deep darkness of midnight, when mighty thunder roars so fiercely that the hooded heads of spotted, striped, angry snakes are severed, there rings from the cowshed of many cows the sound of a single bell, whenever the fine bull moves.",
+ "modern": "தோழியே, நீ டூழி வாழ்க! அலை அலையான கரிய கூந்தலைத் தடவி, என் பருத்த தோள்களை நீவிவிட்டு, என் இறுக்கமான வளையல்கள் கழன்று வீழுமாறு பொருள் தேடுவதற்காகப் பிரிந்து சென்றாரே, அவர் அறிவாரோ? புள்ளிகளும் வரிகளும் உடைய கொடிய கோபங்கொண்ட பாம்புகளின் படம் பொருந்திய தலைகள் துண்டாகி விழும்படி, வலிமையான இடி முழங்குகின்ற நள்ளிரவு நேரத்தில், பல பசுக்கள் கட்டப்பட்டுள்ள தொழுவத்தில், நல்ல காளை மாடு அசையும் போதெல்லாம் ஒலிக்கின்ற அந்த ஒற்றை மணியின் ஓசையை அவர் அறிவாரோ?",
+ "explanation": "This poem is set in the Mullai landscape, which represents patient waiting during the rainy season. The heroine is speaking to her close friend about her deep distress over the hero's prolonged absence. He had departed to earn wealth, promising to return before the rains, but has not yet arrived. The rainy season has now set in, marked by terrifying midnight thunder that is said to shatter the hoods of angry snakes. In the quiet, dark night, the only sound is the single bell tied to the leading bull in the cowshed, ringing whenever it moves. This lonely sound intensifies the heroine's grief, and she wonders if her lover, far away, has any idea of the torment she undergoes in the dark hours.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

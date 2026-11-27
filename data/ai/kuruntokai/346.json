@@ -3,55 +3,77 @@
   {
    "words": [
     {
-     "surface": "நாகுபிடி",
+     "surface": "நாகு",
      "parts": [
       {
-       "text": "நாகுபிடி",
-       "lemma": "நாகுபிடி",
-       "gloss": ""
+       "text": "நாகு",
+       "lemma": "நாகு",
+       "gloss": "young"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "young"
+    },
+    {
+     "surface": "பிடி",
+     "parts": [
+      {
+       "text": "பிடி",
+       "lemma": "பிடி",
+       "gloss": "female elephant"
+      }
+     ],
+     "gloss": "female elephant"
     },
     {
      "surface": "நயந்த",
      "parts": [
       {
-       "text": "நயந்த",
-       "lemma": "நயந்த",
-       "gloss": ""
+       "text": "நய",
+       "lemma": "நய",
+       "gloss": "desire"
+      },
+      {
+       "text": "ந்த்",
+       "lemma": "த்",
+       "gloss": "past tense"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
+     "gloss": "that desired"
+    },
+    {
+     "surface": "முளைக்கோட்டு",
+     "parts": [
+      {
+       "text": "முளைக்கோட்டு",
+       "lemma": "முளைக்கோட்டு",
+       "gloss": "having sprout-like tusks"
+      }
+     ],
+     "gloss": "having sprout-like tusks",
      "split_unverified": true
     },
     {
-     "surface": "முளைக்கோட்",
+     "surface": "இளங்களிறு",
      "parts": [
       {
-       "text": "முளைக்கோட்",
-       "lemma": "முளைக்கோட்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "டிளங்களிறு",
-     "parts": [
+       "text": "இளம்",
+       "lemma": "இளமை",
+       "gloss": "young"
+      },
       {
-       "text": "டிளங்களிறு",
-       "lemma": "டிளங்களிறு",
-       "gloss": ""
+       "text": "களிறு",
+       "lemma": "களிறு",
+       "gloss": "male elephant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "young male elephant"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -60,7 +82,7 @@
      "parts": [
       {
        "text": "குன்றம்",
-       "lemma": "kuṉṟam",
+       "lemma": "குன்றம்",
        "gloss": "hill"
       }
      ],
@@ -70,19 +92,24 @@
      "surface": "நண்ணி",
      "parts": [
       {
-       "text": "நண்ணி",
-       "lemma": "naṇṇi",
-       "gloss": "approaching"
+       "text": "நண்ணு",
+       "lemma": "நண்ணு",
+       "gloss": "approach"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "approaching"
+     "gloss": "having approached"
     },
     {
      "surface": "குறவர்",
      "parts": [
       {
        "text": "குறவர்",
-       "lemma": "kuṟavar",
+       "lemma": "குறவர்",
        "gloss": "hill-dwellers"
       }
      ],
@@ -92,12 +119,17 @@
      "surface": "ஆர்ப்ப",
      "parts": [
       {
-       "text": "ஆர்ப்ப",
-       "lemma": "ārppa",
-       "gloss": "to shout"
+       "text": "ஆர்ப்ப்",
+       "lemma": "ஆர்ப்ப்",
+       "gloss": "shout"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "as they shout"
+     "gloss": "to shout"
     }
    ]
   },
@@ -108,7 +140,7 @@
      "parts": [
       {
        "text": "மன்றம்",
-       "lemma": "maṉṟam",
+       "lemma": "மன்றம்",
        "gloss": "village common ground"
       }
      ],
@@ -119,29 +151,29 @@
      "parts": [
       {
        "text": "போழ்",
-       "lemma": "pōḻ",
-       "gloss": "cleft"
+       "lemma": "போழ்",
+       "gloss": "cleave"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "relative participle suffix"
+       "lemma": "உம்",
+       "gloss": "habitual adjectival suffix"
       }
      ],
-     "gloss": "cleaving"
+     "gloss": "that cleaves"
     },
     {
      "surface": "நாடன்",
      "parts": [
       {
        "text": "நாடு",
-       "lemma": "nāṭu",
+       "lemma": "நாடு",
        "gloss": "land"
       },
       {
        "text": "அன்",
-       "lemma": "aṉ",
-       "gloss": "he of"
+       "lemma": "அன்",
+       "gloss": "masculine singular suffix"
       }
      ],
      "gloss": "lord of the land"
@@ -151,11 +183,11 @@
      "parts": [
       {
        "text": "தோழி",
-       "lemma": "tōḻi",
+       "lemma": "தோழி",
        "gloss": "friend"
       }
      ],
-     "gloss": "O friend"
+     "gloss": "O friend!"
     }
    ]
   },
@@ -215,85 +247,73 @@
   {
    "words": [
     {
-     "surface": "தினை",
+     "surface": "தினைப்புனம்",
      "parts": [
       {
        "text": "தினை",
-       "lemma": "tiṉai",
+       "lemma": "தினை",
        "gloss": "millet"
-      }
-     ],
-     "gloss": "millet"
-    },
-    {
-     "surface": "புனம்",
-     "parts": [
+      },
       {
        "text": "புனம்",
-       "lemma": "puṉam",
+       "lemma": "புனம்",
        "gloss": "field"
       }
      ],
-     "gloss": "field"
+     "gloss": "millet field"
     },
     {
      "surface": "மருங்கின்",
      "parts": [
       {
        "text": "மருங்கு",
-       "lemma": "maruṅku",
+       "lemma": "மருங்கு",
        "gloss": "side"
       },
       {
        "text": "இன்",
-       "lemma": "iṉ",
+       "lemma": "இன்",
        "gloss": "locative suffix"
       }
      ],
      "gloss": "at the side of"
     },
     {
-     "surface": "படு",
+     "surface": "படுகிளி",
      "parts": [
       {
        "text": "படு",
-       "lemma": "paṭu",
-       "gloss": "alighting"
-      }
-     ],
-     "gloss": "alighting"
-    },
-    {
-     "surface": "கிளி",
-     "parts": [
+       "lemma": "படு",
+       "gloss": "alight"
+      },
       {
        "text": "கிளி",
-       "lemma": "kiḷi",
+       "lemma": "கிளி",
        "gloss": "parrot"
       }
      ],
-     "gloss": "parrots"
+     "gloss": "alighting parrots"
     },
     {
      "surface": "ஓப்பியும்",
      "parts": [
       {
        "text": "ஓப்பு",
-       "lemma": "ōppu",
-       "gloss": "scare away"
+       "lemma": "ஓப்பு",
+       "gloss": "drive away"
       },
       {
        "text": "இ",
-       "lemma": "i",
-       "gloss": "past tense"
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       },
       {
        "text": "உம்",
-       "lemma": "um",
-       "gloss": "and/even"
+       "lemma": "உம்",
+       "gloss": "and"
       }
      ],
-     "gloss": "and chasing away"
+     "gloss": "and driving away"
     }
    ]
   },
@@ -304,7 +324,7 @@
      "parts": [
       {
        "text": "காலை",
-       "lemma": "kālai",
+       "lemma": "காலை",
        "gloss": "morning"
       }
      ],
@@ -316,10 +336,10 @@
       {
        "text": "வந்து",
        "lemma": "வந்து",
-       "gloss": "coming"
+       "gloss": "having come"
       }
      ],
-     "gloss": "coming",
+     "gloss": "having come",
      "split_unverified": true
     },
     {
@@ -327,7 +347,7 @@
      "parts": [
       {
        "text": "மாலை",
-       "lemma": "mālai",
+       "lemma": "மாலை",
        "gloss": "evening"
       }
      ],
@@ -338,75 +358,64 @@
      "parts": [
       {
        "text": "பொழுது",
-       "lemma": "poḻutu",
+       "lemma": "பொழுது",
        "gloss": "time"
       },
       {
        "text": "இல்",
-       "lemma": "il",
+       "lemma": "இல்",
        "gloss": "locative suffix"
       }
      ],
-     "gloss": "at the time"
+     "gloss": "at the time of"
     }
    ]
   },
   {
    "words": [
     {
-     "surface": "நல்",
+     "surface": "நல்லகம்",
      "parts": [
       {
        "text": "நல்",
-       "lemma": "nal",
+       "lemma": "நன்மை",
        "gloss": "good"
-      }
-     ],
-     "gloss": "good"
-    },
-    {
-     "surface": "அகம்",
-     "parts": [
+      },
       {
        "text": "அகம்",
-       "lemma": "akam",
+       "lemma": "அகம்",
        "gloss": "heart"
       }
      ],
-     "gloss": "heart"
+     "gloss": "good heart"
     },
     {
      "surface": "நயந்து",
      "parts": [
       {
        "text": "நய",
-       "lemma": "nay",
+       "lemma": "நய",
        "gloss": "desire"
       },
       {
-       "text": "ந்",
-       "lemma": "n",
-       "gloss": "sandhi"
-      },
-      {
-       "text": "த்",
-       "lemma": "t",
+       "text": "ந்த்",
+       "lemma": "த்",
        "gloss": "past tense"
       },
       {
        "text": "உ",
-       "lemma": "u",
-       "gloss": "verbal participle suffix"
+       "lemma": "உ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "desiring"
+     "gloss": "having desired"
     },
     {
      "surface": "தான்",
      "parts": [
       {
        "text": "தான்",
-       "lemma": "tāṉ",
+       "lemma": "தான்",
        "gloss": "himself"
       }
      ],
@@ -417,16 +426,16 @@
      "parts": [
       {
        "text": "உயங்கு",
-       "lemma": "uyaṅku",
-       "gloss": "languish"
+       "lemma": "உயங்கு",
+       "gloss": "pine"
       },
       {
        "text": "இ",
-       "lemma": "i",
-       "gloss": "verbal participle suffix"
+       "lemma": "இ",
+       "gloss": "past participle suffix"
       }
      ],
-     "gloss": "languishing"
+     "gloss": "having pined"
     }
    ]
   },
@@ -437,17 +446,17 @@
      "parts": [
       {
        "text": "சொல்",
-       "lemma": "col",
+       "lemma": "சொல்",
        "gloss": "speak"
       },
       {
        "text": "அ",
-       "lemma": "a",
+       "lemma": "அ",
        "gloss": "infinitive suffix"
       },
       {
        "text": "உம்",
-       "lemma": "um",
+       "lemma": "உம்",
        "gloss": "even"
       }
      ],
@@ -457,46 +466,56 @@
      "surface": "ஆகாது",
      "parts": [
       {
-       "text": "ஆகாது",
-       "lemma": "ākātu",
-       "gloss": "not possible"
+       "text": "ஆகு",
+       "lemma": "ஆகு",
+       "gloss": "be possible"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆ",
+       "gloss": "negative suffix"
+      },
+      {
+       "text": "து",
+       "lemma": "து",
+       "gloss": "neuter singular suffix"
       }
      ],
-     "gloss": "not possible"
+     "gloss": "it is not possible"
     },
     {
      "surface": "அஃகியோனே",
      "parts": [
       {
        "text": "அஃகு",
-       "lemma": "aḥku",
+       "lemma": "அஃகு",
        "gloss": "shrink"
       },
       {
        "text": "இ",
-       "lemma": "i",
-       "gloss": "past tense"
+       "lemma": "இ",
+       "gloss": "past tense suffix"
       },
       {
        "text": "ஓன்",
-       "lemma": "ōṉ",
-       "gloss": "he who"
+       "lemma": "ஓன்",
+       "gloss": "he"
       },
       {
        "text": "ஏ",
-       "lemma": "ē",
-       "gloss": "clitic"
+       "lemma": "ஏ",
+       "gloss": "emphasis"
       }
      ],
-     "gloss": "he has shrunk"
+     "gloss": "he who has pined"
     }
    ]
   }
  ],
- "literal": "A young male elephant with sprouting tusks, desiring a young female elephant, / approaching the hill, as the hill-dwellers shout, / cleaves through the village common ground, O friend, of such a land is the lord! / Giving a garland of blue water-lilies from the mountain pool, / and helping to chase away the parrots alighting near the millet field, / coming in the morning, and in the evening time, / desiring her good heart, languishing himself, / unable even to speak, he has shrunk!",
- "translation": "O friend! The lord of the land where a young male elephant with sprouting tusks, desiring a young female elephant, approaches the hill, and as the hill-dwellers shout, cleaves through the village common ground—he came in the morning, gave a garland of blue water-lilies from the mountain pool, helped to chase away the parrots from the millet field, and now, in the evening, desiring your good heart, he languishes, unable even to speak, and has shrunk in grief.",
- "modern": "தோழி! இளமையான பெண் யானையை விரும்பிய, முளைக்கும் தந்தங்களை உடைய இளைய ஆண் யானையானது, மலையை நெருங்கி, அங்குள்ள குறவர்கள் ஆரவாரம் செய்ய, ஊர் மன்றத்தைப் பிளந்து கொண்டு செல்லும் நாட்டை உடையவன் நம் தலைவன். அவன் காலையில் வந்து, சுனைப் பூக்களாகிய குவளை மலர்களால் தொடுத்த மாலையைத் தந்தும், தினைப்புனத்தின் பக்கத்தில் வந்து விழும் கிளிகளை ஓட்டியும் நமக்கு உதவினான். ஆனால், மாலைப் பொழுதில் உன்னுடைய நல்ல நெஞ்சத்தை விரும்பி, அவனாகவே வருந்தி, தன் குறையைச் சொல்லவும் முடியாமல் வாடிப் போய்விட்டானே!",
- "explanation": "The friend (தோழி) is speaking to the heroine (தலைவி) about the hero's (தலைவன்) distress. She describes how he came in the morning, brought a garland of blue water-lilies, and helped to scare away parrots from the millet field. Now, as evening falls, he is so overwhelmed by his love for the heroine that he is unable to speak and is wasting away in silence. The opening image of the young male elephant, which cleaves through the village common ground despite the shouts of the hill-dwellers, represents the hero's unstoppable love that overcomes all obstacles, yet he is rendered helpless and silent by his love for the heroine. This poem belongs to the Kuriñci tiṇai, representing the mountainous landscape and the theme of union and its obstacles.",
+ "literal": "A young male elephant with sprout-like tusks that desired a young female elephant, / approaching the hill, as the hill-dwellers shout, / cleaves through the village common ground, O friend, such is the lord of the land! / Having given a garland of blue water-lilies from the mountain pool, / and having driven away the alighting parrots at the side of the millet field, / having come in the morning, and in the evening, / desiring your good heart, himself pining, / unable even to speak, he has shrunk!",
+ "translation": "O friend! The lord of the land where a young male elephant with sprout-like tusks, desiring a young female elephant, approaches the hill and cleaves through the village common ground as the hill-dwellers shout, came in the morning and gave you a garland of blue water-lilies from the mountain pool, and helped drive away the alighting parrots at the side of the millet field. But by evening, desiring your good heart, he himself pined, and unable even to speak, he has shrunk in grief.",
+ "modern": "தோழியே! இளமையான பெண் யானையை விரும்பிய, முளை போன்ற தந்தங்களை உடைய இளங் களிறு, மலையை நெருங்கி, குறவர்கள் ஆரவாரம் செய்ய, ஊர் மன்றத்தைப் பிளந்து கொண்டு செல்லும் நாட்டை உடையவன் அவன். அவன் காலையில் வந்து, சுனைப் பூக்களாகிய குவளை மலர்களால் தொடுத்த மாலையைத் தந்தான்; தினைப்புனத்தின் பக்கத்தில் வந்து விழும் கிளிகளையும் ஓட்டினான். ஆனால், மாலைப் பொழுதில் உனது நல்ல நெஞ்சத்தை விரும்பி, தானும் வருந்தி, தன் குறையைச் சொல்லவும் முடியாமல் மெலிந்து போய்விட்டான்.",
+ "explanation": "The friend (தோழி) is speaking to the heroine (தலைவி) about the hero (தலைவன்). The hero has been visiting the heroine during the day, helping her guard the millet field and offering her garlands. The friend points out how the hero came in the morning, full of energy, giving her a garland of blue water-lilies and helping her chase away the parrots. However, as evening approached, his love and desire for her made him pine so deeply that he became silent and visibly withered, unable to express his grief of impending separation. The opening image of the young male elephant with sprout-like tusks, rushing through the village common ground to reach its desired female elephant despite the loud shouts of the hill-dwellers, mirrors the hero's intense, unstoppable desire to be with the heroine, disregarding any obstacles or gossip.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }

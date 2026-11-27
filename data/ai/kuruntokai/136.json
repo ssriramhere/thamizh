@@ -61,7 +61,7 @@
       {
        "text": "அணங்கு",
        "lemma": "அணங்கு",
-       "gloss": "torment"
+       "gloss": "affliction"
       },
       {
        "text": "உம்",
@@ -69,7 +69,7 @@
        "gloss": "and"
       }
      ],
-     "gloss": "torment and"
+     "gloss": "affliction also"
     },
     {
      "surface": "பிணியும்",
@@ -85,7 +85,7 @@
        "gloss": "and"
       }
      ],
-     "gloss": "sickness and"
+     "gloss": "sickness also"
     },
     {
      "surface": "அன்றே",
@@ -109,7 +109,7 @@
       {
        "text": "நுணங்கு",
        "lemma": "நுணங்கு",
-       "gloss": "shrink"
+       "gloss": "become subtle"
       },
       {
        "text": "இ",
@@ -117,7 +117,7 @@
        "gloss": "having"
       }
      ],
-     "gloss": "having shrunk"
+     "gloss": "having become subtle"
     }
    ]
   },
@@ -127,14 +127,9 @@
      "surface": "கடுத்தலும்",
      "parts": [
       {
-       "text": "கடு",
-       "lemma": "கடு",
-       "gloss": "throb"
-      },
-      {
-       "text": "த்தல்",
-       "lemma": "த்தல்",
-       "gloss": "verbal noun suffix"
+       "text": "கடுத்தல்",
+       "lemma": "கடுத்தல்",
+       "gloss": "surging"
       },
       {
        "text": "உம்",
@@ -142,20 +137,15 @@
        "gloss": "and"
       }
      ],
-     "gloss": "throbbing and"
+     "gloss": "surging also"
     },
     {
      "surface": "தணிதலும்",
      "parts": [
       {
-       "text": "தணி",
-       "lemma": "தணி",
-       "gloss": "subside"
-      },
-      {
-       "text": "தல்",
-       "lemma": "தல்",
-       "gloss": "verbal noun suffix"
+       "text": "தணிதல்",
+       "lemma": "தணிதல்",
+       "gloss": "subsiding"
       },
       {
        "text": "உம்",
@@ -163,7 +153,7 @@
        "gloss": "and"
       }
      ],
-     "gloss": "subsiding and"
+     "gloss": "subsiding also"
     },
     {
      "surface": "இன்றே",
@@ -171,7 +161,7 @@
       {
        "text": "இன்று",
        "lemma": "இன்று",
-       "gloss": "is not"
+       "gloss": "without"
       },
       {
        "text": "ஏ",
@@ -179,7 +169,7 @@
        "gloss": "indeed"
       }
      ],
-     "gloss": "is not indeed"
+     "gloss": "is not there indeed"
     },
     {
      "surface": "யானை",
@@ -197,43 +187,51 @@
   {
    "words": [
     {
-     "surface": "குளகுமென்",
+     "surface": "குளகு",
      "parts": [
       {
-       "text": "குளகுமென்",
-       "lemma": "குளகுமென்",
-       "gloss": ""
+       "text": "குளகு",
+       "lemma": "குளகு",
+       "gloss": "leafy shoots"
       }
      ],
-     "gloss": "",
+     "gloss": "leaves"
+    },
+    {
+     "surface": "மென்றாள்",
+     "parts": [
+      {
+       "text": "மென்றாள்",
+       "lemma": "மென்றாள்",
+       "gloss": "because of chewing"
+      }
+     ],
+     "gloss": "because of chewing",
      "split_unverified": true
     },
     {
-     "surface": "றாள்மதம்",
+     "surface": "மதம்",
      "parts": [
       {
-       "text": "றாள்மதம்",
-       "lemma": "றாள்மதம்",
-       "gloss": ""
+       "text": "மதம்",
+       "lemma": "மதம்",
+       "gloss": "rut"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "rut"
     },
     {
-     "surface": "போலப்",
+     "surface": "போல",
      "parts": [
       {
-       "text": "போலப்",
-       "lemma": "போலப்",
-       "gloss": ""
+       "text": "போல",
+       "lemma": "போல்",
+       "gloss": "like"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "like"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -243,7 +241,7 @@
       {
        "text": "பாணி",
        "lemma": "பாணி",
-       "gloss": "restraint"
+       "gloss": "delay/waiting"
       },
       {
        "text": "உம்",
@@ -251,7 +249,7 @@
        "gloss": "also"
       }
      ],
-     "gloss": "restraint also"
+     "gloss": "delay also"
     },
     {
      "surface": "உடைத்தது",
@@ -262,8 +260,13 @@
        "gloss": "it possesses"
       },
       {
-       "text": "அது",
-       "lemma": "அது",
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "euphonic"
+      },
+      {
+       "text": "து",
+       "lemma": "து",
        "gloss": "it"
       }
      ],
@@ -278,20 +281,25 @@
        "gloss": "see"
       },
       {
-       "text": "உநர்",
-       "lemma": "உநர்",
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "present/future"
+      },
+      {
+       "text": "நர்",
+       "lemma": "நர்",
        "gloss": "they who"
       }
      ],
-     "gloss": "beholders"
+     "gloss": "those who see"
     },
     {
      "surface": "பெறினே",
      "parts": [
       {
        "text": "பெறின்",
-       "lemma": "பெறின்",
-       "gloss": "if obtains"
+       "lemma": "பெறு",
+       "gloss": "if one finds"
       },
       {
        "text": "ஏ",
@@ -299,15 +307,15 @@
        "gloss": "indeed"
       }
      ],
-     "gloss": "if indeed it obtains"
+     "gloss": "if found indeed"
     }
    ]
   }
  ],
- "literal": "Desire, desire, they say, desire / is not torment and sickness indeed; having shrunk, / throbbing and subsiding are not indeed; like the deep musth / of an elephant having chewed green leaves, / it also possesses restraint, if indeed it obtains beholders.",
- "translation": "People speak of desire, desire, and desire. But desire is neither a tormenting spirit nor a disease. It does not shrink, nor does it have a throbbing rise and a subsiding fall. Like the deep musth of an elephant that has chewed green leaves, it also has a sense of restraint, if only it meets those who can perceive it.",
- "modern": "மக்கள் காமம் காமம் என்று சொல்கிறார்கள். காமம் என்பது வருத்தும் தெய்வமோ அல்லது நோயோ அல்ல. அது சுருங்கி, மிகுந்து தோன்றுவதும் பின்பு தணிந்து போவதும் இல்லை. தழைகளைத் தின்ற யானையின் மிகுந்த மதநீர் போல, அதனைக் காண்பவரைக் கண்டால் அது அடங்கித் தோன்றும் தன்மையையும் உடையது.",
- "explanation": "The hero speaks about the nature of his love for the heroine. People often speak of desire as if it were a disease or a tormenting spirit, but the hero explains that it is far more constant and deep. It does not fluctuate wildly, throbbing and subsiding, nor does it shrink away. He compares his love to the deep musth of an elephant that has fed on green leaves. Just as the elephant's musth can be restrained or delayed when it encounters a skilled handler or onlooker, his intense passion is kept under control and hidden out of restraint when he is in the presence of others who might observe him.",
+ "literal": "Desire, desire, they say. Desire / is not just an affliction or a sickness. Becoming subtle, / it has no sudden surging or subsiding. Like the rut / of an elephant that chewed leafy shoots, / it also has a period of waiting, if only it finds those who can perceive it.",
+ "translation": "People talk of desire, of desire. But desire is not merely a tormenting spirit or a disease. It is subtle; it does not suddenly surge or subside. Like the rut of an elephant that has chewed leafy shoots, it has a period of quiet waiting, if only it finds those who can truly perceive it.",
+ "modern": "காமம் காமம் என்று எல்லாரும் சொல்கிறார்கள். காமம் என்பது வெறும் வருத்தமோ அல்லது நோயோ அல்ல. அது நுட்பமாகி, திடீரென மிகுவதோ அல்லது தணிவதோ இல்லாதது. தழைகளைத் தின்ற யானையின் மதநீர் போல, அதைப் புரிந்து கொள்பவர்களைப் பெற்றால், அது வெளிப்படாமல் அடங்கி இருக்கும் காலத்தையும் உடையது.",
+ "explanation": "The hero speaks to himself about the deep nature of his love for the heroine. People often speak of desire as if it were a simple affliction or a disease that comes and goes. But the hero explains that true love is subtle and deep; it does not have sudden, erratic surges or quick cures. He compares his love to the rut of an elephant that has fed on leafy shoots. Just as the elephant's rut remains hidden and builds up slowly within, only showing itself to those who know how to look, his love has a period of quiet waiting when there is someone who can truly understand and perceive it. The imagery of the mountain elephant feeding on forest leaves belongs to the Kurinji landscape, symbolizing the deep, enduring, and internal nature of their union.",
  "model": "gemini-3.5-flash",
- "generated": "2026-11-26"
+ "generated": "2026-11-27"
 }
