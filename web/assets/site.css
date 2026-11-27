@@ -319,3 +319,18 @@ section.block { padding: 56px 0; }
 .ucell { width: 58px; height: 50px; border: 1px solid var(--line); border-radius: 8px; background: #fff; cursor: pointer; font-family: var(--ta); font-size: 20px; font-weight: 600; }
 .ucell:hover { border-color: var(--ink); }
 .ucell.playing { background: #E8C26A; border-color: #E8C26A; }
+
+/* today's verses */
+.vtabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.vtabs button { border: 1px solid #444; background: transparent; color: #E0E0DC; border-radius: 999px; padding: 7px 14px; font: inherit; font-size: 14px; font-weight: 600; cursor: pointer; }
+.vtabs button[aria-selected="true"] { background: #F7F7F5; color: var(--ink); border-color: #F7F7F5; }
+.quote .vlines { font-size: 28px; line-height: 1.55; }
+.live { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 15px; color: var(--muted); }
+.live b { color: var(--ink); }
+.live .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--mullai); display: inline-block; }
+.live-pill { background: #EAF2EA; color: var(--mullai); }
+.quote .vlines.poem { font-size: 21px; line-height: 1.6; }
+.quote .clamp { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.hero:has(#todays) { align-items: flex-start; }
+.quote [id^="vlisten-"] p.small { display: none; }
+.quote .listen { margin-top: 0; padding-top: 0; border-top: 0; }

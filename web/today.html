@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Today's verses · Thamizh.ai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Serif+Tamil:wght@400;600;700&family=Catamaran:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div data-site-header data-crumbs="<strong>Today's verses</strong>"></div>
+<main class="wrap" style="padding-top:44px;padding-bottom:56px;display:flex;flex-direction:column;gap:24px;max-width:860px">
+  <div><h1 style="font-size:clamp(30px,4.5vw,44px)">Today's verses</h1>
+  <p class="lead" style="margin-top:8px">One verse a day from each text that is live, the same for everyone today. Tomorrow brings the next.</p></div>
+  <div id="all" style="display:flex;flex-direction:column;gap:24px"></div>
+</main>
+<div data-site-footer></div>
+<script src="/assets/site.js"></script>
+<script src="/assets/listen.js"></script>
+<script src="/assets/today.js"></script>
+<script>ThToday.all(document.getElementById('all'));</script>
+</body>
+</html>

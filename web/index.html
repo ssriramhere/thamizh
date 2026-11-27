@@ -18,29 +18,22 @@
     <div>
       <p class="eyebrow">AI for Tamil</p>
       <h1>Read classical Tamil the way it was composed.</h1>
-      <p class="lead">Tirukkuṟaḷ word by word and letter by letter, with every couplet scanned by the rules of yāppu. No reading skills assumed.</p>
+      <p class="lead">The Tirukkuṟaḷ and the Caṅkam poems, word by word and letter by letter, every verse scanned by the rules of yāppu and read aloud. No reading skills assumed.</p>
       <div style="display:flex;flex-wrap:wrap;gap:12px;padding-top:6px">
-        <a class="btn" href="/kural?today">Read today's Kuṟaḷ</a>
+        <a class="btn" href="/today">Read today's verses</a>
         <a class="btn ghost" href="/letters">Learn the letters</a>
       </div>
-      <p class="ta-ui muted" style="font-size:18px">செந்தமிழ் · யாப்பு · திணை</p>
+      <p class="live"><span class="dot" aria-hidden="true"></span><b>Live now:</b> <a href="/library#kural-books">Tirukkuṟaḷ</a> 1,330 couplets · <a href="/anthology?t=kuruntokai">Kuṟuntokai</a> 401 poems · <a href="/anthology?t=purananuru">Puṟanāṉūṟu</a> 397 poems</p>
     </div>
-    <figure class="quote">
-      <p class="eyebrow">Puṟanāṉūṟu 192</p>
-      <blockquote lang="ta">யாதும் ஊரே யாவரும் கேளிர்</blockquote>
-      <p style="font-size:16px;color:#C8C8C8;font-style:italic">yātum ūrē yāvarum kēḷir</p>
-      <p style="font-size:18px">Every town is our town; everyone, our kin.</p>
-      <div class="chips"><span>yātum · tēmā</span><span>ūrē · tēmā</span><span>yāvarum · kūviḷam</span><span>kēḷir · tēmā</span></div>
-      <figcaption>Kaṇiyaṉ Pūṅkuṉṟaṉār</figcaption>
-    </figure>
+    <figure class="quote" id="todays"></figure>
   </section>
 
   <section class="wrap block" aria-labelledby="start">
     <h2 id="start">Start where you are</h2>
-    <p class="muted" style="font-size:17px;margin:8px 0 26px">Every couplet opens in layers. Add the next one when you're ready.</p>
+    <p class="muted" style="font-size:17px;margin:8px 0 26px">Every verse opens in layers. Add the next one when you're ready.</p>
     <div class="cards">
       <a class="card door" href="/letters"><span class="who">New to Tamil</span><h3>Learn the letters with Āttichūṭi</h3><span class="muted">One vowel and one line of Avvaiyār at a time.</span></a>
-      <a class="card door" href="/kural?today&amp;level=2"><span class="who">I speak it, but can't read</span><h3>Follow a Kuṟaḷ in English letters</h3><span class="muted">Then tap each Tamil letter to see what it is.</span></a>
+      <a class="card door" href="/kural?today&amp;level=2"><span class="who">I speak it, but can't read</span><h3>Follow a verse in English letters</h3><span class="muted">Then tap each Tamil letter to see what it is.</span></a>
       <a class="card door" href="/kural?today&amp;level=4"><span class="who">I read Tamil</span><h3>Read classical Tamil word by word</h3><span class="muted">Every word glossed, with the couplet in today's Tamil.</span></a>
       <a class="card door" href="/kural?today&amp;level=6"><span class="who">I study classical Tamil</span><h3>Meter and explanation</h3><span class="muted">Full scansion: units, feet, linkages and rhyme.</span></a>
     </div>
@@ -52,9 +45,10 @@
       <a href="/library" style="font-weight:600">Browse the library →</a>
     </div>
     <div class="cards">
-      <a class="card" href="/library"><span class="pill">Open</span><span lang="ta" style="font-size:24px;font-weight:600">திருக்குறள்</span><h3>Tirukkuṟaḷ</h3><span class="muted">1,330 couplets in 133 chapters, every one scanned.</span></a>
-      <div class="card" style="display:flex;flex-direction:column;gap:10px"><span class="pill">Coming</span><span lang="ta" style="font-size:24px;font-weight:600">குறுந்தொகை</span><h3>Kuṟuntokai</h3><span class="muted">Short Caṅkam love poems, each set in one of five landscapes.</span></div>
-      <div class="card" style="display:flex;flex-direction:column;gap:10px"><span class="pill">Coming</span><span lang="ta" style="font-size:24px;font-weight:600">புறநானூறு</span><h3>Puṟanāṉūṟu</h3><span class="muted">Four hundred poems of kings, war and conduct.</span></div>
+      <a class="card" href="/library#kural-books"><span class="pill live-pill">Live</span><span lang="ta" style="font-size:24px;font-weight:600">திருக்குறள்</span><h3>Tirukkuṟaḷ</h3><span class="muted">1,330 couplets in 133 chapters. Read aloud, with the word being read lit up.</span></a>
+      <a class="card" href="/anthology?t=kuruntokai"><span class="pill live-pill">Live</span><span lang="ta" style="font-size:24px;font-weight:600">குறுந்தொகை</span><h3>Kuṟuntokai</h3><span class="muted">401 short love poems, each set in one of the five landscapes.</span></a>
+      <a class="card" href="/anthology?t=purananuru"><span class="pill live-pill">Live</span><span lang="ta" style="font-size:24px;font-weight:600">புறநானூறு</span><h3>Puṟanāṉūṟu</h3><span class="muted">Poems of kings and patrons, war, giving and grief. 397 of the 400 survive.</span></a>
+      <div class="card" style="display:flex;flex-direction:column;gap:10px"><span class="pill">Coming</span><span lang="ta" style="font-size:20px;font-weight:600">நற்றிணை · அகநானூறு · ஐங்குறுநூறு</span><h3>More Caṅkam anthologies</h3><span class="muted">Naṟṟiṇai, Akanāṉūṟu and Aiṅkuṟunūṟu.</span></div>
     </div>
   </section>
 
@@ -73,7 +67,7 @@
   <section class="wrap block" aria-labelledby="src">
     <h2 id="src">How the readings are made</h2>
     <div class="cards" style="margin-top:24px">
-      <div><h3 style="border-top:3px solid var(--ink);padding-top:14px">Text</h3><p class="muted" style="margin-top:6px">Five open digital editions, compared couplet by couplet. Where they disagree, the reading that scans wins.</p></div>
+      <div><h3 style="border-top:3px solid var(--ink);padding-top:14px">Text</h3><p class="muted" style="margin-top:6px">For the Kuṟaḷ, five open digital editions compared couplet by couplet; where they disagree, the reading that scans wins. The Caṅkam poems are from Project Madurai.</p></div>
       <div><h3 style="border-top:3px solid var(--ink);padding-top:14px">Meter</h3><p class="muted" style="margin-top:6px">A rule engine built on Tolkāppiyam and Yāpparuṅkalakkārikai. No AI decides the meter.</p></div>
       <div><h3 style="border-top:3px solid var(--ink);padding-top:14px">Translations</h3><p class="muted" style="margin-top:6px">Generated by AI from the Tamil text, the word splits and the scansion, and labelled as such.</p></div>
     </div>
@@ -81,5 +75,8 @@
 </main>
 <div data-site-footer></div>
 <script src="/assets/site.js"></script>
+<script src="/assets/listen.js"></script>
+<script src="/assets/today.js"></script>
+<script>ThToday.tabs(document.getElementById('todays'));</script>
 </body>
 </html>

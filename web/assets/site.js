@@ -9,7 +9,7 @@
     const links = [
       ['/learn', 'Learn'],
       ['/library', 'Library'],
-      ['/kural?today', 'Kuṟaḷ for today'],
+      ['/today', 'Today\'s verses'],
     ];
     el.innerHTML =
       '<div class="band" aria-hidden="true"><span class="k"></span><span class="m"></span><span class="r"></span><span class="n"></span><span class="p"></span></div>' +
