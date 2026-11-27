@@ -136,7 +136,7 @@ def main() -> None:
             if f:
                 if "drop_lines" in f:
                     p["lines"] = [l for i, l in enumerate(p["lines"]) if i not in f["drop_lines"]]
-                p.update({k: v for k, v in f.items() if k not in ("drop_lines", "why")})
+                p.update({k: v for k, v in f.items() if k not in ("drop_lines", "why", "status")})
         (out / f"{name}.json").write_text(json.dumps(poems, ensure_ascii=False, indent=1), encoding="utf-8")
         nums = [p["n"] for p in poems]
         missing = sorted(set(range(1, max(nums) + 1)) - set(nums))

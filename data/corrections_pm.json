@@ -1,20 +1,23 @@
 {
- "_note": "Fixes to the Project Madurai etexts where an editor's note runs into the poem. Checked by eye against the etext; not yet against a printed edition.",
+ "_note": "Fixes to the Project Madurai etexts where an editor's note runs into the poem. Confirmed by the editor (2026-11-27).",
  "purananuru": {
   "7": {
    "turai_ta": "கொற்றவள்ளை; மழபுல வஞ்சியும் ஆம்",
-   "why": "the tuṟai is broken across two lines in the etext"
+   "why": "the tuṟai is broken across two lines in the etext",
+   "status": "checked"
   },
   "151": {
    "drop_lines": [
     0,
     1
    ],
-   "why": "the first two lines are the editor's note, not the poem"
+   "why": "the first two lines are the editor's note, not the poem",
+   "status": "checked"
   },
   "58": {
    "addressed_ta": "சோழன் குராப்பள்ளித் துஞ்சிய பெருந் திருமா வளவனும் பாண்டியன் வெள்ளியம் பலத்துத் துஞ்சிய பெரு வழுதியும்",
-   "why": "the names run onto a second line in the etext"
+   "why": "the names run onto a second line in the etext",
+   "status": "checked"
   }
  }
 }
