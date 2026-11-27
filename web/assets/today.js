@@ -20,7 +20,7 @@
       const k = ch.kurals.find((x) => x.n === n);
       const chap = idx.books.flatMap((b) => b.chapters).find((c) => c.n === idx.chapter_of[n]);
       return { id, n, lines: k.lines, tr: k.tr, translation: k.ai && k.ai.translation, feet: k.scan.lines[0],
-        where: 'Tirukkuṟaḷ ' + n + (chap ? ' · ' + cap(chap.tr) : ''), href: '/kural?n=' + n, timing: k.timing, audio: true };
+        where: 'Tirukkuṟaḷ ' + n + (chap ? ' · ' + cap(chap.tr) : ''), href: '/kural?n=' + n, timing: k.timing, sync: k.sync, audio: !!k.timing, base: '/audio/kural/' };
     }
     const idx = await Th.json('/data/' + id + '/index.json');
     const ready = idx.poems.filter((p) => p.ai);
@@ -30,24 +30,40 @@
     return { id, n: p.n, lines: p.lines, tr: p.tr, translation: p.ai && p.ai.translation,
       feet: (p.scan.lines[0] || []).map((f) => ({ tr: f.tr, foot: f.foot })),
       where: TEXTS.find((t) => t.id === id).title + ' ' + p.n + (c.poet_tr ? ' · ' + c.poet_tr : ''),
-      label: TINAI[c.tinai] || (c.tinai ? cap(c.tinai) : ''), href: '/poem?t=' + id + '&n=' + p.n };
+      label: TINAI[c.tinai] || (c.tinai ? cap(c.tinai) : ''), href: '/poem?t=' + id + '&n=' + p.n,
+      timing: p.timing, sync: p.sync, audio: !!p.timing, base: '/audio/' + id + '/' };
   }
 
   function card(v, compact) {
-    const lines = compact && v.lines.length > 4 ? v.lines.slice(0, 4) : v.lines;
-    const more = lines.length < v.lines.length ? '<p class="small" style="color:#BDBDB8">… ' + (v.lines.length - lines.length) + ' more lines</p>' : '';
-    return '<blockquote lang="ta" class="vlines' + (v.lines.length > 2 ? ' poem' : '') + '" id="vl-' + v.id + '">' + (v.audio ? ThListen.wrap(lines) : lines.map(esc).join('<br>')) + '</blockquote>' + more +
+    const cut = compact && v.lines.length > 4 ? 4 : v.lines.length;
+    const html = (v.audio ? ThListen.wrap(v.lines) : v.lines.map(esc).join('<br>')).split('<br>');
+    const lines = v.lines.slice(0, cut);
+    const hidden = html.length - cut;
+    const more = hidden > 0 ? '<button type="button" class="linkbtn vmore" style="color:#C8C8C8;align-self:flex-start">Show all ' + v.lines.length + ' lines</button>' : '';
+    return '<blockquote lang="ta" class="vlines' + (v.lines.length > 2 ? ' poem' : '') + '" id="vl-' + v.id + '">' + html.slice(0, cut).join('<br>') +
+      (hidden > 0 ? '<span class="vrest" hidden><br>' + html.slice(cut).join('<br>') + '</span>' : '') + '</blockquote>' + more +
       '<p style="font-size:16px;color:#C8C8C8;font-style:italic">' + (compact ? v.tr.slice(0, lines.length) : v.tr).map(esc).join('<br>') + '</p>' +
       (v.translation ? '<p class="' + (compact ? 'clamp' : '') + '" style="font-size:18px">' + esc(v.translation) + '</p>' : '') +
       (v.audio ? '<div id="vlisten-' + v.id + '"></div>' : '') +
+      (v.audio && v.sync ? '<div class="nowword" id="vnow-' + v.id + '"><span class="muted">Press play: each word\'s meaning shows here as it is read.</span></div>' : '') +
       '<div class="chips">' + v.feet.map((f) => '<span>' + esc(f.tr) + ' · ' + esc(f.foot) + '</span>').join('') + '</div>' +
       '<figcaption style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap"><span>' + esc(v.where) + (v.label ? ' · ' + esc(v.label) : '') + '</span>' +
       '<a href="' + v.href + '" style="color:var(--gold);font-weight:600">Read it →</a></figcaption>';
   }
   function wire(v) {
-    if (!v.audio) return;
-    const box = document.getElementById('vl-' + v.id);
-    ThListen.bar(document.getElementById('vlisten-' + v.id), v.n, (t) => ThListen.paint(box, v.timing, t));
+    if (!v.audio) { const b = document.querySelector('#vl-' + v.id + ' ~ .vmore'); if (b) b.remove(); return; }
+    const box = document.getElementById('vl-' + v.id), now = document.getElementById('vnow-' + v.id);
+    const showAll = () => { const r = box.querySelector('.vrest'); if (r) r.hidden = false; const b = box.parentElement.querySelector('.vmore'); if (b) b.remove(); };
+    const mb = box.parentElement.querySelector('.vmore'); if (mb) mb.onclick = showAll;
+    let last = -2;
+    ThListen.bar(document.getElementById('vlisten-' + v.id), v.n, (t) => {
+      const cur = ThListen.paint(box, v.timing, t);
+      if (t != null && t > 0) showAll();     // the whole poem is read, so show all of it
+      if (!now || cur === last) return;
+      last = cur;
+      const g = cur >= 0 && v.sync ? v.sync[cur] : null;
+      if (g && g.length) now.innerHTML = g.map((x) => '<span class="nw"><b lang="ta">' + esc(x[0]) + '</b> ' + esc(x[1] || '') + '</span>').join('');
+    }, v.base);
   }
 
   // The home page card: one tab per live text.
