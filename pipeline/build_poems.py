@@ -101,7 +101,9 @@ def main() -> None:
             t = timings.get(str(p["n"]), {})
             nwords = sum(1 for l in p["lines"] for w in l.split() if w != "…")
             if t.get("male") and t.get("female") and len(t["male"]) == nwords == len(t["female"]):
-                rec["timing"] = {"male": t["male"], "female": t["female"]}
+                from timing_fix import smooth
+                ws = [w for l in p["lines"] for w in l.split() if w != "…"]
+                rec["timing"] = {v: smooth(ws, t[v]) for v in ("male", "female")}
                 if ai and len(ai.get("lines", [])) == len(p["lines"]):
                     rec["sync"] = gloss_sync(p["lines"], ai["lines"])
             (out / f"{p['n']}.json").write_text(json.dumps(rec, ensure_ascii=False, separators=(",", ":")))

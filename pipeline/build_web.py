@@ -53,7 +53,9 @@ def couplet(k: dict) -> dict:
         from build_poems import gloss_sync
         rec["sync"] = gloss_sync([" ".join(k["text"].split("\n"))], [{"words": _ai["words"]}])
     if t.get("male") or t.get("female"):
-        rec["timing"] = {v: t[v] for v in ("male", "female") if t.get(v)}
+        from timing_fix import smooth
+        _w = k["text"].split()
+        rec["timing"] = {v: smooth(_w, t[v]) for v in ("male", "female") if t.get(v)}
     ai = AI / f"{k['n']}.json"
     if ai.exists():
         rec["ai"] = json.loads(ai.read_text())
