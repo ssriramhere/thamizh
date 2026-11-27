@@ -37,6 +37,7 @@
   async function list() {
     const q = new URLSearchParams(location.search), slug = TEXTS[q.get('t')] ? q.get('t') : 'kuruntokai', T = TEXTS[slug];
     document.title = T.title + ' · Thamizh.ai';
+    Th.meta(T.title + ': all its poems with tiṇai, poet and speaker, translations and recitation.');
     Th.crumbs('<a href="/library">Library</a> › <strong>' + T.title + '</strong>');
     const head = document.getElementById('head');
     head.innerHTML = '<div style="flex:1 1 480px"><h1 lang="ta" style="font-size:clamp(34px,5vw,48px)">' + T.ta + '</h1>' +
@@ -85,6 +86,7 @@
     const pos = idx.poems.findIndex((x) => x.n === n);
     const prev = idx.poems[pos - 1], next = idx.poems[pos + 1];
     const c = p.colophon, ai = p.ai || {};
+    Th.meta(T.title + ' ' + n + (c.poet_tr ? ', by ' + c.poet_tr : '') + ': ' + p.lines.slice(0, 2).join(' ') + ' … Word by word, with translation and recitation.');
     document.getElementById('poem').innerHTML =
       '<section class="layer dark"><div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center">' +
       '<p class="eyebrow">' + T.title + ' ' + n + (c.poet_tr ? ' · ' + esc(c.poet_tr) : '') + '</p>' +

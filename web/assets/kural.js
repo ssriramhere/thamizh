@@ -281,6 +281,7 @@
 
   function render(k, ch) {
     document.title = 'Kuṟaḷ ' + k.n + ' · Tirukkuṟaḷ · Thamizh.ai';
+    Th.meta('Tirukkuṟaḷ ' + k.n + ', chapter ' + ch.n + ' (' + ch.tr + '): ' + k.lines.join(' ') + '. Word by word, with meter, translation and recitation.');
     document.getElementById('kicker').textContent = (isToday ? 'Kuṟaḷ for today · ' : '') + 'Tirukkuṟaḷ ' + k.n;
     document.getElementById('chname').innerHTML = 'Chapter ' + ch.n + ' · <span lang="ta" style="font-family:var(--ta)">' + esc(ch.ta) + '</span> · ' + esc(ch.tr);
     const cc = document.getElementById('crumb-ch');

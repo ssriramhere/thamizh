@@ -51,6 +51,11 @@
       if (!r.ok) throw new Error(url + ' ' + r.status);
       return r.json();
     },
+    meta(desc) {
+      const set = (sel, v) => { const m = document.querySelector(sel); if (m) m.setAttribute('content', v); };
+      set('meta[name="description"]', desc); set('meta[property="og:description"]', desc);
+      set('meta[property="og:title"]', document.title); set('meta[property="og:url"]', location.href);
+    },
     crumbs(html) { const c = document.querySelector('.site-header .crumbs'); if (c) c.innerHTML = html; },
     store: {
       get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },

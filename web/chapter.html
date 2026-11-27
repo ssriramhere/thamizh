@@ -4,6 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chapter · Tirukkuṟaḷ · Thamizh.ai</title>
+<meta name="description" content="A chapter of the Tirukkuṟaḷ: ten couplets with translations and recitation.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Thamizh.ai">
+<meta property="og:title" content="Chapter · Tirukkuṟaḷ · Thamizh.ai">
+<meta property="og:description" content="A chapter of the Tirukkuṟaḷ: ten couplets with translations and recitation.">
+<meta property="og:url" content="https://thamizh.ai/chapter">
+<meta property="og:image" content="https://thamizh.ai/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Thamizh.ai: the first Kuṟaḷ in Tamil, with the line Read classical Tamil the way it was composed">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Serif+Tamil:wght@400;600;700&family=Catamaran:wght@400;600;700&display=swap" rel="stylesheet">
@@ -37,6 +48,7 @@
   let ch, book;
   idx.books.forEach((b) => b.chapters.forEach((x) => { if (x.n === c) { ch = x; book = b; } }));
   document.title = ch.tr + ' · Tirukkuṟaḷ · Thamizh.ai';
+  Th.meta('Tirukkuṟaḷ chapter ' + ch.n + ', ' + ch.ta + ' (' + ch.tr + '): ten couplets with translations and recitation.');
   document.getElementById('crumb').textContent = 'Chapter ' + c;
   document.getElementById('kicker').textContent = 'Chapter ' + c + ' · ' + book.tr;
   document.getElementById('title').textContent = ch.ta;
