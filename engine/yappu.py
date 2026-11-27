@@ -449,6 +449,46 @@ def _scan_with(raw: list[list[str]], **opts) -> Scan:
 
 # ---------------------------------------------------------------- re-joining
 
+EXTRA: set = {"R1", "R2", "R3", "R4", "R5", "R6", "R7", "R9"}   # accepted 2026-11-27; R8 is too loose
+
+
+def _extra(acc, A, part, B):
+    """Joining rules found in the Caṅkam poems (each tagged; EXTRA says which are on)."""
+    out = []
+    a, b = A[-1], B[0]
+    head = "".join(x.text for x in A[:-1])
+    rest = "".join(x.text for x in B[1:])
+    NAS = {"க": "ங", "ச": "ஞ", "த": "ந", "ப": "ம", "ட": "ண", "ற": "ன"}
+    # R1 kuṟṟiyalukaram + ய: u becomes i (அறிதற்கு + யாஅம் -> அறிதற்கியாஅம்)
+    if a.kind == "k" and a.vowel == "உ" and a.consonant in HARD and b.consonant == "ய":
+        out.append(("R1", head + a.consonant + "ி" + part))
+    # R2 final ம் drops and a hard consonant after it doubles (செம்புலம் + பெயல் -> செம்புலப்பெயல்)
+    if a.kind == "o" and a.consonant == "ம" and b.consonant in HARD:
+        out.append(("R2", head + b.consonant + PULLI + part))
+    # R3 ல் -> ன், ள் -> ண் before a nasal (பெயல் + மழை -> பெயன்மழை)
+    if a.kind == "o" and a.consonant in ("ல", "ள") and b.consonant in ("ம", "ந", "ஞ", "ங", "ண", "ன"):
+        out.append(("R3", head + {"ல": "ன", "ள": "ண"}[a.consonant] + PULLI + part))
+    # R4 ன் + ந -> ந்ந (என் + நெஞ்சு -> எந்நெஞ்சு)
+    if a.kind == "o" and a.consonant == "ன" and b.consonant == "ந":
+        out.append(("R4", head + "ந" + PULLI + part))
+    # R5 a final Cu drops before a word that starts with the same C (புறத்து + தந்த -> புறத்தந்த)
+    if a.kind == "k" and a.vowel == "உ" and a.consonant in HARD and b.consonant == a.consonant and len(A) > 1:
+        out.append(("R5", head + part))
+    # R6 ல் + த -> ற, ள் + த -> ட, without doubling (துயில் + துறந்து -> துயிறுறந்து, இவள் + தன் -> இவடன்)
+    if a.kind == "o" and a.consonant in ("ல", "ள") and b.consonant == "த":
+        out.append(("R6", head + b.text.replace("த", {"ல": "ற", "ள": "ட"}[a.consonant], 1) + rest))
+    # R7 ன் + த -> ற்ற (மகளிரின் + தோன்று -> மகளிரிற்றோன்று)
+    if a.kind == "o" and a.consonant == "ன" and b.consonant == "த":
+        out.append(("R7", head + "ற" + PULLI + b.text.replace("த", "ற", 1) + rest))
+    # R8 a noun ending in a long vowel takes a nasal before a hard consonant (பூ + கரும்பு -> பூங்கரும்பு)
+    if a.kind == "n" and b.consonant in HARD and len(A) <= 2:
+        out.append(("R8", acc + NAS[b.consonant] + PULLI + part))
+    # R9 a final short a drops before a vowel (எழுக + என -> எழுகென)
+    if a.kind == "k" and a.vowel == "அ" and a.consonant and not b.consonant and b.kind in ("k", "n"):
+        out.append(("R9", head + a.consonant + {"அ": "", "ஆ": "ா", "இ": "ி", "ஈ": "ீ", "உ": "ு", "ஊ": "ூ", "எ": "ெ", "ஏ": "ே", "ஐ": "ை", "ஒ": "ொ", "ஓ": "ோ", "ஔ": "ௌ"}[b.vowel] + rest))
+    return out
+
+
 def rejoin(parts: list[str]) -> set[str]:
     """Join word parts by the common joining rules and return the possible
     results. Used to check a proposed word split: the split is accepted
@@ -510,6 +550,10 @@ def rejoin(parts: list[str]) -> set[str]:
                 nxt.add(acc[:-2] + nas + PULLI + nas + rest)
                 if A[-1].consonant in ("ன", "ண"):
                     nxt.add(acc[:-2] + nas + rest)
+            if EXTRA:
+                for r, cand in _extra(acc, A, part, B):
+                    if r in EXTRA:
+                        nxt.add(cand)
             if len(A) > 1 and A[-1].text == "மை" and B:
                 # a quality noun drops மை (பண்புத்தொகை): கருமை + கோல் -> கருங்கோல், பெருமை + தேன் -> பெருந்தேன்
                 stem = "".join(x.text for x in A[:-1])

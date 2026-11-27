@@ -58,55 +58,72 @@
   {
    "words": [
     {
-     "surface": "வெள்வாய்க்",
+     "surface": "வெள்வாய்",
      "parts": [
       {
-       "text": "வெள்வாய்க்",
-       "lemma": "வெள்வாய்க்",
-       "gloss": ""
+       "text": "வெள்",
+       "lemma": "வெள்",
+       "gloss": "white"
+      },
+      {
+       "text": "வாய்",
+       "lemma": "வாய்",
+       "gloss": "mouth"
       }
      ],
-     "gloss": "",
+     "gloss": "white-mouthed"
+    },
+    {
+     "surface": "கழுதை",
+     "parts": [
+      {
+       "text": "கழுதை",
+       "lemma": "கழுதை",
+       "gloss": "donkey"
+      }
+     ],
+     "gloss": "donkey"
+    },
+    {
+     "surface": "புல்",
+     "parts": [
+      {
+       "text": "புல்",
+       "lemma": "புல்",
+       "gloss": "lowly"
+      }
+     ],
+     "gloss": "lowly"
+    },
+    {
+     "surface": "இனம்",
+     "parts": [
+      {
+       "text": "இனம்",
+       "lemma": "இனம்",
+       "gloss": "herd"
+      }
+     ],
+     "gloss": "herd",
      "split_unverified": true
     },
     {
-     "surface": "கழுதைப்",
+     "surface": "பூட்டி",
      "parts": [
       {
-       "text": "கழுதைப்",
-       "lemma": "கழுதைப்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "புல்லினப்",
-     "parts": [
+       "text": "பூட்டு",
+       "lemma": "பூட்டு",
+       "gloss": "yoke"
+      },
       {
-       "text": "புல்லினப்",
-       "lemma": "புல்லினப்",
-       "gloss": ""
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "having"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "பூட்டிப்",
-     "parts": [
-      {
-       "text": "பூட்டிப்",
-       "lemma": "பூட்டிப்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "having yoked"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -680,11 +697,10 @@
       {
        "text": "விளங்கு",
        "lemma": "விளங்கு",
-       "gloss": ""
+       "gloss": "shine"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "shining"
     },
     {
      "surface": "பொன்",
@@ -692,50 +708,76 @@
       {
        "text": "பொன்",
        "lemma": "பொன்",
-       "gloss": ""
+       "gloss": "gold"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "gold"
     },
     {
      "surface": "எறிந்த",
      "parts": [
       {
-       "text": "எறிந்த",
-       "lemma": "எறிந்த",
-       "gloss": ""
+       "text": "எறி",
+       "lemma": "எறி",
+       "gloss": "inlay"
+      },
+      {
+       "text": "ந்",
+       "lemma": "த்",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "inlaid"
     },
     {
-     "surface": "நலங்கிளர்",
+     "surface": "நலம்",
      "parts": [
       {
-       "text": "நலங்கிளர்",
-       "lemma": "நலங்கிளர்",
-       "gloss": ""
+       "text": "நலம்",
+       "lemma": "நலம்",
+       "gloss": "beauty"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "beauty"
+    },
+    {
+     "surface": "கிளர்",
+     "parts": [
+      {
+       "text": "கிளர்",
+       "lemma": "கிளர்",
+       "gloss": "abound"
+      }
+     ],
+     "gloss": "abounding"
     },
     {
      "surface": "பலகையடு",
      "parts": [
       {
-       "text": "பலகையடு",
-       "lemma": "பலகையடு",
-       "gloss": ""
+       "text": "பலகை",
+       "lemma": "பலகை",
+       "gloss": "shield"
+      },
+      {
+       "text": "அடு",
+       "lemma": "அடு",
+       "gloss": "with (sociative case suffix)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "with the shield"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

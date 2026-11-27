@@ -336,3 +336,6 @@ section.block { padding: 56px 0; }
 .quote .listen { margin-top: 0; padding-top: 0; border-top: 0; }
 .pmhead { white-space: pre-wrap; font-size: 13px; line-height: 1.5; background: var(--soft); border: 1px solid var(--line); border-radius: 8px; padding: 14px; margin: 0; font-family: ui-monospace, Menlo, Consolas, monospace; }
 .pm-credit { font-size: 14px; color: var(--muted); border-left: 3px solid var(--line); padding: 4px 0 4px 12px; }
+.nowword { min-height: 52px; display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; padding: 10px 14px; border-radius: 10px; background: rgba(255,255,255,.07); font-size: 17px; }
+.nowword .nw b { font-family: var(--ta-ui); font-size: 20px; color: #E8C26A; margin-right: 4px; }
+.nowword .muted { color: #BDBDB8; font-size: 15px; }

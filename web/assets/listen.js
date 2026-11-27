@@ -30,11 +30,12 @@
   function paint(box, timing, t, v) {
     const tm = timing && timing[v || voice()];
     const spans = box ? box.querySelectorAll('.rw') : [];
-    if (!tm || t == null) { spans.forEach((s) => s.classList.remove('on', 'done')); return; }
+    if (!tm || t == null) { spans.forEach((s) => s.classList.remove('on', 'done')); return -1; }
     let cur = -1;
     tm.forEach((x, i) => { if (t >= x[0]) cur = i; });
     if (cur >= 0 && t > tm[cur][1] + 0.4) cur = -1;
     spans.forEach((s, i) => { s.classList.toggle('on', i === cur); s.classList.toggle('done', i < cur || (cur < 0 && t > tm[i][1])); });
+    return cur;
   }
   function ticker(audio, fn) {
     const loop = () => { fn(audio.currentTime); if (!audio.paused) requestAnimationFrame(loop); };

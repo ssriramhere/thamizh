@@ -599,16 +599,15 @@
   {
    "words": [
     {
-     "surface": "முண்டகக்",
+     "surface": "முண்டகம்",
      "parts": [
       {
-       "text": "முண்டகக்",
-       "lemma": "முண்டகக்",
-       "gloss": ""
+       "text": "முண்டகம்",
+       "lemma": "முண்டகம்",
+       "gloss": "sea-holly"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sea-holly"
     },
     {
      "surface": "கோதை",
@@ -616,11 +615,10 @@
       {
        "text": "கோதை",
        "lemma": "கோதை",
-       "gloss": ""
+       "gloss": "garland"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "garland"
     },
     {
      "surface": "ஒண்டொடி",
@@ -628,26 +626,29 @@
       {
        "text": "ஒண்டொடி",
        "lemma": "ஒண்டொடி",
-       "gloss": ""
+       "gloss": "bright bangles"
       }
      ],
-     "gloss": "",
+     "gloss": "bright bangles",
      "split_unverified": true
     },
     {
      "surface": "மகளிர்",
      "parts": [
       {
-       "text": "மகளிர்",
-       "lemma": "மகளிர்",
-       "gloss": ""
+       "text": "மகள்",
+       "lemma": "மகள்",
+       "gloss": "woman"
+      },
+      {
+       "text": "இர்",
+       "lemma": "இர்",
+       "gloss": "plural suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "women"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -989,52 +990,62 @@
      "surface": "ஒம்பா",
      "parts": [
       {
-       "text": "ஒம்பா",
-       "lemma": "ஒம்பா",
-       "gloss": ""
+       "text": "ஒம்பு",
+       "lemma": "ompu",
+       "gloss": "spare"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ā",
+       "gloss": "negative relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "unsparing"
     },
     {
      "surface": "ஈகை",
      "parts": [
       {
-       "text": "ஈகை",
-       "lemma": "ஈகை",
-       "gloss": ""
+       "text": "ஈ",
+       "lemma": "ī",
+       "gloss": "give"
+      },
+      {
+       "text": "கை",
+       "lemma": "kai",
+       "gloss": "noun suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "generosity"
     },
     {
      "surface": "மாவேள்",
      "parts": [
       {
-       "text": "மாவேள்",
-       "lemma": "மாவேள்",
-       "gloss": ""
+       "text": "மா",
+       "lemma": "mā",
+       "gloss": "great"
+      },
+      {
+       "text": "வேள்",
+       "lemma": "vēḷ",
+       "gloss": "chieftain"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "great chieftain"
     },
     {
      "surface": "எவ்வி",
      "parts": [
       {
        "text": "எவ்வி",
-       "lemma": "எவ்வி",
-       "gloss": ""
+       "lemma": "evvi",
+       "gloss": "Evvi"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Evvi (a chieftain)"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1157,55 +1168,72 @@
   {
    "words": [
     {
-     "surface": "பொன்னணி",
+     "surface": "பொன்",
      "parts": [
       {
-       "text": "பொன்னணி",
-       "lemma": "பொன்னணி",
-       "gloss": ""
+       "text": "பொன்",
+       "lemma": "பொன்",
+       "gloss": "gold"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "gold"
     },
     {
-     "surface": "யானைத்",
+     "surface": "அணி",
      "parts": [
       {
-       "text": "யானைத்",
-       "lemma": "யானைத்",
-       "gloss": ""
+       "text": "அணி",
+       "lemma": "அணி",
+       "gloss": "adorn"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "adorned"
     },
     {
-     "surface": "தொன்முதிர்",
+     "surface": "யானை",
      "parts": [
       {
-       "text": "தொன்முதிர்",
-       "lemma": "தொன்முதிர்",
-       "gloss": ""
+       "text": "யானை",
+       "lemma": "யானை",
+       "gloss": "elephant"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "elephant"
+    },
+    {
+     "surface": "தொல்",
+     "parts": [
+      {
+       "text": "தொல்",
+       "lemma": "தொல்",
+       "gloss": "ancient"
+      }
+     ],
+     "gloss": "ancient"
+    },
+    {
+     "surface": "முதிர்",
+     "parts": [
+      {
+       "text": "முதிர்",
+       "lemma": "முதிர்",
+       "gloss": "mature"
+      }
+     ],
+     "gloss": "mature"
     },
     {
      "surface": "வேளிர்",
      "parts": [
       {
        "text": "வேளிர்",
-       "lemma": "வேளிர்",
-       "gloss": ""
+       "lemma": "வேள்",
+       "gloss": "Vēḷir chieftains"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Vēḷir chieftains"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1339,62 +1367,78 @@
       {
        "text": "நின்று",
        "lemma": "நின்று",
-       "gloss": ""
+       "gloss": "having stood"
       }
      ],
-     "gloss": "",
+     "gloss": "having stood",
      "split_unverified": true
     },
     {
      "surface": "நிலைஇயர்",
      "parts": [
       {
-       "text": "நிலைஇயர்",
-       "lemma": "நிலைஇயர்",
-       "gloss": ""
+       "text": "நிலை",
+       "lemma": "நிலை",
+       "gloss": "endure"
+      },
+      {
+       "text": "இயர்",
+       "lemma": "இயர்",
+       "gloss": "optative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "may it endure"
     },
     {
      "surface": "நின்",
      "parts": [
       {
        "text": "நின்",
-       "lemma": "நின்",
-       "gloss": ""
+       "lemma": "நீ",
+       "gloss": "your"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "your"
     },
     {
-     "surface": "நாண்மீன்",
+     "surface": "நாள்",
      "parts": [
       {
-       "text": "நாண்மீன்",
-       "lemma": "நாண்மீன்",
-       "gloss": ""
+       "text": "நாள்",
+       "lemma": "நாள்",
+       "gloss": "day"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "day (birth star)"
+    },
+    {
+     "surface": "மீன்",
+     "parts": [
+      {
+       "text": "மீன்",
+       "lemma": "மீன்",
+       "gloss": "star"
+      }
+     ],
+     "gloss": "star"
     },
     {
      "surface": "நில்லாது",
      "parts": [
       {
-       "text": "நில்லாது",
-       "lemma": "நில்லாது",
-       "gloss": ""
+       "text": "நில்",
+       "lemma": "நில்",
+       "gloss": "stand"
+      },
+      {
+       "text": "ஆது",
+       "lemma": "ஆது",
+       "gloss": "without"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "without standing"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1766,13 +1810,17 @@
      "surface": "இரவன்",
      "parts": [
       {
-       "text": "இரவன்",
-       "lemma": "இரவன்",
-       "gloss": ""
+       "text": "இரவு",
+       "lemma": "இரவு",
+       "gloss": "begging"
+      },
+      {
+       "text": "அன்",
+       "lemma": "அன்",
+       "gloss": "person suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "suppliant"
     },
     {
      "surface": "மாக்கள்",
@@ -1780,38 +1828,44 @@
       {
        "text": "மாக்கள்",
        "lemma": "மாக்கள்",
-       "gloss": ""
+       "gloss": "people"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "people"
     },
     {
      "surface": "ஈகை",
      "parts": [
       {
-       "text": "ஈகை",
-       "lemma": "ஈகை",
-       "gloss": ""
+       "text": "ஈ",
+       "lemma": "ஈ",
+       "gloss": "give"
+      },
+      {
+       "text": "கை",
+       "lemma": "கை",
+       "gloss": "noun suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "generosity"
     },
     {
      "surface": "நுவல",
      "parts": [
       {
-       "text": "நுவல",
-       "lemma": "நுவல",
-       "gloss": ""
+       "text": "நுவல்",
+       "lemma": "நுவல்",
+       "gloss": "praise"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "to praise"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1821,23 +1875,27 @@
       {
        "text": "ஒண்டொடி",
        "lemma": "ஒண்டொடி",
-       "gloss": ""
+       "gloss": "women with bright bangles"
       }
      ],
-     "gloss": "",
+     "gloss": "women with bright bangles",
      "split_unverified": true
     },
     {
      "surface": "மகளிர்",
      "parts": [
       {
-       "text": "மகளிர்",
-       "lemma": "மகளிர்",
-       "gloss": ""
+       "text": "மகள்",
+       "lemma": "மகள்",
+       "gloss": "woman"
+      },
+      {
+       "text": "இர்",
+       "lemma": "இர்",
+       "gloss": "plural suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "women"
     },
     {
      "surface": "பொலங்கலத்து",
@@ -1845,26 +1903,34 @@
       {
        "text": "பொலங்கலத்து",
        "lemma": "பொலங்கலத்து",
-       "gloss": ""
+       "gloss": "in the golden vessel"
       }
      ],
-     "gloss": "",
+     "gloss": "in the golden vessel",
      "split_unverified": true
     },
     {
      "surface": "ஏந்திய",
      "parts": [
       {
-       "text": "ஏந்திய",
-       "lemma": "ஏந்திய",
-       "gloss": ""
+       "text": "ஏந்து",
+       "lemma": "ஏந்து",
+       "gloss": "hold up"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "held up"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

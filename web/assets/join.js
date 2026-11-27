@@ -72,6 +72,16 @@
           nxt.add(acc.slice(0, -2) + nas + PULLI + nas + part.slice(1));
           if ('னண'.includes(last.c)) nxt.add(acc.slice(0, -2) + nas + part.slice(1));
         }
+        // Rules found in the Caṅkam poems (R1–R7, R9 in engine/yappu.py)
+        const VS = { 'அ': '', 'ஆ': 'ா', 'இ': 'ி', 'ஈ': 'ீ', 'உ': 'ு', 'ஊ': 'ூ', 'எ': 'ெ', 'ஏ': 'ே', 'ஐ': 'ை', 'ஒ': 'ொ', 'ஓ': 'ோ', 'ஔ': 'ௌ' };
+        if (last.kind === 'k' && last.v === 'உ' && HARD.has(last.c) && first.c === 'ய') nxt.add(headA + last.c + 'ி' + part);
+        if (last.kind === 'o' && last.c === 'ம' && HARD.has(first.c)) nxt.add(headA + first.c + PULLI + part);
+        if (last.kind === 'o' && 'லள'.includes(last.c) && 'மநஞஙணன'.includes(first.c || '#')) nxt.add(headA + { 'ல': 'ன', 'ள': 'ண' }[last.c] + PULLI + part);
+        if (last.kind === 'o' && last.c === 'ன' && first.c === 'ந') nxt.add(headA + 'ந' + PULLI + part);
+        if (last.kind === 'k' && last.v === 'உ' && HARD.has(last.c) && first.c === last.c && A.length > 1) nxt.add(headA + part);
+        if (last.kind === 'o' && 'லள'.includes(last.c) && first.c === 'த') nxt.add(headA + first.text.replace('த', { 'ல': 'ற', 'ள': 'ட' }[last.c]) + restB);
+        if (last.kind === 'o' && last.c === 'ன' && first.c === 'த') nxt.add(headA + 'ற' + PULLI + first.text.replace('த', 'ற') + restB);
+        if (last.kind === 'k' && last.v === 'அ' && last.c && !first.c && (first.kind === 'k' || first.kind === 'n')) nxt.add(headA + last.c + VS[first.v] + restB);
         if (A.length > 1 && last.text === 'மை') {
           // a quality noun drops மை: கருமை + கோல் -> கருங்கோல்
           nxt.add(headA + part);

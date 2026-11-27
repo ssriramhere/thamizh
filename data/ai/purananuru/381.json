@@ -368,27 +368,37 @@
   {
    "words": [
     {
-     "surface": "யாம்தன்",
+     "surface": "யாம்",
      "parts": [
       {
-       "text": "யாம்தன்",
-       "lemma": "யாம்தன்",
-       "gloss": ""
+       "text": "யாம்",
+       "lemma": "யாம்",
+       "gloss": "we (exclusive)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we"
     },
     {
-     "surface": "அறியுநமாகத்",
+     "surface": "தன்",
      "parts": [
       {
-       "text": "அறியுநமாகத்",
-       "lemma": "அறியுநமாகத்",
-       "gloss": ""
+       "text": "தன்",
+       "lemma": "தான்",
+       "gloss": "himself (oblique)"
       }
      ],
-     "gloss": "",
+     "gloss": "him"
+    },
+    {
+     "surface": "அறியுநமாக",
+     "parts": [
+      {
+       "text": "அறியுநமாக",
+       "lemma": "அறியுநமாக",
+       "gloss": "as we are those who know"
+      }
+     ],
+     "gloss": "as we are those who know",
      "split_unverified": true
     },
     {
@@ -397,11 +407,10 @@
       {
        "text": "தான்",
        "lemma": "தான்",
-       "gloss": ""
+       "gloss": "he / himself"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "he"
     },
     {
      "surface": "பெரிது",
@@ -409,14 +418,12 @@
       {
        "text": "பெரிது",
        "lemma": "பெரிது",
-       "gloss": ""
+       "gloss": "greatly / much"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "greatly"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -787,35 +794,42 @@
       {
        "text": "சிதாஅர்",
        "lemma": "சிதாஅர்",
-       "gloss": ""
+       "gloss": "rags"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "ragged/frayed"
     },
     {
      "surface": "வள்பின்",
      "parts": [
       {
-       "text": "வள்பின்",
-       "lemma": "வள்பின்",
-       "gloss": ""
+       "text": "வள்பு",
+       "lemma": "வள்பு",
+       "gloss": "leather strap"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the leather strap"
     },
     {
-     "surface": "சிதர்ப்புறத்",
+     "surface": "சிதர்ப்புறம்",
      "parts": [
       {
-       "text": "சிதர்ப்புறத்",
-       "lemma": "சிதர்ப்புறத்",
-       "gloss": ""
+       "text": "சிதர்",
+       "lemma": "சிதர்",
+       "gloss": "spots"
+      },
+      {
+       "text": "புறம்",
+       "lemma": "புறம்",
+       "gloss": "back"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "spotted back"
     },
     {
      "surface": "தடாரி",
@@ -823,14 +837,12 @@
       {
        "text": "தடாரி",
        "lemma": "தடாரி",
-       "gloss": ""
+       "gloss": "Taṭāri drum"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Taṭāri drum"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -1058,50 +1070,75 @@
       {
        "text": "தெருமரல்",
        "lemma": "தெருமரல்",
-       "gloss": ""
+       "gloss": "distress"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "distress"
     },
     {
      "surface": "உயக்கமும்",
      "parts": [
       {
-       "text": "உயக்கமும்",
-       "lemma": "உயக்கமும்",
-       "gloss": ""
+       "text": "உயக்கம்",
+       "lemma": "உயக்கம்",
+       "gloss": "suffering"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "and"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "and the suffering"
     },
     {
      "surface": "தீர்க்குவெம்",
      "parts": [
       {
-       "text": "தீர்க்குவெம்",
-       "lemma": "தீர்க்குவெம்",
-       "gloss": ""
+       "text": "தீர்",
+       "lemma": "தீர்",
+       "gloss": "end"
+      },
+      {
+       "text": "க்கு",
+       "lemma": "க்கு",
+       "gloss": "causative marker"
+      },
+      {
+       "text": "வ்",
+       "lemma": "வ்",
+       "gloss": "future tense marker"
+      },
+      {
+       "text": "எம்",
+       "lemma": "எம்",
+       "gloss": "we"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "we will remove"
     },
     {
      "surface": "அதனால்",
      "parts": [
       {
-       "text": "அதனால்",
-       "lemma": "அதனால்",
-       "gloss": ""
+       "text": "அது",
+       "lemma": "அது",
+       "gloss": "that"
+      },
+      {
+       "text": "அன்",
+       "lemma": "அன்",
+       "gloss": "oblique increment"
+      },
+      {
+       "text": "ஆல்",
+       "lemma": "ஆல்",
+       "gloss": "instrumental case suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "therefore"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

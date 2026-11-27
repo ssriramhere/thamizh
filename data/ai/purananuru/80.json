@@ -3,28 +3,43 @@
   {
    "words": [
     {
-     "surface": "இன்கடுங்",
+     "surface": "இன்",
      "parts": [
       {
-       "text": "இன்கடுங்",
-       "lemma": "இன்கடுங்",
-       "gloss": ""
+       "text": "இன்",
+       "lemma": "இனிமை",
+       "gloss": "sweet"
       }
      ],
-     "gloss": "",
+     "gloss": "sweet"
+    },
+    {
+     "surface": "கடும்",
+     "parts": [
+      {
+       "text": "கடும்",
+       "lemma": "கடும்",
+       "gloss": "strong"
+      }
+     ],
+     "gloss": "strong",
      "split_unverified": true
     },
     {
      "surface": "கள்ளின்",
      "parts": [
       {
-       "text": "கள்ளின்",
-       "lemma": "கள்ளின்",
-       "gloss": ""
+       "text": "கள்",
+       "lemma": "கள்",
+       "gloss": "toddy"
+      },
+      {
+       "text": "இன்",
+       "lemma": "இன்",
+       "gloss": "of"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "of the toddy"
     },
     {
      "surface": "ஆமூர்",
@@ -32,26 +47,28 @@
       {
        "text": "ஆமூர்",
        "lemma": "ஆமூர்",
-       "gloss": ""
+       "gloss": "Āmūr"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Āmūr (a town)"
     },
     {
      "surface": "ஆங்கண்",
      "parts": [
       {
-       "text": "ஆங்கண்",
-       "lemma": "ஆங்கண்",
-       "gloss": ""
+       "text": "ஆங்கு",
+       "lemma": "ஆங்கு",
+       "gloss": "there"
+      },
+      {
+       "text": "கண்",
+       "lemma": "கண்",
+       "gloss": "place"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "in that place"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -364,23 +381,26 @@
       {
        "text": "போர்",
        "lemma": "போர்",
-       "gloss": ""
+       "gloss": "war"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "war"
     },
     {
-     "surface": "அருந்",
+     "surface": "அரும்",
      "parts": [
       {
-       "text": "அருந்",
-       "lemma": "அருந்",
-       "gloss": ""
+       "text": "அரு",
+       "lemma": "அருமை",
+       "gloss": "difficult"
+      },
+      {
+       "text": "ம்",
+       "lemma": "-ம்",
+       "gloss": "adjectival suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "difficult"
     },
     {
      "surface": "தித்தன்",
@@ -388,23 +408,37 @@
       {
        "text": "தித்தன்",
        "lemma": "தித்தன்",
-       "gloss": ""
+       "gloss": "Tittaṉ (a Chola king)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "Tittaṉ"
     },
     {
-     "surface": "காண்கதில்",
+     "surface": "காண்க",
      "parts": [
       {
-       "text": "காண்கதில்",
-       "lemma": "காண்கதில்",
-       "gloss": ""
+       "text": "காண்",
+       "lemma": "காண்",
+       "gloss": "see"
+      },
+      {
+       "text": "க",
+       "lemma": "-க",
+       "gloss": "optative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "may he see"
+    },
+    {
+     "surface": "தில்",
+     "parts": [
+      {
+       "text": "தில்",
+       "lemma": "தில்",
+       "gloss": "particle of wishing"
+      }
+     ],
+     "gloss": "indeed (particle of wishing)"
     },
     {
      "surface": "அம்ம",
@@ -412,14 +446,12 @@
       {
        "text": "அம்ம",
        "lemma": "அம்ம",
-       "gloss": ""
+       "gloss": "particle of attention"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "lo! / behold!"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

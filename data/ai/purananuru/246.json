@@ -61,55 +61,102 @@
   {
    "words": [
     {
-     "surface": "செல்கெனச்",
+     "surface": "செல்க",
      "parts": [
       {
-       "text": "செல்கெனச்",
-       "lemma": "செல்கெனச்",
-       "gloss": ""
+       "text": "செல்",
+       "lemma": "செல்",
+       "gloss": "go"
+      },
+      {
+       "text": "க",
+       "lemma": "க",
+       "gloss": "optative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "may you go"
+    },
+    {
+     "surface": "என",
+     "parts": [
+      {
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "say"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
+      }
+     ],
+     "gloss": "saying"
     },
     {
      "surface": "சொல்லாது",
      "parts": [
       {
-       "text": "சொல்லாது",
-       "lemma": "சொல்லாது",
-       "gloss": ""
+       "text": "சொல்",
+       "lemma": "சொல்",
+       "gloss": "say"
+      },
+      {
+       "text": "ஆது",
+       "lemma": "ஆது",
+       "gloss": "without (negative verbal participle suffix)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "without saying"
     },
     {
-     "surface": "ஒழிகென",
+     "surface": "ஒழிக",
      "parts": [
       {
-       "text": "ஒழிகென",
-       "lemma": "ஒழிகென",
-       "gloss": ""
+       "text": "ஒழி",
+       "lemma": "ஒழி",
+       "gloss": "stay behind"
+      },
+      {
+       "text": "க",
+       "lemma": "க",
+       "gloss": "optative suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "may you stay behind"
+    },
+    {
+     "surface": "என",
+     "parts": [
+      {
+       "text": "என்",
+       "lemma": "என்",
+       "gloss": "say"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "infinitive suffix"
+      }
+     ],
+     "gloss": "saying"
     },
     {
      "surface": "விலக்கும்",
      "parts": [
       {
-       "text": "விலக்கும்",
-       "lemma": "விலக்கும்",
-       "gloss": ""
+       "text": "விலக்கு",
+       "lemma": "விலக்கு",
+       "gloss": "prevent"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "preventing"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -690,28 +737,37 @@
   {
    "words": [
     {
-     "surface": "பெருங்காட்டுப்",
+     "surface": "பெருங்காட்டு",
      "parts": [
       {
-       "text": "பெருங்காட்டுப்",
-       "lemma": "பெருங்காட்டுப்",
-       "gloss": ""
+       "text": "பெருங்காட்டு",
+       "lemma": "பெருங்காட்டு",
+       "gloss": "of the great cremation ground"
       }
      ],
-     "gloss": "",
+     "gloss": "of the great cremation ground",
      "split_unverified": true
     },
     {
      "surface": "பண்ணிய",
      "parts": [
       {
-       "text": "பண்ணிய",
-       "lemma": "பண்ணிய",
-       "gloss": ""
+       "text": "பண்ணு",
+       "lemma": "பண்ணு",
+       "gloss": "make"
+      },
+      {
+       "text": "இ",
+       "lemma": "இ",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "prepared"
     },
     {
      "surface": "கருங்கோட்டு",
@@ -719,10 +775,10 @@
       {
        "text": "கருங்கோட்டு",
        "lemma": "கருங்கோட்டு",
-       "gloss": ""
+       "gloss": "of black logs"
       }
      ],
-     "gloss": "",
+     "gloss": "of black logs",
      "split_unverified": true
     },
     {
@@ -731,14 +787,12 @@
       {
        "text": "ஈமம்",
        "lemma": "ஈமம்",
-       "gloss": ""
+       "gloss": "funeral pyre"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "funeral pyre"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

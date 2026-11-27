@@ -272,40 +272,63 @@
   {
    "words": [
     {
-     "surface": "தடமருப்",
+     "surface": "தட",
      "parts": [
       {
-       "text": "தடமருப்",
-       "lemma": "தடமருப்",
-       "gloss": ""
+       "text": "தட",
+       "lemma": "தட",
+       "gloss": "broad"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "broad"
     },
     {
-     "surface": "பியானை",
+     "surface": "மருப்பு",
      "parts": [
       {
-       "text": "பியானை",
-       "lemma": "பியானை",
-       "gloss": ""
+       "text": "மருப்பு",
+       "lemma": "மருப்பு",
+       "gloss": "tusk"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "tusk"
+    },
+    {
+     "surface": "யானை",
+     "parts": [
+      {
+       "text": "யானை",
+       "lemma": "யானை",
+       "gloss": "elephant"
+      }
+     ],
+     "gloss": "elephant"
     },
     {
      "surface": "கண்டனர்",
      "parts": [
       {
-       "text": "கண்டனர்",
-       "lemma": "கண்டனர்",
-       "gloss": ""
+       "text": "கண்",
+       "lemma": "காண்",
+       "gloss": "see"
+      },
+      {
+       "text": "ட்",
+       "lemma": "த்",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அன்",
+       "lemma": "அன்",
+       "gloss": "increment"
+      },
+      {
+       "text": "அர்",
+       "lemma": "அர்",
+       "gloss": "they"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "they saw"
     },
     {
      "surface": "தோழி",
@@ -313,14 +336,12 @@
       {
        "text": "தோழி",
        "lemma": "தோழி",
-       "gloss": ""
+       "gloss": "friend"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "O friend"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

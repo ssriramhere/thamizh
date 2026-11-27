@@ -3,16 +3,15 @@
   {
    "words": [
     {
-     "surface": "தேஎங்",
+     "surface": "தேஎம்",
      "parts": [
       {
-       "text": "தேஎங்",
-       "lemma": "தேஎங்",
-       "gloss": ""
+       "text": "தேஎம்",
+       "lemma": "tēm",
+       "gloss": "sweetness/toddy"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sweetness/toddy"
     },
     {
      "surface": "கொண்ட",
@@ -20,38 +19,40 @@
       {
        "text": "கொண்ட",
        "lemma": "கொண்ட",
-       "gloss": ""
+       "gloss": "which contained"
       }
      ],
-     "gloss": "",
+     "gloss": "which contained",
      "split_unverified": true
     },
     {
-     "surface": "வெண்மண்",
+     "surface": "வெண்",
      "parts": [
       {
-       "text": "வெண்மண்",
-       "lemma": "வெண்மண்",
-       "gloss": ""
+       "text": "வெண்",
+       "lemma": "veṇmai",
+       "gloss": "white"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "white"
     },
     {
-     "surface": "டையான்",
+     "surface": "மண்டையான்",
      "parts": [
       {
-       "text": "டையான்",
-       "lemma": "டையான்",
-       "gloss": ""
+       "text": "மண்டை",
+       "lemma": "maṇṭai",
+       "gloss": "bowl"
+      },
+      {
+       "text": "ஆன்",
+       "lemma": "āṉ",
+       "gloss": "he-who-has"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "he who has a bowl"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -98,103 +99,123 @@
       {
        "text": "அவல்",
        "lemma": "அவல்",
-       "gloss": ""
+       "gloss": "flattened rice"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "flattened rice"
     },
     {
      "surface": "வகுத்த",
      "parts": [
       {
-       "text": "வகுத்த",
-       "lemma": "வகுத்த",
-       "gloss": ""
+       "text": "வகு",
+       "lemma": "வகு",
+       "gloss": "fashion"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "hiatus-preventer"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்து",
+       "gloss": "past tense marker"
+      },
+      {
+       "text": "அ",
+       "lemma": "அ",
+       "gloss": "adjectival participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "fashioned"
     },
     {
-     "surface": "பசுங்",
+     "surface": "பசும்",
      "parts": [
       {
-       "text": "பசுங்",
-       "lemma": "பசுங்",
-       "gloss": ""
+       "text": "பசும்",
+       "lemma": "பசுமை",
+       "gloss": "green"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "green"
     },
     {
      "surface": "குடையான்",
      "parts": [
       {
-       "text": "குடையான்",
-       "lemma": "குடையான்",
-       "gloss": ""
+       "text": "குடை",
+       "lemma": "குடை",
+       "gloss": "leaf-vessel"
+      },
+      {
+       "text": "ஆன்",
+       "lemma": "ஆன்",
+       "gloss": "he who has"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "he who has a leaf-vessel"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "புதன்",
+     "surface": "புதல்",
      "parts": [
       {
-       "text": "புதன்",
-       "lemma": "புதன்",
-       "gloss": ""
+       "text": "புதல்",
+       "lemma": "புதல்",
+       "gloss": "bush"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "bush"
     },
     {
-     "surface": "முல்லைப்",
+     "surface": "முல்லை",
      "parts": [
       {
-       "text": "முல்லைப்",
-       "lemma": "முல்லைப்",
-       "gloss": ""
+       "text": "முல்லை",
+       "lemma": "முல்லை",
+       "gloss": "jasmine"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "jasmine"
     },
     {
-     "surface": "பூப்பறிக்",
+     "surface": "பூ",
      "parts": [
       {
-       "text": "பூப்பறிக்",
-       "lemma": "பூப்பறிக்",
-       "gloss": ""
+       "text": "பூ",
+       "lemma": "பூ",
+       "gloss": "flower"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "flower"
     },
     {
-     "surface": "குந்து",
+     "surface": "பறிக்குந்து",
      "parts": [
       {
-       "text": "குந்து",
-       "lemma": "குந்து",
-       "gloss": ""
+       "text": "பறி",
+       "lemma": "பறி",
+       "gloss": "pluck"
+      },
+      {
+       "text": "க்கு",
+       "lemma": "க்கு",
+       "gloss": "present-future marker"
+      },
+      {
+       "text": "உந்து",
+       "lemma": "உந்து",
+       "gloss": "habitual suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "plucking"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

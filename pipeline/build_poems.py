@@ -41,6 +41,30 @@ def speaker_en(sp: str) -> str | None:
     return None
 
 
+def gloss_sync(lines: list[str], ai_lines: list[dict]) -> list[list[list[str]]]:
+    """For each printed word (in recitation order, gaps skipped), the AI words it holds,
+    as [surface, gloss] pairs. Printed groups and separated words are matched by letters."""
+    import difflib
+    out = []
+    for printed, al in zip(lines, ai_lines):
+        pw = [w for w in printed.split() if w != "…"]
+        aw = [w for w in al.get("words", []) if w.get("surface") and w["surface"] != "…"]
+        ps, as_ = "".join(pw), "".join(w["surface"] for w in aw)
+        owner = []                       # which AI word each letter of as_ belongs to
+        for i, w in enumerate(aw):
+            owner += [i] * len(w["surface"])
+        m = {}
+        for a, b, n in difflib.SequenceMatcher(None, ps, as_, autojunk=False).get_matching_blocks():
+            for k in range(n):
+                m[a + k] = b + k
+        pos = 0
+        for w in pw:
+            hit = sorted({owner[m[i]] for i in range(pos, pos + len(w)) if i in m})
+            pos += len(w)
+            out.append([[aw[i]["surface"], aw[i].get("gloss", "")] for i in hit])
+    return out
+
+
 def cap(s: str) -> str:
     return " ".join(w[:1].upper() + w[1:] for w in s.split())
 
@@ -78,6 +102,8 @@ def main() -> None:
             nwords = sum(1 for l in p["lines"] for w in l.split() if w != "…")
             if t.get("male") and t.get("female") and len(t["male"]) == nwords == len(t["female"]):
                 rec["timing"] = {"male": t["male"], "female": t["female"]}
+                if ai and len(ai.get("lines", [])) == len(p["lines"]):
+                    rec["sync"] = gloss_sync(p["lines"], ai["lines"])
             (out / f"{p['n']}.json").write_text(json.dumps(rec, ensure_ascii=False, separators=(",", ":")))
             rows.append({"n": p["n"], "first": p["lines"][0], "poet": col.get("poet_tr", ""), "tinai": p.get("tinai", ""),
                          "tinai_ta": p.get("tinai_ta", ""), "speaker": col.get("speaker_en") or translit(p.get("speaker_ta", "")) or "",

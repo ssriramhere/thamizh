@@ -151,36 +151,49 @@
      "parts": [
       {
        "text": "வாஅள்",
-       "lemma": "வாஅள்",
-       "gloss": ""
+       "lemma": "வாள்",
+       "gloss": "sword"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "sword"
     },
     {
      "surface": "வாய்த்த",
      "parts": [
       {
-       "text": "வாய்த்த",
-       "lemma": "வாய்த்த",
-       "gloss": ""
+       "text": "வாய்",
+       "lemma": "வாய்",
+       "gloss": "to strike"
+      },
+      {
+       "text": "த்த",
+       "lemma": "-த்த",
+       "gloss": "past relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "that struck"
     },
     {
-     "surface": "வடுவாழ்",
+     "surface": "வடு",
      "parts": [
       {
-       "text": "வடுவாழ்",
-       "lemma": "வடுவாழ்",
-       "gloss": ""
+       "text": "வடு",
+       "lemma": "வடு",
+       "gloss": "scar"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "scar"
+    },
+    {
+     "surface": "வாழ்",
+     "parts": [
+      {
+       "text": "வாழ்",
+       "lemma": "வாழ்",
+       "gloss": "to abide"
+      }
+     ],
+     "gloss": "abiding"
     },
     {
      "surface": "யாக்கை",
@@ -188,26 +201,23 @@
       {
        "text": "யாக்கை",
        "lemma": "யாக்கை",
-       "gloss": ""
+       "gloss": "body"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "body"
     },
     {
-     "surface": "யடு",
+     "surface": "அடு",
      "parts": [
       {
-       "text": "யடு",
-       "lemma": "யடு",
-       "gloss": ""
+       "text": "அடு",
+       "lemma": "அடு",
+       "gloss": "with (sociative case suffix)"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "with"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -361,16 +371,31 @@
   {
    "words": [
     {
-     "surface": "ஊறுஅறியா",
+     "surface": "ஊறு",
      "parts": [
       {
-       "text": "ஊறுஅறியா",
-       "lemma": "ஊறுஅறியா",
-       "gloss": ""
+       "text": "ஊறு",
+       "lemma": "ஊறு",
+       "gloss": "injury"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "injury"
+    },
+    {
+     "surface": "அறியா",
+     "parts": [
+      {
+       "text": "அறி",
+       "lemma": "அறி",
+       "gloss": "know"
+      },
+      {
+       "text": "ஆ",
+       "lemma": "ஆ",
+       "gloss": "not"
+      }
+     ],
+     "gloss": "not knowing"
     },
     {
      "surface": "மெய்",
@@ -378,11 +403,10 @@
       {
        "text": "மெய்",
        "lemma": "மெய்",
-       "gloss": ""
+       "gloss": "body"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "body"
     },
     {
      "surface": "யாக்கை",
@@ -390,26 +414,23 @@
       {
        "text": "யாக்கை",
        "lemma": "யாக்கை",
-       "gloss": ""
+       "gloss": "body"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "body"
     },
     {
-     "surface": "யடு",
+     "surface": "அடு",
      "parts": [
       {
-       "text": "யடு",
-       "lemma": "யடு",
-       "gloss": ""
+       "text": "அடு",
+       "lemma": "ஒடு",
+       "gloss": "with"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "with"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
@@ -737,52 +758,64 @@
      "surface": "நின்னை",
      "parts": [
       {
-       "text": "நின்னை",
-       "lemma": "நின்னை",
-       "gloss": ""
+       "text": "நின்",
+       "lemma": "நீ",
+       "gloss": "you"
+      },
+      {
+       "text": "ஐ",
+       "lemma": "ஐ",
+       "gloss": "accusative marker"
       }
      ],
-     "gloss": "",
+     "gloss": "you (accusative)"
+    },
+    {
+     "surface": "வியக்கும்",
+     "parts": [
+      {
+       "text": "விய",
+       "lemma": "விய",
+       "gloss": "wonder"
+      },
+      {
+       "text": "க்",
+       "lemma": "க்",
+       "gloss": "future marker"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "adjectival participle suffix"
+      }
+     ],
+     "gloss": "which marvels at"
+    },
+    {
+     "surface": "இவ்வுலகம்",
+     "parts": [
+      {
+       "text": "இவ்வுலகம்",
+       "lemma": "இவ்வுலகம்",
+       "gloss": "this world"
+      }
+     ],
+     "gloss": "this world",
      "split_unverified": true
     },
     {
-     "surface": "வியக்குமிவ்",
+     "surface": "அ·து",
      "parts": [
       {
-       "text": "வியக்குமிவ்",
-       "lemma": "வியக்குமிவ்",
-       "gloss": ""
+       "text": "அ·து",
+       "lemma": "அ·து",
+       "gloss": "that"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "வுலகம்",
-     "parts": [
-      {
-       "text": "வுலகம்",
-       "lemma": "வுலகம்",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
-     "split_unverified": true
-    },
-    {
-     "surface": "அஃது",
-     "parts": [
-      {
-       "text": "அஃது",
-       "lemma": "அஃது",
-       "gloss": ""
-      }
-     ],
-     "gloss": "",
+     "gloss": "that",
      "split_unverified": true
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [

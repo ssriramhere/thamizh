@@ -92,6 +92,7 @@
       (next ? '<a href="/poem?t=' + slug + '&n=' + next.n + '" aria-label="Next poem, ' + next.n + '">›</a>' : '') + '</div></div>' +
       '<div lang="ta" id="recited" style="font-family:var(--ta);font-size:clamp(20px,2.4vw,25px);line-height:1.75;font-weight:600">' + (window.ThListen ? ThListen.wrap(p.lines) : p.lines.map(esc).join('<br>')) + '</div>' +
       (p.timing ? '<div id="listen"></div>' : '') +
+      (p.sync ? '<div class="nowword" id="nowword" aria-live="off"><span class="muted">Press play: each word\'s meaning shows here as it is read.</span></div>' : '') +
       '<p style="color:#BDBDB8;font-style:italic;font-size:15px">' + p.tr.map(esc).join('<br>') + '</p>' +
       (ai.translation ? '<p class="meaning" style="font-size:20px;font-weight:500">' + esc(ai.translation) + '</p><p class="small" style="color:var(--gold)">AI translation</p>'
         : '<p class="pending">The AI translation is being prepared.</p>') + '</section>' +
@@ -107,7 +108,15 @@
     document.getElementById('side').innerHTML = side(slug, T, p);
     if (p.timing && window.ThListen) {
       const box = document.getElementById('recited');
-      ThListen.bar(document.getElementById('listen'), n, (t) => ThListen.paint(box, p.timing, t), '/audio/' + slug + '/');
+      const now = document.getElementById('nowword');
+      let last = -2;
+      ThListen.bar(document.getElementById('listen'), n, (t) => {
+        const cur = ThListen.paint(box, p.timing, t);
+        if (!now || cur === last) return;
+        last = cur;
+        const g = cur >= 0 && p.sync ? p.sync[cur] : null;
+        if (g && g.length) now.innerHTML = g.map((x) => '<span class="nw"><b lang="ta">' + esc(x[0]) + '</b> ' + esc(x[1] || '') + '</span>').join('');
+      }, '/audio/' + slug + '/');
     }
   }
 

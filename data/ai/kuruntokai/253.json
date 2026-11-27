@@ -434,16 +434,26 @@
   {
    "words": [
     {
-     "surface": "ஆறுசென்",
+     "surface": "ஆறு",
      "parts": [
       {
-       "text": "ஆறுசென்",
-       "lemma": "ஆறுசென்",
-       "gloss": ""
+       "text": "ஆறு",
+       "lemma": "ஆறு",
+       "gloss": "way"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "way"
+    },
+    {
+     "surface": "செல்",
+     "parts": [
+      {
+       "text": "செல்",
+       "lemma": "செல்",
+       "gloss": "go"
+      }
+     ],
+     "gloss": "going"
     },
     {
      "surface": "மாக்கள்",
@@ -451,79 +461,112 @@
       {
        "text": "மாக்கள்",
        "lemma": "மாக்கள்",
-       "gloss": ""
+       "gloss": "people"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "people"
     },
     {
      "surface": "சேக்கும்",
      "parts": [
       {
-       "text": "சேக்கும்",
-       "lemma": "சேக்கும்",
-       "gloss": ""
+       "text": "சே",
+       "lemma": "சே",
+       "gloss": "rest"
+      },
+      {
+       "text": "க்கு",
+       "lemma": "க்கு",
+       "gloss": "future/habitual marker"
+      },
+      {
+       "text": "உம்",
+       "lemma": "உம்",
+       "gloss": "relative participle suffix"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "where they rest"
     }
-   ],
-   "as_printed": true
+   ]
   },
   {
    "words": [
     {
-     "surface": "கோடுயர்",
+     "surface": "கோடு",
      "parts": [
       {
-       "text": "கோடுயர்",
-       "lemma": "கோடுயர்",
-       "gloss": ""
+       "text": "கோடு",
+       "lemma": "கோடு",
+       "gloss": "peak"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "peak"
     },
     {
-     "surface": "பிறங்கன்",
+     "surface": "உயர்",
      "parts": [
       {
-       "text": "பிறங்கன்",
-       "lemma": "பிறங்கன்",
-       "gloss": ""
+       "text": "உயர்",
+       "lemma": "உயர்",
+       "gloss": "be high"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "high"
     },
     {
-     "surface": "மலையிறந்",
+     "surface": "பிறங்கல்",
      "parts": [
       {
-       "text": "மலையிறந்",
-       "lemma": "மலையிறந்",
-       "gloss": ""
+       "text": "பிறங்கல்",
+       "lemma": "பிறங்கல்",
+       "gloss": "eminence"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "eminence"
     },
     {
-     "surface": "தோரே",
+     "surface": "மலை",
      "parts": [
       {
-       "text": "தோரே",
-       "lemma": "தோரே",
-       "gloss": ""
+       "text": "மலை",
+       "lemma": "மலை",
+       "gloss": "mountain"
       }
      ],
-     "gloss": "",
-     "split_unverified": true
+     "gloss": "mountain"
+    },
+    {
+     "surface": "இறந்தோரே",
+     "parts": [
+      {
+       "text": "இற",
+       "lemma": "இற",
+       "gloss": "traverse"
+      },
+      {
+       "text": "ந்",
+       "lemma": "ந்",
+       "gloss": "sandhi"
+      },
+      {
+       "text": "த்",
+       "lemma": "த்",
+       "gloss": "past tense"
+      },
+      {
+       "text": "ஓர்",
+       "lemma": "ஓர்",
+       "gloss": "he-who"
+      },
+      {
+       "text": "ஏ",
+       "lemma": "ஏ",
+       "gloss": "emphasis"
+      }
+     ],
+     "gloss": "he who traversed"
     }
-   ],
-   "as_printed": true
+   ]
   }
  ],
  "literal": "Those who do not listen they will become, O friend, if they hear / Even if that which perishes is an excellent thing, on the bed strewn with flowers / your great beauty which was lost, / after your daily grief is removed, they will not delay indeed / On the lofty mountain slope where rustling bamboos rise high, / in the stone cave smelling of flesh where the tiger obtained its prey, / where people traveling on the path rest, / he who crossed the mountain of lofty peaks.",
