@@ -23,20 +23,15 @@
         <a class="btn" href="/today">Read today's verses</a>
         <a class="btn ghost" href="/letters">Learn the letters</a>
       </div>
+      <nav class="quick" aria-label="Start where you are">
+        <a href="/letters"><span class="who">New to Tamil</span><b>Learn the letters, with sound</b><span class="go" aria-hidden="true">→</span></a>
+        <a href="/kural?today&amp;level=2"><span class="who">I speak it, but can't read</span><b>Follow a verse in English letters</b><span class="go" aria-hidden="true">→</span></a>
+        <a href="/today"><span class="who">I read Tamil</span><b>Read today's verses word by word</b><span class="go" aria-hidden="true">→</span></a>
+        <a href="/kural?today&amp;level=6"><span class="who">I study classical Tamil</span><b>Meter, scansion and explanation</b><span class="go" aria-hidden="true">→</span></a>
+      </nav>
       <p class="live"><span class="dot" aria-hidden="true"></span><b>Live now:</b> <a href="/library#kural-books">Tirukkuṟaḷ</a> 1,330 couplets · <a href="/anthology?t=kuruntokai">Kuṟuntokai</a> 401 poems · <a href="/anthology?t=purananuru">Puṟanāṉūṟu</a> 397 poems</p>
     </div>
     <figure class="quote" id="todays"></figure>
-  </section>
-
-  <section class="wrap block" aria-labelledby="start">
-    <h2 id="start">Start where you are</h2>
-    <p class="muted" style="font-size:17px;margin:8px 0 26px">Every verse opens in layers. Add the next one when you're ready.</p>
-    <div class="cards">
-      <a class="card door" href="/letters"><span class="who">New to Tamil</span><h3>Learn the letters with Āttichūṭi</h3><span class="muted">One vowel and one line of Avvaiyār at a time.</span></a>
-      <a class="card door" href="/kural?today&amp;level=2"><span class="who">I speak it, but can't read</span><h3>Follow a verse in English letters</h3><span class="muted">Then tap each Tamil letter to see what it is.</span></a>
-      <a class="card door" href="/kural?today&amp;level=4"><span class="who">I read Tamil</span><h3>Read classical Tamil word by word</h3><span class="muted">Every word glossed, with the couplet in today's Tamil.</span></a>
-      <a class="card door" href="/kural?today&amp;level=6"><span class="who">I study classical Tamil</span><h3>Meter and explanation</h3><span class="muted">Full scansion: units, feet, linkages and rhyme.</span></a>
-    </div>
   </section>
 
   <section class="wrap block" aria-labelledby="lib">
@@ -44,33 +39,28 @@
       <h2 id="lib">Library</h2>
       <a href="/library" style="font-weight:600">Browse the library →</a>
     </div>
-    <div class="cards">
+    <div class="cards four">
       <a class="card" href="/library#kural-books"><span class="pill live-pill">Live</span><span lang="ta" style="font-size:24px;font-weight:600">திருக்குறள்</span><h3>Tirukkuṟaḷ</h3><span class="muted">1,330 couplets in 133 chapters. Read aloud, with the word being read lit up.</span></a>
       <a class="card" href="/anthology?t=kuruntokai"><span class="pill live-pill">Live</span><span lang="ta" style="font-size:24px;font-weight:600">குறுந்தொகை</span><h3>Kuṟuntokai</h3><span class="muted">401 short love poems, each set in one of the five landscapes.</span></a>
       <a class="card" href="/anthology?t=purananuru"><span class="pill live-pill">Live</span><span lang="ta" style="font-size:24px;font-weight:600">புறநானூறு</span><h3>Puṟanāṉūṟu</h3><span class="muted">Poems of kings and patrons, war, giving and grief. 397 of the 400 survive.</span></a>
-      <div class="card" style="display:flex;flex-direction:column;gap:10px"><span class="pill">Coming</span><span lang="ta" style="font-size:20px;font-weight:600">நற்றிணை · அகநானூறு · ஐங்குறுநூறு</span><h3>More Caṅkam anthologies</h3><span class="muted">Naṟṟiṇai, Akanāṉūṟu and Aiṅkuṟunūṟu.</span></div>
+      <div class="card soon" style="display:flex;flex-direction:column;gap:10px"><span class="pill">Coming</span><span lang="ta" style="font-size:20px;font-weight:600">நற்றிணை · அகநானூறு · ஐங்குறுநூறு</span><h3>More Caṅkam anthologies</h3><span class="muted">Naṟṟiṇai, Akanāṉūṟu and Aiṅkuṟunūṟu.</span></div>
     </div>
   </section>
 
   <section class="wrap block" aria-labelledby="tinai">
     <h2 id="tinai">The landscape tells you the mood</h2>
-    <p class="muted" style="font-size:17px;margin:8px 0 26px;max-width:680px">Every Caṅkam love poem is set in one of five landscapes, its tiṇai. Mountains mean union; the seashore means pining. The landscapes arrive with the Caṅkam poems.</p>
+    <p class="muted" style="font-size:17px;margin:8px 0 26px;max-width:680px">Every Caṅkam love poem is set in one of five landscapes, its tiṇai. Mountains mean union; the seashore means pining. Pick one to read its poems.</p>
     <div class="tinai-strip">
-      <div style="background:var(--kurinci)"><span class="ta">குறிஞ்சி</span><span>Mountains · union</span></div>
-      <div style="background:var(--mullai)"><span class="ta">முல்லை</span><span>Forest · waiting</span></div>
-      <div style="background:var(--marutam)"><span class="ta">மருதம்</span><span>Farmland · quarrel</span></div>
-      <div style="background:var(--neytal)"><span class="ta">நெய்தல்</span><span>Seashore · pining</span></div>
-      <div style="background:var(--palai)"><span class="ta">பாலை</span><span>Parched land · separation</span></div>
+      <a href="/anthology?t=kuruntokai&amp;tinai=kuṟiñci" style="background:var(--kurinci)"><span class="ta">குறிஞ்சி</span><span>Mountains · union</span><span class="n">144 poems in Kuṟuntokai →</span></a>
+      <a href="/anthology?t=kuruntokai&amp;tinai=mullai" style="background:var(--mullai)"><span class="ta">முல்லை</span><span>Forest · waiting</span><span class="n">45 poems in Kuṟuntokai →</span></a>
+      <a href="/anthology?t=kuruntokai&amp;tinai=marutam" style="background:var(--marutam)"><span class="ta">மருதம்</span><span>Farmland · quarrel</span><span class="n">50 poems in Kuṟuntokai →</span></a>
+      <a href="/anthology?t=kuruntokai&amp;tinai=neytal" style="background:var(--neytal)"><span class="ta">நெய்தல்</span><span>Seashore · pining</span><span class="n">70 poems in Kuṟuntokai →</span></a>
+      <a href="/anthology?t=kuruntokai&amp;tinai=pālai" style="background:var(--palai)"><span class="ta">பாலை</span><span>Parched land · separation</span><span class="n">91 poems in Kuṟuntokai →</span></a>
     </div>
   </section>
 
-  <section class="wrap block" aria-labelledby="src">
-    <h2 id="src">How the readings are made</h2>
-    <div class="cards" style="margin-top:24px">
-      <div><h3 style="border-top:3px solid var(--ink);padding-top:14px">Text</h3><p class="muted" style="margin-top:6px">For the Kuṟaḷ, five open digital editions compared couplet by couplet; where they disagree, the reading that scans wins. The Caṅkam poems are from Project Madurai.</p></div>
-      <div><h3 style="border-top:3px solid var(--ink);padding-top:14px">Meter</h3><p class="muted" style="margin-top:6px">A rule engine built on Tolkāppiyam and Yāpparuṅkalakkārikai. No AI decides the meter.</p></div>
-      <div><h3 style="border-top:3px solid var(--ink);padding-top:14px">Translations</h3><p class="muted" style="margin-top:6px">Generated by AI from the Tamil text, the word splits and the scansion, and labelled as such.</p></div>
-    </div>
+  <section class="wrap" style="padding-bottom:56px">
+    <p style="font-size:17px"><a href="/sources#how" style="font-weight:600">How the readings are made →</a> <span class="muted">Where the texts come from, how the meter is scanned, and what AI does here.</span></p>
   </section>
 </main>
 <div data-site-footer></div>

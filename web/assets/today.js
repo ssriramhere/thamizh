@@ -45,8 +45,8 @@
       '<p style="font-size:16px;color:#C8C8C8;font-style:italic">' + (compact ? v.tr.slice(0, lines.length) : v.tr).map(esc).join('<br>') + '</p>' +
       (v.translation ? '<p class="' + (compact ? 'clamp' : '') + '" style="font-size:18px">' + esc(v.translation) + '</p>' : '') +
       (v.audio ? '<div id="vlisten-' + v.id + '"></div>' : '') +
-      (v.audio && v.sync ? '<div class="nowword" id="vnow-' + v.id + '"><span class="muted">Press play: each word\'s meaning shows here as it is read.</span></div>' : '') +
-      '<div class="chips">' + v.feet.map((f) => '<span>' + esc(f.tr) + ' · ' + esc(f.foot) + '</span>').join('') + '</div>' +
+      (v.audio && v.sync ? '<div class="nowword" id="vnow-' + v.id + '"' + (compact ? ' hidden' : '') + '><span class="muted">Press play: each word\'s meaning shows here as it is read.</span></div>' : '') +
+      (compact ? '' : '<div class="chips">' + v.feet.map((f) => '<span>' + esc(f.tr) + ' · ' + esc(f.foot) + '</span>').join('') + '</div>') +
       '<figcaption style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap"><span>' + esc(v.where) + (v.label ? ' · ' + esc(v.label) : '') + '</span>' +
       '<a href="' + v.href + '" style="color:var(--gold);font-weight:600">Read it →</a></figcaption>';
   }
@@ -58,7 +58,7 @@
     let last = -2;
     ThListen.bar(document.getElementById('vlisten-' + v.id), v.n, (t) => {
       const cur = ThListen.paint(box, v.timing, t);
-      if (t != null && t > 0) showAll();     // the whole poem is read, so show all of it
+      if (t != null && t > 0) { showAll(); if (now) now.hidden = false; }   // the whole poem is read, so show all of it
       if (!now || cur === last) return;
       last = cur;
       const g = cur >= 0 && v.sync ? v.sync[cur] : null;
