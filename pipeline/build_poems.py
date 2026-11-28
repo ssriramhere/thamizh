@@ -98,6 +98,8 @@ def main() -> None:
                 col["poet_tr"] = cap(translit(first_text(p["poet_ta"])))
             rec = {"text": slug, "n": p["n"], "lines": p["lines"], "tr": [translit(l) for l in p["lines"]],
                    "colophon": col, "scan": scan, "ai": ai}
+            if p.get("source"):
+                rec["source"] = p["source"]
             t = timings.get(str(p["n"]), {})
             nwords = sum(1 for l in p["lines"] for w in l.split() if w != "…")
             if t.get("male") and t.get("female") and len(t["male"]) == nwords == len(t["female"]):

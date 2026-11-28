@@ -24,7 +24,9 @@
     kuruntokai: 'Tamil text: Project Madurai etext of Kuṟuntokai (pm0110). Etext preparation: Dr. K. Kalyanasundaram, Lausanne, Switzerland. Proofreading: Ms. Sarala Sandirasegarane, Kanpur, India. © Project Madurai.',
     purananuru: 'Tamil text: Project Madurai etext of Puṟanāṉūṟu (pm0057). Etext preparation: staff and students of K.A.P. Viswanatham Higher Secondary School, Tiruchirappalli. Web version: Dr. K. Kalyanasundaram. © Project Madurai.',
   };
-  const credit = (slug) => '<p class="pm-credit">' + CREDIT[slug] + ' <a href="/sources#' + (slug === 'kuruntokai' ? 'pm0110' : 'pm0057') + '">Full credits</a></p>';
+  const credit = (slug, p) => (p && p.source)
+    ? '<p class="pm-credit">' + Th.esc(p.source.note) + ' <a href="/sources#' + p.source.code + '">Full credits</a></p>'
+    : '<p class="pm-credit">' + CREDIT[slug] + ' <a href="/sources#' + (slug === 'kuruntokai' ? 'pm0110' : 'pm0057') + '">Full credits</a></p>';
   const esc = (s) => Th.esc(s == null ? '' : String(s));
 
   function chip(id, taName) {
@@ -157,7 +159,7 @@
       '<p class="eyebrow">Tiṇai</p><p lang="ta" style="font-size:28px;font-weight:700;' + (t ? 'color:' + t.color : '') + '">' + esc(c.tinai_ta || '—') + '</p>' +
       '<p class="muted">' + (t ? t.en + ' · ' + t.land.toLowerCase() + ' · ' + t.mood.toLowerCase() : esc(c.tinai ? c.tinai[0].toUpperCase() + c.tinai.slice(1) : 'Not given in the colophon')) + '</p>' +
       '<dl class="facts">' + rows.map(([k, v]) => '<div><dt>' + k + '</dt><dd>' + v + '</dd></div>').join('') + '</dl>' +
-      '<p class="small muted">From the anthology\'s colophon.</p>' + credit(slug) +
+      '<p class="small muted">From the anthology\'s colophon.</p>' + credit(slug, p) +
       '<div style="display:flex;flex-direction:column;gap:6px;margin-top:6px">' +
       (t ? '<a href="/tinai?t=' + encodeURIComponent(t.id) + '">About ' + t.en + ' →</a>' : '') +
       (c.tinai ? '<a href="/anthology?t=' + slug + '&tinai=' + encodeURIComponent(c.tinai) + '">More ' + (t ? t.en : esc(c.tinai[0].toUpperCase() + c.tinai.slice(1))) + ' poems in ' + T.title + ' →</a>' : '') +

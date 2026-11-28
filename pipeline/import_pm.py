@@ -132,6 +132,10 @@ def main() -> None:
         t = text_of(src / f"{code}.html")
         (hdr / f"{code}-header.txt").write_text(header(t, start), encoding="utf-8")
         poems = fn(t)
+        sup = ROOT / f"data/sources/{name}_supplement.json"   # poems the etext lacks, from another edition
+        if sup.exists():
+            have = {p["n"] for p in poems}
+            poems = sorted(poems + [p for p in json.loads(sup.read_text()) if p["n"] not in have], key=lambda p: p["n"])
         fixes = json.loads((ROOT / "data/corrections_pm.json").read_text()).get(name, {})
         for p in poems:
             f = fixes.get(str(p["n"]))
