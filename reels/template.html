@@ -1,0 +1,114 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- One reel, 1080×1920, drawn from window.DATA (written by make_reel.py). render(t) sets the frame at t seconds. -->
+<link rel="stylesheet" href="node_modules/@fontsource/noto-serif-tamil/400.css">
+<link rel="stylesheet" href="node_modules/@fontsource/noto-serif-tamil/700.css">
+<link rel="stylesheet" href="node_modules/@fontsource/inter/400.css">
+<link rel="stylesheet" href="node_modules/@fontsource/inter/400-italic.css">
+<link rel="stylesheet" href="node_modules/@fontsource/inter/600.css">
+<link rel="stylesheet" href="node_modules/@fontsource/inter/800.css">
+<style>
+html,body{margin:0;background:#161616}
+#f{width:1080px;height:1920px;position:relative;overflow:hidden;background:#161616;color:#F2F2EE;font-family:Inter,sans-serif}
+.ta{font-family:'Noto Serif Tamil',serif}
+.band{position:absolute;top:0;left:0;right:0;height:14px;display:flex}.band i{flex:1}
+.scene{position:absolute;inset:0;opacity:0}
+.top{position:absolute;top:96px;left:84px;right:84px;display:flex;justify-content:space-between;align-items:center;font-size:36px;color:#A8A8A2}
+.eyebrow{font-size:32px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#E8C26A}
+.chip[hidden]{display:none}.chip{display:inline-block;background:#F2F2EE;border-radius:999px;padding:8px 22px;font-size:30px;font-weight:600}
+.bar{position:absolute;left:72px;right:72px;bottom:96px;height:8px;background:#2E2E2C;border-radius:4px}
+.bar i{display:block;height:8px;background:#E8C26A;border-radius:4px}
+.w{border-radius:12px;padding:0 6px;margin:0 -6px}
+.on{background:#E8C26A;color:#161616}
+.todo{color:#6E6E69}
+#win{position:absolute;left:72px;right:72px;top:250px;height:1150px;overflow:hidden;-webkit-mask-image:linear-gradient(transparent 0,#000 110px,#000 calc(100% - 60px),transparent 100%)}
+#lines{position:absolute;left:0;right:0;top:0;display:flex;flex-direction:column}
+.ln{display:flex;flex-direction:column;gap:6px}
+.tl{color:#A8A8A2;font-style:italic}
+#mean{position:absolute;left:72px;right:72px;top:1450px;min-height:250px;border-top:2px solid #2E2E2C;padding-top:34px;display:flex;flex-wrap:wrap;gap:18px 40px;align-content:flex-start}
+#mean .m{font-size:46px;line-height:1.3}#mean .m b{font-family:'Noto Serif Tamil',serif;color:#E8C26A;font-weight:700;margin-right:14px}
+</style></head>
+<body><div id="f">
+<div class="band"><i style="background:#4B3F8F"></i><i style="background:#2F6B3A"></i><i style="background:#8A5A00"></i><i style="background:#1F5F8B"></i><i style="background:#A8321F"></i></div>
+
+<div class="scene" id="s1">
+  <div style="position:absolute;left:84px;right:84px;bottom:420px;display:flex;flex-direction:column;gap:40px">
+    <div class="eyebrow">Today's verses · thamizh.ai</div>
+    <div id="hook" style="font-size:86px;font-weight:800;line-height:1.15;letter-spacing:-.01em"></div>
+    <div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap"><span id="ref1" style="font-size:44px;color:#A8A8A2"></span><span class="chip" id="chip1" hidden></span></div>
+  </div>
+</div>
+
+<div class="scene" id="s2">
+  <div class="top"><span><span class="ref" style="color:#F2F2EE;font-weight:600"></span> <span class="sub"></span></span><span style="color:#E8C26A">♪ recitation</span></div>
+  <div id="win"><div id="lines"></div></div>
+  <div id="mean"></div>
+</div>
+
+<div class="scene" id="s3">
+  <div class="top"><span class="ref" style="color:#F2F2EE;font-weight:600"></span><span style="color:#E8C26A">translation</span></div>
+  <div style="position:absolute;left:84px;right:84px;top:400px;display:flex;flex-direction:column;gap:56px">
+    <div id="tr" style="font-weight:600;line-height:1.32"></div>
+    <div id="trnote" style="font-size:34px;color:#6E6E69">AI translation · thamizh.ai</div>
+  </div>
+</div>
+
+<div class="scene" id="s4">
+  <div style="position:absolute;left:96px;right:96px;top:500px;display:flex;flex-direction:column;gap:40px">
+    <div class="eyebrow" style="font-size:38px">One word</div>
+    <div class="ta" id="wta" style="font-size:150px;font-weight:700;line-height:1.25"></div>
+    <div id="wtr" style="font-size:60px;color:#A8A8A2;font-style:italic"></div>
+    <div id="wen" style="font-size:72px;font-weight:600;line-height:1.2"></div>
+    <div id="wnote" style="font-size:44px;line-height:1.5;color:#A8A8A2"></div>
+  </div>
+</div>
+
+<div class="scene" id="s5">
+  <div style="position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:56px;padding:96px">
+    <div style="width:260px;height:260px;border-radius:56px;background:#F2F2EE;color:#161616;display:grid;place-items:center"><span class="ta" style="font-size:170px;font-weight:700;line-height:1;margin-top:-18px">ழ</span></div>
+    <div id="endh" style="font-size:84px;font-weight:800">Read it word by word</div>
+    <div style="font-size:46px;line-height:1.45;color:#C8C8C2">Every word's meaning, the meter,<br>and the recitation. Free.</div>
+    <div id="link" style="background:#E8C26A;color:#161616;border-radius:24px;padding:28px 44px;font-size:44px;font-weight:600"></div>
+    <div style="font-size:40px;color:#A8A8A2">A new verse every day</div>
+  </div>
+</div>
+
+<div class="bar"><i id="pb" style="width:0"></i></div>
+</div>
+<script src="data.js"></script>
+<script>
+const D=window.DATA,$=id=>document.getElementById(id),E=s=>String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+$('hook').textContent=D.hook; $('ref1').textContent=D.ref+(D.sub?' · '+D.sub:'');
+if(D.label){const c=$('chip1');c.hidden=false;c.textContent=D.label;c.style.color=D.accent||'#161616';}
+document.querySelectorAll('.ref').forEach(e=>e.textContent=D.ref); document.querySelectorAll('.sub').forEach(e=>e.textContent=D.label?'· '+D.label:'');
+$('tr').textContent=D.translation; if(D.more>0) $('trnote').textContent='AI translation of these lines · thamizh.ai'; $('tr').style.fontSize=(D.translation.length>320?46:D.translation.length>180?54:64)+'px';
+$('wta').textContent=D.word.ta; $('wtr').textContent=D.word.tr; $('wen').textContent='“'+D.word.en+'”'; $('wnote').textContent=D.word.note||'';
+$('link').textContent=D.link;
+if(D.more>0){$('endh').innerHTML='Read the whole poem';
+  $('lines').insertAdjacentHTML('beforeend','<div class="tl" style="font-size:32px;margin-top:10px">… '+D.more+' more lines at thamizh.ai</div>');}
+// verse lines: one span per printed word, gaps (…) left as they are
+const short=D.lines.length<=2, fs=short?70:(D.lines.length<=8?54:50), ts=short?36:30;
+let wi=0; const spans=[];
+$('lines').style.gap=(short?70:30)+'px';
+$('lines').innerHTML=D.lines.map((l,k)=>'<div class="ln"><div class="ta" style="font-size:'+fs+'px;line-height:1.5">'+
+  l.split(' ').map(w=>w==='…'?'<span class="todo">…</span>':'<span class="w todo" data-i="'+(wi++)+'">'+E(w)+'</span>').join(' ')+
+  '</div><div class="tl" style="font-size:'+ts+'px">'+E(D.tr[k]||'')+'</div></div>').join('');
+document.querySelectorAll('#lines .w').forEach(s=>spans[+s.dataset.i]=s);
+const lineOf=spans.map(s=>s.closest('.ln'));
+if(short){$('win').style.top='520px';$('mean').style.top='1300px';}
+function ease(x){return x<0?0:x>1?1:x*x*(3-2*x)}
+let lastCur=-2;
+window.render=function(t){
+  for(const [id,[a,b]] of Object.entries(D.scenes)){const fi=ease((t-a)/0.45),fo=ease((b-t)/0.45);$(id).style.opacity=Math.min(fi,id=='s5'?1:fo).toFixed(3);}
+  let cur=-1; for(let i=0;i<D.timing.length;i++){if(t>=D.timing[i][0])cur=i;}
+  if(t>D.timing[D.timing.length-1][1]+0.4)cur=D.timing.length;
+  spans.forEach((s,i)=>{s.className='w '+(i===cur?'on':i<cur?'':'todo');});
+  // keep the line being read in view
+  if(!short){const ln=lineOf[Math.max(0,Math.min(cur,spans.length-1))];const y=Math.max(0,ln.offsetTop-260);
+    const max=Math.max(0,$('lines').scrollHeight-1150);$('lines').style.transform='translateY('+(-Math.min(y,max))+'px)';}
+  if(cur!==lastCur){lastCur=cur;const g=cur>=0&&cur<D.sync.length?D.sync[cur]:null;
+    $('mean').innerHTML=g&&g.length?g.map(x=>'<div class="m"><b>'+E(x[0])+'</b>'+E(x[1]||'')+'</div>').join(''):'';}
+  const a=D.tr_at,e=D.tr_at+D.tr_dur; $('tr').style.color=t<a?'#F2F2EE':(t<e?'#F2F2EE':'#C8C8C2');
+  $('pb').style.width=(Math.min(t/D.total,1)*100).toFixed(2)+'%';};
+window.render(0);
+</script></body></html>

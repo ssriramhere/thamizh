@@ -27,12 +27,13 @@
 <main class="wrap" style="padding-top:44px;padding-bottom:56px;display:flex;flex-direction:column;gap:24px;max-width:860px">
   <div><h1 style="font-size:clamp(30px,4.5vw,44px)">Today's verses</h1>
   <p class="lead" style="margin-top:8px">One verse a day from each text that is live, the same for everyone today. Tomorrow brings the next.</p></div>
+  <section class="card" id="reel" hidden></section>
   <div id="all" style="display:flex;flex-direction:column;gap:24px"></div>
 </main>
 <div data-site-footer></div>
 <script src="/assets/site.js"></script>
 <script src="/assets/listen.js"></script>
 <script src="/assets/today.js"></script>
-<script>ThToday.all(document.getElementById('all'));</script>
+<script>ThToday.reel(document.getElementById('reel')); ThToday.all(document.getElementById('all'));</script>
 </body>
 </html>

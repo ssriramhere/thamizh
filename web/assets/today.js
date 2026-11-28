@@ -70,7 +70,7 @@
   async function tabs(el) {
     const date = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long' });
     el.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap"><p class="eyebrow">Today\'s verses · ' + date + '</p>' +
-      '<a href="/today" style="color:#C8C8C8;font-size:14px">All of today\'s →</a></div>' +
+      '<span style="display:flex;gap:16px;align-items:baseline"><a href="/today#reel" style="color:#E8C26A;font-size:14px;font-weight:600" title="Today\'s reel">▶ Reel</a><a href="/today" style="color:#C8C8C8;font-size:14px">All of today\'s →</a></span></div>' +
       '<div class="vtabs" role="tablist" aria-label="Choose a text">' + TEXTS.map((t, i) => '<button type="button" role="tab" data-id="' + t.id + '" aria-selected="' + (i === 0) + '">' + t.short + '</button>').join('') + '</div>' +
       '<div id="vbody" role="tabpanel" aria-live="polite" style="display:flex;flex-direction:column;gap:16px"><p class="pending">Loading…</p></div>';
     const body = el.querySelector('#vbody');
@@ -80,6 +80,52 @@
     };
     el.querySelector('.vtabs').addEventListener('click', (e) => { const b = e.target.closest('[data-id]'); if (b) show(b.dataset.id); });
     show(TEXTS[0].id);
+  }
+
+  // Today's reel on /today: one reel a day, in the voice the reader has chosen.
+  async function reel(el) {
+    let r;
+    try { r = (await Th.json('/data/reels.json')).days[String(day())]; } catch (e) { return; }
+    if (!r) return;
+    const href = r.text === 'kural' ? '/kural?n=' + r.n : '/poem?t=' + r.text + '&n=' + r.n;
+    const file = (v) => '/reels/' + r.text + '-' + r.n + '-' + v + '.mp4';
+    const tags = { kural: '#Thirukkural #திருக்குறள்', kuruntokai: '#Kurunthogai #குறுந்தொகை #SangamLiterature',
+      purananuru: '#Purananuru #புறநானூறு #SangamLiterature' }[r.text] || '';
+    const caption = () => [r.ref + ' · Today\'s verse on Thamizh.ai', r.hook, '', 'Read it word by word: https://thamizh.ai' + href, '', tags + ' #Tamil #செந்தமிழ்'].join('\n');
+    el.innerHTML = '<div class="reelbox">' +
+      '<video id="reelv" controls playsinline preload="none"></video>' +
+      '<div class="reelside"><p class="eyebrow">Today\'s reel</p><h2>' + esc(r.ref) + '</h2>' +
+      '<p class="muted">' + esc(r.hook) + '</p>' +
+      '<p class="muted small">A short video: the verse recited with each word lit and its meaning, then the translation and one word to remember.</p>' +
+      '<div class="reelbtns"><button class="btn primary" id="reelshare" type="button"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>Share reel</button>' +
+      '<a class="btn ghost" id="reeldl" download>Download</a><button class="btn ghost" id="reelcopy" type="button">Copy caption</button></div>' +
+      '<div id="reelvoice" class="light"></div><p class="small muted" id="reelmsg" role="status"></p></div></div>';
+    el.hidden = false;
+    const vid = el.querySelector('#reelv'), dl = el.querySelector('#reeldl'), msg = el.querySelector('#reelmsg');
+    const set = () => { const f = file(ThListen.voice()); vid.poster = f.replace(/\.mp4$/, '.jpg'); vid.src = f; dl.href = f; dl.setAttribute('download', 'thamizh-' + r.text + '-' + r.n + '.mp4'); };
+    set();
+    el.querySelector('#reelvoice').appendChild(ThListen.voiceSwitch(set));
+    const count = (how) => { try { navigator.sendBeacon('/api/share', JSON.stringify({ voice: ThListen.voice(), text: r.text, n: r.n, how })); } catch (e) {} };
+    el.querySelector('#reelcopy').addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(caption()); msg.textContent = 'Caption copied.'; } catch (e) { msg.textContent = 'Could not copy.'; }
+    });
+    dl.addEventListener('click', () => count('download'));
+    el.querySelector('#reelshare').addEventListener('click', async () => {
+      msg.textContent = '';
+      try {
+        const blob = await (await fetch(file(ThListen.voice()))).blob();
+        const f = new File([blob], 'thamizh-' + r.text + '-' + r.n + '.mp4', { type: 'video/mp4' });
+        if (navigator.canShare && navigator.canShare({ files: [f] })) {
+          await navigator.share({ files: [f], text: caption() });
+          count('share');
+          return;
+        }
+        if (navigator.share) { await navigator.share({ title: r.ref, text: caption(), url: 'https://thamizh.ai/today' }); count('link'); return; }
+        await navigator.clipboard.writeText(caption());
+        msg.textContent = 'This browser can\'t share video. The caption is copied; use Download to get the video.';
+        count('copy');
+      } catch (e) { if (e && e.name !== 'AbortError') msg.textContent = 'Could not share. Try Download.'; }
+    });
   }
 
   // The /today page: every live text, one after another.
@@ -92,5 +138,5 @@
     }
   }
 
-  window.ThToday = { tabs, all, TEXTS };
+  window.ThToday = { tabs, all, reel, TEXTS };
 })();

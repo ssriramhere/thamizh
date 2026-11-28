@@ -363,3 +363,14 @@ section.block { padding-top: 56px; padding-bottom: 56px; }
 .hero h1.ta-head { font-family: 'Noto Serif Tamil', serif; font-weight: 700; line-height: 1.4; font-size: clamp(24px, 6.6vw, 50px); }
 @media (min-width: 900px) { .hero h1.ta-head { font-size: clamp(30px, 3.3vw, 42px); } }
 .hero .tagline { font-size: clamp(18px, 1.8vw, 22px); font-weight: 600; margin: 4px 0; }
+
+/* Today's reel */
+#reel { padding: 24px; }
+.reelbox { display: grid; grid-template-columns: minmax(0, 240px) 1fr; gap: 28px; align-items: start; }
+.reelbox video { width: 100%; aspect-ratio: 9 / 16; border-radius: 14px; background: #161616; display: block; }
+.reelside { display: flex; flex-direction: column; gap: 12px; }
+.reelside .eyebrow, .reelside h2, .reelside p { margin: 0; }
+.reelside h2 { font-size: 26px; }
+.reelbtns { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 4px; }
+.reelbtns .btn { display: inline-flex; gap: 8px; align-items: center; }
+@media (max-width: 600px) { .reelbox { grid-template-columns: 1fr; } .reelbox video { max-width: 260px; margin: 0 auto; } }
