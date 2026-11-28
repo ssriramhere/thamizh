@@ -32,11 +32,9 @@
       '<span>Built by Sriram Subramanian using AI · <a class="contact" href="#">Contact</a> · <a href="/sources">Sources and credits</a> · <a href="https://github.com/ssriramhere/thamizh">Source on GitHub</a></span>' +
       '<span>Translations and explanations are AI-generated.</span>' +
       '</div></footer>';
-    const c = el.querySelector('.contact');
-    c.addEventListener('click', (e) => {
-      e.preventDefault();
-      location.href = 'mailto:' + ['sriram', 'sriramhere.com'].join('@');
-    });
+    // assembled here so the address isn't in the page for scrapers
+    el.querySelector('.contact').href = 'mailto:' + ['sriram', 'sriramhere.com'].join('@') +
+      '?subject=' + encodeURIComponent('Thamizh.ai');
   }
 
   header();

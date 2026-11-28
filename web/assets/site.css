@@ -358,3 +358,8 @@ section.block { padding-top: 56px; padding-bottom: 56px; }
 @media (max-width: 640px) { .quote .listen { flex-wrap: wrap; } }
 .quote .voice button { white-space: nowrap; }
 .cards.four { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+
+/* home headline in Tamil */
+.hero h1.ta-head { font-family: 'Noto Serif Tamil', serif; font-weight: 700; line-height: 1.4; font-size: clamp(24px, 6.6vw, 50px); }
+@media (min-width: 900px) { .hero h1.ta-head { font-size: clamp(30px, 3.3vw, 42px); } }
+.hero .tagline { font-size: clamp(18px, 1.8vw, 22px); font-weight: 600; margin: 4px 0; }
